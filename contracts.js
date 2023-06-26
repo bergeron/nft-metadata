@@ -9,7 +9,7 @@ const util = require("./util.js");
         if (resp?.continuation) url += `?continuation=${resp?.continuation}`;
 
         resp = JSON.parse(await util.retry(() =>
-            util.get(url, {'x-api-key': process.env.RESERVOID_KEY}),
+            util.get(url, {'x-api-key': process.env.RESERVOIR_KEY}),
             error => error?.code == 429 || error?.code >= 500));
 
         for (const collection of resp?.collections ?? []) {
