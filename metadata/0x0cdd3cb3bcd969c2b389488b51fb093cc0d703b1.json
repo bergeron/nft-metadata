@@ -1,0 +1,42 @@
+{
+  "address": "0x0cdd3cb3bcd969c2b389488b51fb093cc0d703b1",
+  "type": "ERC721",
+  "name": "ArtToken-",
+  "tokenCount": "200",
+  "uri": "data:application/json;utf8,{\"name\": \"Token #1\", \"description\": \"This is an example test token, for trying out cool things related to NFTs :) Please note that this token has no value or warranty of any kind.\\n\\n\\\"The future belongs to those who believe in the beauty of their dreams.\\\"\\n-Eleanor Roosevelt\", \"image_data\": \"<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 350 350'><rect width='100%' height='100%' style='fill:rgb(186, 156, 141)' /><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' style='fill:rgb(227, 113, 184);font-family:Courier New;font-size:152px;fill:rgb(146, 136, 131);fill-opacity:.6'>1</text></svg>\", \"attributes\": [ {\"trait_type\": \"Token ID\", \"value\": \"1\"}, {\"trait_type\": \"Font\", \"value\": \"Courier New\"}, {\"trait_type\": \"Font size\", \"value\": \"152\"}, {\"trait_type\": \"Rectangle\", \"value\": \"No\"}, {\"trait_type\": \"Triangle\", \"value\": \"No\"}, {\"trait_type\": \"Circle\", \"value\": \"No\"}, {\"trait_type\": \"Chain ID\", \"value\": \"1\"}]}",
+  "metadata": {
+    "name": "Token #1",
+    "description": "This is an example test token, for trying out cool things related to NFTs :) Please note that this token has no value or warranty of any kind.\n\n\"The future belongs to those who believe in the beauty of their dreams.\"\n-Eleanor Roosevelt",
+    "image_data": "<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 350 350'><rect width='100%' height='100%' style='fill:rgb(186, 156, 141)' /><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' style='fill:rgb(227, 113, 184);font-family:Courier New;font-size:152px;fill:rgb(146, 136, 131);fill-opacity:.6'>1</text></svg>",
+    "attributes": [
+      {
+        "trait_type": "Token ID",
+        "value": "1"
+      },
+      {
+        "trait_type": "Font",
+        "value": "Courier New"
+      },
+      {
+        "trait_type": "Font size",
+        "value": "152"
+      },
+      {
+        "trait_type": "Rectangle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Triangle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Circle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Chain ID",
+        "value": "1"
+      }
+    ]
+  }
+}

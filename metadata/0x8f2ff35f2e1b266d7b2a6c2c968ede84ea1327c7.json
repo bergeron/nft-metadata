@@ -1,0 +1,46 @@
+{
+  "address": "0x8f2ff35f2e1b266d7b2a6c2c968ede84ea1327c7",
+  "type": "ERC721",
+  "name": "Ski Friends",
+  "tokenCount": "1000",
+  "uri": "ipfs://QmaVpgWUKxdjYD5dLrLWNgHpKiJXaGqTXmSLWFZtzvj6bc/1",
+  "metadata": {
+    "name": "Ski Friends #1",
+    "description": "1000 Ski Friends across the Ethereum Blockchain.",
+    "image": "ipfs://QmRPHqvZLS7EWuJepJpjVxFaFmVfntKCX34bxoEsNJjRF3/1.png",
+    "dna": "8fc48c01c59c1b8878a648dec5e094f4d2b4e25d",
+    "edition": 1,
+    "date": 1642630847731,
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Lodge"
+      },
+      {
+        "trait_type": "Ride",
+        "value": "SKIS Neon Rainbow"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "White "
+      },
+      {
+        "trait_type": "Beanie",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Goggle Frame",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Goggle Lens",
+        "value": "Gray Black"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Brewski"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

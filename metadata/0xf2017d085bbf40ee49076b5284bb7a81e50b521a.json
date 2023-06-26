@@ -1,0 +1,22 @@
+{
+  "address": "0xf2017d085bbf40ee49076b5284bb7a81e50b521a",
+  "type": "ERC721",
+  "name": "Micro Mates",
+  "tokenCount": "282",
+  "uri": "https://us-central1-micro-mates-production.cloudfunctions.net/api/serve/1",
+  "metadata": {
+    "image": "https://static.micromates.io/images/uncustomized-cover.png",
+    "name": "Micro Mate #1",
+    "description": "A new Micro Mate ready to be built! Head over to [the laboratory](https://lab.micromates.io) to build it!",
+    "attributes": [
+      {
+        "trait_type_slug": "state",
+        "value": "Unbuilt",
+        "trait_type": "State"
+      }
+    ],
+    "id": 1,
+    "type": "UNCUSTOMIZED",
+    "owner": "0x2F8E921104f23DD0cB01153663A50d7BD4260458"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0xa018e39d42090cd211ce0e2a35d03bc71b1230e8",
+  "type": "ERC721",
+  "name": "The City Theory",
+  "tokenCount": "6",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=059opPpj5kg4fNnDzwBN",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1573577361079?alt=media&token=73a74896-6515-4eaf-8316-2648e742196a",
+    "isForSale": true,
+    "description": "TCT token represents digital artworks - collectibles",
+    "contractAddress": "0xA018e39D42090Cd211CE0e2a35D03BC71b1230e8",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xA018e39D42090Cd211CE0e2a35D03BC71b1230e8/059opPpj5kg4fNnDzwBN",
+    "minter": "0x7272FB9F27bf2b97553ED636bEcF467288cA3302",
+    "mintedOn": {
+      "_seconds": 1573577487,
+      "_nanoseconds": 444000000
+    },
+    "price": "0.005",
+    "name": "The City Theory",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "The City Theory"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "minted": "Minted on Mintbase.io"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "address": "0x0eda3c383f13c36db1c96bd9c56f715b09b9e350",
+  "type": "ERC721",
+  "name": "Avius Animae",
+  "tokenCount": "10000",
+  "uri": "https://aviusanimae.xyz/animae/metadata/1",
+  "metadata": {
+    "date": 1650637819958,
+    "image": "https://aviusanimae.xyz/animae/metadata2/1.png",
+    "name": "#1",
+    "description": "We are 10,000 souls wandering the Ethereum Plane, seeking a new home.",
+    "edition": 1,
+    "attributes": [
+      {
+        "value": "Faint-Light",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Red of Sunset",
+        "trait_type": "Body"
+      },
+      {
+        "value": "Square",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "Cute",
+        "trait_type": "Nose"
+      },
+      {
+        "value": "Drop",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": "Long",
+        "trait_type": "Hair"
+      },
+      {
+        "value": "Drone",
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "No Gifts",
+        "trait_type": "Gifts"
+      },
+      {
+        "value": "No God Occurence",
+        "trait_type": "God Occurrence"
+      }
+    ],
+    "class": "Avius Animae"
+  }
+}

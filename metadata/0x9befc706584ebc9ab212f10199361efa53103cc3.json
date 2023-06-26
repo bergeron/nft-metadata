@@ -1,0 +1,74 @@
+{
+  "address": "0x9befc706584ebc9ab212f10199361efa53103cc3",
+  "type": "ERC721",
+  "name": "Ruohan Wang - Misa Free NFT",
+  "tokenCount": "1",
+  "uri": "ipfs://QmNpEctyfJmUYnMac92q1M9CLFu6Giiz7fn1VASCDT8etA",
+  "metadata": {
+    "name": "Stable movement in an uncertain world",
+    "description": "“I want to bring the audience to a world between real and surreal perception. In it human’s feelings and memories are connected and we drive the universe of perception, self-search and self expression.” - Ruohan Wang\n\nVerisart Certified: https://verisart.com/works/024d5dd5-2327-446c-bad7-de1f1c6d74b6",
+    "image": "ipfs://QmZR1k2sfRJT34iXjnEBnE7zwZGJfV9vw8yqzjKFwL3PdM",
+    "properties": {
+      "verisart": {
+        "productionYear": 2016,
+        "dimensions": {
+          "width": 600,
+          "height": 450,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 9
+        },
+        "frameRate": null,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xcf545b8d8379471ccc4b88ba1518b7fc6a08df0c",
+            "bps": 800
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "external_url": "https://verisart.com/works/024d5dd5-2327-446c-bad7-de1f1c6d74b6",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Ruohan Wang",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2016",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "Stable movement in an uncertain world",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "450x600 px",
+        "display_type": null
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:09",
+        "display_type": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "address": "0xa7e1ab8ed81f93eac05609c62be3bcd70517ffb7",
+  "type": "ERC721",
+  "name": "BARRELX",
+  "tokenCount": "129",
+  "uri": "https://storage.googleapis.com/barrelx_metadata/1",
+  "metadata": {
+    "description": "This NFT represents 1/10th of a physical barrel of bourbon as described in the metadata.  It is stored just south of Lexington, Ky and is redeemable after aging exactly 4 years.",
+    "name": "BARRELX - Token ID 1",
+    "attributes": [
+      {
+        "trait_type": "Original DSP",
+        "value": "Wilderness Trail - WE"
+      },
+      {
+        "trait_type": "Location",
+        "value": "37.63164611130081, -84.5706055020168"
+      },
+      {
+        "trait_type": "Barrel Number",
+        "value": 65822
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Last Fill Date",
+        "value": 1647399600
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Bottling Date",
+        "value": 1773543600
+      },
+      {
+        "trait_type": "Mash Bill",
+        "value": "64C/24R/12M"
+      },
+      {
+        "trait_type": "Spirit Type",
+        "value": "Bourbon Rye Recipe"
+      }
+    ],
+    "image": "https://firebasestorage.googleapis.com/v0/b/barrelx-prod.appspot.com/o/barrels%2Foption1.png?alt=media&token=18012746-f344-411a-9056-77281ce4ea83",
+    "background_color": "000000",
+    "animation_url": "https://marketplace.barrelx.com/nft/1"
+  }
+}

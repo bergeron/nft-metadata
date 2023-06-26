@@ -1,0 +1,50 @@
+{
+  "address": "0xb044b5fdbd67fec816921873fbeefc1173e7bcc0",
+  "type": "ERC721",
+  "name": "Loodle Friends",
+  "tokenCount": "102",
+  "uri": "ipfs://QmexEPsSdupV4Ev52RrvHiV6LeanZoRmNTo8e143d11yvG/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "Welcome to Loodle Friends! We are a collection of 5,000 friends that are ready to take over the blockchain.",
+    "external_url": "",
+    "image": "ipfs://QmZXfd9LyT9bV9oKzA1c2RDSkr2iSz6cjne2uiPzJuGGr7/1.png",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pale"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Watermelon Hoodie"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Green Pom Poms"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "Tough Face"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Aviators"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

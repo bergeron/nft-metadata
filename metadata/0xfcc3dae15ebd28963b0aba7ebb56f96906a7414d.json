@@ -1,0 +1,81 @@
+{
+  "address": "0xfcc3dae15ebd28963b0aba7ebb56f96906a7414d",
+  "type": "ERC721",
+  "name": "DeVonta Smith Trading Card",
+  "tokenCount": "18",
+  "uri": "https://arweave.net/OJXQGxGzpslbMr7rS00OYb-FjyUABmfJHp4WVnfW_dk",
+  "metadata": {
+    "name": "DeVonta Smith Football Card #1",
+    "symbol": "ENDSTATE",
+    "description": "This limited edition football card commemorates DeVonta Smith’s 2022 NFL season, during which Smith recorded 1,196 receiving yards across 95 receptions. DeVonta Smith now holds the Philadelphia Eagles single season record for receptions by a wide receiver. Only 267 cards were printed, one for each owner of Smith's first signature sneaker - The Honey Drip. ",
+    "image": "https://arweave.net/9bQNipzB7BvFpCKNACZvnGGFUWAqVkbwWdscPhVrroE",
+    "animation_url": "https://arweave.net/CDgwyiqohyzfo67x0vhl4Wz08dBvpGbqWJCOi0XCFmE",
+    "external_url": "https://mint.endstate.io/DeVontaSmith",
+    "seller_fee_basis_points": 500,
+    "properties": {
+      "files": [
+        {
+          "uri": "https://arweave.net/9bQNipzB7BvFpCKNACZvnGGFUWAqVkbwWdscPhVrroE",
+          "type": "image/gif"
+        }
+      ],
+      "category": "video",
+      "creators": [
+        {
+          "address": "0xC39d677b064D263CbF2d090D79d28675471b661e",
+          "share": 100
+        }
+      ]
+    },
+    "endstate": {
+      "isRedeemed": true,
+      "drop": "DeVonta Smith Football Card"
+    },
+    "attributes": [
+      {
+        "trait_type": "Release",
+        "value": "DeVonta Smith x Endstate - Football Card"
+      },
+      {
+        "trait_type": "Collaborator",
+        "value": "DeVonta Smith"
+      },
+      {
+        "trait_type": "Designer",
+        "value": "David Filar"
+      },
+      {
+        "trait_type": "Made In",
+        "value": "USA"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Football Stadium"
+      },
+      {
+        "trait_type": "Season",
+        "value": 2022
+      },
+      {
+        "trait_type": "Receptions",
+        "value": 95
+      },
+      {
+        "trait_type": "Yards",
+        "value": 1196
+      },
+      {
+        "trait_type": "Touchdowns",
+        "value": 7
+      },
+      {
+        "trait_type": "Cheesesteak Games",
+        "value": 4
+      },
+      {
+        "trait_type": "Physical Redeemed",
+        "value": "Yes"
+      }
+    ]
+  }
+}

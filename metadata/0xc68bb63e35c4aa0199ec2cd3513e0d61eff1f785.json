@@ -1,0 +1,54 @@
+{
+  "address": "0xc68bb63e35c4aa0199ec2cd3513e0d61eff1f785",
+  "type": "ERC721",
+  "name": "MOS Technology 6502",
+  "tokenCount": "58",
+  "uri": "https://ipfs.pixura.io/ipfs/QmUtAMnmPCmq6aharE4B9Xo5CCwaBGU7wYxNzwzGWFGm6N/metadata.json",
+  "metadata": {
+    "name": "6502_0000",
+    "createdBy": "VJ Entter",
+    "yearCreated": "2022",
+    "description": "Artwork made with sound and visuals generated from vintage hardware and software. Vertical exhibition format 9:16.",
+    "image": "https://ipfs.pixura.io/ipfs/QmYQ61qeaAtjrEsNU6hmjfTc6VQptvW4NGCvAzuyzJ6sKo/6502_0000gif-414x414.gif",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmaTCPqK3tqtL9HW35QpjGKHdZ5pjw3BHpJ4XCPhxMtX3u/6502_0000.mp4",
+      "dimensions": "1920x1080",
+      "size": "22383671",
+      "mimeType": "video/mp4"
+    },
+    "tags": [
+      "noise",
+      "C64"
+    ],
+    "attributes": [
+      {
+        "trait_type": "Asset Type",
+        "value": "Edition"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Entter"
+      },
+      {
+        "trait_type": "Device",
+        "value": "C-64"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "m0ndr14n"
+      },
+      {
+        "trait_type": "Code",
+        "value": "BASIC"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Noise"
+      },
+      {
+        "trait_type": "Sound",
+        "value": "MOS6581 SID"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0xf827e010d19d4dde428d7da00a2a0dfbede57921",
+  "type": "ERC721",
+  "name": "BEL V2",
+  "tokenCount": "2",
+  "uri": "data:application/json,{\"name\":\"BEL Allocation Voucher #1 - 0.00 - OneTime\", \"description\":\"Voucher #1 of BEL allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade BEL's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!\",\"image\": \"https://imgurl.solv.finance/meta/images/avBEL/1.png\",\"external_url\":\"https://app.solv.finance/avBEL/1\", \"properties\": {\"owner\":\"0xb489a4b302928795e4a1fab67f5d6ceeb8a25818\",\"underlying\":\"0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14\",\"underlyingSymbol\":\"BEL\",\"vestingAmount\":\"10000.000000000000000000\",\"principal\":\"0.000000000000000000\",\"claimType\":\"OneTime\",\"claimableAmount\":\"0.000000000000000000\",\"percentages\":[\"100.00%\"],\"maturities\":[1635552000]}}",
+  "metadata": {
+    "name": "BEL Allocation Voucher #1 - 0.00 - OneTime",
+    "description": "Voucher #1 of BEL allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade BEL's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!",
+    "image": "https://imgurl.solv.finance/meta/images/avBEL/1.png",
+    "external_url": "https://app.solv.finance/avBEL/1",
+    "properties": {
+      "owner": "0xb489a4b302928795e4a1fab67f5d6ceeb8a25818",
+      "underlying": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
+      "underlyingSymbol": "BEL",
+      "vestingAmount": "10000.000000000000000000",
+      "principal": "0.000000000000000000",
+      "claimType": "OneTime",
+      "claimableAmount": "0.000000000000000000",
+      "percentages": [
+        "100.00%"
+      ],
+      "maturities": [
+        1635552000
+      ]
+    }
+  }
+}

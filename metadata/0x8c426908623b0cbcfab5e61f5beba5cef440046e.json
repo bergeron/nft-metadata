@@ -1,0 +1,32 @@
+{
+  "address": "0x8c426908623b0cbcfab5e61f5beba5cef440046e",
+  "type": "ERC721",
+  "name": "Flux Art",
+  "tokenCount": "57",
+  "uri": "https://dcl-dapp-craft.storage.googleapis.com/fluxart1/metadata/1",
+  "metadata": {
+    "attributes": [
+      {
+        "display_type": "number",
+        "max_value": 22,
+        "trait_type": "Step",
+        "value": 13
+      },
+      {
+        "display_type": "number",
+        "max_value": 180,
+        "trait_type": "Opening period in days",
+        "value": 60
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Last Update",
+        "value": "1632030017"
+      }
+    ],
+    "description": "LIVE FLUCTUATING ARTWORKS",
+    "external_url": "https://fluxart.io/",
+    "image": "https://dcl-dapp-craft.storage.googleapis.com/fluxart1/img/d64c5a913c451c610d7926369cf3dfd513f7a930f9927b1ee01f8063bea91f48.mp4",
+    "name": "FluxArt #1"
+  }
+}

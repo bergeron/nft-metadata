@@ -1,0 +1,46 @@
+{
+  "address": "0x660d2d2a2c40dcf910498c7972cb4716cdd28543",
+  "type": "ERC721",
+  "name": "Swamp Puppies",
+  "tokenCount": "100",
+  "uri": "https://bafybeia3dd4z27xjuynvllcugf3cbpq4d7nvfliyjyyy4vbxhsz63xhchq.ipfs.w3s.link/1.json",
+  "metadata": {
+    "name": "Swamp Puppies #1",
+    "description": "Home of 1000 unique Swamp Puppies! These puppies crawled to the blockchain to bring all the swamp-coolness to your pfp. #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Jungle"
+      },
+      {
+        "trait_type": "Swamp Puppy",
+        "value": "Chomper"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Purp"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Lolly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Bling"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0xfC6A6F5cdaF645F50d2449eD30c58d2297BDfb4f",
+        "share": 100
+      }
+    ],
+    "collection": {
+      "name": "Swamp Puppies",
+      "family": ""
+    },
+    "symbol": "SWP",
+    "seller_fee_basis_points": 5,
+    "image": "https://bafybeigfrliip7jeki3h6zpq7dp3uoq3bkwh2n6shkruq7bltit4nqdvrm.ipfs.w3s.link/1.png"
+  }
+}

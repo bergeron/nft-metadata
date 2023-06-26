@@ -1,0 +1,41 @@
+{
+  "address": "0xa038c88c06899fd18f6c755aa952dcd4630f0ff3",
+  "type": "ERC721",
+  "name": "Naughty Nuggets",
+  "tokenCount": "50",
+  "uri": "ipfs://QmS8c3zQ5PkCN3YhRJu5c746k5Bz1Auz9iVDmYS3sVprYm/1.json",
+  "metadata": {
+    "name": "Naughty Nugget #1",
+    "description": "A collection of SPICY chicken nuggets living on the Ethereum Blockchain.",
+    "image": "ipfs://QmcTvr3HpsNZvZUTyKg1KsJuy6VDiD6Gcro9GzHqUf5J4p/1.png",
+    "edition": 1,
+    "date": 1650308176528,
+    "attributes": [
+      {
+        "trait_type": "Room",
+        "value": "Turquoise"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Naughty Camo"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy Blue Redeye"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Open Wide"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald"
+      },
+      {
+        "trait_type": "Item",
+        "value": "Silver Toy"
+      }
+    ],
+    "compiler": "AlienLab Art Engine"
+  }
+}

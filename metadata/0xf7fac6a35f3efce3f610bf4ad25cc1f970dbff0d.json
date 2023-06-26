@@ -1,0 +1,29 @@
+{
+  "address": "0xf7fac6a35f3efce3f610bf4ad25cc1f970dbff0d",
+  "type": "ERC721",
+  "name": "PokemonFirstGeneration",
+  "tokenCount": "6",
+  "uri": "ipfs://bafybeiaqu7dwyb2wg6splofpvvrcrpu6zzv4nctsbemxu5woxs4gtlr7lu/1.json",
+  "metadata": {
+    "name": "Pokémon #230",
+    "description": "Gotta Catch ’Em All",
+    "fee_recipient": "0x2AF8193f65934CCe3f3f0C21044A82Bc9dC2109f",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://bafybeiapkugxn4fn6vtvw444k5rph7fonydsahxnk5y6hptbmuxk4ublpy/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Face",
+        "value": "059"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 298,
+        "display_type": "number"
+      }
+    ]
+  }
+}

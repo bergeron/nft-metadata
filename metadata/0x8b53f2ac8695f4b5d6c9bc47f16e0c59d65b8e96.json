@@ -1,0 +1,32 @@
+{
+  "address": "0x8b53f2ac8695f4b5d6c9bc47f16e0c59d65b8e96",
+  "type": "ERC1155",
+  "name": "FraktalNFTFrankenPunks",
+  "tokenCount": "2",
+  "uri": "ipfs://QmcSeGK9Br94yvawZihooVDXFu3W9dcnhCryLU96kYJk6v/1207.json",
+  "metadata": {
+    "name": "#1207",
+    "description": "We're a community-based collectibles project featuring art by 3D Punks. 3D FrankenPunks come in an evil array of shapes, traits, and sizes with a few surprises along the way. The collection size is 10,000. Each FrankenPunk allows its owner to vote on creating experiences and influencing project developments which are paid for by the Punksville Community Treasury.",
+    "image": "ipfs://QmQYa6JwYnecVr1JZ3EMug5hrgcoegSAZaBR2pvc8P9ZUi/1207.png",
+    "edition": 1207,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Male Mid"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Closed Mouth"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Dark Living Mohawk"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Small Shades"
+      }
+    ],
+    "compiler": "FrankenPunks Generator"
+  }
+}

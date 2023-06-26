@@ -1,0 +1,58 @@
+{
+  "address": "0xa4b9432c70c522951e8d40e1318e6ec41ae954f1",
+  "type": "ERC1155",
+  "name": "Seasonal Moose",
+  "tokenCount": "7",
+  "uri": "https://arweave.net/MNnkqR2ieWwcPs1bz2QBSD9U_1jCjSbwS7NF9Gr2dHg",
+  "metadata": {
+    "name": "Seasonal Moose - Trippy Moose 2023",
+    "created_by": "Jigsaw",
+    "description": "The Seasonal Moose is a magical moose, only 365 exist, and every season they change both in appearance, but in music too!\n\nOooooOoooo!\n\nYou can burn your Seasonal Moose to redeem a permanent edition of the current season here:  \nhttps://app.manifold.xyz/br/TrippyMoose2023",
+    "external_url": "https://twitter.com/JigsawGeneral",
+    "attributes": [
+      {
+        "trait_type": "Current Season",
+        "value": "Trippy Moose - 2023"
+      },
+      {
+        "trait_type": "Song",
+        "value": "Flip Another Card by Jigsaw"
+      },
+      {
+        "trait_type": "Art",
+        "value": "Jigsaw (McKay Voiles)"
+      },
+      {
+        "trait_type": "Resolution",
+        "value": "4000x4000"
+      },
+      {
+        "trait_type": "Framerate",
+        "value": "24"
+      }
+    ],
+    "animation_details": {
+      "bytes": 87999936,
+      "format": "MP4",
+      "duration": 18,
+      "sha256": "94b3998013d05d4a182097262605dc03100d8cbb63a34518cf65f65f542ce30c",
+      "width": 4000,
+      "height": 4000,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/giUWVYCABGm5kXAOW5XpcmFpdBSmWkYvavBL5iktcpk",
+    "animation_url": "https://arweave.net/giUWVYCABGm5kXAOW5XpcmFpdBSmWkYvavBL5iktcpk",
+    "image_details": {
+      "bytes": 19257926,
+      "format": "PNG",
+      "sha256": "335aa9236092878b8afd0ccc00133e7890026eb4f0ccb63a0bea6eaabf37ba90",
+      "width": 4000,
+      "height": 4000
+    },
+    "image": "https://arweave.net/_4XkLsytDtORgBpC0ERokw8nXD4O0PnCKWW9FcrjxQ8",
+    "image_url": "https://arweave.net/_4XkLsytDtORgBpC0ERokw8nXD4O0PnCKWW9FcrjxQ8"
+  }
+}

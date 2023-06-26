@@ -1,0 +1,91 @@
+{
+  "address": "0x5436fbb39abb06593d7c47031ce7d346bd70d462",
+  "type": "ERC721",
+  "name": "Fragments of an Infinite Field by Monica Rizzolli V4",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/159000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "159000001",
+    "series": 4,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Fragments of an Infinite Field #1",
+    "minted": true,
+    "artist": "Monica Rizzolli",
+    "description": "“Fragments of an infinite field” is a compositional system in which an idealized plant species is generated and arranged in a potentially infinite field of foliage. The main environmental parameter of the composition is the determination of a season of the year. The season determines the landscape’s colors and defines specific phenomena for each of them, such as rain in summer, snow in winter, petals falling in autumn, and pollen in spring. The flower has several possible variables, which can be macro aspects, affecting the entire population of the species, or micro, affecting each individual of the species differently. For example, the number of petals can be equal in all individuals or not. The number of filaments and other structures of the flower can undergo minor deviations, generating small mutations. The confusion between the figure (plant) and the background (earth, sky, other natural elements) is fascinating from a compositional point of view. The background colors are, most of the time, colors present in the figures, often breaking the boundary between them and, therefore, generating chromatic masses. In this project I also intend to research the following question: How to create parameters that resemble a living organism's growth? In this sense, the project approaches digital morphogenesis and the development of procedural organisms.",
+    "script_type": "p5@1.0.0",
+    "project_id": "159",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 4",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/159000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/159000001.png",
+    "generator_url": "https://generator.artblocks.io/159000001",
+    "royaltyInfo": {
+      "artistAddress": "0xdcf4de0cd2bad3579ede845fd5c3442b6c8f9ddc",
+      "additionalPayee": "0x187d1690812910116191dc1b0b616f23a4d0f571",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 10
+    },
+    "collection_name": "Fragments of an Infinite Field by Monica Rizzolli",
+    "website": null,
+    "token_hash": "0x0b9c44e24e651fae9962b66f532ace84433f04f4c91184f759346dcb8ce7a44a",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/159/tokens/159000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/159000001.png",
+    "features": {
+      "Rain": "No",
+      "Snow": "No",
+      "Storm": "No",
+      "Pollen": "Yes",
+      "Flowers": "13",
+      "Seasons": "Spring",
+      "FlowerColor": "Different",
+      "NumberOfPetals": "Different",
+      "PetalsFallingDown": "No"
+    },
+    "traits": [
+      {
+        "trait_type": "Fragments of an Infinite Field",
+        "value": "All Fragments of an Infinite Fields"
+      },
+      {
+        "trait_type": "Fragments of an Infinite Field",
+        "value": "Rain: No"
+      },
+      {
+        "trait_type": "Fragments of an Infinite Field",
+        "value": "Snow: No"
+      },
+      {
+        "trait_type": "Fragments of an Infinite Field",
+        "value": "Storm: No"
+      },
+      {
+        "trait_type": "Fragments of an Infinite Field",
+        "value": "Pollen: Yes"
+      },
+      {
+        "trait_type": "Fragments of an Infinite Field",
+        "value": "Flowers: 13"
+      },
+      {
+        "trait_type": "Fragments of an Infinite Field",
+        "value": "Seasons: Spring"
+      },
+      {
+        "trait_type": "Fragments of an Infinite Field",
+        "value": "FlowerColor: Different"
+      },
+      {
+        "trait_type": "Fragments of an Infinite Field",
+        "value": "NumberOfPetals: Different"
+      },
+      {
+        "trait_type": "Fragments of an Infinite Field",
+        "value": "PetalsFallingDown: No"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY"
+  }
+}

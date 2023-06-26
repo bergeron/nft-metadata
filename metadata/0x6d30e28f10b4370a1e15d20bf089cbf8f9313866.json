@@ -1,0 +1,32 @@
+{
+  "address": "0x6d30e28f10b4370a1e15d20bf089cbf8f9313866",
+  "type": "ERC721",
+  "name": "OmniFoods (ETH)",
+  "tokenCount": "36",
+  "uri": "https://omnifoodsnft.s3.amazonaws.com/json/1.json",
+  "metadata": {
+    "name": "OmniFoods #1",
+    "description": "Welcome to our garden! OmniFoods is a collection of 1111 delicious NFTs on the omnichain. Our vision is to give more flavor to the omnichain world and bring people together through community, creativity and fun art! OmniFoods are cc0 NFTs that leverage LayerZero technology to traverse chains.",
+    "image": "https://omnifoodsnft.s3.amazonaws.com/omnifoods/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Arrow Baby Pink"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "Slalom"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Banana"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Nervous"
+      }
+    ],
+    "compiler": "OmniFoods"
+  }
+}

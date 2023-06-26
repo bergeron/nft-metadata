@@ -1,0 +1,72 @@
+{
+  "address": "0x419027459b98465ac091066c01818c8b3c4e7ac0",
+  "type": "ERC721",
+  "name": "SUPER SAPIENSS NFT",
+  "tokenCount": "4460",
+  "uri": "https://nft.financie.io/metadata/supersapienssnft/1.json",
+  "metadata": {
+    "name": "SUPER SAPIENSS NFT #1",
+    "description": "Generative NFT based on the world of SUPER SAPIENSS.\r\n\nYour NFT, your will, will enter the world of WEBTOON and movies and solve cases and mysteries together with the main characters...\r\n\nYou are the creator of SUPER SAPIENSS!",
+    "image": "https://image-coconut.storage.googleapis.com/production/nft_cache/content/body/3606/8b780cb2-5285-45d6-8ef9-91ca07d71f28.png",
+    "external_url": "https://supersapienss.com/nft/",
+    "animation_url": null,
+    "nft_id": "1",
+    "nft_class": "supersapienssnft",
+    "symbol": "supersapienssnft",
+    "octpass": {
+      "version": "1.0"
+    },
+    "contents": [
+      {
+        "uri": "https://image-coconut.storage.googleapis.com/production/nft_cache/content/body/3606/8b780cb2-5285-45d6-8ef9-91ca07d71f28.png",
+        "format": "image/png"
+      }
+    ],
+    "license": {
+      "copyright": "@SUPER SAPIENSS",
+      "usecase": {
+        "reference": "allow",
+        "trade": "allow",
+        "lock": "disallow"
+      }
+    },
+    "traits": [
+      {
+        "trait_type": "BG",
+        "value": "Lemon Chiffon"
+      },
+      {
+        "trait_type": "TYPE",
+        "value": "Human M"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "Joyful"
+      },
+      {
+        "trait_type": "HAIR",
+        "value": "Buzzcut"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "Stubble"
+      },
+      {
+        "trait_type": "EAR",
+        "value": "Ear"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "OFFHAND",
+        "value": "Chocolate Donut"
+      },
+      {
+        "trait_type": "CLOTHING",
+        "value": "Tshirt"
+      }
+    ]
+  }
+}

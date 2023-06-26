@@ -1,0 +1,48 @@
+{
+  "address": "0xb1fc7e20b98a6f817ec1d3673fd23a3e6df34445",
+  "type": "ERC721",
+  "name": "Tamagosan NFT",
+  "tokenCount": "3",
+  "uri": "https://tamagosan-server.fra1.cdn.digitaloceanspaces.com/tamagosanMetadata/1.json",
+  "metadata": {
+    "name": "TamagoSan! Gen.1 #1",
+    "description": "TamagoSan is dynamic Nft collection featuring modular crypto eggs. Create you own character, get new parts, make exhanges, swap it, trade it and take control over the collection.",
+    "image": "https://tamagosan-server.fra1.digitaloceanspaces.com/tamagosanImage/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "COBALT"
+      },
+      {
+        "trait_type": "Body",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "WARRIOR"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "HELLO"
+      },
+      {
+        "trait_type": "NOSE",
+        "value": "SHORTY"
+      },
+      {
+        "trait_type": "SUITS",
+        "Category": "EXCLUSIVE",
+        "value": "ASED 1"
+      },
+      {
+        "trait_type": "fullset",
+        "value": "EXCLUSIVE SET 1"
+      },
+      {
+        "trait_type": "setname",
+        "value": "ASED"
+      }
+    ],
+    "reward": "0"
+  }
+}

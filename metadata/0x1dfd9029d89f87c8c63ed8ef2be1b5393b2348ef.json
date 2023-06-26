@@ -1,0 +1,41 @@
+{
+  "address": "0x1dfd9029d89f87c8c63ed8ef2be1b5393b2348ef",
+  "type": "ERC721",
+  "name": "XDEFI Badges",
+  "tokenCount": "3012",
+  "uri": "https://staking-api.xdefi.io/1",
+  "metadata": {
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Tier",
+        "value": 1,
+        "max_value": 13
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Credits",
+        "value": 259200000
+      },
+      {
+        "trait_type": "Has Locked Position",
+        "value": "yes"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Withdrawable XDEFI",
+        "value": 203
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Lock Expiry",
+        "value": 1648142677
+      }
+    ],
+    "description": "Ikalgo is a tier 1 XDEFI Badge.",
+    "name": "Ikalgo",
+    "background_color": "2040DF",
+    "image": "http://staking-api.xdefi.io/media/ikalgo.png",
+    "animation_url": "http://staking-api.xdefi.io/media/ikalgo.mp4"
+  }
+}

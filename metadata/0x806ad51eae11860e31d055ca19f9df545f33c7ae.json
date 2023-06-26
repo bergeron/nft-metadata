@@ -1,0 +1,65 @@
+{
+  "address": "0x806ad51eae11860e31d055ca19f9df545f33c7ae",
+  "type": "ERC721",
+  "name": "Ukumangala by Arnaud Chavanne",
+  "tokenCount": "8",
+  "uri": "ipfs://QmYANxXmrQ6ZCkQjYxNRMYJqteDvxX1oyPp9sumkCHSMr2",
+  "metadata": {
+    "name": "Ukumangala #1",
+    "description": "“Ukumangala #1” is, like each NFT of this serie, the result of an iterative artistic process led by Anys using the artificial intelligence tool DALL. E developed by OpenAI. Verisart certified 1:1 NFT | Max. 20 NFTs in this serie | Each original artwork is burned as soon as it has been minted, so that it will only ever exist on the blockchain for eternity.\n\nVerisart Certified: https://verisart.com/works/14f11dea-f2f7-44e6-98a6-429fbb2703f6",
+    "image": "ipfs://QmTEWaC2nBdu1pJ5UyVQor2pnv5JzPpj4F6ur4t6rjPnxS",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 512,
+          "height": 512,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": null,
+        "frameRate": null,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xc69885dde0959bcf9d0f8f1a687b39b164666292",
+            "bps": 1000
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": null
+      }
+    },
+    "external_url": "https://verisart.com/works/14f11dea-f2f7-44e6-98a6-429fbb2703f6",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "ARNAUD GUY CHAVANNE",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "Ukumangala #1",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "512x512 px",
+        "display_type": null
+      }
+    ]
+  }
+}

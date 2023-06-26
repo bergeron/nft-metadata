@@ -1,0 +1,38 @@
+{
+  "address": "0x4574bd2422f36a7d745862e006815a137bb9ec4c",
+  "type": "ERC721",
+  "name": "Punk Bits Collection",
+  "tokenCount": "888",
+  "uri": "ipfs://QmTD2hb2NnowxpBpuaQKqxXBzkv4eTesJDcBf7M1R3GfdN/1.json",
+  "metadata": {
+    "name": "Punk Bits #1",
+    "description": "Punk Bits",
+    "image": "ipfs://QmasVBRPCCvutDiFXiN1EjwPfuA2mrEMFBUAR8xykiUwyx/1.png",
+    "dna": "1aa7ee1d7e48b06888dc59b55a2c034140f54df8",
+    "edition": 1,
+    "date": 1647059946390,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Punk",
+        "value": "Alien"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "Cargo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

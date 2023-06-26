@@ -1,0 +1,54 @@
+{
+  "address": "0xdcd9ff86d4272ecb9cab26b5949a00bd02dfd931",
+  "type": "ERC721",
+  "name": "Timbears",
+  "tokenCount": "5555",
+  "uri": "ipfs://QmSb6C8DHH8NmtiVx1jAtsEBKaa2E6RWPMjPqWNNbTZ1tD/1.json",
+  "metadata": {
+    "name": "Timbear #1",
+    "description": "We're down bad!",
+    "image": "ipfs://QmeC48WkaE3uEzvoHQzW17VFWVkVs9aE4Qn7mmz96Wo2wa/1.png",
+    "dna": "0c833016b2e7e90d7ab0c14afcbebbcfb1e03147",
+    "edition": 1,
+    "date": 1657142537129,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Dark red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Bow tie"
+      },
+      {
+        "trait_type": "Eye right",
+        "value": "Sleepy"
+      },
+      {
+        "trait_type": "Eye left",
+        "value": "Eye patch"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grill"
+      },
+      {
+        "trait_type": "Hand right",
+        "value": "Sweep"
+      },
+      {
+        "trait_type": "Hand left",
+        "value": "None"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Degen cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

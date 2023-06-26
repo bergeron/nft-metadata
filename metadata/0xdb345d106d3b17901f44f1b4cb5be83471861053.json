@@ -1,0 +1,37 @@
+{
+  "address": "0xdb345d106d3b17901f44f1b4cb5be83471861053",
+  "type": "ERC721",
+  "name": "SKULL Doubloons",
+  "tokenCount": "75",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=z2cg4iq6EiDIKLaLHRVT",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1584005002009?alt=media&token=e93f0fdc-7cdf-4dea-b85b-d3886408cb2d",
+    "forSale": false,
+    "contractAddress": "0xdb345d106d3b17901f44f1b4cb5be83471861053",
+    "description": "First edition of Skeenee´s $SKULL Doubloons. \n\nA NFT used as ticket for Skeenee´ s surprise lotteries; HODL it to be eligible for special drops.\n\nToken: DOUB | Edition: 25 of 25 | Lottery Token | $SKULL Doubloon 1st edition | https://skeenee.com\n\n",
+    "tags": [],
+    "amountToMint": 25,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1584005595,
+      "_nanoseconds": 913000000
+    },
+    "price": 0,
+    "name": "$SKULL Doubloon 1",
+    "fiatPrice": "$0.00",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0xdb345d106d3b17901f44f1b4cb5be83471861053",
+    "type": "ERC721"
+  }
+}

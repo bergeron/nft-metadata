@@ -1,0 +1,23 @@
+{
+  "address": "0x5e2454f33c3da3aa30eabc502255f66a6d72adc8",
+  "type": "ERC1155",
+  "name": "Brawler Bearz: Factions",
+  "tokenCount": "4",
+  "uri": "ipfs://bafybeiabe24nlcvotzyha2trtwqtfc3eta6txwk63xmbnduqwqn5klgmfu/1.json",
+  "metadata": {
+    "name": "IronBearz",
+    "description": "Pumping iron and maintaining their overall physiques is the one thing on their minds.",
+    "image": "ipfs://bafybeicizc23rp7iqcaydnenn3xxrzskp6ftabgzosxhvoi6s64p4z7j2a/faction2.png",
+    "attributes": [
+      {
+        "trait_type": "Faction",
+        "value": "IronBearz"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Strength",
+        "value": 10
+      }
+    ]
+  }
+}

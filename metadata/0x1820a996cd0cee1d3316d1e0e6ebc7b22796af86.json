@@ -1,0 +1,38 @@
+{
+  "address": "0x1820a996cd0cee1d3316d1e0e6ebc7b22796af86",
+  "type": "ERC721",
+  "name": "Classic Computer Collectible Cards",
+  "tokenCount": "42",
+  "uri": "https://cloudflare-ipfs.com/ipfs/QmesyMQzAeJj7eoDHph4o5ttiQGhhrQHyZtUmNDHjNZ43x",
+  "metadata": {
+    "name": "Acorn A3000",
+    "description": "Acorn A3000",
+    "attributes": [
+      {
+        "trait_type": "CPU",
+        "value": "ARM2"
+      },
+      {
+        "trait_type": "Clock",
+        "value": "8 Mhz"
+      },
+      {
+        "trait_type": "RAM",
+        "value": "1024 KB"
+      },
+      {
+        "trait_type": "Resolution",
+        "value": "800x600"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "4096"
+      },
+      {
+        "trait_type": "Year",
+        "value": "1989"
+      }
+    ],
+    "image": "https://cloudflare-ipfs.com/ipfs/QmP8zVqSTAaJVoi9nENvzBSwoSJtU1smdWFcow6dWcKX92"
+  }
+}

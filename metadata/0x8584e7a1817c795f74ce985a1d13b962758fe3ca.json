@@ -1,0 +1,91 @@
+{
+  "address": "0x8584e7a1817c795f74ce985a1d13b962758fe3ca",
+  "type": "ERC721",
+  "name": "Blazed Cats",
+  "tokenCount": "9953",
+  "uri": "https://blazedcats.s3.us-east-2.amazonaws.com/metadata/current/1",
+  "metadata": {
+    "description": "Blazed Cat #1 is a clear eyed kitty with pink fur in front of a sunflower background. Cat #1 is wearing a light gray Etherium shirt and seems to be bored. This cat is carrying 2 joints.",
+    "image": "https://blazedcats.s3.us-east-2.amazonaws.com/1000/current/1.png",
+    "name": "Blazed Cat #1",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Sunflower"
+      },
+      {
+        "trait_type": "fur",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "expression",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "clothing",
+        "value": "Etherium Shirt"
+      },
+      {
+        "trait_type": "clothing_color",
+        "value": "Light Gray"
+      },
+      {
+        "trait_type": "joint_count",
+        "value": "2",
+        "max_value": 10
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "First 100 Cats",
+        "value": 0.5
+      },
+      {
+        "trait_type": "halloween_costume_head",
+        "value": "Hammburglar"
+      },
+      {
+        "trait_type": "halloween_costume_body",
+        "value": "Mars"
+      },
+      {
+        "trait_type": "halloween_costume_legs",
+        "value": "Ash"
+      },
+      {
+        "trait_type": "halloween_costume_artist",
+        "value": "Anticrash"
+      },
+      {
+        "trait_type": "winter_costume_head",
+        "value": "Penguin"
+      },
+      {
+        "trait_type": "winter_costume_body",
+        "value": "Whitesnow"
+      },
+      {
+        "trait_type": "winter_costume_legs",
+        "value": "Penguin"
+      },
+      {
+        "trait_type": "winter_costume_artist",
+        "value": "Slowhed"
+      },
+      {
+        "trait_type": "winter_costume_artist",
+        "value": "Anticrash"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "winter_costume_bonus",
+        "value": 2
+      }
+    ],
+    "external_url": "https://blazedcats.com/cat/1",
+    "animation_url": "https://i.quantum.tech/blazedcats/1"
+  }
+}

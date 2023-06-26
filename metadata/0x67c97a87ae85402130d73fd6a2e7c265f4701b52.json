@@ -1,0 +1,28 @@
+{
+  "address": "0x67c97a87ae85402130d73fd6a2e7c265f4701b52",
+  "type": "ERC721",
+  "name": "Sweets",
+  "tokenCount": "10",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=O7YU2BkksMVclbl0PpYx",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1582570736394?alt=media&token=64993f9f-4d92-464a-9fb1-a4edac11af78",
+    "forSale": false,
+    "contractAddress": "0x67c97a87ae85402130d73fd6a2e7c265f4701b52",
+    "description": "Bits of Candi",
+    "tags": [],
+    "amountToMint": 10,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1582570907,
+      "_nanoseconds": 741000000
+    },
+    "price": 0,
+    "name": "Candi (Avastar #188)",
+    "fiatPrice": "$0.00",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x67c97a87ae85402130d73fd6a2e7c265f4701b52",
+    "type": "ERC721"
+  }
+}

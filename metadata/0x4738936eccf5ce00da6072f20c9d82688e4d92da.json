@@ -1,0 +1,31 @@
+{
+  "address": "0x4738936eccf5ce00da6072f20c9d82688e4d92da",
+  "type": "ERC721",
+  "name": "Derivative Of Avatar Master V2",
+  "tokenCount": "2",
+  "uri": "https://ori-static.particle.network/1/collection/0x4738936eccf5ce00da6072f20c9d82688e4d92da/1.json",
+  "metadata": {
+    "name": "Girl&BoyV2",
+    "description": "copy: The description will be included on the item's detail page underneath its image. Markdown syntax is supported.\n",
+    "image": "https://ori-static.particle.network/images/cc0bdce8-6912-493e-9160-e0416d4dbcab.png",
+    "external_url": "https://orinft.xyz/",
+    "nftType": "derivative",
+    "licenseToken": "0x245ddB6cc6fe69A6B8eE74C9Ac8570C469583F5a",
+    "licenseTokenId": 1,
+    "attributes": [
+      {
+        "trait_type": "Speed",
+        "value": 6,
+        "max_value": 10,
+        "display_type": "number"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "earning",
+        "value": 1.33,
+        "max_value": 10
+      }
+    ],
+    "external_link": "https://orinft.xyz"
+  }
+}

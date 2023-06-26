@@ -1,0 +1,46 @@
+{
+  "address": "0x467ada72952e6c961b80658705a72c52ffacec57",
+  "type": "ERC721",
+  "name": "Fluidente by Artofsoul",
+  "tokenCount": "53",
+  "uri": "ipfs://QmaZxvxh8QDoT6NRyHPNKPP7RuZn8yVTDMGJEWs4J5VNya/1",
+  "metadata": {
+    "id": 1,
+    "description": "Size: 5000x6000 (PX). Unique flowing noise lines combined with unique color schemes and ramdom geometry shapes on backward.",
+    "image": "ipfs://QmUChefp727PhN95AcuwcnC817rZwfL55K8hmQPPGS7Ewd/1.jpg",
+    "name": "Fluidente #1",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "white"
+      },
+      {
+        "trait_type": "palette",
+        "value": "warm"
+      },
+      {
+        "trait_type": "shape",
+        "value": "circle"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "color count",
+        "value": 6
+      },
+      {
+        "display_type": "number",
+        "trait_type": "flow-line density",
+        "value": 20
+      },
+      {
+        "display_type": "number",
+        "trait_type": "flow-line weight",
+        "value": 2
+      },
+      {
+        "trait_type": "flowing curve",
+        "value": "long"
+      }
+    ]
+  }
+}

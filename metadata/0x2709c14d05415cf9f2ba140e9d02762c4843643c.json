@@ -1,0 +1,49 @@
+{
+  "address": "0x2709c14d05415cf9f2ba140e9d02762c4843643c",
+  "type": "ERC721",
+  "name": "BakersNFT",
+  "tokenCount": "3333",
+  "uri": "ipfs://QmUgcoFy3DQrgeNkDagN1hVNk8X4xKQULyfPccCmsxBPNE/1",
+  "metadata": {
+    "name": "Baker #1",
+    "image": "ipfs://QmeZngwsQSVfh3oDbNAB8vg78UCBT65RBiD4keQVDmeye8/1.png",
+    "imageHash": "d0daff9474c9bfd0b099bf943ecce636bdf1333943e58df927907c9b51be3836",
+    "edition": 1,
+    "date": 1678178354670,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Suit"
+      },
+      {
+        "trait_type": "Right",
+        "value": "Croc"
+      },
+      {
+        "trait_type": "Left",
+        "value": "Confedi Cake"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Monk"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Green Head"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Devil Beard"
+      }
+    ],
+    "compiler": "NFTChef"
+  }
+}

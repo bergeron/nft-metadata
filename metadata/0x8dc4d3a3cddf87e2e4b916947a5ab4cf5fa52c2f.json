@@ -1,0 +1,30 @@
+{
+  "address": "0x8dc4d3a3cddf87e2e4b916947a5ab4cf5fa52c2f",
+  "type": "ERC721",
+  "name": "KPK Pets",
+  "tokenCount": "1000",
+  "uri": "https://kopokostudio.s3.eu-west-3.amazonaws.com/metadataPet/1.json",
+  "metadata": {
+    "name": "KPK Pets #1",
+    "description": "1000 generated Pets. A collection by KOPOKO Studio",
+    "image": "ipfs://QmbRCwJb5Ch4d6yo4dwjFnoFJ4zn6QYSTftWUM4vQuazsB/1.png",
+    "dna": "b5c3a5b463a97663332b3db61661190c95de0b95",
+    "edition": 1,
+    "date": 1650234903635,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Beige"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Fur Rock 006"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Face Happy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

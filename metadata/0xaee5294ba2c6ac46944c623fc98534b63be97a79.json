@@ -1,0 +1,69 @@
+{
+  "address": "0xaee5294ba2c6ac46944c623fc98534b63be97a79",
+  "type": "ERC721",
+  "name": "ETHMap Zones V2",
+  "tokenCount": "1",
+  "uri": "https://ethmap.world/1",
+  "metadata": {
+    "name": "Luxembourg",
+    "attributes": [
+      {
+        "trait_type": "Currency",
+        "value": "Euro"
+      },
+      {
+        "trait_type": "Capital",
+        "value": "Luxembourg"
+      },
+      {
+        "trait_type": "Continent",
+        "value": "Europe"
+      },
+      {
+        "trait_type": "Economy",
+        "value": "Developed"
+      },
+      {
+        "trait_type": "Government",
+        "value": "Constitutional Monarchy"
+      },
+      {
+        "value": "Member of NATO"
+      },
+      {
+        "value": "Member of European Union"
+      },
+      {
+        "value": "Luxembourgish Speaking"
+      },
+      {
+        "value": "German Speaking"
+      },
+      {
+        "value": "French Speaking"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Population (Million)",
+        "value": 0.60795
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Area (sq. km)",
+        "value": 2586
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Life Expectancy",
+        "value": 77.1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "GDP (Billion USD)",
+        "value": 73.26
+      }
+    ],
+    "external_url": "https://ethmap.app",
+    "image": "https://ethmap.world/images/LUX.svg"
+  }
+}

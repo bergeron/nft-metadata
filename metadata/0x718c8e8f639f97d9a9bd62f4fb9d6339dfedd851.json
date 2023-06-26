@@ -1,0 +1,38 @@
+{
+  "address": "0x718c8e8f639f97d9a9bd62f4fb9d6339dfedd851",
+  "type": "ERC721",
+  "name": "Swag Society",
+  "tokenCount": "1111",
+  "uri": "https://swagsociety-metadata.s3.amazonaws.com/1",
+  "metadata": {
+    "image": "https://swagsociety-images.s3.amazonaws.com/1.png",
+    "tokenId": 1,
+    "name": "SwagSociety #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Mixed Spill"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "Triangle Stud"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black Puffy Coat"
+      },
+      {
+        "trait_type": "Eye wear",
+        "value": "Round White Glasses"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "Lost"
+      }
+    ]
+  }
+}

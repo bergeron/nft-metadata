@@ -1,0 +1,28 @@
+{
+  "address": "0x73204b18bff13539aaf7c8b714f327e81edc6935",
+  "type": "ERC1155",
+  "name": "Blue Check NFT",
+  "tokenCount": "2",
+  "uri": "ipfs://QmR1KHsh5s4UR3dE8Xbv5hxkicRUwEExDe6xhCfT34UP8o",
+  "metadata": {
+    "name": "Blue",
+    "description": "Don’t rent your blue check, own it.\n\r 100,000 Blue Check NFTs all verified on the Ethereum Blockchain.\n\r [@BlueCheckClub](https://twitter.com/BlueCheckClub)\n\r [BlueCheckNFT.com](https://bluechecknft.com/)",
+    "animation_url": "ipfs://QmNY5dN9b6k3ViLKonzBeqWQETcgbewZa2Nj2nxkmrXcPG",
+    "image": "ipfs://QmSuFiVbjaVv6if4cCVMgyudbxTgfwPrzxMdqfmgK8ZKws",
+    "external_url": "https://bluechecknft.com/",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Blue"
+      },
+      {
+        "value": "Verified"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Monthly Savings",
+        "value": 8
+      }
+    ]
+  }
+}

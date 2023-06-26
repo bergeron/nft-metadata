@@ -1,0 +1,46 @@
+{
+  "address": "0x0b4d96f01f3e2cc0ce5ff421dcac80d4f564f0cf",
+  "type": "ERC721",
+  "name": "The Cubies NFT",
+  "tokenCount": "777",
+  "uri": "https://ipfs.io/ipfs/QmSFQodmu6NZf1CqTBvq7umRURVJvyENZc6j3FMzgJ68F2/1",
+  "metadata": {
+    "name": "Cubies #1",
+    "description": "777 unique hand-designed Cubies style characters.",
+    "image": "https://ipfs.io/ipfs/QmQ24HuS75JgRwnKhi3aQMo8ukRuxKXdHHtnAfDd5woBER/1.png",
+    "dna": "658b45c0d85d3668b950d3ea79a00bc3da3271bb",
+    "edition": 1,
+    "date": 1651431212265,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Landscape",
+        "value": "Green Night"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Goldfish Purple Aquacubie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None"
+      }
+    ],
+    "compiler": "Cubies"
+  }
+}

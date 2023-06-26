@@ -1,0 +1,32 @@
+{
+  "address": "0x44ae74c92d6f0af7d1137ff8b7dd2eddf409221b",
+  "type": "ERC721",
+  "name": "Dinho's Treasures",
+  "tokenCount": "100",
+  "uri": "https://shirtum-media.s3.eu-west-1.amazonaws.com/all/items/21/jsons/1.json",
+  "metadata": {
+    "name": "The Duo #1",
+    "description": "The Duo is a collection of artistic PFP that honor the most iconic moments of Saviola and Ronaldinho in the same field",
+    "edition": 1,
+    "image": "https://shirtum-media.s3.eu-west-1.amazonaws.com/all/items/21/imgs/N002-d6e508af-0410-4e29-90b9-25677e5da1cc.png",
+    "attributes": [
+      {
+        "trait_type": "GOAL",
+        "value": 80,
+        "max_value": 99
+      },
+      {
+        "trait_type": "Background",
+        "value": "Celtic Park"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "BCN Home"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Classic"
+      }
+    ]
+  }
+}

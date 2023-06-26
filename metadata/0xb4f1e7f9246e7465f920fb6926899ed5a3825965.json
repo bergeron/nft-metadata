@@ -1,0 +1,54 @@
+{
+  "address": "0xb4f1e7f9246e7465f920fb6926899ed5a3825965",
+  "type": "ERC721",
+  "name": "Tippydreamer",
+  "tokenCount": "94",
+  "uri": "https://arweave.net/5OGQ3oVdyXEHPw8T4eRt8qIchyof8MIH2oeDxSVHtpc",
+  "metadata": {
+    "name": "Arabian Nights",
+    "created_by": "Tippydreamer",
+    "description": "Step into the unknown and embrace it. Wishing you all a peaceful new year! \n",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "tippydreamer"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Year",
+        "value": 2023
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "1080x1920"
+      },
+      {
+        "trait_type": "Format",
+        "value": "mp4"
+      }
+    ],
+    "animation_details": {
+      "bytes": 74876722,
+      "format": "MP4",
+      "duration": 12,
+      "sha256": "7db8298b5372187dece5264c16d02098d4745afaebb27f3ff2f40536885c9174",
+      "width": 1080,
+      "height": 1920,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/Nun-YzQXqqi9dGL8bgZxw9raQag5xXTXuPKxvWhZDuE",
+    "animation_url": "https://arweave.net/Nun-YzQXqqi9dGL8bgZxw9raQag5xXTXuPKxvWhZDuE",
+    "image_details": {
+      "bytes": 3756107,
+      "format": "PNG",
+      "sha256": "dec95d0654dbfca38620e380f5919e03bf8d28bd1ba6f4d65138cdf683d380b9",
+      "width": 1080,
+      "height": 1920
+    },
+    "image": "https://arweave.net/35b907drskOMs1vWTUVxuLyQUk-sU3mo4aVYXtxzTu0",
+    "image_url": "https://arweave.net/35b907drskOMs1vWTUVxuLyQUk-sU3mo4aVYXtxzTu0"
+  }
+}

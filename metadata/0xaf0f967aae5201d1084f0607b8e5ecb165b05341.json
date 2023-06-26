@@ -1,0 +1,26 @@
+{
+  "address": "0xaf0f967aae5201d1084f0607b8e5ecb165b05341",
+  "type": "ERC1155",
+  "name": "Loot Chests",
+  "tokenCount": "6",
+  "uri": "ipfs://QmdWA4j4DWbJAm1qyMxhynsXHxT2UBPGqgKztSgLmGn2D3/1",
+  "metadata": {
+    "name": "Common Loot Chest",
+    "description": "Mythic Loot Chest from [ApeLiquid.io](https://ApeLiquid.io). When opened, reveals possible items which can be used in Mythic Journeys or bought and sold on the open market.",
+    "image": "ipfs://QmNevMcVoAPM6WjTj54UeCe3EEw7dGACzeSpuWdP3gwKyZ/1.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Loot Chest"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Rewards",
+        "value": "One"
+      }
+    ]
+  }
+}

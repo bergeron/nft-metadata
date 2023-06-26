@@ -1,0 +1,39 @@
+{
+  "address": "0x78cbb32ec3c51278f5e2cfb1b0afff492e940317",
+  "type": "ERC721",
+  "name": "Milk",
+  "tokenCount": "25",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=RWAFVsovkNDPMy1iJl8d",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1575313073894?alt=media&token=b4b02d36-642c-4ac3-8359-160c136045ae",
+    "isForSale": true,
+    "contractAddress": "",
+    "description": "1 glass of milk",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted//RWAFVsovkNDPMy1iJl8d",
+    "minter": "0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5",
+    "mintedOn": {
+      "_seconds": 1575313084,
+      "_nanoseconds": 558000000
+    },
+    "price": "0",
+    "name": "Milk",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Milk"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "id": null
+  }
+}

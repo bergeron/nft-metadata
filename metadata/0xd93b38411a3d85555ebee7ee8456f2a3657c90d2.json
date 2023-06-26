@@ -1,0 +1,42 @@
+{
+  "address": "0xd93b38411a3d85555ebee7ee8456f2a3657c90d2",
+  "type": "ERC721",
+  "name": "Chimps",
+  "tokenCount": "101",
+  "uri": "ipfs://bafybeicjcqsvaslok5ckx75dp7t7gk6rq6pur66otrcrxclxxlky4mrvti/1.json",
+  "metadata": {
+    "name": "Chimp #1",
+    "description": "10k avatar collection of beautiful male and female simian chimpanzees against digital simianization in web3",
+    "image": "ipfs://bafybeieuytb66qr5nnhnk55jhx5zi5lix65eqowysipqlf7p2g2wjxkhlu/1.png",
+    "imageHash": "75a768d1b890f906ab0cbfa39387070428495b959a2ea2ce29190a666cb3621d",
+    "edition": 1,
+    "date": 1681405075843,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Body (Female)",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Clothes (Females)",
+        "value": "Pink Bikini"
+      },
+      {
+        "trait_type": "Hair (Females)",
+        "value": "Bob"
+      },
+      {
+        "trait_type": "Front Accessories (Females)",
+        "value": "Headphones"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  }
+}

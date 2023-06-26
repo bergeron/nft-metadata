@@ -1,0 +1,38 @@
+{
+  "address": "0x88307fcd8a02a4e10dc53aa80f87f2fac4752ef2",
+  "type": "ERC721",
+  "name": "The China NFTs",
+  "tokenCount": "408",
+  "uri": "https://api.thechinanfts.com/h/1",
+  "metadata": {
+    "name": "The China NFTs #1",
+    "description": "thechinanfts.com",
+    "image": "https://p.thechinanfts.com/1.png",
+    "dna": "bf03a6d93fd2f6a365b7b9bc3690e18f504e5cc1",
+    "edition": 1,
+    "date": 1659556169057,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "Color 03"
+      },
+      {
+        "trait_type": "MALE SKIN",
+        "value": "M Skin 02"
+      },
+      {
+        "trait_type": "MALE EYE",
+        "value": "M Eye 06"
+      },
+      {
+        "trait_type": "MALE HEAD",
+        "value": "M Head 05"
+      },
+      {
+        "trait_type": "MALE MOUTH",
+        "value": "M Mouth 27"
+      }
+    ],
+    "compiler": "TheChinaNFTs"
+  }
+}

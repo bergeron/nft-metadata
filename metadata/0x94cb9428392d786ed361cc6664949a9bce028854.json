@@ -1,0 +1,55 @@
+{
+  "address": "0x94cb9428392d786ed361cc6664949a9bce028854",
+  "type": "ERC721",
+  "name": "Blockchain Bandicoots",
+  "tokenCount": "1006",
+  "uri": "ipfs://bafybeihhtgi3uuzw3yoke3ofahutfyhhog6pllly267mhyd6rc6kkhrqfq/1.json",
+  "metadata": {
+    "name": "Blockchain Bandicoot #1",
+    "description": "The Official Blockchain Bandicoots NFT Collection",
+    "external_url": "",
+    "image": "ipfs://bafybeievctex4qanzfm3ssvz3x7jr4x6hojxtftwvdycd2fa4fi2rtw2ei/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Darkness"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Ether"
+      },
+      {
+        "trait_type": "Colour",
+        "value": "Golden"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wide-Eyed"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Flower Kimono"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Frown"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://onemint.io/",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Blockchain Bandicoots",
+      "family": "Blockchain Bandicoots"
+    },
+    "symbol": ""
+  }
+}

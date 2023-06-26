@@ -1,0 +1,30 @@
+{
+  "address": "0x196dd0f1280728d92b62d74da21304ad1fdd189d",
+  "type": "ERC721",
+  "name": "Untitled Snakes Project",
+  "tokenCount": "10",
+  "uri": "https://snakesproject.xyz/api/snake/1",
+  "metadata": {
+    "name": "#1",
+    "external_url": "https://snakesproject.xyz/",
+    "image": "https://snakesproject.xyz/api/snake/image/1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Apple"
+      },
+      {
+        "trait_type": "Specie",
+        "value": "Earth"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Birthday Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Monocle"
+      }
+    ]
+  }
+}

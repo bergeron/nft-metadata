@@ -1,0 +1,91 @@
+{
+  "address": "0x6826c4c51f4855d0280e99f646c5ef43edb3848e",
+  "type": "ERC721",
+  "name": "-SUBTRACTION-",
+  "tokenCount": "512",
+  "uri": "https://arweave.net/4pEhCce6w_QTRTLFQudbsBsxBMKueeJgFE7Sna6RsKs/1",
+  "metadata": {
+    "name": "FORM #1",
+    "created_by": "ThankYouX + mpkoz",
+    "description": "SUBTRACTION is a collection of generative artwork by Michael Kozlowski and ThankYouX that traverses two- and three-dimensions, investigating the unexpected product of mixing opposite forms, techniques, and mediums. Every piece is unique and derived from a combination of physical artwork, custom software, and artificial intelligence.",
+    "image": "https://arweave.net/NuA4LeAvUP0q6kwdemtp2vkqbj09NLTGAx7LNJU81Io",
+    "image_url": "https://arweave.net/NuA4LeAvUP0q6kwdemtp2vkqbj09NLTGAx7LNJU81Io",
+    "image_details": {
+      "height": 1024,
+      "width": 1024,
+      "sha256": "61b922278dcc797cb0f726d825c74c0e5e3421965014617c04249ecb7668e97e",
+      "bytes": 1020366,
+      "format": "PNG"
+    },
+    "animation": "https://arweave.net/lu4gN5a9WU003TealAHdGFIdXmU_5H_4Uh_zjfc2j4g",
+    "animation_url": "https://arweave.net/lu4gN5a9WU003TealAHdGFIdXmU_5H_4Uh_zjfc2j4g",
+    "animation_details": {
+      "format": "MP4",
+      "bytes": 7276966,
+      "height": 1024,
+      "width": 1024,
+      "codecs": [
+        "H.264"
+      ],
+      "duration": 8,
+      "sha256": "57980e40dc6298a8c2f693e3f8536277ec7a4ff8cbd796ad0d87232db926da7f"
+    },
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "ThankYouX"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "mpkoz"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "SUBTRACTION"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Number of Additive Shapes",
+        "value": "6",
+        "max_value": 8
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Number of Additive Shape Types",
+        "value": "6",
+        "max_value": 8
+      },
+      {
+        "trait_type": "Additive Movement",
+        "value": "Rotate"
+      },
+      {
+        "trait_type": "Subtractive Shape",
+        "value": "Noise"
+      },
+      {
+        "trait_type": "Subtractive Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Subtractive Movement",
+        "value": "Static"
+      },
+      {
+        "trait_type": "Room",
+        "value": "Box"
+      },
+      {
+        "trait_type": "Room Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "Concrete"
+      },
+      {
+        "value": "Portal"
+      }
+    ]
+  }
+}

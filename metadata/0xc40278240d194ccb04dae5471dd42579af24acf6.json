@@ -1,0 +1,37 @@
+{
+  "address": "0xc40278240d194ccb04dae5471dd42579af24acf6",
+  "type": "ERC721",
+  "name": "TURNING HEADS",
+  "tokenCount": "1",
+  "uri": "ipfs://bafyreib7az54pkaqnqxrva3qeyf333scptdo5qyamdzc73jl5ednv4nene/metadata.json",
+  "metadata": {
+    "name": "Turning Heads",
+    "description": "Turning Heads by Extraweg",
+    "external_url": "https://unitlondon.com/nfts/turning-heads-1684149345371",
+    "properties": [
+      {
+        "trait_locked": true,
+        "trait_type": "Artist",
+        "value": "Extraweg"
+      },
+      {
+        "trait_locked": true,
+        "trait_type": "Year",
+        "display_type": "number",
+        "value": 2023
+      },
+      {
+        "trait_locked": true,
+        "trait_type": "Edition Size",
+        "value": "Unique original"
+      },
+      {
+        "trait_locked": true,
+        "trait_type": "Format",
+        "value": "NFT"
+      }
+    ],
+    "image": "ipfs://bafybeidsouojq46vg4srq4al3fspkimfgwjodomwc42zvrtlejyobqu6va/Screenshot 2023-05-15 at 12.12.16.png",
+    "animation_url": "ipfs://bafybeibnk2fcly6tljmr3fetw7kdl6awouwcotzrphfxf54ai5mszq7bfe/turning_heads_%C2%A9extraweg_orginal (2).mp4"
+  }
+}

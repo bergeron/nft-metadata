@@ -1,0 +1,21 @@
+{
+  "address": "0x126a45ffc33c67d979ccbcdc598d0764660a01cb",
+  "type": "ERC721",
+  "name": "MegaForce Equipment",
+  "tokenCount": "2500",
+  "uri": "https://api.appliedprimate.dev/equipment/metadata/1",
+  "metadata": {
+    "name": "The Eye of Ziot",
+    "image": "ipfs://QmVsoHTYiEnCBzYT7rMYgmQQu4yWoLhAfyk5ZDLPMmonJC",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Eye"
+      }
+    ]
+  }
+}

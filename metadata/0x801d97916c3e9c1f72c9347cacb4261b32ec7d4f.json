@@ -1,0 +1,63 @@
+{
+  "address": "0x801d97916c3e9c1f72c9347cacb4261b32ec7d4f",
+  "type": "ERC721",
+  "name": "MetaForce Rampage Alpha",
+  "tokenCount": "590",
+  "uri": "https://metaforce.momentx.app/rampage/1",
+  "metadata": {
+    "name": "MetaForce Rampage Alpha #1",
+    "description": "The first NFT released by MetaForce - Rampage Alpha, is the world's first and currently the only weapon NFT designed by a real weapon manufacturer and could be used in the virtual gaming world. Holders of Rampage Alpha can interact with other people in a lot of ways in the game world, such as shooting, decoration, trading, games, competitions.",
+    "image": "https://metaforce.momentx.app/rampage/1.mp4",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "UR"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Snake"
+      },
+      {
+        "trait_type": "Sighting Range (m)",
+        "value": "60"
+      },
+      {
+        "trait_type": "Muzzle Velocity (m/s)",
+        "value": "400"
+      },
+      {
+        "trait_type": "Damage (J)",
+        "value": 100,
+        "display_type": null,
+        "max_value": "100",
+        "trait_count": 0,
+        "order": null
+      },
+      {
+        "trait_type": "Mobility (NT)",
+        "value": 100,
+        "display_type": null,
+        "max_value": "100",
+        "trait_count": 0,
+        "order": null
+      },
+      {
+        "trait_type": "Accuracy (30m CTC)",
+        "value": 100,
+        "display_type": null,
+        "max_value": "100",
+        "trait_count": 0,
+        "order": null
+      },
+      {
+        "trait_type": "Durability",
+        "value": 100,
+        "display_type": null,
+        "max_value": "100",
+        "trait_count": 0,
+        "order": null
+      }
+    ],
+    "compiler": "MetaForce Team"
+  }
+}

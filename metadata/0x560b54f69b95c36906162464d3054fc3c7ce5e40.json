@@ -1,0 +1,37 @@
+{
+  "address": "0x560b54f69b95c36906162464d3054fc3c7ce5e40",
+  "type": "ERC721",
+  "name": "My Scruffy Cats 1",
+  "tokenCount": "201",
+  "uri": "ipfs://QmXLjYoXBvjnKMaULRgP6nVWoVcTw5wLUt8iFkEYzU4xez/1.json",
+  "metadata": {
+    "name": "My Scruffy Cat 1",
+    "description": "Scruffy Cats are uniquely hand drawn characters that will bring out the values of kindness and joy to the Cat and Kitten world.",
+    "fee_recipient": "0x52BBcd356F86364f0606e7c793Df62C659889D10",
+    "seller_fee_basis_points": 750,
+    "image": "ipfs://Qmafhn9Bt4n7dbTjBoUEMyDgVbWQAubttkE4j9Ejdk9QmQ/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Turquoise"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Grey Fur Stripes"
+      },
+      {
+        "trait_type": "Cat",
+        "value": "My Scruffy Cat Tall"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "50's Glasses Red"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 1824,
+        "display_type": "number"
+      }
+    ]
+  }
+}

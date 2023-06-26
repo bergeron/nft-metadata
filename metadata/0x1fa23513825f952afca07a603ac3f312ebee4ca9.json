@@ -1,0 +1,25 @@
+{
+  "address": "0x1fa23513825f952afca07a603ac3f312ebee4ca9",
+  "type": "ERC721",
+  "name": "FLUME by Andrew Mitchell",
+  "tokenCount": "7",
+  "uri": "ar://Uvm5p3i75glXvK5Hz_IkT-9q_bt0YjXsygIbGRpt7WA/1",
+  "metadata": {
+    "image": "https://asrpmlun7pyvtazibf2f52bvm34yusy6gxgaa5xlaflrqdlbnm.arweave.net/BKL2Lo378VmDKAl0Xug1ZvmKSx41zAB26wFXGA1-ha0",
+    "attributes": [
+      {
+        "value": "Andrew Mitchell"
+      },
+      {
+        "value": "On-Chain"
+      }
+    ],
+    "script_type": "p5js",
+    "aspect_ratio": "1",
+    "date": "2022/07/07",
+    "animation_url": "https://mitchel1.rf.gd/art/flume/whitewater.php",
+    "name": "WHITEWATER",
+    "external_url": "https://mitchel1.rf.gd/art/flume/whitewater.php",
+    "description": "If you fall in, keep your feet up.\n\nCreated with Javascript + p5js by Andrew Mitchell in July, 2022\n\nThis is an on-chain generative 1/1 artwork. The piece is future-proof, and can always be pulled from the contract. Simply call GetScriptChunk(0x1fa23513825f952afca07a603ac3f312ebee4ca9, 1, 0) on this token's extension contract (https://etherscan.io/address/0x534514948a28bc76b8f2f2f6b6c1745329375710) to return the html for the piece.\n\n Read more about what it means to be On-Chain here https://medium.com/@mitchel1/the-rise-of-on-chain-1-1-generative-art-on-eth-7f663aa52736\n\nControls: \n\nPress A to save 1000x1000 png\n\nPress S to save 2000x2000 png\n\nPress D to save 1000x1000 png with grain\n\nPress F to save 2000x2000 png with grain\n\nClick to Pause\n\nTap up arrow to increase framerate\n\nTap down arrow to decrease framerate\n\nEach time the piece is rendered, the location and order of the colors will change. The colors themselves will never change."
+  }
+}

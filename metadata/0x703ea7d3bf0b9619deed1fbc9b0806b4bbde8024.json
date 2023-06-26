@@ -1,0 +1,27 @@
+{
+  "address": "0x703ea7d3bf0b9619deed1fbc9b0806b4bbde8024",
+  "type": "ERC721",
+  "name": "Ricochet VR",
+  "tokenCount": "99",
+  "uri": "https://us-central1-coin-alerts.cloudfunctions.net/ricochet-merkle/1",
+  "metadata": {
+    "name": "Ricochet",
+    "description": "A collection of 99 generative VR artworks.",
+    "image": "https://storage.googleapis.com/ricochet/20.png",
+    "attributes": [
+      {
+        "trait_type": "Animated",
+        "value": "false"
+      },
+      {
+        "trait_type": "Multicolored",
+        "value": "false"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Balls",
+        "value": 712
+      }
+    ]
+  }
+}

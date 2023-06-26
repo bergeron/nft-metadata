@@ -1,0 +1,34 @@
+{
+  "address": "0x865d64b548b6216373b2ccd9f9c95ce5b85be173",
+  "type": "ERC721",
+  "name": "Super Rare Pixel Pepes",
+  "tokenCount": "102",
+  "uri": "ipfs://QmT7LPVtCnb3JGKwUiitajBS44FkvxV5An2QKf1K1dA8tr/1_metadata.json",
+  "metadata": {
+    "description": "#1 from the super rare pixel pepes collection",
+    "image": "ipfs://QmeNKnAYTYsdDdh7cCnDXEbwie35Ftu4nCWz79umFEcqmY/1.jpg",
+    "name": "1",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "pinktile"
+      },
+      {
+        "trait_type": "border",
+        "value": "gold"
+      },
+      {
+        "trait_type": "cardRarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "superRareCoin",
+        "value": ""
+      },
+      {
+        "trait_type": "superRareRarity",
+        "value": ""
+      }
+    ]
+  }
+}

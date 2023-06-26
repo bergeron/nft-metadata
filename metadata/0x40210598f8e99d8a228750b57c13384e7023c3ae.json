@@ -1,0 +1,43 @@
+{
+  "address": "0x40210598f8e99d8a228750b57c13384e7023c3ae",
+  "type": "ERC721",
+  "name": "Teslon Mars",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmaHZ4qjMYQqFsffV6TtcdobaLw7WoBpmr3zcVkR4p5tef/1.json",
+  "metadata": {
+    "name": "Teslonian #1",
+    "description": "Teslon Mars: a unique collection of 10,000 generative NFTs celebrating real-life events of Elon Musk - the most prominent figure of our generation.",
+    "image": "ipfs://QmTzfaoab651h8DZ6r5aGn39Z9WYrC1uRvTU7pisKQeHGu/1.png",
+    "dna": "01f147d5a5d0ca9f368f26481e0f9c9e2470c227",
+    "edition": 1,
+    "date": 1645818064086,
+    "external_url": "https://TeslonMars.com",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Costume",
+        "value": "Spacesuit"
+      },
+      {
+        "trait_type": "Cars",
+        "value": "Model Y"
+      },
+      {
+        "trait_type": "Head",
+        "value": "The Real Iron Man helmet"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Flamethrower"
+      },
+      {
+        "trait_type": "Special",
+        "value": "no specialty"
+      }
+    ],
+    "compiler": "Teslon Mars Art Engine"
+  }
+}

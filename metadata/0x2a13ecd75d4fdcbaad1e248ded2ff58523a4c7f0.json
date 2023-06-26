@@ -1,0 +1,36 @@
+{
+  "address": "0x2a13ecd75d4fdcbaad1e248ded2ff58523a4c7f0",
+  "type": "ERC721",
+  "name": "Circa 1997",
+  "tokenCount": "2",
+  "uri": "https://cdn-api.niftykit.com/reveal/NYoGgCEOPzQEoxfrbx7T/1",
+  "metadata": {
+    "name": "Circa 1997 #1",
+    "description": "Vintage contact sheet photograph of artist Jessica Yatrofsky.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmR7jYQ39oVZycrB3Gisn3SNpeY27KnuLscECiDgJ3KD1T/1.png",
+    "attributes": [
+      {
+        "trait_type": "Date",
+        "value": 2022
+      },
+      {
+        "trait_type": "Medium ",
+        "value": "Photography"
+      },
+      {
+        "trait_type": "Format",
+        "value": "35mm"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Black & White"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Jessica Yatrofsky "
+      }
+    ],
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0xFc3D6045934890e2F59283F8f373998121725291"
+  }
+}

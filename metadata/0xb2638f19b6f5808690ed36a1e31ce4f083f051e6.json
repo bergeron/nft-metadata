@@ -1,0 +1,30 @@
+{
+  "address": "0xb2638f19b6f5808690ed36a1e31ce4f083f051e6",
+  "type": "ERC721",
+  "name": "Toxic Cats",
+  "tokenCount": "1",
+  "uri": "ipfs://QmZKZhQAexMxMKZQ3Nq5t7wqaExxq89243tZJUApZRKNa3/1",
+  "metadata": {
+    "name": "75",
+    "description": "A Collection of 200 unique Toxic Cats built on Ethereum",
+    "image": "ipfs://QmcYPAQu7EWj7gqyot1MtQTQsjWhvHwUG1ANv5fQxtvN5S/1.png",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "75.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": []
+    },
+    "attributes": [
+      {
+        "trait_type": "Toxicity",
+        "value": "tCAT1"
+      }
+    ],
+    "compiler": "NFTexport.io"
+  }
+}

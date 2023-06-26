@@ -1,0 +1,68 @@
+{
+  "address": "0x5ee288024d2cc8a78e98435a12a4f6eb035e7fe0",
+  "type": "ERC721",
+  "name": "SYNC by LoopingLovers",
+  "tokenCount": "10",
+  "uri": "ipfs://QmYrapu7eRVNjXo5Lx1wswbxnnheMHTm41BoYQR4XoDNoR",
+  "metadata": {
+    "name": "LoopingLovers - SYNC",
+    "description": "The work of LoopingLovers manifests a state in which we move or happen together at the same time and speed\n\nVerisart Certified: https://verisart.com/works/4390af74-dbbb-4fac-acae-b6886e6ed598",
+    "image": "ipfs://QmSAMQ5vRKgK2yaADD2ASJpoBm4bHTvSvxgFhuVRpqkfa1",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 2160,
+          "height": 3840,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 15
+        },
+        "frameRate": 30,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xfbe379896e9e4b847bfbc87d9b4edc39e8a753ce",
+            "bps": 800
+          }
+        ],
+        "editionInfo": null
+      }
+    },
+    "animation_url": "ipfs://QmRbWXDT2WUUSndwwhhpESpAytSUmccXHAMWpdikaEpdxL",
+    "external_url": "https://verisart.com/works/4390af74-dbbb-4fac-acae-b6886e6ed598",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "LoopingLovers"
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Title",
+        "value": "LoopingLovers - SYNC"
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "3840x2160 px"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:15"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "address": "0xa662bffd9ba13557b6d1bd7672b914216024503d",
+  "type": "ERC721",
+  "name": "LEMONAPESTAND NFT",
+  "tokenCount": "272",
+  "uri": "https://ipfs.io/ipfs/QmfLwdug6eBWriicy9FydJ1nugn3PWtCdGREXUqG6s8UuM/1",
+  "metadata": {
+    "name": "Lemonade Stand #1",
+    "description": "Make Lemonade!",
+    "image": "https://ipfs.io/ipfs/QmYQXGARMg6m5aWDgExP8E2DCLq1iMDW82bHjzqoJAXEq3/lemon.gif",
+    "animation_url": "https://ipfs.io/ipfs/QmYQXGARMg6m5aWDgExP8E2DCLq1iMDW82bHjzqoJAXEq3/lemon.gif",
+    "attributes": [
+      {
+        "trait_type": "Stand",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Emissions",
+        "value": 100
+      }
+    ]
+  }
+}

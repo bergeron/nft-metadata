@@ -1,0 +1,35 @@
+{
+  "address": "0xdb95bfe1864355c8b373e96fd340d3399b82a790",
+  "type": "ERC721",
+  "name": "Misterry",
+  "tokenCount": "3",
+  "uri": "https://metadata.thetwentysix.io/cryptocats/1",
+  "metadata": {
+    "name": "Cat #1",
+    "external_url": "https://cryptocats.thetwentysix.io/cat/1",
+    "image": "https://cryptocats.thetwentysix.io/contents/images/cats/1.png",
+    "description": "One of 625 unique little CryptoCats, created in 2017. More details at [https://cryptocats.thetwentysix.io](https://cryptocats.thetwentysix.io)",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Punk Kitten"
+      },
+      {
+        "trait_type": "Attribute",
+        "value": "Tiara"
+      },
+      {
+        "trait_type": "Attribute",
+        "value": "Sceptre"
+      },
+      {
+        "trait_type": "Colour",
+        "value": "Multi"
+      },
+      {
+        "trait_type": "Release",
+        "value": "Release #1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "address": "0x123641751a9ba1502522ef8936a18e101ca6acd5",
+  "type": "ERC721",
+  "name": "robobots",
+  "tokenCount": "10000",
+  "uri": "https://robobots-f79f8.web.app/metadata/bot1",
+  "metadata": {
+    "image": "https://robobots-f79f8.web.app/raw_images/bot0001.png",
+    "external_url": "https://robobots.art/explore?bot_id=0001",
+    "background_color": "707070",
+    "name": "Robobot 0001",
+    "description": "A digi-doodad to cherish forever.",
+    "attributes": [
+      {
+        "value": "Computer",
+        "trait_type": "Type"
+      },
+      {
+        "value": "dish",
+        "trait_type": "Headwear"
+      },
+      {
+        "value": "good_chart",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "2",
+        "trait_type": "Attributes"
+      }
+    ]
+  }
+}

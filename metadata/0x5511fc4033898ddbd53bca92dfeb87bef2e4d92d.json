@@ -1,0 +1,28 @@
+{
+  "address": "0x5511fc4033898ddbd53bca92dfeb87bef2e4d92d",
+  "type": "ERC721",
+  "name": "KNFT",
+  "tokenCount": "5",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=3meBVpOJ4Lhf2yLpsBUi",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1584846047883?alt=media&token=a8b0aafa-401b-42df-aec9-8475fe08a6c2",
+    "forSale": true,
+    "contractAddress": "0x5511fc4033898ddbd53bca92dfeb87bef2e4d92d",
+    "description": "The photo that I took a few years ago",
+    "tags": [],
+    "amountToMint": 5,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1584846201,
+      "_nanoseconds": 639000000
+    },
+    "price": "0.01",
+    "name": "Everest Sunrise",
+    "fiatPrice": "$1.35",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x5511fc4033898ddbd53bca92dfeb87bef2e4d92d",
+    "type": "ERC721"
+  }
+}

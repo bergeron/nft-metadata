@@ -1,0 +1,23 @@
+{
+  "address": "0x513b75190bb0873792a6a678b65a4e6679f52e97",
+  "type": "ERC1155",
+  "name": "Social House Membership",
+  "tokenCount": "5",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmUHabAvMqNZcce3KgZJKKC9wgVJKyPZi3FZqNhUNxhLnx/1.json",
+  "metadata": {
+    "name": "Gold Membership",
+    "description": "This is the Gold Pass Card to SocialHouse Club.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTpHH3cVrx91qs2Hw1S7SVf9jhjxwiLPUikqkknTMsmRk/1.png",
+    "edition": 1000,
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Level",
+        "value": 1
+      }
+    ]
+  }
+}

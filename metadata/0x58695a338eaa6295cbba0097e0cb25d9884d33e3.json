@@ -1,0 +1,51 @@
+{
+  "address": "0x58695a338eaa6295cbba0097e0cb25d9884d33e3",
+  "type": "ERC721",
+  "name": "NitroBotArmy",
+  "tokenCount": "182",
+  "uri": "https://api.nitro.network/v4/nft/metadata/1",
+  "metadata": {
+    "name": "NitroBotArmy #1",
+    "description": "NitroBotArmy",
+    "dna": "37e7b987999fa8438a26791f3043efeeae549f57",
+    "edition": 1,
+    "collection_date": "1677655224773",
+    "attributes": [
+      {
+        "value": "Meadow Blue",
+        "trait_type": "BackgroundsB"
+      },
+      {
+        "value": "Optimus",
+        "trait_type": "PrimaryColorsB"
+      },
+      {
+        "value": "Chili",
+        "trait_type": "SecondaryColorsB"
+      },
+      {
+        "value": "Bright Green",
+        "trait_type": "TertiaryColorsB"
+      },
+      {
+        "value": "Eyes 1",
+        "trait_type": "EyesB"
+      },
+      {
+        "value": "Mouth 4",
+        "trait_type": "MouthB"
+      },
+      {
+        "value": "Sticker 3",
+        "trait_type": "StickersB"
+      },
+      {
+        "value": "Jersey 4",
+        "trait_type": "AccessoriesB"
+      }
+    ],
+    "compiler": "Nitro Network",
+    "tier": "V4",
+    "image": "https://api.nitro.network/v4/nft/images/1.png"
+  }
+}

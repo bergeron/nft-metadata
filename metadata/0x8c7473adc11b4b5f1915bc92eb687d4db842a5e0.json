@@ -1,0 +1,70 @@
+{
+  "address": "0x8c7473adc11b4b5f1915bc92eb687d4db842a5e0",
+  "type": "ERC721",
+  "name": "VP Mfers",
+  "tokenCount": "3",
+  "uri": "ipfs://QmRuuuGPdPqSqrip6cjjboAcTAxEcVPmBjtNcnBXiNed3v/1.json",
+  "metadata": {
+    "name": "VP mfer #1",
+    "description": "It's time to show this Mfer his worth, U r right... It's for FREE!!",
+    "image": "ipfs://QmWDG63t7ZYkq6VWxE3MfBz5mn5UUARmx8xfCxSvWQUMrv/1.png",
+    "dna": "17518bab748421962b52fc3a68a1a11d44fefe52",
+    "edition": 1,
+    "date": 1646224642847,
+    "seller_fee_basis_points": 500,
+    "collection": {
+      "name": "VP mfer",
+      "family": "VP mfer"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xB19D994278BF28b37FEdECEA49a81b3139Dcd1e4",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "World17"
+      },
+      {
+        "trait_type": "Base",
+        "value": "PTN"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "TIE6"
+      },
+      {
+        "trait_type": "Smoke",
+        "value": "W33d"
+      },
+      {
+        "trait_type": "Goggles",
+        "value": "Heart"
+      },
+      {
+        "trait_type": "Headphone",
+        "value": "HF1"
+      },
+      {
+        "trait_type": "Cap",
+        "value": "Bandit"
+      },
+      {
+        "trait_type": "Quotes",
+        "value": "5"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

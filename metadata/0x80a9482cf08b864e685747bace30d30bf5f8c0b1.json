@@ -1,0 +1,63 @@
+{
+  "address": "0x80a9482cf08b864e685747bace30d30bf5f8c0b1",
+  "type": "ERC721",
+  "name": "Evo Pigeons Metamorphosis",
+  "tokenCount": "18",
+  "uri": "https://arweave.net/KZrrGkupnc9zqvHK_sTzCBgZ4Fa9pVNuRIABqgyKBSI",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1647042286
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Evo Pigeons"
+      }
+    ],
+    "description": "With wings like angels, we fly, we glide, we soar in the heavens. Where will our wings take us next and what will we become?",
+    "external_url": "https://cxip.io/nft/0x80a9482cf08b864e685747bace30d30bf5f8c0b1/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/ITbZrrV32lZlGh9-0OBcWaQT4mUV8AbzX3YFgMMaxeg",
+    "imageUrl": "https://arweave.net/ITbZrrV32lZlGh9-0OBcWaQT4mUV8AbzX3YFgMMaxeg",
+    "name": "Evo Angel 1",
+    "properties": {
+      "created_at": "2022-03-11T23:44:46.000000Z",
+      "creator_wallet": "0xac1ca49bc95ee0afb3e301170573ed0f13d458c1",
+      "description": "With wings like angels, we fly, we glide, we soar in the heavens. Where will our wings take us next and what will we become?",
+      "image": "https://arweave.net/ITbZrrV32lZlGh9-0OBcWaQT4mUV8AbzX3YFgMMaxeg",
+      "imageUrl": "https://arweave.net/ITbZrrV32lZlGh9-0OBcWaQT4mUV8AbzX3YFgMMaxeg",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "11 March 2022",
+      "name": "Evo Angel 1",
+      "nft_type": "non-fungible image token (image/png)",
+      "preview_media_file": "https://arweave.net/xaKLEC4IhI7g_xqj32zDLDFN4utzgl6uladBSTHcFcY",
+      "preview_media_file_dimensions": "360x360",
+      "preview_media_file_size": 53320,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "2976x2976",
+      "raw_media_file": "https://arweave.net/c_9hu259Aa-9uuMFdJJO9lSzejL3YJZsw3dydzVXFK4",
+      "raw_media_file_size": 7003837,
+      "raw_media_file_spec": "PNG 2976x2976 2976x2976+0+0 8-bit sRGB 6.67938MiB 0.000u 0:00.000",
+      "raw_media_file_type": "image/png",
+      "raw_media_format": "square",
+      "raw_media_signature": "0x93b41170c7d5818de22d5785578a98cacb9b3ba103d07a7236bf6dee2f1b140c",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/xaKLEC4IhI7g_xqj32zDLDFN4utzgl6uladBSTHcFcY",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Evo Angel 1",
+      "total_supply": 1
+    },
+    "title": "Evo Angel 1"
+  }
+}

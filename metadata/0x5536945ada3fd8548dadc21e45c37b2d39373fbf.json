@@ -1,0 +1,41 @@
+{
+  "address": "0x5536945ada3fd8548dadc21e45c37b2d39373fbf",
+  "type": "ERC721",
+  "name": "Potato Captainz",
+  "tokenCount": "555",
+  "uri": "https://captainz.pages.dev/Metadata/json/1.json",
+  "metadata": {
+    "name": "Potato Captainz #1",
+    "description": "May your anchor be tight, your cork be loose, your rum be spiced and your compass be true.",
+    "image": "https://potatocaptainz.xyz/Metadata/images/1.png",
+    "edition": 1,
+    "date": 1672894351188,
+    "attributes": [
+      {
+        "trait_type": "Clan",
+        "value": "Ship Riders"
+      },
+      {
+        "trait_type": "Body",
+        "value": "King Edward"
+      },
+      {
+        "trait_type": "Swords",
+        "value": "Storm Weaver"
+      },
+      {
+        "trait_type": "Clothe",
+        "value": "Sailor Shirt"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Thrum"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Orange"
+      }
+    ],
+    "compiler": "Potato Captainz Engine"
+  }
+}

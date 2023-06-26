@@ -1,0 +1,37 @@
+{
+  "address": "0x805558649df5e891e80091ed9d789bfcf3a17240",
+  "type": "ERC721",
+  "name": "Exo Planets NFT",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeiaazn6j66lmgfwsxtyq54cprdkrxi7n7ivowdj3crcn5zdau7txha/1.json",
+  "metadata": {
+    "name": "Exoplanet Khanpod",
+    "description": "Rare Stone exoplanet with rings and with two moons",
+    "image": "ipfs://bafybeif6rfch7gsn2ku6jhksavd7rr3tyadb7dtwancfox6xvhzsdpc4va/planet-1.gif",
+    "animation_url": "ipfs://bafybeibvrha3thdqskw6imf2m2bqa6ozxjllenkgujlkha55j6ff37zyxi/planet-1.mp4",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Stone"
+      },
+      {
+        "trait_type": "Rings",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Habitable",
+        "value": "No"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Moons",
+        "value": 2,
+        "max_value": 2
+      }
+    ]
+  }
+}

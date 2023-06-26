@@ -1,0 +1,49 @@
+{
+  "address": "0x8c59cdacb5b56ab21abb90e69b44d00472892645",
+  "type": "ERC1155",
+  "name": "Headcover DAO - Headcovers",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/iYK4duxwdVwIe1KDSQ2hltVsLe6CQU5zKjKsR4-nJ6o",
+  "metadata": {
+    "name": "Genesis Mallet",
+    "created_by": "HeadcoverDAO",
+    "description": "The Genesis Headcover Collection is given to Headcover DAO members who minted a DAO Doubloon at launch.  Each Doubloon may be redeemed for one headcover of the minter's choice.",
+    "attributes": [
+      {
+        "trait_type": "Collection",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Mallet"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Standard"
+      }
+    ],
+    "animation_details": {
+      "bytes": 4162446,
+      "format": "MP4",
+      "duration": 3,
+      "sha256": "d148a778de82725e421db3c02925321b111b5a02ef71425325611fbd60192e84",
+      "width": 1024,
+      "height": 1024,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/R-3uOwjvi91NGr8GKrQYEGiEXwB5zwE8FP_GXF2Vnd8",
+    "animation_url": "https://arweave.net/R-3uOwjvi91NGr8GKrQYEGiEXwB5zwE8FP_GXF2Vnd8",
+    "image_details": {
+      "bytes": 1160770,
+      "format": "PNG",
+      "sha256": "2c3fd3f5f8261b0b5c35593fd19b15a92879ac13c36eb093a6978380f27da761",
+      "width": 1024,
+      "height": 1024
+    },
+    "image": "https://arweave.net/dqnVYylb6_2bxsQ6GK9vTYcO_tJeBCGAEpEHbxwhY4c",
+    "image_url": "https://arweave.net/dqnVYylb6_2bxsQ6GK9vTYcO_tJeBCGAEpEHbxwhY4c"
+  }
+}

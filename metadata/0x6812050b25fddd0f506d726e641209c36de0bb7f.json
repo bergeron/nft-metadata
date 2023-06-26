@@ -1,0 +1,75 @@
+{
+  "address": "0x6812050b25fddd0f506d726e641209c36de0bb7f",
+  "type": "ERC721",
+  "name": "The Alien Eyes",
+  "tokenCount": "969",
+  "uri": "https://bafybeidfpf5r6n2oebvkhimjupj3zmmmlzdkmjma4id7j2vaxt74ecjueu.ipfs.nftstorage.link/1.json",
+  "metadata": {
+    "name": "TAP #2",
+    "symbol": "TAP",
+    "description": "Collection of 2,222 aliens in the alien planet",
+    "seller_fee_basis_points": 800,
+    "image": "https://bafybeibpztpixnt7b7r4cne6jezt3jscxw5wyzurm46iqlxntulbsxe7ky.ipfs.nftstorage.link/1.png?ext=png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Firey Orange "
+      },
+      {
+        "trait_type": "Skin",
+        "value": "101 Aliens "
+      },
+      {
+        "trait_type": "Tattoo",
+        "value": "Left Sleeve n Neck "
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Standard "
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Tappish Tee "
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "White "
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "WhiteScarf "
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Blue Bucket Hat "
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Fangs "
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://bafybeibpztpixnt7b7r4cne6jezt3jscxw5wyzurm46iqlxntulbsxe7ky.ipfs.nftstorage.link/1.png?ext=png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "BKmsQGmf2ktYrPnVj6mmhP1BHZWyMWNj6qQJ1tGo6ZzY",
+          "share": 90
+        },
+        {
+          "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+          "share": 10
+        }
+      ],
+      "collection": {
+        "name": "The Alien Planet",
+        "family": "The Alien Planet"
+      }
+    }
+  }
+}

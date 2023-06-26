@@ -1,0 +1,39 @@
+{
+  "address": "0x9ce4f6fdc1bf735329d1dded7ebd706c3c9452a1",
+  "type": "ERC721",
+  "name": "OP Sumo Club",
+  "tokenCount": "333",
+  "uri": "ipfs://Qmd7Xr8eoAh9JeVe2VQpDKvHaquDjtWME2mfLb94bhcT26/1.json",
+  "metadata": {
+    "name": "SUMO #1",
+    "description": "Welcome to OP Sumo Club!",
+    "image": "ipfs://QmcTvUrC7UKPT2zSpbH5ZQJfKSFGFXmYjwuxtzE4gZRKYV/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain"
+      },
+      {
+        "trait_type": "Head",
+        "value": "sumo hair"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "normal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "green eyes"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "pearl"
+      }
+    ]
+  }
+}

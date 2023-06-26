@@ -1,0 +1,36 @@
+{
+  "address": "0xf36446105ff682999a442b003f2224bcb3d82067",
+  "type": "ERC721",
+  "name": "Axolittles",
+  "tokenCount": "10000",
+  "uri": "https://storage.googleapis.com/axolittles-cdn/metadata/1",
+  "metadata": {
+    "title": "Axolittle #1",
+    "name": "Axolittle #1",
+    "description": "Axolittles is a collection of 10,000 algorithmically generated pieces of art, assembled from over 160 traits. They're inspired by axolotls, the world's cutest amphibians. Each Axolittle is animated and comes with a 48-frame GIF that loops perfectly so you could stare at it for hours!",
+    "image": "https://storage.googleapis.com/axolittles-cdn/images/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Fuchsia"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Explorer"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Eyelashes and Tongue"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Flowers Shirt"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Normal"
+      }
+    ],
+    "version": 1
+  }
+}

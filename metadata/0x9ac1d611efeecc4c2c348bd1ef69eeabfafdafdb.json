@@ -1,0 +1,73 @@
+{
+  "address": "0x9ac1d611efeecc4c2c348bd1ef69eeabfafdafdb",
+  "type": "ERC721",
+  "name": "113kljksadfadsf",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/225000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "225000001",
+    "series": 5,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Vortex #1",
+    "minted": true,
+    "artist": "Jen Stark",
+    "description": "The phenomena of the spiral is located throughout the natural world, found in everything from nautili and galaxies, to fractals and sacred geometries. Much like the gravitational pull of patterns in the universe, Jen Stark's series of generative vortexes pays homage to the intricate systems present in our daily lives. \n\nDrawing upon the aesthetic practice of her signature paper sculptures, Stark's hand-cut techniques are translated to adapt and evolve within the digital realm through code, brought to life through harmonic sine waves.\n\nClick and drag to interact with these sculptural tunnels.\n\n",
+    "script_type": "three@0.124.0",
+    "project_id": "225",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 5",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/225000001.gif",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/225000001.gif",
+    "generator_url": "https://generator.artblocks.io/225000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/225000001",
+    "royaltyInfo": {
+      "artistAddress": "0xb16525385824e8cf877be513386e75d875043ffd",
+      "additionalPayee": "0x708dcd64fed06181be592ffc0b6cdc87ae092407",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Vortex by Jen Stark",
+    "website": "https://www.jenstark.com/vortex",
+    "token_hash": "0x063f4441ccb25ab009cff5c13f5a80eb68540a16e724f01aa0246583282794ef",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/225/tokens/225000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/225000001",
+    "features": {
+      "Shader Type": "Normal",
+      "Vortex Name": "Sharp Whirl",
+      "Palette Name": "Deep Fades 1",
+      "Palette Type": "Cycle",
+      "Tunnel Light": "Dark",
+      "Vortex Layers": 40
+    },
+    "traits": [
+      {
+        "trait_type": "Vortex",
+        "value": "All Vortexs"
+      },
+      {
+        "trait_type": "Vortex",
+        "value": "Shader Type: Normal"
+      },
+      {
+        "trait_type": "Vortex",
+        "value": "Vortex Name: Sharp Whirl"
+      },
+      {
+        "trait_type": "Vortex",
+        "value": "Palette Name: Deep Fades 1"
+      },
+      {
+        "trait_type": "Vortex",
+        "value": "Palette Type: Cycle"
+      },
+      {
+        "trait_type": "Vortex",
+        "value": "Tunnel Light: Dark"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

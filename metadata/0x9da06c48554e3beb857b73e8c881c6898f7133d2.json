@@ -1,0 +1,67 @@
+{
+  "address": "0x9da06c48554e3beb857b73e8c881c6898f7133d2",
+  "type": "ERC721",
+  "name": "Degen Artists",
+  "tokenCount": "3000",
+  "uri": "https://bafybeidw3bvtcvodlqv3vj4x75pm63ak5nly72rjf42bnidomjy64hkony.ipfs.nftstorage.link/1.json",
+  "metadata": {
+    "name": "Art of Mob #1",
+    "symbol": "AoM",
+    "description": "Hollywood brought glory to the mafia. It's time we do the same to the NFT scene.",
+    "seller_fee_basis_points": 1000,
+    "image": "https://bafybeieey575u4dciqeyzpas3d3jm5vc3x4gdor4yfipa6kwdgbsi3tlji.ipfs.nftstorage.link/1.png?ext=png",
+    "collection": {
+      "name": "Art of Mob",
+      "family": "Art of Mob"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lemonade"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Nostalgic"
+      },
+      {
+        "trait_type": "Hair Style",
+        "value": "Henry The Hammer"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Mug Shot"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Amsterdam"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://bafybeieey575u4dciqeyzpas3d3jm5vc3x4gdor4yfipa6kwdgbsi3tlji.ipfs.nftstorage.link/1.png?ext=png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "HYM1Uy93cNyNp3bhhxUniANCrAnHr9ayghxx15mMxSWg",
+          "share": 31
+        },
+        {
+          "address": "FngmGFse1jcontANjRFKYvup1ckqa4gYvjwiCDXk6qoc",
+          "share": 33
+        },
+        {
+          "address": "C7PXW6eBGSppFjnCYVeBPvQh2uHEz4URfaVbkXdprfhs",
+          "share": 28
+        },
+        {
+          "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+          "share": 8
+        }
+      ]
+    }
+  }
+}

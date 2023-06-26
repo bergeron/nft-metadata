@@ -1,0 +1,96 @@
+{
+  "address": "0x852ab534c93bb308553bc5e960ea8916a89a9955",
+  "type": "ERC721",
+  "name": "Crafted Avatars",
+  "tokenCount": "3",
+  "uri": "https://nft-tokens.habbo.com/crafted-avatars/metadata/1.json",
+  "metadata": {
+    "name": "Habbo Avatar Master Genesis #1",
+    "tokenId": 1,
+    "usedTokenIds": [
+      5333,
+      10521
+    ],
+    "burnedAvatarIds": [
+      5333,
+      10521
+    ],
+    "roomIds": [
+      "20ac0655-aef7-47e6-af71-582db7cd2871",
+      "7cb59c26-1a6e-4fb5-8748-3c965b3cd24f"
+    ],
+    "figureString": "sh-5151-1408-1314.lg-3235-89-68.ch-3234-1314-1408.wa-2003.hd-4206-1362",
+    "image": "https://nft-tokens.habbo.com/crafted-avatars/images/1.png",
+    "attributes": [
+      {
+        "trait_type": "Gender",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Hues",
+        "value": "Fresh"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Mismatched Shoes"
+      },
+      {
+        "trait_type": "Legs",
+        "value": "Wrapped Pants"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Bandage Top"
+      },
+      {
+        "trait_type": "Belt",
+        "value": "Star Buckle Belt"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Complexion",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hair Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "Golden H"
+      },
+      {
+        "trait_type": "Head Accessory",
+        "value": "None"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "None"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Revertable",
+        "value": "Yes"
+      }
+    ],
+    "noRevert": false
+  }
+}

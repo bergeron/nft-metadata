@@ -1,0 +1,48 @@
+{
+  "address": "0x7d43bdefd188542709618234c4e6cce715477e9c",
+  "type": "ERC721",
+  "name": "aZooKey",
+  "tokenCount": "500",
+  "uri": "ipfs://QmPHC5nrgdVMXEVZKbcjpPt3eeEsEzLZWHqAEXtkPFMndB/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "The Key to The Metaverse",
+    "external_url": "",
+    "image": "ipfs://QmeLzjXoU3YLfbSEfPQfSUveTYgSWfJ4HfrEQWJRgsjvE1/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sherbert"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "lantern"
+      },
+      {
+        "trait_type": "KEY",
+        "value": "Normal Key"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "horns"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "aZooKey",
+      "family": "aZooKey"
+    },
+    "symbol": ""
+  }
+}

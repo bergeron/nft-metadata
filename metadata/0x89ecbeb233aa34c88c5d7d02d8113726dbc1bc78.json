@@ -1,0 +1,49 @@
+{
+  "address": "0x89ecbeb233aa34c88c5d7d02d8113726dbc1bc78",
+  "type": "ERC721",
+  "name": "Fortune Media",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/aOVIbEbHB4RlCWjxi7mQI32imkcHmzF1rEd-WVs2cYQ",
+  "metadata": {
+    "name": "chad 1",
+    "created_by": "Fortune Media",
+    "description": "For Fortune Magazine’s 2021 August/September issue focused on cryptocurrency and defi, I was honored with the unique opportunity to design the magazine’s cover and dedicate this to the crypto twitter community which has given so much to me. Fortune and I will be donating 50% of the proceeds to charity.\n\nFor the auction, we’re collaborating with Manifold to create custom smart contracts specifically for this drop. How will it work?\n\nThis NFT is coded to react to a certain list of buyer ETH addresses during its inaugural auction. If a bid comes from one of the buyer’s ETH addresses in this list, the NFT will update to a special edition artwork designed specifically for the target buyer. However, if the bid is outbid by a non-targeted bidder, then the NFT reverts to its original artwork.",
+    "image": "https://arweave.net/NhcZA-ZwHzLMs_OglK9w6KvBG5czl3GQKVSMe92AoPQ",
+    "image_url": "https://arweave.net/NhcZA-ZwHzLMs_OglK9w6KvBG5czl3GQKVSMe92AoPQ",
+    "image_details": {
+      "bytes": 1519929,
+      "format": "GIF",
+      "sha256": "24f0664b84490998b40a26eb1b95cd7e284a33ba8f8228428865a6dda10ef4c7",
+      "width": 600,
+      "height": 800
+    },
+    "animation": "https://arweave.net/41W7fAE6ou1IRj1qPUPmHY-p-E7pmYDgeXq6P2ozhas",
+    "animation_url": "https://arweave.net/41W7fAE6ou1IRj1qPUPmHY-p-E7pmYDgeXq6P2ozhas",
+    "animation_details": {
+      "bytes": 16942680,
+      "format": "MP4",
+      "duration": 13,
+      "sha256": "55d54890fdb33b846b9fa2b9211495e11bb538357abdb6198cc6f593068a6a74",
+      "width": 2362,
+      "height": 3150,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "pplpleasr"
+      },
+      {
+        "trait_type": "Volume",
+        "value": "184"
+      },
+      {
+        "trait_type": "Date",
+        "value": "August/September 2021"
+      }
+    ]
+  }
+}

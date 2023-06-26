@@ -1,0 +1,31 @@
+{
+  "address": "0xfd3a530015331b782c9e6ed91e0ab76386fcaa87",
+  "type": "ERC721",
+  "name": "makulakta",
+  "tokenCount": "1000",
+  "uri": "https://api.asciipunks.com/punks/1",
+  "metadata": {
+    "image": "https://api.asciipunks.com/punks/1/rendered.png",
+    "description": "",
+    "name": "ASCII Punk #1",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Komani code"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "┌ ┌"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "╘"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smirk left"
+      }
+    ],
+    "background_color": "000000"
+  }
+}

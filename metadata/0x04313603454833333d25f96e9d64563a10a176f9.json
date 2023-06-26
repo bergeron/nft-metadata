@@ -1,0 +1,31 @@
+{
+  "address": "0x04313603454833333d25f96e9d64563a10a176f9",
+  "type": "ERC721",
+  "name": "Seattle Kraken",
+  "tokenCount": "150",
+  "uri": "https://api.orangecomet.io/collectible-metadata/kraken-dive-in/1",
+  "metadata": {
+    "name": "Kraken Dive In #1",
+    "description": "Embark on an 3D animated adventure to attempt an encounter with the Kraken underwater ‘hockey graveyard’, where the Kraken’s vanquished enemies lie dormant in defeat.",
+    "image": "ipfs://bafybeibt2bvehnujwv2gy6cg76f4smsvhzch47mge6y3uutsmytkmqs3xy/KRAKEN-DIVE-IN.jpg",
+    "animation_url": "ipfs://bafybeibt2bvehnujwv2gy6cg76f4smsvhzch47mge6y3uutsmytkmqs3xy/KRAKEN-DIVE-IN.mp4",
+    "attributes": [
+      {
+        "trait_type": "Team Name",
+        "value": "Seattle Kraken"
+      },
+      {
+        "trait_type": "Team Tri-Code",
+        "value": "SEA"
+      },
+      {
+        "trait_type": "Featuring",
+        "value": "Fishes and Hockey Equipment and Tentacles"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Underwater Hockey Graveyard"
+      }
+    ]
+  }
+}

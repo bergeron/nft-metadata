@@ -1,0 +1,51 @@
+{
+  "address": "0x91f8216674fda908a81531cca002885395e5cd55",
+  "type": "ERC721",
+  "name": "SpaceDRocketNFTFactory V2",
+  "tokenCount": "219",
+  "uri": "https://api.smalldogecoin.com/api/nft/1",
+  "metadata": {
+    "description": "Proof of Mining is the proof of rocket mining, please keep it well.",
+    "external_url": "https://api.smalldogecoin.com/api/nft/1",
+    "image": "https://api.smalldogecoin.com/static/Proof.png",
+    "name": "Proof of Mining",
+    "attributes": [
+      {
+        "trait_type": "rocket_id",
+        "value": "0"
+      },
+      {
+        "trait_type": "rocket_name",
+        "value": "Luna"
+      },
+      {
+        "trait_type": "erc20_address",
+        "value": ""
+      },
+      {
+        "trait_type": "grade",
+        "value": 0,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "par_value",
+        "value": ""
+      },
+      {
+        "trait_type": "thruster_amount",
+        "value": 0,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "timestamp",
+        "value": 1627302445,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "block_number",
+        "value": 12901810,
+        "display_type": "number"
+      }
+    ]
+  }
+}

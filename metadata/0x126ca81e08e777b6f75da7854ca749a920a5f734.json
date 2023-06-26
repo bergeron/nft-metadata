@@ -1,0 +1,50 @@
+{
+  "address": "0x126ca81e08e777b6f75da7854ca749a920a5f734",
+  "type": "ERC721",
+  "name": "MarioX - Cant buy this",
+  "tokenCount": "3",
+  "uri": "ipfs://QmUtZ6kcmxTnmuADXby9wpbEvniMLLo3iBfRuUi5Tk9Z29",
+  "metadata": {
+    "title": "Reverse Card",
+    "name": "Reverse Card",
+    "type": "object",
+    "imageUrl": "ipfs://QmVn2SysDTKuHs3F3HD5exf9EUuWFxVzZswPZmiBQbtpce",
+    "description": "You can't buy this NFT.",
+    "attributes": [
+      {
+        "trait_type": "Creator",
+        "value": "marioxnyc"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Reverse Card"
+      },
+      "description": {
+        "type": "string",
+        "description": "You can't buy this NFT."
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "ipfs://QmVn2SysDTKuHs3F3HD5exf9EUuWFxVzZswPZmiBQbtpce"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "png"
+      },
+      "created_at": {
+        "type": "datetime",
+        "description": "2021-03-24T03:33:33.333Z"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 1
+      },
+      "raw_media_file": {
+        "type": "string",
+        "description": "ipfs://QmVn2SysDTKuHs3F3HD5exf9EUuWFxVzZswPZmiBQbtpce"
+      }
+    }
+  }
+}

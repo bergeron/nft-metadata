@@ -1,0 +1,33 @@
+{
+  "address": "0x9f41dd845121510d47d9c497a1baedb91f28f643",
+  "type": "ERC721",
+  "name": "MetaThirst with Open3",
+  "tokenCount": "232",
+  "uri": "ipfs://bafybeigtenau3lgdmiaslfoyckctbkatfh6tn3vleh7xeyzssqw2pfqd3q/1",
+  "metadata": {
+    "name": "MetaThirst #2114",
+    "description": "A collection of the most iconic crypto coins out there. This is MetaThirst. Your favorite crypto coin is represented in the form of a can.",
+    "image": "ipfs://bafybeia7ozxv5jwk2f4pq5flyqzojpda5ybpe37mz4wslim4z4awholqai/1.jpg",
+    "token_id": 1,
+    "edition": 2114,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Can Color",
+        "value": "#F77193"
+      },
+      {
+        "trait_type": "Label",
+        "value": "DOGE"
+      },
+      {
+        "trait_type": "Texture Set",
+        "value": "Collector"
+      }
+    ],
+    "compiler": "Open3"
+  }
+}

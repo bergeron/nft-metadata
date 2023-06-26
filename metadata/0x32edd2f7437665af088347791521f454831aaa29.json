@@ -1,0 +1,84 @@
+{
+  "address": "0x32edd2f7437665af088347791521f454831aaa29",
+  "type": "ERC721",
+  "name": "ShikibuWorld",
+  "tokenCount": "10000",
+  "uri": "https://shikibu-world.s3.ap-northeast-1.amazonaws.com/metadata/1.json",
+  "metadata": {
+    "name": "ShikibuWorld #1",
+    "description": "Shikibu is a character created by artist BUSON in 2017. Through CharaDAO project, Shikibu will sure become a character that will be used around the world even 100 years from now.",
+    "image": "https://shikibu-world.s3.ap-northeast-1.amazonaws.com/image/1.png",
+    "dna": "3de341e396f6fd316eb403adfdd3ec92d35ba055",
+    "edition": 1,
+    "date": 1670515273891,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow green "
+      },
+      {
+        "trait_type": "Back",
+        "value": "standard "
+      },
+      {
+        "trait_type": "Body",
+        "value": "face powder"
+      },
+      {
+        "trait_type": "Fashion",
+        "value": "green yukata "
+      },
+      {
+        "trait_type": "Facial",
+        "value": "sunburn19"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "adhesive plaster "
+      },
+      {
+        "trait_type": "Hair",
+        "value": "light blue twin tail "
+      },
+      {
+        "trait_type": "Eye",
+        "value": "light blue eyelashes"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "general "
+      },
+      {
+        "trait_type": "ポジティブ",
+        "value": 1,
+        "max_value": 10
+      },
+      {
+        "trait_type": "ユーモア",
+        "value": 5,
+        "max_value": 10
+      },
+      {
+        "trait_type": "センス",
+        "value": 9,
+        "max_value": 10
+      },
+      {
+        "trait_type": "行動力",
+        "value": 1,
+        "max_value": 10
+      },
+      {
+        "trait_type": "学習",
+        "value": 10,
+        "max_value": 10
+      },
+      {
+        "trait_type": "情熱",
+        "value": 3,
+        "max_value": 10
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

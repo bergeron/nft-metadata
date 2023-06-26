@@ -1,0 +1,33 @@
+{
+  "address": "0xd746cbf65716784bd01e5c200c636f7ddf8fcbdd",
+  "type": "ERC721",
+  "name": "Super Monkey King",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/d4iUqkrJwiKiars3i09KOfmrNP7sG_-soU93FnpBxZs",
+  "metadata": {
+    "name": "Punk Bear",
+    "created_by": "PGONE",
+    "description": "Punk bear are painted by AI",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "PGONE"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Cohere",
+        "max_value": "4",
+        "value": "10"
+      }
+    ],
+    "image_details": {
+      "bytes": 971097,
+      "format": "PNG",
+      "sha256": "bbf277c176c369f5554badb018a72507346e89655a3521a475c55d20b0d407ad",
+      "width": 960,
+      "height": 960
+    },
+    "image": "https://arweave.net/Xv7-IhvO0sFKsxrVbBLLF_M_NMhYWvYJMOlUapOuJd0",
+    "image_url": "https://arweave.net/Xv7-IhvO0sFKsxrVbBLLF_M_NMhYWvYJMOlUapOuJd0"
+  }
+}

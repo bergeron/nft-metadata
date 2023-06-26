@@ -1,0 +1,96 @@
+{
+  "address": "0x010be6545e14f1dc50256286d9920e833f809c6a",
+  "type": "ERC721",
+  "name": "Sacred Trees by hideo",
+  "tokenCount": "267",
+  "uri": "https://token.artblocks.io/0x010bE6545e14f1DC50256286d9920e833F809C6A/1",
+  "metadata": {
+    "platform": "LOM",
+    "tokenID": "1",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0xf5a5fabf99890c44e15bc2481b5080ccc1155e64",
+    "name": "Sacred Trees #1",
+    "minted": true,
+    "artist": "hideo",
+    "description": "Born from the Great Wizard’s dream, the Sacred Trees grow on distant worlds, surrounded by moons.  Magic runes will be granted to those who see them in a vision.\n\nR: toggle rotation\ndrag and drop to rotate\nscroll to zoom in and out",
+    "script_type": "three@0.124.0",
+    "project_id": "0",
+    "engine_type": "fullyonchain",
+    "image": "https://media-proxy.artblocks.io/0x010be6545e14f1dc50256286d9920e833f809c6a/1.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x010be6545e14f1dc50256286d9920e833f809c6a/1.png",
+    "generator_url": "https://generator.artblocks.io/0x010be6545e14f1dc50256286d9920e833f809c6a/1",
+    "animation_url": "https://generator.artblocks.io/0x010be6545e14f1dc50256286d9920e833f809c6a/1",
+    "royaltyInfo": {
+      "artistAddress": "0x78de7dcfa6fdf63a1bcf2584cc1cacc6f6635f4e",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Sacred Trees by hideo",
+    "website": "https://legendsofmetaterra.com/pbab/project/0",
+    "token_hash": "0xd4a8febf3856197617734cfa4da73f4fd6e3a09bdfc79547ca43629020d2a863",
+    "external_url": "",
+    "primary_asset_url": "https://generator.artblocks.io/0x010be6545e14f1dc50256286d9920e833f809c6a/1",
+    "features": {
+      "Moons": "2",
+      "Roots": "9",
+      "Trees": "1",
+      "Branches": "2",
+      "Rotation": "Increase",
+      "Pixel Mode": "No",
+      "Color Palette": "Clouds",
+      "Stars Density": "High",
+      "Twisted Trunk": "No",
+      "Radial Symmetry": "No"
+    },
+    "traits": [
+      {
+        "trait_type": "Sacred Trees",
+        "value": "All Sacred Trees"
+      },
+      {
+        "trait_type": "Sacred Trees",
+        "value": "Moons: 2"
+      },
+      {
+        "trait_type": "Sacred Trees",
+        "value": "Roots: 9"
+      },
+      {
+        "trait_type": "Sacred Trees",
+        "value": "Trees: 1"
+      },
+      {
+        "trait_type": "Sacred Trees",
+        "value": "Branches: 2"
+      },
+      {
+        "trait_type": "Sacred Trees",
+        "value": "Rotation: Increase"
+      },
+      {
+        "trait_type": "Sacred Trees",
+        "value": "Pixel Mode: No"
+      },
+      {
+        "trait_type": "Sacred Trees",
+        "value": "Color Palette: Clouds"
+      },
+      {
+        "trait_type": "Sacred Trees",
+        "value": "Stars Density: High"
+      },
+      {
+        "trait_type": "Sacred Trees",
+        "value": "Twisted Trunk: No"
+      },
+      {
+        "trait_type": "Sacred Trees",
+        "value": "Radial Symmetry: No"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-SA 4.0"
+  }
+}

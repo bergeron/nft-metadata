@@ -1,0 +1,22 @@
+{
+  "address": "0x152f04b930f9902471ddcba278c28bd51448fd17",
+  "type": "ERC721",
+  "name": "FLYSALPHA Access Pass",
+  "tokenCount": "900",
+  "uri": "ipfs://QmUWk22XXLxLc1w6XiTPcMTBWtrJ9tJRxUPCNnHvvU41KT/flysalpha_pass.json",
+  "metadata": {
+    "image": "ipfs://QmYgCE6zpfpaCPyiqQWSWuQ5VTfVYDSnyf6jiJPJukMa78/flysalpha-pass.mp4",
+    "name": "Flysalpha Access Pass",
+    "description": "This is your access into the Flysalpha Group",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "green"
+      },
+      {
+        "trait_type": "type",
+        "value": "access pass"
+      }
+    ]
+  }
+}

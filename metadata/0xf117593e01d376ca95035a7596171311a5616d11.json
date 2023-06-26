@@ -1,0 +1,31 @@
+{
+  "address": "0xf117593e01d376ca95035a7596171311a5616d11",
+  "type": "ERC1155",
+  "name": "Illuminion (NFTWiki.org)",
+  "tokenCount": "4",
+  "uri": "https://ipfs.io/ipfs/bafkreihhzez25lnspkpsdt3yzloxdeishqlbcz5ctfjobunqcksa7j2yca?filename=GreenMon.json",
+  "metadata": {
+    "description": "Tiny and energetic creature, with greenish skin colour, but unlike others from Monster species. GreenMons are friendly to human. Therefore most of them live close to our settlement - the Consensus Base.",
+    "external_url": "https://www.nftwiki.org",
+    "image": "https://ipfs.io/ipfs/bafkreihz76wgr34hla4d52nvwik6qh6xdw4jpyp5gnl2zamwoc3axjysha?filename=GreenMon.png",
+    "name": "GreenMon",
+    "attributes": [
+      {
+        "trait_type": "Species",
+        "value": "Monster"
+      },
+      {
+        "trait_type": "SubSpecies",
+        "value": "GreenMon"
+      },
+      {
+        "trait_type": "SkinColor",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Generation",
+        "value": "1"
+      }
+    ]
+  }
+}

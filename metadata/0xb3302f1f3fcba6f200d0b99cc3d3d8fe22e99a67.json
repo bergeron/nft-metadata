@@ -1,0 +1,45 @@
+{
+  "address": "0xb3302f1f3fcba6f200d0b99cc3d3d8fe22e99a67",
+  "type": "ERC721",
+  "name": "Artistic Resonance",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/fZF0qyuhHmT7di9io8Nc94qjYDDV0Z96m9lViauQMJ8",
+  "metadata": {
+    "name": "Shadow of the Ashen",
+    "created_by": "artistic_resonance",
+    "description": "To my brother.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "artistic_resonance"
+      },
+      {
+        "trait_type": "Shadow",
+        "value": "Konstantin"
+      }
+    ],
+    "image_details": {
+      "bytes": 572219,
+      "format": "PNG",
+      "sha256": "5266fa1c7430f80f82c7baff86414f6def090860984ecaca4583b79686582d84",
+      "width": 862,
+      "height": 1020
+    },
+    "image": "https://arweave.net/3aYsLn2iS-Lfyf2ws3_A1BNp8t9SB25LwWFQFIXCE3A",
+    "image_url": "https://arweave.net/3aYsLn2iS-Lfyf2ws3_A1BNp8t9SB25LwWFQFIXCE3A",
+    "animation_details": {
+      "bytes": 18812580,
+      "format": "MP4",
+      "duration": 35,
+      "sha256": "9c4e95acf66e1b3ce27c0a0b0155d765805bea3bd2bbfb09e850615f379962c2",
+      "width": 1632,
+      "height": 1920,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/wOMewSY26ymN3krMwh4Zny98QsoOhny6PEfBvr1fAB4",
+    "animation_url": "https://arweave.net/wOMewSY26ymN3krMwh4Zny98QsoOhny6PEfBvr1fAB4"
+  }
+}

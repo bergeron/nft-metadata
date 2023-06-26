@@ -1,0 +1,50 @@
+{
+  "address": "0x79d4f9801f758907f08d6d5f4d651f6b323a57d3",
+  "type": "ERC721",
+  "name": "Doodle X",
+  "tokenCount": "1048",
+  "uri": "ipfs://QmadRXV4jiKeYqDkU1F1fbY99z8QKeWFnrimJNb5QNP7H9/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://QmYNULTQ25eUPz7Y3UbhgdPjFbWiC54nEnxiexAPDnh3iv/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Human"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile 2"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Heart"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Purple Hair"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Jersey 2"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

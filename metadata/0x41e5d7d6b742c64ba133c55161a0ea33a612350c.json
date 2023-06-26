@@ -1,0 +1,42 @@
+{
+  "address": "0x41e5d7d6b742c64ba133c55161a0ea33a612350c",
+  "type": "ERC721",
+  "name": "Inkha NFT",
+  "tokenCount": "128",
+  "uri": "https://inkha.s3.eu-west-2.amazonaws.com/metadata/1",
+  "metadata": {
+    "image": "https://inkha.s3.eu-west-2.amazonaws.com/images/1.png",
+    "name": "Inkha #1",
+    "description": "Inkha, the world's first programmable NFT and first machine released as part of the Vlox environment.",
+    "attributes": [
+      {
+        "value": "1",
+        "trait_type": "Seed"
+      },
+      {
+        "value": "4",
+        "trait_type": "Fright"
+      },
+      {
+        "value": "Woozy",
+        "trait_type": "Sleepiness"
+      },
+      {
+        "value": "Absent",
+        "trait_type": "Character"
+      },
+      {
+        "value": "3",
+        "trait_type": "Sulkiness"
+      },
+      {
+        "value": "Far",
+        "trait_type": "Focus"
+      },
+      {
+        "value": "Brown",
+        "trait_type": "EyeColour"
+      }
+    ]
+  }
+}

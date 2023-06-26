@@ -1,0 +1,40 @@
+{
+  "address": "0x8f9e976f58cb224fc02f973be70ccac4562c0dce",
+  "type": "ERC721",
+  "name": "Jelly Bean Budz",
+  "tokenCount": "8",
+  "uri": "https://us-central1-jelly-bean-budz.cloudfunctions.net/data/token/1",
+  "metadata": {
+    "description": "Jelly Bean Bud #0001 loves handsome dancing.",
+    "external_url": "https://jellybeanbudz.xyz",
+    "image": "https://gateway.pinata.cloud/ipfs/QmS8UrciNN6eWVGjp4gJHxdCNQc9YjLvuZqY8nQEu6uETR/0000.png",
+    "name": "Jelly Bean Bud #0001",
+    "attributes": [
+      {
+        "trait_type": "Music",
+        "value": 45,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Dancing",
+        "value": 40,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Drinks",
+        "value": 34,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Snacks",
+        "value": 61,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Games",
+        "value": 64,
+        "max_value": 100
+      }
+    ]
+  }
+}

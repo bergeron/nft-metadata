@@ -1,0 +1,42 @@
+{
+  "address": "0x329558cf69711664f63201af6d42a3ee467f623f",
+  "type": "ERC721",
+  "name": "Lundy House Sparrow NFT",
+  "tokenCount": "299",
+  "uri": "ipfs://QmeFt19vjmWRH5LqidAqnQuWfqm94sXfkpMWWkmsgwNEgF/1.json",
+  "metadata": {
+    "description": "This house sparrow lives on Lundy Island located in the Bristol Channel, UK. The attributes are taken from a database which records information about sparrows on the island. BirdID is the unique identifier for each sparrow. Cohort stands for the year the bird is hatched. Sex is the sex of the sparrow. Age denotes how many days the bird has been alived for. Male fecundity/female fecundity indicates how many broods the bird has. All birds have monitoring rings attached to them, and ring count is the number of rings the bird carries.",
+    "image": "ipfs://Qma8nDue1zj5dDnK2cYbfEQRKeNJKZ2Xi1BaQpjQRSK5Gu/2.png",
+    "name": "Sparrow #1",
+    "attributes": [
+      {
+        "trait_type": "BirdID",
+        "value": "2"
+      },
+      {
+        "trait_type": "Cohort",
+        "value": "2001"
+      },
+      {
+        "trait_type": "Sex",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Age",
+        "value": "11"
+      },
+      {
+        "trait_type": "MaleFecundity",
+        "value": "None"
+      },
+      {
+        "trait_type": "FemaleFecundity",
+        "value": "None"
+      },
+      {
+        "trait_type": "Ringcount",
+        "value": "3"
+      }
+    ]
+  }
+}

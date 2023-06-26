@@ -1,0 +1,44 @@
+{
+  "address": "0x24b690bea3e03987bf5deaf91d614b32dcbf8c50",
+  "type": "ERC721",
+  "name": "Tomato 1/1s",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/XrKe8IjxX4lDNx9_ZWgXmxyN7f4hDicyRtMzgutsFd8",
+  "metadata": {
+    "name": "Escape",
+    "created_by": "Tomato",
+    "description": "A cube escapes to discover its true form.\n\nColored pencil and digital 3D\n\n1620x2880 60fps mp4",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "License",
+        "value": "CC0"
+      }
+    ],
+    "animation_details": {
+      "bytes": 30642906,
+      "format": "MP4",
+      "duration": 7,
+      "sha256": "f1bcd634dadf9ed6a3fa4b5abba16e7754ec9efe304fc3b0838f0c2895daeb8d",
+      "width": 1620,
+      "height": 2880,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/qc3OaGvEbchfzouLkvDZX4Pb1KgUL2HYWMcGah7NKCc",
+    "animation_url": "https://arweave.net/qc3OaGvEbchfzouLkvDZX4Pb1KgUL2HYWMcGah7NKCc",
+    "image_details": {
+      "bytes": 1062650,
+      "format": "JPEG",
+      "sha256": "6893d611cc310549324a9984a7258e3aa9d8110bf689ef300a183212a8d0cce3",
+      "width": 1620,
+      "height": 1620
+    },
+    "image": "https://arweave.net/DiSCbx7twspJAc8xGzVYo8ARxzqAFaVhsAPbhdwlxsE",
+    "image_url": "https://arweave.net/DiSCbx7twspJAc8xGzVYo8ARxzqAFaVhsAPbhdwlxsE"
+  }
+}

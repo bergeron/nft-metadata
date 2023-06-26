@@ -1,0 +1,50 @@
+{
+  "address": "0x2a164cb4ec34c6b102d319910231ae1a494477ca",
+  "type": "ERC721",
+  "name": "Doogles - old",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeiffobte7hy64b7zd37lq5b5jd7jel6lck2khuxeoqv3bn7tiew3qe/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "",
+    "external_url": "",
+    "image": "1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Doggles_-_Backgrounds-8"
+      },
+      {
+        "trait_type": "Body (Holding)",
+        "value": "Doogles_-_Bodies_2-5"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Doogles_-things_To_Hold-1"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Doogles_-_Bodies_1-4 3"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Doogles_-_Bodies_1-2"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Doggles_-_Accessories-18"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

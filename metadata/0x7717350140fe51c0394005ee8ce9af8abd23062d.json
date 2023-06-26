@@ -1,0 +1,37 @@
+{
+  "address": "0x7717350140fe51c0394005ee8ce9af8abd23062d",
+  "type": "ERC721",
+  "name": "Genuine Alien",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmcNb4oWLpMv8osWa68wcpgSSNCcW7pvpKfNePefdrznRG/1.json",
+  "metadata": {
+    "name": "Genuine Alien #1",
+    "description": "Genuine Aliens is a collection of intergalactic species.",
+    "image": "ipfs://QmbDUJZz3YGxLXtQLBSGBVMas5H2UvzpPqysrAe2FRoMNq/1.png",
+    "edition": 1,
+    "date": 1666025861561,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Swamp"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Biker Jacket"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Headware",
+        "value": "Capsule Cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

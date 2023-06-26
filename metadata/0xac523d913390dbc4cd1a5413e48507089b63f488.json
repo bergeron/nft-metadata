@@ -1,0 +1,59 @@
+{
+  "address": "0xac523d913390dbc4cd1a5413e48507089b63f488",
+  "type": "ERC721",
+  "name": "NumbSkulls Official",
+  "tokenCount": "995",
+  "uri": "https://cdn-api.niftykit.com/reveal/5orz1FIyeifowGhvdLvv/1",
+  "metadata": {
+    "dna": "f5f1a979497fb0d02fceec8e1fe3ec8300f17cbf588ac5c0bb645c4e2f7eb673",
+    "name": "NumbSkull #1",
+    "description": "Minimal. Iconic. Stupid. Skulls.",
+    "image": "https://nftstorage.link/ipfs/bafybeidqnd36susfvbkuiwv2qlour7orckhkcat7ndvxuli7qfmfgmkruq/1.svg",
+    "imageHash": "6b7ac60bd49b40c65e492a15bf0ecb0cce07b8db46192b22050b357a1707703d",
+    "edition": 1,
+    "date": 1663258846238,
+    "attributes": [
+      {
+        "trait_type": "Skull",
+        "value": "Frankenstein"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Golden Pearlies"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Reptilian"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blinky"
+      },
+      {
+        "trait_type": "Death Day",
+        "options": {
+          "bypassDNA": true
+        },
+        "value": "February 5, 2016"
+      },
+      {
+        "trait_type": "Killed By",
+        "options": {
+          "bypassDNA": true
+        },
+        "value": "A maniacal cowboy."
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.svg",
+          "type": "image/svg"
+        }
+      ]
+    },
+    "compiler": "NumbSkulls",
+    "seller_fee_basis_points": 750,
+    "fee_recipient": "0xCa724cAC820B10D9568E4eb4BB4c8885A4F5feDB"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "0x50297ae40669344996c4e1a4a98e73ec994df589",
+  "type": "ERC721",
+  "name": "Artwork by Pixcasso",
+  "tokenCount": "500",
+  "uri": "ipfs://QmZTWhXrHasKeAjrcPZmeJ2XAjNgcDePzjDv6D1KBfpAQB/1.json",
+  "metadata": {
+    "name": "Artwork #1",
+    "description": "Made with algorithms (artificial intelligence) Edited in Adobe photoshop and some different tools on the internet.\nWith Pixcasso his sticky fingers. Everyone deserves a nice piece of art in their wallet some. Wise words from our master. Do something with it.",
+    "fee_recipient": "0x9B6a404066E2E995E570D8EC628E082663d550b4",
+    "seller_fee_basis_points": 1000,
+    "image": "ipfs://QmdDAxtQCQRffFNUqAaPecNErkuNTEHU6wqmeErUTyQEdg/1.png",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Lazy Colors"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 1,
+        "display_type": "number"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0xd3c341ad58cd60878f8881ca9a10568d729f73d5",
+  "type": "ERC721",
+  "name": "Chain of Life",
+  "tokenCount": "449",
+  "uri": "ipfs://QmRidSghZ9CPZy4LoKrK1ga5af5ZePYTpBDBptpgnUG9BG/1",
+  "metadata": {
+    "name": "Chain of Life #232",
+    "description": "Inspired by 'Game of Life' invented in 1970 by Cambridge mathematician John Conway. Algorithmically generated cellular automation. 100% Random. 100% Unique.",
+    "image": "ipfs://QmQMEZEQVdHkcvXAwyoEF75JDKytGNMMLqtmDdKUEhXrMA/1.gif",
+    "attributes": [
+      {
+        "trait_type": "ALIVE_COLOR_1",
+        "value": "(233, 208, 40)"
+      },
+      {
+        "trait_type": "ALIVE_COLOR_2",
+        "value": "(37, 57, 53)"
+      },
+      {
+        "trait_type": "DEAD_COLOR",
+        "value": "(253, 170, 250)"
+      },
+      {
+        "trait_type": "PROBABILITY",
+        "value": "0.258303921077216"
+      },
+      {
+        "trait_type": "DIMENSIONS",
+        "value": "512X512"
+      },
+      {
+        "trait_type": "TIMESTAMP",
+        "value": "1678748747"
+      }
+    ]
+  }
+}

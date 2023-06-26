@@ -1,0 +1,49 @@
+{
+  "address": "0x7cbba2e74a578c958e88cc8c73ed51b2d56eaf5a",
+  "type": "ERC721",
+  "name": "Wheres Kevin",
+  "tokenCount": "43",
+  "uri": "ipfs://Qma2HPWzpcH4pxYhCeDk8U1H79DDHMUzsDiCXcWn3xbuf4/1.json",
+  "metadata": {
+    "name": "Kevin #1",
+    "description": "44 unique Kevins in various locations and situations",
+    "external_url": "https://manic.art",
+    "image": "ipfs://QmNeYKFAbHxmLET4sXQSjE62sSfZKh3ws2t8FCwdBv6tjY/1.png",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Restaurant"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Kevin"
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Manic"
+      },
+      {
+        "trait_type": "Number",
+        "value": "1"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        "Manic Distopia"
+      ]
+    },
+    "compiler": "https://manic.art",
+    "collection": {
+      "name": "Where's Kevin",
+      "family": "Where's Kevin"
+    },
+    "symbol": ""
+  }
+}

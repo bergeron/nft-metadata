@@ -1,0 +1,35 @@
+{
+  "address": "0x0824176196442c2e8e17ae39c7fa825b4ed7434c",
+  "type": "ERC721",
+  "name": "Spoiled Egg Co.",
+  "tokenCount": "45",
+  "uri": "ipfs://bafybeic3hmk67op6mqimnc26jmgj6zm6op4fnvdkje7zucuf7cpiyxeqny/1.json",
+  "metadata": {
+    "name": "Spoiled Egg #1",
+    "description": "Spoiled Egg Co.",
+    "image": "ipfs://bafybeiawsoheirvjh7sfdwe2we2fsd54k3gsg3mmno2374g47kkl6dkkv4/1.PNG",
+    "attributes": [
+      {
+        "trait_type": "Generation",
+        "value": "Memento"
+      },
+      {
+        "trait_type": "Family",
+        "value": "The Tokenlins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Incubation",
+        "value": 1648357200000
+      }
+    ],
+    "external_url": "https://spoiledeggco.com",
+    "custom_fields": {
+      "edition": 1
+    }
+  }
+}

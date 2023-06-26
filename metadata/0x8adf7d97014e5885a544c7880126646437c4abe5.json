@@ -1,0 +1,75 @@
+{
+  "address": "0x8adf7d97014e5885a544c7880126646437c4abe5",
+  "type": "ERC721",
+  "name": "World of Balatroon V3 - old",
+  "tokenCount": "1",
+  "uri": "https://goons-metadata.herokuapp.com/land/1",
+  "metadata": {
+    "id": 1,
+    "name": "Balatroon Land #1",
+    "description": "One of the land parcels of the World of Balatroon. Own a part of the Balatroon metaverse, and tap into the world's gaming economy!",
+    "image": "https://goonlands.s3.amazonaws.com/lands/581.png",
+    "attributes": [
+      {
+        "trait_type": "Faction",
+        "value": "Bull"
+      },
+      {
+        "trait_type": "Terrain",
+        "value": "Bayou"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Terrain Level",
+        "value": 2
+      },
+      {
+        "trait_type": "Landmark",
+        "value": "None"
+      },
+      {
+        "trait_type": "Creature",
+        "value": "Mglak"
+      },
+      {
+        "trait_type": "Creature Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Relic",
+        "value": "Sword in the Stone"
+      },
+      {
+        "trait_type": "Relic Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Resource 1",
+        "value": "Cattails"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Resource 1 Level",
+        "value": 1
+      },
+      {
+        "trait_type": "Resource 2",
+        "value": "Elm Wood"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Resource 2 Level",
+        "value": 1
+      },
+      {
+        "trait_type": "Resource 3",
+        "value": "Oak Wood"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Resource 3 Level",
+        "value": 1
+      }
+    ]
+  }
+}

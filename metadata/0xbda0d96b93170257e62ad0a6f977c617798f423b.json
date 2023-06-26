@@ -1,0 +1,54 @@
+{
+  "address": "0xbda0d96b93170257e62ad0a6f977c617798f423b",
+  "type": "ERC721",
+  "name": "etherstu.Art Gallery Keys",
+  "tokenCount": "262",
+  "uri": "https://arweave.net/9BF7P_f12IQ4BMGfsgM-LxjcXNe6SuSgTCQy4vF4U1E/1",
+  "metadata": {
+    "name": "L4 Marquise #1/21",
+    "created_by": "etherstu",
+    "external_url": "https://etherstu.art",
+    "description": "Marquise Class Gallery Key to FLAGSHIP etherstu.Art Gallery\n\nThe Marquise Token ID reflects the location within the numbered floor within FLAGSHIP",
+    "attributes": [
+      {
+        "trait_type": "Gallery",
+        "value": "FLAGSHIP"
+      },
+      {
+        "value": "Marquise",
+        "trait_type": "Key Class"
+      },
+      {
+        "trait_type": "Artworks",
+        "value": "3"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "4"
+      }
+    ],
+    "animation_details": {
+      "bytes": 13709028,
+      "format": "MP4",
+      "duration": 16,
+      "sha256": "7b2fe82dd99f0ec8b31f52de22f10aca623c9e11f90fa191debb5d6e1d3ca69a",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/MYZzWK_9wXBzirPK2oWhDYecGbZzF4N7hjmA7J7NqOE",
+    "animation_url": "https://arweave.net/MYZzWK_9wXBzirPK2oWhDYecGbZzF4N7hjmA7J7NqOE",
+    "image_details": {
+      "bytes": 2192704,
+      "format": "PNG",
+      "sha256": "4a038920b17afba037e5298dbd77e526cba4197fb477f232e2ad1abc817462da",
+      "width": 3351,
+      "height": 2296
+    },
+    "image": "https://arweave.net/24mMEOtR2T-0g-XQMCSFAJDJGA270aFTyztk6krQfLk",
+    "image_url": "https://arweave.net/24mMEOtR2T-0g-XQMCSFAJDJGA270aFTyztk6krQfLk"
+  }
+}

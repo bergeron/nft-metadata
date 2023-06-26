@@ -1,0 +1,34 @@
+{
+  "address": "0x8b947d5d33c9b664b91d41e8118bdea99979eadb",
+  "type": "ERC721",
+  "name": "PulsePot - Next Gen NFTs",
+  "tokenCount": "7",
+  "uri": "https://bafybeihnpghar4uzyzoijayixdehnjl2uf6v7nyegzdgieyynsywo6rqwy.ipfs.nftstorage.link/pls.json",
+  "metadata": {
+    "description": "PLS Roulette on Pulsechain.",
+    "image": "https://bafybeieumxjepzabsuh35sehi6c6wmlh4bn7fowx2e46445ttemkjmgwvm.ipfs.nftstorage.link/pls-roulette.jpg",
+    "name": "PLS Roulette",
+    "attributes": [
+      {
+        "trait_type": "Token",
+        "value": "PLS"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Pulsechain"
+      },
+      {
+        "trait_type": "Max Bet",
+        "value": "25000$"
+      },
+      {
+        "trait_type": "Fee",
+        "value": "3%"
+      },
+      {
+        "trait_type": "Style",
+        "value": "European"
+      }
+    ]
+  }
+}

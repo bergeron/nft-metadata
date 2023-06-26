@@ -1,0 +1,51 @@
+{
+  "address": "0xdaf7b29fd751cfa1b49abe0c11c639dfb2856ea9",
+  "type": "ERC721",
+  "name": "Cameron John Bale v1 - old",
+  "tokenCount": "25",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=TVMoewXT6qqeMEh8Nc57",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1586809938706?alt=media&token=7a09f1c8-adcd-46ae-9164-94770a9c1889",
+    "forSale": false,
+    "contractAddress": "0xdaf7b29fd751cfa1b49abe0c11c639dfb2856ea9",
+    "description": "tttxxxxlkbkjbkjvjhckhc",
+    "tags": [],
+    "amountToMint": 25,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1586810032,
+      "_nanoseconds": 619000000
+    },
+    "price": 0,
+    "name": "Test",
+    "fiatPrice": "$0.00",
+    "attributes": [
+      {
+        "trait_type": "website",
+        "value": ""
+      },
+      {
+        "trait_type": "location",
+        "value": "Montreal, QC, Canada"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJDbdkHFQayUwR7-8fITgxTmU"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1585972800
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": 1588996800
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0xdaf7b29fd751cfa1b49abe0c11c639dfb2856ea9",
+    "type": "ERC721"
+  }
+}

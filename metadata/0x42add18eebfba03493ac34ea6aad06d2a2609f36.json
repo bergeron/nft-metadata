@@ -1,0 +1,38 @@
+{
+  "address": "0x42add18eebfba03493ac34ea6aad06d2a2609f36",
+  "type": "ERC721",
+  "name": "XTREME ROCKS",
+  "tokenCount": "1000",
+  "uri": "ipfs://bafybeieagpgnemnvll7xqaurbbdnarfduwlneb7ooesatamfgtwuna72xa/1.json",
+  "metadata": {
+    "name": "XTREME ROCK #1",
+    "description": "Once upon a time, there was a small rock named XTREME ROCK.",
+    "image": "ipfs://bafybeidffveisi6dglrygjntybm6smju6gnl5df2dwoepbhxdzv5d5stgi/1.png",
+    "dna": "e59666a1e0a101608f1f1c759feaadd6cfd6fadd",
+    "edition": 1,
+    "date": 1686063240739,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "HeadRock",
+        "value": "Phantom"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Baindaid"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Bandana"
+      }
+    ],
+    "compiler": "XTREME"
+  }
+}

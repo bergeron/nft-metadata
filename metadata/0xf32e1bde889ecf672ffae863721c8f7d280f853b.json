@@ -1,0 +1,41 @@
+{
+  "address": "0xf32e1bde889ecf672ffae863721c8f7d280f853b",
+  "type": "ERC721",
+  "name": "HappyLand Gummy Bears",
+  "tokenCount": "9600",
+  "uri": "https://happylandgummybears.s3.us-west-2.amazonaws.com/1",
+  "metadata": {
+    "name": "Gummy Bear #1",
+    "image": "https://happylandgummybears.s3.us-west-2.amazonaws.com/bear_8804.png",
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "Isla"
+      },
+      {
+        "trait_type": "Bear Den",
+        "value": "rose"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "hand-claws"
+      },
+      {
+        "trait_type": "Legs",
+        "value": "bear-trap"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mole"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "gold-earrings"
+      },
+      {
+        "trait_type": "Head",
+        "value": "halo"
+      }
+    ]
+  }
+}

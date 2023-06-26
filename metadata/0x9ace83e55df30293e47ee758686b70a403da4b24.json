@@ -1,0 +1,24 @@
+{
+  "address": "0x9ace83e55df30293e47ee758686b70a403da4b24",
+  "type": "ERC721",
+  "name": "Bobbaverse",
+  "tokenCount": "1139",
+  "uri": "ipfs://QmRrNofkVpqs8CngxEx9Mb5CDKn6vWGTxF1jRX1Y22j1he/1.json",
+  "metadata": {
+    "name": "Cornershop #1",
+    "description": "An upcoming role-play P2E MMO. Set in a distant future of the world where humans are now synthetic beings working to sustain and reproduce bobba",
+    "image": "ipfs://QmTmLqnqK5dzszuWtHGbzjZ4EtAkvpEUkuoNs6tvGUwL3Z/cornershop.gif",
+    "external_url": "https://bobbaverse.xyz",
+    "attributes": [
+      {
+        "trait_type": "Building",
+        "value": "Cornershop"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Bobba Production Rate",
+        "value": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "address": "0x8fb196d32ac38d9e5dce0160de7e9c2acf62fae5",
+  "type": "ERC721",
+  "name": "ENK NFTs",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/qVeX11DVuN9LSLxqV_zJW5SbUMjCtPyvMFuPrXwn2FQ",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1649295260
+      },
+      {
+        "trait_type": "Creator",
+        "value": "E. N. Keay"
+      }
+    ],
+    "description": "E's story about Huggy Wuggy and Kissy Missy",
+    "external_url": "https://cxip.io/nft/0x8fb196d32ac38d9e5dce0160de7e9c2acf62fae5/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/j3FPHxHRsg9UbGdT47lgDqSmkuUS0MCZkQFP7y--gfI",
+    "imageUrl": "https://arweave.net/j3FPHxHRsg9UbGdT47lgDqSmkuUS0MCZkQFP7y--gfI",
+    "name": "Huggy Wuggy and Kissy Missy",
+    "properties": {
+      "created_at": "2022-04-07T01:34:20.000000Z",
+      "creator_wallet": "0x32347254dca4dfb15c0802f42e8b6efc5e1302a5",
+      "description": "E's story about Huggy Wuggy and Kissy Missy",
+      "image": "https://arweave.net/j3FPHxHRsg9UbGdT47lgDqSmkuUS0MCZkQFP7y--gfI",
+      "imageUrl": "https://arweave.net/j3FPHxHRsg9UbGdT47lgDqSmkuUS0MCZkQFP7y--gfI",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "7 April 2022",
+      "name": "Huggy Wuggy and Kissy Missy",
+      "nft_type": "non-fungible image token (image/png)",
+      "preview_media_file": "https://arweave.net/lgyAPgrDc4Sg3yG3BvSo9bqHb5g39kyX7NlLQMwoVIQ",
+      "preview_media_file_dimensions": "360x466",
+      "preview_media_file_size": 124145,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "2550x3300",
+      "raw_media_file": "https://arweave.net/LoHu2UMvSZegy3mysrPuF7Nh4X92szaIF-J-IfBxEwk",
+      "raw_media_file_size": 17674501,
+      "raw_media_file_spec": "PNG 2550x3300 2550x3300+0+0 8-bit sRGB 16.8557MiB 0.000u 0:00.000",
+      "raw_media_file_type": "image/png",
+      "raw_media_format": "portrait",
+      "raw_media_signature": "0xd821f1c5592bf1dbeaedc8b661f8a70292de57bbf5bc6f0f74a54df497917ca7",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/lgyAPgrDc4Sg3yG3BvSo9bqHb5g39kyX7NlLQMwoVIQ",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Huggy Wuggy and Kissy Missy",
+      "total_supply": 1
+    },
+    "title": "Huggy Wuggy and Kissy Missy"
+  }
+}

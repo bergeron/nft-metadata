@@ -1,0 +1,84 @@
+{
+  "address": "0x586dae24dd99ac8a240cc475b052a9f737808073",
+  "type": "ERC721",
+  "name": "Gates of Ethernity",
+  "tokenCount": "1136",
+  "uri": "https://api.aethergames.io/get/metadata/1.json",
+  "metadata": {
+    "name": "Shiny Tergy",
+    "description": "Gates of Ethernity Genesis NFT by Aether Games Inc. An exclusive collection of 3000 GoE creatures. On top of being playable creatures within the upcoming game Gates of Ethernity, these NFT give you access to exclusive skins, consumables, and more within the Aether Games franchise.",
+    "image": "https://api.aethergames.io/get/videos/GOLD_RARE_CHAOS_STALKER.mp4",
+    "video": "https://api.aethergames.io/get/videos/GOLD_RARE_CHAOS_STALKER.mp4",
+    "animation_url": "https://api.aethergames.io/get/videos/GOLD_RARE_CHAOS_STALKER.mp4",
+    "external_url": "https://goe.gg",
+    "coe_image": "https://api.aethergames.io/get/coe_images/Tergy_ev1_shiny.mp4",
+    "attributes": [
+      {
+        "name": "Race",
+        "value": "Dragon",
+        "trait_type": "Race"
+      },
+      {
+        "name": "Element",
+        "value": "Chaos",
+        "trait_type": "Element"
+      },
+      {
+        "name": "Evolution",
+        "value": 1,
+        "trait_type": "Evolution"
+      },
+      {
+        "name": "Rarity",
+        "value": "Common",
+        "trait_type": "Rarity"
+      },
+      {
+        "name": "CoE Asset",
+        "value": "Ethernal Mini Pet",
+        "trait_type": "CoE Asset"
+      },
+      {
+        "name": "CoE Pet Name",
+        "value": "Shiny Tergy",
+        "trait_type": "CoE Pet Name"
+      },
+      {
+        "name": "Attack",
+        "value": 8,
+        "max-value": 20,
+        "trait_type": "Attack"
+      },
+      {
+        "name": "Defense",
+        "value": 5,
+        "max-value": 20,
+        "trait_type": "Defense"
+      },
+      {
+        "name": "Speed",
+        "value": 11,
+        "max-value": 20,
+        "trait_type": "Speed"
+      },
+      {
+        "name": "Aether",
+        "value": 14,
+        "max-value": 20,
+        "trait_type": "Aether"
+      },
+      {
+        "name": "Crit Chance",
+        "value": 12,
+        "max-value": 20,
+        "trait_type": "Crit Chance"
+      },
+      {
+        "name": "Overall",
+        "value": 50,
+        "max-value": 100,
+        "trait_type": "Overall"
+      }
+    ]
+  }
+}

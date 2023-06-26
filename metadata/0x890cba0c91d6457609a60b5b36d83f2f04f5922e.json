@@ -1,0 +1,20 @@
+{
+  "address": "0x890cba0c91d6457609a60b5b36d83f2f04f5922e",
+  "type": "ERC721",
+  "name": "Provenance Membership",
+  "tokenCount": "64",
+  "uri": "https://s3.us-west-1.wasabisys.com/provenance/metadata/1",
+  "metadata": {
+    "tokenID": 1,
+    "name": "#0001",
+    "description": "This is a unique, soulbound Provenance membership token. Provenance is an experimental collective, bridging mechanics of traditional membership and emergent technology. There is no roadmap, our community is the only certain utility. \n\nLearn more about Provenance and becoming a member at https://provenance.so.",
+    "image": "https://s3.us-west-1.wasabisys.com/provenance/ProvStatic.png",
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "value": "Legend"
+      }
+    ],
+    "animation_url": "https://s3.us-west-1.wasabisys.com/provenance/Provenance.mp4"
+  }
+}

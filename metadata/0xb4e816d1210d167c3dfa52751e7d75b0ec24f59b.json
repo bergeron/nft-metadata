@@ -1,0 +1,54 @@
+{
+  "address": "0xb4e816d1210d167c3dfa52751e7d75b0ec24f59b",
+  "type": "ERC721",
+  "name": "The Gala NFT",
+  "tokenCount": "999",
+  "uri": "ipfs://QmPHWuHdcua5kp2w4Pz2ecSH2XgzcHoowvtAV1GNSVcEth/1.json",
+  "metadata": {
+    "name": "The Gala #1",
+    "description": "The Gala is a collection of 999 randomly generated NFT's. Each Token acts as an invite to an interactive story that rewards users exclusive prizes.",
+    "image": "ipfs://QmXRmPYZwMYN7iB3o1zGX1sDgwJVYzBnu5ESkdXnaZAaam/1.png",
+    "dna": "b348006d6cb204ff6d7ebd5787bf054e7bedd09e",
+    "edition": 1,
+    "date": 1666553978906,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "Deco_1"
+      },
+      {
+        "trait_type": "Gentleman Body",
+        "value": "Blue_Gentlemen"
+      },
+      {
+        "trait_type": "Gentleman Outfit",
+        "value": "Black_Tuxedo"
+      },
+      {
+        "trait_type": "Gentleman Mouth",
+        "value": "Mustache"
+      },
+      {
+        "trait_type": "Gentleman Eyes",
+        "value": "Blue_Tired"
+      },
+      {
+        "trait_type": "Gentleman Hair",
+        "value": "Shaved"
+      },
+      {
+        "trait_type": "Gentleman Eyewear",
+        "value": "Eyepatch"
+      },
+      {
+        "trait_type": "Gentleman Hand",
+        "value": "Whiskey"
+      },
+      {
+        "trait_type": "Overlays",
+        "value": "The_Gala_Vignette_Overlay"
+      }
+    ],
+    "compiler": "The Gala"
+  }
+}

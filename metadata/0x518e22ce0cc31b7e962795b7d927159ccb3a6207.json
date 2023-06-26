@@ -1,0 +1,59 @@
+{
+  "address": "0x518e22ce0cc31b7e962795b7d927159ccb3a6207",
+  "type": "ERC721",
+  "name": "Cattery Test",
+  "tokenCount": "2",
+  "uri": "https://madcatmilitia-metadata-api.herokuapp.com/api/token/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Sapphire"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "White String Vest"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Sapphire"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Bitten"
+      },
+      {
+        "trait_type": "Muzzle",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Whiskers",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Battalion",
+        "value": "Tomcat Troop"
+      },
+      {
+        "trait_type": "Rank",
+        "value": "Captain"
+      }
+    ],
+    "description": "MCM NFT",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmdXhsYdvypFVzaguStpNcbSyR3tuWbZ3kcGuqHU6kYKCT",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdXhsYdvypFVzaguStpNcbSyR3tuWbZ3kcGuqHU6kYKCT",
+    "name": "15"
+  }
+}

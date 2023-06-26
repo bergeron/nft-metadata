@@ -1,0 +1,64 @@
+{
+  "address": "0x439bcdf89d8d40df3c5c1b5392be789b02eb5fa1",
+  "type": "ERC721",
+  "name": "Dinger Squad - Chulo",
+  "tokenCount": "4",
+  "uri": "https://dingers.mypinata.cloud/ipfs/QmQ1BbfafitY3gwsD2snifMJ2jkN5NfvCAntbeB5Kb29R9/1.json",
+  "metadata": {
+    "name": "Chulo 1",
+    "description": "Chulo, a good luck charm for all Dinger Squad teammates. Chulo will charm you as well as make you feel empowered on the field. The most handsome dark lil guy mascot ever",
+    "external_url": "",
+    "image": "https://dingers.mypinata.cloud/ipfs/QmddW5duxiFs9Ra1bcBj6EhN6r6Y5g65DK3u6u59sK8CnR/1.webp",
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "GREEN-SHADOW-BOX"
+      },
+      {
+        "trait_type": "BOX ITEMS RIGHT",
+        "value": "NOTHING"
+      },
+      {
+        "trait_type": "BOX ITEMS LEFT",
+        "value": "PEACE-STONE"
+      },
+      {
+        "trait_type": "CLOTHING",
+        "value": "1930S-UNIFORM"
+      },
+      {
+        "trait_type": "HEADWEAR",
+        "value": "STRAW-FEDORA"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "CIGAR"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "RIGHT HAND",
+        "value": "BLACK-BASEBALL"
+      },
+      {
+        "trait_type": "LEFT HAND",
+        "value": "BABY-BLUE-BIEGE-GLOVE"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "",
+    "seller_fee_basis_points": 200,
+    "fee_recipient": "0x0F69721C6e70497419DD09fBA27103B1A5f57CBC"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0x72ac320bc73a128c05ed547c83c13b69ac4e974d",
+  "type": "ERC721",
+  "name": "Bit-Barbarians",
+  "tokenCount": "4362",
+  "uri": "ipfs://QmQRRNFFAzhdQjF7kUkp9LXUbwWc8zcaVxoTgkrbTPHC3E/1.json",
+  "metadata": {
+    "dna": "f4e47cc8cec67b4b936626b90fa5e96453576d45",
+    "name": "Barbarian #1",
+    "description": "5000 Barbarians at your service!",
+    "image": "ipfs://QmNRj2JkTWRitXCvp5ZhYDmBMna6Y9mAov82Tv9gVHHcYQ/1.gif",
+    "edition": 1,
+    "date": 1650026214484,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "Bamboo Forest"
+      },
+      {
+        "trait_type": "WEAPON",
+        "value": "Double Sword"
+      },
+      {
+        "trait_type": "BODY",
+        "value": "Green Poncho"
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Cowboy"
+      },
+      {
+        "trait_type": "NECKLACE",
+        "value": "No Necklace"
+      },
+      {
+        "trait_type": "PET",
+        "value": "No Pet"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  }
+}

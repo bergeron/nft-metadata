@@ -1,0 +1,23 @@
+{
+  "address": "0x23fc142a6ba57a37855d9d52702fda2ec4b4fd53",
+  "type": "ERC721",
+  "name": "Phrocks (Legacy)",
+  "tokenCount": "100",
+  "uri": "https://etherphrock.com/phrock/1",
+  "metadata": {
+    "name": "Phrock #1",
+    "description": "It's a phrock.",
+    "external_url": "https://etherphrock.com/phrock/1",
+    "image": "https://etherphrock.com/images/1.png",
+    "attributes": [
+      {
+        "trait_type": "Facing",
+        "value": "Right"
+      },
+      {
+        "trait_type": "Rock",
+        "value": "Yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "0x6c4d232ebf1dc4b19adbdb3afaabce9907c3ff00",
+  "type": "ERC721",
+  "name": "Test--collection",
+  "tokenCount": "6",
+  "uri": "ipfs://QmYuFsLYhZKobxVTA5zBDnHSBdSSBoB1GM6obZz1JiQoxY/1.json",
+  "metadata": {
+    "name": "Game Bos #729",
+    "description": "A collection of 1000 unique Game Bois with various rarities.",
+    "image": "ipfs://QmSCyiRnaykic5d8XgRxGfoMnWGbM4FTHsGQ3C9cjJT93m/1.png",
+    "edition": 729,
+    "date": 1650739033508,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cotton Candy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Wood"
+      },
+      {
+        "trait_type": "Hardware",
+        "value": "Leather"
+      },
+      {
+        "trait_type": "Screen",
+        "value": "Tie Dye"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

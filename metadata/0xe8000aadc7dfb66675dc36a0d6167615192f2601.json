@@ -1,0 +1,41 @@
+{
+  "address": "0xe8000aadc7dfb66675dc36a0d6167615192f2601",
+  "type": "ERC721",
+  "name": "Barefoot Parrots",
+  "tokenCount": "2500",
+  "uri": "https://api.tikifestival.io/api/metadata/parrot/1.json",
+  "metadata": {
+    "id": 1,
+    "image": "https://token-images.tikifestival.io/parrots/1e/2e/a3/1e2ea3aee275039be7043f0edac1ff386e83c1fdf2eeed4052147fdd32c07b59.png",
+    "external_url": "https://barefootparrots.com/token/1",
+    "properties": [
+      {
+        "trait_type": "Beak",
+        "value": "Hot Pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Leafy"
+      },
+      {
+        "trait_type": "Extras",
+        "value": "Shell Necklace"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Aqua"
+      },
+      {
+        "trait_type": "Feet",
+        "value": "Blingy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Green Logo Hat"
+      }
+    ],
+    "fingerprint": "43bf4595c5ea6fa7d7852cafaddcbd2c91a7572471d9bc40e3452315fa6e0164",
+    "old_id": 10267,
+    "name": "Barefoot Parrots #1"
+  }
+}

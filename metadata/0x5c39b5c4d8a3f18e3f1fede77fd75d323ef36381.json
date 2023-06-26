@@ -1,0 +1,41 @@
+{
+  "address": "0x5c39b5c4d8a3f18e3f1fede77fd75d323ef36381",
+  "type": "ERC721",
+  "name": "Dented Feels Mood Swings",
+  "tokenCount": "1526",
+  "uri": "https://dentedfeelsapi.siliconholler.io:3000/getTokenMetaDataRaw/DFMS/1",
+  "metadata": {
+    "name": "Open Puffer Pink",
+    "image": "https://dentedfeelsapi.siliconholler.io/assets/images/test/73 Open Puffer Pink.png",
+    "attributes": [
+      {
+        "value": "Volume 1",
+        "trait_type": "Mood Swings"
+      },
+      {
+        "value": "Open Puffer Pink",
+        "trait_type": "Trait Name"
+      },
+      {
+        "value": "73",
+        "trait_type": "Piece #"
+      },
+      {
+        "value": "False",
+        "trait_type": "Dynamic"
+      },
+      {
+        "value": "False",
+        "trait_type": "Unique"
+      },
+      {
+        "value": "True",
+        "trait_type": "First Edition"
+      },
+      {
+        "value": "Body",
+        "trait_type": "Trait Type"
+      }
+    ]
+  }
+}

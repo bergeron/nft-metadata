@@ -1,0 +1,32 @@
+{
+  "address": "0x5195fcc25caacce48b73161c47dcb07a92d6fddd",
+  "type": "ERC1155",
+  "name": "MandelDrops",
+  "tokenCount": "4",
+  "uri": "https://mandelbrot.fractalnft.art/mandeldrops?token_id=1",
+  "metadata": {
+    "description": "This is the first piece of the **MandelDrop** collection, airdropped to [Mandelbrot Trilogy](https://opensea.io/collection/mandelbrot-trilogy-collection) holders. The video is obtained by slightly perturbing the celebrated Newton-Raphson’s iterative algorithm for computing roots of polynomial equations. Generally, it is easy to solve equations in degree one or two, but for higher degrees things get considerably more complicated. In 1669 Isaac Newton, inspired by the work of the French mathematician François Viète concerning the numerical solution of non-linear algebraic equations, first gives the description of a special case of the method in De analysi per aequationes numero terminorum infinitas (which was however published in 1711). He also discussed the idea in De metodis fluxionum et serierum infinitarum (written in 1671, translated and published as Method of Fluxions in 1736 by John Colson). In 1690 Joseph Raphson formulated the method as an iterative scheme, where the output of one step is used as the input of the next, and later Thomas Simpson gave its general formulation, in terms of functional calculus, applicable to non-polynomial equations as well. More info on [our website](https://mandelbrot.fractalnft.art/newton)",
+    "external_url": "https://mandelbrot.fractalnft.art/newton",
+    "image": "https://mandelbrot.fractalnft.art/MandelDrops/1_9411d4c82f25b51df02a.mp4",
+    "animation": "https://mandelbrot.fractalnft.art/MandelDrops/1_9411d4c82f25b51df02a.mp4",
+    "name": "#1 Revolving Newton",
+    "attributes": [
+      {
+        "trait_type": "Object",
+        "value": "Newton Fractal"
+      },
+      {
+        "trait_type": "Media",
+        "value": "Video"
+      },
+      {
+        "trait_type": "Author",
+        "value": "Giulia & Stefano"
+      },
+      {
+        "trait_type": "Music",
+        "value": "by Abramo"
+      }
+    ]
+  }
+}

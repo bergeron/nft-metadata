@@ -1,0 +1,35 @@
+{
+  "address": "0x682cc62aa7b51103d7b52990e0185871e16575a6",
+  "type": "ERC721",
+  "name": "we will rock you!",
+  "tokenCount": "3333",
+  "uri": "https://api.wewillrock.club/1",
+  "metadata": {
+    "name": "Rock #1",
+    "description": "",
+    "image": "https://api.wewillrock.club/1.png",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Quartz monzonite "
+      },
+      {
+        "trait_type": "Homeland",
+        "value": "Putha Hiunchuli"
+      },
+      {
+        "trait_type": "Rock Band",
+        "value": "Mintless"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Leadmace"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Clean "
+      }
+    ],
+    "compiler": "https://startnft.app"
+  }
+}

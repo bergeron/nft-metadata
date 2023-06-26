@@ -1,0 +1,31 @@
+{
+  "address": "0xd9fdf19006a6dece42ced19ea195d2116c8ee717",
+  "type": "ERC1155",
+  "name": "CryptoTeddies Editions",
+  "tokenCount": "8",
+  "uri": "https://creco.xyz/api/meta/cryptoteddies/editions/1",
+  "metadata": {
+    "name": "Bearz x CryptoTeddies",
+    "image": "https://creco-images.s3.amazonaws.com/static/CryptoTeddies/33951233.gif",
+    "attributes": [
+      {
+        "value": "Pixel Art",
+        "trait_type": "STYLE"
+      },
+      {
+        "value": "Bearz",
+        "trait_type": "MOOD"
+      },
+      {
+        "value": "Bearz",
+        "trait_type": "TYPE"
+      },
+      {
+        "value": "Arms",
+        "trait_type": "ACCESSORY"
+      }
+    ],
+    "description": "Bearz meets CryptoTeddies. Featured by @No_paradigms. Can you handle the idle? ",
+    "external_url": "https://numo.carrd.co/"
+  }
+}

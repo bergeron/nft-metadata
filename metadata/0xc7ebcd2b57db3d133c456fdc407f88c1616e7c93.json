@@ -1,0 +1,38 @@
+{
+  "address": "0xc7ebcd2b57db3d133c456fdc407f88c1616e7c93",
+  "type": "ERC721",
+  "name": "SmolPhunks",
+  "tokenCount": "3333",
+  "uri": "ipfs://QmWfFhxeK2zgqGvin3wuTNVi8SDqXAxWz86GoRh74edMce/1.json",
+  "metadata": {
+    "dna": "1a527a67ffc49ecb7bd3e7044d196cf74d3fd483",
+    "name": "#1",
+    "description": "SmolPhunks",
+    "image": "ipfs://QmX5iZ7tsTZZYVh6vtHCymLDrivm9hXgX8TqFoommAVrns/1.png",
+    "edition": 1,
+    "date": 1641356357149,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "grey"
+      },
+      {
+        "trait_type": "skin",
+        "value": "light tan"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "normal beard"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "classic shades"
+      },
+      {
+        "trait_type": "hat",
+        "value": "mole"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "address": "0x2d1878e903e76576ab9069f02f093a9eefd26fa2",
+  "type": "ERC721",
+  "name": "Meta Village NFT",
+  "tokenCount": "5",
+  "uri": "ipfs://bafybeigjnslupyz6shjnwp4xziebllfhubmemjef2f7llcrg25kcafmbv4/mvjs/1.json",
+  "metadata": {
+    "id": 1,
+    "name": "Meta Village #1",
+    "image": "ipfs://bafybeihrfhhfow2bhkqp5uop5mzpgg5q3aq4p2co5fpg7kzvgdudavew7u/mvpng/1.png",
+    "description": "Owning a Meta Village provides passive mining for Village Coins.",
+    "villagehash": "RWxmO011c2hyb29tOzE7NzswOzE7MjsxOzA7MTsxOzk7MA==",
+    "attributes": [
+      {
+        "trait_type": "Civilization",
+        "value": "Elven Settlement"
+      },
+      {
+        "trait_type": "Biome",
+        "value": "Funghi Forest"
+      },
+      {
+        "trait_type": "Vegetation",
+        "value": "Void Shroom"
+      },
+      {
+        "trait_type": "Ship",
+        "value": "Brigantine"
+      },
+      {
+        "trait_type": "Statue",
+        "value": "Warrior Gatekeeper"
+      },
+      {
+        "trait_type": "Time",
+        "value": "DayTime"
+      }
+    ]
+  }
+}

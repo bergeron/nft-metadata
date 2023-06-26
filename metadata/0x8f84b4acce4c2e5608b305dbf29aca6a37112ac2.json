@@ -1,0 +1,63 @@
+{
+  "address": "0x8f84b4acce4c2e5608b305dbf29aca6a37112ac2",
+  "type": "ERC721",
+  "name": "Ethereum - h7PHyhTQab",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/qJh8H-yofYUUuevEdxzLffiruuvha08nCUr2FFna7hA",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1655509938
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Pr@"
+      }
+    ],
+    "description": "One of a kind must have bull painting",
+    "external_url": "https://cxip.io/nft/0x8f84b4acce4c2e5608b305dbf29aca6a37112ac2/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/6PLq3wa5km-Q1y7wtiKa0_RvTVcn7tnZfoHBcyF1sYk",
+    "imageUrl": "https://arweave.net/6PLq3wa5km-Q1y7wtiKa0_RvTVcn7tnZfoHBcyF1sYk",
+    "name": "Bulls up or down?",
+    "properties": {
+      "created_at": "2022-06-17T23:52:18.000000Z",
+      "creator_wallet": "0x160f332b3c07014b752486f56f569f1656b127ac",
+      "description": "One of a kind must have bull painting",
+      "image": "https://arweave.net/6PLq3wa5km-Q1y7wtiKa0_RvTVcn7tnZfoHBcyF1sYk",
+      "imageUrl": "https://arweave.net/6PLq3wa5km-Q1y7wtiKa0_RvTVcn7tnZfoHBcyF1sYk",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "17 June 2022",
+      "name": "Bulls up or down?",
+      "nft_type": "non-fungible image token (image/png)",
+      "preview_media_file": "https://arweave.net/2cZ931Ngk-1TK7GY2wVAw5iH_1x-6uVXd94rXqQrxuM",
+      "preview_media_file_dimensions": "559x360",
+      "preview_media_file_size": 175788,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "755x486",
+      "raw_media_file": "https://arweave.net/2suP5odTp6UC3Erlq3YE9rxyzi9gGShZmodC4PqWYzA",
+      "raw_media_file_size": 833025,
+      "raw_media_file_spec": "PNG 755x486 755x486+0+0 8-bit sRGB 833025B 0.000u 0:00.000",
+      "raw_media_file_type": "image/png",
+      "raw_media_format": "landscape",
+      "raw_media_signature": "0xe8046d10370a335cf8a8f528631017f3b87c8ae92a7041af6aa66bb5c81114d8",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/2cZ931Ngk-1TK7GY2wVAw5iH_1x-6uVXd94rXqQrxuM",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Bulls up or down?",
+      "total_supply": 1
+    },
+    "title": "Bulls up or down?"
+  }
+}

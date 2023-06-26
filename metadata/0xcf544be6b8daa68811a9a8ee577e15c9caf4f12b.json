@@ -1,0 +1,49 @@
+{
+  "address": "0xcf544be6b8daa68811a9a8ee577e15c9caf4f12b",
+  "type": "ERC721",
+  "name": "egg test 1",
+  "tokenCount": "5",
+  "uri": "ipfs://QmYax97reGBaNmEkkwdxh3eWcy7p3YfAJgywXrhEWbUewm/1.json",
+  "metadata": {
+    "name": "Tamogi #1",
+    "description": "Tamogi #1 - Join The Revolution!\nGet yours before the sell out!",
+    "fee_recipient": "0x1FC969EF6C1Ad689f949bB3d7bDdB4589233696f",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://QmRKbCyHaEdBbQHNr5ApDywrLsTUHd3stUcbXMRu4sZGxm/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background Lime Green"
+      },
+      {
+        "trait_type": "Egg",
+        "value": "Purple Egg     "
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern (80)"
+      },
+      {
+        "trait_type": "Egg Overlay",
+        "value": "Overlay"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Normal Smile  Yellow "
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Long Eyes  27 "
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Eyebrows (272)"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 4214,
+        "display_type": "number"
+      }
+    ]
+  }
+}

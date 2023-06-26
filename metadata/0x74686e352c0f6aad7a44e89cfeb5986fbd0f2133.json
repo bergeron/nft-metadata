@@ -1,0 +1,29 @@
+{
+  "address": "0x74686e352c0f6aad7a44e89cfeb5986fbd0f2133",
+  "type": "ERC721",
+  "name": "CLH",
+  "tokenCount": "10",
+  "uri": "data:application/json,{\"name\":\"CLH Allocation Voucher #1 - 2022.00 - OneTime\", \"description\":\"Voucher #1 of CLH allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade CLH's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!\",\"image\": \"https://imgurl.solv.finance/meta/images/vvCLH/1.png\",\"external_url\":\"https://app.solv.finance/vvCLH/1\", \"properties\": {\"owner\":\"0xe9039234a211b354b08846e706e2ca24de4efc73\",\"underlying\":\"0xd7d8f3b8bc8bc48d3acc37879eaba7b85889fa52\",\"underlyingSymbol\":\"CLH\",\"vestingAmount\":\"2022.000000000000000000\",\"principal\":\"2022.000000000000000000\",\"claimType\":\"OneTime\",\"claimableAmount\":\"2022.000000000000000000\",\"percentages\":[\"100.00%\"],\"maturities\":[1640995200],\"originalInvestor\":\"0xE9039234a211b354B08846E706e2ca24dE4EFc73\"}}",
+  "metadata": {
+    "name": "CLH Allocation Voucher #1 - 2022.00 - OneTime",
+    "description": "Voucher #1 of CLH allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade CLH's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!",
+    "image": "https://imgurl.solv.finance/meta/images/vvCLH/1.png",
+    "external_url": "https://app.solv.finance/vvCLH/1",
+    "properties": {
+      "owner": "0xe9039234a211b354b08846e706e2ca24de4efc73",
+      "underlying": "0xd7d8f3b8bc8bc48d3acc37879eaba7b85889fa52",
+      "underlyingSymbol": "CLH",
+      "vestingAmount": "2022.000000000000000000",
+      "principal": "2022.000000000000000000",
+      "claimType": "OneTime",
+      "claimableAmount": "2022.000000000000000000",
+      "percentages": [
+        "100.00%"
+      ],
+      "maturities": [
+        1640995200
+      ],
+      "originalInvestor": "0xE9039234a211b354B08846E706e2ca24dE4EFc73"
+    }
+  }
+}

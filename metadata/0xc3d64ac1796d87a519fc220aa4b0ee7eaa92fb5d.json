@@ -1,0 +1,45 @@
+{
+  "address": "0xc3d64ac1796d87a519fc220aa4b0ee7eaa92fb5d",
+  "type": "ERC721",
+  "name": "I AM CK",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/iFqMuOkH1v44BrGFsQEC9dj1Kldq-jx-z2okoxvcpwc/1",
+  "metadata": {
+    "name": "TEST MINT PASS #1/2",
+    "created_by": "CK",
+    "description": "MINTPASS",
+    "attributes": [
+      {
+        "trait_type": "TYPE",
+        "value": "MINT PASS"
+      },
+      {
+        "trait_type": "TRACK NAME ",
+        "value": "LOIZOU"
+      }
+    ],
+    "animation_details": {
+      "bytes": 34962469,
+      "format": "MP4",
+      "duration": 120,
+      "sha256": "33b2755bfd566d1193052f43af599ec3914d5e24c9a3b67e128dc0c735cbd8c3",
+      "width": 2048,
+      "height": 2048,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/ZFcQJbZkyozlqvGPUbyHE4VTag_cEWEC0zvs2UaWbHU",
+    "animation_url": "https://arweave.net/ZFcQJbZkyozlqvGPUbyHE4VTag_cEWEC0zvs2UaWbHU",
+    "image_details": {
+      "bytes": 2060559,
+      "format": "JPEG",
+      "sha256": "5476ab65ec27d9c56f41d15525312990ba9e32aa616e3879c69cfe31417e5fe8",
+      "width": 2048,
+      "height": 2048
+    },
+    "image": "https://arweave.net/BUnvNp1M18721jIEdGG_YHTiUtybf5EatmvOB-inp2Q",
+    "image_url": "https://arweave.net/BUnvNp1M18721jIEdGG_YHTiUtybf5EatmvOB-inp2Q"
+  }
+}

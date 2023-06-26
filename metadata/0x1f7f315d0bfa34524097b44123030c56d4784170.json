@@ -1,0 +1,86 @@
+{
+  "address": "0x1f7f315d0bfa34524097b44123030c56d4784170",
+  "type": "ERC721",
+  "name": "Gangaroos",
+  "tokenCount": "302",
+  "uri": "https://gangaroos.com/metadata/1.json",
+  "metadata": {
+    "dna": "1",
+    "name": "Gangaroo #1",
+    "description": "Gangaroos is a ground-breaking custom minting NFT project. 3600 Gangaroos minted on the Ethereum blockchain, with over 450 traits to choose from! Get your Gangaroo at https://gangaroos.com. Make the Gangaroo you love!",
+    "image": "https://gangaroos.com/output/1.jpg",
+    "edition": 1,
+    "date": 1633108716,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Gold Sunglasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Gold Teeth"
+      },
+      {
+        "trait_type": "Gloves",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Trunks",
+        "value": "Boom Boom"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "None"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Black Top Hat"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Stubble"
+      },
+      {
+        "trait_type": "Robe",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Jewelry",
+        "value": "Diamond Gangaroo Chain"
+      },
+      {
+        "trait_type": "Defense",
+        "value": 2,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Power",
+        "value": 5,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Speed",
+        "value": 5,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 7,
+        "max_value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      }
+    ]
+  }
+}

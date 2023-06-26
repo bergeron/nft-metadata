@@ -1,0 +1,35 @@
+{
+  "address": "0x80e34c9873fe0b9bca07832c769aa3cacc6bbdcf",
+  "type": "ERC721",
+  "name": "Lenny NFTs",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeiaipus53nt5aafx7fdgdcxiqlxtp4e5qroxe4zfykvrhztbjbwxbe/1.json",
+  "metadata": {
+    "dna": "c1525c645c33407955730701c2cfa3db7b5849091239facc6d4cd79bf258613d",
+    "name": "( ͡° ͜ʖ ͡°) #1",
+    "description": "Lenny NFTs is the official collection of the Lenny Face token. 500 unique, randomly generated Lennys.",
+    "image": "ipfs://bafybeihpxrersbdjbcalk6vmh5kkzrg77xuihpovnteohulu5ldtbayk2m/1.png",
+    "imageHash": "6ec62bbb7a2422ea822c96018580bd4ddfcb78ffa09dddb7f6e835517f63b5a6",
+    "edition": 1,
+    "date": 1678896176844,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Face",
+        "value": "normal"
+      },
+      {
+        "trait_type": "Nipple",
+        "value": "coconut"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "monocle"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  }
+}

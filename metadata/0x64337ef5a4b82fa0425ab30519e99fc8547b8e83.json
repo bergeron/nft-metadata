@@ -1,0 +1,44 @@
+{
+  "address": "0x64337ef5a4b82fa0425ab30519e99fc8547b8e83",
+  "type": "ERC721",
+  "name": "Initiative Genesis Dice",
+  "tokenCount": "9",
+  "uri": "https://d20-nft.vercel.app/api/1",
+  "metadata": {
+    "name": "Dice #1",
+    "description": "Roll Initiative - Dice.",
+    "image": "https://phaton.mypinata.cloud/ipfs/QmTWDc48bXacjwpfuaK661Rdfj1bZvFEK5VERs357Szj9F",
+    "tokenId": 1,
+    "external_url": "https://www.rollinitiativenft.com/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Campfire"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "None"
+      },
+      {
+        "trait_type": "Texture",
+        "value": "Metal Floor"
+      },
+      {
+        "trait_type": "Number",
+        "value": "White Trim 11"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "White"
+      },
+      {
+        "trait_type": "Trim",
+        "value": "Metal Floor"
+      },
+      {
+        "trait_type": "True Dice",
+        "value": "true"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0x04cef9c7bc2ca00de099d3adcf8257dce1cd6cf2",
+  "type": "ERC721",
+  "name": "NAKAPEPUNKS",
+  "tokenCount": "5555",
+  "uri": "ipfs://bafybeicvw7imwsqoljq3zposmddyq2emzxlurm4wcmlmafmcjlxs2qm5ry/1.json",
+  "metadata": {
+    "name": "NakapePunks #1",
+    "description": "PIXEL ART FUSION",
+    "image": "ipfs://bafybeigbb5b57jrhryqynpmpwr4nhs6nznasixgltnab2cr5jaszru57oq/1.png",
+    "dna": "1e63eb378609343b3d484537a59b9a490d31217a",
+    "edition": 1,
+    "date": 1686214915633,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FF6000"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Cyborg"
+      },
+      {
+        "trait_type": "Tops",
+        "value": "Breakdancer LL"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Christmas Candy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bunny Ears"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

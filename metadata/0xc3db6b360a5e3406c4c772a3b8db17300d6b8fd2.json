@@ -1,0 +1,64 @@
+{
+  "address": "0xc3db6b360a5e3406c4c772a3b8db17300d6b8fd2",
+  "type": "ERC721",
+  "name": "AlphaThugz - old V3",
+  "tokenCount": "2",
+  "uri": "ipfs://QmNmwKfTiguzCRrQ65KM8vUHuKQ6X3uLitV9VNcMgfHDfq/1.json",
+  "metadata": {
+    "name": "Alpha #1",
+    "description": "5,555 Unique AlphaThugz Guarding the Ethereum Blockchain",
+    "external_url": "https://www.alphathugz.com/",
+    "image": "ipfs://REPLACE_WITH_CID_FROM_PREVIOUS_STEP/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Yellow prime"
+      },
+      {
+        "trait_type": "Tattoo",
+        "value": "Tattoo 8"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Orange "
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "Open mouth"
+      },
+      {
+        "trait_type": "Piercings",
+        "value": "Bar"
+      },
+      {
+        "trait_type": "Jewelry ",
+        "value": "Silver Cuban"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Red tee "
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "AlphaThugz NFT",
+      "family": "AlphaThugz NFT"
+    },
+    "symbol": ""
+  }
+}

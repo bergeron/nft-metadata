@@ -1,0 +1,38 @@
+{
+  "address": "0x133eab4fbfb16523fcb557828ecb7d72e799a235",
+  "type": "ERC721",
+  "name": "My Own Item V2",
+  "tokenCount": "3",
+  "uri": "https://myownitem.com/wp-json/wpsc/v1/nft/1146",
+  "metadata": {
+    "id": "1146",
+    "name": "발렌타인",
+    "description": "기타리스트 닉네임 \"사자\"의 연주곡으로 집시기타 스타일곡\r\n\r\n* 이곡은 자유롭게 소장은 가능 하나 음원 변형이나 가공 및 상업적 이용은 불가합니다.",
+    "attributes": [
+      {
+        "trait_type": "creator",
+        "value": "@Iden Music"
+      },
+      {
+        "trait_type": "last_modified_gmt",
+        "value": "2022-06-09 13:02:12"
+      },
+      {
+        "trait_type": "Category 1",
+        "value": "Music",
+        "link": "https://myownitem.com/nft-taxonomy/music/?id=1143"
+      }
+    ],
+    "media-type": "audio",
+    "external_url": "https://myownitem.com/?post_type=nft&p=1146",
+    "author_id": "497",
+    "author_external_url": "https://myownitem.com/nft-authors-2/?a=497&id=1143",
+    "author_avatar": "https://myownitem.com/wp-content/uploads/2022/05/iden-96x96.png",
+    "author_account": "0xf0a725caff50020b769b0b4b7589e2aed685eb5b",
+    "nft_id": "1",
+    "network": "Main Network",
+    "network_url": "https://etherscan.io/token/0x133eaB4fbfB16523fcB557828ecB7d72E799a235?a=1",
+    "image": "https://myownitem.com/wp-content/uploads/2022/06/iden-3.png",
+    "animation_url": "https://myownitem.com/wp-content/uploads/2022/06/valentine3.mp3"
+  }
+}

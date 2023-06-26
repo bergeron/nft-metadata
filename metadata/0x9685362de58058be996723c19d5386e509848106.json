@@ -1,0 +1,89 @@
+{
+  "address": "0x9685362de58058be996723c19d5386e509848106",
+  "type": "ERC721",
+  "name": "aciOS",
+  "tokenCount": "1091",
+  "uri": "ipfs://QmXzrvxUYgteqZ8oo6VYzajwXehedfCLaprgrQ64bHNdYp/1",
+  "metadata": {
+    "name": "aciOS: Node #1",
+    "description": "The [ART]ificial Creative Intelligence Operating System.",
+    "attributes": [
+      {
+        "trait_type": "aiWidth",
+        "value": 570
+      },
+      {
+        "trait_type": "aiHeight",
+        "value": 571
+      },
+      {
+        "trait_type": "aiX",
+        "value": 115
+      },
+      {
+        "trait_type": "aiY",
+        "value": 115
+      },
+      {
+        "trait_type": "bgColor",
+        "value": [
+          175,
+          38,
+          180,
+          255
+        ]
+      },
+      {
+        "trait_type": "meterColor",
+        "value": [
+          230,
+          47,
+          12,
+          255
+        ]
+      },
+      {
+        "trait_type": "colors",
+        "value": [
+          [
+            254,
+            148,
+            9,
+            255
+          ],
+          [
+            74,
+            135,
+            153,
+            255
+          ],
+          [
+            108,
+            0,
+            156,
+            255
+          ],
+          [
+            57,
+            162,
+            219,
+            255
+          ],
+          [
+            17,
+            171,
+            196,
+            255
+          ]
+        ]
+      }
+    ],
+    "image": "ipfs://QmaWnchTNeCnZDDFsmkUDMdW4XL1Ft1zRvsccS67aYmDGY/1.png",
+    "animation_url": "https://acios.xyz/animation?id=1&aiWidth=570&aiHeight=571&aiX=115&aiY=115&bgColor=[175,38,180,255]&meterColor=[230,47,12,255]&colors=[[254,148,9,255], [74,135,153,255], [108,0,156,255], [57,162,219,255], [17,171,196,255]]",
+    "interactive_nft": {
+      "code_uri": "https://acios.xyz/animation?id=1&aiWidth=570&aiHeight=571&aiX=115&aiY=115&bgColor=[175,38,180,255]&meterColor=[230,47,12,255]&colors=[[254,148,9,255], [74,135,153,255], [108,0,156,255], [57,162,219,255], [17,171,196,255]]",
+      "version": "1.0"
+    },
+    "external_url": "https://aciOS.xyz"
+  }
+}

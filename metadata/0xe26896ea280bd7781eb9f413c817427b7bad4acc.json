@@ -1,0 +1,44 @@
+{
+  "address": "0xe26896ea280bd7781eb9f413c817427b7bad4acc",
+  "type": "ERC721",
+  "name": "Falcon Eye Series 1",
+  "tokenCount": "15",
+  "uri": "https://nft.falconeye.io/1",
+  "metadata": {
+    "name": "Falconeye #1",
+    "description": "The Falcon Club is an exclusive NFT collection of falcons that fly around the Ethereum blockchain.",
+    "image": "https://nft.falconeye.io/1.png",
+    "dna": "35b5c79b35c564e2d9ca2705a65be480fc851ddc",
+    "edition": 1,
+    "date": 1646500555447,
+    "extraMetadata": "FalconEye NFT Club",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Heaven"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "King Cloak"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "one eye"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Head Tie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Vomiting"
+      }
+    ],
+    "compiler": "FalconEye AI Engine",
+    "external_url": "https://falconeye.io"
+  }
+}

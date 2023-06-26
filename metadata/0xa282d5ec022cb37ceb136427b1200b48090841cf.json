@@ -1,0 +1,35 @@
+{
+  "address": "0xa282d5ec022cb37ceb136427b1200b48090841cf",
+  "type": "ERC721",
+  "name": "Flipper the Bird",
+  "tokenCount": "50",
+  "uri": "https://metadata.api.tokenfy.com/21/metadata/1",
+  "metadata": {
+    "description": "This is a genesis collection of 500 randomly generated and unique Flippers comprised of over 140 traits. These traits consist of different outfits and styles Flipper is trying during his search for love and adventure.",
+    "external_url": "https://flipperthebird.io",
+    "image": "https://metadata.api.tokenfy.com/21/metadata/1/image",
+    "name": "Flipper the Bird #1",
+    "attributes": [
+      {
+        "trait_type": "Arms",
+        "value": "Arms Down"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Nest"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Closed Smile"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Heart Shades"
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Yellow"
+      }
+    ]
+  }
+}

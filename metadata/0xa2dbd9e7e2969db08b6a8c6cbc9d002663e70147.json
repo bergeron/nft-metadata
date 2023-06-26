@@ -1,0 +1,51 @@
+{
+  "address": "0xa2dbd9e7e2969db08b6a8c6cbc9d002663e70147",
+  "type": "ERC721",
+  "name": "MandelNFT",
+  "tokenCount": "1000",
+  "uri": "https://mandelnft.onrender.com/1.json",
+  "metadata": {
+    "name": "1",
+    "description": "**Hold down SHIFT & CTRL keys and click image for FULL SIZE.**  Above is a real-time **Fractal Zoomer** for the NFT (bounded within close vicinity of 0.001 units either way...see if you can find it by zooming in with your mouse).<br><br>Simply use left mouse button to zoom in and and right mouse button to zoom out in the direction your pointer is at.    You must purchase the NFT to know the exact coordinates past three decimal places, allowing you to zoom in directly here: **[Direct Fractal Zoomer](https://mandelnft.onrender.com/FractalZoom/index.html?NFT=1)**.",
+    "image": "https://mandelnft.onrender.com/image1.jpg",
+    "attributes": [
+      {
+        "trait_type": "File Size",
+        "value": 70
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Visual Complexity",
+        "value": 20
+      },
+      {
+        "trait_type": "x-position",
+        "value": -1.942
+      },
+      {
+        "trait_type": "y-position",
+        "value": 0
+      },
+      {
+        "trait_type": "Zoom Depth",
+        "value": 11
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Zoom Boost",
+        "value": 1
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Max Iterations",
+        "value": 400
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Palette Boost",
+        "value": 79
+      }
+    ],
+    "animation_url": "https://mandelnft.onrender.com/animation_url/index.html?x=-1.942&y=0.000&NFT=1"
+  }
+}

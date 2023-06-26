@@ -1,0 +1,34 @@
+{
+  "address": "0xf747d2a93ef3aeefdcdc88217e5fe49ba0d108e5",
+  "type": "ERC721",
+  "name": "Seiken Labs",
+  "tokenCount": "1112",
+  "uri": "ipfs://bafybeiaotxx547mgl7fsvmqdbrb7kkgtf2qmq7ulf274paugah2fy3nz3u/1.json",
+  "metadata": {
+    "name": "Seiken Unit #1",
+    "description": "1111 SEIKENS LIVING ON THE CHAIN",
+    "external_url": "https://twitter.com/SeikenLabs",
+    "image": "ipfs://bafybeie5bitrj25nih4jh2fon4bv5n6guamtvzbpv5453o3rtro3sitjba/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Faction",
+        "value": "Rebel"
+      },
+      {
+        "trait_type": "Speed",
+        "value": 93,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Strength",
+        "value": 43,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Shield",
+        "value": 6,
+        "max_value": 100
+      }
+    ]
+  }
+}

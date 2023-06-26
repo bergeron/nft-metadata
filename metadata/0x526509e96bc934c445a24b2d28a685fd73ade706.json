@@ -1,0 +1,61 @@
+{
+  "address": "0x526509e96bc934c445a24b2d28a685fd73ade706",
+  "type": "ERC721",
+  "name": "Culinart",
+  "tokenCount": "1",
+  "uri": "ipfs://QmZdegicoWRJoxwvfyGzhd2f7FvcCgJ5uGvs1zshomrhVH",
+  "metadata": {
+    "description": "Come bien. Compra mejor. Tira menos.",
+    "external_url": "https://www.savee.es/",
+    "image": "ipfs://QmapXNqbvbyLfXnguxhKhSACkx9b7ju8URFfxvFYQj1jto",
+    "name": "Savee",
+    "attributes": [
+      {
+        "trait_type": "Excercise",
+        "max_value": 100,
+        "value": 60
+      },
+      {
+        "trait_type": "Natural",
+        "max_value": 100,
+        "value": 40
+      },
+      {
+        "trait_type": "Proactive",
+        "max_value": 100,
+        "value": 70
+      },
+      {
+        "trait_type": "Strength",
+        "max_value": 100,
+        "value": 80
+      },
+      {
+        "trait_type": "Divergent",
+        "max_value": 100,
+        "value": 60
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Ability",
+        "max_value": 100,
+        "value": 75
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Sustainable",
+        "max_value": 100,
+        "value": 55
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Healthy",
+        "max_value": 100,
+        "value": 80
+      },
+      {
+        "value": "Resilience"
+      }
+    ]
+  }
+}

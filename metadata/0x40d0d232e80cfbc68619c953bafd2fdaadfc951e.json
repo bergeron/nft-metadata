@@ -1,0 +1,30 @@
+{
+  "address": "0x40d0d232e80cfbc68619c953bafd2fdaadfc951e",
+  "type": "ERC721",
+  "name": "ColorIsCool Pastels",
+  "tokenCount": "2",
+  "uri": "ipfs://QmNvu2AXKE3xPNVX5cynfSozb37m7NHPPyJFZVMPWM2FAo/1",
+  "metadata": {
+    "name": "#FFCFB2",
+    "image": "ipfs://QmZFsYUkM3kfZbzm9c9GPyHcq7imgTDfiSMoU26DuZcefM",
+    "attributes": [
+      {
+        "trait_type": "Hue",
+        "value": "22"
+      },
+      {
+        "trait_type": "Value",
+        "value": "100"
+      },
+      {
+        "trait_type": "Saturation",
+        "value": "30"
+      },
+      {
+        "trait_type": "Hexadecimal",
+        "value": "#FFCFB2"
+      }
+    ],
+    "description": "The HSV color representation captures how colors are perceived under different lighting conditions.  In this collection, you'll find an array of colors corresponding to each Hue value (0-360) at a saturation of 30% and a value of 100%."
+  }
+}

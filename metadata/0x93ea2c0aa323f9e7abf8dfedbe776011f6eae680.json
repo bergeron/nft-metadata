@@ -1,0 +1,28 @@
+{
+  "address": "0x93ea2c0aa323f9e7abf8dfedbe776011f6eae680",
+  "type": "ERC721",
+  "name": "Wagmi Labs Founder Pass",
+  "tokenCount": "385",
+  "uri": "https://metadata.wagmilabs.tools/metadata/1.json",
+  "metadata": {
+    "name": "Access Pass #1",
+    "external_url": "https://app.wagmilabs.tools",
+    "description": "This NFT pass gives you yearly access to the Wagmi Labs All-in-one trading Hub.",
+    "image": "https://metadata.wagmilabs.tools/ticket",
+    "edition": "1",
+    "attributes": [
+      {
+        "trait_type": "Access Type",
+        "value": "Trading Hub"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "1"
+      },
+      {
+        "trait_type": "Expiration",
+        "value": "Never"
+      }
+    ]
+  }
+}

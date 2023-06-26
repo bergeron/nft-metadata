@@ -1,0 +1,27 @@
+{
+  "address": "0x5e8353930b557a524ff92eace9b87d82f9793124",
+  "type": "ERC721",
+  "name": "Project INK",
+  "tokenCount": "1921",
+  "uri": "https://api.project.ink/token/metadata/1",
+  "metadata": {
+    "name": "INK #1",
+    "description": "Generative inkblot art inspired by the Rorschach test. What do you see?\n\nINK #1",
+    "image": "https://api.project.ink/img/1/500x.png",
+    "external_url": "https://project.ink/token/1",
+    "attributes": [
+      {
+        "trait_type": "Symmetry",
+        "value": "Single"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Duotone"
+      },
+      {
+        "trait_type": "Accent Hue",
+        "value": "Red"
+      }
+    ]
+  }
+}

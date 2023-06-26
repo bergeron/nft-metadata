@@ -1,0 +1,60 @@
+{
+  "address": "0x55a32fe7d6499f8924c3116e3bce3a28c45f6a68",
+  "type": "ERC721",
+  "name": "Pepe Stonks",
+  "tokenCount": "1325",
+  "uri": "ipfs://QmdLssFncx9wtDKKZcjsKhxgHcSAUjJirYirTE9dzPLBp6/1",
+  "metadata": {
+    "name": "Pepe Stonks",
+    "description": "A hilariously quirky collection of 1,333 NFTs showcasing the wacky world of Pepe and his adventures in the meme stock market! Join the fun as Pepe navigates the rollercoaster of stonks, scoring gains, and encountering epic losses.",
+    "image": "ipfs://QmTr7mKCbKLPnxzXGpLr7d5WrMUN6R83ynQSZ8TAdYAWo8/1.gif",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://nftstorage.link/ipfs/QmZn8squFiQSjFSSZYzudKywMaV2hoBqcPPD4qGtbxZp5r/1297.jpeg",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "share": 100,
+          "address": "0x75a61d154661c79C782fD827c74682D3A5C110c7"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rug Pattern"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Tops",
+        "value": "Nude"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin Mouth"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Shocked Eyes"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Party Hat"
+      }
+    ],
+    "Mesh": "4684",
+    "seller_fee_basis_points": 500,
+    "collection": {
+      "name": "Pepe Stonks",
+      "family": ""
+    },
+    "compiler": "nft-inator.com"
+  }
+}

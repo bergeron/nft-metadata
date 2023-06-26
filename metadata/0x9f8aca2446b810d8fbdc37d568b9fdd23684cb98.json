@@ -1,0 +1,62 @@
+{
+  "address": "0x9f8aca2446b810d8fbdc37d568b9fdd23684cb98",
+  "type": "ERC721",
+  "name": "AniBears",
+  "tokenCount": "2126",
+  "uri": "ipfs://QmNfGXxbFUEp5QpazfWkj54J2nmTxHGCDJMNUgB6KMxpoz/1.json",
+  "metadata": {
+    "name": "AniBears #1",
+    "symbol": "anibears",
+    "description": "AniBears #1 -  Anime is the new meta. A clean Bear collection with your favorite anime references. We are building a virtuous community ⛲️\n",
+    "seller_fee_basis_points": 500,
+    "image": "https://testlaunchmynft.mypinata.cloud/ipfs/QmR5Jrbk8SaieTnJ1X4JR17amE1DUUtoVYyb9RA2zmuArR/1.png",
+    "external_url": "",
+    "collection": {
+      "name": "Ani Bears",
+      "family": "LaunchMyNFT"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Rengoku"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Saitama"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 2615,
+        "display_type": "number",
+        "max_value": 2999
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/QmR5Jrbk8SaieTnJ1X4JR17amE1DUUtoVYyb9RA2zmuArR/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "EfmozgBojwFFcP9bR1yCeLdxUroUz4dGReqcCW3CKQEQ",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

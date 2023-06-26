@@ -1,0 +1,91 @@
+{
+  "address": "0xe266fb1cf8b51b3b32ad00db18dec7681edb0fee",
+  "type": "ERC721",
+  "name": "1115sdajlfeqwr",
+  "tokenCount": "300",
+  "uri": "https://api.artblocks.io/token/378000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "378000001",
+    "series": "N/A",
+    "aspect_ratio": 1.25,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Fleur #1",
+    "minted": true,
+    "artist": "AnaPet",
+    "description": "Inspired by nature, executed by robots.\n\nFLEUR is a tribute to the beauty and interrelation between nature and science that have amazed people for centuries. Exploration of mathematics as the language that explains the architecture of the physical world around us. Manifestation of what nature essentially is - complexity born from simplicity, beauty born from chaos, life born from matter.  Where does one stop and the other start?\n\nOnce painted, the canvas keeps evolving, living and breathing, capturing the little changes in the Universe overtime.\n\nCheck the features of your mint to see the story behind your FLEUR.",
+    "script_type": "p5@1.0.0",
+    "project_id": "378",
+    "curation_status": "presents",
+    "image": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/378000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/378000001.mp4",
+    "generator_url": "https://generator.artblocks.io/378000001",
+    "animation_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/378000001.mp4",
+    "royaltyInfo": {
+      "artistAddress": "0x5bb2d838562a380e7bce01382d1e1fd76ce51b74",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Fleur by AnaPet",
+    "website": "https://www.anapet.art/art/fleur/",
+    "token_hash": "0xcc7426a53ddff83abad2db4746e534d8787cac69194b83024ab1843bf3bf9137",
+    "external_url": "https://artblocks.io/collections/presents/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/378/tokens/378000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/378000001.mp4",
+    "features": {
+      "Name": "Tulip",
+      "Zoom": "Small",
+      "Shade": "the Moody",
+      "Style": "Geometric",
+      "Glitch": "Seems normal",
+      "Palette": "Awakening",
+      "Pattern": "Harmony",
+      "Material": "Tile",
+      "Draw order": "Simultaneous"
+    },
+    "traits": [
+      {
+        "trait_type": "Fleur",
+        "value": "All Fleurs"
+      },
+      {
+        "trait_type": "Fleur",
+        "value": "Name: Tulip"
+      },
+      {
+        "trait_type": "Fleur",
+        "value": "Zoom: Small"
+      },
+      {
+        "trait_type": "Fleur",
+        "value": "Shade: the Moody"
+      },
+      {
+        "trait_type": "Fleur",
+        "value": "Style: Geometric"
+      },
+      {
+        "trait_type": "Fleur",
+        "value": "Glitch: Seems normal"
+      },
+      {
+        "trait_type": "Fleur",
+        "value": "Palette: Awakening"
+      },
+      {
+        "trait_type": "Fleur",
+        "value": "Pattern: Harmony"
+      },
+      {
+        "trait_type": "Fleur",
+        "value": "Material: Tile"
+      },
+      {
+        "trait_type": "Fleur",
+        "value": "Draw order: Simultaneous"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0x5b98ab35514c1c91f33ba12e0778d53e1ebdb106",
+  "type": "ERC721",
+  "name": "Alien Punk Things",
+  "tokenCount": "3278",
+  "uri": "https://alien-punk-things.azurewebsites.net/api/metadata/1",
+  "metadata": {
+    "name": "Alien Punk Thing #1",
+    "description": "",
+    "image": "http://alien-punk-things.azurewebsites.net/api/images/1.png",
+    "attributes": [
+      {
+        "value": "White",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Green",
+        "trait_type": "Head"
+      },
+      {
+        "value": "Normal",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": "3D Glasses",
+        "trait_type": "Eyes"
+      }
+    ]
+  }
+}

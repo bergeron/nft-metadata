@@ -1,0 +1,35 @@
+{
+  "address": "0xad3ffb8330caf14cf992e58e266a6daf9681d62b",
+  "type": "ERC721",
+  "name": "DToolsPremiumPass",
+  "tokenCount": "768",
+  "uri": "https://api.dtools.org/premiumpass/1",
+  "metadata": {
+    "name": "Premium Pass #1",
+    "image": "https://cdn.dtools.org/img/pass_premium.gif",
+    "description": "The pass of dtools.",
+    "animation_url": "",
+    "youtube_url": "",
+    "external_url": "https://dtools.org",
+    "background_color": "FFFFFF",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Premium"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Expired"
+      },
+      {
+        "trait_type": "ExpireAt",
+        "value": 1686625053,
+        "display_type": "date"
+      },
+      {
+        "trait_type": "ExpireAt",
+        "value": "2023-06-13"
+      }
+    ]
+  }
+}

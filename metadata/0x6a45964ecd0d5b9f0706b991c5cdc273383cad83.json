@@ -1,0 +1,73 @@
+{
+  "address": "0x6a45964ecd0d5b9f0706b991c5cdc273383cad83",
+  "type": "ERC721",
+  "name": "AcidDrip WAG-MI-GOS",
+  "tokenCount": "2",
+  "uri": "https://ipfs.io/ipfs/Qmc4qKnkm98rvnZwDwfKvxbYxwVeoYmq5bW8EmmATBZoeW/1.json",
+  "metadata": {
+    "name": "WAGMIGO #1",
+    "symbol": "WAGMI",
+    "description": "An eclectic bunch of optimistic monsters. All of them are good friends and all are going to make it! Each WAGMIGO is randomly generated from 847 hand drawn elements.",
+    "seller_fee_basis_points": 420,
+    "image": "ipfs://Qmby46LWjwMTp4opeShFb4AKrUQR9EsSB6THQAWLaG3DB1/1.png",
+    "external_url": "https://www.wagmigos.wtf",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "brightflame"
+      },
+      {
+        "trait_type": "Background-a",
+        "value": "greeny"
+      },
+      {
+        "trait_type": "Background-b",
+        "value": "rubbletown"
+      },
+      {
+        "trait_type": "Body",
+        "value": "goldie"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bee"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "naredo"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "flower"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "ape"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "neonpurple"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "diamond"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x37F4b16981E8847C3b59DC703B59abC56fcFA698",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

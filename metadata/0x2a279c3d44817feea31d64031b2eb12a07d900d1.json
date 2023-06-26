@@ -1,0 +1,31 @@
+{
+  "address": "0x2a279c3d44817feea31d64031b2eb12a07d900d1",
+  "type": "ERC721",
+  "name": "New York Islanders",
+  "tokenCount": "500",
+  "uri": "https://api.orangecomet.io/collectible-metadata/oc-nyi-our-house/1",
+  "metadata": {
+    "name": "NYI Our House #1",
+    "description": "Welcome home, guys. This inspiring collectible celebrates the Islander’s next chapter, and literally raises the roof as it offers a 3-D, state-of-the-art insider’s POV of the Isles’ brand-spanking new UBS Arena. Designed for hockey, built for them…owned by you.",
+    "image": "ipfs://bafybeibt2bvehnujwv2gy6cg76f4smsvhzch47mge6y3uutsmytkmqs3xy/OC-NYI-OUR-HOUSE.jpg",
+    "animation_url": "ipfs://bafybeibt2bvehnujwv2gy6cg76f4smsvhzch47mge6y3uutsmytkmqs3xy/OC-NYI-OUR-HOUSE.mp4",
+    "attributes": [
+      {
+        "trait_type": "Team Name",
+        "value": "New York Islanders"
+      },
+      {
+        "trait_type": "Team Tri-Code",
+        "value": "NYI"
+      },
+      {
+        "trait_type": "Featuring",
+        "value": "UBS Arena Coin"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Smoky Atmosphere"
+      }
+    ]
+  }
+}

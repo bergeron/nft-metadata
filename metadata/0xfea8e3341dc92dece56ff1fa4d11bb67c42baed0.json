@@ -1,0 +1,29 @@
+{
+  "address": "0xfea8e3341dc92dece56ff1fa4d11bb67c42baed0",
+  "type": "ERC721",
+  "name": "PureTokenArt",
+  "tokenCount": "2000",
+  "uri": "ipfs://bafybeid3jdjquy4hcba6fx26apj5cmosw7kecjscukbbc53vvjaxxygwbm/1",
+  "metadata": {
+    "name": "WhiteRedBlack #f54f31c0",
+    "description": "They are just similar, not the same.",
+    "image": "ipfs://bafybeidsu6mqb5icbquslqtoplc2skqvzk5sgtu6vnx6hdmpm7rg6spscm/1.png",
+    "attributes": [
+      {
+        "trait_type": "White Pure level",
+        "value": "95.72",
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Red Pure level",
+        "value": "95.05",
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Black Pure level",
+        "value": "80.10",
+        "display_type": "boost_percentage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "address": "0xa084c782ec12a5e9623bee4fefee29187b245257",
+  "type": "ERC1155",
+  "name": "Arcade Land Builder Assets",
+  "tokenCount": "2",
+  "uri": "https://res.arcade.inc/metadata/asset/1.json",
+  "metadata": {
+    "name": "Arcade Starter Square Billboard",
+    "image": "ipfs://Qmb41c72WanSerAxiCSf8YNd5tirCggtyJHoGqoJZb3ydq",
+    "description": "Arcade is an interoperable metaverse with fast action games for the entire NFT community. Lands come in different variations within Arcadeverse.",
+    "attributes": [
+      {
+        "trait_type": "Inventory",
+        "value": "Billboard"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Starter"
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Square"
+      }
+    ]
+  }
+}

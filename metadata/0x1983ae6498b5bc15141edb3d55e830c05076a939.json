@@ -1,0 +1,57 @@
+{
+  "address": "0x1983ae6498b5bc15141edb3d55e830c05076a939",
+  "type": "ERC721",
+  "name": "3DPG Portraits",
+  "tokenCount": "6",
+  "uri": "https://arweave.net/jjrBQz4gVqPiOJm6eIGbYbLWHLt_YKyVGLODLA5h1Wc",
+  "metadata": {
+    "name": "#001 - Chef Turing",
+    "created_by": "3D PRINT GUY",
+    "description": "Chef Turning, BAYC #3338 \nMulti-tasking , high productivity, high efficiency.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "3D PRINT GUY"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Portraits"
+      },
+      {
+        "trait_type": "Revealed",
+        "value": "True"
+      },
+      {
+        "trait_type": "Commission Of",
+        "value": "Bored Ape #3338"
+      },
+      {
+        "trait_type": "searchKey",
+        "value": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d-3338"
+      }
+    ],
+    "image_details": {
+      "bytes": 145135,
+      "format": "JPEG",
+      "sha256": "5fc5f78308b3eba250d430d0ca6f814dfcb0c1f066b9e3bb8a8f326926b5626a",
+      "width": 1038,
+      "height": 1038
+    },
+    "image": "https://arweave.net/hojlEgq8Kgk1fVZEjQmuCGFiEAUuO1N-R1ghZsF-a3I",
+    "image_url": "https://arweave.net/hojlEgq8Kgk1fVZEjQmuCGFiEAUuO1N-R1ghZsF-a3I",
+    "animation_details": {
+      "bytes": 9229104,
+      "format": "MP4",
+      "duration": 17,
+      "sha256": "77752e6ce0e77d40256debaa027a610cdf5991f8d9925e39c714ab6aa4b3b04a",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/UbSLh7JpuYoLi6uegVYGxEKbpktz-E6zr6hPsJPO6TU",
+    "animation_url": "https://arweave.net/UbSLh7JpuYoLi6uegVYGxEKbpktz-E6zr6hPsJPO6TU"
+  }
+}

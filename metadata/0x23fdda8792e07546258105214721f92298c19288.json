@@ -1,0 +1,46 @@
+{
+  "address": "0x23fdda8792e07546258105214721f92298c19288",
+  "type": "ERC721",
+  "name": "Up Dogs",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmVb5YSnm7KA6E7d3kuynUm16eAz3aaYodLKNtLApBo7Zx/2.json",
+  "metadata": {
+    "name": "Up Dogs #2",
+    "description": "10000 unique Up Dogs NFTs",
+    "image": "ipfs://QmQsKzjNsPt91NCmHzuEwVWp8fNLLfZqB2dzUW4xzFowF5/2.png",
+    "dna": "781b7e0ff1ec7d9cf0874a4937b3e97dd1b4a861",
+    "edition": 2,
+    "date": 1666120800144,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUNDS",
+        "value": "SEMIGREEN"
+      },
+      {
+        "trait_type": "SKINS",
+        "value": "YELLOW"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "GREENTEE"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "CIG"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "SERIOUS"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "DOGFOODHAT"
+      },
+      {
+        "trait_type": "ACC",
+        "value": "3D"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

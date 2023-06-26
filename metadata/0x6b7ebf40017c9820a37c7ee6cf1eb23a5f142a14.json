@@ -1,0 +1,91 @@
+{
+  "address": "0x6b7ebf40017c9820a37c7ee6cf1eb23a5f142a14",
+  "type": "ERC721",
+  "name": "adsfadsfqewreqwr",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/41000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "41000001",
+    "series": 3,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Elementals #1",
+    "minted": true,
+    "artist": "Michael Connolly",
+    "description": "Elementals is inspired by physical printmaking techniques and early Bauhaus principles. It starts with a few basic coloured shapes and arranges them in varying frequencies, sizes, and positions based on a unique transaction hash. Multiple overlaid variable grids allow for myriad layouts and opportunities for colour interaction. The goal is to create pieces that feel both intentional in composition and part of the same family.",
+    "script_type": "p5@1.0.0",
+    "project_id": "41",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 3",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/41000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/41000001.png",
+    "generator_url": "https://generator.artblocks.io/41000001",
+    "royaltyInfo": {
+      "artistAddress": "0xf92bb2215684c353b4009395061ee7652883c365",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Elementals by Michael Connolly",
+    "website": "https://linktr.ee/_mconnolly_",
+    "token_hash": "0x0e20c3932ac9afbca89aeed2994b0e0e6139908a2608293907ab5f793bf71144",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/41/tokens/41000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/41000001.png",
+    "features": {
+      "Base": "Double",
+      "Offset": "Goldilocks",
+      "Stroke": "Black",
+      "Heading": "East",
+      "Palette": "Candy",
+      "Top Grid": "5x5",
+      "Base Grid": "2x2",
+      "Background": "Full",
+      "Stroke Grid": "5x5"
+    },
+    "traits": [
+      {
+        "trait_type": "Elementals",
+        "value": "All Elementals"
+      },
+      {
+        "trait_type": "Elementals",
+        "value": "Base: Double"
+      },
+      {
+        "trait_type": "Elementals",
+        "value": "Offset: Goldilocks"
+      },
+      {
+        "trait_type": "Elementals",
+        "value": "Stroke: Black"
+      },
+      {
+        "trait_type": "Elementals",
+        "value": "Heading: East"
+      },
+      {
+        "trait_type": "Elementals",
+        "value": "Palette: Candy"
+      },
+      {
+        "trait_type": "Elementals",
+        "value": "Top Grid: 5x5"
+      },
+      {
+        "trait_type": "Elementals",
+        "value": "Base Grid: 2x2"
+      },
+      {
+        "trait_type": "Elementals",
+        "value": "Background: Full"
+      },
+      {
+        "trait_type": "Elementals",
+        "value": "Stroke Grid: 5x5"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC 4.0"
+  }
+}

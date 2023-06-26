@@ -1,0 +1,19 @@
+{
+  "address": "0xd4b56f88c1935e217a8eeb2de826abfa48e4250f",
+  "type": "ERC721",
+  "name": "ZeroCrate",
+  "tokenCount": "1010",
+  "uri": "https://api.projectbrx.io/api/zero-crate-nfts/1",
+  "metadata": {
+    "name": "ZeroCrate #1",
+    "image": "https://zerocrate-nft.s3.ap-east-1.amazonaws.com/1.mp4",
+    "attributes": [
+      {
+        "value": "Closed",
+        "trait_type": "State"
+      }
+    ],
+    "description": "The regenerative crate producing BRX utility using the power of Hz.",
+    "external_url": "https://projectbrx.io"
+  }
+}

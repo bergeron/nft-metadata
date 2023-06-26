@@ -1,0 +1,58 @@
+{
+  "address": "0xcdc6c162768aef4a5beec62cc2c630c543d5bb53",
+  "type": "ERC721",
+  "name": "Little Black Duck Art Preservation Index",
+  "tokenCount": "14",
+  "uri": "https://arweave.net/UhWTFbxHmEmxIN6d2VRQtplwaYUKYzmSGt1mVJCCuxQ",
+  "metadata": {
+    "name": "\"Phoenix\"",
+    "created_by": "Tracy Estelle",
+    "external_url": "https://extraunordinary.com/",
+    "description": "This token certifies the authenticity of the artifact depicted in the image.  The holder of the token and the artifact together validate authenticity.  Possessing only one or the other voids the validation.  Unless one possesses both, authenticity and provenance are without validation, thus inherently decreasing the value of the artifact in question.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Tracy Estelle"
+      },
+      {
+        "trait_type": "Title",
+        "value": "Phoenix"
+      },
+      {
+        "trait_type": "Medium",
+        "value": "Acrylic"
+      },
+      {
+        "trait_type": "Completed Date",
+        "value": "2022 September"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Length",
+        "value": "24"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Width",
+        "value": "36"
+      },
+      {
+        "trait_type": "Blockchain Scribe",
+        "value": "Little Black Duck, LLC"
+      },
+      {
+        "trait_type": "Photographer",
+        "value": "Tsundere Photography and Art"
+      }
+    ],
+    "image_details": {
+      "bytes": 1275974,
+      "format": "JPEG",
+      "sha256": "36d1dc7996b38ef5d30f661fc2106aeee8cdebab498268747fa6170adb641d2e",
+      "width": 1768,
+      "height": 2611
+    },
+    "image": "https://arweave.net/4CweMD1fDzW33KWhCbeMnQIOASXjxc5a2eNHGBfRvaE",
+    "image_url": "https://arweave.net/4CweMD1fDzW33KWhCbeMnQIOASXjxc5a2eNHGBfRvaE"
+  }
+}

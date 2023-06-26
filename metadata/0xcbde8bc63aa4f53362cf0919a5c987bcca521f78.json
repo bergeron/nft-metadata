@@ -1,0 +1,50 @@
+{
+  "address": "0xcbde8bc63aa4f53362cf0919a5c987bcca521f78",
+  "type": "ERC721",
+  "name": "Self-A(i)wareness",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/4_PCjN4aTIDZxkyU8jEtQNm8Qou7jeXobz7a6U59Bo0",
+  "metadata": {
+    "name": "How ChatGPT sees and hears itself",
+    "created_by": "Kris Kashtanova",
+    "external_url": "https://www.kris.art/",
+    "description": "\"This is how GPT-4 sees and hears itself\".\n\nI asked GPT-4 to describe itself. Then I used its description to generate an image, a video based on this image, and a soundtrack.\n\nTools I used: GPT-4, Midjourney, Kaiber AI, Mubert, RunwayML  \nThis is the description I used that GPT-4 had of itself as a prompt to text-to-image, image-to-video, and text-to-music. I put the video and sound together in RunwayML.\n\nGPT-4 described itself as: \"Imagine a sleek, metallic sphere with a smooth surface, representing the vast knowledge contained within the model. The sphere emits a soft, pulsating glow that shifts between various colors, symbolizing the dynamic nature of the AI as it processes information and generates responses. The sphere appears to float in a digital environment, surrounded by streams of data and code, reflecting the complex algorithms and computing power behind the AI\"",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Kris Kashtanova"
+      },
+      {
+        "trait_type": "Date created",
+        "value": "April 2023"
+      },
+      {
+        "trait_type": "Tools used",
+        "value": "GPT-4, Midjourney, Kaiber AI, Mubert, RunwayML"
+      }
+    ],
+    "animation_details": {
+      "bytes": 87287571,
+      "format": "MP4",
+      "duration": 59,
+      "sha256": "8f3ceaa9d44f2909f66cd7db5bcdfda4ee06a67134dcccb6e2d922a84ff8e901",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/fngjrqjR95FjlHLM92ToCZcNpBx7m0MpLwgN7Dkv2Qg",
+    "animation_url": "https://arweave.net/fngjrqjR95FjlHLM92ToCZcNpBx7m0MpLwgN7Dkv2Qg",
+    "image_details": {
+      "bytes": 3874483,
+      "format": "PNG",
+      "sha256": "8469f7e278aaaf4cbd4e66adc7fdc53815f27781246eff67fee0de273836fb4f",
+      "width": 2734,
+      "height": 1954
+    },
+    "image": "https://arweave.net/lms3tTQOK6l0diGd8V5QePPPD83uYpL8WwTLl8cHllI",
+    "image_url": "https://arweave.net/lms3tTQOK6l0diGd8V5QePPPD83uYpL8WwTLl8cHllI"
+  }
+}

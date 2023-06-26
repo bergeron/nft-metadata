@@ -1,0 +1,51 @@
+{
+  "address": "0xfa9937555dc20a020a161232de4d2b109c62aa9c",
+  "type": "ERC721",
+  "name": "Sudolets",
+  "tokenCount": "1000",
+  "uri": "ipfs://bafybeiavhuuwieyqervfv3d6qo2mvyphnyvdmtxihk3z76ktni3ijbzila/1.json",
+  "metadata": {
+    "id": 1,
+    "image": "ipfs://bafybeicqei7siw3fa4zqd7mpv5dmhkpiafpcyxh7wupunhvgi47ba6td7q/1.png",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": {
+          "color": "Blueberry"
+        }
+      },
+      {
+        "trait_type": "Tails",
+        "value": "Turkey Tail"
+      },
+      {
+        "trait_type": "Bodies",
+        "value": "Pyramid"
+      },
+      {
+        "trait_type": "Legs",
+        "value": "Squid Legs"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Evil Eyes"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "Srsly Face"
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 62
+      },
+      {
+        "trait_type": "Strength",
+        "value": 49
+      },
+      {
+        "trait_type": "Luck",
+        "value": 44
+      }
+    ]
+  }
+}

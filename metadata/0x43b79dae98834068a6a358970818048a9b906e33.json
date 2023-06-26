@@ -1,0 +1,63 @@
+{
+  "address": "0x43b79dae98834068a6a358970818048a9b906e33",
+  "type": "ERC721",
+  "name": "Robby Cyron - Gallus Pinsl Edition",
+  "tokenCount": "9",
+  "uri": "ipfs://Qmem5rvxnSjPsowpyHW8yfHJy9oejshpsCdVnedh9onGvc",
+  "metadata": {
+    "title": "Gallus Nr. 8",
+    "name": "Gallus Nr. 8",
+    "createdAt": "2022-09-07T07:10:09.933Z",
+    "updatedAt": "2022-09-07T07:10:09.933Z",
+    "description": "300 dpi - 5906x5906 pixels - 50x50 cm",
+    "externalLink": "",
+    "image": "https://ipfs.pinsl.com/ipfs/QmSCuFQPDoP363nx4NHR6uttWSZFpzhHLUdLCzfKeyB3RU/84592d35-56aa-4fa0-8c1f-2a795ec0d160.jpeg",
+    "attributes": [],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Gallus Nr. 8"
+      },
+      "description": {
+        "type": "string",
+        "description": "300 dpi - 5906x5906 pixels - 50x50 cm"
+      },
+      "yearOfCreation": {
+        "type": "string",
+        "description": "2022"
+      },
+      "category": {
+        "type": "string",
+        "description": "image"
+      },
+      "type": {
+        "type": "string",
+        "description": "digitalArtNFT"
+      },
+      "copyright": {
+        "type": "string",
+        "description": ""
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://ipfs.pinsl.com/ipfs/QmSCuFQPDoP363nx4NHR6uttWSZFpzhHLUdLCzfKeyB3RU/84592d35-56aa-4fa0-8c1f-2a795ec0d160.jpeg"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "jpeg"
+      },
+      "created_at": {
+        "type": "datetime",
+        "description": "2022-09-07T07:10:09.933Z"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 3
+      },
+      "raw_media_file": {
+        "type": "string",
+        "description": "https://ipfs.pinsl.com/ipfs/QmSCuFQPDoP363nx4NHR6uttWSZFpzhHLUdLCzfKeyB3RU/84592d35-56aa-4fa0-8c1f-2a795ec0d160.jpeg?preview=1"
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0xcc1240aa82c7c72ea57629420bd24e209b2ae35b",
+  "type": "ERC721",
+  "name": "Super Rabbits",
+  "tokenCount": "10000",
+  "uri": "ipfs://bafybeiexncljwfd4hvjorvoccz6pizikvhafmllkuy2z2istvr35xnpkwe/1.json",
+  "metadata": {
+    "name": "Super Rabbit #1",
+    "description": "Nothing here is normal. We are rabbits, we come from eggs and we have powers.",
+    "image": "ipfs://bafybeicnzcmzk2gks5vllsrblxp7fsoeeaqx27vzb3zpygkbis4cmwifxm/1.png",
+    "dna": "f3fdd8a16dc98b1faff5a8072719b74e66b55e93",
+    "edition": 1,
+    "date": 1658173375634,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LIGHT GREEN"
+      },
+      {
+        "trait_type": "Body",
+        "value": "SUPER HERO"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "PRISON"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "HAPPY"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "VAMP"
+      },
+      {
+        "trait_type": "Head",
+        "value": "ROMAN"
+      }
+    ],
+    "compiler": "GabeGolben's Art Engine"
+  }
+}

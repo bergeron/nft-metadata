@@ -1,0 +1,32 @@
+{
+  "address": "0x1568d960941cdd203844661161bfe38253d39aa6",
+  "type": "ERC721",
+  "name": "SoulPunks",
+  "tokenCount": "393",
+  "uri": "https://forgottenpunks.wtf/api/souls/meta/1",
+  "metadata": {
+    "description": "That is not dead which can eternal lie, And with strange aeons even death may die.",
+    "external_url": "https://forgottenpunks.wtf",
+    "name": "SoulPunk #1",
+    "image": "https://forgottenpunks.wtf/api/souls/img/1",
+    "background_color": "000000",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Death"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Wraith Devout"
+      },
+      {
+        "trait_type": "Attachment",
+        "value": "Angel Visor"
+      },
+      {
+        "trait_type": "Summoner",
+        "value": "ForgottenPunk #761"
+      }
+    ]
+  }
+}

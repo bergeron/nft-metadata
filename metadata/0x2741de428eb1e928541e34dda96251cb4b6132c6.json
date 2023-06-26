@@ -1,0 +1,73 @@
+{
+  "address": "0x2741de428eb1e928541e34dda96251cb4b6132c6",
+  "type": "ERC721",
+  "name": "Lady Etiquette V2",
+  "tokenCount": "1",
+  "uri": "ipfs://QmP4a6btwvChcCGyuoFZsosLkzca8PTzLYDj57Uz31BUq3/1.json",
+  "metadata": {
+    "name": "Lady Etiquette #1",
+    "description": "Manners matter more today than ever! The Lady Etiquette Collection was created to manifest the importance of etiquette and manners in the modern world. This is a collection of 10,000 unique portraits representing higher values.",
+    "external_url": "",
+    "image": "ipfs://REPLACE_WITH_CID_FROM_PREVIOUS_STEP/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Body"
+      },
+      {
+        "trait_type": "Necklace",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Blazer",
+        "value": "Red Blazer"
+      },
+      {
+        "trait_type": "Long Side Hair",
+        "value": "Long Side Hair"
+      },
+      {
+        "trait_type": "Hair 3",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Teacup",
+        "value": "Teacup Green Pattern"
+      },
+      {
+        "trait_type": "Nails",
+        "value": "Red Nails"
+      },
+      {
+        "trait_type": "Lips",
+        "value": "Nude Lips"
+      },
+      {
+        "trait_type": "Lapel Pin",
+        "value": "Blank"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Lady Etiquette",
+      "family": "Lady Etiquette"
+    },
+    "symbol": ""
+  }
+}

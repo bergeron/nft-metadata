@@ -1,0 +1,50 @@
+{
+  "address": "0xd9776cbd5e51c10fc4779a6e0aab90fdf2dea5c9",
+  "type": "ERC1155",
+  "name": "INTELLIGENT SUSHI (BY ROBNESS V2)",
+  "tokenCount": "17",
+  "uri": "ipfs://QmXPujbAtq7MTRKJ2AoMoZyS3MKdxkzTk3rorquE8xKULz/1/token.json",
+  "metadata": {
+    "name": "NEO TOKYO SKYLINE",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/image/upload/w_1200/v1682131874/0x6215e708a7b61f5ed49642f692f28ba09b807725/63ffc0ad847adb4af69d6fb4/stateCovers/eu26a5wm4pwb22cez7nj.png",
+    "description": "A PIECE OF ROBNESS V2'S 'FOREVER SUPPER' WHOLE ROOM COLLECTION ENTITLED 'INTELLIGENT SUSHI.'  A SURREAL AND GROOVY SPACE DINNER WHERE A CERTAIN DORIAN NAKAMOTO HOLDS COURT AND PROVIDES DELICIOUS FUTURISTIC SUSHI TO HIS FRIENDS.\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "ROBNESS V2"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "INTELLIGENT SUSHI (BY ROBNESS V2)"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0x6215e708a7b61f5ed49642f692f28ba09b807725"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Outside",
+              "state": {
+                "label": "NEO TOKYO SKYLINE",
+                "uri": "QmVdncgAKt2KLnah375jgB3nVVYZJfBtQVnVtwsfUKDTV7"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

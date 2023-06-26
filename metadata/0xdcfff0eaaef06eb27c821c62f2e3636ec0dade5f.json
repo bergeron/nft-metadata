@@ -1,0 +1,53 @@
+{
+  "address": "0xdcfff0eaaef06eb27c821c62f2e3636ec0dade5f",
+  "type": "ERC721",
+  "name": "TattooSkullzSociety",
+  "tokenCount": "4409",
+  "uri": "ipfs://QmXYeE9fzWYEVCJAw1XGtSontP79MkPRarjWp2rbePsGiy/1",
+  "metadata": {
+    "name": "Tattoo Skullz Society #1",
+    "description": "Founders Skullz",
+    "external_url": "",
+    "image": "ipfs://Qma2f4PvFoR1TVhGBcLHrWcs8o9ZxBnjNRc1rMJjTxXgdt/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bg ocean"
+      },
+      {
+        "trait_type": "Skull",
+        "value": "red"
+      },
+      {
+        "trait_type": "Jaw",
+        "value": "stripe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "oni"
+      },
+      {
+        "trait_type": "Element",
+        "value": "fro"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Tattoo Skullz Society",
+      "family": "Tattoo Skullz Society"
+    },
+    "symbol": ""
+  }
+}

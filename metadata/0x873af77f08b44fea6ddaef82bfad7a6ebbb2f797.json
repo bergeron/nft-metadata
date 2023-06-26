@@ -1,0 +1,42 @@
+{
+  "address": "0x873af77f08b44fea6ddaef82bfad7a6ebbb2f797",
+  "type": "ERC721",
+  "name": "TheLizardLounge",
+  "tokenCount": "13",
+  "uri": "ipfs://QmYDLpcZhAisfBza5UthGhZ6GqgGG9AxvncYJpwx1ER67j/1.json",
+  "metadata": {
+    "name": "Lizard #1",
+    "description": "A collection 10000 sophisticated Lizards looking their best on the Ethereum blockchain.",
+    "image": "ipfs://QmRt3LmuPe3MPyuCaH1XoA7a8pAcVAz7wW2biRm7NLHsqq/1.png",
+    "dna": "8b426324565ad37ad1e72c37eb474b75a1c2a124",
+    "edition": 1,
+    "date": 1645178159310,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Bored_Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Open"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "#1_Polo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "address": "0x09aa2421935377bf08e2a4fbc26b6fcb49da220e",
+  "type": "ERC721",
+  "name": "NFT Minting Application",
+  "tokenCount": "3",
+  "uri": "ipfs://QmeYMJn8bLWeK7p9V7AFZTxo3h71aqcjgRH3wnUrmLoun1/1.json",
+  "metadata": {
+    "name": "Degen Emoji #1",
+    "description": "Degen Emoji Collection | Probably Funny!",
+    "image": "ipfs://QmUhpXJTRyeQqf8k7L8aD8idfg5jQpeujmiobbpqxiLMwQ/1.png",
+    "dna": "11b64ccff254c5fc6e1de737356f988dfe99c418",
+    "edition": 1,
+    "date": 1645011773106,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wide"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

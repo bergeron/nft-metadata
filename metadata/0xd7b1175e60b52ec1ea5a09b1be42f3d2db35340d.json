@@ -1,0 +1,47 @@
+{
+  "address": "0xd7b1175e60b52ec1ea5a09b1be42f3d2db35340d",
+  "type": "ERC721",
+  "name": "Burgers Addicts",
+  "tokenCount": "999",
+  "uri": "ipfs://QmPErHJdTWLFYpwK7s2D6cL4PcRyHBXHpjR9DAxCDRfhkB/1.json",
+  "metadata": {
+    "name": "Burger #1",
+    "description": "A collection of 999 unique fresh hamburgers that move through all the kitchens of the houses looking for a stomach.",
+    "image": "ipfs://QmVEFvVM6diU6eD5VH78WgfibVydRFC9PcvjaifsKwvnWf/1.png",
+    "dna": "4ac816a8c900e1d8e8347f64bfb7ff1ef24eba0b",
+    "edition": 1,
+    "date": 1655819976833,
+    "creator": "Burgers Addicts",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Feet",
+        "value": "Sneakers red"
+      },
+      {
+        "trait_type": "Hand R",
+        "value": "Artist"
+      },
+      {
+        "trait_type": "Burger",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hand L",
+        "value": "Basic"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Angry green eyes"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Punk cyan"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

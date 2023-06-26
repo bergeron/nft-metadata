@@ -1,0 +1,38 @@
+{
+  "address": "0xcd485f43a89681df9a1671781985919f1445ed06",
+  "type": "ERC721",
+  "name": "Fake Binance V3",
+  "tokenCount": "28",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=5YSqGObTcJR6EhH8DGLQ",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1577592312509?alt=media&token=cf384586-fbcb-45b0-a296-10211db16161",
+    "isForSale": false,
+    "contractAddress": "0xcd485f43a89681df9a1671781985919f1445ed06",
+    "description": "Binance Collectibles Series 1 - Merry Christmas!",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xcd485f43a89681df9a1671781985919f1445ed06/5YSqGObTcJR6EhH8DGLQ",
+    "minter": "0x380566185c87aB93CA4edD474Cf6998B5fc4153e",
+    "mintedOn": {
+      "_seconds": 1577592346,
+      "_nanoseconds": 506000000
+    },
+    "price": "0.001",
+    "name": "HAPPY HOLLY-DAYS",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "HAPPY HOLLY-DAYS"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

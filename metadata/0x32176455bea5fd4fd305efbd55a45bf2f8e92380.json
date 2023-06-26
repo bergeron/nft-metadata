@@ -1,0 +1,1665 @@
+{
+  "address": "0x32176455bea5fd4fd305efbd55a45bf2f8e92380",
+  "type": "ERC721",
+  "name": "PIPS The MERGE",
+  "tokenCount": "3333",
+  "uri": "https://decks.pipcards.workers.dev/the-merge/metadata/1",
+  "metadata": {
+    "name": "The MERGE",
+    "image": "ipfs://QmYvFCZ6Avvbq9Bp7Y5793v7FwfnWaiRsPyX2AqRHjx4Ko",
+    "description": "PIPS is a first-of its kind NFT that contains an entire deck of playing cards in one NFT that can be used in metaverse gaming for PIPS games like Skirmish and Poker. Each NFT contains 57 custom SVG image assets: 52 playing cards, 2 jokers, 1 card back design, 1 ad card, and 1 box design — all of which can be viewed on pipcards.com. “The MERGE” deck is a tribute to the Ethereum protocol commemorating the integration of proof of stake with 3,333 limited edition custom Ethereum decks.",
+    "external_url": "https://pipcards.com/decks/the-merge",
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x9263b7e438d2323d648Cb87535D541367b359a72",
+    "attributes": [
+      {
+        "trait_type": "Club",
+        "value": "Black Joker Club"
+      },
+      {
+        "trait_type": "Club",
+        "value": "Joker Club"
+      },
+      {
+        "trait_type": "Deck Rarity Score",
+        "value": 690
+      },
+      {
+        "trait_type": "Pip Set Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Pip Theme",
+        "value": "Core"
+      },
+      {
+        "trait_type": "Champion Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Champion Rarity Score",
+        "value": 14
+      }
+    ],
+    "ui": {
+      "assets": {
+        "champion": "https://decks.pipcards.workers.dev/the-merge/1/black-Joker.svg",
+        "box": "ipfs://QmYvFCZ6Avvbq9Bp7Y5793v7FwfnWaiRsPyX2AqRHjx4Ko",
+        "pfp": "https://decks.pipcards.workers.dev/the-merge/1/1.png",
+        "deck": {
+          "back": "https://decks.pipcards.workers.dev/the-merge/1/back.svg",
+          "adCard": "https://decks.pipcards.workers.dev/the-merge/1/ad-card.svg",
+          "spades-Ace": "https://decks.pipcards.workers.dev/the-merge/1/spades-Ace.svg",
+          "hearts-Ace": "https://decks.pipcards.workers.dev/the-merge/1/hearts-Ace.svg",
+          "diamonds-Ace": "https://decks.pipcards.workers.dev/the-merge/1/diamonds-Ace.svg",
+          "clubs-Ace": "https://decks.pipcards.workers.dev/the-merge/1/clubs-Ace.svg",
+          "spades-2": "https://decks.pipcards.workers.dev/the-merge/1/spades-2.svg",
+          "hearts-2": "https://decks.pipcards.workers.dev/the-merge/1/hearts-2.svg",
+          "diamonds-2": "https://decks.pipcards.workers.dev/the-merge/1/diamonds-2.svg",
+          "clubs-2": "https://decks.pipcards.workers.dev/the-merge/1/clubs-2.svg",
+          "spades-3": "https://decks.pipcards.workers.dev/the-merge/1/spades-3.svg",
+          "hearts-3": "https://decks.pipcards.workers.dev/the-merge/1/hearts-3.svg",
+          "diamonds-3": "https://decks.pipcards.workers.dev/the-merge/1/diamonds-3.svg",
+          "clubs-3": "https://decks.pipcards.workers.dev/the-merge/1/clubs-3.svg",
+          "spades-4": "https://decks.pipcards.workers.dev/the-merge/1/spades-4.svg",
+          "hearts-4": "https://decks.pipcards.workers.dev/the-merge/1/hearts-4.svg",
+          "diamonds-4": "https://decks.pipcards.workers.dev/the-merge/1/diamonds-4.svg",
+          "clubs-4": "https://decks.pipcards.workers.dev/the-merge/1/clubs-4.svg",
+          "spades-5": "https://decks.pipcards.workers.dev/the-merge/1/spades-5.svg",
+          "hearts-5": "https://decks.pipcards.workers.dev/the-merge/1/hearts-5.svg",
+          "diamonds-5": "https://decks.pipcards.workers.dev/the-merge/1/diamonds-5.svg",
+          "clubs-5": "https://decks.pipcards.workers.dev/the-merge/1/clubs-5.svg",
+          "spades-6": "https://decks.pipcards.workers.dev/the-merge/1/spades-6.svg",
+          "hearts-6": "https://decks.pipcards.workers.dev/the-merge/1/hearts-6.svg",
+          "diamonds-6": "https://decks.pipcards.workers.dev/the-merge/1/diamonds-6.svg",
+          "clubs-6": "https://decks.pipcards.workers.dev/the-merge/1/clubs-6.svg",
+          "spades-7": "https://decks.pipcards.workers.dev/the-merge/1/spades-7.svg",
+          "hearts-7": "https://decks.pipcards.workers.dev/the-merge/1/hearts-7.svg",
+          "diamonds-7": "https://decks.pipcards.workers.dev/the-merge/1/diamonds-7.svg",
+          "clubs-7": "https://decks.pipcards.workers.dev/the-merge/1/clubs-7.svg",
+          "spades-8": "https://decks.pipcards.workers.dev/the-merge/1/spades-8.svg",
+          "hearts-8": "https://decks.pipcards.workers.dev/the-merge/1/hearts-8.svg",
+          "diamonds-8": "https://decks.pipcards.workers.dev/the-merge/1/diamonds-8.svg",
+          "clubs-8": "https://decks.pipcards.workers.dev/the-merge/1/clubs-8.svg",
+          "spades-9": "https://decks.pipcards.workers.dev/the-merge/1/spades-9.svg",
+          "hearts-9": "https://decks.pipcards.workers.dev/the-merge/1/hearts-9.svg",
+          "diamonds-9": "https://decks.pipcards.workers.dev/the-merge/1/diamonds-9.svg",
+          "clubs-9": "https://decks.pipcards.workers.dev/the-merge/1/clubs-9.svg",
+          "spades-10": "https://decks.pipcards.workers.dev/the-merge/1/spades-10.svg",
+          "hearts-10": "https://decks.pipcards.workers.dev/the-merge/1/hearts-10.svg",
+          "diamonds-10": "https://decks.pipcards.workers.dev/the-merge/1/diamonds-10.svg",
+          "clubs-10": "https://decks.pipcards.workers.dev/the-merge/1/clubs-10.svg",
+          "spades-Jack": "https://decks.pipcards.workers.dev/the-merge/1/spades-Jack.svg",
+          "hearts-Jack": "https://decks.pipcards.workers.dev/the-merge/1/hearts-Jack.svg",
+          "diamonds-Jack": "https://decks.pipcards.workers.dev/the-merge/1/diamonds-Jack.svg",
+          "clubs-Jack": "https://decks.pipcards.workers.dev/the-merge/1/clubs-Jack.svg",
+          "spades-Queen": "https://decks.pipcards.workers.dev/the-merge/1/spades-Queen.svg",
+          "hearts-Queen": "https://decks.pipcards.workers.dev/the-merge/1/hearts-Queen.svg",
+          "diamonds-Queen": "https://decks.pipcards.workers.dev/the-merge/1/diamonds-Queen.svg",
+          "clubs-Queen": "https://decks.pipcards.workers.dev/the-merge/1/clubs-Queen.svg",
+          "spades-King": "https://decks.pipcards.workers.dev/the-merge/1/spades-King.svg",
+          "hearts-King": "https://decks.pipcards.workers.dev/the-merge/1/hearts-King.svg",
+          "diamonds-King": "https://decks.pipcards.workers.dev/the-merge/1/diamonds-King.svg",
+          "clubs-King": "https://decks.pipcards.workers.dev/the-merge/1/clubs-King.svg",
+          "red-Joker": "https://decks.pipcards.workers.dev/the-merge/1/red-Joker.svg",
+          "black-Joker": "https://decks.pipcards.workers.dev/the-merge/1/black-Joker.svg"
+        }
+      },
+      "stats": {
+        "spades-Ace": {
+          "parts": {
+            "effect": {
+              "assetPath": "rare-effect-10",
+              "rarity": "Rare",
+              "score": 25
+            },
+            "pipPath": "Standards/Pips/Common/core/s-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "spades",
+          "value": "Ace",
+          "seed": "0xaf09e0462e04b4bebdeec6f66f0082d4e10f7bbc1e9c7aebe586d90b3eb4258a"
+        },
+        "hearts-Ace": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-69",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/h-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "hearts",
+          "value": "Ace",
+          "seed": "0xcaa8e414555ac1fd8ff8a77e8a4bedd7ab92a982d05b64710ccf43a6d2467334"
+        },
+        "diamonds-Ace": {
+          "parts": {
+            "effect": {
+              "assetPath": "uncommon-effect-68",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "pipPath": "Standards/Pips/Common/core/d-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "diamonds",
+          "value": "Ace",
+          "seed": "0x8c431adf5d841fca77fa48a92c761b1a05c0b985ed4dc2ea69124f25bf9da024"
+        },
+        "clubs-Ace": {
+          "parts": {
+            "effect": {
+              "assetPath": "uncommon-effect-19",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "pipPath": "Standards/Pips/Common/core/c-01.svg"
+          },
+          "rarityScore": 10,
+          "suit": "clubs",
+          "value": "Ace",
+          "seed": "0x5f7682ceeefdeade42c46e3230d4d44cfcf6ec84eaa7c221857dceb5a84950b9"
+        },
+        "spades-2": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-78",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/s-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "spades",
+          "value": "2",
+          "seed": "0xf7b13573882ecf557f02a523446f0cbfad0be0affcd71785a9b51996909692ab"
+        },
+        "hearts-2": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-16",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/h-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "hearts",
+          "value": "2",
+          "seed": "0x480f56a1f6723c853cc662ca1b7881eb7b3eae253531204e517062ac8ae22603"
+        },
+        "diamonds-2": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-80",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/d-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "diamonds",
+          "value": "2",
+          "seed": "0xab4fbfe712c80e26af376ef14dc16eae59fc304bc1c9603d96c5732bcced998e"
+        },
+        "clubs-2": {
+          "parts": {
+            "effect": {
+              "assetPath": "rare-effect-43",
+              "rarity": "Rare",
+              "score": 25
+            },
+            "pipPath": "Standards/Pips/Common/core/c-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "clubs",
+          "value": "2",
+          "seed": "0xaf2a0b69d5bdc82232a49f5306e520e1d2e29c20736be9dcf0a6e96c3f2bddf4"
+        },
+        "spades-3": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-17",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/s-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "spades",
+          "value": "3",
+          "seed": "0x42748d2dc0c7c0b946450e153cb3b8744a0bede2372b358890e338a3ad13583b"
+        },
+        "hearts-3": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-1",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/h-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "hearts",
+          "value": "3",
+          "seed": "0xbf64047006a6ff6390ab5d75df9682b41dfaa6ce7200b9c776cabf8a21540fa6"
+        },
+        "diamonds-3": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-53",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/d-01.svg"
+          },
+          "rarityScore": 10,
+          "suit": "diamonds",
+          "value": "3",
+          "seed": "0xf698788be29e3bd5efdddca571a79cf7332b0c929edd58cc83076f52fa43bad4"
+        },
+        "clubs-3": {
+          "parts": {
+            "effect": {
+              "assetPath": "uncommon-effect-59",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "pipPath": "Standards/Pips/Common/core/c-01.svg"
+          },
+          "rarityScore": 200,
+          "suit": "clubs",
+          "value": "3",
+          "seed": "0xeb3ac89a6ce960738b947078c5c92d9c8443d59d2306c3f566da35fd504935a6"
+        },
+        "spades-4": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-27",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/s-01.svg"
+          },
+          "rarityScore": 10,
+          "suit": "spades",
+          "value": "4",
+          "seed": "0xf1e2b9a5fdb7a22e392a7af5284412142156c520c861a0ce8caa2d2ab419736e"
+        },
+        "hearts-4": {
+          "parts": {
+            "effect": {
+              "assetPath": "uncommon-effect-23",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "pipPath": "Standards/Pips/Common/core/h-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "hearts",
+          "value": "4",
+          "seed": "0xd216c5ead2cdfe00362416f4d0724625688d97d24c11271c3668ff757c2c7f45"
+        },
+        "diamonds-4": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-21",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/d-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "diamonds",
+          "value": "4",
+          "seed": "0x11dcc455875b65e2a99f6f642216134f9452ad0f0cb21766294fb7537a610edc"
+        },
+        "clubs-4": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-82",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/c-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "clubs",
+          "value": "4",
+          "seed": "0xf35153c5cf76ca6ddaaf12b0dd4ba056ad921eb7e5d483489cf10c7fecd7d84e"
+        },
+        "spades-5": {
+          "parts": {
+            "effect": {
+              "assetPath": "uncommon-effect-31",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "pipPath": "Standards/Pips/Common/core/s-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "spades",
+          "value": "5",
+          "seed": "0x8c1ede22c5b3df75d4aa2a239edfcea44146ad4d69b1697b3dd56374a27b54ba"
+        },
+        "hearts-5": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-45",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/h-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "hearts",
+          "value": "5",
+          "seed": "0x932cb28b1eff1bf556dee97a27ef62a9e9dc01d31552320de763d19abf355939"
+        },
+        "diamonds-5": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-23",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/d-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "diamonds",
+          "value": "5",
+          "seed": "0xccde18a5987df513149c1162a75541a7aa8c2f012afb974666fa4d7657d5c7da"
+        },
+        "clubs-5": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-4",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/c-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "clubs",
+          "value": "5",
+          "seed": "0xd36771523fdc316c04c50dc1158d146c201ab9a697b8d7a0ae40f12fdf13f3aa"
+        },
+        "spades-6": {
+          "parts": {
+            "effect": {
+              "assetPath": "uncommon-effect-28",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "pipPath": "Standards/Pips/Common/core/s-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "spades",
+          "value": "6",
+          "seed": "0x411b13cda2f444107be2797b63c6727f676d6fe75d69e3f4343ef2ca79aaada1"
+        },
+        "hearts-6": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-20",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/h-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "hearts",
+          "value": "6",
+          "seed": "0x4c77c0abb1ef857c11a964b044efe829e7ac807b6c84cb44aa53c7658e006d0f"
+        },
+        "diamonds-6": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-23",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/d-01.svg"
+          },
+          "rarityScore": 10,
+          "suit": "diamonds",
+          "value": "6",
+          "seed": "0x83de3c535e0ac48a46e03621d54779b7b2ad96d905bcfc24e5b54d016b18cd30"
+        },
+        "clubs-6": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-59",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/c-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "clubs",
+          "value": "6",
+          "seed": "0x0b3a072bea2299cadf6b68980b34643d2cf4240a0b5d8d8d23ed43e0c93fb947"
+        },
+        "spades-7": {
+          "parts": {
+            "effect": {
+              "assetPath": "uncommon-effect-77",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "pipPath": "Standards/Pips/Common/core/s-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "spades",
+          "value": "7",
+          "seed": "0x2db08a0a1770cc1b93dcd15b27e58b6ae0091eb235357ff228563feee6d1f87b"
+        },
+        "hearts-7": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-47",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/h-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "hearts",
+          "value": "7",
+          "seed": "0x522eda0b27244a01de175700cd21f10a046279d2b6263657c9da4fc03dfa3ab0"
+        },
+        "diamonds-7": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-29",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/d-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "diamonds",
+          "value": "7",
+          "seed": "0x60e40b333430b83da8e8b7ebf7ce1668fd71d7bf392889d01985697db7421e54"
+        },
+        "clubs-7": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-9",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/c-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "clubs",
+          "value": "7",
+          "seed": "0x75d03609796afaf19fa63b2933b3aca0c42f91b95ec756d23ef7b9e4d3198ad1"
+        },
+        "spades-8": {
+          "parts": {
+            "effect": {
+              "assetPath": "uncommon-effect-53",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "pipPath": "Standards/Pips/Common/core/s-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "spades",
+          "value": "8",
+          "seed": "0x14980c788e34004feb73811995b91f6bf2645b0118b1bc5e4c5f2e54b4c0f5bc"
+        },
+        "hearts-8": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-8",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/h-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "hearts",
+          "value": "8",
+          "seed": "0x536b15cb863e6a5f35af28456788268dc4ce42dca4dc235625c630448e2e972f"
+        },
+        "diamonds-8": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-13",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/d-01.svg"
+          },
+          "rarityScore": 10,
+          "suit": "diamonds",
+          "value": "8",
+          "seed": "0x0270cd7ecf919497a0a7820981de710153fbcd84bc6d9410e07ab63333f99613"
+        },
+        "clubs-8": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-33",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/c-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "clubs",
+          "value": "8",
+          "seed": "0xd984090bd4325d87aa1b42ef6685f6c3170f154888c1e9fd7fcbe5e6c020da9d"
+        },
+        "spades-9": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-90",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/s-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "spades",
+          "value": "9",
+          "seed": "0xfebdf27a826fa7febc0eafc36451de5b5349c1a55affed5af7a3e46c7445550f"
+        },
+        "hearts-9": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-43",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/h-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "hearts",
+          "value": "9",
+          "seed": "0xb62a0e387fff3110af76970077f98644e7a727417279d9e6ddff80a1c417db32"
+        },
+        "diamonds-9": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-17",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/d-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "diamonds",
+          "value": "9",
+          "seed": "0x8574c4e65f5a4031cd1cd2423faccaf7f249059b524ebc1532fa3861230d5ff7"
+        },
+        "clubs-9": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-38",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/c-01.svg"
+          },
+          "rarityScore": 10,
+          "suit": "clubs",
+          "value": "9",
+          "seed": "0x17ed4655f2ec8b0244a9a01a3b3c9029318c78cf915f042fea61fae4c30de9c5"
+        },
+        "spades-10": {
+          "parts": {
+            "effect": {
+              "assetPath": "uncommon-effect-95",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "pipPath": "Standards/Pips/Common/core/s-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "spades",
+          "value": "10",
+          "seed": "0xd2c256a9e8ef9d73ca6e6be7a7c94373276a77267e90a98d30c3580080bc64da"
+        },
+        "hearts-10": {
+          "parts": {
+            "effect": {
+              "assetPath": "uncommon-effect-54",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "pipPath": "Standards/Pips/Common/core/h-01.svg"
+          },
+          "rarityScore": 10,
+          "suit": "hearts",
+          "value": "10",
+          "seed": "0x5535419d7064b6d1b6e408f1e67839bd24102e4d897c6e16be3c4cba018913de"
+        },
+        "diamonds-10": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-56",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/d-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "diamonds",
+          "value": "10",
+          "seed": "0xce37e5dfb28cd3370b9d35f346af45944191181b00f0e4b23502a76a604cbe76"
+        },
+        "clubs-10": {
+          "parts": {
+            "effect": {
+              "assetPath": "common-effect-9",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipPath": "Standards/Pips/Common/core/c-01.svg"
+          },
+          "rarityScore": 2,
+          "suit": "clubs",
+          "value": "10",
+          "seed": "0xe26c151b70fca9d7857e6cfb62fdb1139a9d062d4ed55d4141b9e7a45f9f593c"
+        },
+        "spades-Jack": {
+          "parts": {
+            "arms": {
+              "assetPath": "Standards/Arms/Human/King-Jack-Joker/Ultra-rare/arms-01.svg",
+              "rarity": "Ultra-rare",
+              "score": 100
+            },
+            "belt": {
+              "assetPath": "Standards/Belts/Common/belt-03.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "body": {
+              "assetPath": "Standards/Bodies/King-Jack-Joker/Common/body-16.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "crown": {
+              "assetPath": "Standards/Crowns/King-Jack/Common/crown-06.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "effect": {
+              "assetPath": "uncommon-effect-12",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "hair": {
+              "assetPath": "Standards/Hair/Jack/Common/hair-03.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "head": {
+              "assetPath": "Standards/Heads/Human/King-Jack-Joker/Common/one-eyed/head-06.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "weapon": {
+              "assetPath": "Standards/Weapons/King-Jack/Common/weapon-03.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipSet": {
+              "assetPath": "Standards/Pips/Common/core",
+              "rarity": "Common",
+              "score": 1
+            },
+            "frame": {
+              "assetPath": "Standards/Frames/Common/frame-02.svg",
+              "rarity": "Common",
+              "score": 1
+            }
+          },
+          "race": "Human",
+          "rarity": "Ultra-rare",
+          "rarityScore": 111,
+          "skills": {
+            "charisma": 11,
+            "constitution": 11,
+            "dexterity": 9,
+            "intelligence": 11,
+            "strength": 13,
+            "wisdom": 11
+          },
+          "suit": "Spades",
+          "value": "Jack",
+          "seed": "0x0093a3006d9561a79b079eb40bc09cb7fb30d4d5179ad52c76b75c3357e90919",
+          "skin": {}
+        },
+        "hearts-Jack": {
+          "parts": {
+            "arms": {
+              "assetPath": "Standards/Arms/Human/King-Jack-Joker/Common/arms-05.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "belt": {
+              "assetPath": "Standards/Belts/Common/belt-07.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "body": {
+              "assetPath": "Standards/Bodies/King-Jack-Joker/Common/body-20.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "crown": {
+              "assetPath": "Standards/Crowns/King-Jack/Common/crown-01.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "effect": {
+              "assetPath": "common-effect-37",
+              "rarity": "Common",
+              "score": 1
+            },
+            "hair": {
+              "assetPath": "Standards/Hair/Jack/Common/hair-01.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "head": {
+              "assetPath": "Standards/Heads/Human/King-Jack-Joker/Rare/one-eyed/head-01.svg",
+              "rarity": "Rare",
+              "score": 25
+            },
+            "weapon": {
+              "assetPath": "Standards/Weapons/King-Jack/Common/weapon-07.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipSet": {
+              "assetPath": "Standards/Pips/Common/core",
+              "rarity": "Common",
+              "score": 1
+            },
+            "frame": {
+              "assetPath": "Standards/Frames/Common/frame-02.svg",
+              "rarity": "Common",
+              "score": 1
+            }
+          },
+          "race": "Human",
+          "rarity": "Uncommon",
+          "rarityScore": 32,
+          "skills": {
+            "charisma": 21,
+            "constitution": 8,
+            "dexterity": 10,
+            "intelligence": 13,
+            "strength": 7,
+            "wisdom": 17
+          },
+          "suit": "Hearts",
+          "value": "Jack",
+          "seed": "0x717d7cb75e212c8e9f2063a6883afc32810b3ecce5ae789869e4a4d4b9b52593",
+          "skin": {}
+        },
+        "diamonds-Jack": {
+          "parts": {
+            "arms": {
+              "assetPath": "Standards/Arms/Human/King-Jack-Joker/Common/arms-02.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "belt": {
+              "assetPath": "Standards/Belts/Common/belt-02.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "body": {
+              "assetPath": "Standards/Bodies/King-Jack-Joker/Common/body-04.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "crown": {
+              "assetPath": "Standards/Crowns/King-Jack/Common/crown-02.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "effect": {
+              "assetPath": "common-effect-78",
+              "rarity": "Common",
+              "score": 1
+            },
+            "hair": {
+              "assetPath": "Standards/Hair/Jack/Common/hair-05.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "head": {
+              "assetPath": "Standards/Heads/Human/King-Jack-Joker/Uncommon/head-02.svg",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "weapon": {
+              "assetPath": "Standards/Weapons/King-Jack/Common/weapon-04.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipSet": {
+              "assetPath": "Standards/Pips/Common/core",
+              "rarity": "Common",
+              "score": 1
+            },
+            "frame": {
+              "assetPath": "Standards/Frames/Common/frame-02.svg",
+              "rarity": "Common",
+              "score": 1
+            }
+          },
+          "race": "Human",
+          "rarity": "Common",
+          "rarityScore": 12,
+          "skills": {
+            "charisma": 9,
+            "constitution": 12,
+            "dexterity": 19,
+            "intelligence": 10,
+            "strength": 9,
+            "wisdom": 15
+          },
+          "suit": "Diamonds",
+          "value": "Jack",
+          "seed": "0x14c5c9078da3bf0da3766de3b1a8a55041795715fca41661c633b56e8bda8c07",
+          "skin": {}
+        },
+        "clubs-Jack": {
+          "parts": {
+            "arms": {
+              "assetPath": "Standards/Arms/Human/King-Jack-Joker/Common/arms-02.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "belt": {
+              "assetPath": "Standards/Belts/Common/belt-04.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "body": {
+              "assetPath": "Standards/Bodies/King-Jack-Joker/Common/body-16.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "crown": {
+              "assetPath": "Standards/Crowns/King-Jack/Common/crown-07.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "effect": {
+              "assetPath": "uncommon-effect-18",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "hair": {
+              "assetPath": "Standards/Hair/Jack/Common/hair-03.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "head": {
+              "assetPath": "Standards/Heads/Human/King-Jack-Joker/Common/head-02.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "weapon": {
+              "assetPath": "Standards/Weapons/King-Jack/Common/weapon-02.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipSet": {
+              "assetPath": "Standards/Pips/Common/core",
+              "rarity": "Common",
+              "score": 1
+            },
+            "frame": {
+              "assetPath": "Standards/Frames/Common/frame-02.svg",
+              "rarity": "Common",
+              "score": 1
+            }
+          },
+          "race": "Human",
+          "rarity": "Common",
+          "rarityScore": 12,
+          "skills": {
+            "charisma": 11,
+            "constitution": 24,
+            "dexterity": 20,
+            "intelligence": 16,
+            "strength": 21,
+            "wisdom": 16
+          },
+          "suit": "Clubs",
+          "value": "Jack",
+          "seed": "0x2a563e7c886f16ac4b8ba8141165aaf23d104e8983a555f2daf23410099176f2",
+          "skin": {}
+        },
+        "spades-Queen": {
+          "parts": {
+            "arms": {
+              "assetPath": "Standards/Arms/Human/Queen/Uncommon/arms-02.svg",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "belt": {
+              "assetPath": "Standards/Belts/Common/belt-14.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "body": {
+              "assetPath": "Standards/Bodies/Queen/Common/body-04.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "crown": {
+              "assetPath": "Standards/Crowns/Queen/Common/crown-03.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "effect": {
+              "assetPath": "common-effect-83",
+              "rarity": "Common",
+              "score": 1
+            },
+            "hair": {
+              "assetPath": "Standards/Hair/Queen/Common/hair-04.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "head": {
+              "assetPath": "Standards/Heads/Human/Queen/Common/head-04.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "weapon": {
+              "assetPath": "Standards/Weapons/Queen/Common/weapon-08.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipSet": {
+              "assetPath": "Standards/Pips/Common/core",
+              "rarity": "Common",
+              "score": 1
+            },
+            "frame": {
+              "assetPath": "Standards/Frames/Common/frame-02.svg",
+              "rarity": "Common",
+              "score": 1
+            }
+          },
+          "race": "Human",
+          "rarity": "Common",
+          "rarityScore": 12,
+          "skills": {
+            "charisma": 11,
+            "constitution": 19,
+            "dexterity": 18,
+            "intelligence": 24,
+            "strength": 7,
+            "wisdom": 9
+          },
+          "suit": "Spades",
+          "value": "Queen",
+          "seed": "0x98538a1452ba33cfe0b5269852ac49e3db99892a91c9e2264e9d8e3d6c72daf4",
+          "skin": {}
+        },
+        "hearts-Queen": {
+          "parts": {
+            "arms": {
+              "assetPath": "Standards/Arms/Human/Queen/Uncommon/arms-02.svg",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "belt": {
+              "assetPath": "Standards/Belts/Common/belt-12.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "body": {
+              "assetPath": "Standards/Bodies/Queen/Uncommon/body-03.svg",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "crown": {
+              "assetPath": "Standards/Crowns/Queen/Common/crown-08.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "effect": {
+              "assetPath": "common-effect-32",
+              "rarity": "Common",
+              "score": 1
+            },
+            "hair": {
+              "assetPath": "Standards/Hair/Queen/Common/hair-01.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "head": {
+              "assetPath": "Standards/Heads/Human/Queen/Uncommon/head-03.svg",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "weapon": {
+              "assetPath": "Standards/Weapons/Queen/Common/weapon-04.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipSet": {
+              "assetPath": "Standards/Pips/Common/core",
+              "rarity": "Common",
+              "score": 1
+            },
+            "frame": {
+              "assetPath": "Standards/Frames/Common/frame-02.svg",
+              "rarity": "Common",
+              "score": 1
+            }
+          },
+          "race": "Human",
+          "rarity": "Common",
+          "rarityScore": 20,
+          "skills": {
+            "charisma": 22,
+            "constitution": 10,
+            "dexterity": 19,
+            "intelligence": 21,
+            "strength": 14,
+            "wisdom": 12
+          },
+          "suit": "Hearts",
+          "value": "Queen",
+          "seed": "0x98768d69a3350b8202df73a183725baa986592ba29a4f2eb77f77018e0f050e4",
+          "skin": {}
+        },
+        "diamonds-Queen": {
+          "parts": {
+            "arms": {
+              "assetPath": "Standards/Arms/Human/Queen/Common/arms-04.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "belt": {
+              "assetPath": "Standards/Belts/Common/belt-03.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "body": {
+              "assetPath": "Standards/Bodies/Queen/Common/body-06.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "crown": {
+              "assetPath": "Standards/Crowns/Queen/Common/crown-01.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "effect": {
+              "assetPath": "common-effect-63",
+              "rarity": "Common",
+              "score": 1
+            },
+            "hair": {
+              "assetPath": "Standards/Hair/Queen/Common/hair-05.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "head": {
+              "assetPath": "Standards/Heads/Human/Queen/Uncommon/head-03.svg",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "weapon": {
+              "assetPath": "Standards/Weapons/Queen/Common/weapon-05.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipSet": {
+              "assetPath": "Standards/Pips/Common/core",
+              "rarity": "Common",
+              "score": 1
+            },
+            "frame": {
+              "assetPath": "Standards/Frames/Common/frame-02.svg",
+              "rarity": "Common",
+              "score": 1
+            }
+          },
+          "race": "Human",
+          "rarity": "Common",
+          "rarityScore": 12,
+          "skills": {
+            "charisma": 15,
+            "constitution": 25,
+            "dexterity": 25,
+            "intelligence": 23,
+            "strength": 18,
+            "wisdom": 22
+          },
+          "suit": "Diamonds",
+          "value": "Queen",
+          "seed": "0x3909af89f3b6f90bae8875eca2ac19a58e29e12e4b845c7de0b0b8523f219e97",
+          "skin": {}
+        },
+        "clubs-Queen": {
+          "parts": {
+            "arms": {
+              "assetPath": "Standards/Arms/Human/Queen/Common/arms-01.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "belt": {
+              "assetPath": "Standards/Belts/Common/belt-14.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "body": {
+              "assetPath": "Standards/Bodies/Queen/Common/body-05.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "crown": {
+              "assetPath": "Standards/Crowns/Queen/Common/crown-04.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "effect": {
+              "assetPath": "common-effect-15",
+              "rarity": "Common",
+              "score": 1
+            },
+            "hair": {
+              "assetPath": "Standards/Hair/Queen/Common/hair-03.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "head": {
+              "assetPath": "Standards/Heads/Human/Queen/Common/head-02.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "weapon": {
+              "assetPath": "Standards/Weapons/Queen/Rare/weapon-04.svg",
+              "rarity": "Rare",
+              "score": 25
+            },
+            "pipSet": {
+              "assetPath": "Standards/Pips/Common/core",
+              "rarity": "Common",
+              "score": 1
+            },
+            "frame": {
+              "assetPath": "Standards/Frames/Common/frame-02.svg",
+              "rarity": "Common",
+              "score": 1
+            }
+          },
+          "race": "Human",
+          "rarity": "Uncommon",
+          "rarityScore": 32,
+          "skills": {
+            "charisma": 21,
+            "constitution": 13,
+            "dexterity": 23,
+            "intelligence": 13,
+            "strength": 19,
+            "wisdom": 25
+          },
+          "suit": "Clubs",
+          "value": "Queen",
+          "seed": "0x25e1e16280e0deec0451a5740e15d462014bab80b18265f05e8dff64e4f2ab38",
+          "skin": {}
+        },
+        "spades-King": {
+          "parts": {
+            "arms": {
+              "assetPath": "Standards/Arms/Human/King-Jack-Joker/Common/arms-03.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "belt": {
+              "assetPath": "Standards/Belts/Common/belt-01.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "body": {
+              "assetPath": "Standards/Bodies/King-Jack-Joker/Common/body-01.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "crown": {
+              "assetPath": "Standards/Crowns/King-Jack/Common/crown-09.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "effect": {
+              "assetPath": "uncommon-effect-20",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "hair": {
+              "assetPath": "Standards/Hair/King/Common/hair-02.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "head": {
+              "assetPath": "Standards/Heads/Human/King-Jack-Joker/Common/head-05.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "weapon": {
+              "assetPath": "Standards/Weapons/King-Jack/Common/weapon-05.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipSet": {
+              "assetPath": "Standards/Pips/Common/core",
+              "rarity": "Common",
+              "score": 1
+            },
+            "frame": {
+              "assetPath": "Standards/Frames/Common/frame-02.svg",
+              "rarity": "Common",
+              "score": 1
+            }
+          },
+          "race": "Human",
+          "rarity": "Common",
+          "rarityScore": 12,
+          "skills": {
+            "charisma": 24,
+            "constitution": 9,
+            "dexterity": 14,
+            "intelligence": 17,
+            "strength": 23,
+            "wisdom": 11
+          },
+          "suit": "Spades",
+          "value": "King",
+          "seed": "0xcc9f9c74a708d1c678b32c3cdbc231d5dc16b32461ebb5a850b88ca262974e83",
+          "skin": {}
+        },
+        "hearts-King": {
+          "parts": {
+            "arms": {
+              "assetPath": "Standards/Arms/Human/King-Jack-Joker/KH/Rare/arms-02.svg",
+              "rarity": "Rare",
+              "score": 25
+            },
+            "belt": {
+              "assetPath": "Standards/Belts/Common/belt-15.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "body": {
+              "assetPath": "Standards/Bodies/King-Jack-Joker/Common/body-20.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "crown": {
+              "assetPath": "Standards/Crowns/King-Jack/Common/crown-08.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "effect": {
+              "assetPath": "common-effect-96",
+              "rarity": "Common",
+              "score": 1
+            },
+            "hair": {
+              "assetPath": "Standards/Hair/King/Uncommon/hair-04.svg",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "head": {
+              "assetPath": "Standards/Heads/Human/King-Jack-Joker/Common/head-03.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "weapon": {
+              "assetPath": "Standards/Weapons/King-Jack/KH/Common/weapon-02.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipSet": {
+              "assetPath": "Standards/Pips/Common/core",
+              "rarity": "Common",
+              "score": 1
+            },
+            "frame": {
+              "assetPath": "Standards/Frames/Common/frame-02.svg",
+              "rarity": "Common",
+              "score": 1
+            }
+          },
+          "race": "Human",
+          "rarity": "Uncommon",
+          "rarityScore": 36,
+          "skills": {
+            "charisma": 24,
+            "constitution": 7,
+            "dexterity": 9,
+            "intelligence": 9,
+            "strength": 9,
+            "wisdom": 24
+          },
+          "suit": "Hearts",
+          "value": "King",
+          "seed": "0xab7ee896d518b926130dc465c39158e756d386a913159ae61105e63c085c824c",
+          "skin": {}
+        },
+        "diamonds-King": {
+          "parts": {
+            "arms": {
+              "assetPath": "Standards/Arms/Human/King-Jack-Joker/Rare/arms-03.svg",
+              "rarity": "Rare",
+              "score": 25
+            },
+            "belt": {
+              "assetPath": "Standards/Belts/Common/belt-19.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "body": {
+              "assetPath": "Standards/Bodies/King-Jack-Joker/Common/body-18.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "crown": {
+              "assetPath": "Standards/Crowns/King-Jack/Common/crown-04.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "effect": {
+              "assetPath": "common-effect-86",
+              "rarity": "Common",
+              "score": 1
+            },
+            "hair": {
+              "assetPath": "Standards/Hair/King/Common/hair-01.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "head": {
+              "assetPath": "Standards/Heads/Human/King-Jack-Joker/Common/one-eyed/head-01.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "weapon": {
+              "assetPath": "Standards/Weapons/King-Jack/KD/Common/weapon-04.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipSet": {
+              "assetPath": "Standards/Pips/Common/core",
+              "rarity": "Common",
+              "score": 1
+            },
+            "frame": {
+              "assetPath": "Standards/Frames/Common/frame-02.svg",
+              "rarity": "Common",
+              "score": 1
+            }
+          },
+          "race": "Human",
+          "rarity": "Uncommon",
+          "rarityScore": 32,
+          "skills": {
+            "charisma": 9,
+            "constitution": 7,
+            "dexterity": 18,
+            "intelligence": 16,
+            "strength": 16,
+            "wisdom": 22
+          },
+          "suit": "Diamonds",
+          "value": "King",
+          "seed": "0xf0f303e1ce8071ef615715feb9d5c05130acc97400dcc742cd61d3dc762693ac",
+          "skin": {}
+        },
+        "clubs-King": {
+          "parts": {
+            "arms": {
+              "assetPath": "Standards/Arms/Human/King-Jack-Joker/Uncommon/arms-02.svg",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "belt": {
+              "assetPath": "Standards/Belts/Common/belt-09.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "body": {
+              "assetPath": "Standards/Bodies/King-Jack-Joker/Common/body-06.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "crown": {
+              "assetPath": "Standards/Crowns/King-Jack/Common/crown-04.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "effect": {
+              "assetPath": "common-effect-24",
+              "rarity": "Common",
+              "score": 1
+            },
+            "hair": {
+              "assetPath": "Standards/Hair/King/Common/hair-03.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "head": {
+              "assetPath": "Standards/Heads/Human/King-Jack-Joker/Common/head-01.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "weapon": {
+              "assetPath": "Standards/Weapons/King-Jack/Common/weapon-02.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipSet": {
+              "assetPath": "Standards/Pips/Common/core",
+              "rarity": "Common",
+              "score": 1
+            },
+            "frame": {
+              "assetPath": "Standards/Frames/Common/frame-02.svg",
+              "rarity": "Common",
+              "score": 1
+            }
+          },
+          "race": "Human",
+          "rarity": "Common",
+          "rarityScore": 12,
+          "skills": {
+            "charisma": 23,
+            "constitution": 17,
+            "dexterity": 20,
+            "intelligence": 24,
+            "strength": 23,
+            "wisdom": 25
+          },
+          "suit": "Clubs",
+          "value": "King",
+          "seed": "0xb6af310f51ad1b8e1977155b175e0813a23a16f4562011bb5e8f90d58cb0e656",
+          "skin": {}
+        },
+        "red-Joker": {
+          "parts": {
+            "arms": {
+              "assetPath": "Standards/Arms/Human/King-Jack-Joker/Common/arms-03.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "belt": {
+              "assetPath": "Standards/Belts/Common/belt-16.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "body": {
+              "assetPath": "Standards/Bodies/King-Jack-Joker/Common/body-05.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "crown": {
+              "assetPath": "Standards/Crowns/Joker/Common/crown-07.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "effect": {
+              "assetPath": "common-effect-8",
+              "rarity": "Common",
+              "score": 1
+            },
+            "hair": {
+              "assetPath": "Standards/Hair/Joker/Common/hair-02.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "head": {
+              "assetPath": "Standards/Heads/Human/King-Jack-Joker/Common/head-03.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "weapon": {
+              "assetPath": "Standards/Weapons/Joker/Common/weapon-03.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipSet": {
+              "assetPath": "Standards/Pips/Common/core",
+              "rarity": "Common",
+              "score": 1
+            },
+            "frame": {
+              "assetPath": "Standards/Frames/Common/frame-02.svg",
+              "rarity": "Common",
+              "score": 1
+            }
+          },
+          "race": "Human",
+          "rarity": "Common",
+          "rarityScore": 8,
+          "skills": {
+            "charisma": 18,
+            "constitution": 18,
+            "dexterity": 8,
+            "intelligence": 15,
+            "strength": 15,
+            "wisdom": 24
+          },
+          "suit": "Red Joker",
+          "value": "Joker",
+          "seed": "0xa3e0988fa24ef3c29017b6390774d0a656f4e03157acc65470168abe6990614e",
+          "skin": {}
+        },
+        "black-Joker": {
+          "parts": {
+            "arms": {
+              "assetPath": "Standards/Arms/Human/King-Jack-Joker/Common/arms-03.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "belt": {
+              "assetPath": "Standards/Belts/Common/belt-03.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "body": {
+              "assetPath": "Standards/Bodies/King-Jack-Joker/Common/body-02.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "crown": {
+              "assetPath": "Standards/Crowns/Joker/Common/crown-04.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "effect": {
+              "assetPath": "common-effect-100",
+              "rarity": "Common",
+              "score": 1
+            },
+            "hair": {
+              "assetPath": "Standards/Hair/Joker/Uncommon/hair-03.svg",
+              "rarity": "Uncommon",
+              "score": 5
+            },
+            "head": {
+              "assetPath": "Standards/Heads/Human/King-Jack-Joker/Common/head-02.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "weapon": {
+              "assetPath": "Standards/Weapons/Joker/Common/weapon-01.svg",
+              "rarity": "Common",
+              "score": 1
+            },
+            "pipSet": {
+              "assetPath": "Standards/Pips/Common/core",
+              "rarity": "Common",
+              "score": 1
+            },
+            "frame": {
+              "assetPath": "Standards/Frames/Common/frame-02.svg",
+              "rarity": "Common",
+              "score": 1
+            }
+          },
+          "race": "Human",
+          "rarity": "Common",
+          "rarityScore": 12,
+          "skills": {
+            "charisma": 19,
+            "constitution": 22,
+            "dexterity": 7,
+            "intelligence": 25,
+            "strength": 21,
+            "wisdom": 10
+          },
+          "suit": "Black Joker",
+          "value": "Joker",
+          "seed": "0xd89bf4a6480174568d4eb3dac7a5e9582b5d247ea7ab4b6d29e43898ac5ba02f",
+          "skin": {}
+        },
+        "theme": {
+          "name": "Violet",
+          "red": {
+            "primary": "#b52f3f",
+            "secondary": "#d7455b",
+            "tertiary": "#8f2530",
+            "quaternary": "#f46b88",
+            "skin1": "#efced7",
+            "skin2": "#d5a8bf"
+          },
+          "black": {
+            "primary": "#6B5D7E",
+            "secondary": "#AE8AB6",
+            "tertiary": "#453E50",
+            "quaternary": "#EDB2E2",
+            "skin1": "#EDE5EF",
+            "skin2": "#D0BBD4"
+          },
+          "back": "black"
+        }
+      },
+      "champion": {
+        "formattedValue": "Joker",
+        "rarityScore": 14,
+        "genesisSeed": "0xd89bf4a6480174568d4eb3dac7a5e9582b5d247ea7ab4b6d29e43898ac5ba02f",
+        "suit": "Black Joker",
+        "value": "Joker"
+      }
+    }
+  }
+}

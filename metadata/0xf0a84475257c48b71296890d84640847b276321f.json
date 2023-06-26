@@ -1,0 +1,89 @@
+{
+  "address": "0xf0a84475257c48b71296890d84640847b276321f",
+  "type": "ERC721",
+  "name": "Depression by Arnaud Chavanne",
+  "tokenCount": "6",
+  "uri": "ipfs://QmZ7uVhdJGqcZttPWPCoA7CY4AZ5Z5Zfi2aWCQ7yEg8N6J",
+  "metadata": {
+    "name": "Depression #1",
+    "description": "“Depression #1” is, like each NFT of this serie, the result of an iterative artistic process led by Anys using the artificial intelligence tool DALL. E developed by OpenAI.\nVerisart certified 1:1 NFT | Max. 20 NFTs in this serie | Each original artwork is burned as soon as it has been minted, so that it will only ever exist on the blockchain for eternity. \n\n\nVerisart Certified: https://verisart.com/works/9e635dfb-5f92-4fa5-ac1d-6f32c99ec73f",
+    "image": "ipfs://QmagjMj2gVs9oEuyJ4h2iK7z78uvA8x6n9WVXxZSHDH9C6",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 512,
+          "height": 512,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": null,
+        "frameRate": null,
+        "tags": [
+          "Art",
+          "AnysArt",
+          "Anys",
+          "Depression",
+          "anys",
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xc69885dde0959bcf9d0f8f1a687b39b164666292",
+            "bps": 1000
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": null
+      }
+    },
+    "external_url": "https://verisart.com/works/9e635dfb-5f92-4fa5-ac1d-6f32c99ec73f",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "Art"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "AnysArt"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "Anys"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "Depression"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "anys"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "ARNAUD GUY CHAVANNE"
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Title",
+        "value": "Depression #1"
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "512x512 px"
+      },
+      {
+        "trait_type": "Collector Reward",
+        "value": "True"
+      }
+    ]
+  }
+}

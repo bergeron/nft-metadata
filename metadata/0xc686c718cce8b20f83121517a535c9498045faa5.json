@@ -1,0 +1,33 @@
+{
+  "address": "0xc686c718cce8b20f83121517a535c9498045faa5",
+  "type": "ERC721",
+  "name": "IPv4DAO Root Tokens",
+  "tokenCount": "72",
+  "uri": "ipfs://QmaEFuqbuSuK3LBYJTHq8y8GBxwvAHAqA3PscYhUEeq6dZ/1.json",
+  "metadata": {
+    "name": "IPv4DAO root@127.0.0.1",
+    "description": "IPv4DAO membership and governance token. The holder of this NFT is a founding member of IPv4DAO. For more information visit https://ipv4dao.io",
+    "image": "ipfs://QmcxCSD7VsWpZkhYU2bRcqBAyyRwzp9kb1obYcWt3PAgtr/1.png",
+    "dna": "ee31c4ca7eb55262d861233fc2a31ed22cf33b72",
+    "edition": "1",
+    "date": 1663157443073,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cyber Purple"
+      },
+      {
+        "trait_type": "Address",
+        "value": "127.0.0.1"
+      },
+      {
+        "trait_type": "Device",
+        "value": "SysOp Purple Router"
+      },
+      {
+        "trait_type": "Subnet",
+        "value": "127.0.0.0/24"
+      }
+    ]
+  }
+}

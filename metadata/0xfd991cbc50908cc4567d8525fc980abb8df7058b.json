@@ -1,0 +1,35 @@
+{
+  "address": "0xfd991cbc50908cc4567d8525fc980abb8df7058b",
+  "type": "ERC721",
+  "name": "Maestro - Tickets",
+  "tokenCount": "578",
+  "uri": "https://assets.maestronft.io/tickets/metadata/1.json",
+  "metadata": {
+    "id": "1",
+    "external_url": "https://www.maestronft.io/",
+    "image": "https://assets.maestronft.io/tickets/images/1.png",
+    "attributes": [
+      {
+        "trait_type": "Section",
+        "value": "VIP"
+      },
+      {
+        "trait_type": "Row",
+        "value": "AA"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "01"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Diamond"
+      },
+      {
+        "trait_type": "Number",
+        "value": "1249"
+      }
+    ],
+    "description": "Let the show begin!"
+  }
+}

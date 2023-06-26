@@ -1,0 +1,40 @@
+{
+  "address": "0xe9b8552dfd0b8bd82e3bc4a75bf8bf3593bc4d8c",
+  "type": "ERC1155",
+  "name": "Print Editions",
+  "tokenCount": "6",
+  "uri": "https://arweave.net/Qa1JkKAzLH5IkCbagQKnFrdsHfdsbM7ENPeHHpRVerU",
+  "metadata": {
+    "created_by": "Print Editions",
+    "name": "Schematic Print",
+    "description": "Each Schematic print edition token can be redeemed for one Schematic print signed by Nick Kuder. Visit [PrintEditions.xyz](http://printeditions.xyz/) for details about how to redeem your print edition token. ",
+    "external_url": "http://printeditions.xyz",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Nick Kuder"
+      },
+      {
+        "trait_type": "Print",
+        "value": "Schematic"
+      },
+      {
+        "trait_type": "Signed",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Framed",
+        "value": "Optional"
+      }
+    ],
+    "image_details": {
+      "bytes": 42150,
+      "format": "PNG",
+      "sha256": "671b91b0e3039946e8bedcd5a22e7d9531f9d8ba6548ef876e2575679342251b",
+      "width": 466,
+      "height": 466
+    },
+    "image": "https://arweave.net/Me63cZkv0NoG0Z8mW2W9TaYi9bG6aFoebv-wWllZqTs",
+    "image_url": "https://arweave.net/Me63cZkv0NoG0Z8mW2W9TaYi9bG6aFoebv-wWllZqTs"
+  }
+}

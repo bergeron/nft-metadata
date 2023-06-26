@@ -1,0 +1,60 @@
+{
+  "address": "0xd4fa95f9130926c6ed80d3d8a0aef8bc48a5dc43",
+  "type": "ERC721",
+  "name": "Blonk Blonk",
+  "tokenCount": "140",
+  "uri": "ipfs://bafybeide2fsjcryygfzh55lfics5urjbpugwuxnobtupyrq4eckjitn2gy/1.json",
+  "metadata": {
+    "name": "BlonkBlonk #1",
+    "description": "It all started with one MOO",
+    "image": "https://gateway.pinata.cloud/ipfs/Qme4BuWvxVEx4m9tRVLGf6wN6shpMvk8xpHrKhAN1mqxPo/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ABDUCTED"
+      },
+      {
+        "trait_type": "Forcefields",
+        "value": "GOLD"
+      },
+      {
+        "trait_type": "Cows",
+        "value": "PURPLE"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "CHICKEN"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "EGGPLANT"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PIXEL GLASSES"
+      },
+      {
+        "trait_type": "Special Accessories",
+        "value": "COWBOY BOOTS"
+      },
+      {
+        "trait_type": "Pets",
+        "value": "TWINS"
+      },
+      {
+        "trait_type": "Overlays",
+        "value": "CODE"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

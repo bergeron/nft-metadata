@@ -1,0 +1,53 @@
+{
+  "address": "0x8203548b5147b951cc78e80e6cbfa243e47edefc",
+  "type": "ERC721",
+  "name": "Blockchain Bandicoot - old",
+  "tokenCount": "50",
+  "uri": "ipfs://QmUucEmsZxZTwCKFN3kjsxhTyNSBzXqbPA54gTzy33Qpo7/1.json",
+  "metadata": {
+    "name": "Blockchain Bandicoot #1",
+    "description": "Blockchain Bandicoot NFT Collection",
+    "external_url": "https://www.blockchainbandicoots.com/",
+    "image": "ipfs://bafybeignxauklqrrq7gerkrsgp5frdmnntqze5huyirgg4caycysb3l2ai/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green-Apple"
+      },
+      {
+        "trait_type": "Elements",
+        "value": "Earth"
+      },
+      {
+        "trait_type": "Skin Colour",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Battle Suit"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eye Scar"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Bandana"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cigarette"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

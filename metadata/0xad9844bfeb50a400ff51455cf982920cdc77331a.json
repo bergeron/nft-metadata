@@ -1,0 +1,35 @@
+{
+  "address": "0xad9844bfeb50a400ff51455cf982920cdc77331a",
+  "type": "ERC721",
+  "name": "Koda Capital DAO",
+  "tokenCount": "149",
+  "uri": "https://storage.googleapis.com/koda-cap-json/1.json",
+  "metadata": {
+    "name": "Koda Capital",
+    "description": "A DAO built on top of the $APE ecosystem. Focused on $APE staking via MAYC/BAKC pools for max $APE yields quarterly.",
+    "image": "https://storage.googleapis.com/koda-cap-img/Unrevealed.png",
+    "attributes": [
+      {
+        "trait_type": "Anthro Pool",
+        "value": "Offline"
+      },
+      {
+        "trait_type": "Rocky Pool",
+        "value": "Offline"
+      },
+      {
+        "trait_type": "DAO Pool",
+        "value": "Offline"
+      },
+      {
+        "trait_type": "APE Yielding",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "DAO Voting Power",
+        "value": "Yes"
+      }
+    ],
+    "compiler": "DevTech Solutions Art Engine"
+  }
+}

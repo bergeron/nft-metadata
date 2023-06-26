@@ -1,0 +1,45 @@
+{
+  "address": "0xc30e7f053a532ffd8f6252ef337affa48dd763c7",
+  "type": "ERC721",
+  "name": "PrimitiveExpressions",
+  "tokenCount": "6",
+  "uri": "https://ipfs.pixura.io/ipfs/QmZBn9pDMgphXv3fyKY8Z6vHSasi5oMewJjuoozdaTPCDt/metadata.json",
+  "metadata": {
+    "name": "3D PLANE",
+    "createdBy": "Pablo Munoz Gomez",
+    "yearCreated": "2022",
+    "description": "A 3D primitive plane with a raw primitive expression",
+    "image": "https://ipfs.pixura.io/ipfs/QmRcVMaaUbxoa7PA8iUxD9UVJ3it2u1P4FqipQ2fuJkm5j/Plane.png",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmQPfWc8sDohuAGi2257DRBYBtScQbyXrouFjdfCYf9jKG/PrimitiveExpressions_PLANE.mp4",
+      "dimensions": "1500x1500",
+      "size": "31640604",
+      "mimeType": "video/mp4"
+    },
+    "tags": [
+      "Primitive",
+      "3D",
+      "Expression",
+      "Video",
+      "loop"
+    ],
+    "attributes": [
+      {
+        "trait_type": "3D Primitive",
+        "value": "Plane"
+      },
+      {
+        "trait_type": "Video",
+        "value": "MP4"
+      },
+      {
+        "trait_type": "Size",
+        "value": "1500 x 1500"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "10 Seconds"
+      }
+    ]
+  }
+}

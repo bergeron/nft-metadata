@@ -1,0 +1,29 @@
+{
+  "address": "0x7300ff4d3f2a880a85b8333a682f5a1d1ebaec1c",
+  "type": "ERC721",
+  "name": "Ascii Coin",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeih7dd24ne5wr5gtkfbbutczl6ltyuqbauyu4bidrdjfbofdxg7tsi/1.json",
+  "metadata": {
+    "name": "Ascii Coin #1",
+    "description": "Top 50 CryptoCurrencies by Market Cap Ascii Art Project",
+    "image": "ipfs://QmUozz6wZkLTzTeFX86qdRBBaFWNuMiTS372qUt2cBJGnv/1.png",
+    "edition": 1,
+    "date": 1649981469340,
+    "attributes": [
+      {
+        "trait_type": "Market Cap",
+        "value": "Top50"
+      },
+      {
+        "trait_type": "Date",
+        "value": "04142022"
+      },
+      {
+        "trait_type": "Ascii Coin",
+        "value": "ICP"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

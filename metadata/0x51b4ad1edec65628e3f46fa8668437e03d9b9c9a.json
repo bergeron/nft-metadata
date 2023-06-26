@@ -1,0 +1,36 @@
+{
+  "address": "0x51b4ad1edec65628e3f46fa8668437e03d9b9c9a",
+  "type": "ERC721",
+  "name": "Masters of Meditation",
+  "tokenCount": "1840",
+  "uri": "ipfs://bafybeifnuiqqb7dbg3spykzckwloxizvuypmkj56oxexlorpi4cy4o36uq/1",
+  "metadata": {
+    "name": "Guru #1",
+    "description": "Each guru is aligned to a set of unique experiences.",
+    "image": "ipfs://bafybeib64zdenqfrdxxwbpe7dtr3falul6c4o3yhdna3hfthdeqjx66m4a/1.jpg",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Mandala"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Godlike"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Blossom"
+      },
+      {
+        "trait_type": "Items",
+        "value": "Skulls"
+      }
+    ],
+    "compiler": "Open3"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "address": "0xad7638e09b99a3192c0b24a0810ee3ce910d2a0e",
+  "type": "ERC721",
+  "name": "No Rugrets",
+  "tokenCount": "2000",
+  "uri": "https://cdn-api.niftykit.com/reveal/A7eMH9ulWmkveEbQMTG6/1",
+  "metadata": {
+    "name": "No RUGrets #1",
+    "image": "ipfs://QmPW9shrkEtsnAG22M4j4Pc6EFo6Dw2Tu2K1u7Z6KgBSHQ/1.png",
+    "description": "Free No Rugrets Mint.... No Roadmap, No Rugrets. Trade them, sell them! List em high! No Rugrets you degens!!!!",
+    "external_url": "https://carrythekey.com",
+    "seller_fee_basis_points": 1000,
+    "compiler": "nft-inator.com",
+    "attributes": [
+      {
+        "trait_type": "Phrase",
+        "value": "No Rugrets"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Shtewp Ikklz"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Disz Wayy"
+      },
+      {
+        "trait_type": "Background",
+        "value": "The Backyard"
+      }
+    ],
+    "fee_recipient": "0xAb9fcac42ce5614c592426b80f3a34C3BdfDe698"
+  }
+}

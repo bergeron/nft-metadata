@@ -1,0 +1,44 @@
+{
+  "address": "0x5703a3245ff6fad37fa2a2500f0739d4f6a234e7",
+  "type": "ERC721",
+  "name": "CryptoMaids",
+  "tokenCount": "2023",
+  "uri": "https://api.cryptomaids.tokyo/metadata/crypto_maid/1",
+  "metadata": {
+    "name": "CryptoMaids #1",
+    "image": "https://cryptomaids-metadata.s3.amazonaws.com/uploads/token/awaken_thumbnail_image/69582/f02dd927-106d-414d-81d6-f3e6919d6dc520230405-69-1n64sjp.png",
+    "external_url": "https://cryptomaids-metadata.s3.amazonaws.com/uploads/token/awaken_image/69582/61fcfa0e-558b-43e8-99dc-87fde6007c7b20230329-69-1n691ae.png",
+    "animation_url": "https://api.cryptomaids.tokyo/cryptomaids/1",
+    "attributes": [
+      {
+        "trait_type": "cloth",
+        "value": "Maid Cloth A"
+      },
+      {
+        "trait_type": "weapon",
+        "value": "Saw"
+      },
+      {
+        "trait_type": "head_item",
+        "value": "Cat Ear"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "body",
+        "value": "Moody Natural"
+      },
+      {
+        "trait_type": "background",
+        "value": "In Rainbow"
+      },
+      {
+        "trait_type": "hair",
+        "value": "Short Blonde"
+      }
+    ],
+    "kakusei": "true"
+  }
+}

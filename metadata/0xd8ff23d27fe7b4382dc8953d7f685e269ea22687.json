@@ -1,0 +1,56 @@
+{
+  "address": "0xd8ff23d27fe7b4382dc8953d7f685e269ea22687",
+  "type": "ERC721",
+  "name": "ThankYouX",
+  "tokenCount": "11",
+  "uri": "https://arweave.net/6126m0T5uef2WCem9vsgv9LPS6RlNOfMP2rTvIxe43s",
+  "metadata": {
+    "name": "In Search Of",
+    "created_by": "ThankYouX & Hans Zimmer",
+    "description": "ThankYouX and Hans Zimmer present ‘Sound of Color’, which tells an abstract story of the artist’s journey as an artist and it’s evolution over time. The visuals of each NFT feature the abstract cube imagery for which ThankYouX has come to be known, set against a unique musical score created specifically for the project by the award-winning composer Hans Zimmer, bringing to life a narrative of artistic struggle that’s both deeply personal and universally understood.",
+    "image": "https://arweave.net/fvEjGrIIDBsI2t1cZL8096XhaWalv5AwYgzngGqB_qw",
+    "image_url": "https://arweave.net/fvEjGrIIDBsI2t1cZL8096XhaWalv5AwYgzngGqB_qw",
+    "image_details": {
+      "bytes": 5696229,
+      "format": "PNG",
+      "sha256": "4e9bfe7755152f452820a50122dcd05898ff6f823120381bc146e00837913d95",
+      "width": 2880,
+      "height": 1620
+    },
+    "animation": "https://arweave.net/dMEgbmvsPAQ96dNPSDoJ7VXX_JD-mz_lpUuYQe-0yAk",
+    "animation_url": "https://arweave.net/dMEgbmvsPAQ96dNPSDoJ7VXX_JD-mz_lpUuYQe-0yAk",
+    "animation_details": {
+      "bytes": 698240335,
+      "format": "MP4",
+      "duration": 139,
+      "sha256": "5bd68b9674f5a9afb831506ba40f1b927d06a4d955366ecf550587b1bac84274",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "auction_details": {
+      "auctioneer": "Phillips"
+    },
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "ThankYouX"
+      },
+      {
+        "trait_type": "Composer",
+        "value": "Hans Zimmer"
+      },
+      {
+        "trait_type": "Auctioneer",
+        "value": "Phillips"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Sound of Color"
+      }
+    ]
+  }
+}

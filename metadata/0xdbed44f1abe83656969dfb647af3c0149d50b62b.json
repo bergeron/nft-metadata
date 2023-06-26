@@ -1,0 +1,55 @@
+{
+  "address": "0xdbed44f1abe83656969dfb647af3c0149d50b62b",
+  "type": "ERC721",
+  "name": "WORKOFKCI",
+  "tokenCount": "9",
+  "uri": "https://arweave.net/sVsLFxXvULc30FyoWPM-Pe4ibTLA7jfe-rWNg-00Dr8",
+  "metadata": {
+    "name": "An Astronaut's Dream",
+    "created_by": "Kevin Icabales",
+    "description": "Being an astronaut is a dream of mine when I was a kid. I guess most boys do. I remember way back in our class during kindergarten. I already know a lot about the solar system and my teacher was shocked. Good thing my Mom used to buy me encyclopedias. Until now, I am still astonished by the beauty of the heavenly bodies. Now I'm an artist, I can create something that I can always imagine.\n\n\nThis project was created using my own photography combined with AI and post-processing tools.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Kevin Icabales"
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "3000 x 3000"
+      },
+      {
+        "display_type": "boost_percentage",
+        "value": "50",
+        "max_value": "100",
+        "trait_type": "Photography"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "AI",
+        "value": "50",
+        "max_value": "100"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Astronaut",
+        "value": "1",
+        "max_value": "1"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Texture",
+        "value": "2",
+        "max_value": "100"
+      }
+    ],
+    "image_details": {
+      "bytes": 9313652,
+      "format": "PNG",
+      "sha256": "14e9b8df31e99198765159b4d86f6ee51038045e0c4fa09372c08eee3794b015",
+      "width": 3000,
+      "height": 3000
+    },
+    "image": "https://arweave.net/2OcPynDOTpnfQJ1yPF-SI_fzDPnpPt1M3CR_OMWXG-w",
+    "image_url": "https://arweave.net/2OcPynDOTpnfQJ1yPF-SI_fzDPnpPt1M3CR_OMWXG-w"
+  }
+}

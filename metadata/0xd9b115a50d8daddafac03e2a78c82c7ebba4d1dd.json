@@ -1,0 +1,74 @@
+{
+  "address": "0xd9b115a50d8daddafac03e2a78c82c7ebba4d1dd",
+  "type": "ERC721",
+  "name": "Everything Is Everything NYC",
+  "tokenCount": "154",
+  "uri": "ipfs://QmZbzhxhmLfML6FZVgmAkrAnVxoCZP5VNEtik6oygb8gd7/1",
+  "metadata": {
+    "name": "Eddie's Bagel & Coffee",
+    "description": "Eddie's Bagel & Coffee - 3.67/5  \n  \nStore  \nA small store arranged in an unusual but compelling manor - not hexagonal but in the realm of unusual polygons. A fast staff, courteous and efficient. Limited add-ons across the board - pastries, drinks and other snacks.  \n3.5/5  \n  \nBagel  \nMedium-large bagel. Toppings both sides, salt crystals included. Existing in the twilight between fresh and old; certainly not served hot. A tough bagel, but a surprisingly pleasant crunchiness from the shell that synergizes well with the topping density. A bagel greater than the sum of its parts.  \n3.75/5  \n  \nCream Cheese  \nServed case cold. Bagel store fresh. A slight tang with no overcheese. A medium-sized scallion chop. Compliments the bagel without overriding it.  \n3.75/5",
+    "image": "ipfs://QmSKAMXDjPZzWn5Y34eSGJyWn4y6reEreViy5Ko2MGF3Wo",
+    "attributes": [
+      {
+        "trait_type": "Borough",
+        "value": "Queens"
+      },
+      {
+        "trait_type": "Store Score",
+        "value": 3.5,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Bagel Score",
+        "value": 3.75,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Spread Score",
+        "value": 3.75,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Total Score",
+        "value": 3.67,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Store: Ambience",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Store: Services",
+        "value": "Focused"
+      },
+      {
+        "trait_type": "Topping: Coverage",
+        "value": "Two-Sided"
+      },
+      {
+        "trait_type": "Topping: Density",
+        "value": "Moderate"
+      },
+      {
+        "trait_type": "Topping: Salt Ratio",
+        "value": "High"
+      },
+      {
+        "trait_type": "Bagel: Size",
+        "value": "Medium-Large"
+      },
+      {
+        "trait_type": "Bagel: Chew",
+        "value": "Crackly"
+      },
+      {
+        "trait_type": "Spread: Scallion Cut",
+        "value": "Chunk"
+      },
+      {
+        "trait_type": "Spread: Dairy Profile",
+        "value": "Dairy Forward"
+      }
+    ]
+  }
+}

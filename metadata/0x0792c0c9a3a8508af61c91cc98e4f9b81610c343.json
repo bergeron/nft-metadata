@@ -1,0 +1,51 @@
+{
+  "address": "0x0792c0c9a3a8508af61c91cc98e4f9b81610c343",
+  "type": "ERC721",
+  "name": "Skenoo",
+  "tokenCount": "2",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x0792c0c9a3a8508af61c91cc98e4f9b81610c343/1",
+  "metadata": {
+    "name": "MasterKey",
+    "description": "MasterKey opens a locked contract created by Unlock Labs. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://storage.unlock-protocol.com/4ab3312e-0650-4405-9fcc-609964362c50",
+    "attributes": [
+      {
+        "value": "2023-07-06",
+        "trait_type": "event_start_date"
+      },
+      {
+        "value": "19:00",
+        "trait_type": "event_start_time"
+      },
+      {
+        "value": "2023-07-07",
+        "trait_type": "event_end_date"
+      },
+      {
+        "value": "02:00",
+        "trait_type": "event_end_time"
+      },
+      {
+        "value": "Europe/Athens",
+        "trait_type": "event_timezone"
+      },
+      {
+        "value": "Paradise beach, Mikonos 846 00, Greece",
+        "trait_type": "event_address"
+      },
+      {
+        "value": "https://www.cavoparadiso.gr/event_details.asp?EID=768",
+        "trait_type": "event_url"
+      }
+    ],
+    "external_url": "https://app.shibaken.io",
+    "tokenId": "1",
+    "owner": "0x353437cfefb78586ba5bf430b2a167c6174c9635",
+    "userMetadata": {
+      "public": {}
+    },
+    "keyId": "1",
+    "lockAddress": "0x0792c0c9a3A8508AF61C91cc98e4f9B81610c343",
+    "network": 1
+  }
+}

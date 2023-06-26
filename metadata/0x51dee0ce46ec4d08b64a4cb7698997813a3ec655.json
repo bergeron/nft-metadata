@@ -1,0 +1,21 @@
+{
+  "address": "0x51dee0ce46ec4d08b64a4cb7698997813a3ec655",
+  "type": "ERC1155",
+  "name": "LaunchX Pass",
+  "tokenCount": "2",
+  "uri": "https://website-assests-oasisx.s3.amazonaws.com/LaunchX/Access/metadata/1.json",
+  "metadata": {
+    "name": "Launch Plus",
+    "description": "Generate your art and ERC-721A smart contract alongside your customizable minting page for your NFT project.",
+    "image": "https://website-assests-oasisx.s3.amazonaws.com/LaunchX/Access/images/1.png",
+    "edition": 1,
+    "date": 1665462201367,
+    "attributes": [
+      {
+        "trait_type": "Pass Type",
+        "value": "Launch Plus"
+      }
+    ],
+    "compiler": "Cryptoware ME - NFT Generator 2D"
+  }
+}

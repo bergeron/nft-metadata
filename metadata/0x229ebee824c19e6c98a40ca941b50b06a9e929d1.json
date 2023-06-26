@@ -1,0 +1,42 @@
+{
+  "address": "0x229ebee824c19e6c98a40ca941b50b06a9e929d1",
+  "type": "ERC721",
+  "name": "Chillin Sea Turtles",
+  "tokenCount": "808",
+  "uri": "ipfs://QmefLWefS69sHE4Atn7ca3Pp9CnHX4RkBAFSfTT41r8odQ/1.json",
+  "metadata": {
+    "dna": "96ae8c96b4079a236c6c2384f664f1c3c9cade79bd5d1c99b0dc0c1fb355e272",
+    "name": "#1",
+    "description": "The Chillin Sea Turtles are a companion drop for the Chillin Chameleon family.",
+    "image": "ipfs://QmaXxiYq9Lk6wXf8HjFB21PYe1P8T5KJvMHCp6zaA1T2NY/1.png",
+    "imageHash": "8dbcee3118783650f2e74c935cffcade8e60ab6c1013efd33475ea00c1366b6d",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Shell",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Water"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Shark"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Joy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "CC Cap"
+      }
+    ],
+    "compiler": "Chillin Sea Turtles Generator"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "0x1369db238282682915c6472146c9743f40b5f1fe",
+  "type": "ERC1155",
+  "name": "BOOM Campaigns",
+  "tokenCount": "5",
+  "uri": "ipfs://QmNkHMb23GD8qmRPCMYdxi3EGJ6dt64apvUEi3bknHXVnd/0001",
+  "metadata": {
+    "name": "That-sa Pizza BOOM",
+    "description": "BOOM + [Richie Velazquez](https://www.instagram.com/deladeso).\n3000x3000px at 72dpi.\n\nRichie, aka '*The Drippy Guy*', was happy to help us fight hunger by bringing his signature '*Grime Style*' to BOOM.\n\nEach That-sa Pizza BOOM will donate 500 meals to local food banks through Feeding America.",
+    "animation_url": "ipfs://QmXkoKTXRzVGrKKjcDnnjMgyJdko72KUqzkFLsCCpexpnJ/0001.gif",
+    "image": "ipfs://QmXkoKTXRzVGrKKjcDnnjMgyJdko72KUqzkFLsCCpexpnJ/0001.gif",
+    "external_url": "ipfs://QmXkoKTXRzVGrKKjcDnnjMgyJdko72KUqzkFLsCCpexpnJ/0001.gif",
+    "attributes": [
+      {
+        "trait_type": "Campaign",
+        "value": "Fight Hunger"
+      },
+      {
+        "trait_type": "Impact",
+        "value": "500 Meals"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "R. Velazquez"
+      },
+      {
+        "display_type": "Number",
+        "trait_type": "Rarity",
+        "value": 15
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "address": "0xe7445f91479966e7c484dbb87e46bc0c15827617",
+  "type": "ERC721",
+  "name": "McJob Application",
+  "tokenCount": "1000",
+  "uri": "ipfs://QmeHa7Khu7gUThdBzpdfHmWZDTgtt9D1qD4QkxQmbnFmMn/1.json",
+  "metadata": {
+    "name": "McJobApplication",
+    "description": "Need a job? We have your back, anon. Eth down, i'm lovin it.",
+    "image": "ipfs://QmbU8qQfDg6npAHK45zkpdyX9W1rv2YT7JwkqCqqwBVoyj/NIGHTSHIFT.png",
+    "dna": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "edition": 1,
+    "date": 1651909519752,
+    "attributes": [
+      {
+        "trait_type": "Application Status",
+        "value": "Night Shift"
+      }
+    ],
+    "compiler": "Ronald Mcdonald"
+  }
+}

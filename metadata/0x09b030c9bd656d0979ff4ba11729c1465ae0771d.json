@@ -1,0 +1,62 @@
+{
+  "address": "0x09b030c9bd656d0979ff4ba11729c1465ae0771d",
+  "type": "ERC721",
+  "name": "Tha Doberman Gang",
+  "tokenCount": "2098",
+  "uri": "https://7m98bzfjs8.execute-api.us-west-1.amazonaws.com/retrieve-meta/1",
+  "metadata": {
+    "name": "Doberman Gang #1",
+    "description": "Welcome to Tha Doberman Gang",
+    "image": "https://doberman.s3.us-west-1.amazonaws.com/doberman-meta/images/1485272252048968.png",
+    "dna": "045a431682d6290af754c51109d3b86b71432707",
+    "edition": 1,
+    "date": 1645557633209,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "None"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Corn"
+      },
+      {
+        "trait_type": "Tattoo",
+        "value": "None"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Crossbody Bag Chocolata & Red Sweater"
+      },
+      {
+        "trait_type": "Necklace",
+        "value": "Headphone Neon Green"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Open"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Baked Pink"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Cap Label Pink"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Sports Glass White"
+      },
+      {
+        "trait_type": "Mouth Accessories",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

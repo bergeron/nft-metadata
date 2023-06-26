@@ -1,0 +1,24 @@
+{
+  "address": "0x5506fac5d5965cab6cadb6f6fbcf6b62e495b3a3",
+  "type": "ERC1155",
+  "name": "Awoo Items",
+  "tokenCount": "2",
+  "uri": "ipfs://QmXvihVcWdj2PGscMGNMjfRo16GG16haH2sTJ87KxG9K4b/superpxlchip.json",
+  "metadata": {
+    "name": "Super PxlChip",
+    "description": "Apply the Super PxlChip to upgrade a PxlFangster into a Super PxlFangster.",
+    "image": "ipfs://QmSqiDrud5rY5i9qs1K6UrDSpxFrs9h3pPddpdfMfRJS7G/superpxlchip.gif",
+    "attributes": [
+      {
+        "trait_type": "Item Type",
+        "id": "type-upgrade",
+        "value": "Upgrade"
+      },
+      {
+        "trait_type": "Collection",
+        "id": "collection-pxlfangs",
+        "value": "PxlFangs"
+      }
+    ]
+  }
+}

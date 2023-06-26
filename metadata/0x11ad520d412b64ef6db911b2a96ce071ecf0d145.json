@@ -1,0 +1,38 @@
+{
+  "address": "0x11ad520d412b64ef6db911b2a96ce071ecf0d145",
+  "type": "ERC721",
+  "name": "CloudyNFTs",
+  "tokenCount": "24",
+  "uri": "ipfs://QmTgh3gQTqti85juTRiMisnvUpbe5CXsivFc3uZpU6S2P8/1.json",
+  "metadata": {
+    "name": "CloudyNFTs #1",
+    "description": "Stormy",
+    "image": "ipfs://Qmb8s98rNUoJ6fpNfjCG6GDFigz4K78M3LYFfQM98mxQEr/1.png",
+    "dna": "36f144411ec5a64992775de80ea416fb7046cad8",
+    "edition": 1,
+    "date": 1650699863323,
+    "attributes": [
+      {
+        "trait_type": "BackGround",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Legs",
+        "value": "Shadow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Basic"
+      },
+      {
+        "trait_type": "HeadWear",
+        "value": "Blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

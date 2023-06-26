@@ -1,0 +1,56 @@
+{
+  "address": "0xd23e283b95635ab2cc0467034c50ace03348e8a2",
+  "type": "ERC721",
+  "name": "PepePunks",
+  "tokenCount": "9611",
+  "uri": "ipfs://QmXseah2tCXArQHVTBfkHPQSehLBRFcVLbcZbSfttnpnL4/1",
+  "metadata": {
+    "name": "PepePunks #6865",
+    "description": "PepePunks launched as a fixed set of 10,000 memes of the OG CryptoPunks. ART ONLY. No bullshit. No fake promises. There is no utility in this project. It's purely a meme art project for the culture, combining the legend, Pepe The Frog, and the GOAT, CryptoPunks. No Discord. 1% royalty. Fully controlled by the community.",
+    "image": "ipfs://QmPZeZ8FtZXy9f26oxBt1hNV3qJoyU95c1ogQoczv9KVgx/1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://nftstorage.link/ipfs/bafybeichucblfvl77577sitwybftzhzsfxot4kiomls6ebjmpeu6k67vru/2972.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x770F6756179b31d0057416F68967DB29bDE2CEDB",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "1"
+      },
+      {
+        "trait_type": "type",
+        "value": "Pepe The Frog"
+      },
+      {
+        "trait_type": "hair",
+        "value": "Red Bandana"
+      },
+      {
+        "trait_type": "accessory",
+        "value": "None"
+      },
+      {
+        "trait_type": "beards",
+        "value": "Big Beard"
+      },
+      {
+        "trait_type": "mouth accessory",
+        "value": "None"
+      }
+    ],
+    "symbol": "PP",
+    "seller_fee_basis_points": 100,
+    "edition": 6865
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "address": "0x97d951b0259985d0179919b2200d3ab283be91f9",
+  "type": "ERC721",
+  "name": "Star Punks NFT",
+  "tokenCount": "4444",
+  "uri": "ipfs://QmNY3Sej1SKwip5LHpW8ndSH2xfdLWveJ9pK12fbCz88Xa/1.json",
+  "metadata": {
+    "name": "Star Punk #1",
+    "description": "The Star Punks Collection",
+    "image": "ipfs://QmRiF5YhAMmdfsvjNpsaBYLqysy8FMv5sUVV51x2GkCzFX/1.png",
+    "edition": 1,
+    "date": 1651713121887,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male 3"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Luke Black"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Scar 1"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Green Visor"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Shirt"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "LMG Blaster 3"
+      }
+    ],
+    "compiler": "Star Punks Compiler"
+  }
+}

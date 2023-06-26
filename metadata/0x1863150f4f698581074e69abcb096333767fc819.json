@@ -1,0 +1,42 @@
+{
+  "address": "0x1863150f4f698581074e69abcb096333767fc819",
+  "type": "ERC721",
+  "name": "Nicemigos",
+  "tokenCount": "98",
+  "uri": "https://cdn-api.niftykit.com/reveal/clig657di0001me0f4rvr6arl/1",
+  "metadata": {
+    "name": "Nicemigos #1",
+    "description": "What a wonderful day. 2000K non pixel nicemigos pfp.",
+    "image": "ipfs://QmcB1rttjEyw6ND3QPg5zGCaxfe9VdFNZWnYjSa3mZsysc/1.png",
+    "dna": "5da7d6540b96b82f4f1aa21e07000e7ab600c595",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Human_Boba"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Flat"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Bucket_Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "regular"
+      },
+      {
+        "trait_type": "Shirt Jacket",
+        "value": "Puffy_Coat_Red"
+      },
+      {
+        "trait_type": "Smoke",
+        "value": "Cig"
+      }
+    ],
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0xE1C75F9a821E0105fe982b63EFe65e8256DBd0c6"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "address": "0xea790ba5c5ae4d95a36d4752644c934367b615f2",
+  "type": "ERC721",
+  "name": "10 Animated Skulls",
+  "tokenCount": "10",
+  "uri": "https://arweave.net/-b0fb7ii_1zaMMB6aBGnaxJ1Q3b2Mfgc4184VN8tAaY",
+  "metadata": {
+    "name": "Animated Skull #1",
+    "created_by": "Matti Pietari Järvinen",
+    "description": "Animated artwork based on physical painting. \nMP4 - 2000 X 2000 p",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Mattipietar.art"
+      }
+    ],
+    "animation_details": {
+      "bytes": 18482203,
+      "format": "MP4",
+      "duration": 13,
+      "sha256": "edb6061709aff218f5ebbcfa3c691bae0d7091b3c50b0c5e1b7c06f576c4463c",
+      "width": 2000,
+      "height": 2000,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/7hKtstvSMApdlHbjeEJ8gzuM0xoaj000saRu_fOUOCU",
+    "animation_url": "https://arweave.net/7hKtstvSMApdlHbjeEJ8gzuM0xoaj000saRu_fOUOCU",
+    "image_details": {
+      "bytes": 1846741,
+      "format": "JPEG",
+      "sha256": "f6f4a5e4611841f79c7bc801af310e3415de01d84d82dd8557a827503be3af40",
+      "width": 2000,
+      "height": 2000
+    },
+    "image": "https://arweave.net/cHc9-miIOljiBh3p92hfb1nKoXd_VV8rtAw14BXBIHA",
+    "image_url": "https://arweave.net/cHc9-miIOljiBh3p92hfb1nKoXd_VV8rtAw14BXBIHA"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0xaed71d821b5edd89271d72e9ccbd027f9fd46531",
+  "type": "ERC721",
+  "name": "DDNS",
+  "tokenCount": "504",
+  "uri": "https://ddns-metadata.netlify.app/mainnet/ddns",
+  "metadata": {
+    "name": "ddns.dweb",
+    "description": "ddns.dweb is a decentralized domain name on Ethereum blockchain. For more information about DDNS, visit https://ddns.foundation",
+    "attributes": [
+      {
+        "trait_type": "Length",
+        "display_type": "number",
+        "value": 4
+      },
+      {
+        "trait_type": "Character Set",
+        "display_type": "string",
+        "value": "letter"
+      }
+    ],
+    "name_length": 4,
+    "segment_length": 4,
+    "url": "https://ddns.foundation/name/?name=ddns",
+    "external_url": "https://ddns.foundation/name/?name=ddns",
+    "background_image": "https://ddns-avatars.netlify.app/mainnet/ddns",
+    "image": "https://ddns-avatars.netlify.app/mainnet/ddns",
+    "image_url": "https://ddns-avatars.netlify.app/mainnet/ddns"
+  }
+}

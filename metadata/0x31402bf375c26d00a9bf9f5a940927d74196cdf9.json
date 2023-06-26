@@ -1,0 +1,53 @@
+{
+  "address": "0x31402bf375c26d00a9bf9f5a940927d74196cdf9",
+  "type": "ERC721",
+  "name": "ObamaDAO",
+  "tokenCount": "249",
+  "uri": "ipfs://QmTftn6gmjKJjZDEaKtjcuedQTRoan7wU3mKvMiun4QArV/1.json",
+  "metadata": {
+    "name": "ObamaDAO #1",
+    "description": "For the love of Barack Obama",
+    "image": "ipfs://QmYryjPRwzLucgaDetC7qjKWGseBHid4YAQcUcgfej8vXa/1.png",
+    "dna": "638386010facef1272398a33460fd5058faebb48",
+    "edition": 1,
+    "date": 1642618800725,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "ObamaDAO"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0B4A28D007F024E7e4424E4EC3b1ce4792864D5B",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "green"
+      },
+      {
+        "trait_type": "banner",
+        "value": "banner"
+      },
+      {
+        "trait_type": "obamas",
+        "value": "obama4"
+      },
+      {
+        "trait_type": "text",
+        "value": "amercia"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

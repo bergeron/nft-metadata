@@ -1,0 +1,28 @@
+{
+  "address": "0x0aa9818f2c0569bffe4346206bfe5b44f15783a1",
+  "type": "ERC1155",
+  "name": "COMEARTH Metaverse Reservation Pass (Ethereum)",
+  "tokenCount": "6",
+  "uri": "ipfs://QmdsgSKfTA9tGDjFBUVZ4vbPAyqhXCLkWJtj2UZN1KdrFh",
+  "metadata": {
+    "name": "1x1 Reservation Pass",
+    "image": "ipfs://QmNdauqsyHwNsHJPhR7GiGbCBvgDPSHSYEXXHMWRZXopwR",
+    "description": "This token represents the reservation pass of the 1x1 land parcel in the COMEARTH Metaverse. Please note that this is not the actual virtual land in the COMEARTH. For more details, please visit https://www.comearth.world.",
+    "external_url": "https://www.comearth.world",
+    "animation_url": null,
+    "attributes": [
+      {
+        "value": "1x1",
+        "trait_type": "Size"
+      },
+      {
+        "value": "https://www.comearth.world",
+        "trait_type": "Website"
+      },
+      {
+        "value": "Reservation Pass",
+        "trait_type": "Type"
+      }
+    ]
+  }
+}

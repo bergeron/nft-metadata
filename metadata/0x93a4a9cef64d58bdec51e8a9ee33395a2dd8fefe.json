@@ -1,0 +1,46 @@
+{
+  "address": "0x93a4a9cef64d58bdec51e8a9ee33395a2dd8fefe",
+  "type": "ERC721",
+  "name": "CryptoHypno",
+  "tokenCount": "6",
+  "uri": "https://art-sandbox.sunflower.industries/token/0x93a4a9cef64d58bdec51e8a9ee33395a2dd8fefe/1",
+  "metadata": {
+    "description": "CryptoHypno is a hypnotic generative animated painting. Each NFT has from 1 to 3 balls that paint the canvas with beautiful colors. There are 6 possible styles and 2 types of movement. 10% will perpetually evolve and the other 90% will stop after approximately 5 minutes. Pressing p will pause and unpause, r will restart the animation, and l will toggle loop mode which causes non-perpetual animations to restart when the end is reached. The artwork scales depending on the size of the display and will show the same animation regardless of the device used to view it.",
+    "dependencies": "[{\"name\":\"p5@1.4.0\",\"keccak256\":\"0xcef1df742d5237151854b6ccd3d7769c7bcb2cf987e4f8f6ca1ad69afdac3dcc\"}]",
+    "artist": "0xfedCa5322438bdA8C535f1aCb00Fb2f1A0536149",
+    "external_url": "https://art.sunflower.industries/token/0x93a4a9cef64d58bdec51e8a9ee33395a2dd8fefe/1",
+    "image": "https://art-sandbox.sunflower.industries/render/tokenImage/0x93a4a9cef64d58bdec51e8a9ee33395a2dd8fefe/1",
+    "name": "CryptoHypno #1",
+    "attributes": [
+      {
+        "trait_type": "Symmetry",
+        "value": "Symmetrical"
+      },
+      {
+        "trait_type": "Run Time",
+        "value": "Fixed Duration"
+      },
+      {
+        "trait_type": "Number Of Balls",
+        "value": "2 balls"
+      },
+      {
+        "trait_type": "Number Bouncing",
+        "value": "1 bouncing"
+      },
+      {
+        "trait_type": "Number Wandering",
+        "value": "1 wandering"
+      },
+      {
+        "trait_type": "Number Single Dot",
+        "value": "1 single dot"
+      },
+      {
+        "trait_type": "Number Pulse",
+        "value": "1 pulse"
+      }
+    ],
+    "animation_url": "https://art-sandbox.sunflower.industries/tokenFrame/0x93a4a9cef64d58bdec51e8a9ee33395a2dd8fefe/1"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0xc38018b28b09602baf51412fa7eec3a1fd3b2bed",
+  "type": "ERC721",
+  "name": "The Blinkless: Fully Dilated",
+  "tokenCount": "1000",
+  "uri": "https://theblinkless.s3.amazonaws.com/fdjson/1.json",
+  "metadata": {
+    "name": "The Blinkless: Fully Dilated #1",
+    "description": "Pop Art Blinkless Limited Series",
+    "image": "https://theblinkless.s3.amazonaws.com/fdimages/1.png",
+    "dna": "e20ef977ca5ba613eaedc1becf14bfc7cdc5664f",
+    "edition": 1,
+    "date": 1652053487068,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Pompadour"
+      },
+      {
+        "trait_type": "Hoodie",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Surprise"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

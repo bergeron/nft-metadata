@@ -1,0 +1,43 @@
+{
+  "address": "0x1dc5d3b2162f9500d7ddec14eb0ba9ccb43bc20c",
+  "type": "ERC721",
+  "name": "Skullx",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmS5R3cwoYxNwjqHBetC9AmZSb7Ya6Ttp5cPf58Lg7SXkP/1",
+  "metadata": {
+    "name": "Skullx #1",
+    "tokenId": 1,
+    "image": "ipfs://QmdSm8rJmBXLvfD5a7g9MKcFiP1MmfkHAERGtYVUSe2XAR",
+    "imageHash": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3",
+    "attributes": [
+      {
+        "trait_type": "Realm",
+        "value": "Terra"
+      },
+      {
+        "trait_type": "Skull",
+        "value": "Curly Horned Terra"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Trench Coat"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Clouds"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hypnotized"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Pilot Hat"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Glasses"
+      }
+    ]
+  }
+}

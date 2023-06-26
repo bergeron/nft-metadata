@@ -1,0 +1,101 @@
+{
+  "address": "0x776d88edfbb990a93931c24c794fdd457996e3a6",
+  "type": "ERC721",
+  "name": "qwerweqradsfdasf",
+  "tokenCount": "651",
+  "uri": "https://api.artblocks.io/token/53000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "53000001",
+    "series": 3,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Subscapes #1",
+    "minted": true,
+    "artist": "Matt DesLauriers",
+    "description": "A generative algorithm that draws the impression of a landscape from a multitude of possibilities. The unique seed from each token drives the parametric assortment of lines, colors, and forms into a constructed composition.",
+    "script_type": "js@na",
+    "project_id": "53",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 3",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/53000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/53000001.png",
+    "generator_url": "https://generator.artblocks.io/53000001",
+    "royaltyInfo": {
+      "artistAddress": "0xcab81f14a3fc98034a05bab30f8d0e53e978c833",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Subscapes by Matt DesLauriers",
+    "website": "https://mattdesl.com/",
+    "token_hash": "0xca4ba3dab70466eb2b8ec1503ea9b8d766e7a30c5a1230341a2b74103994bb94",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/53/tokens/53000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/53000001.png",
+    "features": {
+      "Grid": "False",
+      "River": "False",
+      "Style": "Pencil",
+      "Blended": "False",
+      "Brushed": "False",
+      "Lattice": "False",
+      "Palette": "Peppermint",
+      "Stippled": "False",
+      "Landscape": "Mountains",
+      "Patchwork": "False",
+      "Wireframe": "False"
+    },
+    "traits": [
+      {
+        "trait_type": "Subscapes",
+        "value": "All Subscapes"
+      },
+      {
+        "trait_type": "Subscapes",
+        "value": "Grid: False"
+      },
+      {
+        "trait_type": "Subscapes",
+        "value": "River: False"
+      },
+      {
+        "trait_type": "Subscapes",
+        "value": "Style: Pencil"
+      },
+      {
+        "trait_type": "Subscapes",
+        "value": "Blended: False"
+      },
+      {
+        "trait_type": "Subscapes",
+        "value": "Brushed: False"
+      },
+      {
+        "trait_type": "Subscapes",
+        "value": "Lattice: False"
+      },
+      {
+        "trait_type": "Subscapes",
+        "value": "Palette: Peppermint"
+      },
+      {
+        "trait_type": "Subscapes",
+        "value": "Stippled: False"
+      },
+      {
+        "trait_type": "Subscapes",
+        "value": "Landscape: Mountains"
+      },
+      {
+        "trait_type": "Subscapes",
+        "value": "Patchwork: False"
+      },
+      {
+        "trait_type": "Subscapes",
+        "value": "Wireframe: False"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC 4.0"
+  }
+}

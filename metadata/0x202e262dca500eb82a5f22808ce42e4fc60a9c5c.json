@@ -1,0 +1,51 @@
+{
+  "address": "0x202e262dca500eb82a5f22808ce42e4fc60a9c5c",
+  "type": "ERC1155",
+  "name": "Pin·e·co",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/VcUM-2KQAoY9lQBP88C8DMxB7KW61Qj-lNMfZLkgOIc",
+  "metadata": {
+    "created_by": "RenateFrotscherArt",
+    "name": "Pin·e·co 001",
+    "external_url": "https://Renatefrotscher.art/pineco",
+    "description": "This is the digital collectible that comes with an irl Pin·e·co sculpture. The collector of the physical product can claim up to 10 digital collectibles, to give away or sell on specialised marketplaces. \n\nThe adorable one-of-a-kind ceramic art toys are meticulously crafted by hand and hand-painted with care by Renate Frotscher. Each one is carefully packed in a tin can and comes with a certificate of authenticity secured by blockchain technology.\n\n",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "RenateFrotscherArt"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Number",
+        "value": 1,
+        "max_value": 50
+      },
+      {
+        "trait_type": "Year/month",
+        "value": "23/03"
+      }
+    ],
+    "animation_details": {
+      "bytes": 951696,
+      "format": "MP4",
+      "duration": 10,
+      "sha256": "2625757560394b8fc93655cb7ebad04ca05b84bb68b706d3ea9d833bfbb8fb2d",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/9W6tDmHOq-RspBNqvbX5IzQ13yiVVeeK8Qk7IN1LHjQ",
+    "animation_url": "https://arweave.net/9W6tDmHOq-RspBNqvbX5IzQ13yiVVeeK8Qk7IN1LHjQ",
+    "image_details": {
+      "bytes": 2346472,
+      "format": "GIF",
+      "sha256": "0d568eeee5258c54dfac00ddcdf10ca2426e09fdd1994bc6f1935ac259e7a4ef",
+      "width": 640,
+      "height": 640
+    },
+    "image": "https://arweave.net/vymkT_Pv0JjYtk9QdEfOus6P-EDNwp_Sg4XsoSb-cxE",
+    "image_url": "https://arweave.net/vymkT_Pv0JjYtk9QdEfOus6P-EDNwp_Sg4XsoSb-cxE"
+  }
+}

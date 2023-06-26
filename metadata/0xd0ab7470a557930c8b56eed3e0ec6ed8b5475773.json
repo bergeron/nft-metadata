@@ -1,0 +1,33 @@
+{
+  "address": "0xd0ab7470a557930c8b56eed3e0ec6ed8b5475773",
+  "type": "ERC721",
+  "name": "Parallel Meerkat Manor House",
+  "tokenCount": "100",
+  "uri": "https://parallelmeerkats.com/data/1.json",
+  "metadata": {
+    "name": "Cottage Core",
+    "description": "Parallel Meerkat #1",
+    "image": "https://parallelmeerkats.com/images/1.jpg",
+    "external_url": "https://parallelmeerkats.com",
+    "attributes": [
+      {
+        "trait_type": "Generation",
+        "value": 1
+      },
+      {
+        "trait_type": "Algo",
+        "value": "Craiyon"
+      },
+      {
+        "trait_type": "Birthday",
+        "display_type": "date",
+        "value": 1647842400
+      },
+      {
+        "trait_type": "Last Updated",
+        "display_type": "date",
+        "value": 1658499007
+      }
+    ]
+  }
+}

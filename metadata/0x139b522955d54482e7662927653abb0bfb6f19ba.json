@@ -1,0 +1,91 @@
+{
+  "address": "0x139b522955d54482e7662927653abb0bfb6f19ba",
+  "type": "ERC721",
+  "name": "LaMelo Ball Collectibles",
+  "tokenCount": "8069",
+  "uri": "https://client-metadata.ether.cards/api/lamelo/1/1.json",
+  "metadata": {
+    "id": 1,
+    "series": "Gold Evolve",
+    "name": "LaMelo Ball Collectibles, Type: Gold Evolve, ID:1",
+    "editions": 500,
+    "description": "LaMelo Ball Collectibles contain supercharged NFTs tethered to NBA phenom LaMelo Ball’s statistics, awards, and highlights. Owners of the NFTs will be entered into verifiably random draws to win never-before-seen memorabilia, participate in Melo’s endorsement deals, and unlock VIP access to an exclusive chat group with Melo himself.",
+    "image": "https://lameloball.io/metadata/images/Gold-Sun.jpg",
+    "original_art_url": "https://ether-cards.mypinata.cloud/ipfs/QmNUzNCxxGd9dvgZSrfd3k9xz2FWNekauVGLqL1DkRN9R7/Sun.mp4",
+    "animation_url": "https://client-metadata.ether.cards/embed/lamelo/1",
+    "traits": [
+      {
+        "id": 9,
+        "type": "",
+        "name": "First Edition",
+        "icon": "first_edition.png",
+        "description": "This token is a first edition within its tier.",
+        "properties": {
+          "card_types": "",
+          "category": "",
+          "max_issuance": "",
+          "burnt_upon_use": "-",
+          "max_usages": "-",
+          "effect_of_transferring": "-",
+          "limit": "-",
+          "period_of_validity": "-",
+          "community_trait": "-"
+        }
+      },
+      {
+        "id": 15,
+        "type": "",
+        "name": "Gold Evolve Physical Redeemable",
+        "icon": "physical_redeemable_gold.png",
+        "description": "This trait can be redeemed for a physical Gold Evolve collectible.",
+        "properties": {
+          "card_types": "",
+          "category": "redeemable",
+          "max_issuance": "",
+          "burnt_upon_use": true,
+          "max_usages": 1,
+          "effect_of_transferring": "-",
+          "limit": "-",
+          "period_of_validity": "-",
+          "community_trait": "-"
+        }
+      },
+      {
+        "id": 18,
+        "type": "",
+        "name": "Full Set Mint Art Evolve",
+        "icon": "art_evolve.png",
+        "description": "The art on this token will change when LaMelo Ball records 1,800 Total Career Points, 180 Total Career Steals, and 750 Total Career Assists.",
+        "properties": {
+          "card_types": "",
+          "category": "",
+          "max_issuance": "",
+          "burnt_upon_use": "-",
+          "max_usages": "-",
+          "effect_of_transferring": "-",
+          "limit": "-",
+          "period_of_validity": "-",
+          "community_trait": "-"
+        }
+      }
+    ],
+    "attributes": [
+      {
+        "trait_type": "series",
+        "value": "Gold Evolve"
+      },
+      {
+        "trait_type": "trait",
+        "value": "First Edition"
+      },
+      {
+        "trait_type": "trait",
+        "value": "Gold Evolve Physical Redeemable"
+      },
+      {
+        "trait_type": "trait",
+        "value": "Full Set Mint Art Evolve"
+      }
+    ]
+  }
+}

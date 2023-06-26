@@ -1,0 +1,71 @@
+{
+  "address": "0x9f6adc79d4c8331e8a080ddd28f1b79cb77190f7",
+  "type": "ERC721",
+  "name": "Digital Identity",
+  "tokenCount": "20",
+  "uri": "ipfs://bafybeih3j6wuftkk7iqz7f2davyrzgswqok3ajdndgfumfemdwa6mlcjiy/1.json",
+  "metadata": {
+    "dna": "8d0910f12977a2bc0bfe85060dc4d8cda109a495d8277eb48f742e911b9ddcb2",
+    "name": "Digital Identity #1",
+    "description": "Digital Identity",
+    "image": "ipfs://bafybeicg62o5epebdmzplz6hd72ftrdvsyz76b57b77hp7kfsz2ij4vp6u/1.png",
+    "imageHash": "56ba5fe35e8af441c0a3546cf40a2d5e479be97b724b855677a846d3c7288271",
+    "edition": 1,
+    "date": 1678126638357,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Age",
+        "value": "34"
+      },
+      {
+        "trait_type": "Apartment",
+        "value": "Mansion"
+      },
+      {
+        "trait_type": "Children",
+        "value": "2 children"
+      },
+      {
+        "trait_type": "Crypto",
+        "value": "Bitcoin"
+      },
+      {
+        "trait_type": "Diseases and Addictions",
+        "value": "None"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Jewelry",
+        "value": "Gold Rolex"
+      },
+      {
+        "trait_type": "Marital Status",
+        "value": "Married"
+      },
+      {
+        "trait_type": "Occupation",
+        "value": "McDonald's Manager"
+      },
+      {
+        "trait_type": "Place of Living",
+        "value": "Toronto, Canada"
+      },
+      {
+        "trait_type": "Transportation",
+        "value": "BMW 7 Series"
+      },
+      {
+        "trait_type": "Stocks",
+        "value": "Apple "
+      }
+    ],
+    "compiler": "Digital Identity"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "address": "0x5c22c5bdf56e7dcd726862e71e62235642b79171",
+  "type": "ERC721",
+  "name": "Wincity Lille Jacquemars",
+  "tokenCount": "3330",
+  "uri": "https://www.wincity.com/api/metadata/WincityLilleJacquemars/1",
+  "metadata": {
+    "type": "object",
+    "description": "",
+    "image": "https://cdn.wincity.com/asset/WincityLilleJacquemars/cards/regular/522.png",
+    "name": "REGULAR #522",
+    "attributes": [
+      {
+        "trait_type": "Earned capital",
+        "value": 0,
+        "description": "Total of the win capital reward accumulated on the card.",
+        "display_type": "boost_number",
+        "max_value": 0
+      },
+      {
+        "trait_type": "Estimated capital gain",
+        "value": 0,
+        "description": "Total of the win capital gain reward accumulated on the card.",
+        "display_type": "boost_number",
+        "max_value": 0
+      },
+      {
+        "trait_type": "Available rewards (ETH)",
+        "value": 0,
+        "description": "Total of the win cash reward accumulated on the card, in ethereum.",
+        "display_type": "boost_number",
+        "max_value": 0
+      },
+      {
+        "trait_type": "Annual Win Capital",
+        "value": "0",
+        "description": "estimated annual capital",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Annual Win Capital Gain",
+        "value": "0",
+        "description": "estimated annual capital gain",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Annual Win Cash",
+        "value": "4.036",
+        "description": "estimated annual reward",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "tier",
+        "value": "TIER_1",
+        "description": "Identifier that give the type of the asset card tier: star, tier 1, tier 2 or tier 3."
+      },
+      {
+        "trait_type": "physical claimed",
+        "value": "YES",
+        "description": "If Physical card is already claimed or not"
+      },
+      {
+        "trait_type": "00 - RARITY",
+        "value": "REGULAR",
+        "description": "RARITY"
+      },
+      {
+        "trait_type": "00 - NUMBER",
+        "value": "522",
+        "description": "NUMBER"
+      },
+      {
+        "trait_type": "NUMERO_118",
+        "value": "NO",
+        "description": "NUMERO_118"
+      },
+      {
+        "trait_type": "CLOUDS",
+        "value": "NO",
+        "description": "CLOUDS"
+      },
+      {
+        "trait_type": "TREE",
+        "value": "YES",
+        "description": "TREE"
+      },
+      {
+        "trait_type": "SIGNALING",
+        "value": "NO",
+        "description": "SIGNALING"
+      },
+      {
+        "trait_type": "PARKING_METER",
+        "value": "YES",
+        "description": "PARKING_METER"
+      },
+      {
+        "trait_type": "00 - NUMBER OF ASSETS",
+        "value": 2,
+        "description": "Number of assets",
+        "display_type": "number"
+      }
+    ],
+    "external_url": "https://www.wincity.com"
+  }
+}

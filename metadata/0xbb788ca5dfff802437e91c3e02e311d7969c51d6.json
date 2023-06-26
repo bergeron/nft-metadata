@@ -1,0 +1,53 @@
+{
+  "address": "0xbb788ca5dfff802437e91c3e02e311d7969c51d6",
+  "type": "ERC1155",
+  "name": "Motion Studies by Matto",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/GVhvkD63uZv1vLuP67EsqJmNCv2JspP8wIUwNqKh-T4",
+  "metadata": {
+    "name": "Motion Study 001",
+    "created_by": "Matto",
+    "external_url": "https://matto.xyz",
+    "description": "Animated scene by Matto.\n\nThis was originally minted as an edition of 25 on Tezos (with files and metadata stored on IPFS). Owners can bridge their tokens to Ethereum (with files and metadata stored on Arweave) by contacting Matto.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Matto"
+      },
+      {
+        "trait_type": "Medium",
+        "value": "Animation"
+      },
+      {
+        "trait_type": "Resolution",
+        "value": "4000 x 4000"
+      },
+      {
+        "trait_type": "Copyright",
+        "value": "CC BY-NC 4.0"
+      }
+    ],
+    "animation_details": {
+      "bytes": 26410190,
+      "format": "MP4",
+      "duration": 23,
+      "sha256": "cb1bf58c70c9fd3abc1bd5881a5bd4eeef641ac6df89cfe5cc0d8659d2ed2502",
+      "width": 4000,
+      "height": 4000,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/CgRLJQsq_siI_9Z-rIF9-CGskbrycEDFP1NivEoNgBM",
+    "animation_url": "https://arweave.net/CgRLJQsq_siI_9Z-rIF9-CGskbrycEDFP1NivEoNgBM",
+    "image_details": {
+      "bytes": 20812212,
+      "format": "PNG",
+      "sha256": "084efe78885c304e3d7b0be99f9a21a4d0eaf7ac062c0495b7821f528daace87",
+      "width": 4000,
+      "height": 4000
+    },
+    "image": "https://arweave.net/5BHQ0ElvMZerOq7HqfrV4ueyfyl9LPQRpFE5Cj-SY4Y",
+    "image_url": "https://arweave.net/5BHQ0ElvMZerOq7HqfrV4ueyfyl9LPQRpFE5Cj-SY4Y"
+  }
+}

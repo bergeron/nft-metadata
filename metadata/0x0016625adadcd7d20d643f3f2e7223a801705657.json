@@ -1,0 +1,26 @@
+{
+  "address": "0x0016625adadcd7d20d643f3f2e7223a801705657",
+  "type": "ERC721",
+  "name": "Pongers",
+  "tokenCount": "2000",
+  "uri": "ipfs://bafybeicqsjettczo345xgd776g6vqekbtc6m7g7p766adpv2avglyqxkau/1.json",
+  "metadata": {
+    "name": "Sim #1",
+    "description": "2000 algorithmically-generated games of pong that each feature different colors and outcomes, creating a statement on the impact of Artificial Intelligence on our lives and entertainment",
+    "image": "ipfs://bafybeidh64uaurxx64buj4sjwcpxdycsjvp5bxwmmr2f72a2b6v6pdq6ka/1.gif",
+    "dna": "b04fc9c585cdcfd23ad5299c6f98d4a9c5d5e67d",
+    "edition": 1,
+    "date": 1679003191362,
+    "attributes": [
+      {
+        "trait_type": "PONG",
+        "value": "pong"
+      },
+      {
+        "trait_type": "PONG CLASS",
+        "value": "uncommon pong"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

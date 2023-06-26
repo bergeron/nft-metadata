@@ -1,0 +1,47 @@
+{
+  "address": "0xd2143c373fd752046f8e01ceaa6b65709986fdbb",
+  "type": "ERC1155",
+  "name": "Test",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/zEjPAEdgME4bgnztLQ30d2GMfUJoG5RJ7_DK7am-rgU",
+  "metadata": {
+    "created_by": "mirror-test-mary",
+    "name": "testabdc",
+    "description": "恭喜發財",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "mirror-test-mary"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "some-property",
+        "value": 33,
+        "max_value": 100
+      }
+    ],
+    "animation_details": {
+      "bytes": 383631,
+      "format": "MP4",
+      "duration": 6,
+      "sha256": "1d720916a831c45454925dea707d477bdd2368bc48f3715bb5464c2707ba9859",
+      "width": 560,
+      "height": 320,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/vlwxZmGxHdsqtJSsC9Zau2TzoX6Gl6fMrT69lek0jEs",
+    "animation_url": "https://arweave.net/vlwxZmGxHdsqtJSsC9Zau2TzoX6Gl6fMrT69lek0jEs",
+    "image_details": {
+      "bytes": 34519,
+      "format": "APNG",
+      "sha256": "a3bd36e08af55690c65fc845425a1873ce69746f20d7306f9a29f37f1f86e6f8",
+      "width": 40,
+      "height": 40
+    },
+    "image": "https://arweave.net/qUvsB58IDJqrMKxgMocaYN63biQEUKYwN2WesdY0tlE",
+    "image_url": "https://arweave.net/qUvsB58IDJqrMKxgMocaYN63biQEUKYwN2WesdY0tlE"
+  }
+}

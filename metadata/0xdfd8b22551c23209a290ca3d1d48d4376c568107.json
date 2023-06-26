@@ -1,0 +1,55 @@
+{
+  "address": "0xdfd8b22551c23209a290ca3d1d48d4376c568107",
+  "type": "ERC721",
+  "name": "Mintbase Gifts",
+  "tokenCount": "48",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=NeVS0tjrId3WhdblmlH1",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1580309299709?alt=media&token=effc3c5b-23e6-461f-adc2-42b4227c245c",
+    "forSale": true,
+    "contractAddress": "0xdfd8b22551c23209a290ca3d1d48d4376c568107",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehende",
+    "tags": [],
+    "amountToMint": 5,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1580309360,
+      "_nanoseconds": 895000000
+    },
+    "price": "0.01",
+    "name": "Day Pass ",
+    "fiatPrice": "$1.76",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "https://mintbase.io"
+      },
+      {
+        "trait_type": "location",
+        "value": "3303 SW Bond Ave Center for Health and Healing Building 1, 5th Floor, Portland, OR 97239, USA"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJVVWVZmgKlVQRg5kgHHJ6xLA"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1579561200
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": 1580079600
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0xdfd8b22551c23209a290ca3d1d48d4376c568107",
+    "type": "ERC721"
+  }
+}

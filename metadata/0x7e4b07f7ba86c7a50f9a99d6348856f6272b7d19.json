@@ -1,0 +1,54 @@
+{
+  "address": "0x7e4b07f7ba86c7a50f9a99d6348856f6272b7d19",
+  "type": "ERC721",
+  "name": "ZenPunk",
+  "tokenCount": "892",
+  "uri": "ipfs://QmbGmkVT32cH2PiDPpdiqybBSg9UajBDD9MdY8fVvjUs3r/1.json",
+  "metadata": {
+    "name": "Zenpunk #1",
+    "description": "Zenpunk is a tribute for Cryptopunk community. We believe that every Cryptopunk needs to have a Zen moment in this year of 2022.",
+    "image": "ipfs://QmQcA7bo5sC5HoKmvBZU5k4wf35L926FxNesv8VNQjb6dp/1.png",
+    "dna": "e9459dcd513a4aff9e8c4e073d522b197dc66c17",
+    "edition": 1,
+    "date": 1654068855894,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Front Brown"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue Eye"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "Broken Jeans"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Clown Nose"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Geek"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Beer"
+      },
+      {
+        "trait_type": "Topper",
+        "value": "Green Mohawk"
+      }
+    ],
+    "compiler": "ZenpunkDeployer"
+  }
+}

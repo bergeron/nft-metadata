@@ -1,0 +1,72 @@
+{
+  "address": "0x316a7c7e3cc126d1461f933fc4b295b84d37e70d",
+  "type": "ERC1155",
+  "name": "Mogul Showcase",
+  "tokenCount": "3",
+  "uri": "ipfs://QmWtKLYCKdeNKMsjrwvmwVp5jheduEPJUaByTmRmb4QbMt",
+  "metadata": {
+    "name": "Terminal Station",
+    "title": "Terminal Station",
+    "description": "A retired hitman for the Mafia is waiting in a train station to leave his life behind when he unintentionally steps in to save a pregnant woman running away from her husband, an ex-Mafia boss. The Hitman must now use all of his skills to protect the woman and himself from the group he used to work for.",
+    "type": "object",
+    "image": "ipfs://Qmdo4Kt37F4D4NtCaDAjPhGbhpTSVwDwSywAr5iG4u2As3",
+    "background_color": "000000",
+    "external_url": "https://v1.mglnft.com/0x316a7c7e3cc126d1461f933fc4b295b84d37e70d/1",
+    "properties": {
+      "contract_address": {
+        "type": "string",
+        "description": "0x316a7c7E3cc126d1461F933fc4b295B84d37E70d"
+      },
+      "title": {
+        "type": "string",
+        "description": "Terminal Station"
+      },
+      "description": {
+        "type": "string",
+        "description": "A retired hitman for the Mafia is waiting in a train station to leave his life behind when he unintentionally steps in to save a pregnant woman running away from her husband, an ex-Mafia boss. The Hitman must now use all of his skills to protect the woman and himself from the group he used to work for."
+      },
+      "author": {
+        "type": "string",
+        "description": "Mogul Productions"
+      },
+      "external_url": {
+        "type": "string",
+        "description": "https://v1.mglnft.com/0x316a7c7e3cc126d1461f933fc4b295b84d37e70d/1"
+      },
+      "image_url": {
+        "type": "string",
+        "description": "ipfs://Qmdo4Kt37F4D4NtCaDAjPhGbhpTSVwDwSywAr5iG4u2As3"
+      },
+      "image_original_url": {
+        "type": "string",
+        "description": "ipfs://QmNWoiaLbqRkiLs2wKqBUw7Drf9qxeTyEKs8bZsNoPWrkm"
+      },
+      "media_orientation": {
+        "type": "string",
+        "description": "portrait"
+      },
+      "background_color": {
+        "type": "string",
+        "description": "000000"
+      },
+      "collection_label": {
+        "type": "string",
+        "description": "Mogul Movie Voting"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 1
+      },
+      "issue_date": {
+        "type": "date",
+        "description": 1626825600
+      }
+    },
+    "attributes": [
+      {
+        "trait_type": "Author",
+        "value": "Mogul Productions"
+      }
+    ]
+  }
+}

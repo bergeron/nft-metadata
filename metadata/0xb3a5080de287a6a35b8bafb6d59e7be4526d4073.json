@@ -1,0 +1,38 @@
+{
+  "address": "0xb3a5080de287a6a35b8bafb6d59e7be4526d4073",
+  "type": "ERC721",
+  "name": "moonfelines.xyz",
+  "tokenCount": "350",
+  "uri": "ipfs://QmRz3pi2q2JR9AkMMCCLQyBRiby1XsKBmJ2z69CSDL6nYR/1.json",
+  "metadata": {
+    "name": "Feline Friend #1",
+    "description": "just virtual pets",
+    "image": "ipfs://QmWAZy64qQ1eTcF1Br4SueDuCeJE9jxZXfYzDRpLu4A2J7/1.png",
+    "dna": "ecca85f878231ed67fb2f684d22db6f88052b0ff",
+    "edition": 1,
+    "date": 1653525988304,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Back",
+        "value": "BatWings"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Banana"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Bongo"
+      }
+    ],
+    "compiler": "felineartengine"
+  }
+}

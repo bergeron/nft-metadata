@@ -1,0 +1,29 @@
+{
+  "address": "0x7f6cdedc478a346430da3fd7fe9511517be3a276",
+  "type": "ERC721",
+  "name": "Bitcome - old",
+  "tokenCount": "2",
+  "uri": "https://bafybeianeiu3zvtzi3v62j7v4s4wyi6cabxzo2osydwxtyt3cqf4rhrtcm.ipfs.dweb.link/1.json",
+  "metadata": {
+    "name": "NFT Asset Name #1",
+    "description": "NFT Asset Detailed Description #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bitcome_wbg"
+      },
+      {
+        "trait_type": "face",
+        "value": "bitcome_meditation"
+      }
+    ],
+    "creators": [],
+    "collection": {
+      "name": "Collection Name",
+      "family": "Unique Family Name"
+    },
+    "symbol": "NFT",
+    "seller_fee_basis_points": 0,
+    "image": "https://bafybeifmrfsbxepq7cy6belwcvj4ltl6azk2ergs7pqpnw2wvhmbo6p42m.ipfs.dweb.link/1.png"
+  }
+}

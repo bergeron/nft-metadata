@@ -1,0 +1,49 @@
+{
+  "address": "0x303fb68330889e34d7258e61b5387d54a71c6ef3",
+  "type": "ERC721",
+  "name": "Super Bowl Punks Chiefs",
+  "tokenCount": "2023",
+  "uri": "ipfs://bafybeifi57hndcq72xkyrqzglxschjvj3opre5dlbi6b5poipdn5ro7ari/1.json",
+  "metadata": {
+    "name": "Chiefs #1",
+    "description": "2023 SB 57 Chiefs Team",
+    "image": "ipfs://bafybeihjehzi3li7yjy5wcxswkm5u42n6bhys5dgppoalss57cj57o2n6m/1.png",
+    "dna": "1944df6bdda99822264d7bee4736f1c97463fe33",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "KC"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "SIlver Earring"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Joint"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Purple Vest"
+      },
+      {
+        "trait_type": "Shoulder Pads",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Head Gear",
+        "value": "None"
+      }
+    ],
+    "compiler": "Superbowl Punks"
+  }
+}

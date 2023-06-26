@@ -1,0 +1,41 @@
+{
+  "address": "0x440af42ac451ccc937f8516a57d56a667e88304c",
+  "type": "ERC721",
+  "name": "Dungeons And Degens",
+  "tokenCount": "512",
+  "uri": "ipfs://QmW1gmc5jJfgpnpm9C6EL9H5tLztp8brQgBGLNtrc9ye6f/1.json",
+  "metadata": {
+    "name": "Degen #1",
+    "description": "Choose your Degen and venture in to the Dark Ones Dungeons.",
+    "image": "ipfs://QmYqKaiG6PdSXCFTaVzCBBxk23j4nEtbq8Bmr8HvgdrEoa/1.png",
+    "dna": "74446033c26453c2630b61aed9562dced6a4f087",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Elfbody1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Overalls"
+      },
+      {
+        "trait_type": "Head Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Elf Cloth Shoes"
+      },
+      {
+        "trait_type": "Weapons",
+        "value": "Sulfur Torch"
+      }
+    ],
+    "compiler": "D&D"
+  }
+}

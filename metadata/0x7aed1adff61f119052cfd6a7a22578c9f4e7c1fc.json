@@ -1,0 +1,35 @@
+{
+  "address": "0x7aed1adff61f119052cfd6a7a22578c9f4e7c1fc",
+  "type": "ERC721",
+  "name": "FUL-NFT",
+  "tokenCount": "282",
+  "uri": "https://olive-administrative-mule-761.mypinata.cloud/ipfs/QmT5HWj5qMQEYPdwjWQU12YW9wzSyKc9j51hA3yYrnCvLL/1.json",
+  "metadata": {
+    "name": "E. Martínez",
+    "description": "By Fantasy Ultimate League World Cup champs are only issued 320 cards. They are 1/1 player items for champs contributing in the world cup.",
+    "image": "https://ful-app.s3.us-east-2.amazonaws.com/player_images/jersey/102587.png",
+    "nftId": 1,
+    "attributes": [
+      {
+        "trait_type": "country",
+        "nationality": "Argentina"
+      },
+      {
+        "trait_type": "position",
+        "position": "defenderGK"
+      },
+      {
+        "trait_type": "rarity",
+        "position": "worldcup"
+      },
+      {
+        "trait_type": "edition",
+        "value": "World Cup"
+      },
+      {
+        "trait_type": "status",
+        "value": "playing"
+      }
+    ]
+  }
+}

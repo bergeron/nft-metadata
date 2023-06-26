@@ -1,0 +1,56 @@
+{
+  "address": "0xd8fd46ff74ce5bb944c506f6c01fb3474463862f",
+  "type": "ERC721",
+  "name": "MANNES",
+  "tokenCount": "31",
+  "uri": "https://arweave.net/rawqgWwRiMIz049SVuuwEZtsrh8kxRYsw_6w39MY2nY",
+  "metadata": {
+    "name": "Red #3",
+    "created_by": "mcboot",
+    "description": "People are good. Mannequins are better.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "mcboot"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mannequin"
+      },
+      {
+        "trait_type": "Hair Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Movement",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Material",
+        "value": "Styrofoam"
+      }
+    ],
+    "animation_details": {
+      "bytes": 40379056,
+      "format": "MOV",
+      "duration": 12,
+      "sha256": "e8019e167c1a69f421b0109310a5bfbf0c3d8d0b732afd2d41947f6c329e8117",
+      "width": 2160,
+      "height": 2160,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/uZZWWuvx3qa-KOe122rDOb2dsughSXveMqLE1NuQxMs",
+    "animation_url": "https://arweave.net/uZZWWuvx3qa-KOe122rDOb2dsughSXveMqLE1NuQxMs",
+    "image_details": {
+      "bytes": 20301382,
+      "format": "GIF",
+      "sha256": "6abf2c44f2a9ec664a9059a76a0404230e23e94f247cba9cab4724ca70e2cacb",
+      "width": 480,
+      "height": 480
+    },
+    "image": "https://arweave.net/_5v6-3ud4Ii8ibPww8Ep-51PXjlMchiMHLqv6Ujgcqw",
+    "image_url": "https://arweave.net/_5v6-3ud4Ii8ibPww8Ep-51PXjlMchiMHLqv6Ujgcqw"
+  }
+}

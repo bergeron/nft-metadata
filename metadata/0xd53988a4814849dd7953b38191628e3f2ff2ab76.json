@@ -1,0 +1,41 @@
+{
+  "address": "0xd53988a4814849dd7953b38191628e3f2ff2ab76",
+  "type": "ERC1155",
+  "name": "RIGHT CLICK SAVE ART",
+  "tokenCount": "1",
+  "uri": "https://rightclicksaveart.com/api/token/1",
+  "metadata": {
+    "chainId": "0x1",
+    "tokenId": 1,
+    "name": "RightClickSave NOUN #0",
+    "collection_name": "RightClickSaveArt",
+    "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzY0IiBoZWlnaHQ9IjQ4NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld0JveD0iMCAwIDM2NCA0ODciPiA8c3R5bGU+IEBmb250LWZhY2UgeyBmb250LWZhbWlseTogIkludGVyIjsgc3JjOiB1cmwoImh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzMj9mYW1pbHk9SW50ZXI6d2dodEA0MDA7NjAwIik7IH0gPC9zdHlsZT4gPHJlY3QgZmlsbD0iI2Y1ZjNlNSIgd2lkdGg9IjM2NCIgaGVpZ2h0PSI0ODciIHJ4PSIxMCIgcnk9IjEwIi8+IDx0ZXh0IHN0eWxlPSJmb250LXdlaWdodDogNjAwOyBmb250LXNpemU6IDE0cHg7IGZvbnQtZmFtaWx5OiBJbnRlciwgc2Fucy1zZXJpZjsiIHg9IjUwJSIgeT0iNTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJibGFjayI+IENPTlRFTlQgTk9UIEFWQUlMQUJMRSBZRVQgPC90ZXh0PiA8L3N2Zz4=",
+    "external_url": "https://rightclicksaveart.com/token/0000000000000000000000000000000000000000000000000000000000000001",
+    "token_uri": "https://rightclicksaveart.com/api/token/0000000000000000000000000000000000000000000000000000000000000001",
+    "description": "Certificate of Authenticity: https://rightclicksaveart.com/certificate/1",
+    "owner": "0x0000000000000000000000000000000000000000",
+    "contract": "0xd53988a4814849dd7953b38191628e3f2ff2ab76",
+    "creator": "0x0000000000000000000000000000000000000000",
+    "verified": false,
+    "theme": "paper",
+    "created_at": 1658225942847,
+    "attributes": [
+      {
+        "trait_type": "Theme",
+        "value": "paper"
+      },
+      {
+        "trait_type": "Underlying Collection",
+        "value": "NOUN"
+      },
+      {
+        "trait_type": "Underlying Token ID",
+        "value": "0"
+      },
+      {
+        "trait_type": "Verified",
+        "value": false
+      }
+    ]
+  }
+}

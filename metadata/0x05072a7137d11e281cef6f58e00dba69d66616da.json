@@ -1,0 +1,83 @@
+{
+  "address": "0x05072a7137d11e281cef6f58e00dba69d66616da",
+  "type": "ERC721",
+  "name": "\"SHiELD:AGE\" by Cotoh Tsumi",
+  "tokenCount": "3333",
+  "uri": "ipfs://QmXEsPxtvjveDKuUYDbnHMKUQJYZMJSsRxb16PRbnK2ibR/1.json",
+  "metadata": {
+    "name": "SHiELD:AGE #1",
+    "description": "SHiELD:AGE - 3,333 ways to protect ourselves\n\n\"We were born in such an age.\"\n\nThere are wars, pandemics, natural disasters, and discrimination. Whether in the material or digital world, these continue to threaten us both physically and mentally. Neither the government nor our family can protect us.\n\n\"We must defend ourselves.\"\n\nThat is why we need our own personal tools, to protect our bodies, minds, rights, and our future.",
+    "image": "ipfs://QmVPjKqzVZo58dvGQJsKYwHfHCQTnRRm5Fbe9B3NbC1cEB/1.png",
+    "dna": "ce6d38e30b76ef9ffef8c8994248fc0e1b1c41e4",
+    "artist_id": "1",
+    "project_id": "22",
+    "website": "www.arttokyoglobal.io/",
+    "edition": 1,
+    "token_id": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "B F3 H2 Black"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "AS02 Grey (Yellow Tint)"
+      },
+      {
+        "trait_type": "Special Sticker",
+        "value": "None"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Cotoh Tsumi"
+      }
+    ],
+    "license": "Art Tokyo Global",
+    "rarity": {
+      "token_id": 1,
+      "traits": [
+        {
+          "type": "Background",
+          "value": "Red",
+          "appear": 317,
+          "pop": 0.09510951095109511,
+          "score": 10.514195583596214
+        },
+        {
+          "type": "Head",
+          "value": "B F3 H2 Black",
+          "appear": 17,
+          "pop": 0.0051005100510051,
+          "score": 196.05882352941177
+        },
+        {
+          "type": "Helmet",
+          "value": "AS02 Grey (Yellow Tint)",
+          "appear": 7,
+          "pop": 0.0021002100210021,
+          "score": 476.14285714285717
+        },
+        {
+          "type": "Special Sticker",
+          "value": "None",
+          "appear": 2968,
+          "pop": 0.8904890489048904,
+          "score": 1.122978436657682
+        },
+        {
+          "type": "Artist",
+          "value": "Cotoh Tsumi",
+          "appear": 3333,
+          "pop": 1,
+          "score": 1
+        }
+      ],
+      "total_score": 684.8388546925229,
+      "rank": 462
+    }
+  }
+}

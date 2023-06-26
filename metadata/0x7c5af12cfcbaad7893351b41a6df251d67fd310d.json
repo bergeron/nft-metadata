@@ -1,0 +1,26 @@
+{
+  "address": "0x7c5af12cfcbaad7893351b41a6df251d67fd310d",
+  "type": "ERC721",
+  "name": "Ethereal NY GA V2",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x7c5af12cfcbaad7893351b41a6df251d67fd310d/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x7C5af12cFcbAAd7893351B41a6DF251d67fD310D/icon?id=1",
+    "expiration": 1593423740,
+    "tokenId": "1",
+    "owner": "0x24e8bb6a37774d8a0187e196beb29601ed5920bf",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1593423740
+      }
+    ],
+    "userMetadata": {},
+    "keyId": "1",
+    "lockAddress": "0x7C5af12cFcbAAd7893351B41a6DF251d67fD310D",
+    "network": 1
+  }
+}

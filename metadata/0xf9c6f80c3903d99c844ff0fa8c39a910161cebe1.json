@@ -1,0 +1,41 @@
+{
+  "address": "0xf9c6f80c3903d99c844ff0fa8c39a910161cebe1",
+  "type": "ERC721",
+  "name": "The House V1",
+  "tokenCount": "10000",
+  "uri": "ipfs://bafybeifud273d63pbv7czovadfun7othug646uv4zv6ca4lgxrfxvi5mhq/1",
+  "metadata": {
+    "name": "The House V1 #1",
+    "image": "ipfs://bafybeiaaxuafwkqucrbh5vddprj5hkz6z5w457d7n33suygs3ugtdfwwam/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Type of House",
+        "value": "Beach House"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Phi Phi Island"
+      },
+      {
+        "trait_type": "Land Size",
+        "value": "0.25 Hectare"
+      },
+      {
+        "trait_type": "House Size",
+        "value": "medium"
+      },
+      {
+        "trait_type": "Built Year",
+        "value": "1950"
+      },
+      {
+        "trait_type": "Architectural Style",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Condition",
+        "value": "Good"
+      }
+    ]
+  }
+}

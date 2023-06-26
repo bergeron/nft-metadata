@@ -1,0 +1,27 @@
+{
+  "address": "0xd381481b86ef2a8ee2bffc51acc4927f266349fc",
+  "type": "ERC721",
+  "name": "Mighty Manateez Merch Pass",
+  "tokenCount": "115",
+  "uri": "https://api.mightymanateez.io/merchpasses/1",
+  "metadata": {
+    "name": "Mighty Manateez Merch Pass #1",
+    "description": "The Mighty Manateez Merch Pass grants its holder the ability to burn the Merch Pass in exchange for exclusive Mighty Manateez merchandise. If the holder chooses NOT to burn their Merch Pass they can exchange the Merch Pass for a set amount of an ERC20 that will be developed at a later date.",
+    "tokenId": 1,
+    "animation_url": "https://www.mightymanateez.io/video/manateez_merch_pass.mp4",
+    "image": "https://www.mightymanateez.io/images/poster.png",
+    "external_url": "https://www.mightymanateez.io",
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "Burn Window Starts",
+        "value": 1633528800
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Burn Window Stops",
+        "value": 1633744800
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "address": "0x429cb878f79c447e1d5abb0d6b1b4dba7c098f5e",
+  "type": "ERC721",
+  "name": "Test Deployer 1",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeibizkad2pjcr42dkeos2j35mk3kc7orf2olydjo5spm522tmil5wa/1.json",
+  "metadata": {
+    "name": "Pitty Pal #1",
+    "description": " Project Pitty Pals consists of 9,999 Pals, with over 350 unique traits. We've created PPP to provide assistance to real-world dog rescues, shelters, and non-profits. Building a community of like-minded individuals that care about making an impact and being a voice in their community! ",
+    "external_url": "https://www.pittypals.com/",
+    "image": "ipfs://QmQruR11bXDdpFmxxDhFXvHMYv7hEY3sZvGRjs3t2KsnHx/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "IMG_1263"
+      },
+      {
+        "trait_type": "Shadow",
+        "value": "Untitled_Artwork-1"
+      },
+      {
+        "trait_type": "Balls",
+        "value": "IMG_1275"
+      },
+      {
+        "trait_type": "Body",
+        "value": "IMG_0899"
+      },
+      {
+        "trait_type": "Shirts",
+        "value": "IMG_1284"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "IMG_1089"
+      },
+      {
+        "trait_type": "Brain",
+        "value": "IMG_1287"
+      },
+      {
+        "trait_type": "Head",
+        "value": "IMG_0748"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "IMG_0953"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "IMG_0500"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 1000,
+    "collection": {
+      "name": "Project Pitty Pals",
+      "family": "Project Pitty Pals"
+    },
+    "symbol": "PPP"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "address": "0xcf1c36850e13292a806022fb16e6ad8c0bd9a892",
+  "type": "ERC721",
+  "name": "Cryptovert Consulting",
+  "tokenCount": "5",
+  "uri": "https://arweave.net/J1hUmvThBV8ZDJTdGHCoIVSW9ty2fYTsdZyFnEefTp4/1",
+  "metadata": {
+    "name": "Cryptovert Consulting Client #1/5",
+    "created_by": "Cryptovert",
+    "description": "This NFT grants the utility of receiving twelve 1-hour consulting sessions redeemable once per month unless otherwise agreed to via an electronic communication method.\n\nRedemption for each month will be documented per token ID.  For the 12th session redemption, the NFT will be transferred to the original creator for the final session and you will receive as a replacement a special NFT that may or may not carry additional bonus utility into the future as a consulting client.  \n\nEach session must be scheduled at least 48 hours in advance and will be subject to approval or rescheduling via private group chat established upon original purchase. \n\nA consulting session may include a voice-only call, a virtual meeting with screen share, and or a metaverse meeting in a virtual space. \n\nUpon purchase of this NFT, a standard communication method should be established with the creator of this token.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Cryptovert"
+      },
+      {
+        "trait_type": "Sessions Included",
+        "value": "12"
+      },
+      {
+        "trait_type": "Min Session Length ",
+        "value": "1-hour "
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Genesis"
+      }
+    ],
+    "image_details": {
+      "bytes": 731316,
+      "format": "JPEG",
+      "sha256": "281040be5a1da1b24ab0d2d56f030f7e3f9f1382141a14929bb28e5d4b056699",
+      "width": 1920,
+      "height": 1080
+    },
+    "image": "https://arweave.net/OBoKLgydpSSEyYjfkfeVpYOCM0kEgRw00KQFx3Fgex0",
+    "image_url": "https://arweave.net/OBoKLgydpSSEyYjfkfeVpYOCM0kEgRw00KQFx3Fgex0",
+    "animation_details": {
+      "bytes": 59565074,
+      "format": "MP4",
+      "duration": 47,
+      "sha256": "b9409e9fb1177d7cfd7518ff10b9dcccd7ff0eaa2f2dd285f50fc0d8de651534",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/qS7EU_rcCBlBym0ZMQsbeTN3g8_w55eOTi7bQRSFwjw",
+    "animation_url": "https://arweave.net/qS7EU_rcCBlBym0ZMQsbeTN3g8_w55eOTi7bQRSFwjw"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "address": "0xb69535758425e4a4ed95490333e646a87f8e2cb9",
+  "type": "ERC721",
+  "name": "Bright Animals",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/i__Q5qYCGZLWFw2GBi2WvvYIXCtqCmnVJHCQsxB8Fmo",
+  "metadata": {
+    "name": "#01 - Deer",
+    "created_by": "NimaNikar",
+    "description": "With its elegant frame and nimble gait,  \nThe deer embodies nature's grace and beauty innate,  \nAdorned with majestic antlers that grow,  \nIt roams the wild, a symbol of freedom and wonder to behold.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "NimaNikar"
+      },
+      {
+        "trait_type": "Resolution",
+        "value": "1920*1080 pxl"
+      },
+      {
+        "trait_type": "Frame Rate",
+        "value": "60 fps"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2023"
+      }
+    ],
+    "animation_details": {
+      "bytes": 49207385,
+      "format": "MP4",
+      "duration": 8,
+      "sha256": "375dbf00f368d01ae6132ff8ac726c5a7d6b4e240afe5d93d93f9075d953d44f",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/HQcgcgBFOPvRRnsKv1M9CPpFSrS_NQJ86WXLqbizGD8",
+    "animation_url": "https://arweave.net/HQcgcgBFOPvRRnsKv1M9CPpFSrS_NQJ86WXLqbizGD8",
+    "image_details": {
+      "bytes": 58030146,
+      "format": "GIF",
+      "sha256": "64451ff44442397a5d5808d2fbe1e5482179096742e138fcb4ac556fd7d70fc9",
+      "width": 1280,
+      "height": 720
+    },
+    "image": "https://arweave.net/oP7-vzKrRReZM3XztNhkaODl65P8hRv0XMmS82F1KS8",
+    "image_url": "https://arweave.net/oP7-vzKrRReZM3XztNhkaODl65P8hRv0XMmS82F1KS8"
+  }
+}

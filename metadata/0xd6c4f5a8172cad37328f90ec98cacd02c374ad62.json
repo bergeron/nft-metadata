@@ -1,0 +1,53 @@
+{
+  "address": "0xd6c4f5a8172cad37328f90ec98cacd02c374ad62",
+  "type": "ERC721",
+  "name": "CHANSU",
+  "tokenCount": "1",
+  "uri": "ipfs://QmdoSyQMXVdRUBCcUEo8WenernE87tWYVRs2Uk6Uro9aM1",
+  "metadata": {
+    "name": "CD01",
+    "description": "CHANSU, the abstract post-photography series, explores the interplay between traditional post-processing photography software and GAN (Generative Adversarial Network) technology. The project draws inspiration from the contemporary Japanese aesthetic and focuses on the significance of grain and blur in creating a surreal, black-and-white landscape. The result is a world of abstract imagery that blurs the lines between reality and imagination.  \n\nIn collaboration with Transient Labs, this dynamic piece, with its gradual dissolving of still images over 80 minutes, invites viewers to witness the element of chance in a visually stunning and ever-evolving experience. In addition, the viewers can also toggle through the four still images to experience a static display of the artworks.  \n\nClick/Tap the bottom half of the image to initiate the 80-minute dissolving process.  \nClick/Tap the top half to toggle between the four still images.",
+    "image": "ipfs://QmYgui9m6cR2cTYeXs3aL14GH6Po6LjE4j3AJWCYBZnV7g",
+    "image_details": {
+      "bytes": 4889918,
+      "format": "PNG",
+      "sha256": "7a23848ea19b90b375759c8ccebb75b0a3f6a96c15eed18167067a676947b06b",
+      "width": 1024,
+      "height": 1536
+    },
+    "animation_url": "ipfs://QmaAbbft41HEun4RimzzEP1BdsDyQFn1q9zYPbXaLbxzNg",
+    "animation_details": {
+      "bytes": 22773383,
+      "format": "HTML",
+      "sha256": "8e68ac47994d829ed15eb9730b3d5048e89a7445adf5916f6a6f74eae0e1ff97"
+    },
+    "tags": [
+      "Photography",
+      "Generative",
+      "Digital"
+    ],
+    "attributes": [
+      {
+        "trait_type": "Created on",
+        "value": "Generative Adversarial Network"
+      },
+      {
+        "trait_type": "Post Processing Software",
+        "value": "Adobe Lightroom"
+      },
+      {
+        "trait_type": "Dissolve Length",
+        "value": "80 Minutes"
+      },
+      {
+        "trait_type": "Genre",
+        "value": "Post Photography"
+      },
+      {
+        "trait_type": "Quality",
+        "value": "Dynamic"
+      }
+    ],
+    "artist": "Robert LeBlanc"
+  }
+}

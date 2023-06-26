@@ -1,0 +1,38 @@
+{
+  "address": "0x0f928dc3546c52715d8753024682eff9aa033adf",
+  "type": "ERC721",
+  "name": "littlepepe",
+  "tokenCount": "4925",
+  "uri": "ipfs://bafybeihys6rycmoz3ydfoxjflh65dp7h4t3wya6dec5sknshqyauhl7q5u/1.json",
+  "metadata": {
+    "name": "little pepe #1",
+    "description": "The little pepe collection made from artist matt.",
+    "image": "ipfs://bafybeif5de7fc3acczsvu5i3xl32ykdep7gmdpkxylbjcqtutxxblsjcam/1.png",
+    "dna": "7e35a324d3b2ede6642b56f5bdbc5b4c5c4ae28e",
+    "edition": 1,
+    "date": 1664571755594,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Pepe",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Serious"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Chef"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Looking Right"
+      }
+    ],
+    "compiler": "Pepe"
+  }
+}

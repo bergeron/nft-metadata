@@ -1,0 +1,50 @@
+{
+  "address": "0x783cb9f5a56a2015c3059e12799ec1356a5c6d32",
+  "type": "ERC721",
+  "name": "GhostFace Shiba Halloween Edition",
+  "tokenCount": "8",
+  "uri": "ipfs://QmPjPkzNHmuMCUmutFSmwzf2d2eakqRjCJaVUgGhjnMFH4/1.json",
+  "metadata": {
+    "dna": "12-5-0-*-*-*-0-0-*-*-65",
+    "name": "#1",
+    "description": "First ever release of GhostFace Shiba NFTs. A collection of 1000 unique GFSHIB NFTs on the Ethereum blockhain.",
+    "image": "ipfs://QmRs6jrCZCSaWxyH2AT9gQ7B3m92aFqxsPwsAhMc8tLGBv/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bg14"
+      },
+      {
+        "trait_type": "Shiba",
+        "value": "shibapurple"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "open mouth"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "both ears pierced"
+      },
+      {
+        "trait_type": "Necklace",
+        "value": "skull chain necklace"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "pumpkin red"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://ghostfaceshiba.com"
+  }
+}

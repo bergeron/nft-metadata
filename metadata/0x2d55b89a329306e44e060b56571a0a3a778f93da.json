@@ -1,0 +1,51 @@
+{
+  "address": "0x2d55b89a329306e44e060b56571a0a3a778f93da",
+  "type": "ERC721",
+  "name": "SakuraNFT",
+  "tokenCount": "29",
+  "uri": "ipfs://QmQtMefdxwFsxxCYgfCiudRjE2UtrhoJCrLgz4rsjMGLuL/1.json",
+  "metadata": {
+    "dna": "0a940f40d83400c905f5f2faae02aa6bf22a5c0e1cf46706efe2cb28635f6fdf",
+    "name": "Sakura #1",
+    "description": "A generative NFT collection of 1111 anime inspired chibis coming to the blockchain",
+    "image": "ipfs://QmNhBLgt2C38XQER7XnVmpUVvAMQzY5ZnPj8yVmszWX9nA/1.png",
+    "imageHash": "af27e6bf8d1566b0429794f2d2098679ab2c4e294fc6378bfb5d8733ed9325a4",
+    "edition": 1,
+    "date": 1650376870415,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Base Chibi"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Teary Amber"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "High_Ponytail_White"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Long Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Armour Silver"
+      },
+      {
+        "trait_type": "Head Accessories Back",
+        "value": "Horns"
+      },
+      {
+        "trait_type": "Hair Front",
+        "value": "High_Ponytail_White_front"
+      }
+    ],
+    "compiler": "Ashura Art Engine"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "address": "0x23ab508adf98b3f4ec3d4a087dad838f37a1274d",
+  "type": "ERC721",
+  "name": "Tetris Game NFT",
+  "tokenCount": "2000",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmeHg5KSgwFv1VeMP37EVwEcBJ6gjJJnrTwTzEwirJN3uk/1.json",
+  "metadata": {
+    "name": "Tetris Game #1",
+    "description": "Tetris Game NFT. You must CLICK or TOUCH the Arena of Game first. Keys: Arrow Left -> Move block to the left side. | Arrow Right -> Move block to the right side. | Arrow Up -> Rotate block. | Arrow Down -> Bring down block faster. | Space -> Drop the block",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYzHo7deke7ze9mTjkkRxrcbK73Bj9EbXRCULSo7zfG5Z/1.png",
+    "attributes": [
+      {
+        "trait_type": "Arena",
+        "value": "White"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Midnightblue"
+      },
+      {
+        "trait_type": "Board Colors",
+        "value": "12 Colors"
+      },
+      {
+        "trait_type": "Button",
+        "value": "Wheat"
+      },
+      {
+        "trait_type": "Font",
+        "value": "Springgreen"
+      }
+    ],
+    "animation_url": "https://gateway.pinata.cloud/ipfs/QmWvnZPUDxvivEc4MfjbaNrkMmcCD3Fx5N1npy4yTbhC3t/1.html"
+  }
+}

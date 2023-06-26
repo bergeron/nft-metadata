@@ -1,0 +1,20 @@
+{
+  "address": "0x835e69a075f532f669a07de34117552be3cc3d9f",
+  "type": "ERC721",
+  "name": "Good Karma Records",
+  "tokenCount": "62",
+  "uri": "https://api.passage.xyz/passport/metadata/1/0x835E69A075F532f669a07DE34117552bE3Cc3D9F/1",
+  "metadata": {
+    "name": "Good Karma Membership",
+    "description": "Good Karma Records membership token.",
+    "image": "https://api.passage.xyz/passport/image/1/0x835e69a075f532f669a07de34117552be3cc3d9f/1",
+    "animation_url": "https://nft.passage.xyz?tokenId=1&contractAddress=0x835e69a075f532f669a07de34117552be3cc3d9f&chain=1",
+    "external_url": "https://passage.xyz",
+    "attributes": [
+      {
+        "trait_type": "Founder",
+        "value": "True"
+      }
+    ]
+  }
+}

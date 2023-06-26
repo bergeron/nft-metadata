@@ -1,0 +1,53 @@
+{
+  "address": "0xc6b27b5b33c7bcee91c7f4c0cd98faf3cc0c5a82",
+  "type": "ERC721",
+  "name": "DOT 02",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/bm12d2GzCBawy-NruV_iJGqokFvz4dwuqjkO3TjVxPI",
+  "metadata": {
+    "name": "FAST_04",
+    "created_by": "DOT",
+    "description": "FAST_04: Animated and paired with the continuous oscillation of sound.  \nJanuary 1, 2021",
+    "attributes": [
+      {
+        "trait_type": "Animated",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Sound Frequency",
+        "value": "Tri-Tonal"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Parallel "
+      }
+    ],
+    "animation_details": {
+      "bytes": 95664846,
+      "format": "MP4",
+      "duration": 11,
+      "sha256": "36bc3a4f018aa37d1612b815cc50faf6b0eda5e4ef297580e50b178d3dd940f4",
+      "width": 1080,
+      "height": 2160,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/t35YZ8IDy2LLl4nlVwNfRmWJR7TE0dkpP1O-PP2i__I",
+    "animation_url": "https://arweave.net/t35YZ8IDy2LLl4nlVwNfRmWJR7TE0dkpP1O-PP2i__I",
+    "image_details": {
+      "bytes": 13845675,
+      "format": "PNG",
+      "sha256": "3f1795e41260369b380ef9be9e8e0829339ab4bf4387e28570991f7118b60cb9",
+      "width": 14456,
+      "height": 28856
+    },
+    "image": "https://arweave.net/VRVG78rTXc7VFKqqTFdMiKHRGvf5OtXno9b_WrHrWLU",
+    "image_url": "https://arweave.net/VRVG78rTXc7VFKqqTFdMiKHRGvf5OtXno9b_WrHrWLU"
+  }
+}

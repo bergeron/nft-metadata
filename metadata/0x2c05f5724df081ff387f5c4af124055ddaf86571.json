@@ -1,0 +1,41 @@
+{
+  "address": "0x2c05f5724df081ff387f5c4af124055ddaf86571",
+  "type": "ERC721",
+  "name": "ArcadeTest",
+  "tokenCount": "6",
+  "uri": "https://arweave.net/9BvnqgMUf8k83Dg7y7nDBTWDMnFrZXbN7v6CjOQkHk0/1",
+  "metadata": {
+    "created_by": "facestomperx123",
+    "name": "Test arcade #1/512",
+    "description": "Testing claim page token",
+    "external_url": "https://arcade-1024-nft.s3.amazonaws.com/json/",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "facestomperx123"
+      }
+    ],
+    "animation_details": {
+      "bytes": 4457504,
+      "format": "MP4",
+      "duration": 30,
+      "sha256": "960b277462cc468ba14a0abf469615332e06e89bc418288096b28317c34c3c79",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/BS8AfMJLnZ_D0mWvhLlb9P9BBrVcFEV1t5dM4VDO6g4",
+    "animation_url": "https://arweave.net/BS8AfMJLnZ_D0mWvhLlb9P9BBrVcFEV1t5dM4VDO6g4",
+    "image_details": {
+      "bytes": 1268402,
+      "format": "PNG",
+      "sha256": "ccd5cb0b2d223aa8510b2efa92f36c1693f7d081e383ff9d7f1def7e3b28653f",
+      "width": 1080,
+      "height": 1080
+    },
+    "image": "https://arweave.net/QnhKQiJf8b6ko7FLIS6_exeZpAwKRpV_mUaUc0LuX-8",
+    "image_url": "https://arweave.net/QnhKQiJf8b6ko7FLIS6_exeZpAwKRpV_mUaUc0LuX-8"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "address": "0xa2d035ce083f24ce9ae73a307b9e447d28e4a254",
+  "type": "ERC721",
+  "name": "Christian Holze - Masterpiece",
+  "tokenCount": "3",
+  "uri": "ipfs://QmXCBfQw7qvXjkBBUAiLC6qA4BTVQ7SVZK3arsq2gmHprj",
+  "metadata": {
+    "name": "Christian Holze - Still Life with Flowers",
+    "description": "The video loop 'Still Life with Flowers' is based on a floral painting by Ambrosius Bosschaert the elder that was obtained from an art copy manufacturer's data archive. The reference image is chosen at random by a computer and covered with a 3D-generated paint splash. A splash is an inscription gesture in a piece of art that corresponds to the artist's signature.\n\nVerisart Certified: https://verisart.com/works/0f85f69a-8c3d-4818-8b90-2efd210b9d40",
+    "image": "ipfs://QmPyzgZMEhx3Mha7kL1ErSyN4eQsRAzuZEeSySD1wnC8oF",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 1440,
+          "height": 2560,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 10
+        },
+        "frameRate": 30,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0x2e512bc27486deacfd2ab3cd5305e7efa63a02d3",
+            "bps": 800
+          }
+        ],
+        "editionInfo": null
+      }
+    },
+    "animation_url": "ipfs://Qme5KVnijSLDFdvg9yWMmMtryjuhqLYV8ZdwU9Wc1gXrFV",
+    "external_url": "https://verisart.com/works/0f85f69a-8c3d-4818-8b90-2efd210b9d40",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Christian Holze"
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Title",
+        "value": "Christian Holze - Still Life with Flowers"
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "2560x1440 px"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:10"
+      }
+    ]
+  }
+}

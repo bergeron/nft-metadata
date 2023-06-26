@@ -1,0 +1,52 @@
+{
+  "address": "0x9bf335f61a80686fc33f97a3a7f2e762f0b42622",
+  "type": "ERC721",
+  "name": "Crypto Alien Punk v1",
+  "tokenCount": "10000",
+  "uri": "https://alienpunksapi.xyz/images/1.json",
+  "metadata": {
+    "dna": "010505010701002",
+    "name": "#1",
+    "description": "Alien Punks",
+    "image": "https://alienpunksapi.xyz/images/1.png",
+    "edition": 1,
+    "date": 1631535021004,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "background_blue",
+        "rarity": "rare"
+      },
+      {
+        "trait_type": "skin",
+        "value": "green",
+        "rarity": "original"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "3d_glasses",
+        "rarity": "rare"
+      },
+      {
+        "trait_type": "ears",
+        "value": "no_earing",
+        "rarity": "rare"
+      },
+      {
+        "trait_type": "hair",
+        "value": "multi color",
+        "rarity": "rare"
+      },
+      {
+        "trait_type": "neck",
+        "value": "purple_chains",
+        "rarity": "original"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "tabaco_pipe",
+        "rarity": "rare"
+      }
+    ]
+  }
+}

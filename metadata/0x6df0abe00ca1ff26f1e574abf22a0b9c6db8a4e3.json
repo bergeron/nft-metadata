@@ -1,0 +1,19 @@
+{
+  "address": "0x6df0abe00ca1ff26f1e574abf22a0b9c6db8a4e3",
+  "type": "ERC721",
+  "name": "Karma DAO - Test",
+  "tokenCount": "1",
+  "uri": "ipfs://QmRRkBgZh3H52BLfYh2ebG7ufERRw2dqidTJUkP6VtxYcs/karma_metadata/1",
+  "metadata": {
+    "name": "Karma DAO",
+    "description": "Karma DAO Membership #1",
+    "image": "ipfs://QmTyXExQ7ChkUCQK68dFBQc68wPmAbJYzf1EqL4SefwgBw/karma_assets/1.mp4",
+    "attributes": [
+      {
+        "trait_type": "Membership",
+        "value": 1,
+        "display_type": "number"
+      }
+    ]
+  }
+}

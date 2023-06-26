@@ -1,0 +1,41 @@
+{
+  "address": "0x650c1f572f881cc597b6123cd8876e2de0e29db9",
+  "type": "ERC721",
+  "name": "Art By Crumpton 11",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/q9k-lA70hZ8nsBA-VTGuHpmnv8cT3dQ_gTkyJudYqkU",
+  "metadata": {
+    "name": "Mountain Top",
+    "created_by": "Crumpton",
+    "description": "Slow climb to the top,  \nthe end of the beginning.  \nWhere to go from here...\n\nIllustration, Animation, and Audio created by Matthew Crumpton.  \nAll rights reserved to the artist Matthew Crumpton.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Crumpton"
+      }
+    ],
+    "animation_details": {
+      "bytes": 25063427,
+      "format": "MP4",
+      "duration": 20,
+      "sha256": "255479cfc83ccdb829732e887ab47ec76d5f82f1d472fd456d908573b20aa665",
+      "width": 2000,
+      "height": 3000,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/UFIk77JMOWTcMIq2eELGqgVQN9iH4ZMd5uwND5hrMQo",
+    "animation_url": "https://arweave.net/UFIk77JMOWTcMIq2eELGqgVQN9iH4ZMd5uwND5hrMQo",
+    "image_details": {
+      "bytes": 1427908,
+      "format": "PNG",
+      "sha256": "aa01b2eb381a7b8151ead4f8b2e93316d6f85168d640a1c7b61f7968163cb041",
+      "width": 1650,
+      "height": 2500
+    },
+    "image": "https://arweave.net/Om5YWzaU62LVl9xL98Zck42YIPc61HY_FL4myP87obo",
+    "image_url": "https://arweave.net/Om5YWzaU62LVl9xL98Zck42YIPc61HY_FL4myP87obo"
+  }
+}

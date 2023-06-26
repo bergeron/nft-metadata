@@ -1,0 +1,33 @@
+{
+  "address": "0x632da0a7b6594a34c02c05794c99094c57db6089",
+  "type": "ERC721",
+  "name": "ethtest V2",
+  "tokenCount": "1",
+  "uri": "https://nftstorage.link/ipfs/bafkreif2nnrtsepoouil6wenjb2f2666y7zynfjlzx5ovx3thntfzgzixq",
+  "metadata": {
+    "id": 6841,
+    "image": "https://nftstorage.link/ipfs/bafkreicyqgxecpvmgvbqvgq3j2pjd4way2mbzqvphdn7b7h2sua2l2b4y4",
+    "description": "water",
+    "name": "water",
+    "collectionId": 47051,
+    "attributes": [
+      {
+        "display_type": "string",
+        "trait_type": "water",
+        "value": "water"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "water",
+        "value": 1,
+        "total": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "water",
+        "value": 10,
+        "total": 11
+      }
+    ]
+  }
+}

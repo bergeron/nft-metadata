@@ -1,0 +1,675 @@
+{
+  "address": "0x6a43d9376c2005e62afa53b36019d993802c8543",
+  "type": "ERC721",
+  "name": "emoji portraits V2",
+  "tokenCount": "1",
+  "uri": "https://ipfs.pixura.io/ipfs/QmQYdzYLBkYgbjz65GRt7mp7N1LvpE9Fdp6fPWjrPhxhXB/metadata.json",
+  "metadata": {
+    "name": "island boy",
+    "createdBy": "Yung Jake",
+    "yearCreated": "2021",
+    "description": "2021\nemoji portrait\ndigitally painted using emoji.ink\n\nemoji's used:\n🍑93,🏈98,🚪10,🍤22,🦊65,🐌6,🧇16,😼25,😕10,📻16,🌮11,⭐15,🦲9,🥙8,🎮12,😸7,👂6,🐥4,🐴16,🤘8,🧙🏾‍♀️5,🦥31,🧸8,🩳8,🐿️45,🦦11,🥾18,🐐8,👢7,📙8,🧆2,🤼8,🎃9,🦪2,🎓18,🐆7,🥞7,🧑🏾‍🌾8,🐡6,🦝6,🥐3,🧑🏿‍✈️2,🍪6,🌭27,🐻5,👨🏽‍🦰2,👩‍👩‍👧2,✊14,🧈6,🦙5,🍦3,🟡1,🟨2🏻, 4,✋🏻5,🖖🏼2,🖖🏻8,🐖9,🏷️2,🥟5,🍞7,🔶9,🦗10,🧠3,🎟️5,🇨🇳3,💗3,🐽3,✒️3,♟️4,🗨️2,🕳️7,🐃5,🐷6,🥓5,🩰3,🎂7,🐓2,🧴12,🐂9,🎉10,🍗10,🥖5,🕍8,🐒6,💤1,🪁2,📤1,🌂2,📌2,🌡️1,👨🏽‍🦽2,🔇2,🏐3,🐚1,👄2,➖9,🌑2,🚝2,⚫4,⏱️2,🩹8,⛏️7,🥯8,👝2,📦4,⚰️3,👃🏽3,💝3,🐹3,🔖6,🧄1,🀄2,🏨2,🍕6,👜3,👖2,🚔1,🎤2,🦍4,📼5,🏴‍☠️5,🇦🇱2,🚚2,🧳6,🧅1,🦅2,🤜🏾2,👂🏻1,🐮4,🗂️11,☁️3,👟4,🗯️2,🥻3,🤏🏾1,🕯️4,🔌8,🍹4,🥕2,🎻4,🌅9,🏖️11,✏️6,❕4,📔2,🚵13,🧔9,🥜3,👨‍👩‍👦‍👦4,🚩2,🌶️5,🎒6,🦧5,🧑🏾‍🤝‍🧑🏿2,🤡4,🦜2,🍏4,🤢5,🌱2,🥑3,🍀5",
+    "image": "https://ipfs.pixura.io/ipfs/QmfKibRHHrTyKnFkp11b5jNEhCm6jaTu9VvYBReWG9Q2qs/islandboy.jpeg",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmfKibRHHrTyKnFkp11b5jNEhCm6jaTu9VvYBReWG9Q2qs/islandboy.jpeg",
+      "dimensions": "3974x4822",
+      "size": "4662125",
+      "mimeType": "image/jpeg"
+    },
+    "tags": [
+      "yungjake",
+      "islandboy",
+      "genesis"
+    ],
+    "attributes": [
+      {
+        "trait_type": "emoji",
+        "value": "🍑"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🏈"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🚪"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🍤"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🦊"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐌"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🧇"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "😼"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "😕"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "📻"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🌮"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "⭐"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🦲"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🥙"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🎮"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "😸"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "👂"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐥"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐴"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🤘"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🧙🏾‍♀️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🦥"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🧸"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🩳"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐿️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🦦"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🥾"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐐"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "👢"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "📙"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🧆"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🤼"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🎃"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🦪"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🎓"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐆"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🥞"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🧑🏾‍🌾"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐡"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🦝"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🥐"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🧑🏿‍✈️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🍪"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🌭"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐻"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "👨🏽‍🦰"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "👩‍👩‍👧"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "✊"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🧈"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🦙"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🍦"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🟡"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🟨"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🏻"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "✋🏻"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🖖🏼"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🖖🏻"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐖"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🏷️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🥟"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🍞"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🔶"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🦗"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🧠"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🎟️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🇨🇳"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "💗"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐽"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "✒️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "♟️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🗨️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🕳️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐃"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐷"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🥓"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🩰"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🎂"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐓"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🧴"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐂"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🎉"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🍗"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🥖"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🕍"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐒"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "💤"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🪁"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "📤"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🌂"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "📌"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🌡️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "👨🏽‍🦽"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🔇"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🏐"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐚"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "👄"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "➖"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🌑"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🚝"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "⚫"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "⏱️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🩹"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "⛏️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🥯"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "👝"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "📦"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "⚰️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "👃🏽"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "💝"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐹"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🔖"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🧄"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🀄"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🏨"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🍕"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "👜"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "👖"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🚔"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🎤"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🦍"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "📼"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🏴‍☠️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🇦🇱"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🚚"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🧳"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🧅"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🦅"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🤜🏾"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "👂🏻"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🐮"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🗂️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "☁️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "��"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🗯️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🥻"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🤏🏾"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🕯️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🔌"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🍹"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🥕"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🎻"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🌅"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🏖️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "✏️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "❕"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "📔"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🚵"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🧔"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🥜"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "👨‍👩‍👦‍👦"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🚩"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🌶️"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🎒"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🦧"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🧑🏾‍🤝‍🧑🏿"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🤡"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🦜"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🍏"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🤢"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🌱"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🥑"
+      },
+      {
+        "trait_type": "emoji",
+        "value": "🍀"
+      }
+    ]
+  }
+}

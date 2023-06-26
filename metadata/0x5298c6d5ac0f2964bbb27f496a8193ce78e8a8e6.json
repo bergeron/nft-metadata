@@ -1,0 +1,43 @@
+{
+  "address": "0x5298c6d5ac0f2964bbb27f496a8193ce78e8a8e6",
+  "type": "ERC721",
+  "name": "Enigma Economy NFT",
+  "tokenCount": "8000",
+  "uri": "https://enigmaminer.s3.amazonaws.com/1",
+  "metadata": {
+    "description": "The Enigma Economy is a genesis collection of miners holding 4,000 genesis pickaxes. They are here to hack away on the blockchain.",
+    "name": "Enigma #1",
+    "image": "https://ipfs.io/ipfs/QmY4UeArABLtw1yVKsiAU6fWH8Mm3f1Kny4EpPpn8GfA6j",
+    "external_url": "https://theenigmaeconomy.wtf/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Golden Gate Orange"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "Tundra Elf"
+      },
+      {
+        "trait_type": "Shaft",
+        "value": "Adakite Stone"
+      },
+      {
+        "trait_type": "Axe Head",
+        "value": "Spiked Pick"
+      },
+      {
+        "trait_type": "Worker",
+        "value": "0%"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "Worker"
+      },
+      {
+        "trait_type": "Genesis",
+        "value": "V3"
+      }
+    ]
+  }
+}

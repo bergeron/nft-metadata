@@ -1,0 +1,85 @@
+{
+  "address": "0x65273d9be210e10be64d7e122387cc85857f92fd",
+  "type": "ERC721",
+  "name": "Nice Fun Zombies",
+  "tokenCount": "5000",
+  "uri": "https://api.nicefunzombies.io/metadata/1",
+  "metadata": {
+    "attributes": [
+      {
+        "value": "Wide Blank",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "None",
+        "trait_type": "Outfit"
+      },
+      {
+        "value": "Messy",
+        "trait_type": "Hair"
+      },
+      {
+        "value": "Crown",
+        "trait_type": "Head_gear"
+      },
+      {
+        "value": "Gold",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Chewed Hand",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": "Normal",
+        "trait_type": "Type"
+      },
+      {
+        "value": "Male",
+        "trait_type": "Gender"
+      },
+      {
+        "value": "Green",
+        "trait_type": "Color"
+      },
+      {
+        "value": "Genesis",
+        "trait_type": "Group"
+      },
+      {
+        "value": "School",
+        "trait_type": "Location"
+      },
+      {
+        "value": 70,
+        "trait_type": "Hunger",
+        "display_type": "boost_number"
+      },
+      {
+        "value": 82,
+        "trait_type": "Attack",
+        "display_type": "boost_number"
+      },
+      {
+        "value": 7,
+        "trait_type": "Power",
+        "display_type": "boost_number"
+      },
+      {
+        "value": 7,
+        "trait_type": "Precision",
+        "display_type": "boost_number"
+      },
+      {
+        "value": 67,
+        "trait_type": "Yell",
+        "display_type": "boost_number"
+      }
+    ],
+    "description": "NFZ",
+    "image": "https://images.nicefunzombies.io/1.png",
+    "name": "#1",
+    "zombieId": "1",
+    "animation_url": "https://api.nicefunzombies.io/gallery/1"
+  }
+}

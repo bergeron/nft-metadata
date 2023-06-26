@@ -1,0 +1,67 @@
+{
+  "address": "0x8c1a4fefeb6d183788f59859fcd756bda3da757e",
+  "type": "ERC721",
+  "name": "Solar Year by JL",
+  "tokenCount": "365",
+  "uri": "https://arweave.net/uJm51bX9TrnYsVx2NgAKeW-EuhHV1C7xORifKlC4_C4/1",
+  "metadata": {
+    "name": "Solar Year #1/365",
+    "created_by": "JL",
+    "external_url": "https://www.twitter.com/_jdl",
+    "description": "This is Solar Year, a special edition release by JL.\n\n\"Solar Year\" is an SVG Animation, I created it purely with HTML code rendering SVG graphics in real time. This isn't a movie or photo.\n\nArtist Statement: Solar Year represents the fascinating, constant march of time through the universe. The planets rotate, at scale, proportional their own Solar Year. For example, the Earth sphere is scaled from 365.25 days per year to 36525ms to complete a rotation around the Sun sphere.\n\nmercury-orbit 88.8s  \nvenus-orbit 22500ms  \nearth-orbit 36525ms  \nmars-orbit 68724ms  \njupiter-orbit 4332.59ms  \nsaturn-orbit 10759.22ms  \nuranus-orbit 30688.5ms  \nneptune-orbit 60182ms  \npluto-orbit 90560ms",
+    "attributes": [
+      {
+        "trait_type": "mercury-orbit",
+        "value": "88.8s"
+      },
+      {
+        "trait_type": "venus-orbit",
+        "value": "22500ms"
+      },
+      {
+        "trait_type": "earth-orbit",
+        "value": "36525ms"
+      },
+      {
+        "trait_type": "mars-orbit",
+        "value": "68724ms"
+      },
+      {
+        "trait_type": "jupiter-orbit",
+        "value": "4332.59ms"
+      },
+      {
+        "trait_type": "saturn-orbit",
+        "value": "10759.22ms"
+      },
+      {
+        "trait_type": "uranus-orbit",
+        "value": "30688.5ms"
+      },
+      {
+        "trait_type": "neptune-orbit ",
+        "value": "60182ms"
+      },
+      {
+        "trait_type": "pluto-orbit",
+        "value": "90560ms"
+      }
+    ],
+    "animation_details": {
+      "bytes": 6561,
+      "format": "HTML",
+      "sha256": "a524ce7265dfcb1bc87c14de3d6dda9e6e6459003647b143d440e8a5c939997a"
+    },
+    "animation": "https://arweave.net/Rcm6S2zutRA9_UW_N1bO-HXy1NX4x1cZ8dkSpvnBemY",
+    "animation_url": "https://arweave.net/Rcm6S2zutRA9_UW_N1bO-HXy1NX4x1cZ8dkSpvnBemY",
+    "image_details": {
+      "bytes": 22643587,
+      "format": "GIF",
+      "sha256": "ee2a85d1de87bb00d4b23e8a500c390f17aa0ac67cb5997ca3016d58383a6422",
+      "width": 900,
+      "height": 912
+    },
+    "image": "https://arweave.net/7-pgUVZi7L5WbOX2v56CAnpqQqB8ioY_C5gRs7CFBZM",
+    "image_url": "https://arweave.net/7-pgUVZi7L5WbOX2v56CAnpqQqB8ioY_C5gRs7CFBZM"
+  }
+}

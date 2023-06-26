@@ -1,0 +1,44 @@
+{
+  "address": "0x59516426a8bb328d2f546b05421cbc047042e38f",
+  "type": "ERC721",
+  "name": "Strainz V1",
+  "tokenCount": "122",
+  "uri": "https://api.strainz.tech/strain/1",
+  "metadata": {
+    "name": "Diamond Lime",
+    "image": "https://api.v3.strainz.tech/image/1153111148148148",
+    "description": "https://strainz.tech",
+    "external_url": "https://strainz.tech/strain/1",
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Pot",
+        "value": "Clay"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Thick"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Nausea"
+      },
+      {
+        "trait_type": "Generation",
+        "value": 25,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Grow Rate",
+        "value": 193.52678571428572
+      },
+      {
+        "trait_type": "Breeding Cost",
+        "value": 6375
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "0x25712332fcbe31a16eeb334d260504589462fc6e",
+  "type": "ERC1155",
+  "name": "BricktOrigins: Artifacts",
+  "tokenCount": "2",
+  "uri": "ipfs://QmQprqDHXQ4F5iue6eNKPY3Hvi9uYdFwoaMQ6PA6b6FYBK/1.json",
+  "metadata": {
+    "title": "BricktOrigins, Moment #1",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "BricktOrigins, Moment #1"
+      },
+      "description": {
+        "type": "string",
+        "description": "Together, from our history we will Forge our future."
+      },
+      "image": {
+        "type": "string",
+        "description": "ipfs://Qmf2xNRVoYyHVoTaVSL1xTfzwxJphqqrqLPvjMk9zGJAwE"
+      },
+      "animation_url": {
+        "type": "string",
+        "description": "ipfs://Qmf2xNRVoYyHVoTaVSL1xTfzwxJphqqrqLPvjMk9zGJAwE"
+      },
+      "type": "object",
+      "properties": {
+        "Moment": "BricktoPunks"
+      }
+    }
+  }
+}

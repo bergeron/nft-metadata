@@ -1,0 +1,41 @@
+{
+  "address": "0x6cd6d15b8b69850dae31f9c87c94b5ff721c704c",
+  "type": "ERC1155",
+  "name": "Ribbon Hat",
+  "tokenCount": "1",
+  "uri": "ipfs://bafkreifis4mzcvhjahpjoyqep3nz5yq6dquic3lkgcubg6za6lsfjb5t4m",
+  "metadata": {
+    "name": "RHAT",
+    "description": "All Seeing Ribbonati",
+    "attributes": [
+      {
+        "trait_type": "RBN",
+        "value": "low float"
+      },
+      {
+        "trait_type": "RBN",
+        "value": "elite team"
+      },
+      {
+        "trait_type": "RBN",
+        "value": "sustainable yield"
+      },
+      {
+        "trait_type": "RBN",
+        "value": "platform agnostic"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "TAM",
+        "value": 100
+      },
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 1620989415
+      }
+    ],
+    "image": "ipfs://bafybeicha6o77kdiu44bxdcsoltfljkawktggyvwamuo5kqryv77mmi25q",
+    "animation_url": "ipfs://bafybeiaczx5s7hunny62nvh3co2hwmkfuwk5eaonbt7nn53s2b7qszkfji"
+  }
+}

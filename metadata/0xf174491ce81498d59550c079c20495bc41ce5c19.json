@@ -1,0 +1,34 @@
+{
+  "address": "0xf174491ce81498d59550c079c20495bc41ce5c19",
+  "type": "ERC721",
+  "name": "Skull Patrol",
+  "tokenCount": "10",
+  "uri": "ipfs://QmaC3AwFTQK6qmjZLa3xFSeye3Sy4RoinFnnfgM9GkXx7T/1.json",
+  "metadata": {
+    "name": "Subject #1",
+    "description": "3,333 unique skulls are out on the loose. Catch one, and reap the owner benefits.",
+    "image": "ipfs://QmTFM2r9MZBoGcK5qXQBggEMeTHo5ErZpsySWs9ndEaUaU/1.png",
+    "dna": "b77103cea0765939c77984f32e30b27c130b3399",
+    "edition": 1,
+    "date": 1644038353902,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "1162"
+      },
+      {
+        "trait_type": "Skulls",
+        "value": "Shiny"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "ColorBunny"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Glare"
+      }
+    ],
+    "compiler": "Skull Patrol"
+  }
+}

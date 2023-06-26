@@ -1,0 +1,60 @@
+{
+  "address": "0x4653e54ec7a07a7a2bcbc751aa420bcefc7440a4",
+  "type": "ERC721",
+  "name": "Smol Boyz NFT",
+  "tokenCount": "765",
+  "uri": "https://smolboyzland.mypinata.cloud/ipfs/QmeSkTwiXAGJRewLX42aHGcT4735CGCZA8XSg5kGRGQ1dx/1",
+  "metadata": {
+    "name": "SmolBoy #1",
+    "description": "Smolboyz!",
+    "image": "https://hidden.smolboyz.land/1.png",
+    "edition": 1,
+    "seller_fee_basis_points": 750,
+    "collection": {
+      "name": "SmolBoyz",
+      "family": "SmolBoyz"
+    },
+    "symbol": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xdaBaCC1692A968d38010D6df14d8ae531bd4d9CB",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Ombre Red"
+      },
+      {
+        "trait_type": "body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "clothing",
+        "value": "Collared Shirt Pink"
+      },
+      {
+        "trait_type": "face",
+        "value": "nerd attitude "
+      },
+      {
+        "trait_type": "hair|hat|head",
+        "value": "Mullet Mint"
+      },
+      {
+        "trait_type": "extras",
+        "value": "Legendary Earphones"
+      }
+    ]
+  }
+}

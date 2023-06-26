@@ -1,0 +1,50 @@
+{
+  "address": "0x535ddf96db6b91f43e5ff41501ac31cdc639174d",
+  "type": "ERC721",
+  "name": "Penguin Identity",
+  "tokenCount": "10000",
+  "uri": "ipfs://bafybeifae336l7iyh4od37gbg4il74h2oegf2pcqqi4oal6t6uzj7zrw5q/1.json",
+  "metadata": {
+    "name": "Penguin Identity #1",
+    "description": "find your penguin identity",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "12cf396680703116941c76f990d291ec27236139",
+    "edition": 1,
+    "date": 1663634671570,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "color",
+        "value": "sand"
+      },
+      {
+        "trait_type": "body",
+        "value": "whitekimono"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "gone"
+      },
+      {
+        "trait_type": "feet",
+        "value": "ice"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "smile"
+      },
+      {
+        "trait_type": "specialty",
+        "value": "solider"
+      },
+      {
+        "trait_type": "head",
+        "value": "headband"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

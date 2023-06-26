@@ -1,0 +1,38 @@
+{
+  "address": "0x542d3f22e2801795db74b4f9574aeae175c8d6b7",
+  "type": "ERC721",
+  "name": "Jose Mourinho digital football by Mastercard",
+  "tokenCount": "1",
+  "uri": "https://asset.mastercard.com/content/dam/public/mastercardcom/eu/gb/nft/JoseMourinho.json",
+  "metadata": {
+    "title": "José Mourinho signed football 1/1 created by Mastercard",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "This is a unique digitalized version of a vintage football signed by José Mourinho created by Mastercard"
+      },
+      "description": {
+        "type": "string",
+        "description": "This is a unique digitalized version of a vintage football signed by José Mourinho created by Mastercard"
+      },
+      "image": {
+        "type": "string",
+        "description": "https://www.mastercard.com/nft/JoseMourinho_still.png"
+      },
+      "external_url": {
+        "type": "string",
+        "description": "https://www.mastercard.com/nft/JoseMourinho.mp4"
+      },
+      "animation_url": {
+        "type": "string",
+        "description": "https://www.mastercard.com/nft/JoseMourinho.mp4"
+      }
+    },
+    "name": "José Mourinho signed football 1/1 created by Mastercard",
+    "description": "This is a unique digitalized version of a vintage football signed by José Mourinho created by Mastercard",
+    "image": "https://www.mastercard.com/nft/JoseMourinho_still.png",
+    "external_url": "https://www.mastercard.com/nft/JoseMourinho.mp4",
+    "animation_url": "https://www.mastercard.com/nft/JoseMourinho.mp4"
+  }
+}

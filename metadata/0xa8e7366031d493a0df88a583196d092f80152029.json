@@ -1,0 +1,35 @@
+{
+  "address": "0xa8e7366031d493a0df88a583196d092f80152029",
+  "type": "ERC721",
+  "name": "Ribbits",
+  "tokenCount": "536",
+  "uri": "https://api.ribbits.xyz/ribbit/metadata/1",
+  "metadata": {
+    "name": "Ribbit #1",
+    "description": "A unique set of 1,000 collectable and tradable frog themed NFTs.\n\nRibbit #1",
+    "image": "https://api.ribbits.xyz/img/1/10x.png",
+    "external_url": "https://ribbits.xyz/ribbit/1",
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Hair"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Colorful"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "None"
+      },
+      {
+        "trait_type": "Tone",
+        "value": "Green"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "0x8599cbee742c468d6ec6f236a7dccdcfe50d1313",
+  "type": "ERC721",
+  "name": "Fantasy Bears",
+  "tokenCount": "403",
+  "uri": "https://ipfs.io/ipfs/Qmb1QQiGZYXh6zFmniQFq53Qsn6Jx9e9FUNPMSM2U4LKrt/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://QmPJoeA31mhnFzb2nuoQiJp6qaGFQkNMjW2EV9pqEdvL2r/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cowboy Hat Beige"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "eyes-blue-green"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Turtleneck Yellow"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Hand Bag"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ]
+    }
+  }
+}

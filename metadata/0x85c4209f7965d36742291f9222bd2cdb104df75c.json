@@ -1,0 +1,26 @@
+{
+  "address": "0x85c4209f7965d36742291f9222bd2cdb104df75c",
+  "type": "ERC721",
+  "name": "Garbage University Student IDs",
+  "tokenCount": "24092",
+  "uri": "https://gu-ids.s3.amazonaws.com/json/1.json",
+  "metadata": {
+    "name": "Garbage University Student ID: 1",
+    "description": "This Student ID is non-transferable and gives you access to Garbage University.",
+    "attributes": [
+      {
+        "value": "Graduate",
+        "trait_type": "Grade"
+      },
+      {
+        "value": "1",
+        "trait_type": "ID Number"
+      },
+      {
+        "value": "Student",
+        "trait_type": "Access"
+      }
+    ],
+    "image": "https://gu-ids.s3.amazonaws.com/images/1.gif"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "address": "0x86cabb5b1794be8cbf4465dc30e1e8daceec8720",
+  "type": "ERC721",
+  "name": "Cloud",
+  "tokenCount": "1",
+  "uri": "ipfs://QmfH7x5LE784gJBgzDPQxDtvUDZ8m2fTvtZQ6Fcc1M2WyZ/1",
+  "metadata": {
+    "name": "Owl #1",
+    "description": "Owl Gang is a NFT collection of 5555 pixelated owl pfps lurking on the Ethereum blockchain.",
+    "image": "https://nftstorage.link/ipfs/bafybeiex2h2sgqiecdzpyjm52ukq7ptpbxpxbl2vu7fvnfgsu4a4dllc6m/0.png",
+    "external_url": "https://urwebsite.com",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Starry Night"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Deep Blue "
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "McOwlnalds"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Rainbow Eyes"
+      },
+      {
+        "trait_type": "Head Gear",
+        "value": "Skully "
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 2317,
+        "display_type": "number",
+        "max_value": 5555
+      }
+    ]
+  }
+}

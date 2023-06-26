@@ -1,0 +1,58 @@
+{
+  "address": "0xc5846767a9c0d5096d7b791de56b258bc7c69c5f",
+  "type": "ERC721",
+  "name": "WEEDGANG.GAME - GENESIS STRAINS",
+  "tokenCount": "6000",
+  "uri": "https://assets.weedgang.game/genesis-strains/metadata/1",
+  "metadata": {
+    "name": "WEEDGANG.GAME - GENESIS STRAIN",
+    "description": "An original, authentic, and exclusive IP licensed from some of the most legendary cannabis breeders on earth available in the WEEDGANG Metaverse.",
+    "image": "https://assets.weedgang.game/genesis-strains/red-congo/166.png",
+    "background_color": "#FFFFFF",
+    "attributes": [
+      {
+        "trait_type": "Breeder",
+        "value": "Landrace"
+      },
+      {
+        "trait_type": "Name",
+        "value": "Red Congo"
+      },
+      {
+        "trait_type": "Bud Type",
+        "value": "Mandarin"
+      },
+      {
+        "trait_type": "Primary Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Secondary Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Accent Color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Top Terpene",
+        "value": "Limonene"
+      },
+      {
+        "trait_type": "Bud size",
+        "value": 5,
+        "max_value": 100
+      },
+      {
+        "trait_type": "THC%",
+        "value": 20,
+        "max_value": 30
+      },
+      {
+        "trait_type": "Terpene%",
+        "value": 2.5,
+        "max_value": 5
+      }
+    ]
+  }
+}

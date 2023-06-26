@@ -1,0 +1,63 @@
+{
+  "address": "0x09dfbcdcc7e45560b2aaf783f1eabcfbd3f261a5",
+  "type": "ERC721",
+  "name": "JGW",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/uJNzZEN255uNlnb3NEkZlKK00MGjjn7OWs-w3qzG5vk",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1655662001
+      },
+      {
+        "trait_type": "Creator",
+        "value": "GSW"
+      }
+    ],
+    "description": "why would I leave home? i have everything i need right here.",
+    "external_url": "https://cxip.io/nft/0x09dfbcdcc7e45560b2aaf783f1eabcfbd3f261a5/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/Dg1pDM5agM5fX_sks0Ilfv0cF-41l36l_SsIlWZK15U",
+    "imageUrl": "https://arweave.net/Dg1pDM5agM5fX_sks0Ilfv0cF-41l36l_SsIlWZK15U",
+    "name": "Homebody",
+    "properties": {
+      "created_at": "2022-06-19T18:06:41.000000Z",
+      "creator_wallet": "0x8df978f68e74cee246906ec81e28b5c5265ee8ba",
+      "description": "why would I leave home? i have everything i need right here.",
+      "image": "https://arweave.net/Dg1pDM5agM5fX_sks0Ilfv0cF-41l36l_SsIlWZK15U",
+      "imageUrl": "https://arweave.net/Dg1pDM5agM5fX_sks0Ilfv0cF-41l36l_SsIlWZK15U",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "19 June 2022",
+      "name": "Homebody",
+      "nft_type": "non-fungible image token (image/png)",
+      "preview_media_file": "https://arweave.net/Uf_-LF63kQMCEVCBBDoVwVErP0ubGOtyMTdtkyJy3NU",
+      "preview_media_file_dimensions": "510x360",
+      "preview_media_file_size": 120120,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "2018x1424",
+      "raw_media_file": "https://arweave.net/1NMpkDt-AvkVvgwB3mtn38iaTVylK3MsSYaiC-T5y-g",
+      "raw_media_file_size": 3547670,
+      "raw_media_file_spec": "PNG 2018x1424 2018x1424+0+0 8-bit sRGB 3547670B 0.000u 0:00.000",
+      "raw_media_file_type": "image/png",
+      "raw_media_format": "landscape",
+      "raw_media_signature": "0xf341cf05d1583b634b0f8de12a9f28caf94dfc73578455272566658d70daf952",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/Uf_-LF63kQMCEVCBBDoVwVErP0ubGOtyMTdtkyJy3NU",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Homebody",
+      "total_supply": 1
+    },
+    "title": "Homebody"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0x24292a345506fe89f3ed7f93ddca2560549cbe62",
+  "type": "ERC721",
+  "name": "Chunky Monkeys!",
+  "tokenCount": "999",
+  "uri": "ipfs://Qmdh8c7h9aiVvnsTxmkqkZHSi86HnmTpBQPz1w7SQYJdjB/2.json",
+  "metadata": {
+    "name": "Chunky Monkeys #2",
+    "description": "An adventure starts here…Are you munching enough to be a Chunky Monkey?",
+    "image": "ipfs://QmUxJWAUR6SnYK4rnfoqM2qsGXePsbzCdTzRUsF3YvMHaC/2.png",
+    "dna": "02458e74a27e118df6b92730499941467d8c210c",
+    "edition": 2,
+    "date": 1665275395454,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "Banana Shirt"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Rainbow Mohawk"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cigarette"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

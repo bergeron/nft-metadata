@@ -1,0 +1,27 @@
+{
+  "address": "0x07b54a25feac5cfec4c817935f013815af782b3a",
+  "type": "ERC721",
+  "name": "Genki GEN ETH",
+  "tokenCount": "100",
+  "uri": "ipfs://QmVLm7ykxX5KHmUVMqFKLVQib19yRtn79MLMpLEnyFYoiU/1",
+  "metadata": {
+    "name": "Genki #2",
+    "description": "Wishing you all happiness!\nI bring you energy and excitement!",
+    "image": "ipfs://QmdoxBCznmbWiMMd2cJiPN9qhJp4PYg6Mz3usDnrXLNT1p/2.png",
+    "animation_url": "ipfs://QmdoxBCznmbWiMMd2cJiPN9qhJp4PYg6Mz3usDnrXLNT1p/3.mp3",
+    "attributes": [
+      {
+        "trait_type": "energy",
+        "value": "2000"
+      },
+      {
+        "trait_type": "happy",
+        "value": "1000"
+      },
+      {
+        "trait_type": "excitement",
+        "value": "1000"
+      }
+    ]
+  }
+}

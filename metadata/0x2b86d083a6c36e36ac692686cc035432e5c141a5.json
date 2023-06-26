@@ -1,0 +1,55 @@
+{
+  "address": "0x2b86d083a6c36e36ac692686cc035432e5c141a5",
+  "type": "ERC1155",
+  "name": "Juicy Doll Box",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/ZUDugadTAO5favLybWUB2wVogBapy78pwpu5U8X4H_c",
+  "metadata": {
+    "name": "Adira Doll Box",
+    "created_by": "The Strip",
+    "description": "A wrapped Juicy Doll Box, available only on the Ethereum Blockchain. Once your purchase is complete, restraints will be removed, and the Juicy Doll of your choice is yours to play with. \n\nThis is a redeemable token. You can keep the Juicy Doll as is, in the box or you can redeem it for an unboxed version.",
+    "attributes": [
+      {
+        "trait_type": "Doll Name",
+        "value": "Adira"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Anime"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Serial no.",
+        "value": "1",
+        "max_value": "100"
+      }
+    ],
+    "animation_details": {
+      "bytes": 3924331,
+      "format": "MP4",
+      "duration": 3,
+      "sha256": "cf426cfbfb810d9fa789b9c3175ce6b0ca740059f8478c33e541eadaef1e03da",
+      "width": 2000,
+      "height": 2000,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/suquNMTSlG-AlYIuJDAFoH8ZaugPfObbjLpubFzVjXU",
+    "animation_url": "https://arweave.net/suquNMTSlG-AlYIuJDAFoH8ZaugPfObbjLpubFzVjXU",
+    "image_details": {
+      "bytes": 1807431,
+      "format": "JPEG",
+      "sha256": "2daea6c2e39b411b245b33de98a92d6ac9bbcac0320537acfdf4796cc06b7f8d",
+      "width": 1440,
+      "height": 1440
+    },
+    "image": "https://arweave.net/bPGUmIpm-e_oAtzORx1IlUCzEMSFWHZEvkGr-cCsPQg",
+    "image_url": "https://arweave.net/bPGUmIpm-e_oAtzORx1IlUCzEMSFWHZEvkGr-cCsPQg"
+  }
+}

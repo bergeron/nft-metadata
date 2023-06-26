@@ -1,0 +1,54 @@
+{
+  "address": "0xda236dbfd399d559671bdd3ff84a6145dfa3e537",
+  "type": "ERC721",
+  "name": "Crystal Ghosts",
+  "tokenCount": "1",
+  "uri": "ipfs://QmQN41qB4sbHMoJCQDRyJuaEq5PwAqtUDktgb8jK78KVKJ/1.json",
+  "metadata": {
+    "name": "Crystal Ghost #1",
+    "description": "This ghost was found in a Crystal and is part of a collection of 10000 unique ghosts",
+    "image": "ipfs://QmbvwLCxhcBdpNGacWxoJspNLRwnAxBaVopbaAjynau9z1/1.png",
+    "dna": "b032a964396b028cbe4d3cdd8b3fe1e4128a5d40",
+    "edition": 1,
+    "date": 1639845322335,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Crystal",
+        "value": "Yellow_Crystal"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Devil_Horns"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wow_Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Power Level",
+        "value": "2"
+      },
+      {
+        "trait_type": "Weapon Left",
+        "value": "Evil_Tool_Hammer"
+      },
+      {
+        "trait_type": "Weapon Right",
+        "value": "Tnt_Boom"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

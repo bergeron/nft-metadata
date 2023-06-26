@@ -1,0 +1,30 @@
+{
+  "address": "0xff5f931be65ea81691b9ac49fbe15999fc3234f1",
+  "type": "ERC721",
+  "name": "StripperVille Marbles",
+  "tokenCount": "2281",
+  "uri": "https://stripperville-marbles.herokuapp.com/1",
+  "metadata": {
+    "name": "StripperVille Marble #1",
+    "attributes": [
+      {
+        "trait_type": "Marble ID",
+        "value": "1"
+      },
+      {
+        "trait_type": "Set",
+        "value": "3"
+      },
+      {
+        "trait_type": "Club",
+        "value": "Rio"
+      },
+      {
+        "trait_type": "Multiplier",
+        "value": "1.50x"
+      }
+    ],
+    "description": "",
+    "image": "https://sville-marbles.s3.us-east-2.amazonaws.com/1375.png"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "0x524675875fcd5601d4fe58d1fa16720c2f868c5e",
+  "type": "ERC721",
+  "name": "obxium",
+  "tokenCount": "116",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=ep9USWn52bKqk18J5bxd",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1575581339756?alt=media&token=5aa610bd-2090-4bb0-b8ab-a91b6cbeb774",
+    "isForSale": true,
+    "description": "All of the waste in our space (Hey hey heyyyyy!)",
+    "contractAddress": "",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted//ep9USWn52bKqk18J5bxd",
+    "minter": "0xf65DB13b5ee031CB0ebBa525eF21aa6C586681b3",
+    "mintedOn": {
+      "_seconds": 1575581424,
+      "_nanoseconds": 94000000
+    },
+    "price": "0.074",
+    "name": "SHITCOIN",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "SHITCOIN"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "id": null
+  }
+}

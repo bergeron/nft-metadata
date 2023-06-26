@@ -1,0 +1,54 @@
+{
+  "address": "0x8efd9815bb7bc113f3d291142cb153665f8ae1b9",
+  "type": "ERC721",
+  "name": "Chroma ThirdBreakfast",
+  "tokenCount": "2226",
+  "uri": "ipfs://Qmf1EJCiA64ySoiR5UBwmt2JaoNWgBCDcYoBLY2qd6aXCK/2.json",
+  "metadata": {
+    "name": " Chromaroma ThirdBreakfast # 2",
+    "external_url": "",
+    "image": "ipfs://QmZLN3WzLPre5Wori9XQHtbD9w5MeLPw5zKBeDYZcofNxB/2.png",
+    "description": "Okay Bear Clusters",
+    "seller_fee_basis_points": "200",
+    "fee_recipient": "0x0d66dd415bA734a98b743156589560f24995E3a7",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": 17,
+        "max_value": 9
+      },
+      {
+        "trait_type": "Box",
+        "value": "13"
+      },
+      {
+        "trait_type": "Mascot",
+        "value": "Okay Bear"
+      },
+      {
+        "trait_type": "Brand",
+        "value": "Okay Bear"
+      },
+      {
+        "trait_type": "Cereal Type",
+        "value": "Clusters"
+      },
+      {
+        "trait_type": "Nutrition Labels",
+        "value": "7"
+      }
+    ],
+    "collection": {
+      "name": "ThirdBreakfast(Chroma)",
+      "family": "ThirdBreakfast(Chroma)"
+    },
+    "properties": {
+      "creators": [
+        {
+          "address": "0x0d66dd415bA734a98b743156589560f24995E3a7",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

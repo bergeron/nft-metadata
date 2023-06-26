@@ -1,0 +1,32 @@
+{
+  "address": "0x14a041b3b8519c936c64f7afc23ceafa5753c592",
+  "type": "ERC721",
+  "name": "NFTT V2",
+  "tokenCount": "3",
+  "uri": "ipfs://bafybeifmvet2cfx7kdfm5yicmsfmivbqq4jk63cj7vqvly2stulp5efizu/1.json",
+  "metadata": {
+    "name": "NFTT#1",
+    "description": "Non-fungible Trinary Tokens",
+    "external_url": "https://nft.trinary.ca",
+    "image": "ipfs://QmWuamGvoHn5ZKZweaVhWfviGePS1fgixWtEuDMfMMAvwu/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "trinary-nft-polygon"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Squint"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Bow tie"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

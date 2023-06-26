@@ -1,0 +1,58 @@
+{
+  "address": "0x8948dbe90a546c28b3b76be0e291a605ab510746",
+  "type": "ERC721",
+  "name": "NFT Beer Mug",
+  "tokenCount": "15",
+  "uri": "https://api.madeinbavaria.com/beermug/2021/1.json",
+  "metadata": {
+    "description": "NFT Beer Mug from the 1st edition published 2021 by madeinbavaria.",
+    "external_url": "https://cryptobeerfest.wtf",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPDSymJyPwYjjyzW4Eop4gdjS96mvWZVVx5EaMUE75nqW/artist18-profile.jpg",
+    "animation_url": "https://gateway.pinata.cloud/ipfs/QmeVVxmEiBvJVF9RfkbUwDbpERFoxE3KE58seGRVsQVaUQ/artist-18-animaC-01.mp4",
+    "name": "NFT Beer Mug",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "No#",
+        "value": 1,
+        "max_value": 2021
+      },
+      {
+        "trait_type": "Edition",
+        "value": "1st (2021)"
+      },
+      {
+        "trait_type": "Title",
+        "value": "NFT Folding like it is Bavaria"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Jirka Pfahl, Germany"
+      },
+      {
+        "trait_type": "Material",
+        "value": "gold"
+      },
+      {
+        "trait_type": "Light",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Background",
+        "value": "vortex pink ceramic tuba"
+      },
+      {
+        "trait_type": "Sound",
+        "value": "Dub Jodler"
+      },
+      {
+        "trait_type": "Bavarian Slang",
+        "value": "Mass"
+      },
+      {
+        "trait_type": "Beer type",
+        "value": "Weissbier"
+      }
+    ]
+  }
+}

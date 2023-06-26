@@ -1,0 +1,38 @@
+{
+  "address": "0x80f6a2eb89f2488479794629ab6f09a38a616dd0",
+  "type": "ERC721",
+  "name": "MOV3 M1 - Genesis Edition",
+  "tokenCount": "71",
+  "uri": "https://mov3.io/api/v1/metadata/m1/1",
+  "metadata": {
+    "description": "The MOVΞ M1 Genesis Membership Token - Limited to 500\n\nThis is part of the first iteration and genesis collection of the MOVΞ Membership Tokens.\n\nMOVΞ is an innovative Web 3.0 health and fitness membership that delivers unparalleled value and rewards.\nYour membership NFT gives you access to members-only benefits within the MOVΞ ecosystem.\n\nWebsite: https://mov3.io\n\nDiscord: https://discord.gg/mov3\n\nTwitter: https://twitter.com/MOV3_Fitness",
+    "external_url": "https://mov3.io",
+    "image": "https://mov3.io/images/tokens/M1/gifs/L1.gif",
+    "animation_url": "https://mov3.io/images/tokens/M1/L1.mp4",
+    "name": "M1 - Genesis Edition #1",
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "value": "M1 - Genesis"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Evan Pun"
+      },
+      {
+        "trait_type": "Level",
+        "value": "1"
+      },
+      {
+        "trait_type": "Level",
+        "value": 1,
+        "max_value": 20
+      },
+      {
+        "trait_type": "EXP",
+        "value": 0,
+        "max_value": 37000
+      }
+    ]
+  }
+}

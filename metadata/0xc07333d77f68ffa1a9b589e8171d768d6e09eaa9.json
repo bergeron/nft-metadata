@@ -1,0 +1,44 @@
+{
+  "address": "0xc07333d77f68ffa1a9b589e8171d768d6e09eaa9",
+  "type": "ERC721",
+  "name": "Jan Krocak",
+  "tokenCount": "6",
+  "uri": "https://arweave.net/jpvoNY46i354BWsl8tDrxKaqQ1zUcIzJBPBVs8etGdE",
+  "metadata": {
+    "name": "Remote",
+    "created_by": "JanKrocak",
+    "description": "2000x2000 / 25fps",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "JanKrocak"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Viñetas"
+      }
+    ],
+    "animation_details": {
+      "bytes": 32235566,
+      "format": "MP4",
+      "duration": 8,
+      "sha256": "e856254391624b0f9cf360431f10bc77947c70e28d5b56445b67b59ac00e16ca",
+      "width": 2000,
+      "height": 2000,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/hB-iMaq0wq3ZRfbdjoRa6WYIj7AcednWsCGyIdl8gRI",
+    "animation_url": "https://arweave.net/hB-iMaq0wq3ZRfbdjoRa6WYIj7AcednWsCGyIdl8gRI",
+    "image_details": {
+      "bytes": 4204497,
+      "format": "PNG",
+      "sha256": "ce144bebdfc1199f4e5f579e9aa0ef59555db21b92d4262bb12857d1754b44e0",
+      "width": 2000,
+      "height": 2000
+    },
+    "image": "https://arweave.net/JULMW1t8sgiKE8pdo_SkPcGsk13GaYXXJF9m5gR4EPg",
+    "image_url": "https://arweave.net/JULMW1t8sgiKE8pdo_SkPcGsk13GaYXXJF9m5gR4EPg"
+  }
+}

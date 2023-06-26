@@ -1,0 +1,34 @@
+{
+  "address": "0xfb9b850777a557e4b27b74cad6f46a777b010ca9",
+  "type": "ERC721",
+  "name": "Portraits by LSD",
+  "tokenCount": "333",
+  "uri": "ipfs://bafybeigwc7yue3zkqufyrlmmtxvbic42saogeozybe5m3cgnykdvrbq3ea/1.json",
+  "metadata": {
+    "name": "LSD Portrait #1",
+    "description": "By LSD.",
+    "image": "ipfs://bafybeidlqi46nzirqgcdq34gpx2gleufstvfdwsafkcxgnzdzcvd6t663u/1.png",
+    "dna": "a62fc77402726b762eac243ffeeb78bfe97575c4",
+    "edition": 1,
+    "date": 1670793063145,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "q"
+      },
+      {
+        "trait_type": "Body",
+        "value": "q"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "q"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "q"
+      }
+    ],
+    "compiler": "LSD"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0xcd7c5a10d9fd556a283fcd563bd750cfbee85198",
+  "type": "ERC721",
+  "name": "ARTvolution NFT",
+  "tokenCount": "32",
+  "uri": "ipfs://QmYRayuJJ6TUJwaPbrwhbPYatJdXmRkSuGVwZDddiGj46G/1.json",
+  "metadata": {
+    "name": "ARTvolution #1",
+    "description": "The evolution of Art in the first Comic Strip NFT",
+    "image": "ipfs://QmbTUydo73spL97nZdtCT4Tc8vaap5PFV2mVkX1soUv81H/1.png",
+    "dna": "2f3db71f70eef4eb4bc65cd423d92da3ee516625",
+    "edition": 1,
+    "date": 1649854921010,
+    "attributes": [
+      {
+        "trait_type": "BG",
+        "value": "fondo04"
+      },
+      {
+        "trait_type": "V1",
+        "value": "v104"
+      },
+      {
+        "trait_type": "V2",
+        "value": "v205"
+      },
+      {
+        "trait_type": "V3",
+        "value": "v309"
+      },
+      {
+        "trait_type": "V4",
+        "value": "v405"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

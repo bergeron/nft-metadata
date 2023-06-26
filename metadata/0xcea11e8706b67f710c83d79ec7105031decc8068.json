@@ -1,0 +1,45 @@
+{
+  "address": "0xcea11e8706b67f710c83d79ec7105031decc8068",
+  "type": "ERC721",
+  "name": "Ferris Bullish",
+  "tokenCount": "90",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=CGpq1lUbRtOfNmeRpzMO",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1580276601867?alt=media&token=71ba36bd-8b50-4922-ad10-f664a793dee0",
+    "forSale": true,
+    "contractAddress": "0xcea11e8706b67f710c83d79ec7105031decc8068",
+    "description": "Corrupted image made from the iconic Andy Warhol's work Marilyn Diptych. Glitched Jpeg, 2013. Only 10 tokens minted.",
+    "tags": [],
+    "amountToMint": 10,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1580277416,
+      "_nanoseconds": 344000000
+    },
+    "price": "0.1",
+    "name": "Glitchlyn",
+    "fiatPrice": "$17.74",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "https://twitter.com/Ferris_Bullish"
+      },
+      {
+        "trait_type": "location",
+        "value": "Antarctica"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJ4Ql4Koj_nbARx8fIXTgKjbA"
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0xcea11e8706b67f710c83d79ec7105031decc8068",
+    "type": "ERC721"
+  }
+}

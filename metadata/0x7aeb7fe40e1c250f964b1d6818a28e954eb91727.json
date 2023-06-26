@@ -1,0 +1,22 @@
+{
+  "address": "0x7aeb7fe40e1c250f964b1d6818a28e954eb91727",
+  "type": "ERC721",
+  "name": "Konbini NFT",
+  "tokenCount": "120",
+  "uri": "https://minter-7tq2a.ondigitalocean.app/api/tokens/1",
+  "metadata": {
+    "name": "Konbini #1",
+    "image": "https://konbini.nyc3.digitaloceanspaces.com/images/Shiny.gif",
+    "animation_url": "https://konbini.nyc3.digitaloceanspaces.com/images/Shiny.mp4",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Shiny"
+      },
+      {
+        "trait_type": "Gen",
+        "value": "Gen 1"
+      }
+    ]
+  }
+}

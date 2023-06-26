@@ -1,0 +1,41 @@
+{
+  "address": "0x66bdb713644859a2486547c2d879f7dc7fdf0db2",
+  "type": "ERC721",
+  "name": "Desktop by Felt Zine",
+  "tokenCount": "333",
+  "uri": "https://desktop.feltzine.art/api/1",
+  "metadata": {
+    "name": "Desktop #1: The Business in the Electric Chair With a Drone and a Maze Monitor on a Green FELT Zine Table in Conflict",
+    "description": "Desktop by Felt Zine from Creative Director Dev Moore alongside Josh Parsons & Fabrice Mercier. Humanity’s use of technology ultimately reflects extensions of our own personality. Additional production by Mark DigitalHD, Jawn Diego, & Micah Carroll.",
+    "tokenId": 1,
+    "animation_url": "ipfs://QmSvGuJDd2mpFjibiXLv3iBCuWoxpYg2JLLQbqRvhY6gyp",
+    "image": "ipfs://QmUycg7ANr3TQb3KgvgfmqStSzn3vU2AzeNCAaC4bSVot8",
+    "external_url": "https://www.feltzine.art",
+    "attributes": [
+      {
+        "trait_type": "Chair",
+        "value": "Electric"
+      },
+      {
+        "trait_type": "Persona",
+        "value": "Business"
+      },
+      {
+        "trait_type": "Computer",
+        "value": "Maze Monitor"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Conflict"
+      },
+      {
+        "trait_type": "Lighting",
+        "value": "Drone"
+      },
+      {
+        "trait_type": "Table",
+        "value": "Green FELT Zine"
+      }
+    ]
+  }
+}

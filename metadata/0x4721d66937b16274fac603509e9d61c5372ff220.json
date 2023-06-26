@@ -1,0 +1,42 @@
+{
+  "address": "0x4721d66937b16274fac603509e9d61c5372ff220",
+  "type": "ERC721",
+  "name": "Fast Food Frens Collection",
+  "tokenCount": "5555",
+  "uri": "https://fastfoodfrens.herokuapp.com/fastfoodfren/1",
+  "metadata": {
+    "name": "Fast Food Fren #1",
+    "description": "Fast Food Frens",
+    "image": "https://fastfoodfrens.herokuapp.com/fastfoodfren/1/image/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Earth"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Generic"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Frenly Burgers Bandana Black"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "None"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Plain Yellow"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "None"
+      },
+      {
+        "trait_type": "Smoke",
+        "value": "None"
+      }
+    ]
+  }
+}

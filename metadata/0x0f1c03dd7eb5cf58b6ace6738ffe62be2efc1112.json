@@ -1,0 +1,62 @@
+{
+  "address": "0x0f1c03dd7eb5cf58b6ace6738ffe62be2efc1112",
+  "type": "ERC721",
+  "name": "Geo Minds",
+  "tokenCount": "117",
+  "uri": "ipfs://Qmbq2hRWEZfLjTHbHzETkPiiFzrgPYnHTP34zzyr9ryDPR/1",
+  "metadata": {
+    "name": "Geo Minds #1129",
+    "description": "GeoMinds is a striking collection that fuses geometric forms with the essence of ideas, shaping unique and visually engaging representations of thoughts and facts.",
+    "image": "ipfs://QmNPDbXgZCtfRdGGwGjXmATuePzu4xnQfuQt1qcSMujrW1/1.gif",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "/145.gif",
+          "type": "image/gif"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xc91fb0Fe1e617dd052ef855bC831Fc5A77AaEC6e",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Space"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Spectre Sphere"
+      },
+      {
+        "trait_type": "Robe",
+        "value": "None"
+      },
+      {
+        "trait_type": "Smoking",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Cheers"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 2867,
+        "display_type": "number",
+        "max_value": 3333
+      }
+    ],
+    "symbol": "Geo Minds",
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "Geo Minds",
+      "family": "OS"
+    }
+  }
+}

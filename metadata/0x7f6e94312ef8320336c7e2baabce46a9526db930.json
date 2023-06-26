@@ -1,0 +1,56 @@
+{
+  "address": "0x7f6e94312ef8320336c7e2baabce46a9526db930",
+  "type": "ERC721",
+  "name": "Home Spaces",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/DN65nhKe3zTE-yYWRobMQ4jDWA_NT0hnY7qlrL8MPQg",
+  "metadata": {
+    "name": "Space Base",
+    "created_by": "M3",
+    "external_url": "https://m3org.com/spacebase/",
+    "description": "This 3D exterior shell fits perfectly over your Space Pod in order to bring it with you across the metaverse. Mostly made out of metal and brick to protect against the elements. Does not come with the interior. Some assembly is required.\n\nMade by jin, SM SithLord, and A",
+    "background_color": "#131313",
+    "attributes": [
+      {
+        "trait_type": "EXPANSION",
+        "value": "RTFKT Space Pod"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "METAL",
+        "value": "150",
+        "max_value": "500"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "BRICK",
+        "value": "50",
+        "max_value": "500"
+      },
+      {
+        "trait_type": "TYPE",
+        "value": "Building Exterior"
+      },
+      {
+        "trait_type": "Tris",
+        "value": "15426"
+      }
+    ],
+    "animation_details": {
+      "bytes": 1891168,
+      "format": "GLB",
+      "sha256": "f66b51e5f11b191e0536dede669e4068f4163d6c7fed9455debab89402aa6147"
+    },
+    "animation": "https://arweave.net/h-GnTwIYGhnmzjEZEur7X_PvXCZdCfchUNwvmJBi35s",
+    "animation_url": "https://arweave.net/h-GnTwIYGhnmzjEZEur7X_PvXCZdCfchUNwvmJBi35s",
+    "image_details": {
+      "bytes": 884452,
+      "format": "GIF",
+      "sha256": "d9c1f9066fae0d6dceac0d517a73a7d3c12a13abc587aca6d70b924ff5fa8f3f",
+      "width": 600,
+      "height": 338
+    },
+    "image": "https://arweave.net/9LYbuhFiPiFB1GW8p1xjPcFQle-ZmFHa_lx2Ja3b9p0",
+    "image_url": "https://arweave.net/9LYbuhFiPiFB1GW8p1xjPcFQle-ZmFHa_lx2Ja3b9p0"
+  }
+}

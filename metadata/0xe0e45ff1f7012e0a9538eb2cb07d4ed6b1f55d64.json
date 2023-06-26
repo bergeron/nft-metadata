@@ -1,0 +1,44 @@
+{
+  "address": "0xe0e45ff1f7012e0a9538eb2cb07d4ed6b1f55d64",
+  "type": "ERC721",
+  "name": "Peaceful Slimes",
+  "tokenCount": "60",
+  "uri": "https://arweave.net/xp3uzHf-0HFUptYEtf9aQbQIphCUnto62GJpK-s_0UA/1",
+  "metadata": {
+    "name": "Floating Slime - Blue #1/10",
+    "created_by": "bubbly",
+    "description": "A blue slime floats peacefully inside a fountain.\n\nComes in six colors. Collect them all!",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "bubbly"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Blue"
+      }
+    ],
+    "animation_details": {
+      "bytes": 13209588,
+      "format": "MP4",
+      "duration": 5,
+      "sha256": "e3903010406f91f6cc7b051cff1516a8c3b9a655a701398880a40cd617121d46",
+      "width": 1280,
+      "height": 1280,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/kOBV7uMBA58kK3GF6RVEkV4HiipaEbs9LbTEDV0Jm2c",
+    "animation_url": "https://arweave.net/kOBV7uMBA58kK3GF6RVEkV4HiipaEbs9LbTEDV0Jm2c",
+    "image_details": {
+      "bytes": 942196,
+      "format": "GIF",
+      "sha256": "256b3ba9b78bfb5467a9d8e6e24015f8caad85f738fb1f681b34ffc52529678f",
+      "width": 256,
+      "height": 256
+    },
+    "image": "https://arweave.net/bLPF6uTJiiWGCfRjJaJixhw1MI6FkbiI9Qi_cWltLnM",
+    "image_url": "https://arweave.net/bLPF6uTJiiWGCfRjJaJixhw1MI6FkbiI9Qi_cWltLnM"
+  }
+}

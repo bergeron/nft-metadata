@@ -1,0 +1,64 @@
+{
+  "address": "0x97c18f69a3b252e23f4c89fb681212a7b0cec451",
+  "type": "ERC721",
+  "name": "Pixel People NFT",
+  "tokenCount": "9",
+  "uri": "https://us-central1-crypto-people-68dda.cloudfunctions.net/nft/pixel-people/1.0.0/1",
+  "metadata": {
+    "name": "#1 Utah Kanu",
+    "attributes": [
+      {
+        "trait_type": "Action",
+        "value": "Wink"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Beach"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Red Puffy Coat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Googly Dark Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Down"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Super Thin Pair"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Head Shape",
+        "value": "Pointy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Drool"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Missing Tooth"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Long"
+      },
+      {
+        "trait_type": "Number",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 10000
+      }
+    ],
+    "description": "That is so cool",
+    "image": "https://storage.googleapis.com/crypto-people-68dda.appspot.com/nfts/pixel-people/1.0.0/1.gif"
+  }
+}

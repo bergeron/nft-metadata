@@ -1,0 +1,73 @@
+{
+  "address": "0x0187718c94d50d7a8afa4c62bbe1d7e6c601fced",
+  "type": "ERC721",
+  "name": "BotsUniverse",
+  "tokenCount": "3013",
+  "uri": "https://ipfs.io/ipfs/bafybeigctl2b7awit25rb2bfsxthl7j6df3bqnoypk6jysdn4rcyyoj4cm/1.json",
+  "metadata": {
+    "name": "Botborg #2",
+    "symbol": "BB",
+    "description": "The Botborgs are a fierce species of robots that overtook mankind and now rule the Borgverse. They hold the keys to private planets, spaceships, tanks, weapons, and much more!",
+    "seller_fee_basis_points": 500,
+    "image": "https://bafybeidrit3i4ny5f5hkkjerwdaxx3lacyfvxkdtbatojguc5qtzb6ko2u.ipfs.dweb.link/1.png",
+    "external_url": "https://botborgs.com/",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "None"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Orange On Black"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Red Racer"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Dark Green"
+      },
+      {
+        "trait_type": "Face",
+        "value": "None"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Life Suction"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Orange Laser Eyes"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://bafybeidrit3i4ny5f5hkkjerwdaxx3lacyfvxkdtbatojguc5qtzb6ko2u.ipfs.dweb.link/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+          "share": 5
+        },
+        {
+          "address": "DLbxeixAZ4u78df3Kad2ru1m11TcRYHAZ5Fhvjbayjiv",
+          "share": 95
+        }
+      ]
+    },
+    "collection": {
+      "name": "Botborgs",
+      "family": "Botborgs"
+    }
+  }
+}

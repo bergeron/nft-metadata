@@ -1,0 +1,31 @@
+{
+  "address": "0xf2e4a7c71b0eaa1f515dc77e47d8925829520394",
+  "type": "ERC721",
+  "name": "GOB DROPS",
+  "tokenCount": "3535",
+  "uri": "https://ethgobblers.com/gobdrop/metadata/1",
+  "metadata": {
+    "name": "Firefly #1",
+    "dropID": "1",
+    "description": "1st ETH Gobblers Gob Drop",
+    "image": "https://ethgobblers.com/gobdrop/image/firefly",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Firefly"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Key Item"
+      },
+      {
+        "trait_type": "Equippable",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Consumable",
+        "value": "No"
+      }
+    ]
+  }
+}

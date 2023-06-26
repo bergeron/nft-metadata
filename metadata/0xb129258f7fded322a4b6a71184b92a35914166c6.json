@@ -1,0 +1,38 @@
+{
+  "address": "0xb129258f7fded322a4b6a71184b92a35914166c6",
+  "type": "ERC721",
+  "name": "Daft Ape Yacht Club",
+  "tokenCount": "3333",
+  "uri": "ipfs://QmUuJx8NuofqbAyDXxn6n2bJBBdsedswCXp8urQah8YAQJ/1.json",
+  "metadata": {
+    "name": "DAYC #1",
+    "description": "3,333 Daft Apes",
+    "image": "ipfs://QmZHHh8UKBm4CrpSUbz4NFKyUtfyMJw4rPbTctNzLSwRGk/1.png",
+    "dna": "318eb16a32002b92de881a1e3e6c0f099c370779",
+    "edition": 1,
+    "date": 1660371285034,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dance Floor Arrows"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Guitar"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "None"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Rave God"
+      }
+    ],
+    "compiler": "Art Generator"
+  }
+}

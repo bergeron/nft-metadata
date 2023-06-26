@@ -1,0 +1,46 @@
+{
+  "address": "0x47214c4be373bfe7c24f30b3ae64bb2ea0262b74",
+  "type": "ERC721",
+  "name": "TestCollectionRob",
+  "tokenCount": "9",
+  "uri": "ipfs://QmcZ8e9nvpnQaEf8xEhxab7HREjE9dCx79QbT6tXKjvQWS/1.json",
+  "metadata": {
+    "name": "TesCol #1",
+    "description": "Custom desc",
+    "image": "ipfs://QmVMjztGzEvq8zdSgEbrp7AKZxtKx7YB1VXPvigTbVj4gg/1.png",
+    "dna": "a6618a13f2fd56320acaf3f82e71a1c776178130",
+    "edition": 1,
+    "date": 1656862712260,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

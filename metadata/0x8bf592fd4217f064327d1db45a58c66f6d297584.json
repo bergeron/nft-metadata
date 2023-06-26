@@ -1,0 +1,32 @@
+{
+  "address": "0x8bf592fd4217f064327d1db45a58c66f6d297584",
+  "type": "ERC721",
+  "name": "Automaton",
+  "tokenCount": "50",
+  "uri": "https://ipfs.io/ipfs/QmZ2RL7gKj8mYSgVyVbCiQuvvEqXxSEfJhCeefXoMpRb5j/1",
+  "metadata": {
+    "name": "Automaton #1",
+    "description": "",
+    "raw": "https://ipfs.io/ipfs/QmQqLkTyYLUDMfxGaoTrHq2ZV9fVKyDkLPLz5gcP8sqCqP/T001.gif",
+    "image": "https://ipfs.io/ipfs/QmSBSwVWm3qxNUGh25fmThDu6bXHgMSYpAXitrsR6SueSN/T001.gif",
+    "background_color": "FFE478",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "bumble"
+      },
+      {
+        "trait_type": "palette",
+        "value": "invaders"
+      },
+      {
+        "trait_type": "seed",
+        "value": "0100000001010101010011011100010011101101110100100001000010110010011111100100101111100101110101001101"
+      },
+      {
+        "trait_type": "initial_population",
+        "value": 49
+      }
+    ]
+  }
+}

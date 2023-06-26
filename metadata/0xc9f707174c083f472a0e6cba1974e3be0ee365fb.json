@@ -1,0 +1,65 @@
+{
+  "address": "0xc9f707174c083f472a0e6cba1974e3be0ee365fb",
+  "type": "ERC721",
+  "name": "Sound Paintings",
+  "tokenCount": "9",
+  "uri": "https://ipfs.pixura.io/ipfs/QmUendzbuFsS8AcHsucik7raM5ktLKGJCWS7anCKNienCa/metadata.json",
+  "metadata": {
+    "name": "Sound Painting #01",
+    "createdBy": "Joëlle",
+    "yearCreated": "2022",
+    "description": "Sound Paintings is a series of audiovisual compositions exploring frequency driven paintings designed to amplify the sonic details of the audio within a set of constraints. The works are created in Vuo using a live audio input and captured in real-time. \n\nAudio: Variants 2 by Jorge Ciccioli & Max Donato, released on Voices Records.",
+    "image": "https://ipfs.pixura.io/ipfs/QmVVUHcUiA5ZonNDd33PPSBRJp7V6iWHuoa5JYs8fpPHSm/SP_01_Thumbnail.gif",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmUnZSAR1xHYDHeEiWct4tVhwuRW6k6tKqWMhdqrxhxF3V/SP1Variants2GlitchTargetedPerspectiveH264.mp4",
+      "dimensions": "1920x1080",
+      "size": "49427496",
+      "mimeType": "video/mp4"
+    },
+    "tags": [
+      "abstract",
+      "animation",
+      "audioreactive",
+      "audiovisual",
+      "codeart",
+      "generative",
+      "generativeart",
+      "minimal",
+      "sound",
+      "paint",
+      "realtime",
+      "vuo",
+      "joelle"
+    ],
+    "attributes": [
+      {
+        "trait_type": "Audio",
+        "value": "Variants 2"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "Glitch"
+      },
+      {
+        "trait_type": "Camera",
+        "value": "Targeted Perspective"
+      },
+      {
+        "trait_type": "Software",
+        "value": "Vuo"
+      },
+      {
+        "trait_type": "Medium",
+        "value": "Video"
+      },
+      {
+        "trait_type": "Length",
+        "value": "00:18"
+      },
+      {
+        "trait_type": "Size",
+        "value": "1920x1080 pixels"
+      }
+    ]
+  }
+}

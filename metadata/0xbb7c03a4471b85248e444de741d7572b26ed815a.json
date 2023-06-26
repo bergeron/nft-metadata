@@ -1,0 +1,50 @@
+{
+  "address": "0xbb7c03a4471b85248e444de741d7572b26ed815a",
+  "type": "ERC721",
+  "name": "KOBOLD GENESIS",
+  "tokenCount": "528",
+  "uri": "https://zepland-nft.s3.ap-northeast-2.amazonaws.com/kobold/json/1.json",
+  "metadata": {
+    "name": "Kobold coin club #1",
+    "description": "Remember to replace this description",
+    "image": "https://zepland-nft.s3.ap-northeast-2.amazonaws.com/kobold/images/1.png",
+    "dna": "dbbbc84f9429b873a531bb3d66b34b0effc4cdd7",
+    "edition": 1,
+    "date": 1645023616889,
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "lavender"
+      },
+      {
+        "trait_type": "quality",
+        "value": "rare"
+      },
+      {
+        "trait_type": "body",
+        "value": "lab"
+      },
+      {
+        "trait_type": "eye",
+        "value": "lash"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mouth1"
+      },
+      {
+        "trait_type": "head",
+        "value": "bucket"
+      },
+      {
+        "trait_type": "glass",
+        "value": "blank"
+      },
+      {
+        "trait_type": "hand",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

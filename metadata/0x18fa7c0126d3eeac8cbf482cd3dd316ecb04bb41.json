@@ -1,0 +1,71 @@
+{
+  "address": "0x18fa7c0126d3eeac8cbf482cd3dd316ecb04bb41",
+  "type": "ERC721",
+  "name": "DeNations Art by Jacoby",
+  "tokenCount": "50",
+  "uri": "https://wallet-api.smatoos.co/external/opensea/metadata/jacoby-art721/1",
+  "metadata": {
+    "description": "▶ DeNations Art NFT from #4 Block (Block Height: 4) of DeNations Art Chain.\n\n▶ NFT owners can use the audio and images contained in NFT for non-commercial use.\n\n▶ Check artchain.denations.com/blocks/4 for information on artist and block.\n\n▶ If the artist generates commercial revenues from any area (e.g. advertisement) other than this NFT and K-pop music with the audio contained in this NFT, NFT holders get 1% of the revenue (after the tax & transaction fee) by DENA token. This condition is valid for 5 years and will be renewed to another 5 years unless there was a 1-monthprior notice before the end date.\n\n▶ When registered in the National Art Museum of the DeNations' Nation, it can\n\na) Earn token reward (in DENA) depending on the Art Index and the registration time.\n\nb) Boost DeNations' Nation's DGDP (in DENA) depending on the Art Index and the registration time.\n\nc) Accumulate Experiences over time and public love.\n\nd) Receive Block Rewards generated from future connected Art Blocks\n\n▶ When it accumulates Experience to the upper limit, its Level will be raised and its Art Index will be upgraded.\n\n▶ Refer to artchain.denations.com for more details.",
+    "animation_url": "https://s3.ap-northeast-2.amazonaws.com/smatoos.wallet/art/jacoby/audio-1/Denations+USA.wav",
+    "image": "https://s3.ap-northeast-2.amazonaws.com/smatoos.wallet/art/jacoby/image-1/d_nations-01.png",
+    "name": "National anthem of United States - Edition 1/5",
+    "attributes": [
+      {
+        "value": "4",
+        "trait_type": "BLOCK HEIGHT"
+      },
+      {
+        "value": "1/5",
+        "trait_type": "EDITION"
+      },
+      {
+        "value": "New Zealand",
+        "trait_type": "Artist's Nationality"
+      },
+      {
+        "value": "JACOBY",
+        "trait_type": "ARTIST"
+      },
+      {
+        "value": "0x388F69f9D86F8056B87b8792E7AD8b5758D2b3FA",
+        "trait_type": "ARTIST ADDRESS"
+      },
+      {
+        "value": "SHORT",
+        "trait_type": "SIZE"
+      },
+      {
+        "value": "AUDIO",
+        "trait_type": "TYPE"
+      },
+      {
+        "value": "600",
+        "trait_type": "ART INDEX"
+      },
+      {
+        "value": "0",
+        "trait_type": "LEVEL"
+      },
+      {
+        "value": "0/100",
+        "trait_type": "EXPERIENCE"
+      },
+      {
+        "value": "7.14285",
+        "trait_type": "EXPERIENCE ACCUMULATION SPEED PER DAY"
+      },
+      {
+        "value": "NO PHYSICAL",
+        "trait_type": "PHYSICAL COPY"
+      },
+      {
+        "value": "NON COMMERCIAL USE",
+        "trait_type": "COPYRIGHT"
+      },
+      {
+        "value": "1%",
+        "trait_type": "COMMERCIAL ROYALTY SHARE"
+      }
+    ]
+  }
+}

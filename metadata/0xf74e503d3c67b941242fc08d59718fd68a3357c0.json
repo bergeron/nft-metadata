@@ -1,0 +1,63 @@
+{
+  "address": "0xf74e503d3c67b941242fc08d59718fd68a3357c0",
+  "type": "ERC721",
+  "name": "Baby Shark: Collection No. 1",
+  "tokenCount": "286",
+  "uri": "ipfs://QmR4juuziPFw3VuCTNqLGUG4XfUHvecRKdwUCtNBZaP9oi",
+  "metadata": {
+    "title": "Baby Shark No. 1",
+    "name": "Baby Shark No. 1",
+    "type": "object",
+    "imageUrl": "https://ipfsgateway.makersplace.com/ipfs/QmZWHRGeUHpiZCxAaYTyaYcXW1dkYPXx9GHKTnTNghgUYf",
+    "description": "This one-of-one unique piece from Baby Shark's first official NFT collection, \"Baby Shark: Collection No. 1,\" features Baby Shark in original, loopable animations inspired by holographic collectors’ trading cards. The accompanying music is a classically composed, bespoke, electronic movement built around the unmistakable melody and flashes of the iconic vocal from \"Baby Shark Dance.\" \r\n\r\nThis sale is limited solely to the NFT and all intellectual property rights remain with Smart Study Co., Ltd. © 2021 Smart Study Co., Ltd. All Rights Reserved. Pinkfong™ and Baby Shark™ are trademarks of Smart Study Co., Ltd., registered or pending rights worldwide.",
+    "attributes": [
+      {
+        "trait_type": "Creator",
+        "value": "Baby Shark"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Baby Shark No. 1"
+      },
+      "description": {
+        "type": "string",
+        "description": "This one-of-one unique piece from Baby Shark's first official NFT collection, \"Baby Shark: Collection No. 1,\" features Baby Shark in original, loopable animations inspired by holographic collectors’ trading cards. The accompanying music is a classically composed, bespoke, electronic movement built around the unmistakable melody and flashes of the iconic vocal from \"Baby Shark Dance.\" \r\n\r\nThis sale is limited solely to the NFT and all intellectual property rights remain with Smart Study Co., Ltd. © 2021 Smart Study Co., Ltd. All Rights Reserved. Pinkfong™ and Baby Shark™ are trademarks of Smart Study Co., Ltd., registered or pending rights worldwide."
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://ipfsgateway.makersplace.com/ipfs/QmZWHRGeUHpiZCxAaYTyaYcXW1dkYPXx9GHKTnTNghgUYf"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "jpg"
+      },
+      "created_at": {
+        "type": "datetime",
+        "description": "2021-12-02T03:51:38.502983+00:00"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 1
+      },
+      "digital_media_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "digital_media_signature": {
+        "type": "string",
+        "description": "4bd4b2f8924cb18c8034a9b457a30c64c84fa9982a9dbae902607e65e656a4f6"
+      },
+      "preview_media_file2": {
+        "type": "string",
+        "description": "https://ipfsgateway.makersplace.com/ipfs/QmXdE3NZ4nzgEtDr81jXCrf8DWyj5TaPFGa6H2GQQVyz6g"
+      },
+      "preview_media_file2_type": {
+        "type": "string",
+        "description": "mp4"
+      }
+    },
+    "available_for_purchase_at": "2021-12-12T03:51:38.502983+00:00"
+  }
+}

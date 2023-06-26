@@ -1,0 +1,38 @@
+{
+  "address": "0x99cb8405ead90e77c96bfddfdea616ff97e74f32",
+  "type": "ERC721",
+  "name": "P-Bot",
+  "tokenCount": "5",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=atJDAmXdCV7yKlFevy7G",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1580150367087?alt=media&token=590f35e2-c49c-4de0-9e48-9cef10586a54",
+    "forSale": false,
+    "description": "This P-Bot is a reward for a contest organized by Octopus Rodeo",
+    "contractAddress": "0x99cb8405ead90e77c96bfddfdea616ff97e74f32",
+    "type": "ERC721",
+    "tags": [],
+    "external_link": "https://mintbase.io/minted/0x99cb8405ead90e77c96bfddfdea616ff97e74f32/atJDAmXdCV7yKlFevy7G",
+    "amountToMint": 5,
+    "numAvailable": 0,
+    "external_url": "https://mintbase.io",
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1580157206,
+      "_nanoseconds": 990000000
+    },
+    "price": 0,
+    "name": "P-Bot",
+    "fiatPrice": "$0.00",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "http://pbotplanet.com/"
+      }
+    ]
+  }
+}

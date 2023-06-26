@@ -1,0 +1,43 @@
+{
+  "address": "0x84ffbc97757e534835354cb3dad0e74f6d67b0e1",
+  "type": "ERC721",
+  "name": "Pixasso.io",
+  "tokenCount": "11",
+  "uri": "https://pixasso.io/backend/token/1",
+  "metadata": {
+    "name": "Pixasso #1",
+    "description": "Pixasso is a virtual canvas containing 1 million pixels in total. At https://pixasso.io you can purchase new pixels or edit your already owned ones.",
+    "image": "https://pixasso.io/backend/token/svg/1",
+    "id": "1",
+    "attributes": [
+      {
+        "trait_type": "Number of pixels",
+        "value": "405",
+        "fEndValue": 405
+      },
+      {
+        "trait_type": "Number of generations",
+        "value": "2",
+        "fEndValue": "2"
+      },
+      {
+        "trait_type": "% of all canvas",
+        "display_type": "string",
+        "value": "0.041%",
+        "fEndValue": "0.041%"
+      },
+      {
+        "trait_type": "Mint date",
+        "display_type": "date",
+        "value": 1676230607,
+        "fEndValue": "12-2-2023"
+      },
+      {
+        "trait_type": "Latest generation date",
+        "display_type": "date",
+        "value": 1676236283,
+        "fEndValue": "12-2-2023"
+      }
+    ]
+  }
+}

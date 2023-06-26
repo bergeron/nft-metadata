@@ -1,0 +1,28 @@
+{
+  "address": "0x9cb034035cb35699633ca162f0ef859ec29d830e",
+  "type": "ERC721",
+  "name": "YaloArt",
+  "tokenCount": "6",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=Pl7P1JEQBPCsUgLlYu5v",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1588102979167?alt=media&token=9a5897a6-efd7-427b-bef4-e196983f9215",
+    "forSale": true,
+    "contractAddress": "0x9cb034035cb35699633ca162f0ef859ec29d830e",
+    "description": "3D render, visualization of a digital sculpture",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1588103038,
+      "_nanoseconds": 792000000
+    },
+    "price": "0.5",
+    "name": "Tender paw",
+    "fiatPrice": "$98.64",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x9cb034035cb35699633ca162f0ef859ec29d830e",
+    "type": "ERC721"
+  }
+}

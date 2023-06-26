@@ -1,0 +1,61 @@
+{
+  "address": "0x54a6356244059d5a50b97200a928f19a3682b669",
+  "type": "ERC721",
+  "name": "ITERATION-02 Tee",
+  "tokenCount": "1183",
+  "uri": "https://token.artblocks.io/0x54a6356244059d5A50b97200a928f19a3682b669/1",
+  "metadata": {
+    "platform": "ITERATION-02",
+    "tokenID": "1",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x4ef51e9fbd41ad1a602269271cba4b0de00488e7",
+    "name": "9dcc ITERATION-02 #1",
+    "minted": true,
+    "artist": null,
+    "description": null,
+    "script_type": "p5@1.0.0",
+    "project_id": "0",
+    "engine_type": "fullyonchain",
+    "image": "https://media-proxy.artblocks.io/0x54a6356244059d5a50b97200a928f19a3682b669/1.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x54a6356244059d5a50b97200a928f19a3682b669/1.png",
+    "generator_url": "https://generator.artblocks.io/0x54a6356244059d5a50b97200a928f19a3682b669/1",
+    "animation_url": "https://generator.artblocks.io/0x54a6356244059d5a50b97200a928f19a3682b669/1",
+    "royaltyInfo": {
+      "artistAddress": "0xf3860788d1597cecf938424baabe976fac87dc26",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": "0"
+    },
+    "collection_name": "9dcc ITERATION-02 by null",
+    "website": null,
+    "token_hash": "0xc97f020e8382aa6f3b485c9a1ae1e6c4a6c0c0da1bd5620a4a40c85f144ec62c",
+    "external_url": "",
+    "primary_asset_url": "https://generator.artblocks.io/0x54a6356244059d5a50b97200a928f19a3682b669/1",
+    "features": {
+      "Type": "Ribbed",
+      "Hyper": false,
+      "Logo Color": "Black"
+    },
+    "traits": [
+      {
+        "trait_type": "9dcc ITERATION-02",
+        "value": "All 9dcc ITERATION-02s"
+      },
+      {
+        "trait_type": "9dcc ITERATION-02",
+        "value": "Type: Ribbed"
+      },
+      {
+        "trait_type": "9dcc ITERATION-02",
+        "value": "Hyper: false"
+      },
+      {
+        "trait_type": "9dcc ITERATION-02",
+        "value": "Logo Color: Black"
+      }
+    ],
+    "is_static": false,
+    "license": null
+  }
+}

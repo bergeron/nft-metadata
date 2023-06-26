@@ -1,0 +1,43 @@
+{
+  "address": "0xb0e6e954db94484da340f4cdf29df1d58cd8c6f3",
+  "type": "ERC1155",
+  "name": "Austine Editions",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/8W_VE3S44UtwSt2QeM7o60K9ToKky4zCjpLvS3Bn5cU",
+  "metadata": {
+    "name": "Lone Strive",
+    "created_by": "Austine",
+    "description": "Walking through the darkness with thoughts full of colours.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Austine"
+      },
+      {
+        "display_type": "number",
+        "max_value": "20",
+        "trait_type": "EDITION",
+        "value": "20"
+      },
+      {
+        "value": "3D RENDERING",
+        "trait_type": "TECHNIQUE"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "YEAR",
+        "max_value": "1",
+        "value": "2022"
+      }
+    ],
+    "image_details": {
+      "bytes": 9940397,
+      "format": "JPEG",
+      "sha256": "b747801c2430fafd6250fc7a4993343255e9bebda7859267c3be0bcacda5e65e",
+      "width": 3384,
+      "height": 4230
+    },
+    "image": "https://arweave.net/ftz4yMWMJps_alYYoJlZkOK8NxcM0j_XRC6xFHSjP8s",
+    "image_url": "https://arweave.net/ftz4yMWMJps_alYYoJlZkOK8NxcM0j_XRC6xFHSjP8s"
+  }
+}

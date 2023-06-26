@@ -1,0 +1,42 @@
+{
+  "address": "0x65cf197a0e3d851bc92fd9ea34d7582335cf5be8",
+  "type": "ERC1155",
+  "name": "ArtToken- 1155",
+  "tokenCount": "24",
+  "uri": "data:application/json;utf8,{\"name\": \"#1\", \"description\": \"This is an example test token, for trying out cool things related to NFTs :) Please note that this token has no value or warranty of any kind.\\n\\n\\\"The future belongs to those who believe in the beauty of their dreams.\\\"\\n-Eleanor Roosevelt\", \"image_data\": \"<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 350 350'><rect width='100%' height='100%' style='fill:rgb(189, 222, 238)' /><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' style='fill:rgb(217, 108, 181);font-family:Trebuchet MS;font-size:190px;fill:rgb(147, 201, 164);fill-opacity:.9'>1</text></svg>\", \"attributes\": [ {\"trait_type\": \"Token ID\", \"value\": \"1\"}, {\"trait_type\": \"Font\", \"value\": \"Trebuchet MS\"}, {\"trait_type\": \"Font size\", \"value\": \"190\"}, {\"trait_type\": \"Rectangle\", \"value\": \"No\"}, {\"trait_type\": \"Triangle\", \"value\": \"No\"}, {\"trait_type\": \"Circle\", \"value\": \"No\"}, {\"trait_type\": \"Chain ID\", \"value\": \"1\"}]}",
+  "metadata": {
+    "name": "#1",
+    "description": "This is an example test token, for trying out cool things related to NFTs :) Please note that this token has no value or warranty of any kind.\n\n\"The future belongs to those who believe in the beauty of their dreams.\"\n-Eleanor Roosevelt",
+    "image_data": "<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 350 350'><rect width='100%' height='100%' style='fill:rgb(189, 222, 238)' /><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' style='fill:rgb(217, 108, 181);font-family:Trebuchet MS;font-size:190px;fill:rgb(147, 201, 164);fill-opacity:.9'>1</text></svg>",
+    "attributes": [
+      {
+        "trait_type": "Token ID",
+        "value": "1"
+      },
+      {
+        "trait_type": "Font",
+        "value": "Trebuchet MS"
+      },
+      {
+        "trait_type": "Font size",
+        "value": "190"
+      },
+      {
+        "trait_type": "Rectangle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Triangle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Circle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Chain ID",
+        "value": "1"
+      }
+    ]
+  }
+}

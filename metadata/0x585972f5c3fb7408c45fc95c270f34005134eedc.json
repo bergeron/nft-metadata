@@ -1,0 +1,51 @@
+{
+  "address": "0x585972f5c3fb7408c45fc95c270f34005134eedc",
+  "type": "ERC721",
+  "name": "Normal Day Official",
+  "tokenCount": "2222",
+  "uri": "ipfs://bafybeid7bocghbewmog2kvlhnlnuidroochjwlcgbeg6lqmdcekgetbfqq/1.json",
+  "metadata": {
+    "name": "Normal Day #1",
+    "description": "\nWelcome to Normal Day Universe!\nNormalDay its a collection focused on pixelated art. There are 2222 creatures with diferents origins, since Wolfs, Dinos, Humans, Aliens, Cows, Sharks, with more then 140 traits.\nLets spread vibes and Love on WEB3!",
+    "image": "ipfs://bafybeidsxs5ppa45px6i2hvbrsk4sst74whfl66u454grkxsc7fwpx5go4/1.png",
+    "dna": "c13857c33e148e72cfc0bc0108e7c51afee5f147",
+    "edition": 1,
+    "date": 1675627429219,
+    "seller_fee_basis_points": 0,
+    "properties": {
+      "creators": [
+        {
+          "address": "0x6ad9213315a80932660E5c74a75c7081B6518309",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "galaxy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "purple dino"
+      },
+      {
+        "trait_type": "Scale",
+        "value": "without"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "light"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "pepe"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "bonnet"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

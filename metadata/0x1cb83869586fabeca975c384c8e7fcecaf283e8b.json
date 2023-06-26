@@ -1,0 +1,39 @@
+{
+  "address": "0x1cb83869586fabeca975c384c8e7fcecaf283e8b",
+  "type": "ERC721",
+  "name": "Film on the Blockchain",
+  "tokenCount": "15",
+  "uri": "https://arweave.net/3xnAXOy2DkLdDxFfbNtv3Ge9gqWcJQHFTJcYBShDADY",
+  "metadata": {
+    "name": "Perspective",
+    "created_by": "the tara b",
+    "description": "Perspective is everything. Things are looking up. \nChicago, 2022 \n\nPhotographed, developed, and scanned by me.\n\nEquipment:  \nCanon F-1 35mm Camera  \n50mm 1.8 lens  \nIlford HP5 Plus 400 Film  \nIlford llfosol 3 developer and Ilford fixer  \nEpson V850 Scanner",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "the tara b"
+      },
+      {
+        "trait_type": "Film Photography",
+        "value": "35mm"
+      },
+      {
+        "trait_type": "Camera",
+        "value": "Canon F-1"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Chicago, USA"
+      }
+    ],
+    "image_details": {
+      "bytes": 683003,
+      "format": "JPEG",
+      "sha256": "1fe4aaa4a8c1bd4c005c20c18c6ee1f82d8718758597ce6ad442c615cc6a8e35",
+      "width": 1804,
+      "height": 1288
+    },
+    "image": "https://arweave.net/Sm9vabCeBJs9g4nPYQheQGaBakY3XJ-du6ioFJelC3M",
+    "image_url": "https://arweave.net/Sm9vabCeBJs9g4nPYQheQGaBakY3XJ-du6ioFJelC3M"
+  }
+}

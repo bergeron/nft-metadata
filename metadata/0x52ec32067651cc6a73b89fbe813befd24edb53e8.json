@@ -1,0 +1,57 @@
+{
+  "address": "0x52ec32067651cc6a73b89fbe813befd24edb53e8",
+  "type": "ERC721",
+  "name": "Attic Novel NFT",
+  "tokenCount": "4000",
+  "uri": "ipfs://bafybeieszbsc6zygw2k4yxu3hi4g63fomv4y7f42n2eb5gje6ouzqpkw7y/1.json",
+  "metadata": {
+    "tokenId": 1,
+    "name": "Wu  #1",
+    "description": "In the year of 2222, 10 main characters fight their way through adventures and write their stories in the Atticverse.",
+    "image": "ipfs://bafybeihqfk5v7cebs72bxljuvy6osw2erk6sxqoiva3cfop6rw5blp4em4/Wu/brownWu-pinkSuit-blueReap-green1.png",
+    "external_url": "https://atticnovelnft.io/",
+    "attributes": [
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Score",
+        "value": 84,
+        "max_value": 150
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Honor",
+        "value": 27
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Attack",
+        "value": 3
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Sober",
+        "value": 54
+      },
+      {
+        "trait_type": "Head",
+        "value": "brownWu"
+      },
+      {
+        "trait_type": "Clothe",
+        "value": "pinkSuit"
+      },
+      {
+        "trait_type": "Weapin",
+        "value": "blueReap"
+      },
+      {
+        "trait_type": "Background",
+        "value": "green1"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Wu"
+      }
+    ]
+  }
+}

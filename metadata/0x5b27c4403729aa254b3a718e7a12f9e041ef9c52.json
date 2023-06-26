@@ -1,0 +1,42 @@
+{
+  "address": "0x5b27c4403729aa254b3a718e7a12f9e041ef9c52",
+  "type": "ERC721",
+  "name": "CoolColorCollective",
+  "tokenCount": "30",
+  "uri": "https://api.coolcolorcollective.io/ccc/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Artificial Minty Green"
+      },
+      {
+        "trait_type": "Font Family",
+        "value": "Patrick Hand"
+      },
+      {
+        "trait_type": "Font Type",
+        "value": "cursive"
+      },
+      {
+        "trait_type": "Background Type",
+        "value": "Linear Gradient"
+      },
+      {
+        "trait_type": "Background Color",
+        "value": "Oh So Clean Green"
+      },
+      {
+        "trait_type": "Background Color 2",
+        "value": "Charleston Sky"
+      },
+      {
+        "trait_type": "Background Color 3",
+        "value": "Siren's Tears Blue"
+      }
+    ],
+    "description": "The one and only original Cool Color #1, minted by and for the Collective.",
+    "image": "https://api.coolcolorcollective.io/ccc/image/1",
+    "name": "CCC #1"
+  }
+}

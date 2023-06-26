@@ -1,0 +1,36 @@
+{
+  "address": "0x9e55b4958ee924162a9c545713d2daf5f05b751d",
+  "type": "ERC721",
+  "name": "SageCellars V3",
+  "tokenCount": "300",
+  "uri": "https://ipfs.io/ipfs/QmdjEXSCRWa5SrDuFmt2WK6RSmSAgY6odKJuj2xoFVenYW/1",
+  "metadata": {
+    "name": "Wine #1",
+    "description": "Sage cellars is a collection of 300 uniques NFT. The possession of one of these nft allows you to obtain its associated bottle of wine. This collection is for educational purposes",
+    "image": "https://ipfs.io/ipfs/QmcgfWnSUMpFUpRYAqnhFj9DJp5xgUkErwWkgy48fGnmLu/1.png",
+    "edition": 1,
+    "collection": {
+      "name": "Sage Cellars",
+      "family": "SAGE"
+    },
+    "symbol": "SAGE",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Turquoise"
+      },
+      {
+        "trait_type": "Left item",
+        "value": "Champagne rosé Louis Roederer"
+      },
+      {
+        "trait_type": "Right item",
+        "value": "Champagne rosé Louis Roederer"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "100.0 %"
+      }
+    ]
+  }
+}

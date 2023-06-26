@@ -1,0 +1,31 @@
+{
+  "address": "0x9d598367b97a8923fb4d9f4f32f2bb9d1057c4f7",
+  "type": "ERC1155",
+  "name": "Now Playing",
+  "tokenCount": "1",
+  "uri": "ipfs://bafkreieyzakp5um3peq253n4jrd5jrhbnbzj5fkezpdvlvxlvixoexv2ji",
+  "metadata": {
+    "name": "Find Your Flock",
+    "description": "Find Your Flock, an inside look at FWB FEST 2022 located in Idyllwild, CA. \n\nFor three days on a mountain, global members of Friends With Benefits enjoyed a music and art experience at the intersection of friendship + technology. The festival featured live music, a curated art show, food & beverage program, and academic discussions...all reflective of the community's ever expanding interests. Filmed by FWBTV.",
+    "image": "ipfs://bafybeiblsa6p5gnioeh6oelllxqy7ippevhqogczrjimiwgrfrt6uyahzy",
+    "animation_url": "ipfs://bafybeiaifpusoid6tz42zua53a67nbmqtdew7kzzmabn5vrbe4ng5euoli",
+    "content": {
+      "mime": "video/mp4",
+      "uri": "ipfs://bafybeiaifpusoid6tz42zua53a67nbmqtdew7kzzmabn5vrbe4ng5euoli"
+    },
+    "attributes": [
+      {
+        "trait_type": "Event",
+        "value": "FWB FEST"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Idyllwild, CA"
+      }
+    ]
+  }
+}

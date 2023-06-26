@@ -1,0 +1,37 @@
+{
+  "address": "0xf0776d6bc830892d2ec6c125f2cef40fabe3d89b",
+  "type": "ERC721",
+  "name": "bubblies NFT",
+  "tokenCount": "7777",
+  "uri": "ipfs://QmYAxztC52GqHMNDYatmvabL2qSWbd1JYeFpmBMedAUD4y/1.json",
+  "metadata": {
+    "name": "Bubblies #1",
+    "description": "7,777 Bubblies residing on the Ethereum blockchain.",
+    "image": "ipfs://QmRP3KzDhgjVmUQxTRUZwZUmxjYULjeg2e7V8MKV9ZHFhn/1.png",
+    "edition": 1,
+    "date": 1662948264454,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUNDS",
+        "value": "BLUE"
+      },
+      {
+        "trait_type": "COLORS",
+        "value": "BLUE"
+      },
+      {
+        "trait_type": "SHIRTS",
+        "value": "RED_HOODIE"
+      },
+      {
+        "trait_type": "FACES",
+        "value": "SQUINTING"
+      },
+      {
+        "trait_type": "HATS",
+        "value": "MINER"
+      }
+    ],
+    "compiler": "Bubblies Art Engine"
+  }
+}

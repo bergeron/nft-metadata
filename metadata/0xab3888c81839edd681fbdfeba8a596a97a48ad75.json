@@ -1,0 +1,38 @@
+{
+  "address": "0xab3888c81839edd681fbdfeba8a596a97a48ad75",
+  "type": "ERC721",
+  "name": "BigMeta Travel Kits",
+  "tokenCount": "20",
+  "uri": "https://bigmeta.s3.eu-west-2.amazonaws.com/tkmetadata/1.json",
+  "metadata": {
+    "name": "Travel Kit #1",
+    "description": "BigMeta Travel Kits bring holders a host of benefits throughout BigMeta Park. Each Travel Kit also brings players closer to a special BigMeta XP Airdrop.",
+    "image": "https://bigmeta.s3.eu-west-2.amazonaws.com/tkimages/Kyle.png",
+    "attributes": [
+      {
+        "trait_type": "Design",
+        "value": "Kyle"
+      },
+      {
+        "trait_type": "Mug Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Office ID",
+        "value": "Agent Dwight"
+      },
+      {
+        "trait_type": "Mission Case File",
+        "value": "Cyborg"
+      },
+      {
+        "trait_type": "Snow Globe",
+        "value": "Golden Egg Turkey"
+      },
+      {
+        "trait_type": "Good Luck Matches",
+        "value": "Hillary"
+      }
+    ]
+  }
+}

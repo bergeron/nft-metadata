@@ -1,0 +1,20 @@
+{
+  "address": "0xe7d50572bdd6ffa9b9f8e815cd3f185a934e09ea",
+  "type": "ERC721",
+  "name": "NIJI SBT",
+  "tokenCount": "521",
+  "uri": "ipfs://QmRmpF6KvCBpoCVh7GL9ApFV4gXFDY2Kiv3FUnfREUk2Zj/1.json",
+  "metadata": {
+    "name": "NIJI SBT #1",
+    "image": "ipfs://QmQ9HbnCtr7x3AynVRCF3Xi4eF3KijyaSvtvp73SE2quKE/niji.png",
+    "animation_url": "ipfs://QmQ9HbnCtr7x3AynVRCF3Xi4eF3KijyaSvtvp73SE2quKE/niji.glb",
+    "edition": "1",
+    "description": "NIJIのホワイトリストに参加可能のNFTです。転送や売買は不可能となります。  \n  \nThis is an SBT that can participate in the NIJI whitelist. It will be impossible to transfer or buy or sell.",
+    "attributes": [
+      {
+        "trait_type": "type",
+        "value": "niji"
+      }
+    ]
+  }
+}

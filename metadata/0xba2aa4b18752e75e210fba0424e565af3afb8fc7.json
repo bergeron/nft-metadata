@@ -1,0 +1,25 @@
+{
+  "address": "0xba2aa4b18752e75e210fba0424e565af3afb8fc7",
+  "type": "ERC721",
+  "name": "Space Riders OG Pass",
+  "tokenCount": "1000",
+  "uri": "ipfs://QmdFU3xghBRXgJVtYYumiANHUiKYbphkMLiS3UhhdvHLhG/1.json",
+  "metadata": {
+    "name": "Space Riders OG Pass #1",
+    "description": "The Space Riders OG Pass grants access to exclusive perks and benefits within the Space Riders ecosystem.",
+    "image": "ipfs://Qmbvzh2eeZ7byyhgmVuQ6bv5uEE5h8MiRB9Dxy6WvxbGzb",
+    "animation_url": "ipfs://QmQ2tewQZPe4odiU5wbr3XWPduLhzsr8pLjf5WA546tCpi",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Pass Type",
+        "value": "OG Pass"
+      },
+      {
+        "trait_type": "OG Pass",
+        "value": 1,
+        "display_type": "number"
+      }
+    ]
+  }
+}

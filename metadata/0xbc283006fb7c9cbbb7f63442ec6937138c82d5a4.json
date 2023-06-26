@@ -1,0 +1,75 @@
+{
+  "address": "0xbc283006fb7c9cbbb7f63442ec6937138c82d5a4",
+  "type": "ERC721",
+  "name": "MAMADOU SOW - AFRICAN GOTHIC",
+  "tokenCount": "10",
+  "uri": "ipfs://QmeojvLA6naJSKZHHKuLSB8NjpDH7oN3NDmKoPVNM2oQbT",
+  "metadata": {
+    "name": "AFRICAN GOTH I",
+    "description": "“African Gothic” shows the evolution of the African continent from the distant past to the near future, visualizing its history in three layers.  \n\nVerisart Certified: https://verisart.com/works/d2ebfc9b-c9f3-440e-a299-0b5bdc2e6379",
+    "image": "ipfs://QmYd5H5prDPot1kPGaxT4yU93X4FiTE1YHPZ2pVC2hGqQD",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 1080,
+          "height": 1080,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 30
+        },
+        "frameRate": 60,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xda065c361858103e52d8ed34df17c43346f1c09e",
+            "bps": 800
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "animation_url": "ipfs://QmUfxSrN1x5zXD1UipT4iyRu1P1YKiEyCLRH8yWZ3WaFca",
+    "external_url": "https://verisart.com/works/d2ebfc9b-c9f3-440e-a299-0b5bdc2e6379",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Mamadou Sow",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "AFRICAN GOTH I",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "1080x1080 px",
+        "display_type": null
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:30",
+        "display_type": null
+      }
+    ]
+  }
+}

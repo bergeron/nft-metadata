@@ -1,0 +1,45 @@
+{
+  "address": "0x125c8f7bbb244ea8858211f2a0c571912af65667",
+  "type": "ERC721",
+  "name": "Im a piece of paper",
+  "tokenCount": "30",
+  "uri": "ipfs://QmWCDMj9N43TrrCVeTFXHwz6hdGk4zGcFJfFUCiPPQ9q8X/1",
+  "metadata": {
+    "name": "Im a piece of paper #2",
+    "description": "Hello, Im a piece of paper",
+    "image": "ipfs://QmdWKmFWj9v1zfCU256cxkDj2atqYwuPJCrvdpMVfeVPwL/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Paper Type",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Goofy"
+      },
+      {
+        "trait_type": "Intro",
+        "value": "Hi"
+      },
+      {
+        "trait_type": "Structure",
+        "value": "Structure"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Reply"
+      },
+      {
+        "trait_type": "Wow Factor",
+        "value": "Balloon"
+      }
+    ],
+    "edition": 2,
+    "date": 1674841404000,
+    "compiler": "HashLips Art Engine"
+  }
+}

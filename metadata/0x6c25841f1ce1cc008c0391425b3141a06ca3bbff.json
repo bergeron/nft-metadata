@@ -1,0 +1,30 @@
+{
+  "address": "0x6c25841f1ce1cc008c0391425b3141a06ca3bbff",
+  "type": "ERC721",
+  "name": "Tiny Moos",
+  "tokenCount": "999",
+  "uri": "ipfs://QmNz9AgMtB2f39htR5L5mPMCP7dfmeu4UhBaRCu5zk35Q4/1.json",
+  "metadata": {
+    "name": "TinyMoos #1",
+    "description": "The tiniest Moos on the ethereum blockchain",
+    "image": "ipfs://Qmej4ANKZ2ixY9oTyae1m5CSA1KuY4L5M6SakaSFpCnoeo/1.png",
+    "dna": "e9eb33985dfc227f21d077aa2ac1cf1bb32710c8",
+    "edition": 1,
+    "date": 1659648230440,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Purple Moo"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Cyborg"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

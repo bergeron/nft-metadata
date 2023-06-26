@@ -1,0 +1,36 @@
+{
+  "address": "0x730b8d1b2b3382e35d5078df5c00c29d20b0d0d9",
+  "type": "ERC721",
+  "name": "Tiny Tails Egg",
+  "tokenCount": "500",
+  "uri": "ipfs://bafybeidbhhadppdgqk2cx6xocsqx5mmqhj2exmnjid4ct3pz77itj7l4ce/1.json",
+  "metadata": {
+    "name": "Egg #1",
+    "description": "Hold your Egg and it will soon hatch.",
+    "external_url": "https://www.tinytails.io/",
+    "image": "ipfs://bafybeiakob6lywygjkh6to2nxqgb6ppfmc2podk2ktx3wfkfab77ndy47i/1.png",
+    "attributes": [
+      {
+        "trait_type": "Tiny Tails",
+        "value": "Egg"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Tiny Tails Egg",
+      "family": "Tiny Tails Egg"
+    },
+    "symbol": ""
+  }
+}

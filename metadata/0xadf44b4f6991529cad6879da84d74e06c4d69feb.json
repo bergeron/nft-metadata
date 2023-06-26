@@ -1,0 +1,31 @@
+{
+  "address": "0xadf44b4f6991529cad6879da84d74e06c4d69feb",
+  "type": "ERC1155",
+  "name": "FRAMES by ununkx",
+  "tokenCount": "9",
+  "uri": "https://arweave.net/HyzcKuyXWRtwK3C9Tp8mmhFHFbzWdYeRH8QLwtkmG3g",
+  "metadata": {
+    "name": "NOSTALGIA - 1",
+    "created_by": "ununkx",
+    "description": "NOSTALGIA ARTWORK DESCRIPTION: \n\nDo you ever find yourself reminiscing about the weekend summer afternoons playing by the beach with your friends? \n\nDo you still remember what the warm sand felt like? \n\nI do and I want to go back...\n\nNOSTALGIA MECHANICS:  \n\nCertain adjacent combinations (in a quantity of 4 or 9) of the ERC-1155 tokens can be burned for a 1/1 ERC-721 token. The artwork in the ERC-721 token will comprise of the artworks from the ERC-1155s, that were burnt in exchange for it. \n\nThe combinations of ERC-1155 eligible for burning in exchange for a 1/1 ERC-721 are:  \n- NOSTALGIA - 1, 2, 4, 5  \n- NOSTALGIA - 4, 5, 7, 8  \n- NOSTALGIA - 2, 3, 5, 6  \n- NOSTALGIA - 5, 6, 8, 9  \n- NOSTALGIA - 1, 2, 3, 4, 5, 6, 7, 8, 9\n\nNote that only one ERC-721 token can ever be minted from the NOSTALGIA series. It will be on a first-come-first-serve basis. If someone has already redeemed the 1/1 ERC-721 NOSTALGIA by collecting and burning the corresponding 1155s, future collectors will not have the 1/1 option available to them. \n\nNOSTALGIA - FRAMES  \nby  \nununkx",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "ununkx"
+      },
+      {
+        "trait_type": "Series",
+        "value": "NOSTALGIA"
+      }
+    ],
+    "image_details": {
+      "bytes": 8575413,
+      "format": "PNG",
+      "sha256": "57304f65c2ab3d16d941ecef6c5ff4650a95656fcaa484fd5b1837a443cf06eb",
+      "width": 2000,
+      "height": 2400
+    },
+    "image": "https://arweave.net/L-hFLfc7-NIQwb2PYU2JaTluvQVtusO2vHIb33qLFAs",
+    "image_url": "https://arweave.net/L-hFLfc7-NIQwb2PYU2JaTluvQVtusO2vHIb33qLFAs"
+  }
+}

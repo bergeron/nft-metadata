@@ -1,0 +1,29 @@
+{
+  "address": "0xf4832680f420a6f56bf1ca15c1f7287e90d0dc96",
+  "type": "ERC721",
+  "name": "Diamond Membership",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xf4832680f420a6f56bf1ca15c1f7287e90d0dc96/1",
+  "metadata": {
+    "name": "Diamond Membership",
+    "description": "Diamond Membership is a lock created using contracts from Unlock Labs. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://storage.unlock-protocol.com/71cdc969-bbad-4c55-9bd6-7baf1c608951",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1715082840
+      }
+    ],
+    "background_color": "000000",
+    "expiration": 1715082840,
+    "tokenId": "1",
+    "owner": "0xd1d866a50ed814d3b89ac38c93690ba92f1bc852",
+    "userMetadata": {
+      "public": {}
+    },
+    "keyId": "1",
+    "lockAddress": "0xf4832680F420a6f56Bf1ca15c1F7287e90d0dC96",
+    "network": 1
+  }
+}

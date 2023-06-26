@@ -1,0 +1,47 @@
+{
+  "address": "0xdffc286a5310d829783211035e47cdec12ddacca",
+  "type": "ERC1155",
+  "name": "VOX Souls",
+  "tokenCount": "12",
+  "uri": "ipfs://QmUoUTNgUMdEWscrF53jCEEGBw3mHJ3X1U7H44AQedSZM9/1.json",
+  "metadata": {
+    "name": "The Hunter",
+    "external_url": "https://collectvox.com/souls/1",
+    "image": "ipfs://QmeNrctUzRz5KW71KmJFVsQ83YzLFHhD3yq7xqPvuN1ypn/TheHunter.png",
+    "description": "Resolute and watchful, unaffected by others",
+    "attributes": [
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Endurance Gain",
+        "value": 0.83
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Might Gain",
+        "value": 0.83
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Agility Gain",
+        "value": 3.34
+      },
+      {
+        "trait_type": "Friends With",
+        "value": "Hermit, Warrior",
+        "array": [
+          "Hermit",
+          "Warrior"
+        ]
+      },
+      {
+        "trait_type": "Clashes With",
+        "value": "Maverick, Wanderer, Trickster",
+        "array": [
+          "Maverick",
+          "Wanderer",
+          "Trickster"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "address": "0xe860c3930014044ad8d67953fe9a79720b424379",
+  "type": "ERC721",
+  "name": "1217dsfeqwr",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/362000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "362000001",
+    "series": "N/A",
+    "aspect_ratio": 1.5,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Erratic #1",
+    "minted": true,
+    "artist": "Owen Moore",
+    "description": "*Erratic : irregular in performance, behaviour, or attitude; inconsistent and unpredictable*\n\nOne’s harmony with the world can become severed while experiencing stress. Feeling lost or confused within a clouded mind, struggling to call upon a creative muse, defending your self-worth against creeping doubts, and projecting flashes of anger towards others. This torrent of bubbling turmoil can sustain by fixating on the moments of chaos, past, and present. Continuing to feed the storm in this way ultimately will lead to burdensome strife and a ravaged mind.\n\nAs a nascent artist working to hone my artistic abilities and establish myself within a historical art movement, I have often experienced stress along my journey. This collection captures these internal struggles as fragmented waves of colour arranged across a spectrum of relative calms, chaotic bursts, and winding paths. Each piece reflects a unique sense of uncertainty.\n\nMy intent for Erratic was to challenge myself to create a purist’s form of generative art, wherein a set of randomized values are shaped to be used directly as inputs into an instruction path that is consistent in execution and does not use branching conditionals as a means of achieving variety in composition, colour or form. By actively rejecting predetermined features in favour of shaping a domain that is acted upon consistently, I felt I could achieve occurrences of uniquely identifiable emergent design that I otherwise may not have discovered. The work begins with a euclidean coordinate space intended to render a smoothed half-torus which is then randomly mutated through progressive iterations of translations, rotations, polar reflections, slices, twists, and distortions. This pattern of operations produces a nearly infinite set, shaped only by the defined input ranges, from which each piece will be minted. Any knowledge of the instantiated values before viewing could not lead to any reasonable prediction of what will be rendered.",
+    "script_type": "js@na",
+    "project_id": "362",
+    "curation_status": "presents",
+    "heritage_curation_status": "playground",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/362000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/362000001.png",
+    "generator_url": "https://generator.artblocks.io/362000001",
+    "royaltyInfo": {
+      "artistAddress": "0xf429690d7f1b2ef1dd77c150831f4367e366aeac",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Erratic by Owen Moore",
+    "website": "https://www.owenmoore.xyz/artwork/erratic",
+    "token_hash": "0x5ef1a5f9dceffde2248b5db7c130c9d3aa80a7ffb97e7a00a6f3ec6de2e3a994",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/362/tokens/362000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/362000001.png",
+    "features": {
+      "Erratic": true
+    },
+    "traits": [
+      {
+        "trait_type": "Erratic",
+        "value": "All Erratics"
+      },
+      {
+        "trait_type": "Erratic",
+        "value": "Erratic: true"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

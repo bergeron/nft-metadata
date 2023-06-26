@@ -1,0 +1,20 @@
+{
+  "address": "0x8cfbcc5f4cd771b54e3206db55773971a124198d",
+  "type": "ERC721",
+  "name": "FOUND Smart Claim",
+  "tokenCount": "3",
+  "uri": "https://foundclaims.s3.amazonaws.com/json/1.json",
+  "metadata": {
+    "name": "Found Smart Claim #1",
+    "description": "Found Smart Claims are the world’s first tokenized bankruptcy claims that allow over $20 billion of claims trapped in bankruptcies to trade on NFT marketplaces and borrow on decentralized loan platforms. To learn more, scan a Smart Claim QR code or go to https://found.xyz.",
+    "image": "https://foundclaims.s3.amazonaws.com/img/1-green.png",
+    "attributes": [
+      {
+        "trait_type": "Transfer Agreement",
+        "value": true
+      }
+    ],
+    "bankruptcyCaseNumber": "6silsz8y77",
+    "claimValue": "1886655.85"
+  }
+}

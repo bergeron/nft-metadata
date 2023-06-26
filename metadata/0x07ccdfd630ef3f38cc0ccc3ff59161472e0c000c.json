@@ -1,0 +1,42 @@
+{
+  "address": "0x07ccdfd630ef3f38cc0ccc3ff59161472e0c000c",
+  "type": "ERC721",
+  "name": "Go Fish NFT",
+  "tokenCount": "1",
+  "uri": "ipfs://QmYVyBgtUhb5q6W7vcfxdSrcqshrGN6MJqR7bqjiKYp8Rv/1",
+  "metadata": {
+    "name": "The Fish Duo! #1",
+    "description": "Koi Fish and Goldfish ready to take over the world!",
+    "image": "ipfs://QmNSL1EJoYTitqRsEQa1zCZ17HWS6F1Kof84pjzWx6s989/1.png",
+    "dna": "5f1b4698a4a67142bf1ac186ea7d10c7c1ecb147",
+    "edition": 1,
+    "date": 1642682761876,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Fish",
+        "value": "GoldFish"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eye Patch"
+      },
+      {
+        "trait_type": "Jewelry",
+        "value": "Yellow Heart"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Big Mouth"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Sombrero"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

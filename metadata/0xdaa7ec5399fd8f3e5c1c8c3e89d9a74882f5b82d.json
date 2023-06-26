@@ -1,0 +1,52 @@
+{
+  "address": "0xdaa7ec5399fd8f3e5c1c8c3e89d9a74882f5b82d",
+  "type": "ERC721",
+  "name": "INEXISTENCE",
+  "tokenCount": "42",
+  "uri": "https://arweave.net/l1mPpVy-OFbjfUj2PA0sN9l3CVYIwjmuYoHydvzolqg",
+  "metadata": {
+    "name": "INEXISTENCE [01] Null",
+    "created_by": "TUNDRA",
+    "external_url": "https://wearetundra.org/nft/inexistence",
+    "description": "TUNDRA multimedia artists' first NFT collection merges physical media and digital entities into 42 one-and-only fragments of synaesthetic video sculptures.\n\nINEXISTENCE results from an IRL experiment with an audiovisual installation performed in both virtual and physical domains. It combines visual and sound generative algorithms of ROW installation with holographic displays and LED screen, serving as a gateway to the virtual dimension.\n\nSound and visuals were generated in real-time, captured by a custom-programmed industrial robot employing camera tracking. This provides a visual perspective shift, augmenting the dimensions of the video sculpture in both physical and virtual realms. Due to the interconnection between generative algorithms and robotic camera movements, INEXISTENCE's altered perspective can only exist and solely manifest in video form.\n\nThe moment of transition between the physical and virtual realms can be perceived through the medium of light, which acts as a conductor in both worlds. This allows for a dynamic interplay, highlighting their harmonious coexistence.\n\nAs an INEXISTENCE NFT holder, collectors gain access to all upcoming TUNDRA exhibitions and are added to a white-list for future NFT drops. The support of collectors helps fund TUNDRA's multimedia experiments and establishes a meaningful connection between the artwork and collector.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "TUNDRA"
+      },
+      {
+        "trait_type": "SIGNAL",
+        "value": "null"
+      },
+      {
+        "display_type": "number",
+        "value": "1",
+        "max_value": "42",
+        "trait_type": "EDITION"
+      }
+    ],
+    "animation_details": {
+      "bytes": 69257919,
+      "format": "MP4",
+      "duration": 15,
+      "sha256": "663cb631a73ec5e9da6197bd135eeca79e5aef80b9e05fe93f0e4996fc0d8ffa",
+      "width": 1650,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/vGWd9fys5560iB6_MDvsAzdmJu1OcYnRtsM0q1NeK_M",
+    "animation_url": "https://arweave.net/vGWd9fys5560iB6_MDvsAzdmJu1OcYnRtsM0q1NeK_M",
+    "image_details": {
+      "bytes": 11469184,
+      "format": "GIF",
+      "sha256": "b9d9c1562b2e6f6ebd7961f898789d7b453385ebd84c04b599056b313457ad15",
+      "width": 350,
+      "height": 350
+    },
+    "image": "https://arweave.net/90d9YtsL8jkWdQ_yD4ZAsS0YvgSUy87mVM5ct8jNmuo",
+    "image_url": "https://arweave.net/90d9YtsL8jkWdQ_yD4ZAsS0YvgSUy87mVM5ct8jNmuo"
+  }
+}

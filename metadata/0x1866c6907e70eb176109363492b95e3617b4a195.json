@@ -1,0 +1,52 @@
+{
+  "address": "0x1866c6907e70eb176109363492b95e3617b4a195",
+  "type": "ERC721",
+  "name": "Hypnotize",
+  "tokenCount": "85",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=uQQd191cgnXxlJEr9iIn",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1579197310037?alt=media&token=2ad461c6-5971-4bdb-a952-80350d7430ba",
+    "forSale": true,
+    "contractAddress": "0x1866c6907e70eb176109363492b95e3617b4a195",
+    "description": "KEEP CALM IT'S ONLY BLOCKCHAIN",
+    "type": "ERC721",
+    "tags": [],
+    "external_link": "https://mintbase.io/minted/0x1866c6907e70eb176109363492b95e3617b4a195/uQQd191cgnXxlJEr9iIn",
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "external_url": "https://mintbase.io",
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1579197434,
+      "_nanoseconds": 468000000
+    },
+    "price": 0,
+    "name": "KEEP CALM AND MINT A TOKEN",
+    "fiatPrice": "$0.00",
+    "attributes": [
+      {
+        "trait_type": "website",
+        "value": "https://opensea.io/storefront/keep-calm"
+      },
+      {
+        "trait_type": "location",
+        "value": "157 Prince St, New York, NY 10012, USA"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJSU0C0Y1ZwokRMpJtkOOdASs"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1579129200
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io"
+  }
+}

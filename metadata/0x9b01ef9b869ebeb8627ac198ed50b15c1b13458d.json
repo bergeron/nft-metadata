@@ -1,0 +1,52 @@
+{
+  "address": "0x9b01ef9b869ebeb8627ac198ed50b15c1b13458d",
+  "type": "ERC1155",
+  "name": "Korbinian Vogt - Video Editions",
+  "tokenCount": "7",
+  "uri": "https://arweave.net/a7I0zjoIe-D-lBlwgr7f8rwutodPLt0EnEyTrboEO90",
+  "metadata": {
+    "name": "Wind and mountain",
+    "created_by": "Korbinian Vogt",
+    "description": "Wind and mountain, 2022",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Korbinian Vogt"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Country",
+        "value": "Austria"
+      },
+      {
+        "trait_type": "Wind and mountain",
+        "value": "Wind and mountain"
+      }
+    ],
+    "animation_details": {
+      "bytes": 84375901,
+      "format": "MP4",
+      "duration": 25,
+      "sha256": "05ea1dc6cf3cbd4d6ee6593eef3b54691722babc3983765efb766ca29e174b04",
+      "width": 3840,
+      "height": 2160,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/MGygbYxNvoAGQZY4YQ51tgUnE3fcMrxcU4lHrqUp-2Q",
+    "animation_url": "https://arweave.net/MGygbYxNvoAGQZY4YQ51tgUnE3fcMrxcU4lHrqUp-2Q",
+    "image_details": {
+      "bytes": 3012528,
+      "format": "JPEG",
+      "sha256": "85232ad87fd53ba4b08353b1b6b3b81b8b29290f77a3c6d8b7cd3d2bfc23a469",
+      "width": 3840,
+      "height": 2160
+    },
+    "image": "https://arweave.net/YVDEYHxSBsGkSpq8h4gVMKlDcV8zfCYIt5vVFkPtuKA",
+    "image_url": "https://arweave.net/YVDEYHxSBsGkSpq8h4gVMKlDcV8zfCYIt5vVFkPtuKA"
+  }
+}

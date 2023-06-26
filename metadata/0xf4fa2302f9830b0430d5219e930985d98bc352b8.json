@@ -1,0 +1,53 @@
+{
+  "address": "0xf4fa2302f9830b0430d5219e930985d98bc352b8",
+  "type": "ERC1155",
+  "name": "Duckstown Anthology",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/iBNfUlz9GMqHh9Yo1DXurZmkLbYVwzEOjjx0068dJhQ",
+  "metadata": {
+    "name": "King Ego",
+    "created_by": "Dapper Duck",
+    "external_url": "Duckstown.xyz",
+    "description": "Character Collectible.  \nDuckstown Anthology.  \nMerge Edition.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Dapper Duck"
+      },
+      {
+        "trait_type": "Episode",
+        "value": "1. Quo Vardis?"
+      },
+      {
+        "trait_type": "Medium",
+        "value": "3D Render"
+      },
+      {
+        "trait_type": "Character",
+        "value": "King Ego"
+      }
+    ],
+    "image_details": {
+      "bytes": 7608095,
+      "format": "PNG",
+      "sha256": "d766f97296460bc22b67e4520342b176b3f0e155ec787423c6a6b34f96aaa521",
+      "width": 3200,
+      "height": 3200
+    },
+    "image": "https://arweave.net/73I_OBNA9HXSLcxXOrbXacgtvGOUyxFReLcNiAYy4kA",
+    "image_url": "https://arweave.net/73I_OBNA9HXSLcxXOrbXacgtvGOUyxFReLcNiAYy4kA",
+    "animation_details": {
+      "bytes": 91882949,
+      "format": "MP4",
+      "duration": 28,
+      "sha256": "fb8819b953408966ee22f2578b09b27cbd85584979c2e62b5c2d2881950f01fc",
+      "width": 3200,
+      "height": 3200,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/8i5rivieipdfEYCMqn0OOzTIyUd4VgwAD1xmNVN7ENQ",
+    "animation_url": "https://arweave.net/8i5rivieipdfEYCMqn0OOzTIyUd4VgwAD1xmNVN7ENQ"
+  }
+}

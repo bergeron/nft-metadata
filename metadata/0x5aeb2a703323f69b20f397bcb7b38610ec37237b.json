@@ -1,0 +1,44 @@
+{
+  "address": "0x5aeb2a703323f69b20f397bcb7b38610ec37237b",
+  "type": "ERC721",
+  "name": "Chibi Galaxy",
+  "tokenCount": "3500",
+  "uri": "https://api.chibilabs.dev/token/galaxy/1",
+  "metadata": {
+    "name": "Galactic Chibi #1",
+    "description": "Chibi Galaxy is a collection of interstellar characters with traits inspired by our galaxy’s most powerful features.\n[View your Chibi in 3D/AR.](https://chibilabs.io/collection/galaxy/1)\n[Download your Chibi as a PFP ready avatar.](https://cdn.chibilabs.dev/galaxy/avatars/1.jpg)",
+    "image": "https://cdn.chibilabs.dev/galaxy/images/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Invador"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Dragon Suit"
+      },
+      {
+        "trait_type": "Face",
+        "value": "ETH Shades"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Dragon Claws"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      }
+    ],
+    "external_url": "https://chibilabs.io/collection/galaxy/1",
+    "glb": "https://cdn.chibilabs.dev/galaxy/GLBs/1.glb"
+  }
+}

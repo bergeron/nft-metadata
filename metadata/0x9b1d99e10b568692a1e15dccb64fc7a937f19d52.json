@@ -1,0 +1,41 @@
+{
+  "address": "0x9b1d99e10b568692a1e15dccb64fc7a937f19d52",
+  "type": "ERC721",
+  "name": "New Media Collage",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/KO6zljlC1XhPbCXOK-1ZlUKx8Xk8BZO43SzDSfEvKTw",
+  "metadata": {
+    "name": "i want to break free",
+    "created_by": "khwampa",
+    "description": "artist: khwampa  \ntitle: i want to break free",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "khwampa"
+      }
+    ],
+    "animation_details": {
+      "bytes": 26275439,
+      "format": "MP4",
+      "duration": 68,
+      "sha256": "1def58199ef274e3a531bb9ddc45692a4b815ef9c7223897983be9e0cd8c94bb",
+      "width": 1920,
+      "height": 994,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/qvKukfSp53wsffNAYwl1Oj65m0SizXiKO5vfMuwG-N0",
+    "animation_url": "https://arweave.net/qvKukfSp53wsffNAYwl1Oj65m0SizXiKO5vfMuwG-N0",
+    "image_details": {
+      "bytes": 1071866,
+      "format": "PNG",
+      "sha256": "fec51bb3f1cbd9a6395bad75fc991c985838d095e5d041d82994b24456a28e3a",
+      "width": 1707,
+      "height": 886
+    },
+    "image": "https://arweave.net/9tIErY1xmaPNdGczkxMkKxxkYdXbWOHKUeW5DYsYPCg",
+    "image_url": "https://arweave.net/9tIErY1xmaPNdGczkxMkKxxkYdXbWOHKUeW5DYsYPCg"
+  }
+}

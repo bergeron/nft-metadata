@@ -1,0 +1,23 @@
+{
+  "address": "0x45d66e786418b36d0579f005d825dd651fd11f73",
+  "type": "ERC1155",
+  "name": "Panda Warrior Clan Pass",
+  "tokenCount": "3",
+  "uri": "https://api.nftv.social/clanpass/metadata/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Clan Pass",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Panda Warrior"
+      }
+    ],
+    "description": "Panda Warrior Clan Pass gives you access to NFTv's socialfi platform and beyond. This Clan Pass is a exclusive membership pass to all NFTv's platform and perks such as phygital airdrops.",
+    "image": "https://nftv-storage.s3.ap-southeast-1.amazonaws.com/Clanpass/silver.png",
+    "tokenId": "1",
+    "name": "Silver"
+  }
+}

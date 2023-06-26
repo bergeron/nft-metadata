@@ -1,0 +1,64 @@
+{
+  "address": "0x9267aa9662d0a3a067a2324da446db808b7b62f2",
+  "type": "ERC721",
+  "name": "Blossom",
+  "tokenCount": "18",
+  "uri": "https://metadata.pala.io/junekspring/blossom-1.json",
+  "metadata": {
+    "name": "blossom",
+    "description": "[Spring] Vision of Redthread in 4 seasons (2023)",
+    "image": "https://metadata.pala.io/junekspring/blossom.png",
+    "background_color": "#000000",
+    "sendable": true,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "Spring"
+      },
+      {
+        "trait_type": "Medium",
+        "value": "AI"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Warm"
+      },
+      {
+        "trait_type": "Time",
+        "value": "Early Morning"
+      },
+      {
+        "trait_type": "Geography",
+        "value": "Mountain"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Yoshinoyama"
+      },
+      {
+        "trait_type": "Travel Destination",
+        "value": "Japan"
+      },
+      {
+        "trait_type": "Installation",
+        "value": "Outdoor"
+      },
+      {
+        "trait_type": "Fabrication",
+        "value": "Vertical"
+      },
+      {
+        "trait_type": "Material",
+        "value": "Redthread"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Virtual"
+      },
+      {
+        "trait_type": "Tone",
+        "value": "Pink"
+      }
+    ]
+  }
+}

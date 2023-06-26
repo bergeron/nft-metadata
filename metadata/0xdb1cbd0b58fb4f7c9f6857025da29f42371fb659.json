@@ -1,0 +1,45 @@
+{
+  "address": "0xdb1cbd0b58fb4f7c9f6857025da29f42371fb659",
+  "type": "ERC721",
+  "name": "FourierPunks",
+  "tokenCount": "420",
+  "uri": "https://api.fopunks.com/metadata/fopunk?token_id=1",
+  "metadata": {
+    "description": "A mathematical approximation of Punk 338 using the Discrete Fourier Transform. This project is not affiliated with Larva Labs.",
+    "external_url": "https://fopunks.com/fopunk/1",
+    "image": "ipfs://QmNfdxQP2B71MW236T91vrhZA1AvxsbFHpxS7WyD3AreZz",
+    "animation_url": "ipfs://QmVmxRbzqXP1oXNYzhc67pCR3U53zchX6cpPu7gTvTw3n2",
+    "name": "FourierPunk #338",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Rainbow"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Hue Start",
+        "value": 0.3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Hue End",
+        "value": 0.9
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Half Cycles",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Approximation",
+        "value": 0.9
+      }
+    ],
+    "gif_url": "ipfs://Qmbt8cGbqkZqh6Z8VKDSQcjkbBsvjnSSYghBYBYvfRbMBf"
+  }
+}

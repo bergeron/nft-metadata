@@ -1,0 +1,32 @@
+{
+  "address": "0x8b11f7e930451b29a92f784af136c7b6324514bb",
+  "type": "ERC721",
+  "name": "Purzbots",
+  "tokenCount": "333",
+  "uri": "ipfs://QmRHCLebbYmzZEDcH93JJ5JAG3aTWZcvicrATVGCsFYhbL/1",
+  "metadata": {
+    "name": "Purzbot #2",
+    "description": "Purzbot #2 - This robot's mood is Wistful. This bot is really interested in Paragliding. Their favourite style is Functional.",
+    "image": "ipfs://QmQQ8bepgP9UX8mS41mz7ZkHwqpuEQ2AUkFPgQXLcHiaFD/1.png",
+    "external_url": "http://purz.xyz/",
+    "background_color": "000000",
+    "attributes": [
+      {
+        "trait_type": "number",
+        "value": "2"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Wistful"
+      },
+      {
+        "trait_type": "Interest",
+        "value": "Paragliding"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Functional"
+      }
+    ]
+  }
+}

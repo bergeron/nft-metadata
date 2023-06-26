@@ -1,0 +1,59 @@
+{
+  "address": "0xe79a0c825ac74898c221c8db7d2c8c4cdb2c2eab",
+  "type": "ERC721",
+  "name": "MAGIC INK V2",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/d9Xvx3mpUlwCTMT2ywQzvRWBAKcfJdxQl946qNu2yVQ",
+  "metadata": {
+    "name": "BANG BANG x MAGIC INK",
+    "created_by": "BANG BANG",
+    "external_url": "https://MAGIC.INK",
+    "description": "THE WORLD'S FIRST REWRITABLE TATTOO.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "BANG BANG"
+      },
+      {
+        "value": "BANG BANG ",
+        "trait_type": "Tattoo By"
+      },
+      {
+        "trait_type": "Location",
+        "value": "BANG BANG TATTOO"
+      },
+      {
+        "display_type": "number",
+        "value": "1",
+        "trait_type": "Rarity",
+        "max_value": "1"
+      },
+      {
+        "value": "Tattoo subject to terms and conditions which are available at: https://magic.ink/terms",
+        "trait_type": "Terms"
+      }
+    ],
+    "animation_details": {
+      "bytes": 83089015,
+      "format": "MP4",
+      "duration": 16,
+      "sha256": "7a732559923479d62fb267b6476d1f477fb2c0f18d61aaf56c4f0f3982842af9",
+      "width": 2048,
+      "height": 2048,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/gr4uKJedNvBXncLMEPm0D5gRqmw5CNglOchvffgijJI",
+    "animation_url": "https://arweave.net/gr4uKJedNvBXncLMEPm0D5gRqmw5CNglOchvffgijJI",
+    "image_details": {
+      "bytes": 600656,
+      "format": "JPEG",
+      "sha256": "2c30e214bd0cf444d094ed12e6d4d74cca3a74566d7bd379202ad0012aaccbf9",
+      "width": 2048,
+      "height": 2048
+    },
+    "image": "https://arweave.net/napiF3fapO3QWyxjdZALzmb-VSboRis2A84tzMBJKTg",
+    "image_url": "https://arweave.net/napiF3fapO3QWyxjdZALzmb-VSboRis2A84tzMBJKTg"
+  }
+}

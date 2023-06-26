@@ -1,0 +1,39 @@
+{
+  "address": "0xf8584f13237d7f8bcd1d81009740c6b304bb13ba",
+  "type": "ERC721",
+  "name": "Stoned Punks",
+  "tokenCount": "1000",
+  "uri": "ipfs://QmNqZkdqx5ZQTe684VgW2WHjoZnXvcWg4u2h53Td6NQrGW/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "Just a bunch of Gutter Punks enjoying 4/20.",
+    "image": "ipfs://QmXVx25akBectXXrx5awuoCCzbf8oePPkV8jsmE8tSx3Fn/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Marijuana Leaves"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Light Alabaster"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Whaa!"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Stoned"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Anarchy Hoodie"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Mullet Brown"
+      }
+    ],
+    "compiler": "Gutter Punks Team"
+  }
+}

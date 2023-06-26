@@ -1,0 +1,53 @@
+{
+  "address": "0x27a565a64e39453f79a5abc7b8f76c5584567267",
+  "type": "ERC1155",
+  "name": "Happiers",
+  "tokenCount": "11",
+  "uri": "https://arweave.net/goOdCj27oSZjYgGqsqGErJ_cKr-rUWS_8lxX6N0GtMg",
+  "metadata": {
+    "name": "Minimal #01",
+    "created_by": "Geumat",
+    "description": "Happy characters who live in a minimal and colorful world and enjoy their life.",
+    "attributes": [
+      {
+        "trait_type": "Character",
+        "value": "Light Pink"
+      },
+      {
+        "trait_type": "Way",
+        "value": "Pink Park"
+      },
+      {
+        "trait_type": "Wayside",
+        "value": "Blue Cat"
+      },
+      {
+        "trait_type": "Act",
+        "value": "Walk"
+      }
+    ],
+    "animation_details": {
+      "bytes": 6275307,
+      "format": "MP4",
+      "duration": 8,
+      "sha256": "f45704b8dba45e86e324f588931a7ebde6402e7f75dc04cbd48d5fcebbd220ac",
+      "width": 1024,
+      "height": 1024,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/99bfYhXHAy9M-riRSW5IWWowrlSK6WM6wfcgUV8a3Fc",
+    "animation_url": "https://arweave.net/99bfYhXHAy9M-riRSW5IWWowrlSK6WM6wfcgUV8a3Fc",
+    "image_details": {
+      "bytes": 581612,
+      "format": "PNG",
+      "sha256": "9e0efdad692fb299b6537b63235c3254280000131fcc6be53f17223101471e35",
+      "width": 1024,
+      "height": 1024
+    },
+    "image": "https://arweave.net/TbRBAbPGlCUSlS5oz8ATkMUZEwGJt5ad2CrZ1xF1GB4",
+    "image_url": "https://arweave.net/TbRBAbPGlCUSlS5oz8ATkMUZEwGJt5ad2CrZ1xF1GB4"
+  }
+}

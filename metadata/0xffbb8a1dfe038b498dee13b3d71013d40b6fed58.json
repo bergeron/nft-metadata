@@ -1,0 +1,62 @@
+{
+  "address": "0xffbb8a1dfe038b498dee13b3d71013d40b6fed58",
+  "type": "ERC721",
+  "name": "Interface of Perception: Clicker's Edition",
+  "tokenCount": "29",
+  "uri": "ipfs://QmaMU5CGKFRnzzm1VgTohZ3VJmMjqbjBpSxTuNS8GhZ7rS/1",
+  "metadata": {
+    "name": "HOPE #1/29",
+    "description": "Coders gonna hack, clickers gonna click, ears gonna bleed.  \n2160 x 3840 px · 24FPS · 144F",
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "value": "1/29"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Side Effect 1",
+        "value": "Carpel Tunnel"
+      },
+      {
+        "trait_type": "Side Effect 2",
+        "value": "Sore Fingers"
+      },
+      {
+        "trait_type": "Side Effect 3",
+        "value": "Bleeding Ears"
+      },
+      {
+        "trait_type": "Side Effect 4",
+        "value": "Madness"
+      },
+      {
+        "trait_type": "Side Effect 5",
+        "value": "Hating Ponce"
+      },
+      {
+        "trait_type": "Activity",
+        "value": "Office Clicking"
+      }
+    ],
+    "image": "ipfs://QmXqPx2DUPgRiib1DvH7d6qvK2XCvja2tmNXeKkMSeKkCx/HOPE-COVER.gif",
+    "image_details": {
+      "bytes": 5174151,
+      "format": "GIF",
+      "sha256": "8c80f5367c73e69eb5b4818b6408fe9116061c736cb47fe2efa862d456840db7",
+      "width": 1080,
+      "height": 1080
+    },
+    "animation_url": "ipfs://QmXqPx2DUPgRiib1DvH7d6qvK2XCvja2tmNXeKkMSeKkCx/HOPE_IoP_edition.mp4",
+    "animation_details": {
+      "bytes": 28347322,
+      "format": "MP4",
+      "sha256": "c2abed8a489fa505993e11ec3fb411355fc0956837708f79160e77a64ad90bf3",
+      "width": 3840,
+      "height": 2160
+    },
+    "artist": "Luis Ponce"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "0x62e4775950b9fc1430e111dca6f1f293d821041b",
+  "type": "ERC721",
+  "name": "Plot",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=b1gGWbXNCKFxwdNlKPSR",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1574716943146?alt=media&token=35c0a18a-1aca-419a-b63f-377c0e257d63",
+    "isForSale": true,
+    "description": "thing",
+    "contractAddress": "",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted//b1gGWbXNCKFxwdNlKPSR",
+    "minter": "0x592A714714A54Ff9387e8D1579e4b2878E49e212",
+    "mintedOn": {
+      "_seconds": 1574716948,
+      "_nanoseconds": 909000000
+    },
+    "price": "1",
+    "name": "My thing",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "My thing"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "id": null
+  }
+}

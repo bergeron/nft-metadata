@@ -1,0 +1,41 @@
+{
+  "address": "0x82592bc6df83f4491c6719840190a8f65bf9aae7",
+  "type": "ERC721",
+  "name": "Bored Ape Beach Hut",
+  "tokenCount": "10000",
+  "uri": "https://s3.eu-west-2.amazonaws.com/malibubeachhut.info/collections_metadata/bored_ape_beach_hut/json/1.json",
+  "metadata": {
+    "name": "Bored Ape Beach Hut #1",
+    "description": "BAYC derivative collection hand drawn in the Malibu Beach Hut style.",
+    "image": "https://s3.eu-west-2.amazonaws.com/malibubeachhut.info/collections_metadata/bored_ape_beach_hut/images/1.png",
+    "dna": "65292db75c3454c03485d32a561851f78c5f1619",
+    "edition": 1,
+    "date": 1654910969180,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Tie Dye"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven"
+      }
+    ]
+  }
+}

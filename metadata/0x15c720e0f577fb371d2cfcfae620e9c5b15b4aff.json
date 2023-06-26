@@ -1,0 +1,82 @@
+{
+  "address": "0x15c720e0f577fb371d2cfcfae620e9c5b15b4aff",
+  "type": "ERC721",
+  "name": "1020asdfadfsadsfdaf",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/368000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "368000001",
+    "series": 8,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Primitives #1",
+    "minted": true,
+    "artist": "Aranda\\Lasch",
+    "description": "Our studio, Aranda\\Lasch, was formed in the early 2000s to explore algorithmic systems and generative processes as a means to understand the world around us and make things within it. Whether encapsulated in physical or computational techniques, these processes act with their own degree of autonomy from our own biases and as a result, open up new ideas and sensibilities while dismantling traditional notions of authorship. They allow one to code the possibility of discovery and surprise into the creative process in a manner that can be widely shared and because of this transmissibility, algorithms frustrate the idea of a single author, inviting speculation on the shared nature of creativity. For this reason we have always understood our work to be a collaboration between each other, those who share with us and those who inspire us. \n\nOver the years, the studio has indulged in a number of obsessions. One is the conviction that history is a generative source with which to constantly entangle. Whether it is through stories, characters, techniques, or events, history acts as a medium active with properties that constantly reshape and transform our concept of the present. We look back to move forward, like hitching a ride. It is here that we encounter Albrecht Dürer (1471-1528) and his masterpiece Melancholia I (1514) to inspire a deep dive into the process of engraving as a representational technique reinterpreted through the contemporary medium of code. By scratching metal away from a plate, an inversion of conventional drawing, engraving allowed a work of art to be reproduced and disseminated widely. In addition to the piece’s masterful delineation, its allegory resonates with us as well. In Dürer’s time melancholy was associated with insanity but also with creativity. In the engraving, the winged personification of melancholy -- the work is widely regarded to be a self-portrait of the artist -- is surrounded by the tools and elements of geometry. For Dürer, as for a handful of others who came before and after, who test the porous borders between art, science and religion, geometry is a vehicle for imagination, a shadow of the divine and a portal to the infinite. \n\nThis work Primitives is a kindred meditation on infinity through an exploration of a novel geometric structure using algorithm and code, the tools of today's geometers and mystics, made visible through the anachronism of the engravers trade translated into pure 1’s and 0’s. Primitives grows through a single shape that can repeat and scale in specific ways that are never random, but rather tightly governed by geometric logics. It is about drawing infinity through a radical modularity; ordered but aperiodic. Unlike a regular crystal, whose molecular pattern is periodic (or repetitive in all directions), the distinctive quality of this quasicrystal is that its structural pattern never repeats the same way twice. Endless and uneven in aggregate, Primitive clusters can be described by the precise arrangement of a single modular part. As these small units aggregate together they form larger figures that themselves combine into ever larger movements, always a little bit different from any other. In this sense, quasicrystalline patterns have an infinite capacity to create and carry information. \n\nWe are here because this is a medium for sharing in perpetuity. In the last couple of years, on the cusp of our third decade of practice, we have watched with awe and delight a renaissance in generative work as it's adopted by an entirely new generation around blockchain technologies. This inspired us to enter this new space with our own enduring questions of form and geometry, modularity and variability, historical continuity, and the thirst for endlessness. Primitives is what we selected as our primer into generative art on-chain because both the work and the medium grapple with these questions. \n\nSome Notes:\nOn the screen, Primitives is represented as a two-dimensional projection of a three-dimensional figure. Each invocation comes with a sequence of projections, or rotations, around this object. As Primitives spins, there are moments when its blocks snap into alignment with other blocks  revealing its underlying lattice and crystalline nature. Each projection can be saved as a high resolution image for printing. Primitives can also be saved in three dimensions as an .obj file for a variety of uses including the creation of a physical object through 3-d printing or fabrication. Below is a list of interface instructions:\n\n'left' + 'right' arrow keys to rotate \n'up' + 'down' arrow keys to zoom in \n'g' regrows geometry \n'i' saves image \n'o' saves .obj\n\nThank you,\nAranda\\Lasch\n2022",
+    "script_type": "p5@1.0.0",
+    "project_id": "368",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 8",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/368000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/368000001.png",
+    "generator_url": "https://generator.artblocks.io/368000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/368000001",
+    "royaltyInfo": {
+      "artistAddress": "0xa5d9232c831b61ef906f4e2643726840f8b35604",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Primitives by Aranda\\Lasch",
+    "website": "https://arandalasch.com/works/primitives/",
+    "token_hash": "0x80239b958051374a878a8beabf81b531a54ad35b44b042dfd070cdea6515cbeb",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/368/tokens/368000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/368000001",
+    "features": {
+      "Scale": "fit",
+      "Background": "grid lattice",
+      "Paper Color": "cool",
+      "Completeness": "proof",
+      "Fractal Depth": "minimal",
+      "Fragmentation": "fragmented",
+      "Growth Pattern": "point"
+    },
+    "traits": [
+      {
+        "trait_type": "Primitives",
+        "value": "All Primitives"
+      },
+      {
+        "trait_type": "Primitives",
+        "value": "Scale: fit"
+      },
+      {
+        "trait_type": "Primitives",
+        "value": "Background: grid lattice"
+      },
+      {
+        "trait_type": "Primitives",
+        "value": "Paper Color: cool"
+      },
+      {
+        "trait_type": "Primitives",
+        "value": "Completeness: proof"
+      },
+      {
+        "trait_type": "Primitives",
+        "value": "Fractal Depth: minimal"
+      },
+      {
+        "trait_type": "Primitives",
+        "value": "Fragmentation: fragmented"
+      },
+      {
+        "trait_type": "Primitives",
+        "value": "Growth Pattern: point"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-SA 4.0"
+  }
+}

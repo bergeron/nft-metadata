@@ -1,0 +1,38 @@
+{
+  "address": "0xf6dff5192b71fc273759cdef6c3765273e235291",
+  "type": "ERC721",
+  "name": "Voke/Mintbase",
+  "tokenCount": "55",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=Tb8Y4ORWVkaypkJy8afP",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1577044277015?alt=media&token=a7b92db5-080f-44f5-8211-6f59e6df93f7",
+    "isForSale": true,
+    "description": "Strength, Endurance, Agility and Madness with a thirst for blood. Such are the traits of a berserker. ",
+    "contractAddress": "0xf6dff5192b71fc273759cdef6c3765273e235291",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xf6dff5192b71fc273759cdef6c3765273e235291/Tb8Y4ORWVkaypkJy8afP",
+    "minter": "0x19058b87cc3975b2dd7d01b6e95102ab9e1a2a72",
+    "mintedOn": {
+      "_seconds": 1577044429,
+      "_nanoseconds": 980000000
+    },
+    "price": "0.1",
+    "name": "Berserker_#1",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Berserker_#1"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

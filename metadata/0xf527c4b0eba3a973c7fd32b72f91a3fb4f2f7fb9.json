@@ -1,0 +1,31 @@
+{
+  "address": "0xf527c4b0eba3a973c7fd32b72f91a3fb4f2f7fb9",
+  "type": "ERC721",
+  "name": "ARCANA",
+  "tokenCount": "512",
+  "uri": "https://abhwuvqbjnxuwdbqusiz.supabase.co/storage/v1/object/public/game/metadata.json",
+  "metadata": {
+    "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+    "external_url": "https://openseacreatures.io/3",
+    "image": "https://abhwuvqbjnxuwdbqusiz.supabase.co/storage/v1/object/public/game/synth.gif?t=2022-12-01T09%3A13%3A22.179Z",
+    "name": "Dave Starbelly",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "green"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "star-eyes"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "triangle-mouth"
+      },
+      {
+        "trait_type": "face",
+        "value": "teal-face"
+      }
+    ]
+  }
+}

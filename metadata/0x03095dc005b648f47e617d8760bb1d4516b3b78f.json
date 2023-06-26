@@ -1,0 +1,40 @@
+{
+  "address": "0x03095dc005b648f47e617d8760bb1d4516b3b78f",
+  "type": "ERC721",
+  "name": "Taboo Turtles",
+  "tokenCount": "651",
+  "uri": "ipfs://bafybeifrrvoi3tz2oklpylzdyr27meggg5o5mv3drs6yqm2v63nwlhyls4/1.json",
+  "metadata": {
+    "name": "Taboo Turtle #1",
+    "description": "4444 dancing turtles and good vibes",
+    "external_url": "https://www.tabooturtles.com/",
+    "image": "ipfs://Qmezf5n4NUq7VEjkywaYpvcurYLDNjngKyDcYk7YEZEMVK/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Chest",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Shell",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Tear"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Cap"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0xbcc73b9ce0f8de13814e1dbfb04707274ad2e181",
+  "type": "ERC721",
+  "name": "MMMM Club",
+  "tokenCount": "145",
+  "uri": "https://nftmeta.mmmm.world/club/1",
+  "metadata": {
+    "symbol": "",
+    "image": "https://nftimg.mmmm.world/nft/inventory/club/CLUB_NFT_1.png",
+    "animation_url": "",
+    "name": "Club #1 MMMM Official Club",
+    "description": "",
+    "attributes": [
+      {
+        "value": "MMMM Official Club",
+        "trait_type": "Name"
+      },
+      {
+        "value": "Level 1",
+        "trait_type": "Level"
+      },
+      {
+        "value": "No Restrictions",
+        "trait_type": "Language"
+      },
+      {
+        "value": "1/50",
+        "trait_type": "Members"
+      },
+      {
+        "display_type": "boost_percentage",
+        "value": 70,
+        "trait_type": "Singler Income Ratio"
+      },
+      {
+        "display_type": "date",
+        "value": 1684485396,
+        "trait_type": "Open Date"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "address": "0x79d5a8b14b54eebb2d37b3f180c8cd41dcc14a4e",
+  "type": "ERC721",
+  "name": "The pride of Mr Lion V2",
+  "tokenCount": "6",
+  "uri": "ipfs://QmeAuXPyPK4dzaSWHu8PAVZcZSuMxon1mbwwbq5uXmHVpp",
+  "metadata": {
+    "name": "The pride of Mr Lion #1",
+    "description": "Based on the collectors and community resources gathered on the Orinft platform, we will launch the first NFT project: The pride of Mr Lion, which is a collection of digital collectibles consisting of 5,000 Mr Lion NFTs. It includes hundreds of attributes with different rarities, such as hats, eyes, demeanor, clothing, backgrounds, etc.\nWe programmatically generate 5000 unique Mr Lions by random combination, each with a different expression and dress. \nEach Mr Lion costs 0.5 ETH.",
+    "image": "https://orinft.io/static/image/Lion/90bf9d8f6d0dc0344c90c2af5022ec3872a87c6e.png",
+    "dna": "90bf9d8f6d0dc0344c90c2af5022ec3872a87c6e",
+    "edition": "90bf9d8f6d0dc0344c90c2af5022ec3872a87c6e",
+    "date": 1664958388563,
+    "external_url": "http://orinft.io",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "DarkGoldenrod"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Blue Suspenders"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Scar"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Nature Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Gas Mask"
+      },
+      {
+        "trait_type": "Necklace",
+        "value": "Sutured"
+      }
+    ],
+    "compiler": "Orinft Art Engine"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "0xa6b7f7d4e93ba0d173e77cea17f7fdc78657e245",
+  "type": "ERC721",
+  "name": "M2 Miami",
+  "tokenCount": "4",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xa6b7f7d4e93ba0d173e77cea17f7fdc78657e245/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xa6B7f7d4E93ba0d173e77CEA17f7fDc78657E245/icon?id=1",
+    "expiration": 4801633522,
+    "tokenId": "1",
+    "owner": "0xacdf5ddf159417f1701b2c6521812f2fdfaac4eb",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 4801633522
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xa6B7f7d4E93ba0d173e77CEA17f7fDc78657E245",
+    "network": 1
+  }
+}

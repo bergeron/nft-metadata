@@ -1,0 +1,43 @@
+{
+  "address": "0xe5955643d8153312017ddfb675cdf6f9e5aa8493",
+  "type": "ERC721",
+  "name": "structured.art",
+  "tokenCount": "12",
+  "uri": "ipfs://QmZwZ3j1utoP3mQk2qR4uDFT11bn9wJcJWWVh7kpMCu3BY/0",
+  "metadata": {
+    "name": "Hello World!",
+    "description": "Hello world and welcome to structured.art!",
+    "image": "ipfs://QmNWXrJtt52bJtqj4EBYYuguv27rHAWziRaSB7e2nTJfaL/0.jpg",
+    "properties": [
+      {
+        "trait_type": "json",
+        "value": {
+          "text": "Hello World!",
+          "style": {
+            "aspectRatio": "16 / 9",
+            "backgroundColor": "teal",
+            "border": "solid 10px black",
+            "color": "white",
+            "display": "flex",
+            "alignItems": "center",
+            "justifyContent": "center",
+            "fontSize": "5vw",
+            "padding": "10%",
+            "textShadow": "black 1px 1px,\nblack 2px 2px, \nblack 3px 3px,\nblack 4px 4px,\nblack 5px 5px,\nblack 6px 6px,\nblack 7px 7px,\nblack 8px 8px,\nblack 9px 9px,\nblack 10px 10px",
+            "whiteSpace": "noWrap"
+          }
+        }
+      },
+      {
+        "trait_type": "creator_address",
+        "value": "0x8AB2E788f318895dEF25AA405E60aBc23908E0B8"
+      },
+      {
+        "trait_type": "tags",
+        "value": [
+          "HelloWorld!"
+        ]
+      }
+    ]
+  }
+}

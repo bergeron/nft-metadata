@@ -1,0 +1,22 @@
+{
+  "address": "0xa80176d9cbedc3375254a8a74b138e7b3c4f28c7",
+  "type": "ERC1155",
+  "name": "Supernova Blueprints",
+  "tokenCount": "1",
+  "uri": "https://supernovashards.world/nft/blueprints/1.json",
+  "metadata": {
+    "name": "Scorpion",
+    "description": "The Scorpion ship features a medium-sized turret mounted on its tail, and is equipped with two light weapons which together provide considerable firepower. The ship has a moderate level of maneuverability, which allows it to perform well in various combat scenarios.",
+    "image": "https://supernovashards.world/nft/blueprints/images/1.jpg",
+    "animation_url": "https://supernovashards.world/nft/blueprints/animation/1.mp4",
+    "properties": {
+      "type": "Spaceship",
+      "size": "Light",
+      "role": "Fighter",
+      "line weapons": "2",
+      "turret weapons": "1",
+      "main engines": "2",
+      "shunting engines": "4"
+    }
+  }
+}

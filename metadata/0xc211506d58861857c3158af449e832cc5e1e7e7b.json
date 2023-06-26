@@ -1,0 +1,125 @@
+{
+  "address": "0xc211506d58861857c3158af449e832cc5e1e7e7b",
+  "type": "ERC721",
+  "name": "PlaySwoops",
+  "tokenCount": "3000",
+  "uri": "https://api.playswoops.com/api/baller/1",
+  "metadata": {
+    "name": "CHAIN DUNKER",
+    "description": "CHAIN DUNKER",
+    "image": "https://s3.us-west-2.amazonaws.com/images.playswoops.com/s1/1.png",
+    "external_url": "https://app.playswoops.com/player-detail/1",
+    "attributes": [
+      {
+        "trait_type": "Age",
+        "display_type": "number",
+        "value": 4
+      },
+      {
+        "trait_type": "Season Introduced",
+        "display_type": "number",
+        "value": 0
+      },
+      {
+        "trait_type": "Prospect",
+        "display_type": "number",
+        "value": 1
+      },
+      {
+        "trait_type": "Position 1",
+        "value": "G"
+      },
+      {
+        "trait_type": "Position 2",
+        "value": null
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Three Point Shooting",
+        "value": null
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Interior Two Point Shooting",
+        "value": null
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Midrange Two Point Shooting",
+        "value": null
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Free Throw",
+        "value": null
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Defensive Rebound",
+        "value": null
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Offensive Rebound",
+        "value": null
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Assist",
+        "value": null
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Physicality",
+        "value": null
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Interior Defense",
+        "value": 74
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Perimeter Defense",
+        "value": null
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Longevity",
+        "value": null
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Hustle",
+        "value": 50
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Basketball IQ",
+        "value": 97
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Leadership",
+        "value": 56
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Coachability",
+        "value": null
+      },
+      {
+        "trait_type": "1 Top Skill",
+        "value": "Longevity"
+      },
+      {
+        "trait_type": "2 Top Skill",
+        "value": "Physicality"
+      },
+      {
+        "trait_type": "3 Top Skill",
+        "value": "Basketball IQ"
+      }
+    ]
+  }
+}

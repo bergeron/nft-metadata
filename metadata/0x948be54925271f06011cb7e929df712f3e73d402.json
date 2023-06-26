@@ -1,0 +1,103 @@
+{
+  "address": "0x948be54925271f06011cb7e929df712f3e73d402",
+  "type": "ERC1155",
+  "name": "Kozmosi",
+  "tokenCount": "52",
+  "uri": "https://ipfs.moralis.io:2053/ipfs/QmYeRLrD34jo5CBUpu2JE3RaLE63p1ECdCB7bv8UijvkNL",
+  "metadata": {
+    "nftType": "*",
+    "designation": "Gaia DR2 1551988326492427904",
+    "name": "Whirlpool Galaxy",
+    "description": " - [kozmosi.io](https://kozmosi.io/#/universe/?skysource=GaiaDR21551988326492427904&fov=0.16554&date=2022-08-21T11:58:23Z&lat=52.20&lng=-2.19&elev=0)",
+    "image": "https://ipfs.moralis.io:2053/ipfs/Qmd6E8KtkcWo4VbfZoZFBsmLdtQVuKs1PYMr3iwJX3282M",
+    "external_url": "https://kozmosi.io/#/universe/?skysource=GaiaDR21551988326492427904&fov=0.16554&date=2022-08-21T11:58:23Z&lat=52.20&lng=-2.19&elev=0",
+    "properties": {
+      "type": {
+        "name": "type",
+        "value": "Star",
+        "display_value": "Star"
+      },
+      "magnitude": {
+        "name": "magnitude",
+        "value": 14.625,
+        "display_value": "14.63"
+      },
+      "designation": {
+        "name": "designation",
+        "value": "Gaia DR2 1551988326492427904",
+        "display_value": "Gaia DR2 1551988326492427904"
+      },
+      "location": {
+        "name": "location",
+        "value": "Near Worcester, England",
+        "display_value": "Near Worcester, England"
+      },
+      "distance": {
+        "name": "distance",
+        "value": 71127989.03727704,
+        "display_value": "1124.71 light years"
+      },
+      "ra": {
+        "name": "ra",
+        "value": {
+          "sign": "+",
+          "hours": 13,
+          "minutes": 30,
+          "seconds": 51,
+          "fraction": 2
+        },
+        "display_value": "13h 30m 51.2s"
+      },
+      "dec": {
+        "name": "dec",
+        "value": {
+          "sign": "+",
+          "degrees": 47,
+          "arcminutes": 3,
+          "arcseconds": 23,
+          "fraction": 7
+        },
+        "display_value": "+47°03'23.7\""
+      }
+    },
+    "stellariumObject": {
+      "model_data": {
+        "plx": 2.899910449982,
+        "BVMag": 0,
+        "gmag": 14.625,
+        "ra": 202.480561794056,
+        "de": 47.168039898585,
+        "pm_ra": -30.675360107282,
+        "pm_de": -11.61238602144,
+        "epoch": 2000,
+        "gaia": 1551988326492427800,
+        "hip": 0,
+        "Vmag": 14.625,
+        "illuminance": 4e-12,
+        "distance": 71127989.03727704,
+        "type": "*"
+      },
+      "model": "star",
+      "types": [
+        "*",
+        "?"
+      ],
+      "names": [
+        "Gaia DR2 1551988326492427904"
+      ],
+      "nickname": [
+        "GAIA 1551988326492427904"
+      ],
+      "culturalNames": []
+    },
+    "mintPrice": "1000000000000000",
+    "link": "https://kozmosi.io/#/universe/?skysource=GaiaDR21551988326492427904&fov=0.16554&date=2022-08-21T11:58:23Z&lat=52.20&lng=-2.19&elev=0",
+    "nameIndexed": "WhirlpoolGalaxy",
+    "designationIndex": "GaiaDR21551988326492427904",
+    "network": {
+      "name": "homestead",
+      "chainId": 1,
+      "ensAddress": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e"
+    }
+  }
+}

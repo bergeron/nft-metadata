@@ -1,0 +1,82 @@
+{
+  "address": "0x9bbc9dc796707b1c01646d978787b8d1a555cac2",
+  "type": "ERC721",
+  "name": "qweradsf1",
+  "tokenCount": "300",
+  "uri": "https://api.artblocks.io/token/77000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "77000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Return #1",
+    "minted": true,
+    "artist": "Aaron Penne",
+    "description": "\"Return\" is a meditation on returning inward, cyclical change, and the beauty of iteration. The composition of each piece slowly loops, providing a new experience for the viewer over time. Created by Aaron Penne",
+    "script_type": "p5@1.0.0",
+    "project_id": "77",
+    "curation_status": "presents",
+    "heritage_curation_status": "playground",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/77000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/77000001.png",
+    "generator_url": "https://generator.artblocks.io/77000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/77000001",
+    "royaltyInfo": {
+      "artistAddress": "0x92fb249865ae0d26120031868ba07434674a1600",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Return by Aaron Penne",
+    "website": "https://twitter.com/aaronpenne",
+    "token_hash": "0x419220519ff2a20e198b1409b159984e9da63063f839cc1228fea70232ca390d",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/77/tokens/77000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/77000001",
+    "features": {
+      "Form": "Circle",
+      "Speed": "Conceptual",
+      "Palette": "BB",
+      "Rotation": "Balanced",
+      "Skeleton": "Hidden",
+      "Direction": "Out",
+      "Background": "Light"
+    },
+    "traits": [
+      {
+        "trait_type": "Return",
+        "value": "All Returns"
+      },
+      {
+        "trait_type": "Return",
+        "value": "Form: Circle"
+      },
+      {
+        "trait_type": "Return",
+        "value": "Speed: Conceptual"
+      },
+      {
+        "trait_type": "Return",
+        "value": "Palette: BB"
+      },
+      {
+        "trait_type": "Return",
+        "value": "Rotation: Balanced"
+      },
+      {
+        "trait_type": "Return",
+        "value": "Skeleton: Hidden"
+      },
+      {
+        "trait_type": "Return",
+        "value": "Direction: Out"
+      },
+      {
+        "trait_type": "Return",
+        "value": "Background: Light"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

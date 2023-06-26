@@ -1,0 +1,37 @@
+{
+  "address": "0x32059da073134ad14e7f0d9e016cb001ec6ad8d5",
+  "type": "ERC721",
+  "name": "Soul Test",
+  "tokenCount": "2",
+  "uri": "ipfs://QmfD1tNknkojytL2uQGyQKevnfLWfApjsY3UHdhBCjLfMj",
+  "metadata": {
+    "description": "Soul test 1",
+    "image": "ipfs://Qme8vhsLGRtin49psGJBB2QZsvtdbk5MSsccwqiUj5pkxy",
+    "name": "First test",
+    "attributes": [
+      {
+        "trait_type": "Title",
+        "value": "Here's the first one"
+      },
+      {
+        "trait_type": "Hash",
+        "value": "0x42c80d1f7c9c5263ea2f8693f55e727aa2774cb9bd07d9968f7421c0ec14359e"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "ID",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Reading time (minutes)",
+        "value": 4.5
+      },
+      {
+        "display_type": "date",
+        "trait_type": "date",
+        "value": 1662354204
+      }
+    ]
+  }
+}

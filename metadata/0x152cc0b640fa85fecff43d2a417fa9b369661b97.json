@@ -1,0 +1,42 @@
+{
+  "address": "0x152cc0b640fa85fecff43d2a417fa9b369661b97",
+  "type": "ERC721",
+  "name": "Big Town Chef - Genesis Chefs",
+  "tokenCount": "10000",
+  "uri": "ipfs://bafybeieu3d2gyegbwtcs4wtvif7wr4fjeki3angvzgkyqcxt4ieizwaj2m/1",
+  "metadata": {
+    "name": "Chef #1",
+    "attributes": [
+      {
+        "trait_type": "Special Chef",
+        "value": "Jessica D'Acampo"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Stamina",
+        "value": 85
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Creativity",
+        "value": 85
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Passion",
+        "value": 85
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Culinary",
+        "value": 85
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Farming",
+        "value": 85
+      }
+    ],
+    "image": "ipfs://bafybeiffhnzr4sx6nq7v5txtpjbprnu6ussfj2ctt4lajv6x5fhaeg2k44"
+  }
+}

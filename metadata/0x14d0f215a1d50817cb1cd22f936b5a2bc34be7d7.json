@@ -1,0 +1,49 @@
+{
+  "address": "0x14d0f215a1d50817cb1cd22f936b5a2bc34be7d7",
+  "type": "ERC1155",
+  "name": "Existential Skeletal Collection - Editions",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/ddCIXbOLvgH15fAT-TbxMbP9oJFf0JPT5Y6-aTh6CGw",
+  "metadata": {
+    "name": "Am I Dead?",
+    "created_by": "nawt creative & p3t3rango",
+    "description": "Skeletal asks: Does it ever end? No. The answer is no. Sorry Skeletal.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "nawt creative"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "p3t3rango"
+      },
+      {
+        "trait_type": "Location",
+        "value": "liminal space"
+      }
+    ],
+    "animation_details": {
+      "bytes": 59503450,
+      "format": "MP4",
+      "duration": 46,
+      "sha256": "64ad0330fc6c0b5e045ebd4094100b6dc66222cd88a699c84600d52ba88c41de",
+      "width": 1080,
+      "height": 1920,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/phiNtnrk0Yida9HHG75NwKAvPnDFG4sLtLWpWVDd-TU",
+    "animation_url": "https://arweave.net/phiNtnrk0Yida9HHG75NwKAvPnDFG4sLtLWpWVDd-TU",
+    "image_details": {
+      "bytes": 1161581,
+      "format": "PNG",
+      "sha256": "9715b419e7626ef70c8629f706af478e444487c3ad9dee37bdb3ed33e1789ebd",
+      "width": 1080,
+      "height": 1920
+    },
+    "image": "https://arweave.net/rceA_VDIbLuK5juaQ9JYhBNi21oCBCsYNj2wEsFHMbw",
+    "image_url": "https://arweave.net/rceA_VDIbLuK5juaQ9JYhBNi21oCBCsYNj2wEsFHMbw"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0x418ad5e05fd5e88ab5de0b7cb4333c4798b87b51",
+  "type": "ERC721",
+  "name": "The Soviets NFT",
+  "tokenCount": "4444",
+  "uri": "ipfs://QmVCyV88bWcRFQP1Jhrxib2woFsAW78LZfyJse4LooCTLA/1.json",
+  "metadata": {
+    "name": "The Soviets #1",
+    "description": "The Soviets",
+    "image": "ipfs://QmZ7rmjskJ6DkVhEj5Fc8eynmH8PmGewrLjKAjEWNCkKVW/1.png",
+    "dna": "9e8060522120f0f3ea446d45e3cd5c7d2acfa225",
+    "edition": 1,
+    "date": 1657401840603,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUNDS",
+        "value": "blue"
+      },
+      {
+        "trait_type": "TYPE",
+        "value": "Dimitri"
+      },
+      {
+        "trait_type": "EYEWEAR",
+        "value": "glasses 2 purple"
+      },
+      {
+        "trait_type": "FACIALHAIR",
+        "value": "mustache 2 dark brown"
+      },
+      {
+        "trait_type": "ACCESORY",
+        "value": "none"
+      },
+      {
+        "trait_type": "HEADWEAR",
+        "value": "ushanka black"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

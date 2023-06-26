@@ -1,0 +1,32 @@
+{
+  "address": "0x40dcf9130915570a0b42ac67f44ff8be147bacd9",
+  "type": "ERC721",
+  "name": "sphericalart & bucwah",
+  "tokenCount": "8",
+  "uri": "https://infiNFT.azurewebsites.net/api/HttpTrigger?artContract=0x40dcf9130915570a0b42ac67f44ff8be147bacd9&id=1",
+  "metadata": {
+    "image": "https://gateway.pinata.cloud/ipfs/QmVxYYGw8avxrXDrZVyycpXqkQiAdun9PbxM57twdjHR8y",
+    "description": "The second piece in the sphericalart/bucwah NFT collaboration series exploring compositions made with \"impossible geometry\" á  la M. C. Escher and Sir Roger Penrose. Four goldfish swim in a fish bowl made up of bucwah's \"Proliferation Penrose\" design. Created in 2018. 6000 pixels square.",
+    "animation_url": "",
+    "external_url": "https://www.infinft.com/view.html?artistcontract=0x40dcf9130915570a0b42ac67f44ff8be147bacd9&token=1",
+    "name": "Four Goldfish",
+    "attributes": [
+      {
+        "trait_type": "artist name",
+        "value": "sphericalart & bucwah"
+      },
+      {
+        "trait_type": "edition number",
+        "value": "1 of 1"
+      },
+      {
+        "trait_type": "exhibition",
+        "value": "sphericalart & bucwah collaborations"
+      },
+      {
+        "trait_type": "file type",
+        "value": "jpg"
+      }
+    ]
+  }
+}

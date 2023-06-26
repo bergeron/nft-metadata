@@ -1,0 +1,45 @@
+{
+  "address": "0xb8882e35bbc3b4fab91dc7af0427dbbd5a5fbd07",
+  "type": "ERC1155",
+  "name": "BatDad Editions",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/M90YLLoh10P8Bbs8vBbNls1NbmPM2Xo8K3go-OpAWTM",
+  "metadata": {
+    "created_by": "BatDad",
+    "name": "Are Ya Winning, Son?",
+    "external_url": "https://app.manifold.xyz/br/batdadedition1",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "BatDad"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "1"
+      }
+    ],
+    "animation_details": {
+      "bytes": 28071814,
+      "format": "MP4",
+      "duration": 16,
+      "sha256": "c9145c886fb61cb75d31e78f2c4d06a05df89f5b38af56e50e135c641a84745f",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/vk37iRjZtHQPSgfsYTdJRW6u65R0ymZmOtcENkUa2qE",
+    "animation_url": "https://arweave.net/vk37iRjZtHQPSgfsYTdJRW6u65R0ymZmOtcENkUa2qE",
+    "image_details": {
+      "bytes": 3884295,
+      "format": "JPEG",
+      "sha256": "5ef71f2c297252cf6f4b7b6a45e1276cfc2800b18b87ba17f3383ac804277fe9",
+      "width": 2316,
+      "height": 2316
+    },
+    "image": "https://arweave.net/vRbofI4JOeEL5uNDXbKJa_BVfaTOEB-ynkUD0MV3LIk",
+    "image_url": "https://arweave.net/vRbofI4JOeEL5uNDXbKJa_BVfaTOEB-ynkUD0MV3LIk"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "address": "0xd6edb910e6f80a913259d1b4ffa949e245c1f38a",
+  "type": "ERC721",
+  "name": "American Heart",
+  "tokenCount": "10",
+  "uri": "https://arweave.net/OoWNqa5oIAqBB0D9YkQYy2ndqc-DZWHmfv-MhARPlT0",
+  "metadata": {
+    "name": "42nd Street",
+    "created_by": "Jordan Banks",
+    "description": "Bright lights on 42nd Street leading towards the Chrysler building.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Jordan Banks"
+      },
+      {
+        "trait_type": "Location",
+        "value": "42nd Street"
+      },
+      {
+        "trait_type": "Borough",
+        "value": "Manhattan"
+      }
+    ],
+    "image_details": {
+      "bytes": 20475295,
+      "format": "JPEG",
+      "sha256": "83006be8b049c68174f23572d603309497836f453e0b1ca036ff7f5ca5f8040e",
+      "width": 4331,
+      "height": 6490
+    },
+    "image": "https://arweave.net/CkO4M57rBpK3Ccs9PLutOue7ho3fHh1NGWsr9AUsdK8",
+    "image_url": "https://arweave.net/CkO4M57rBpK3Ccs9PLutOue7ho3fHh1NGWsr9AUsdK8"
+  }
+}

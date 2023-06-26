@@ -1,0 +1,45 @@
+{
+  "address": "0x822ca8c5fe4b0e06dc494cc364851a52ed87543e",
+  "type": "ERC721",
+  "name": "qwerpoidpfoaioepqrqwereqwr",
+  "tokenCount": "200",
+  "uri": "https://api.artblocks.io/token/7000001 ",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "7000001",
+    "series": 1,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Elevated Deconstructions #1",
+    "minted": true,
+    "artist": "luxpris",
+    "description": "A study in reduction based around several repeating elements. A unique hash string seeded within each token informs the composition of the work. Variables include the color of the background, the amount of times each of the elements are duplicated, the set distance between each duplicate, and the coordinates of each element. Each token is unique.",
+    "script_type": "p5@1.0.0",
+    "project_id": "7",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 1",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/7000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/7000001.png",
+    "generator_url": "https://generator.artblocks.io/7000001",
+    "royaltyInfo": {
+      "artistAddress": "0xbd3527f0c0f6bd513f0a1560fc0108a291c82806",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 10
+    },
+    "collection_name": "Elevated Deconstructions by luxpris",
+    "website": "https://twitter.com/luxpris",
+    "token_hash": "0x41742a50472f7b5ee3a62afa9e7ecdc0547d1983e1bc8584ab25e1d12c8e5496",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/7/tokens/7000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/7000001.png",
+    "features": {},
+    "traits": [
+      {
+        "trait_type": "Elevated Deconstructions",
+        "value": "All Elevated Deconstructions"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC 4.0"
+  }
+}

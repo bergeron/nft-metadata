@@ -1,0 +1,42 @@
+{
+  "address": "0x69b5ec34f3e0204614f01a53b35a077f6afbd4fb",
+  "type": "ERC721",
+  "name": "The Cult of Cthulhu",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeiadpkpxtlyhco5mgvpdrk7njb4rsz3b27oc7zkorwgbdexovvuz64/1.json",
+  "metadata": {
+    "name": "Cthulhu #1",
+    "description": "Ph’nglui mglw'nafh Cthulhu R’lyeh, wgah’nagl fhtagn. (In his house at R’lyeh dead Cthulhu waits dreaming.)",
+    "image": "ipfs://bafybeibhnl2swwy4o3m3imssl5j5eokk2h5gywzivtjwvdj26jd4op3neu/1.png",
+    "dna": "bd8ebd131e3c8a476179e82535730f3bbd204a77",
+    "edition": 1,
+    "date": 1636019965380,
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Grandmaster"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Vote Cthulhu Tshirt"
+      },
+      {
+        "trait_type": "Extra",
+        "value": "Devil Tail"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Holes"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Horns"
+      }
+    ],
+    "compiler": "Cthulhu Generator"
+  }
+}

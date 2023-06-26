@@ -1,0 +1,35 @@
+{
+  "address": "0xcebc299e1ceabd0e1831b4e854ccc721fbd72c51",
+  "type": "ERC1155",
+  "name": "CyberBonk",
+  "tokenCount": "1",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmeJuD4rg72ayYspYyizhYBJWHFU6RqVKpBVftnQVkjdH3",
+  "metadata": {
+    "name": "CyberBonk NFT",
+    "description": "A Historical Representation NFT for the FTX bankruptcy incident.",
+    "external_url": "https://cyberbonk.zinstitute.net/",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmd3nneAFbgB6WbU6c6fb1wZsomYcmnbRfHPGA56PgEzgr",
+    "attributes": [
+      {
+        "trait_type": "centralization",
+        "value": "high"
+      },
+      {
+        "trait_type": "reserves",
+        "value": "low"
+      },
+      {
+        "trait_type": "liquidity",
+        "value": "medium"
+      },
+      {
+        "trait_type": "government oversight",
+        "value": "low"
+      },
+      {
+        "trait_type": "transparency",
+        "value": "low"
+      }
+    ]
+  }
+}

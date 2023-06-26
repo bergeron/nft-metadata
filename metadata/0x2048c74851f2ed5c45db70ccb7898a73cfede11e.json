@@ -1,0 +1,24 @@
+{
+  "address": "0x2048c74851f2ed5c45db70ccb7898a73cfede11e",
+  "type": "ERC1155",
+  "name": "Merge 2048",
+  "tokenCount": "24",
+  "uri": "data:application/json;base64,eyJkZXNjcmlwdGlvbiI6Ik1lcmdlMjA0OCBpcyBhbiBvbi1jaGFpbiBnYW1lLiBUaGUgbWVtb3J5IG9mIGJsb2NrY2hhaW4gdGltZXN0YW1wLiBHZXQgeW91ciB0aWxlcyBhbmQgbWVyZ2UgeW91ciB0aWxlcy4gSGFwcHkgTWVyZ2UhIiwiaW1hZ2UiOiJkYXRhOmltYWdlL3N2Zyt4bWw7YmFzZTY0LFBITjJaeUI0Yld4dWN6MGlhSFIwY0RvdkwzZDNkeTUzTXk1dmNtY3ZNakF3TUM5emRtY2lJSEJ5WlhObGNuWmxRWE53WldOMFVtRjBhVzg5SW5oTmFXNVpUV2x1SUcxbFpYUWlJSFpwWlhkQ2IzZzlJakFnTUNBMU1USWdOVEV5SWo0OGMzUjViR1UrTG1KaGMyVWdleUJtYVd4c09pQWpOemMyWlRZMU95Qm1iMjUwTFdaaGJXbHNlVG9nYzJWeWFXWTdJR1p2Ym5RdGMybDZaVG9nTVRBNGNIZzdJSDA4TDNOMGVXeGxQanh5WldOMElIZzlJakFpSUhrOUlqQWlJSEo0UFNJMk5DSWdjbms5SWpZMElpQWdkMmxrZEdnOUlqRXdNQ1VpSUdobGFXZG9kRDBpTVRBd0pTSWdabWxzYkQwaUkyVmxaVFJrWVNJdlBqeDBaWGgwSUhnOUlqVXdKU0lnZVQwaU5UQWxJaUJqYkdGemN6MGlZbUZ6WlNJZ1pHOXRhVzVoYm5RdFltRnpaV3hwYm1VOUltMXBaR1JzWlNJZ2RHVjRkQzFoYm1Ob2IzSTlJbTFwWkdSc1pTSStNand2ZEdWNGRENDhMM04yWno0PSIsIm5hbWUiOiJUaWxlIDIiLCJhdHRyaWJ1dGVzIjpbeyJkaXNwbGF5X3R5cGUiOiJudW1iZXIiLCJtYXhfdmFsdWUiOjEyLCJ0cmFpdF90eXBlIjoiVG9rZW5TdXBwbHkiLCJ2YWx1ZSI6MH0seyJ0cmFpdF90eXBlIjoiVGlsZSIsInZhbHVlIjoiMiJ9XX0=",
+  "metadata": {
+    "description": "Merge2048 is an on-chain game. The memory of blockchain timestamp. Get your tiles and merge your tiles. Happy Merge!",
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaW5ZTWluIG1lZXQiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48c3R5bGU+LmJhc2UgeyBmaWxsOiAjNzc2ZTY1OyBmb250LWZhbWlseTogc2VyaWY7IGZvbnQtc2l6ZTogMTA4cHg7IH08L3N0eWxlPjxyZWN0IHg9IjAiIHk9IjAiIHJ4PSI2NCIgcnk9IjY0IiAgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2VlZTRkYSIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBjbGFzcz0iYmFzZSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+MjwvdGV4dD48L3N2Zz4=",
+    "name": "Tile 2",
+    "attributes": [
+      {
+        "display_type": "number",
+        "max_value": 12,
+        "trait_type": "TokenSupply",
+        "value": 0
+      },
+      {
+        "trait_type": "Tile",
+        "value": "2"
+      }
+    ]
+  }
+}

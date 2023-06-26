@@ -1,0 +1,24 @@
+{
+  "address": "0xfc5eab50fd5ca46c3ac28f5ec3fdb71ed1966c43",
+  "type": "ERC721",
+  "name": "Akiverse Game Center Vouchers",
+  "tokenCount": "16",
+  "uri": "https://metadata.akiverse.io/gamecenter-vouchers/1.json",
+  "metadata": {
+    "name": "Game Center Voucher",
+    "description": "Game Center Voucher holders will be granted the AKIVERSE Game Center when ready.\nThe serial number and city of the Game Center will be shown on the voucher.",
+    "image": "https://metadata.akiverse.io/gamecenter-vouchers/mumbai/001.png",
+    "animation_url": "https://metadata.akiverse.io/gamecenter-vouchers/mumbai/001.mp4",
+    "external_url": "https://metadata.akiverse.io/gamecenter-vouchers/mumbai/001.png",
+    "attributes": [
+      {
+        "trait_type": "SerialNumber",
+        "value": "001"
+      },
+      {
+        "trait_type": "Area",
+        "value": "Mumbai"
+      }
+    ]
+  }
+}

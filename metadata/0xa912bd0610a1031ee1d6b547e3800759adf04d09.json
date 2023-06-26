@@ -1,0 +1,40 @@
+{
+  "address": "0xa912bd0610a1031ee1d6b547e3800759adf04d09",
+  "type": "ERC721",
+  "name": "Distinguished Lady Jockey Club - Omnihorse",
+  "tokenCount": "3",
+  "uri": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/nftjson/0xa912bD0610A1031Ee1D6b547e3800759Adf04d09/1.json",
+  "metadata": {
+    "name": "Distinguished Lady Jockey Club #1",
+    "description": "Distinguished Lady Jockey Club membership NFTs",
+    "animation_url": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/Distinguished Lady/1.mp4",
+    "image": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/Distinguished Lady/1.gif",
+    "external_link": "https://www.omnihorse.io/",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0xfa93360A5bf0B9e012B771577Db71B85792ab4e9",
+    "edition": 1,
+    "date": 1665601629,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "Pink Blue"
+      },
+      {
+        "trait_type": "Frame Background",
+        "value": "Marble Grid"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Red Helmet"
+      },
+      {
+        "trait_type": "Level",
+        "value": "Lv1"
+      }
+    ]
+  }
+}

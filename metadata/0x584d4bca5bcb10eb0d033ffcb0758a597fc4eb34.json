@@ -1,0 +1,38 @@
+{
+  "address": "0x584d4bca5bcb10eb0d033ffcb0758a597fc4eb34",
+  "type": "ERC721",
+  "name": "Kawaii Kami",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeicu7zm75phffrffbj7refkiu6bd4trmk72ty5clggvhdzdymtbevm/1.json",
+  "metadata": {
+    "name": "Kawaii Kami #1",
+    "description": "Numinous Faerie Talismans",
+    "image": "ipfs://bafybeib7tjjb6pbug3lgjed4ishogtfx6it2amc5sjhtyrydaocwt7jdoq/1.png",
+    "dna": "19621ce09df60c83acb6873d16f0900274058b43",
+    "edition": 1,
+    "date": 1686337114674,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BackgroundGoth"
+      },
+      {
+        "trait_type": "HeadLunarBlackDwarf",
+        "value": "HeadGothLunarBlackDwarf"
+      },
+      {
+        "trait_type": "HairNonelf",
+        "value": "HairGothBlackNonelf"
+      },
+      {
+        "trait_type": "Body",
+        "value": "BodyGoth"
+      },
+      {
+        "trait_type": "MouthDwarf",
+        "value": "MouthGothDwarf"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

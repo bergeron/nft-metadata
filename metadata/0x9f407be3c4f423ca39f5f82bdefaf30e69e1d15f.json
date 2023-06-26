@@ -1,0 +1,53 @@
+{
+  "address": "0x9f407be3c4f423ca39f5f82bdefaf30e69e1d15f",
+  "type": "ERC1155",
+  "name": "Unisocks Airdrop",
+  "tokenCount": "25",
+  "uri": "ipfs://QmbtcHZexGshiujk9JmjFf4z9mpqW64YvWevqAjYqFTUVE/1",
+  "metadata": {
+    "image": "ipfs://QmNY4Jo3DedNKVsWtRdDNLdL9TkgtwmuGKSbcntimzi1kq",
+    "external_url": "https://unisocks.fi",
+    "description": "$SOCKS is a token that entitles you to 1 real pair of limited edition socks, shipped anywhere in the world. You can sell the token back at any time. You can get the real socks for free. For more information, visit https://www.unisocks.fi",
+    "name": "Unisocks.Fi - Genesis Airdrop",
+    "attributes": [
+      {
+        "trait_type": "Website",
+        "value": "Unisocks.fi"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Deep Pink on Crème"
+      },
+      {
+        "trait_type": "Material",
+        "value": "Cotton blend"
+      },
+      {
+        "trait_type": "Made In",
+        "value": "USA"
+      },
+      {
+        "trait_type": "Length",
+        "value": "Mid-calf"
+      },
+      {
+        "trait_type": "Size",
+        "value": "One size fits most"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "1 / 500"
+      },
+      {
+        "trait_type": "USD Value",
+        "value": "ethPrice * 1750 / (500 - socksSold)**2"
+      },
+      {
+        "trait_type": "Version",
+        "value": 0,
+        "display_type": "number"
+      }
+    ],
+    "background_color": "ffffff"
+  }
+}

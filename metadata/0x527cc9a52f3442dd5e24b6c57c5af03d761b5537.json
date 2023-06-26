@@ -1,0 +1,54 @@
+{
+  "address": "0x527cc9a52f3442dd5e24b6c57c5af03d761b5537",
+  "type": "ERC721",
+  "name": "Tea Squad",
+  "tokenCount": "100",
+  "uri": "https://teasquad.i-recu.com/tea/DVfrxJvGxXy6ajHo8Ehn2Us4nv8yQmjX/1",
+  "metadata": {
+    "name": "#2",
+    "description": "Tea Squad",
+    "external_url": "",
+    "image": "https://teasquad.i-recu.com/nft_data/tea/image/2.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "background_16"
+      },
+      {
+        "trait_type": "handle",
+        "value": "handle_gold"
+      },
+      {
+        "trait_type": "feet",
+        "value": "feet_mermaid"
+      },
+      {
+        "trait_type": "body",
+        "value": "body_drip"
+      },
+      {
+        "trait_type": "top",
+        "value": "top_double"
+      },
+      {
+        "trait_type": "shoot",
+        "value": "shoot_thinmushroom"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mouth_mustache"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "2.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "address": "0xb68339273d2b0452b4811b3139567ca7ffdc0aff",
+  "type": "ERC1155",
+  "name": "Where the wild people grow.",
+  "tokenCount": "29",
+  "uri": "ipfs://QmYPyjcYP6wuCb6DB2V8KgsT5ibdJMTgwvTvsZ9dbNjzL3/1/token.json",
+  "metadata": {
+    "name": "Pass me your apple or I'll blow up this dinner #2",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/image/upload/w_1200/v1678748729/0x84300dcc7ca9cf447e886fa17c11fa22557d1af0/640b3b991d2862a0b05f86a1/stateCovers/zuom3xqk4uaayzymwjdw.png",
+    "description": "Brushstrokes on canvas,\nAncient feast in modern realm,\nArtificial light.\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Rutger van der Tas"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "Where the wild people grow."
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0x84300dcc7ca9cf447e886fa17c11fa22557d1af0"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Outside",
+              "state": {
+                "label": "Pass me your apple or I'll blow up this dinner #2",
+                "uri": "Qmbs78DeMfWn9ZahcbiLdFP3hFhzwEaUkWBLq5Diwsaupa"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

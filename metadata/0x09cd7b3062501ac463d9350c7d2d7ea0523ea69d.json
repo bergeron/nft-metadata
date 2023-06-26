@@ -1,0 +1,41 @@
+{
+  "address": "0x09cd7b3062501ac463d9350c7d2d7ea0523ea69d",
+  "type": "ERC721",
+  "name": "Meekicks Collection",
+  "tokenCount": "502",
+  "uri": "ipfs://QmfTRvaKoctDG7W2zof4MQy6MrmXvQvozq6ZisBMyTh71g/1",
+  "metadata": {
+    "description": "Meebits got the [sweetest kicks](https://www.meekicksdao.fun/?gp=50). Download VOX / FBX / GLB files for Meekicks at [meekicks](https://www.meekicksdao.fun/?gp=50) to use as wearables in the metaverse.",
+    "attributes": [
+      {
+        "trait_type": "Shoes",
+        "value": "Neon Sneakers"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Neon"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Male"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Speed",
+        "value": 90
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Jump",
+        "value": 66
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Dance",
+        "value": 28
+      }
+    ],
+    "name": "Meekicks",
+    "image": "ipfs://QmfYKwa4s8iKWAp88AT8BuruDTm6W5t7Pw1f41CNvDq7Wy"
+  }
+}

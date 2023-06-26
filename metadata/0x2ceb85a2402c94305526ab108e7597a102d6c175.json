@@ -1,0 +1,37 @@
+{
+  "address": "0x2ceb85a2402c94305526ab108e7597a102d6c175",
+  "type": "ERC721",
+  "name": "Fortune Teller Collection",
+  "tokenCount": "2152",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmZcwPGf3GfLUBZpy722kgT6yLLUde6fytDRDq3r7FfZtW",
+  "metadata": {
+    "image": "ipfs://QmVoUdz1S2ZXztfhHRwAzAr7nLJrzHNf9CvaG4axLFWh6h",
+    "name": "Fortune Teller Tier 1: Female by Osinachi",
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "1"
+      },
+      {
+        "trait_type": "Base_Loan_Size",
+        "value": "2500"
+      },
+      {
+        "trait_type": "Base_Loan_Asset",
+        "value": "DAI"
+      },
+      {
+        "trait_type": "Contribution_Asset",
+        "value": "ETH"
+      },
+      {
+        "trait_type": "Contribution_Size",
+        "value": "1"
+      },
+      {
+        "trait_type": "Contribution_Multiplier",
+        "value": "1.5x"
+      }
+    ]
+  }
+}

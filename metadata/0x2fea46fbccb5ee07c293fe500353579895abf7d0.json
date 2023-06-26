@@ -1,0 +1,29 @@
+{
+  "address": "0x2fea46fbccb5ee07c293fe500353579895abf7d0",
+  "type": "ERC1155",
+  "name": "Quantum Art Mint Pass",
+  "tokenCount": "2",
+  "uri": "ipfs://QmXTNZ2XKh73d8a1v4QR1a19Wc3wT9uqDrcAQKNhyFuLQG",
+  "metadata": {
+    "name": "Quantum Mint Pass Collectable",
+    "artist": "Richard Renaldi",
+    "collection": "Touching Strangers",
+    "description": "Mint pass collectable for QA007; Richard Renaldi, Touching Strangers on Quantum.art. This mint pass can no longer be used.",
+    "external_url": "https://quantum.art",
+    "image": "ipfs://Qmd4dw3vqpx8REtKrj4JuMagSEyJHjBnLL7MLZBbF13CUs",
+    "attributes": [
+      {
+        "trait_type": "Expired",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Touching Strangers"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Richard Renaldi"
+      }
+    ]
+  }
+}

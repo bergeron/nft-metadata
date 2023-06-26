@@ -1,0 +1,97 @@
+{
+  "address": "0xcbbfc087717863140dd9dd4074ebef140c4ca4ba",
+  "type": "ERC1155",
+  "name": "FraktalNFTArt Blocks",
+  "tokenCount": "2",
+  "uri": "https://api.artblocks.io/token/160000690",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "160000690",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Seadragons #690",
+    "minted": true,
+    "artist": "Marcin Ignac",
+    "description": "\"Seadragons\" is a generative catalogue of imaginary sea creatures from Syngnathidae family. Each seadragon belongs to one of the real Weedy, Leafy or Ribboned species, while the patterns and the small leaf-like appendages are an artistic interpretation. The dragons are rendered in real-time allowing you to watch them slowly drifting in the water or moving your mouse to nudge them slightly.\n\nThis project is a continuation of my long term fascination with using code to recreate forms and patterns occurring in nature. By using a range of non-photorealistic rendering techniques I strive to document those explorations as if they were actual sketches, posters or biological illustrations of the encountered specimens. Algorithmic variations of their patterns, sizes, colors, poses, complexity and surrounding seaweed present in each artwork are only a minor drop compared to the diversity observed in natural environments. \n\n15% of profits will be donated to oceana.org for protecting and restoring the world’s oceans on a global scale. Another 10% will be donated to givewell.org.\n\n\n",
+    "script_type": "regl@2.1.0",
+    "project_id": "160",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/160000690.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/160000690.png",
+    "generator_url": "https://generator.artblocks.io/160000690",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/160000690",
+    "royaltyInfo": {
+      "artistAddress": "0x842a0bd434377f771770f2870961bc49742d9435",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Seadragons by Marcin Ignac",
+    "website": "http://marcinignac.com/projects/seadragons/",
+    "token_hash": "0xc9caf88a6c7a8d62885dd17d49cbe9a525fdbe2ef45451b01ea13bfe172fa2b7",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/160/tokens/160000690",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/160000690",
+    "features": {
+      "dual": "false",
+      "pose": "2",
+      "belly": "true",
+      "theme": "noir",
+      "parent": "false",
+      "seaweed": "false",
+      "seadragon": "weedy",
+      "variation": "mono",
+      "background": "white",
+      "superdragon": "false"
+    },
+    "traits": [
+      {
+        "trait_type": "Seadragons",
+        "value": "All Seadragons"
+      },
+      {
+        "trait_type": "Seadragons",
+        "value": "dual: false"
+      },
+      {
+        "trait_type": "Seadragons",
+        "value": "pose: 2"
+      },
+      {
+        "trait_type": "Seadragons",
+        "value": "belly: true"
+      },
+      {
+        "trait_type": "Seadragons",
+        "value": "theme: noir"
+      },
+      {
+        "trait_type": "Seadragons",
+        "value": "parent: false"
+      },
+      {
+        "trait_type": "Seadragons",
+        "value": "seaweed: false"
+      },
+      {
+        "trait_type": "Seadragons",
+        "value": "seadragon: weedy"
+      },
+      {
+        "trait_type": "Seadragons",
+        "value": "variation: mono"
+      },
+      {
+        "trait_type": "Seadragons",
+        "value": "background: white"
+      },
+      {
+        "trait_type": "Seadragons",
+        "value": "superdragon: false"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

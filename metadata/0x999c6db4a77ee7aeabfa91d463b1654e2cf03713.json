@@ -1,0 +1,44 @@
+{
+  "address": "0x999c6db4a77ee7aeabfa91d463b1654e2cf03713",
+  "type": "ERC721",
+  "name": "5 Images Prod",
+  "tokenCount": "9",
+  "uri": "ipfs://bafybeig5pgl7wnj55bav6pqmwwyvc7lz5gt76i4wkl2fvvy57ajlupd45u/1.json",
+  "metadata": {
+    "name": "Space Snek #1",
+    "image": "ipfs://bafybeifkeb622hmmctv6wgjlwuzee5jnusrfumm6cmibqfbnoov3yrhq2e/1.png",
+    "description": "My first demo using a small collection of Space Sneks layers",
+    "external_url": "https://diamondhandshotel.com?ref=nft-inator-demo",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Platinum"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Lava"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smiling"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Toga"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Hardhat"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Intellect Serum"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

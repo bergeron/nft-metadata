@@ -1,0 +1,68 @@
+{
+  "address": "0xb374cafcb957a8dd606cff89edacad2cf865974b",
+  "type": "ERC721",
+  "name": "Automorph by Lichterloh",
+  "tokenCount": "26",
+  "uri": "ipfs://QmUk2D53TmzdZY567WM7V3vAeSvqEPVNSF9NRp8NV2VJda",
+  "metadata": {
+    "name": "Lichterloh - Black #0",
+    "description": "Part of Automorph, a series of generative videos which explores (self) awareness, change and manipulation. Where do we begin, where do we end? Which influences shape who we are, how do we manipulate ourselves, our emotions?\n\nSound: Ateq\n\nVerisart Certified: https://verisart.com/works/d504b1b2-6360-403c-bdec-09015fed6c86",
+    "image": "ipfs://QmeiVje3g1L2BJsVAYrEBDPWC5drP5aqnqzNpEjVCtJacn",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 40
+        },
+        "frameRate": 30,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0x9db1529db98d85071368efdc630f76e55acf00bc",
+            "bps": 800
+          }
+        ],
+        "editionInfo": null
+      }
+    },
+    "animation_url": "ipfs://QmQuECbHUHy3QEUFe5sYF8JWmX3omMmWMSZhGyCrymoy72",
+    "external_url": "https://verisart.com/works/d504b1b2-6360-403c-bdec-09015fed6c86",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Lichterloh"
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Title",
+        "value": "Lichterloh - Black #0"
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "1920x1080 px"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:40"
+      }
+    ]
+  }
+}

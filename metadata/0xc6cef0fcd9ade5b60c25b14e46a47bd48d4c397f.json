@@ -1,0 +1,26 @@
+{
+  "address": "0xc6cef0fcd9ade5b60c25b14e46a47bd48d4c397f",
+  "type": "ERC1155",
+  "name": "Lempiverse Eth",
+  "tokenCount": "1",
+  "uri": "https://cloudflare-ipfs.com/ipfs/bafkreig6dpfqrv3p4klu63qhpa5lgf443k6fqmcw6xjhrc2worep7anbce",
+  "metadata": {
+    "image": "https://cloudflare-ipfs.com/ipfs/bafkreigchrohxpyuqx4ornf3ob4zyspwup2g7mrqecpyduw52nwk6xgspq",
+    "external_url": "https://lempiverse.com/",
+    "description": "LempiVerse Egg is an NFT which can be used to hatch a Lemping Pet.",
+    "name": "LempiVerse Community Egg",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      },
+      {
+        "trait_type": "Egg Rarity",
+        "value": 1,
+        "max_value": 4
+      }
+    ],
+    "background_color": "ffffff"
+  }
+}

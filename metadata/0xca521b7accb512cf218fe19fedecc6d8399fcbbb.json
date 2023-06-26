@@ -1,0 +1,26 @@
+{
+  "address": "0xca521b7accb512cf218fe19fedecc6d8399fcbbb",
+  "type": "ERC721",
+  "name": "Tomi Domain Partner",
+  "tokenCount": "770",
+  "uri": "https://metadata.tdns.network/partner/getData/1",
+  "metadata": {
+    "is_normalized": true,
+    "name": "atomic.tomi",
+    "description": "atomic.tomi, a TDNS partner.",
+    "attributes": [
+      {
+        "trait_type": "Length",
+        "display_type": "number",
+        "value": 6
+      },
+      {
+        "trait_type": "Character Set",
+        "display_type": "string",
+        "value": "letter"
+      }
+    ],
+    "image": "ipfs://Qmf1Dtqu8QNTTdPCvuDhEtEjHdVHkbyh1PUfR5rxD5EH1b",
+    "image_url": "ipfs://Qmf1Dtqu8QNTTdPCvuDhEtEjHdVHkbyh1PUfR5rxD5EH1b"
+  }
+}

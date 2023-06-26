@@ -1,0 +1,67 @@
+{
+  "address": "0x55fbab6232148ec044b6f8e7dc0731759dd1c648",
+  "type": "ERC721",
+  "name": "ADE Synth’ Tower",
+  "tokenCount": "100",
+  "uri": "https://metadata.metamundo.co/0x55fbab6232148ec044b6f8e7dc0731759dd1c648/1",
+  "metadata": {
+    "name": "ADE Synth’ Tower",
+    "description": "The Synth'Tower is a one-of-a-kind cultural venue, and a virtual iteration of the famed A'DAM Tower, sited just north of the central train station in Amsterdam. Once an office building; the tower was transformed into a cultural and entertainment venue in recent years. Synth'Tower is an AI-assisted design that reimagines the physical tower into a metaverse venue for music, art, and more. It was created to coincide with the 2022 Amsterdam Dance Event, which is the world's largest electronic music festival. The twisting and organically-formed cavernous spaces of the tower allow for virtual raves, year-round—so that the music, dancing, and fun never stop. Synth'Tower was minted on 19 October 2022, in a limited edition of 100 collectible digital assets, optimized for use in every major metaverse platform.",
+    "image": "https://cdn.metamundo.co/highlights/synthtower_highlight_1__2x.jpg",
+    "animation_url": null,
+    "audio_url": "",
+    "external_url": "https://www.metamundo.co/ravel/ade-synth-tower/",
+    "model_type": [],
+    "attributes": [],
+    "additional_files": [],
+    "metaverse_models": [
+      {
+        "format": "GLB",
+        "models": [
+          {
+            "name": "high fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/ravel/higher-fidelity/Synth_tower_HigherFidelityGLB.glb",
+            "image": null,
+            "animation_url": null
+          },
+          {
+            "name": "lower fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/ravel/lower-fidelity/Synth_tower_LowerFidelityGLB.glb",
+            "image": null,
+            "animation_url": null
+          }
+        ]
+      },
+      {
+        "format": "FBX",
+        "models": [
+          {
+            "name": "highest fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/ravel/highest-fidelity/Synth-tower_HighestFidelityFile_FBX.fbx",
+            "image": null,
+            "animation_url": null
+          },
+          {
+            "name": "lower fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/ravel/lower-fidelity/Synth-tower_LowerFidelityFBX.fbx",
+            "image": null,
+            "animation_url": null
+          }
+        ]
+      },
+      {
+        "format": "USD",
+        "models": [
+          {
+            "name": "highest fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/ravel/highest-fidelity/Synth_tower_HighestFidelityFile_USD.rar",
+            "image": null,
+            "animation_url": null
+          }
+        ]
+      }
+    ],
+    "metafield": "© 2023 ravel, All Rights Reserved.",
+    "End User Licensing Agreement": "https://metadata.metamundo.co/0x55fbAb6232148eC044b6F8E7dC0731759dd1c648/1"
+  }
+}

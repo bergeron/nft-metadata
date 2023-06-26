@@ -1,0 +1,47 @@
+{
+  "address": "0xcfca2c699e462f1661cf4470461fd9659dbc1e27",
+  "type": "ERC721",
+  "name": "Pecan Milk Tokens",
+  "tokenCount": "12",
+  "uri": "ipfs://QmS5Gvpz8o1zKeC1vdpmEqtwtHCbZfzrj35H3MGNGdoRFC/1",
+  "metadata": {
+    "name": "Token #1: PMC Wordmark Logo on Green Apple",
+    "locale": "PECAN",
+    "description": "The first token of Generation 1 is the Pecan Milk Wordmark Logo in white on a green apple canvas.",
+    "image": "ipfs://QmQuqfgvfo9zzvdSesWyrDSKJwimjR8rQHgQyRoqWXZ9mB",
+    "generation": 1,
+    "token_id": 1,
+    "date": 1654060892535,
+    "external_link": "https://pecanmilk.com/NFTs/PECAN/1",
+    "background_color": "#5ab74c",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Apple"
+      },
+      {
+        "trait_type": "Theme",
+        "value": "Logotype Wordmark"
+      },
+      {
+        "trait_type": "Title",
+        "value": "The Wordmark on Green Apple"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Token",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Date Consolidated",
+        "value": 1654060893
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "address": "0x94d8e532b7e990e356210b4b2d7158b3a8a138bc",
+  "type": "ERC721",
+  "name": "DasPepe",
+  "tokenCount": "3333",
+  "uri": "https://stfupals.mypinata.cloud/ipfs/QmZpdozqs5UfSVMrWVBXNZ37PRXXbJHKr62t8fF1NBTp3Q/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "3,333 \"Pepe\" by Dasfruit ",
+    "external_url": "",
+    "image": "https://stfupals.mypinata.cloud/ipfs/QmbrLjRAXQf9m2ftjcVdKntbDQ9dVxRtgGiywQ7s2pyBbU/assets/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Top",
+        "value": "CREAM:CREAM"
+      },
+      {
+        "trait_type": "Base",
+        "value": "SPOTS"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SMPL"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "TONGUERING"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

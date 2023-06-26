@@ -1,0 +1,54 @@
+{
+  "address": "0xfe94cd0ccfeb395bf658c8fb076ba899808317bf",
+  "type": "ERC721",
+  "name": "Cool Cocktail Club",
+  "tokenCount": "146",
+  "uri": "ipfs://QmS6pLNVPNC83XRtfX5J1dSWh5V9ZgGGKH7cmdqYFwN5YL/1",
+  "metadata": {
+    "name": "Cocktail Club #1",
+    "description": "Flannel Scotsman Swizzler: In a shaker filled with ice, mix 1 part Bourbon, 2 parts Tonic, 1 part Simple Syrup. Serve in a Martini glass with Crushed Ice. Garnish the cocktail with a Cherry Fruit Sword and a Lemon Slice.",
+    "image": "ipfs://QmYEY8YbcbbmJWhNxqXpn4gevn4WdKPdZtWUcS9TGVbPh7//1.png",
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": 1
+      },
+      {
+        "trait_type": "Drink Name",
+        "value": "Flannel Scotsman Swizzler"
+      },
+      {
+        "trait_type": "Glass Type",
+        "value": "Martini"
+      },
+      {
+        "trait_type": "Ice Type",
+        "value": "Crushed Ice"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Universe"
+      },
+      {
+        "trait_type": "Garnish 1",
+        "value": "Cherry Fruit Sword"
+      },
+      {
+        "trait_type": "Garnish 2",
+        "value": "Lemon Slice"
+      },
+      {
+        "trait_type": "Bourbon",
+        "value": "1 part"
+      },
+      {
+        "trait_type": "Tonic",
+        "value": "2 parts"
+      },
+      {
+        "trait_type": "Simple Syrup",
+        "value": "1 part"
+      }
+    ]
+  }
+}

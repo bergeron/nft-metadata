@@ -1,0 +1,42 @@
+{
+  "address": "0xb5fb406346b7362365322a79398416b721e204b3",
+  "type": "ERC721",
+  "name": "CreamyCones",
+  "tokenCount": "63",
+  "uri": "ipfs://QmVG4KerWo8KBgEzTTeW1XuTvTSF1eu2Hu7essgthjBpZ9/1.json",
+  "metadata": {
+    "dna": "e54bb460870e9e2a520f594c6a75bfe469522a34",
+    "name": "#1",
+    "description": "The Coolest, Coldest, Creamiest Cones",
+    "image": "ipfs://QmSxWthU6o6xijJu4EP9L78kRt1HgNoGSveXeTwqm9aSza/1.png",
+    "edition": 1,
+    "date": 1633786099297,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Ice_Cream_Outline"
+      },
+      {
+        "trait_type": "Cones",
+        "value": "Waffle"
+      },
+      {
+        "trait_type": "Ice Cream",
+        "value": "Honeycomb"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Dot"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Teeth"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

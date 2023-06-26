@@ -1,0 +1,38 @@
+{
+  "address": "0x9507adc786eca242630725ca574a0f5e4b783f1a",
+  "type": "ERC721",
+  "name": "OctaCats",
+  "tokenCount": "8000",
+  "uri": "ipfs://QmW2S9g9aASuU2Pd5y284aLKX9J1Qdiu9hiy9HcbSCPUMx/1.json",
+  "metadata": {
+    "name": "OctaCat #1",
+    "description": "8,000 octagon cats fighting in Ethereum promotion.",
+    "image": "ipfs://QmQ1e72CV6i7z5Mx9KheiUcBrEdMx1EU1wnneavTiVzcwj/1.png",
+    "dna": "26abb6356459366db959706ea135cfe7a772e1ac",
+    "edition": 1,
+    "date": 1643710989207,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Punky"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Cool Cat"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Thonk"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Judo Cap"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Toxic"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

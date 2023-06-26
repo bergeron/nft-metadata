@@ -1,0 +1,33 @@
+{
+  "address": "0x65ef4d79fbdac476467a5e3d5de2d7deb229e9d1",
+  "type": "ERC721",
+  "name": "Unstoppable Domains x Zelus V2",
+  "tokenCount": "363",
+  "uri": "https://nft.zelus.io/unstoppable-zelus-airdrop/1",
+  "metadata": {
+    "name": "Level Up with Unstoppable & Zelus",
+    "description": "Exclusive giveaway for those who have leveled up with an Unstoppable Domain on the Zelus Wallet. Claim domain credit by going to go.zelus.io/unstoppable and connecting your wallet by October 10, 2022",
+    "properties": {
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://assets.nft.zelus.io/unstoppable-zelus-airdrop/1/thumbnail.gif"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "gif"
+      },
+      "preview_media_file2": {
+        "type": "string",
+        "description": "https://assets.nft.zelus.io/unstoppable-zelus-airdrop/1/LEVEL-UP.mp4"
+      },
+      "preview_media_file2_type": {
+        "type": "string",
+        "description": "mp4"
+      }
+    },
+    "external_url": "https://zelus.io",
+    "animation_url": "https://assets.nft.zelus.io/unstoppable-zelus-airdrop/1/LEVEL-UP.mp4",
+    "attributes": [],
+    "image": "https://assets.nft.zelus.io/unstoppable-zelus-airdrop/1/thumbnail.gif"
+  }
+}

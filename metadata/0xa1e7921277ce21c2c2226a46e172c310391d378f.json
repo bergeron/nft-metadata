@@ -1,0 +1,53 @@
+{
+  "address": "0xa1e7921277ce21c2c2226a46e172c310391d378f",
+  "type": "ERC721",
+  "name": "Sperm Game",
+  "tokenCount": "5526",
+  "uri": "ipfs://QmW1BKHVayTUrtH1oWaa6SfpfMhXH4fSBLXjFWTeTiUEfc/1",
+  "metadata": {
+    "name": "Sperm Game #1",
+    "description": "Sperm Game is a P2W (Play-to-Win) project designed to deliver an engaging experience and provide holders long term value. Upon minting, you will receive either a sperm or an egg. As a sperm, you can enter races. By racing, you can win prizes by placing well in the race, earn medals by winning races, and airdrops for reaching fertilization. As an egg, you are an observer and decision maker. You can win prizes by betting on a sperm to place well in the race and receive airdrops by selecting sperms to bring with you to fertilization.",
+    "image": "ipfs://QmaeX9eEAomyTHg43TJXHJMgMXnTg1R5oskftNmBiJA5BS/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Sperm"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Beanie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Happy"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Speed",
+        "value": 3,
+        "max_value": 4
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Strength",
+        "value": 2,
+        "max_value": 4
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "IQ",
+        "value": 3,
+        "max_value": 4
+      }
+    ]
+  }
+}

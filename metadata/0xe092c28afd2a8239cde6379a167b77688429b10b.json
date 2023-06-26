@@ -1,0 +1,50 @@
+{
+  "address": "0xe092c28afd2a8239cde6379a167b77688429b10b",
+  "type": "ERC1155",
+  "name": "Open Geometry",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/-5hWlamQdurlDekCN4hmfJWWsluQMvJiz7z_dCdVvpM",
+  "metadata": {
+    "name": "Sacred Signal",
+    "created_by": "Gydravlik",
+    "external_url": "https://www.cryptogeometry.art/",
+    "description": "The Sacred Signal symbolizes the beginning of entering a psychedelic trip.",
+    "attributes": [
+      {
+        "trait_type": "Size",
+        "value": "1920x1080"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Multicolor"
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Hexagon"
+      }
+    ],
+    "animation_details": {
+      "bytes": 85038080,
+      "format": "MP4",
+      "duration": 12,
+      "sha256": "5749fc7c2080e9fe6663a493f7d566d86f473cdfcb936c12b6bbf7b89c14405b",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/VZD3CVsALC2-DLd70hyxLSL7nn6qfimcjPPXlrLghVQ",
+    "animation_url": "https://arweave.net/VZD3CVsALC2-DLd70hyxLSL7nn6qfimcjPPXlrLghVQ",
+    "image_details": {
+      "bytes": 80863074,
+      "format": "GIF",
+      "sha256": "ed62112da7f481c18e90e66d9d058a8a1b28dc8eec55bc8d511ab556bfaa4dac",
+      "width": 800,
+      "height": 450
+    },
+    "image": "https://arweave.net/AGxS_FCsrkYaW6rup4u5ygtFg1uL9BiG5ruzj41FpcE",
+    "image_url": "https://arweave.net/AGxS_FCsrkYaW6rup4u5ygtFg1uL9BiG5ruzj41FpcE"
+  }
+}

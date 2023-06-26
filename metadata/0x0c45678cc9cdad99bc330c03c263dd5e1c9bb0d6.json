@@ -1,0 +1,105 @@
+{
+  "address": "0x0c45678cc9cdad99bc330c03c263dd5e1c9bb0d6",
+  "type": "ERC721",
+  "name": "Women of Substance NFT",
+  "tokenCount": "58",
+  "uri": "ipfs://QmTQUFrE5GKwCsb3VY86tCuqi1HJKfA2SrwBtGEX49bHcW/1",
+  "metadata": {
+    "name": "Women of Substance #2",
+    "description": "Women of Substance is the official NFT of Philippine Blockchain Week. By offering scholarships, charity and opportunities to our community members and partners, we strive to enact a global change.",
+    "image": "ipfs://QmZ1JDj2EKr3qVqwdn1WnYSFLg1aHvzPM1BANP1JvZuypM/1.png",
+    "external_url": "https://womenofsubstancenft.com/",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x09F3EbB141BD5ef447Dc7414Db068492610e6319",
+          "share": 50
+        },
+        {
+          "address": "0xE5711D0Ae6451c51Fa9FEff03F83EFFdAb084602",
+          "share": 20
+        },
+        {
+          "address": "0x531841DdbDa6dc08619bC7FB73f2605275bE26C8",
+          "share": 15
+        },
+        {
+          "address": "0x41214c540721E970Ff359d9db43c368Baed9Ad69",
+          "share": 15
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blazing"
+      },
+      {
+        "trait_type": "Skin Tone",
+        "value": "Chestnut"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Blue Jersey"
+      },
+      {
+        "trait_type": "Necklace",
+        "value": "Gold Necklace"
+      },
+      {
+        "trait_type": "Eyeliner",
+        "value": "Black Eyeliner"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Eyes"
+      },
+      {
+        "trait_type": "Brows",
+        "value": "Thick Brown Eyebrows"
+      },
+      {
+        "trait_type": "Hairstyle",
+        "value": "Calm Long Hair"
+      },
+      {
+        "trait_type": "Lips",
+        "value": "Black Lipstick"
+      },
+      {
+        "trait_type": "Pet",
+        "value": "None"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "None"
+      },
+      {
+        "trait_type": "Piercing",
+        "value": "None"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Gold Glasses"
+      },
+      {
+        "trait_type": "Hair Accessory",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None"
+      }
+    ],
+    "symbol": "WoS",
+    "seller_fee_basis_points": 800,
+    "edition": 2
+  }
+}

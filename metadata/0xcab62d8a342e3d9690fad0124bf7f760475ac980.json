@@ -1,0 +1,30 @@
+{
+  "address": "0xcab62d8a342e3d9690fad0124bf7f760475ac980",
+  "type": "ERC721",
+  "name": "PLASTICS V2",
+  "tokenCount": "87",
+  "uri": "ipfs://QmPfGqrj11mXc7LijpfXAXQhG57oHzcZHkCXBTatmfFh3S/1.json",
+  "metadata": {
+    "name": "METHYLHYDROXYTRIMONIUM",
+    "image": "ipfs://QmV9kDCrGN2rNgwv4yNxJXWm79k8bjJ7wiAXMDwkrDnwhC/17bcb0da322203ae77079af8637e4491",
+    "attributes": [
+      {
+        "value": "PVC",
+        "trait_type": "PLASTIC"
+      },
+      {
+        "value": "WATER",
+        "trait_type": "LIQUID"
+      },
+      {
+        "value": "SLIGHT",
+        "trait_type": "TOXICITY"
+      },
+      {
+        "value": "ACIDIC",
+        "trait_type": "PH LEVEL"
+      }
+    ],
+    "description": "PLASTICS is a collection of 333 generative artworks. Each image is a unique composition using isolated stock photos that contain plastic, rubber & liquid material. The works are arranged using p5.js and rendered in a web browser. Once compiled, they are algorithmically titled to iterate soap formulas & shampoo chemical ingredients."
+  }
+}

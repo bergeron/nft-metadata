@@ -1,0 +1,46 @@
+{
+  "address": "0x06abd576711a4bf85aa2fcd9be3621d51742ed39",
+  "type": "ERC721",
+  "name": "ATOIDS - First Deployment",
+  "tokenCount": "5225",
+  "uri": "ipfs://QmUSZdMkWVpXd1FFAe7gaTcGRgT2n4Xh84CEcqKoSdD4BZ/1.json",
+  "metadata": {
+    "name": "Atoids #1",
+    "description": "5225 Atoids coming out to save The Earth",
+    "image": "ipfs://QmVGi593YKYCQ2UGtTtvHVRRLquKhiZqrCbsseAbJCUZCC/1.png",
+    "dna": "f7d64a3eb9a1223c54942c7ccdd0b9d2223c750d",
+    "edition": 1,
+    "date": 1659677405124,
+    "attributes": [
+      {
+        "trait_type": "Back",
+        "value": "OneOfOne"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Golden Shade"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Gold Mask"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Golden"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Legendary Plasma"
+      },
+      {
+        "trait_type": "Attachment",
+        "value": "Legendary Shooter"
+      }
+    ],
+    "compiler": "NFT Generator"
+  }
+}

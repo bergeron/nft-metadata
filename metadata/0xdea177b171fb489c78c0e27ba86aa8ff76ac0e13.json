@@ -1,0 +1,56 @@
+{
+  "address": "0xdea177b171fb489c78c0e27ba86aa8ff76ac0e13",
+  "type": "ERC721",
+  "name": "testver002",
+  "tokenCount": "19",
+  "uri": "https://cdn-api.niftykit.com/reveal/OgFfjUK54wk0HCwOI3RH/1",
+  "metadata": {
+    "name": "Sample #1",
+    "description": "This is a sample #1",
+    "image": "https://ipfs.io/ipfs/QmVsy5Uq8CuA7GPoyJFpsNQoDiC1csdJVEJU7SoveUAmzp",
+    "animation_url": null,
+    "background_color": null,
+    "youtube_url": null,
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "Body",
+        "value": "red"
+      },
+      {
+        "trait_type": "Background",
+        "value": 142
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Back item",
+        "value": "Sky"
+      },
+      {
+        "trait_type": "Head item",
+        "value": "Test1"
+      },
+      {
+        "trait_type": "Neck item",
+        "value": "Test3"
+      },
+      {
+        "trait_type": "Eye item",
+        "value": "Test5"
+      },
+      {
+        "trait_type": "Beak item",
+        "value": "Test5"
+      }
+    ],
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0xF39397bE6B5090357C9f8f72D252b5a53008a9cc"
+  }
+}

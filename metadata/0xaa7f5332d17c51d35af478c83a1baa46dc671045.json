@@ -1,0 +1,35 @@
+{
+  "address": "0xaa7f5332d17c51d35af478c83a1baa46dc671045",
+  "type": "ERC721",
+  "name": "Crypto X Diamonds",
+  "tokenCount": "3",
+  "uri": "https://ipfs.io/ipfs/QmSmHfjHHguUPkjmZv2UZm2sTwNQ25G4KxYcwttRdEuiGs",
+  "metadata": {
+    "name": "Crypto Diamonds #1",
+    "description": "The quest for the perfect diamond.",
+    "image": "https://ipfs.io/ipfs/QmRz3H6ZJQS52fjhm7DJDvnKJDkmNGmmw38jad9dkaYAWJ",
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Emerald"
+      },
+      {
+        "trait_type": "Carats",
+        "value": "6"
+      },
+      {
+        "trait_type": "Clairity",
+        "value": "VVS1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Y"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Mined on",
+        "value": 1648237249982
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "address": "0x92b2c5eaf86504c9db0beab0675613a7d23e9890",
+  "type": "ERC721",
+  "name": "PunkedPups",
+  "tokenCount": "20",
+  "uri": "https://api.punkedpups.com/nftMetadata/1",
+  "metadata": {
+    "name": "Punked Pup #1",
+    "description": "Punked Pup #1",
+    "image": "https://punkedpups.mypinata.cloud/ipfs/QmXNSA9yPxBx24HfsgivERVzmAD5YqKNoLPCthQSbHuAW3",
+    "attributes": [
+      {
+        "trait_type": "breed",
+        "value": "pug"
+      },
+      {
+        "trait_type": "collars",
+        "value": "scarve1"
+      },
+      {
+        "trait_type": "custom_pug_assets",
+        "value": "angel ring pug"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Dark Blue Red Eyes"
+      },
+      {
+        "trait_type": "glasses",
+        "value": "Custom Pug Glasses2"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Yellow Viking Hat"
+      },
+      {
+        "trait_type": "smoking",
+        "value": "Classic Cigarette"
+      },
+      {
+        "trait_type": "background",
+        "value": "bg_27"
+      },
+      {
+        "trait_type": "alphaIndex",
+        "value": 6,
+        "max_value": 8
+      },
+      {
+        "trait_type": "isPup",
+        "value": "true"
+      },
+      {
+        "trait_type": "isDogCatcher",
+        "value": "false"
+      },
+      {
+        "trait_type": "isCat",
+        "value": "false"
+      }
+    ],
+    "tokenId": 1,
+    "__v": 0
+  }
+}

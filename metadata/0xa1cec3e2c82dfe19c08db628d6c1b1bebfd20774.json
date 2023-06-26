@@ -1,0 +1,29 @@
+{
+  "address": "0xa1cec3e2c82dfe19c08db628d6c1b1bebfd20774",
+  "type": "ERC1155",
+  "name": "GLDN tiers test",
+  "tokenCount": "3",
+  "uri": "ipfs://QmWqxyxko32TwmPGHPG4sotKGnGsnzjGZttFoXfWgm4JLn/0",
+  "metadata": {
+    "name": "Silver Tier test",
+    "description": "Test",
+    "image": "ipfs://QmcHGCEp3GEio9g4trYpeAbTdsgAkzPUoDHnZKbLpQrYj2/Silver%20tier.gif",
+    "external_url": "",
+    "background_color": "",
+    "attributes": [
+      {
+        "trait_type": "Year",
+        "value": "2023"
+      },
+      {
+        "trait_type": "Month",
+        "value": "January"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "Silver"
+      }
+    ],
+    "supply": "4"
+  }
+}

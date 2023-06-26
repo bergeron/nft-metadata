@@ -1,0 +1,39 @@
+{
+  "address": "0x529114a091e02d6b66b90d8f43e5ed8c8e4fa726",
+  "type": "ERC721",
+  "name": "8bit WOKEYS",
+  "tokenCount": "1000",
+  "uri": "ipfs://bafybeidbx5abzyox7x6wdyeqgajvcgyovyvkiubkdapdomy464wfeuetnu/1.json",
+  "metadata": {
+    "name": "8bit WOKEYS",
+    "description": "8bit WOKEYS",
+    "image": "ipfs://bafybeiab76pyx2vmpyg3q7sb22pjqanf37buxfzv7xov4esr2wfavfdgcu/1.png",
+    "attributes": [
+      {
+        "trait_type": "8bit",
+        "value": "True"
+      },
+      {
+        "trait_type": "WOKEY",
+        "value": "True"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Special",
+        "value": "Looking Up"
+      },
+      {
+        "trait_type": "BackGround",
+        "value": "Black"
+      }
+    ],
+    "compiler": "mintfoundry.xyz"
+  }
+}

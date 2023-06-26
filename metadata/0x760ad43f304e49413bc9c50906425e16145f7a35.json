@@ -1,0 +1,70 @@
+{
+  "address": "0x760ad43f304e49413bc9c50906425e16145f7a35",
+  "type": "ERC721",
+  "name": "Endstate U: New Heights",
+  "tokenCount": "64",
+  "uri": "https://redemption-api.endstate.io/metadata/new-heights/1",
+  "metadata": {
+    "name": "Endstate U: New Heights #1",
+    "symbol": "ENDSTATE",
+    "description": "This NFT is entangled with an autographed portrait of Boston College hockey star Cayla Barnes.",
+    "image": "https://arweave.net/J34jXEl0CqIFDLkojOqdRdqabcOU8IhXtsElaSQ_NP8",
+    "animation_url": "https://arweave.net/J34jXEl0CqIFDLkojOqdRdqabcOU8IhXtsElaSQ_NP8",
+    "external_url": "https://mint.endstate.io/EndstateU",
+    "seller_fee_basis_points": 500,
+    "properties": {
+      "files": [
+        {
+          "uri": "https://arweave.net/J34jXEl0CqIFDLkojOqdRdqabcOU8IhXtsElaSQ_NP8",
+          "type": "image/png"
+        }
+      ],
+      "category": "video",
+      "creators": [
+        {
+          "address": "0xC39d677b064D263CbF2d090D79d28675471b661e",
+          "share": 100
+        }
+      ]
+    },
+    "endstate": {
+      "drop": "Endstate U: New Heights",
+      "isRedeemed": true,
+      "serial": null
+    },
+    "attributes": [
+      {
+        "trait_type": "Release",
+        "value": "Endstate U: New Heights"
+      },
+      {
+        "trait_type": "Athlete",
+        "value": "Cayla Barnes"
+      },
+      {
+        "trait_type": "Sport",
+        "value": "Hockey"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Senior"
+      },
+      {
+        "trait_type": "Hometown",
+        "value": "Eastvale, California"
+      },
+      {
+        "trait_type": "Highschool",
+        "value": "New Hampton School"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Sub Turri Lazers"
+      },
+      {
+        "trait_type": "Physical Redeemed",
+        "value": "Yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "address": "0x55d19d6fec31d32574f2ff216be71473f05f9e63",
+  "type": "ERC721",
+  "name": "OurDegenLife",
+  "tokenCount": "555",
+  "uri": "ipfs://QmTnm7sdqgWAxo2ARmMyKwwWXPZsfGXTDxd2AyHLPnHtK6/1.json",
+  "metadata": {
+    "name": "OurDegenLife",
+    "description": "By owning this NFT, you will get royalties every week number 4, as long as there hasn't been a different owner within the last 7 days prior to the pay out of that week (day might fluctuate due to Market Places delay). This NFT is Tier 4. Tier 4 NFTs are entitled to receive, on a weekly Tier basis, 18% of the total royalties to be split amongst a maximum of 75 NFTs (if no owner change last 7 days)",
+    "image": "ipfs://bafybeig3skbkne5qwqyqnn5pb6jxh3gry43umkjqbq65gcb7njxp2mcqre/1.png",
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Royalties Week",
+        "value": "4"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Royalties Percentage",
+        "value": 18
+      },
+      {
+        "trait_type": "Royalties Tier",
+        "value": 4
+      }
+    ]
+  }
+}

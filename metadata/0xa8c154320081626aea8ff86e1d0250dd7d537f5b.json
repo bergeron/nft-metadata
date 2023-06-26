@@ -1,0 +1,44 @@
+{
+  "address": "0xa8c154320081626aea8ff86e1d0250dd7d537f5b",
+  "type": "ERC721",
+  "name": "Another Pepe the Frog Collection",
+  "tokenCount": "2429",
+  "uri": "ipfs://bafybeicegwc7dg6iokvccu6dajx6rw26f7h4w36ymykju7zpuod6jxhbdi/1.json",
+  "metadata": {
+    "name": "Pepe the Frog #1",
+    "image": "ipfs://bafybeigollp3exv2uspe3pm53sx6bvup665qge5c2myhloy6zqmage2ufe/1.png",
+    "description": "",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Pepe The Frog"
+      },
+      {
+        "trait_type": "Costume",
+        "value": "Disco Era"
+      },
+      {
+        "trait_type": "Necklace",
+        "value": "Wood"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tongue Out"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Horn_"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "address": "0x9808226ed04e92f9380da67c5606354fae5891b0",
+  "type": "ERC721",
+  "name": "StripperVille NFTs",
+  "tokenCount": "3010",
+  "uri": "https://strippervillebackend.herokuapp.com/1",
+  "metadata": {
+    "name": "StripperVille #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "2"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "2"
+      },
+      {
+        "trait_type": "Bikini",
+        "value": "White"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "White"
+      },
+      {
+        "trait_type": "Model",
+        "value": "Kiki"
+      },
+      {
+        "trait_type": "Earn",
+        "value": "95"
+      }
+    ],
+    "image": "https://stripperville.s3.us-east-2.amazonaws.com/Kiki-0122.png"
+  }
+}

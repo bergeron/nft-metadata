@@ -1,0 +1,48 @@
+{
+  "address": "0x8198ad77845ba0f33151f13e6993e5ff5c93b899",
+  "type": "ERC721",
+  "name": "STAXX Invaders",
+  "tokenCount": "10500",
+  "uri": "ipfs://bafybeial4xxmy6dfwsrcmdvwhw5givo25cajvwrwy7d4bdkrzfblruidka/1.json",
+  "metadata": {
+    "id": 1,
+    "name": "STAXX Invader #1",
+    "image": "ipfs://QmXQJvqtXdC6ApHKjD2v1BBJeLtMC4GFZxdAsh4AtmuFCa",
+    "description": "A collection of 10,500 art collectible NFTs minted on the Ethereum blockchain. Each unique STAXX Invader is randomly generated from a collection of traits built from over 2000 elements. The collection features 7 squads and each squad is a generative art project in it's own right. 105 Rogue 1/1s are scattered throughout the collection. STAXX Invaders are gender-free characters created by artist Stackles (she/her).",
+    "squad": "Ancients",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "legs",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "squad",
+        "value": "Ancients"
+      },
+      {
+        "trait_type": "crown",
+        "value": "Diamond Moon"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Beady"
+      }
+    ],
+    "files": [
+      "input/3.Ancients/background/Bg1.jpg",
+      "input/3.Ancients/fins/Fi1.png",
+      "input/3.Ancients/wings/Wi1.png",
+      "input/3.Ancients/radar/Ra1.png",
+      "input/3.Ancients/antenna/An1.png",
+      "input/3.Ancients/legs/Le11.png",
+      "input/3.Ancients/squad/Bn12.png",
+      "input/3.Ancients/crown/Cr11.png",
+      "input/3.Ancients/eyes/Ey14.png"
+    ],
+    "staxx": "1536"
+  }
+}

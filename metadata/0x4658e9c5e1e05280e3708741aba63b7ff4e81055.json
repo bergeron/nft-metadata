@@ -1,0 +1,121 @@
+{
+  "address": "0x4658e9c5e1e05280e3708741aba63b7ff4e81055",
+  "type": "ERC721",
+  "name": "Void Runners Genesis Fleet",
+  "tokenCount": "2065",
+  "uri": "https://voidrunners.io/api/ships/1",
+  "metadata": {
+    "id": 1,
+    "description": "VRGF-1 is a ship in the Void Runners Genesis Fleet.\n\n[View all VRGF-1 assets, including Portrait (jpg), Video (mp4), 3D file (glb) and Interactive Renderer access](https://voidrunners.io/ships/1)",
+    "external_url": "https://voidrunners.io/ships/1",
+    "image": "https://voidrunners.nyc3.digitaloceanspaces.com/vrships/1-assets/ship.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=2QXDBFFEOUISHX2VB4RV%2F20230623%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230623T042241Z&X-Amz-Expires=604800&X-Amz-Signature=0db391cccaa84d0b4bed7a532305d1ffd831562fa5505a28f6c55a35c74a1c90&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "animation_url": "https://voidrunners.nyc3.digitaloceanspaces.com/renderer/index.html?aspect=1&id=1",
+    "model_url": "https://voidrunners.nyc3.digitaloceanspaces.com/vrships/1-assets/ship.glb?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=2QXDBFFEOUISHX2VB4RV%2F20230623%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230623T042241Z&X-Amz-Expires=604800&X-Amz-Signature=92f9069e33ee8432bc70b8b2eaa43ec9918cbda3b19ee2c873cca7f967054613&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "name": "VRGF-1",
+    "seed": 72,
+    "attributes": [
+      {
+        "trait_type": "Class",
+        "value": "Vette"
+      },
+      {
+        "trait_type": "Registered Color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Colorway",
+        "value": "Resort"
+      },
+      {
+        "trait_type": "Capacity",
+        "value": 5325
+      },
+      {
+        "trait_type": "Efficiency",
+        "value": 2500
+      },
+      {
+        "trait_type": "Speed",
+        "value": 7489
+      },
+      {
+        "trait_type": "Rank: Capacity",
+        "value": "B"
+      },
+      {
+        "trait_type": "Rank: Efficiency",
+        "value": "C"
+      },
+      {
+        "trait_type": "Rank: Speed",
+        "value": "A"
+      },
+      {
+        "trait_type": "Hull",
+        "value": "Utholian Super Mantapug"
+      },
+      {
+        "trait_type": "Cockpit",
+        "value": "C8 Helmhab"
+      },
+      {
+        "trait_type": "Empennage",
+        "value": "V4 Ionic Afterthruster"
+      },
+      {
+        "trait_type": "Wing",
+        "value": "W-54 Tenshi (x2)"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Compact Stor-Hedron (x2)"
+      },
+      {
+        "trait_type": "Auxiliary Systems",
+        "value": "Pulse Resonator"
+      }
+    ],
+    "stats": {
+      "ship_class": "Vette",
+      "registered_color": "Yellow",
+      "colorway": "Resort",
+      "efficiency": 2500,
+      "capacity": 5325,
+      "speed": 7489,
+      "rank_capacity": "B",
+      "rank_efficiency": "C",
+      "rank_speed": "A"
+    },
+    "parts": [
+      {
+        "type": "hull",
+        "value": "Utholian Super Mantapug"
+      },
+      {
+        "type": "cockpit",
+        "value": "C8 Helmhab"
+      },
+      {
+        "type": "empennage",
+        "value": "V4 Ionic Afterthruster"
+      },
+      {
+        "type": "wing",
+        "value": "W-54 Tenshi (x2)"
+      },
+      {
+        "type": "cargo",
+        "value": "Compact Stor-Hedron (x2)"
+      },
+      {
+        "type": "auxiliary_systems",
+        "value": "Pulse Resonator"
+      }
+    ],
+    "assets": {
+      "model": "https://voidrunners.nyc3.digitaloceanspaces.com/vrships/1-assets/ship.glb?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=2QXDBFFEOUISHX2VB4RV%2F20230623%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230623T042241Z&X-Amz-Expires=604800&X-Amz-Signature=92f9069e33ee8432bc70b8b2eaa43ec9918cbda3b19ee2c873cca7f967054613&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "image": "https://voidrunners.nyc3.digitaloceanspaces.com/vrships/1-assets/ship.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=2QXDBFFEOUISHX2VB4RV%2F20230623%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230623T042241Z&X-Amz-Expires=604800&X-Amz-Signature=0db391cccaa84d0b4bed7a532305d1ffd831562fa5505a28f6c55a35c74a1c90&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "video": "https://voidrunners.nyc3.digitaloceanspaces.com/vrships/1-assets/ship.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=2QXDBFFEOUISHX2VB4RV%2F20230623%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230623T042241Z&X-Amz-Expires=604800&X-Amz-Signature=9f9d992d850e7b74ee8dcfc560a95e9796008c8a0ccde048515918685dd9a146&X-Amz-SignedHeaders=host&x-id=GetObject"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "address": "0xcc709e6e4ad4599f565de216c0e0550faf014c8e",
+  "type": "ERC721",
+  "name": "spacetime.rodeo",
+  "tokenCount": "28",
+  "uri": "https://spacetime.rodeo/api/1",
+  "metadata": {
+    "name": "entity 1",
+    "external_url": "https://spacetime.rodeo/i/1",
+    "image": "https://spacetime.rodeo/img/1.png",
+    "animation_url": "https://spacetime.rodeo/i/1",
+    "background_color": "000000",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "gamma",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "delta",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "theta",
+        "value": 6
+      },
+      {
+        "display_type": "number",
+        "trait_type": "lambda",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "phi",
+        "value": 118
+      },
+      {
+        "trait_type": "shape",
+        "value": "octahedron"
+      },
+      {
+        "trait_type": "ature",
+        "value": "rainbow"
+      }
+    ],
+    "entity": {
+      "id": 1,
+      "hash": "0xb10e2d527612073b26eecdfd717e6a320cf44b4afac2b0732d9fcbe2b7fa0cf6",
+      "gamma": 5,
+      "delta": 1,
+      "theta": 6,
+      "lambda": 2,
+      "phi": 118
+    }
+  }
+}

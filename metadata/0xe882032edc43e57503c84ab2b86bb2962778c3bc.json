@@ -1,0 +1,45 @@
+{
+  "address": "0xe882032edc43e57503c84ab2b86bb2962778c3bc",
+  "type": "ERC721",
+  "name": "PartyPals",
+  "tokenCount": "5555",
+  "uri": "https://cdn-api.niftykit.com/reveal/iBnmDSzSvetZnksVNIfk/1",
+  "metadata": {
+    "name": "Party Pal #1",
+    "description": "Your new BFF",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Kaia"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Corporate"
+      },
+      {
+        "trait_type": "Special",
+        "value": "No"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Groovy"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Coin"
+      }
+    ],
+    "image": "https://ipfs.io/ipfs/bafybeidn5xnj25q62vlxnupjoc4qex2oaqpycbrjo6agc3aufyapcqzaoi/1.png",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0xE9Ca386D65da09a0BeEdC7e1B902d154fB762f5a"
+  }
+}

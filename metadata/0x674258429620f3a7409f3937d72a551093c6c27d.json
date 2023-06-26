@@ -1,0 +1,67 @@
+{
+  "address": "0x674258429620f3a7409f3937d72a551093c6c27d",
+  "type": "ERC1155",
+  "name": "SeaHorse Experience Pass",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/a69wKcqAndpwlZRHdz0-HE7BTtiDeJh9m7sMDh9XVew",
+  "metadata": {
+    "name": "Golden Easter Ticket",
+    "created_by": "SEAHORSEARMY",
+    "external_url": "https://www.seahorsearmy.com/",
+    "description": "Experience the wonder and beauty of our underwater metaverse! Invite your friends and enjoy virtual reality together. Explore the deepest dives as well as different undersea environments in our immersive nightclub. This is a ticket that you can redeem in the future!",
+    "attributes": [
+      {
+        "trait_type": "Access",
+        "value": "VIP"
+      },
+      {
+        "trait_type": "Club",
+        "value": "Atlantis"
+      },
+      {
+        "trait_type": "Experience",
+        "value": "Exclusive"
+      },
+      {
+        "trait_type": "Event",
+        "value": "Easter"
+      },
+      {
+        "trait_type": "Space",
+        "value": "Underwater"
+      },
+      {
+        "trait_type": "Creator",
+        "value": "SHAFS"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Ticket",
+        "value": "1",
+        "max_value": "1"
+      }
+    ],
+    "animation_details": {
+      "bytes": 3935170,
+      "format": "MP4",
+      "duration": 4,
+      "sha256": "2057617627e154579c130930f5e7264d76915b830047ba52966fef69e1c85a8b",
+      "width": 1088,
+      "height": 1088,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/2Z3tz1uocY2W0T4gMtHuXre7_PUPcFXA1Op8vObk8KM",
+    "animation_url": "https://arweave.net/2Z3tz1uocY2W0T4gMtHuXre7_PUPcFXA1Op8vObk8KM",
+    "image_details": {
+      "bytes": 74151752,
+      "format": "APNG",
+      "sha256": "5ed467270be7bbb388a346783f4c3642e7a9d9ef459ab9129cc63bd331a2b15f",
+      "width": 1280,
+      "height": 1280
+    },
+    "image": "https://arweave.net/3IzeUo6nDGCOg4YdKxSk5pw4Y3byEFO3pzmKY5Fx66o",
+    "image_url": "https://arweave.net/3IzeUo6nDGCOg4YdKxSk5pw4Y3byEFO3pzmKY5Fx66o"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "address": "0xb5c56c6e19fab91b7878de812b68f689de7095a1",
+  "type": "ERC721",
+  "name": "EVIUM",
+  "tokenCount": "22",
+  "uri": "ipfs://bafybeigqhi4tfsmkfipf6b6zlqndlx5gl4wf5byp7yxxd3ulxylavez56y/1.json",
+  "metadata": {
+    "description": "Donzovelium are the heaviest EVIUM in existence. They weigh up to 50,000kg thanks to their high composition of heavy elements.",
+    "external_url": "https://evium.org",
+    "animation_url": "https://ipfs.io/ipfs/QmNqGqj6RuJ564TPo3T1Tmg4QKcwFCWwzxqqMeGj4sxo5Q/Donzovelium_JP.mp4",
+    "name": "Donzovelium",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "EVIUM",
+        "value": "Donzovelium"
+      },
+      {
+        "trait_type": "Passport Type",
+        "value": "Japanese"
+      },
+      {
+        "trait_type": "Energy Type",
+        "value": "Alpha α"
+      },
+      {
+        "trait_type": "Level",
+        "value": 5
+      },
+      {
+        "trait_type": "Creature Class",
+        "value": "Terrestrial"
+      },
+      {
+        "trait_type": "Holo/Non Holo",
+        "value": "Non Holo"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "HP",
+        "value": 200
+      },
+      {
+        "display_type": "number",
+        "trait_type": "IQ",
+        "value": 50
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Attack",
+        "value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Defense",
+        "value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Heal",
+        "value": 50
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Revive",
+        "value": 50
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "HP Boost",
+        "value": 20
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "IQ Boost",
+        "value": 20
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Attack Boost",
+        "value": 20
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Defense Boost",
+        "value": 20
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Heal Boost",
+        "value": 20
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Revive Boost",
+        "value": 20
+      }
+    ]
+  }
+}

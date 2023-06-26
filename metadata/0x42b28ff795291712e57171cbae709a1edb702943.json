@@ -1,0 +1,78 @@
+{
+  "address": "0x42b28ff795291712e57171cbae709a1edb702943",
+  "type": "ERC721",
+  "name": "NFT - 3v8LuKVXTa",
+  "tokenCount": "5",
+  "uri": "https://us-central1-web-pulsar-12rw.cloudfunctions.net/getNftInfo?networkId=ETH&baseNftId=102&tokenId=1&t=1674224507",
+  "metadata": {
+    "name": "Genesis $PLSR Refinery",
+    "description": "This refinery can turn unrefined $PLSR into refined $PLSR the main currency in the game.\nThe Pulsar Refinery is an essential component of any successful military force, as it allows you to turn your raw Pulsar crystals into the resources you need to build and maintain your army.\nGenesis $PLSR Refineries have 5% refining capacity.",
+    "image": "https://pulsar.game/images/items/Genesis/Refinery_PLSR.png",
+    "animation_url": "",
+    "properties": {
+      "type": {
+        "type": "string",
+        "value": "Unit"
+      },
+      "category": {
+        "type": "string",
+        "value": "Refinery"
+      },
+      "collection": {
+        "type": "string",
+        "value": "$PLSR Mining"
+      },
+      "rarity": {
+        "type": "string",
+        "value": "Genesis"
+      }
+    },
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": 1,
+        "max_value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Refining Power",
+        "value": 0.00035,
+        "max_value": 5.2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Armor",
+        "value": 0,
+        "max_value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Health",
+        "value": 1250,
+        "max_value": 1700
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Movement",
+        "value": 0,
+        "max_value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Storage",
+        "value": 30,
+        "max_value": 5700
+      }
+    ],
+    "drop": "Shop > Units",
+    "id": 102,
+    "social_media": {
+      "youtube_url": "https://www.youtube.com/@pulsar-12rw",
+      "twitter_url": "https://twitter.com/PulsarGame",
+      "twitch_url": "",
+      "linkedin_url": "",
+      "telegram_url": ""
+    }
+  }
+}

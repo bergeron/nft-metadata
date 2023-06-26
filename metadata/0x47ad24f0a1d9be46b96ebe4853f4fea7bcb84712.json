@@ -1,0 +1,43 @@
+{
+  "address": "0x47ad24f0a1d9be46b96ebe4853f4fea7bcb84712",
+  "type": "ERC721",
+  "name": "Bored Ape Court House",
+  "tokenCount": "2000",
+  "uri": "ipfs://QmcjR74UKagTN48zrvtrfNcUhA3fomduNBjkJZ5aURwZzu/1",
+  "metadata": {
+    "dna": "16594eaa276c3b37bf98f3b0810014745d89498327760cf0a11915e0c0c49e45",
+    "name": "Bored Ape Court House #1",
+    "description": "Join the Bored Ape Court House where you can Vote who wins, RR or BAYC.",
+    "image": "ipfs://QmVdFihZGke3ypLpCQFQeJP94nMrFjmqUp73Utcs9kXGfs/1.png",
+    "imageHash": "6f31e0c652942b6f7b02abd5d804c3e65c53edc6f656e07751f28bb45c4891de",
+    "edition": 1,
+    "date": 1656304799724,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cream"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Sleeveless T"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "Court"
+  }
+}

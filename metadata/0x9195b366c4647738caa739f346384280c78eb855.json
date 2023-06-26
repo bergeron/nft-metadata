@@ -1,0 +1,69 @@
+{
+  "address": "0x9195b366c4647738caa739f346384280c78eb855",
+  "type": "ERC721",
+  "name": "Subhuman",
+  "tokenCount": "2547",
+  "uri": "ipfs://QmVYcpHPrpWDRdRir2kr55LtNh7tyDfadQsy1p3ZM74yPZ/1.json",
+  "metadata": {
+    "name": "Subhuman #1",
+    "description": "10000 Subhumans living on the Ehterium Blockchain",
+    "external_url": "https://manic.art",
+    "image": "ipfs://QmbZTgQxU5bf1tosG8zJJQ6bu6euzoABHjcLWNQ4BwrUnm/1.png",
+    "attributes": [
+      {
+        "trait_type": "State Full",
+        "value": "North Dakota"
+      },
+      {
+        "trait_type": "Country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "Age",
+        "value": "48"
+      },
+      {
+        "trait_type": "Tropical Zodiac",
+        "value": "Virgo"
+      },
+      {
+        "trait_type": "Occupation",
+        "value": "Streetcar operator"
+      },
+      {
+        "trait_type": "Company",
+        "value": "Movie Gallery"
+      },
+      {
+        "trait_type": "Blood Type",
+        "value": "O+"
+      },
+      {
+        "trait_type": "Vehicle Year",
+        "value": "1996"
+      },
+      {
+        "trait_type": "Vehicle Make",
+        "value": "Volvo"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        "Manic Distopia"
+      ]
+    },
+    "compiler": "https://manic.art",
+    "collection": {
+      "name": "Subhuman",
+      "family": "Subhuman"
+    },
+    "symbol": ""
+  }
+}

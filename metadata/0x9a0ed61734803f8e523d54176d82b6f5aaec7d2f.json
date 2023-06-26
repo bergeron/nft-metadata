@@ -1,0 +1,46 @@
+{
+  "address": "0x9a0ed61734803f8e523d54176d82b6f5aaec7d2f",
+  "type": "ERC1155",
+  "name": "test_pb",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/n-syJxF7nXrZEuek5XDMkXNKZ85EZe-dUTE2Cleohr8",
+  "metadata": {
+    "name": "Interlock",
+    "created_by": "Lee Youngrim",
+    "description": "본 NFT 작품에서 이영림 작가의 판화 작품과 부조 설치 작업의 경계는 완전히 허물어지고 시점의 한계는 완연히 극복되었다. 관람하는 이는 다방면의 각도에서 작가의 작품을 온전히 즐길 수 있다.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "\bLee Youngrim"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Volume",
+        "value": "1"
+      }
+    ],
+    "animation_details": {
+      "bytes": 42432240,
+      "format": "MP4",
+      "duration": 23,
+      "sha256": "cc475c3c0f33ab8b3e4f6fdeb603957fa47b75c35516110929aa3adb8553f524",
+      "width": 1080,
+      "height": 1920,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/2fRxT3QjVC9LTFSQ4cILRF1a45u_C4ytCVI7uG6Edkw",
+    "animation_url": "https://arweave.net/2fRxT3QjVC9LTFSQ4cILRF1a45u_C4ytCVI7uG6Edkw",
+    "image_details": {
+      "bytes": 6149110,
+      "format": "PNG",
+      "sha256": "5f02461ffb6c96893bb942b4877b185b774aaad6c27f6392386f98b6c5c89140",
+      "width": 1080,
+      "height": 1920
+    },
+    "image": "https://arweave.net/Vj4t9vvIz2faR7JVhT-MQsJDVVAjxlJw3zVo-cKzmPM",
+    "image_url": "https://arweave.net/Vj4t9vvIz2faR7JVhT-MQsJDVVAjxlJw3zVo-cKzmPM"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "address": "0x99e51171f4e9fc035a8ca6803d4a19a2669fc6c3",
+  "type": "ERC1155",
+  "name": "BattleDrome Fungibles",
+  "tokenCount": "3",
+  "uri": "https://metadata.battledrome.io/api/erc1155-fame/1",
+  "metadata": {
+    "name": "Founders Credit",
+    "description": "**BattleDrome Founders Credits:**\n\nThese are converted from legacy FAME tokens from the earlier ERC20 days of BattleDrome Development. They are held by original funders/backers of the project, and are highly valuable.\n\nThese can only be minted by owners of the original ERC20 FAME tokens at: https://etherscan.io/token/0x190e569be071f40c704e15825f285481cb74b6cc \n\nThis means that there is not only a very fixed/limited supply of these (as the total supply of FAM is limited at approx 76,000), but these will be more limited as only those choosing to permenantly burn their FAME on the old ERC20 contract will receive Founders Credits.\n\nFounders Credits are also valuable because they are the only way new ERC1155 FAME tokens can be minted, 1 Founders Credit entitles the owner to mint 1000 FAME tokens on the new contract.\n\nIn addition, Founders Credits are also the only way to mint 'Senate Seats' which are another ERC1155 Token which allows direct voting power over the ongoing operation and decisions in the BattleDrome ecosystem, essentially giving their owners control over BattleDrome's future! It takes 10 Founders Credits to enable the owner to mint 1 Senate Seat.\n\nNote: Minting FAME or Senate Seats PERMENANTLY burns the Founders Credit. Meaning not only do these have a fixed limit on total token supply, but the supply will diminish over time.",
+    "image": "https://metadata.battledrome.io/images/founders-credit.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0xbd81ee52d98165025a70c3162c322d1fb5e07459",
+  "type": "ERC721",
+  "name": "Rosa Menkman",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/uJwRyYWUfbRONXOOD5QTeiPmHyLZqbb6u03yTXpxkeo",
+  "metadata": {
+    "name": "JPEG from A Vernacular of File Formats, (2009 - 2010), 2023 revisitation with hidden message in DCT",
+    "created_by": "Rosa Menkman",
+    "external_url": "https://beyondresolution.info/JPEG",
+    "description": "NFT:  \nnon-fungible token ERC-721  \nMinted in 2023, 1/1.  \nmedium: JPEG.\n\nPrint:  \nJPEG from A Vernacular of File Formats, (2009 - 2010), 2023 revisitation with hidden message in DCT, 1/1 (1AP).  \ngliclée print on paper. \nsheet: 40 by 30.5 in. / 101.6 by 77.5 cm.  \nExecuted in 2023, this work is unique aside one artist's proof.\n\nIn this work specifically created for the Sotheby's auction, I combined two existing pieces: A Vernacular of File Formats (2010) and DCT (2015). I selected my JPEG portrait from A Vernacular of File Formats as the source image for this piece, onto which I embedded a secret message using DCT Encryption. \n\nA Vernacular of File Formats explores the various compression algorithms used to save and read (encode and decode) image data. \nIn this work, I compressed the same source image, a self-portrait, via different algorithms (BMP, JPEG, GIF, etc). As a result, I collected a set of different image data files that all render into identically looking images. \nI then introduced a same or similar error to each file: I 'glitched them'. A method that introduces the normally invisible compression language to crack onto the surface of the image.\n\nIn DCT I use the aesthetics of JPEG glitches - known as macroblocking - to write and mask secret messages onto the surface of the image. \nAt the basis of the JPEG compression sits the DCT algorithm, consisting of 64 macroblocks that together form the core ingredients of any JPEG image. I abstracted these 64 different macroblocks and mapped them onto the most used glyphs (0-9, A-Z, etc). The resulting font, titled DCT, can be used to stenographically write a message onto the surface of the image, mimicking a glitch.\n\nThe encrypted message in this new work reads: \n\n\"The true value of a work of art extends beyond its market, \nenwrapping both its cultural and historic significance.\"\n\nhttps://beyondresolution.info/JPEG",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Rosa Menkman"
+      }
+    ],
+    "image_details": {
+      "bytes": 1125898,
+      "format": "JPEG",
+      "sha256": "57f1294b4b0e004e6775e579a4a227f91dc6652742344ab8dfe198e3e0ebb50e",
+      "width": 1000,
+      "height": 763
+    },
+    "image": "https://arweave.net/oZcUdq13OWMpVXNnTjzZ7bOAk62jPRNbHZ--koDA3Wc",
+    "image_url": "https://arweave.net/oZcUdq13OWMpVXNnTjzZ7bOAk62jPRNbHZ--koDA3Wc"
+  }
+}

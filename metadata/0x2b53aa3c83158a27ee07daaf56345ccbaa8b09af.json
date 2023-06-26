@@ -1,0 +1,78 @@
+{
+  "address": "0x2b53aa3c83158a27ee07daaf56345ccbaa8b09af",
+  "type": "ERC721",
+  "name": "Banned NFT",
+  "tokenCount": "421",
+  "uri": "https://api.banned.studio/metadata/1",
+  "metadata": {
+    "ipfs": "",
+    "name": "Banned #1",
+    "image": "http://api.banned.studio/image/1",
+    "attributes": [
+      {
+        "value": "images/chip/41.jpg",
+        "trait_type": "image_1"
+      },
+      {
+        "value": "images/jake/24.jpeg",
+        "trait_type": "image_2"
+      },
+      {
+        "value": "images/MiloFynn/2.jpg",
+        "trait_type": "image_3"
+      },
+      {
+        "value": "Chip Walker",
+        "trait_type": "artist_1"
+      },
+      {
+        "value": "Jake",
+        "trait_type": "artist_2"
+      },
+      {
+        "value": "Mylo Fynn",
+        "trait_type": "artist_3"
+      },
+      {
+        "value": "tiles",
+        "trait_type": "filter_1"
+      },
+      {
+        "value": "analog lines",
+        "trait_type": "filter_2"
+      },
+      {
+        "value": "vcr",
+        "trait_type": "filter_3"
+      },
+      {
+        "value": "white",
+        "trait_type": "background"
+      },
+      {
+        "value": "gold",
+        "trait_type": "border"
+      },
+      {
+        "value": 20,
+        "trait_type": "pixelSize"
+      },
+      {
+        "value": 5,
+        "trait_type": "intensity"
+      },
+      {
+        "value": 431907,
+        "trait_type": "seed"
+      },
+      {
+        "value": "Unique Artists",
+        "trait_type": "artistMix"
+      }
+    ],
+    "description": "BANNED is a generative art NFT project seeded with the unique photography of @JakeTheDegen, @iJmillz, @ChipWalkerNFT and a roster of incredible guest photographers. It is a declaration that community and greatness stems from what one does in the face of adversity. The goal of this collection is to support rising artists in the NFT photography community. 50% of all proceeds will be used to onboard photographers to their own smart contract, giving them true provenance on the blockchain, as well as collecting work from emerging photographers.",
+    "external_url": "http://api.banned.studio/1",
+    "tokenId": 1,
+    "source": "http://api.banned.studio/"
+  }
+}

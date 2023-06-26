@@ -1,0 +1,28 @@
+{
+  "address": "0x884f3b6d68dcc64bad97c84b5e32b80ce0ebbe7d",
+  "type": "ERC721",
+  "name": "SFI Vesting Voucher",
+  "tokenCount": "8",
+  "uri": "data:application/json,{\"name\":\"SFI Allocation Voucher #1 - 1.00 - OneTime\", \"description\":\"Voucher #1 of SFI allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade SFI's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!\",\"image\": \"https://imgurl.solv.finance/meta/images/icSFI/1.png\",\"external_url\":\"https://app.solv.finance/icSFI/1\", \"properties\": {\"owner\":\"0x0659671806d17c1e46e19a5875a73c2d20e54172\",\"underlying\":\"0xb753428af26e81097e7fd17f40c88aaa3e04902c\",\"underlyingSymbol\":\"SFI\",\"vestingAmount\":\"1.000000000000000000\",\"principal\":\"1.000000000000000000\",\"claimType\":\"OneTime\",\"claimableAmount\":\"1.000000000000000000\",\"percentages\":[\"100.00%\"],\"maturities\":[1623456000]}}",
+  "metadata": {
+    "name": "SFI Allocation Voucher #1 - 1.00 - OneTime",
+    "description": "Voucher #1 of SFI allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade SFI's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!",
+    "image": "https://imgurl.solv.finance/meta/images/icSFI/1.png",
+    "external_url": "https://app.solv.finance/icSFI/1",
+    "properties": {
+      "owner": "0x0659671806d17c1e46e19a5875a73c2d20e54172",
+      "underlying": "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
+      "underlyingSymbol": "SFI",
+      "vestingAmount": "1.000000000000000000",
+      "principal": "1.000000000000000000",
+      "claimType": "OneTime",
+      "claimableAmount": "1.000000000000000000",
+      "percentages": [
+        "100.00%"
+      ],
+      "maturities": [
+        1623456000
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "address": "0xc903de9b38dca27f269d7f7890d787d398b8c991",
+  "type": "ERC721",
+  "name": "Eth - KXT",
+  "tokenCount": "106",
+  "uri": "ipfs://QmTn3Zf1bM29RAi8KoEkgzPe63Lnh7dMpZUHmb37smmJa6",
+  "metadata": {
+    "rawType": "GemItem",
+    "rawContent": "{\"Spells\":[],\"TemplateId\":235,\"Stats\":[{\"TemplateId\":52,\"Amount\":13.0},{\"TemplateId\":49,\"Amount\":2.5999999046325684},{\"TemplateId\":50,\"Amount\":2.5999999046325684},{\"TemplateId\":51,\"Amount\":0.0}],\"ILvlWithoutGems\":0,\"EnchantmentId\":0,\"EnchantmentTier\":0,\"CustomDataList\":null,\"Type\":5,\"IsLocked\":false,\"LockedAt\":null,\"Id\":\"635033382a732a2a5b2d3b3c\",\"CreatedAt\":\"2022-10-19T17:26:16.89Z\",\"UpdatedAt\":\"2022-10-19T17:26:16.89Z\",\"IdAsString\":\"635033382a732a2a5b2d3b3c\"}",
+    "name": "Gem of Magic Bolt",
+    "image": "https://kryxsadefault.blob.core.windows.net/items/235.png",
+    "external_url": "https://kryxivia.io/nft/635033382a732a2a5b2d3b3c",
+    "attributes": [
+      {
+        "display_type": "BoostNumber",
+        "trait_type": "GemPurity",
+        "value": 13
+      },
+      {
+        "display_type": "BoostNumber",
+        "trait_type": "GemDamage",
+        "value": 2.5999999046325684
+      },
+      {
+        "display_type": "BoostNumber",
+        "trait_type": "GemCooldownReduction",
+        "value": 2.5999999046325684
+      },
+      {
+        "display_type": "BoostNumber",
+        "trait_type": "GemCastSpeed",
+        "value": 0
+      },
+      {
+        "display_type": "Date",
+        "trait_type": "Creation",
+        "value": "1670286566259"
+      }
+    ]
+  }
+}

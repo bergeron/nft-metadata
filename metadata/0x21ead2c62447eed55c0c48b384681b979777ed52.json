@@ -1,0 +1,46 @@
+{
+  "address": "0x21ead2c62447eed55c0c48b384681b979777ed52",
+  "type": "ERC721",
+  "name": "Sticky Mixtapes",
+  "tokenCount": "16",
+  "uri": "ipfs://QmR6Hkgsfw1Q8YQyXRa1ymJD7x13mVt8uaXJZrd3jYp7qs/1.json",
+  "metadata": {
+    "dna": "f71abf67b400c5e9ff69d0c0f0e0f9728f32bc33",
+    "name": "Mixtape #1",
+    "description": "This mixtape contains exclusive tracks.",
+    "image": "ipfs://QmZvkqnuXZy2xgp2uYq13wuJZ3CNLjouuFupidCZYEaNwH/1.png",
+    "edition": 1,
+    "date": 1635208979141,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Shell Type",
+        "value": "Regular"
+      },
+      {
+        "trait_type": "Shell Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Label",
+        "value": "Type 1 - Blue"
+      },
+      {
+        "trait_type": "Screws",
+        "value": "Type B"
+      },
+      {
+        "trait_type": "Window",
+        "value": "Numbers"
+      },
+      {
+        "trait_type": "Condition",
+        "value": "Sticky"
+      }
+    ],
+    "compiler": "Art Engine"
+  }
+}

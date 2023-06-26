@@ -1,0 +1,68 @@
+{
+  "address": "0x1836378bdd07e45bb02437710ac4e8d5a97a5649",
+  "type": "ERC721",
+  "name": "AstralDungeons Blasons",
+  "tokenCount": "51",
+  "uri": "ipfs://QmPVEQo3J6Wvq3V8K4bzbrMNoXVcweBfhqKAzwx3rVB6xg/1.json",
+  "metadata": {
+    "name": "AstralDungeons #1",
+    "symbol": "AG4AD",
+    "description": "AstralGuilds NFTs are related to the game Astral Dungeons, This first series lists the blazons, or coat of arms, that will be used in the game. Even if it's a freemint, you will need one of these to be allowed to create your own Guild in Astral Dungeons!",
+    "dna": "b94744a9918b7e260e665da256b11b5e114ad973",
+    "seller_fee_basis_points": 7,
+    "image": "ipfs://QmUTwQPbBXumU8tz1ouu8pFnWp9TGZe9CZ2bVGdbNDqUiT/1.png",
+    "external_url": "https://www.astraldungeons.com",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "outer background",
+        "value": "Blue Dream"
+      },
+      {
+        "trait_type": "color base background",
+        "value": "Gules"
+      },
+      {
+        "trait_type": "metal single",
+        "value": "Golden Crown under Silver Stars"
+      },
+      {
+        "trait_type": "base",
+        "value": "Sand"
+      },
+      {
+        "trait_type": "frame",
+        "value": "Metal Frame"
+      },
+      {
+        "trait_type": "nature_element",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "origin_element",
+        "value": "Space"
+      },
+      {
+        "trait_type": "spiritual_element",
+        "value": "Soul"
+      },
+      {
+        "trait_type": "traitsCount",
+        "value": 8
+      }
+    ],
+    "collection": {
+      "name": "AstralDungeons",
+      "family": "AstralGuilds"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://QmUTwQPbBXumU8tz1ouu8pFnWp9TGZe9CZ2bVGdbNDqUiT/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
+}

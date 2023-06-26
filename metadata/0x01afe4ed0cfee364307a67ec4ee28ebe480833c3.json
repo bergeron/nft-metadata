@@ -1,0 +1,23 @@
+{
+  "address": "0x01afe4ed0cfee364307a67ec4ee28ebe480833c3",
+  "type": "ERC1155",
+  "name": "IX. Labs Mint Badges",
+  "tokenCount": "3",
+  "uri": "https://mastercatsnft.io:7777/api/tokens/getBadge/1",
+  "metadata": {
+    "name": "Alpha Voucher",
+    "description": "A mint voucher created by IX. Labs to give holders guaranteed access to IX. Labs NFT Drops. Vouchers can only be redeemed while a Drop is live and supplies last. All mint vouchers used to claim a NFT will be burned upon minting.",
+    "image": "https://mastercatsnft.io:7777/images/badges/alpha-voucher.jpg",
+    "animation_url": "https://mastercatsnft.io:7777/images/badges/alpha-voucher.mp4",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Mint Voucher"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Alpha"
+      }
+    ]
+  }
+}

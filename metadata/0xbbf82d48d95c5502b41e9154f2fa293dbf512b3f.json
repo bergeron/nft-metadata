@@ -1,0 +1,29 @@
+{
+  "address": "0xbbf82d48d95c5502b41e9154f2fa293dbf512b3f",
+  "type": "ERC721",
+  "name": "Prints",
+  "tokenCount": "899",
+  "uri": "ipfs://bafybeiavz4jag3udx44uwhzivwqamt65oznnp3lq32t5m4ahaqj2mpf5ci/1.json",
+  "metadata": {
+    "name": "Print #1",
+    "description": "Prints are a collection of 1/1 finger prints generated with p5.js, only the crime related to the finger prints are known. ",
+    "image": "ipfs://bafybeihiw3zfgsl7g5rpykkeq5jeafyofmlsts5nhf5iqzr7q6dur7hgea/1.png",
+    "dna": "",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "id",
+        "value": 1
+      },
+      {
+        "trait_type": "Crime",
+        "value": "Possession of Narcotics"
+      },
+      {
+        "trait_type": "DNA",
+        "value": "l7g25be2312dbc137a23070e746dc442f3dd6b9k"
+      }
+    ],
+    "compiler": "Prints"
+  }
+}

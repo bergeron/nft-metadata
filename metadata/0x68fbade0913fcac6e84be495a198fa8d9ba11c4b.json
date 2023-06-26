@@ -1,0 +1,35 @@
+{
+  "address": "0x68fbade0913fcac6e84be495a198fa8d9ba11c4b",
+  "type": "ERC721",
+  "name": "My Phygital Cap - CES23",
+  "tokenCount": "200",
+  "uri": "ipfs://QmWqckkeudrSo7X5s3DVx2vHiaR4EM49rzMhaVz71EqV1Y/metadata/2.json",
+  "metadata": {
+    "name": "My phygital cap #03",
+    "description": "‘MY PHIGITAL CAP’. A physical item that can be worn in the metaverse, or vice versa.\r\n\r\nThis NFT was created and physically paired to the cap by using Authena M3TA technology: the highest industry standard for product authentication and linking physical and digital worlds (NFC anti-counterfeit).",
+    "external_url": "https://secure.authena.io/m3ta-wallet/",
+    "image": "ipfs://QmW2j3wYsAdxvzVEwSk4VRfYeuVvLKymd1tNX7yr6uu7GM/pictures/2.jpg",
+    "attributes": [
+      {
+        "trait_type": "NUMBER",
+        "value": "3"
+      },
+      {
+        "trait_type": "ITEM",
+        "value": "HEADWEAR"
+      },
+      {
+        "trait_type": "COLLECTION",
+        "value": "MY PHYGITAL CAP"
+      },
+      {
+        "trait_type": "PHYGITAL UID",
+        "value": "042D0EB20A6184"
+      },
+      {
+        "trait_type": "CREATOR",
+        "value": "AUTHENA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "address": "0xb1e1cd8f8825b56035f57aab90ca5cd4712187e9",
+  "type": "ERC721",
+  "name": "Kiroshi NFTs",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeif2ke6qlfhnzkujwtajvscadywedeassaj736yry2vakikzet6lg4/1.json",
+  "metadata": {
+    "name": "Kiroshi #1",
+    "symbol": "ENJOY",
+    "description": "Kiroshi is a 3D Collection - are 7000 randomly Kiroshi conducting Business on the Ethereum Blockchain.",
+    "seller_fee_basis_points": 1000,
+    "image": "ipfs://bafybeihv2ebaunrxofjq7p2hfwgudefyu4g6vkj5qtnjoqwr4x5kfyrvxe/1.png",
+    "external_url": "",
+    "collection": {
+      "name": "Kiroshi",
+      "family": "Cuber"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Entertainment Street"
+      },
+      {
+        "trait_type": "Back",
+        "value": "M4a4"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Turquoise"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Stripes"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Leg",
+        "value": "Bandage With A Knife 2"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Gradient Blue Pink"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Silver Leaf"
+      },
+      {
+        "trait_type": "Headdress",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 2703,
+        "display_type": "number",
+        "max_value": 7000
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x4FA2bED7b4b18387b6FB773f1493b1E0a72D2D37",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

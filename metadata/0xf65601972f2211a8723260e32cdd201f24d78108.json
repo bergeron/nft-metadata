@@ -1,0 +1,63 @@
+{
+  "address": "0xf65601972f2211a8723260e32cdd201f24d78108",
+  "type": "ERC721",
+  "name": "BraveApeYachtClub",
+  "tokenCount": "82",
+  "uri": "https://gitlab.com/riselabs/BraveApeYachtClub/-/raw/main/0/1.json",
+  "metadata": {
+    "description": "Brave Ape Yacht Club is a collection of 10000 unique brave ape NFTs",
+    "external_url": "http://braveapeyachtclub.com/",
+    "image": "https://ipfs.braveapeyachtclub.com/1024/0/1.png",
+    "name": "Brave Ape Yacht Club #1",
+    "attributes": [
+      {
+        "trait_type": "Habitat",
+        "value": "lake",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": null,
+        "order": null
+      },
+      {
+        "trait_type": "DNA",
+        "value": "Human",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": null,
+        "order": null
+      },
+      {
+        "trait_type": "Wisdom_value",
+        "value": "3%",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": null,
+        "order": null
+      },
+      {
+        "trait_type": "characteristic",
+        "value": "Perfect",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": null,
+        "order": null
+      }
+    ],
+    "title": "Brave Ape Yacht Club",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Brave Ape Yacht Club"
+      },
+      "description": {
+        "type": "string",
+        "description": "Brave Ape Yacht Club is a collection of 10000 unique brave ape NFTs"
+      },
+      "image": {
+        "type": "string",
+        "description": "https://ipfs.braveapeyachtclub.com/1024/0/1.png"
+      }
+    }
+  }
+}

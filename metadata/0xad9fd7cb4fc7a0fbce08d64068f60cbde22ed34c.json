@@ -1,0 +1,88 @@
+{
+  "address": "0xad9fd7cb4fc7a0fbce08d64068f60cbde22ed34c",
+  "type": "ERC721",
+  "name": "VOX Collectibles: Town Star",
+  "tokenCount": "8888",
+  "uri": "https://www.collectvox.com/metadata/town-star/8305",
+  "metadata": {
+    "name": "Nuclear Engineer VOX #8305",
+    "description": "VOX are unique collectibles, with provably randomized traits. Own, trade, play and earn with your unique NFT character.",
+    "external_url": "https://www.collectvox.com/store/town-star/8305",
+    "image": "ipfs://QmVrfSeNPDAe83h1gKNcD2eMU52troSshvm3YsjT2RoE3f/image.png",
+    "model": "ipfs://QmVrfSeNPDAe83h1gKNcD2eMU52troSshvm3YsjT2RoE3f/model.fbx",
+    "attributes": [
+      {
+        "trait_type": "Class",
+        "value": "Nuclear Engineer"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Hazmat Suit "
+      },
+      {
+        "trait_type": "Held Item",
+        "value": "Flask"
+      },
+      {
+        "trait_type": "Suit Color",
+        "value": "Orange",
+        "colors": [
+          {
+            "name": "Suit",
+            "value": "#f57e33"
+          },
+          {
+            "name": "Accent",
+            "value": "#b55d26"
+          },
+          {
+            "name": "Hazard Background",
+            "value": "#db702e"
+          }
+        ]
+      },
+      {
+        "trait_type": "Glove Color",
+        "value": "Medium Gray",
+        "colors": [
+          {
+            "name": "Glove",
+            "value": "#4d4a43"
+          },
+          {
+            "name": "Accent",
+            "value": "#d9d0bd"
+          },
+          {
+            "name": "Boot",
+            "value": "#0a0a09"
+          }
+        ]
+      },
+      {
+        "trait_type": "Helmet Glass Color",
+        "value": "White",
+        "colors": [
+          {
+            "name": "Helmet Glass",
+            "value": "#ecebe6"
+          },
+          {
+            "name": "Reflection",
+            "value": "#faf9f2"
+          }
+        ]
+      },
+      {
+        "trait_type": "Zipper Color",
+        "value": "Screamin' Green",
+        "colors": [
+          {
+            "name": "Zipper",
+            "value": "#83f752"
+          }
+        ]
+      }
+    ]
+  }
+}

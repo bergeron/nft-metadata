@@ -1,0 +1,60 @@
+{
+  "address": "0xc91a27e130feb0a91c53ec0298bbc18e18829304",
+  "type": "ERC721",
+  "name": "Pepes - Women's day edition",
+  "tokenCount": "57",
+  "uri": "ipfs://QmXzUSRz24A5ifh8Aws3JRsWaa4LAKLidwoAib65Pge9n8/1",
+  "metadata": {
+    "name": " Pepes - Women's day edition#8",
+    "description": "Happy Women's Day! ",
+    "image": "ipfs://QmVkCRyJYT8wjjCHdHZGqkBxZpMR7zcHyK6ffY5SBay4ie/1.png",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "/8.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x45906DdbaEaDE1E36Bb35273d5418f36Ea7F1B45",
+          "share": "100"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Jovial"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad"
+      },
+      {
+        "trait_type": "Hairstyle",
+        "value": "Ponytail"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Sailor"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      }
+    ],
+    "symbol": " Pepes - Women's day edition",
+    "seller_fee_basis_points": "0",
+    "collection": {
+      "name": "Pepes - Women's Day Edition",
+      "family": "WMN"
+    }
+  }
+}

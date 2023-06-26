@@ -1,0 +1,57 @@
+{
+  "address": "0x5cb42a8f4f490ac0ca657aba8ce971efe4058b53",
+  "type": "ERC721",
+  "name": "Eth single editions",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/z3Z1iRP_nsxT5j8M9NJi1B9U09J_19cIxIupLuoaasE",
+  "metadata": {
+    "name": "Sunset and rain",
+    "created_by": "Urban.paintingz",
+    "description": "I love the atmosphere in this painting. As the sun sets it creates long shadows . There is the beginning of a beautiful sunset in the distance which the person is walking towards.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Urban.paintingz"
+      },
+      {
+        "trait_type": "Sunset",
+        "value": "Sunset"
+      },
+      {
+        "trait_type": "Location ",
+        "value": "London"
+      },
+      {
+        "trait_type": "Rain",
+        "value": "rain"
+      },
+      {
+        "trait_type": "Architecture",
+        "value": "Architecture"
+      }
+    ],
+    "animation_details": {
+      "bytes": 25366253,
+      "format": "MP4",
+      "duration": 20,
+      "sha256": "d379f0540452c16293176e5352cc8199f4b556e58f5b858605996cfbbe1982e5",
+      "width": 1080,
+      "height": 1352,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/tzS3l2U4kveoMwnTFFHLiOV2Gs5pzlrb7GUQvMAW6JE",
+    "animation_url": "https://arweave.net/tzS3l2U4kveoMwnTFFHLiOV2Gs5pzlrb7GUQvMAW6JE",
+    "image_details": {
+      "bytes": 1269016,
+      "format": "JPEG",
+      "sha256": "2303a0f881932f04b511865bc0636cd8d44996d61ffa26ff4907ee0516e5b3d5",
+      "width": 1080,
+      "height": 1350
+    },
+    "image": "https://arweave.net/Wtv6BQFbIjMxfUlW2PPXlQ7s_5YLoQ9E2TTQg9djMaI",
+    "image_url": "https://arweave.net/Wtv6BQFbIjMxfUlW2PPXlQ7s_5YLoQ9E2TTQg9djMaI"
+  }
+}

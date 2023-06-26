@@ -1,0 +1,52 @@
+{
+  "address": "0xd5299bf6e620f2b62035a690f0dfad7d793659e6",
+  "type": "ERC721",
+  "name": "CyberOrigin NFT",
+  "tokenCount": "7",
+  "uri": "https://data.ubiquat.com/cyberorigin/nft01/1",
+  "metadata": {
+    "name": "D&S Grand Shar DB",
+    "description": "Dubey & Schaldenbrand Grand Shar DB NFT Token",
+    "image": "https://storageapi.fleek.co/53f9c649-a2a1-499a-8538-935804b77d21-bucket/02-CyberOrigin/ETH/NFT01/1-Data/dubey1.png",
+    "attributes": [
+      {
+        "trait_type": "Marque",
+        "value": "Dubey & Schaldenbrand"
+      },
+      {
+        "trait_type": "Modèle",
+        "value": "Grand Shar DB"
+      },
+      {
+        "trait_type": "Référence",
+        "value": "GSAR/ST/SIB/LS"
+      },
+      {
+        "trait_type": "CYBER-ID",
+        "value": "CYT224D16"
+      },
+      {
+        "trait_type": "Numéro de série",
+        "value": "#101"
+      }
+    ],
+    "info_proprietaire": "https://storageapi.fleek.co/53f9c649-a2a1-499a-8538-935804b77d21-bucket/02-CyberOrigin/ETH/NFT01/1-Data/proprietaire.json",
+    "photos": [
+      "https://storageapi.fleek.co/53f9c649-a2a1-499a-8538-935804b77d21-bucket/02-CyberOrigin/ETH/NFT01/1-Data/GSAR_ST_SIB_LS_0381.jpg",
+      "https://storageapi.fleek.co/53f9c649-a2a1-499a-8538-935804b77d21-bucket/02-CyberOrigin/ETH/NFT01/1-Data/GSAR_ST_SIB_LS_0397.jpg",
+      "https://storageapi.fleek.co/53f9c649-a2a1-499a-8538-935804b77d21-bucket/02-CyberOrigin/ETH/NFT01/1-Data/GSAR_ST_SIB_LS_2.jpg"
+    ],
+    "garantie": {
+      "document": "https://storageapi.fleek.co/53f9c649-a2a1-499a-8538-935804b77d21-bucket/02-CyberOrigin/ETH/NFT01/1-Data/garantia.jpg",
+      "debut": "26/04/22",
+      "fin": "26/04/26"
+    },
+    "matiere": "Acier 316L",
+    "mouvement": "Valjoux 7750",
+    "reserve_de_marche": "48 heures",
+    "fonctions": [
+      "Heures, minutes, secondes et date",
+      "Chronograph avec compteur des secondes minutes et heures"
+    ]
+  }
+}

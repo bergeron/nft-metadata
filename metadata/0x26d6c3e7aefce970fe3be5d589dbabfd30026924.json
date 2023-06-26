@@ -1,0 +1,26 @@
+{
+  "address": "0x26d6c3e7aefce970fe3be5d589dbabfd30026924",
+  "type": "ERC721",
+  "name": "ZenAcademy Student IDs",
+  "tokenCount": "14290",
+  "uri": "https://zenacademy.com/api/tokens/1",
+  "metadata": {
+    "name": "ZenAcademy Student ID: 1",
+    "description": "This ID is your unique identification card which is soulbound to your wallet and will unlock future badges within ZenAcademy.",
+    "image": "https://isjqlhzebctpmmlrqsen.supabase.co/storage/v1/render/image/public/images/tokens/1.png",
+    "attributes": [
+      {
+        "trait_type": "First Edition",
+        "value": true
+      },
+      {
+        "trait_type": "ID Number",
+        "value": 1
+      },
+      {
+        "trait_type": "Mint Date",
+        "value": "2/8/2023"
+      }
+    ]
+  }
+}

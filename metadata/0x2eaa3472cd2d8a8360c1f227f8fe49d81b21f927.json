@@ -1,0 +1,48 @@
+{
+  "address": "0x2eaa3472cd2d8a8360c1f227f8fe49d81b21f927",
+  "type": "ERC1155",
+  "name": "FraktalNFTCitadel Of The Machines",
+  "tokenCount": "2",
+  "uri": "https://www.citadelofthemachines.com/token/4212",
+  "metadata": {
+    "name": "Hexadroid #4212",
+    "image": "https://nft.citadelofthemachines.com/screenshot/29924cf3-ebf2-4050-b896-dff81c5b2f4f.jpg",
+    "external_url": "https://www.citadelofthemachines.com/machine/4212",
+    "description": "Machine #4212",
+    "attributes": [
+      {
+        "trait_type": "Decal",
+        "value": "#12"
+      },
+      {
+        "trait_type": "Decal Palette",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Content"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Metallic orange"
+      },
+      {
+        "trait_type": "Speed",
+        "value": 45
+      },
+      {
+        "trait_type": "Power",
+        "value": 36
+      },
+      {
+        "trait_type": "Class",
+        "value": "Evaluator"
+      }
+    ],
+    "model": {
+      "type": "string",
+      "description": "https://nft.citadelofthemachines.com/gltf/29924cf3-ebf2-4050-b896-dff81c5b2f4f.gltf"
+    },
+    "animation_url": "https://nft.citadelofthemachines.com/gltf/29924cf3-ebf2-4050-b896-dff81c5b2f4f.gltf"
+  }
+}

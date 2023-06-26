@@ -1,0 +1,47 @@
+{
+  "address": "0x701d32f0bbb18db243410e82d438ff5d917bd799",
+  "type": "ERC721",
+  "name": "MomentX Genesis Tablet",
+  "tokenCount": "1000",
+  "uri": "https://meta.momentx.app/genesis/tables/1.json",
+  "metadata": {
+    "dna": "97c899c29daa9e868fd608feaefa4707775dd460",
+    "name": "MomentX Genesis Tablet #1",
+    "description": "The Genesis Tablet allows the holder to receive special benefits, abilities, and prestige that distingishes him or her from the rest of the participants in the MomentX Metaverse. There will never be more than 1,000 Genesis Tablets, making them exceedingly rare.",
+    "image": "https://meta.momentx.app/genesis/tables/resources/1.png",
+    "gamefi_URI": "https://meta.momentx.app/genesis/tables/gamefi/1.json",
+    "edition": 1,
+    "date": 1634230421435,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Static"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Aether"
+      },
+      {
+        "trait_type": "Tablet Base",
+        "value": "Stone"
+      },
+      {
+        "trait_type": "Base Line",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "Line Glow",
+        "value": "Anima"
+      },
+      {
+        "trait_type": "MomentX Symbol",
+        "value": "Ianna"
+      },
+      {
+        "trait_type": "Sparks",
+        "value": "L999"
+      }
+    ],
+    "compiler": "MomentX Team"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "address": "0x32047550e05e96f7e15d5d855fe3b7628eaa789b",
+  "type": "ERC721",
+  "name": "MilkToken",
+  "tokenCount": "3",
+  "uri": "ipfs://QmeZWDabStxCMvZuAxtKygEivMECTPNbTxJwAevVrRqp8d/1.json",
+  "metadata": {
+    "description": "A token of self love.",
+    "external_url": "https://milkytaste.xyz",
+    "image": "ipfs://QmXVpeGk7DmUM6YfCipirbdLu4J5q4J9YP19a4yKuEd2vH/1.png",
+    "name": "MilkToken #1",
+    "attributes": [
+      {
+        "trait_type": "Revealed",
+        "value": "Revealed"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      },
+      {
+        "trait_type": "Foreground",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Project Name",
+        "value": "MilkProjects"
+      },
+      {
+        "trait_type": "Project Website",
+        "value": "https://milkytaste.xyz"
+      }
+    ]
+  }
+}

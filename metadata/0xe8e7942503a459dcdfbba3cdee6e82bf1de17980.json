@@ -1,0 +1,30 @@
+{
+  "address": "0xe8e7942503a459dcdfbba3cdee6e82bf1de17980",
+  "type": "ERC721",
+  "name": "PlanturaObscura",
+  "tokenCount": "20",
+  "uri": "ipfs://bafybeibvh7ymmrinrj2uy7sgei7ytk33ewwo7vdqup453f5bec5ueufevy/1.json",
+  "metadata": {
+    "name": "Plantura Obscura #1",
+    "description": "A hand drawn collection of rare and common houseplants and tokens",
+    "image": "ipfs://bafybeihrppbik2ker3sdhwidsqso5dx75hlmbn5ow2s47rkrwo6jku3hvy/1.png",
+    "dna": "fab8680e35ca3fea30c7ad4d9bf0637af925fd24",
+    "edition": 1,
+    "date": 1664490933191,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grass"
+      },
+      {
+        "trait_type": "Large Pot",
+        "value": "In Bloom"
+      },
+      {
+        "trait_type": "Large Plant",
+        "value": "Snake Plant"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

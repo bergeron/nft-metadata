@@ -1,0 +1,35 @@
+{
+  "address": "0xd4d036d479d8d9c5ac25adaa73a9ff31a3243501",
+  "type": "ERC721",
+  "name": "E-Moose Official",
+  "tokenCount": "6",
+  "uri": "ipfs://bafybeihpiukskkkva72ih2xkz3dbqplgvver4sv5gp3ddkrpjxfwmaxbwi/1.json",
+  "metadata": {
+    "name": "E-Moose on the Rocks",
+    "symbol": "EM",
+    "description": "E-Moose on the Rocks. Created by Joel Harvey Schreck. \n\nRequirements: Credit to artist on all reproductions.",
+    "image": "ipfs://bafybeihd4jamtxgvddikchzdfgg75vwcv6e6nk64kzd27zmivlmt6o7jwe/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Number of Moose",
+        "value": "2"
+      },
+      {
+        "trait_type": "Orientation",
+        "value": "Horizontal"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2022"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.jpg",
+          "type": "image/jpg"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "address": "0x437b9eb52649875f06634f5678f1583ca48e0dfb",
+  "type": "ERC721",
+  "name": "Soul",
+  "tokenCount": "2",
+  "uri": "https://app.typeit.cool/skinNft/soul/2",
+  "metadata": {
+    "description": "",
+    "name": "Theme #Soul",
+    "external_url": "https://www.typeit.cool/",
+    "image": "https://static.typeit.cool/pic/S2.png",
+    "attributes": [
+      {
+        "trait_type": "level",
+        "value": "0"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "SOUL"
+      },
+      {
+        "trait_type": "efficiency",
+        "value": "1"
+      },
+      {
+        "trait_type": "luck",
+        "value": "1"
+      },
+      {
+        "trait_type": "endurance",
+        "value": "1"
+      },
+      {
+        "trait_type": "quality",
+        "value": "1"
+      },
+      {
+        "trait_type": "durability",
+        "value": "10000"
+      },
+      {
+        "trait_type": "isGenesis",
+        "value": "false"
+      }
+    ]
+  }
+}

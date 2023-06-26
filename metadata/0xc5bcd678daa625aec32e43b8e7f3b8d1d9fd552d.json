@@ -1,0 +1,37 @@
+{
+  "address": "0xc5bcd678daa625aec32e43b8e7f3b8d1d9fd552d",
+  "type": "ERC721",
+  "name": "Cool Cats Mfers",
+  "tokenCount": "1",
+  "uri": "ipfs://QmTEdbJ3wZvovML7c1Qct53oU5CZz6QNUKfULY4aBpzAAv/1.json",
+  "metadata": {
+    "name": "3721",
+    "description": "3721 - Generated and deployed on LaunchMyNFT.",
+    "fee_recipient": "0x971169Ba7cA37Bc0781d576Ff65fA834EEE1A040",
+    "seller_fee_basis_points": 1000,
+    "image": "ipfs://QmT1dMEck6SQwNP3DPm2ztg92uAEXvAUxgCmDtFPC9SjPv/1.png",
+    "attributes": [
+      {
+        "trait_type": "01 Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "03 Head",
+        "value": "Ceasar"
+      },
+      {
+        "trait_type": "02 Face",
+        "value": "High"
+      },
+      {
+        "trait_type": "04 Watch",
+        "value": "None"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 4137,
+        "display_type": "number"
+      }
+    ]
+  }
+}

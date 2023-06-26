@@ -1,0 +1,22 @@
+{
+  "address": "0x181dfcb78ab2f44cd780692be7d5905617cab7ec",
+  "type": "ERC721",
+  "name": "Pixel Wizards V2",
+  "tokenCount": "5",
+  "uri": "ipfs://QmYJ8RvKefUn9Lx7JDiZSrc4aa6uwLtzJRJmGJjzwZuNC4/1",
+  "metadata": {
+    "name": "Wizard 1",
+    "description": "A rare fire wizard.",
+    "image": "ipfs://QmYcsLoQXG6XgvixvykXxSrYrcWZ5WYb5GvAxkBA17zWFT/1.png",
+    "attributes": [
+      {
+        "trait_type": "Element",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "Facing",
+        "value": "Left"
+      }
+    ]
+  }
+}

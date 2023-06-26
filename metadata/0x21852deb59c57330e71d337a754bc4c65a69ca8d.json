@@ -1,0 +1,34 @@
+{
+  "address": "0x21852deb59c57330e71d337a754bc4c65a69ca8d",
+  "type": "ERC721",
+  "name": "Teiko Key",
+  "tokenCount": "2008",
+  "uri": "https://www.teiko.world/ipns/k51qzi5uqu5dgr58jw3a2fgitkvh940ijacqhpdvlhntk3dcqq8pij5obx2am2/1.json",
+  "metadata": {
+    "name": "Teiko USB #0x1",
+    "symbol": "TEIKOKEY",
+    "description": "2008 mysterious USB keys that unlock membership to web3 launchpad.",
+    "external_url": "https://www.teiko.world",
+    "image": "https://teiko.infura-ipfs.io/ipfs/QmRRB6APPGN5sQ1QU8vY7dtN5sSVbC2TjXfYhbHvdidGHr",
+    "animation_url": "https://teiko.infura-ipfs.io/ipfs/QmRRB6APPGN5sQ1QU8vY7dtN5sSVbC2TjXfYhbHvdidGHr",
+    "collection": {
+      "name": "Teiko Key",
+      "family": "Teiko"
+    },
+    "attributes": [
+      {
+        "trait_type": "Key Type",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Percent",
+        "max_value": 100,
+        "value": 25
+      },
+      {
+        "trait_type": "Claimed",
+        "value": "False"
+      }
+    ]
+  }
+}

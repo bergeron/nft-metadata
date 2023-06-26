@@ -1,0 +1,8 @@
+{
+  "address": "0x402ce681bd5e046b622627b1d1153c841ec7a957",
+  "type": "ERC721",
+  "name": "Testingscriptalert1script",
+  "tokenCount": "2",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmX4nCXN1ipNMDA6Vk4iHzB7f9N5HNqJVb8BPo6EnhgzBb",
+  "metadata": "{\n    \"name\": \"BNTY<script>alert('name')</script>\",\n    \"description\": \"Bounty Coin for XYZ!<script>alert('desc')</script>\",\n    \"image\": \"https://gateway.pinata.cloud/ipfs/QmNwW6XKQNvDkTpG5hPEBqQvoyAaDidwfma77BHuswCaRx\",\n    \"attributes\": [\n        {\n            \"trait_type\": \"SmartContractBug<script>alert('trait')</script>\",\n            \"value\": 100\n        }\n        {\n            \"trait_type\": \"BlockchainBug\",\n            \"value\": 50\n        }\n        {\n            \"trait_type\": \"MVPScore\",\n            \"value\": 80\n        }\n    ]\n}"
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0x05c046bdada9bd1298ded61c993ff7ace79ae971",
+  "type": "ERC721",
+  "name": "cotoken",
+  "tokenCount": "25",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=qwEnpqkVQwBwydsgu88r",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1573660468977?alt=media&token=171e49fc-da29-4048-a76f-cf26b54f8d8d",
+    "isForSale": false,
+    "description": "hamburger kontakt wktlz@t-online.de",
+    "contractAddress": "0x05C046Bdada9bd1298Ded61C993Ff7aCe79ae971",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x05C046Bdada9bd1298Ded61C993Ff7aCe79ae971/qwEnpqkVQwBwydsgu88r",
+    "minter": "0xC43E6dF265C305CeD6477C7A2C946f12247906e1",
+    "mintedOn": {
+      "_seconds": 1573660483,
+      "_nanoseconds": 307000000
+    },
+    "price": "0",
+    "name": "cotoken",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "cotoken"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0x47c4d346fba5ca14dd31507e346458160630f45a",
+  "type": "ERC721",
+  "name": "Dizzy Demons",
+  "tokenCount": "1825",
+  "uri": "https://dizzydemons.s3.amazonaws.com/metadata/current/1",
+  "metadata": {
+    "image": "https://dizzydemons.s3.amazonaws.com/1000/current/1.png",
+    "name": "Dizzy Demon #1",
+    "description": "The primary foot soldiers of Deumos.  What they lack in strength and intelligence, they make up for in their vast numbers, nonstop energy, and unending ability to demoralize their enemies.",
+    "attributes": [
+      {
+        "trait_type": "Class",
+        "value": "Minion"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Back",
+        "value": "Cape"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "I Heart Deumos Tee"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Stick Of Dynamite"
+      }
+    ],
+    "animation_url": "https://i.quantum.tech/dizzydemons/1"
+  }
+}

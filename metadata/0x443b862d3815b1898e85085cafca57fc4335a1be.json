@@ -1,0 +1,66 @@
+{
+  "address": "0x443b862d3815b1898e85085cafca57fc4335a1be",
+  "type": "ERC721",
+  "name": "Blocklete Golf",
+  "tokenCount": "1952",
+  "uri": "https://api.blockletegames.com/public/golfer/1",
+  "metadata": {
+    "description": "Golfers in Arena Golf are completely unique in skills, potential and appearance. Get your golfer to compete in tournaments!",
+    "external_url": "https://blockletegames.com/golfer-details/0/1",
+    "image": "https://api.blockletegames.com/public/golferImagePng/1",
+    "name": "Accuracy Player 1",
+    "background_color": "e6f9ff",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      },
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 1582143219
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Power Peak",
+        "value": 71
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Accuracy Peak",
+        "value": 81
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Composure Peak",
+        "value": 85
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Stamina Peak",
+        "value": 47
+      },
+      {
+        "trait_type": "Power",
+        "value": 13.7,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Accuracy",
+        "value": 25.3,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Composure",
+        "value": 8.4,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 5,
+        "max_value": 100
+      }
+    ]
+  }
+}

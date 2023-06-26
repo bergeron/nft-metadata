@@ -1,0 +1,39 @@
+{
+  "address": "0xdde7505f40a61032ed076452f85c0f54dfa208bd",
+  "type": "ERC1155",
+  "name": "Mythic Artifacts",
+  "tokenCount": "71",
+  "uri": "https://apeliquid.io/mythicartifacts/json/1",
+  "metadata": {
+    "name": "Light Sword",
+    "description": "Mythic Artifacts combine to create a Legendary Artifact or burn to activate a Mythic Gateway at [ApeLiquid.io](https://ApeLiquid.io)",
+    "file_url": "https://apeliquid.io/mythicartifacts/pngs/light_sword.png",
+    "image": "https://apeliquid.io/mythicartifacts/pngs/light_sword.png",
+    "attributes": [
+      {
+        "trait_type": "Artifact",
+        "value": "Light Sword"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "World",
+        "value": "Sword of Light"
+      },
+      {
+        "trait_type": "Bonus",
+        "value": "None"
+      },
+      {
+        "trait_type": "Stability",
+        "value": "Unstable"
+      },
+      {
+        "trait_type": "Opens",
+        "value": "Gateway"
+      }
+    ]
+  }
+}

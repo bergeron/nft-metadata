@@ -1,0 +1,38 @@
+{
+  "address": "0x5ed932b90812813a94279a243010259a8e218788",
+  "type": "ERC721",
+  "name": "StarlexApe",
+  "tokenCount": "2",
+  "uri": "https://api.starlex.io/nft/ape/1.json",
+  "metadata": {
+    "name": "Starlex Ape #1",
+    "description": "Starlex Ape Collection",
+    "image": "ipfs://bafybeiecoidesgb46tnipdpglsdfxyq2q7jjrov4ns7xswconr4eajowau/1.png",
+    "dna": "64443a51f7d22acd22b34bef4b3e212ba83b682a",
+    "edition": 1,
+    "category": "Common",
+    "date": 1680711942,
+    "attributes": [
+      {
+        "value": "Back_02",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Suit_03",
+        "trait_type": "Suit"
+      },
+      {
+        "value": "Face_03",
+        "trait_type": "Face"
+      },
+      {
+        "value": "Red",
+        "trait_type": "Eye"
+      },
+      {
+        "value": "Mouth_01",
+        "trait_type": "Mouth"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "address": "0xd32dbde4e709e3504a7d8724bbdbbf21cb20cc85",
+  "type": "ERC721",
+  "name": "Las Caras NFT",
+  "tokenCount": "4",
+  "uri": "ipfs://QmSnkkrnVPVfzcnovwsoHdzVUpVcrLUrkngy9dusdmFJzk/1.json",
+  "metadata": {
+    "name": "The Faces #1",
+    "description": "New Description!",
+    "image": "ipfs://QmRYP9Aq6sDDCeQUADLPBQY72q6C3MaTzGgmS7Q7mjMP2A/1.png",
+    "dna": "0f92fa128a61a2f15b84eafb3b658bb48d84c14c",
+    "edition": 1,
+    "date": 1654874642246,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "9"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "5"
+      },
+      {
+        "trait_type": "Skulls",
+        "value": "9"
+      },
+      {
+        "trait_type": "Masks",
+        "value": "7"
+      },
+      {
+        "trait_type": "Ribbon",
+        "value": "3"
+      },
+      {
+        "trait_type": "Chin",
+        "value": "6"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "2"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "6"
+      },
+      {
+        "trait_type": "Cheeks",
+        "value": "3"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "9"
+      },
+      {
+        "trait_type": "Forehead",
+        "value": "1"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

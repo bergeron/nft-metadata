@@ -1,0 +1,33 @@
+{
+  "address": "0xe4d5d6d6eda2fd5c3545ff4f0ec7d06075de9703",
+  "type": "ERC721",
+  "name": "Songcamp x Catalog",
+  "tokenCount": "691",
+  "uri": "data:application/json;base64,eyJuYW1lIjoiQjJCIFNpZ25hdHVyZSBFZGl0aW9uIDEvNTAiLCAiZGVzY3JpcHRpb24iOiJDb250ZW50cyBpbmNsdWRlIGEgdGlja2V0IHRvIGJvdGggU29uZ2NhbXAgYW5kIENhdGFsb2cncyBzaG93cyogaW4gQnJvb2tseW4gTlkgb24gQXByaWwgMTIgYW5kIDEzIDIwMjMsIHBsdXMgYSB2b3VjaGVyIHRvIGNsYWltIHRoZSBsaW1pdGVkIGVkaXRpb24gQjJCIGFydCBwcmludCBkZXNpZ25lZCBieSBwZWFjZV9ub2RlLCBvbmx5IGF2YWlsYWJsZSBhdCB0aGUgc2hvd3MgKCpCb3RoIHNob3dzIGFyZSAyMSspIiwgImltYWdlIjogImlwZnM6Ly9RbWNhaUM3ZW9hTnJLeXVucDJVdFl6aXFiUXNnWnZxdHdlVUFEVnd0cGRvTFJrIiwgImV4dGVybmFsX3VybCI6ICJodHRwczovL3NvbmdjYW1wLm1ldGFsYWJlbC5hcHAvYjJiIiwgIm1ldGFsYWJlbCI6IHsgIm5vZGVfcmVnaXN0cnlfYWRkcmVzcyI6ICIweDcyMzczMTAxZTJkODU4MDdmZDQ2ZDQ2MGM3ZTA2MDNkY2E3MDliODYiLCAicmVjb3JkX3ZhcmlhbnRfbmFtZSI6ICJTaWduYXR1cmUiLCAicmVsZWFzZV9tZXRhZGF0YV91cmkiOiAiaXBmczovL1FtVWtpdnp4ZkdHN3Z5MURab3NtNnZDSjlpRVNiR0hBMlhtOGpBWm1zMzlEcVEiLCAicmVjb3JkX2NvbnRlbnRzIjogWzEsIDIsIDNdfSwgImF0dHJpYnV0ZXMiOiBbeyJ0cmFpdF90eXBlIjogIlJlY29yZCBFZGl0aW9uIiwgInZhbHVlIjogIjEvNTAifSwgeyJ0cmFpdF90eXBlIjogIlJlY29yZCBWYXJpYW50IiwgInZhbHVlIjogIlNpZ25hdHVyZSJ9XX0=",
+  "metadata": {
+    "name": "B2B Signature Edition 1/50",
+    "description": "Contents include a ticket to both Songcamp and Catalog's shows* in Brooklyn NY on April 12 and 13 2023, plus a voucher to claim the limited edition B2B art print designed by peace_node, only available at the shows (*Both shows are 21+)",
+    "image": "ipfs://QmcaiC7eoaNrKyunp2UtYziqbQsgZvqtweUADVwtpdoLRk",
+    "external_url": "https://songcamp.metalabel.app/b2b",
+    "metalabel": {
+      "node_registry_address": "0x72373101e2d85807fd46d460c7e0603dca709b86",
+      "record_variant_name": "Signature",
+      "release_metadata_uri": "ipfs://QmUkivzxfGG7vy1DZosm6vCJ9iESbGHA2Xm8jAZms39DqQ",
+      "record_contents": [
+        1,
+        2,
+        3
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Record Edition",
+        "value": "1/50"
+      },
+      {
+        "trait_type": "Record Variant",
+        "value": "Signature"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "address": "0xd144b10e9837b24e0015e816e3cfd63ef5e4e192",
+  "type": "ERC1155",
+  "name": "Billionairess Ape Club",
+  "tokenCount": "3943",
+  "uri": "https://robotars.s3.us-west-1.amazonaws.com/metadata/robotars-metadata-1.json",
+  "metadata": {
+    "name": "Ape Billionairess Club #1",
+    "description": "",
+    "image": "https://robotars.s3.us-west-1.amazonaws.com/imgs/womenape-img-1.png",
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "green"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "nun"
+      },
+      {
+        "trait_type": "BODY",
+        "value": "light blue"
+      },
+      {
+        "trait_type": "HAIR",
+        "value": "Blue hair"
+      },
+      {
+        "trait_type": "FACE",
+        "value": "bucktooth"
+      },
+      {
+        "trait_type": "EARRING",
+        "value": "Blue Star"
+      },
+      {
+        "trait_type": "EYE",
+        "value": "Red round glasses"
+      }
+    ],
+    "properties": {
+      "BACKGROUND": "green",
+      "CLOTHES": "nun",
+      "BODY": "light blue",
+      "HAIR": "Blue hair",
+      "FACE": "bucktooth",
+      "EARRING": "NO",
+      "EYE": "Red round glasses",
+      "is_gif": false
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "address": "0x44a51bc8ec0a9f6d209baf2bcff8ad06fa8f187b",
+  "type": "ERC721",
+  "name": "Hues Tapestries 1-1",
+  "tokenCount": "8",
+  "uri": "https://arweave.net/Ninsb1Y7q8LIOTCcSO7MI2bOSeVSNQBKan7YvZqkGWc",
+  "metadata": {
+    "name": "Hues Tapestries 004",
+    "created_by": "Michael Hughes",
+    "description": "Explorations of digital tapestry based on colour palettes of historical and contemporary art.\n\n004: 2160 x 2880, 25fps, 20sec, H.264, 49.9MB",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Michael Hughes"
+      },
+      {
+        "trait_type": "Hues Tapestries 1-1",
+        "value": "HT1-1"
+      }
+    ],
+    "animation_details": {
+      "bytes": 49897674,
+      "format": "MP4",
+      "duration": 20,
+      "sha256": "d089091012e655dbeb40e5e68714822ddd46911755f0a27eb660da7ccf50621d",
+      "width": 2160,
+      "height": 2880,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/ayAT3Su5lnthWwzEXARc_5IQyO66XoWvDUHuw6C0dls",
+    "animation_url": "https://arweave.net/ayAT3Su5lnthWwzEXARc_5IQyO66XoWvDUHuw6C0dls",
+    "image_details": {
+      "bytes": 6079466,
+      "format": "PNG",
+      "sha256": "c43dd975c56ddb252b44f284a07d0d2b9d2493a46d0f54eddd9a14b99f08c0d3",
+      "width": 1619,
+      "height": 2161
+    },
+    "image": "https://arweave.net/NylKs_cnxmye_5OOfht7GzliglTMIAfhvtzsimayvWc",
+    "image_url": "https://arweave.net/NylKs_cnxmye_5OOfht7GzliglTMIAfhvtzsimayvWc"
+  }
+}

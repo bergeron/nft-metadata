@@ -1,0 +1,37 @@
+{
+  "address": "0xf4b9af5f117eb0f2ee8e84a04fee03f2c47e0c0f",
+  "type": "ERC721",
+  "name": "BokiGirls",
+  "tokenCount": "1109",
+  "uri": "ipfs://QmXeagQvT9PGYUD9q63xrdk7qvVn5Ex7QpPudK3XahSuGq/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "Welcome to our World, where child-like imagination runs free and fantasy is celebrated.",
+    "external_url": "",
+    "image": "ipfs://QmSNmjCUyaPqmokcdU1crSEJx9s8tvuML9EXmKiq6zotcA/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light colored triangle pattern background"
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Pink wavy long hair"
+      },
+      {
+        "trait_type": "BODY",
+        "value": "Oriental Red Dress"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

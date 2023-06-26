@@ -1,0 +1,26 @@
+{
+  "address": "0x6e55c4c4cd02e7650be07613380ab066fd4eba7a",
+  "type": "ERC1155",
+  "name": "Piter Pasmas",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/S2Vi8MEHpr8OqgK3z1A7zB3fKPgVc3My-llCUiZTSy0",
+  "metadata": {
+    "name": "Spheretrap",
+    "created_by": "piterpasma",
+    "external_url": "https://piterpasma.nl",
+    "description": "\"Spheretrap\", 2022 11/1 12:16\n\nAn output from an SDF rendered using my rayhatcher algorithm. For the SDF it uses a variant of my \"shattering\" algorithm, which slices up a shape (a sphere in this case) in many different chunks. However, I transformed this SDF so that it renders pipes at the intersection lines, instead of the sphere chunks.\n\nThis SVG file contains the full source code used to generate it as an SVG comment near the top of the file. If you want to reproduce it, you can copypaste the code into a SCRIPT tag of an empty HTML file.\n\nCopyright 2022 by Piter Pasma. https://piterpasma.nl",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "piterpasma"
+      }
+    ],
+    "image_details": {
+      "bytes": 23270213,
+      "format": "SVG",
+      "sha256": "bf5f4375602d64eef86a4fe4b9ec6a175cbc75ccb777399fcbe5545fae244289"
+    },
+    "image": "https://arweave.net/cJm4QfzUzVJz7jANxdKDpHir9fm7D_2g5H4SUc1lNoI",
+    "image_url": "https://arweave.net/cJm4QfzUzVJz7jANxdKDpHir9fm7D_2g5H4SUc1lNoI"
+  }
+}

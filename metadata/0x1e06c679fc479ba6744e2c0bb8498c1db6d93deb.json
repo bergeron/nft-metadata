@@ -1,0 +1,46 @@
+{
+  "address": "0x1e06c679fc479ba6744e2c0bb8498c1db6d93deb",
+  "type": "ERC721",
+  "name": "UndeadPixelDucks",
+  "tokenCount": "1",
+  "uri": "ipfs://QmSrerkoy9N8qgdVR1MctSJkXSkym1KGiUJbPZRnH5Zbjp/1.json",
+  "metadata": {
+    "name": "Undead Pixel Ducks #1",
+    "description": "Undead Pixel Ducks",
+    "image": "ipfs://QmQtmSHCLFgtHNSTXPwf2fWJAgCbxqQEkWWpM1pmtgAiap/1.png",
+    "dna": "ac6be17b701b84cd233bb6412e64d527e949ae37",
+    "edition": 1,
+    "date": 1665941981198,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "light blue"
+      },
+      {
+        "trait_type": "body",
+        "value": "grey"
+      },
+      {
+        "trait_type": "beak",
+        "value": "blue"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "eyes 5"
+      },
+      {
+        "trait_type": "mouthpiece",
+        "value": "none"
+      },
+      {
+        "trait_type": "headwear",
+        "value": "purple glasses"
+      },
+      {
+        "trait_type": "clothing",
+        "value": "red body warmer"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

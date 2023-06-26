@@ -1,0 +1,31 @@
+{
+  "address": "0x7f8d1691398350c1118e72cabdaf062d53d14d4c",
+  "type": "ERC1155",
+  "name": "0x7f8d1691398350c1118e72cabdaf062d53d14d4c",
+  "tokenCount": "3",
+  "uri": "https://ipfs.io/ipfs/QmPKjnPmETHP2Bvr3kNUPNwrAaE3RMB8jMJZfi9SKMHKBL",
+  "metadata": {
+    "title": "Mi Fans NFT",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Mi Fans NFT"
+      },
+      "description": {
+        "type": "string",
+        "description": "This NFT is a tribute to Nipo 809 fans. One lucky winner will get a feature with Nipo 809. A complete song and video produced by Nipo 809 for you. You will become an overnight success and star in a video with Nipo 809. Ten lucky winners will receive Nipo 809 autographed merch and a meet and greet with Nipo 809."
+      },
+      "image": {
+        "type": "string",
+        "description": "https://artemisvision.s3.us-east-2.amazonaws.com/nipo-809/Nipo+Avartar.png"
+      },
+      "properties": {
+        "Artist": "Nipo 809",
+        "Prize 1": "Feature with Nipo 809",
+        "Prize 2": "Meet and Greet",
+        "Prize 3": "Merch"
+      }
+    }
+  }
+}

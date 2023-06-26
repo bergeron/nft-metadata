@@ -1,0 +1,40 @@
+{
+  "address": "0x94317f96a521d3e3e4e7a2bacfab571dd29920b9",
+  "type": "ERC721",
+  "name": "Safari Surfers",
+  "tokenCount": "64",
+  "uri": "https://storage.googleapis.com/safarisurfers_metadata/1",
+  "metadata": {
+    "description": "Jonas Claesson's Safari Surfers NFT collection",
+    "name": "Safari Surfer - Token ID 1",
+    "attributes": [
+      {
+        "value": "sunset",
+        "trait_type": "Background"
+      },
+      {
+        "value": "purple",
+        "trait_type": "Surfboard"
+      },
+      {
+        "value": "blue",
+        "trait_type": "Body"
+      },
+      {
+        "value": "book",
+        "trait_type": "Accessory"
+      },
+      {
+        "value": "shorty",
+        "trait_type": "Wetsuit"
+      },
+      {
+        "trait_type": "Animal",
+        "value": "moose"
+      }
+    ],
+    "image": "https://storage.googleapis.com/safarisurfclub-prod.appspot.com/art/major/moose/12.png",
+    "animation_url": "https://safarisurfers.io/nft/1",
+    "background_color": "000000"
+  }
+}

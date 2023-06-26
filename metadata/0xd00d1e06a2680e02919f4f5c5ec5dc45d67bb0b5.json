@@ -1,0 +1,60 @@
+{
+  "address": "0xd00d1e06a2680e02919f4f5c5ec5dc45d67bb0b5",
+  "type": "ERC721",
+  "name": "World Of White Dudes",
+  "tokenCount": "980",
+  "uri": "https://wowd.s3.amazonaws.com/1.json",
+  "metadata": {
+    "description": "World of White Dudes: 10,000 unique, cool, and diverse NFT white dudes just trying to get through the day.",
+    "image": "https://wowd-image.s3.amazonaws.com/1.png",
+    "external_link": "https://whitedudes.art",
+    "name": "\"Rich Bob\" from Accounting (#1)",
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "White Male Accountant"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Skin Tone",
+        "value": "Olive"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Buttondown"
+      },
+      {
+        "trait_type": "Outfit Color",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Outfit Accessory",
+        "value": "Pocket"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Grey Blue"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Dark Shades"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Bald"
+      },
+      {
+        "trait_type": "Regrets",
+        "value": "Regrets working too much and worrying about others too much and not getting into crypto sooner"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Happiness",
+        "value": 45
+      }
+    ]
+  }
+}

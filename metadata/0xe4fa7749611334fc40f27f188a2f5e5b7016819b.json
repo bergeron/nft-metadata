@@ -1,0 +1,37 @@
+{
+  "address": "0xe4fa7749611334fc40f27f188a2f5e5b7016819b",
+  "type": "ERC721",
+  "name": "Life Patterns",
+  "tokenCount": "9",
+  "uri": "https://catagolue.hatsya.com/autogen/nfts/1.json",
+  "metadata": {
+    "image": "https://catagolue.hatsya.com/autogen/nfts/1.gif",
+    "external_url": "https://catagolue.hatsya.com/nfts/1",
+    "name": "Doo-dah",
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "discovery date",
+        "value": 1607256000
+      },
+      {
+        "trait_type": "object type",
+        "value": "spaceship"
+      },
+      {
+        "trait_type": "period",
+        "value": 21
+      },
+      {
+        "trait_type": "direction",
+        "value": "orthogonal"
+      },
+      {
+        "trait_type": "speed",
+        "value": "2c/7 orthogonal"
+      }
+    ],
+    "background_color": "000000",
+    "description": "A 2c/7 spaceship consisting of a weekender and a period-21 tagalong.\n\nDiscovered by John Winston Garth on 2020-12-06.\n\nSee the [LifeWiki page](https://www.conwaylife.com/wiki/Doo-dah) and [Catagolue page](https://catagolue.hatsya.com/nfts/1) for further information."
+  }
+}

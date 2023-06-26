@@ -1,0 +1,38 @@
+{
+  "address": "0x58f1f48e4506494b44d193eb088aae57a4d85e39",
+  "type": "ERC721",
+  "name": "Purge Inventory",
+  "tokenCount": "5555",
+  "uri": "ipfs://QmVtyc8CJoEiGTEiwJYP3U2ZFgrrGLXB7VVjfEFtJupN41/1.json",
+  "metadata": {
+    "name": "Purge Inventory #1",
+    "description": "What you have in your inventory is crucial to your survival!",
+    "image": "ipfs://QmavTYReC6QDQmpxQwq797FGypzWDgijkSciBhFWjnv4Bm/1.png",
+    "dna": "9ba1aab140e56a266484a0e4936fe8a0c6e9bbd9",
+    "edition": 1,
+    "date": 1664412576348,
+    "attributes": [
+      {
+        "trait_type": "gun",
+        "value": "firework"
+      },
+      {
+        "trait_type": "armor",
+        "value": "gazelle skin"
+      },
+      {
+        "trait_type": "health",
+        "value": "fish oil"
+      },
+      {
+        "trait_type": "drink",
+        "value": "apple juice"
+      },
+      {
+        "trait_type": "transport",
+        "value": "van"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "address": "0x19cd23a16ce81e93d26fc84a7926577bfe3c6dbc",
+  "type": "ERC721",
+  "name": "Cat home meow",
+  "tokenCount": "130",
+  "uri": "ipfs://Qme7dcwdczuXMe4HbhHxwxW7roecB9B4Ar3oX84auZ8pVb/1.json",
+  "metadata": {
+    "name": "Cat Town #1",
+    "description": "Your cat knows more than it seems",
+    "image": "ipfs://QmSBX8WagnrMF7k4z6b8xZV1vmGAWXog2ziBNRj6g7dbQ1/1.png",
+    "edition": 1,
+    "date": 1658155156647,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Origin",
+        "value": "Street"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Neutral"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Eagle"
+      }
+    ],
+    "compiler": ""
+  }
+}

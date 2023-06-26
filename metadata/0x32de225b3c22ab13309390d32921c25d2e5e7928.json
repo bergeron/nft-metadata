@@ -1,0 +1,41 @@
+{
+  "address": "0x32de225b3c22ab13309390d32921c25d2e5e7928",
+  "type": "ERC1155",
+  "name": "Joe Pease 1155",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/5uPBAxoqK_ZYP_5Zhua8MWurojdRPUxvEf1F5loarRI",
+  "metadata": {
+    "name": "Lost At Sea",
+    "created_by": "Joe Pease",
+    "description": "You simply disappeared",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Joe Pease"
+      }
+    ],
+    "animation_details": {
+      "bytes": 17476797,
+      "format": "MP4",
+      "duration": 11,
+      "sha256": "d83ff477cc6c153451bc7d43e33681aa1c15fee0c4cfa70c905e0625f3926119",
+      "width": 1080,
+      "height": 1350,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/R-aGvHpAcVCjn5iac15KcJapT9lyn3TYLqDKy4yeG9c",
+    "animation_url": "https://arweave.net/R-aGvHpAcVCjn5iac15KcJapT9lyn3TYLqDKy4yeG9c",
+    "image_details": {
+      "bytes": 9443416,
+      "format": "PNG",
+      "sha256": "becfea86ea38051784bca44735181bb5f4a95852e64acb6fd2f9c9359bf285fc",
+      "width": 2068,
+      "height": 2576
+    },
+    "image": "https://arweave.net/6c2mz_zfV_Q0U45XYuhkEhDQwyEz3tZaWllyXYo2aX8",
+    "image_url": "https://arweave.net/6c2mz_zfV_Q0U45XYuhkEhDQwyEz3tZaWllyXYo2aX8"
+  }
+}

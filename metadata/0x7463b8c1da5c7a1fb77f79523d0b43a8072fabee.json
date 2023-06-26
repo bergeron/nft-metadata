@@ -1,0 +1,63 @@
+{
+  "address": "0x7463b8c1da5c7a1fb77f79523d0b43a8072fabee",
+  "type": "ERC721",
+  "name": "helloworld - dnRbXgahmj",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/yMxyyYjKtTsEPL2JC0lmMy5MPNbK3BKWYRzaS5g6xT8",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1641266821
+      },
+      {
+        "trait_type": "Creator",
+        "value": "@test_minter"
+      }
+    ],
+    "description": "test_man by Drew",
+    "external_url": "https://cxip.io/nft/0x7463b8c1da5c7a1fb77f79523d0b43a8072fabee/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/MqLb0nUNCfVzU-U-ZuSHYZxTfIDRQZaWrJwPVN9Y0Zk",
+    "imageUrl": "https://arweave.net/MqLb0nUNCfVzU-U-ZuSHYZxTfIDRQZaWrJwPVN9Y0Zk",
+    "name": "@tester_mint",
+    "properties": {
+      "created_at": "2022-01-04T03:27:01.000000Z",
+      "creator_wallet": "0xaf4f282e67eb1ade98a9b0721b2779744365e3f4",
+      "description": "test_man by Drew",
+      "image": "https://arweave.net/MqLb0nUNCfVzU-U-ZuSHYZxTfIDRQZaWrJwPVN9Y0Zk",
+      "imageUrl": "https://arweave.net/MqLb0nUNCfVzU-U-ZuSHYZxTfIDRQZaWrJwPVN9Y0Zk",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "4 January 2022",
+      "name": "@tester_mint",
+      "nft_type": "non-fungible image token (image/jpeg)",
+      "preview_media_file": "https://arweave.net/uR1xEVkKTQN6EPQER3HFTWjTnCq-1u-kAnierAS7Tbc",
+      "preview_media_file_dimensions": "360x480",
+      "preview_media_file_size": 68686,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "3645x4860",
+      "raw_media_file": "https://arweave.net/SbG1eRmXdYASrKBZgkTm-us1_12bOH4USXTGb1lVfFI",
+      "raw_media_file_size": 7130570,
+      "raw_media_file_spec": "JPEG 3645x4860 3645x4860+0+0 8-bit sRGB 7130570B 0.000u 0:00.000",
+      "raw_media_file_type": "image/jpeg",
+      "raw_media_format": "portrait",
+      "raw_media_signature": "0xebe2bac886387c119af8456ec5d15444da1e60f707f72d1b0412071f039cb032",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/uR1xEVkKTQN6EPQER3HFTWjTnCq-1u-kAnierAS7Tbc",
+      "thumb_media_file_type": "image/jpg",
+      "title": "@tester_mint",
+      "total_supply": 1
+    },
+    "title": "@tester_mint"
+  }
+}

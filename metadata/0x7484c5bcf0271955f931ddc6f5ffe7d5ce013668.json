@@ -1,0 +1,47 @@
+{
+  "address": "0x7484c5bcf0271955f931ddc6f5ffe7d5ce013668",
+  "type": "ERC721",
+  "name": "Camgaze",
+  "tokenCount": "4",
+  "uri": "https://ipfs.pixura.io/ipfs/QmeQtMXkCbZzRbc4jwWDx2VNgQoUqTn1bFAnGZoundhV5n/metadata.json",
+  "metadata": {
+    "name": "Criminal I",
+    "createdBy": "Sobi",
+    "yearCreated": "2023",
+    "description": "An AI designed for surveillance in the near future asked me to create a series of paintings based on its facial recognition shots, with the aim of making the images more dramatic and showcasing the collaboration between human and machine.\n\nDigital painting & processing. \nMutoharys, 2023. CC0.",
+    "image": "https://ipfs.pixura.io/ipfs/QmPZSbmhKQ5iipnyQqLodsVzQCBJiK7zHLpHsLCBRF3B4X/Criminal1.png",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmPZSbmhKQ5iipnyQqLodsVzQCBJiK7zHLpHsLCBRF3B4X/Criminal1.png",
+      "dimensions": "3424x2283",
+      "size": "13474605",
+      "mimeType": "image/png"
+    },
+    "tags": [
+      "mutoharys",
+      "digitalpainting",
+      "glitch",
+      "glitchart",
+      "painting",
+      "magicalrealism",
+      "digitalmagicalrealism"
+    ],
+    "attributes": [
+      {
+        "trait_type": "orientation",
+        "value": "landscape"
+      },
+      {
+        "trait_type": "temperature",
+        "value": "warm"
+      },
+      {
+        "trait_type": "feature",
+        "value": "RGB shift"
+      },
+      {
+        "trait_type": "explanation",
+        "value": "criminal"
+      }
+    ]
+  }
+}

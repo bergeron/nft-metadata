@@ -1,0 +1,36 @@
+{
+  "address": "0x7f13b483a7701affe70965ad31b1cc1478dd3fa1",
+  "type": "ERC721",
+  "name": "red green blue V2",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/IF91j6FLzc6vOSoKzj0XX3X-CshWMyu8c5AMR2gGW-g",
+  "metadata": {
+    "name": "red",
+    "created_by": "Rat Labs",
+    "external_url": "http://rgb.wtf",
+    "description": "rgb(255,0,0)",
+    "attributes": [
+      {
+        "trait_type": "red",
+        "value": "255"
+      },
+      {
+        "trait_type": "green",
+        "value": "0"
+      },
+      {
+        "trait_type": "blue",
+        "value": "0"
+      }
+    ],
+    "image_details": {
+      "bytes": 12448,
+      "format": "PNG",
+      "sha256": "f039f060cc80e19bf1f52055decd0d852d00d9fab5e1f1a1105c5192f02544cb",
+      "width": 1500,
+      "height": 1500
+    },
+    "image": "https://arweave.net/bHA4tQbXbOg-OE4Z_yf9UhYIpb8NonKKjcKe3ZdGuyg",
+    "image_url": "https://arweave.net/bHA4tQbXbOg-OE4Z_yf9UhYIpb8NonKKjcKe3ZdGuyg"
+  }
+}

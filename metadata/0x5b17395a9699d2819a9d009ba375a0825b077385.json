@@ -1,0 +1,63 @@
+{
+  "address": "0x5b17395a9699d2819a9d009ba375a0825b077385",
+  "type": "ERC721",
+  "name": "Crystallized Illusions",
+  "tokenCount": "99",
+  "uri": "https://api.substratum.art/project/crystallized-illusions/token/1",
+  "metadata": {
+    "token_id": 1,
+    "name": "Thought and Desire #2",
+    "project_id": 4,
+    "project_name": "Crystallized Illusions",
+    "project_slug": "crystallized-illusions",
+    "artist": "Matto",
+    "artist_address": "0xA6a4Fe416F8Bf46bc3bCA068aC8b1fC4DF760653",
+    "description": "Inspired by Buddhist philosophy, Crystallized Illusions is a collection of 99 pieces created through a generative process. Three variations of this process were made to correspond to the categories of illusions as described by Zhiyi (538-597 CE), the fourth patriarch of the T'ien-t'ai (or Tí Taî) Buddhist tradition. Each process was used to created 33 distinct images.",
+    "collection_name": "Crystallized Illusions",
+    "aspect_ratio": 1,
+    "script_type": "p5",
+    "script_inputs": {
+      "token_id": 1,
+      "token_entropy": "2977972459783606817715111846630665001299134421833870690307645047995350633522",
+      "media_URI": "https://arweave.net/Mduh0JQesPrHJbyLcJLBDmXF368mbQqNF68V78DIMoI/"
+    },
+    "image": "https://arweave.net/Mduh0JQesPrHJbyLcJLBDmXF368mbQqNF68V78DIMoI/1.png",
+    "image_mid": "https://mattoapi.blob.core.windows.net/images-mid/crystallized-illusions_1.png",
+    "thumbnail_url": "https://mattoapi.blob.core.windows.net/thumbnails/crystallized-illusions_1.png",
+    "animation_url": "https://api.substratum.art/project/crystallized-illusions/generator/1",
+    "generator_url": "https://api.substratum.art/project/crystallized-illusions/generator/1",
+    "website": "https://matto.xyz/project/crystallized-illusions/",
+    "external_url": "https://matto.xyz/project/crystallized-illusions/",
+    "license": "All Rights Reserved",
+    "royalty_info": {
+      "royalty_fee_by_id": 10,
+      "artist_address": "0xA6a4Fe416F8Bf46bc3bCA068aC8b1fC4DF760653"
+    },
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Matto"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Thought and Desire"
+      },
+      {
+        "trait_type": "Complexity",
+        "value": "2"
+      },
+      {
+        "trait_type": "Media Storage",
+        "value": "Arweave"
+      },
+      {
+        "trait_type": "Base URI",
+        "value": "https://arweave.net/Mduh0JQesPrHJbyLcJLBDmXF368mbQqNF68V78DIMoI/"
+      },
+      {
+        "trait_type": "Image Filetype",
+        "value": "png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "address": "0xf169bd68ed72b2fdc3c9234833197171aa000580",
+  "type": "ERC721",
+  "name": "CivTrade",
+  "tokenCount": "61",
+  "uri": "ipfs://QmeXioLiU2LtDGMz37mkhST8obJHx9Fo886pDN5pLfatM4",
+  "metadata": {
+    "name": "CivTrade Position",
+    "description": "This NFT represents a CivTrade position, with 100% control on price target, 0% price impact, 0 slippage, no front-running, and even earning liquidity fees! Ownership of this NFT confers rights to the position, hold it carefully. To learn more, please visit https://civfund.org",
+    "image": "ipfs://QmZ38Y4aycLSpaqWEiL8Xj87ShW5yygVZdGfcncZpV8gh5",
+    "attributes": [
+      {
+        "trait_type": "Community",
+        "value": "Civilization"
+      },
+      {
+        "trait_type": "Product",
+        "value": "CivTrade"
+      },
+      {
+        "trait_type": "Universe",
+        "value": "DeFi"
+      },
+      {
+        "trait_type": "Skill",
+        "value": "Trader"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Collectible"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Pioneer"
+      },
+      {
+        "trait_type": "Slippage",
+        "value": 0
+      },
+      {
+        "trait_type": "Front-running",
+        "value": 0
+      },
+      {
+        "trait_type": "Price impact",
+        "value": 0
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Civilization Birthday",
+        "value": 1627750800
+      },
+      {
+        "trait_type": "Boost versus swap",
+        "value": 100,
+        "max_value": 100
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Liquidity earnings",
+        "value": 100,
+        "max_value": 100
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Target price",
+        "value": 100,
+        "max_value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Version",
+        "value": 1
+      }
+    ]
+  }
+}

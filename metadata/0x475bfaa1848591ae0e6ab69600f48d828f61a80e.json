@@ -1,0 +1,20 @@
+{
+  "address": "0x475bfaa1848591ae0e6ab69600f48d828f61a80e",
+  "type": "ERC721",
+  "name": "Everdome Genesis Collection",
+  "tokenCount": "9778",
+  "uri": "http://api.everdome.io/nft/genesis/1",
+  "metadata": {
+    "id": 1,
+    "name": "Dome Genesis #1",
+    "animation_url": "https://genesis.nft.everdome.io/dome_nft_genesis_00001.mp4",
+    "image": "https://genesis.nft.everdome.io/cover/dome_nft_genesis_00001_thumb.jpg",
+    "attributes": [
+      {
+        "trait_type": "access_level",
+        "value": 1,
+        "display_type": "number"
+      }
+    ]
+  }
+}

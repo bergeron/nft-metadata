@@ -1,0 +1,87 @@
+{
+  "address": "0xe6a9b70b804a692c2b906225b7229a64d6203abf",
+  "type": "ERC721",
+  "name": "10656asd5fewq",
+  "tokenCount": "199",
+  "uri": "https://api.artblocks.io/token/353000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "353000001",
+    "series": "N/A",
+    "aspect_ratio": 1.77778,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Pointila #1",
+    "minted": true,
+    "artist": "Phaust",
+    "description": "Pointila explores what happens when you combine the meticulous dots reminiscent of Pointillistic painting techniques with the channelled randomness of generative art, whilst also examining how subtle changes in parameters can paint similar forms in different styles.\n\nPointila is designed for display and interaction. Clicking on a live mint will trigger an animation loop between the primary and secondary palettes, click again to pause. Press 0, 1, 2, 3 or 4 on your keyboard to change glitch state. Press S to download a high resolution print.\n\nPointillism emerged from a collision of art and science in late 19th century French painting. Developed by Georges Seurat, his appeal to science, rigour and order built upon the broken brushstrokes of the Impressionists, as painting began to reckon with the emergence of the new technology of photography. Unbeknownst to Seurat, this response to one technology would foreshadow another – that of digital displays and pixels.\n\nRigour and order was manifest in the distinct dots of colour that give Pointillism its name. From a distance, the eye mixes these dots into vibrant, luminous scenes. This optical mixing bears a striking similarity to the way pixels work to display images on screen for us today.\n\n“It’s done mechanically?” was a question posed at an 1894 Neo-Impressionist exhibition. The answer then was no. Pointila is both more and less mechanical than the Pointillist work that provoked the question. More, in that the hand of the artist has been replaced by the work of the computer – an extension of Seurat's efforts to remove the free hand of the artist. Yet less, with the ultimate position of each of the millions of dots decided randomly, unknown to the hand of the coder.\n\nThe Pointila algorithm first divides the canvas into columns. It then traverses the canvas dropping dots along those columns. From just a handful of layers, landscapes emerge. They take on a variety of forms: from rolling plains and steep canyons to jagged peaks and dreamy moors. Some are sharp and tense, others hazy and ethereal. They are coloured with handpicked palettes and animated with bold glitches – a nod to the shared optics of Pointillism and pixels.\n\nSubtle changes in initial parameters give rise to similar landscapes painted in different styles. Faint echos, perhaps, of the different styles we see from Seurat in the numerous studies related to his masterpiece Un dimanche à la Grande Jatte.",
+    "script_type": "p5@1.0.0",
+    "project_id": "353",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/353000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/353000001.png",
+    "generator_url": "https://generator.artblocks.io/353000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/353000001",
+    "royaltyInfo": {
+      "artistAddress": "0x5b01ad621e5a6234b6f59539ddf977aecd4be13f",
+      "additionalPayee": "0x69a30a04b04f5fedcd26091ade5b0ddfcf1aac7f",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Pointila by Phaust",
+    "website": "https://www.phaust.art/pointila",
+    "token_hash": "0x0fc362806790422263a888c0bc5ddf6e885a60baf36e13e1d37b2748c4236e9a",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/353/tokens/353000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/353000001",
+    "features": {
+      "Style": "Dense",
+      "Luminary": "None",
+      "Landscape": "Mountains",
+      "Colour Mode": "Linear Gradient",
+      "Composition": "Diptych",
+      "Initial State": "Zero Glitch",
+      "Primary Palette": "Wintry",
+      "Secondary Palette": "Sideshow"
+    },
+    "traits": [
+      {
+        "trait_type": "Pointila",
+        "value": "All Pointilas"
+      },
+      {
+        "trait_type": "Pointila",
+        "value": "Style: Dense"
+      },
+      {
+        "trait_type": "Pointila",
+        "value": "Luminary: None"
+      },
+      {
+        "trait_type": "Pointila",
+        "value": "Landscape: Mountains"
+      },
+      {
+        "trait_type": "Pointila",
+        "value": "Colour Mode: Linear Gradient"
+      },
+      {
+        "trait_type": "Pointila",
+        "value": "Composition: Diptych"
+      },
+      {
+        "trait_type": "Pointila",
+        "value": "Initial State: Zero Glitch"
+      },
+      {
+        "trait_type": "Pointila",
+        "value": "Primary Palette: Wintry"
+      },
+      {
+        "trait_type": "Pointila",
+        "value": "Secondary Palette: Sideshow"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

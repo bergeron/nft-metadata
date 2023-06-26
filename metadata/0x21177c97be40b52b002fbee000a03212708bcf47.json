@@ -1,0 +1,61 @@
+{
+  "address": "0x21177c97be40b52b002fbee000a03212708bcf47",
+  "type": "ERC721",
+  "name": "Doge Army by ShibaDoge",
+  "tokenCount": "10000",
+  "uri": "https://dogemetadata.realshibadoge.com/1",
+  "metadata": {
+    "name": "Doge Army #1",
+    "description": "A series of 10,000 unique hand drawn NFTs, representing highly trained and specialized combat veterans who are working together on the frontlines to one day see cryptocurrency become the official currency of earth.",
+    "image": "https://cdn.realshibadoge.com/images/1.png",
+    "dna": "1776715e40db979093c9c6e1ca347d74f0503cf8",
+    "edition": 1,
+    "date": 1642369139470,
+    "artist": "Cap'n",
+    "surname": "Crunch",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Smoke"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Weapon Back",
+        "value": "Desert Sniper"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Topless"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Monocle"
+      },
+      {
+        "trait_type": "Head Gear",
+        "value": "Viking Helmet"
+      },
+      {
+        "trait_type": "Weapon Front",
+        "value": "Slugger"
+      },
+      {
+        "trait_type": "Rank",
+        "value": "Private"
+      },
+      {
+        "trait_type": "Prestige",
+        "value": 1,
+        "max_value": 10
+      }
+    ],
+    "compiler": "Doge Army"
+  }
+}

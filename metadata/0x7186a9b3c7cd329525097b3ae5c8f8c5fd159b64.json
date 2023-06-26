@@ -1,0 +1,55 @@
+{
+  "address": "0x7186a9b3c7cd329525097b3ae5c8f8c5fd159b64",
+  "type": "ERC721",
+  "name": "Bonus Enterprises",
+  "tokenCount": "3",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=TCnhPio1g3XKqlS1Rzlm",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1585332582706?alt=media&token=c21e9c0c-e1c9-40c0-9b30-7da7748eeb3f",
+    "forSale": true,
+    "description": "BRUTAL KRIMINAL",
+    "contractAddress": "0x7186a9b3c7cd329525097b3ae5c8f8c5fd159b64",
+    "tags": [],
+    "amountToMint": 3,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1585332826,
+      "_nanoseconds": 248000000
+    },
+    "price": ".01",
+    "name": "Centurion",
+    "fiatPrice": "$1.37",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "www.caesarstriumph.com"
+      },
+      {
+        "trait_type": "location",
+        "value": "714 Main St, Grandview, MO 64030, USA"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJhf_z_WXdwIcREBdVhaTa7Po"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1585281600
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": 1588219200
+      }
+    ],
+    "external_url": "https://mintbase.io/my-market/0x7186a9b3c7cd329525097b3ae5c8f8c5fd159b64",
+    "type": "ERC721"
+  }
+}

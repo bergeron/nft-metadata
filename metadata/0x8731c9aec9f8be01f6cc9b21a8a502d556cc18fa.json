@@ -1,0 +1,33 @@
+{
+  "address": "0x8731c9aec9f8be01f6cc9b21a8a502d556cc18fa",
+  "type": "ERC721",
+  "name": "Something Different",
+  "tokenCount": "2",
+  "uri": "https://ipfs.pixura.io/ipfs/QmUVevfFbczEvj23ES89hUJ1Zkcp18wT41D89ARatwRhcd/metadata.json",
+  "metadata": {
+    "name": "Away",
+    "createdBy": "TapirOne",
+    "yearCreated": "2023",
+    "description": "Ashes and rain remain",
+    "image": "https://ipfs.pixura.io/ipfs/QmYeSzYNDYwAhWHRAKAVSYKQmVShT1jvWen934PMaUgs1U/MidnightRain.jpg",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmYeSzYNDYwAhWHRAKAVSYKQmVShT1jvWen934PMaUgs1U/MidnightRain.jpg",
+      "dimensions": "8192x6144",
+      "size": "12845863",
+      "mimeType": "image/jpeg"
+    },
+    "tags": [
+      "TapirOne"
+    ],
+    "attributes": [
+      {
+        "trait_type": "Year",
+        "value": "2023"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "TapirOne"
+      }
+    ]
+  }
+}

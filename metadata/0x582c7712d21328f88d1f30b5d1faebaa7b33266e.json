@@ -1,0 +1,33 @@
+{
+  "address": "0x582c7712d21328f88d1f30b5d1faebaa7b33266e",
+  "type": "ERC721",
+  "name": "Avatar Deployer",
+  "tokenCount": "6",
+  "uri": "ipfs://QmTyKdLn77QrQ8AdaCZaXZrZMtmJpCnPgnCWy2zUHSfC9U/1",
+  "metadata": {
+    "name": "Avatar #2",
+    "description": "⚡️ Powered by NFT-Inator",
+    "image": "ipfs://QmeVdqggkfRimFmHe8ge9C9PrJFAqNKcgg8du8xNY2omoV/1.png",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Hair",
+        "value": "1655463180834"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "1655463163522"
+      },
+      {
+        "trait_type": "Body",
+        "value": "1655463146734"
+      },
+      {
+        "trait_type": "Background",
+        "value": "1655463108929"
+      }
+    ],
+    "seller_fee_basis_points": 0,
+    "compiler": "nft-inator.com"
+  }
+}

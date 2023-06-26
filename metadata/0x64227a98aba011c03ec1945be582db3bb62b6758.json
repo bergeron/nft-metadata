@@ -1,0 +1,30 @@
+{
+  "address": "0x64227a98aba011c03ec1945be582db3bb62b6758",
+  "type": "ERC721",
+  "name": "SPHERE",
+  "tokenCount": "961",
+  "uri": "ipfs://bafybeifzyvevxww57trn3axleganbbe6f2dsbix3thlzeprqr72y7y2q6u/1.json",
+  "metadata": {
+    "name": "Sphere #1",
+    "description": "Sphere is an art performance where every algorithm is key to creating value.",
+    "image": "ipfs://bafybeidb6arcpxz2m3k6qd5ttjuqsie74dwnjdwnpcamejwmfjgirdcipy/1.png",
+    "dna": "eb8a77572463e1e9c73075a12e54cbdd083571a4",
+    "edition": 1,
+    "date": 1679441251063,
+    "attributes": [
+      {
+        "trait_type": "Code",
+        "value": "Josh Lilley"
+      },
+      {
+        "trait_type": "Neural Network",
+        "value": "DNN"
+      },
+      {
+        "trait_type": "Sphere",
+        "value": "Flow"
+      }
+    ],
+    "compiler": "CUBE"
+  }
+}

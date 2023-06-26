@@ -1,0 +1,48 @@
+{
+  "address": "0xd8fcf4dc81331d052c4f72ffb3f23aeba1fe58f5",
+  "type": "ERC721",
+  "name": "Winnie-the-Pooh (The Book)",
+  "tokenCount": "42",
+  "uri": "ipfs://QmPFtN9RCoqwdhtvvZ2s6o1EKpszFHLyvkD2xgbDbtigkw/1",
+  "metadata": {
+    "name": "#123",
+    "description": "Winnie-the-Pooh by A.A. Milne with illustrations by E.H. Shepard. First published in 1926 and entered the US Public Domain in 2022.",
+    "image": "ipfs://QmVKXbfpYdAg95Z8d3JybbiuaXMYsr8zinDF3ubYVDqRae/1.png",
+    "attributes": [
+      {
+        "trait_type": "Book Title",
+        "value": "Winnie-the-Pooh"
+      },
+      {
+        "trait_type": "Author",
+        "value": "A.A. Milne"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "E.H. Shepard"
+      },
+      {
+        "trait_type": "Page",
+        "value": "114"
+      },
+      {
+        "trait_type": "Word Count",
+        "value": "260"
+      },
+      {
+        "trait_type": "Image Count",
+        "value": "1"
+      },
+      {
+        "trait_type": "Section",
+        "value": "Chapter X"
+      },
+      {
+        "trait_type": "Poem",
+        "value": "False"
+      }
+    ],
+    "edition": 1,
+    "compiler": "Degen Deployer"
+  }
+}

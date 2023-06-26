@@ -1,0 +1,46 @@
+{
+  "address": "0xbb6490534f672d7ce89fa68d8c38c664f96cd00c",
+  "type": "ERC721",
+  "name": "LilDucks",
+  "tokenCount": "5",
+  "uri": "ipfs://bafybeicm5rt6becpamhuu5ktqiedplxnakyckicnzw2lsw64fa7j5jvac4/1.json",
+  "metadata": {
+    "name": "LilDuck #1",
+    "description": "10k unique collection of LilDucks. All the traits are handmade and uniquely combined together to form a 10k collection of cute little ducks. Every LilDuck is unique in its own way but some are rarer than others. Made by single artist. Thank you for visiting.",
+    "external_url": "",
+    "image": "ipfs://bafybeifl4pkn33xl6ns5xkmfveq5o6rqq2uu7btioo4nigvap4yemecnbu/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Annoyed"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "Specials",
+        "value": "Golden Egg"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "#1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": []
+    },
+    "compiler": "NFTexport.io"
+  }
+}

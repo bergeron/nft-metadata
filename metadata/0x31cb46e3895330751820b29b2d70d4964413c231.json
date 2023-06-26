@@ -1,0 +1,17 @@
+{
+  "address": "0x31cb46e3895330751820b29b2d70d4964413c231",
+  "type": "ERC721",
+  "name": "The Ether Lotto",
+  "tokenCount": "90",
+  "uri": "ipfs://QmXfudBrPR29NV2bB89AH7YxqqnnLYmKBxko7sEwBJbK8b/EtherLottoExpired.json",
+  "metadata": {
+    "description": "This NFT represents one entry to the Ether Lottery. Holding a Winning Ticket at the time of drawing will automatically send the holder 20% of the Jackpot Pool. Selling this ticket will activate a 1.5x boost for the buyer.",
+    "image": "ipfs://QmUieQBffpN77Uk5nEkmjGid5Se78K3a63mq6B7zfyhehF/EtherLottoTicketExpired.png",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "Expired"
+      }
+    ]
+  }
+}

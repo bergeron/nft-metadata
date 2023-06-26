@@ -1,0 +1,61 @@
+{
+  "address": "0xd96cc6ba0861c45821bf04ea8e47979393ae7af1",
+  "type": "ERC721",
+  "name": "Lobby3 Membership Token",
+  "tokenCount": "1419",
+  "uri": "https://api.lobby3.io/profile/1/uri/",
+  "metadata": {
+    "shirt": {
+      "id": "shirt-5",
+      "front": "/avatar/front/shirts/Front_Shirt5.png",
+      "back": "/avatar/back/shirts/Back_Shirt5.png",
+      "value": "dark-pink",
+      "type": "shirt"
+    },
+    "pants": {
+      "id": "pants-9",
+      "front": "/avatar/front/pants/Front_Pants9.png",
+      "back": "/avatar/back/pants/Back_Pants9.png",
+      "value": "charcoal",
+      "type": "pants"
+    },
+    "hands": {
+      "id": "hands-10",
+      "front": "/avatar/front/hands/Front_Hand10.png",
+      "back": "/avatar/back/hands/Back_Hand10.png",
+      "value": "white",
+      "type": "hands"
+    },
+    "faces": [
+      "",
+      "",
+      {
+        "id": "face-8",
+        "src": "/avatar/faces/face8.png",
+        "value": "cool",
+        "type": "face"
+      }
+    ],
+    "color": {
+      "hex": "#ffffff",
+      "hsv": {
+        "h": 0,
+        "s": 0.010279605263157894,
+        "v": 100
+      },
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      }
+    },
+    "name": "Lobby3 Member #1",
+    "image": "https://d3uod3oxd78lnd.cloudfront.net/standard/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Membership Level",
+        "value": "Member"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "0x98da29e5a49d78a9acc4f35badc52f168188abfa",
+  "type": "ERC721",
+  "name": "T-VERSE Verses",
+  "tokenCount": "53",
+  "uri": "https://token.brandverse.world/verse/metadata/1",
+  "metadata": {
+    "description": "Owner: Brandverse",
+    "external_url": "https://tverse.world/",
+    "image": "https://token.brandverse.world/verse/image/tverse.1665.png",
+    "name": "Verse 0, 0",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Orbit",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Order",
+        "value": 0
+      },
+      {
+        "trait_type": "Size",
+        "value": "XXL"
+      },
+      {
+        "trait_type": "Owner",
+        "value": "Brandverse"
+      }
+    ]
+  }
+}

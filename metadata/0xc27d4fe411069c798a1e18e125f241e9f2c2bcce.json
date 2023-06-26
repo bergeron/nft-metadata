@@ -1,0 +1,46 @@
+{
+  "address": "0xc27d4fe411069c798a1e18e125f241e9f2c2bcce",
+  "type": "ERC721",
+  "name": "Dirty Pigs",
+  "tokenCount": "1",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmbWCriR96ce3XRt8Da1jEgZiFyebiamQCQQSKHR6qGzwg/1.json",
+  "metadata": {
+    "dna": "c6cf727b47cbe8f037573b3257f16ba6dcb38cf9",
+    "name": "Dirty Pig #1",
+    "description": "A Pig that simply wants to play in the mud.",
+    "image": "https://gateway.pinata.cloud//ipfs//QmXoU1RJ1s8CjfUu8mRjdbAKsAePDYgT4DyQCH4jXHFsTh/1.png",
+    "edition": 1,
+    "date": 1634948329673,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Farm"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Special Suit",
+        "value": "None"
+      },
+      {
+        "trait_type": "Lower Body Clothes",
+        "value": "Black Pants"
+      },
+      {
+        "trait_type": "Upper Body Clothes",
+        "value": "Prisoner T-shirt"
+      },
+      {
+        "trait_type": "Eye Accessory",
+        "value": "Tears"
+      },
+      {
+        "trait_type": "Head Accessory",
+        "value": "Party Hat"
+      }
+    ],
+    "compiler": "Dirty Pigs Compiler"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "address": "0x00e3ec1f55ce4f86cf7ac2bac8c0876a276e78d2",
+  "type": "ERC721",
+  "name": "Larva Dads",
+  "tokenCount": "5000",
+  "uri": "https://ipfs.io/ipfs/QmRZPZ7HHxwQpj7LePb3xxDhZF5CJ1PhkPwvycnX3PrFg5/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "Inspired by Larva Lads, Larva Dads are searching on-chain for the funniest dad jokes and best beers!",
+    "external_url": "",
+    "image": "ipfs://QmRQ8SphdKGPWfzzGqLj1mouXwzZRzJnMAHDHJctkdGTCS/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Eyepatch"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Bald"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Normal"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

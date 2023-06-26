@@ -1,0 +1,42 @@
+{
+  "address": "0xa08b014fd3bf4fb4c617cc2fe56d49647ad0e030",
+  "type": "ERC721",
+  "name": "The Carrotz",
+  "tokenCount": "2",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmPM8HMuSMrWPfGKeDPi4ACACZQ1LEMeeJreVRVSskvi21/1.json",
+  "metadata": {
+    "name": "The Carrotz #1",
+    "description": "CarrotzNfts",
+    "image": "ipfs://QmQyf25EzMVrH7GaNw1AfMhb75uJr7vKkdkfK8PirdT29c/1.png",
+    "dna": "e1bba711954ba0e4ac732650768e467f4e9b8a86",
+    "edition": 1,
+    "date": 1659208767797,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "land"
+      },
+      {
+        "trait_type": "Body",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "good_white_version"
+      },
+      {
+        "trait_type": "Leaves",
+        "value": "1_gold_leaf"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "sad"
+      },
+      {
+        "trait_type": "Weapons",
+        "value": "blue_laser_sword"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

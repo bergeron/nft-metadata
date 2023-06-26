@@ -1,0 +1,67 @@
+{
+  "address": "0xdcbb228f46fcd36ce975bf4f0d1844118586714f",
+  "type": "ERC721",
+  "name": "MonkeyVerse : Zero",
+  "tokenCount": "1000",
+  "uri": "https://cdn-api.niftykit.com/reveal/E7W5VNxbyl4hcSNBh3E2/1",
+  "metadata": {
+    "name": "#1",
+    "description": "3,000 animated pixel monkeys running on the Ethereum Blockchain",
+    "external_url": "",
+    "image": "https://ipfs.io/ipfs/Qmdr3RbxfvJnw1sdqtTGTHxLjGxiyQkeHwCMXv9rqqqkXP/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BG"
+      },
+      {
+        "trait_type": "Shadow",
+        "value": "Shadow"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "None"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Cream"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Slime Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Rapper Black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Beard Grey"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Blue High Top"
+      },
+      {
+        "trait_type": "Legendary",
+        "value": "None"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "seller_fee_basis_points": 690,
+    "fee_recipient": "0x64ef2332e224D64f593636e882f39E871Ae9676c"
+  }
+}

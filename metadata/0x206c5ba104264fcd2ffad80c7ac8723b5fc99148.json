@@ -1,0 +1,50 @@
+{
+  "address": "0x206c5ba104264fcd2ffad80c7ac8723b5fc99148",
+  "type": "ERC721",
+  "name": "Careless Rabbit",
+  "tokenCount": "666",
+  "uri": "ipfs://QmcJzu2b5Z8GurosRrvA5hAZPvyV2SHKWWVKLn1rhYCXUw/1.json",
+  "metadata": {
+    "name": "Careless Rabbit #1",
+    "description": "Powered by CRGC",
+    "image": "ipfs://QmYGWA1FGyJ7bxq6YdtNBPkAHL9Z1DfAHtn1ZmBb8aaD8H/1.png",
+    "dna": "1e86db8b78a166ab438906cf99f73466ef24268a",
+    "edition": 1,
+    "date": 1665066731348,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Tshirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "body",
+        "value": "Body"
+      },
+      {
+        "trait_type": "neck",
+        "value": "triangle"
+      },
+      {
+        "trait_type": "ears",
+        "value": "shy"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "none"
+      },
+      {
+        "trait_type": "whiskers",
+        "value": "tiny"
+      }
+    ],
+    "compiler": "CRGC Engine"
+  }
+}

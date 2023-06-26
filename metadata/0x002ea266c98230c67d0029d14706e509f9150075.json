@@ -1,0 +1,25 @@
+{
+  "address": "0x002ea266c98230c67d0029d14706e509f9150075",
+  "type": "ERC1155",
+  "name": "Sappyi",
+  "tokenCount": "2",
+  "uri": "ipfs://QmZ1zyPNjGndgQVQrf5E9vfWfK53etUq9K5Z3eaEfVQi8y/1.json",
+  "metadata": {
+    "tokenID": 1,
+    "name": "Platinum Chip Card",
+    "description": "Extremely high value.",
+    "image": "ipfs://QmVwyRqhvsZAdvyNosyNsXifr2gDXTSeKTVJe7sFt7BkxZ/1.mp4",
+    "animation_url": "ipfs://QmVwyRqhvsZAdvyNosyNsXifr2gDXTSeKTVJe7sFt7BkxZ/1.mp4",
+    "attributes": [
+      {
+        "trait_type": "Supply",
+        "value": "Fixed"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Platinum Chip Card"
+      }
+    ],
+    "external_url": "https://www.witlink.ai/"
+  }
+}

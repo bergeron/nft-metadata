@@ -1,0 +1,50 @@
+{
+  "address": "0x01c06696dcec0d45d3db711f370537602d4b7bb7",
+  "type": "ERC721",
+  "name": "Oshadbank Awards",
+  "tokenCount": "1",
+  "uri": "ipfs://QmcWB4KMgM4955A7JGNdpzGjS3YZHY1Q4ZTfEe23peYXje/1.json",
+  "metadata": {
+    "name": "Oshadbank Award March 2028",
+    "description": "Oshadbank is taking over the world. Join us.",
+    "image": "ipfs://QmQiP8YVCh74Hh2GiaQuK25eU4CD7r1j2KiEdWLu2oJv2N/1.mp4",
+    "dna": "ef0f8f58d60bd3ccb39d2ab827a126b7020c578d",
+    "edition": 1,
+    "creator": "Oshadbank",
+    "fee_recipient": "0x334ce5048e1dc1cfcbf6a692e7ce6bd950ad82ec",
+    "seller_fee_basis_points": 1500,
+    "creators": [
+      {
+        "address": "0x334ce5048e1dc1cfcbf6a692e7ce6bd950ad82ec",
+        "share": 100
+      }
+    ],
+    "attributes": [
+      {
+        "trait_type": "Month",
+        "value": "March"
+      },
+      {
+        "trait_type": "Ketchup",
+        "value": "Torchin Lagidniy"
+      },
+      {
+        "trait_type": "Car",
+        "value": "Zaporozhets"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Super Bats"
+      },
+      {
+        "trait_type": "LOL",
+        "value": "YES"
+      },
+      {
+        "trait_type": "How much",
+        "value": "A lot"
+      }
+    ],
+    "compiler": "Oshadbank Mint Engine"
+  }
+}

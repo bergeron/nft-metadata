@@ -1,0 +1,47 @@
+{
+  "address": "0xb6a6955284985dc4276807c5f3b13b8b08cf4ca8",
+  "type": "ERC721",
+  "name": "PlantStones",
+  "tokenCount": "2",
+  "uri": "https://ipfs.io/ipfs/QmWm99jCi9A8iYuxKJk6UWgaoXtqQuuaDkYuav1Fu2jAHG",
+  "metadata": {
+    "name": "Plant-Stones #2",
+    "image": "https://miuradonuts.com/P-Stones/2.png",
+    "attributes": [
+      {
+        "trait_type": "Stone",
+        "value": "chert rock"
+      },
+      {
+        "value": "石植物"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Herbs"
+      },
+      {
+        "trait_type": "Spirit",
+        "value": "スプライト"
+      },
+      {
+        "trait_type": "Music Type",
+        "value": "UK rock"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Life Energy",
+        "value": 30
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Growth",
+        "value": 5
+      },
+      {
+        "display_type": "date",
+        "trait_type": "捕獲日",
+        "value": 1665392400
+      }
+    ]
+  }
+}

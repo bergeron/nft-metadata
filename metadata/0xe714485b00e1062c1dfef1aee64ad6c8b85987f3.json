@@ -1,0 +1,93 @@
+{
+  "address": "0xe714485b00e1062c1dfef1aee64ad6c8b85987f3",
+  "type": "ERC721",
+  "name": "CryptoPepes",
+  "tokenCount": "119",
+  "uri": "https://api.cryptopepes.lol/getPepe/1",
+  "metadata": {
+    "can_cozy_again": 0,
+    "cool_down_index": 0,
+    "father": "0",
+    "gen": 0,
+    "genotype": "63933263042163687949024090947337910485733638393249924983210039801168286746375,76869658753829023692314977157701088262375715550948583869987175724749110601063",
+    "look": {
+      "background": "#e3f6ce",
+      "body": {
+        "neck": "neck>punk_necklace",
+        "shirt": {
+          "color": "#297e7e",
+          "type": "shirt>basic_shirt"
+        }
+      },
+      "extra": {
+        "glasses": {
+          "primary": "#220f0f",
+          "secondary": "#0082e3",
+          "type": "none"
+        }
+      },
+      "head": {
+        "eyes": {
+          "color": "#50255c",
+          "type": "eyes>red_eyes"
+        },
+        "hair": {
+          "haircolor": "#1d1a18",
+          "hatcolor": "#b6df57",
+          "hatcolor2": "#0060c9",
+          "type": "none"
+        },
+        "mouth": "mouth>basic_lips"
+      },
+      "skin": {
+        "color": "#588f3b"
+      }
+    },
+    "master": "0x831491b5cF7bA0d626672ABF71A1420f7D3844Ac",
+    "mother": "0",
+    "pepeId": 1,
+    "bio_title": "Thug Hodler of dank vlogs",
+    "bio_description": "A-yo. I like my coffee like my soul. Pure black. I am here to buy high sell low when it's Tuesday. Wanna dance? Tinder blocked me for being ugly.",
+    "id": 1,
+    "name": "Pepe #1",
+    "named": false,
+    "owner": "0x831491b5cF7bA0d626672ABF71A1420f7D3844Ac",
+    "external_url": "https://cryptopepes.lol/pepe/1",
+    "image": "https://pepes.cryptopepes.lol/reborn/1.svg",
+    "svgPath": "https://pepes.cryptopepes.lol/reborn/1.svg",
+    "background_color": "e3f6ce",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Red eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Basic lips"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "None"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Basic shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Punk necklace"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "None"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 0
+      }
+    ],
+    "pepe-state": "normal",
+    "description": "# Thug Hodler of dank vlogs  \n  \nA-yo. I like my coffee like my soul. Pure black. I am here to buy high sell low when it's Tuesday. Wanna dance? Tinder blocked me for being ugly."
+  }
+}

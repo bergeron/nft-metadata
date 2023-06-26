@@ -1,0 +1,65 @@
+{
+  "address": "0xac1a716c9ae06e51171d64b12f926e5abac0a54d",
+  "type": "ERC721",
+  "name": "GY1",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/qAx9e_28hyOKKokFyW69rOi2e-R-XHsVoK7CSPDHtvQ",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "animation_url": "https://arweave.net/czd2K4qZtdqJDbSymFd0cNMU8DR8As4iTDqvSs6vQV8",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1647692491
+      },
+      {
+        "trait_type": "Creator",
+        "value": "GY"
+      }
+    ],
+    "description": "Birthday card from the kids",
+    "external_url": "https://cxip.io/nft/0xac1a716c9ae06e51171d64b12f926e5abac0a54d/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/amSii4GrWtohB_7grSJZAq5dhqudWC_cb47ynehzECk",
+    "imageUrl": "https://arweave.net/amSii4GrWtohB_7grSJZAq5dhqudWC_cb47ynehzECk",
+    "name": "20220319 BDC for SP",
+    "properties": {
+      "animation_url": "https://arweave.net/czd2K4qZtdqJDbSymFd0cNMU8DR8As4iTDqvSs6vQV8",
+      "created_at": "2022-03-19T12:21:31.000000Z",
+      "creator_wallet": "0x88e3b6f28197e91f345a9acea660f12ad3994e0b",
+      "description": "Birthday card from the kids",
+      "image": "https://arweave.net/amSii4GrWtohB_7grSJZAq5dhqudWC_cb47ynehzECk",
+      "imageUrl": "https://arweave.net/amSii4GrWtohB_7grSJZAq5dhqudWC_cb47ynehzECk",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "19 March 2022",
+      "name": "20220319 BDC for SP",
+      "nft_type": "non-fungible video token (video/mp4)",
+      "preview_media_file": "https://arweave.net/uvtNpX7cDM69BEzzS9qgB6TKHS8go9laNvZLG_WNtro",
+      "preview_media_file_dimensions": "360x510",
+      "preview_media_file_size": 182850,
+      "preview_media_file_type": "video/mp4",
+      "raw_media_dimensions": "594x842",
+      "raw_media_file": "https://arweave.net/dcu7NooweDsRWhZa60pyvUHBZJh9V6IL0vQqBU6k8mw",
+      "raw_media_file_size": 692972,
+      "raw_media_file_spec": "Duration: 00:00:02.03, start: 0.000000, bitrate: 2735 kb/s\nVideo: h264 (Main) (avc1 / 0x31637661), yuv420p, 594x842 [SAR 1:1 DAR 297:421], 2054 kb/s, 29.97 fps, 29.97 tbr, 30k tbn, 59.94 tbc (default)\nAudio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 314 kb/s (default)",
+      "raw_media_file_type": "video/mp4",
+      "raw_media_format": "portrait",
+      "raw_media_signature": "0x927ab8cf222f233adf910c1fe621622212df2e7425b77d960305e880f678e8de",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/7wvzG5fnS6B3vf_5hodBS84OfXDDUM1Xbq_6zlnZ3tw",
+      "thumb_media_file_type": "image/jpg",
+      "title": "20220319 BDC for SP",
+      "total_supply": 1
+    },
+    "title": "20220319 BDC for SP"
+  }
+}

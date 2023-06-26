@@ -1,0 +1,104 @@
+{
+  "address": "0x845727ad971f2a177fe5548c576779c0ded9dc86",
+  "type": "ERC721",
+  "name": "EGGRYPTO:Monster",
+  "tokenCount": "578",
+  "uri": "https://game-dot-kyuzan-mononoke.appspot.com/api/monster/info/1",
+  "metadata": {
+    "name": "Ghostling",
+    "image": "https://storage.googleapis.com/eggrypto-game/monster/512/029.png",
+    "description": "It takes joy in frightening children during the night.",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "2"
+      },
+      {
+        "trait_type": "common_attack_type",
+        "value": "Magic Attack"
+      },
+      {
+        "trait_type": "element_type",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "level",
+        "value": 8,
+        "max_value": 100
+      },
+      {
+        "trait_type": "ct",
+        "value": 6,
+        "max_value": 7
+      },
+      {
+        "trait_type": "total_hp",
+        "value": 20
+      },
+      {
+        "trait_type": "total_attack",
+        "value": 18
+      },
+      {
+        "trait_type": "total_defense",
+        "value": 21
+      },
+      {
+        "trait_type": "total_magic_attack",
+        "value": 20
+      },
+      {
+        "trait_type": "total_magic_defense",
+        "value": 20
+      },
+      {
+        "trait_type": "total_speed",
+        "value": 20
+      },
+      {
+        "trait_type": "iv_hp",
+        "value": 15,
+        "max_value": 32
+      },
+      {
+        "trait_type": "iv_attack",
+        "value": 8,
+        "max_value": 32
+      },
+      {
+        "trait_type": "iv_defense",
+        "value": 24,
+        "max_value": 32
+      },
+      {
+        "trait_type": "iv_magic_attack",
+        "value": 14,
+        "max_value": 32
+      },
+      {
+        "trait_type": "iv_magic_defense",
+        "value": 13,
+        "max_value": 32
+      },
+      {
+        "trait_type": "iv_speed",
+        "value": 16,
+        "max_value": 32
+      },
+      {
+        "trait_type": "kizuna_level",
+        "value": 0
+      },
+      {
+        "trait_type": "ns_attack",
+        "value": 10,
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "ns_magic_attack",
+        "value": -10,
+        "display_type": "boost_percentage"
+      }
+    ]
+  }
+}

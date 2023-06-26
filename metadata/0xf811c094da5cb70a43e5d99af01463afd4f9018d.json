@@ -1,0 +1,91 @@
+{
+  "address": "0xf811c094da5cb70a43e5d99af01463afd4f9018d",
+  "type": "ERC721",
+  "name": "Scryptals.io Evolving On-chain NFTs",
+  "tokenCount": "40",
+  "uri": "https://scryptals.io/eth/scryptal/1",
+  "metadata": {
+    "external_url": "https://scryptals.io/onchain/nfts/eth/scryptal/1",
+    "name": "Scryptal #1",
+    "background_color": "ffffff",
+    "animation_url": "https://scryptals.io/nft/onchain/eth/scryptal/1",
+    "attributes": [
+      {
+        "id": "rarity",
+        "display_type": "number",
+        "trait_type": "Rarity level",
+        "value": "3.1"
+      },
+      {
+        "id": "segments",
+        "display_type": "number",
+        "trait_type": "Segments",
+        "value": 16
+      },
+      {
+        "id": "totcolors",
+        "display_type": "number",
+        "trait_type": "Scryptal colors",
+        "value": 1
+      },
+      {
+        "id": "bgColor"
+      },
+      {
+        "id": "masterboosterpoints",
+        "display_type": "number",
+        "trait_type": "Master evolution points",
+        "value": 1
+      },
+      {
+        "id": "boosterpoints",
+        "display_type": "number",
+        "trait_type": "Base evolution points",
+        "value": 1
+      },
+      {
+        "id": "family",
+        "trait_type": "Family",
+        "value": "Original",
+        "value_raw": "0"
+      },
+      {
+        "id": "boost",
+        "trait_type": "Evolution level",
+        "value": "Originals cannot be evolved"
+      },
+      {
+        "id": "originator",
+        "rare": true,
+        "trait_type": "Originator",
+        "value": "original family"
+      },
+      {
+        "id": "boost_show",
+        "display_type": "boost_percentage",
+        "trait_type": "Showed evolution level",
+        "value_raw": "0",
+        "value": 0
+      },
+      {
+        "id": "redditivity",
+        "display_type": "number",
+        "trait_type": "Redditivity",
+        "value": 34.4
+      },
+      {
+        "id": "curved",
+        "trait_type": "Curvy level",
+        "value": 0
+      },
+      {
+        "id": "animated",
+        "display_type": "number",
+        "trait_type": "Animations",
+        "value": 0
+      }
+    ],
+    "image": "https://scryptals.io/public/share/eth/1.png",
+    "description": "Scryptal #1 is an ETH full on-chain Ethereum NFT belonging to Original family. \nIt is made of 16 segments, has 1 colors  and is very special because it belongs to the Original family, there are only 31 scryptals in this family, they give great evolution power and they can be showed at any evolution level. \nListed traits are based on the base evolution level that is the only one possible for this family. The owner chose to show evolution level 0."
+  }
+}

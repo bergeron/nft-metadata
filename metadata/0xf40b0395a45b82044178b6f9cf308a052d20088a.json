@@ -1,0 +1,51 @@
+{
+  "address": "0xf40b0395a45b82044178b6f9cf308a052d20088a",
+  "type": "ERC721",
+  "name": "Moonbunny NFT",
+  "tokenCount": "8888",
+  "uri": "https://moonbunny.infura-ipfs.io/ipfs/QmQ9FNsr5oPgKTe1uTmHGkSZhD16Nm9zk1QRtyfFKDcgHU/1.json",
+  "metadata": {
+    "dna": "4bd3afeb17d67228262f8210729f0e54e7125a63b1f36d8fd3995920cabaae06",
+    "name": "Moonbunny #1",
+    "description": "Moonbunny is a collection of 8888 unique bunnies.",
+    "image": "https://moonbunny.infura-ipfs.io/ipfs/QmUjWPJbr94NwV2ryh35SfCFyty5CuT5jPA6He47MN4Q1D/1.png",
+    "imageHash": "b0032d7e35a5e929d5c6423aafc48c9541a78a64ee4fdba975eaccc1adb5c261",
+    "edition": 1,
+    "date": 1656763202216,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Combed"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Short"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Side Eye"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Backward Hat"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "Leather Jacket"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Purple"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  }
+}

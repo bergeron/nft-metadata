@@ -1,0 +1,70 @@
+{
+  "address": "0x8eaa9ae1ac89b1c8c8a8104d08c045f78aadb42d",
+  "type": "ERC721",
+  "name": "Tableland Rigs",
+  "tokenCount": "3000",
+  "uri": "https://tableland.network/api/v1/query?format=objects&extract=true&unwrap=true&statement=select%20json_object('name'%2C%20case%20when%20exists%20(select%20*%20from%20pilot_sessions_1_7%20where%20rig_id%20%3D%20result.rig_id%20and%20end_time%20is%20null)%20then%20'Rig%20%23'%20%7C%7C%20rig_id%20%7C%7C%20'%20%E2%9C%88%EF%B8%8F'%20else%20'Rig%20%23'%20%7C%7C%20rig_id%20end%2C%20'external_url'%2C%20'https%3A%2F%2Fgarage.tableland.xyz%2Frigs%2F'%20%7C%7C%20rig_id%2C%20'image'%2C%20'ipfs%3A%2F%2F'%20%7C%7C%20renders_cid%20%7C%7C%20'%2F'%20%7C%7C%20rig_id%20%7C%7C%20'%2F'%20%7C%7C%20image_full_name%2C%20'image_alpha'%2C%20'ipfs%3A%2F%2F'%20%7C%7C%20renders_cid%20%7C%7C%20'%2F'%20%7C%7C%20rig_id%20%7C%7C%20'%2F'%20%7C%7C%20image_full_alpha_name%2C%20'image_medium'%2C%20'ipfs%3A%2F%2F'%20%7C%7C%20renders_cid%20%7C%7C%20'%2F'%20%7C%7C%20rig_id%20%7C%7C%20'%2F'%20%7C%7C%20image_medium_name%2C%20'image_medium_alpha'%2C%20'ipfs%3A%2F%2F'%20%7C%7C%20renders_cid%20%7C%7C%20'%2F'%20%7C%7C%20rig_id%20%7C%7C%20'%2F'%20%7C%7C%20image_medium_alpha_name%2C%20'thumb'%2C%20'ipfs%3A%2F%2F'%20%7C%7C%20renders_cid%20%7C%7C%20'%2F'%20%7C%7C%20rig_id%20%7C%7C%20'%2F'%20%7C%7C%20image_thumb_name%2C%20'thumb_alpha'%2C%20'ipfs%3A%2F%2F'%20%7C%7C%20renders_cid%20%7C%7C%20'%2F'%20%7C%7C%20rig_id%20%7C%7C%20'%2F'%20%7C%7C%20image_thumb_alpha_name%2C%20'animation_url'%2C%20animation_base_url%20%7C%7C%20rig_id%20%7C%7C%20'.html'%2C%20'attributes'%2C%20json_group_array(json_object('display_type'%2C%20display_type%2C%20'trait_type'%2C%20trait_type%2C%20'value'%2C%20value)))%20from%20(select%20*%20from%20rig_attributes_42161_15%20union%20select%20a.rig_id%2C%20'string'%20as%20display_type%2C%20'Garage%20Status'%20as%20trait_type%2C%20case%20when%20start_time%20is%20null%20then%20'parked'%20else%20'in-flight'%20end%20as%20value%20from%20rig_attributes_42161_15%20as%20a%20left%20join%20(select%20*%20from%20pilot_sessions_1_7%20where%20end_time%20is%20null)%20as%20s%20on%20a.rig_id%20%3D%20s.rig_id)%20as%20result%20join%20lookups_42161_10%20where%20rig_id%20%3D%201%20group%20by%20rig_id",
+  "metadata": {
+    "name": "Rig #1",
+    "external_url": "https://garage.tableland.xyz/rigs/1",
+    "image": "ipfs://bafybeidpnfh2zc6esvou3kfhhvxmy2qrmngrqczj7adnuygjsh3ulrrfeu/1/image_full.png",
+    "image_alpha": "ipfs://bafybeidpnfh2zc6esvou3kfhhvxmy2qrmngrqczj7adnuygjsh3ulrrfeu/1/image_full_alpha.png",
+    "image_medium": "ipfs://bafybeidpnfh2zc6esvou3kfhhvxmy2qrmngrqczj7adnuygjsh3ulrrfeu/1/image_medium.png",
+    "image_medium_alpha": "ipfs://bafybeidpnfh2zc6esvou3kfhhvxmy2qrmngrqczj7adnuygjsh3ulrrfeu/1/image_medium_alpha.png",
+    "thumb": "ipfs://bafybeidpnfh2zc6esvou3kfhhvxmy2qrmngrqczj7adnuygjsh3ulrrfeu/1/image_thumb.png",
+    "thumb_alpha": "ipfs://bafybeidpnfh2zc6esvou3kfhhvxmy2qrmngrqczj7adnuygjsh3ulrrfeu/1/image_thumb_alpha.png",
+    "animation_url": "https://rigs.tableland.xyz/1.html",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "% Original",
+        "value": "20"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Background",
+        "value": "Hue Shift High Desert 4"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Cab",
+        "value": "Midnight Low Vector"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Chassis",
+        "value": "Dawn Fast Tracking Tread"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Fleet",
+        "value": "Titans"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Garage Status",
+        "value": "parked"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Mainframe",
+        "value": "Dawn Base58 Class"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Mod",
+        "value": "Dawn Foreign Data Wrapper"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Utility Pack",
+        "value": "Blaze UTXO"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "VIN",
+        "value": "e9e7caceadc2e5fb4fcbd42c0a6ed0097c709aa01888f70e6d924439ec119ca3"
+      }
+    ]
+  }
+}

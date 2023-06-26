@@ -1,0 +1,22 @@
+{
+  "address": "0x56136e69a5771436a9598804c5ea792230c21181",
+  "type": "ERC721",
+  "name": "Mask Test NFT",
+  "tokenCount": "9",
+  "uri": "https://raw.githubusercontent.com/andy-at-mask/MysteryBoxAsset/master/json/default.json",
+  "metadata": {
+    "description": "Mask Network is the portal to the new, open internet.",
+    "image": "https://raw.githubusercontent.com/andy-at-mask/MysteryBoxAsset/master/png/0.png",
+    "name": "Mask NFT",
+    "traits": [
+      {
+        "trait_type": "power",
+        "value": "100"
+      },
+      {
+        "trait_type": "defence",
+        "value": "98"
+      }
+    ]
+  }
+}

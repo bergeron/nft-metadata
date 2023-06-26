@@ -1,0 +1,38 @@
+{
+  "address": "0xeae023a172aada1ffd6449b89aeea3e76d6fc953",
+  "type": "ERC721",
+  "name": "Meta_Dudes",
+  "tokenCount": "6",
+  "uri": "ipfs://QmYmw3TvDq7Sxf3oL13HCLZjRjLaYYf1q7R3wd78SgeCGM/1.json",
+  "metadata": {
+    "name": "Meta Dude #1",
+    "description": "Ordinary dudes trying to make it into the Metaverse",
+    "image": "ipfs://QmUTyDEB8r6UW4Hecopx1QHG6L1udNZsAREpvihyZ4PK72/1.png",
+    "dna": "aa30056109e2817cf786a6038d497153c5f04a83",
+    "edition": 1,
+    "date": 1642417359442,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background1"
+      },
+      {
+        "trait_type": "face",
+        "value": "Head2"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "ReadingGlassesBlue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "BeardSmoke"
+      },
+      {
+        "trait_type": "head",
+        "value": "Hat4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

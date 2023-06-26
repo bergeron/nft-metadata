@@ -1,0 +1,43 @@
+{
+  "address": "0x4717b54e2f36e62d0cb55495196ff13943e86d81",
+  "type": "ERC721",
+  "name": "Gotchi Evolvin",
+  "tokenCount": "4000",
+  "uri": "https://storageapi.fleek.co/256e1077-3ba4-4f13-9298-2a063e646bf9-bucket/GotchiJson/1.json",
+  "metadata": {
+    "dna": "e5101c231d8f5f04deaa3884f6912246aa7bf578ed7cd655bdc4ac148f385481",
+    "name": "Gotchi # 1",
+    "description": "Gotchi Evolved",
+    "image": "https://storageapi.fleek.co/256e1077-3ba4-4f13-9298-2a063e646bf9-bucket/GotchiImg//1.png",
+    "imageHash": "3e360cc888a83da418552fe9f1e78904e1d6edd3718c20e85dce4cd1bb4b65de",
+    "edition": 1,
+    "date": 1661383862487,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "case down",
+        "value": "Red Down"
+      },
+      {
+        "trait_type": "case up",
+        "value": "Orange Up"
+      },
+      {
+        "trait_type": "buttons",
+        "value": "Red Double Button"
+      },
+      {
+        "trait_type": "chains",
+        "value": "chains"
+      },
+      {
+        "trait_type": "screen",
+        "value": "Pingu"
+      }
+    ],
+    "compiler": "Custom Compiler"
+  }
+}

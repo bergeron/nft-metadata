@@ -1,0 +1,50 @@
+{
+  "address": "0xd8f22e5aeb832c4a9ec28cc231fa1453f3c65f0a",
+  "type": "ERC1155",
+  "name": "Don't Feed The Bunnies!",
+  "tokenCount": "1",
+  "uri": "ipfs://QmV44D7dTMAeke6GJvE8ymSVE1ojXPU3Ns5f2XvVnpLTqk/1/token.json",
+  "metadata": {
+    "name": "Don't Feed The Bunnies!",
+    "image": "ipfs://QmPDoCeS1QAt4QTDih6kgebNZVZG147ZF7WpqRhkHcRbe4",
+    "description": "Somewhere floating in the centre... just about.\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Kitty Bast"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Right Seat 2"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "Don't Feed The Bunnies!"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0x15e43b025a909eed84a42212093488ebb3409714"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Right Seat 2",
+              "state": {
+                "label": "Don't Feed The Bunnies!",
+                "uri": "QmU5HogFyYEGH7q8fGRemHz2PS96sEipyPeafoe2kSFfLg"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

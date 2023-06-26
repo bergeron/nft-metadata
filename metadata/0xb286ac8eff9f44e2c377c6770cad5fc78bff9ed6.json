@@ -1,0 +1,99 @@
+{
+  "address": "0xb286ac8eff9f44e2c377c6770cad5fc78bff9ed6",
+  "type": "ERC721",
+  "name": "Genesis Mechs",
+  "tokenCount": "1082",
+  "uri": "https://m.cyberbrokers.com/eth/mech/1",
+  "metadata": {
+    "tokenId": 1,
+    "name": "Unhcegila, The Powerful One",
+    "clean_description": "This armoured Behemoth will relay any griefer using automatic strength and lazing effect. Unhcegila, The Powerful One is a cruel assault Mech, that trades in comfort for considering firepower and unparalleled cannon.",
+    "description": "This armoured Behemoth will relay any griefer using automatic strength and lazing effect. Unhcegila, The Powerful One is a cruel assault Mech, that trades in comfort for considering firepower and unparalleled cannon.\n\nVRM v0 (1k): https://m.cyberbrokers.com/eth/mech/1/files/mech_1k.0.vrm\n\nVRM v0 (2k): https://m.cyberbrokers.com/eth/mech/1/files/mech_2k.0.vrm\n\nVRM v1 (1k): https://m.cyberbrokers.com/eth/mech/1/files/mech_1k.vrm\n\nVRM v1 (2k): https://m.cyberbrokers.com/eth/mech/1/files/mech_2k.vrm",
+    "attributes": [
+      {
+        "trait_type": "Model",
+        "value": "Behemoth"
+      },
+      {
+        "trait_type": "Endurance",
+        "value": 12,
+        "max_value": 30
+      },
+      {
+        "trait_type": "Speed",
+        "value": 10,
+        "max_value": 30
+      },
+      {
+        "trait_type": "Power",
+        "value": 14,
+        "max_value": 30
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Fathom"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "Nullstatic"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Draconian"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Major Gunner"
+      },
+      {
+        "trait_type": "Legs",
+        "value": "Mr. Grif"
+      },
+      {
+        "trait_type": "Engine",
+        "value": "Hoarfrost"
+      },
+      {
+        "trait_type": "Afterglow",
+        "value": "Starter Green"
+      },
+      {
+        "trait_type": "Weight",
+        "value": 300
+      },
+      {
+        "trait_type": "Height",
+        "value": 27
+      },
+      {
+        "trait_type": "Style Diversity",
+        "value": 6,
+        "display_type": "number",
+        "max_value": 6
+      },
+      {
+        "trait_type": "Special Ability",
+        "value": "Frozen Momento"
+      }
+    ],
+    "external_url": "https://cyberbrokers.com/mechs/1",
+    "image": "https://cb-media.sfo3.cdn.digitaloceanspaces.com/mechs/c4ca4238a0b923820dcc509a6f75849b/3cb25386-3c5c-4960-b99a-60883847b70f/images/nft_image.webp",
+    "files": {
+      "glb": [
+        "https://m.cyberbrokers.com/eth/mech/1/files/mech.glb",
+        "https://m.cyberbrokers.com/eth/mech/1/files/mech_1k.glb",
+        "https://m.cyberbrokers.com/eth/mech/1/files/mech_2k.glb"
+      ],
+      "vrm": [
+        "https://m.cyberbrokers.com/eth/mech/1/files/mech.vrm",
+        "https://m.cyberbrokers.com/eth/mech/1/files/mech_1k.vrm",
+        "https://m.cyberbrokers.com/eth/mech/1/files/mech_2k.vrm"
+      ],
+      "fbx": [
+        "https://m.cyberbrokers.com/eth/mech/1/files/mech_1k.fbx",
+        "https://m.cyberbrokers.com/eth/mech/1/files/mech_2k.fbx"
+      ],
+      "info": "https://m.cyberbrokers.com/eth/mech/1/files/info.json"
+    }
+  }
+}

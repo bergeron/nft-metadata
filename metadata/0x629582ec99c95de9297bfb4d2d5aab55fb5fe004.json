@@ -1,0 +1,54 @@
+{
+  "address": "0x629582ec99c95de9297bfb4d2d5aab55fb5fe004",
+  "type": "ERC721",
+  "name": "ShiryoinuAvatar",
+  "tokenCount": "1",
+  "uri": "https://api.avatars.shiryoinu.com/1",
+  "metadata": {
+    "name": "Shiryo-Inu Avatars #1",
+    "description": "Shiryo-Inu avatar collection",
+    "image": "https://avatars.shiryoinu.com/1.png",
+    "dna": "9e0582d2279e0680377bf7defc9ad031dcdfc82f",
+    "edition": 1,
+    "date": 1637802114833,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "basicbrown"
+      },
+      {
+        "trait_type": "head",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "scarsmarkings",
+        "value": "Markingfour"
+      },
+      {
+        "trait_type": "nose",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "eyeware",
+        "value": "Eyepatchmaroon"
+      },
+      {
+        "trait_type": "ears",
+        "value": "Maroon"
+      },
+      {
+        "trait_type": "accessory",
+        "value": "TongueTeeth"
+      },
+      {
+        "trait_type": "symbol",
+        "value": "Moons"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

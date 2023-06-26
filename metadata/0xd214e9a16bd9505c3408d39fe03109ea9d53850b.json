@@ -1,0 +1,33 @@
+{
+  "address": "0xd214e9a16bd9505c3408d39fe03109ea9d53850b",
+  "type": "ERC721",
+  "name": "InsideMe_official",
+  "tokenCount": "4",
+  "uri": "ipfs://QmQALqPCvsdFGQcNhWJWSkDSWhabV9DsAeC88aRtaGDFB2/1.json",
+  "metadata": {
+    "name": "InsideMe #001",
+    "description": "anthropomorphic front facing portrait of a cyberpunk lion wearing fur jacket, wearing jewels, red and black color scheme, bauhaus, vector art, makoto shinkai, Moebius",
+    "image": "ipfs://Qmc6cFWRZKwP83ytDNKbAAA45k6XN26AUXRxeFSGEhthk4/1812.png",
+    "edition": 1,
+    "date": 1667033246152,
+    "attributes": [
+      {
+        "value": "lion",
+        "trait_type": "animal"
+      },
+      {
+        "value": "fur jacket",
+        "trait_type": "clothes"
+      },
+      {
+        "value": "jewels",
+        "trait_type": "wearings"
+      },
+      {
+        "value": "red and black color scheme",
+        "trait_type": "colors"
+      }
+    ],
+    "compiler": "InsideMe Art Engine"
+  }
+}

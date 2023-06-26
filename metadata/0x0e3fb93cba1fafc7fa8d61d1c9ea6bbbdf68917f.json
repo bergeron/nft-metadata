@@ -1,0 +1,55 @@
+{
+  "address": "0x0e3fb93cba1fafc7fa8d61d1c9ea6bbbdf68917f",
+  "type": "ERC721",
+  "name": "BigWords  Master Edition",
+  "tokenCount": "7",
+  "uri": "https://ipfs.pixura.io/ipfs/Qmf7H5PCivGMtDefc8m1jQE543p2rNr8X8CoG5JjN7gyWF/metadata.json",
+  "metadata": {
+    "name": "Time Is Dated",
+    "createdBy": "MIDABI",
+    "yearCreated": "2022",
+    "description": "The master collection is the first and original edition of a work. Only two editions are made, an Artist's Proof and a Collector's Edition. All subsequent editions will have a different attribute and be under a different contract and collection.",
+    "image": "https://ipfs.pixura.io/ipfs/QmbHQSsK651SfhTh35GvV7kWsLbjCdP874pcbm2CMMdqxq/timeisdated.png",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmbHQSsK651SfhTh35GvV7kWsLbjCdP874pcbm2CMMdqxq/timeisdated.png",
+      "dimensions": "8000x8000",
+      "size": "496981",
+      "mimeType": "image/png"
+    },
+    "tags": [
+      "art",
+      "text",
+      "words",
+      "literature",
+      "writing",
+      "poetry",
+      "philosophy"
+    ],
+    "attributes": [
+      {
+        "trait_type": "Size",
+        "value": "8000 x 8000"
+      },
+      {
+        "trait_type": "Resolution",
+        "value": "300"
+      },
+      {
+        "trait_type": "Font",
+        "value": "Modified Geogrotesque"
+      },
+      {
+        "trait_type": "Text Hex",
+        "value": "fffdfd"
+      },
+      {
+        "trait_type": "Background Hex",
+        "value": "000000"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "1/1 + Artist's Proof"
+      }
+    ]
+  }
+}

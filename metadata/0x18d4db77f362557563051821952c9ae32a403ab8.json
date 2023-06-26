@@ -1,0 +1,38 @@
+{
+  "address": "0x18d4db77f362557563051821952c9ae32a403ab8",
+  "type": "ERC721",
+  "name": "The KittyButts",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmdmARy37feHgN4vXzNhfnBz7G3DN2Uqtv9tSDKfYpGqSa/1",
+  "metadata": {
+    "description": "The KittyButts are a collection of 10,000 sassy cats living on the Ethereum Blockchain.",
+    "image": "ipfs://QmcCksUFx9sxEELT5VTMbdxvbhJhs81qpMoc82xbjrQej1",
+    "name": "KittyButt #1",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Mulled Wine"
+      },
+      {
+        "trait_type": "Backdrop",
+        "value": "Daytime Blue"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Locket"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "Plain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Dino Hood"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Fangs"
+      }
+    ]
+  }
+}

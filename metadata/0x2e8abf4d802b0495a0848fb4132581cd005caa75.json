@@ -1,0 +1,45 @@
+{
+  "address": "0x2e8abf4d802b0495a0848fb4132581cd005caa75",
+  "type": "ERC721",
+  "name": "Merge Dark Ape",
+  "tokenCount": "10000",
+  "uri": "ipfs://bafybeiechnolhgm6qvkfjkc7zwpd7igtywibvh75fxwzezuzp3mh55j3ce/1.json",
+  "metadata": {
+    "name": "Merge Dark Ape #1",
+    "description": "Merge Dark Ape #1 - Merge Dark Ape 10.000 collection of 150+ traits reshuffled - Not affiliated with Yugalabs.",
+    "fee_recipient": "0x2e8abf4d802b0495a0848fb4132581cd005caa75",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://bafybeicjmnugh2k3yjfku3robrki6w3hk6djm64tnb3pzdfj3y5zrd6fxy/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Merge Dark Ape Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Snoop"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hawaiian"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Dont Look"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "Flipped Brim"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Cigarette"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 6019,
+        "display_type": "number"
+      }
+    ]
+  }
+}

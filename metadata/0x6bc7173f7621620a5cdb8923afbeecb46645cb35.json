@@ -1,0 +1,42 @@
+{
+  "address": "0x6bc7173f7621620a5cdb8923afbeecb46645cb35",
+  "type": "ERC721",
+  "name": "DoodlePepes Official",
+  "tokenCount": "3115",
+  "uri": "ipfs://bafybeiezt3yztynl7kg5kjvv73blkghilrnq3ukuf6zex3fnlq2tbvsreq/1.json",
+  "metadata": {
+    "name": "Doodle Pepe #1",
+    "description": "CC0.",
+    "image": "ipfs://bafybeih4hymoe5bt63ulzr6tzgoco2k3nbh2bakmv6pzmzpiuopx53vg2i/1.png",
+    "dna": "527a0fe2dde5b01247fee1078e8eaf11af30d32e",
+    "edition": 1,
+    "date": 1660123995561,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green Sweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wide"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Blue Rasta"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Purple Sad"
+      }
+    ],
+    "compiler": "Pepe"
+  }
+}

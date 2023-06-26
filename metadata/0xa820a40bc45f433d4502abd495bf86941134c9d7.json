@@ -1,0 +1,66 @@
+{
+  "address": "0xa820a40bc45f433d4502abd495bf86941134c9d7",
+  "type": "ERC1155",
+  "name": "FraktalNFTArt Blocks V2",
+  "tokenCount": "2",
+  "uri": "https://api.artblocks.io/token/55000100",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "55000100",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Talking Blocks #100",
+    "minted": true,
+    "artist": "REMO x DCsan",
+    "description": "Talking Blocks listens to the Blockchain hash # and creates a unique artwork with a signature stamped into the image that is a direct message from the blockchain. This provides the collector an assurance of authenticity while leveraging the blockchain to generate a unique message, a retina print of the blockchain hash #. This is an instantly recognizable visual signature. You can interact with the artwork to modulate a sonic reaction of oscillating circular waves. The permanent immutability of the underlying token hash # is combined with a non-repeatable signature from a person interacting with the artwork, all in real-time. In other words, you can have a conversation with the Blockchain.",
+    "script_type": "p5@1.0.0",
+    "project_id": "55",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/55000100.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/55000100.png",
+    "generator_url": "https://generator.artblocks.io/55000100",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/55000100",
+    "royaltyInfo": {
+      "artistAddress": "0x5adb8988c310f3846ef1ac30ad1c35188cc77b31",
+      "additionalPayee": "0xd9f7fa14da177ff68bad47ab30fe933db75c3e43",
+      "additionalPayeePercentage": 80,
+      "royaltyFeeByID": "0"
+    },
+    "collection_name": "Talking Blocks by REMO x DCsan",
+    "website": "https://linktr.ee/remocamero",
+    "token_hash": "0xe3199ca3a4fe0f7ec18ecaa4f7d616edde450b0a4366f486c1c07be87f4f05d0",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/55/tokens/55000100",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/55000100",
+    "features": {
+      "endHue": "262",
+      "glitch": 0,
+      "hueStep": 6,
+      "hueRange": "199",
+      "startHue": "63",
+      "initAngle": "89",
+      "stepAngle": 1
+    },
+    "traits": [
+      {
+        "trait_type": "Talking Blocks",
+        "value": "All Talking Blocks"
+      },
+      {
+        "trait_type": "Talking Blocks",
+        "value": "glitch: 0"
+      },
+      {
+        "trait_type": "Talking Blocks",
+        "value": "hueStep: 6"
+      },
+      {
+        "trait_type": "Talking Blocks",
+        "value": "stepAngle: 1"
+      }
+    ],
+    "is_static": false,
+    "license": "NIFTY license"
+  }
+}

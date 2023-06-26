@@ -1,0 +1,38 @@
+{
+  "address": "0xc71e9db556db250e8299bbcaee20147f77ba57db",
+  "type": "ERC721",
+  "name": "Fuze.Life",
+  "tokenCount": "80",
+  "uri": "https://meta.fuze.life/1",
+  "metadata": {
+    "name": "Napoléon",
+    "image": "https://meta.fuze.life/images/1.png",
+    "image_ipfs": "https://cloudflare-ipfs.com/ipfs/QmShTv6xCASVw3fZkGazw87CQmJWqZ955EJW4sWTcjqwVe",
+    "external_url": "https://fuze.life/",
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 1657961484
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Brown, wavy, short"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Male"
+      },
+      {
+        "value": "Beard"
+      },
+      {
+        "value": "Gen 0 Parisian"
+      }
+    ]
+  }
+}

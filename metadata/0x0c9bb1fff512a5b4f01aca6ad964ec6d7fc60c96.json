@@ -1,0 +1,19 @@
+{
+  "address": "0x0c9bb1fff512a5b4f01aca6ad964ec6d7fc60c96",
+  "type": "ERC721",
+  "name": "Hunt Town",
+  "tokenCount": "444",
+  "uri": "https://api.hunt.town/token-metadata/buildings/1.json",
+  "metadata": {
+    "name": "HUNT Building #1",
+    "description": "Hunt Town: Hunt Town is a Web3 builders guild where builders come together to contribute to the expansion of Web3 culture and products.\n\nBuilding NFT: Minting of 1 HUNT Building NFT requires 1,000 HUNT tokens to be locked-up for one year. After this lock-up period, the NFT holder can burn his/her Building NFT and the 1,000 HUNT tokens will be returned to the person.\n\nTo have full access to the Hunt Town Discord and earn BUILD points, you need at least 1 Building NFT and to become verified via the Discord server.\n\nAbout Hunt Town: https://hunt.town",
+    "image": "https://api.hunt.town/token-metadata/buildings/hunt-building.png",
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "Unlock Time",
+        "value": 1701332735
+      }
+    ]
+  }
+}

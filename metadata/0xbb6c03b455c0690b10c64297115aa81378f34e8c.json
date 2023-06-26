@@ -1,0 +1,52 @@
+{
+  "address": "0xbb6c03b455c0690b10c64297115aa81378f34e8c",
+  "type": "ERC721",
+  "name": "luuvii",
+  "tokenCount": "6",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=IEunVdgzwwss41KxEu5K",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1578902799584?alt=media&token=31062c40-544f-48db-bea7-f40db39b97a1",
+    "forSale": true,
+    "contractAddress": "0xbb6c03b455c0690b10c64297115aa81378f34e8c",
+    "description": "The NFT token represents the right to the image.",
+    "type": "ERC721",
+    "tags": [],
+    "external_link": "https://mintbase.io/minted/0xbb6c03b455c0690b10c64297115aa81378f34e8c/IEunVdgzwwss41KxEu5K",
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "external_url": "https://mintbase.io",
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1578902886,
+      "_nanoseconds": 703000000
+    },
+    "price": "1",
+    "name": "Far from heaven",
+    "fiatPrice": "$143.26",
+    "attributes": [
+      {
+        "trait_type": "website",
+        "value": ""
+      },
+      {
+        "trait_type": "location",
+        "value": "Switzerland"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJYW1Zb-9kjEcRFXvLDxG1Vlw"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1578006000
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io"
+  }
+}

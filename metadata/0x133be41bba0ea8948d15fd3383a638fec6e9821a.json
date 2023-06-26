@@ -1,0 +1,34 @@
+{
+  "address": "0x133be41bba0ea8948d15fd3383a638fec6e9821a",
+  "type": "ERC721",
+  "name": "UnlockablesNFT",
+  "tokenCount": "3",
+  "uri": "ipfs://QmdU2QnFDtfxZg9yEJCKynyo4k9xEz8NrS6X9paG3fVi9W/1.json",
+  "metadata": {
+    "dna": "W5raDoDfmLe6MZDAq9ERpIA5S7cx5bslOV5AAIX3",
+    "name": "Shooters badge [RARE]",
+    "description": "This achievement item can be unlocked by a player who has 500 or more three pointers made in the NBA",
+    "image": "ipfs://QmSMXAepkGeH5i8fRS5ZWHSa3rNq53iAqdhrNAropGWHna/1.gif",
+    "external_url": "https://www.unlockabl.es/",
+    "date": 1642430196174,
+    "attributes": [
+      {
+        "trait_type": "Achievement",
+        "value": "Shooters badge [RARE]"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Mint order",
+        "value": "1"
+      },
+      {
+        "trait_type": "Unlocked by",
+        "value": "Davis Bertans"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Royal Pink"
+      }
+    ]
+  }
+}

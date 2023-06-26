@@ -1,0 +1,56 @@
+{
+  "address": "0xbc4e8115e17d96cfd8e3ecef2b0d6e19d00f70b2",
+  "type": "ERC721",
+  "name": "Bad Ted Yacht Club",
+  "tokenCount": "10000",
+  "uri": "ipfs://bafybeihtgpl53hkf36j2dn6cd6xbnzq5o5bqt5coi4i3r3tmkvutppel6y/1.json",
+  "metadata": {
+    "name": "Ted #1",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://bafybeib6btdd4qepky2mhvelk3ibqsm5thwlehg5iys263rx5hr44aqo7q/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Toga"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bandana Blue"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Unshaven Kazoo"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Bored Ted Yacht Club",
+      "family": "Bored Ted Yacht Club"
+    },
+    "symbol": ""
+  }
+}

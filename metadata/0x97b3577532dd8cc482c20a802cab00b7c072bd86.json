@@ -1,0 +1,30 @@
+{
+  "address": "0x97b3577532dd8cc482c20a802cab00b7c072bd86",
+  "type": "ERC721",
+  "name": "Lost Space Crew",
+  "tokenCount": "93",
+  "uri": "https://mainnet-sample-assets.s3.eu-west-2.amazonaws.com/bad3/1.json",
+  "metadata": {
+    "name": "#001",
+    "description": "'The crew of Starship ERC-721 disappeared in deep space. The crew, my parents had a sense of humor and a keen sense for finding the unknown. So I had the sense that my parents were telling me that there would no longer be a crew on starship. A crew that would never come back. I couldn't bring myself to call them aliens but their disappearance would surely be mistaken for something more surspicious. A few days later, I learned that more than one of the crew was a species called the Triton.' A collection of generative artwork depicting the fate of a deep space exploration crew.",
+    "image": "https://mainnet-sample-assets.s3.eu-west-2.amazonaws.com/bad3/1.png",
+    "attributes": [
+      {
+        "trait_type": "Crew Member",
+        "value": "Courtney Phillips"
+      },
+      {
+        "trait_type": "Rank",
+        "value": "Captain"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
+}

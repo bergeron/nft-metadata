@@ -1,0 +1,64 @@
+{
+  "address": "0xcc9186e6c1438d18b2aa156d4aa37a1a277cde55",
+  "type": "ERC721",
+  "name": "ShibArmyUkraine",
+  "tokenCount": "51",
+  "uri": "ipfs://bafybeihucv2onua5qz6tx5oqj34nxb2itpc6xlv4zcoceaap7tric2d2tm/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "ShibArmy Freedom Fighter",
+    "external_url": "",
+    "image": "ipfs://REPLACE_WITH_CID_FROM_PREVIOUS_STEP/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "CYAN#10"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "FLAG#1"
+      },
+      {
+        "trait_type": "Base Character",
+        "value": "ORANG FUR #10"
+      },
+      {
+        "trait_type": "Body",
+        "value": "BATTLE TESTED AND WORNS #10"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SCARS #10"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "FANGS #10"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "UKRAINE EYES #1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "COMBAT SUIT #10"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "ShibArmyUkraine",
+      "family": "ShibArmyUkraine"
+    },
+    "symbol": ""
+  }
+}

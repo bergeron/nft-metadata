@@ -1,0 +1,44 @@
+{
+  "address": "0x9c8a2b35b268bf2aa69f5fc105514e34daf3cebb",
+  "type": "ERC721",
+  "name": "Nftfy V2",
+  "tokenCount": "22",
+  "uri": "ipfs://QmNTDM47WiVgJshJ67QjpzRJHXEcq1WR67drqqGd6JfT1p",
+  "metadata": {
+    "name": "Anjo Eterno",
+    "description": "Esse foi um anjo que tive a honra de conviver por 37 anos, meu irmão e melhor amigo. Descanse em paz mano!",
+    "author": "Lalo Trage",
+    "social_media": "twitter.com/lalotrage",
+    "sensitive_content": "false",
+    "attributes": [
+      {
+        "trait_type": "De",
+        "value": "1980"
+      },
+      {
+        "trait_type": "Até",
+        "value": "2021"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Anjo Eterno"
+      },
+      "created_at": {
+        "type": "string",
+        "description": "2021-07-20T18:43:20.515Z"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "image/png,image/jpeg"
+      },
+      "description": {
+        "type": "string",
+        "description": "Esse foi um anjo que tive a honra de conviver por 37 anos, meu irmão e melhor amigo. Descanse em paz mano!"
+      }
+    },
+    "alt": "",
+    "image": "ipfs://QmbiHRkaWuTXKhUmTfxY1rqbTJZLEkTUcNCYBfxgvhhgR6"
+  }
+}

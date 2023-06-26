@@ -1,0 +1,38 @@
+{
+  "address": "0xa286f96297fbc3cd5a7e0349a0c08b0ed6e10e60",
+  "type": "ERC721",
+  "name": "Senseless Studio - old",
+  "tokenCount": "2",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=TtstPSdsvoKSDqkvFjfE",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1590450829065?alt=media&token=78c774db-1712-4f90-9cfe-a021dcb61a8b",
+    "forSale": true,
+    "description": "This license grants Exclusive Rights to the beat Coffee Shop by Senseless Studios.",
+    "contractAddress": "0xa286f96297fbc3cd5a7e0349a0c08b0ed6e10e60",
+    "ethPrice": "2",
+    "amountToMint": 1,
+    "minter": "0xd5ffcabf2ba93b4c30698b0398dfbf1af3163a61",
+    "mintedOn": {
+      "_seconds": 1590450838,
+      "_nanoseconds": 880000000
+    },
+    "price": "$0.00",
+    "name": "Coffee shop - Exclusive License",
+    "fiatPrice": "$410.66",
+    "minted": "Minted on Mintbase.io",
+    "youtube_url": "",
+    "category": "L4cOGQC1UOmuOMcYkra4",
+    "external_url": "https://mintbase.io/my-market/0xa286f96297fbc3cd5a7e0349a0c08b0ed6e10e60",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "TtstPSdsvoKSDqkvFjfE"
+      },
+      {
+        "trait_type": "website",
+        "value": "https://soundcloud.com/senselessstudios/coffee-shop"
+      }
+    ],
+    "type": "ERC721"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "address": "0x2ae0f92498346b9e011ed15d8c98142dcf62f774",
+  "type": "ERC721",
+  "name": "Eden Network Distribution",
+  "tokenCount": "260",
+  "uri": "ipfs://Qmb1Gb1niJjpoVrhj6TpDwg5ZqosciE2RcXH6uw1BASx6U",
+  "metadata": {
+    "network": "mainnet",
+    "governance": "0x726adc632871ff796379da14f9d5aeb199bed505",
+    "distributor": "0x2ae0f92498346b9e011ed15d8c98142dcf62f774",
+    "startBlock": 12964944,
+    "startBlockHash": "0xda55a038f71d9794a98e3dc683f042d8e442feb997b35f8ca9d326890c437776",
+    "endBlock": 12971392,
+    "endBlockHash": "0xdfc9bdc8e3b3f42e7cef9d17f10f12dfc009676f12cea89fd0c295a782bfddea",
+    "merkleRoot": "0xaed2dcb9eb2e78d2b045b9d27c26bd1dac43289f0e47152a0d02366ba43524e5",
+    "tokenTotal": "0xfdfb9ab25a733ba00000",
+    "balances": {
+      "0x00192fb10df37c9fb26829eb2cc623cd1bf599e8": {
+        "index": 0,
+        "amount": "0x1c82d959b6b501c00000",
+        "proof": [
+          "0xebc81d20032de38f8249de4c23e4bfa281a1b024d12915292a3e4a10f1a18b22",
+          "0xef556c88aff573f53a69656bfb6ea0893f8c734f1bead2c65e3a36b8c6c2e09a",
+          "0x7ad3c79bfeaee18b804a8ee5ec8a2253a8c6e9fdfcc9c02d4c49d0aaf5ae19c9"
+        ]
+      },
+      "0x002e08000acbbae2155fab7ac01929564949070d": {
+        "index": 1,
+        "amount": "0x062cc44adfb2d6a00000",
+        "proof": [
+          "0x9482240ac326b863b206ef727f722e5a4b503ff6a5d2fbff6bbc8ac558e1c3c9",
+          "0xf9b9370760e5584657f3356871a3f2554e58dba93aebb7dcfda3e4ff809654b5",
+          "0xde88175f30b9311f1bc7e83284018fea6df4f51057473d30250e8c15c584f4ae"
+        ]
+      },
+      "0x1ad91ee08f21be3de0ba2ba6918e714da6b45836": {
+        "index": 2,
+        "amount": "0x32364d0b846591000000",
+        "proof": [
+          "0x0b619e2e593e81293fe08de98b72a72d22c8af022a97277f351d36b6cd79a2f5",
+          "0x7ad3c79bfeaee18b804a8ee5ec8a2253a8c6e9fdfcc9c02d4c49d0aaf5ae19c9"
+        ]
+      },
+      "0x52bc44d5378309ee2abf1539bf71de1b7d7be3b5": {
+        "index": 3,
+        "amount": "0x21294d9219a3fbe00000",
+        "proof": [
+          "0xe402c93fe9714330cb3804aab700bc5be9a12f69d7541fea9bd5115590090db6",
+          "0xef556c88aff573f53a69656bfb6ea0893f8c734f1bead2c65e3a36b8c6c2e09a",
+          "0x7ad3c79bfeaee18b804a8ee5ec8a2253a8c6e9fdfcc9c02d4c49d0aaf5ae19c9"
+        ]
+      },
+      "0x5a0b54d5dc17e0aadc383d2db43b0a0d3e029c4c": {
+        "index": 4,
+        "amount": "0x64d4af714c3290000000",
+        "proof": [
+          "0x23830057aa23f8a06d1bbb4f0bc09d06bbf789e466ae6c2d14dc1a98e7c51a6c",
+          "0x7c2e5c3f795c82d82daf083952f1cfc8d81ad2403d2847914d40bb2ff6e78102",
+          "0xde88175f30b9311f1bc7e83284018fea6df4f51057473d30250e8c15c584f4ae"
+        ]
+      },
+      "0xb3b7874f13387d44a3398d298b075b7a3505d8d4": {
+        "index": 5,
+        "amount": "0x0eb684b2672edca00000",
+        "proof": [
+          "0x7de4088b5d2ef54c3ff8e1e22ff7ab7f941ddbc3c8f8849ea6bb759ad250a905",
+          "0xf9b9370760e5584657f3356871a3f2554e58dba93aebb7dcfda3e4ff809654b5",
+          "0xde88175f30b9311f1bc7e83284018fea6df4f51057473d30250e8c15c584f4ae"
+        ]
+      },
+      "0xe206e3dca498258f1b7eec1c640b5aee7bb88fd0": {
+        "index": 6,
+        "amount": "0x14612e4c72a069c00000",
+        "proof": [
+          "0x08991158bd04076cabc459a256c1d04bb9c88c2dbc8e99fd90f8f67272014aca",
+          "0x7c2e5c3f795c82d82daf083952f1cfc8d81ad2403d2847914d40bb2ff6e78102",
+          "0xde88175f30b9311f1bc7e83284018fea6df4f51057473d30250e8c15c584f4ae"
+        ]
+      }
+    },
+    "epoch": 1,
+    "image": "https://edennetwork.io/EDEN_NFT.gif",
+    "name": "Eden Network Epoch #1 Distribution",
+    "description": "Merkle tree proofs of total earned rewards on Eden Network for epoch #1 ending at block 12971392. The root of the merkle tree is 0xaed2dcb9eb2e78d2b045b9d27c26bd1dac43289f0e47152a0d02366ba43524e5.",
+    "attributes": [
+      {
+        "trait_type": "Merkle Root",
+        "value": "0xaed2dcb9eb2e78d2b045b9d27c26bd1dac43289f0e47152a0d02366ba43524e5"
+      },
+      {
+        "trait_type": "Start Block",
+        "type": "number",
+        "value": 12964944
+      },
+      {
+        "trait_type": "End Block",
+        "type": "number",
+        "value": 12971392
+      },
+      {
+        "trait_type": "Epoch",
+        "type": "number",
+        "value": 1
+      },
+      {
+        "trait_type": "Total Rewards",
+        "type": "number",
+        "value": 1199400
+      }
+    ]
+  }
+}

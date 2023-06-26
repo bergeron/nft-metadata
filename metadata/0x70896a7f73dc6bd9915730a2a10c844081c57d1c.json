@@ -1,0 +1,42 @@
+{
+  "address": "0x70896a7f73dc6bd9915730a2a10c844081c57d1c",
+  "type": "ERC721",
+  "name": "Doku NFT",
+  "tokenCount": "9000",
+  "uri": "https://doku.mypinata.cloud/ipfs/QmXTXbcbcg2FUoBiM1Yj7A6Y5ZkGhhJVGEH26tmx9meGCc/1.json",
+  "metadata": {
+    "name": "Doku #1",
+    "description": "Doku is a decentralized NFT avatar project inspired by Satoshi Nakamoto.\n\nEach Doku NFT tells it's own story.\n\nOwning a Doku grants you full commercial rights to that Doku. Secondary sale collection royalties go to holders.\n\nClaiming royalties can be done by calling the claim or claimMany function on the Doku smart contract.",
+    "attributes": [
+      {
+        "trait_type": "Clothes",
+        "value": "Woman Straight On Clothes 5"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Woman Straight On Hair 13"
+      },
+      {
+        "trait_type": "Pose",
+        "value": "Straight On"
+      },
+      {
+        "trait_type": "Background",
+        "value": "The Cafe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Woman Straight On Eyes 21"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Woman Straight On Mouth 5"
+      },
+      {
+        "trait_type": "Sex",
+        "value": "Woman"
+      }
+    ],
+    "image": "https://doku.mypinata.cloud/ipfs/QmfRBT1sbacjYnobXuiBNTdrKe8SQAGdDxGxxNzb7suFbo/1.png"
+  }
+}

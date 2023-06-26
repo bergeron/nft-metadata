@@ -1,0 +1,26 @@
+{
+  "address": "0x00515d3e90950b844d54fb2781afeeda81adea39",
+  "type": "ERC721",
+  "name": "RGB22",
+  "tokenCount": "27",
+  "uri": "ipfs://QmUruD25VgwDCf9P8tgBTRG5KjhPyG99KgmmUx3JVurxfd/1.json",
+  "metadata": {
+    "name": "Alexis #1",
+    "description": "Description for Alexis...",
+    "image": "ipfs://QmcD541g2GSqFkbhZQhL3aAPALexqEyrndUoYf76HTseZ1/Alexis.gif",
+    "dna": "d125a81b29a18f7db2dd49deaffa4cf54e5605c3",
+    "edition": 1,
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "value": 1,
+        "max_value": 3
+      },
+      {
+        "trait_type": "Pack",
+        "value": "Red"
+      }
+    ]
+  }
+}

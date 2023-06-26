@@ -1,0 +1,54 @@
+{
+  "address": "0x519272821dddb3afc7accd1823b674d30946185e",
+  "type": "ERC721",
+  "name": "Quacky Ducks Official NFT",
+  "tokenCount": "8888",
+  "uri": "ipfs://QmPKSEt88Er7NQdi19i951b89RF4UKg8YxWPKVNGYy6UTT/1.json",
+  "metadata": {
+    "name": "Quacky Ducks #1: Infinite Duck Meditating",
+    "description": "Created by QuackyDucksNFT official.",
+    "image": "ipfs://QmWEJZBcLib56y3zYg7W6myHV5mvR9AjjYEv3NaBtmEpHP/1.png",
+    "dna": "8fa5b1800fec087d06ea6c43f4e9e27552501a6c",
+    "edition": 1,
+    "date": 1646055975992,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GradientLightBlue"
+      },
+      {
+        "trait_type": "BodyInk",
+        "value": "GlowPink"
+      },
+      {
+        "trait_type": "BodyLine",
+        "value": "DefaultBodyline"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "DoudouneYellow"
+      },
+      {
+        "trait_type": "EyesB",
+        "value": "DefaultEyesA"
+      },
+      {
+        "trait_type": "HeadB",
+        "value": "CapForwardBlue"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "BeardShortGrey"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "DefaultFrameNone"
+      },
+      {
+        "trait_type": "Legendary",
+        "value": "InfiniteDuckMeditating"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

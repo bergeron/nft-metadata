@@ -1,0 +1,55 @@
+{
+  "address": "0xaf684cffa2659fa83e285c33faa68424b9b67a01",
+  "type": "ERC721",
+  "name": "TheCryptoBearsClub V2",
+  "tokenCount": "5",
+  "uri": "ipfs://QmW1DNwK1TvLDzDaRCERa1syUPRvt4mydAMbc64SfH93M9/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://QmdmjpSFRPPqxefFeqMtPrX3sdYKcXSt91X3UtRgffNr7g/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gold"
+      },
+      {
+        "trait_type": "special",
+        "value": "none"
+      },
+      {
+        "trait_type": "back",
+        "value": "None"
+      },
+      {
+        "trait_type": "item",
+        "value": "shisha"
+      },
+      {
+        "trait_type": "ears",
+        "value": "Cross"
+      },
+      {
+        "trait_type": "head",
+        "value": "none"
+      },
+      {
+        "trait_type": "face",
+        "value": "none"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "key": "new value"
+  }
+}

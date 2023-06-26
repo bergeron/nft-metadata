@@ -1,0 +1,54 @@
+{
+  "address": "0x9efaa75d15c597ef2f195d6fafd5e3c5cd413494",
+  "type": "ERC721",
+  "name": "ColdchainVan",
+  "tokenCount": "699",
+  "uri": "https://coldchain-nft.s3.ap-northeast-2.amazonaws.com/json/1.json",
+  "metadata": {
+    "name": "Cold Chain Van#1",
+    "description": "Cold Chain Van",
+    "image": "https://coldchain-nft.s3.ap-northeast-2.amazonaws.com/images/1.png",
+    "dna": "4ad00a1c0891b035adde0237e12b7da8697edd99",
+    "edition": 1,
+    "date": 1664289547426,
+    "attributes": [
+      {
+        "trait_type": "BG",
+        "value": "green"
+      },
+      {
+        "trait_type": "Back",
+        "value": "back"
+      },
+      {
+        "trait_type": "Wheels",
+        "value": "holes"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Basic brown"
+      },
+      {
+        "trait_type": "Body",
+        "value": "baby blue"
+      },
+      {
+        "trait_type": "Matte black",
+        "value": "black"
+      },
+      {
+        "trait_type": "Headlight",
+        "value": "dual"
+      },
+      {
+        "trait_type": "Taillight",
+        "value": "basic"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "White"
+      }
+    ],
+    "compiler": "Cold Chain Van"
+  }
+}

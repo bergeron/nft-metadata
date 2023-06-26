@@ -1,0 +1,46 @@
+{
+  "address": "0x5d23bcb35571f1f2b96dcca633974aafddea1f32",
+  "type": "ERC721",
+  "name": "Fantasy Football NFT",
+  "tokenCount": "10000",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmQGZNiaiR93w5sYFhV6XB1vaBo4iZsguS5uaXEzJoe3n3/1",
+  "metadata": {
+    "image": "https://gateway.pinata.cloud/ipfs/QmVr384MbSMmNeqxXfYE5sRKmPdHoN6tEsMnhmSpZY2Sxm/1.jpeg",
+    "description": "Fantasy Football NFT the Game",
+    "name": "Team 1",
+    "attributes": [
+      {
+        "value": "Kansas City",
+        "trait_type": "QB"
+      },
+      {
+        "trait_type": "RB 1",
+        "value": "Pittsburgh"
+      },
+      {
+        "value": "Buffalo",
+        "trait_type": "RB 2"
+      },
+      {
+        "trait_type": "WR 1",
+        "value": "Baltimore"
+      },
+      {
+        "value": "Seattle",
+        "trait_type": "WR 2"
+      },
+      {
+        "value": "Tennessee",
+        "trait_type": "WR 3"
+      },
+      {
+        "trait_type": "TE",
+        "value": "Green Bay"
+      },
+      {
+        "value": "New York J",
+        "trait_type": "DST"
+      }
+    ]
+  }
+}

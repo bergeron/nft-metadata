@@ -1,0 +1,12 @@
+{
+  "address": "0x9232990e9b32e417198dbfd4a98fabcef87e7cb1",
+  "type": "ERC721",
+  "name": "Trytebeats music of a trinary cpu",
+  "tokenCount": "3",
+  "uri": "ipfs://QmaYT8xBqBWNNFqM53JAG7tghPeT5fxqK3XbCHkG8JFMdy/metadata.json",
+  "metadata": {
+    "name": "Trytebeats θ",
+    "description": "Read more on the [Trytebeats medium article](https://dadabots.medium.com/trytebeats-music-of-a-trinary-cpu-f95546295bd3) \n\n🎶 \n\nWhat does a trinary computer sound like? Threes all the way down.\n\nTrytebeats is a program for a trinary (aka ternary) computer. It generates music using tritwise operators.\n\nYou're hearing powers of three on all scales of the waveform- the timbre, the melody, the harmony, the rhythm, the riffs, and the composition.\n\n🎶 \n\nTrytebeat θ's program is short and beautiful. I increment t, at a sample rate 3402 Hz, with 4-trit quantization:\n\n```(t*((tθ(((t>>10)+2)%3%2)*2)>>6))&(t&(tθ2)>>5)%81```\n\nThat’s it. The code seems tiny, yet it blossoms into emergent sonic-visual complexity.\n\n🎶 \n\nThis series is the birth of Trytebeats.\n\nCollector can claim an animated lenticular print of their Trytebeat shipped free. They look like [these](https://twitter.com/dadabots/status/1430136875524804624?s=20) 🥳 \n\nCollector also gets hifi video and future airdrop (see article)",
+    "image": "ipfs://QmQ43JatzpjJyizCvyvYcsiHhTM9uPeyv25Pc2s8UoavY6/nft.mp4"
+  }
+}

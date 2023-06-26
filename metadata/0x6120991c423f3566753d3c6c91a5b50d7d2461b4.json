@@ -1,0 +1,64 @@
+{
+  "address": "0x6120991c423f3566753d3c6c91a5b50d7d2461b4",
+  "type": "ERC721",
+  "name": "Allstarz PSX",
+  "tokenCount": "1258",
+  "uri": "https://allstarz.world/api/metadata/1.json",
+  "metadata": {
+    "name": "Allstarz PSX #1",
+    "description": "Allstarz Reimagined into Low Poly Renders",
+    "attributes": [
+      {
+        "trait_type": "Items",
+        "value": "Gushie Plush"
+      },
+      {
+        "trait_type": "Moods",
+        "value": "Ladybug"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "Black Cargo"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Kaiju"
+      },
+      {
+        "trait_type": "Tops",
+        "value": "Tactical Vest"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Pale"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Grit"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Headband"
+      }
+    ],
+    "edition": 1,
+    "image": "https://allstarz.world/api/image/1.gif",
+    "vrm_url": "https://allstarz.world/models/kitsy.vrm",
+    "metadata_standard": "ETM_v1.0.0",
+    "extensions": [
+      "ETM_MULTIASSET_v1.0.0"
+    ],
+    "assets": [
+      {
+        "media_type": "model",
+        "asset_type": "avatar",
+        "files": [
+          {
+            "url": "https://allstarz.world/models/kitsy.vrm",
+            "file_type": "model/vrm"
+          }
+        ]
+      }
+    ]
+  }
+}

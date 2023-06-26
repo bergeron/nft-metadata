@@ -1,0 +1,45 @@
+{
+  "address": "0xd1297729485a73a3bf7c45d6d52b248b22fff91a",
+  "type": "ERC721",
+  "name": "Lorem Ipsum NFT",
+  "tokenCount": "1",
+  "uri": "data:application/json;base64,eyJuYW1lIjoiTG9yZW0gSXBzdW0gIzEiLCAiZGVzY3JpcHRpb24iOiJMb3JlbSBJcHN1bSBpcyBzaW1wbHkgZHVtbXkgdGV4dCBvZiB0aGUgcHJpbnRpbmcgYW5kIHR5cGVzZXR0aW5nIGluZHVzdHJ5LiIsICJlZGl0aW9uX251bWJlciI6IjEiLCAiaW1hZ2UiOiJodHRwczovL2lwZnMuaW8vaXBmcy9RbVlZSFlWeldmYVFXMmUxa1FEYkx2QVpTbm5DUHRNaG5XSzhwbXUzWkJ1NWRlIiwgImFuaW1hdGlvbl91cmwiOiIiLCAiZXh0ZXJuYWxfdXJsIjoiIiwgImF0dHJpYnV0ZXMiOlt7InRyYWl0X3R5cGUiOiJIZWxsbyIsInZhbHVlIjoiV29ybGQifSx7InRyYWl0X3R5cGUiOiJDb2xsZWN0aW9uIiwidmFsdWUiOiJEcm9wIFRlc3RpbmcifSx7InRyYWl0X3R5cGUiOiJDb2xsZWN0aWJsZSIsInZhbHVlIjoiTG9yZW0gSXBzdW0gU2Vhc29uIFRpY2tldCJ9LHsidHJhaXRfdHlwZSI6IlJhcml0eSIsInZhbHVlIjoiRXhwZXJpZW5jZSBQYXNzIn0seyJ0cmFpdF90eXBlIjoiUGFydG5lciIsInZhbHVlIjoiSm9obiBEb2UifSx7InRyYWl0X3R5cGUiOiJTaWduZWQiLCJ2YWx1ZSI6Ik5vIn0seyJ0cmFpdF90eXBlIjoiTWVkaWEgVHlwZSIsInZhbHVlIjoiVmlkZW8ifV19",
+  "metadata": {
+    "name": "Lorem Ipsum #1",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "edition_number": "1",
+    "image": "https://ipfs.io/ipfs/QmYYHYVzWfaQW2e1kQDbLvAZSnnCPtMhnWK8pmu3ZBu5de",
+    "animation_url": "",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Hello",
+        "value": "World"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Drop Testing"
+      },
+      {
+        "trait_type": "Collectible",
+        "value": "Lorem Ipsum Season Ticket"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Experience Pass"
+      },
+      {
+        "trait_type": "Partner",
+        "value": "John Doe"
+      },
+      {
+        "trait_type": "Signed",
+        "value": "No"
+      },
+      {
+        "trait_type": "Media Type",
+        "value": "Video"
+      }
+    ]
+  }
+}

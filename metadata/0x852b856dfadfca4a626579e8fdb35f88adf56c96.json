@@ -1,0 +1,49 @@
+{
+  "address": "0x852b856dfadfca4a626579e8fdb35f88adf56c96",
+  "type": "ERC721",
+  "name": "Chill Ducks",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmXDEkUNibUjvEAsG8k4UoPUjr5TsVUypMiQqD7Ghy3G6s/1.json",
+  "metadata": {
+    "name": "Chill Ducks #1",
+    "description": "Chill Ducks never panic",
+    "image": "ipfs://QmYZtAeVokxBZoGnpssTWYgHCfXeSFryZknRiqEUra3Ptv/1.png",
+    "edition": 1,
+    "date": 1681106414746,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Skyline"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Two Tone Black"
+      },
+      {
+        "trait_type": "Duck",
+        "value": "Duck"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Burgundy Turtle Neck"
+      },
+      {
+        "trait_type": "Face Detail",
+        "value": "Scar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Chill"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Joy"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Drivers Cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "address": "0xab7701373d91dd999c17435165ad1eb2d551e3aa",
+  "type": "ERC721",
+  "name": "Gradi3nt",
+  "tokenCount": "59",
+  "uri": "https://art-sandbox.sunflower.industries/token/0xAB7701373D91Dd999c17435165Ad1EB2D551e3AA/1",
+  "metadata": {
+    "description": "A free to mint exploration of onchain color gradient grids. Millions of possible color outputs, pixel sizes between 1 and 200, and gradients between 0.35-0.65 randomly determined at time of mint.",
+    "dependencies": "[{\"name\":\"p5@1.4.0\",\"keccak256\":\"0xcef1df742d5237151854b6ccd3d7769c7bcb2cf987e4f8f6ca1ad69afdac3dcc\"}]",
+    "artist": "0xf445bdEd18F6a32cE5e7a5E57265Ed9A60635224",
+    "external_url": "https://art.sunflower.industries/token/0xAB7701373D91Dd999c17435165Ad1EB2D551e3AA/1",
+    "image": "https://art-sandbox.sunflower.industries/render/tokenImage/0xAB7701373D91Dd999c17435165Ad1EB2D551e3AA/1",
+    "name": "Gradi3nt #1",
+    "attributes": [
+      {
+        "trait_type": "gradientamt",
+        "value": "0.39740419005975125"
+      },
+      {
+        "trait_type": "pxlSize",
+        "value": "87.41880089533515"
+      }
+    ],
+    "animation_url": "https://art-sandbox.sunflower.industries/tokenFrame/0xAB7701373D91Dd999c17435165Ad1EB2D551e3AA/1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0xb9a6f2ff16812e9ad7e1f759fca4ecd7a3ab74e4",
+  "type": "ERC721",
+  "name": "HackFS",
+  "tokenCount": "560",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xb9a6f2ff16812e9ad7e1f759fca4ecd7a3ab74e4/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xb9a6F2ff16812E9AD7e1F759fcA4ecd7A3AB74E4/icon?id=1",
+    "expiration": 1595552515,
+    "tokenId": "1",
+    "owner": "0x97b6ea551cc93bd537f09df3cd88c59618ea0c3b",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1595552515
+      }
+    ],
+    "userMetadata": {
+      "public": {}
+    },
+    "keyId": "1",
+    "lockAddress": "0xb9a6F2ff16812E9AD7e1F759fcA4ecd7A3AB74E4",
+    "network": 1
+  }
+}

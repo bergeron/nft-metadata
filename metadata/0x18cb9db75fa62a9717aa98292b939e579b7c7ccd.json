@@ -1,0 +1,32 @@
+{
+  "address": "0x18cb9db75fa62a9717aa98292b939e579b7c7ccd",
+  "type": "ERC721",
+  "name": "Property's NFT",
+  "tokenCount": "6000",
+  "uri": "https://propertys-nft.mypinata.cloud/ipfs/QmXpXugo9YSwaDaidzcVMaVB77XbNniTryrfaRveWp7fgZ/33752858",
+  "metadata": {
+    "name": "Property's #02-03-07-1a",
+    "description": "Postal Code: 02-03-07-1a",
+    "image": "https://propertys-nft.mypinata.cloud/ipfs/QmY8M9YHZvWXhSb5qjXFz5PxFneiEWNb87VfMvNQuVn3gS",
+    "attributes": [
+      {
+        "trait_type": "City Name",
+        "value": "Orange Oasis"
+      },
+      {
+        "trait_type": "District Name",
+        "value": "Tangerine Tinies"
+      },
+      {
+        "trait_type": "Street Name",
+        "value": "Tiny Community"
+      },
+      {
+        "trait_type": "Unit",
+        "display_type": "number",
+        "value": "26",
+        "max_value": "70"
+      }
+    ]
+  }
+}

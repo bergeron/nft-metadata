@@ -1,0 +1,21 @@
+{
+  "address": "0x60ee72e60c0d856a88b84b83e00a1cf8cff31d34",
+  "type": "ERC721",
+  "name": "Mystery Hero",
+  "tokenCount": "333",
+  "uri": "ipfs://QmSqmRoC9LXHSjKebYWfM6o7i3wYfYN28u6rkRwKwvYKuu/hidden.json",
+  "metadata": {
+    "name": "Mystery Hero Unrevealed",
+    "description": "Your Hero is growing, be patient!",
+    "image": "ipfs://QmaGDNVGePJNG9J6dvMDyxLqJaXk9ErqQ4U4uDQhyHHgxW",
+    "dna": "2fb7a43ab71530664a96b935abdd387bd86fa989",
+    "edition": 1,
+    "date": 1654218206647,
+    "attributes": [
+      {
+        "trait_type": "Unrevealed",
+        "value": "True"
+      }
+    ]
+  }
+}

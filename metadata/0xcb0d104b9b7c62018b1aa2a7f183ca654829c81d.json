@@ -1,0 +1,46 @@
+{
+  "address": "0xcb0d104b9b7c62018b1aa2a7f183ca654829c81d",
+  "type": "ERC721",
+  "name": "Test NFT Collection MNA",
+  "tokenCount": "50",
+  "uri": "https://alienbees.mypinata.cloud/ipfs/QmWt19HR3mjSTuRuD5aAnTq79r9qP6SS95c4QwHrBgdBEx/1.json",
+  "metadata": {
+    "name": "The Hive Pals #1",
+    "description": "The Hive Pals are a genesis pass to their best friends, the Alien Bees.",
+    "image": "https://alienbees.mypinata.cloud/ipfs/QmVhFrdJ7NvbgtFfia2DhNhhQAGUqidEJXSgTzgu5pz4To/1.png",
+    "dna": "951796c315424bb8c9caeccb11ebac686af3ac22",
+    "edition": 1,
+    "date": 1658316981859,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LIGHTBLUE"
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "emoji05"
+      },
+      {
+        "trait_type": "Head items",
+        "value": "Fishing Hat"
+      },
+      {
+        "trait_type": "Lefthand",
+        "value": "2"
+      },
+      {
+        "trait_type": "Righthand",
+        "value": "1"
+      },
+      {
+        "trait_type": "Jeans",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "WhiteRed"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

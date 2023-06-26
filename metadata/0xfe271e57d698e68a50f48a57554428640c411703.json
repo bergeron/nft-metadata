@@ -1,0 +1,42 @@
+{
+  "address": "0xfe271e57d698e68a50f48a57554428640c411703",
+  "type": "ERC721",
+  "name": "NotMoonBird",
+  "tokenCount": "2",
+  "uri": "ipfs://QmZJHzps2PLDuqDuBJupwvnjfgjfeFUqJd8wCsSpSVZHD5/1.json",
+  "metadata": {
+    "name": "NotMoonBird #1",
+    "description": "Not moon, not bird, not moonbird, just it",
+    "image": "ipfs://QmaPDNTVKyFuRysrAWK5U2aiC9HgLVQ6KhcxCsX51ZfMsT/1.png",
+    "dna": "cdb70b63aa71e504390f57df33ea0c8705b4e22c",
+    "edition": 1,
+    "date": 1650211892721,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "1"
+      },
+      {
+        "trait_type": "Body",
+        "value": "7"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "45"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "21"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head2"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "34"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

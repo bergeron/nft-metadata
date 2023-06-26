@@ -1,0 +1,47 @@
+{
+  "address": "0xae03a4b221ca6e087fb5f66e8c164aa4b9bf3523",
+  "type": "ERC721",
+  "name": "Chibi Head NFT",
+  "tokenCount": "966",
+  "uri": "https://api.openheadnft.com/chibihead/metadata/1",
+  "metadata": {
+    "name": "#1",
+    "description": "Chibi Head NFT by Open Head NFT",
+    "image": "https://api.openheadnft.com/chibihead/image/1",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Snow"
+      },
+      {
+        "trait_type": "ear",
+        "value": "Earrings"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Steampunk glasses"
+      },
+      {
+        "trait_type": "head",
+        "value": "Dragon"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "nose",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "skin",
+        "value": "Tribe"
+      },
+      {
+        "trait_type": "wear",
+        "value": "Suit"
+      }
+    ],
+    "success": true
+  }
+}

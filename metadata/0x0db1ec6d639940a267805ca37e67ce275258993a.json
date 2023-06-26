@@ -1,0 +1,82 @@
+{
+  "address": "0x0db1ec6d639940a267805ca37e67ce275258993a",
+  "type": "ERC721",
+  "name": "Alex McLeod",
+  "tokenCount": "2",
+  "uri": "https://ipfs.io/ipfs/QmdRQgbt2jButmEKk1rax5pGGZrtCmGrKCUuLvszb13iBE",
+  "metadata": {
+    "name": "Bagwalk",
+    "description": "animation, 3840 × 2160px, running time: 0:01",
+    "external_url": "https://postmastersbc.art//nft/mcleod/bagwalk/bagwalk_thumb.mp4",
+    "animation_url": "https://postmastersbc.art//nft/mcleod/bagwalk/bagwalk_thumb.mp4",
+    "image": "https://postmastersbc.art//nft/mcleod/bagwalk/bagwalk_thumb.mp4",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Alex McLeod"
+      },
+      {
+        "trait_type": "Rights Agreement",
+        "value": "https://ipfs.io/ipfs/Qmbf5Q2ivkECewuasvQKUYsJCjbQ3sPyAsMS2YpcPgfVUt"
+      },
+      {
+        "trait_type": "Archive Link",
+        "value": "https://postmastersbc.art/nft/mcleod/bagwalk/bagwalk.mp4"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Bagwalk"
+      },
+      "description": {
+        "type": "string",
+        "description": "animation, 3840 × 2160px, running time: 0:01"
+      },
+      "image": {
+        "type": "string",
+        "description": "https://postmastersbc.art//nft/mcleod/bagwalk/bagwalk_thumb.mp4"
+      },
+      "rights_agreement": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/Qmbf5Q2ivkECewuasvQKUYsJCjbQ3sPyAsMS2YpcPgfVUt"
+      },
+      "rights_agreement_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "rights_agreement_signature": {
+        "type": "string",
+        "description": "f4e38f7db04f03924adaa2f26d11835a251545988e02e7a2829559eba1682bc2"
+      },
+      "archive_link": {
+        "type": "string",
+        "description": "https://postmastersbc.art/nft/mcleod/bagwalk/bagwalk.mp4"
+      },
+      "archive_link_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "archive_link_signature": {
+        "type": "string",
+        "description": "8dd063d638604829eaaf6d0f6d250b9fcb2f8de93075404856fbb99bbdc716a6"
+      },
+      "rights_agreement_values": {
+        "$ARTIST": "Alex McLeod",
+        "$SHAHASH": "8dd063d638604829eaaf6d0f6d250b9fcb2f8de93075404856fbb99bbdc716a6",
+        "$CONTRACTSHAHASH": "f4e38f7db04f03924adaa2f26d11835a251545988e02e7a2829559eba1682bc2",
+        "$URL": "https://postmastersbc.art//nft/mcleod/bagwalk/bagwalk_thumb.mp4",
+        "$TITLE": "Bagwalk",
+        "$YEAR": "2018",
+        "$ROYALTYRATE": "10",
+        "$TOKEN": "eth",
+        "$ADDRESS": "0xAC2Fe2160B5E80D1D397C2A7e325cBD268aF8FDB",
+        "$LICENSE": "CA.05.19.21., Patent No. US 10,380,702"
+      },
+      "additional_info": {
+        "type": "string",
+        "description": "   this is 1/3 of an edition 3. \nThis digital art NFT was produced by PostmastersBLOCKCHAIN.com, 2021, Postmasters Gallery."
+      }
+    }
+  }
+}

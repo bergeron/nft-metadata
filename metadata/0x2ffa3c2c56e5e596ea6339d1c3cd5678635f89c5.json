@@ -1,0 +1,41 @@
+{
+  "address": "0x2ffa3c2c56e5e596ea6339d1c3cd5678635f89c5",
+  "type": "ERC721",
+  "name": "mishaderidder",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/PgGqRys70BaFwmYQYgZU7daoBeJt5tmxnNFMxyFDdHw",
+  "metadata": {
+    "name": "epilog",
+    "created_by": "misha de ridder",
+    "description": "2022 / MP4 01:00 / 1920x1080 pixels / video / sound",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "misha de ridder"
+      }
+    ],
+    "animation_details": {
+      "bytes": 40478272,
+      "format": "MP4",
+      "duration": 60,
+      "sha256": "91d809abe8bbab7ea90fa13486c9013ab5d281c02057d96da21129177e38def1",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/Ze52qipaLjxOq7tuTFMQJinvLZ78pFEB1EdjJ2zDXXs",
+    "animation_url": "https://arweave.net/Ze52qipaLjxOq7tuTFMQJinvLZ78pFEB1EdjJ2zDXXs",
+    "image_details": {
+      "bytes": 745565,
+      "format": "JPEG",
+      "sha256": "3657672cd992ddfc5c25f8c1e68ba915c5f5af0c2913def37ce20b54d36fbb26",
+      "width": 3840,
+      "height": 2160
+    },
+    "image": "https://arweave.net/xzpCkFtFly9DARI8nDd7kdLZqvmQsElwopJAdjkdI2I",
+    "image_url": "https://arweave.net/xzpCkFtFly9DARI8nDd7kdLZqvmQsElwopJAdjkdI2I"
+  }
+}

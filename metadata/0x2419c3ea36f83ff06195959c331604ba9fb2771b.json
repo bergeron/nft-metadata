@@ -1,0 +1,46 @@
+{
+  "address": "0x2419c3ea36f83ff06195959c331604ba9fb2771b",
+  "type": "ERC721",
+  "name": "Pepe Gang",
+  "tokenCount": "3069",
+  "uri": "ipfs://bafybeia4yumg2xvrdbw5rg2ftsc43fk7w3sqgy3s6v5hzwgagzbuliwhpm/1.json",
+  "metadata": {
+    "name": "Pepe #1",
+    "description": "Pepe Gang assemble.",
+    "image": "ipfs://bafybeicejz3jljmo5gu4h5tr24aix7w2owvpeiqyohgqvefyjmmcyronxm/1.png",
+    "dna": "f61ca7ccd72abfc2ab5de3eabfa8aac1519125b8",
+    "edition": 1,
+    "date": 1682292138591,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pepe"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Tanktop"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Gnam"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Quack"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Beanie"
+      }
+    ],
+    "compiler": "PEPE"
+  }
+}

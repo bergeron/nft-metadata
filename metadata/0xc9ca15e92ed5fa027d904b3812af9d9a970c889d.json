@@ -1,0 +1,49 @@
+{
+  "address": "0xc9ca15e92ed5fa027d904b3812af9d9a970c889d",
+  "type": "ERC721",
+  "name": "George Washington Yacht Club",
+  "tokenCount": "10000",
+  "uri": "ipfs://bafybeifqf2ulzsq3seoo3llc4fbuerch2otlt7zmmslm4k7uoazptnffsa/1",
+  "metadata": {
+    "name": "George Washington Yacht Club #1",
+    "image": "ipfs://bafybeigku27a6z7foc2jwda6ynp7u3ufdwh6o77nx3wwkijjq2qc4ezpwa/1.png",
+    "description": "Help make NFTs Great Again! George Washington Yacht Club! ",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Suit",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Dark Gray"
+      },
+      {
+        "trait_type": "Suit Trim",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Backgrounds",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty"
+      }
+    ],
+    "seller_fee_basis_points": 0,
+    "compiler": "nft-inator.com"
+  }
+}

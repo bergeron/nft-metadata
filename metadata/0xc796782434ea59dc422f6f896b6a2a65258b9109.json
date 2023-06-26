@@ -1,0 +1,39 @@
+{
+  "address": "0xc796782434ea59dc422f6f896b6a2a65258b9109",
+  "type": "ERC721",
+  "name": "Primeiro",
+  "tokenCount": "5",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=Kcv6KvU1GD5P3xsJ4t4J",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1575677580008?alt=media&token=b34aee9f-4da9-4d39-be56-9db1fda79979",
+    "isForSale": true,
+    "description": "Happiness comes from within",
+    "contractAddress": "",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted//Kcv6KvU1GD5P3xsJ4t4J",
+    "minter": "0xE303793eB5a4AbB83e0A6762778172475970093A",
+    "mintedOn": {
+      "_seconds": 1575677678,
+      "_nanoseconds": 715000000
+    },
+    "price": "0.1",
+    "name": "Happy Lion",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Happy Lion"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "id": null
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "address": "0x9f1a5e3b05bccacb8db15afc37aea51c6bb851c2",
+  "type": "ERC721",
+  "name": "1117sjladfdsaf",
+  "tokenCount": "450",
+  "uri": "https://api.artblocks.io/token/379000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "379000001",
+    "series": "N/A",
+    "aspect_ratio": 0.75,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "ORI #1",
+    "minted": true,
+    "artist": "James Merrill",
+    "description": "Ori is an art series that draws inspiration from paper folding to create deeply abstract and highly contrasting imagery. The loose interpretation of origami dynamics quickly dissolves as physical rules are bent and reimagined.\n\nAn artifact of this process is the distinctive fold lines, which symbolize the Yoshizawa-Randlett diagrams that serve as instructions for Origami. The practice of Kirigami (folding and cutting paper) is also represented and is occasionally visible as highly destructured forms.\n\nContrasting the precision of the folding engine is a spray paint simulation that gives the image its color. Paint is applied with a wandering nozzle, sometimes overflowing past boundaries and dripping downwards. Inspired by the freeform nature of graffiti, the spray paint layers are chaotic and unrefined.\n\nNote: The spray paint simulation may take many seconds to fully render.\n\nAfter the render is complete, press any key to destroy the artwork.",
+    "script_type": "p5@1.0.0",
+    "project_id": "379",
+    "curation_status": "curated",
+    "image": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/379000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/379000001.png",
+    "generator_url": "https://generator.artblocks.io/379000001",
+    "animation_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/379000001",
+    "royaltyInfo": {
+      "artistAddress": "0xb3b212da1f50de8ecde59c932e36df7afb6319cb",
+      "additionalPayee": "0x9c4446466cb5fe6e18a7de14cbd6f42213bf3511",
+      "additionalPayeePercentage": 25,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "ORI by James Merrill",
+    "website": "http://ori.lostpixels.io",
+    "token_hash": "0x4d643a246f6b9410c544820ac5505dc2a4e0df38c074bf2f65ae6d2f3f4217b3",
+    "external_url": "https://artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/379/tokens/379000001",
+    "primary_asset_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/379000001",
+    "features": {
+      "Drips": "alot",
+      "Border": true,
+      "Palette": "feint",
+      "Geometry": "geoPack",
+      "Backfilled": "minimal",
+      "Complexify": true,
+      "Fold Strategy": "smallSmallSheers",
+      "Color Mutation": "none",
+      "Fill Direction": "uniform",
+      "Reversion level": "double",
+      "One Last Fold, though?": false
+    },
+    "traits": [
+      {
+        "trait_type": "ORI",
+        "value": "All ORIs"
+      },
+      {
+        "trait_type": "ORI",
+        "value": "Drips: alot"
+      },
+      {
+        "trait_type": "ORI",
+        "value": "Border: true"
+      },
+      {
+        "trait_type": "ORI",
+        "value": "Palette: feint"
+      },
+      {
+        "trait_type": "ORI",
+        "value": "Geometry: geoPack"
+      },
+      {
+        "trait_type": "ORI",
+        "value": "Backfilled: minimal"
+      },
+      {
+        "trait_type": "ORI",
+        "value": "Complexify: true"
+      },
+      {
+        "trait_type": "ORI",
+        "value": "Fold Strategy: smallSmallSheers"
+      },
+      {
+        "trait_type": "ORI",
+        "value": "Color Mutation: none"
+      },
+      {
+        "trait_type": "ORI",
+        "value": "Fill Direction: uniform"
+      },
+      {
+        "trait_type": "ORI",
+        "value": "Reversion level: double"
+      },
+      {
+        "trait_type": "ORI",
+        "value": "One Last Fold, though?: false"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

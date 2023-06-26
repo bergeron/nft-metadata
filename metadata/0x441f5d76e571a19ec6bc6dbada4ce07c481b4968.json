@@ -1,0 +1,33 @@
+{
+  "address": "0x441f5d76e571a19ec6bc6dbada4ce07c481b4968",
+  "type": "ERC721",
+  "name": "Glass PFP",
+  "tokenCount": "282",
+  "uri": "https://www.pfp.glass/api/metadata/1",
+  "metadata": {
+    "name": "GLASS #1",
+    "description": "Glass is a series of 500 generative WebGL hexagons sized perfectly for your Twitter PFP.",
+    "tokenId": 1,
+    "image": "https://pfp.glass/output/a44Y3-0R0uuPFOcvdp3Wx.png",
+    "animation_url": "https://pfp.glass/nft/1",
+    "external_url": "https://pfp.glass",
+    "attributes": [
+      {
+        "trait_type": "Model",
+        "value": "Icosahedron"
+      },
+      {
+        "trait_type": "Color",
+        "value": "#ccc"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "xray"
+      },
+      {
+        "trait_type": "Mirror",
+        "value": "Yes"
+      }
+    ]
+  }
+}

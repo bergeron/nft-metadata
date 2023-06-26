@@ -1,0 +1,32 @@
+{
+  "address": "0x7181d2038b849a18145eb153b8befc552e52c37a",
+  "type": "ERC721",
+  "name": "Dick Pix NFT",
+  "tokenCount": "250",
+  "uri": "https://dickpixnft.s3.us-east-2.amazonaws.com/1.json",
+  "metadata": {
+    "edition": 1,
+    "description": "Dick Pix are 777 hand drawn, non-randomly generated 8-bit pixelated images hosted on the ETH blockchain. Most original images are additionally rendered in black and white, gold, and 3D versions totaling 3000 images in this limited collection. Dick Pix #1 is 1/4 with matching images #778, #779, and #780.",
+    "external_url": "https://www.dickpixnft.io",
+    "image": "https://dickpixnft.s3.us-east-2.amazonaws.com/dickpix1.png",
+    "name": "Dick Pix #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Dick",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Loin Cloth"
+      }
+    ]
+  }
+}

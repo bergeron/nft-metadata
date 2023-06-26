@@ -1,0 +1,60 @@
+{
+  "address": "0x57753cd1af2f508eabbb2197143a73c7f525aa93",
+  "type": "ERC721",
+  "name": "Conquest Project",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmWrf6jkRB1yR97c7W2SWcKW2KCZVurVZJBqGHBZrTPwir/1.json",
+  "metadata": {
+    "name": "Ship #1",
+    "description": "Conquest is randomized equipment generated and stored on the ERC-721 token on the Ethereum Blockchain. Stats, images, and other functionality are intentionally omitted for others to interpret. Feel free to use Conquest in any way you want.",
+    "external_url": "",
+    "image": "ipfs://QmapePF2RVpQW4eU3EPmYaKCAkfHkHFouqoYjtu2MbHnqu/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Ship Type: Battleship",
+        "value": "Sortition Hyperion"
+      },
+      {
+        "trait_type": "Weapon System: Blaster",
+        "value": "Neutron Siege Blaster "
+      },
+      {
+        "trait_type": "Counter Measures",
+        "value": "Magnetometric Jammers"
+      },
+      {
+        "trait_type": "Weapon Launcher: Missile",
+        "value": "Compact Missle Launcher"
+      },
+      {
+        "trait_type": "Ordnance: Missile",
+        "value": "Fury Missile"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Armor Membrane"
+      },
+      {
+        "trait_type": "Shield",
+        "value": "Compact Shield Extender"
+      },
+      {
+        "trait_type": "Propulsion: Afterburner",
+        "value": "100MN Compact Afterburner"
+      },
+      {
+        "trait_type": "Drone",
+        "value": "Curator Combat Drone"
+      },
+      {
+        "trait_type": "Equipment",
+        "value": "Compact Stasis Grappler"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

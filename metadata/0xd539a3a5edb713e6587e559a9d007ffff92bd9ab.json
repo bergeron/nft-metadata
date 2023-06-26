@@ -1,0 +1,107 @@
+{
+  "address": "0xd539a3a5edb713e6587e559a9d007ffff92bd9ab",
+  "type": "ERC721",
+  "name": "PixelBeasts (Beastopia)",
+  "tokenCount": "9999",
+  "uri": "https://www.pixelbeasts.xyz/token/1",
+  "metadata": {
+    "assets": [
+      {
+        "asset_type": "avatar",
+        "files": [
+          {
+            "file_type": "model/fbx",
+            "url": "https://pixelbeasts3d.yoheinakajima.repl.co/beast/1.fbx"
+          },
+          {
+            "file_type": "model/vrm",
+            "url": "https://pixelbeasts3d.yoheinakajima.repl.co/beast/1.vrm"
+          },
+          {
+            "file_type": "image/png",
+            "url": "https://pixelbeasts3d.yoheinakajima.repl.co/beast/1.png"
+          }
+        ],
+        "media_type": "model"
+      }
+    ],
+    "attributes": [
+      {
+        "trait_type": "Beast",
+        "value": "Snek"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Monocle"
+      },
+      {
+        "trait_type": "Best_Friend",
+        "value": "#3111"
+      },
+      {
+        "trait_type": "Nemesis",
+        "value": "#2613"
+      },
+      {
+        "trait_type": "Strength",
+        "value": 16
+      },
+      {
+        "trait_type": "Speed",
+        "value": 11
+      },
+      {
+        "trait_type": "Endurance",
+        "value": 13
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 16
+      },
+      {
+        "trait_type": "Wisdom",
+        "value": 14
+      },
+      {
+        "trait_type": "Charisma",
+        "value": 10
+      },
+      {
+        "trait_type": "Class",
+        "value": "Warrior"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "Habitat",
+        "value": "Swamp"
+      },
+      {
+        "trait_type": "Attribute_X",
+        "value": 44
+      },
+      {
+        "trait_type": "Attribute_Y",
+        "value": 47
+      },
+      {
+        "trait_type": "Attribute_Z",
+        "value": 1
+      },
+      {
+        "trait_type": "D_4_6_8_10_12_20",
+        "value": "4, 6, 3, 10, 12, 5"
+      }
+    ],
+    "extensions": [
+      "ETM_MULTIASSET_v1.0.0",
+      "ETM_ATTRIBUTES_v1.0.0"
+    ],
+    "external_url": "https://nft.pixelbeasts.xyz/thumbs/7d0c7072-6b89-489f-908d-d717b47100b8.png",
+    "image": "https://nft.pixelbeasts.xyz/thumbs/7d0c7072-6b89-489f-908d-d717b47100b8.png",
+    "metadata_standard": "ETM_v1.0.0",
+    "name": "PixelBeast #0001"
+  }
+}

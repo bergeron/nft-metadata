@@ -1,0 +1,42 @@
+{
+  "address": "0x60dfeb71a8f665748c39d2682b48eb640e1115be",
+  "type": "ERC721",
+  "name": "Floral Fractal",
+  "tokenCount": "125",
+  "uri": "https://floral-fractal.art/api/token/1",
+  "metadata": {
+    "name": "Floral Fractal #1",
+    "description": "Floral Fractal is an NFT & Web Art Metaverse",
+    "image": "https://ipfs.io/ipfs/QmesYXFmY1htWC99RcNjzUBQDeopjvNLsqbZGtrRA7t15E/floralfractal_1.mp4",
+    "attributes": [
+      {
+        "trait_type": "baseSize",
+        "value": 0.25
+      },
+      {
+        "trait_type": "angleChange",
+        "value": "100-120"
+      },
+      {
+        "trait_type": "branchSize",
+        "value": "linear-0.28"
+      },
+      {
+        "trait_type": "color",
+        "value": "paleGreen"
+      },
+      {
+        "trait_type": "branchVariationSinY",
+        "value": 0
+      },
+      {
+        "trait_type": "curveTrunk",
+        "value": "none"
+      },
+      {
+        "trait_type": "family",
+        "value": "Pinales"
+      }
+    ]
+  }
+}

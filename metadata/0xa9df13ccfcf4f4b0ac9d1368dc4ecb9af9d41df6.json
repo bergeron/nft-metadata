@@ -1,0 +1,53 @@
+{
+  "address": "0xa9df13ccfcf4f4b0ac9d1368dc4ecb9af9d41df6",
+  "type": "ERC721",
+  "name": "XonaRobotics",
+  "tokenCount": "24",
+  "uri": "https://ipfs.xonalabs.com/ipfs/QmWtVoyFgeKJLTFdnbzUPHDhQJmTjbyuf26oRxu2gANghJ/1.json",
+  "metadata": {
+    "name": "Eldyshifter 66 #1",
+    "description": "XonaRobotics are digital collectibles, each robot has its own distinct look and attributes.",
+    "image": "https://ipfs.xonalabs.com/ipfs/QmPA5MQz3TQ1aNoK6zkhP6WKSngBq1M6zSmWMuGnfGBvFb/1.png",
+    "external_url": "https://xonarobotics.com/robot/1",
+    "attributes": [
+      {
+        "trait_type": "Power Source",
+        "value": "Petrol"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "IRI (International Robot Identity)",
+        "max_value": 1000000,
+        "value": "1"
+      },
+      {
+        "trait_type": "Self Sustainability (hours)",
+        "max_value": 375840,
+        "value": 124837
+      },
+      {
+        "trait_type": "Speed (mph)",
+        "max_value": 29,
+        "value": 24
+      },
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 2054761109
+      },
+      {
+        "trait_type": "Manufacturer",
+        "value": "DikeuCorp"
+      },
+      {
+        "trait_type": "Biggest Fear",
+        "value": "Fuel filters change"
+      },
+      {
+        "trait_type": "Computational Power (teraflops)",
+        "max_value": 216489,
+        "value": 62834
+      }
+    ]
+  }
+}

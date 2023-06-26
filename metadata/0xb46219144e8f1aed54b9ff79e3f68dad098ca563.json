@@ -1,0 +1,28 @@
+{
+  "address": "0xb46219144e8f1aed54b9ff79e3f68dad098ca563",
+  "type": "ERC721",
+  "name": "Agates digital",
+  "tokenCount": "150",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=xroBvv1nyvaFiLDCsy4o",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1582509088535?alt=media&token=020d9e11-1c32-41cd-accd-578aa2ceaf2a",
+    "forSale": true,
+    "description": "Digital created agate, collectable serie of 15 pcs",
+    "contractAddress": "0xb46219144e8f1aed54b9ff79e3f68dad098ca563",
+    "tags": [],
+    "amountToMint": 10,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1582509362,
+      "_nanoseconds": 632000000
+    },
+    "price": "0.015",
+    "name": "Agate digital 1/15",
+    "fiatPrice": "$4.15",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0xb46219144e8f1aed54b9ff79e3f68dad098ca563",
+    "type": "ERC721"
+  }
+}

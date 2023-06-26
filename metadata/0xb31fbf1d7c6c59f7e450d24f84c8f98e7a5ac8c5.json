@@ -1,0 +1,38 @@
+{
+  "address": "0xb31fbf1d7c6c59f7e450d24f84c8f98e7a5ac8c5",
+  "type": "ERC721",
+  "name": "CylonCreations",
+  "tokenCount": "6",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=qZtkjxM4KNBV1klVGCAM",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1577747074653?alt=media&token=b0ac47c5-a081-4955-a25c-29304a474ef1",
+    "isForSale": true,
+    "description": "Ownership of individual digital creations",
+    "contractAddress": "0xb31fbf1d7c6c59f7e450d24f84c8f98e7a5ac8c5",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xb31fbf1d7c6c59f7e450d24f84c8f98e7a5ac8c5/qZtkjxM4KNBV1klVGCAM",
+    "minter": "0xA97860E2b549439818101C6e7e6D17bE25a4eA52",
+    "mintedOn": {
+      "_seconds": 1577747166,
+      "_nanoseconds": 514000000
+    },
+    "price": "5",
+    "name": "Troubled",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Troubled"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

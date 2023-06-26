@@ -1,0 +1,77 @@
+{
+  "address": "0x45bab379698f857c6332913811d4f0683d86496d",
+  "type": "ERC721",
+  "name": "Tennis Bits",
+  "tokenCount": "215",
+  "uri": "ipfs://QmRF5DUic7zH5UXrh2mxZRB7L1HW7qS2A2sJU6r1aTnX9a/1.json",
+  "metadata": {
+    "name": "Matías Marina",
+    "description": "Hey there, I'm one of 2,074 unique Tennis Bits! My appearance and ranking is based on a real player! You can train me to level up my traits, then challenge other players or compete in tournaments for prizes. See you on the court!",
+    "image": "ipfs://QmeFaPUf8BQznkPSJiNvakmRGvtr4PgUNkZupf6zEJUjuF/1.png",
+    "edition": 1,
+    "date": 1634097696551,
+    "attributes": [
+      {
+        "trait_type": "Sport",
+        "value": "Padel Tennis"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Men's Padel"
+      },
+      {
+        "trait_type": "World Ranking",
+        "value": "140"
+      },
+      {
+        "trait_type": "Ranked By",
+        "value": "World Padel Tour"
+      },
+      {
+        "trait_type": "Country",
+        "value": "ESP"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Roland Garros"
+      },
+      {
+        "trait_type": "Appearance",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Dominant Arm",
+        "value": "Right Handed"
+      },
+      {
+        "trait_type": "Forehand",
+        "value": 31,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Backhand",
+        "value": 70,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Serve",
+        "value": 45,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Speed",
+        "value": 38,
+        "max_value": 100
+      },
+      {
+        "trait_type": "World Ranking",
+        "value": 140,
+        "display_type": "number"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "0x69ccd3a20af9a9c4072e2254359428f040f2ddde",
+  "type": "ERC721",
+  "name": "AgathaArt",
+  "tokenCount": "20",
+  "uri": "ipfs://bafkreidexvgmzjkusyjm7ith4z4scdb3gmgjbscg2nklrv2tgpqzczkhde",
+  "metadata": {
+    "name": "Рояль с пауком",
+    "image": "ipfs://bafybeihl2l626c6oykuks6he3xsfjgwgaef4jgcn5rknmhzas6jfr4a5w4",
+    "description": "Даже паучок может играть «на фоно».",
+    "attributes": [
+      {
+        "trait_type": "Author",
+        "value": "Ἀγαθός"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Painting"
+      },
+      {
+        "trait_type": "Technique",
+        "value": "Графика. Простой карандаш, акварель, фломастер."
+      },
+      {
+        "trait_type": "Place",
+        "value": "Москва"
+      },
+      {
+        "trait_type": "Time",
+        "value": "зима 2021/2022"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      }
+    ]
+  }
+}

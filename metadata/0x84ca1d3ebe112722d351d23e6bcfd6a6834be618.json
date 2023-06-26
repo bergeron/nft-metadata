@@ -1,0 +1,40 @@
+{
+  "address": "0x84ca1d3ebe112722d351d23e6bcfd6a6834be618",
+  "type": "ERC721",
+  "name": "Genie Pets",
+  "tokenCount": "150",
+  "uri": "ipfs://bafybeifqfvh6lfo6fbvpxfwcstr4iequy5g5e66rbhov2yrewxjib4a36i/1",
+  "metadata": {
+    "name": "Genie Pet #1",
+    "description": "150 Genie Pets waiting for their new master to grant some wishes",
+    "image": "ipfs://bafybeibo4fbqn7mmmwmlgjrw6gbmxb45dje3qwv2vmdbqykighfigq3qhe/1.png",
+    "imageHash": "a1e1b341f77b9b4c33ed9191ed2999be8fa57c6944621764a0bf92162d7f426d",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue Magic"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Baby Purple"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Pool Ring"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Cute"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "Spaceship"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Lemon"
+      }
+    ]
+  }
+}

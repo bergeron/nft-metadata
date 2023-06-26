@@ -1,0 +1,38 @@
+{
+  "address": "0xf186a598907f8759195accf9858608d8eaa62c15",
+  "type": "ERC721",
+  "name": "Harry's Hammerween",
+  "tokenCount": "666",
+  "uri": "ipfs://QmQLc5hRpf6xersXLYqxbDEkFJ6mebx2CZ3d8U94CqRn2b/1",
+  "metadata": {
+    "name": "Hammerween #1",
+    "description": "A spooky pfp collection from Harry and his chums. Will you get tricked or treated?",
+    "image": "ipfs://QmV4SczrBALxVaogzGDeS9jsEeSfwUWS7LGoC1tefkAAjE/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Spooky Three"
+      },
+      {
+        "trait_type": "Harry",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Scarecrow"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Pitchfork"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "TRICK",
+        "value": "You get nothing"
+      }
+    ]
+  }
+}

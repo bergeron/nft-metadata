@@ -1,0 +1,38 @@
+{
+  "address": "0x9fbe628683527bc7be4c31472bcb0c2c6ec2dcca",
+  "type": "ERC721",
+  "name": "PixelDoors",
+  "tokenCount": "2664",
+  "uri": "https://gateway.pinata.cloud//ipfs//QmTX5TwBg1RWFGuewqjxGL6N5wWXvneaZDf91c6XfT6P7r/1.json",
+  "metadata": {
+    "dna": "6fa3b9e58f6d3b0edbd133aea7bd56556913a693",
+    "name": "PixelDoor #1",
+    "description": "A PixelDoor leading somewhere in the metaverse. But where?",
+    "image": "https://gateway.pinata.cloud//ipfs//QmQNSzygWBFnPBr5GTScqzdTEWavcLZYjNm96wVXCTQMvN/1.png",
+    "edition": 1,
+    "date": 1633088936103,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Azure"
+      },
+      {
+        "trait_type": "Door Color",
+        "value": "Hell"
+      },
+      {
+        "trait_type": "Handle",
+        "value": "None"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Spider Web"
+      },
+      {
+        "trait_type": "Door Frame",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "PixelDoor Compiler"
+  }
+}

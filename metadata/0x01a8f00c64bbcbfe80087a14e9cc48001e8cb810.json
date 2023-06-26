@@ -1,0 +1,46 @@
+{
+  "address": "0x01a8f00c64bbcbfe80087a14e9cc48001e8cb810",
+  "type": "ERC721",
+  "name": "Early Birds Genesis",
+  "tokenCount": "999",
+  "uri": "https://api.ebgnft.xyz/api/token/1",
+  "metadata": {
+    "name": "Early Bird #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Scarlett"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Tuxedo"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blink"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "None"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Boost",
+        "value": 10
+      }
+    ],
+    "image": "https://gateway.pinata.cloud/ipfs/QmZQsAz9KwebB2gAW2Gx3hdn9fnXPs8Q7HBrCtzeLKntDy/1.gif"
+  }
+}

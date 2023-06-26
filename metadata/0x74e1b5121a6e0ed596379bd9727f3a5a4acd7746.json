@@ -1,0 +1,68 @@
+{
+  "address": "0x74e1b5121a6e0ed596379bd9727f3a5a4acd7746",
+  "type": "ERC721",
+  "name": "8-kit",
+  "tokenCount": "4",
+  "uri": "https://nft.2toad.com/8-kit/8-kit_1_hallow-kitty_f186ec9.json",
+  "metadata": {
+    "name": "8-kit #1: Hallow Kitty",
+    "description": "Hello! My name is Hallow Kitty. I love Halloween and Hello Kitty.\n\nHallow Kitty is the very first 8-kit ever created. Rendered in breath taking 1200 PPI @ 2600x2600 pixels with a CMYK embedded color profile.",
+    "image": "https://nft.2toad.com/8-kit/8-kit_1_hallow-kitty.gif",
+    "attributes": [
+      {
+        "trait_type": "Birthday",
+        "value": "October 31"
+      },
+      {
+        "trait_type": "Zodiac",
+        "value": "Scorpio"
+      },
+      {
+        "trait_type": "Strength",
+        "value": 9,
+        "max_value": 20
+      },
+      {
+        "trait_type": "Dexterity",
+        "value": 12,
+        "max_value": 20
+      },
+      {
+        "trait_type": "Constitution",
+        "value": 10,
+        "max_value": 20
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 15,
+        "max_value": 20
+      },
+      {
+        "trait_type": "Wisdom",
+        "value": 15,
+        "max_value": 20
+      },
+      {
+        "trait_type": "Charisma",
+        "value": 13,
+        "max_value": 20
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Spells",
+        "value": 14,
+        "max_value": 20
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Charms",
+        "value": 12,
+        "max_value": 20
+      }
+    ],
+    "copyright": "Copyright (C)2021 2Toad, LLC. All rights reserved.",
+    "termsOfUse": "The individual (\"Holder\") currently in possession of the ethereum 8-kit token contained within ERC-721 smart contract address 0x74e1B5121a6e0eD596379bd9727F3A5A4aCD7746 (\"NFT\") which references this data (\"Metadata\") within its tokenURI property, is hereby granted the right to use the image (\"Art\") referenced in this data's image property for personal use only. Holder does not have the right to use the Art or Metadata in any commercial capacity. Holder does not have the right to distribute, modify, duplicate, or create derivative works of the Art or Metadata. Holder does not have the right to associate the Art or Metadata with a different NFT. Upon transfer of the NFT to another individual, the previous Holder no longer has the right to use the Art or Metadata in any capacity. Holder does not have the right to remove this notice or any copyright notices from the Art or Metadata. 2Toad, LLC maintains ownership of the Art and Metadata and all rights, including but not limited to copyrights, to the Art and Metadata.",
+    "imageSha256": "f186ec92c045ad48855e4f1f3afaac5d1c656f5509950d4e7658742ac7741ba7",
+    "artist": "OBLIV3ON"
+  }
+}

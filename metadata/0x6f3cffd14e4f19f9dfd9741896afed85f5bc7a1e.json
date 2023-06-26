@@ -1,0 +1,78 @@
+{
+  "address": "0x6f3cffd14e4f19f9dfd9741896afed85f5bc7a1e",
+  "type": "ERC721",
+  "name": "Shamus Clisset",
+  "tokenCount": "3",
+  "uri": "https://monegraph.mypinata.cloud/ipfs/QmSuaWxJq3xsTbduvAfYJKxjs6yrd5ALqvt6BLsLXjueBC",
+  "metadata": {
+    "name": "#Hammer",
+    "description": "This digital art NFT was produced by PostmastersBLOCKCHAIN.com, 2021, Postmasters Gallery.",
+    "external_url": "http://postmastersbc.art/nft/special%20projects/shamus%20clisset%20-%20alphaAF/hammer.mov",
+    "animation_url": "http://postmastersbc.art/nft/special%20projects/shamus%20clisset%20-%20alphaAF/hammer.mov",
+    "image": "https://monegraph.mypinata.cloud/ipfs/QmS2W2oN7QkbYQP3kscVfekD9TAiofVhh7bHTJhxo6qxf7/hammer.mov",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Shamus Clisset"
+      },
+      {
+        "trait_type": "Rights Agreement",
+        "value": "https://ipfs.io/ipfs/Qmbf5Q2ivkECewuasvQKUYsJCjbQ3sPyAsMS2YpcPgfVUt"
+      },
+      {
+        "trait_type": "Archive Link",
+        "value": "http://postmastersbc.art/nft/special%20projects/shamus%20clisset%20-%20alphaAF/hammer.mov"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "#Hammer"
+      },
+      "description": {
+        "type": "string",
+        "description": "This digital art NFT was produced by PostmastersBLOCKCHAIN.com, 2021, Postmasters Gallery."
+      },
+      "image": {
+        "type": "string",
+        "description": "https://monegraph.mypinata.cloud/ipfs/QmS2W2oN7QkbYQP3kscVfekD9TAiofVhh7bHTJhxo6qxf7/hammer.mov"
+      },
+      "rights_agreement": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/Qmbf5Q2ivkECewuasvQKUYsJCjbQ3sPyAsMS2YpcPgfVUt"
+      },
+      "rights_agreement_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "rights_agreement_signature": {
+        "type": "string",
+        "description": "f4e38f7db04f03924adaa2f26d11835a251545988e02e7a2829559eba1682bc2"
+      },
+      "archive_link": {
+        "type": "string",
+        "description": "http://postmastersbc.art/nft/special%20projects/shamus%20clisset%20-%20alphaAF/hammer.mov"
+      },
+      "archive_link_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "archive_link_signature": {
+        "type": "string",
+        "description": "b60ca8e51e09e864e3c1cfc2e49fd685a04e6951ac199f49f8420d49d7a098f0"
+      },
+      "rights_agreement_values": {
+        "$ARTIST": "Shamus Clisset",
+        "$SHAHASH": "b60ca8e51e09e864e3c1cfc2e49fd685a04e6951ac199f49f8420d49d7a098f0",
+        "$CONTRACTSHAHASH": "f4e38f7db04f03924adaa2f26d11835a251545988e02e7a2829559eba1682bc2",
+        "$URL": "https://monegraph.mypinata.cloud/ipfs/QmS2W2oN7QkbYQP3kscVfekD9TAiofVhh7bHTJhxo6qxf7/hammer.mov",
+        "$TITLE": "#Hammer",
+        "$YEAR": "2021",
+        "$ROYALTYRATE": "10",
+        "$TOKEN": "eth",
+        "$ADDRESS": "0x318c1703A34a89e74C4e372eEC203eED9B05E00A",
+        "$LICENSE": "CA.05.19.21., Patent No. US 10,380,702"
+      }
+    }
+  }
+}

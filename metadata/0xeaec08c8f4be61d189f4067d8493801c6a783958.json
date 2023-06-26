@@ -1,0 +1,37 @@
+{
+  "address": "0xeaec08c8f4be61d189f4067d8493801c6a783958",
+  "type": "ERC721",
+  "name": "DREAMKITTEN",
+  "tokenCount": "11",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=vL504J6fYFyLNWYSTruh",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1588356388229?alt=media&token=0ceb781d-bf28-4247-bd70-8df9b7d34c87",
+    "forSale": true,
+    "contractAddress": "0xeaec08c8f4be61d189f4067d8493801c6a783958",
+    "description": "THIS IS AN ALBUM ARTWORK FOR \"VAEX\" A TUNE BY 4TH DIMENSIONAL HACKERS.",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1588356531,
+      "_nanoseconds": 340000000
+    },
+    "price": "0.1",
+    "name": "4TH DIMENSIONAL HACKERS - VAEX (ORIGINAL ALBUM ART)",
+    "fiatPrice": "$21.23",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "http://4THDIMENSIONALHACKERS.com"
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0xeaec08c8f4be61d189f4067d8493801c6a783958",
+    "type": "ERC721"
+  }
+}

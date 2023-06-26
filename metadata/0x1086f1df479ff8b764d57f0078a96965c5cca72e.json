@@ -1,0 +1,41 @@
+{
+  "address": "0x1086f1df479ff8b764d57f0078a96965c5cca72e",
+  "type": "ERC721",
+  "name": "The Unstable Diffusion",
+  "tokenCount": "16",
+  "uri": "https://arweave.net/SrtC8o01PXfzqMiLdPZYZs2gumL6GCIU3DlwPHTJKg0",
+  "metadata": {
+    "name": "Unstable Diffusion #1",
+    "created_by": "gmi.sh",
+    "external_url": "https://gmi.sh",
+    "description": "Wake up. The Unstable Diffusion collection attempts to capture the spontaneous and painful mental dissonance caused by anxiety and inbred weirdness. The art combines a trained probabilistic diffusion model (a set of parametrised Markov chains) and various genart post-processing techniques.\n\nInspired by the late Francisco Goya's Black Paintings series that he created in seclusion, unwell, deaf and isolated from the public. This group of 14 paintings is considered to be one of the most intense reflections of the torments of the artist's sickly mind.\n\nFor the curious ones, each \"Diffusion\" carries 12 secret words. Follow the white rabbit.\n\nComposition, colour mapping, animations, glitches and data moshing effects were done using python/bash scripting. Coded and rendered back in Jan-Jun 2022, long before Stable Diffusion, Dall-e and Midjourney's arrival.\n\nResolution: 1024x1024px  \nDuration: 1 minute 33 seconds  \nFormat: MP4\n\n© Stas Kulesh aka gmi.sh and Daniil Gavrilov",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Hooded"
+      }
+    ],
+    "animation_details": {
+      "bytes": 91295677,
+      "format": "MP4",
+      "duration": 93,
+      "sha256": "638a8f9c6e7e10c2ed8bb907aa5a1f79412571bac53ab53769b477a82bf718e7",
+      "width": 1024,
+      "height": 1024,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/rFbL2r6doifTa_h1sM9oXzbutjWW_0ILcCQ_0LIhSPA",
+    "animation_url": "https://arweave.net/rFbL2r6doifTa_h1sM9oXzbutjWW_0ILcCQ_0LIhSPA",
+    "image_details": {
+      "bytes": 18501161,
+      "format": "GIF",
+      "sha256": "711f1d55b0616f7d9c2ceb0596a3ab293463582950c6a04e369e0474199f4b13",
+      "width": 1024,
+      "height": 1024
+    },
+    "image": "https://arweave.net/cEIDnn7AUCuJOjhUu8lz_vS-e9ueyVsiEs-Hb-8bucc",
+    "image_url": "https://arweave.net/cEIDnn7AUCuJOjhUu8lz_vS-e9ueyVsiEs-Hb-8bucc"
+  }
+}

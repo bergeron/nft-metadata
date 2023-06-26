@@ -1,0 +1,30 @@
+{
+  "address": "0xb498e595f851f34979424403c99ddd3c4718e649",
+  "type": "ERC721",
+  "name": "Sinister Jesters",
+  "tokenCount": "5",
+  "uri": "ipfs://bafybeignkoem3a6zaa3lhhe7api625fre33yfnakjminu2gmzhe35lm27m/1",
+  "metadata": {
+    "name": "SINISTER JESTERS #1",
+    "description": "SINISTER JESTER is an NFT project centered around 228 SINISTER clowns pfps from the past. Enjoy the show!",
+    "attributes": [
+      {
+        "trait_type": "Jester",
+        "value": "1"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x3bA0Dd3Db2900afDedc7226352A4469c6c5723DC",
+        "share": 100
+      }
+    ],
+    "collection": {
+      "name": "SINISTER JESTERS",
+      "family": "Unique Family Name"
+    },
+    "symbol": "JESTER",
+    "seller_fee_basis_points": 5,
+    "image": "ipfs://bafybeihd42ijivpf56e3fobjh6vtlavy2ppf73u7vbh6emzhvk6lbe2zmq/1.png"
+  }
+}

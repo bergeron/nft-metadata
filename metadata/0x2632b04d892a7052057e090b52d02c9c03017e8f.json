@@ -1,0 +1,31 @@
+{
+  "address": "0x2632b04d892a7052057e090b52d02c9c03017e8f",
+  "type": "ERC721",
+  "name": "Vlines",
+  "tokenCount": "2000",
+  "uri": "ipfs://bafybeie5tufq43ryafweq7ibbntabe747bsfz57ph4pmcnwwdeicksafaq/1",
+  "metadata": {
+    "name": "Vlines 1",
+    "description": "Vlines is an 2000 animated art that draws pattern lines.",
+    "image": "ipfs://bafybeibbsdxlkytrrjrfljxkosj6adorwhcf7mp2ysdtx7zzat3vpe76o4/1.png",
+    "animation_url": "ipfs://bafybeieiod6l75ayw3m52pbfpvlm2y4kbfvqdwbcurvcsxjwi5jzmbfpqu/pattern1.gif",
+    "attributes": [
+      {
+        "trait_type": "Duration ",
+        "value": 8.8
+      },
+      {
+        "trait_type": "lines",
+        "value": 12
+      },
+      {
+        "trait_type": "Base Color",
+        "value": "rgb(196, 203, 199)"
+      },
+      {
+        "trait_type": "Position",
+        "value": 2
+      }
+    ]
+  }
+}

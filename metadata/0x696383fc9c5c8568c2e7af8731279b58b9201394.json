@@ -1,0 +1,42 @@
+{
+  "address": "0x696383fc9c5c8568c2e7af8731279b58b9201394",
+  "type": "ERC721",
+  "name": "SubwayRats",
+  "tokenCount": "10000",
+  "uri": "https://subwayrats.io/api/rats/1.json",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Default"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "None"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "None"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hard Hat"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Orange Juice"
+      }
+    ],
+    "name": "SubwayRat #1",
+    "description": "NYC Subway Rat chilling at Central Park",
+    "image": "https://subwayrats.io/api/rat/central-park_brown_default_blank_blank_blank_hard-hat_orange-juice.png"
+  }
+}

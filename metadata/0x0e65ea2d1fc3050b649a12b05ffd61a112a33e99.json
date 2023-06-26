@@ -1,0 +1,63 @@
+{
+  "address": "0x0e65ea2d1fc3050b649a12b05ffd61a112a33e99",
+  "type": "ERC721",
+  "name": "bdgm",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/0KGJhvgLk1bVu_O1fSK6KQz2Lfgevh1uJIHzsQgHl-0",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1637151912
+      },
+      {
+        "trait_type": "Creator",
+        "value": "IAgof"
+      }
+    ],
+    "description": "Buenos dias al empezar el dia, es lo que decimos la gente involucrada en los NFTs. No es solo por cortesia, realmente deseamos que sea un gran dia.",
+    "external_url": "https://cxip.io/nft/0x0e65ea2d1fc3050b649a12b05ffd61a112a33e99/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/KsuybmLB0-fOuxUi8uiDV0Ma1PsA_ucUgggIJErTKCU",
+    "imageUrl": "https://arweave.net/KsuybmLB0-fOuxUi8uiDV0Ma1PsA_ucUgggIJErTKCU",
+    "name": "GM",
+    "properties": {
+      "created_at": "2021-11-17T12:25:12.000000Z",
+      "creator_wallet": "0x2d92214855f88f1a3f24b1a3f8f6d533cd0e2e37",
+      "description": "Buenos dias al empezar el dia, es lo que decimos la gente involucrada en los NFTs. No es solo por cortesia, realmente deseamos que sea un gran dia.",
+      "image": "https://arweave.net/KsuybmLB0-fOuxUi8uiDV0Ma1PsA_ucUgggIJErTKCU",
+      "imageUrl": "https://arweave.net/KsuybmLB0-fOuxUi8uiDV0Ma1PsA_ucUgggIJErTKCU",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "17 November 2021",
+      "name": "GM",
+      "nft_type": "non-fungible image token (image/jpeg)",
+      "preview_media_file": "https://arweave.net/_9H4FCDyk40E9ca0vKtDksyrcJMaPKuKcllnMf8ICaA",
+      "preview_media_file_dimensions": "548x360",
+      "preview_media_file_size": 87078,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "3946x2592",
+      "raw_media_file": "https://arweave.net/tkELmLqOBH7gSyz2jhskRmb_dlsDcqUtUGZ2qWnSJls",
+      "raw_media_file_size": 2347741,
+      "raw_media_file_spec": "JPEG 3946x2592 3946x2592+0+0 8-bit sRGB 2.23898MiB 0.000u 0:00.000",
+      "raw_media_file_type": "image/jpeg",
+      "raw_media_format": "landscape",
+      "raw_media_signature": "0x18d0520ea5d2b86c0aafe1da0fb3be62f7bb662db84e9cf48661b6518e961254",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/_9H4FCDyk40E9ca0vKtDksyrcJMaPKuKcllnMf8ICaA",
+      "thumb_media_file_type": "image/jpg",
+      "title": "GM",
+      "total_supply": 1
+    },
+    "title": "GM"
+  }
+}

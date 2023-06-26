@@ -1,0 +1,69 @@
+{
+  "address": "0xb8d2de9085ce7313cd1bd36dbbbc800fcbb6c887",
+  "type": "ERC721",
+  "name": "Kristian Schuller - Genesis",
+  "tokenCount": "7",
+  "uri": "ipfs://QmXnHQotcWycsZxpbXun3fetkQNAfQRwU8QhdGkCmNn6vv",
+  "metadata": {
+    "name": "Kristian Schuller - Butterfly I",
+    "description": "Haute Couture shooting in Paris. Dress by Victor & Rolf \n\nVerisart Certified: https://verisart.com/works/7e5eb3c4-fd3f-494b-b843-fa76919d638b",
+    "image": "ipfs://QmQgbQ6vf28LQ3Djyr7KLdkGs8q9FV7AZhSnDM5JLQ13FC",
+    "properties": {
+      "verisart": {
+        "productionYear": 2017,
+        "dimensions": {
+          "width": 1080,
+          "height": 1520,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 10
+        },
+        "frameRate": 59.94006,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0x92d7d7d6b75aec7917d13a43f6c654aa86c6b516",
+            "bps": 800
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "animation_url": "ipfs://QmWLAAgn1Aoje7mBogQ5XGvvsFxYq8VjPdKJKAKnLy5ofp",
+    "external_url": "https://verisart.com/works/7e5eb3c4-fd3f-494b-b843-fa76919d638b",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Kristian Schuller"
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2017"
+      },
+      {
+        "trait_type": "Title",
+        "value": "Kristian Schuller - Butterfly I"
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "1520x1080 px"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:10"
+      }
+    ]
+  }
+}

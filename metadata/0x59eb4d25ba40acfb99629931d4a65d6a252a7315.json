@@ -1,0 +1,40 @@
+{
+  "address": "0x59eb4d25ba40acfb99629931d4a65d6a252a7315",
+  "type": "ERC721",
+  "name": "Oddity Lodge",
+  "tokenCount": "16",
+  "uri": "ipfs://bafybeiaevbpskkuxn7kmtd7rkarnhnjtw2wrgisicpigvhhujj2gqwq6py/1.json",
+  "metadata": {
+    "name": "Lodge Member #1",
+    "description": "Welcome to the Oddity Lodge",
+    "external_url": "https://www.odditylodge.io/",
+    "image": "ipfs://QmNbYKebKpQm5LJiYCyRgTCSWKx7rQ8C7imWLntRT6ZP61/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Charcoal"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "White"
+      },
+      {
+        "trait_type": "Shirts",
+        "value": "Bomber"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Spiked"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "Snake Tongue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Space Glasses"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

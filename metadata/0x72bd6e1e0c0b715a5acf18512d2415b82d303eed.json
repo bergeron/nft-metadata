@@ -1,0 +1,37 @@
+{
+  "address": "0x72bd6e1e0c0b715a5acf18512d2415b82d303eed",
+  "type": "ERC721",
+  "name": "Not Gonna Click It",
+  "tokenCount": "28",
+  "uri": "ipfs://QmXmEsAWs33sVG8QHg9uxQtUCVDATvnjoCJbaYt8NqJFjN/1.json",
+  "metadata": {
+    "description": "The minter scored higher than 50 points on Not Gonna Click It.",
+    "image": "ipfs://QmeMiQ3e2tKkGbrbd467auTLPZEXaDaqJ5zC2XuWiSHDwt/1.gif",
+    "name": "NGCI #1",
+    "background_color": "000000",
+    "attributes": [
+      {
+        "trait_type": "Shade",
+        "value": "Contrast"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Mono"
+      },
+      {
+        "trait_type": "Level",
+        "value": 4
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Power",
+        "value": 42
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      }
+    ]
+  }
+}

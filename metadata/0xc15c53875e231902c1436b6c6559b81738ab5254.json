@@ -1,0 +1,65 @@
+{
+  "address": "0xc15c53875e231902c1436b6c6559b81738ab5254",
+  "type": "ERC721",
+  "name": "Test in a nutshell - old",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/ZcsTB2VjADDepDRE3kUtxfxnxvx83hWySvOS9EXVITo",
+  "metadata": {
+    "name": "01 January",
+    "created_by": "ozbatur",
+    "description": "TEST IN A NUTSHELL",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "ozbatur"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Luxembourg"
+      },
+      {
+        "trait_type": "Orientation",
+        "value": "Landscape"
+      },
+      {
+        "trait_type": "Context",
+        "value": "Christmas tree"
+      },
+      {
+        "trait_type": "Sound",
+        "value": "Original"
+      },
+      {
+        "trait_type": "Content ",
+        "value": "Day"
+      },
+      {
+        "trait_type": "Time",
+        "value": "Night"
+      }
+    ],
+    "animation_details": {
+      "bytes": 147704726,
+      "format": "MOV",
+      "duration": 11,
+      "sha256": "a2ce404f16a93b93ce05fbdfc9ba58370d3a45c17535273d4a406dc9545e80e3",
+      "width": 3840,
+      "height": 2160,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/GKVMDJLxHj3LGwbhlmSz7l59ecqKuIuSCbJGbg7O4Bc",
+    "animation_url": "https://arweave.net/GKVMDJLxHj3LGwbhlmSz7l59ecqKuIuSCbJGbg7O4Bc",
+    "image_details": {
+      "bytes": 1066634,
+      "format": "PNG",
+      "sha256": "fa91adfa85c3807d1c2eb403e8e9231dcfdcdbe9ac336c94f0d0520e17a42b36",
+      "width": 875,
+      "height": 875
+    },
+    "image": "https://arweave.net/Ip4N5ADcylCPjr5C1oAsFbrZ-tb-twHqzmcDeE1hCOQ",
+    "image_url": "https://arweave.net/Ip4N5ADcylCPjr5C1oAsFbrZ-tb-twHqzmcDeE1hCOQ"
+  }
+}

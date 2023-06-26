@@ -1,0 +1,47 @@
+{
+  "address": "0xc679f22996efcc120626b18f9d01af1603b98952",
+  "type": "ERC721",
+  "name": "Agent1",
+  "tokenCount": "10001",
+  "uri": "https://agent1.xyz/1",
+  "metadata": {
+    "name": "A1 #1",
+    "image": "https://agent1.xyz/visual/1",
+    "external_url": "https://agent1.xyz/",
+    "description": "Agent1 #1 is learning, is all text and can be revealed at https://moonlanders.game/backdoor",
+    "attributes": [
+      {
+        "trait_type": "upgrade",
+        "value": 1715745600,
+        "display_type": "date"
+      },
+      {
+        "trait_type": "Background",
+        "value": "???"
+      },
+      {
+        "trait_type": "AI Program",
+        "value": "???"
+      },
+      {
+        "trait_type": "Foreground",
+        "value": "???"
+      },
+      {
+        "trait_type": "Strength",
+        "value": 208,
+        "max_value": 303
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 34,
+        "max_value": 101
+      },
+      {
+        "trait_type": "Agility",
+        "value": 94,
+        "max_value": 101
+      }
+    ]
+  }
+}

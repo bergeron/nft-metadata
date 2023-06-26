@@ -1,0 +1,50 @@
+{
+  "address": "0xf8508c8efb438c81bae3946a4457fc64250c5d2d",
+  "type": "ERC1155",
+  "name": "JYD Monthly Editions",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/Rjp5W3JutU-OWHWxYOXR3puU4UXA-mmemF_rJBqRw0A",
+  "metadata": {
+    "name": "January Edition (2023)",
+    "created_by": "JYD",
+    "external_url": "https://twitter.com/JYD_0001",
+    "description": "January edition. Free to claim for allowlisted collectors of JYD tezos and eth works. First in a series of twelve. Thank you.\n\nMetaglass sculpture, piano, post-processing. Full-screen installation with audio component - formatted for 16:9 displays.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "JYD"
+      },
+      {
+        "trait_type": "Month",
+        "value": "January"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2023"
+      }
+    ],
+    "animation_details": {
+      "bytes": 167136774,
+      "format": "MP4",
+      "duration": 128,
+      "sha256": "efc471baa22586c1e12e368951ee0592ab186a867934281d0572f84ccb95b26a",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/K2DkZHWCKeRXaC9Rhan-ywkoyCU4t0woCfWEJiZv3ZA",
+    "animation_url": "https://arweave.net/K2DkZHWCKeRXaC9Rhan-ywkoyCU4t0woCfWEJiZv3ZA",
+    "image_details": {
+      "bytes": 1947732,
+      "format": "PNG",
+      "sha256": "8d9577b51cfdf557f8a08b096229d17c49774d8db6552ff5bed8b066c4e758e8",
+      "width": 1920,
+      "height": 1080
+    },
+    "image": "https://arweave.net/vW0Chu8weWkxqU1Gr-AlvCi3T7qutm0vLXef49u_C3o",
+    "image_url": "https://arweave.net/vW0Chu8weWkxqU1Gr-AlvCi3T7qutm0vLXef49u_C3o"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "address": "0x617f6a5642ef9b2d71e11b34c2c546f64a1d70e6",
+  "type": "ERC721",
+  "name": "Eth Gang",
+  "tokenCount": "3333",
+  "uri": "ipfs://bafybeihbxqciunlvtewplh6ctxtxuxgeilmqxycmd5ncvtalxkmi3qfihu/1.json",
+  "metadata": {
+    "name": "Eth Gang #1",
+    "description": "One of the members of Eth Gang collection living forever into the blockchain.",
+    "image": "ipfs://bafybeia3pi2rpyehyinbdwebxfset52dhki576txlsddkbfpobvb5suh3m/1.png",
+    "dna": "cca47a5bd8f19fbf341b9a03d1114be2ffc3bbf5",
+    "edition": 1,
+    "date": 1686358803890,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Human Latte"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Shirt with Buttons Cyan"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "Pants Red"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Big Hair Aqua"
+      },
+      {
+        "trait_type": "Extra",
+        "value": "Scarf Blue and Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Glasses Red"
+      }
+    ],
+    "compiler": "ETH"
+  }
+}

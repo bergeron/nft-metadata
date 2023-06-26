@@ -1,0 +1,26 @@
+{
+  "address": "0xbd76bef34d770a28d391d67f88af8e7e9e9e5e80",
+  "type": "ERC721",
+  "name": "SocketSentinel",
+  "tokenCount": "4",
+  "uri": "https://surge-nfts.s3.amazonaws.com/socket-sentinel-1-metadata.json",
+  "metadata": {
+    "description": "Sentinels are a community of security experts & hackers who showcased their expertise by uncovering bugs In SocketDL. As a testament to their security prowess, they will be honoured with ranks - Sentry, Defender, and Paladin! They will be integral in shaping SocketDL with a security-first perspective and bring a community centric approch to interop security!",
+    "image": "https://surge-nfts.s3.amazonaws.com/sentry.png",
+    "name": "SocketSentinels Wave-1",
+    "attributes": [
+      {
+        "trait_type": "Rank",
+        "value": "Sentry"
+      },
+      {
+        "trait_type": "SurgePoints",
+        "value": 5200
+      },
+      {
+        "trait_type": "Referer",
+        "value": "Spearbit"
+      }
+    ]
+  }
+}

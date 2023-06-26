@@ -1,0 +1,47 @@
+{
+  "address": "0x5618ec5e0a757ea0976b42ccd3d61eb33211b309",
+  "type": "ERC721",
+  "name": "Stipple Studio",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/P75uzlyftBrKgNfYuaFfBmHcSTcixlE6bdNoekTTWpM",
+  "metadata": {
+    "name": "Densely Stippled",
+    "created_by": "Jake Rockland",
+    "description": "densely stippled dots in the form of a cube of tungsten",
+    "attributes": [
+      {
+        "trait_type": "Material",
+        "value": "Tungsten"
+      },
+      {
+        "trait_type": "Color Palette",
+        "value": "Preserves"
+      },
+      {
+        "trait_type": "Point Count",
+        "value": "606222"
+      },
+      {
+        "trait_type": "License",
+        "value": "CC BY-NC 4.0"
+      },
+      {
+        "trait_type": "Library",
+        "value": "p5@1.0.0"
+      },
+      {
+        "trait_type": "Source Code",
+        "value": "const T_H=\"0x1d2ae3ff3b69f50b0d18abc6882977ba49bbd97bd1e0116fcdd0132e42bf54ae\",C_S=8e3;let dot=0;function sfc32(r,n,t,e){return function(){var s=((r|=0)+(n|=0)|0)+(e|=0)|0;return e=e+1|0,r=n^n>>>9,n=(t|=0)+(t<<3)|0,t=(t=t<<21|t>>>11)+s|0,(s>>>0)/4294967296}}let prng=new sfc32(parseInt(T_H.substr(2,8),16),parseInt(T_H.substr(10,8),16),parseInt(T_H.substr(18,8),16),parseInt(T_H.substr(27,8),16));function rI(r,n){return parseInt(n*r())}function rgbC(r){return\"rgb(\"+r[0]+\",\"+r[1]+\",\"+r[2]+\")\"}function rgbCB(r,n,t,e){return\"rgb(\"+parseInt(r[0]*t+n[0]*e)+\",\"+parseInt(r[1]*t+n[1]*e)+\",\"+parseInt(r[2]*t+n[2]*e)+\")\"}let pal=[[[158,0,89],[93,127,218],[182,156,211],[239,121,138]],[[158,0,89],[93,127,218],[182,156,211],[239,121,138]]],s_R=1/650,p=genParams();function genParams(){let r=pal.splice(rI(prng,pal.length),1)[0],n=r.splice(rI(prng,4),1)[0],t=r.splice(rI(prng,3),1)[0],e=r.splice(rI(prng,2),1)[0],s=pal.splice(rI(prng,pal.length),1)[0],u=s.splice(rI(prng,4),1)[0],p=s.splice(rI(prng,3),1)[0],i=s.splice(rI(prng,2),1)[0];return{sk_CA:rgbC(t),su_CA:rgbC(n),wa_CA:rgbC(e),st_SA:rI(prng,5)+1,st_DA:rI(prng,2),sk_CB:rgbC(p),su_CB:rgbC(u),wa_CB:rgbC(i),st_SB:rI(prng,10)+1,st_DB:rI(prng,2)}}function setup(){createCanvas(C_S,C_S),noLoop()}function draw(){background(255);let r=1e3,n=parseInt(p.st_SA*s_R*r),t=n+parseInt(p.st_DA*s_R*r),e=parseInt(p.st_SB*s_R*r),s=e+parseInt(p.st_DB*s_R*r);for(let u=0;u<1200;u++)for(let p=0;p<1200;p++){if(wSA(p,r)){if(u%t||p%t)continue;strokeWeight(Math.trunc(8*n))}else{if(u%s||p%s)continue;strokeWeight(Math.trunc(8*e))}stroke(sC(p,u,r));let i=8*of(p,u,r);point(Math.trunc(8*p)+i,Math.trunc(8*u)+i),dot++}}function of(r,n,t){let e=(n^r)<<n^r,s=e%20==0,u=e%20==0,p=wSA(r,t)&&s,i=!wSA(r,t)&&u;return wCT(r,n,t)||wCL(r,n,t)||wCR(r,n,t)?wSA(r,t)?p?2:5:i?5:2:wSB(r,n,t)?wSA(r,t)?p?7:2:i?2:7:wWB(r,n,t)?wSA(r,t)?p?7:5:i?5:7:0}function sC(r,n,t){let e=(n^r)<<n^r,s=e%20==0,u=e%20==0,i=wSA(r,t)&&s,C=!wSA(r,t)&&u;if(wCT(r,n,t)){let n;return n=wSA(r,t)?i?p.su_CB:p.su_CA:C?p.su_CA:p.su_CB,rgbCB([red(n),green(n),blue(n)],[0,0,0],.7,.3)}if(wCL(r,n,t))return wSA(r,t)?i?p.su_CB:p.su_CA:C?p.su_CA:p.su_CB;if(wCR(r,n,t)){let n;return n=wSA(r,t)?i?p.su_CB:p.su_CA:C?p.su_CA:p.su_CB,rgbCB([red(n),green(n),blue(n)],[255,255,255],.7,.3)}return wSB(r,n,t)?wSA(r,t)?i?p.sk_CB:p.sk_CA:C?p.sk_CA:p.sk_CB:wWB(r,n,t)?wSA(r,t)?i?p.wa_CB:p.wa_CA:C?p.wa_CA:p.wa_CB:255}let skyDividerRatio=7/12,sunRadiusRatio=1/4,sideBySideRatio=1/12;function sBSDL(r){return r/2}function wSA(r,n){return r<=sBSDL(n)}function hL(r,n){return skyDividerRatio*n}function sT(r,n){return n/2}function wCT(r,n,t){return wP(r,n,t,[[5/24,.3],[.5,1/6],[19/24,.3],[.5,13/30]])}function wCL(r,n,t){return wP(r,n,t,[[5/24,.3],[.5,13/30],[.5,19/24],[.25,5/8]])}function wCR(r,n,t){return wP(r,n,t,[[19/24,.3],[.5,13/30],[.5,19/24],[.75,5/8]])}function wP(r,n,t,e){let s=!1;for(let u=0,p=e.length-1;u<e.length;p=u++){const i=e[u][0]*t,C=e[u][1]*t,o=e[p][0]*t,a=e[p][1]*t;C>n!=a>n&&r<(o-i)*(n-C)/(a-C)+i&&(s=!s)}return s}function wSB(r,n,t){return n<=hL(r,t)}function wWB(r,n,t){return n>hL(r,t)}function mouseClicked(){alert(`${dot} points, how incredibly dense.`)}"
+      }
+    ],
+    "image_details": {
+      "bytes": 16015997,
+      "format": "PNG",
+      "sha256": "153564d50635c7e202cec1ae7bc36cd5597d43c851f5e980b0d1d5e33c32d4ed",
+      "width": 16000,
+      "height": 16000
+    },
+    "image": "https://arweave.net/LBZYyAFPjYV66sHniQKge3-8Ac1dyqp6UxD9OmybmNg",
+    "image_url": "https://arweave.net/LBZYyAFPjYV66sHniQKge3-8Ac1dyqp6UxD9OmybmNg"
+  }
+}

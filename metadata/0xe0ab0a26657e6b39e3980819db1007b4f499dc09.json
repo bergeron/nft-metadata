@@ -1,0 +1,73 @@
+{
+  "address": "0xe0ab0a26657e6b39e3980819db1007b4f499dc09",
+  "type": "ERC721",
+  "name": "CryptoCrooksDAO",
+  "tokenCount": "344",
+  "uri": "https://www.cryptocrooks.io/api/1",
+  "metadata": {
+    "name": "Crook #1",
+    "description": "CryptoCrooks blockchain hustlers. A most wanted list of devious crypto scammers that plague our precious community. Collect yours now to punish them and send them to jail!",
+    "tokenId": 1,
+    "image": "https://gateway.pinata.cloud/ipfs/Qmaz1Q6junNrJFQ2H1SrvFmYXnhVAB8wmD8PN7ZiKwu8VX",
+    "external_url": "https://www.cryptocrooks.io",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Suspicous High"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Straight"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Mobhat"
+      },
+      {
+        "trait_type": "Facial Hair",
+        "value": "None"
+      },
+      {
+        "trait_type": "Head Wear",
+        "value": "Glasses Round"
+      },
+      {
+        "trait_type": "Tattoo",
+        "value": "Scar Top Left"
+      },
+      {
+        "trait_type": "Accessoire",
+        "value": "None"
+      },
+      {
+        "trait_type": "Psyops",
+        "value": 2,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Gambling",
+        "value": 3,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Hustling",
+        "value": 2,
+        "max_value": 10
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Drip",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      }
+    ]
+  }
+}

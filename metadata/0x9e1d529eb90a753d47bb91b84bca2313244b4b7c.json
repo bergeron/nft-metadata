@@ -1,0 +1,39 @@
+{
+  "address": "0x9e1d529eb90a753d47bb91b84bca2313244b4b7c",
+  "type": "ERC721",
+  "name": "Crap Heads",
+  "tokenCount": "600",
+  "uri": "ipfs://QmcnQLZpKSR98oNaMF3WU8WDqF5VrBaa6yinwQpeTZWFjk/1.json",
+  "metadata": {
+    "name": "Crap Head #1",
+    "description": "Crap Heads is a limited collection of original, handcrafted, artisan-made, locally sourced crap. Your hidden folder is worse though. No social crap, just art... we all generate crap anyways.",
+    "external_url": "",
+    "image": "ipfs://QmUs71sq8ZGiVgeNmscTJL9MbRcsxK3rSCpkbAJR3q7BL2/1.png",
+    "attributes": [
+      {
+        "trait_type": "Body",
+        "value": "Triangle"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "Bird"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Circle King"
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Triangles Right"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
+}

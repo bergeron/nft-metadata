@@ -1,0 +1,41 @@
+{
+  "address": "0x82e6d100326953bfaed709679abae2a127804940",
+  "type": "ERC721",
+  "name": "Screaming Munches Art Gallery",
+  "tokenCount": "3",
+  "uri": "ipfs://Qma3kJ8Xher57DuFgU6uU3hMPynS7cpfPn4L2xEdwxz1Nm/1.json",
+  "metadata": {
+    "name": "ScreamingMunch #1",
+    "description": "Painted by Screaming Munches Art Gallery",
+    "file_url": "ipfs://QmcRdeWoFqfKRAqm7mv1YcjaZ7cvxduAxHST2oYvYQHW8v/1.png",
+    "image": "ipfs://QmcRdeWoFqfKRAqm7mv1YcjaZ7cvxduAxHST2oYvYQHW8v/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grotesque"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Plum"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smug"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Robopunk"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Silver Chain"
+      }
+    ],
+    "custom_fields": {
+      "dna": "957460c5590ac13d399af071ed8112745fe33424",
+      "edition": 1,
+      "date": 1645736694998,
+      "compiler": "HashLips Art Engine"
+    }
+  }
+}

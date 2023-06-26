@@ -1,0 +1,50 @@
+{
+  "address": "0x41e088963c58c31256bf03f91429b2756f5f1a41",
+  "type": "ERC721",
+  "name": "VAST.app V2",
+  "tokenCount": "71",
+  "uri": "https://media.vast.app/ipfs/QmUQrRXqztR7SvByeAqLNckqi8E5jYmyTZKJue8hS142ZX",
+  "metadata": {
+    "title": "“Lymphoma” by SWANSKI",
+    "name": "“Lymphoma” by SWANSKI",
+    "type": "object",
+    "imageUrl": "https://media.vast.app/ipfs/QmYuvi6YMozMksQdKCuRPmsnXCTrkwCoY1kQjzdLvt8XKk",
+    "description": "The exclusive, complete picture of Lymphoma cells recreated by world-renowned artist, SWANSKI. This NFT is part of the “Buy My Cancer” campaign. The campaign blends science, art, medicine and technology in an effort to save lives. Microscopic photographs of real living cancer cells were taken with a confocal microscope at the Maria Skłodowska-Curie National Institute of Oncology in Gliwice, Poland. These images were used as the basis for artwork created by world-renowned artist, SWANSKI. Funds raised go to support the treatment of a patient suffering from cancer. Participants of the campaign are making a donation to the Alivia Cancer Foundation in return for the NFT. The NFT is a digital diploma of participation in the campaign and a confirmation of the support granted to cancer patients. The receipt of this NFT does not grant any copyrights or licenses to the cancer cell photographs or videos (which were used by the artist to create this NFT), pieces of art created by the artist, or the images or videos created on the basis of these pieces of art. However, the participant who gets the NFT is entitled to use it to the extent necessary for the use and presentation of the NFT (e.g., display on NFT platforms, cryptocurrency wallets, social networks sites, etc.). Full terms & conditions are available on the campaign webpage: https://www.buymycancer.org/",
+    "attributes": [
+      {
+        "trait_type": "Creator",
+        "value": "BuyMyCancer"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "“Lymphoma” by SWANSKI"
+      },
+      "description": {
+        "type": "string",
+        "description": "The exclusive, complete picture of Lymphoma cells recreated by world-renowned artist, SWANSKI. This NFT is part of the “Buy My Cancer” campaign. The campaign blends science, art, medicine and technology in an effort to save lives. Microscopic photographs of real living cancer cells were taken with a confocal microscope at the Maria Skłodowska-Curie National Institute of Oncology in Gliwice, Poland. These images were used as the basis for artwork created by world-renowned artist, SWANSKI. Funds raised go to support the treatment of a patient suffering from cancer. Participants of the campaign are making a donation to the Alivia Cancer Foundation in return for the NFT. The NFT is a digital diploma of participation in the campaign and a confirmation of the support granted to cancer patients. The receipt of this NFT does not grant any copyrights or licenses to the cancer cell photographs or videos (which were used by the artist to create this NFT), pieces of art created by the artist, or the images or videos created on the basis of these pieces of art. However, the participant who gets the NFT is entitled to use it to the extent necessary for the use and presentation of the NFT (e.g., display on NFT platforms, cryptocurrency wallets, social networks sites, etc.). Full terms & conditions are available on the campaign webpage: https://www.buymycancer.org/"
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://media.vast.app/ipfs/QmYuvi6YMozMksQdKCuRPmsnXCTrkwCoY1kQjzdLvt8XKk"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "image/jpeg"
+      },
+      "preview_media_file_size": {
+        "type": "int",
+        "description": 6850073
+      },
+      "created_at": {
+        "type": "string",
+        "description": "Fri Jul 22 2022 15:22:58 GMT+0000 (Coordinated Universal Time)"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 1
+      }
+    }
+  }
+}

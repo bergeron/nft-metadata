@@ -1,0 +1,63 @@
+{
+  "address": "0xff9b28db85bf266595522f181aeca641b270f03b",
+  "type": "ERC721",
+  "name": "HYPER V3",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/R38GIIfvRFtEngH1bAR1ZKTDhkg7--Zh0RUOPXs_lP0",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1637092747
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Aevin"
+      }
+    ],
+    "description": "Genesis mint on CXIP.\nInspired by Tangerine Dream music and astronomy.\n1047x1165",
+    "external_url": "https://cxip.io/nft/0xff9b28db85bf266595522f181aeca641b270f03b/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/E_BkghKqekgGXPfMTxlr-4zpVlzxxYZr1b2z89yf25w",
+    "imageUrl": "https://arweave.net/E_BkghKqekgGXPfMTxlr-4zpVlzxxYZr1b2z89yf25w",
+    "name": "Tangerine Nebula",
+    "properties": {
+      "created_at": "2021-11-16T19:59:07.000000Z",
+      "creator_wallet": "0xd316351bced574320ca6bcbc7ef72af933beb8b2",
+      "description": "Genesis mint on CXIP.\nInspired by Tangerine Dream music and astronomy.\n1047x1165",
+      "image": "https://arweave.net/E_BkghKqekgGXPfMTxlr-4zpVlzxxYZr1b2z89yf25w",
+      "imageUrl": "https://arweave.net/E_BkghKqekgGXPfMTxlr-4zpVlzxxYZr1b2z89yf25w",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "16 November 2021",
+      "name": "Tangerine Nebula",
+      "nft_type": "non-fungible image token (image/jpeg)",
+      "preview_media_file": "https://arweave.net/mMK9DTx-BlJX3PlcJUw1rfhqrBbm46Ucj001FQAnvRg",
+      "preview_media_file_dimensions": "360x401",
+      "preview_media_file_size": 84162,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "1047x1165",
+      "raw_media_file": "https://arweave.net/-5yl9Goujhq5FQ_MMMp47WwQnSoLSKEO9x1Urlfvvug",
+      "raw_media_file_size": 465838,
+      "raw_media_file_spec": "JPEG 1047x1165 1047x1165+0+0 8-bit sRGB 465838B 0.000u 0:00.000",
+      "raw_media_file_type": "image/jpeg",
+      "raw_media_format": "portrait",
+      "raw_media_signature": "0x5d52b2ca5af3c8508619c31c2e5ee4a043543cc018c6a7d7effaf061b432990a",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/mMK9DTx-BlJX3PlcJUw1rfhqrBbm46Ucj001FQAnvRg",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Tangerine Nebula",
+      "total_supply": 1
+    },
+    "title": "Tangerine Nebula"
+  }
+}

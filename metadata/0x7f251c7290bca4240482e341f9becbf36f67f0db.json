@@ -1,0 +1,49 @@
+{
+  "address": "0x7f251c7290bca4240482e341f9becbf36f67f0db",
+  "type": "ERC721",
+  "name": "CryptocrazyNFT",
+  "tokenCount": "233",
+  "uri": "https://cdn-api.niftykit.com/reveal/ykifSIThJeUj4mtMrA63/1",
+  "metadata": {
+    "name": "Cryptocrazy #1",
+    "image": "ipfs://bafybeifz7nct6nvzu6yl5xhqae7eawwjap3tl5skygaq5vj5ddgdqu36pe/1.png",
+    "description": "Young, smart and cryptocrazy. 888 NFT cartoon characters will be your companion and your key to success!",
+    "attributes": [
+      {
+        "trait_type": "Accessory",
+        "value": "Lightbulb yellow left"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Man"
+      },
+      {
+        "trait_type": "Age",
+        "value": "Young"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Casual"
+      },
+      {
+        "trait_type": "Motorization",
+        "value": "Car"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Looking",
+        "value": "Left"
+      }
+    ],
+    "seller_fee_basis_points": 1000,
+    "compiler": "nft-inator.com",
+    "fee_recipient": "0x03613625a109540C47d8dd163D963F721DF95C7C"
+  }
+}

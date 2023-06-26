@@ -1,0 +1,42 @@
+{
+  "address": "0x5acf5cc12876f2ad85ba33b646940316746b0284",
+  "type": "ERC721",
+  "name": "Dino Evolution NFT",
+  "tokenCount": "6000",
+  "uri": "ipfs://Qmejgk5uqdZPGTyvwqX9WvGjxXET17neDUxqPYj7M4ERw5/1.json",
+  "metadata": {
+    "name": "Dino Evolution #1",
+    "description": "6000 unique Evolving Dino NFTs",
+    "image": "ipfs://QmWyYxZyEbRVv1kHUpVqYFTSPwCRDSTqJjpkiifbzN1dMN/1.png",
+    "dna": "285c6dbb0d744d1ceaafeeb3efdf5a6f88ed0a5b",
+    "edition": 1,
+    "date": 1665817953999,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "SKIN",
+        "value": "BLUE"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "CYBORG"
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "STEEL"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "CLOSED"
+      },
+      {
+        "trait_type": "HORN",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

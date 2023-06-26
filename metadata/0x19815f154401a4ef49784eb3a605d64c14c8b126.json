@@ -1,0 +1,50 @@
+{
+  "address": "0x19815f154401a4ef49784eb3a605d64c14c8b126",
+  "type": "ERC721",
+  "name": "Blastonauts",
+  "tokenCount": "8",
+  "uri": "ipfs://QmeEJi1Yug8WwqdK7Vq1iKdwupJesM8M8VwF85B3vhqj4B/1.json",
+  "metadata": {
+    "name": "Blastonaut #1",
+    "description": "BlastDAO #1 NFT Collection. Blastonauts, 2000 Unique Aliens on Ethereum.",
+    "image": "ipfs://QmSgQSxLqrv4R13QzB5mxcCKNA4DzZVUZb57FY4HaVQw1U/1.png",
+    "dna": "3b509e44e7a1a21ef10d845b2a721a37d086e92a",
+    "edition": 1,
+    "date": 1643472248511,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Panel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "PanelText",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Spacesuit",
+        "value": "WhiteBlue"
+      },
+      {
+        "trait_type": "Alien",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "YellowBlueVisor"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "Jupiter"
+      }
+    ],
+    "compiler": "yagetty.eth @ BlastDAO"
+  }
+}

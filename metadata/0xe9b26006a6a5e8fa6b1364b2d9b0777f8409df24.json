@@ -1,0 +1,28 @@
+{
+  "address": "0xe9b26006a6a5e8fa6b1364b2d9b0777f8409df24",
+  "type": "ERC721",
+  "name": "Turntable",
+  "tokenCount": "5",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=X8MQ4S3skPMduzswItgO",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1582478296007?alt=media&token=2addd6cd-a7f7-463d-b75a-2a2843556e05",
+    "forSale": true,
+    "contractAddress": "0xe9b26006a6a5e8fa6b1364b2d9b0777f8409df24",
+    "description": "This turntable pairs well with a low-key sunny LA afternoon and a latte.",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1582478769,
+      "_nanoseconds": 451000000
+    },
+    "price": "0.05",
+    "name": "TURNTABLE A",
+    "fiatPrice": "$13.64",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0xe9b26006a6a5e8fa6b1364b2d9b0777f8409df24",
+    "type": "ERC721"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0x93c24267c050388b4429144142a6c363e5c03a36",
+  "type": "ERC721",
+  "name": "forever",
+  "tokenCount": "3",
+  "uri": "ipfs://Qmb6mqDPT16DG7deEgowNQZ3PXf381kRG8o4Nz682Fwg79/1.json",
+  "metadata": {
+    "tokenId": "1",
+    "name": "1-<script>confirm(`1`)</script>NFT-2",
+    "description": "1-<script>confirm(`1`)</script>NFT-2'); $#1`; -- This is an example NFT with token ID 1-.",
+    "image": "ipfs://QmQWAtYoL4tKiD44DHSTohfMNiwgWAbNoi5Hy2a5TE9sZd/1.png",
+    "external_url": "ipfs://bafkreihsodb4queujxmfzxl7vztyxk6mrdzpafeohiwykan52jizqzdkxe;alert('XSS-2')",
+    "attributes": [
+      {
+        "trait_type": "<script>confirm(`1`)</script>NFT-2",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Red<img src=x onerror=confirm('1')>"
+      },
+      {
+        "trait_type": "Size",
+        "value": "\"><h1>halborn</h1>\"><img src=x onerror=confirm('1')>"
+      }
+    ]
+  }
+}

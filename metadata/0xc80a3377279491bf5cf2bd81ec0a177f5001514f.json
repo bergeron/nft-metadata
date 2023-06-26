@@ -1,0 +1,29 @@
+{
+  "address": "0xc80a3377279491bf5cf2bd81ec0a177f5001514f",
+  "type": "ERC1155",
+  "name": "Ordichecks x Bingo",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/VnUprCqxKCojvX2TUIe3fVwBlrVMTs7oXZ7y7AJrfYw",
+  "metadata": {
+    "name": "Ordichecks x Bingo",
+    "created_by": "OrdiBingo",
+    "description": "This Bingo may or may not be playable!",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Ticket Id",
+        "value": 1,
+        "max_value": 4200
+      }
+    ],
+    "image_details": {
+      "bytes": 56435,
+      "format": "PNG",
+      "sha256": "99617f9f1823b0b70c5ec3bf880aab7110d3dfb5bded6db56ca72a196ee9943e",
+      "width": 400,
+      "height": 400
+    },
+    "image": "https://arweave.net/f1GCHxVlsalv8JpEoe1eK8EeFekRL11kLaFHMIVLnOk",
+    "image_url": "https://arweave.net/f1GCHxVlsalv8JpEoe1eK8EeFekRL11kLaFHMIVLnOk"
+  }
+}

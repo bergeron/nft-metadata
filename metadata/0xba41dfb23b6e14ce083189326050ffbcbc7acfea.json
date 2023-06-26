@@ -1,0 +1,37 @@
+{
+  "address": "0xba41dfb23b6e14ce083189326050ffbcbc7acfea",
+  "type": "ERC721",
+  "name": "FUN SQUARES",
+  "tokenCount": "4",
+  "uri": "ipfs://bafybeifjlc5dacd3dw2v6cagcfqfv45njezjtaefr4dpyqwcffazjcrwu4/1.json",
+  "metadata": {
+    "name": "FUN SQUARE #1",
+    "description": "FUN SQUARE #1 - A unique NTF in the Fun Squares Collections",
+    "fee_recipient": "0x0cd6afbe096dEa8614708e1Adc3C7Ae1E2007202",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://bafybeihlq2phr7gheslbjuspz3ewwhznukrlhbetkb7bfj63bfbwycwjrq/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "2"
+      },
+      {
+        "trait_type": "Body",
+        "value": "1"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "8"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "7"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 4510,
+        "display_type": "number"
+      }
+    ]
+  }
+}

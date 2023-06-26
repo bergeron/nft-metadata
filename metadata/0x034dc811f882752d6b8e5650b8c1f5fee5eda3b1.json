@@ -1,0 +1,56 @@
+{
+  "address": "0x034dc811f882752d6b8e5650b8c1f5fee5eda3b1",
+  "type": "ERC721",
+  "name": "Cocktails V3",
+  "tokenCount": "1",
+  "uri": "https://ipfs.pixura.io/ipfs/QmPUgMaNDtpf158Sg2KNqwYFRGXEhUmQeWVkUAbK2VH9RK/metadata.json",
+  "metadata": {
+    "name": "The Old Fashioned",
+    "createdBy": "Haruko Hayakawa",
+    "yearCreated": "2022",
+    "description": "The Old Fashioned\n\n1 sugar cube or 1 spoon of simple syrup\n2 dashes Angostura bitter\n2 ounces rye\nGarnish with an Orange twist or maraschino cherry\n\n1. Muddle sugar cube and bitters with a splash of water in a rocks glass.\n \n2. Add rye and stir.\n\n3. Add one large ice cube and stir until chilled. Garnish with an orange twist or maraschino cherry.",
+    "image": "https://ipfs.pixura.io/ipfs/QmVx5pDS9p1gVCDQRNvzZ4HRrMn9cKvax7z4RGKLQEJRy7/OldFashioned-Thumb.gif",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmTYxD6YnuqdpRZqz7AKbkjNbyoeE6YndqLQr3YrTpDgYR/HarukoHayakawa_CKTLS_TheOldFashioned.mp4",
+      "dimensions": "1080x1350",
+      "size": "18037218",
+      "mimeType": "video/mp4"
+    },
+    "tags": [
+      "cocktails",
+      "drinks",
+      "cg",
+      "animation",
+      "alcohol",
+      "spirits",
+      "simulation",
+      "3d",
+      "CKTLS",
+      "Rye",
+      "Bourbon",
+      "Ice"
+    ],
+    "attributes": [
+      {
+        "trait_type": "Drink",
+        "value": "Cocktail"
+      },
+      {
+        "trait_type": "Garnish",
+        "value": "Maraschino Cherry"
+      },
+      {
+        "trait_type": "Spirit",
+        "value": "Rye"
+      },
+      {
+        "trait_type": "Ice Cube",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Rocks Glass"
+      }
+    ]
+  }
+}

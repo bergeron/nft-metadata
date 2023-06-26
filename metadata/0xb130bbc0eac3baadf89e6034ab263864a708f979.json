@@ -1,0 +1,28 @@
+{
+  "address": "0xb130bbc0eac3baadf89e6034ab263864a708f979",
+  "type": "ERC721",
+  "name": "CHROMA1",
+  "tokenCount": "4",
+  "uri": "https://collect-code.com/api/token/chroma1/1/metadata?v=1&pixels=",
+  "metadata": {
+    "name": "CHROMA1#01",
+    "description": "Source **CHROMA-I** token **#1** of **20**. This token has not been built into the definitive artwork yet. The current owner can build it at [collec-code.com](https://collect-code.com/), where the contract and owner's address and block hash will be used as seed. This **Source token** has the hability to **control the collection supply**. Learn the rules at [collec-code.com](https://collect-code.com/chroma1).",
+    "external_url": "https://collect-code.com/chroma1/token/1",
+    "image": "https://collect-code.com/api/token/chroma1/1/svg?resolution=1200",
+    "background_color": "131313",
+    "attributes": [
+      {
+        "trait_type": "Grid Size",
+        "value": "1"
+      },
+      {
+        "trait_type": "State",
+        "value": "Source"
+      },
+      {
+        "trait_type": "Offspring",
+        "value": "Single"
+      }
+    ]
+  }
+}

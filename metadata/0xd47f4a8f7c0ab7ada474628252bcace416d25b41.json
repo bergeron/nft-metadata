@@ -1,0 +1,19 @@
+{
+  "address": "0xd47f4a8f7c0ab7ada474628252bcace416d25b41",
+  "type": "ERC721",
+  "name": "Crowdpub Founders NFT",
+  "tokenCount": "90",
+  "uri": "https://nfthooks.xyz/api/crowdpub/1.json",
+  "metadata": {
+    "name": "crowdpub #1",
+    "description": "Crowdpub is a decentralized way of writing books by dozens of authors and reading them as a live experience in which you can participate, with financial incentive.",
+    "external_url": "https://crowdpub.org",
+    "image": "https://crowdpub-mint-nu.vercel.app/founders_cover.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Founder"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "0x41f6d915901e13782e71effc6d05cab47a42f94d",
+  "type": "ERC721",
+  "name": "Cow Guys",
+  "tokenCount": "10",
+  "uri": "ipfs://QmURguuDvU3dapN3GiVspzUQUcFtWeFhG1R91YJ7o89Lbu/1.json",
+  "metadata": {
+    "image": "ipfs://QmZ2M6H5Rdeioyzb4Lxf6dZTx6R8vB7dmcvWBNWR4RcYKK/CowGuy1.PNG",
+    "tokenId": 1,
+    "name": "CowGuy 1",
+    "description": "What a boss looking! #1 of 3333.",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Item",
+        "value": "Milk"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Purple Sunglasses"
+      },
+      {
+        "trait_type": "Secondary Item",
+        "value": "None"
+      },
+      {
+        "trait_type": "Secondary Accessory",
+        "value": "None"
+      },
+      {
+        "trait_type": "Face",
+        "value": "None"
+      }
+    ]
+  }
+}

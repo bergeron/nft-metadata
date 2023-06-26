@@ -1,0 +1,62 @@
+{
+  "address": "0x20eabd041a4278a363bba3bff73588625fdf380f",
+  "type": "ERC721",
+  "name": "Astra Chipmunks Genesis",
+  "tokenCount": "214",
+  "uri": "data:application/json;base64,eyJuYW1lIjoiQXN0cmEgQ2hpcG11bmtzIEdlbmVzaXMgIzEiLCJkZXNjcmlwdGlvbiI6IkRlc2NyaXB0aW9uIiwiaW1hZ2UiOiJodHRwczovL2dlbmVzaXMuYXN0cmFjaGlwbXVua3MuY29tL2dpZnMvMSIsImF0dHJpYnV0ZXMiOlt7InRyYWl0X3R5cGUiOiJUeXBlIiwidmFsdWUiOiJHZW5lc2lzIn0seyJ0cmFpdF90eXBlIjoiTGV2ZWwiLCJ2YWx1ZSI6MH0seyJ0cmFpdF90eXBlIjoiQWdpbGl0eSIsInZhbHVlIjowLCJkaXNwbGF5X3R5cGUiOiJib29zdF9udW1iZXIifSx7InRyYWl0X3R5cGUiOiJEZWZlbmNlIiwidmFsdWUiOjAsImRpc3BsYXlfdHlwZSI6ImJvb3N0X251bWJlciJ9LHsidHJhaXRfdHlwZSI6Ikx1Y2siLCJ2YWx1ZSI6MCwiZGlzcGxheV90eXBlIjoiYm9vc3RfbnVtYmVyIn0seyJ0cmFpdF90eXBlIjoiU3RhbWluYSIsInZhbHVlIjowLCJkaXNwbGF5X3R5cGUiOiJib29zdF9udW1iZXIifSx7InRyYWl0X3R5cGUiOiJTdHJlbmd0aCIsInZhbHVlIjowLCJkaXNwbGF5X3R5cGUiOiJib29zdF9udW1iZXIifSx7InRyYWl0X3R5cGUiOiJUb3RhbFJhaWRzIiwidmFsdWUiOjAsImRpc3BsYXlfdHlwZSI6Im51bWJlciJ9LHsidHJhaXRfdHlwZSI6IlRvdGFsV2lucyIsInZhbHVlIjowLCJkaXNwbGF5X3R5cGUiOiJudW1iZXIifSx7InRyYWl0X3R5cGUiOiJEZXBsb3ltZW50VGltZSIsInZhbHVlIjowLCJkaXNwbGF5X3R5cGUiOiJudW1iZXIifV19",
+  "metadata": {
+    "name": "Astra Chipmunks Genesis #1",
+    "description": "Description",
+    "image": "https://genesis.astrachipmunks.com/gifs/1",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Level",
+        "value": 0
+      },
+      {
+        "trait_type": "Agility",
+        "value": 0,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Defence",
+        "value": 0,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Luck",
+        "value": 0,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 0,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Strength",
+        "value": 0,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "TotalRaids",
+        "value": 0,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "TotalWins",
+        "value": 0,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "DeploymentTime",
+        "value": 0,
+        "display_type": "number"
+      }
+    ]
+  }
+}

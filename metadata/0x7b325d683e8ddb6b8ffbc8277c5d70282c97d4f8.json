@@ -1,0 +1,65 @@
+{
+  "address": "0x7b325d683e8ddb6b8ffbc8277c5d70282c97d4f8",
+  "type": "ERC721",
+  "name": "PaperNFT V4",
+  "tokenCount": "9",
+  "uri": "https://ipfs.io/ipfs/bafybeigbwqlu2pipa3ykkco3j5cdd4tuudrgktqgcxg7spgtzhrmsuetea/1.json",
+  "metadata": {
+    "name": "Great Bulls #1",
+    "symbol": "GB",
+    "description": "Great Bulls is a Web3.0 product with inbuilt SocialFi and GameFi to promote a healthy and low-carbon lifestyle",
+    "seller_fee_basis_points": 850,
+    "image": "https://ipfs.io/ipfs/bafybeiftw7djgjggktbyerdk7zcpiyraqsgmeqvgppgpe3yrp54lks6z3y/1.png",
+    "external_url": "https://greatbulls.io",
+    "edition": 1,
+    "collection": {
+      "name": "Great Bulls",
+      "family": "Great Bulls"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Summer Shirt"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Tired"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Backward Skate Cap"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Red Pixel Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Haa"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://ipfs.io/ipfs/bafybeiftw7djgjggktbyerdk7zcpiyraqsgmeqvgppgpe3yrp54lks6z3y/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "GTBUoSrGMqbwwMwyNvqT8HYJTbza4nBTBGQ7jKffgQok",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

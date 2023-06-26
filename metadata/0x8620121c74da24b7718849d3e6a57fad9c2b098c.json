@@ -1,0 +1,42 @@
+{
+  "address": "0x8620121c74da24b7718849d3e6a57fad9c2b098c",
+  "type": "ERC721",
+  "name": "PyMons",
+  "tokenCount": "11111",
+  "uri": "https://pymonfiles.blob.core.windows.net/metadata/2.json",
+  "metadata": {
+    "name": "PyMon #00001",
+    "image": "https://ipfs.io/ipfs/QmYP52DGM7Ja4sciuSXdgex97hVL3F4gRzG8ePZS5MtiVP",
+    "background_color": "000000",
+    "attributes": [
+      {
+        "trait_type": "Platform",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Razor Teeth"
+      },
+      {
+        "trait_type": "Special",
+        "value": "Fin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Dot"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "Pure",
+        "value": "No"
+      }
+    ]
+  }
+}

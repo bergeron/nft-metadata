@@ -1,0 +1,19 @@
+{
+  "address": "0xe2e14fe6f2dbfe9d65e56dad50a6d172a8ba87ef",
+  "type": "ERC1155",
+  "name": "Unifty Test Collection",
+  "tokenCount": "1",
+  "uri": "https://gateway.ipfs.io/ipfs/QmNhwRo5khffNfNc4KZLNhNUiWi1BZWTpDBtQU5z7ATuRW",
+  "metadata": {
+    "name": "Test NFT",
+    "description": "An NFT for testing",
+    "image": "https://gateway.ipfs.io/ipfs/QmfY7N56RwvNkzeeCxxc4EpC87be71A1oF6FQNaxZS1Kni",
+    "external_link": "https://unifty.io",
+    "attributes": [
+      {
+        "trait_type": "Context",
+        "value": "Testing"
+      }
+    ]
+  }
+}

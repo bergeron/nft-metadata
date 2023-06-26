@@ -1,0 +1,31 @@
+{
+  "address": "0x79baaba8ef2f4661306e5e31bbf6ca87686c68be",
+  "type": "ERC721",
+  "name": "PantherQuant Genesis Collection",
+  "tokenCount": "13",
+  "uri": "ipfs://QmRfkan5pXxzFmWgT5A76r7KNiwxsqmbnftntAqAtgqYqW/1.json",
+  "metadata": {
+    "name": "PantherQuant Genesis Key",
+    "description": "Lifetime Access to Tier 1",
+    "tokenId": 1,
+    "image": "https://ipfs.io/ipfs/QmRNj3FY8q6UpBdVLPJoZaR8jz1CctGwpDh9eLwhER9VLe/1.gif",
+    "animation_url": "https://storage.googleapis.com/panthertest-nfts/bronze%20small.gif",
+    "external_url": "https://www.pantherquant.io",
+    "explicit_content": false,
+    "unlockable_content": false,
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Bronze"
+      },
+      {
+        "trait_type": "tier",
+        "value": 1
+      },
+      {
+        "trait_type": "access",
+        "value": "lifetime"
+      }
+    ]
+  }
+}

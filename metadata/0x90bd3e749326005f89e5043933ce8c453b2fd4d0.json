@@ -1,0 +1,44 @@
+{
+  "address": "0x90bd3e749326005f89e5043933ce8c453b2fd4d0",
+  "type": "ERC721",
+  "name": "Adieny",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/oF59qF3p1DYb_qIZA9rbtRJqUEHgsRGeaFwpsuKOBgg",
+  "metadata": {
+    "name": "UNLOCKING",
+    "created_by": "Adieny",
+    "description": "The video was expressly made for the CODAsummit exhibition in March 2023; intended as a pairing with a traditional canvas painting. 4k resolution.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Adieny"
+      },
+      {
+        "trait_type": "Medium",
+        "value": "Video"
+      }
+    ],
+    "animation_details": {
+      "bytes": 32608595,
+      "format": "MP4",
+      "duration": 25,
+      "sha256": "f32f8709f3fdd349051f673033fd716fa34eef7ee37d6a1a44631ecb980ecb3b",
+      "width": 3840,
+      "height": 2160,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/5Sp06nMvy7gJC34ANgfNeihpZ-YVbL06lflElhkX03w",
+    "animation_url": "https://arweave.net/5Sp06nMvy7gJC34ANgfNeihpZ-YVbL06lflElhkX03w",
+    "image_details": {
+      "bytes": 18074,
+      "format": "PNG",
+      "sha256": "2d7e271072010c17f3ff93003a9bbd99c99c6c85e81fb2e3a78b877e9969ec07",
+      "width": 960,
+      "height": 540
+    },
+    "image": "https://arweave.net/f4_6orKktGn2snCK8Ls5ewknm-ifqr84A64slx9aI-Y",
+    "image_url": "https://arweave.net/f4_6orKktGn2snCK8Ls5ewknm-ifqr84A64slx9aI-Y"
+  }
+}

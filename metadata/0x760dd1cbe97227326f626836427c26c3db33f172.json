@@ -1,0 +1,37 @@
+{
+  "address": "0x760dd1cbe97227326f626836427c26c3db33f172",
+  "type": "ERC721",
+  "name": "Fuzzy",
+  "tokenCount": "43",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=YNwIndqkzOcFuk4G05Fc",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1586227608729?alt=media&token=ecd10d4c-b3ec-4801-89a1-88ad6447c195",
+    "forSale": false,
+    "contractAddress": "0x760dd1cbe97227326f626836427c26c3db33f172",
+    "description": "This is the beginning. It is also a turning point. My first NFT and the beginning of the first Proof of Real series.",
+    "tags": [],
+    "amountToMint": 25,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1586228359,
+      "_nanoseconds": 65000000
+    },
+    "price": 0,
+    "name": "The Singularity (PoR series 1)",
+    "fiatPrice": "$0.00",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "https://beta.cent.co/@fuzzy247"
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x760dd1cbe97227326f626836427c26c3db33f172",
+    "type": "ERC721"
+  }
+}

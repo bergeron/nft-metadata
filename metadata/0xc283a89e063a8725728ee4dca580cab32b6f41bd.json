@@ -1,0 +1,38 @@
+{
+  "address": "0xc283a89e063a8725728ee4dca580cab32b6f41bd",
+  "type": "ERC721",
+  "name": "GalaxyBunniesNFTS",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeicfvjx5wuksssq5vvvekjkceduuknbloiz7vpq6kkb4gf4ur6253a/1.json",
+  "metadata": {
+    "name": "Galaxybunnies NFT #1",
+    "description": "This is a a cool collection of galaxybunnies",
+    "image": "ipfs://bafybeia75q4sebgpdq3s5xvjdgwcvyrr6snsmqe7b3asvxkynrhaae2rlm/1.png",
+    "dna": "7063681c74b8e7b729bc30256e2f40fb4f24d942",
+    "edition": 1,
+    "date": 1671154465622,
+    "attributes": [
+      {
+        "trait_type": "ABunnyGalaxy",
+        "value": "Floating in Space"
+      },
+      {
+        "trait_type": "BunnyBody",
+        "value": "sitting brave"
+      },
+      {
+        "trait_type": "BunnyGender",
+        "value": "bunny girl"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "LOVE bunny ears"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "FLUFFY bunny tail"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

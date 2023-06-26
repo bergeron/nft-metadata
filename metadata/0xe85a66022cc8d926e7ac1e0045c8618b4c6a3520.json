@@ -1,0 +1,58 @@
+{
+  "address": "0xe85a66022cc8d926e7ac1e0045c8618b4c6a3520",
+  "type": "ERC721",
+  "name": "KillerNerds Vol 1",
+  "tokenCount": "100",
+  "uri": "ipfs://QmY56h6B1HMc95U8iwciXDpemhfBA523rQRZBBrpQgmVtG/1.json",
+  "metadata": {
+    "name": "KillerNerd #1",
+    "description": "2500 unique generative artworks of nerds for nerds",
+    "image": "ipfs://Qmcd2b1zcZvazfCcwosZd2v8yqnU6dn5yVETBbxUZQq8Zh/1.png",
+    "dna": "3a73d9451e042e935e2d74004738228c21813151",
+    "edition": 1,
+    "date": 1647195371203,
+    "creator": "KillerNerds",
+    "external_url": "http://killernerds.com",
+    "seller_fee_basis_points": 1000,
+    "collection": {
+      "name": "KillerNerds Vol 1",
+      "family": "KillerNerds"
+    },
+    "creators": [
+      {
+        "address": "0xA44A6a6c8bDb70061508ea040ae8ea2eCCF4a54c",
+        "share": 100
+      }
+    ],
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Blue"
+      },
+      {
+        "trait_type": "Skull",
+        "value": "Donnie Skull "
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Bow Tie Black "
+      },
+      {
+        "trait_type": "Face",
+        "value": "None "
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Glasses "
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "None "
+      },
+      {
+        "trait_type": "Head",
+        "value": "Graduation Hat "
+      }
+    ]
+  }
+}

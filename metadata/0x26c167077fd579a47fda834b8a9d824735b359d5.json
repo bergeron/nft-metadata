@@ -1,0 +1,49 @@
+{
+  "address": "0x26c167077fd579a47fda834b8a9d824735b359d5",
+  "type": "ERC721",
+  "name": "Nakaturtles",
+  "tokenCount": "50",
+  "uri": "ipfs://QmeZuoZ7mYskT25v3Gugg9vZjWNorfGpWKAc4Z7ZkfHPTU/1",
+  "metadata": {
+    "name": "#4275",
+    "description": "4444 dancing turtles and good vibes",
+    "image": "ipfs://QmdjctHUmpYxf6NzFVUFVyVuoSLo9HJHQeQ2QYh97tCzDU/1.gif",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "4275.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Chest",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Shell",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3D Glasses"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

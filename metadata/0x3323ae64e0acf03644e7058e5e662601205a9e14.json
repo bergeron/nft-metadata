@@ -1,0 +1,48 @@
+{
+  "address": "0x3323ae64e0acf03644e7058e5e662601205a9e14",
+  "type": "ERC721",
+  "name": "Invisible Bananas by Art Mirror",
+  "tokenCount": "716",
+  "uri": "ipfs://bafybeica57z7jhntwi2ks7a3tqfdjdbrt4cmseiny37pquwdhoh4pdjfm4/1.json",
+  "metadata": {
+    "name": "Invis Bananas #1",
+    "description": "Get your Bananas just like Invisible Friends",
+    "external_url": "https://www.artmirror.art",
+    "image": "ipfs://bafybeibzzzmzvxtxuibi3vrvap2ev7f6je2vnxgitbmbrrqlckiakmo3by/1.png",
+    "attributes": [
+      {
+        "trait_type": "BackGround",
+        "value": "strawberry"
+      },
+      {
+        "trait_type": "Face",
+        "value": "nervous"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Magic Pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "canceler"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Invisible Bananas",
+      "family": "Invisible Bananas"
+    },
+    "symbol": ""
+  }
+}

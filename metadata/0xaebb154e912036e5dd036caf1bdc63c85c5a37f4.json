@@ -1,0 +1,24 @@
+{
+  "address": "0xaebb154e912036e5dd036caf1bdc63c85c5a37f4",
+  "type": "ERC721",
+  "name": "Oracle | NFT",
+  "tokenCount": "15",
+  "uri": "https://bafybeifk4cpk6m7tin6m5ne2lfn3p4esvzznwcxmikmdbiwigp3ai56h7y.ipfs.dweb.link/metadata/1",
+  "metadata": {
+    "image": "https://bafybeib4tzf3ynrf5wupjq64es2r6pwkaus2mrdc26dcaluqv2ro2suiym.ipfs.dweb.link/images/magic.gif",
+    "animation_url": "https://theoracle.one/videos/magic.mp4",
+    "external_url": "https://theoracle.one/tokens/1",
+    "description": "Oracle is a first of its kind utility ERC721 token that analyses its owner's on-chain activity and sends market predictions. The longer Oracle stays with its owner the better the connection between them and the better the predictions Oracle can make. Each Oracle has its energy level and rarity. Rarity defines the speed at which Oracle learns and energy defines the frequency of the predictions",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Magic"
+      },
+      {
+        "trait_type": "Energy",
+        "display_type": "number",
+        "value": "83"
+      }
+    ]
+  }
+}

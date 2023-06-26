@@ -1,0 +1,41 @@
+{
+  "address": "0xfc7cce99a60688c95af7092e5c8018df5e31b7a7",
+  "type": "ERC721",
+  "name": "The Grasshopper Files",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/hJg_kqnJXx4vcdzLXKfOYnErzOn_a5ZbQFl4kH5Zejg",
+  "metadata": {
+    "name": "Video 001",
+    "created_by": "Project Grasshopper",
+    "description": "I need you to pay very close attention. I am going to take you somewhere.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Project Grasshopper"
+      }
+    ],
+    "animation_details": {
+      "bytes": 37079969,
+      "format": "MP4",
+      "duration": 270,
+      "sha256": "b3fc0fbeae597aa0470feda454967427efb60871123f9fcaa7fa44f53562e97a",
+      "width": 960,
+      "height": 540,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/tvdEWUDod4L3YX9dyArWDdR5vGedCNUo5G4hK9f3PZM",
+    "animation_url": "https://arweave.net/tvdEWUDod4L3YX9dyArWDdR5vGedCNUo5G4hK9f3PZM",
+    "image_details": {
+      "bytes": 1456842,
+      "format": "JPEG",
+      "sha256": "0db1ee3c5e0aa019e4139c6c21502d4e6fb79cf113489f04bc8dce10e00c03be",
+      "width": 4096,
+      "height": 4096
+    },
+    "image": "https://arweave.net/fG7YwCtgNL1NxHfZ7qTxkgWQLIC83762yRpVM1zIRBI",
+    "image_url": "https://arweave.net/fG7YwCtgNL1NxHfZ7qTxkgWQLIC83762yRpVM1zIRBI"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0x183ffa95beb0e1d2630ca57c6f1151c58bba317f",
+  "type": "ERC721",
+  "name": "Cartel V2",
+  "tokenCount": "1",
+  "uri": "https://ipfs.io/ipfs/QmTip6rsp5YMXqDtQJPgSNs2bm8iBmboRVy8hgdzSjpE17/1",
+  "metadata": {
+    "name": "Pablo Escobar #1",
+    "description": "This is the limited nft collectio of Pablo Escobar",
+    "image": "https://ipfs.io/ipfs/QmPkyqmXin8g6nLRkr1mqRTqRK2aPQZHEfyAynsG54is6W",
+    "dna": "cad5b6dba977d08a40e60f62066c52e44a95c7ba",
+    "edition": 1,
+    "date": 1643866125672,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Jail"
+      },
+      {
+        "trait_type": "Base",
+        "value": "body"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Brown Coat"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Specs",
+        "value": "Rock"
+      }
+    ],
+    "compiler": "Chichi Ruzdor"
+  }
+}

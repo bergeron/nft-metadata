@@ -1,0 +1,32 @@
+{
+  "address": "0xdd659288ac9c9e7480bc6263a505b661af1fc8b8",
+  "type": "ERC1155",
+  "name": "MetaAccount",
+  "tokenCount": "2",
+  "uri": "ipfs://bafyreihc47rq57s2bud23aqt6f6ziea3vrbziz6memxfzok67hoppxxdiu/metadata.json",
+  "metadata": {
+    "name": "Meta Account - metaaccount",
+    "external_url": "https://metaccount.io/metaaccount",
+    "description": "metaaccount is your Meta Account on the blockchain that can be used for authentication and integrating apps like discord, telegram, etc with blockchain.",
+    "hex": "001ff800003ffc00007ffe00007fff0000ffff0001ffff8003ffffc007ffffe0000ff000001ffc00007ffe00007ffe0000ffff0000ffff0001ffff80fdffffbffdffffbf01ffff8000ffff0000ffff00007ffe00007ffe00001ffc00000ff00007ffffe003ffffc001ffff8000ffff0000fffe00007ffe00003ffc00001ff800",
+    "attributes": [
+      {
+        "trait_type": "Registration",
+        "value": "Early Adopter"
+      },
+      {
+        "trait_type": "Username",
+        "value": "metaaccount"
+      },
+      {
+        "trait_type": "Hash Time",
+        "value": 1641596599
+      },
+      {
+        "trait_type": "Image Hex",
+        "value": "001ff800003ffc00007ffe00007fff0000ffff0001ffff8003ffffc007ffffe0000ff000001ffc00007ffe00007ffe0000ffff0000ffff0001ffff80fdffffbffdffffbf01ffff8000ffff0000ffff00007ffe00007ffe00001ffc00000ff00007ffffe003ffffc001ffff8000ffff0000fffe00007ffe00003ffc00001ff800"
+      }
+    ],
+    "image": "ipfs://bafybeieyu35hln5qkccgqquxoux7hweiecp2bv5gdyuvh56pgknuvau4oa/metaaccount.svg"
+  }
+}

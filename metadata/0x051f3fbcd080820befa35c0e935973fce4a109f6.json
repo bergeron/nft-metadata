@@ -1,0 +1,19 @@
+{
+  "address": "0x051f3fbcd080820befa35c0e935973fce4a109f6",
+  "type": "ERC721",
+  "name": "0x0 OFFICIAL",
+  "tokenCount": "1",
+  "uri": "https://highflyer-nft-test.s3.eu-central-1.amazonaws.com/1.json",
+  "metadata": {
+    "name": "TEST Unrevealed 0x0",
+    "description": "High Flyer Pilot in training. When your High Flyer has completed training his character will be revealed.",
+    "image": "https://highflyer-nft-test.s3.eu-central-1.amazonaws.com/placeholder.png",
+    "external_url": "https://test.0x0.com",
+    "attributes": [
+      {
+        "trait_type": "type",
+        "value": "hidden"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0x405be43e743a06a273efbff903452d11fa23bc90",
+  "type": "ERC721",
+  "name": "Penny",
+  "tokenCount": "3",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=bpwa5ne6C5b2iuWGDDNf",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1582589855581?alt=media&token=fe1f6eea-d54b-4244-87ff-47f2efe41ea4",
+    "forSale": false,
+    "description": "A cute doggie having a backflip nap",
+    "contractAddress": "0x405be43e743a06a273efbff903452d11fa23bc90",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1582589969,
+      "_nanoseconds": 159000000
+    },
+    "price": 0,
+    "name": "Backflip cute Penny",
+    "fiatPrice": "$0.00",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x405be43e743a06a273efbff903452d11fa23bc90",
+    "type": "ERC721"
+  }
+}

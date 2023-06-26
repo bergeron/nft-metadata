@@ -1,0 +1,19 @@
+{
+  "address": "0x1ca39c7f0f65b4da24b094a9afac7acf626b7f38",
+  "type": "ERC721",
+  "name": "GEN.ART Membership",
+  "tokenCount": "5100",
+  "uri": "https://api.gen.art/public/membership/standard",
+  "metadata": {
+    "name": "GEN.ART Membership",
+    "image": "https://storage.googleapis.com/gen-art-general/memberships/standard.png",
+    "animation_url": "https://storage.googleapis.com/gen-art-general/memberships/standard.mp4",
+    "external_url": "https://gen.art",
+    "attributes": [
+      {
+        "trait_type": "Membership",
+        "value": "Standard"
+      }
+    ]
+  }
+}

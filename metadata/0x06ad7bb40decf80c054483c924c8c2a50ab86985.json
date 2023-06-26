@@ -1,0 +1,29 @@
+{
+  "address": "0x06ad7bb40decf80c054483c924c8c2a50ab86985",
+  "type": "ERC721",
+  "name": "LilDuckies",
+  "tokenCount": "3333",
+  "uri": "ipfs://bafybeidzl2s77ew7slokwkt5mjg3cmz43aw7k4xad5dxv6hw6plgxt5usa/1",
+  "metadata": {
+    "dna": "f70196626c95879ccec4939b5ff5b26295cefc70",
+    "name": "Lil Duckies #1",
+    "image": "ipfs://bafybeicainpwufcdktlqeg46rwuzd537wffskv7lky6hune4mp2h4fnhxy/1.png",
+    "edition": 1,
+    "date": 1672432560020,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "GREEN"
+      },
+      {
+        "trait_type": "body",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "accessories",
+        "value": "PURPLE-HAIR"
+      }
+    ],
+    "compiler": "YumYum"
+  }
+}

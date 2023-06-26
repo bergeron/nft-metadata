@@ -1,0 +1,30 @@
+{
+  "address": "0x42fc1c9aa3f103283f248d9fb76d64c8cf737f8a",
+  "type": "ERC721",
+  "name": "Test PLANT A TREE WITH TPTC",
+  "tokenCount": "1",
+  "uri": "https://bafybeiabdumekl2safjvdwcpxaremrtvbr6kupjq3tufmthvsjzl3opyy4.ipfs.w3s.link/1.json",
+  "metadata": {
+    "name": "Test Tree #1",
+    "description": "This test tree is planted by Mr Seah and Mr Pereira on 18 Sep 2022 at Blk 123 Bukit Merah View #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tree 1"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x08F93b244B6621155D1CAD10778ae90db202F932",
+        "share": 100
+      }
+    ],
+    "collection": {
+      "name": "Test: PLANT A TREE WITH TPTC",
+      "family": "Plant a Tree with TPTC"
+    },
+    "symbol": "NFT",
+    "seller_fee_basis_points": 0,
+    "image": "https://bafybeigmnoymvsgm27mt37xtlyee7oqvnozu6z5nnmt5w7edqpjgot5owy.ipfs.w3s.link/1.png"
+  }
+}

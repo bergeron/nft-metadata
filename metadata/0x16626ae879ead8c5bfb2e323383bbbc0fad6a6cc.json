@@ -1,0 +1,27 @@
+{
+  "address": "0x16626ae879ead8c5bfb2e323383bbbc0fad6a6cc",
+  "type": "ERC721",
+  "name": "Creator Pass by NiftyKit",
+  "tokenCount": "836",
+  "uri": "https://dkpass.s3.us-west-1.amazonaws.com/1",
+  "metadata": {
+    "description": "An NFT with true utility from day one – the DropKit Creator Pass allows holders to access NiftyKit with exclusive and community-driven benefits. For more information on the pass, visit https://niftykit.com",
+    "animation_url": "https://dkpass-assets.s3.us-west-1.amazonaws.com/og/index.html?active=1",
+    "background_color": "",
+    "youtube_url": "",
+    "external_url": "",
+    "name": "OG Creator Pass",
+    "image": "https://ipfs.io/ipfs/bafybeichmm5twtscixymibmnfgi7eltku2bi6m6tqixbf4r66oktwbfr5e",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "OG"
+      },
+      {
+        "trait_type": "Sales Fee",
+        "value": "5%",
+        "display_type": "string"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "address": "0x15cffdf3807f4ab090ff86db3c84b9bb4d522f68",
+  "type": "ERC721",
+  "name": "Ethereum Football Stars Club",
+  "tokenCount": "64",
+  "uri": "https://metadata-efs.herokuapp.com/000211.json",
+  "metadata": {
+    "name": "L. Messi - Common 1/700",
+    "description": "Ethereum Football Stars Club (EFS) is a blockchain-based platform for football fans and collectors. Through EFS, users can collect digital player cards featuring their favorite football stars and earn tokens based on real-life performances. \nEach player in EFS has a limited edition of 1001 cards available for collectors, including 700 Common, 250 Epic, 50 Gold, and 1 Unique card. One of the most sought-after cards in EFS is the Ronaldo Gold Card, with only 50 cards available. Don't miss out on the opportunity to own a piece of football history with EFS.",
+    "image": "https://res.cloudinary.com/hqskzkxyn/image/upload/v1683546989/cards/000211.png",
+    "attributes": [
+      {
+        "trait_type": "Name",
+        "display_type": null,
+        "value": "L. Messi",
+        "max_value": null
+      },
+      {
+        "trait_type": "Team",
+        "display_type": null,
+        "value": "Paris Saint Germain",
+        "max_value": null
+      },
+      {
+        "trait_type": "Nationality",
+        "display_type": null,
+        "value": "Argentina",
+        "max_value": null
+      },
+      {
+        "trait_type": "Type",
+        "display_type": null,
+        "value": "Common",
+        "max_value": null
+      },
+      {
+        "trait_type": "Position",
+        "display_type": null,
+        "value": "Forward",
+        "max_value": null
+      }
+    ]
+  }
+}

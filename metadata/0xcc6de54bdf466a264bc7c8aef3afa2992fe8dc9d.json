@@ -1,0 +1,29 @@
+{
+  "address": "0xcc6de54bdf466a264bc7c8aef3afa2992fe8dc9d",
+  "type": "ERC1155",
+  "name": "Wa-Wo NFTs",
+  "tokenCount": "9",
+  "uri": "https://wawo-nft.web.app/metadata/1.json",
+  "metadata": {
+    "description": "Clouds travel through the atmosphere bringing hope of rain. Rain brings hope of new life… Cloudy Clouds are the origin of all that’s alive…",
+    "external_url": "https://wa-wo.com/collections/cloudy-clouds",
+    "animation_url": "https://wawo-nft.web.app/?tokenId=1",
+    "image": "https://wawo-nft.web.app/images/1.jpg",
+    "name": "Cloudy Clouds",
+    "background_color": "#F7EDF4",
+    "attributes": [
+      {
+        "trait_type": "Total",
+        "value": "100"
+      },
+      {
+        "trait_type": "Royalties",
+        "value": "1% Profit"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Edith Dume"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0xf4e0caab3fcf79054a31953aefbc00847fe19a2b",
+  "type": "ERC721",
+  "name": "Nomad Bridge NFT",
+  "tokenCount": "1200",
+  "uri": "ipfs://QmNNDJffthev2M3u7K4o3CuASvEvkvsPX3FsefxhdZLsGS/1.json",
+  "metadata": {
+    "name": "Hacker #1",
+    "description": "NFT collection documenting the hack of Nomad Bridge",
+    "image": "https://opensea.mypinata.cloud/ipfs/QmZAfxW1dp3xH2rwk6LQBR2xfF9BZFpHbMCjTSvkXVb5UD/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Coin",
+        "value": "BTC"
+      },
+      {
+        "trait_type": "Type",
+        "value": "White hat hacker"
+      },
+      {
+        "trait_type": "Jailtime",
+        "value": "No"
+      }
+    ]
+  }
+}

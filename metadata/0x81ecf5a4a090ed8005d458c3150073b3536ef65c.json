@@ -1,0 +1,75 @@
+{
+  "address": "0x81ecf5a4a090ed8005d458c3150073b3536ef65c",
+  "type": "ERC721",
+  "name": "JLT Collectibles",
+  "tokenCount": "3",
+  "uri": "ipfs://QmNqXAZhSi2ijiCtUpBEmjLY7MLCBCNM6XAbA8owPPiYQp",
+  "metadata": {
+    "name": "Cow (JLT Collectible)",
+    "description": "The cow is a symbol of patience, nourishment, female power, beginnings and calmness – and one of many animal representatives and symbols in the JLT universe.\n\nThis JLT COLLECTIBLE can be used as a playable character in Lund’s forthcoming game, IN SEARCH OF IDEAS. It comes with 20 JLTs, which entitle the holder to join the JLT board as a shareholder and participate in decisions around Lund’s artistic practice and life.\n\nThe JONAS LUND TOKEN (JLT) was launched in 2018 and is a distributed, decentralised, autonomous artistic practice. It aims to optimise and streamline decision-making in art production and around strategic decisions relating to Jonas Lund's career path.\n\nVerisart Certified: https://verisart.com/works/c5d47633-3d41-4e1b-8e4e-57cfd4abe50d",
+    "image": "ipfs://QmSktchDA27px6xpR9HyQkSaDUzRYLgH93p3C6GQnij7Nd",
+    "properties": {
+      "verisart": {
+        "productionYear": 2021,
+        "dimensions": {
+          "width": 1920,
+          "height": 1080,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 18
+        },
+        "frameRate": 29.97003,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0x4bcd35b56bca031b239daa074dc99ff9a7d54873",
+            "bps": 800
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "animation_url": "ipfs://QmQonw65zP2W3Nq6cJUQnLL8dF7fqViNe9fmSK1iDGttbn",
+    "external_url": "https://verisart.com/works/c5d47633-3d41-4e1b-8e4e-57cfd4abe50d",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Jonas Lund",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2021",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "Cow (JLT Collectible)",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "1080x1920 px",
+        "display_type": null
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:18",
+        "display_type": null
+      }
+    ]
+  }
+}

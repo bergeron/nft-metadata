@@ -1,0 +1,38 @@
+{
+  "address": "0x6290d9d85734216e8044abc0e34a2c8fff7acaf5",
+  "type": "ERC721",
+  "name": "Zweiter Crypto Stamp Stammtisch",
+  "tokenCount": "100",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=ZMq6FkLRCnYGv702y0qb",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1573137107994?alt=media&token=9bab3be7-af48-4c19-8dd2-d90c2160bb04",
+    "isForSale": false,
+    "description": "Token zum zweiten Crypto Stamp Stammtisch in Wels am 8.11.2019\n/\nToken of the second Crypto Stamp meetup in Wels at 11/8/2019",
+    "contractAddress": "0x6290d9d85734216E8044abC0e34a2C8FFf7acaf5",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x6290d9d85734216E8044abC0e34a2C8FFf7acaf5/ZMq6FkLRCnYGv702y0qb",
+    "minter": "0x1c8c4569f03b26C301B1B249638A9CdeeD46Ad9a",
+    "mintedOn": {
+      "_seconds": 1573137147,
+      "_nanoseconds": 279000000
+    },
+    "price": "0",
+    "name": "Zweiter Crypto Stamp Stammtisch (Wels 8.11.2019)",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Zweiter Crypto Stamp Stammtisch (Wels 8.11.2019)"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

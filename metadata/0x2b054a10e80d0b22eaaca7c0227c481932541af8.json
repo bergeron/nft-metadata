@@ -1,0 +1,49 @@
+{
+  "address": "0x2b054a10e80d0b22eaaca7c0227c481932541af8",
+  "type": "ERC721",
+  "name": "marlo",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/iEUHKE8A_t291rcwXhT_OpYeOOq_5Xw0FoA8lLXuRcw",
+  "metadata": {
+    "name": "feel the rain",
+    "created_by": "marlo",
+    "description": "just feel",
+    "attributes": [
+      {
+        "trait_type": "year",
+        "value": "2022"
+      },
+      {
+        "trait_type": "series",
+        "value": "for the brave"
+      },
+      {
+        "trait_type": "file type",
+        "value": "MP4"
+      }
+    ],
+    "animation_details": {
+      "bytes": 24530345,
+      "format": "MP4",
+      "duration": 7,
+      "sha256": "bd94b164a1d013bbbf9464dd2957c8e768f450834f36f65908ddb430dc61795e",
+      "width": 2300,
+      "height": 2300,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/C60Gk2C31H5deRTgBzDeVIYdOU9dzlYuy0hx1c7B-vE",
+    "animation_url": "https://arweave.net/C60Gk2C31H5deRTgBzDeVIYdOU9dzlYuy0hx1c7B-vE",
+    "image_details": {
+      "bytes": 1772219,
+      "format": "PNG",
+      "sha256": "696088622f9c4ab6d558bd5b091efe2446e8447c1a73872bdff097f45f06b759",
+      "width": 1500,
+      "height": 1500
+    },
+    "image": "https://arweave.net/KpFNC_rf_PzK7HIvXQo_oAXe4oyn3mhyYY9Q9HUZtUQ",
+    "image_url": "https://arweave.net/KpFNC_rf_PzK7HIvXQo_oAXe4oyn3mhyYY9Q9HUZtUQ"
+  }
+}

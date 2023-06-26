@@ -1,0 +1,52 @@
+{
+  "address": "0x17d084106c2f1c716ce39fa015ab022757d30c9a",
+  "type": "ERC721",
+  "name": "Kryptoria - Land",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmdDumXc55DAfMCfdhaghZQgb7cpCTTRyS5vmo3dbzUEnP/1.json",
+  "metadata": {
+    "name": "Kryptoria Land #1",
+    "description": "Kryptoria is a VC backed, immersive map-based blockchain game. Set in our Unity built world, holders will be able to dynamically update all traits on their Alpha Citizen post mint offering not only individual customisation but on-going commercial opportunities.\n  \n  Owners of Kryptoria’s Land will, when combined with an Alpha Citizen, have a daily resource yield.\n\n  Land is your ticket to creating and owning identity within Kryptoria. A pass to our gamified metaverse. The foundation of our next generation.",
+    "image": "ipfs://QmX5KVMQnqyE7jm6wD3EnbE6hZznc8MtmwmCAX1xSHbpm1/1.png",
+    "imageHash": "51ea8733bca4334d622cbab7800d2abb706228f26a16e4498fdd51a6b279ac8f",
+    "dna": "5a9c2020e64d6671544227862c971415f944e41f82c696e202901c0149fb84fc",
+    "edition": 1,
+    "date": 1663242645942,
+    "attributes": [
+      {
+        "trait_type": "RARITY",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Yield",
+        "value": 89,
+        "display_type": "number",
+        "max_value": 100
+      },
+      {
+        "trait_type": "RESOURCE",
+        "value": "BioSynth"
+      },
+      {
+        "trait_type": "DEFENCE",
+        "value": "None"
+      },
+      {
+        "trait_type": "COORDINATES",
+        "value": "0 0 0"
+      },
+      {
+        "trait_type": "Attack - Base",
+        "value": "13",
+        "display_type": "number",
+        "max_value": 13
+      },
+      {
+        "trait_type": "Defence - Base",
+        "value": "13",
+        "display_type": "number",
+        "max_value": 13
+      }
+    ]
+  }
+}

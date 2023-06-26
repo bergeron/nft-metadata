@@ -1,0 +1,31 @@
+{
+  "address": "0xe8f9ba7733e64c2409d5dac4598093f58b946522",
+  "type": "ERC1155",
+  "name": "Joshua Test Contract",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/BU4BCnDOrnW84EqgTh_OtfESJxbhWufW-QWUqKtOChk",
+  "metadata": {
+    "name": "Test",
+    "created_by": "Joshua",
+    "description": "Test1",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Joshua"
+      },
+      {
+        "trait_type": "Date",
+        "value": "2023:02:24 16:38:20"
+      }
+    ],
+    "image_details": {
+      "bytes": 2669949,
+      "format": "JPEG",
+      "sha256": "326a36bcc8df092a1b4591e15b69c9b80b30912dc95e672fc1e8deb450f9c098",
+      "width": 4032,
+      "height": 3024
+    },
+    "image": "https://arweave.net/4XDT1hGSG8qP-24eQ1OwR013CwVk0zBYJeTouuo1xAs",
+    "image_url": "https://arweave.net/4XDT1hGSG8qP-24eQ1OwR013CwVk0zBYJeTouuo1xAs"
+  }
+}

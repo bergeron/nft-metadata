@@ -1,0 +1,23 @@
+{
+  "address": "0xb7202a7ac69696f3f5e659630aee29de02badd4b",
+  "type": "ERC721",
+  "name": "Memory Chip",
+  "tokenCount": "1",
+  "uri": "https://api.gigacity.gg/mc/1",
+  "metadata": {
+    "name": "Memory Chip #1",
+    "description": "Sealed Memory Chip. Once unsealed you will be able to implant the chip into any of your MC-3000 slot. The identity of the punk inside is unknown.",
+    "file_url": "https://giga-city-meta.s3.eu-west-1.amazonaws.com/mc/cover.png",
+    "image": "https://giga-city-meta.s3.eu-west-1.amazonaws.com/mc/cover.png",
+    "attributes": [
+      {
+        "trait_type": "Compatibility",
+        "value": "MC-3000"
+      },
+      {
+        "trait_type": "Punk",
+        "value": "Unknown"
+      }
+    ]
+  }
+}

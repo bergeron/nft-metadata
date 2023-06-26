@@ -1,0 +1,38 @@
+{
+  "address": "0xdad84f8ca95981e6a86e7dfa1389d634e89ff40d",
+  "type": "ERC721",
+  "name": "Peeka NFT",
+  "tokenCount": "2",
+  "uri": "ipfs://QmTWpMHxpHCXyhpsun2CS1A2rKMpwW7eozPBrUA8PCRqCf/1.json",
+  "metadata": {
+    "name": "Peeka NFT #1",
+    "description": "Peeka NFT Description",
+    "image": "ipfs://QmSfJYBKouyxS7GS7LVdi62gxayQLpF4WdcXtnTJwqTxCv/1.png",
+    "dna": "5778761300dd29f8adcc90d05cb69fed1da87a41",
+    "edition": 1,
+    "date": 1654513302532,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Cheeks",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Googly"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Happy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

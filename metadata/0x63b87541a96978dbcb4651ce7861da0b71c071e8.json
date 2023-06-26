@@ -1,0 +1,47 @@
+{
+  "address": "0x63b87541a96978dbcb4651ce7861da0b71c071e8",
+  "type": "ERC721",
+  "name": "Pixel Kitties NFT",
+  "tokenCount": "50",
+  "uri": "https://ipfs.io/ipfs/QmVBS9HrWncVXzwG9eZ2J3NHZEUefw59sY1XMSTQJZoBcC/1.json",
+  "metadata": {
+    "id": 1,
+    "name": "Pixel kitties #1",
+    "image": "https://ipfs.io/ipfs/QmdGddJAqqWTipqhB19rNwfmdgYobmjsYHHeV1GVFcV3FP/1.png",
+    "description": "Collection of musical lofi pixel kitties",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue Superstore"
+      },
+      {
+        "trait_type": "Kitty_base",
+        "value": "Calio"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Open"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Angry Green"
+      },
+      {
+        "trait_type": "Eyebrow",
+        "value": "What"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Bandama"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Yellow Hippy"
+      },
+      {
+        "trait_type": "Instrument",
+        "value": "Tambourine"
+      }
+    ]
+  }
+}

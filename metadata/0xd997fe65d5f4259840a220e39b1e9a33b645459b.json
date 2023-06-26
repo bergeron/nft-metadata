@@ -1,0 +1,37 @@
+{
+  "address": "0xd997fe65d5f4259840a220e39b1e9a33b645459b",
+  "type": "ERC1155",
+  "name": "DAPPCRAFT Vouchers",
+  "tokenCount": "29",
+  "uri": "https://dcl-dapp-craft.storage.googleapis.com/collection1/metadata/1.json",
+  "metadata": {
+    "name": "Fomo Engineer Goggles Voucher",
+    "description": "This voucher has been redeemed, a snapshot was taken on 27/06/2022 and new wearables were distributed on the Polygon network.",
+    "image": "https://dcl-dapp-craft.storage.googleapis.com/collection1/1.png",
+    "background_color": "3d85e6",
+    "external_url": "https://market.decentraland.org/collections/0xd5e4048836b6146cd34d46f0092393b8d47ad518",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Maximum mintage",
+        "value": 1000,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Fomo Engineer"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Goggles"
+      },
+      {
+        "trait_type": "Redeemed",
+        "value": "Yes"
+      }
+    ]
+  }
+}

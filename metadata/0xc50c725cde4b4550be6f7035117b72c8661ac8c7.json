@@ -1,0 +1,63 @@
+{
+  "address": "0xc50c725cde4b4550be6f7035117b72c8661ac8c7",
+  "type": "ERC721",
+  "name": "Holograph V2",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/4LQRhHtzw4uDXQUNfUTlV1y98I-KfX0kZyARO8zXMD0",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1650948979
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Holograph"
+      }
+    ],
+    "description": "NFTs without boundaries",
+    "external_url": "https://cxip.io/nft/0xc50c725cde4b4550be6f7035117b72c8661ac8c7/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/iSVN9amgXxheafwxM_BXvK2yYpJ-ckOabgpvtXcRyWY",
+    "imageUrl": "https://arweave.net/iSVN9amgXxheafwxM_BXvK2yYpJ-ckOabgpvtXcRyWY",
+    "name": "Logo",
+    "properties": {
+      "created_at": "2022-04-26T04:56:19.0000000Z",
+      "creator_wallet": "0x048512d309b9d43a121ce5692dd9bf9a8c643260",
+      "description": "NFTs without boundaries",
+      "image": "https://arweave.net/iSVN9amgXxheafwxM_BXvK2yYpJ-ckOabgpvtXcRyWY",
+      "imageUrl": "https://arweave.net/iSVN9amgXxheafwxM_BXvK2yYpJ-ckOabgpvtXcRyWY",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "26 April 2022",
+      "name": "Logo",
+      "nft_type": "non-fungible image token (image/jpeg)",
+      "preview_media_file": "https://arweave.net/CXRCZuLUVb5CTn1snqOicX3pkbuxcjYxIjankNv1UEA",
+      "preview_media_file_dimensions": "360x360",
+      "preview_media_file_size": 9333,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "1000x1000",
+      "raw_media_file": "https://arweave.net/vz_pOyLhAzNYq6g0_Z79X_yY7TW8GSn2957kz885NPQ",
+      "raw_media_file_size": 50587,
+      "raw_media_file_spec": "JPEG 1000x1000 1000x1000+0+0 8-bit sRGB 50587B 0.000u 0:00.000",
+      "raw_media_file_type": "image/jpeg",
+      "raw_media_format": "square",
+      "raw_media_signature": "0xb42697f9ba913cc53243986fbc3ccbdd048f6c2bd5afcba2117aa301ee477653",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/CXRCZuLUVb5CTn1snqOicX3pkbuxcjYxIjankNv1UEA",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Logo",
+      "total_supply": 1
+    },
+    "title": "Logo"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "address": "0xba30ae2890cf2fe4639846eba30502f32a4af4cb",
+  "type": "ERC721",
+  "name": "Neon City PSX",
+  "tokenCount": "168",
+  "uri": "ipfs://bafybeicpb3croteghfgjzhoe2opvlkt6txihczggmpn6bgqciouelhmkmm/1.json",
+  "metadata": {
+    "name": "Neon City #1",
+    "image": "ipfs://bafybeihr5le3j7hgvy7rfqomashu3cxjuwu5cwku7akvqgrvof7ibozqay/1.png",
+    "description": "Neon City - Citizens Rendered in 3D Low Poly Form",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Glasses",
+        "value": "Circle"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Circle"
+      },
+      {
+        "trait_type": "Face",
+        "value": "L1 X"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "L1 Down"
+      },
+      {
+        "trait_type": "Lower Clothing",
+        "value": "Down"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Hard"
+      },
+      {
+        "trait_type": "Bag",
+        "value": "Right"
+      }
+    ],
+    "compiler": "NeonCityPSX"
+  }
+}

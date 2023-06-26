@@ -1,0 +1,61 @@
+{
+  "address": "0xb32a26f42f2e5b5382da5b7db7e59ce776729680",
+  "type": "ERC721",
+  "name": "Cryptonian_Punks",
+  "tokenCount": "37",
+  "uri": "ipfs://QmSXFqnhsBk3MxCLUq6Q25yQqe9sajwooBA4N3YmzLWstu/1.json",
+  "metadata": {
+    "name": "CryptonianPunks #1",
+    "description": "World of Cryptonian Punks inspired by Larva Labs enjoying the peaceful surroundings. But!!! Can they?",
+    "external_url": "ipfs://QmPXLz1YRHrkd4ueYDwVzEYe4gd9Jkq1UCy8VSPnBRnPV5/1.gif",
+    "image": "ipfs://QmPXLz1YRHrkd4ueYDwVzEYe4gd9Jkq1UCy8VSPnBRnPV5/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light"
+      },
+      {
+        "trait_type": "Female",
+        "value": "Female-Light"
+      },
+      {
+        "trait_type": "Blemishes",
+        "value": "None"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "None"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "None"
+      },
+      {
+        "trait_type": "HAir",
+        "value": "Orange Side"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green Lipstick"
+      },
+      {
+        "trait_type": "MouthProp",
+        "value": "Mask"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Silver Glasses"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

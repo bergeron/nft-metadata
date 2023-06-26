@@ -1,0 +1,66 @@
+{
+  "address": "0xebfff332ee65510506529b43b6e70e61a60233b6",
+  "type": "ERC721",
+  "name": "Art SNFT Season 3",
+  "tokenCount": "32",
+  "uri": "https://paragonart.org/ares/trio/1",
+  "metadata": {
+    "name": "Mise en scène de la Célestine III",
+    "description": "",
+    "preview": "https://paragonart.org/ares/trio/1/preview.png",
+    "image": "https://paragonart.org/ares/trio/1/qr.png",
+    "external_link": "https://snft.ae/?/3:1",
+    "external_url": "https://snft.ae/?/3:1",
+    "properties": {
+      "art": {
+        "artist": "Pablo Picasso",
+        "artist_birthyear": 1881,
+        "title": "Mise en scène de la Célestine III",
+        "year": 1968,
+        "type": "Print-Multiple",
+        "location": "France",
+        "region": "West-Europe",
+        "description": "",
+        "edition": {
+          "exists": true,
+          "special": false,
+          "title": "",
+          "index": 16,
+          "total": 50,
+          "stamped": true,
+          "stamped_text": "III 14.05.68"
+        },
+        "signature": {
+          "handsigned": true,
+          "position": "right/bottom",
+          "side": "front",
+          "text": "Picasso"
+        }
+      },
+      "material": {
+        "width": 52,
+        "height": 45,
+        "depth": 1,
+        "weight": 0,
+        "type": [
+          "Paper"
+        ],
+        "description": "Etching on laid paper\nHand-signed in pencil by the artist"
+      },
+      "history": {
+        "exhibition": [],
+        "auction": [],
+        "owner": []
+      },
+      "storage": {
+        "type": "freeport",
+        "title": "ZentralDepot Meiningen",
+        "web": "https://www.zentraldepot.de"
+      },
+      "notes": {
+        "price": 15000,
+        "storage": "0.01"
+      }
+    }
+  }
+}

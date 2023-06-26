@@ -1,0 +1,69 @@
+{
+  "address": "0x73d7dd5832726fd24af1c18f2002852bd677fa5f",
+  "type": "ERC721",
+  "name": "Bunny Baby Bundles",
+  "tokenCount": "2",
+  "uri": "https://bunnies.crocpot.io/factory/1",
+  "metadata": {
+    "external_url": "https://bunnies.baby",
+    "image": "https://bunnies.crocpot.io/factory/1.svg",
+    "description": "Mint several of your own completely unique, procedurally generated Bunny Babies. You will save gas and receive at least 4 bunnies, but maybe more! Each bunny will increase your chances of finding the magic carrot. The Baby Bunnies embark on a trip of a lifetime to the utopian desert festival for hares, Bunny Man. Each Baby Bunny is unique in its abilities, traits, and powers. As they journey, they will face trial and tribulation in search of the magic carrot, key to reaching their final destination.",
+    "name": "Mint a Bundle of Bunny Babies",
+    "attributes": [
+      {
+        "trait_type": "Name",
+        "value": "~to be generated~"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "~to be selected~"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "~to be generated~"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "~to be generated~"
+      },
+      {
+        "trait_type": "Whiskers",
+        "value": "~to be generated~"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "~to be generated~"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Stamina",
+        "value": 58
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Spirit",
+        "value": 60
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Cuteness",
+        "value": 90
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Berries",
+        "value": 13
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Carrot Search Power",
+        "value": 295
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Mystery",
+        "value": 1075
+      }
+    ]
+  }
+}

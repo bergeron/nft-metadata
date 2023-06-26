@@ -1,0 +1,37 @@
+{
+  "address": "0x807f36d44f0d376f72620c0ff476a15642c6e353",
+  "type": "ERC721",
+  "name": "Kopenicker Dance Club",
+  "tokenCount": "13",
+  "uri": "https://kopenickerdance.club/data/1",
+  "metadata": {
+    "name": "Köpenicker Dance Club",
+    "description": "909 Generative Techno Beats",
+    "background_color": "B934D7",
+    "image": "https://ipfs.io/ipfs/QmPciAe38DLvZtpfHTreTDD5KCBgTtVsxTZHzesG1wqbLT/1.png",
+    "image_full": "https://ipfs.io/ipfs/QmTE76mfGJq9PGsuzf1bLBTohoehxoisCMYqEoapsnvkVB/1.png",
+    "animation_url": "https://kopenickerdance.club/beats/embed/1",
+    "external_url": "https://kopenickerdance.club/beats/1",
+    "beat": "{\"bpm\":129,\"sounds\":{\"kick1\":{\"sample\":28,\"pattern\":2},\"hats1\":{\"sample\":4,\"pattern\":1,\"effects\":[\"autoWah1\",\"pitchShift1\"]},\"snare\":{\"sample\":22,\"pattern\":5,\"effects\":[\"bitCrusher1\",\"autoWah1\"]},\"perc\":{\"sample\":16,\"pattern\":4,\"effects\":[\"phaser1\",\"autoWah1\"]},\"synth1\":{\"sample\":24,\"pattern\":25,\"effects\":[\"autoWah1\",\"autoPanner3\",\"distortion2\"],\"sequenceInterval\":\"8n\"},\"synth2\":{\"sample\":16,\"pattern\":5,\"sequenceInterval\":\"4n\"}}}",
+    "color": "B934D7",
+    "beatNumber": "001",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Vortex"
+      },
+      {
+        "trait_type": "Base",
+        "value": "XTC Drip"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Wide Open"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Circle Shades"
+      }
+    ]
+  }
+}

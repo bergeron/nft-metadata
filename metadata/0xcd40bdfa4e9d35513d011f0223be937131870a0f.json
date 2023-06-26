@@ -1,0 +1,42 @@
+{
+  "address": "0xcd40bdfa4e9d35513d011f0223be937131870a0f",
+  "type": "ERC1155",
+  "name": "El Cholo Pepe",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/kJIg1LW10bt0UpDjfcLlWRRuWDIdV03BFJhm2KqfuSA",
+  "metadata": {
+    "name": "CHECKMATE",
+    "created_by": "El Cholo Pepe",
+    "external_url": "https://twitter.com/ElCholoPepe",
+    "description": "Open your eyes and check it out.",
+    "attributes": [
+      {
+        "display_type": "boost_number",
+        "trait_type": "Pepe",
+        "value": 100,
+        "max_value": 100
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Memetics",
+        "value": 100,
+        "max_value": 100
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Animation",
+        "value": 100,
+        "max_value": 100
+      }
+    ],
+    "image_details": {
+      "bytes": 54410918,
+      "format": "GIF",
+      "sha256": "4ce606ff1dbf289b7a0aad8db4b9ebbb075fdeaa640846d80eec49a52c2acefe",
+      "width": 800,
+      "height": 1120
+    },
+    "image": "https://arweave.net/Lj4a9lx4ig61hYXtlUAm16Isiyq186h0gc8hyQ3bDXA",
+    "image_url": "https://arweave.net/Lj4a9lx4ig61hYXtlUAm16Isiyq186h0gc8hyQ3bDXA"
+  }
+}

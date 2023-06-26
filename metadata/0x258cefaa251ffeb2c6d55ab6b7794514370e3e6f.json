@@ -1,0 +1,48 @@
+{
+  "address": "0x258cefaa251ffeb2c6d55ab6b7794514370e3e6f",
+  "type": "ERC721",
+  "name": "Good Morning News - The Weekly Wei",
+  "tokenCount": "13",
+  "uri": "ipfs://QmNcCCDCuCv7HX11XcVmrwyutFNRiyGB98c3sUCyLdaDwq/weeklyWei.json",
+  "metadata": {
+    "name": "Good Morning News - Weekly Wei",
+    "description": "Weekly edition of Good Morning News",
+    "image": "ipfs://QmcpR4YJ3zxrHN6NjTSGV1ArKQjz1FxyVgAeXjoQxdxAsc/weeklyWeiThumb.png",
+    "animation_url": "https://weekly-interactive.vercel.app/",
+    "background_color": "#000000",
+    "attributes": [
+      {
+        "trait_type": "Publisher",
+        "value": "Pub"
+      },
+      {
+        "trait_type": "Graphic Design",
+        "value": "Pub"
+      },
+      {
+        "trait_type": "Editor in Chief",
+        "value": "Hirokennely"
+      },
+      {
+        "trait_type": "Copy Editor",
+        "value": "Trewkat"
+      },
+      {
+        "trait_type": "Editorial By:",
+        "value": "Abi"
+      },
+      {
+        "trait_type": "Assignment Editor",
+        "value": "Abi"
+      },
+      {
+        "trait_type": "Director of Public Relations",
+        "value": "Yofi"
+      },
+      {
+        "trait_type": "Chief Engineer",
+        "value": "CdoubleOK"
+      }
+    ]
+  }
+}

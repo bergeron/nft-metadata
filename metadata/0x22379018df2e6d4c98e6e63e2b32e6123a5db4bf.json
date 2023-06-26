@@ -1,0 +1,42 @@
+{
+  "address": "0x22379018df2e6d4c98e6e63e2b32e6123a5db4bf",
+  "type": "ERC721",
+  "name": "Grimmies",
+  "tokenCount": "3",
+  "uri": "ipfs://QmPaLhzY1LQAgbtGi2oCP1cvYkQihUQqipadeCs6HYXv1s/1.json",
+  "metadata": {
+    "dna": "777cc90d3d3e15267144c22d3a49e0134d9c3482",
+    "name": "#1",
+    "description": "Grimmies! A collection of grim reaper avatars",
+    "image": "ipfs://QmXwYHd6N6M5eta5cpD7wwRtLNtmPs5otG2vqa38pxCqGW/1.png",
+    "edition": 1,
+    "date": 1633363003851,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "red"
+      },
+      {
+        "trait_type": "cloak",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "main",
+        "value": "main"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blueeye"
+      },
+      {
+        "trait_type": "face",
+        "value": "scar"
+      },
+      {
+        "trait_type": "shade",
+        "value": "shade"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

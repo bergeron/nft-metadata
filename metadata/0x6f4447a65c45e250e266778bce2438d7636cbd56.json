@@ -1,0 +1,28 @@
+{
+  "address": "0x6f4447a65c45e250e266778bce2438d7636cbd56",
+  "type": "ERC721",
+  "name": "Shiboshis Club X Bugatti Group",
+  "tokenCount": "299",
+  "uri": "https://bugatti-shiboshis-nft.s3.amazonaws.com/metadata/jsons/1.json",
+  "metadata": {
+    "id": 1,
+    "name": "Shiboshis Club X Bugatti Group #1",
+    "image": "https://bugatti-shiboshis-nft.s3.amazonaws.com/metadata/images/CROSSBODY/LANDSCAPE-GREY.png",
+    "external_url": "https://bugatticollectionsnft.com",
+    "description": "This NFT brought to you by the Bugatti Group & The Shiboshis Club can be redeemed for a custom crossbody or carry-on of your Shiboshi, depending on the image.",
+    "attributes": [
+      {
+        "trait_type": "BAG",
+        "value": "CROSSBODY"
+      },
+      {
+        "trait_type": "BACKGROUND",
+        "value": "LANDSCAPE-GREY"
+      },
+      {
+        "trait_type": "REDEEMED",
+        "value": "FALSE"
+      }
+    ]
+  }
+}

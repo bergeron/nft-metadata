@@ -1,0 +1,31 @@
+{
+  "address": "0x7c4c995d7b652b6cd204090e2d65e424a6229dd9",
+  "type": "ERC721",
+  "name": "RichCity Condos",
+  "tokenCount": "194",
+  "uri": "ipfs://QmdepY2vEqpv4Bpp39D7DDKAedMrgVnr31BsEzQRCJJEzd/1",
+  "metadata": {
+    "description": "RichCity Apartments",
+    "external_url": "playrichcity.com",
+    "image": "ipfs://QmZ7AV6aNpt4EU1rVD2j36BNgi3rDDyAz2Hmwo5NDp9UG8/Penthouse.png",
+    "name": "Penthouse Apartment 1",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Penthouse"
+      },
+      {
+        "trait_type": "City",
+        "value": "Toronto"
+      },
+      {
+        "trait_type": "Building Name",
+        "value": "The Musk"
+      },
+      {
+        "trait_type": "Floor Number",
+        "value": 1
+      }
+    ]
+  }
+}

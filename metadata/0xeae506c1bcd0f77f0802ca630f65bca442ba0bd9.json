@@ -1,0 +1,37 @@
+{
+  "address": "0xeae506c1bcd0f77f0802ca630f65bca442ba0bd9",
+  "type": "ERC721",
+  "name": "Bitcoin Bandits",
+  "tokenCount": "1200",
+  "uri": "ipfs://QmfGQPqSnamC4o9QZnxqg2F7FAcFXh5e6PFjatcN5CQu7x/1.json",
+  "metadata": {
+    "name": "Bitcoin Bandit #1",
+    "description": "The Ethereum counter part to the Bitcoin Bandits inscribed Ordinals collection. ",
+    "image": "ipfs://QmchXhMrTxdohZzU4RLCP2BKbMamsGvLRvj9WiTMkHTNsN/1.png",
+    "edition": 1,
+    "date": 1678159932992,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Dark Blue"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Full Suit"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Full Mask"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Blue Bitcoin"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

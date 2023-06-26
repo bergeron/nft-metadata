@@ -1,0 +1,46 @@
+{
+  "address": "0x8ee302988cbbddbb0d766785deab0bb38935db37",
+  "type": "ERC721",
+  "name": "NPCitizens",
+  "tokenCount": "5555",
+  "uri": "ipfs://Qmf496DwvLvEr1HHVxBEa5PfaX8F9sz2rh83Sy48ijTytw/1.json",
+  "metadata": {
+    "name": "NPC #1",
+    "description": "",
+    "image": "ipfs://QmYBEJ2EdmrcUfNGp3BrfsPmQSh2sCZGtkaYcuSfudxPsA/1.png",
+    "imageHash": "b11cf114171cadd8aa54564cc0501fd99fc7d10fa6544a2ddb59d6f4be7e5dbe",
+    "edition": 1,
+    "date": 1681530008562,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Shaggy Blonde"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Blue Floral"
+      },
+      {
+        "trait_type": "Necklace",
+        "value": "Gold Chain"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "Gray Jeans"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Red Loafers"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  }
+}

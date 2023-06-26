@@ -1,0 +1,38 @@
+{
+  "address": "0xa1bb5545f9a9140d5e1c3c9c40e82d4582aa1e05",
+  "type": "ERC721",
+  "name": "Shortcuts Voxel Art",
+  "tokenCount": "20",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=7ZQwtH61P2ZCIVuRcAzv",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1572797073486?alt=media&token=dd3c7ff8-a4e1-488f-a450-dca09416e431",
+    "isForSale": true,
+    "description": "A 32x32x32 voxel version of a famous painting, which is embedded in the rendered gif using steganography. The VOX can be imported into Cryptovoxels, hence it has been horizontally flipped to cope with Cryptovoxels mirror bug.\n\nTo extract, copy the GIF and rename it to ZIP. Then use WinRAR or Terminal to decompress the ZIP and get the original VOX file. ",
+    "contractAddress": "0xa1bb5545f9A9140D5e1C3C9c40e82D4582Aa1e05",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xa1bb5545f9A9140D5e1C3C9c40e82D4582Aa1e05/7ZQwtH61P2ZCIVuRcAzv",
+    "minter": "0xe13d4abEe4B304b67C52A56871141caD1B833aa7",
+    "mintedOn": {
+      "_seconds": 1572797665,
+      "_nanoseconds": 312000000
+    },
+    "price": "0.15",
+    "name": "Voxel Lisa",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Voxel Lisa"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

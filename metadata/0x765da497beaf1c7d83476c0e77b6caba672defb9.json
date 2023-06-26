@@ -1,0 +1,35 @@
+{
+  "address": "0x765da497beaf1c7d83476c0e77b6caba672defb9",
+  "type": "ERC721",
+  "name": "Darkflex",
+  "tokenCount": "6666",
+  "uri": "https://darkflex.xyz/metadata/1",
+  "metadata": {
+    "name": "darkflex #1",
+    "description": "proof of existence",
+    "image": "ipfs://bafybeibwouagvzrp32hvi4x4gabva6toi4f2qqe6doiejoc3anut2yf6au/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Clothes",
+        "value": "Seer"
+      },
+      {
+        "trait_type": "Wound",
+        "value": "Lucky"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Compass"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Clean"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fabric Hat"
+      }
+    ]
+  }
+}

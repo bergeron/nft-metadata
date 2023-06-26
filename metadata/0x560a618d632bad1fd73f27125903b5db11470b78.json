@@ -1,0 +1,55 @@
+{
+  "address": "0x560a618d632bad1fd73f27125903b5db11470b78",
+  "type": "ERC721",
+  "name": "Power Plants NFT",
+  "tokenCount": "77",
+  "uri": "https://powerplantsnft.s3.amazonaws.com/1.json",
+  "metadata": {
+    "edition": 1155,
+    "description": "",
+    "image": "https://powerplantsnft.s3.amazonaws.com/1155.png",
+    "name": "Power Plant #1155",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Plate",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Soil",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Pot",
+        "value": "Ziz-zag"
+      },
+      {
+        "trait_type": "Puddle",
+        "value": "None"
+      },
+      {
+        "trait_type": "Healthy Flower",
+        "value": "Yellow Hibiscus"
+      },
+      {
+        "trait_type": "Healthy Leaf 1",
+        "value": "Yellow Hibiscus"
+      },
+      {
+        "trait_type": "Healthy Leaf 2",
+        "value": "None"
+      },
+      {
+        "trait_type": "Healthy Leaf 3",
+        "value": "None"
+      },
+      {
+        "trait_type": "Healthy Leaf 4",
+        "value": "None"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "address": "0xd61d50521ce75b520b3764ef32c59e769a9fe02f",
+  "type": "ERC721",
+  "name": "Post Reality Memories by Nicola Villa",
+  "tokenCount": "2",
+  "uri": "ipfs://QmeRVhyMHzFjmtn8u2LyVpFGfthBDKKvNEtYQ4R28zZLAJ",
+  "metadata": {
+    "name": "Post-Reality Memories 1",
+    "description": "POST-REALITY MEMORIES by Nicola Villa explores the relationship between our historical visual memory and the artificial imagery generated today through the use of AI.\n\nThe artworks were generated through an image-to-image blending and re-elaboration workflow using Stable Diffusion and Midjourney. Starting from analog works of his own archive, Villa uses AI to elaborate, deform, recompose and blend the images and styles of the original input without textual prompt except for basic commands. The outputs are then post-produced and re-combined with non-digital native layers and finally integrated into MP4s.\n\nThe works evoke a sense of real memory, but with a dystopian quality of shapes, spaces, and sensations that are almost dreamlike. The process of emulating and reconstructing the original works through AI generates a new type of memory that blurs the line between what is real and what is artificial. The GIF format adds a dynamic element to the works, further emphasizing the fluidity and instability of memory.\n\nVilla's series explores the role of technology in shaping our experiences, encouraging the viewer to question their own memories and how they are shaped by the technology and media that surrounds us.\n\nPOST-REALITY MEMORIES, the series of four works by Nicola Villa, is part of the exhibition RECOLLECTION. AI AND MEMORY presented by EXPANDED.ART in collaboration with The NFT Gallery at their galleries in New York and London, 11 April – 13 May 2023.\n\n19 artists explore the idea of further challenging the concreteness of human memory—personal or collective—through creative collaboration with AI. \n\nMemories are nebulous. Scientific studies and phenomena such as \"The Mandela Effect\" have shown that humans rarely recall things in their unbiased exactitude. Artificial Intelligence already assists human memory in the form of predictive text and GPS navigation. One would surmise that there exists a role for AI when it comes to supplementing even more complex memory.\n\nVerisart Certified: https://verisart.com/works/611ad4a4-cb45-4ce0-9ed0-b69a40edd8e2",
+    "image": "ipfs://QmSrJhJcAFu7ChZUrZe623yEqYhWoeHb2tDgeovx1jUQPL",
+    "properties": {
+      "verisart": {
+        "productionYear": 2023,
+        "dimensions": {
+          "width": 1280,
+          "height": 1920,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 56
+        },
+        "frameRate": 30,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0x8872ab96267bba7d5f18aaff70ff2e3d7fbc496e",
+            "bps": 1000
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "animation_url": "ipfs://QmaFxdwubuyoibCaGknTpsziQZ9BFE1aCBQ9YTTKAdqEmL",
+    "external_url": "https://verisart.com/works/611ad4a4-cb45-4ce0-9ed0-b69a40edd8e2",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Nicola Villa",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2023",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "Post-Reality Memories 1",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "1920x1280 px",
+        "display_type": null
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:56",
+        "display_type": null
+      }
+    ]
+  }
+}

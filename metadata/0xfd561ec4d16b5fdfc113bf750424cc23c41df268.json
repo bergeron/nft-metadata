@@ -1,0 +1,28 @@
+{
+  "address": "0xfd561ec4d16b5fdfc113bf750424cc23c41df268",
+  "type": "ERC721",
+  "name": "Lil Bears Collection",
+  "tokenCount": "2222",
+  "uri": "ipfs://QmUon1Cw3v6pqBp9QiirjC5konLhjLA8kbJH7tDssHGHMj/1.json",
+  "metadata": {
+    "name": "LilBears#1",
+    "description": "A collection of 2,222 friendly little bears roaming the Ethereum blockchain. We’re building a platform where entrepreneurs in the NFT space can network, collaborate and gain exclusive access to projects and events.",
+    "external_url": "https://lilbearsnft.com/",
+    "image": "ipfs://QmbJxkNsE66BXEf9xL2SgUAvNDYrRmtCeZmpbeJkgaPAHo/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hearts"
+      },
+      {
+        "trait_type": "Bodywear",
+        "value": "Purple Onesie"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Verified"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

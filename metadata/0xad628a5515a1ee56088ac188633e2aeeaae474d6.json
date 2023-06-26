@@ -1,0 +1,81 @@
+{
+  "address": "0xad628a5515a1ee56088ac188633e2aeeaae474d6",
+  "type": "ERC721",
+  "name": "Raini: The Lords Of Light - Card Packs",
+  "tokenCount": "12492",
+  "uri": "https://nft.raini.io/api/packs.php?pid=1&tid=1",
+  "metadata": {
+    "description": "This pack for Raini: The Lords of Light has been cold opened. It contains: Cyclops (Uncommon) — Harpy Huntress (Common) — Penguin Mage (Common) — Helldozer Orc (Common) — Cerberus (Common)",
+    "image": "https://nft.raini.io/wp-content/uploads/2021/09/poster-core.jpg",
+    "animation_url": "https://nft.raini.io/wp-content/uploads/2021/09/loop-green.mp4",
+    "name": "[OPENED] Core Pack",
+    "is_locked": false,
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Core"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Single"
+      }
+    ],
+    "is_opened": "1",
+    "contents": [
+      {
+        "id": 22,
+        "rarity": 3,
+        "name": "Cyclops",
+        "colour": "Yellow"
+      },
+      {
+        "id": 48,
+        "rarity": 4,
+        "name": "Harpy",
+        "colour": "Pink"
+      },
+      {
+        "id": 38,
+        "rarity": 4,
+        "name": "Penguin",
+        "colour": "Blue"
+      },
+      {
+        "id": 35,
+        "rarity": 4,
+        "name": "Orc",
+        "colour": "Red"
+      },
+      {
+        "id": 37,
+        "rarity": 4,
+        "name": "Cerberus",
+        "colour": "Pink"
+      }
+    ],
+    "card_amounts": [
+      {
+        "id": "22",
+        "amount": 1
+      },
+      {
+        "id": "35",
+        "amount": 1
+      },
+      {
+        "id": "37",
+        "amount": 1
+      },
+      {
+        "id": "38",
+        "amount": 1
+      },
+      {
+        "id": "48",
+        "amount": 1
+      }
+    ],
+    "salt": "51444572752127600905629650493813725303545918334258927477501312321257229073692",
+    "signature": "0x369b03c4a25971fb0caa1838fdcd33c2277abfb8698db3e2c2f30f5149bcac39411eb5d64d6316d8bfeb578caa43e5b535dc2eb15c791545adaba3abb243f0661b"
+  }
+}

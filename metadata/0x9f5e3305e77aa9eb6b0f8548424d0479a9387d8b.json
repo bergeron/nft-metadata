@@ -1,0 +1,12 @@
+{
+  "address": "0x9f5e3305e77aa9eb6b0f8548424d0479a9387d8b",
+  "type": "ERC721",
+  "name": "code poems v1.0",
+  "tokenCount": "2",
+  "uri": "ipfs://QmWnKQcxSmQwSs9DyjhdoA6NgosG4r6pSG7ewmXaKqkECF/metadata.json",
+  "metadata": {
+    "name": "ThisIsAMoment.sol",
+    "description": "genesis 01\npragma solidity >=0.7.0 <0.9.0;\n/**\n * @title ThisIsAMoment\n * @dev Store & retrieve value of this moment in memory\n * @author n\n */\ncontract ThisIsAMoment {\n    // Are you there?\n    string whoAreYou;\n    string whoAmI = \"Reaching out to you in time\";\n    uint256 MAX_INT = type(uint).max;\n\n    function experienceIt() public returns (string[] memory thinking){\n        string memory buildAHeart = \"the world && the little smiles\";\n        string memory stepInMySocks = \"the reflection in the ice cube, crispy cucumber\";\n        string memory yesOrNo = \"parallel lines in a perpendicular world?\";\n        thinking[0] = buildAHeart;\n        thinking[1] = stepInMySocks;\n        thinking[2] = yesOrNo;\n        return thinking;\n    }\n\n    /**\n     * @dev Store value in the body\n     * @param str whoAreYou\n     */\n    function store(string memory str) public {\n        experienceIt();\n        whoAreYou = str;\n    }\n\n    function retrieve() public view returns (string memory){\n        retu",
+    "image": "ipfs://QmboF6awWbwynFFe6FAfbzrCCJD9Kdcu78TcdfHpyaWv7J/nft.gif"
+  }
+}

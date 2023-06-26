@@ -1,0 +1,38 @@
+{
+  "address": "0xf842fd2dadeef6ddd37e3284e267e82997ce6012",
+  "type": "ERC721",
+  "name": "Ball Circles - old",
+  "tokenCount": "3",
+  "uri": "ipfs://QmZaDkSx56YfWKKFof3kBWgrsRbwC4JVaE5DePkRemR2kc/1.json",
+  "metadata": {
+    "name": "BallCircles #1",
+    "description": "Test Collection",
+    "image": "ipfs://QmTo8oR3Stro5fdEeQSrKmMuBYhEXTQDTsNMPkaZ9BEwZo/1.png",
+    "dna": "ebf5204034b2e12c24440bd42f25b06e1e5f0e87",
+    "edition": 1,
+    "date": 1647429378558,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GreyGradient"
+      },
+      {
+        "trait_type": "Main Circle",
+        "value": "OrangeMC"
+      },
+      {
+        "trait_type": "Button Ball",
+        "value": "ButtonBall"
+      },
+      {
+        "trait_type": "Bottom Shadow",
+        "value": "BottomShadow"
+      },
+      {
+        "trait_type": "Edge Circles",
+        "value": "GreenGroup"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

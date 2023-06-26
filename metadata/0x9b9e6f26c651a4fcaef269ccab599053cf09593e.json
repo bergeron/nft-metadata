@@ -1,0 +1,40 @@
+{
+  "address": "0x9b9e6f26c651a4fcaef269ccab599053cf09593e",
+  "type": "ERC721",
+  "name": "Coinpunks",
+  "tokenCount": "22",
+  "uri": "https://gateway.ipfs.io/ipfs/QmWcaxZJu4GTCm2rXvGzjpWu6E36Uj4361suTr2cwfvXjB/0000/C0001.json",
+  "metadata": {
+    "name": "C0001 Gold",
+    "description": "C0001 - Rare gold coinpunk. Mint State condition (Sheldon Scale MS68).\r\nCertificate contains IPFS hash and link to the .vox model (size: 32x6x32 voxels).",
+    "image": "https://gateway.ipfs.io/ipfs/QmPW1dTs8ECc7Q6R4hUinSEmk5qdrFgNCKjn5P94bXiJcr/C0001.png",
+    "vox": "https://gateway.ipfs.io/ipfs/QmVEfKLpxMmurTK3dcyDB8Y7eQ6ztfW1wRpeKxzvPBBqFa/C0001.vox",
+    "external_url": "http://coinpunks.eth.link/?preview&id=C0001",
+    "attributes": [
+      {
+        "trait_type": "Type Score",
+        "value": 8
+      },
+      {
+        "trait_type": "Rarity Score",
+        "value": 5
+      },
+      {
+        "trait_type": "Grade Score",
+        "value": 68
+      },
+      {
+        "trait_type": "Type",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "R5"
+      },
+      {
+        "trait_type": "Grade",
+        "value": "MS68"
+      }
+    ]
+  }
+}

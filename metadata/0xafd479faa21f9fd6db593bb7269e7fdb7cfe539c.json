@@ -1,0 +1,36 @@
+{
+  "address": "0xafd479faa21f9fd6db593bb7269e7fdb7cfe539c",
+  "type": "ERC721",
+  "name": "Moonguins",
+  "tokenCount": "2",
+  "uri": "ipfs://QmNkr8oAXTFEVtauuEcjFKSMGEJLZrx7Y19Twt6DPu4aTG/1",
+  "metadata": {
+    "name": "Moonguins #1",
+    "description": "The Moonguins house is being destroyed by Global Warming, now we need to get them to the Moon.",
+    "image": "ipfs://QmUxEjL8ZgoMPm7BAGC9KLL2zsRwaJMeLxJ6MCLnossdC2/1.jpeg",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Snow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Open Green"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Hero's Cap"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "Empty"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

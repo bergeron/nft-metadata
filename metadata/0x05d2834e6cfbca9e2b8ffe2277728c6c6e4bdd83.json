@@ -1,0 +1,28 @@
+{
+  "address": "0x05d2834e6cfbca9e2b8ffe2277728c6c6e4bdd83",
+  "type": "ERC721",
+  "name": "Weeebo V2",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=69lgMkAKALlCFB6dneYC",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1580408438248?alt=media&token=ddd96aae-2446-4be2-9df8-badf385ac15a",
+    "forSale": true,
+    "contractAddress": "0x05d2834e6cfbca9e2b8ffe2277728c6c6e4bdd83",
+    "description": "Casual Raihan from Pokemon sword and shield.",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1580408523,
+      "_nanoseconds": 155000000
+    },
+    "price": "0.1",
+    "name": "Raihan",
+    "fiatPrice": "$18.22",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x05d2834e6cfbca9e2b8ffe2277728c6c6e4bdd83",
+    "type": "ERC721"
+  }
+}

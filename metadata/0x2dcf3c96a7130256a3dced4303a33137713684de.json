@@ -1,0 +1,41 @@
+{
+  "address": "0x2dcf3c96a7130256a3dced4303a33137713684de",
+  "type": "ERC1155",
+  "name": "gfree editions",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/q4K7UPOH3mPgfEMNfyIwkc1nuIkP_VixwHqepJehjyc",
+  "metadata": {
+    "name": "vice land (test token)",
+    "created_by": "gfree",
+    "description": "a slice of my live set.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "gfree"
+      }
+    ],
+    "animation_details": {
+      "bytes": 21932366,
+      "format": "MP4",
+      "duration": 80,
+      "sha256": "7810e3badd87ca6ab4d9a96f84be4c20444b355dc34196fc12ed59c83ec881be",
+      "width": 600,
+      "height": 600,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/aVBNUd1yQiDZDMNkrcIYT-tO65ZAL0bGX4-uTUjssIg",
+    "animation_url": "https://arweave.net/aVBNUd1yQiDZDMNkrcIYT-tO65ZAL0bGX4-uTUjssIg",
+    "image_details": {
+      "bytes": 1115302,
+      "format": "JPEG",
+      "sha256": "4086bf3aa121b97ac9cd4191bed94e791a05998683552a58cb17dd9752ae2284",
+      "width": 1284,
+      "height": 1289
+    },
+    "image": "https://arweave.net/U3soh_c9B8ejCLE6kzNNtJON6WyXpz8XwnYRzBDZA-I",
+    "image_url": "https://arweave.net/U3soh_c9B8ejCLE6kzNNtJON6WyXpz8XwnYRzBDZA-I"
+  }
+}

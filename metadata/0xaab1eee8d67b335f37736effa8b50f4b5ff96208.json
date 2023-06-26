@@ -1,0 +1,55 @@
+{
+  "address": "0xaab1eee8d67b335f37736effa8b50f4b5ff96208",
+  "type": "ERC721",
+  "name": "Gorilla Galavant (GLVT)",
+  "tokenCount": "12",
+  "uri": "https://glvt-static.gorilla.global/glvt/1",
+  "metadata": {
+    "title": "Gorilla Ġalavant (ĠLVT) #1",
+    "name": "Gorilla Ġalavant (ĠLVT) #1",
+    "description": "Ġalavant (ĠLVT) NFT is Gorilla's Web3 membership NFT collection. \n\nBrought to you by Gorilla, the world's first Web3 telco, bring you connectivity on Web3\nhttps://gorilla.global",
+    "type": "object",
+    "image": "https://glvt-static.gorilla.global/glvt/image/1",
+    "external_link": "https://gorilla.global/metaverse/glvt",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Gorilla Ġalavant (ĠLVT) #1"
+      },
+      "description": {
+        "type": "string",
+        "description": "Ġalavant (ĠLVT) NFT is Gorilla's Web3 membership NFT collection. \n\nBrought to you by Gorilla, the world's first Web3 telco, bring you connectivity on Web3\nhttps://gorilla.global"
+      },
+      "image": {
+        "type": "string",
+        "description": "https://glvt-static.gorilla.global/glvt/image/1"
+      },
+      "created_date": {
+        "type": "datetime",
+        "description": "2022-06-30T13:05:12Z"
+      }
+    },
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "San Francisco, USA"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Casual Shirt and Berms"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Robot 1"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Butter"
+      },
+      {
+        "trait_type": "Right Hand",
+        "value": "Mug"
+      }
+    ]
+  }
+}

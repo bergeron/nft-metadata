@@ -1,0 +1,23 @@
+{
+  "address": "0xa1e1dd0810c9cee96573a4d3038e3f29998b2ecf",
+  "type": "ERC721",
+  "name": "Dogs of Elonss",
+  "tokenCount": "1",
+  "uri": "ipfs://QmVoKgyeHD6KLzUyScb72x7nAtUjAqr5PEDoWxdFYCrWer/1",
+  "metadata": {
+    "name": "Elon #1",
+    "image": "ipfs.io/ipfs/QmUa1hfY8z92Tc5wCDTHf5DkYHRnvhJ8vrtd1yuKQ9zPCu/1.jpg",
+    "description": "Blessed be the Dogfather",
+    "attributes": [
+      {
+        "trait_type": "Identity",
+        "value": "The Dogfather"
+      },
+      {
+        "trait_type": "Edition",
+        "value": 1,
+        "max_value": 30
+      }
+    ]
+  }
+}

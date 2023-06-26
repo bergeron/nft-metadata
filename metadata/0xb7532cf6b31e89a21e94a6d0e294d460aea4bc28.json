@@ -1,0 +1,93 @@
+{
+  "address": "0xb7532cf6b31e89a21e94a6d0e294d460aea4bc28",
+  "type": "ERC1155",
+  "name": "ShibaDoge Wearables",
+  "tokenCount": "2973",
+  "uri": "https://metadata.realshibadoge.com/shibadogearmy/1.json",
+  "metadata": {
+    "name": "ShibaDoge Army #1",
+    "description": "This is an equippable/modifiable NFT.",
+    "image": "https://metadata.realshibadoge.com/images/shibadogearmy/1",
+    "cachedImage": "https://mint.realshibadoge.com/images/be3b96a9bfe066df4264e463e9c4346114f0158c7fbf0d4b328c38c6af23b29f.webp",
+    "thumbnailImage": "https://metadata.realshibadoge.com/images/shibadogearmy/1?thumb=1",
+    "cachedThumbnailImage": "https://mint.realshibadoge.com/images/thumbnail/be3b96a9bfe066df4264e463e9c4346114f0158c7fbf0d4b328c38c6af23b29f.webp",
+    "shaHash": "be3b96a9bfe066df4264e463e9c4346114f0158c7fbf0d4b328c38c6af23b29f",
+    "edition": 1,
+    "locked": false,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Fury",
+        "id": 1048585,
+        "tier": "Common"
+      },
+      {
+        "trait_type": "Secondary Weapon",
+        "value": "M1 Garand",
+        "id": 2097160,
+        "tier": "Common"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Violent",
+        "id": 4194333,
+        "tier": "Common"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "Orange Trunks",
+        "id": 5242891,
+        "tier": "Common"
+      },
+      {
+        "trait_type": "Torso",
+        "value": "Camo Suspenders",
+        "id": 6291460,
+        "tier": "Common"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Skull Pipe",
+        "id": 7340050,
+        "tier": "Common"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Steampunk Goggles",
+        "id": 8388630,
+        "tier": "Common"
+      },
+      {
+        "trait_type": "Head Gear",
+        "value": "888 Trucker Hat",
+        "id": 9437187,
+        "tier": "Common"
+      },
+      {
+        "trait_type": "Primary Weapon",
+        "value": "Personal Defense Pistol",
+        "id": 10485773,
+        "tier": "Common"
+      },
+      {
+        "trait_type": "Type",
+        "value": "ShibaDoge",
+        "display": false
+      }
+    ],
+    "breedInformation": {
+      "dogeArmyParent": {
+        "id": 1,
+        "metadata": "https://dogemetadata.realshibadoge.com/1",
+        "thumbnailImage": "https://cdn.realshibadoge.com/webp/thumbnail/1.webp",
+        "image": "https://cdn.realshibadoge.com/webp/original/1.webp"
+      },
+      "shibaArmyParent": {
+        "id": 1,
+        "metadata": "https://shibametadata.realshibadoge.com/1",
+        "thumbnailImage": "https://shiba-cdn.realshibadoge.com/webp/thumbnail/1.webp",
+        "image": "https://shiba-cdn.realshibadoge.com/webp/original/1.webp"
+      }
+    }
+  }
+}

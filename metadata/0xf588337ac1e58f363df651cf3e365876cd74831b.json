@@ -1,0 +1,36 @@
+{
+  "address": "0xf588337ac1e58f363df651cf3e365876cd74831b",
+  "type": "ERC1155",
+  "name": "praetorian-cv-wear",
+  "tokenCount": "6",
+  "uri": "https://www.cryptovoxels.com/c/120/1",
+  "metadata": {
+    "name": "Robe",
+    "image": "https://wearables.crvox.com/4c85a1eb-323f-436c-952f-ed0576e133f5-robe.gif",
+    "description": "A robe to test minting costume",
+    "attributes": [
+      {
+        "trait_type": "vox",
+        "value": "https://www.voxels.com/w/41961fac2b0a120df60928c53820f505d104592b/vox"
+      },
+      {
+        "trait_type": "author",
+        "value": "praetorian"
+      },
+      {
+        "trait_type": "issues",
+        "value": 1
+      },
+      {
+        "trait_type": "rarity",
+        "value": "legendary"
+      },
+      {
+        "trait_type": "suppressed",
+        "value": false
+      }
+    ],
+    "external_url": "https://www.voxels.com/collections/eth/0xF588337ac1E58F363Df651CF3E365876CD74831b/1",
+    "background_color": "f3f3f3"
+  }
+}

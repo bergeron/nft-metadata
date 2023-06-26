@@ -1,0 +1,45 @@
+{
+  "address": "0x70685de040818c4e21ea2f080bce756115c15721",
+  "type": "ERC721",
+  "name": "Smart Ape Yacht Club (SAYC)",
+  "tokenCount": "10001",
+  "uri": "ipfs://QmWnpbEivtTabwHUZVDKzgcimtu28syuJSWm3DfQphnwAS/1",
+  "metadata": {
+    "name": "SAYC #1",
+    "description": " SAYC is a collection of 10,000 randomly generated NFTs with unique traits combinations.",
+    "image": "ipfs://QmUrdmxXK54vrFfdb9wRwpDxWB6XUuNhhhB8EtZg9rH3s8/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "None"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Cross"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Kings Crown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin"
+      }
+    ],
+    "edition": 1,
+    "date": 1666380246353,
+    "compiler": "HashLips Art Engine"
+  }
+}

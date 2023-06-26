@@ -1,0 +1,41 @@
+{
+  "address": "0x8a63f393a7318379e5b5c11e799686e77b7ebe8e",
+  "type": "ERC1155",
+  "name": "BLACK LEMON Turns 360 | The Pass",
+  "tokenCount": "1",
+  "uri": "https://cdn.blacklemon.wtf/contracts/blacklemon-turns-360/metadata/blt-360.json",
+  "metadata": {
+    "name": "BLACK LEMON Turns 360 | The Pass",
+    "created_by": "Black Lemon",
+    "external_url": "https://blacklemon.me/",
+    "description": "This NFT will act as a pass to access BLACK LEMON Turns 360 | The Metaverse Replica which we’re hosting on Spatial.io.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "BLACK LEMON"
+      }
+    ],
+    "image_details": {
+      "format": "JPEG",
+      "sha256": "6f3a029a000078c30fb39dd6081d5aedf56be17b8cd36e8e27be41c299ec96e4",
+      "width": 1112,
+      "height": 984
+    },
+    "image": "https://cdn.blacklemon.wtf/contracts/blacklemon-turns-360/blacklemon_turns_360.jpg",
+    "image_url": "https://cdn.blacklemon.wtf/contracts/blacklemon-turns-360/blacklemon_turns_360.jpg",
+    "animation_details": {
+      "bytes": 3460300,
+      "format": "MP4",
+      "duration": 7,
+      "sha256": "965efc268e59fc36bf690db24a4b24b98104fe6703b58849c50785cdcf89d607",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://cdn.blacklemon.wtf/contracts/blacklemon-turns-360/blacklemon_turns_360.mp4",
+    "animation_url": "https://cdn.blacklemon.wtf/contracts/blacklemon-turns-360/blacklemon_turns_360.mp4"
+  }
+}

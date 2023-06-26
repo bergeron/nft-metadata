@@ -1,0 +1,41 @@
+{
+  "address": "0xfc5c46ff941df877c5fd470c0d3e7384c87feed9",
+  "type": "ERC721",
+  "name": "1337 Apes Official",
+  "tokenCount": "7331",
+  "uri": "ipfs://QmPTWyXz8qqeU8c1XkfbJbXVfjmnQjaqb1H9gbSZG6anYY/2.json",
+  "metadata": {
+    "name": "1337 Apes #2",
+    "description": "This is a collection about 1337 Apes.",
+    "image": "ipfs://QmUENh5jv8mHyYzd8oY7KDBVoGprvwnSy8hXWZD2vDaUk6/2.png",
+    "edition": 2,
+    "date": 1669907875531,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUNDS",
+        "value": "BLUE"
+      },
+      {
+        "trait_type": "BASE",
+        "value": "RED"
+      },
+      {
+        "trait_type": "SKULLS",
+        "value": "METAL"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "CYANGLOW"
+      },
+      {
+        "trait_type": "OVERS",
+        "value": "THONGHOOD"
+      },
+      {
+        "trait_type": "SPECIALS",
+        "value": "SPARKLE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

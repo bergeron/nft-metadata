@@ -1,0 +1,50 @@
+{
+  "address": "0x7985388fdee0ab9fdd5e2aa20835dbf309b1a341",
+  "type": "ERC721",
+  "name": "7DS by Manic",
+  "tokenCount": "61",
+  "uri": "ipfs://QmcVLe3JqtdoUkuicvpKUmU371rT42oPfPoSfo8etCJ4Un/1.json",
+  "metadata": {
+    "name": "7 Deadly Sins #1",
+    "description": "Sloth",
+    "external_url": "7ds.io",
+    "image": "ipfs://QmQPnLky1xg11aXkESzRQ4NLjtYiaPXveenbB3eZNdgErc/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Puke"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "4-Green,Black,Red,White"
+      },
+      {
+        "trait_type": "Face Color",
+        "value": "Mutant"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Punk Flip"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pringles on the edge of time"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "No Werds"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": "Manic"
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

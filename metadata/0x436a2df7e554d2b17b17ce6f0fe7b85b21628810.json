@@ -1,0 +1,39 @@
+{
+  "address": "0x436a2df7e554d2b17b17ce6f0fe7b85b21628810",
+  "type": "ERC721",
+  "name": "Test  Framed Schematic Print",
+  "tokenCount": "7",
+  "uri": "https://arweave.net/85KCbRlf1L2eTBVSlEvkFSpxg1QjLx9gTjRuUrWylkw",
+  "metadata": {
+    "created_by": "Nick Kuder",
+    "name": "Framed Schematic",
+    "description": "This token can be redeemed for one signed and framed print of Nick Kuder's Schematic.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Nick Kuder"
+      },
+      {
+        "trait_type": "Framed",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Print",
+        "value": "Schematic"
+      },
+      {
+        "trait_type": "Signed",
+        "value": "Yes"
+      }
+    ],
+    "image_details": {
+      "bytes": 51682,
+      "format": "PNG",
+      "sha256": "85bc5381cbcc25177f02a5c01eca730e81a8728fbc7a5feb557df2a314fbadc1",
+      "width": 466,
+      "height": 466
+    },
+    "image": "https://arweave.net/mBt4r3FBu9-b1qZeiTUhkF3COha0lB7SPANmfA5UBUQ",
+    "image_url": "https://arweave.net/mBt4r3FBu9-b1qZeiTUhkF3COha0lB7SPANmfA5UBUQ"
+  }
+}

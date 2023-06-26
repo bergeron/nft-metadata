@@ -1,0 +1,33 @@
+{
+  "address": "0x5bc6382bf11f0b979dd6c819f1f9f5f8b72c3034",
+  "type": "ERC721",
+  "name": "Peerless Beasts",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeiffbpvrz6uopczjbonpppv75dmvheqk4um4bweojh5uyzxf3fmpo4/1.json",
+  "metadata": {
+    "name": "PBS #1",
+    "description": "PBS #1 - Choose your inner beast",
+    "fee_recipient": "0x331b5E01AA90Fa645ACa47850B0bEc699caf4D43",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://bafybeib2dafinkiljckdgjc65i7s3ptrti5lameml62pr63yapds2x22ue/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background1#3"
+      },
+      {
+        "trait_type": "Body",
+        "value": "GREEN Jacket#4"
+      },
+      {
+        "trait_type": "Face",
+        "value": "BAT Chameleon#2"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 2737,
+        "display_type": "number"
+      }
+    ]
+  }
+}

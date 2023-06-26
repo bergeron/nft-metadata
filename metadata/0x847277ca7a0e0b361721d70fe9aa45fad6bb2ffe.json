@@ -1,0 +1,42 @@
+{
+  "address": "0x847277ca7a0e0b361721d70fe9aa45fad6bb2ffe",
+  "type": "ERC721",
+  "name": "Bonny Cats",
+  "tokenCount": "5555",
+  "uri": "ipfs://bafybeigmnbbbflf5q7zz3mi4y5jyuohmbxgzdd7bhu3p6z6d4t4ihqx6i4/1.json",
+  "metadata": {
+    "name": "Bonny Cat #1",
+    "description": "Bonny Cats is a collection of 5555 unique Bonny Cat NFTs stored as ERC-721 tokens on Ethereum Blockchain",
+    "image": "ipfs://bafybeigdhwtlexpg2mwphzjuuppzz6vzos7abpilvypuflk5jdeudtbwlm/1.png",
+    "dna": "94f52dc76108212f018a69cf05d23eff97b05b0a",
+    "edition": 1,
+    "date": 1657708237288,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "background10"
+      },
+      {
+        "trait_type": "Body",
+        "value": "dotsred"
+      },
+      {
+        "trait_type": "Face",
+        "value": "c4cute"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "redtriangle"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "5"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "curvedwreathred"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

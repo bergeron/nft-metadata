@@ -1,0 +1,61 @@
+{
+  "address": "0xb0e6033b0520dbb75ac93d7a179e8687050e4fc2",
+  "type": "ERC721",
+  "name": "Rekt Rats",
+  "tokenCount": "2222",
+  "uri": "ipfs://QmaMpmyuiaxpWVDwDigEaoH5gG5xSVr7nS6f1jaRWnXRVA/1",
+  "metadata": {
+    "name": "Rats #2",
+    "description": "Rats",
+    "image": "ipfs://QmcWvo8iMt1mauBiS25PfgdBGe37hhwEbNa8VHtERKUrPA/1.png",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "backgrounds",
+        "value": "blue"
+      },
+      {
+        "trait_type": "bases",
+        "value": "purple"
+      },
+      {
+        "trait_type": "bodies",
+        "value": "blue"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "baked"
+      },
+      {
+        "trait_type": "mouths",
+        "value": "none"
+      },
+      {
+        "trait_type": "hats",
+        "value": "beanie"
+      },
+      {
+        "trait_type": "earrings",
+        "value": "goldstud"
+      }
+    ],
+    "symbol": "",
+    "seller_fee_basis_points": 1000,
+    "edition": 2
+  }
+}

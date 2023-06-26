@@ -1,0 +1,34 @@
+{
+  "address": "0x5ebdf1a50162c318e4a1384864e2cd809a8b5761",
+  "type": "ERC721",
+  "name": "Movimento NFT Art Collection",
+  "tokenCount": "1",
+  "uri": "https://jeffprestes.github.io/artejpobnft/static/nft/1.json",
+  "metadata": {
+    "name": "Caminho ao Pico do Jaraguá",
+    "description": "Caminho ao Pico do Jaraguá or Path to Jaraguá Hights is an oil in canvas paiting. It is one of first artwork made Ismenia Coaracy. The buyer will receive the physical item and also the rights of the digital version of it.",
+    "image": "https://jeffprestes.github.io/artejpobnft/static/ismeniacoaracy_pico-do-jaragua.jpg",
+    "image_low": "https://jeffprestes.github.io/artejpobnft/static/ismeniacoaracy_pico-do-jaragua_small.jpg",
+    "external_url": "https://pt.wikipedia.org/wiki/Ism%C3%AAnia_Coaracy",
+    "seller_fee_basis_points": 100,
+    "fee_recipient": "0x7dA2547202458D2540d64513D409A1c2bA57bA3A",
+    "attributes": [
+      {
+        "trait_type": "Medium",
+        "value": "Oil in Canvas"
+      },
+      {
+        "trait_type": "Year",
+        "value": "1957"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Ismenia Coaracy"
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "44 cm x 34 cm"
+      }
+    ]
+  }
+}

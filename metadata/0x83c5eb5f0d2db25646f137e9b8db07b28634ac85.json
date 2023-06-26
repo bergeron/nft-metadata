@@ -1,0 +1,72 @@
+{
+  "address": "0x83c5eb5f0d2db25646f137e9b8db07b28634ac85",
+  "type": "ERC721",
+  "name": "Unigrids",
+  "tokenCount": "421",
+  "uri": "https://api.artblocks.io/token/12000001 ",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "12000001",
+    "series": 2,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Unigrids #1",
+    "minted": true,
+    "artist": "Zeblocks",
+    "description": "Unigrids are collectible digital art pieces 100% stored on the Ethereum blockchain. Each Unigrid consists of 421 individual Pure Javascript generated SVG grids, ensuring each Unigrid is entirely unique. Not only are Unigrids visually unique, but they also hide an ingenious animation and a generated beat to enhance your experience. Unigrids are an experiential piece of art, with a static image for printing, an animation, and companion beat - all generated and stored on the blockchain. You truly need to play around with Unigrids to understand the essence of them. Be sure to hold onto your favorite piece as we will be adding interactive easter eggs for art owners, giveaways, and other engagement with the community.",
+    "script_type": "svg@na",
+    "project_id": "12",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 2",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/12000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/12000001.png",
+    "generator_url": "https://generator.artblocks.io/12000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/12000001",
+    "royaltyInfo": {
+      "artistAddress": "0xb033daedca113b0386eb3e8f4c72c79fc50ae32e",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Unigrids by Zeblocks",
+    "website": "https://zeblocks.com/",
+    "token_hash": "0x372debd9edc370028e2bb779dd6ecaabc8540b884b7dd3489202007e7154d2cc",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/12/tokens/12000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/12000001",
+    "features": {
+      "Beat": "Beat8",
+      "Shape": "Fifty-Fifty",
+      "Palette": "Ammolite",
+      "Grid size": "5x5",
+      "# of colors": 5
+    },
+    "traits": [
+      {
+        "trait_type": "Unigrids",
+        "value": "All Unigrids"
+      },
+      {
+        "trait_type": "Unigrids",
+        "value": "Beat: Beat8"
+      },
+      {
+        "trait_type": "Unigrids",
+        "value": "Shape: Fifty-Fifty"
+      },
+      {
+        "trait_type": "Unigrids",
+        "value": "Palette: Ammolite"
+      },
+      {
+        "trait_type": "Unigrids",
+        "value": "Grid size: 5x5"
+      },
+      {
+        "trait_type": "Unigrids",
+        "value": "# of colors: 5"
+      }
+    ],
+    "is_static": false,
+    "license": "NFT License"
+  }
+}

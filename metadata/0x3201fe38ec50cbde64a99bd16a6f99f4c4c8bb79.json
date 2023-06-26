@@ -1,0 +1,41 @@
+{
+  "address": "0x3201fe38ec50cbde64a99bd16a6f99f4c4c8bb79",
+  "type": "ERC721",
+  "name": "a PEPE called BEAST",
+  "tokenCount": "1111",
+  "uri": "ipfs://QmWqRjNguzUtW8GQDnCq3Z3JzVjQDFFFmDQNcSYJeWRp1z/1.json",
+  "metadata": {
+    "name": "a PEPE called BEAST #1",
+    "description": "Just a PEPE but on BEAST mode",
+    "image": "ipfs://QmQ4uDrRsN3GKqq6ZNzyPjBiryRSr9BxiEMhYvDdBwyNvU/1.png",
+    "edition": 1,
+    "date": 1674256446021,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pepe"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "Black Pants"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Construction Boots"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Denim Jacket"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "Pink Bunny"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

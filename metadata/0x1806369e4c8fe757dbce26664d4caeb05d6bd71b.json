@@ -1,0 +1,30 @@
+{
+  "address": "0x1806369e4c8fe757dbce26664d4caeb05d6bd71b",
+  "type": "ERC721",
+  "name": "Lightning Generator NFT",
+  "tokenCount": "5",
+  "uri": "https://lightgen.app/api/uri?0",
+  "metadata": {
+    "name": "LGEN",
+    "image": "ipfs://bafybeifbdfu6t5u5uad6dwz47zqle73n6zkjlavrtaplg4xl4irf47on3i",
+    "description": "Lightning Generator - world's first physically generated NFT in real-time. The Lightning Generator creates lightning strikes produced by our software hardware complex and transforms it to the digital asset.",
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Linear"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      }
+    ]
+  }
+}

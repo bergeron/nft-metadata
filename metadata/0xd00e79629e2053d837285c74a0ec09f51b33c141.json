@@ -1,0 +1,64 @@
+{
+  "address": "0xd00e79629e2053d837285c74a0ec09f51b33c141",
+  "type": "ERC721",
+  "name": "Expandables Official",
+  "tokenCount": "3500",
+  "uri": "ipfs://QmRAXPSKH54KXSK9xiDTnMt6NunFyXfSqjUBP1BQPSFkt6/1",
+  "metadata": {
+    "name": "Panda #1",
+    "description": "Expandables is a collection of 3,500 pandas with 100% verifiably random onchain traits generated through Chainlink VRF.",
+    "image": "ipfs://QmVvERCaTZe6kYyp6wb1eLxWReQJ8Du15gJXhst18S1bmo/1.png",
+    "background_color": "#FFFFFF",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cerulean"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mad"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Orange Iris"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Vampire"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Blue Partyhat"
+      },
+      {
+        "trait_type": "Power",
+        "max_value": 100,
+        "value": 89
+      },
+      {
+        "trait_type": "Speed",
+        "max_value": 100,
+        "value": 90
+      },
+      {
+        "trait_type": "Cuteness",
+        "max_value": 100,
+        "value": 88
+      },
+      {
+        "trait_type": "Intelligence",
+        "max_value": 100,
+        "value": 29
+      },
+      {
+        "trait_type": "Total skills",
+        "display_type": "number",
+        "value": 296
+      }
+    ]
+  }
+}

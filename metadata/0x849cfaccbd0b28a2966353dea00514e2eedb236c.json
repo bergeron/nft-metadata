@@ -1,0 +1,46 @@
+{
+  "address": "0x849cfaccbd0b28a2966353dea00514e2eedb236c",
+  "type": "ERC721",
+  "name": "MoonCritters MINT LIVE",
+  "tokenCount": "4444",
+  "uri": "ipfs://bafybeigmcx4r6kglzy3u5lxz666thwlvbu62we2lunfoxs2q63clyy7pqm/1.json",
+  "metadata": {
+    "name": "MoonCritter #1",
+    "description": "Critters Cult but on the otherside.",
+    "image": "ipfs://bafybeihwdnbgcqxx5hlql7nvvmfs6nibr5m33gybdzvqb4rqrwllsygmli/1.png",
+    "dna": "e29b758a053e1f5c2a3b8c94771e48b13c8d6af0",
+    "edition": 1,
+    "date": 1664203270273,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grassland"
+      },
+      {
+        "trait_type": "Creature",
+        "value": "Canis"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hypnotized"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Actor"
+      },
+      {
+        "trait_type": "Head",
+        "value": "5 Panel Cap"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Magistrate Ruff"
+      },
+      {
+        "trait_type": "Relic",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "Critters"
+  }
+}

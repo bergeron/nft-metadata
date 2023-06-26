@@ -1,0 +1,38 @@
+{
+  "address": "0x1d4920db8ba37fd1b4e84b8bab61ef8a97741baa",
+  "type": "ERC721",
+  "name": "Yuga MeePunks",
+  "tokenCount": "1110",
+  "uri": "ipfs://QmaQR8Cd87EA7w3T4qK5CQa9DaXxrwrEYT6NLX9UReziZ2/1.json",
+  "metadata": {
+    "name": "MeePunk #1",
+    "description": "The greatest collaboration off all time brings you: Meebits x Punks - Shoutout to Yuga Labs for bringing us the next degen move!",
+    "image": "ipfs://QmYeuysrDbx5d9V7qXqZqcBwLW7afQ4X8uKUo96RqmwCsK/1.png",
+    "dna": "c49dd4a51fd1a5af802874dbc2ef3aaf85cfca89",
+    "edition": 1,
+    "date": 1647068376630,
+    "attributes": [
+      {
+        "trait_type": "Body",
+        "value": "Light"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Face",
+        "value": "BlackMustache"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "WhiteHeadphones"
+      },
+      {
+        "trait_type": "Head",
+        "value": "BlackBuzzcut"
+      }
+    ],
+    "compiler": "MeePunks Inc"
+  }
+}

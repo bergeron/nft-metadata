@@ -1,0 +1,45 @@
+{
+  "address": "0x85ad55ab885021657053b5a3bcc20db0389f567a",
+  "type": "ERC721",
+  "name": "mycollection_721",
+  "tokenCount": "1",
+  "uri": "https://ipfs.io/ipfs/QmXP4frxBGVCjvhev7i2gZcyZ4sEcCS1BrGENaTwjFQ4Lc\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "pink"
+      },
+      {
+        "trait_type": "eye",
+        "value": "small"
+      },
+      {
+        "trait_type": "size",
+        "value": 3,
+        "max_value": 5
+      },
+      {
+        "trait_type": "power",
+        "value": 4,
+        "max_value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "speed",
+        "value": 2,
+        "max_value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "stats",
+        "value": 3,
+        "max_value": 5
+      }
+    ],
+    "name": "한복 베어리스타 걸",
+    "description": "한복 베어리스타 걸",
+    "image": "https://ipfs.io/ipfs/Qmf5ytfLWfZeohPJcKmwN1pw8EXEAwuxC5jyv872BYoU8u",
+    "external_link": "https://www.starbucks.co.kr/menu/product_view.do?product_cd=11071645"
+  }
+}

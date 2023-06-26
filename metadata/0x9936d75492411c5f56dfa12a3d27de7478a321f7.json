@@ -1,0 +1,79 @@
+{
+  "address": "0x9936d75492411c5f56dfa12a3d27de7478a321f7",
+  "type": "ERC721",
+  "name": "DOT Livestream Drops",
+  "tokenCount": "7",
+  "uri": "https://koop.mypinata.cloud/ipfs/QmPTBn5GnuJjAcj4vcsYb6V49bmrh1vkgvpg9K3hb2HPcP/1",
+  "metadata": {
+    "name": "Lift Me Up Production Breakdown Livestream Drop #2",
+    "description": "My new song 'Lift Me Up' is dropping on sound.xyz this Sunday, November 20th, so I'm going live on Koop to run through a full production breakdown of the track. I'll have the Ableton session for the song open, and will be able to answer any questions in the chat live on stream.  \n\nThis will be my first ever collectable live stream, and all collectors will also have access to download the stems the following day. Hope to see you in the chat!",
+    "external_url": "https://koop.xyz/koop/0x92526B99715AFeEd324Fb56EcAFcac8056379300/",
+    "image_url": "https://koop.mypinata.cloud/ipfs/QmV8pWFD7RTHAD2BTx8gTyfPRMvJTFfD3u9QVgKRNP9sPW",
+    "image": "https://koop.mypinata.cloud/ipfs/QmV8pWFD7RTHAD2BTx8gTyfPRMvJTFfD3u9QVgKRNP9sPW",
+    "attributes": [
+      {
+        "trait_type": "Koop Tier Index",
+        "value": "0"
+      },
+      {
+        "trait_type": "Koop",
+        "value": "DOT TV"
+      },
+      {
+        "trait_type": "Member Tier",
+        "value": "Lift Me Up Production Breakdown Livestream Drop"
+      },
+      {
+        "trait_type": "$__parent",
+        "value": {
+          "index": "0",
+          "price": "20000000000000000",
+          "supply": "18",
+          "startId": "0",
+          "endId": "24",
+          "limit": "25",
+          "description": "My new song 'Lift Me Up' is dropping on sound.xyz this Sunday, November 20th, so I'm going live on Koop to run through a full production breakdown of the track. I'll have the Ableton session for the song open, and will be able to answer any questions in the chat live on stream.  \n\nThis will be my first ever collectable live stream, and all collectors will also have access to download the stems the following day. Hope to see you in the chat!",
+          "title": "Lift Me Up Production Breakdown Livestream Drop",
+          "imageURL": "https://koop.mypinata.cloud/ipfs/QmV8pWFD7RTHAD2BTx8gTyfPRMvJTFfD3u9QVgKRNP9sPW",
+          "isExternal": false,
+          "state": "published",
+          "allowlist": [],
+          "allowlistMerkleRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "mintLimit": "3",
+          "tokenType": "drop",
+          "_id": "637a6ae153d1a0301064d814",
+          "tokens": [],
+          "benefits": [],
+          "updatedAt": "2022-11-22T22:54:32.540Z",
+          "metadata": {
+            "livestream_url": "https://stream-recordings-koop-xyz.s3.amazonaws.com/final_streams/dot-stream-11-20-22.mp4"
+          }
+        }
+      },
+      {
+        "trait_type": "$__path",
+        "value": "metadata"
+      },
+      {
+        "trait_type": "$__schemaType",
+        "value": {
+          "path": "metadata.$*",
+          "instance": "Mixed",
+          "validators": [],
+          "getters": [],
+          "setters": [],
+          "_presplitPath": [
+            "metadata",
+            "$*"
+          ],
+          "options": {
+            "type": {}
+          },
+          "_index": null,
+          "$isUnderneathDocArray": true
+        }
+      }
+    ],
+    "id": "1"
+  }
+}

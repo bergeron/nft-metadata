@@ -1,0 +1,60 @@
+{
+  "address": "0x1be8e33bed8cb4f815b532e436763e31ceb0d48f",
+  "type": "ERC721",
+  "name": "Weeble Wowbles",
+  "tokenCount": "3600",
+  "uri": "ipfs://QmV85TzRaVpSPiNpzBnz65cqz762ZyTyjCE55v54FRC17z/1.json",
+  "metadata": {
+    "name": "#1",
+    "image": "ipfs://QmPt8oEM5v2efS86wDe92kcuMQNmQBFfrLZomBLX9rL2jc/1.png",
+    "description": "Weeble Wowbles 3600 Collection",
+    "external_url": "http://twitter.com/weeble_wowbles",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Body Color",
+        "value": "Pink Purple Gradient"
+      },
+      {
+        "trait_type": "Body Pattern",
+        "value": "Yellow 5"
+      },
+      {
+        "trait_type": "Head Color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Right Hand Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Left Hand Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Head Pattern",
+        "value": "Light Orange 1"
+      },
+      {
+        "trait_type": "Left Hand Pattern",
+        "value": "Blue 2"
+      },
+      {
+        "trait_type": "Face Color",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "Face",
+        "value": "11"
+      },
+      {
+        "trait_type": "Right Hand Pattern",
+        "value": "Dark Green 2"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

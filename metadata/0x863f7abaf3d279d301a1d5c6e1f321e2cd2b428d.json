@@ -1,0 +1,35 @@
+{
+  "address": "0x863f7abaf3d279d301a1d5c6e1f321e2cd2b428d",
+  "type": "ERC721",
+  "name": "Cascade by TinkRNG",
+  "tokenCount": "1000",
+  "uri": "https://tinkrng.mypinata.cloud/ipfs/QmUBCFkXsVXHv4BuxXWFZNyPsiQEpJFaYenoYg6FbCpAD6/1",
+  "metadata": {
+    "name": "Cascade #1",
+    "image": "https://tinkrng.mypinata.cloud/ipfs/QmYDn5fyDZg78CuoeJLmbVpdh6XMJ2DSMvnJrvxzcn9Zwy/Art_CascadeID_1_Final.png",
+    "description": "Cascade is a novel generative art collection portraying patterns in the human proteome. Each piece represents a unique protein, with properties derived from the protein's amino acid sequence, the cellular compartment where the protein localizes to, and the biological process that the protein is involved in.",
+    "seed": 1080,
+    "attributes": [
+      {
+        "value": "Dynein axonemal intermediate chain 3",
+        "trait_type": "Protein Name"
+      },
+      {
+        "value": "Cytosol",
+        "trait_type": "Cell Compartment"
+      },
+      {
+        "value": "Cell Migration",
+        "trait_type": "Biological Process"
+      },
+      {
+        "value": "891",
+        "trait_type": "Protein Length"
+      },
+      {
+        "value": "Trypan Blue",
+        "trait_type": "Color Palette"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "address": "0x0b961b09e52b3a58ef74554319b7894a801690fd",
+  "type": "ERC721",
+  "name": "1220dkjlfqewr",
+  "tokenCount": "200",
+  "uri": "https://api.artblocks.io/token/394000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "394000001",
+    "series": "N/A",
+    "aspect_ratio": 1.5,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Volute #1",
+    "minted": true,
+    "artist": "RVig",
+    "description": "Volute is the result of different stages of my experience in Generative Art over many years put together, drawing on early and new techniques plus my recent forays into long form generative art.\n\nI set out to explore the essence of generative art, seeking, discovering, coaxing and exposing the variety of outputs from a simple system.\n\nThe soulless algorithm is counterbalanced by the exclusive use of colours from nature as prime sources. Brutal symmetries and complexities are softened by decentring and subtle layer transparencies. Pixel feedback loops generate radial symmetries and spirals, producing a variety of flower structures, volutes and arabesques. And when I view the results - their rhythm, their surprises, their flow - they justify for me my earlier choice of technical process.\n\nMy aim in Volute is to create, using gentle spiraling motion, the calming effect of marveling at flowers in nature.",
+    "script_type": "js@na",
+    "project_id": "394",
+    "curation_status": "presents",
+    "image": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/394000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/394000001.png",
+    "generator_url": "https://generator.artblocks.io/394000001",
+    "animation_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/394000001",
+    "royaltyInfo": {
+      "artistAddress": "0x44a1e2883f1e599664e511e6c1c7cc72d846f5fc",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Volute by RVig",
+    "website": "https://rvig.art/Volute.html",
+    "token_hash": "0xc7d419879ff10475836ff4c75ababa41a1904be7dbdfdf7eb82802f8a5695ae5",
+    "external_url": "https://artblocks.io/collections/presents/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/394/tokens/394000001",
+    "primary_asset_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/394000001",
+    "features": {
+      "Lens": "None",
+      "Palette": "Viola",
+      "Sectors": "2",
+      "Position": "Bottom Right",
+      "Amplitude": "2-2",
+      "Structure": "2-1"
+    },
+    "traits": [
+      {
+        "trait_type": "Volute",
+        "value": "All Volutes"
+      },
+      {
+        "trait_type": "Volute",
+        "value": "Lens: None"
+      },
+      {
+        "trait_type": "Volute",
+        "value": "Palette: Viola"
+      },
+      {
+        "trait_type": "Volute",
+        "value": "Sectors: 2"
+      },
+      {
+        "trait_type": "Volute",
+        "value": "Position: Bottom Right"
+      },
+      {
+        "trait_type": "Volute",
+        "value": "Amplitude: 2-2"
+      },
+      {
+        "trait_type": "Volute",
+        "value": "Structure: 2-1"
+      }
+    ],
+    "is_static": false,
+    "license": "CC-BY-NC-SA 4.0"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0x455bfa1cb787a6d17514ed5113325cbddc425f39",
+  "type": "ERC721",
+  "name": "1Bit Portraits",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmQcR4UscZtuYacrB88YogdWWNtjPLWQR8ps5Njysm56Tr/1.json",
+  "metadata": {
+    "dna": "2fe456609a92738b13d86510afd8eec4812f4bcdef1c84e2b7dd22ebbe667745",
+    "name": "Alien #-8999",
+    "description": "10.000 1Bit Portraits that tend to display the mood and personality of the subjects for the viewers. A Universal visual art that every eyes can enjoy and see",
+    "image": "ipfs://Qmbqbj5KDBvJWtgdCkgr3B3uJUEWKTuCmLAsqRF2aDmxmM/1.png",
+    "imageHash": "b78c3a0f4ef4f46e05aea31c2bea6e01ae8c89e039ac1fa1f2d9fabe2052c11c",
+    "edition": 1,
+    "date": 1666560264734,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Origin",
+        "value": "Alien"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Private"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Three Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Fangs"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Dual Horns"
+      }
+    ],
+    "compiler": "1BIT-Portraits"
+  }
+}

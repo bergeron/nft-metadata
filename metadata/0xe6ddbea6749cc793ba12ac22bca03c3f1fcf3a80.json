@@ -1,0 +1,52 @@
+{
+  "address": "0xe6ddbea6749cc793ba12ac22bca03c3f1fcf3a80",
+  "type": "ERC721",
+  "name": "Mars Genesis",
+  "tokenCount": "2125",
+  "uri": "ipfs://QmU3ToKhG9hdfKTqANxsajKohRddSmX3Vbq87yWhJmJ2pZ",
+  "metadata": {
+    "name": "#9573 - Planum Australe",
+    "description": "MarsGenesis Collection. Unique Card #9573 - Region: Planum Australe",
+    "image": "ipfs://Qmf2qHLUnR2qbhbDFt2xFPukfNVpFf866t1Rkq59uWKokY",
+    "external_url": "https://marsgenesis.com/card/9573",
+    "attributes": [
+      {
+        "trait_type": "Region",
+        "value": "Planum Australe"
+      },
+      {
+        "trait_type": "Colony Conditions",
+        "value": "Challenging"
+      },
+      {
+        "trait_type": "Landing Site",
+        "value": "No"
+      },
+      {
+        "trait_type": "Distance to Water (m)",
+        "value": "0.1",
+        "max_value": 0.7
+      },
+      {
+        "trait_type": "Minimum Temperature (K)",
+        "value": 150,
+        "max_value": 270
+      },
+      {
+        "trait_type": "Maximum Temperature (K)",
+        "value": 230,
+        "max_value": 300
+      },
+      {
+        "trait_type": "Surface (km2)",
+        "value": 494,
+        "max_value": 28900
+      }
+    ],
+    "hash": "Qmf2qHLUnR2qbhbDFt2xFPukfNVpFf866t1Rkq59uWKokY",
+    "coordinates_top_left": "81°13'27 S 27°18'55 E",
+    "coordinates_bottom_right": "83°28'38 S 30°11'41 E",
+    "card_id": 9573,
+    "landmark": null
+  }
+}

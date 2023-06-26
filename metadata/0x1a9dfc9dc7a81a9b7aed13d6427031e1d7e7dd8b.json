@@ -1,0 +1,36 @@
+{
+  "address": "0x1a9dfc9dc7a81a9b7aed13d6427031e1d7e7dd8b",
+  "type": "ERC721",
+  "name": "Etherdoek",
+  "tokenCount": "5",
+  "uri": "https://backend.etherdoek.com/mainnet_token/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "version",
+        "value": 1
+      },
+      {
+        "trait_type": "pixel_number",
+        "value": 1
+      },
+      {
+        "trait_type": "x",
+        "value": 1
+      },
+      {
+        "trait_type": "y",
+        "value": 1
+      },
+      {
+        "trait_type": "color",
+        "value": "#000000"
+      }
+    ],
+    "background_color": "000000",
+    "description": "x: 1, y: 1, #000000",
+    "external_url": "https://www.etherdoek.com",
+    "image": "https://backend.etherdoek.com/images/mainnet_1.svg",
+    "name": "1"
+  }
+}

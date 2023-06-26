@@ -1,0 +1,42 @@
+{
+  "address": "0x8dbc499910bb2dc8d749e936f12227dbc1590329",
+  "type": "ERC721",
+  "name": "SU V1",
+  "tokenCount": "286",
+  "uri": "ipfs://QmcwA2BpN343CLYJrC6c52NBxPUJJb45AztqY2jhM2wYHN/1.json",
+  "metadata": {
+    "dna": "8c5cc1708da2d9480b9e239163ffed1d35fa5364",
+    "name": "Sassy unicorn #1",
+    "description": "Sassy Unicorns are unique, handmade and randomly generated 10,000 NFT. Some appear normal. Some look weird. Some are just damn cool! Maybe some even look familiar!",
+    "image": "ipfs://QmXvGC8T57rcZWHFGtziJokDgVUwwbuLkv4Kt9XQtD3Rw7/1.png",
+    "edition": 1,
+    "date": 1639600937304,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "solidbrightorangebackground"
+      },
+      {
+        "trait_type": "Body",
+        "value": "sassyunicornbase"
+      },
+      {
+        "trait_type": "Expressions",
+        "value": "deliciousface"
+      },
+      {
+        "trait_type": "Hairstyles",
+        "value": "plaithairstyle"
+      },
+      {
+        "trait_type": "Outfits",
+        "value": "dragonoutfit"
+      },
+      {
+        "trait_type": "Items",
+        "value": "floweritem"
+      }
+    ],
+    "compiler": "OmarK -DEV"
+  }
+}

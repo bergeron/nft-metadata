@@ -1,0 +1,40 @@
+{
+  "address": "0xb99f8a6248f23edf17f63d7c2480ab3d241874af",
+  "type": "ERC721",
+  "name": "Matryoshka NFT",
+  "tokenCount": "57",
+  "uri": "ipfs://QmVeRH6goyNBYcAcjAyNYMztxecWHyGf1FfZ6MwSf7mhsJ/1.json",
+  "metadata": {
+    "name": "Matryoshka #1",
+    "description": "Collectible Dolls",
+    "external_url": "https://www.matryoshkanft.io",
+    "image": "ipfs://QmTSoL2H6cbb16FX9zUzxatxoenM1GbbhwH72egehqjqP3/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BACKGROUND 31"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Bitcoin Body"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Black Scarf"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Silver Lip Ring"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black Eye Patch"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Link Hat"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

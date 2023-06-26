@@ -1,0 +1,30 @@
+{
+  "address": "0xfa89d606b5da64238a00689d26af03f5b17a4299",
+  "type": "ERC721",
+  "name": "Performers",
+  "tokenCount": "2",
+  "uri": "https://www.performers.cc/api/json/1",
+  "metadata": {
+    "name": "Performance #1",
+    "description": "Orchestral performance and album cover by HyperLoot #9022, feat. CyberBrokers #689.",
+    "external_url": "https://www.performers.cc",
+    "attributes": [
+      {
+        "trait_type": "Level",
+        "value": "1"
+      },
+      {
+        "trait_type": "Created By",
+        "value": "HyperLoot #9022"
+      },
+      {
+        "trait_type": "Featuring",
+        "value": "CyberBrokers #689"
+      }
+    ],
+    "image": "https://www.performers.cc/api/1",
+    "image_url": "https://www.performers.cc/api/1",
+    "animation_url": "https://www.performers.cc/rec?tokenId=1",
+    "inscription_url": "https://www.performers.cc/api/ins/043d68d10160bde28985f3ce0a2055918e94fc20a84ed357106418c032c8094ei0"
+  }
+}

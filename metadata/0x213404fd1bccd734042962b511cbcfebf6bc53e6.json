@@ -1,0 +1,23 @@
+{
+  "address": "0x213404fd1bccd734042962b511cbcfebf6bc53e6",
+  "type": "ERC721",
+  "name": "Zukari Origin Derivative Token",
+  "tokenCount": "1",
+  "uri": "https://ori-static.particle.network/1/collection/0x213404fd1bccd734042962b511cbcfebf6bc53e6/1.json",
+  "metadata": {
+    "name": "PrettyWoman",
+    "image": "https://ori-static.particle.network/images/142ef7e8-5d55-41f4-9944-897b3c42b1cb.png",
+    "nftType": "derivative",
+    "licenseToken": "0x8365b6c0FCCD1502e745e12f1C3749818B7A0382",
+    "licenseTokenId": "2",
+    "attributes": [
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "earning",
+        "value": 1.33,
+        "max_value": 10
+      }
+    ],
+    "external_url": "https://orinft.xyz"
+  }
+}

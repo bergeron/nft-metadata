@@ -1,0 +1,48 @@
+{
+  "address": "0xaa1590c66b7c48dcd26b34bd4499eae5820e5e9b",
+  "type": "ERC721",
+  "name": "Elephrens NFT",
+  "tokenCount": "5000",
+  "uri": "ipfs://bafybeifgp7xb5vd2sfi622q2dn66w56buisbtm5hov2bbv2ve57awrffja/1.json",
+  "metadata": {
+    "name": "Elephren#1",
+    "description": "Elephrens is a collection of 5000 hand-drawn NFTs on the ETH blockchain.",
+    "external_url": "https://www.elephren.com/",
+    "image": "ipfs://Qmd4uHujkXvTwEXycGVqDFZEgiCvpdmY7sbbVuYQnZshmG/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "10_LinenLime"
+      },
+      {
+        "trait_type": "6-BODY",
+        "value": "04_Nug"
+      },
+      {
+        "trait_type": "5-HATS-HAIR",
+        "value": "08_SherBert"
+      },
+      {
+        "trait_type": "4-TOPS",
+        "value": "12_Milk Toast"
+      },
+      {
+        "trait_type": "3-EYES",
+        "value": "23_WOW!!"
+      },
+      {
+        "trait_type": "2-MOUTH",
+        "value": "12_Splifff"
+      },
+      {
+        "trait_type": "1-JEWELRY",
+        "value": "06_Diamond Stud"
+      },
+      {
+        "trait_type": "0-TRUNK",
+        "value": "01_Steven"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

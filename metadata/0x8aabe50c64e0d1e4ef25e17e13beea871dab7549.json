@@ -1,0 +1,41 @@
+{
+  "address": "0x8aabe50c64e0d1e4ef25e17e13beea871dab7549",
+  "type": "ERC721",
+  "name": "Fizzberry",
+  "tokenCount": "1000",
+  "uri": "ipfs://bafybeighahp5ksvquigmxi65uyfggundpkzyxvvx5huednvb4lnlkj3zam/1.json",
+  "metadata": {
+    "name": "Fizzberry #1",
+    "image": "ipfs://bafybeif5nfd6lwx74wo4bwsn2ajegphpr22yhdhzhqi7ws4kivmxopuvue/1.png",
+    "description": "Fizzberry travles mid universes",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Hair"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Ciggarete Face"
+      },
+      {
+        "trait_type": "Shirts",
+        "value": "Red Dots Shirt"
+      },
+      {
+        "trait_type": "Guy",
+        "value": "Glowing Guy"
+      },
+      {
+        "trait_type": "Backraund",
+        "value": "Shado"
+      },
+      {
+        "trait_type": "Backraund",
+        "value": "Background Yellow"
+      }
+    ],
+    "seller_fee_basis_points": 0,
+    "compiler": "nft-inator.com"
+  }
+}

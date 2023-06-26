@@ -1,0 +1,55 @@
+{
+  "address": "0x7effc9e1c96ce2b524d38ecaac6219ba02d6df85",
+  "type": "ERC721",
+  "name": "Mkol",
+  "tokenCount": "13",
+  "uri": "https://ipfs.io/ipfs/QmUeSbLJv6TJxmGsdR4frWwLquLARdPLMBKcfcdwHttXDm/1",
+  "metadata": {
+    "name": "Dumb Monke #2",
+    "symbol": "",
+    "image": "https://ipfs.io/ipfs/QmZ5j6PNJDStW1QK5wr89WwuBCmPtoNpoSQ1YjjiAcijYA/2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": []
+    },
+    "description": "",
+    "seller_fee_basis_points": 500,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Costume",
+        "value": "Classic Suit"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Ski"
+      },
+      {
+        "trait_type": "Head Accessories",
+        "value": "Cosmo Helmet"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Protruding"
+      }
+    ],
+    "collection": {}
+  }
+}

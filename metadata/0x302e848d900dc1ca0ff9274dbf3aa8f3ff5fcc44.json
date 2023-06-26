@@ -1,0 +1,40 @@
+{
+  "address": "0x302e848d900dc1ca0ff9274dbf3aa8f3ff5fcc44",
+  "type": "ERC721",
+  "name": "Gather Masternode NFTs",
+  "tokenCount": "182",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmRXEcBj1Tz3xhN7GZjZYCBfpx5x4tNjySkjXKXkVuhzXU/GatherFullMasternodeTier-1-1-0-250000.json",
+  "metadata": {
+    "name": "Gather Full Masternode - Tier 1 - 250000 GTH",
+    "description": "This NFT represents the ownership of Gather Network's Full Masternode, $GTH masternode collateral is linked to the NFT. It is used as an access key to run masternode servers for Gather Cloud.",
+    "image": "ipfs://QmWVcXnhhf9yo4q9C4QeADy5LL8UFBiCEqcjSfNMS9ugKj",
+    "animation_url": "ipfs://QmWVcXnhhf9yo4q9C4QeADy5LL8UFBiCEqcjSfNMS9ugKj",
+    "attributes": [
+      {
+        "trait_type": "Batch Number",
+        "value": "1"
+      },
+      {
+        "trait_type": "Masternode Number",
+        "value": "1"
+      },
+      {
+        "trait_type": "GTH amount",
+        "value": "250000"
+      },
+      {
+        "trait_type": "Masternode Type",
+        "value": "Full"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Active Since",
+        "value": 1607385600
+      },
+      {
+        "trait_type": "Rewards",
+        "value": "Cloud Profits"
+      }
+    ]
+  }
+}

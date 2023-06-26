@@ -1,0 +1,109 @@
+{
+  "address": "0x647f282027e8e14f74c33a6b8b8225c8c4df2e8b",
+  "type": "ERC721",
+  "name": "Chocologic",
+  "tokenCount": "24",
+  "uri": "ipfs://Qmc73XSLmVM3z5Rbh4n5E5sQzyx6fExrQh9NUWdscCTsQk",
+  "metadata": {
+    "name": "Cookie Tray 1",
+    "description": "Cookie Tray 1 \nby Tavarus Blackmonster\n©2022 Tavarus Blackmon Art LLC\n\nVerisart Certified: https://verisart.com/works/93035d9e-8125-440b-b0bc-f56b64cf7234",
+    "image": "ipfs://QmY5MBp97xUfjh8rhTEJrigFEVn9FJnhg7nJmVm75JJMrp",
+    "properties": {
+      "verisart": {
+        "productionYear": 2018,
+        "dimensions": {
+          "width": 2278,
+          "height": 2378,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": null,
+        "frameRate": null,
+        "tags": [
+          "Cookie",
+          "Photography",
+          "Art",
+          "TVTray",
+          "Sculpture",
+          "Gingerbread",
+          "Candy",
+          "DigitalArt",
+          "Painting",
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0x29904a621a509ee274d8b1f51f01e7f1b6c12d7a",
+            "bps": 1000
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": null
+      }
+    },
+    "external_url": "https://verisart.com/works/93035d9e-8125-440b-b0bc-f56b64cf7234",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "Cookie"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "Photography"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "Art"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "TVTray"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "Sculpture"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "Gingerbread"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "Candy"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "DigitalArt"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "Painting"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Tavarus Blackmon"
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2018"
+      },
+      {
+        "trait_type": "Title",
+        "value": "Cookie Tray 1"
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "2378x2278 px"
+      },
+      {
+        "trait_type": "Collector Reward",
+        "value": "True"
+      }
+    ]
+  }
+}

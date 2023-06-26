@@ -1,0 +1,140 @@
+{
+  "address": "0x94095af825f3e9c81d4fac1c5366d4691b4455ed",
+  "type": "ERC721",
+  "name": "2021 Bucks Championship Ring",
+  "tokenCount": "3",
+  "uri": "ipfs://QmWVUMA8bvRRTa741XZK3t4yKgQj1KSDRRbucDAp7rweW2",
+  "metadata": {
+    "name": "2021 Bucks Championship Ring No. 2",
+    "description": "No Championship is complete without a ring! Take your Championship Collection to the next level by securing one of these rare 1 of 3 2021 Bucks Championship Rings.",
+    "image": "ipfs://Qmcw9jxUuFSVcHeeR9ZF6WMHV9HhL2Rv3MHTn9XmZRTUtW",
+    "external_url": "https://collectible.sweet.io/series/1425/2",
+    "uri": "https://collectible.sweet.io/series/1425/2",
+    "uri_sha256": "ibx_KsNP_wi4dQaF3m9rSiWIHUUoR8wUfG4OGj_PE80=",
+    "extended_metadata": {
+      "creator": {
+        "name": "SocialSweet Inc.",
+        "uri": "https://sweet.io"
+      },
+      "rights_info": {
+        "copyright_holder": "SocialSweet Inc.",
+        "copyright_notice": "(c) Copyright 2022 SocialSweet Inc., all rights reserved",
+        "terms_and_conditions": {
+          "url": "https://collectible.sweet.io/static/terms-and-conditions-mar2021.txt",
+          "sha256": "an7cc_0l4AOoHzgqFA_n5irW8PKRVrDaHXRsxTguNQE="
+        }
+      },
+      "name": "2021 Bucks Championship Ring No. 2",
+      "issued": "2022-04-07T22:21:34.132924",
+      "series": {
+        "display_meta": {
+          "genre": "music",
+          "name": "2021 Bucks Championship Ring",
+          "color": "#D0BC86",
+          "metalness": 0.5,
+          "roughness": 0.5,
+          "description": "No Championship is complete without a ring! Take your Championship Collection to the next level by securing one of these rare 1 of 3 2021 Bucks Championship Rings.",
+          "type": "video",
+          "print_sequence_number_on_image": false,
+          "creator_campaign_id": 818,
+          "rarity": {
+            "name": "Tier 5",
+            "rank": 5
+          },
+          "creator_campaign": {
+            "campaign_id": 818,
+            "name": "Milwaukee Bucks",
+            "description": "Milwaukee Bucks",
+            "client": {
+              "name": "Milwaukee Bucks",
+              "company": "Milwaukee Bucks"
+            }
+          }
+        },
+        "total_number": 3,
+        "uri": "https://collectible.sweet.io/series/1425"
+      },
+      "fees": [
+        {
+          "basis_points": 1500,
+          "recipient_address": "0x692355378156A9b39A25f87B99cE6Ff4570f8A1c",
+          "type": "seller-fee"
+        }
+      ],
+      "type": "erc721",
+      "network": "ethereum",
+      "uri": "https://collectible.sweet.io/series/1425/2",
+      "assets": {
+        "front_image": {
+          "url": "https://collectible.sweet.io/series/1425/image-front.png",
+          "sha256": "6ETXTkam3AhHQ44ACU67gLRwPoOM6G5BbiIZ9XZ2AHg=",
+          "altloc": {
+            "ipfs": "ipfs://QmPguQeRvcRDhrh6wE9Jt162XU8ApyqaG5Etds8HQ5VCgn"
+          },
+          "content-type": "image/png"
+        },
+        "reverse_image": null,
+        "media": [
+          {
+            "uri": "https://mediagateway.sweet.io/media/series/4NbnGXRW/media.mp4",
+            "sha256": "WOzi37BW739fUPtgAhiqe79vvyZFjTJ9I7eDYD7iugY=",
+            "altloc": {
+              "ipfs": "ipfs://Qmdm9G7sEW6xq4Nb9ea7Y68Scpz7RuCG4fuxVLJcEpE4yQ"
+            },
+            "content-type": "video/mp4",
+            "gateway": "https://mediagateway.sweet.io/gateway/series/4NbnGXRW/media.mp4",
+            "purpose": "primary-asset"
+          }
+        ]
+      },
+      "images": {
+        "front": {
+          "url": "https://collectible.sweet.io/series/1425/images/front.png",
+          "width": 1024,
+          "height": 1024,
+          "sha256": "iGX2qFlmWxWA5c4G0aZWGqLQZKHciVTaU9d_-fxyko8=",
+          "altloc": {
+            "ipfs": "ipfs://QmZrWRx9YN9zisj8PPLPZTtb1ALazrujT121s9XiDKhkzA"
+          },
+          "content-type": "image/png"
+        }
+      },
+      "sequence_number": 2,
+      "image": {
+        "url": "https://collectible.sweet.io/series/1425/images/front.png",
+        "width": 1024,
+        "height": 1024,
+        "sha256": "iGX2qFlmWxWA5c4G0aZWGqLQZKHciVTaU9d_-fxyko8=",
+        "altloc": {
+          "ipfs": "ipfs://QmZrWRx9YN9zisj8PPLPZTtb1ALazrujT121s9XiDKhkzA"
+        },
+        "content-type": "image/png",
+        "thumbnail": {
+          "350": {
+            "url": "https://collectible.sweet.io/series/1425/images/front-350x.png",
+            "width": 350,
+            "height": 350,
+            "sha256": "jujhwdp_3OIGHFOdtbdL6WEL0cdvMmtby1rT5wvVimk=",
+            "altloc": {
+              "ipfs": "ipfs://Qmcw9jxUuFSVcHeeR9ZF6WMHV9HhL2Rv3MHTn9XmZRTUtW"
+            },
+            "content-type": "image/png"
+          },
+          "500": {
+            "url": "https://collectible.sweet.io/series/1425/images/front-500x.png",
+            "width": 500,
+            "height": 500,
+            "sha256": "26yQl-A3CjW-FZ4QKdvJlhJRcCnZDpfQaO-Unp5Y7BI=",
+            "altloc": {
+              "ipfs": "ipfs://Qmf6943ccwTkUjk6jtUzCVb62QMkA1aD4hB5aNqfnTzr1C"
+            },
+            "content-type": "image/png"
+          }
+        }
+      }
+    },
+    "sequence_number": 2,
+    "attributes": [],
+    "animation_url": "ipfs://Qmdm9G7sEW6xq4Nb9ea7Y68Scpz7RuCG4fuxVLJcEpE4yQ"
+  }
+}

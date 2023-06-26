@@ -1,0 +1,42 @@
+{
+  "address": "0x7fb817aece179d3248b6ae09d8a3556bf29dc85a",
+  "type": "ERC721",
+  "name": "CLOWNPOSTERS",
+  "tokenCount": "234",
+  "uri": "ipfs://bafybeifolav5trcdbokich6gccxveawuj6v4erlvpsxnibr6mpeeqle3yy/1",
+  "metadata": {
+    "name": "CLOWNPOSTER #1",
+    "description": "CLOWNPOSTERS is a NFT project of 6,666 generative pfps based on SCHIZOPOSTERS #1",
+    "attributes": [
+      {
+        "trait_type": "Clowns",
+        "value": "Hala"
+      },
+      {
+        "trait_type": "Traits #2",
+        "value": "Indifferent"
+      },
+      {
+        "trait_type": "Traits #3",
+        "value": "AForAdults"
+      },
+      {
+        "trait_type": "Traits #4",
+        "value": "9"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x4e7Eec1F82524EA259cB8e258d0BF0285C1D439D",
+        "share": 100
+      }
+    ],
+    "collection": {
+      "name": "CLOWNPOSTERS",
+      "family": "Unique Family Name"
+    },
+    "symbol": "CLOWN",
+    "seller_fee_basis_points": 5,
+    "image": "ipfs://bafybeietk37vp2ea33nsizmo4zqb7vpfmqi5gu2tz3hw6vx4fcdbhqxs44/1.png"
+  }
+}

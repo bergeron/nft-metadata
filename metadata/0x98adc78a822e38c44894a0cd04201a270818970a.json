@@ -1,0 +1,46 @@
+{
+  "address": "0x98adc78a822e38c44894a0cd04201a270818970a",
+  "type": "ERC721",
+  "name": "Common Spaces by Sasha Belitskaja",
+  "tokenCount": "100",
+  "uri": "https://static.wild.xyz/tokens/1114/metadata/1.json",
+  "metadata": {
+    "token_id": 1,
+    "description": "Common Spaces, created by Sasha Belitskaja, is a collection of 100 unique self-contained microverses that challenge our perception of digital space. The project is explorative in nature, inviting viewers to navigate and discover new dimensions of a common digital space. Each aspect of the world, including walls, floors, ceilings, sculptures, characters, and environmental details has been designed and created in VR - then refined through digitally painted textures. The customization aesthetics of Common Spaces offer a glimpse into the future of immersive design, where only the limits of our imagination determine the possibilities of our world.",
+    "name": "Common Spaces #1",
+    "image": "https://static.wild.xyz/tokens/1114/assets/common-spaces_001.webp",
+    "external_url": "https://wild.xyz/sasha-belitskaja/common-spaces/1/",
+    "animation_url": "https://wild.xyz/viewer/1114/1/",
+    "attributes": [
+      {
+        "trait_type": "walls",
+        "value": "stinky bean"
+      },
+      {
+        "trait_type": "floors/cielings",
+        "value": "mismatch"
+      },
+      {
+        "trait_type": "sculpture",
+        "value": "hopeful leaf"
+      },
+      {
+        "trait_type": "character",
+        "value": "sad bob"
+      },
+      {
+        "trait_type": "environment",
+        "value": "foggy eyes"
+      }
+    ],
+    "viewer_assets": [
+      {
+        "type": "pureweb",
+        "projectId": "fabbbeb0-ac04-4437-b8ce-c6278cb63348",
+        "modelId": "1c87b209-9030-43c0-8a75-d4d193a55e92",
+        "image": "https://static.wild.xyz/tokens/1114/assets/common-spaces-bg_001.webp"
+      }
+    ],
+    "revealed": true
+  }
+}

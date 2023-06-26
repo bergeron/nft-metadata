@@ -1,0 +1,29 @@
+{
+  "address": "0xaf69045daa43049236334828447612db64eefba7",
+  "type": "ERC1155",
+  "name": "NINFA Rewards",
+  "tokenCount": "3",
+  "uri": "ipfs://QmQhsDC76i4imqxcLv8geDtac2BkzA6QsMbgbjsMWR16C3",
+  "metadata": {
+    "name": "Legendary Pepe Artist",
+    "description": "The holders of this card are told to be able to sold-out drops in minutes, or years, depending on their pepeness",
+    "image": "ipfs://QmcTbmk8zFmsDr5YLBZSwmEVEtcirn7HVXPXxGNFhEhXf6/nft.mp4",
+    "animation_url": "ipfs://QmcTbmk8zFmsDr5YLBZSwmEVEtcirn7HVXPXxGNFhEhXf6/nft.mp4",
+    "external_url": "https://ninfa.io",
+    "attributes": [
+      {
+        "trait_type": "artist",
+        "value": "ninfadeployer.eth"
+      },
+      {
+        "trait_type": "editioned_on",
+        "value": "ninfa.io"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "editioned",
+        "value": 1681289081
+      }
+    ]
+  }
+}

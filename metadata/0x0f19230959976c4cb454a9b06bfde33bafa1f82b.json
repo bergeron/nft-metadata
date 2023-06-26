@@ -1,0 +1,56 @@
+{
+  "address": "0x0f19230959976c4cb454a9b06bfde33bafa1f82b",
+  "type": "ERC721",
+  "name": "entities 2017",
+  "tokenCount": "6",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=892gRsl711ptIbu2jLKa",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1587388641704?alt=media&token=42592956-772e-4c4f-9c4a-90fec17a851a",
+    "forSale": true,
+    "description": "feed the cat! see AR art  (with AR app - artivive.com)",
+    "contractAddress": "0x0f19230959976c4cb454a9b06bfde33bafa1f82b",
+    "tags": [],
+    "amountToMint": 3,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1587389063,
+      "_nanoseconds": 970000000
+    },
+    "price": "0.0166",
+    "name": "cat feed",
+    "fiatPrice": "$2.99",
+    "attributes": [
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1587333600
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": ""
+      },
+      {
+        "trait_type": "location",
+        "value": "Vienna, Austria"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJn8o2UZ4HbUcRRluiUYrlwv0"
+      },
+      {
+        "trait_type": "website",
+        "value": "litto.work"
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "youtube_url": "https://www.youtube.com/watch?v=3yc3tjyAdv0",
+    "external_url": "https://mintbase.io/my-market/0x0f19230959976c4cb454a9b06bfde33bafa1f82b",
+    "type": "ERC721"
+  }
+}

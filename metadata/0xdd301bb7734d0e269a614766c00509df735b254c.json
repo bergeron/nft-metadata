@@ -1,0 +1,58 @@
+{
+  "address": "0xdd301bb7734d0e269a614766c00509df735b254c",
+  "type": "ERC721",
+  "name": "The Gaussian Protocol",
+  "tokenCount": "8888",
+  "uri": "https://www.gaussianprotocol.io/api/v1/metadata/1",
+  "metadata": {
+    "name": "Gaussian #1",
+    "description": "A set of 8 random numbers whose rarity follows a Gaussian distribution. Generated and stored on-chain using the power of the central limit theorem.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTT1PCEu5TmovuxWWzxjfhDqnSxp3WiGH2qeM2jBFFpnm/1.png",
+    "attributes": [
+      {
+        "trait_type": "1st",
+        "value": "8"
+      },
+      {
+        "trait_type": "2nd",
+        "value": "11"
+      },
+      {
+        "trait_type": "3rd",
+        "value": "13"
+      },
+      {
+        "trait_type": "4th",
+        "value": "9"
+      },
+      {
+        "trait_type": "5th",
+        "value": "8"
+      },
+      {
+        "trait_type": "6th",
+        "value": "12"
+      },
+      {
+        "trait_type": "7th",
+        "value": "9"
+      },
+      {
+        "trait_type": "8th",
+        "value": "9"
+      },
+      {
+        "trait_type": "Sum",
+        "value": "79"
+      },
+      {
+        "trait_type": "Commons",
+        "value": 7
+      },
+      {
+        "trait_type": "Uncommons",
+        "value": 1
+      }
+    ]
+  }
+}

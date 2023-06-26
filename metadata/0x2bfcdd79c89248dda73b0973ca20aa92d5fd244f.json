@@ -1,0 +1,38 @@
+{
+  "address": "0x2bfcdd79c89248dda73b0973ca20aa92d5fd244f",
+  "type": "ERC721",
+  "name": "AlienCatsNya!",
+  "tokenCount": "30",
+  "uri": "ipfs://QmSmRpJut1Uogpd8YghMovLAMup9qZii3LJjr49wiBtGZt/1.json",
+  "metadata": {
+    "name": "Alien Cat #1",
+    "description": "Alien Cats",
+    "image": "ipfs://QmUuBsdcE5dwiBQ4JPjca8VtwcCnQupWEZVpdKndsz6qvZ/1.png",
+    "dna": "58278370b128ee25d35bd1e26500859473089de6",
+    "edition": 1,
+    "date": 1668306369713,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "shape",
+        "value": "brown"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "grey"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "line"
+      },
+      {
+        "trait_type": "neck",
+        "value": "celeste"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

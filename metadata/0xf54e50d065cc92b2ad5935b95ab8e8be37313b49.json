@@ -1,0 +1,31 @@
+{
+  "address": "0xf54e50d065cc92b2ad5935b95ab8e8be37313b49",
+  "type": "ERC721",
+  "name": "Munger Paintings",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/6FEd3cCAVBTT1Zi_lLjwfl7XaiN7IsG8OrtWY6a9iP0",
+  "metadata": {
+    "name": "Flying Parrot",
+    "created_by": "munger.art",
+    "description": "Originally painted with oil on canvas",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "munger"
+      },
+      {
+        "value": "2011",
+        "trait_type": "Year"
+      }
+    ],
+    "image_details": {
+      "bytes": 475636,
+      "format": "JPEG",
+      "sha256": "5740021e8eb948a17c25e191e344e6bd1d1f9816a66d9bf31eff551a07ec921b",
+      "width": 1000,
+      "height": 790
+    },
+    "image": "https://arweave.net/u0FCXxMdU8irdumQzSFy34aHf55E2wyTqWrrVyH3aCM",
+    "image_url": "https://arweave.net/u0FCXxMdU8irdumQzSFy34aHf55E2wyTqWrrVyH3aCM"
+  }
+}

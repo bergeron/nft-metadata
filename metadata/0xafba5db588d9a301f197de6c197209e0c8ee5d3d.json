@@ -1,0 +1,80 @@
+{
+  "address": "0xafba5db588d9a301f197de6c197209e0c8ee5d3d",
+  "type": "ERC721",
+  "name": "Digi Wastelanders",
+  "tokenCount": "15",
+  "uri": "ipfs://bafybeibj35w7cnocg3a3hvo4onh62bplqvjvyn7nbhkdcmejwdgfu44cqq/1",
+  "metadata": {
+    "name": "Digi Wastelander #1",
+    "image": "ipfs://bafybeihbzqcrjnuwraljkx2yslwjdhc3jyotbbdjzwve3uowlpxnrynt7q/1.png",
+    "external_url": "https://opensea.io/collection/digi-wastelanders",
+    "description": "Digi Wastelander #1",
+    "attributes": [
+      {
+        "value": "Undeath",
+        "trait_type": "Mutation"
+      },
+      {
+        "value": "Green Jumpsuit (Survivor)",
+        "trait_type": "Clothing"
+      },
+      {
+        "value": "Eye 5",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "None",
+        "trait_type": "Accessory"
+      },
+      {
+        "value": 1,
+        "trait_type": "Digi Wastelander #",
+        "display_type": "number"
+      },
+      {
+        "value": 4,
+        "max_value": 10,
+        "trait_type": "Strength"
+      },
+      {
+        "value": 2,
+        "max_value": 10,
+        "trait_type": "Dexterity"
+      },
+      {
+        "value": 6,
+        "max_value": 10,
+        "trait_type": "Vigor"
+      },
+      {
+        "value": 3,
+        "max_value": 10,
+        "trait_type": "Mind"
+      },
+      {
+        "value": 3,
+        "max_value": 10,
+        "trait_type": "Intelligence"
+      },
+      {
+        "value": 2,
+        "max_value": 10,
+        "trait_type": "Charisma"
+      },
+      {
+        "value": 2,
+        "max_value": 10,
+        "trait_type": "Luck"
+      },
+      {
+        "value": 1,
+        "trait_type": "Reinforced Jumpsuit",
+        "display_type": "boost_number"
+      },
+      {
+        "value": "Blue",
+        "trait_type": "Background"
+      }
+    ]
+  }
+}

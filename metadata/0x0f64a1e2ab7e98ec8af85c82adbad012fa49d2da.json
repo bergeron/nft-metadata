@@ -1,0 +1,47 @@
+{
+  "address": "0x0f64a1e2ab7e98ec8af85c82adbad012fa49d2da",
+  "type": "ERC721",
+  "name": "PropyNFT V2",
+  "tokenCount": "2",
+  "uri": "ipfs://QmNVkM8pik32aDAjraEi4ymHweyddSiKx3EFUfaPEYxSiY",
+  "metadata": {
+    "description": "Testing.\n\nTestNFT",
+    "external_url": "just_a_test",
+    "image": "ipfs://QmZmBYagvxvc7kaHEyn3mw3Wq2BCa8bUQ63tMpZx3MUxRH",
+    "name": "TestNFT-Propy",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Single Family Home"
+      },
+      {
+        "trait_type": "Address",
+        "value": "123 Main str"
+      },
+      {
+        "trait_type": "Country",
+        "value": "BG"
+      },
+      {
+        "trait_type": "City",
+        "value": "City"
+      },
+      {
+        "trait_type": "zip",
+        "value": "00000"
+      },
+      {
+        "trait_type": "Sqft",
+        "value": "20,164"
+      },
+      {
+        "trait_type": "bedrooms",
+        "value": "50"
+      },
+      {
+        "trait_type": "bathrooms",
+        "value": "40"
+      }
+    ]
+  }
+}

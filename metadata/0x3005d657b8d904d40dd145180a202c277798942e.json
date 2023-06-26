@@ -1,0 +1,55 @@
+{
+  "address": "0x3005d657b8d904d40dd145180a202c277798942e",
+  "type": "ERC721",
+  "name": "Lab Grown Beasts",
+  "tokenCount": "1212",
+  "uri": "https://lgb-metadata.s3.amazonaws.com/1",
+  "metadata": {
+    "name": "Lab Grown Beast #1",
+    "description": "LGB",
+    "image": "https://lgb-images.s3.amazonaws.com/1.png",
+    "dna": "d5e0b164822f2b74fae469b058039046f9683731",
+    "edition": 1,
+    "date": 1662537833505,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Icy"
+      },
+      {
+        "trait_type": "Back Armour",
+        "value": "Shield"
+      },
+      {
+        "trait_type": "Tertiary Weapon",
+        "value": "Quad Blaster"
+      },
+      {
+        "trait_type": "Horns",
+        "value": "Broken Horn"
+      },
+      {
+        "trait_type": "Body Color",
+        "value": "Jade"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Warrior"
+      },
+      {
+        "trait_type": "Secondary Weapon",
+        "value": "Samurai"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Deceit"
+      },
+      {
+        "trait_type": "Primary Weapon",
+        "value": "Life Slicer"
+      }
+    ],
+    "compiler": "HashLips Art Engine",
+    "tokenId": 1
+  }
+}

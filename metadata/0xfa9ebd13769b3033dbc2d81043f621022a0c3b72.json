@@ -1,0 +1,25 @@
+{
+  "address": "0xfa9ebd13769b3033dbc2d81043f621022a0c3b72",
+  "type": "ERC721",
+  "name": "veNFT - ZnQSjlOeVN",
+  "tokenCount": "20",
+  "uri": "https://defi.choise.com/nft/1",
+  "metadata": {
+    "name": "CHO lock #1",
+    "description": "Staking CHO implies locking CHO tokens by putting them into a profit pool. The more CHO you lock, the more benefits you get. The longer the lock-up period, the bigger APY you receive",
+    "image": "https://charism.io/nft/1.svg",
+    "external_url": "https://charism.io/staking",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Locked amount",
+        "value": 1
+      },
+      {
+        "display_type": "date",
+        "trait_type": "End date",
+        "value": 1668038400
+      }
+    ]
+  }
+}

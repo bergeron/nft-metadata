@@ -1,0 +1,31 @@
+{
+  "address": "0xa3689ad43b5848dd3fd2f6a776da64e10017902d",
+  "type": "ERC721",
+  "name": "NPC Community",
+  "tokenCount": "35",
+  "uri": "ar://jZsX6JeQeEDSTf05fDZ-APV4P6VIqNn2_2X_X6zr8PQ",
+  "metadata": {
+    "description": "NPC is a liquidity bootstrap experiment for NFTs. DAOs are DOOMED!\r\n\r\nEvery 24h a new NPC is trustlessly auctioned. 100% of the NPC auction proceeds are then trustlessly sent to the NPC treasury, with the settlement of one auction kicking off the next. At the end of the epoch, in this case once 333 NPC’s are created. After 266 days the treasury is re-distributed to all NPC NFT holders at a ratio of 1:Total NPCs minted.\r\n\r\nThe ‘Founders’ receive their rewards in the form of 20% of the NPC NFT’s total supply. The NFT’s are automatically sent to a multisig wallet and receive the same compensation ratio as all other NPC’s from the treasury. They don’t get paid until everyone else does. \r\n\r\nThe artwork used for the initial NPC experiment, depicted in this series, is created by an Automated Art Maker (AAM) AI. The AI uses the open source Flickr-Faces-HQ (FFHQ) which consists of 70,000 high-quality PNG images of human faces. This Dataset has been trained against a custom closed WEBGL script and licensed to NPC by a human Artist who has chosen to remain anonymous. \r\n\r\nThe rarity of the pieces will be determined by the NPC metadata consisting of background color, face shape, eye visibility and face color with certain trait combinations being more rare than others.",
+    "external_url": "https://npc.community/npc/1",
+    "image": "ar://JmJXfZWghH3ZooRhGB4QJHG4q8n3CLpc97W9Wqvnyl8",
+    "name": "NPC 1",
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye Visibility",
+        "value": "Visible"
+      },
+      {
+        "trait_type": "Face Shape",
+        "value": "Demon"
+      },
+      {
+        "trait_type": "Face Color",
+        "value": "Blue"
+      }
+    ]
+  }
+}

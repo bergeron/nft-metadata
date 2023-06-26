@@ -1,0 +1,92 @@
+{
+  "address": "0xcbed55966c23e78bce551405a24686310a02d2a0",
+  "type": "ERC721",
+  "name": "qwenrkjqwer",
+  "tokenCount": "256",
+  "uri": "https://api.artblocks.io/token/50000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "50000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "The Opera #1",
+    "minted": true,
+    "artist": "Luke Shannon",
+    "description": "On a cosmic stage, these actors sing an infinite song. What do they reach for? Who are they searching for? Do their faces show wonder—or sadness? Sometimes they sing for themselves, sometimes they sing for the crowd, and sometimes they sing for the void. Like us. (25% to environmental charities)",
+    "script_type": "p5@1.0.0",
+    "project_id": "50",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/50000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/50000001.png",
+    "generator_url": "https://generator.artblocks.io/50000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/50000001",
+    "royaltyInfo": {
+      "artistAddress": "0xc7d7852c8936cffd7903e07ce0758527c4b3e9a1",
+      "additionalPayee": "0xc7d7852c8936cffd7903e07ce0758527c4b3e9a1",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "The Opera by Luke Shannon",
+    "website": "https://twitter.com/bad_monk",
+    "token_hash": "0x2599cf992b1ed61c6e44fc41be630c7e4adbe473f4d6614d805137adcfae9bf5",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/50/tokens/50000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/50000001",
+    "features": {
+      "Arms": 2,
+      "Hyper": "false",
+      "Paper": "Old Lace",
+      "People": 2,
+      "Holding": 0,
+      "Palette": "Tertiaries",
+      "Singing": 2,
+      "Location": "Stage",
+      "Missing Eyes": 0
+    },
+    "traits": [
+      {
+        "trait_type": "The Opera",
+        "value": "All The Operas"
+      },
+      {
+        "trait_type": "The Opera",
+        "value": "Arms: 2"
+      },
+      {
+        "trait_type": "The Opera",
+        "value": "Hyper: false"
+      },
+      {
+        "trait_type": "The Opera",
+        "value": "Paper: Old Lace"
+      },
+      {
+        "trait_type": "The Opera",
+        "value": "People: 2"
+      },
+      {
+        "trait_type": "The Opera",
+        "value": "Holding: 0"
+      },
+      {
+        "trait_type": "The Opera",
+        "value": "Palette: Tertiaries"
+      },
+      {
+        "trait_type": "The Opera",
+        "value": "Singing: 2"
+      },
+      {
+        "trait_type": "The Opera",
+        "value": "Location: Stage"
+      },
+      {
+        "trait_type": "The Opera",
+        "value": "Missing Eyes: 0"
+      }
+    ],
+    "is_static": false,
+    "license": "NFT License"
+  }
+}

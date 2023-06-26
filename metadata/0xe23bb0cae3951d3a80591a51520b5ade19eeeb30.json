@@ -1,0 +1,40 @@
+{
+  "address": "0xe23bb0cae3951d3a80591a51520b5ade19eeeb30",
+  "type": "ERC1155",
+  "name": "Colombian Bakery",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/sYU5pEeDje5X_Y7DTtcGtlmZwYmd9KGgUXChcDeAZr0",
+  "metadata": {
+    "name": "Galleta de pepitas",
+    "created_by": "ex_acto",
+    "description": "Cryptopan  \nPanaderia virtual, minteada",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "ex_acto"
+      }
+    ],
+    "animation_details": {
+      "bytes": 3524794,
+      "format": "MP4",
+      "duration": 9,
+      "sha256": "62d2f6623f747131e9a49542f77f1f19f6aca8ad8ebc2c213a69f311ad64e203",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/ChPP1WJy7drZWpWc7AZvwnRJ3RqeD_cyaAw_VFrEPaI",
+    "animation_url": "https://arweave.net/ChPP1WJy7drZWpWc7AZvwnRJ3RqeD_cyaAw_VFrEPaI",
+    "image_details": {
+      "bytes": 401752,
+      "format": "PNG",
+      "sha256": "83dfb1412a7da4633da78d169a9d13c74acdf2bbad55ffeb2c5bbda4b734ece0",
+      "width": 1000,
+      "height": 1080
+    },
+    "image": "https://arweave.net/IigT9JmDvIDMqC2ZoB4iA4IABV6eRzD0y1FWLHWw22E",
+    "image_url": "https://arweave.net/IigT9JmDvIDMqC2ZoB4iA4IABV6eRzD0y1FWLHWw22E"
+  }
+}

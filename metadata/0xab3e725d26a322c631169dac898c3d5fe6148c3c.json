@@ -1,0 +1,42 @@
+{
+  "address": "0xab3e725d26a322c631169dac898c3d5fe6148c3c",
+  "type": "ERC721",
+  "name": "Web3 Monkeys",
+  "tokenCount": "999",
+  "uri": "ipfs://QmdXyyhyYFJaq2FvTwAgwe9Zzb52xPvXf4QHruXANfVt8Y/1.json",
+  "metadata": {
+    "name": "Ape #1",
+    "description": "Apes in bear market.",
+    "image": "ipfs://QmPU6iayTy7zZLFGqaNHqtQZBFzCDkaxaxYdNPW486ev1N/1.png",
+    "dna": "1fa73e3f95ed8aee8b47c9a7e196a45bb42446ea",
+    "edition": 1,
+    "date": 1658031842302,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Solana"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "CopVest"
+      },
+      {
+        "trait_type": "Head",
+        "value": "BurbellyCap"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Serious"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black"
+      }
+    ],
+    "compiler": "Apes"
+  }
+}

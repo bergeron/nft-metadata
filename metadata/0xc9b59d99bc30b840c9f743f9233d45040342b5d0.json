@@ -1,0 +1,28 @@
+{
+  "address": "0xc9b59d99bc30b840c9f743f9233d45040342b5d0",
+  "type": "ERC721",
+  "name": "Interaxis Time",
+  "tokenCount": "10",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=xri38ASOis0xWAqRgicu",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1580567006894?alt=media&token=6b1a6371-3e4c-4697-8471-586015cd28af",
+    "forSale": true,
+    "contractAddress": "0xc9b59d99bc30b840c9f743f9233d45040342b5d0",
+    "description": "1 hour of time from Interaxis",
+    "tags": [],
+    "amountToMint": 10,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1580567063,
+      "_nanoseconds": 702000000
+    },
+    "price": ".2",
+    "name": "Interaxis Time",
+    "fiatPrice": "$36.42",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0xc9b59d99bc30b840c9f743f9233d45040342b5d0",
+    "type": "ERC721"
+  }
+}

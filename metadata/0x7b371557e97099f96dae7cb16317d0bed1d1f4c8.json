@@ -1,0 +1,73 @@
+{
+  "address": "0x7b371557e97099f96dae7cb16317d0bed1d1f4c8",
+  "type": "ERC721",
+  "name": "AiBOTS",
+  "tokenCount": "3387",
+  "uri": "https://bafybeifemu4opeetsqnqsl2b2vvzvornvjaxwtccjyetlqpmpt26pf6qoq.ipfs.nftstorage.link/1.json",
+  "metadata": {
+    "name": "Hexa #1",
+    "symbol": "HEXA",
+    "description": "Project Hive Avatar is an all-in-one ticket to enter our ecosystem. Staking, Allocation in Private round, WLs in future sales. All of those packed into the piece of art, created personally by Marcin Rubinkowski with the mind-blowing kit bash technique.",
+    "seller_fee_basis_points": 800,
+    "image": "https://bafybeidlvfu5isl2kdfm5br7letbzgt3gpwsupstjznycz3fvz3xkopxf4.ipfs.nftstorage.link/1.png?ext=png",
+    "animation_url": "https://bafybeidlvfu5isl2kdfm5br7letbzgt3gpwsupstjznycz3fvz3xkopxf4.ipfs.nftstorage.link/1.mp4",
+    "external_url": "https://project-hive.io/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "1"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "4"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Accuracy",
+        "value": "+3%"
+      },
+      {
+        "trait_type": "Block Penetration",
+        "value": "+5%"
+      },
+      {
+        "trait_type": "Protocol Power",
+        "value": "+5%"
+      },
+      {
+        "trait_type": "Foresight",
+        "value": "+5%"
+      }
+    ],
+    "collection": {
+      "name": "Project Hive Avatars",
+      "family": "Project Hive Hexa"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://bafybeidlvfu5isl2kdfm5br7letbzgt3gpwsupstjznycz3fvz3xkopxf4.ipfs.nftstorage.link/1.png?ext=png",
+          "type": "image/png"
+        },
+        {
+          "uri": "https://bafybeidlvfu5isl2kdfm5br7letbzgt3gpwsupstjznycz3fvz3xkopxf4.ipfs.nftstorage.link/1.mp4?ext=mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video",
+      "creators": [
+        {
+          "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+          "share": 10
+        },
+        {
+          "address": "CPTVypitugeSk9shsEMFcfpfRca2uAFpsV9CNpU1UMiq",
+          "share": 90
+        }
+      ]
+    }
+  }
+}

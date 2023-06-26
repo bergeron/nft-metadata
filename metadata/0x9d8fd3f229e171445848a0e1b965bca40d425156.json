@@ -1,0 +1,50 @@
+{
+  "address": "0x9d8fd3f229e171445848a0e1b965bca40d425156",
+  "type": "ERC721",
+  "name": "PLASTICINE-BLE",
+  "tokenCount": "6",
+  "uri": "https://nftcollection.mypinata.cloud/ipfs/QmSy9Vph32A4snojESxKCfjL3LCKFcfFwp1uZZKeHiN71e/1.json",
+  "metadata": {
+    "name": "MIRA-BLE",
+    "description": "A story of one 16-year-old immigrant who dreams of becoming a singer, she sings in the shower in the morning, carries all the stray animals home, she is cheerful and sincere, but she has a very open heart and therefore burns herself, will she succeed in making her dream come true?",
+    "image": "https://nftcollection.mypinata.cloud/ipfs/QmRUPZidEs29VUhfho2Qrk4JWbtK8LBK5dbCnRtWXNTVVX/3.JPG",
+    "edition": 1,
+    "symbol": "BLE",
+    "external_url": "",
+    "collection": {
+      "name": "PLASTICINE-BLE"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x83Dd2C28e35Bfd44099883310C77B483093Ce7Bc"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "About",
+        "value": "Emigrant"
+      },
+      {
+        "trait_type": "At home",
+        "value": "Dreams"
+      },
+      {
+        "trait_type": "Flaw",
+        "value": "Believe"
+      },
+      {
+        "trait_type": "Ideal",
+        "value": "Sincere"
+      }
+    ]
+  }
+}

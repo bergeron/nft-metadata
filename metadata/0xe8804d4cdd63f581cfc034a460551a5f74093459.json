@@ -1,0 +1,131 @@
+{
+  "address": "0xe8804d4cdd63f581cfc034a460551a5f74093459",
+  "type": "ERC721",
+  "name": "Sweet Footballpop",
+  "tokenCount": "30",
+  "uri": "https://collectible.sweet.io/doc/App3ogQ1mNUHLjJQCGUB8Zs7-J2zm9WbwkHvqrqJ02I=/2",
+  "metadata": {
+    "name": "Footballpop No. 2",
+    "description": "This Pop is a touchdown for your wallet, and he's to take his shot!",
+    "image": "ipfs://QmYNhj9z9ig7Uoe8xrtZn5z46Z7kGDAbNztVdEok7X9Ba5",
+    "external_url": "https://collectible.sweet.io/series/1253/2",
+    "uri": "https://collectible.sweet.io/series/1253/2",
+    "uri_sha256": "L1wp2PQPdmgBBqLIDDr4_Yh8foUhIcoor8zxDbcK4X4=",
+    "extended_metadata": {
+      "creator": {
+        "name": "SocialSweet Inc.",
+        "uri": "https://sweet.io"
+      },
+      "rights_info": {
+        "copyright_holder": "SocialSweet Inc.",
+        "copyright_notice": "(c) Copyright 2022 SocialSweet Inc., all rights reserved",
+        "terms_and_conditions": {
+          "url": "https://collectible.sweet.io/static/terms-and-conditions-mar2021.txt",
+          "sha256": "an7cc_0l4AOoHzgqFA_n5irW8PKRVrDaHXRsxTguNQE="
+        }
+      },
+      "name": "Footballpop No. 2",
+      "issued": "2022-02-10T22:48:21.559045",
+      "series": {
+        "display_meta": {
+          "genre": "music",
+          "name": "Footballpop",
+          "color": "#000000",
+          "metalness": 0.5,
+          "roughness": 0.5,
+          "description": "This Pop is a touchdown for your wallet, and he's to take his shot!",
+          "type": "coin",
+          "print_sequence_number_on_image": true,
+          "creator_campaign_id": 815,
+          "rarity": {
+            "name": "Tier 4",
+            "rank": 4
+          },
+          "creator_campaign": {
+            "campaign_id": 815,
+            "name": "Sweet ETH",
+            "description": "Sweet ETH",
+            "client": {
+              "name": "Sweet ETH",
+              "company": "Sweet ETH"
+            }
+          }
+        },
+        "total_number": 50,
+        "uri": "https://collectible.sweet.io/series/1253"
+      },
+      "type": "erc721",
+      "network": "ethereum",
+      "uri": "https://collectible.sweet.io/series/1253/2",
+      "assets": {
+        "front_image": {
+          "url": "https://collectible.sweet.io/series/1253/image-front.png",
+          "sha256": "aDJrjzCtxZgL2Fx4VRL1_rxHR-xtNH62O6PAwBYJPs8=",
+          "altloc": {
+            "ipfs": "ipfs://QmQm6JbceNc9PexNVJmxSsshQHiBBKHkdqPyNEPWtg18Qq"
+          },
+          "content-type": "image/png"
+        },
+        "reverse_image": {
+          "url": "https://collectible.sweet.io/series/1253/image-reverse.png",
+          "sha256": "8tUxK0Saw4WDAb9IgEqkSW7cmsm9KVsLBhSCKUZDmh4=",
+          "altloc": {
+            "ipfs": "ipfs://QmWaVb8xP6iz74FdUtGQHrnn1qrgakC7pHD1TF7wycJ9P4"
+          },
+          "content-type": "image/png"
+        }
+      },
+      "images": {
+        "front": {
+          "url": "https://collectible.sweet.io/series/1253/2/images/front.png",
+          "sha256": "ki-X-xUSqr2fSK5gbPjUAN0LSmrs5jCnlv-dG9esI0c=",
+          "altloc": {
+            "ipfs": "ipfs://QmZ6f8jLtfQSUDfvvcmdWMRVvsSeEGyazSuVTrM2dCXW7U"
+          },
+          "content-type": "image/png"
+        },
+        "reverse": {
+          "url": "https://collectible.sweet.io/series/1253/2/images/reverse.png",
+          "sha256": "Ne2qFbKU0VNx8cqqpEowciUAchvgQeKuzrR73M0YnBI=",
+          "altloc": {
+            "ipfs": "ipfs://QmW4F72TH7KQWirBYq326CBTAyiFQdxQNNheXZ2skKYSPG"
+          },
+          "content-type": "image/png"
+        }
+      },
+      "sequence_number": 2,
+      "image": {
+        "url": "https://collectible.sweet.io/series/1253/2/images/front.png",
+        "sha256": "ki-X-xUSqr2fSK5gbPjUAN0LSmrs5jCnlv-dG9esI0c=",
+        "altloc": {
+          "ipfs": "ipfs://QmZ6f8jLtfQSUDfvvcmdWMRVvsSeEGyazSuVTrM2dCXW7U"
+        },
+        "content-type": "image/png",
+        "thumbnail": {
+          "350": {
+            "url": "https://collectible.sweet.io/series/1253/2/images/front-350x.png",
+            "width": 350,
+            "height": 350,
+            "sha256": "T2PPUmX2sPuKZtxTc2RDhcD5ukxBB_fMofckaMKJfJ4=",
+            "altloc": {
+              "ipfs": "ipfs://QmYNhj9z9ig7Uoe8xrtZn5z46Z7kGDAbNztVdEok7X9Ba5"
+            },
+            "content-type": "image/png"
+          },
+          "500": {
+            "url": "https://collectible.sweet.io/series/1253/2/images/front-500x.png",
+            "width": 500,
+            "height": 500,
+            "sha256": "6PHqM6YHhp5Tvmkh7QIAeT3cB7OF5XxtmzJu9iC9P4U=",
+            "altloc": {
+              "ipfs": "ipfs://QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH"
+            },
+            "content-type": "image/png"
+          }
+        }
+      }
+    },
+    "sequence_number": 2,
+    "attributes": []
+  }
+}

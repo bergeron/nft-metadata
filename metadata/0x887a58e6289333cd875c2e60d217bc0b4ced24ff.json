@@ -1,0 +1,38 @@
+{
+  "address": "0x887a58e6289333cd875c2e60d217bc0b4ced24ff",
+  "type": "ERC721",
+  "name": "Texas PumpJack",
+  "tokenCount": "3500",
+  "uri": "ipfs://QmeWHCuAsonLUhzsoXQBhMJJ7VYvwcH4UwLevpp29ARvPF/1.json",
+  "metadata": {
+    "name": "Texas PumpJack #1",
+    "description": "You own a PumpJack. Pumping is earns. The release of the genesis PumpJack will lay the foundation for a much broader concept.",
+    "image": "ipfs://QmZYCFTGUaFj6kGqZoLkTJ4AmT4m6NbXe7bHvqoetmMjEf/1.gif",
+    "dna": "20c5f993a8a2b8941714f32a12c8be3eb5872626",
+    "edition": 1,
+    "date": 1659823550918,
+    "attributes": [
+      {
+        "trait_type": "1_status",
+        "value": "7_active"
+      },
+      {
+        "trait_type": "2_status",
+        "value": "5_active"
+      },
+      {
+        "trait_type": "3_status",
+        "value": "1_active"
+      },
+      {
+        "trait_type": "4_status",
+        "value": "6_active"
+      },
+      {
+        "trait_type": "5_status",
+        "value": "10_active"
+      }
+    ],
+    "compiler": "Clayco"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0x0b3e1e107dff3c7ceaaa1a29b96228b573a6d69f",
+  "type": "ERC721",
+  "name": "Dolia Cats Genesis Collection",
+  "tokenCount": "666",
+  "uri": "ipfs://Qme8JKxd72fDM86vHb3ytZbdBjR8PNsdWzXRjBFCu6UFAt/1.json",
+  "metadata": {
+    "name": "Dolia Cat Genesis #1",
+    "description": "Dolia Cats Genesis Collection",
+    "image": "ipfs://Qma7Zjcz5AhqDAQBefFpt62q7ZGc6VGAT9FmhLwrLn1zHx/1.png",
+    "dna": "a07b50d6bf1f6a0099506e16d12f263f8f9234a5",
+    "edition": 1,
+    "date": 1662131568219,
+    "attributes": [
+      {
+        "trait_type": "location",
+        "value": "desert"
+      },
+      {
+        "trait_type": "race",
+        "value": "sphynx"
+      },
+      {
+        "trait_type": "dignity",
+        "value": "consul"
+      },
+      {
+        "trait_type": "mascot",
+        "value": "caduceus"
+      },
+      {
+        "trait_type": "element",
+        "value": "water"
+      }
+    ],
+    "home": "Meowcropolis"
+  }
+}

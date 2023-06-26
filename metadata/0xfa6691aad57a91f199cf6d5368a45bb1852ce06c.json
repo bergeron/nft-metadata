@@ -1,0 +1,45 @@
+{
+  "address": "0xfa6691aad57a91f199cf6d5368a45bb1852ce06c",
+  "type": "ERC721",
+  "name": "My Medieval Char",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeia5xu4iss4cqoiykj6dvb222ipjla5ysc2o7ybxhvxhlf2bp7mgwm/1.json",
+  "metadata": {
+    "name": "MyMedievalChar #1",
+    "description": "MyMedievalChar #1 - Generated and deployed on LaunchMyNFT.",
+    "fee_recipient": "0x7A553C0bCD667c119945CB020E6422f769009422",
+    "seller_fee_basis_points": 750,
+    "image": "ipfs://bafybeigcwr7lyerjsxtukmt3tztuxm2htcxc6fypt23wwpjcbaw3suwbae/1.png",
+    "attributes": [
+      {
+        "trait_type": "Fondos",
+        "value": "Red"
+      },
+      {
+        "trait_type": "BASE",
+        "value": "Base"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Armor"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Hat"
+      },
+      {
+        "trait_type": "WeaponL",
+        "value": "Life Potion"
+      },
+      {
+        "trait_type": "WeaponR",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 4610,
+        "display_type": "number"
+      }
+    ]
+  }
+}

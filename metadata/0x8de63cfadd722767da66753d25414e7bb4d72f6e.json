@@ -1,0 +1,28 @@
+{
+  "address": "0x8de63cfadd722767da66753d25414e7bb4d72f6e",
+  "type": "ERC721",
+  "name": "PixMons",
+  "tokenCount": "512",
+  "uri": "https://pixmons.vercel.app/api/1",
+  "metadata": {
+    "name": "PixMon #1",
+    "description": "Pixel Monsters are unique pixel algorithm-generated NFTs. Only 512 in existence.",
+    "tokenId": 1,
+    "image": "https://gateway.pinata.cloud/ipfs/QmSeTBMUdcY8tDUnzWMNR822pUPZEYBKhXMuZ6nsjTq41d",
+    "external_url": "https://www.PixMons.co",
+    "attributes": [
+      {
+        "trait_type": "Bottom",
+        "value": "ZZ"
+      },
+      {
+        "trait_type": "Top",
+        "value": "YY"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "UU"
+      }
+    ]
+  }
+}

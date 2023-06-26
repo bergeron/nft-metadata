@@ -1,0 +1,46 @@
+{
+  "address": "0x1af8551b88601cc879e505b4f7655fe855a3b680",
+  "type": "ERC721",
+  "name": "Zplit Digital Discs V2",
+  "tokenCount": "25",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=q6692BhXAW9EtyLmpBnf",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1585084093250?alt=media&token=91a1417f-d5e3-4c2b-95ab-668c962442f2",
+    "forSale": true,
+    "contractAddress": "0x1af8551b88601cc879e505b4f7655fe855a3b680",
+    "description": "This is a digital collectible that represents \"bedroom korg selection\" EP by Zplit A four-track experimental album with repeating sequences from the Korg Monologue synthesizer -- heavily inspired by 90's Breakbeat, Techno, and Trance.\n\n\n\n\n",
+    "tags": [],
+    "amountToMint": 12,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1585084756,
+      "_nanoseconds": 389000000
+    },
+    "price": "0.03",
+    "name": "bedroom korg selection",
+    "fiatPrice": "$4.20",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "website",
+        "value": "https://zplit.bandcamp.com/album/bedroom-korg-selection"
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "location",
+        "value": "560 Mission St, San Francisco, CA 94105, USA"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJC80S3WKAhYAROX3Aw4FFjbM"
+      }
+    ],
+    "youtube_url": "https://youtu.be/8-ImJzgZp20",
+    "external_url": "https://mintbase.io/my-market/0x1af8551b88601cc879e505b4f7655fe855a3b680",
+    "type": "ERC721"
+  }
+}

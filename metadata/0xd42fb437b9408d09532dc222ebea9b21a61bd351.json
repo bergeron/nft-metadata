@@ -1,0 +1,49 @@
+{
+  "address": "0xd42fb437b9408d09532dc222ebea9b21a61bd351",
+  "type": "ERC721",
+  "name": "Molly Secret Collection",
+  "tokenCount": "888",
+  "uri": "ipfs://QmegXL6sU6ukpSpsRAFZp886SYASd5GPPhhVFdjQfBV3kM/1.json",
+  "metadata": {
+    "name": "Molly Secret Collection #1",
+    "description": "Molly Secret Collection: 888 custom made 3D unique, animated NFTs with one simple, yet ambitious goal- create the largest decentralized community & alpha group of high-end art collectors & artists & influencers.",
+    "external_url": "https://molly-nft.com/",
+    "image": "ipfs://Qmeu7YwQ2Tcr5T5cAFMs2bNLXEhwWuqtSGLAnBEJqdzMX9/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Molly",
+        "value": "Marble bg Molly"
+      },
+      {
+        "trait_type": "Forground",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "Staking Power",
+        "value": "None"
+      },
+      {
+        "trait_type": "Voting Power",
+        "value": "None"
+      },
+      {
+        "trait_type": "Legendary",
+        "value": "No"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "collection": {
+      "name": "Molly Secret Collection",
+      "family": "Molly Secret Collection"
+    }
+  }
+}

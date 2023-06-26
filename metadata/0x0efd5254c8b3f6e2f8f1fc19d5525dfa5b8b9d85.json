@@ -1,0 +1,31 @@
+{
+  "address": "0x0efd5254c8b3f6e2f8f1fc19d5525dfa5b8b9d85",
+  "type": "ERC721",
+  "name": "Clockchains v1.0",
+  "tokenCount": "47",
+  "uri": "https://clockchains.io/token.php?id=1",
+  "metadata": {
+    "name": "Clockchain #1",
+    "description": "Clockchains are 365 onchain-stored clocks that display the date, time, and lunar phase, according to the tier. If you cannot see this clockchain, or want to display it directly on a capable device, please visit https://clockchains.io/render.php?id=1.",
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Stygian Chronosphere"
+      },
+      {
+        "trait_type": "Textcolor",
+        "value": "#FF1A03"
+      },
+      {
+        "trait_type": "Foreground",
+        "value": "#FF1A03"
+      },
+      {
+        "trait_type": "Background",
+        "value": "#000000"
+      }
+    ],
+    "animation_url": "https://clockchains.io/render.php?id=1",
+    "image": "https://clockchains.io/assets/img/tier1.png"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "address": "0xfaa9ea5bc13e77d2b9010b166140bd4dc133e9ed",
+  "type": "ERC721",
+  "name": "Infected zombie",
+  "tokenCount": "2999",
+  "uri": "ipfs://bafybeieq3azatw46olnj7nam34cfxkerlio2pvkvgu7ttx5qzjasglxgfe/1.json",
+  "metadata": {
+    "name": "Infected Mob #2",
+    "symbol": "IM",
+    "description": "A collection of deranged and savage mobsters spreading across Solana.",
+    "seller_fee_basis_points": 880,
+    "image": "https://bafybeibs6kjy2rrpgjxwmrklvwa76jn7q3gvconw32uzciupade67xhgwq.ipfs.nftstorage.link/1.png?ext=png",
+    "external_url": "https://mobstudios.io/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Banana Yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Almost Domesticated Snake"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Bullet Eater"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Lazy Bulbs"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Fungus Trouble"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://bafybeibs6kjy2rrpgjxwmrklvwa76jn7q3gvconw32uzciupade67xhgwq.ipfs.nftstorage.link/1.png?ext=png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "TEAMCqEh7X12aYPNNUy8x7sALMUsLF52xoGQJnMx1gG",
+          "share": 47
+        },
+        {
+          "address": "mobFYdXfMaowqyDJ9hUPbWYndKBb6ChEBD6jn1ya5WC",
+          "share": 47
+        },
+        {
+          "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+          "share": 6
+        }
+      ]
+    }
+  }
+}

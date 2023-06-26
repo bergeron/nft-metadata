@@ -1,0 +1,27 @@
+{
+  "address": "0x57a204aa1042f6e66dd7730813f4024114d74f37",
+  "type": "ERC721",
+  "name": "CyberKongz",
+  "tokenCount": "1000",
+  "uri": "https://kongz.herokuapp.com/api/metadata/1",
+  "metadata": {
+    "image": "https://ipfs.io/ipfs/Qmd1tdAiUyCDmNfhT8F8dA1BM6z3k5eFVaDfCLob7k9yPY",
+    "external_url": "https://www.cyberkongz.com/kollections/genesis/1",
+    "name": "Ghost #1",
+    "attributes": [
+      {
+        "value": "Ghost",
+        "trait_type": "Legendary Trait"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 1618670341
+      },
+      {
+        "trait_type": "Type",
+        "value": "Genesis"
+      }
+    ]
+  }
+}

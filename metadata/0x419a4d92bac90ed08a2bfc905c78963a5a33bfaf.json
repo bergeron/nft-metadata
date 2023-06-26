@@ -1,0 +1,48 @@
+{
+  "address": "0x419a4d92bac90ed08a2bfc905c78963a5a33bfaf",
+  "type": "ERC721",
+  "name": "Fractional",
+  "tokenCount": "1",
+  "uri": "https://ipfs.io/ipfs/QmRGkfvMHBqXi863gmdv1LfzQ2mvZXsnqvSq7jQtaMEpXQ",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "base",
+        "value": "Fractional"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Fractional"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "Fractional"
+      },
+      {
+        "trait_type": "personality",
+        "value": "Fractional"
+      },
+      {
+        "trait_type": "level",
+        "value": 1,
+        "max_value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 1,
+        "max_value": 10
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "stamina",
+        "value": 1,
+        "max_value": 10
+      }
+    ],
+    "description": "Fractional Shield",
+    "external_url": "https://fraction.al",
+    "image": "https://ipfs.io/ipfs/QmVBpygr6doUw1Nn7Nh6MJigw8pHv3yjVfXBV2Jjmx1SJm/cl_Fractional_Shield.svg",
+    "name": "Fraction"
+  }
+}

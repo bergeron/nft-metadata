@@ -1,0 +1,50 @@
+{
+  "address": "0x01c952c72ef935c25698bc729ad5138f73fedc74",
+  "type": "ERC721",
+  "name": "BannersByBilly",
+  "tokenCount": "311",
+  "uri": "ipfs://bafybeicgen6kkwfokzlk5ynisulosjmevoad6qw7luwcjo3jrkf363sgki/1",
+  "metadata": {
+    "name": "Banner #1",
+    "description": "2K Collection Of Banners By The Infamous Billy Where Memes Meet Nostalgia To Create A Legacy. #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Stonks"
+      },
+      {
+        "trait_type": "Pop Up Box",
+        "value": "DMT"
+      },
+      {
+        "trait_type": "Button Message",
+        "value": "+500"
+      },
+      {
+        "trait_type": "Pfp",
+        "value": "Pokemon"
+      },
+      {
+        "trait_type": "Header Message",
+        "value": "Federal Agent"
+      },
+      {
+        "trait_type": "Quote",
+        "value": "You Are Ugly"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x37a99eb1AB47Fc4AC1551dB402939eA3B789cee5",
+        "share": 100
+      }
+    ],
+    "collection": {
+      "name": "BannersByBilly",
+      "family": "Unique Family Name"
+    },
+    "symbol": "BBB",
+    "seller_fee_basis_points": 5,
+    "image": "ipfs://bafybeigkpqgodfam6kxcaz6cdvijppyvbf6irluv5cfmsj5tbeyzilsc3m/1.png"
+  }
+}

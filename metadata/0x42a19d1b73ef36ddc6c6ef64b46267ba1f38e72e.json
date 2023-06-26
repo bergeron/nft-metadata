@@ -1,0 +1,71 @@
+{
+  "address": "0x42a19d1b73ef36ddc6c6ef64b46267ba1f38e72e",
+  "type": "ERC721",
+  "name": "Money Ball",
+  "tokenCount": "100",
+  "uri": "https://ipfs.moneyball.world/api/v2/1",
+  "metadata": {
+    "name": "cell #1",
+    "description": "Cell is the smallest unit in the Moneyball Universe, each of which has a set of unique attributes. The cell holders can compete and play in the community to obtain rewards and mint new NFTs.",
+    "image": "https://oss-output-video.allfootballapp.com/resource/d8fcd3a042ee263898eda4e6981551b9.jpg",
+    "attributes": [
+      {
+        "trait_type": "REGION",
+        "value": "E:44°48' N:41°43'"
+      },
+      {
+        "trait_type": "BIRTHDAY",
+        "value": "1987/06/13"
+      },
+      {
+        "trait_type": "POWER",
+        "value": "39"
+      },
+      {
+        "trait_type": "SPEED",
+        "value": "82"
+      },
+      {
+        "trait_type": "SKILL",
+        "value": "84"
+      },
+      {
+        "trait_type": "SPIRIT",
+        "value": "53"
+      },
+      {
+        "trait_type": "INTELLIGENCE",
+        "value": "75"
+      },
+      {
+        "trait_type": "LUCK",
+        "value": "47"
+      },
+      {
+        "trait_type": "GRIDCOORDINATES",
+        "value": "[100,66]"
+      },
+      {
+        "trait_type": "STATUSINDICATOR",
+        "value": "0"
+      },
+      {
+        "trait_type": "REWARDVALUE",
+        "value": "G:0,S:0,C:0"
+      }
+    ],
+    "properties": {
+      "REGION": "E:44°48' N:41°43'",
+      "BIRTHDAY": "1987/06/13",
+      "POWER": "39",
+      "SPEED": "82",
+      "SKILL": "84",
+      "SPIRIT": "53",
+      "INTELLIGENCE": "75",
+      "LUCK": "47",
+      "GRIDCOORDINATES": "[100,66]",
+      "STATUSINDICATOR": "0",
+      "REWARDVALUE": "G:0,S:0,C:0"
+    }
+  }
+}

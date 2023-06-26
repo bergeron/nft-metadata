@@ -1,0 +1,73 @@
+{
+  "address": "0xb3767b2033cf24334095dc82029dbf0e9528039d",
+  "type": "ERC721",
+  "name": "The Rocketeers",
+  "tokenCount": "3475",
+  "uri": "https://rocketeer.fans/api/rocketeer/1",
+  "metadata": {
+    "description": "Gretal Marchall Alon of Jupiter is a proud member of the rocketpool guild.",
+    "external_url": "https://viewer.rocketeer.fans/?rocketeer=1",
+    "name": "Gretal Marchall Alon of Jupiter",
+    "image": "https://storage.googleapis.com/rocketeer-nft.appspot.com/mainnetRocketeers/1.jpg",
+    "attributes": [
+      {
+        "value": "classic",
+        "trait_type": "helmet"
+      },
+      {
+        "value": "rocketpool",
+        "trait_type": "patch"
+      },
+      {
+        "value": "yes",
+        "trait_type": "backpack"
+      },
+      {
+        "value": "yes",
+        "trait_type": "panel"
+      },
+      {
+        "value": "system",
+        "trait_type": "background"
+      },
+      {
+        "value": 4,
+        "trait_type": "background complexity"
+      },
+      {
+        "value": "green",
+        "trait_type": "outfit color"
+      },
+      {
+        "value": "green",
+        "trait_type": "outfit accent color"
+      },
+      {
+        "value": "brown",
+        "trait_type": "backpack color"
+      },
+      {
+        "value": "white",
+        "trait_type": "visor color"
+      },
+      {
+        "display_type": "date",
+        "value": 1635602266,
+        "trait_type": "birthday"
+      },
+      {
+        "value": "genesis",
+        "trait_type": "edition"
+      },
+      {
+        "value": 17,
+        "trait_type": "available outfits"
+      },
+      {
+        "display_type": "date",
+        "value": 1686736696262,
+        "trait_type": "last outfit change"
+      }
+    ]
+  }
+}

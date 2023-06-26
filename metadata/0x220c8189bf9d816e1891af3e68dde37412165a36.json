@@ -1,0 +1,71 @@
+{
+  "address": "0x220c8189bf9d816e1891af3e68dde37412165a36",
+  "type": "ERC1155",
+  "name": "Wincity Lille Liberte - NO INCOME",
+  "tokenCount": "293",
+  "uri": "https://www.wincity.com/api/metadata/WincityLilleLiberte/1",
+  "metadata": {
+    "type": "object",
+    "title": "L'atelier des chefs",
+    "description": "⚠️⚠️⚠️ These NFTs are no longer backed by a real asset. ⚠️⚠️⚠️",
+    "image": "https://cdn.wincity.com/asset/WincityLilleLiberte/cards/1.png",
+    "name": "Not a real property - UNIQUE #1",
+    "external_url": "https://www.wincity.com/fr-FR/assets/WincityLilleLiberte/cards/1",
+    "attributes": [
+      {
+        "trait_type": "Earned capital",
+        "value": 0,
+        "description": "Total of the win capital reward accumulated on the card.",
+        "display_type": "boost_number",
+        "max_value": 0
+      },
+      {
+        "trait_type": "Estimated capital gain",
+        "value": 0,
+        "description": "Total of the win capital gain reward accumulated on the card.",
+        "display_type": "boost_number",
+        "max_value": 0
+      },
+      {
+        "trait_type": "Available rewards (ETH)",
+        "value": 0,
+        "description": "Total of the win cash reward accumulated on the card, in ethereum.",
+        "display_type": "boost_number",
+        "max_value": 0
+      },
+      {
+        "trait_type": "Annual Win Capital",
+        "value": "0",
+        "description": "estimated annual capital",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Annual Win Capital Gain",
+        "value": "0",
+        "description": "estimated annual capital gain",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Annual Win Cash",
+        "value": "1973",
+        "description": "estimated annual reward",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "type",
+        "value": "UNIQUE",
+        "description": "Identifier that give the type of the card: regular, rare, mythic, unique or history."
+      },
+      {
+        "trait_type": "tier",
+        "value": "TIER_2",
+        "description": "Identifier that give the type of the asset card tier: star, tier 1, tier 2 or tier 3."
+      },
+      {
+        "trait_type": "physical claimed",
+        "value": "YES",
+        "description": "If Physical card is already claimed or not"
+      }
+    ]
+  }
+}

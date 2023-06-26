@@ -1,0 +1,41 @@
+{
+  "address": "0x6c73b3bf7a751fd10177edf0f0c66c06ceba645d",
+  "type": "ERC721",
+  "name": "Surprise Test",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/xu0OFCI_XoYWI_KCQj0BsGikM_OVeeColeyYqHCKWPU",
+  "metadata": {
+    "name": "Surprise #1",
+    "created_by": "Nicolas Daniel",
+    "description": "Here is the 3d model : https://gateway.pinata.cloud/ipfs/QmX4CvANrDNyozntn3ZiuYnmXdvuBm9VWGurDJ7AoHTWBH/01.glb",
+    "animation_url": "https://arweave.net/qQI_-sgmHoUoKf43glfFMO-RCDGJfjJB7VWOCGNo0yM",
+    "iframe_url": "https://gateway.pinata.cloud/ipfs/QmX4CvANrDNyozntn3ZiuYnmXdvuBm9VWGurDJ7AoHTWBH/01.glb",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Nicolas Daniel"
+      }
+    ],
+    "animation_details": {
+      "bytes": 157266,
+      "format": "MP4",
+      "duration": 2,
+      "sha256": "719cb8427be7e4861bf12a9975cd9c735c39414787efa490691f52bd765cb9ed",
+      "width": 720,
+      "height": 720,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/qQI_-sgmHoUoKf43glfFMO-RCDGJfjJB7VWOCGNo0yM",
+    "image_details": {
+      "bytes": 10673513,
+      "format": "GIF",
+      "sha256": "13c34c01f096995395aaad6320f77a942a3839855fb4a3de20259d05d081ad25",
+      "width": 720,
+      "height": 720
+    },
+    "image": "https://arweave.net/xjEY5HrY4f4fN6RRuIee2m0Pw8lV8RCvfUFkzxEe3lU",
+    "image_url": "https://arweave.net/xjEY5HrY4f4fN6RRuIee2m0Pw8lV8RCvfUFkzxEe3lU"
+  }
+}

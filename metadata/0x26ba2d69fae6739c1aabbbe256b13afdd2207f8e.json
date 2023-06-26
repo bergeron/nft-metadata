@@ -1,0 +1,25 @@
+{
+  "address": "0x26ba2d69fae6739c1aabbbe256b13afdd2207f8e",
+  "type": "ERC721",
+  "name": "Premium Lock",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x26ba2d69fae6739c1aabbbe256b13afdd2207f8e/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x26bA2D69faE6739c1aABbBe256B13aFdD2207f8E/icon?id=1",
+    "expiration": 1589798479,
+    "tokenId": "1",
+    "owner": "0x146cfed833cc926b16b0da9257e8a281c2add9f3",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1589798479
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x26bA2D69faE6739c1aABbBe256B13aFdD2207f8E",
+    "network": 1
+  }
+}

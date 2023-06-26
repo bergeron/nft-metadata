@@ -1,0 +1,34 @@
+{
+  "address": "0x94f501821b70397727c84ec1e99934ee310448ff",
+  "type": "ERC721",
+  "name": "BPNFT V4",
+  "tokenCount": "55",
+  "uri": "ipfs://QmR8wzaKszKzkS5RHG9ED9z5h8YzrCirtZtBVDqjMtKjch/1.json",
+  "metadata": {
+    "name": "Blue Planet Pass #1",
+    "description": "Diving in the deep blue, prowling for love",
+    "image": "ipfs://QmWrYQ5SSyGiGNiap3tMmXrZ1EE9Y1twrDfxsjH83JXSJk/1.png",
+    "dna": "5b1a8cc43bdafea8e3635478e71e9dac52e5f1af",
+    "edition": 1,
+    "date": 1668135682599,
+    "attributes": [
+      {
+        "trait_type": "bj",
+        "value": "bg05"
+      },
+      {
+        "trait_type": "card",
+        "value": "card04"
+      },
+      {
+        "trait_type": "sea",
+        "value": "sea07"
+      },
+      {
+        "trait_type": "fish",
+        "value": "fish02"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

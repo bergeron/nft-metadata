@@ -1,0 +1,55 @@
+{
+  "address": "0x43a583b975a201d79c6be02d285dcd28f3d741d3",
+  "type": "ERC721",
+  "name": "DragonCapsule",
+  "tokenCount": "4560",
+  "uri": "ipfs://bafybeiaehykyal3qcwh6skhrpvdulwe4j6zhdzwiuxl3zwv5vgejkgaany/1.json",
+  "metadata": {
+    "name": "DC #1",
+    "description": "Dragon Capsule",
+    "image": "ipfs://bafybeiftylgsfpo2ra3vhlfadybiuf64xlokmtvl77iwyjynsvsxn2szn4/1.png",
+    "dna": "c42d347cd9f35a0ed1184205f3a5d84c81f7d099",
+    "edition": 1,
+    "date": 1640440837036,
+    "attributes": [
+      {
+        "trait_type": "L0base",
+        "value": "palette7616"
+      },
+      {
+        "trait_type": "L0shadow",
+        "value": "shadow662"
+      },
+      {
+        "trait_type": "L1backfin",
+        "value": "backfin732"
+      },
+      {
+        "trait_type": "L1body",
+        "value": "body6617"
+      },
+      {
+        "trait_type": "L2head",
+        "value": "head6576"
+      },
+      {
+        "trait_type": "L3necks",
+        "value": "neck6646"
+      },
+      {
+        "trait_type": "L4faces",
+        "value": "face6698"
+      },
+      {
+        "trait_type": "L5horns",
+        "value": "horn6805"
+      },
+      {
+        "trait_type": "L7weapons",
+        "value": "loot7629"
+      }
+    ],
+    "compiler": "EngineII",
+    "creator": "@YieldDAO Meta(YDM) All Rights Reserved | YieldDAO.io"
+  }
+}

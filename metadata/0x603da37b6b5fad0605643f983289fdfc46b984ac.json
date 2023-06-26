@@ -1,0 +1,61 @@
+{
+  "address": "0x603da37b6b5fad0605643f983289fdfc46b984ac",
+  "type": "ERC721",
+  "name": "NDROID",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/4QVKcKDrxf-2kwZDl3YL5yRvYGzbfH4vDcaGG79Iwrw",
+  "metadata": {
+    "name": "NDROID #1",
+    "created_by": "NDROID",
+    "description": "What do you see ?",
+    "attributes": [
+      {
+        "trait_type": "ARTIST",
+        "value": "NICOLAS GIRARD"
+      },
+      {
+        "trait_type": "COLLECTION",
+        "value": "NDROID ONE"
+      },
+      {
+        "trait_type": "AUDIO ",
+        "value": "CYPHER"
+      },
+      {
+        "trait_type": "YEAR",
+        "value": "2023"
+      },
+      {
+        "trait_type": "TYPE",
+        "value": "NOIR"
+      },
+      {
+        "trait_type": "LIGHTS",
+        "value": "GLITCH"
+      }
+    ],
+    "animation_details": {
+      "bytes": 148123892,
+      "format": "MP4",
+      "duration": 4,
+      "sha256": "8108673effb5f9d36438ddb18a60d970600a5d4aaa4aeaec01847f92b2c1d72c",
+      "width": 1920,
+      "height": 2400,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/ZkHy1lbYfIpZkGcapGWgzoXj2B2lPFQARa7RLQ8HA1w",
+    "animation_url": "https://arweave.net/ZkHy1lbYfIpZkGcapGWgzoXj2B2lPFQARa7RLQ8HA1w",
+    "image_details": {
+      "bytes": 3927489,
+      "format": "PNG",
+      "sha256": "3115e1d17b44827cda0c607ee5ff3499e045b66a09991d945543e2e45f9cd48f",
+      "width": 1920,
+      "height": 2400
+    },
+    "image": "https://arweave.net/_Csy7ApDMq1LeLJ3FwU2I8226h18a4w0H1FqXRr14T4",
+    "image_url": "https://arweave.net/_Csy7ApDMq1LeLJ3FwU2I8226h18a4w0H1FqXRr14T4"
+  }
+}

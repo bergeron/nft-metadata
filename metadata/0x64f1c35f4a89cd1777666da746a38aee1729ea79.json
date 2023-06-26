@@ -1,0 +1,35 @@
+{
+  "address": "0x64f1c35f4a89cd1777666da746a38aee1729ea79",
+  "type": "ERC721",
+  "name": "Folkfigur",
+  "tokenCount": "1118",
+  "uri": "ipfs://QmTL3wKmL3Ju7LmHyJStmjXtJ9TVQzFWneeYyFY3BpoN7e",
+  "metadata": {
+    "name": "Folkfigur #749336",
+    "description": "FolkFigur NFT, commissioned by Statens Konstråd 2022.",
+    "image": "ipfs://QmVMQqJkG5LoBuQQ7mee1K7DdH4Qa5Ys9dQsbDCpJDpoQg",
+    "external_url": "https://folkfigur.se/see/QmVMQqJkG5LoBuQQ7mee1K7DdH4Qa5Ys9dQsbDCpJDpoQg",
+    "folkfigur_json": {
+      "water": "5",
+      "air": "-5.3",
+      "pm25": "3.258",
+      "listens": {
+        "song": "Kendrick Lamar - Humble",
+        "int": 84
+      },
+      "eats": {
+        "menu": "Fisk med frasigt täcke, sås, potatis<br/>Veg gratäng",
+        "int": 15
+      },
+      "surprise": {
+        "event": "Banarbete Mälarbanan",
+        "int": 42
+      },
+      "train": {
+        "operator": "Öresundståg",
+        "int": 76
+      },
+      "elec": "14649"
+    }
+  }
+}

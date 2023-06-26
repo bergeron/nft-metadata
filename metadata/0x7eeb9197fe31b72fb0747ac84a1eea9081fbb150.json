@@ -1,0 +1,46 @@
+{
+  "address": "0x7eeb9197fe31b72fb0747ac84a1eea9081fbb150",
+  "type": "ERC721",
+  "name": "SuperCoolClub",
+  "tokenCount": "3000",
+  "uri": "ipfs://bafybeig3vqeoovbe7cdysmc2jrk4zynptnpicav57o7lxjv3lgh3sfraji/1.json",
+  "metadata": {
+    "name": "Super Cool Club #1",
+    "description": "Join the club, we pretty cool. Twitter.com/xsupercoolclub",
+    "image": "ipfs://bafybeibpqn5xgdc5xrvibh6d2bk3fau6uvvdhdfquo76led4hkdi5r36pm/1.png",
+    "dna": "78d5e16b2b29218bb2df1032645f8f87a3b67e38",
+    "edition": 1,
+    "date": 1669479655363,
+    "attributes": [
+      {
+        "trait_type": "backdrop",
+        "value": "bg4"
+      },
+      {
+        "trait_type": "body",
+        "value": "Pale Guy"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "Closed Mouth"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Wut"
+      },
+      {
+        "trait_type": "clothing",
+        "value": "Escaped Prison"
+      },
+      {
+        "trait_type": "headwear",
+        "value": "Aviator"
+      },
+      {
+        "trait_type": "facewear",
+        "value": "Has No Mask"
+      }
+    ],
+    "compiler": "Super Cool Engine"
+  }
+}

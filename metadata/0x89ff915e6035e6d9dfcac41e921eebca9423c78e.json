@@ -1,0 +1,70 @@
+{
+  "address": "0x89ff915e6035e6d9dfcac41e921eebca9423c78e",
+  "type": "ERC721",
+  "name": "Asteroid Belt Club",
+  "tokenCount": "70",
+  "uri": "ipfs://QmZ5wAzUGnqRkr5U8fGb8J3pDCqJqFjyina9EaaQQ48euJ/1.json",
+  "metadata": {
+    "name": "A801 AA - Ceres",
+    "description": "Property claim on asteroid IAU number 1, designated as A801 AA, named Ceres certified by Asteroid Belt Club",
+    "external_url": "https://asteroidbeltclub.com/asteroid?id=1",
+    "image": "ipfs://QmXcwMn6mE7xdPZFTKbWGn2J3kByLmxibfPgVcvgtnFu9T",
+    "animation_url": "https://nft.asteroidbeltclub.com/ipfs/QmRuQsFbG6QtjBTco64GjHyNPoEdGgyuTxMc5hGFXHRrRz",
+    "attributes": [
+      {
+        "trait_type": "Orbit Type",
+        "value": "MBA"
+      },
+      {
+        "trait_type": "Discovered Year",
+        "value": "1801"
+      },
+      {
+        "trait_type": "Diameter (kms)",
+        "value": "939.4",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Diameter Range",
+        "value": "500",
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Estimated Value",
+        "value": "8.12 trillion",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Value Range",
+        "value": "13",
+        "display_type": "boost_number"
+      },
+      {
+        "value": "Has Water"
+      },
+      {
+        "value": "Has Iron"
+      },
+      {
+        "value": "Has Nickel"
+      },
+      {
+        "value": "Has Cobalt"
+      },
+      {
+        "value": "Has Hydrogen"
+      },
+      {
+        "value": "Has Nitrogen"
+      },
+      {
+        "value": "Has Ammonia"
+      },
+      {
+        "trait_type": "ABC Category",
+        "value": "3",
+        "display_type": "number"
+      }
+    ]
+  }
+}

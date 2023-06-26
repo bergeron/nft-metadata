@@ -1,0 +1,38 @@
+{
+  "address": "0x740d0bdff87771cc2dea944d40ecdd4da196c138",
+  "type": "ERC721",
+  "name": "BeautyInTheRain",
+  "tokenCount": "10",
+  "uri": "https://cdn-api.niftykit.com/reveal/0gjEbEaAUQJ0PnZRu4yB/1",
+  "metadata": {
+    "name": "Beauty In The Rain #1",
+    "image": "ipfs://bafybeigwz3wc7of623bbwk2movu3rwrtya5lblkplbi4c6l7nr3wuqlive/1.png",
+    "description": "Kimonos and parasols with unique designs.",
+    "external_url": "https://app.niftykit.com/drops/BITR",
+    "attributes": [
+      {
+        "trait_type": "Nagajuban",
+        "value": "Uni"
+      },
+      {
+        "trait_type": "Kimono",
+        "value": "Purplesky"
+      },
+      {
+        "trait_type": "Obi",
+        "value": "Kanae"
+      },
+      {
+        "trait_type": "Kanzashi",
+        "value": "Ruri"
+      },
+      {
+        "trait_type": "Wagasa",
+        "value": "Neko"
+      }
+    ],
+    "compiler": "nft-inator.com",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0x77320a8Db34bb0311cB19ac75d1D10F4116AC6D1"
+  }
+}

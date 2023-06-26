@@ -1,0 +1,54 @@
+{
+  "address": "0x073e40e0b9346f501a3b45eff5d6da460fa84d2f",
+  "type": "ERC1155",
+  "name": "disabledcollection",
+  "tokenCount": "1",
+  "uri": "ipfs://QmTy8w65yBXgyfG2ZBg5TrfB2hPjrDQH3RCQFJGkARStJb",
+  "metadata": {
+    "title": "52 Hertz",
+    "name": "52 Hertz",
+    "type": "object",
+    "imageUrl": "https://ipfsgateway.makersplace.com/ipfs/QmQ2NkJW8auAHKBhw18tjNzZV7P8p379zoSDJeHPdTJ9ej",
+    "description": "It is the saddest living in the world for me.",
+    "attributes": [
+      {
+        "trait_type": "Creator",
+        "value": "Erman Akkuş"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "52 Hertz"
+      },
+      "description": {
+        "type": "string",
+        "description": "It is the saddest living in the world for me."
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://ipfsgateway.makersplace.com/ipfs/QmQ2NkJW8auAHKBhw18tjNzZV7P8p379zoSDJeHPdTJ9ej"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "jpg"
+      },
+      "created_at": {
+        "type": "datetime",
+        "description": "2019-03-21T17:52:51.269256+00:00"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 1
+      },
+      "digital_media_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "digital_media_signature": {
+        "type": "string",
+        "description": "664ae5c9eacf131e4f095d79bb1b3c9eda3d087d9855b3372d6d242667a3dce6"
+      }
+    }
+  }
+}

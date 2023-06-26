@@ -1,0 +1,22 @@
+{
+  "address": "0xd6ffc7ddc6d4b1bea6e7eb7ccae2405e84aaa5f5",
+  "type": "ERC721",
+  "name": "a0-testing",
+  "tokenCount": "25",
+  "uri": "ipfs://QmNqUHxrHQvkHDo2ye5GYM7uUPE9TnGpdVTvhYf7EGgUmk/1.json",
+  "metadata": {
+    "name": "a0 test #1",
+    "description": "testing nfts",
+    "image": "ipfs://QmRGh7ZWUtEKcu79SBrc6KuzrfELgzqrcr7aSA1qptQPa8/1.png",
+    "dna": "b9f3f4a98d2cad4464b819f9932b6f323fd927e8",
+    "edition": 1,
+    "date": 1653422576640,
+    "attributes": [
+      {
+        "trait_type": "logos",
+        "value": "qr_ royalties "
+      }
+    ],
+    "compiler": "a0-testing"
+  }
+}

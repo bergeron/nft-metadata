@@ -1,0 +1,60 @@
+{
+  "address": "0x1fb15fab4ce2106a8daba995fb004644951770fe",
+  "type": "ERC721",
+  "name": "Black Sphere",
+  "tokenCount": "12",
+  "uri": "ipfs://QmbGGD7GKB7B8kQMSxPJFMVHaPrWzDaYYL8dtyvfMp57Q9",
+  "metadata": {
+    "name": "Cod Gray",
+    "description": "A Black Sphere in a Cod Gray background. The first gen0 blcksphr.",
+    "image": "ipfs://QmNu6Ke1YgyFUJyUPBpzqyn8oCu4VA38vjQGKo6CPTv8SR",
+    "attributes": [
+      {
+        "trait_type": "Generation",
+        "value": 0
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Black Sphere"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Cod Gray"
+      },
+      {
+        "trait_type": "Hex Color",
+        "value": "#131313"
+      },
+      {
+        "value": "Sphere"
+      },
+      {
+        "value": "Genesis"
+      },
+      {
+        "value": "Minimal"
+      },
+      {
+        "value": "Dark"
+      },
+      {
+        "value": "Psychic"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Mana",
+        "value": 24
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Power",
+        "value": 24
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Boost",
+        "value": 128
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "address": "0x80cd58f4481a318d008288c72f1cd4fba2a93044",
+  "type": "ERC1155",
+  "name": "0xACME",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/p3V6PEA7Ld8OwDyZgmlGLIohBRv35fAkKhQyPbGMQlk",
+  "metadata": {
+    "name": "The ACME Experience",
+    "created_by": "acme",
+    "description": "Once upon a time, there was ACME.",
+    "external_url": "https://acme.xyz",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "TheArtist"
+      },
+      {
+        "trait_type": "Date",
+        "value": "TheDate"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Num",
+        "value": 66,
+        "max_value": 99
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Boost",
+        "value": 99,
+        "max_value": 999
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "BoostPercent",
+        "value": 33,
+        "max_value": 100
+      }
+    ],
+    "image_details": {
+      "bytes": 26166,
+      "format": "PNG",
+      "sha256": "f0ec1dde8631db71f1c7705ebe455fa6c46e91a538ae1c4ab781be9a70fc8626",
+      "width": 1200,
+      "height": 406
+    },
+    "image": "https://arweave.net/8njsZ9NzJcNOiGBbBa-fdMnb57OGo4IoYil5Bm9Up-I",
+    "image_url": "https://arweave.net/8njsZ9NzJcNOiGBbBa-fdMnb57OGo4IoYil5Bm9Up-I"
+  }
+}

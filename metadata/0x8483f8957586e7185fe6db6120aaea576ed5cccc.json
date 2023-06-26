@@ -1,0 +1,41 @@
+{
+  "address": "0x8483f8957586e7185fe6db6120aaea576ed5cccc",
+  "type": "ERC721",
+  "name": "Crypto Poker Global V5",
+  "tokenCount": "2",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=dUtpKqq1HVVaJcwsXqTL",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1583157922179?alt=media&token=8bccfbaa-32b0-4c4d-9397-3cdf3eeae03a",
+    "forSale": false,
+    "contractAddress": "0x8483f8957586e7185fe6db6120aaea576ed5cccc",
+    "description": "Congratulations on winning the 8th edition of Crypto Poker Global ! ",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1583158020,
+      "_nanoseconds": 583000000
+    },
+    "price": 0,
+    "name": "Crypto Poker Global - 8th edition winner!",
+    "fiatPrice": "$0.00",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "website",
+        "value": "https://cryptopoker.global/"
+      },
+      {
+        "trait_type": "location",
+        "value": "Cranbourn St, Leicester Square, West End, London WC2H 7JH, UK"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJdcOZc9IEdkgROPIytVFeGXU"
+      }
+    ],
+    "external_url": "https://mintbase.io/my-market/0x8483f8957586e7185fe6db6120aaea576ed5cccc",
+    "type": "ERC721"
+  }
+}

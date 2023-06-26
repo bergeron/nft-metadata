@@ -1,0 +1,60 @@
+{
+  "address": "0x7f9a8addc7efa6448d961ba645449f52ce15b8c4",
+  "type": "ERC721",
+  "name": "DropletsOriginalCollection",
+  "tokenCount": "1",
+  "uri": "ipfs://QmP33PGSjHbJFvTwPRiWVvFLfY2MyQWuUderssUJYMcGTL/1.json",
+  "metadata": {
+    "dna": "013f0086c40648a3ed3935d5137de39d511bf80c",
+    "name": "#1",
+    "description": "Droplet's Original Collection",
+    "image": "ipfs://QmYh1W7jCKJmFyGtyC1cKumfvHbXsJnfrfn3Vv1HbvSoGf/1.png",
+    "edition": 1,
+    "date": 1652427087744,
+    "artist": "Kramavich",
+    "series": "1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "green"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "logo"
+      },
+      {
+        "trait_type": "Body",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "original_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "baby_blue"
+      },
+      {
+        "trait_type": "Belt",
+        "value": "lime"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "cherry"
+      },
+      {
+        "trait_type": "Shirt Trim",
+        "value": "baby_blue"
+      },
+      {
+        "trait_type": "Neck Wear",
+        "value": "t_grape"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

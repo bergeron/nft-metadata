@@ -1,0 +1,36 @@
+{
+  "address": "0xb1bd1f58a58ddfe6821fe64731ed00a3fe147a04",
+  "type": "ERC721",
+  "name": "Crypto Pupper Club",
+  "tokenCount": "7",
+  "uri": "ipfs://QmdqEk5r4ovCPqK7yFWw78YHLsbNv318CGFqgB3eP5GcBn/1.json",
+  "metadata": {
+    "name": "Crypto Pupper#1",
+    "description": "10,000 Mischievous Crypto Puppers Living Their Best Lives!",
+    "external_url": "",
+    "image": "ipfs://QmS41RBm8okXe9v8Tfg6CePGnEuaybxaK4tT8wqskJAnm1/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Pups",
+        "value": "Corgi"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Aviator Glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "NFT Hat"
+      },
+      {
+        "trait_type": "Neckwear",
+        "value": "Tie"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

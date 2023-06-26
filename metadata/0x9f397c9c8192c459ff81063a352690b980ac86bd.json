@@ -1,0 +1,61 @@
+{
+  "address": "0x9f397c9c8192c459ff81063a352690b980ac86bd",
+  "type": "ERC721",
+  "name": "SAPIENS_EXHIBITION",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/MRooh29Rhy0_kpXskb_f9u53GB6MWH7h4XUMRjxxVz0",
+  "metadata": {
+    "name": "One breath 한번의 숨",
+    "created_by": "soojin frey",
+    "description": "One breath 한번의 숨 \n\nEdition: 1 / 1  \nChoreography, Concept, Sound, Video Art: Soojin_frey  \nSize : 4096 x 3072  \nVideo Format: mp4  \nRunning time: 10 sec",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "soojin_frey"
+      },
+      {
+        "trait_type": "city",
+        "value": "seoul"
+      },
+      {
+        "trait_type": "country",
+        "value": "south korea"
+      },
+      {
+        "trait_type": "source",
+        "value": "monk dance"
+      },
+      {
+        "value": "mythology",
+        "trait_type": "symbol"
+      },
+      {
+        "trait_type": "sound",
+        "value": "Singingbowl by soojinfrey"
+      }
+    ],
+    "animation_details": {
+      "bytes": 64505258,
+      "format": "MP4",
+      "duration": 11,
+      "sha256": "b0d21138684a1ca450ed7695ea229f6ee5efc9fb4e103aea20ade8a2a2b8ab23",
+      "width": 4096,
+      "height": 3072,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/YCi1lEmPktX2eLGm3yO5OGz4xD8LVGsTf3293m44rzg",
+    "animation_url": "https://arweave.net/YCi1lEmPktX2eLGm3yO5OGz4xD8LVGsTf3293m44rzg",
+    "image_details": {
+      "bytes": 167211,
+      "format": "JPEG",
+      "sha256": "41c45c7b15146e601aa563fd1f6745f586bd427f515fa880274f36ebf46f976b",
+      "width": 1285,
+      "height": 1080
+    },
+    "image": "https://arweave.net/wKPDYTHfUhp9QLMl9tbhyZLFFWIn1ZoooDEL08am2rE",
+    "image_url": "https://arweave.net/wKPDYTHfUhp9QLMl9tbhyZLFFWIn1ZoooDEL08am2rE"
+  }
+}

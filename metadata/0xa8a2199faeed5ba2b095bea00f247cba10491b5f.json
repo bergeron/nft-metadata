@@ -1,0 +1,65 @@
+{
+  "address": "0xa8a2199faeed5ba2b095bea00f247cba10491b5f",
+  "type": "ERC721",
+  "name": "Ariel Avadi",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/spOLvz5_Cf3CGyZfVOk3IpSsDkSl9lvKehJ1OG9utH8",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "animation_url": "https://arweave.net/qjRqY_RGBWcsIOSJ3_8O4OaVdgfxHTAwzuPwX5XkeBM",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1646338640
+      },
+      {
+        "trait_type": "Creator",
+        "value": "AA925"
+      }
+    ],
+    "description": "The original SKYFISH, gliding over a windy New York City. \r\n\r\nInspired by the mysterious lunar month of Adar Bet, or Pisces II. This month exists only during a leap year on the lunisolar Hebrew calendar. This rare space in time grants all who are born into it a protective layer of magic, much like the SKYFISH. \r\n\r\nA multimedia animation (video, still photography, illustration) by AA925 in collaboration with 7VW32.\r\n\r\n(Duration: 36 sec - Year: 2022 - 1/1)",
+    "external_url": "https://cxip.io/nft/0xa8a2199faeed5ba2b095bea00f247cba10491b5f/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/G10mRinOIa2zPYFtEGVKvf6NCLZhfmRAflGp1jer1cM",
+    "imageUrl": "https://arweave.net/G10mRinOIa2zPYFtEGVKvf6NCLZhfmRAflGp1jer1cM",
+    "name": "SKYFISH the OG",
+    "properties": {
+      "animation_url": "https://arweave.net/qjRqY_RGBWcsIOSJ3_8O4OaVdgfxHTAwzuPwX5XkeBM",
+      "created_at": "2022-03-03T20:17:20.000000Z",
+      "creator_wallet": "0x8758128d06ac537480ea71ae7beafa45dd130833",
+      "description": "The original SKYFISH, gliding over a windy New York City. \r\n\r\nInspired by the mysterious lunar month of Adar Bet, or Pisces II. This month exists only during a leap year on the lunisolar Hebrew calendar. This rare space in time grants all who are born into it a protective layer of magic, much like the SKYFISH. \r\n\r\nA multimedia animation (video, still photography, illustration) by AA925 in collaboration with 7VW32.\r\n\r\n(Duration: 36 sec - Year: 2022 - 1/1)",
+      "image": "https://arweave.net/G10mRinOIa2zPYFtEGVKvf6NCLZhfmRAflGp1jer1cM",
+      "imageUrl": "https://arweave.net/G10mRinOIa2zPYFtEGVKvf6NCLZhfmRAflGp1jer1cM",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "3 March 2022",
+      "name": "SKYFISH the OG",
+      "nft_type": "non-fungible video token (video/mp4)",
+      "preview_media_file": "https://arweave.net/ZyylzfvwUjLvSAi2xN-ClAvWNbjoVSrdzPOnJHD8lyI",
+      "preview_media_file_dimensions": "640x360",
+      "preview_media_file_size": 14460848,
+      "preview_media_file_type": "video/mp4",
+      "raw_media_dimensions": "1920x1080",
+      "raw_media_file": "https://arweave.net/Nme6JV8v-f51L_qh5OJrq1DjB5eDUGHfENsCnYw8LXc",
+      "raw_media_file_size": 121430385,
+      "raw_media_file_spec": "Duration: 00:00:36.44, start: 0.000000, bitrate: 26661 kb/s\nVideo: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080, 26558 kb/s, SAR 1:1 DAR 16:9, 29.97 fps, 29.97 tbr, 30k tbn, 60k tbc (default)",
+      "raw_media_file_type": "video/mp4",
+      "raw_media_format": "landscape",
+      "raw_media_signature": "0x95cb77cac623f5a5262f1c9e6449a382ef6a8b2478cd196ee00f9bbdc9fcd392",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/32vgHL6NPLK0-9DyOx92bRRB9WTtwUconPpuF-ZeOWQ",
+      "thumb_media_file_type": "image/jpg",
+      "title": "SKYFISH the OG",
+      "total_supply": 1
+    },
+    "title": "SKYFISH the OG"
+  }
+}

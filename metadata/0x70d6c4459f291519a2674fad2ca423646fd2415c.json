@@ -1,0 +1,78 @@
+{
+  "address": "0x70d6c4459f291519a2674fad2ca423646fd2415c",
+  "type": "ERC1155",
+  "name": "LUISFERN5 - metaEstates_LAB",
+  "tokenCount": "1",
+  "uri": "https://metadata.metamundo.co/0x70d6c4459f291519a2674fad2ca423646fd2415c",
+  "metadata": {
+    "name": "metaEstates_VILLA",
+    "description": "metaEstates\\_VILLA - A collaboration between Luis Fernandez and THE LINE, this sprawling, luxurious, and ocean-adjacent villa–complete with a pool–is an overwhelmingly immersive space for playing and relaxing with friends. Owners of the villa are transported to its main entry upon arrival, which recalls massive towering columns present in ancient temples in Greece. The marriage between the landscape and the architecture recalls the work of Frank Lloyd Wright; while the main interior spaces, just beyond the colonnades, recall the architecture of Mies van der Rohe–with its ample use of natural stone, such as marble.",
+    "image": "https://ipfs.io/ipfs/QmaBBW9LWiXaN2v2SG7GNwdoZnqZN39AmpNuuxQ4nJ5TEL",
+    "animation_url": "https://ipfs.io/ipfs/QmTd8Bfju53L8MaGW6PqVzAyfoXCV3nBBAEv487i8MEkD8",
+    "audio_url": "",
+    "external_url": "https://www.metamundo.co/luisfern5/metaEstates_VILLA/",
+    "model_type": [],
+    "attributes": [],
+    "additional_files": [],
+    "metaverse_models": [
+      {
+        "format": "GLB",
+        "models": [
+          {
+            "name": "high fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/luisfern/metaEstates_LAB/higher-fidelity/LuisFern_Villa_HigherFidelityGLB.glb",
+            "image": null,
+            "animation_url": null
+          },
+          {
+            "name": "lower fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/luisfern/metaEstates_LAB/lower-fidelity/LuisFern_Villa_LowerFidelityGLB.rar",
+            "image": null,
+            "animation_url": null
+          }
+        ]
+      },
+      {
+        "format": "VOX/VXR",
+        "models": [
+          {
+            "name": "lower fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/luisfern/metaEstates_LAB/lower-fidelity/LuisFern_Villa_LowerFidelityVoxel.rar",
+            "image": null,
+            "animation_url": null
+          }
+        ]
+      },
+      {
+        "format": "USD",
+        "models": [
+          {
+            "name": "highest fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/luisfern/metaEstates_LAB/highest-fidelity/LuisFern_Villa_HighestFidelityFile_USD.rar",
+            "image": null,
+            "animation_url": null
+          }
+        ]
+      },
+      {
+        "format": "FBX",
+        "models": [
+          {
+            "name": "highest fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/luisfern/metaEstates_LAB/highest-fidelity/LuisFern_Villa_HighestFidelityFile.fbx",
+            "image": null,
+            "animation_url": null
+          },
+          {
+            "name": "lower fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/luisfern/metaEstates_LAB/lower-fidelity/LuisFern_Villa_LowerFidelityFBX.fbx",
+            "image": null,
+            "animation_url": null
+          }
+        ]
+      }
+    ],
+    "metafield": "© 2023 luisfern5, All Rights Reserved.",
+    "End User Licensing Agreement": "https://ipfs.io/ipfs/QmPiZhWrLEnSBe7g3kXT4jrownpWPgNkN898wbTgW6Jj1j"
+  }
+}

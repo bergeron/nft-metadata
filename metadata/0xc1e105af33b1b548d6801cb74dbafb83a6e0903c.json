@@ -1,0 +1,23 @@
+{
+  "address": "0xc1e105af33b1b548d6801cb74dbafb83a6e0903c",
+  "type": "ERC721",
+  "name": "Octav Beta",
+  "tokenCount": "52",
+  "uri": "https://backend-prod.octav.fi/api/membership-nft/beta/ethereum/token/ 1",
+  "metadata": {
+    "image": "https://images.octav.fi/nfts/0xC1e105AF33b1B548D6801cb74dBafb83a6e0903C.png",
+    "name": "Octav Beta #1",
+    "description": "Beta Subscription for Octav.fi",
+    "external_url": "https://octav.fi/",
+    "attributes": [
+      {
+        "trait_type": "Mint Date",
+        "value": "2022-08-10"
+      },
+      {
+        "trait_type": "Expiration Date",
+        "value": "2023-08-10"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "address": "0xa5f11684509c393009e24104b8c6a9da598f3e2d",
+  "type": "ERC1155",
+  "name": "Kwame Editions",
+  "tokenCount": "6",
+  "uri": "https://arweave.net/_paS68kSC1w9JxQw4_StqgJPKkTW7CgJSm8YsFWbTPk",
+  "metadata": {
+    "name": "Baule Runner Timelapse",
+    "created_by": "Kwame",
+    "description": "A collaboration between myself and my good friend and fellow artist Rus who goes by \"AboveTheSpell\". This timelapse video also includes music by him.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Kwame & AboveTheSpell"
+      },
+      {
+        "trait_type": "Medium",
+        "value": "Video"
+      }
+    ],
+    "animation_details": {
+      "bytes": 265557126,
+      "format": "MP4",
+      "duration": 85,
+      "sha256": "4da1b12e65161f570cefb22465cf5843197e86f6e049fc9eee00f5e6330f40c2",
+      "width": 3840,
+      "height": 2160,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/ZALqKpv966U3602aGy49M3pVSWKFU9Z92yUh8bofwl4",
+    "animation_url": "https://arweave.net/ZALqKpv966U3602aGy49M3pVSWKFU9Z92yUh8bofwl4"
+  }
+}

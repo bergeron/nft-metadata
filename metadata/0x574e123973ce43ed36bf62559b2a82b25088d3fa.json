@@ -1,0 +1,25 @@
+{
+  "address": "0x574e123973ce43ed36bf62559b2a82b25088d3fa",
+  "type": "ERC1155",
+  "name": "TMC Membership Card",
+  "tokenCount": "1",
+  "uri": "ipfs://QmStyMBLJcvs1HFP4o9nFXrdXZGLz3YCTzNoJkgAzNekF6/standard.json",
+  "metadata": {
+    "name": "TMC Standard",
+    "created_by": "TheMetaCharity",
+    "description": "Membership card is just the beginning into The Meta Charity Universe",
+    "external_url": "https://themetacharity.org",
+    "image_url": "ipfs://QmeSuRMnFViMssw5L8q3WM32CTock7yaeemeuSqb5opyPn/standard.jpg",
+    "animation_url": "ipfs://QmNdZzEJu2C96spsj9L7pHKYuwYkw2EJBTrtftAm32Jjxe/standard.mov",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Lincoln Studios"
+      },
+      {
+        "trait_type": "MembershipType",
+        "value": "Standard"
+      }
+    ]
+  }
+}

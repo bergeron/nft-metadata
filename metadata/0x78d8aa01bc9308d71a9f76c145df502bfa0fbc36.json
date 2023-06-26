@@ -1,0 +1,39 @@
+{
+  "address": "0x78d8aa01bc9308d71a9f76c145df502bfa0fbc36",
+  "type": "ERC721",
+  "name": "Racing Kitties",
+  "tokenCount": "4444",
+  "uri": "https://api.racingkitties.online/1",
+  "metadata": {
+    "name": "Kitten #1",
+    "description": "",
+    "image": "https://api.racingkitties.online/1.png",
+    "attributes": [
+      {
+        "trait_type": "Team",
+        "value": "Feline Formula"
+      },
+      {
+        "trait_type": "Transport Manufacturer",
+        "value": "Thunder Thumper"
+      },
+      {
+        "trait_type": "Kitty Characteristics",
+        "value": "Bengal Bolt"
+      },
+      {
+        "trait_type": "Enhancements",
+        "value": "Sleek Skirts"
+      },
+      {
+        "trait_type": "Crypto Kitty",
+        "value": "Mining kitten"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Short and smooth"
+      }
+    ],
+    "compiler": "https://startnft.app"
+  }
+}

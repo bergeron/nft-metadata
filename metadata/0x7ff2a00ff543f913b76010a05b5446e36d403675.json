@@ -1,0 +1,48 @@
+{
+  "address": "0x7ff2a00ff543f913b76010a05b5446e36d403675",
+  "type": "ERC721",
+  "name": "the pixels inc",
+  "tokenCount": "5062",
+  "uri": "https://api.int.art/collections/the-pixels-inc/metadata/1?dna=110802030808003100000000",
+  "metadata": {
+    "name": "the pixel @110802030808003100000000",
+    "description": "'the pixels' are the first interactive identities. They are generated randomly at mint. Move your mouse and click it to interact with your pixel. Don't forget to customise your pixel on thedudes.art/the-pixels-inc-extensions!  \n\nControls:  \n - Press Q to change pixel's gesture.  \n - Press A to show/hide pixel's sunglasses if it has one.  \n - Press and hold X to enable special effects if it has one.  \n - Press E to show/hide extensions if it's extended.",
+    "image": "https://api.int.art/collections/the-pixels-inc/gif/1",
+    "animation_url": "https://api.int.art/collections/the-pixels-inc/app/1",
+    "attributes": [
+      {
+        "trait_type": "Theme",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tshirt"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Chin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Stripe Eyes Middle Fill"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Simple Left"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Fat Lips"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bucket"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Short Straight"
+      }
+    ],
+    "external_url": "https://int.art"
+  }
+}

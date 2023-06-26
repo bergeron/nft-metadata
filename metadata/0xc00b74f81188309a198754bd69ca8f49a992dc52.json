@@ -1,0 +1,38 @@
+{
+  "address": "0xc00b74f81188309a198754bd69ca8f49a992dc52",
+  "type": "ERC721",
+  "name": "XBYX",
+  "tokenCount": "50",
+  "uri": "ipfs://Qmd7JFtw4Dc9wPkpWnQ4YHmsmXPaaf7zzRFr7SZKqsq7ks/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "You are looking at XBYX. This is a unique digital art object created by algorithmically transforming the matrix of a Latin (perfect) square into a set of colored circles, where each color occurs only once in each row, column, and diagonal respectively.",
+    "image": "ipfs://QmYAnhZBnWV9mPuB4RzUc2ydiGsUCLT7ciE8m5eQWof4PG/XBYX_%231.PNG",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "dark"
+      },
+      {
+        "trait_type": "Color's",
+        "value": "ten"
+      },
+      {
+        "trait_type": "Rows",
+        "value": "no duplicates"
+      },
+      {
+        "trait_type": "Columns",
+        "value": "no duplicates"
+      },
+      {
+        "trait_type": "Diagonals",
+        "value": "no duplicates"
+      },
+      {
+        "trait_type": "Rainbow diagonal",
+        "value": "available"
+      }
+    ]
+  }
+}

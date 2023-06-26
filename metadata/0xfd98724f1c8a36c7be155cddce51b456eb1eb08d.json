@@ -1,0 +1,25 @@
+{
+  "address": "0xfd98724f1c8a36c7be155cddce51b456eb1eb08d",
+  "type": "ERC721",
+  "name": "CoinGecko Xmas 2018 NFToken",
+  "tokenCount": "100",
+  "uri": "https://storage.googleapis.com/nft-assets.coingecko.com/xmas-2018/metadata/coingecko-xmas-2018-A-1.json",
+  "metadata": {
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "CoinGecko Xmas 2018 NFToken (coingecko-xmas-2018-A) #1"
+      },
+      "description": {
+        "type": "string",
+        "description": "Santa Gecko is coming to town!"
+      },
+      "image": {
+        "type": "string",
+        "description": "https://nft-assets.coingecko.com/xmas-2018/images/coingecko-xmas-2018-A-1.png"
+      }
+    }
+  }
+}

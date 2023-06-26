@@ -1,0 +1,24 @@
+{
+  "address": "0xa63fb24ff4ffa083bb0e30474333c5997972f707",
+  "type": "ERC721",
+  "name": "Midnight Mares",
+  "tokenCount": "657",
+  "uri": "ipfs://Qmap6NScb1D1j2dFvkwvxUrryr5yWd4Hn9KGVAYCr9KVSK/hidden.json",
+  "metadata": {
+    "name": "MARE SPAWNER ENTITY",
+    "description": "MARE ENTITY SPAWNER. SPAWNS 1 MIDNIGHT MARE FORMATION.",
+    "image": "ipfs://Qme5nGb1ZsRBPpCJS9Kg4aJafBTQmewqNEmMwLJs8wvrvu/hidden.gif",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "REVEALED",
+        "value": "FALSE"
+      },
+      {
+        "trait_type": "NIGHT",
+        "value": "MARE"
+      }
+    ],
+    "compiler": "MARE"
+  }
+}

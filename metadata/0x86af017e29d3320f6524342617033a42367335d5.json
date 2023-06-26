@@ -1,0 +1,48 @@
+{
+  "address": "0x86af017e29d3320f6524342617033a42367335d5",
+  "type": "ERC1155",
+  "name": "01101101 01101111 01110110 01100101 | MOVE",
+  "tokenCount": "7",
+  "uri": "https://arweave.net/TPwN9YorkGZ8t89aXUN6WQMeTOJpEKgTchj5AZRsaLM",
+  "metadata": {
+    "name": "01110010 01100101 01100100",
+    "created_by": "GOV",
+    "description": "01110010 01100101 01100100 00100000 01101101 01101111 01110110 01100101 01101101 01100101 01101110 01110100",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "GOV"
+      },
+      {
+        "trait_type": "color",
+        "value": "red"
+      },
+      {
+        "trait_type": "frames",
+        "value": "15"
+      }
+    ],
+    "animation_details": {
+      "bytes": 602511,
+      "format": "MP4",
+      "duration": 2,
+      "sha256": "e5d6ec24eb4e98c6743ab2d1e052938971935a6ad3224d0f55c160a74cc87111",
+      "width": 2048,
+      "height": 2048,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/p9yUJ3sbfqdJ5CxrwYgnr28SXxGXuGFW1nmwn3PIXEA",
+    "animation_url": "https://arweave.net/p9yUJ3sbfqdJ5CxrwYgnr28SXxGXuGFW1nmwn3PIXEA",
+    "image_details": {
+      "bytes": 5385308,
+      "format": "GIF",
+      "sha256": "6c8abcb68fda4c8f22bb6907bd11688ac398b08a7c836030251f7fce2589a5cf",
+      "width": 2048,
+      "height": 2048
+    },
+    "image": "https://arweave.net/Nr543FDRHg5mrjjChFNcnvrutXpebe2Tmt1ZhDg7K8w",
+    "image_url": "https://arweave.net/Nr543FDRHg5mrjjChFNcnvrutXpebe2Tmt1ZhDg7K8w"
+  }
+}

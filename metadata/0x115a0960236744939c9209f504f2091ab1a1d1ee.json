@@ -1,0 +1,53 @@
+{
+  "address": "0x115a0960236744939c9209f504f2091ab1a1d1ee",
+  "type": "ERC721",
+  "name": "Mutariuum Land",
+  "tokenCount": "666",
+  "uri": "https://api.play.mutariuum.com/mint/nft/land/metadata/1.json",
+  "metadata": {
+    "name": "MU Land #0001",
+    "image": "https://api.play.mutariuum.com/mint/nft/land/image/1?size=1080&v=1687480197101",
+    "description": "Land is your access to the Mutariuum Universe game. MUL gives you an opportunity to earn $MUT and invest it in MU Accelerator.",
+    "attributes": [
+      {
+        "trait_type": "Size",
+        "value": 1,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Land Type",
+        "value": "Urban"
+      },
+      {
+        "trait_type": "Hospitality 1 Level",
+        "value": 0,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Hospitality 1 Capacity",
+        "value": 2,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Manufacturing 1 Level",
+        "value": 0,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Manufacturing 1 Capacity",
+        "value": 2,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Services 1 Level",
+        "value": 0,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Services 1 Capacity",
+        "value": 2,
+        "display_type": "number"
+      }
+    ]
+  }
+}

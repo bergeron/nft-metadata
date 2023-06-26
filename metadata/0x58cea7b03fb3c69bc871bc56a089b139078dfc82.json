@@ -1,0 +1,42 @@
+{
+  "address": "0x58cea7b03fb3c69bc871bc56a089b139078dfc82",
+  "type": "ERC721",
+  "name": "My life is ruined by dna",
+  "tokenCount": "552",
+  "uri": "ipfs://bafybeifb2ubhk5pvm4yq33jghkyqgquhbwe2lfcjqjry7vtaqrpuknizhe/1",
+  "metadata": {
+    "name": "My life is ruined by dna #1",
+    "description": "My life is ruined. My life is ruined. My life is ruined. My life is ruined. My life is ruined. My life is ruined. My life is ruined. My life is ruined. My life is ruined. My life is ruined. My life is ruined. My life is ruined. By dna.",
+    "image": "ipfs://bafybeih5keqpruo3jji7wunpcshul25kx5hnsz3cjxc3r7c724sh2svqde/1.gif",
+    "dna": "9ba6f79bc26d816ae714c99761ddb32f963b8568",
+    "edition": 1,
+    "date": 1671262862165,
+    "attributes": [
+      {
+        "trait_type": "My",
+        "value": "by"
+      },
+      {
+        "trait_type": "life",
+        "value": "ruined"
+      },
+      {
+        "trait_type": "is",
+        "value": "my"
+      },
+      {
+        "trait_type": "ruined",
+        "value": "by"
+      },
+      {
+        "trait_type": "by",
+        "value": "dna"
+      },
+      {
+        "trait_type": "dna",
+        "value": "is"
+      }
+    ],
+    "compiler": "dna"
+  }
+}

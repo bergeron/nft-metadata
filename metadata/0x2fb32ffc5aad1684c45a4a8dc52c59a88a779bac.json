@@ -1,0 +1,45 @@
+{
+  "address": "0x2fb32ffc5aad1684c45a4a8dc52c59a88a779bac",
+  "type": "ERC1155",
+  "name": "Ash Walkers by Mwan",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/uVqW9fTBmaqr80pwiaxyl376a2Ko3HCBAdlZXTlQjQM",
+  "metadata": {
+    "name": "The Preacher",
+    "created_by": "Mwan",
+    "description": "Ash Walker 01 - The Preacher - Visuals and sound by Mwan",
+    "attributes": [
+      {
+        "trait_type": "Role",
+        "value": "Preacher"
+      },
+      {
+        "trait_type": "Level",
+        "value": "01"
+      }
+    ],
+    "animation_details": {
+      "bytes": 90045031,
+      "format": "MP4",
+      "duration": 14,
+      "sha256": "b6b395bf22584399d23c2de485a749a64f744975e56a3c4933cf1494098aa920",
+      "width": 3000,
+      "height": 3000,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/Uqlgm_nqcmvfKNU0oKFmX7b98pVoFQ2-X_OYfU9viiU",
+    "animation_url": "https://arweave.net/Uqlgm_nqcmvfKNU0oKFmX7b98pVoFQ2-X_OYfU9viiU",
+    "image_details": {
+      "bytes": 1538854,
+      "format": "JPEG",
+      "sha256": "5061682c36c540f023fedc856c4b4733cb59b1ca4aaa883ea3c937aeb425a9c0",
+      "width": 3000,
+      "height": 3000
+    },
+    "image": "https://arweave.net/EfDihkUo_ocrjKA8laOYTJP8-xUUvV6mIO03rpHUTks",
+    "image_url": "https://arweave.net/EfDihkUo_ocrjKA8laOYTJP8-xUUvV6mIO03rpHUTks"
+  }
+}

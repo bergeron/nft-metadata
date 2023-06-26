@@ -1,0 +1,33 @@
+{
+  "address": "0x46ec16ca0e6160a3fae84414556577873ad35f0a",
+  "type": "ERC1155",
+  "name": "Fake Blocks",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/s3SIE23t41rzA5FZBPWQjs-a8kHg6UoDKo4WLof5RYc",
+  "metadata": {
+    "name": "PEPETYPE",
+    "created_by": "Seizor",
+    "description": "First edition of Fake Blocks. A derivative of Archetype.",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "Fake"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "how fake?",
+        "value": 100,
+        "max_value": 100
+      }
+    ],
+    "image_details": {
+      "bytes": 312995,
+      "format": "PNG",
+      "sha256": "61d3f753c3057611bde5a79a0dd67ab4d57e3eeda74eb61fc54999eac14740b4",
+      "width": 901,
+      "height": 901
+    },
+    "image": "https://arweave.net/nRdHdjk4bXnNK3YU4vngHyq-QMy8RVVLdprc0mt-LME",
+    "image_url": "https://arweave.net/nRdHdjk4bXnNK3YU4vngHyq-QMy8RVVLdprc0mt-LME"
+  }
+}

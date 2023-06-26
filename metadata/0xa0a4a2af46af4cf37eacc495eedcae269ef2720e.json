@@ -1,0 +1,30 @@
+{
+  "address": "0xa0a4a2af46af4cf37eacc495eedcae269ef2720e",
+  "type": "ERC721",
+  "name": "Digital Unisocks Edition 0",
+  "tokenCount": "1",
+  "uri": "https://cloudflare-ipfs.com/ipfs/QmdhJKefvE3aAyzHAmGFqmJ1wzpXHSGymz41Npi74fqhYF",
+  "metadata": {
+    "image": "https://cloudflare-ipfs.com/ipfs/Qmde93sqzW9E55YQpLKmBYbHhMUpfQAbu3eAkDgjCugkA7",
+    "external_url": "https://unisocks.exchange",
+    "description": "Edition 0",
+    "name": "Unisocks",
+    "attributes": [
+      {
+        "trait_type": "Fuzziness",
+        "value": "Extreme"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Power Level",
+        "value": 9001
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Version",
+        "value": 0
+      }
+    ],
+    "background_color": "d3d3d3"
+  }
+}

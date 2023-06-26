@@ -1,0 +1,20 @@
+{
+  "address": "0x8407fe3a57b746100a11990c8a4f5604cfd2e955",
+  "type": "ERC721",
+  "name": "Beep Boop Battery",
+  "tokenCount": "20000",
+  "uri": "https://beepboopbotz.io/api/battery/1.json",
+  "metadata": {
+    "name": "Beep Boop Battery #1",
+    "image": "ipfs://QmXEbyezf3CvfbPwv4eXbXaj7mZznTegjuoBFA8pbUXjGg/white.gif",
+    "description": "The Batteries\nSome bots will want to work overtime to gain an advantage; and extra batteries are the key.",
+    "external_url": "beepboopbotz.io",
+    "token_id": "1",
+    "attributes": [
+      {
+        "value": "Grey",
+        "trait_type": "Type"
+      }
+    ]
+  }
+}

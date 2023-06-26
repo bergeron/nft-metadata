@@ -1,0 +1,46 @@
+{
+  "address": "0x730151b8286ca0508a19a9d5c47fe91fdd9a6737",
+  "type": "ERC1155",
+  "name": "Nifty Island: Legendary Palms",
+  "tokenCount": "6",
+  "uri": "https://nifty-island-palm-drop-public.s3.us-east-2.amazonaws.com/bronze.json",
+  "metadata": {
+    "name": "Bronze Palm",
+    "description": "The bronze palm was granted to the many who answered the call of the Legendary Palms in some small way. It gives off an insistent vibrating energy.",
+    "image": "https://nifty-island-palm-drop-public.s3.us-east-2.amazonaws.com/bronze_video.mp4",
+    "metadata_standard": "ETM_v1.0.0",
+    "extensions": [
+      "ETM_MULTIASSET_v1.0.0",
+      "ETM_ATTRIBUTES_v1.0.0"
+    ],
+    "assets": [
+      {
+        "media_type": "model",
+        "files": [
+          {
+            "url": "https://nifty-island-palm-drop-public.s3.us-east-2.amazonaws.com/bronze_model.fbx",
+            "file_type": "model/fbx"
+          },
+          {
+            "url": "https://nifty-island-palm-drop-public.s3.us-east-2.amazonaws.com/bronze_video.mp4",
+            "file_type": "video/mp4"
+          },
+          {
+            "url": "https://nifty-island-palm-drop-public.s3.us-east-2.amazonaws.com/bronze_image.png",
+            "file_type": "image/png"
+          },
+          {
+            "url": "https://nifty-island-palm-drop-public.s3.us-east-2.amazonaws.com/bronze_image_transparent.png",
+            "file_type": "image/png"
+          }
+        ]
+      }
+    ],
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Bronze"
+      }
+    ]
+  }
+}

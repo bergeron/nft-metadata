@@ -1,0 +1,53 @@
+{
+  "address": "0xd4099a4e62940b1439e8b5df103381f924e0035f",
+  "type": "ERC721",
+  "name": "Galaxy Smasher",
+  "tokenCount": "2222",
+  "uri": "ipfs://QmPTzAevvuY7TrjKQGnsMeJLFQzvxLmMsBKwjXinHnXLzH/1",
+  "metadata": {
+    "name": "SMASHER #1",
+    "symbol": "SPSM",
+    "description": "SMASHER #1",
+    "image": "https://ipfs.io/ipfs/QmWPPAPF5TGkYJp8saZTkfmGnCywSZt1cvwYCshNHYt6Vf/1.png",
+    "external_url": "https://etherscan.io/myproject",
+    "attributes": [
+      {
+        "trait_type": "Back",
+        "value": "Hockey Stick"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Hyperspeed"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Green Fisherman West"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Dollar Eyes"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Party Hat"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Purple"
+      }
+    ],
+    "collection": {
+      "name": "SPACE SMASHERS",
+      "family": "SPACE SMASHERS"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://ipfs.io/ipfs/QmWPPAPF5TGkYJp8saZTkfmGnCywSZt1cvwYCshNHYt6Vf/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
+}

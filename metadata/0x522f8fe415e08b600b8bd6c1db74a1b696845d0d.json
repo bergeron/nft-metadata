@@ -1,0 +1,29 @@
+{
+  "address": "0x522f8fe415e08b600b8bd6c1db74a1b696845d0d",
+  "type": "ERC721",
+  "name": "PDT V2",
+  "tokenCount": "31",
+  "uri": "data:application/json,{\"name\":\"PDT Allocation Voucher #1 - 0.00 - Linear\", \"description\":\"Voucher #1 of PDT allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade PDT's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!\",\"image\": \"https://imgurl.solv.finance/meta/images/vvPDT/1.png\",\"external_url\":\"https://app.solv.finance/vvPDT/1\", \"properties\": {\"owner\":\"0x167539702b5501aadd9b0b85e53532fd57cc71a9\",\"underlying\":\"0x375abb85c329753b1ba849a601438ae77eec9893\",\"underlyingSymbol\":\"PDT\",\"vestingAmount\":\"0.000000000000000000\",\"principal\":\"0.000000000000000000\",\"claimType\":\"Linear\",\"claimableAmount\":\"0.000000000000000000\",\"percentages\":[\"100.00%\"],\"maturities\":[1705708800],\"term\":\"730.00 days\"}}",
+  "metadata": {
+    "name": "PDT Allocation Voucher #1 - 0.00 - Linear",
+    "description": "Voucher #1 of PDT allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade PDT's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!",
+    "image": "https://imgurl.solv.finance/meta/images/vvPDT/1.png",
+    "external_url": "https://app.solv.finance/vvPDT/1",
+    "properties": {
+      "owner": "0x167539702b5501aadd9b0b85e53532fd57cc71a9",
+      "underlying": "0x375abb85c329753b1ba849a601438ae77eec9893",
+      "underlyingSymbol": "PDT",
+      "vestingAmount": "0.000000000000000000",
+      "principal": "0.000000000000000000",
+      "claimType": "Linear",
+      "claimableAmount": "0.000000000000000000",
+      "percentages": [
+        "100.00%"
+      ],
+      "maturities": [
+        1705708800
+      ],
+      "term": "730.00 days"
+    }
+  }
+}

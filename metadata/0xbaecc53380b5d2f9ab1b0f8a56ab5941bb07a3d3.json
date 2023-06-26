@@ -1,0 +1,41 @@
+{
+  "address": "0xbaecc53380b5d2f9ab1b0f8a56ab5941bb07a3d3",
+  "type": "ERC1155",
+  "name": "Ephemeral Gold",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/7ZSgsS5tgnFgR-8PkbLcnWAINSk60rHD3Rau8wmaU1c",
+  "metadata": {
+    "name": "Víkar",
+    "created_by": "Jorden Tually",
+    "description": "The town of Víkar is an abandoned village situated on the north coast of Vágar, which hosts one of the most picturesque yet remote coastlines in the world.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Jorden Tually"
+      }
+    ],
+    "animation_details": {
+      "bytes": 29475339,
+      "format": "MP4",
+      "duration": 11,
+      "sha256": "9c6da1f46da259d8a24e81a8f129dcf4b98cd4303efeefc2bf3e0784b941c7e2",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/zidrxtqwVTYsmXUq7O2QaUSmzx5gsecPwUSs8PwgcF0",
+    "animation_url": "https://arweave.net/zidrxtqwVTYsmXUq7O2QaUSmzx5gsecPwUSs8PwgcF0",
+    "image_details": {
+      "bytes": 549064,
+      "format": "PNG",
+      "sha256": "2a8d8607433df0f5a38358861ff6176167e54025c0419353483b1c8e2c7f3252",
+      "width": 600,
+      "height": 600
+    },
+    "image": "https://arweave.net/jb4ztjAXa5SS7CRrJCW9mcBeXxW5sRnJGbNIiRihxSY",
+    "image_url": "https://arweave.net/jb4ztjAXa5SS7CRrJCW9mcBeXxW5sRnJGbNIiRihxSY"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "0x6deabfeb853c7cb48833661e07fc584ac36c4d51",
+  "type": "ERC721",
+  "name": "GeoArtNft",
+  "tokenCount": "240",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmQai7jkxQYBLPG2o7MqmBXBSMngfSrCD7yrtWLYmjERqW/1.json",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "radius",
+        "value": 1000
+      },
+      {
+        "trait_type": "generatedBy",
+        "value": "Algorithm"
+      },
+      {
+        "trait_type": "shape",
+        "value": "Dilate"
+      },
+      {
+        "trait_type": "theme",
+        "value": "Random"
+      },
+      {
+        "trait_type": "country",
+        "value": "Israel"
+      },
+      {
+        "trait_type": "collectionIndex",
+        "value": 0
+      }
+    ],
+    "external_url": "https://www.geo-nft.com/",
+    "name": "GeoArt 0/1080 Lod",
+    "description": "A map displaying Lod. Centered around (31.95,34.9) © OpenStreetMap contributors.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcoLAm3iZcNnooM6Smapoq4n3xTLVFXwdtBcXZyjd9u5G/1.svg"
+  }
+}

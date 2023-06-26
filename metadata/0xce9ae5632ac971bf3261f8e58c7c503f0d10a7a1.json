@@ -1,0 +1,42 @@
+{
+  "address": "0xce9ae5632ac971bf3261f8e58c7c503f0d10a7a1",
+  "type": "ERC721",
+  "name": "Rarity League",
+  "tokenCount": "2775",
+  "uri": "https://presalemetadata.mythical.market/rarityleague/1",
+  "metadata": {
+    "name": "Bengals #1",
+    "image": "https://presalemetadata.mythical.market/rarityleague/3-1.png",
+    "description": "Record your fandom on the blockchain with limited edition Bengals NFTs! Rarity League is a collection of limited edition, uniquely generated, 3D art helmet NFTs under official license from the NFL. Rarity League NFTs have individual designs centered around your favorite NFL teams, with special helmet graphics, backgrounds, and animations. The Rarity League collection will be adopted by NFL Rivals to provide owners access to special events, in-game rewards, and other unique features.",
+    "team_id": 3,
+    "serial": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Shell",
+        "value": "Satin White Pads White"
+      },
+      {
+        "trait_type": "Facemask",
+        "value": "Orange Hardware White"
+      },
+      {
+        "trait_type": "Sides",
+        "value": "Pom Poms Black"
+      },
+      {
+        "trait_type": "Team",
+        "value": "Bengals"
+      },
+      {
+        "display_type": "number",
+        "max_value": 2500,
+        "trait_type": "Serial",
+        "value": 1
+      }
+    ]
+  }
+}

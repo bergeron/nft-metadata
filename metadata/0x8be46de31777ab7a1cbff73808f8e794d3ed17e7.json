@@ -1,0 +1,86 @@
+{
+  "address": "0x8be46de31777ab7a1cbff73808f8e794d3ed17e7",
+  "type": "ERC721",
+  "name": "CryptAxx Guitars",
+  "tokenCount": "108",
+  "uri": "https://cryptaxxnft.com/axxes-v1/metadata/1.json",
+  "metadata": {
+    "dna": "bbe308eb389fbdf7716e5116278cc09c86b90ee49e57e02cfab30cfceb6c1ca3",
+    "name": "Axx #1",
+    "description": "The worlds first programmatically generated guitar NFT collectables eternally written on the Ethereum blockchain. Your Axx NFT doubles as your Axx_Club membership card, granting access to music related members-only benefits.",
+    "image": "https://cryptaxxnft.com/axxes-v1/images/1.png",
+    "imageHash": "7b9180828c619e8a17f3d7f35df4d7275c4553fdd841a114fa6f3153cdbce129",
+    "edition": 1,
+    "date": 1640004135686,
+    "animation_url": "https://gateway.pinata.cloud/ipfs/QmdrsAxuJBvuyHvtHryGx52MnBpPo2GgrRj9SKMURTrKTm/38.mp3",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0x4Df1F074414c97768Cca71AA2D04911642006958",
+    "attributes": [
+      {
+        "trait_type": "Body Shape",
+        "value": "Z"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Blue Metallic"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Rosewood"
+      },
+      {
+        "trait_type": "Inlays",
+        "value": "Triangle White"
+      },
+      {
+        "trait_type": "Strings",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Pick",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Case",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Plaster"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Original"
+      },
+      {
+        "trait_type": "Sticker",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headstock",
+        "value": "J"
+      },
+      {
+        "trait_type": "Tuners",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Hardware",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Hollowbody",
+        "value": "No"
+      },
+      {
+        "trait_type": "Pickguard",
+        "value": "Pickguard None"
+      },
+      {
+        "trait_type": "Pickups",
+        "value": "SSS Silver"
+      }
+    ],
+    "compiler": "CryptAxx Axx Compiler v0.1.0"
+  }
+}

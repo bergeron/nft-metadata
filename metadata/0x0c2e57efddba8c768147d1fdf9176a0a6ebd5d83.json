@@ -1,0 +1,37 @@
+{
+  "address": "0x0c2e57efddba8c768147d1fdf9176a0a6ebd5d83",
+  "type": "ERC721",
+  "name": "Kaiju Kingz",
+  "tokenCount": "9999",
+  "uri": "https://kaijukingz-metadata-uri.herokuapp.com/kaijuz/1",
+  "metadata": {
+    "name": "KaijuKing #1",
+    "description": "3,333 Genesis Kaiju Kingz created by Augminted Labs to protect the metaverse. The community is all about growth and providing a place for the future of web3 to learn, build, and conquer. Join the Kingz and live forever as a legend. 6666 babies to accompany them.",
+    "tokenId": 1,
+    "image": "https://kaijukingz.mypinata.cloud/ipfs/QmSz15c9iXn3XCRnegcd8hHdFVdfk95PDupgSApNZGdKMg",
+    "attributes": [
+      {
+        "trait_type": "Origin",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Legendary",
+        "value": "SpaceKaiju"
+      }
+    ],
+    "inventory": [
+      {
+        "trait_type": "Neck",
+        "value": "Business Attire"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Santa Jacket"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Santa Beard"
+      }
+    ]
+  }
+}

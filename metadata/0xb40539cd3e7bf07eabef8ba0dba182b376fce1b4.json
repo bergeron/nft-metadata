@@ -1,0 +1,38 @@
+{
+  "address": "0xb40539cd3e7bf07eabef8ba0dba182b376fce1b4",
+  "type": "ERC721",
+  "name": "GtC",
+  "tokenCount": "30",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=ajsfptSHaaYjbPzPUwmi",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1571916566245?alt=media&token=bd85957a-ef6d-42ed-871f-aaca66ea4307",
+    "isForSale": true,
+    "contractAddress": "0xb40539Cd3E7bF07eabEf8ba0DBA182b376FcE1b4",
+    "description": "",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xb40539Cd3E7bF07eabEf8ba0DBA182b376FcE1b4/ajsfptSHaaYjbPzPUwmi",
+    "minter": "0x1E9bABdb4743DbaAf287352BC9D3d8c31B0ff327",
+    "mintedOn": {
+      "_seconds": 1571916648,
+      "_nanoseconds": 618000000
+    },
+    "price": "0",
+    "name": "BEWARE",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "BEWARE"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

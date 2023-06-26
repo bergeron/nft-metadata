@@ -1,0 +1,32 @@
+{
+  "address": "0xd3d9df7d49800db66f98a5a3c5653c52cd33ad05",
+  "type": "ERC721",
+  "name": "Wanorde",
+  "tokenCount": "11",
+  "uri": "https://wanorde.geneticchain.io/api/meta/1",
+  "metadata": {
+    "name": "Wanorde #1",
+    "artist": "Bart Simons",
+    "description": "'Wanorde' is a generative art project that explores chaos and entropy through the simple act of drawing circles on a canvas. The circles are randomly warped and the output is deliberately broken, resulting in an intricate and chaotic final product.",
+    "external_url": "https://wanorde.geneticchain.io",
+    "image": "https://wanorde.geneticchain.io/api/image/1",
+    "attributes": [
+      {
+        "trait_type": "Scale",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Basecolor",
+        "value": "Ash"
+      },
+      {
+        "trait_type": "Gridbreakage",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Duotone",
+        "value": "No"
+      }
+    ]
+  }
+}

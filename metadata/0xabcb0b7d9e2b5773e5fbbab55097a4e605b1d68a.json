@@ -1,0 +1,51 @@
+{
+  "address": "0xabcb0b7d9e2b5773e5fbbab55097a4e605b1d68a",
+  "type": "ERC721",
+  "name": "Coupe Fiat V1",
+  "tokenCount": "1",
+  "uri": "ipfs://QmfLVYXsdw3NkWXubuAJNXk99vKNAntzRF51gZwjThWG94",
+  "metadata": {
+    "name": "Coupé Fiat V1",
+    "description": "This sketch is my first NFT and it’s minted for a good cause, the Humanity First Ukraine Emergency Relief Fund. 100% of the proceeds from the auction and all future royalties will go to it. It’s the Coupé Fiat, the last car whose exterior I personally penned every line of.\n\nThe sketch is done the old-school way in with paint markers on my favourite paper: the placemats from the local cafè. It might not be a perfect rendition of the Coupé, but it’s exactly how it exists in my mind.\n\n-Chris Bangle\n\nVerisart Certified: https://verisart.com/works/dad88555-c502-4ca4-ad22-3dfc297a602b",
+    "image": "ipfs://QmdCukGkfoyjKC1YKYdDo9fpviBHsgXZ1ixQWfSJGyKaCt",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 10452,
+          "height": 5758,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": null,
+        "frameRate": null,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0x1b4a932bfe0bb8ff56029bc1d0502cce639388eb",
+            "bps": 3000
+          }
+        ],
+        "editionInfo": null
+      }
+    },
+    "external_url": "https://verisart.com/works/dad88555-c502-4ca4-ad22-3dfc297a602b",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Chris Bangle"
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022"
+      }
+    ]
+  }
+}

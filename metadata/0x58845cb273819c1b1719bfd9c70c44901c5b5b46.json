@@ -1,0 +1,28 @@
+{
+  "address": "0x58845cb273819c1b1719bfd9c70c44901c5b5b46",
+  "type": "ERC721",
+  "name": "Crypto Slots",
+  "tokenCount": "5",
+  "uri": "https://utility.workshop.blue/t/cs-v1/uri/1",
+  "metadata": {
+    "name": "Crypto Slots #1",
+    "description": "Crypto Slots are 777 dynamic NFT slot machines whose outcome is randomized based on the last transaction hash of the NFT on the blockchain. Everytime the Crypto Slot moves to a new wallet its outcome will change.",
+    "external_url": "https://workshop.blue/crypto-slots/1",
+    "image": "https://token.workshop.blue/t/cs/edition-cat-animation.gif",
+    "animation_url": "https://utility.workshop.blue/t/cs-v1/1",
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "value": "CAT"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "UNCOMMON"
+      },
+      {
+        "trait_type": "Winner",
+        "value": "NO"
+      }
+    ]
+  }
+}

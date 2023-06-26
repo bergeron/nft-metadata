@@ -1,0 +1,78 @@
+{
+  "address": "0xf797ca03e6e6be3f1a52c68c1662d8fce2b839b9",
+  "type": "ERC721",
+  "name": "EverLoot",
+  "tokenCount": "481",
+  "uri": "https://api.evermore.mud.xyz/everloot/1",
+  "metadata": {
+    "name": "salt dagger",
+    "description": "Battle for Evermore is a text-based MOBA-style game, powered by the Ethereum blockchain.",
+    "decimals": 0,
+    "image": "https://api.evermore.mud.xyz/everloot/1/image",
+    "external_url": "https://api.evermore.mud.xyz/everloot/1",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Season",
+        "value": "Ummar"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2645"
+      },
+      {
+        "trait_type": "Item Level",
+        "display_type": "boost_number",
+        "value": "28"
+      },
+      {
+        "trait_type": "EQSet",
+        "value": "Weapon"
+      },
+      {
+        "trait_type": "Type",
+        "value": "dagger"
+      },
+      {
+        "trait_type": "Material",
+        "value": "salt"
+      },
+      {
+        "trait_type": "State",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Wear Slot",
+        "value": "secondary"
+      },
+      {
+        "trait_type": "Strength",
+        "display_type": "boost_number",
+        "value": 10
+      },
+      {
+        "trait_type": "Armor",
+        "display_type": "boost_number",
+        "value": 6
+      },
+      {
+        "trait_type": "Intelligence",
+        "display_type": "boost_number",
+        "value": 5
+      },
+      {
+        "trait_type": "Constitution",
+        "display_type": "boost_number",
+        "value": 4
+      },
+      {
+        "trait_type": "Wisdom",
+        "display_type": "boost_number",
+        "value": 3
+      }
+    ]
+  }
+}

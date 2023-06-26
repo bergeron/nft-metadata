@@ -1,0 +1,64 @@
+{
+  "address": "0x067c7b48a7e357529ad4d031e0cce7ca06c5b139",
+  "type": "ERC721",
+  "name": "Dinger Squad - Bolt",
+  "tokenCount": "2",
+  "uri": "https://dingers.mypinata.cloud/ipfs/QmcU1tFmoyEr6xAPT7L4pkqQWr1AKfzP1hb1F6SyqhpEaY/1.json",
+  "metadata": {
+    "name": "Bolt 1",
+    "description": "Bolt, the fastest baseball player that has ever played the game. Sprint Speed 40 feet/second. Collects bases everytime he steals a base, literally steals bases after the game. His previous job was a trash man, until he recently gained fame for his speed in professional baseball",
+    "external_url": "",
+    "image": "https://dingers.mypinata.cloud/ipfs/QmfLiY7ZCi4cenrwnjnPCuGBRu1TRyr2XQTmginG5bM2ep/1.webp",
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "DIRT-FIELD"
+      },
+      {
+        "trait_type": "CLOTHING",
+        "value": "HERO-CAPE"
+      },
+      {
+        "trait_type": "FACE",
+        "value": "TRIBAL-WHITE"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "PACIFIER"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "BLACK-HEADSCARF"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "BASEBALL-SUNGLASSES"
+      },
+      {
+        "trait_type": "HANDS",
+        "value": "IRON-MAN"
+      },
+      {
+        "trait_type": "TATTOO",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "BASE",
+        "value": "3RD-BASE"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "",
+    "seller_fee_basis_points": 200,
+    "fee_recipient": "0x0F69721C6e70497419DD09fBA27103B1A5f57CBC"
+  }
+}

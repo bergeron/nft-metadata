@@ -1,0 +1,38 @@
+{
+  "address": "0x2d2978e86943346f0065809b0f47cf58ee076d4d",
+  "type": "ERC721",
+  "name": "Battle bears",
+  "tokenCount": "2748",
+  "uri": "ipfs://QmZjHsoHHdcSsKboAbvz3ooexYkSC6kq8hFQwCHwFRHdFS/1.json",
+  "metadata": {
+    "dna": "8d0d18cc6deced65cae7ab4a6e5ffde133042589",
+    "name": "#1",
+    "description": "BattleBears on-Chain strategy game",
+    "image": "ipfs://QmdDzWqMRkW8dphNn3g7EdrKBJTi6FNciVrSYG7YDgiPq7/1.png",
+    "edition": 1,
+    "date": 1642396565469,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "reddish"
+      },
+      {
+        "trait_type": "Skin Color",
+        "value": "skin1"
+      },
+      {
+        "trait_type": "Costume Color",
+        "value": "costume1"
+      },
+      {
+        "trait_type": "Eyeglass",
+        "value": "sad eyes"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "gun"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

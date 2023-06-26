@@ -1,0 +1,54 @@
+{
+  "address": "0x6b53e03df077e59c001a873db55820803bc5c800",
+  "type": "ERC721",
+  "name": "Ferrum",
+  "tokenCount": "256",
+  "uri": "https://art-sandbox.sunflower.industries/token/0x6b53e03Df077E59c001A873db55820803bc5c800/1",
+  "metadata": {
+    "description": "Beautiful blades of grass weave through a flowing field.\n\nPress \"o\" to switch orientations.\nPress \"h\" to render a higher resolution version",
+    "dependencies": "[{\"name\":\"p5@1.4.0\",\"keccak256\":\"0xcef1df742d5237151854b6ccd3d7769c7bcb2cf987e4f8f6ca1ad69afdac3dcc\"}]",
+    "artist": "0xD3fF209c5AdddB59C6aC709Fd0B236FC14246B42",
+    "external_url": "https://art.sunflower.industries/token/0x6b53e03Df077E59c001A873db55820803bc5c800/1",
+    "image": "https://art-sandbox.sunflower.industries/render/tokenImage/0x6b53e03Df077E59c001A873db55820803bc5c800/1",
+    "name": "Ferrum #1",
+    "attributes": [
+      {
+        "trait_type": "Colors",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Inversion",
+        "value": "No"
+      },
+      {
+        "trait_type": "Border",
+        "value": "Circle"
+      },
+      {
+        "trait_type": "Density",
+        "value": "1400"
+      },
+      {
+        "trait_type": "Size",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Edge Thickness",
+        "value": "2"
+      },
+      {
+        "trait_type": "Whipped",
+        "value": "No"
+      },
+      {
+        "trait_type": "Chaos",
+        "value": "No"
+      },
+      {
+        "trait_type": "Shadow",
+        "value": "None"
+      }
+    ],
+    "animation_url": "https://art-sandbox.sunflower.industries/tokenFrame/0x6b53e03Df077E59c001A873db55820803bc5c800/1"
+  }
+}

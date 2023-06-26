@@ -1,0 +1,49 @@
+{
+  "address": "0x547cb53479a766f6460f0939fcfe4083c56030bf",
+  "type": "ERC721",
+  "name": "Gopnik's New Year's balls",
+  "tokenCount": "79",
+  "uri": "ipfs://QmSmCUztibfifCghZjPeLKQRJsfHYSE7LCL5TJeQotd9vJ/1/token.json",
+  "metadata": {
+    "name": "New Year's ball #1",
+    "description": "New Year's Eve balls from a box of decorations that Gopnik pulls out only once a year",
+    "external_url": "https://async.market/blueprints/63a450fc3a7717d2bb7c122e/editions/0x547cb53479a766f6460f0939fcfe4083c56030bf-1",
+    "attributes": [
+      {
+        "trait_type": "Asset Type",
+        "value": "Edition"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "GrdIll"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Gopnik's New Year's balls"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Sky"
+      },
+      {
+        "trait_type": "Ball",
+        "value": "Smoking"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "Warmth"
+      }
+    ],
+    "async-attributes": {
+      "prefixHash": "d80423308e4fd7f3fac5cd4b1129aa26654bc0dcede6ceeb3c48584ea9ef5629",
+      "txHash": "0xe89e8d710064bd90c1f1b3043eaf03a982be8a775f2e5ec24af1407d794bf83e",
+      "signatures": [
+        {
+          "address": "0xe143537ff9ab74e3dcf07bb36a284a64dc38d1d6",
+          "version": 2
+        }
+      ]
+    },
+    "image": "ipfs://QmQh7JBcq65SJftt3eMwyTs8v5u2y2PuSsFEK2dJML2dTK"
+  }
+}

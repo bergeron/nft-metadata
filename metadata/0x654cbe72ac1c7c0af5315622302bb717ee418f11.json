@@ -1,0 +1,85 @@
+{
+  "address": "0x654cbe72ac1c7c0af5315622302bb717ee418f11",
+  "type": "ERC1155",
+  "name": "The STARS on the M00n Contest",
+  "tokenCount": "1",
+  "uri": "ipfs://QmfC9rE79DscTa6j4mku8J8bJ9MivwTVi4TptLouSnr95M",
+  "metadata": {
+    "name": "The STARS on the M00n",
+    "title": "The STARS on the M00n",
+    "description": "Vitalik Buterin, CZ from Binance, and Elon Musk are featured with a Mogul STARS token on the moon in this original piece of artwork from Rob Prior. The piece was ideated and voted on by Mogul’s community of NFT Access Pass holders and Rob Prior live-painted the piece of art in front of a live audience.\n\nTo Rob, this piece is special because it allows thousands of holders to get a piece of his work.\n\n\"These are the innovators that are setting a whole new movement in motion. It’s my honor to paint them as the heroes they really are.” - Rob Prior\n\nFor this Mogul Productions issued piece, any collector who acquires 50% of the total supply of NFTs will earn a spot in a Mogul-produced movie. A collector who acquires 95% of the total supply will receive 25 million of Mogul’s STARS tokens.",
+    "type": "object",
+    "image": "ipfs://QmZ6epGR139gN8MhczkhhJw4h9JRVBh8c1tYWMTA2cZ9io",
+    "background_color": "000000",
+    "external_url": "https://v1.mglnft.com/0x654cbe72ac1c7c0af5315622302bb717ee418f11/1",
+    "properties": {
+      "contract_address": {
+        "type": "string",
+        "description": "0x654CbE72aC1C7c0af5315622302BB717EE418f11"
+      },
+      "title": {
+        "type": "string",
+        "description": "The STARS on the M00n"
+      },
+      "description": {
+        "type": "string",
+        "description": "Vitalik Buterin, CZ from Binance, and Elon Musk are featured with a Mogul STARS token on the moon in this original piece of artwork from Rob Prior. The piece was ideated and voted on by Mogul’s community of NFT Access Pass holders and Rob Prior live-painted the piece of art in front of a live audience.\n\nTo Rob, this piece is special because it allows thousands of holders to get a piece of his work.\n\n\"These are the innovators that are setting a whole new movement in motion. It’s my honor to paint them as the heroes they really are.” - Rob Prior\n\nFor this Mogul Productions issued piece, any collector who acquires 50% of the total supply of NFTs will earn a spot in a Mogul-produced movie. A collector who acquires 95% of the total supply will receive 25 million of Mogul’s STARS tokens."
+      },
+      "author": {
+        "type": "string",
+        "description": "Rob Prior"
+      },
+      "external_url": {
+        "type": "string",
+        "description": "https://v1.mglnft.com/0x654cbe72ac1c7c0af5315622302bb717ee418f11/1"
+      },
+      "image_url": {
+        "type": "string",
+        "description": "ipfs://QmZ6epGR139gN8MhczkhhJw4h9JRVBh8c1tYWMTA2cZ9io"
+      },
+      "image_original_url": {
+        "type": "string",
+        "description": "ipfs://QmRUtwxnRVaikwpbpHVNY3QeQA1mgKGHzc4w59ozTrwgp6"
+      },
+      "media_orientation": {
+        "type": "string",
+        "description": "portrait"
+      },
+      "background_color": {
+        "type": "string",
+        "description": "000000"
+      },
+      "collection_label": {
+        "type": "string",
+        "description": "Mogul Community Contests"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 1697
+      },
+      "contest": {
+        "type": "string",
+        "description": "Majority Collection"
+      },
+      "issue_date": {
+        "type": "date",
+        "description": 1626825600
+      }
+    },
+    "attributes": [
+      {
+        "trait_type": "Author",
+        "value": "Rob Prior"
+      },
+      {
+        "trait_type": "Contest",
+        "value": "Majority Collection"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Issue Date",
+        "value": 1626825600
+      }
+    ]
+  }
+}

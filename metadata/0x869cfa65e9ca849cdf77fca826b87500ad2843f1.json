@@ -1,0 +1,24 @@
+{
+  "address": "0x869cfa65e9ca849cdf77fca826b87500ad2843f1",
+  "type": "ERC1155",
+  "name": "METANIME ARMS",
+  "tokenCount": "3",
+  "uri": "ipfs://QmatCmnXV39Vj6r9q7GkGY5rVFo8rDgU4L3jxwdBiUCab7/1.json",
+  "metadata": {
+    "id": 1,
+    "name": "METANIME BOOK",
+    "description": "Are you ready for the Metanime battle? Each NFT in the collection has 6 attributes, each attribute gives a greater or lesser % winrate in relation to the rarity of it. The rarer your NFT is the more passive income, it will bring you with our automatic Fight 2 earn. Each NFTs will give you the opportunity to play our P2E and fight our of 10 bosses.",
+    "image": "ipfs://QmPYMHmcjhnGeDFxUvBycUucG9oGTufRjBEV31BF9LAdyT/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "ARM",
+        "value": "BOOK"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "BOOK",
+        "value": 9
+      }
+    ]
+  }
+}

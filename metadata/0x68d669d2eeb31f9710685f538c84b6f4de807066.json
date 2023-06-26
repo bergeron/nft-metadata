@@ -1,0 +1,42 @@
+{
+  "address": "0x68d669d2eeb31f9710685f538c84b6f4de807066",
+  "type": "ERC721",
+  "name": "Pepe Gobblers Club",
+  "tokenCount": "10000",
+  "uri": "ipfs://bafybeifgld63mhzypy4h3vzbsvehyvh4t5n2bbg7yxv4mgs2mcdcilooke/1.json",
+  "metadata": {
+    "name": "Pepe Gobbler #1",
+    "description": "A collection of 10000 unique Gobbler but they looks like to pepe.",
+    "image": "ipfs://bafybeiej7jffx5ztzdpu4howtw6hld6utzrqmee2onyd7n55gl6jriyifq/1.png",
+    "dna": "56408b336a930c565ee7da2b362d3b20b358470b",
+    "edition": 1,
+    "date": 1667572477182,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bone Tee"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3D Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Small Grin"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Babys Bonnet"
+      }
+    ],
+    "compiler": "Gobblers"
+  }
+}

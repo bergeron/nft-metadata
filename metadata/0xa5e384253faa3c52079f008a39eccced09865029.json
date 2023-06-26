@@ -1,0 +1,65 @@
+{
+  "address": "0xa5e384253faa3c52079f008a39eccced09865029",
+  "type": "ERC721",
+  "name": "Deviants of Metaversia",
+  "tokenCount": "695",
+  "uri": "https://us-central1-polymorphmetadata.cloudfunctions.net/deviants-images?id=1",
+  "metadata": {
+    "description": "The Troll named Harper #1 is a citizen of the Metaversian Republic and has a unique genetic code! Harper is all about rainbows, unicorns, and multicolor-themed items. He is naturally a happy Deviant who is friends with everyone and tries to bring peace to the Deviant/Polymorph confrontation.",
+    "name": "Harper #1",
+    "image": "https://storage.googleapis.com/deviants-upload/25011725000025141707.jpg",
+    "attributes": [
+      {
+        "trait_type": "Music",
+        "value": "Kottn i Joe"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Sand Castle"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Bar Shades"
+      },
+      {
+        "trait_type": "Species",
+        "value": "Troll God"
+      },
+      {
+        "trait_type": "Right Hand",
+        "value": "Sawed Off Corn Shotgun"
+      },
+      {
+        "trait_type": "Torso",
+        "value": "AR 15"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "Ancient Armored Pants"
+      },
+      {
+        "trait_type": "Left Hand",
+        "value": "Sawed off Shotgun"
+      },
+      {
+        "trait_type": "Footwear",
+        "value": "Ski Boots"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Harper"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Docks"
+      }
+    ],
+    "external_url": "https://metaversia.universe.xyz/",
+    "animation_url": "ipfs://QmSNoK4ziRNmBGzWSzv1nyTpGkPr78iAo87UaMUdMfwBjA",
+    "iframe_endpoints": {
+      "character_endpoint": "https://storage.googleapis.com/deviants-upload/25011725000025141707-no.png",
+      "background_endpoint": "https://storage.googleapis.com/deviants-source/videos/07.mp4",
+      "music_endpoint": "https://storage.googleapis.com/deviants-source/music/04.wav"
+    }
+  }
+}

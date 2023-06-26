@@ -1,0 +1,37 @@
+{
+  "address": "0x47122ba1f40d52c61e372b1c4192c465fc6caaa2",
+  "type": "ERC1155",
+  "name": "Pineapple Sanity Check v2",
+  "tokenCount": "3",
+  "uri": "ipfs://bafybeig4t5wrvofvopv2udnwuja3n5bjsj6firxcdltxylefec73tbb4he/1.json",
+  "metadata": {
+    "name": "Pineapple #1",
+    "description": "Sanity Check",
+    "image": "ipfs://Qmf8osQSuSgpZR9FcLnNExSA757Vturove6DmPDoWdiKar/images/1.png",
+    "token_id": 1,
+    "quantity": 1,
+    "attributes": [
+      {
+        "trait_type": "Frond",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BigSmile"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      }
+    ],
+    "utilities": []
+  }
+}

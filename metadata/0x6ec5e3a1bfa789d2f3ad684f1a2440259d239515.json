@@ -1,0 +1,40 @@
+{
+  "address": "0x6ec5e3a1bfa789d2f3ad684f1a2440259d239515",
+  "type": "ERC721",
+  "name": "Yo Penguins Test",
+  "tokenCount": "4",
+  "uri": "ipfs://bafybeiemepjlhrmhebwqxcy2drnpkhugotflkvxyl3eillhje3v2ltueze/1",
+  "metadata": {
+    "name": "Yo Penguins #1",
+    "image": "ipfs://bafybeihztwz5sq4htnouh7hcjnmf4rx5xapat3c7v2zoikklheggtmbnzu/2.png",
+    "description": "What Bear? Yo Penguins bullish",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Dark Grey"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Woven Sweater"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Worn Out Cap"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Cig"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Happy"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

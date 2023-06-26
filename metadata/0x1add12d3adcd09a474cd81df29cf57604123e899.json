@@ -1,0 +1,42 @@
+{
+  "address": "0x1add12d3adcd09a474cd81df29cf57604123e899",
+  "type": "ERC721",
+  "name": "Bored Peperilla Yacht Club",
+  "tokenCount": "8165",
+  "uri": "ipfs://bafybeifx74slch6bctepfqbebd3thxutbbvmrfc7fqqjmnldi2r72xmlzm/1.json",
+  "metadata": {
+    "name": "BPYC #1",
+    "description": "Welcome to the Bored Peperilla Yacht Club.",
+    "image": "ipfs://bafybeig4o4qgi7fbyzw6nahpr6tmma3wi5zjzxfltmr5sldquxjhezvcxe/1.png",
+    "dna": "107396711c4be4cfd30d41109fe7726c0c26d5f6",
+    "edition": 1,
+    "date": 1662584062701,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Opposite Oblique"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pacifier"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bunny Ears"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Tee"
+      }
+    ],
+    "compiler": "Pepe"
+  }
+}

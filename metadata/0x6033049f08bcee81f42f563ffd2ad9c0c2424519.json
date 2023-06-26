@@ -1,0 +1,44 @@
+{
+  "address": "0x6033049f08bcee81f42f563ffd2ad9c0c2424519",
+  "type": "ERC721",
+  "name": "ClasseART",
+  "tokenCount": "43",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=bg24Pu3rzZu7lnWuNohe",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1590230951808?alt=media&token=5679dc32-9f5a-4ad0-91d6-7b65b901efa9",
+    "forSale": true,
+    "description": "A flower couple forming a heart shape. From an original acrylic painting. There will exist 5 of this one.",
+    "contractAddress": "0x6033049f08bcee81f42f563ffd2ad9c0c2424519",
+    "ethPrice": "0.1",
+    "amountToMint": "5",
+    "minter": "0xea0bbedc8fd297471e756de93ebf9bf75a40621c",
+    "mintedOn": {
+      "_seconds": 1590231157,
+      "_nanoseconds": 604000000
+    },
+    "price": "$0.00",
+    "name": "Flower love",
+    "fiatPrice": "$20.67",
+    "minted": "Minted on Mintbase.io",
+    "category": "alJuInV4dezvHTNU8Dp1",
+    "youtube_url": "",
+    "external_url": "https://mintbase.io/my-market/0x6033049f08bcee81f42f563ffd2ad9c0c2424519",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "bg24Pu3rzZu7lnWuNohe"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1592949600
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": 1592949600
+      }
+    ],
+    "type": "ERC721"
+  }
+}

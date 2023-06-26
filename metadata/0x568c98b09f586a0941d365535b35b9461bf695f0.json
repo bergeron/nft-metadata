@@ -1,0 +1,33 @@
+{
+  "address": "0x568c98b09f586a0941d365535b35b9461bf695f0",
+  "type": "ERC721",
+  "name": "JustAnExperiment",
+  "tokenCount": "999",
+  "uri": "ipfs://QmcVpdJM53kEEFAVsGhnGPwRop9NZ3GNCFjoqCgkoPfKZ9/1.json",
+  "metadata": {
+    "name": "Just An Experiment #1",
+    "description": "Lab rats have gone mad in a chemistry test but what are they cooking? Don't worry its JustAnExperiment.",
+    "image": "ipfs://QmUSq8TS8HWgq3tmFKPFMsQkByzduNzyPoj9XdcL1q8Yuw/1.png",
+    "edition": 1,
+    "date": 1673483007835,
+    "attributes": [
+      {
+        "trait_type": "Education",
+        "value": "High School Dropout"
+      },
+      {
+        "trait_type": "Formula",
+        "value": "SiC"
+      },
+      {
+        "trait_type": "Interest",
+        "value": "Collaboration"
+      },
+      {
+        "trait_type": "Lab",
+        "value": "New York"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "address": "0x448f3219cf2a23b0527a7a0158e7264b87f635db",
+  "type": "ERC721",
+  "name": "The Blitnauts",
+  "tokenCount": "1539",
+  "uri": "https://blitnauts.blitmap.com/api/v1/metadata/1",
+  "metadata": {
+    "name": "#1 - Quark Beta",
+    "description": "Blitnauts are a faction of sentient robots sworn to locate and protect the Blitmaps, and the heroes of our world.",
+    "image": "https://blitnauts.blitmap.com/api/v1/img/1",
+    "external_url": "https://blitnauts.blitmap.com/blitnauts/1",
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Quark"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Beta"
+      },
+      {
+        "trait_type": "Blitmap",
+        "value": "#135 - Genesis Blit"
+      },
+      {
+        "trait_type": "Blitmap Composition",
+        "value": "#0 - Genesis"
+      },
+      {
+        "trait_type": "Blitmap Palette",
+        "value": "#42 - Blit"
+      }
+    ]
+  }
+}

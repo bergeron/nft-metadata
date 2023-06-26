@@ -1,0 +1,81 @@
+{
+  "address": "0x327879ed99ea43cf0a7a31034edf7c8f17d63fbd",
+  "type": "ERC721",
+  "name": "BLUECHIP-GENESIS-",
+  "tokenCount": "9000",
+  "uri": "https://bluechip-genesis.s3.ap-northeast-1.amazonaws.com/metadata/1.json",
+  "metadata": {
+    "name": "Aoi #1",
+    "description": "-アオイ-  \nヘルメスカントー支部の雑用係。後に樂画鬼所属へ。未知数の力を秘めた猪突猛進タイプ。家族（クー）と尊敬するリーダーのオークを慕う。自分だけミントが出来ない事に日々苦悩している。ドーナツとグミが好き。",
+    "image": "https://bluechip-genesis.s3.ap-northeast-1.amazonaws.com/p5js/1/cf2fc72a853a7d8d4c8d1c8851db85a1bed6669e_body.png",
+    "animation_url": "https://bluechip-genesis.s3.ap-northeast-1.amazonaws.com/p5js/1/index.html",
+    "dna": "cf2fc72a853a7d8d4c8d1c8851db85a1bed6669e",
+    "uid": "2",
+    "generator": "HashLips Lab AE 2.0",
+    "attributes": [
+      {
+        "trait_type": "ACCESSORY1",
+        "value": "star"
+      },
+      {
+        "trait_type": "ACCESSORY2",
+        "value": "coo"
+      },
+      {
+        "trait_type": "BACKGROUND",
+        "value": "donut_green"
+      },
+      {
+        "trait_type": "CHARACTER",
+        "value": "aoi"
+      },
+      {
+        "trait_type": "FACIAL",
+        "value": "wink"
+      },
+      {
+        "trait_type": "FASHION",
+        "value": "kawaii"
+      },
+      {
+        "trait_type": "MINT",
+        "value": "donut"
+      },
+      {
+        "trait_type": "HP（体力）",
+        "value": 9,
+        "max_value": 30
+      },
+      {
+        "trait_type": "GP（ガス）",
+        "value": 8,
+        "max_value": 30
+      },
+      {
+        "trait_type": "STR（攻撃）",
+        "value": 7,
+        "max_value": 30
+      },
+      {
+        "trait_type": "DEF（守備）",
+        "value": 9,
+        "max_value": 30
+      },
+      {
+        "trait_type": "INT（知性）",
+        "value": 2,
+        "max_value": 30
+      },
+      {
+        "trait_type": "CHA（カリスマ）",
+        "value": 2,
+        "max_value": 30
+      },
+      {
+        "trait_type": "LUK（運）",
+        "value": 10,
+        "max_value": 30
+      }
+    ]
+  }
+}

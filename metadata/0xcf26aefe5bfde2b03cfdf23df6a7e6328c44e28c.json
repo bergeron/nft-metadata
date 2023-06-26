@@ -1,0 +1,52 @@
+{
+  "address": "0xcf26aefe5bfde2b03cfdf23df6a7e6328c44e28c",
+  "type": "ERC721",
+  "name": "memories",
+  "tokenCount": "12",
+  "uri": "https://metadata.async.art/t/0xcf26aefe5bfde2b03cfdf23df6a7e6328c44e28c/1/token.json",
+  "metadata": {
+    "name": "memory #1",
+    "description": "harris cole & william murphy present: 'memories'.\n\nan exploration of sound and imagery combining tones from analog synthesizers, drums processed through tape, and landscape photography processed digitally to feel like paintings.",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/image/upload/w_1200/v1685493994/editionRenders/28e0892d54da8c2a37309cbb10d8a2d0.jpg",
+    "external_url": "https://async.market/blueprints/64764ecc6ba0aff238655cae/editions/0xcf26aefe5bfde2b03cfdf23df6a7e6328c44e28c-1",
+    "attributes": [
+      {
+        "trait_type": "Asset Type",
+        "value": "Edition"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "harris cole"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "memories"
+      },
+      {
+        "trait_type": "Cover Art",
+        "value": "Cover 25"
+      },
+      {
+        "trait_type": "Arps",
+        "value": "Arps 1"
+      },
+      {
+        "trait_type": "Bass",
+        "value": "Bass 3"
+      },
+      {
+        "trait_type": "Melodies",
+        "value": "Melody 2"
+      },
+      {
+        "trait_type": "Drums",
+        "value": "Drums 2"
+      },
+      {
+        "trait_type": "Chords",
+        "value": "Chords Main"
+      }
+    ],
+    "animation_url": "https://storage.googleapis.com/art-creation-test/audio/52ed7281bd.mp3"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "address": "0x8779f2e785b8cb524eb62fd18e86d226f637115b",
+  "type": "ERC721",
+  "name": "Yayliens Deployer - \"Boarding\"",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/KiQ_KFNWNRhhWP91ST1n0oH1cP0mrI4Ev65OUN5Rmmo",
+  "metadata": {
+    "name": "Boarding",
+    "created_by": "Yayliens x Gudwin",
+    "external_url": "www.yayliens.xyz",
+    "description": "\"Boarding\" \n\nAn animated music video NFT 📺",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Yayliens"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Animation"
+      },
+      {
+        "trait_type": "Collaborators ",
+        "value": "Josh Gudwin"
+      }
+    ],
+    "animation_details": {
+      "bytes": 161062545,
+      "format": "MP4",
+      "duration": 65,
+      "sha256": "b62c97337a94c7cad7b8b293c4560c9ff198eaeef0e0cb495c08677550e7511e",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/KEavw5c3-tuhRq0etRXR7lOPPt4ftZyP6c2nBVUnQCU",
+    "animation_url": "https://arweave.net/KEavw5c3-tuhRq0etRXR7lOPPt4ftZyP6c2nBVUnQCU",
+    "image_details": {
+      "bytes": 4152571,
+      "format": "JPEG",
+      "sha256": "5836e99088dac48d9436d78039d82eb321119437a7da68d25c0a7f3bc8635ca5",
+      "width": 7200,
+      "height": 5400
+    },
+    "image": "https://arweave.net/0wCtR26wZ8r4UTxstggmzkrTTtLtHNFKWYnMeN-M5mQ",
+    "image_url": "https://arweave.net/0wCtR26wZ8r4UTxstggmzkrTTtLtHNFKWYnMeN-M5mQ"
+  }
+}

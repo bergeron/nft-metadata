@@ -1,0 +1,34 @@
+{
+  "address": "0x59d03af8c453759a80fee7f96d413495b3e645cd",
+  "type": "ERC721",
+  "name": "BOOK.io Man in the Iron Mask (Eth)",
+  "tokenCount": "100",
+  "uri": "ipfs://QmQXeRqAxP98nSBzEq4KnQW2mnEsxGtfL5mdaUQMqeN9uE/1",
+  "metadata": {
+    "name": "The Man in the Iron Mask #10",
+    "description": "That which is actually good never alters.",
+    "image": "ipfs://QmY2bZFizgFGq37FUfUBHRMAZHEEGK6fynncQugdBCQ3rN",
+    "attributes": {
+      "Cover Theme": "Raoul’s Love",
+      "Variation": "2"
+    },
+    "authors": [
+      "Alexandre Dumas"
+    ],
+    "entrypoint": "ipfs://QmStqGsrZioeRZSUoWc4KZm2gSpbToLsgGDJXdpfkYeURg",
+    "extraAttributes": {
+      "Book Title": "The Man in the Iron Mask"
+    },
+    "files": [
+      {
+        "mediaType": "image/png",
+        "name": "High-Res Cover Image",
+        "src": "ipfs://Qmd1j3QtduXSR7vB5AscjBhi6xFPLMPJbm3dWY8gUseXFp"
+      }
+    ],
+    "id": "78338c9c-6d42-4fe0-847b-239ac08ec7d5",
+    "mediaType": "application/epub+zip",
+    "sha256": "a08612564b84a21793879300257fce4a955ebd604c4937abe54efcdbac947ba6",
+    "website": "https://book.io"
+  }
+}

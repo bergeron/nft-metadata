@@ -1,0 +1,40 @@
+{
+  "address": "0x7bc1e07cdfa283db7cf3c680d16ca7f161a64046",
+  "type": "ERC721",
+  "name": "TPL Revealed Mech Parts",
+  "tokenCount": "44762",
+  "uri": "https://m.cyberbrokers.com/eth/part/1",
+  "metadata": {
+    "tokenId": 1,
+    "name": "Astra Machina Enforcer Arm ",
+    "description": "Reach for the stars and there will be no limit to what we can discover together!",
+    "attributes": [
+      {
+        "trait_type": "Model",
+        "value": "Enforcer"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Astra Machina"
+      },
+      {
+        "trait_type": "Part",
+        "value": "Arm"
+      },
+      {
+        "trait_type": "Endurance",
+        "value": 1
+      },
+      {
+        "trait_type": "Speed",
+        "value": 1
+      },
+      {
+        "trait_type": "Power",
+        "value": 2
+      }
+    ],
+    "external_url": "https://cyberbrokers.com/inventory",
+    "image": "https://cb-media.sfo3.cdn.digitaloceanspaces.com/parts/enforcer/astra-machina/arm.webp"
+  }
+}

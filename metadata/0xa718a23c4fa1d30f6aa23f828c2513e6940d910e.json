@@ -1,0 +1,103 @@
+{
+  "address": "0xa718a23c4fa1d30f6aa23f828c2513e6940d910e",
+  "type": "ERC721",
+  "name": "106asdfweqrqewr00",
+  "tokenCount": "699",
+  "uri": "https://api.artblocks.io/token/89000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "89000001",
+    "series": 3,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Dreams #1",
+    "minted": true,
+    "artist": "Joshua Bagley",
+    "description": "Dreams is an exploration of uneven subdivision. It focuses on the interaction between uniform and crooked lines, and the complex structures that can emerge from simple rules. Each iteration of Dreams is unique, with characteristics determined by the hash created at the moment of transaction. Created by Joshua Bagley",
+    "script_type": "p5@1.0.0",
+    "project_id": "89",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 3",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/89000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/89000001.png",
+    "generator_url": "https://generator.artblocks.io/89000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/89000001",
+    "royaltyInfo": {
+      "artistAddress": "0x129eb023b2f879b4c7dc4b19e7877bda35789773",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Dreams by Joshua Bagley",
+    "website": "https://joshua-bagley.com/dreams/",
+    "token_hash": "0x4d3d6a047f59d6368cc407dfa3952a71fd543fcd983d4da3fb53e7a7fcfc7aa2",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/89/tokens/89000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/89000001",
+    "features": {
+      "Story": "Sporadic",
+      "Theme": "Standard",
+      "Anchor": "Shallows",
+      "Flying": "False",
+      "Clarity": "False",
+      "Corrupt": "False",
+      "Palette": "Beach",
+      "Reality": "Fleeting",
+      "Paralysis": "False",
+      "Structure": "Stripes",
+      "Pure Minimal": "False",
+      "Disconnection": "False"
+    },
+    "traits": [
+      {
+        "trait_type": "Dreams",
+        "value": "All Dreams"
+      },
+      {
+        "trait_type": "Dreams",
+        "value": "Story: Sporadic"
+      },
+      {
+        "trait_type": "Dreams",
+        "value": "Theme: Standard"
+      },
+      {
+        "trait_type": "Dreams",
+        "value": "Anchor: Shallows"
+      },
+      {
+        "trait_type": "Dreams",
+        "value": "Flying: False"
+      },
+      {
+        "trait_type": "Dreams",
+        "value": "Clarity: False"
+      },
+      {
+        "trait_type": "Dreams",
+        "value": "Corrupt: False"
+      },
+      {
+        "trait_type": "Dreams",
+        "value": "Reality: Fleeting"
+      },
+      {
+        "trait_type": "Dreams",
+        "value": "Paralysis: False"
+      },
+      {
+        "trait_type": "Dreams",
+        "value": "Structure: Stripes"
+      },
+      {
+        "trait_type": "Dreams",
+        "value": "Pure Minimal: False"
+      },
+      {
+        "trait_type": "Dreams",
+        "value": "Disconnection: False"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

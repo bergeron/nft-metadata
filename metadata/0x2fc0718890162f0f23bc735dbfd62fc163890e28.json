@@ -1,0 +1,45 @@
+{
+  "address": "0x2fc0718890162f0f23bc735dbfd62fc163890e28",
+  "type": "ERC721",
+  "name": "GM Forever",
+  "tokenCount": "188",
+  "uri": "https://arweave.net/PPJz3gSBX7gtu9mi3ofDYYVDnYEBCan6LcPaja3x7wM",
+  "metadata": {
+    "name": "GM Forever",
+    "created_by": "Simply Anders",
+    "description": "The GM that keeps on GMing forever.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Simply Anders"
+      },
+      {
+        "trait_type": "Level",
+        "value": "0.05"
+      }
+    ],
+    "animation_details": {
+      "bytes": 3936777,
+      "format": "MP4",
+      "duration": 10,
+      "sha256": "4d6c26fb4636ee7f14ce3788f42dca4cf55e8b610882f849c93d127ca9772da9",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/FcLKOmcUN5pVr4sX4XX60xAbVWsbk7W4ILF_Jn1V134",
+    "animation_url": "https://arweave.net/FcLKOmcUN5pVr4sX4XX60xAbVWsbk7W4ILF_Jn1V134",
+    "image_details": {
+      "bytes": 53471446,
+      "format": "GIF",
+      "sha256": "d0965977d66fd92f1820c9e4f5a6e16002c5f23b700da54ba98a559338eb81cf",
+      "width": 1080,
+      "height": 1080
+    },
+    "image": "https://arweave.net/sonC4XorJXpK4olDcmBndULFaac0VT8BRp4wbUShhvc",
+    "image_url": "https://arweave.net/sonC4XorJXpK4olDcmBndULFaac0VT8BRp4wbUShhvc"
+  }
+}

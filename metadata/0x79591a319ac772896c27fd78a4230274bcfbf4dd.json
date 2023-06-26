@@ -1,0 +1,39 @@
+{
+  "address": "0x79591a319ac772896c27fd78a4230274bcfbf4dd",
+  "type": "ERC721",
+  "name": "GJS: The Oceanic Collection",
+  "tokenCount": "1",
+  "uri": "ipfs://QmVBEaJzzEwJJPcoLQFbxvrwV26pmXLkKcq7c2M8TGHHLb/1.json",
+  "metadata": {
+    "name": "Sea Creatures #1",
+    "description": "The Oceanic Collection by Greg Jones Studio",
+    "image": "ipfs://QmeJo9VfHbsX6m6knBZY1ig9uoAgbksFAAc4wq5k2DTGnv/1.png",
+    "dna": "bafb4c025a42f448d3efa211e4d61c0ff8863127",
+    "edition": 1,
+    "date": 1673714642276,
+    "artist": "Greg Jones",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Aster Body",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Aster Mouth",
+        "value": "Buckteeth"
+      },
+      {
+        "trait_type": "Aster Eyes",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Aster Costume",
+        "value": "Neptune"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

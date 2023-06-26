@@ -1,0 +1,28 @@
+{
+  "address": "0xd0ba8b19b0f5e25c11ed233302e75794c9d3142b",
+  "type": "ERC721",
+  "name": "Plots on MARZ",
+  "tokenCount": "2144",
+  "uri": "https://api.marz.farm/token/1",
+  "metadata": {
+    "name": "Marz Plot #1",
+    "description": "Plotz on Mars. [View on Marz](https://www.google.com/mars/#lat=84.15&lon=-177.29999999999998&zoom=10)",
+    "external_url": "https://marz.farm",
+    "tokenId": 1,
+    "image": "https://api.marz.farm/images/map_tile_1.jpg",
+    "attributes": [
+      {
+        "trait_type": "x_coord",
+        "value": "1"
+      },
+      {
+        "trait_type": "y_coord",
+        "value": "0"
+      },
+      {
+        "trait_type": "type",
+        "value": "Exploration"
+      }
+    ]
+  }
+}

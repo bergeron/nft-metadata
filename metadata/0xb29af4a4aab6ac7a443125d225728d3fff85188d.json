@@ -1,0 +1,52 @@
+{
+  "address": "0xb29af4a4aab6ac7a443125d225728d3fff85188d",
+  "type": "ERC1155",
+  "name": "TOSTONFONGIBLES by MOFONGIBLE MASHIES",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/A-glMwY_iSDYMpoX0BAcxrWR4wHmdLvbOz2MwJqkYjs",
+  "metadata": {
+    "name": "TOSTONFONGIBLE",
+    "created_by": "MOFONGIBLE MASHIES",
+    "external_url": "mofongiblemashies.io",
+    "description": "This plantain may be consumable or not",
+    "attributes": [
+      {
+        "trait_type": "TYPE",
+        "value": "PLANTAIN"
+      },
+      {
+        "trait_type": "COLOR",
+        "value": "GREEN"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "STAGE",
+        "value": 1,
+        "max_value": 4
+      }
+    ],
+    "animation_details": {
+      "bytes": 363200,
+      "format": "MOV",
+      "duration": 5,
+      "sha256": "bd8ed90958d14e45f2b05a54c297819ee6c6b37f89de7c407ec2b5102d3e26ba",
+      "width": 480,
+      "height": 480,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/kfim20jsMsvs7UrCZ29JY6TZq_LXyoIyCvu2yEaWq7I",
+    "animation_url": "https://arweave.net/kfim20jsMsvs7UrCZ29JY6TZq_LXyoIyCvu2yEaWq7I",
+    "image_details": {
+      "bytes": 236959,
+      "format": "JPEG",
+      "sha256": "fed9ff2a5fdc422cc5348d8f5a9f77718438e0dfe420001fdd52db66e8c17b16",
+      "width": 2048,
+      "height": 2048
+    },
+    "image": "https://arweave.net/wyINvnBS_zPbWeWOXlpubfyVJVXeO0LN3Sx8YOT_fPY",
+    "image_url": "https://arweave.net/wyINvnBS_zPbWeWOXlpubfyVJVXeO0LN3Sx8YOT_fPY"
+  }
+}

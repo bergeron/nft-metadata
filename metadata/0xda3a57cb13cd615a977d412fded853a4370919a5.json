@@ -1,0 +1,20 @@
+{
+  "address": "0xda3a57cb13cd615a977d412fded853a4370919a5",
+  "type": "ERC721",
+  "name": "RareOne NFT",
+  "tokenCount": "21",
+  "uri": "ipfs://QmSRwdcxmpPBHvwwL6YHmEMJcXB1Bc8cAmthRZKVvvLEej/1.json",
+  "metadata": {
+    "name": "RareOne #1",
+    "description": "RareOne is a Canadian unique NFT project that offers passive income for it’s members. Only 1000 designs will be available.",
+    "image": "https://mint.rareone.ca/build/images/1.mp4",
+    "dna": "4e16a953bf8f3d37904dd6541f8fdab0cb5ce856",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "rareone"
+      }
+    ],
+    "compiler": "nft_engine_by_dc:maxatlantis#5350"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "0xcfbbc398c08822924503ca5463adf24351309379",
+  "type": "ERC721",
+  "name": "FREE test lock",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xcfbbc398c08822924503ca5463adf24351309379/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xCFbbc398C08822924503cA5463aDF24351309379/icon?id=1",
+    "expiration": 1581200106,
+    "tokenId": "1",
+    "owner": "0xdb92c096bc5efa8adb48f05cd601dddb75228203",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1581200106
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xCFbbc398C08822924503cA5463aDF24351309379",
+    "network": 1
+  }
+}

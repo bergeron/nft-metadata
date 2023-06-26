@@ -1,0 +1,25 @@
+{
+  "address": "0x80e7567cbdd841534a1fa44e88871b6e074521c1",
+  "type": "ERC721",
+  "name": "Llave Maestra",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x80e7567cbdd841534a1fa44e88871b6e074521c1/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x80e7567CbdD841534A1Fa44E88871B6E074521c1/icon?id=1",
+    "expiration": 1588253804,
+    "tokenId": "1",
+    "owner": "0xe6056f52719cbc225d7093b50180b4eacf024909",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1588253804
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x80e7567CbdD841534A1Fa44E88871B6E074521c1",
+    "network": 1
+  }
+}

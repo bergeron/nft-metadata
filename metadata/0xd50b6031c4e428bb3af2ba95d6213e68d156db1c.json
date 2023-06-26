@@ -1,0 +1,30 @@
+{
+  "address": "0xd50b6031c4e428bb3af2ba95d6213e68d156db1c",
+  "type": "ERC721",
+  "name": "piterpasma",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/O0VhGkXAjnC625whQguIGa8JkYJTgvgMdhTcWe2OJu8",
+  "metadata": {
+    "name": "It's Complicated",
+    "created_by": "piterpasma",
+    "external_url": "https://piterpasma.nl",
+    "description": "\"It's Complicated\" (2022 07/14 14:30) \n\nAn output from a generative shape generator, rendered using my rayhatcher algorithm. The random seed was \"zogeltang\".\n\nThis SVG file contains the full source code used to generate it as an SVG comment near the top of the file. If you want to reproduce it, you can open it in a text editor, and copypaste the code into a SCRIPT tag in an empty HTML file. But replace the string \"&#x2D;\" everywhere with the minus character \"-\". It's complicated. But then it should work. This was fixed in later versions of my rayhatcher framework by not using any double minus characters in the code.\n\nCopyright 2022 by Piter Pasma. https://piterpasma.nl",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "piterpasma"
+      },
+      {
+        "trait_type": "random seed",
+        "value": "zogeltang"
+      }
+    ],
+    "image_details": {
+      "bytes": 4361171,
+      "format": "SVG",
+      "sha256": "7a404c4d1b6417aeb8b66ed57458f784648616048a122f0cee05006bd000e7d3"
+    },
+    "image": "https://arweave.net/cy7UCU0erbK3BzTCNKLM_VmZD5WNQW44Y-A0ucu0XeU",
+    "image_url": "https://arweave.net/cy7UCU0erbK3BzTCNKLM_VmZD5WNQW44Y-A0ucu0XeU"
+  }
+}

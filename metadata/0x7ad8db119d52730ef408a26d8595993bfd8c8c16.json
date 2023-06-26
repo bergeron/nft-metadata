@@ -1,0 +1,49 @@
+{
+  "address": "0x7ad8db119d52730ef408a26d8595993bfd8c8c16",
+  "type": "ERC721",
+  "name": "FakeSodas",
+  "tokenCount": "7",
+  "uri": "https://files.fakesodas.com/data/1.json",
+  "metadata": {
+    "name": "Fake Soda #1",
+    "description": "Introducing the Fake Sodas NFT Collection, the perfect blend of humor and nostalgia. This collection features a variety of digital soda cans, each with its own unique design and flavor.",
+    "image": "https://files.fakesodas.com/images/1.png",
+    "edition": 1,
+    "date": 1675424227853,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "apricot"
+      },
+      {
+        "trait_type": "body",
+        "value": "lemon"
+      },
+      {
+        "trait_type": "shoes",
+        "value": "silver_shoes"
+      },
+      {
+        "trait_type": "lids",
+        "value": "red_lid"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "3D_glasses"
+      },
+      {
+        "trait_type": "mouths",
+        "value": "bubbles"
+      },
+      {
+        "trait_type": "hats",
+        "value": "headband"
+      },
+      {
+        "trait_type": "hands",
+        "value": "hands_2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

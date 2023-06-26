@@ -1,0 +1,46 @@
+{
+  "address": "0x93c58b8122b90397f99d578bf03475df732cd9c9",
+  "type": "ERC721",
+  "name": "Skulls of Humanity",
+  "tokenCount": "1",
+  "uri": "https://skulls-of-humanity-metadata.s3.eu-central-1.amazonaws.com/1.json",
+  "metadata": {
+    "name": "Skulls of Humanity #1",
+    "description": "An exclusive dynamic NFT collection of 10k art pieces collected on the Ethereum Blockchain for your online experiences. Some look normal. Some are freakin’ weird. Some are just damn cool! Maybe some even look familiar!",
+    "image": "https://skulls-of-humanity-images.s3.eu-central-1.amazonaws.com/1.png",
+    "dna": "ed529d67d9190af1fc26551e12577220b2f1d00c",
+    "edition": 1,
+    "date": 1650720829974,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Turqoise"
+      },
+      {
+        "trait_type": "Skulls",
+        "value": "The Strong"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "The Pure"
+      },
+      {
+        "trait_type": "Headphones",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Driver"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Magic"
+      },
+      {
+        "trait_type": "Moustaches",
+        "value": "Thunder"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

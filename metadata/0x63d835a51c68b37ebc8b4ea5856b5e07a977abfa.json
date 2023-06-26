@@ -1,0 +1,45 @@
+{
+  "address": "0x63d835a51c68b37ebc8b4ea5856b5e07a977abfa",
+  "type": "ERC721",
+  "name": "BLVD",
+  "tokenCount": "35",
+  "uri": "https://raw.githubusercontent.com/BULVRD-Tech/BULVRD.ERC721-Maps/master/season_1/bright_visions/bright_visions.json",
+  "metadata": {
+    "name": "BLVD Map Bright Visions",
+    "image": "https://raw.githubusercontent.com/BULVRD-Tech/BULVRD.ERC721-Maps/master/season_1/bright_visions/bright_visions.jpg",
+    "description": "Limited map style inspired by BULVRD app accent colors",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "season",
+        "value": 1
+      },
+      {
+        "trait_type": "name",
+        "value": "Bright Visions"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Day"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "supply",
+        "value": 500
+      },
+      {
+        "display_type": "number",
+        "trait_type": "map_id",
+        "value": 0
+      }
+    ],
+    "external_url": "https://bulvrdapp.com/map_styles",
+    "background_color": "890063",
+    "styleUrl": "mapbox://styles/bulvrdapp/cjxfbi5o81g8q1cqxdq88ven7",
+    "buildingHex": "#890063"
+  }
+}

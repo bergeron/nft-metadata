@@ -1,0 +1,34 @@
+{
+  "address": "0x63806c42b81ffa5af6683c4fda2d761e4a97a161",
+  "type": "ERC721",
+  "name": "Feudology_LAND",
+  "tokenCount": "200",
+  "uri": "ipfs://QmRLNf2MEbpxfuHYFfHdbZQNFgMe5Ff6FcrA46YZNFh3XP/1.json",
+  "metadata": {
+    "name": "Feudology_LAND #1",
+    "description": "Landplot in the Feudology world",
+    "image": "ipfs://QmR5LNGYihapKzy5BSj6CDprrqPGVN7C4ABheGiefVY9CA/1.png",
+    "dna": "c247ff3eb4005351c6831c727a707943252417c2",
+    "edition": 1,
+    "date": 1647343925078,
+    "attributes": [
+      {
+        "trait_type": "DISTRICT",
+        "value": "Caissac Hills "
+      },
+      {
+        "trait_type": "LAND",
+        "value": "land"
+      },
+      {
+        "trait_type": "X",
+        "value": "11656"
+      },
+      {
+        "trait_type": "Y",
+        "value": "13082"
+      }
+    ],
+    "compiler": "Feudology_LAND_Engine"
+  }
+}

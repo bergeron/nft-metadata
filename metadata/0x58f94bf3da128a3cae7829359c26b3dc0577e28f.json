@@ -1,0 +1,35 @@
+{
+  "address": "0x58f94bf3da128a3cae7829359c26b3dc0577e28f",
+  "type": "ERC721",
+  "name": "The Kampoeng",
+  "tokenCount": "4000",
+  "uri": "ipfs://QmUV9z577HjN3y6jDkBDGvp8b1rciKW9NKtb36aCLg7bgL/1",
+  "metadata": {
+    "name": "Kampoeng #1",
+    "description": "Official Collection of Kampoeng",
+    "image": "ipfs://QmT1DLp35TrDS7kCywREKe3TEW2uXeyvt2WdFeB5SYH8iS/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Fat"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Fire Tee"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Afro"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Study Glasses"
+      }
+    ]
+  }
+}

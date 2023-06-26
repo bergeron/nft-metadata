@@ -1,0 +1,36 @@
+{
+  "address": "0x1f0f72e6dc2ea6fde3a32a1b3fd47a26a3293dc9",
+  "type": "ERC721",
+  "name": "Lamb Duhs",
+  "tokenCount": "8500",
+  "uri": "https://lambduhs.vercel.app/api/1",
+  "metadata": {
+    "name": "Lamb Duh #1",
+    "description": "A collection of 8,500 digital lambs wandering the grasslands of the Ethereum blockchain!",
+    "tokenId": 1,
+    "image": "https://gateway.pinata.cloud/ipfs/QmTidDzKdEur5gmSDXmixCVQA4txSNoyyVukPEGGi9PB8E",
+    "external_url": "https://www.lambduhs.com",
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Gamma"
+      },
+      {
+        "trait_type": "Wool",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Okay"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Parka"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fish Cap"
+      }
+    ]
+  }
+}

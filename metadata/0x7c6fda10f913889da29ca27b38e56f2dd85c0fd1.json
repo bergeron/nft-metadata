@@ -1,0 +1,46 @@
+{
+  "address": "0x7c6fda10f913889da29ca27b38e56f2dd85c0fd1",
+  "type": "ERC721",
+  "name": "OpArt",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/Q9NRd6ANdFMzbD0mYryw7KOOlh309C3pbBFivqK9riw",
+  "metadata": {
+    "name": "OpArt 2009 Edition 2",
+    "created_by": "XvGt",
+    "external_url": "https://xvgt.io/",
+    "description": "MoGraph produced in 2009 for a video projection during an exhibition and fashion show in Paris about the Optical Art movement. Edition 2 - Short - No Zebra.\n\nMusic by Hatibola.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "XvGt"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Short - No zebra"
+      }
+    ],
+    "animation_details": {
+      "bytes": 94881369,
+      "format": "MP4",
+      "duration": 88,
+      "sha256": "4963640130cc3e28b9bb864bf0ebbcbd3443566a9268b67120678b6d594dc5bd",
+      "width": 1024,
+      "height": 768,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/I40ub1SSkwcR01djMug8U9tDfpOPO1Ewbvl-YTnIAQk",
+    "animation_url": "https://arweave.net/I40ub1SSkwcR01djMug8U9tDfpOPO1Ewbvl-YTnIAQk",
+    "image_details": {
+      "bytes": 293714,
+      "format": "JPEG",
+      "sha256": "4cff06815b515f6078e656b3af2e0f7860e301520c4db463568f0dd9a5b5d851",
+      "width": 1024,
+      "height": 768
+    },
+    "image": "https://arweave.net/3LNAWtWmKFRnyzp8_SJaJsVHA43yWYISODvw5oKlFCY",
+    "image_url": "https://arweave.net/3LNAWtWmKFRnyzp8_SJaJsVHA43yWYISODvw5oKlFCY"
+  }
+}

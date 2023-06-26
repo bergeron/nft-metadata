@@ -1,0 +1,28 @@
+{
+  "address": "0x56e212f15732c3104fe990829351655feb1a7560",
+  "type": "ERC721",
+  "name": "DeFi-Robot Monthly Membership - Tier 2",
+  "tokenCount": "12",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x56e212f15732c3104fe990829351655feb1a7560/1",
+  "metadata": {
+    "name": "DeFi-Robot Monthly Membership - Tier 2",
+    "description": "DeFi-Robot Monthly Membership gives you full access to our ecosystem, as a Tier 2 Equivalent.",
+    "image": "https://dapp.defirobot.org/defiRobot-logo.jpg",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1678746011
+      }
+    ],
+    "expiration": 1678746011,
+    "tokenId": "1",
+    "owner": "0xa6a20747849c3c51725ab06f540b7330afdca2e9",
+    "userMetadata": {
+      "public": {}
+    },
+    "keyId": "1",
+    "lockAddress": "0x56E212f15732c3104Fe990829351655FEb1A7560",
+    "network": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "0x72df030d1321fb29f73159079acdcaf8509c2da3",
+  "type": "ERC721",
+  "name": "TestMintBeforePresale",
+  "tokenCount": "5",
+  "uri": "ipfs://QmYoTreMCF5tXWhHGe5u18FTP2gyttgjULKJJLZwzetNXz/1",
+  "metadata": {
+    "name": "YMDA#1",
+    "description": "This is a test of presale YMDA",
+    "image": "ipfs://QmVwhcVYckK3ZwHygDZURjLtsZPD3vBC7bVCDBwru2199e/1.png",
+    "background_color": "FFFFFF",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "04_bg_plane"
+      },
+      {
+        "trait_type": "Melonbase",
+        "value": "01_lightgreen"
+      },
+      {
+        "trait_type": "Melongraphics",
+        "value": "01_big"
+      },
+      {
+        "trait_type": "Stem",
+        "value": "01_stem_black"
+      },
+      {
+        "trait_type": "Special",
+        "value": "01_bee1"
+      },
+      {
+        "trait_type": "Texr",
+        "value": "text01"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "address": "0x2acd63cd5991b96e0a8b56a45bbb246afff3d2d0",
+  "type": "ERC721",
+  "name": "VSP Participation Collection",
+  "tokenCount": "152",
+  "uri": "https://cdn-api.niftykit.com/reveal/7IFmkwdeqaz9SUMGp1RE/1",
+  "metadata": {
+    "name": "Black Card Participation Trophy #1",
+    "description": "This NFT commemorates your participation in at least one of the six total Black Card Auctions.",
+    "attributes": [
+      {
+        "trait_type": "Event",
+        "value": "Black Card Auction"
+      },
+      {
+        "trait_type": "Reward",
+        "value": "Participation Trophy"
+      }
+    ],
+    "image": "https://ipfs.io/ipfs/Qme1DTothXjGM72u9uBnTjfTFPEnf5F78bDtz7HY1HCTxg",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0x05d50f9dC6F7F09aB77B1Fb93A2A20c16C6f965f"
+  }
+}

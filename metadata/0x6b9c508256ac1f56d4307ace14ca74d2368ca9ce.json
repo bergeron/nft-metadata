@@ -1,0 +1,75 @@
+{
+  "address": "0x6b9c508256ac1f56d4307ace14ca74d2368ca9ce",
+  "type": "ERC721",
+  "name": "Markus Klinko Are You Ready For Your Close-Up",
+  "tokenCount": "4",
+  "uri": "https://monegraph.mypinata.cloud/ipfs/QmNfaUAdBR4VpeKgK553d9TPqseXBHgQ77mYqzmdSnucpn",
+  "metadata": {
+    "name": "The Face of Greed",
+    "description": "The photo was taken in Los Angeles in 2018. It was part of an exploration of experimental makeup.",
+    "external_url": "",
+    "animation_url": "",
+    "image": "https://monegraph.mypinata.cloud/ipfs/QmYhctAvzxpLEMqVyQnbJQi62RrZ6JFPSnpyamahETdeKL/thefaceofgreed_final.mp4",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Markus Klinko"
+      },
+      {
+        "trait_type": "Rights Agreement",
+        "value": "https://ipfs.io/ipfs/QmUDSdxiV79MBVBPu9g1FtmDmrapoEN1gpKw9dgauVVQCy"
+      },
+      {
+        "trait_type": "Archive Link",
+        "value": "Not applicable"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "The Face of Greed"
+      },
+      "description": {
+        "type": "string",
+        "description": "The photo was taken in Los Angeles in 2018. It was part of an exploration of experimental makeup."
+      },
+      "image": {
+        "type": "string",
+        "description": "https://monegraph.mypinata.cloud/ipfs/QmYhctAvzxpLEMqVyQnbJQi62RrZ6JFPSnpyamahETdeKL/thefaceofgreed_final.mp4"
+      },
+      "rights_agreement": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/QmUDSdxiV79MBVBPu9g1FtmDmrapoEN1gpKw9dgauVVQCy"
+      },
+      "rights_agreement_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "rights_agreement_signature": {
+        "type": "string",
+        "description": "37ca5d448e6731440ce4125a06cb82f67dff78c1ac0c785369ecce03a9408591"
+      },
+      "archive_link": {
+        "type": "string"
+      },
+      "archive_link_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "archive_link_signature": {
+        "type": "string"
+      },
+      "rights_agreement_values": {
+        "$ARTIST": "Markus Klinko",
+        "$URL": "https://monegraph.mypinata.cloud/ipfs/QmYhctAvzxpLEMqVyQnbJQi62RrZ6JFPSnpyamahETdeKL/thefaceofgreed_final.mp4",
+        "$TITLE": "The Face of Greed",
+        "$YEAR": "2022",
+        "$ROYALTYRATE": "10",
+        "$ADDRESS": "0x6092838f95dB8C17Da625052cc087D59A2032bb9",
+        "$TOKEN": "eth",
+        "$LICENSE": "CA.05.19.21., Patent No. US 10,380,702",
+        "$CONTRACTSHAHASH": "37ca5d448e6731440ce4125a06cb82f67dff78c1ac0c785369ecce03a9408591"
+      }
+    }
+  }
+}

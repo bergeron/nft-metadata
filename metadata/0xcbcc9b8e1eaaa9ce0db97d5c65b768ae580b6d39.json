@@ -1,0 +1,23 @@
+{
+  "address": "0xcbcc9b8e1eaaa9ce0db97d5c65b768ae580b6d39",
+  "type": "ERC721",
+  "name": "K-NOR Genesis",
+  "tokenCount": "10",
+  "uri": "https://knor-genesis.s3.us-west-2.amazonaws.com/tokens/1",
+  "metadata": {
+    "id": 1,
+    "name": "Genesis #1",
+    "description": "",
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Title",
+        "value": "Death From Above"
+      }
+    ],
+    "image": "https://knor-genesis.s3.us-west-2.amazonaws.com/assets/1.jpg"
+  }
+}

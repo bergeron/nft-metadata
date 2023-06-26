@@ -1,0 +1,36 @@
+{
+  "address": "0x28dce4007b3e47c22ef441e3808ae871ece8c7ea",
+  "type": "ERC721",
+  "name": "TheFeastOrdinal",
+  "tokenCount": "420",
+  "uri": "ipfs://QmNYJZgUVdDhLho9KezN4X6VePFmmqUpN6AkjcaM87N8GL/1.json",
+  "metadata": {
+    "name": "The Feast Ordinals #1",
+    "description": "420 dishes presenting on BTC. All inscription below 20k.",
+    "image": "ipfs://Qma3bXDwVABdCirsftTDJTWCcQuUxyXGx3bpAPoersnSEN/1.png",
+    "edition": "1",
+    "date": 543333333,
+    "attributes": [
+      {
+        "trait_type": "Feast Level",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Feast Type",
+        "value": "3 Course"
+      },
+      {
+        "trait_type": "Restaurant",
+        "value": "Da Vittorio"
+      },
+      {
+        "trait_type": "Set Table",
+        "value": "True"
+      },
+      {
+        "trait_type": "Ready To Serve",
+        "value": "True"
+      }
+    ]
+  }
+}

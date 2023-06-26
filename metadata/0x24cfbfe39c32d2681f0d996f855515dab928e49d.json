@@ -1,0 +1,50 @@
+{
+  "address": "0x24cfbfe39c32d2681f0d996f855515dab928e49d",
+  "type": "ERC721",
+  "name": "Colorem V2",
+  "tokenCount": "4",
+  "uri": "https://ipfs.pixura.io/ipfs/QmdvYb136XpUndeLRG7Mgz7hEv14gwS8T54Te4fQu1nRej/metadata.json",
+  "metadata": {
+    "name": "COLOREM POLI V1",
+    "createdBy": "Fabio Catapano",
+    "yearCreated": "2022",
+    "description": "2022\nFrom the series 'Colorem', a generative artwork created with TouchDesigner.",
+    "image": "https://ipfs.pixura.io/ipfs/QmSEcxRQt2DcFmzdBQL3QkAkf7W7asHvQFEErpqX3uFm1W/2022_Colorem_Polyone_03.jpg",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmSEg2sG8MvUJcUFACzJcPgw8pzadzTeynUikRCc9Y1dbG/2022_Fabio_Catapano_Colorem_Polycon.mp4",
+      "dimensions": "3840x3840",
+      "size": "48984924",
+      "mimeType": "video/mp4"
+    },
+    "tags": [
+      "Generative",
+      "Colour",
+      "Abstract",
+      "Loop",
+      "Video",
+      "TouchDesigner"
+    ],
+    "attributes": [
+      {
+        "trait_type": "Year",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Colorem Poli"
+      },
+      {
+        "trait_type": "Size",
+        "value": "3840 x 3840 px"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "10s"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "Yes"
+      }
+    ]
+  }
+}

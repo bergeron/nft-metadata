@@ -1,0 +1,45 @@
+{
+  "address": "0x1299b515fc9922d7c807e6ca14bf59c8cf43409c",
+  "type": "ERC721",
+  "name": "Crazy Foods",
+  "tokenCount": "9",
+  "uri": "ipfs://bafybeif7u3iqudt6uoklcvgmnra5k74gvzva3kw3dwrq6kia2tvssdj4vq/1",
+  "metadata": {
+    "name": "Salty Enraged Cherry",
+    "description": "Cherry obtained in a shopping mall with salty flavor. Is feeling enraged about being cooked.",
+    "image": "ipfs://bafybeiec753523evrqglsoih7yqhmpuxvrweyo5lkrucdqaghxyo4db4ge/1.png",
+    "artist": "Wunbit",
+    "external_url": "https://wunbit.com",
+    "attributes": [
+      {
+        "trait_type": "Serial",
+        "display_type": "number",
+        "value": 1
+      },
+      {
+        "trait_type": "Cooking",
+        "value": "Cooked"
+      },
+      {
+        "trait_type": "Feeling",
+        "value": "Enraged"
+      },
+      {
+        "trait_type": "Flavor",
+        "value": "Salty"
+      },
+      {
+        "trait_type": "Origin",
+        "value": "Shopping Mall"
+      },
+      {
+        "trait_type": "Food",
+        "value": "Cherry"
+      },
+      {
+        "trait_type": "Label",
+        "value": "Clean"
+      }
+    ]
+  }
+}

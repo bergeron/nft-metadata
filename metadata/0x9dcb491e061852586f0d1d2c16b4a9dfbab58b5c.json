@@ -1,0 +1,52 @@
+{
+  "address": "0x9dcb491e061852586f0d1d2c16b4a9dfbab58b5c",
+  "type": "ERC1155",
+  "name": "0xRodo - Tickets",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/dgEXKZYNRJZgRJA_rzIzvn6LilzmT_c043gqg9DeJfs",
+  "metadata": {
+    "name": "This ticket may or may not be burnable",
+    "created_by": "rodo",
+    "description": "Art is the utility",
+    "attributes": [
+      {
+        "trait_type": "artist",
+        "value": "rodo"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2023"
+      },
+      {
+        "trait_type": "Quantity",
+        "value": "1"
+      },
+      {
+        "trait_type": "Season",
+        "value": "1"
+      }
+    ],
+    "animation_details": {
+      "bytes": 253196,
+      "format": "MP4",
+      "duration": 2,
+      "sha256": "a7b809c8d4de66ed507279af25df72d81b2d8bd0573b021597860271d96bafd5",
+      "width": 4000,
+      "height": 4000,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/61W7daS1OBA7aT5dj-ZDuLP6zXHracs94cAzVfXE81M",
+    "animation_url": "https://arweave.net/61W7daS1OBA7aT5dj-ZDuLP6zXHracs94cAzVfXE81M",
+    "image_details": {
+      "bytes": 64862,
+      "format": "PNG",
+      "sha256": "0d17a4cd1cf3c95f33af27cf9c861ca1d05ae5c1c0cb156dec467e8e1b135660",
+      "width": 4000,
+      "height": 4000
+    },
+    "image": "https://arweave.net/fy8OeIZ9s7itil0yFhSTjqjAuW6646SmzPMAok_UFto",
+    "image_url": "https://arweave.net/fy8OeIZ9s7itil0yFhSTjqjAuW6646SmzPMAok_UFto"
+  }
+}

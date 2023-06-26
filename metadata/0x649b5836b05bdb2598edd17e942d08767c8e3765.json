@@ -1,0 +1,32 @@
+{
+  "address": "0x649b5836b05bdb2598edd17e942d08767c8e3765",
+  "type": "ERC721",
+  "name": "Nemo test contract",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/dZ0RHQdsHcgU0TQKa31T01_jR1eurf7TK9SCDnQZtqo",
+  "metadata": {
+    "name": "Nemo genesis test",
+    "created_by": "dev.nemoeco",
+    "external_url": "www.nemo.eco",
+    "description": "First test minting on Ethereum for Nemo.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "dev.nemoeco"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Test"
+      }
+    ],
+    "image_details": {
+      "bytes": 67367,
+      "format": "PNG",
+      "sha256": "3d32f15b4c81550ccf37e3f2077ca17a064bcb97763f6f0aa0f236ffaf230908",
+      "width": 1281,
+      "height": 1705
+    },
+    "image": "https://arweave.net/OeWZaM4bIW9AhzMPX0YEoYmSFE62m7fWn8BuZN5kNSc",
+    "image_url": "https://arweave.net/OeWZaM4bIW9AhzMPX0YEoYmSFE62m7fWn8BuZN5kNSc"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "address": "0xde892c47562a4a383f2f88447cd3082d5a9688e4",
+  "type": "ERC721",
+  "name": "FilthyPeasants",
+  "tokenCount": "333",
+  "uri": "https://filthy-peasants.s3.eu-west-1.amazonaws.com/json/1.json",
+  "metadata": {
+    "name": "Filthy Peasant #1",
+    "description": "Collection for all folks who are grinding discord 24/7, retweeting all the tweets, tagging their friends left, right and center and still have nothing to show for it.",
+    "file_url": "https://filthy-peasants.s3.eu-west-1.amazonaws.com/img/1.png",
+    "image": "https://filthy-peasants.s3.eu-west-1.amazonaws.com/img/1.png",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "grass"
+      },
+      {
+        "trait_type": "hair",
+        "value": "short_black"
+      },
+      {
+        "trait_type": "right_arm",
+        "value": "axe"
+      },
+      {
+        "trait_type": "left_arm",
+        "value": "herald_shield"
+      },
+      {
+        "trait_type": "bottom",
+        "value": "carpenters"
+      },
+      {
+        "trait_type": "shoes",
+        "value": "armor"
+      },
+      {
+        "trait_type": "top",
+        "value": "broken_chain"
+      },
+      {
+        "trait_type": "cape",
+        "value": "none"
+      },
+      {
+        "trait_type": "gloves",
+        "value": "golden_bracelet"
+      },
+      {
+        "trait_type": "head",
+        "value": "helmet"
+      }
+    ],
+    "custom_fields": {
+      "dna": "382ffb7e57c755a08e4a8063ce53a9578ac5aed2",
+      "edition": 1,
+      "date": 1661107899580
+    }
+  }
+}

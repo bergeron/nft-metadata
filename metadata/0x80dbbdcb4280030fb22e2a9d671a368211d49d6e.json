@@ -1,0 +1,48 @@
+{
+  "address": "0x80dbbdcb4280030fb22e2a9d671a368211d49d6e",
+  "type": "ERC721",
+  "name": "Undead Blocks Genesis Weapons",
+  "tokenCount": "2580",
+  "uri": "https://be.undeadblocks.com/api/metadata/1",
+  "metadata": {
+    "name": "AMATEUR #1",
+    "description": "Knife + Pistol",
+    "external_url": "https://undeadblocks.com/nft/0x80dbbdcb4280030fb22e2a9d671a368211d49d6e/1",
+    "image": "https://files.undeadblocks.com/assets/minted/AMATEUR_1_3.png",
+    "properties": {
+      "media_url": "https://files.undeadblocks.com/assets/minted/AMATEUR_1_3.png"
+    },
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 1648045970
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Item",
+        "value": 2
+      },
+      {
+        "trait_type": "Loadout Level",
+        "value": "Amateur"
+      },
+      {
+        "trait_type": "Weapons Included",
+        "value": "Combat Knife"
+      },
+      {
+        "trait_type": "Weapons Included",
+        "value": "M1911"
+      },
+      {
+        "trait_type": "Skins Included (Weapons)",
+        "value": "Combat Knife - Basic"
+      },
+      {
+        "trait_type": "Skins Included (Weapons)",
+        "value": "M1911 - Neon"
+      }
+    ]
+  }
+}

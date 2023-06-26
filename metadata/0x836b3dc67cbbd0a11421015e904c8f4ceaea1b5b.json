@@ -1,0 +1,43 @@
+{
+  "address": "0x836b3dc67cbbd0a11421015e904c8f4ceaea1b5b",
+  "type": "ERC721",
+  "name": "Stoned Crows",
+  "tokenCount": "666",
+  "uri": "ipfs://QmW2x1QdwmHtKmQa74WCwDUKj54FWFZLSnJETbyhJYWXce/1.json",
+  "metadata": {
+    "name": "Stoned Crows #1",
+    "description": "666 Stoned Crows nesting on the Ethereum blockchain.",
+    "image": "ipfs://QmXQLu6FbvSNya37LHVkTB2auxmCBiooQAZJZL8ZP3uhGX/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Cadet"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Grey T-Shirt"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Puppy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Gangsta"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 15,
+        "display_type": "number"
+      }
+    ]
+  }
+}

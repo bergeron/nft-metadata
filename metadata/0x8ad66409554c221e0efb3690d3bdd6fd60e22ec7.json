@@ -1,0 +1,50 @@
+{
+  "address": "0x8ad66409554c221e0efb3690d3bdd6fd60e22ec7",
+  "type": "ERC1155",
+  "name": "Gremplin's Feasty Business Starter Pack",
+  "tokenCount": "15",
+  "uri": "ipfs://QmUy12QxpwX61NpiBwz3PBPPynCPNstDCEZFzYrnj36uBk/1/token.json",
+  "metadata": {
+    "async-attributes": {
+      "artists": [
+        "0x4298e663517593284ad4fe199b21815bd48a9969"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "state": {
+                "label": "Twin Moon Skies",
+                "uri": "QmNtS6eJ7v3KSXxsDC1GVw34PhhceMUJqx9b1fD1gHksUx"
+              },
+              "id": "Outside"
+            }
+          ]
+        }
+      ]
+    },
+    "name": "Twin Moon Skies",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/image/upload/w_1200/v1678059307/0x4298e663517593284ad4fe199b21815bd48a9969/640524356b2b7792b861dde1/stateCovers/odalqvvhhy0z7bd4ov6h.png",
+    "description": "Sky of gloominess\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "gremplin"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "Gremplin's Feasty Business Starter Pack"
+      }
+    ]
+  }
+}

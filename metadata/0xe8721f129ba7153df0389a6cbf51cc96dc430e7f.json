@@ -1,0 +1,42 @@
+{
+  "address": "0xe8721f129ba7153df0389a6cbf51cc96dc430e7f",
+  "type": "ERC721",
+  "name": "Ghost Girl NFT",
+  "tokenCount": "456",
+  "uri": "ipfs://bafybeiafinu7syxp3od62gor2dmi5mb2lwoi6kjf6gmzzopftwumd74yge/1.json",
+  "metadata": {
+    "name": "ghost girl #1",
+    "description": "👻 💕",
+    "image": "ipfs://bafybeichzwdwom2mmikzmprj6s4pc6rjx3emlcbgnaqxlnaph7phh4jrge/1.png",
+    "dna": "9e7babbd0db725415a310be66b4505b16394fdb2",
+    "edition": 1,
+    "date": 1676792703593,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Emo"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "None"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Squiggles"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "Blue Bunny"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "None"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Lover"
+      }
+    ],
+    "compiler": "void compiler v6.66"
+  }
+}

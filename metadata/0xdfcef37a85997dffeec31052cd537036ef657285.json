@@ -1,0 +1,30 @@
+{
+  "address": "0xdfcef37a85997dffeec31052cd537036ef657285",
+  "type": "ERC721",
+  "name": "AINetwork NFT",
+  "tokenCount": "11",
+  "uri": "https://us-central1-gpt2-ainetwork-prod.cloudfunctions.net/ainftMetadata/1",
+  "metadata": {
+    "name": "jpg_converted",
+    "description": "# data\nhttps://github.com/teachable-ainize/ainft/blob/jpg_converted/data.txt\n\n# model\n- name: gpt-j-en-6b-fewshot\n- platform: [ainize.ai/teachable-nft](https://ainize.ai/teachable-nft)\n\n# service\n- api: [ainize.ai/teachable-ainize/ainft?branch=jpg_converted](https://ainize.ai/teachable-ainize/ainft?branch=jpg_converted)\n- demo: [miniverse.afan.ai/jpg_converted](https://miniverse.afan.ai/jpg_converted)\n\n# state\n[insight.ainetwork.ai/database/values/apps/jpg_converted](https://insight.ainetwork.ai/database/values/apps/jpg_converted)\n",
+    "image": "https://firebasestorage.googleapis.com/v0/b/gpt2-ainetwork-prod.appspot.com/o/ainftImage%2F0xcd51177bad684Db8507a89D8819e2F2c406679bc%2Fjpg_converted%2Fundefined?alt=media&token=4e4ee6a7-ec21-4524-b5c1-dbf4bdc76b53",
+    "attributes": [
+      {
+        "trait_type": "data",
+        "value": "https://github.com/teachable-ainize/ainft/blob/jpg_converted/data.txt"
+      },
+      {
+        "trait_type": "model",
+        "value": "{\"name\":\"gpt-j-en-6b-fewshot\",\"platform\":\"https://ainize.ai/teachable-nft\"}"
+      },
+      {
+        "trait_type": "service",
+        "value": "{\"api\":\"https://ainize.ai/teachable-ainize/ainft?branch=jpg_converted\",\"demo\":\"https://miniverse.afan.ai/jpg_converted\",\"endpoint\":\"https://jpg-converted-ainft-teachable-ainize.endpoint.ainize.ai\"}"
+      },
+      {
+        "trait_type": "state",
+        "value": "https://insight.ainetwork.ai/database/values/apps/jpg_converted"
+      }
+    ]
+  }
+}

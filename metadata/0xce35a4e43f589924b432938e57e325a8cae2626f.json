@@ -1,0 +1,47 @@
+{
+  "address": "0xce35a4e43f589924b432938e57e325a8cae2626f",
+  "type": "ERC721",
+  "name": "NFTeamsJerseys",
+  "tokenCount": "1",
+  "uri": "https://s3.ap-southeast-2.amazonaws.com/jersey-meta.nfteams.club/1",
+  "metadata": {
+    "name": "Jersey #00001",
+    "description": "Unique NFTeams virtual sports jersey",
+    "external_url": "https://www.nfteams.club/jersey/view/00001",
+    "image": "https://s3.ap-southeast-2.amazonaws.com/jersey-media-prod.nfteams.club/00001_jersey_turntable.gif",
+    "attributes": [
+      {
+        "trait_type": "Sport",
+        "value": "Soccer"
+      },
+      {
+        "trait_type": "Sponsor",
+        "value": "Top Sport"
+      },
+      {
+        "trait_type": "Number",
+        "value": "20"
+      },
+      {
+        "trait_type": "Base Pattern",
+        "value": "Basketball Chicago Red"
+      },
+      {
+        "trait_type": "Sleeve Trim Pattern",
+        "value": "Solid Green Yellow Pink Blue"
+      }
+    ],
+    "layers": [
+      "layer-0-Base/Tribute-Basketball - Chicago Red.png",
+      "layer-7-Arm-Trim/Solid-Green Yellow Pink Blue.png",
+      "layer-12-text/Soccer/2 - Soccer - Rugby - Big Logo - Small Sponsor - No Team Name - No front Number/NFTeams Logo/NFTeams logo - White.png",
+      "layer-12-text/Soccer/2 - Soccer - Rugby - Big Logo - Small Sponsor - No Team Name - No front Number/Name Back/BACK NAME - Straight - Black with White -  Redzone.png",
+      "layer-12-text/Soccer/2 - Soccer - Rugby - Big Logo - Small Sponsor - No Team Name - No front Number/Number/Black with White - Triton_20.png",
+      "layer-12-text/Soccer/2 - Soccer - Rugby - Big Logo - Small Sponsor - No Team Name - No front Number/Sponsor/Top Sport.png",
+      "layer-12-text/Soccer/2 - Soccer - Rugby - Big Logo - Small Sponsor - No Team Name - No front Number/Team Logo/Ape.png",
+      "layer-12-text/Soccer/2 - Soccer - Rugby - Big Logo - Small Sponsor - No Team Name - No front Number/Waist Label/Waist Label.png"
+    ],
+    "animation_url": "https://s3.ap-southeast-2.amazonaws.com/jersey-media-prod.nfteams.club/00001_jersey_turntable.mp4",
+    "original_id": "08451"
+  }
+}

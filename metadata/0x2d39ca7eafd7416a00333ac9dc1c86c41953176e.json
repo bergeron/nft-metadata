@@ -1,0 +1,46 @@
+{
+  "address": "0x2d39ca7eafd7416a00333ac9dc1c86c41953176e",
+  "type": "ERC721",
+  "name": "Dogs Unleashed Minions",
+  "tokenCount": "58",
+  "uri": "ipfs://QmWA8DGkv6RQ5Jtx2qoToJqs7PtaibmNAgrYSMMAu1F54c/1.json",
+  "metadata": {
+    "name": "DUMNFT #1",
+    "description": "Dogs Unleashed: Minion, It's Just a Minion but as a Dog",
+    "image": "ipfs://QmPG2hLdLN9P4qibg8ZRURfCFsWnrqAS5ZXGBNh3FnDReP/1.png",
+    "dna": "18255d5361282cf3ea3264f0ebbda11bbce0c1a7",
+    "edition": 1,
+    "date": 1645681724098,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUNDS",
+        "value": "Maroon Plain"
+      },
+      {
+        "trait_type": "SKINS",
+        "value": "Red"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "Looking Up"
+      },
+      {
+        "trait_type": "MOUTHS",
+        "value": "Snout"
+      },
+      {
+        "trait_type": "HEADS",
+        "value": "Cap"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "Vector's Suit"
+      },
+      {
+        "trait_type": "ACCESSORYS",
+        "value": "Fairy Wand"
+      }
+    ],
+    "compiler": "Dogs Unleashed Art Generator"
+  }
+}

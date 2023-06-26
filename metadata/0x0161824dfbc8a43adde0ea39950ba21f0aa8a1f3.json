@@ -1,0 +1,45 @@
+{
+  "address": "0x0161824dfbc8a43adde0ea39950ba21f0aa8a1f3",
+  "type": "ERC1155",
+  "name": "OCTODROPS",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/d0EeFtpiiQxWQnPh5-gAUH69dv8MWQqFfEA4kzs9dAU",
+  "metadata": {
+    "name": "Water Rising - Headroom",
+    "created_by": "RedMoonLabs",
+    "description": "An audio-visual piece, set to the Song \"Water Rising\" by Jonny October. \n\nSent as a free Airdrop to the holders of a Founders OcToken, or a piece from the Water Rising collection.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Jonny October"
+      },
+      {
+        "trait_type": "Title",
+        "value": "Water Rising - Headroom"
+      }
+    ],
+    "animation_details": {
+      "bytes": 18285342,
+      "format": "WEBM",
+      "duration": 127,
+      "sha256": "46f9b1a23ecfa9c212ab98209e81eeb4ea167cdfba151fcfef8ba9a1fd13e3cb",
+      "width": 720,
+      "height": 720,
+      "codecs": [
+        "Google",
+        "Opus"
+      ]
+    },
+    "animation": "https://arweave.net/HPtQLrUC6bYVUGTUgwilUvEjRcAvwgrhVdlXdewm1r4",
+    "animation_url": "https://arweave.net/HPtQLrUC6bYVUGTUgwilUvEjRcAvwgrhVdlXdewm1r4",
+    "image_details": {
+      "bytes": 407375,
+      "format": "PNG",
+      "sha256": "3ed324b866ed5516118d66e7ffd77466d49ecefa59ec1d09698c0e9b3d442a5e",
+      "width": 512,
+      "height": 512
+    },
+    "image": "https://arweave.net/jLnzSoU7XUIS_yFg3J6YhdfGmtb7C-gLqplSGMfgDD4",
+    "image_url": "https://arweave.net/jLnzSoU7XUIS_yFg3J6YhdfGmtb7C-gLqplSGMfgDD4"
+  }
+}

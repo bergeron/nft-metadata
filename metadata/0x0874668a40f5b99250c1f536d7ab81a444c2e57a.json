@@ -1,0 +1,75 @@
+{
+  "address": "0x0874668a40f5b99250c1f536d7ab81a444c2e57a",
+  "type": "ERC721",
+  "name": "LoopingLovers - INTIME",
+  "tokenCount": "1",
+  "uri": "ipfs://QmYDTnwkPkjcbtLJ8JZGMQEfBxbbQ6gaz1fsSgUaYeBk3L",
+  "metadata": {
+    "name": "LoopingLovers - LATE",
+    "description": "The INTIME Collection consists of two Timecapsules: \"EARLY\" and \"LATE\". The looping Artworks preserve and compose the feeling of floating in the moment. Arrive, happen, be done when it should be, and it's never too early or late.                                                                                         \n\n\"LATE\" consisting out of 450 unique still Artificial intelligence Artworks, resulting in one collective animation. Manifesting a state in which we grow and bloom together.\n\nVerisart Certified: https://verisart.com/works/4bd34f53-f526-46b5-abd8-ee531c052dce",
+    "image": "ipfs://QmQNpWR4ErpPpSGhJ3mhkgf7FqrWhu66KUWQeyduy9TCi7",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 15
+        },
+        "frameRate": 30,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xfbe379896e9e4b847bfbc87d9b4edc39e8a753ce",
+            "bps": 800
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "animation_url": "ipfs://QmVqUxyGTSgE199QEBusjDAXjUeLYEpdBPk2TrVfFPhASe",
+    "external_url": "https://verisart.com/works/4bd34f53-f526-46b5-abd8-ee531c052dce",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "LoopingLovers",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "LoopingLovers - LATE",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "1920x1080 px",
+        "display_type": null
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:15",
+        "display_type": null
+      }
+    ]
+  }
+}

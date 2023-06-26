@@ -1,0 +1,49 @@
+{
+  "address": "0x84bd087f328a0bb94781b1ed4813c2f26cfbd2f3",
+  "type": "ERC721",
+  "name": "Crossing Deer Society - NFT",
+  "tokenCount": "504",
+  "uri": "ipfs://Qmbz9rp6x1cShHMYKYF9egEHciB4RGfMfapPbU9EJ2ZLyQ/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "Crossing Deer Society",
+    "external_url": "",
+    "image": "ipfs://Qmc91j3Kx8yPEk11BQXgTQqMFFQUbmyjQHYWm1dbD2NYjb/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Horns",
+        "value": "horns_wood"
+      },
+      {
+        "trait_type": "Body",
+        "value": "body_cow"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "t-shirt-spaceship"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eye_reflect"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses_topframe"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://the-nft-generator.com"
+  }
+}

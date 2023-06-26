@@ -1,0 +1,26 @@
+{
+  "address": "0xac9e2e3914cc86e026fdbc94074e82914fd468a9",
+  "type": "ERC721",
+  "name": "Dungeons: A Heroes NFT Collection",
+  "tokenCount": "1201",
+  "uri": "https://heroes-windfall-prod.herokuapp.com/api/v1/dungeon-metadata/1",
+  "metadata": {
+    "name": "#1 - Howling Keep of the Viper",
+    "image": "https://ipfs.infura.io/ipfs/QmcbZNgLnaNtsoSafoZ61Gy1eE9CF3Bxu7yWain7XFWxaC",
+    "description": "Play your Hero in the Dungeons! Fight Rats, Skeletons, and the Hordes! Get Gold, Experience, and Loot! Beat Merlin's Challenge ...and later... Save the kingdom!\n\nDungeons are a set of 3,333 programatically generated dungeon maps based on the on-chain data from Crypts and Caverns to be played in the Heroes universe.\n\nThis Dungeon is based on Crypts and Caverns #5876.",
+    "attributes": [
+      {
+        "trait_type": "Doors",
+        "value": "3"
+      },
+      {
+        "trait_type": "Points of Interest",
+        "value": "4"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Forest Ruins"
+      }
+    ]
+  }
+}

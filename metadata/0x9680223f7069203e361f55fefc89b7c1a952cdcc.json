@@ -1,0 +1,29 @@
+{
+  "address": "0x9680223f7069203e361f55fefc89b7c1a952cdcc",
+  "type": "ERC721",
+  "name": "Inventory V2",
+  "tokenCount": "1540",
+  "uri": "https://team3d.io/inventory/json/11.json",
+  "metadata": {
+    "template": "11",
+    "name": "Unicorn's head",
+    "description": "Why take the horn when you can have a whole head?",
+    "image": "https://team3d.io/inventory/json/11.png",
+    "ipfs": "",
+    "slot": "0",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Promotional"
+      },
+      {
+        "trait_type": "Name",
+        "value": "Unicorn's head"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Head"
+      }
+    ]
+  }
+}

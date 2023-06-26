@@ -1,0 +1,42 @@
+{
+  "address": "0x9dfd8412240b770c7047d288682b4ff5ebe5bc3f",
+  "type": "ERC721",
+  "name": "Say Milady",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmescF927BfvjezF1PeA1SXwpKq7gtftFJ1QAgb6fBb7a9/1.json",
+  "metadata": {
+    "name": "Say Milady #1",
+    "description": "A collection of 5,000 banner NFTs with generative backgrounds and original text, Japanese dolls in photo comic drama style, sweet shop Russian supercomputers, semi-vintage magazine covers, and friends from Pixelady Maker – who say, Milady.",
+    "image": "ipfs://QmSvPPmXpyLphaF8K54miiRyjzg2eq1SQPCpYspXm2RjA1/1.png",
+    "dna": "398e1fde96966cb95ccd6b7f2a55fa29dd48d018",
+    "edition": 1,
+    "date": 1683535509570,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "alice"
+      },
+      {
+        "trait_type": "overlay",
+        "value": "none"
+      },
+      {
+        "trait_type": "dialog",
+        "value": "sky"
+      },
+      {
+        "trait_type": "daemon",
+        "value": "strawberry mochi"
+      },
+      {
+        "trait_type": "modus operandi",
+        "value": "REDACTED"
+      },
+      {
+        "trait_type": "subconscious",
+        "value": "not allowed within 500 feet"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

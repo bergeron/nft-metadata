@@ -1,0 +1,46 @@
+{
+  "address": "0x7a65fb2a1d4dede8138dca1cc4a24ace366cf2dc",
+  "type": "ERC721",
+  "name": "Nifty Island: Legendary Chunkz",
+  "tokenCount": "54",
+  "uri": "ipfs://bafybeiddkbn62yb5avlpktrwsw7adi43fw37wmicunietwosj2t2pxtm4y/1.json",
+  "metadata": {
+    "name": "Chunkz #1",
+    "description": "Made by the greatest.  Chunkz are friends.",
+    "image": "ipfs://bafybeidytvy5skqfaauow6nxnbboeyxt6gch6c4g6to2edkhwuzf52gwwa/1.png",
+    "external_url": "https://www.niftyisland.com/",
+    "standard": {
+      "name": "ERC-NIFTY",
+      "version": "0.0.1"
+    },
+    "extensions": [
+      "NIMDE_ATTRIBUTES_v1"
+    ],
+    "attributes": [
+      {
+        "trait_type": "Ear",
+        "value": "Bowlears"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Puff Puffin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Gearz"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Button"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Escargoing out"
+      },
+      {
+        "trait_type": "Nifty",
+        "value": "Yes"
+      }
+    ]
+  }
+}

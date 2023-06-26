@@ -1,0 +1,56 @@
+{
+  "address": "0xe634677a04572b217c22332b4bef0cd65c11b12d",
+  "type": "ERC721",
+  "name": "Paddleboarding Pooches",
+  "tokenCount": "5",
+  "uri": "ipfs://QmQncK64w14CfLq8ZREfDn5JVi1pT2WmfSZzdCPThBURQV/1.json",
+  "metadata": {
+    "name": "PB Pooches #1",
+    "description": "Paddleboarding Pooches - Alderney Edition",
+    "external_url": "http://paddleboardingpooches.com",
+    "image": "ipfs://Qmdou9eiNmf1pW3n3U1nZB66A9FTvchZjPv8LX8eGNV3ST/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Platte Saline"
+      },
+      {
+        "trait_type": "Paddleboards",
+        "value": "PB Multi Colour"
+      },
+      {
+        "trait_type": "String",
+        "value": "String-Blue"
+      },
+      {
+        "trait_type": "Paddles",
+        "value": "Paddle Blue"
+      },
+      {
+        "trait_type": "Objects",
+        "value": "Butter"
+      },
+      {
+        "trait_type": "Pooches",
+        "value": "Lenny"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Paddleboarding Pooches",
+      "family": "Paddleboarding Pooches"
+    },
+    "symbol": ""
+  }
+}

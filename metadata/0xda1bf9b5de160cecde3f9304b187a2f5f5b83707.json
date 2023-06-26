@@ -1,0 +1,31 @@
+{
+  "address": "0xda1bf9b5de160cecde3f9304b187a2f5f5b83707",
+  "type": "ERC721",
+  "name": "CHRONOPHOTOGRAPH by 0xDEAFBEEF",
+  "tokenCount": "246",
+  "uri": "https://deafbeef.com/chronophotograph/1",
+  "metadata": {
+    "description": "DEAFBEEF: Chronophotograph - Token 1\n\nChronophotograph is the companion collection to Vol. 2, Series 1 - Noumenon. This work is made in support of The Los Angeles County Museum of Art's Art and Technology Lab, in collaboration with Cactoid Labs, presented in dialogue with the chronophotopgraphic work of Eadweard Muybridge in the LACMA archives.\n\nOn a time locked schedule, a blockchain transaction can be triggered to metaphorically \"capture\" an observation of a Noumenon, minting a new ERC721 token in this companion series. The blocknumber serves as the seed for a deterministic program to generate an image in the style of Muybridge's chronophotographs, representing the attempt to transcend sensory limitations through the use of technology.\n\nViewers are encouraged to reflect on the perception of time, consensus reality, photography and blockchain as sources of objective truth, limitations thereof.\n",
+    "external_url": "https://deafbeef.com/chronophotograph/item/1",
+    "image": "https://deafbeef.com/chronophotograph/media/1/image.png?a=790",
+    "name": "Chronophotograph 1",
+    "attributes": [
+      {
+        "trait_type": "Blocknumber",
+        "value": "17166745"
+      },
+      {
+        "trait_type": "Photographer",
+        "value": "deafbeef.eth"
+      },
+      {
+        "trait_type": "Parent",
+        "value": "9"
+      },
+      {
+        "trait_type": "Epoch",
+        "value": "0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0x1abcd0a592e6a389d30a075222b61ce62d3d704c",
+  "type": "ERC721",
+  "name": "The Token List",
+  "tokenCount": "53",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x1abcd0a592e6a389d30a075222b61ce62d3d704c/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x1Abcd0A592e6A389d30a075222b61ce62D3D704c/icon?id=1",
+    "expiration": 1620418032,
+    "tokenId": "1",
+    "owner": "0x272b672809e4b2135269717f802d5a6b03ddaee5",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1620418032
+      }
+    ],
+    "userMetadata": {
+      "public": {
+        "First Name": "Vinicius"
+      }
+    },
+    "keyId": "1",
+    "lockAddress": "0x1Abcd0A592e6A389d30a075222b61ce62D3D704c",
+    "network": 1
+  }
+}

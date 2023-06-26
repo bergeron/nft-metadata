@@ -1,0 +1,50 @@
+{
+  "address": "0x0e68cea2f61cc76f0f2676f99d4213a94714f74a",
+  "type": "ERC721",
+  "name": "RigNFT",
+  "tokenCount": "2",
+  "uri": "ipfs://QmR6f6zhLNfsE6upkZkJCeuSSw2SJosy3Z6aJgAC5DQFfU/1",
+  "metadata": {
+    "name": "Rig NFT 1",
+    "description": "Rig NFTs are coded mining rigs. With POW mining the core is computational competition. Rig NFTs don't rely on this. Instead\n    Rig NFTs just demonstrate that POW mining can exist without physical machines. Each Rig NFT is able to mine a variable amount of\n    Rigcoin tokens in varying timeframes. When a Rig is minted, it is issued a power value which the contract uses to determine the\n    amount of time between mining claims. Rig owners can change mining settings to allow anyone else to mine on their behalf. There\n    will only ever be 5000 rigs minted and the creator has reserved Rigs 4501-5000 for revenue, promos and the unknown.",
+    "image": "ipfs://QmSqxUwSJEyBnos64HDWwuwoPn18E8aiHfDx4i2WXpWA9p/Rig1.png",
+    "medium_image": "ipfs://QmbDY9y7FpjnuYHfVbvCWELMzs8dyt6JahoNvWPPnjfS8g/Rig1.png",
+    "large_image": "ipfs://Qmajo8sfjPXPbaCLCZhzzpqfgXi4N4FNQVpXYffMjD6VjV/Rig1.png",
+    "external_url": "rigcoin.eth",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Center",
+        "value": "darkGrayCenter"
+      },
+      {
+        "trait_type": "Circles",
+        "value": "grayCircles"
+      },
+      {
+        "trait_type": "Lines",
+        "value": "darkGrayLines"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "goldLogo"
+      },
+      {
+        "trait_type": "Squares",
+        "value": "darkBrownSquares"
+      },
+      {
+        "trait_type": "Terminations",
+        "value": "blackTerminations"
+      },
+      {
+        "trait_type": "Words",
+        "value": "blackWords"
+      }
+    ],
+    "background_color": "#000000"
+  }
+}

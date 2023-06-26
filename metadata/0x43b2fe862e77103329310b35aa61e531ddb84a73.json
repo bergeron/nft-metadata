@@ -1,0 +1,43 @@
+{
+  "address": "0x43b2fe862e77103329310b35aa61e531ddb84a73",
+  "type": "ERC721",
+  "name": "Redeem Protocol Guild Pioneer",
+  "tokenCount": "38",
+  "uri": "https://metadata.redeemprotocol.io/pioneer/1",
+  "metadata": {
+    "name": "RE:DREAMER Founder B",
+    "description": "Welcome to the party! We are the first ones to land in RE:DREAMERverse. Congratulations! Wooooohoooooooo! We have vision and we are intrepid. We will journey together into this new world!",
+    "image": "https://metadata.redeemprotocol.io/pioneer/1.png",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Founder"
+      },
+      {
+        "trait_type": "Total RPTs",
+        "value": 52500000,
+        "max_value": 107000000
+      },
+      {
+        "trait_type": "Vested RPTs",
+        "value": 0,
+        "max_value": 52500000
+      },
+      {
+        "trait_type": "Claimed RPTs",
+        "value": 0,
+        "max_value": 52500000
+      },
+      {
+        "trait_type": "Vested Ratio",
+        "value": 0,
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Generation",
+        "value": 0,
+        "display_type": "number"
+      }
+    ]
+  }
+}

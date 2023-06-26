@@ -1,0 +1,115 @@
+{
+  "address": "0x29a6d321dcb232a21260839f80d37d54beac59c8",
+  "type": "ERC1155",
+  "name": "FraktalNFTGameDisease",
+  "tokenCount": "2",
+  "uri": "https://diseaseds.s3.amazonaws.com/graveyard/2839",
+  "metadata": {
+    "hash": "12907f0b91ed94b8875ac4f4c7277817c27f18982b9fd662215f4eca0c419f2b",
+    "name": "GD #2839",
+    "description": "Experience is her strong suit, knows just how to play the savviest players. Queen of the sugar mommas, just lacking some sugar of her own at the moment. She knows just where to get it, though, always has. ",
+    "image": "ipfs://QmadYgtyfbHJ4ZETpnrPuuLva9XcWnMp1ofBJZ7NyP7BkU",
+    "attributes": [
+      {
+        "trait_type": "NAME",
+        "value": "Xuxa"
+      },
+      {
+        "trait_type": "TYPE",
+        "value": "Diseased"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "TEETH",
+        "value": "Rotten"
+      },
+      {
+        "trait_type": "CHAIN",
+        "value": "Golden"
+      },
+      {
+        "display_type": "boost_percentage",
+        "value": 22,
+        "trait_type": "HARDCORE"
+      },
+      {
+        "display_type": "boost_percentage",
+        "value": 22,
+        "trait_type": "K1NG"
+      },
+      {
+        "display_type": "boost_percentage",
+        "value": 22,
+        "trait_type": "PSYCHO"
+      },
+      {
+        "display_type": "boost_percentage",
+        "value": 20,
+        "trait_type": "TRASHER"
+      },
+      {
+        "display_type": "boost_percentage",
+        "value": 20,
+        "trait_type": "NAUGHTY"
+      },
+      {
+        "trait_type": "CHARM",
+        "value": 8,
+        "max_value": 10
+      },
+      {
+        "trait_type": "SAVVINESS",
+        "value": 4,
+        "max_value": 10
+      },
+      {
+        "trait_type": "FEROCITY",
+        "value": 1,
+        "max_value": 10
+      },
+      {
+        "trait_type": "DEGENERACY",
+        "value": 6,
+        "max_value": 10
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Birthday",
+        "value": 352096203571
+      }
+    ],
+    "external_url": "https://thegamedisease.com/sickos/2839",
+    "gamedisease": {
+      "characterName": "XUXA",
+      "traits": {
+        "BACK": {
+          "name": "VIOLET",
+          "id": "204"
+        },
+        "SKIN": {
+          "name": "LIGHT",
+          "id": "1"
+        },
+        "MAKEUP": {
+          "name": "GOTH (WP)",
+          "id": "5"
+        },
+        "EYES": {
+          "name": "LIGHT BLUE",
+          "id": "13"
+        },
+        "TEETH": {
+          "name": "TRASH TEETH",
+          "id": "22"
+        },
+        "CHAIN": {
+          "name": "CHAIN GOLD",
+          "id": "23"
+        }
+      }
+    }
+  }
+}

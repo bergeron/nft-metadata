@@ -1,0 +1,39 @@
+{
+  "address": "0x533508e1d3dc9a08440578f95ef168db1710aad2",
+  "type": "ERC721",
+  "name": "Dritter Crypto Stamp Stammtisch",
+  "tokenCount": "100",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=BYnMSLzJUBwofPkYv4Sh",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1575540373848?alt=media&token=6f309319-da13-40d9-8438-82d4deccac64",
+    "isForSale": false,
+    "description": "Token zum dritten Crypto Stamp Stammtisch in St. Pölten am 6.12.2019 / Token of the third Crypto Stamp meetup in St. Pölten at 12/6/2019",
+    "contractAddress": "",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted//BYnMSLzJUBwofPkYv4Sh",
+    "minter": "0x1c8c4569f03b26C301B1B249638A9CdeeD46Ad9a",
+    "mintedOn": {
+      "_seconds": 1575540486,
+      "_nanoseconds": 506000000
+    },
+    "price": "0",
+    "name": "Dritter Crypto Stamp Stammtisch (St. Polten 6.12.2019)",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Dritter Crypto Stamp Stammtisch (St. Polten 6.12.2019)"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "id": null
+  }
+}

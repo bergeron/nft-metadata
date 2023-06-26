@@ -1,0 +1,50 @@
+{
+  "address": "0x72d4fb90830ba20a722984333528f833be8aa418",
+  "type": "ERC721",
+  "name": "Love in Art Blocks",
+  "tokenCount": "1000",
+  "uri": "ipfs://QmeNhVzRTwRwXQuyXnd1zwv3y4r2smLgDQwEzagHfVWR4G/1.json",
+  "metadata": {
+    "name": "Love in Art blocks #1",
+    "description": "the moment we feel when our art blocks appear",
+    "image": "ipfs://QmPD3CrWMaGC9m7MCfsUtyLdzWgGoUeHZDM58hwDB8TKub/1.png",
+    "dna": "0af26e899d4bfc926fa3d8c37919de136bcc7a1b",
+    "edition": 1,
+    "date": 1662932445078,
+    "attributes": [
+      {
+        "trait_type": "Block",
+        "value": "Block"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Box"
+      },
+      {
+        "trait_type": "Genome",
+        "value": "Genome"
+      },
+      {
+        "trait_type": "Grid warp",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "High",
+        "value": "High"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Palette"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Zoom",
+        "value": "Zoom"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

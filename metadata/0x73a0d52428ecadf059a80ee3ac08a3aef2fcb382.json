@@ -1,0 +1,50 @@
+{
+  "address": "0x73a0d52428ecadf059a80ee3ac08a3aef2fcb382",
+  "type": "ERC1155",
+  "name": "Newly Abridged Happiness Manual, Vol II",
+  "tokenCount": "12",
+  "uri": "ipfs://Qme5hffB5y3mtu8rS9jLqGxpgazpe8XoMNYPSeUdqgcsvL/1/token.json",
+  "metadata": {
+    "name": "4 AM-Newly Abridged Happiness Manual, Vol II",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/image/upload/w_1200/v1681232940/0x5a6abe2b4bd1e178d984afa8630cd6ac212b070b/6433e0cea28b2e0e53d40318/stateCovers/sbfqpjq9jusnnjpvlebi.png",
+    "description": "4 AM is a still from Newly Abridged Happiness Manual, Vol II,  a conceptual poem which continues award-winning poet Ana María Caballero's explorations of the evolution of thought along the vast axis of time. \n\nOur emotional states are underpinned by the unspoken words that traverse our minds. To examine these words is to examine the intimate scaffolding that sustains our outward-facing selves. \n\nThis 24-part poem does so with humor, compassion, and straightforward honesty, highlighting the mundane, transcendental and contradictory nature of thought.\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Ana Maria Caballero"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "Newly Abridged Happiness Manual, Vol II"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0x5a6abe2b4bd1e178d984afa8630cd6ac212b070b"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Outside",
+              "state": {
+                "label": "4 AM-Newly Abridged Happiness Manual, Vol II",
+                "uri": "QmbV9Q9k4toZv3oVfTadtFmZE9TERjurgfu96fWBabRbLB"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

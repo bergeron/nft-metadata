@@ -1,0 +1,41 @@
+{
+  "address": "0x85b402520fdd767534d74c12ba7a4757283ea982",
+  "type": "ERC721",
+  "name": "Mutant Kittys",
+  "tokenCount": "6666",
+  "uri": "ipfs://QmUuVUxChvTnMyu3HUXhT7eouoBF6ctSEdycAN72rVqHW3/1.json",
+  "metadata": {
+    "name": "Mutant Kittys #1",
+    "description": "This is a collection about...",
+    "image": "ipfs://QmQUrM9ny1MTTaQLp2kP6o3wYwzjnRqtrPkA8GBnTmR1y5/1.png",
+    "edition": 1,
+    "date": 1671793846405,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hoodie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "4 Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tentacles"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

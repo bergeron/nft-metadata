@@ -1,0 +1,57 @@
+{
+  "address": "0xe10b73436364c1320c66168478666ed439f67c1b",
+  "type": "ERC721",
+  "name": "BabeG",
+  "tokenCount": "5000",
+  "uri": "https://babeg.io/reveal0/1",
+  "metadata": {
+    "tokenId": 1,
+    "image": "https://babeg.io/img-thedeads/00001.png",
+    "name": "BabeG #1",
+    "description": "BabeG is a collection of 5,000 unique ultra-realistic hand-drawn art pieces to honor those who take the game seriously!",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Beige"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Purple UnderCut"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "P"
+      },
+      {
+        "trait_type": "Clothings",
+        "value": "Zipped Up Tracksuit #211"
+      },
+      {
+        "trait_type": "Half-Life",
+        "value": 361,
+        "max_value": 365
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 11,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Rebirth on day:",
+        "value": "6"
+      },
+      {
+        "trait_type": "Killed on day:",
+        "value": "7"
+      }
+    ]
+  }
+}

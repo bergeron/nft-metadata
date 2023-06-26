@@ -1,0 +1,18 @@
+{
+  "address": "0x875d92c21752404073a88616afaa64c847fb9376",
+  "type": "ERC721",
+  "name": "Guns & Toilet Paper",
+  "tokenCount": "1",
+  "uri": "https://gxtp-metadata.vercel.app/api/1",
+  "metadata": {
+    "image": "https://gxtp-metadata.vercel.app/images/tp.jpg",
+    "name": "GXTP #1",
+    "description": "A roll of toilet paper. Best practices include stacking.",
+    "attributes": [
+      {
+        "trait_type": "Toilet Paper",
+        "value": "Standard"
+      }
+    ]
+  }
+}

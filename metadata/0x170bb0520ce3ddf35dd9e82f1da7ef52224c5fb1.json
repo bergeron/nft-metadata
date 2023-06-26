@@ -1,0 +1,60 @@
+{
+  "address": "0x170bb0520ce3ddf35dd9e82f1da7ef52224c5fb1",
+  "type": "ERC721",
+  "name": "The Psycho Cat Club",
+  "tokenCount": "202",
+  "uri": "https://ipfs.io/ipfs/QmZRBJHvv9XCwhkC4GzVrULrpBXDuwUee4KbFV51aod6xz/1",
+  "metadata": {
+    "name": "Psycho Cat #1",
+    "description": "The Psychedelic Cat Club Collection!",
+    "image": "ipfs://QmdSMP19zkEu4B1Ftv1CkhXRuHqVs9mFSY8cSXps75opGQ",
+    "edition": 1,
+    "seller_fee_basis_points": 500,
+    "collection": {
+      "name": "Psycho Cat Club",
+      "family": "Cool collection"
+    },
+    "symbol": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://QmdSMP19zkEu4B1Ftv1CkhXRuHqVs9mFSY8cSXps75opGQ",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xD2B9798E8083229f57f1c7Eb083F25DB69409e5c",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Evil"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Coat"
+      },
+      {
+        "trait_type": "Complements",
+        "value": "GoldChain"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Antennas"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "RedEyes"
+      }
+    ]
+  }
+}

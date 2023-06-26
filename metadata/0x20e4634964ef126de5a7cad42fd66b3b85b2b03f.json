@@ -1,0 +1,64 @@
+{
+  "address": "0x20e4634964ef126de5a7cad42fd66b3b85b2b03f",
+  "type": "ERC721",
+  "name": "OctoMob Hitmen",
+  "tokenCount": "999",
+  "uri": "ipfs://bafybeiezwxwfacdk534z5oxlcdgmusr3lmt37axxxihyg7556sm6auvhty/1.json",
+  "metadata": {
+    "name": "Hitman  #1",
+    "description": "A series of 999 animated collection of PFPs by the OctoMob Family.",
+    "external_url": "https://octomob.xyz",
+    "image": "ipfs://bafybeido4pbxm5q7oniz43jo2ykmaewagqsji542yvtqnp3yw2qs46bw34/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Skyblue Purple Pixels"
+      },
+      {
+        "trait_type": "Suit",
+        "value": "Sky Blue"
+      },
+      {
+        "trait_type": "OctoHeads",
+        "value": "Flat Pink"
+      },
+      {
+        "trait_type": "Octo Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Top Hand",
+        "value": "Black Glove"
+      },
+      {
+        "trait_type": "Top Hand Accessory",
+        "value": "Ace of Spades"
+      },
+      {
+        "trait_type": " Weapon",
+        "value": "Switchblade"
+      },
+      {
+        "trait_type": "Bottom Hand",
+        "value": "Black Glove"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "OctoMob Hitmen",
+      "family": "OctoMob Hitmen"
+    },
+    "symbol": ""
+  }
+}

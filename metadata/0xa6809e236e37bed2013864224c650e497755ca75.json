@@ -1,0 +1,88 @@
+{
+  "address": "0xa6809e236e37bed2013864224c650e497755ca75",
+  "type": "ERC1155",
+  "name": "[blade]",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/8joUqv8mZGI-nD0wM6FYQH4f0gOfseuylod5EMVvrPQ",
+  "metadata": {
+    "name": "[ancient blade]",
+    "created_by": "timenotspace",
+    "description": "an eternal blade, crafted by timenotspace\n\nmetadata contains a high quality .gif image and a timeless 4k 60fps looping .mp4 work of simulation-based art\n\n17 exist\n\nthis token grants its original purchaser's address the ability to redeem a matching [blade owner badge]\n\neach [blade owner badge] is another Ethereum Mainnet NFT, originally able to be acquired only via purchase of this [blade], which includes a high fidelity .png image with alpha, and a metaverse-optimized .glb 3D file",
+    "attributes": [
+      {
+        "trait_type": "Association",
+        "value": "Who R We Collective"
+      },
+      {
+        "value": "2160 x 2160",
+        "trait_type": "Resolution"
+      },
+      {
+        "value": "6s",
+        "trait_type": "Time"
+      },
+      {
+        "value": "60fps",
+        "trait_type": "Framerate"
+      },
+      {
+        "trait_type": "Size",
+        "value": "14.9 MB"
+      },
+      {
+        "trait_type": "Visual Tool",
+        "value": "Blender Eevee Render Engine"
+      },
+      {
+        "trait_type": "Visual Tool",
+        "value": "Final Cut Pro"
+      },
+      {
+        "trait_type": "Simulation Loop",
+        "value": "Infinite Cloth"
+      },
+      {
+        "trait_type": "Blade Material",
+        "value": "Ancient Platinum"
+      },
+      {
+        "trait_type": "Blade Aura",
+        "value": "Lunar"
+      },
+      {
+        "trait_type": "Handle Material",
+        "value": "Carbon Composite"
+      },
+      {
+        "trait_type": "Handle Ornament",
+        "value": "Astral Titanium"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Air"
+      }
+    ],
+    "animation_details": {
+      "bytes": 14863571,
+      "format": "MP4",
+      "duration": 6,
+      "sha256": "17a610ea96b332b29a1fd34b0b2cb070743e2f34662bb24901257c4da7dd8fe7",
+      "width": 2160,
+      "height": 2160,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/sfC0Y8dONQFONlDrrMbWGub2wBzeUarIIAsFdZuEkeY",
+    "animation_url": "https://arweave.net/sfC0Y8dONQFONlDrrMbWGub2wBzeUarIIAsFdZuEkeY",
+    "image_details": {
+      "bytes": 9677722,
+      "format": "GIF",
+      "sha256": "068b2849c1983d638b9ec8f46197a9a18af039977b61613f7b73a2df4d06543c",
+      "width": 960,
+      "height": 960
+    },
+    "image": "https://arweave.net/lkFczTMuvEuExatfFckra6d9khT189qRZRur7GgQtX4",
+    "image_url": "https://arweave.net/lkFczTMuvEuExatfFckra6d9khT189qRZRur7GgQtX4"
+  }
+}

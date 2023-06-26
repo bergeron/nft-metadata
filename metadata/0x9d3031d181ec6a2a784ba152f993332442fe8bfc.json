@@ -1,0 +1,46 @@
+{
+  "address": "0x9d3031d181ec6a2a784ba152f993332442fe8bfc",
+  "type": "ERC1155",
+  "name": "Fly Frogs Tadpoles",
+  "tokenCount": "1989",
+  "uri": "https://fly-frogs-next.vercel.app/api/tadpole/1",
+  "metadata": {
+    "name": "Tadpole 1",
+    "description": "A very fly tadpole, spawn of Fly Frog 9715 and Fly Frog 547",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blood"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Plunger"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Frog"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hoppy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Underbite"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Hoodie translucent"
+      },
+      {
+        "trait_type": "Parent 1",
+        "value": "Fly Frog 9715"
+      },
+      {
+        "trait_type": "Parent 2",
+        "value": "Fly Frog 547"
+      }
+    ],
+    "image": "ipfs://QmWSiu3wwxBsLcijcmoXkvFff8xdQybU1zciE1kVkQF11A"
+  }
+}

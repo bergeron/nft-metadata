@@ -1,0 +1,30 @@
+{
+  "address": "0xdd5298b3338141762f1dde1b9bd69a86dce92b49",
+  "type": "ERC721",
+  "name": "Dungeons Pass",
+  "tokenCount": "2020",
+  "uri": "https://dungeonsgenesis.s3.us-west-1.amazonaws.com/1",
+  "metadata": {
+    "name": "Dungeon #1",
+    "attributes": [
+      {
+        "trait_type": "Level Number",
+        "value": "Level 8"
+      },
+      {
+        "trait_type": "Room Type",
+        "value": "Room 5: Reward, Revelation, Plot Twist"
+      },
+      {
+        "trait_type": "Boss",
+        "value": "No"
+      },
+      {
+        "trait_type": "Reward",
+        "value": "Artifact"
+      }
+    ],
+    "description": "Dungeon #1 of 2020",
+    "image": "https://dungeonsgenesis.s3.us-west-1.amazonaws.com/1.png"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "address": "0x82dec129129817af8421c0c8583893c89847b6c0",
+  "type": "ERC1155",
+  "name": "ETHsports World Cup 2022",
+  "tokenCount": "30",
+  "uri": "https://worldcupnft-api.vercel.app/v1/1",
+  "metadata": {
+    "name": "Australia",
+    "image": "https://storage.googleapis.com/worldcup-bracket-images/1.jpg",
+    "description": "A World Cup 2022 bracket game where holders of the winning team can claim ETH. Brought to you by Metaseed Labs.",
+    "attributes": [
+      {
+        "trait_type": "Country",
+        "value": "Australia"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Eliminated"
+      }
+    ],
+    "ID": "1"
+  }
+}

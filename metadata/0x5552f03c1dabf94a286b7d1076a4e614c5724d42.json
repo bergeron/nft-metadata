@@ -1,0 +1,45 @@
+{
+  "address": "0x5552f03c1dabf94a286b7d1076a4e614c5724d42",
+  "type": "ERC721",
+  "name": "Best Yacht Club",
+  "tokenCount": "7",
+  "uri": "https://arweave.net/ldNgQI13S-QD4TzBnYVnM4mjRotiY5I-Z-ZsoLCV_m8",
+  "metadata": {
+    "name": "Pixel Ape",
+    "created_by": "Ray Yacht Club",
+    "description": "A unique Pixel Ape, one of the best pixel Ape's out there.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "RayYacht Club"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Pixel Ape",
+        "value": "1",
+        "max_value": "6"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Pixel Ape",
+        "value": "1",
+        "max_value": "6"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Pixel Ape",
+        "value": "1",
+        "max_value": "6"
+      }
+    ],
+    "image_details": {
+      "bytes": 488896,
+      "format": "JPEG",
+      "sha256": "8a5307edbc5670c46f242730f8f3f9d67fe9d0c07822c18cda5688861dbdef16",
+      "width": 3000,
+      "height": 3000
+    },
+    "image": "https://arweave.net/q9_wWhlNHyVVAmgIeWxmhIrknx6TNJqXsx1AplHZwfY",
+    "image_url": "https://arweave.net/q9_wWhlNHyVVAmgIeWxmhIrknx6TNJqXsx1AplHZwfY"
+  }
+}

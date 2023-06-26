@@ -1,0 +1,53 @@
+{
+  "address": "0xcabbd3c72f2ad06f47c801d9469a85e77782eee7",
+  "type": "ERC721",
+  "name": "Moody Mink Society",
+  "tokenCount": "201",
+  "uri": "https://safe-nft-metadata-provider-2-r28p2.ondigitalocean.app/metadata/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "Brining Mental Health to Web3",
+    "external_url": "",
+    "image": "http://safe-nft-metadata-provider-2-r28p2.ondigitalocean.app/asset/1.webp",
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "MMS Yellow DOT"
+      },
+      {
+        "trait_type": "MINK",
+        "value": "DARK GRAY MINK"
+      },
+      {
+        "trait_type": "RARE MINK SKIN",
+        "value": "TATS"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "MMS SOCIETY TEE"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "ORANGE POM BEANIE"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BLUE GUM"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

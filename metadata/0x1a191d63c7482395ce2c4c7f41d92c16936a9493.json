@@ -1,0 +1,46 @@
+{
+  "address": "0x1a191d63c7482395ce2c4c7f41d92c16936a9493",
+  "type": "ERC721",
+  "name": "McBit",
+  "tokenCount": "21",
+  "uri": "ipfs://QmaRjX47xcw7S1vYaXNFXrpc4kGXsW6RM7RRZCoMxkvuV3/1.json",
+  "metadata": {
+    "name": "McBit #1",
+    "description": "McBit is not just a collection, it is a Web3 brand built through NFTs. The flagship collection of receipts consists of 6500 uniquely delicious orders on the Ethereum Blockchain. McBit continues to build a thriving ecosystem of related software and IRL expereriences which all touch back on the first 6500 Receipts.",
+    "image": "ipfs://QmSafQSBfyij9neYdXVuxUMoBKo73VLtoHiWTTYsKSAQd3/1.png",
+    "dna": "056ac9295cb0d2a44949cef8999493f4eb6a072b",
+    "edition": 1,
+    "date": 1652142617586,
+    "attributes": [
+      {
+        "trait_type": "Receipt",
+        "value": "McBit Receipt"
+      },
+      {
+        "trait_type": "Entree",
+        "value": "Ratatouille"
+      },
+      {
+        "trait_type": "Sides",
+        "value": "Cheesy_Bread"
+      },
+      {
+        "trait_type": "Drinks",
+        "value": "Oolong_Tea"
+      },
+      {
+        "trait_type": "Deserts",
+        "value": "DogeDonuts"
+      },
+      {
+        "trait_type": "Toys",
+        "value": "Gold_Grills"
+      },
+      {
+        "trait_type": "Total",
+        "value": "1_BTC"
+      }
+    ],
+    "compiler": "BitShakes Art Engine"
+  }
+}

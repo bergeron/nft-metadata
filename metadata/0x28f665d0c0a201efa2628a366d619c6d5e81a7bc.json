@@ -1,0 +1,56 @@
+{
+  "address": "0x28f665d0c0a201efa2628a366d619c6d5e81a7bc",
+  "type": "ERC721",
+  "name": "test1 V2",
+  "tokenCount": "2",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=SeTUsOanFIbN9kpROpgv",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1586046466140?alt=media&token=7dd25fdb-6a20-4ea8-89ac-c93fbd85c31f",
+    "forSale": true,
+    "contractAddress": "0x28f665d0c0a201efa2628a366d619c6d5e81a7bc",
+    "description": "Chantier SIG",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1586046652,
+      "_nanoseconds": 807000000
+    },
+    "price": "0.1",
+    "name": "dxl1",
+    "fiatPrice": "$14.59",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "https://doxel.org/app/#!/doxel/viewer/5b8fe5c8cecb6b0b368ac76f"
+      },
+      {
+        "trait_type": "location",
+        "value": "Geneva, Switzerland"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJ6-LQkwZljEcRObwLezWVtqA"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1499119200
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": ""
+      }
+    ],
+    "youtube_url": "https://ipfs.io/ipfs/QmYJULXu6PPKU43vKfCJAPVJL8m3Dc9Dtfa7nrC84oKi8v",
+    "external_url": "https://mintbase.io/my-market/0x28f665d0c0a201efa2628a366d619c6d5e81a7bc",
+    "type": "ERC721"
+  }
+}

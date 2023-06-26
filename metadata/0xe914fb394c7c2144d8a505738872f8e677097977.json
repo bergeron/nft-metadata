@@ -1,0 +1,31 @@
+{
+  "address": "0xe914fb394c7c2144d8a505738872f8e677097977",
+  "type": "ERC721",
+  "name": "Goblintown Otherdeed",
+  "tokenCount": "10",
+  "uri": "ipfs://QmVSjEHEfiYyeCbaLLQciTVrLbkcHZMUCGok7vvm93CDNd/1.json",
+  "metadata": {
+    "name": "Goblintown Otherdeed #1",
+    "description": "Goblintown Land",
+    "image": "ipfs://QmSUpvJPbP23nFNvgNu9fU7LLCFWtvNnnXb36xr5yMKKmo/1.png",
+    "external_url": "https://twitter.com/goblinotherdeed",
+    "dna": "3085a6bce43cdb54acde2655ce50bebfe689a572",
+    "edition": 1,
+    "date": 1654977351,
+    "attributes": [
+      {
+        "trait_type": "Resource",
+        "value": "Lumber"
+      },
+      {
+        "trait_type": "Town",
+        "value": "Ghosttown"
+      },
+      {
+        "trait_type": "Land",
+        "value": "Mountains"
+      }
+    ],
+    "compiler": "generate-nft.online"
+  }
+}

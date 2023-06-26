@@ -1,0 +1,21 @@
+{
+  "address": "0x09ce4413a87c4ef95bf061e53a324f576e2e840d",
+  "type": "ERC721",
+  "name": "This does nothing",
+  "tokenCount": "10",
+  "uri": "data:application/json;base64,eyJuYW1lIjoiVGl0bGVkICMxIiwgImRlc2NyaXB0aW9uIjoiRGVzY3JpYmVkIiwgImVkaXRpb25fbnVtYmVyIjoiMSIsICJpbWFnZSI6ImlwZnM6Ly9RbVlZSFlWeldmYVFXMmUxa1FEYkx2QVpTbm5DUHRNaG5XSzhwbXUzWkJ1NWRlIiwgImFuaW1hdGlvbl91cmwiOiJpcGZzOi8vUW1ZWUhZVnpXZmFRVzJlMWtRRGJMdkFaU25uQ1B0TWhuV0s4cG11M1pCdTVkZSIsICJleHRlcm5hbF91cmwiOiIiLCAiYXR0cmlidXRlcyI6W3sidHJhaXRfdHlwZSI6IkhlbGxvIiwidmFsdWUiOiJXb3JsZCJ9XX0=",
+  "metadata": {
+    "name": "Titled #1",
+    "description": "Described",
+    "edition_number": "1",
+    "image": "ipfs://QmYYHYVzWfaQW2e1kQDbLvAZSnnCPtMhnWK8pmu3ZBu5de",
+    "animation_url": "ipfs://QmYYHYVzWfaQW2e1kQDbLvAZSnnCPtMhnWK8pmu3ZBu5de",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Hello",
+        "value": "World"
+      }
+    ]
+  }
+}

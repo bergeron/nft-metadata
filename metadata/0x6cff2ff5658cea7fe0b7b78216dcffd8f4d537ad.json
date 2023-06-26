@@ -1,0 +1,45 @@
+{
+  "address": "0x6cff2ff5658cea7fe0b7b78216dcffd8f4d537ad",
+  "type": "ERC721",
+  "name": "Killer Carrots Official",
+  "tokenCount": "98",
+  "uri": "ipfs://bafybeietsisszkzxczhyozdawgmlyydf2kbl2a7fffglunkxm2uvy6glhu/1.json",
+  "metadata": {
+    "name": "Killer Carrot #139",
+    "description": "888 Killer Carrots looking for rabbits!",
+    "fee_recipient": "0x765bA822B104dE760Dc6c7c696A2A68232724D23",
+    "seller_fee_basis_points": 750,
+    "image": "ipfs://bafybeiehc6ri5p3crb7snooozttp42o53vwlaejbblpjkhu5ixcgzha7ee/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "LightCarrot"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Carrot"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LookLeft"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "SleepHead"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Licker"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 273,
+        "display_type": "number"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "address": "0x79f0805b0843057ddc2f7742f6075f7be61303fc",
+  "type": "ERC721",
+  "name": "King Floki Names",
+  "tokenCount": "2",
+  "uri": "https://namesapi.kingfinance.co/names/nameFromTokenId?tokenId=1",
+  "metadata": {
+    "description": "KingFlokiWorld Name",
+    "external_url": "https://kingfloki.finance/",
+    "image": "https://namesapi.kingfinance.co/imageFromTokenId?tokenId=1",
+    "name": "Benson",
+    "attributes": [
+      {
+        "trait_type": "Owner",
+        "value": "0x8E9aAaA98e3f78f13da0A0A5291Aa36f4e5b5aD5"
+      }
+    ]
+  }
+}

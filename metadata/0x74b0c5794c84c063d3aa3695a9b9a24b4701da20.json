@@ -1,0 +1,92 @@
+{
+  "address": "0x74b0c5794c84c063d3aa3695a9b9a24b4701da20",
+  "type": "ERC721",
+  "name": "112safdsafdsaf",
+  "tokenCount": "222",
+  "uri": "https://api.artblocks.io/token/226000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "226000001",
+    "series": 5,
+    "aspect_ratio": 0.75,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Getijde #1",
+    "minted": true,
+    "artist": "Bart Simons",
+    "description": "The algorithm that was built for Getijde (Dutch for 'Tide') was meticulously designed. It's the result of spending most of the year cooped up inside four walls with a strong desire to escape. Countless hours were spent perfecting details to guarantee that each mint will be of high enough quality to be exhibited on screens and in print.",
+    "script_type": "p5@1.0.0",
+    "project_id": "226",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/226000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/226000001.png",
+    "generator_url": "https://generator.artblocks.io/226000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/226000001",
+    "royaltyInfo": {
+      "artistAddress": "0x5079a8ada8772f850e2eb94a7571c1a358d4cd43",
+      "additionalPayee": "0x5079a8ada8772f850e2eb94a7571c1a358d4cd43",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": "0"
+    },
+    "collection_name": "Getijde by Bart Simons",
+    "website": "https://www.bartsimons.com",
+    "token_hash": "0x5260a3582c143540eecb9695dc7107bdbb59bebb9b7f0873634836ce7d4c6080",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/226/tokens/226000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/226000001",
+    "features": {
+      "Rain": "No",
+      "Birds": "No",
+      "Scene": "Full",
+      "Stars": "No",
+      "Clouds": "No",
+      "Linebreaks": "Frequent",
+      "Wave Spacing": "Dense",
+      "Color palette": "Wadden",
+      "Wave Distribution": "Even"
+    },
+    "traits": [
+      {
+        "trait_type": "Getijde",
+        "value": "All Getijdes"
+      },
+      {
+        "trait_type": "Getijde",
+        "value": "Rain: No"
+      },
+      {
+        "trait_type": "Getijde",
+        "value": "Birds: No"
+      },
+      {
+        "trait_type": "Getijde",
+        "value": "Scene: Full"
+      },
+      {
+        "trait_type": "Getijde",
+        "value": "Stars: No"
+      },
+      {
+        "trait_type": "Getijde",
+        "value": "Clouds: No"
+      },
+      {
+        "trait_type": "Getijde",
+        "value": "Linebreaks: Frequent"
+      },
+      {
+        "trait_type": "Getijde",
+        "value": "Wave Spacing: Dense"
+      },
+      {
+        "trait_type": "Getijde",
+        "value": "Color palette: Wadden"
+      },
+      {
+        "trait_type": "Getijde",
+        "value": "Wave Distribution: Even"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

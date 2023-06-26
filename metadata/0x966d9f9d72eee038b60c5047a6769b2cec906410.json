@@ -1,0 +1,36 @@
+{
+  "address": "0x966d9f9d72eee038b60c5047a6769b2cec906410",
+  "type": "ERC721",
+  "name": "DentistCoinNFT",
+  "tokenCount": "601",
+  "uri": "http://3.16.166.2/metadata/1",
+  "metadata": {
+    "id": "1",
+    "name": "DentistCoin NFT #1",
+    "description": "DentistCoin NFT is where dental care, patients, dentists, NFTs and cryptocurrencies come together to bring more smiles into the world.",
+    "image": "https://dentistcoinnft.s3.us-east-2.amazonaws.com/DEN_NFTs_FINAL/1.png",
+    "external_url": "https://dentistcoin.io/",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Category Number",
+        "value": 1
+      },
+      {
+        "trait_type": "Category",
+        "value": "Sun"
+      },
+      {
+        "value": "VIP"
+      },
+      {
+        "value": "More Coins"
+      }
+    ],
+    "categoryName": "Sun",
+    "categoryId": 1,
+    "dentistCoinAirdropAmount": 21000000,
+    "nftPrice": 460,
+    "numberOfNFTsInCategory": 4
+  }
+}

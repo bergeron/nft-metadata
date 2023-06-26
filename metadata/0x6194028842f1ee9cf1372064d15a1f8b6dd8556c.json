@@ -1,0 +1,49 @@
+{
+  "address": "0x6194028842f1ee9cf1372064d15a1f8b6dd8556c",
+  "type": "ERC721",
+  "name": "THE FUNKY CATS",
+  "tokenCount": "1499",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmesjdGnKQdbnUzA79qSLm1uMABxzR1um349y1u9CZERww/1",
+  "metadata": {
+    "name": "Funky Cat #1",
+    "symbol": "FKCS",
+    "image": "https://bafybeid7z4ks766gl7dwrlvae7nyyk6cq35eteocjrhchxtyhko72clkt4.ipfs.dweb.link/1.png",
+    "description": "1499 of the worlds funkiest cats showing off on the ethereum blockchain",
+    "external_url": "https://www.funkycatsnft.xyz",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Colorful"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Pattern"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Comical"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Cyber-View"
+      }
+    ],
+    "collection": {
+      "name": "Funky Cats",
+      "family": "Funky Cats"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://bafybeid7z4ks766gl7dwrlvae7nyyk6cq35eteocjrhchxtyhko72clkt4.ipfs.dweb.link/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
+}

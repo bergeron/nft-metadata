@@ -1,0 +1,43 @@
+{
+  "address": "0x47fc0d7148aba332c4267e2a508ac5eeb16c5a6d",
+  "type": "ERC721",
+  "name": "MetaShip",
+  "tokenCount": "783",
+  "uri": "https://api.metaships.io/api/v1/ships/1",
+  "metadata": {
+    "success": true,
+    "id": 1,
+    "image": "https://api.metaships.io/api/v1/ships/1.png",
+    "attributes": [
+      {
+        "trait_type": "Generation",
+        "value": 0,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Efficiency",
+        "value": 63
+      },
+      {
+        "trait_type": "Build Quality",
+        "value": 78
+      },
+      {
+        "trait_type": "Meta",
+        "value": 86
+      },
+      {
+        "trait_type": "Rarity",
+        "value": 76
+      }
+    ],
+    "parts": {
+      "trail": "rainbow.png",
+      "base": "uncommon.png",
+      "visor": "uncommon.png",
+      "stripe": "rare.png",
+      "engine": "uncommon.png",
+      "cargo": "uncommon.png"
+    }
+  }
+}

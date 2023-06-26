@@ -1,0 +1,27 @@
+{
+  "address": "0xbcd154626066917fac34f143be647d9accae4a88",
+  "type": "ERC721",
+  "name": "this is a test collector",
+  "tokenCount": "4",
+  "uri": "ipfs://bafybeifjuqvzhba2ngsydhx7k55fgyjmkwdygfmp3po5bpgvfn6hastvay/1",
+  "metadata": {
+    "name": "testyyyyy #1",
+    "description": "testtttt",
+    "image": "ipfs://bafybeid23jhqkdcqt3ba4cevb2jqhgteegvfqicftducz5aljltmocdtzu/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "New Project"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "shirt"
+      },
+      {
+        "trait_type": "hat",
+        "value": "yellowhat"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0x55efc18b06d455bff9830969b0f9935052ad63c2",
+  "type": "ERC721",
+  "name": "ETHRank Season Three Dynamic Badges",
+  "tokenCount": "45",
+  "uri": "https://mint.ethrank.io/api/metadata/3/1.json",
+  "metadata": {
+    "name": "ETHRank Season 3 Badge #1 by hacker.crypto",
+    "description": "hacker.crypto is ranked #4531, with a score of 930. ETHRank is the Ethereum Leaderboard. Check your rank at ETHRank.io.",
+    "image": "https://mint.ethrank.io/api/badges/3/1.svg",
+    "attributes": [
+      {
+        "trait_type": "Score",
+        "value": 930
+      },
+      {
+        "trait_type": "Rank",
+        "value": 4531
+      },
+      {
+        "trait_type": "Season",
+        "value": "3"
+      },
+      {
+        "trait_type": "Version",
+        "value": "2023.1.0"
+      }
+    ]
+  }
+}

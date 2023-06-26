@@ -1,0 +1,33 @@
+{
+  "address": "0x6b3dc4fe3867cac2873611421d0f6d945ed059f5",
+  "type": "ERC721",
+  "name": "VideoPaintings (Blank.art)",
+  "tokenCount": "3",
+  "uri": "https://ipfs.blanknetwork.com/ipfs/QmXD6ontSg4gncUoZrpSYs9VdsgeqrcCyspXGPHgzRwCmi",
+  "metadata": {
+    "name": "Lurker Moon",
+    "description": "This moon be lurkin'.\n\nSignature Videopainting by Sarah Zucker / @thesarahshow. Created in studio with 1991 Sony VideoPainter, digital animation and analog processing on VHS. Digitally Transferred in 1080p.\n\nThis piece was created as part of \"The Cosmic Joke,\" a sticker set for use with a custom zoom background tool commissioned by Giphy in August 2020. The token reflects the original pre-sticker VHS art composition, and is minted with Giphy's permission.\n\nGenesis Token #1 in VIDPAINT Contract.",
+    "attributes": [
+      {
+        "trait_type": "Series",
+        "value": "Videopainting"
+      },
+      {
+        "trait_type": "Subject",
+        "value": "Moon"
+      }
+    ],
+    "blankMode": {
+      "top": "0",
+      "left": "0",
+      "size": "90",
+      "background": "#000000"
+    },
+    "royalty": 1000,
+    "tags": [
+      "#psychedelic #VHS #trippy #moon #neon #weird"
+    ],
+    "image": "https://ipfs.blanknetwork.com/ipfs/QmeYBnmSt5zkcWK79dE1sxyRPnRKztKsshEmHM4b8vjJ7A",
+    "mimetype": "image/gif"
+  }
+}

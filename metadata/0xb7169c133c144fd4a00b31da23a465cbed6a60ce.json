@@ -1,0 +1,49 @@
+{
+  "address": "0xb7169c133c144fd4a00b31da23a465cbed6a60ce",
+  "type": "ERC721",
+  "name": "Cibo Masku by Foodmasku",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/ncFoMYySmiPWhD3hWRcGy8XtYNelRinTIii0DGfnOzE",
+  "metadata": {
+    "name": "Prosecco and Grapes Mask",
+    "created_by": "foodmasku",
+    "description": "Cibo Masku 2022 #1",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "foodmasku"
+      },
+      {
+        "trait_type": "food",
+        "value": "green grapes"
+      },
+      {
+        "trait_type": "drink",
+        "value": "prosecco"
+      }
+    ],
+    "animation_details": {
+      "bytes": 75933391,
+      "format": "MP4",
+      "duration": 49,
+      "sha256": "b6f4b6d3808876fba3a32dfc22b1a7c43f417874d7dacb410b0c000174c63b01",
+      "width": 720,
+      "height": 1280,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/aYdGEcOB-dlax5ctkXbv09X2hYQvLa3a-LGxtbs6iBI",
+    "animation_url": "https://arweave.net/aYdGEcOB-dlax5ctkXbv09X2hYQvLa3a-LGxtbs6iBI",
+    "image_details": {
+      "bytes": 2776230,
+      "format": "JPEG",
+      "sha256": "e7e55b93e2cd41cb0fc6228da3747365c5a4c24cb2064c5b29636d0964d82aec",
+      "width": 2500,
+      "height": 2500
+    },
+    "image": "https://arweave.net/uTgfunw28HqWlMW7neDcIywxfAO4CkQ1i_iRKzjucqI",
+    "image_url": "https://arweave.net/uTgfunw28HqWlMW7neDcIywxfAO4CkQ1i_iRKzjucqI"
+  }
+}

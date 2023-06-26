@@ -1,0 +1,52 @@
+{
+  "address": "0xd754937672300ae6708a51229112de4017810934",
+  "type": "ERC721",
+  "name": "Deafbeef",
+  "tokenCount": "223",
+  "uri": "https://www.deafbeef.com/tokens/1",
+  "metadata": {
+    "description": "DEAFBEEF: Generative On-Chain Multimedia Art \n\nThe code and parameters to generate and reconstruct these multimedia files is stored on \nthe Ethereum blockchain.\n\nSeries 0 - Synth Poems - Token 1\n\nSynth Poems are 1min generative audiovisual pieces using FM synthesis, and XY oscilloscope visualization. Each entirely generated unsupervised by a self contained code model, which is stored on chain. \n\n<p> Frequency Modulation(FM) is a method that was used in broadcasting radio signals, later discovered to be useful for audio synthesis allowing a simply way to generate rich harmonic timbres. The left and right stereo audio channels are mapped to the XY inputs of a (virtual) oscilloscope to produce a direct visualization of the audio waveform. \n\n<p>  At the musical level, this generative algorithm plays with feedback to produce an evolving but balanced set of timbres and pitches.  Across pieces, a carefully selected set of rules govern the variation of tempos, time signatures, (in)harmonicity  resulting in individual pieces that are unique, while retaining a common theme.\n",
+    "external_url": "https://www.deafbeef.com/item/1",
+    "image": "https://www.deafbeef.com/media/1/image.jpg?a=445",
+    "animation_url": "https://www.deafbeef.com/media/1/audiovisual_opensea.mp4",
+    "name": "DEAFBEEF Series 0: Synth Poems - Token 1",
+    "attributes": [
+      {
+        "trait_type": "Series",
+        "value": "0"
+      },
+      {
+        "trait_type": "Tempo",
+        "value": "Very Fast"
+      },
+      {
+        "trait_type": "BPM",
+        "value": "771.07"
+      },
+      {
+        "trait_type": "Tonality",
+        "value": "lydian"
+      },
+      {
+        "trait_type": "Fundamental Freq",
+        "value": "66.287"
+      },
+      {
+        "trait_type": "Beats per Measure",
+        "value": "12"
+      },
+      {
+        "trait_type": "Pitch Pattern Length",
+        "value": "6"
+      },
+      {
+        "trait_type": "Pitch Variability",
+        "value": "0"
+      },
+      {
+        "trait_type": "Inharmonic",
+        "value": "No"
+      }
+    ]
+  }
+}

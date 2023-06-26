@@ -1,0 +1,23 @@
+{
+  "address": "0xff6f2104538e4042eec430fe5e65a3da66663af5",
+  "type": "ERC721",
+  "name": "Canine Portrait Tokens",
+  "tokenCount": "1",
+  "uri": "ipfs://QmWBFok2axbX8ghjVNCAijkgCHJi2gafXnCS7111TePWyj/1",
+  "metadata": {
+    "name": "1",
+    "description": "This token is redeemable for a custom painting and new NFT of your favorite pup...or cat, I guess",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "Redeemable"
+      },
+      {
+        "trait_type": "Breed",
+        "value": "Beagle"
+      }
+    ],
+    "project_specific_property": 606,
+    "image": "ipfs://QmUBYJudotMLZsm8RjdVthEA2iQhABz7N4MgQXPpYfTxoY/1.jpg"
+  }
+}

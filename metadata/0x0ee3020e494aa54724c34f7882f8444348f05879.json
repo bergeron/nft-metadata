@@ -1,0 +1,18 @@
+{
+  "address": "0x0ee3020e494aa54724c34f7882f8444348f05879",
+  "type": "ERC721",
+  "name": "Dummie Heads Factory",
+  "tokenCount": "1",
+  "uri": "https://6bba27m936.execute-api.us-east-2.amazonaws.com/prod/factory/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "number_inside",
+        "value": 1
+      }
+    ],
+    "description": "When you purchase this option, you will receive one Dummie Head of random variety.",
+    "image": "https://dummieheads.s3.us-east-2.amazonaws.com/dummieheads.gif",
+    "name": "One Dummie Head"
+  }
+}

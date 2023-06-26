@@ -1,0 +1,28 @@
+{
+  "address": "0xcc17eb4919781b99294c26d0e9fb67b60db5cf9d",
+  "type": "ERC721",
+  "name": "NotAPaperclip V1",
+  "tokenCount": "8",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=DWBHQ44CLmMkgdmS4grY",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1584166898116?alt=media&token=a18e3fc6-8e45-46a0-9874-df2dbd45ed5d",
+    "forSale": true,
+    "description": "Exhibitor token for the inaugural Not A Paperclip Swap Meet",
+    "contractAddress": "0xcc17eb4919781b99294c26d0e9fb67b60db5cf9d",
+    "tags": [],
+    "amountToMint": 8,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1584167190,
+      "_nanoseconds": 533000000
+    },
+    "price": ".3",
+    "name": "Not a Paperclip X",
+    "fiatPrice": "$39.59",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0xcc17eb4919781b99294c26d0e9fb67b60db5cf9d",
+    "type": "ERC721"
+  }
+}

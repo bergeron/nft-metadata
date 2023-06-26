@@ -1,0 +1,38 @@
+{
+  "address": "0x71f9ce1eb675e7621f381981316ca6e394a3a455",
+  "type": "ERC721",
+  "name": "Ghost Pacpunks",
+  "tokenCount": "1",
+  "uri": "ipfs://QmTDESXNDpsNWbjDHyHhYyWZBj47wFiugr3xdRViwdkm2r/1.json",
+  "metadata": {
+    "name": "Ghost Punks #1",
+    "description": "A collection of Ghost Punks spooking on the Ethereum blockchain.",
+    "image": "ipfs://QmQcF7HfvHSYEaJcCWESwgoVnqG7Da3ocuxgCQte17fsUM/1.png",
+    "dna": "80353b826439eb5e02e9c8dc62056a186d14aafe",
+    "edition": 1,
+    "date": 1641084115019,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Frown"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Bandana"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Regular_Shades"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Cigarette"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

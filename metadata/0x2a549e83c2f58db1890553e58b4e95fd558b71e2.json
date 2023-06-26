@@ -1,0 +1,24 @@
+{
+  "address": "0x2a549e83c2f58db1890553e58b4e95fd558b71e2",
+  "type": "ERC721",
+  "name": "Cornerstone: Companions",
+  "tokenCount": "5000",
+  "uri": "ipfs://Qmcg3Zf8bDH4hbpjd942tymtgLx1VqNypJr95qZsJMk4n4/1",
+  "metadata": {
+    "name": "Companion #1",
+    "image": "ipfs://QmSRkk4SQCN6VVTSQH7WKjNjefT9VBHDxGSbt8naQsfUJh/Aquatics/Aqu_18.jpg",
+    "imageUrlStage1": "https://cornerstone-companions-public-prod.s3.eu-west-1.amazonaws.com/stage1/Aqu.jpg",
+    "imageUrlStage2": "https://cornerstone-companions-public-prod.s3.eu-west-1.amazonaws.com/stage2/Aquatics/Aqu_18.jpg",
+    "currentStage": 2,
+    "attributes": [
+      {
+        "trait_type": "Creature type",
+        "value": "Aquatic"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Violet eclipse"
+      }
+    ]
+  }
+}

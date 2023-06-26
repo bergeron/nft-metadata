@@ -1,0 +1,50 @@
+{
+  "address": "0x62d4b3f75916bee93224ac7a1f2d5b235c744269",
+  "type": "ERC721",
+  "name": "ABRACADABRA",
+  "tokenCount": "120",
+  "uri": "ipfs://Qma7cMWKYJRes2H6G4Hb28SXdq2HWQ9dVEvS1r784SLkL4/1",
+  "metadata": {
+    "name": "ABRACADABRA #3779",
+    "description": "From powerful sorcerers to mischievous enchanters, this collection has it all. Sit back, relax, and let Abracadabra take you on a whimsical journey through the realm of magic and wonder.",
+    "image": "ipfs://QmQb9GTRn62erRCkm3waxLenVqxT3jwpWrG8dwrbgJv66E/1.gif",
+    "properties": {
+      "creators": [
+        {
+          "address": "DDGZg8DWXk6QgixH74DRN1m8i9mjktNcgeuAhxKKRsj9",
+          "share": 100
+        }
+      ],
+      "files": [
+        {
+          "uri": "https://bafybeibbegzgr4aal35uczh7ovrksmf3wlwgjqxmipke3erdqherml2ity.ipfs.nftstorage.link//2635.gif",
+          "type": "image/gif"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Crimson"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Space wizard"
+      },
+      {
+        "trait_type": "Suit",
+        "value": "Wizard"
+      },
+      {
+        "trait_type": "Item",
+        "value": "Diamond"
+      }
+    ],
+    "symbol": "ABRA",
+    "seller_fee_basis_points": 500,
+    "collection": {
+      "name": "Abracadabra",
+      "family": "Abracadabra"
+    }
+  }
+}

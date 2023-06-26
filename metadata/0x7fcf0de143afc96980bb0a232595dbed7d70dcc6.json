@@ -1,0 +1,56 @@
+{
+  "address": "0x7fcf0de143afc96980bb0a232595dbed7d70dcc6",
+  "type": "ERC1155",
+  "name": "Iterative Sandbox",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/tp72xVTLI6PQBxV6iA0NG8S1M0UvjPazIyxKusB0KWo",
+  "metadata": {
+    "name": "sandbox_cube",
+    "created_by": "𝚒𝚝𝚎𝚛𝚊𝚝𝚒𝚟𝚎",
+    "external_url": "https://iterative.wtf",
+    "description": "Airdrop #1 for IMP holders\n\nCartesian coordinates translated into spherical coordinates, from a pure fractal.\n\nClick to interact with rotation",
+    "animation_url": "https://l6asebpltqusfxdj76fpz4kbsclocbmgfpfoizqggnvsqqggfajq.arweave.net/X4EiBeucKSLcaf-K_PFBkJbhBYYryuRmBjNrKEDGKBM/",
+    "animation_details": {
+      "format": "HTML"
+    },
+    "attributes": [
+      {
+        "trait_type": "environment",
+        "value": "sandbox"
+      },
+      {
+        "trait_type": "access",
+        "value": "airdrop"
+      },
+      {
+        "trait_type": "type",
+        "value": "fractal"
+      },
+      {
+        "trait_type": "max. iterations",
+        "value": "33"
+      },
+      {
+        "value": "10",
+        "trait_type": "order"
+      },
+      {
+        "value": "interactive",
+        "trait_type": "rotation"
+      },
+      {
+        "value": "(0 + random(30)), (70 + random(30)), (90 + random(10))",
+        "trait_type": "HSB values"
+      }
+    ],
+    "image_details": {
+      "bytes": 582156,
+      "format": "PNG",
+      "sha256": "98f1a7365d6a49c71a1e9f8a41eaef88d3079812e1548af212cf73db9769602d",
+      "width": 1462,
+      "height": 1462
+    },
+    "image": "https://arweave.net/VYcQC6n5QpkS1lvIIrNxhkpyGbdMyNa-VuOsAp7eHT4",
+    "image_url": "https://arweave.net/VYcQC6n5QpkS1lvIIrNxhkpyGbdMyNa-VuOsAp7eHT4"
+  }
+}

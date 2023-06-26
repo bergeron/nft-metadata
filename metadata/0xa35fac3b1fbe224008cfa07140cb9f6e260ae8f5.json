@@ -1,0 +1,53 @@
+{
+  "address": "0xa35fac3b1fbe224008cfa07140cb9f6e260ae8f5",
+  "type": "ERC721",
+  "name": "GoblinBokitown.wtf",
+  "tokenCount": "4000",
+  "uri": "ipfs://QmNzmfY85WGj8PAniuo7zEnsHVTP4eVsTe1XzsaHCrni3u/1.json",
+  "metadata": {
+    "name": "Goblinboki #1",
+    "description": "Welcome to the world of Goblin Boki!",
+    "file_url": "ipfs://NewUriToReplace/1.png",
+    "image": "ipfs://QmdzvX7pgUBhJGTynPyU3NaH2cdqQWSnKZjNYC3RvdDHF6/1.png",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "5"
+      },
+      {
+        "trait_type": "BaseCharacter",
+        "value": "15"
+      },
+      {
+        "trait_type": "face",
+        "value": "6"
+      },
+      {
+        "trait_type": "glasses",
+        "value": "26"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "31"
+      }
+    ],
+    "custom_fields": {
+      "dna": "bf1257c7c18bfa5218160ba1678df44b4794bbb7",
+      "edition": 1,
+      "date": 1654599445942,
+      "compiler": "HashLips Art Engine - codeSTACKr Modified"
+    },
+    "external_url": "",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "properties": {
+      "creators": []
+    },
+    "collection": {
+      "name": "Goblinbokitown",
+      "family": "Goblinbokitown"
+    },
+    "symbol": "",
+    "compiler": "https://nft-generator.art/"
+  }
+}

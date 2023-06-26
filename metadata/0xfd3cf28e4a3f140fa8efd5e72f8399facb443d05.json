@@ -1,0 +1,84 @@
+{
+  "address": "0xfd3cf28e4a3f140fa8efd5e72f8399facb443d05",
+  "type": "ERC721",
+  "name": "Hedgey Santa.FM Special Edition",
+  "tokenCount": "14",
+  "uri": "ipfs://QmRjKCbNAgMuYVDzioT5ANCC7W9qR7rxUDJmNQXTjQJK6e/1",
+  "metadata": {
+    "name": "Hedgey Santa.FM #1",
+    "description": "This NFT represents a present of locked liquid staked Ether. You can redeem this NFT for the wstETH after the unlock date shown below.\n\n The token locked is: [wstETH](https://etherscan.io/token/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0)\n\n Tokens Locked: 0.07\n\n Unlock Date: Jan 25, 2023",
+    "image": "ipfs://QmVzj9B7c7S2jwtUNo6nAmX4goB4TqUFKVQz3Q2YwumbtH/1.png",
+    "dna": "edb669197a229e2147cb5940b05b9fc52009d1bd",
+    "edition": 1,
+    "date": 1671926400000,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Ethereum_Gray"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Bubblegum"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Hedgey_T_White"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bubblegum_Tongue"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Bubblegum"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Santa_Hat"
+      },
+      {
+        "trait_type": "Laser Eyes",
+        "value": "None"
+      },
+      {
+        "trait_type": "Token_Collateral",
+        "value": "wstETH: 0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0"
+      },
+      {
+        "trait_type": "Tokens_Locked",
+        "value": "0.07"
+      },
+      {
+        "trait_type": "Unlock_Date",
+        "value": "1674604800",
+        "display_type": "date"
+      },
+      {
+        "trait_type": "Number_Of_Locked_Tokens",
+        "value": 0.07,
+        "display_type": "number"
+      }
+    ],
+    "series": "1",
+    "external_url": "https://app.hedgey.finance/contributor-rewards",
+    "network": "Ethereum",
+    "assetCurrency": {
+      "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "ticker": "wstETH",
+      "decimals": 18,
+      "amount": "0.07"
+    },
+    "paymentCurrency": {},
+    "unlockDate": "January 25, 2023 at 12:00:00 AM UTC",
+    "unlockTimestamp": "1674604800"
+  }
+}

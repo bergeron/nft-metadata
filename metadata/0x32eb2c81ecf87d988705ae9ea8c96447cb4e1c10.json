@@ -1,0 +1,45 @@
+{
+  "address": "0x32eb2c81ecf87d988705ae9ea8c96447cb4e1c10",
+  "type": "ERC721",
+  "name": "SeanMick",
+  "tokenCount": "34",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=72hM9aDm4D7omAX29SGk",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1584990626702?alt=media&token=c7c373c2-3a90-45bd-8d91-bdcd352e6f1c",
+    "forSale": true,
+    "contractAddress": "0x32eb2c81ecf87d988705ae9ea8c96447cb4e1c10",
+    "description": "Geometric abstract by Sean Mick",
+    "tags": [],
+    "amountToMint": 25,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1584991570,
+      "_nanoseconds": 620000000
+    },
+    "price": "1",
+    "name": "Who's Laughing Now",
+    "fiatPrice": "$131.16",
+    "attributes": [
+      {
+        "trait_type": "location",
+        "value": "Miami, FL, USA"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJEcHIDqKw2YgRZU-t3XHylv8"
+      },
+      {
+        "trait_type": "website",
+        "value": "www.seanmick.com"
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x32eb2c81ecf87d988705ae9ea8c96447cb4e1c10",
+    "type": "ERC721"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "address": "0x72d4174a47218f60f16569823c14682869a13084",
+  "type": "ERC721",
+  "name": "Tenshi Akuma",
+  "tokenCount": "3000",
+  "uri": "https://tenshi-akuma.s3.ap-southeast-1.amazonaws.com/metadata/2.json",
+  "metadata": {
+    "name": "Tenshi Akuma #2",
+    "description": "Tenshi Akuma",
+    "image": "https://tenshi-akuma.s3.ap-southeast-1.amazonaws.com/image/2.png",
+    "edition": 2,
+    "date": 1665291863558,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cherry Blossom"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Golden"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smirk"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Icy Blue"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Kawaii Pink"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "LBD"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Sad"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Floral Headband"
+      },
+      {
+        "trait_type": "Special Attributes",
+        "value": "Starry Nights"
+      }
+    ]
+  }
+}

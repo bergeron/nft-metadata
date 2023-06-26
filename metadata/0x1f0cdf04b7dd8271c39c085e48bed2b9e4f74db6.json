@@ -1,0 +1,21 @@
+{
+  "address": "0x1f0cdf04b7dd8271c39c085e48bed2b9e4f74db6",
+  "type": "ERC721",
+  "name": "Freaky Ape Club",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmbwSLmSB2956xFD8UDLy7yLfpdV6JvmWW9GKPzswrJ1Qb/1.json",
+  "metadata": {
+    "name": "Freaky Ape Club #1",
+    "description": "10 000 Freaky Ape Club",
+    "image": "https://okayapes.s3.us-west-1.amazonaws.com/imgs/okayapes-img-1.png",
+    "edition": 1,
+    "attributes": [
+      [
+        {
+          "trait_type": "Freaky",
+          "value": "true"
+        }
+      ]
+    ]
+  }
+}

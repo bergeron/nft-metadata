@@ -1,0 +1,73 @@
+{
+  "address": "0xe0aafa99b3b642a130db277d2d55528978a86eab",
+  "type": "ERC721",
+  "name": "Tiny Heroes",
+  "tokenCount": "80",
+  "uri": "https://arweave.net/P3W7Q1J1OOjlggfaFpmEW2nS61fQ4RAOlHbnc633_vY",
+  "metadata": {
+    "name": "Ranger #1",
+    "created_by": "Jonathan Lindgren",
+    "description": "The Rangers are a League of voyagers, exploring territories few have set foot in. Although not much is thought of them, they possess abilities few know of.\n\nYou are never born into becoming a Ranger. It's a title you earn and live by, with a loyal and principled following.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Jonathan Lindgren"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Ranger"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Level 1"
+      },
+      {
+        "trait_type": "Agility",
+        "display_type": "number",
+        "value": "2",
+        "max_value": "5"
+      },
+      {
+        "trait_type": "Intellect",
+        "display_type": "number",
+        "value": "2",
+        "max_value": "5"
+      },
+      {
+        "trait_type": "Stamina",
+        "display_type": "number",
+        "value": "3",
+        "max_value": "5"
+      },
+      {
+        "trait_type": "Strength",
+        "display_type": "number",
+        "value": "3",
+        "max_value": "5"
+      }
+    ],
+    "image_details": {
+      "bytes": 13626844,
+      "format": "GIF",
+      "sha256": "df5637cd824df532f2174253b0d6fc436f0cd127e50cea825f528deaa6846101",
+      "width": 800,
+      "height": 800
+    },
+    "image": "https://arweave.net/E7HVpdlSB5NB_JpcA92rg5P8n2PSQHpBjD8OlurvBrA",
+    "image_url": "https://arweave.net/E7HVpdlSB5NB_JpcA92rg5P8n2PSQHpBjD8OlurvBrA",
+    "animation_details": {
+      "bytes": 5994166,
+      "format": "MP4",
+      "duration": 5,
+      "sha256": "dfc692c57b72b381d05fe7a3b0ac85688e268b8576aa1f6874f6d97d6ddf5680",
+      "width": 1280,
+      "height": 1280,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/y6nuvq71hV9qYF6LQ2QoIDOrt7LXBDwy_i1P1OhFK9o",
+    "animation_url": "https://arweave.net/y6nuvq71hV9qYF6LQ2QoIDOrt7LXBDwy_i1P1OhFK9o"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "address": "0x467785481482ee6b08569c52cbd4a6d264add3db",
+  "type": "ERC1155",
+  "name": "blklavas editions",
+  "tokenCount": "15",
+  "uri": "ipfs://Qmc6VY6GyUhFL8BNTsrCNJurUNWF2ZPvnM59MrfBJyYEii/1.json",
+  "metadata": {
+    "name": "blklavas Edition #1",
+    "description": "blklavas Edition",
+    "image": "ipfs://QmeMXuB3piddMqZgV8GfQcAaStGTFFLarrxReoenAwWuBj/1.jpg",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "common"
+      }
+    ],
+    "seller_fee_basis_points": 700,
+    "fee_recipient": "0x63F4c36bD548C3Ad3DD18364C987E9a062a330cE"
+  }
+}

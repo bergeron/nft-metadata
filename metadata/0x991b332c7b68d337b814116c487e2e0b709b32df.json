@@ -1,0 +1,41 @@
+{
+  "address": "0x991b332c7b68d337b814116c487e2e0b709b32df",
+  "type": "ERC721",
+  "name": "rataTestNft - old",
+  "tokenCount": "2",
+  "uri": "ipfs://QmWP481cqvm9j5t6WHjfx1wyEkvEfedu23cPgjTHDWz82J/1",
+  "metadata": {
+    "name": "#2",
+    "description": "",
+    "image": "ipfs://QmWeopAeysHm4FeWVrYuRjhQpa1UrNEeCubmeLZsF3qrmA/1.webp",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink"
+      },
+      {
+        "trait_type": "body",
+        "value": "14_turquoise_toxic"
+      },
+      {
+        "trait_type": "head",
+        "value": "04_White"
+      },
+      {
+        "trait_type": "face",
+        "value": "Drooling"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

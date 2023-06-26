@@ -1,0 +1,50 @@
+{
+  "address": "0xe47a928dfb6f688a421b91f81bc759c0fa9c3a13",
+  "type": "ERC1155",
+  "name": "Async Room | Forever Supper",
+  "tokenCount": "5",
+  "uri": "ipfs://Qmdr1gJnqxSaSaquGgTosgVQ2W417qmx7r6utYkSSvYRXk/1/token.json",
+  "metadata": {
+    "name": "Async World",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/image/upload/w_1200/v1681765819/0x9671a3fbbfb13d68e5770afed424f8915ea0ada3/643db4b3ee35bb6d1833053e/stateCovers/ybklqx8csx3wemuxdd8u.jpg",
+    "description": "Part of the Async Room pack.\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Async"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "Async Room"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0x60874f721a66a2b9018c7cacc46151708864f52d"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Outside",
+              "state": {
+                "label": "Async World",
+                "uri": "Qmc8mJKBKyjwYnMdV9JzGxtzojGQtKdHGVfPr1vhpAJNVc"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

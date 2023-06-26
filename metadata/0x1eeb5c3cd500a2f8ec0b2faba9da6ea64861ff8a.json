@@ -1,0 +1,55 @@
+{
+  "address": "0x1eeb5c3cd500a2f8ec0b2faba9da6ea64861ff8a",
+  "type": "ERC721",
+  "name": "shaxinxing",
+  "tokenCount": "4",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=JunnpfaoQiD9UzgV9UyZ",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1588314212615?alt=media&token=7c53cdc5-89f9-40a0-a060-28db3f62b0ae",
+    "forSale": true,
+    "contractAddress": "0x1eeb5c3cd500a2f8ec0b2faba9da6ea64861ff8a",
+    "description": "在敦煌旅游时拍摄的照片，沙漠一望无际，旅人独自前行，天空飞机掠过的痕迹像是飞过的流星",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1588314362,
+      "_nanoseconds": 544000000
+    },
+    "price": "0.02",
+    "name": "在敦煌",
+    "fiatPrice": "$4.28",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": ""
+      },
+      {
+        "trait_type": "location",
+        "value": "Dunhuang, Jiuquan, Gansu, China"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJMXJzSkrB6jcRcsi_xsC_YXQ"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1588262400
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": 1588348800
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x1eeb5c3cd500a2f8ec0b2faba9da6ea64861ff8a",
+    "type": "ERC721"
+  }
+}

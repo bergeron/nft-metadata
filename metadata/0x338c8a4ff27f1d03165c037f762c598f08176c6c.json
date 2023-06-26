@@ -1,0 +1,29 @@
+{
+  "address": "0x338c8a4ff27f1d03165c037f762c598f08176c6c",
+  "type": "ERC721",
+  "name": "BLVD",
+  "tokenCount": "679",
+  "uri": "https://raw.githubusercontent.com/BULVRD-Tech/BULVRD.ERC721-Collectibles/master/giveaways/beta_users/veh_beta.json",
+  "metadata": {
+    "name": "BLVD Collectible Beta Tester Reward",
+    "image": "https://raw.githubusercontent.com/BULVRD-Tech/BULVRD.ERC721-Collectibles/master/giveaways/beta_users/veh_beta.png",
+    "description": "Reward to active active beta testers of the BULVRD Drive apps!",
+    "attributes": [
+      {
+        "trait_type": "series",
+        "value": "Beta Tester"
+      },
+      {
+        "trait_type": "level",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "supply",
+        "value": 500
+      }
+    ],
+    "external_url": "https://bulvrdapp.com/#app",
+    "background_color": "141414"
+  }
+}

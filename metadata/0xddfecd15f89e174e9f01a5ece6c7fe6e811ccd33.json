@@ -1,0 +1,72 @@
+{
+  "address": "0xddfecd15f89e174e9f01a5ece6c7fe6e811ccd33",
+  "type": "ERC721",
+  "name": "Top Cat Beach Club",
+  "tokenCount": "6885",
+  "uri": "https://api.topdogbeachclub.com/cat/1",
+  "metadata": {
+    "external_url": "https://topdogbeachclub.com/gallery/cat/1",
+    "tokenId": 1,
+    "dog_tag": false,
+    "image": "https://tdbc.mypinata.cloud/ipfs/QmSQ1swwfsWTXT82tgRhXbAFvX4iCTCVAgJUAVJd6PgqBZ",
+    "status": "CAT",
+    "images": {
+      "small": "https://doggos.s3.us-east-2.amazonaws.com/images/cats/1.jpg"
+    },
+    "attributes": [
+      {
+        "value": "Black & Purple",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Grumpy",
+        "trait_type": "Fur"
+      },
+      {
+        "value": "Yellow Mischeif",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "Turtle Shell (Prehistoric)",
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "Worried",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": 49,
+        "trait_type": "Intelligence"
+      },
+      {
+        "value": 2,
+        "trait_type": "Mischievousness"
+      },
+      {
+        "value": 60,
+        "trait_type": "Strength"
+      },
+      {
+        "value": 5,
+        "trait_type": "Loyalty"
+      },
+      {
+        "value": 66,
+        "trait_type": "Aggressiveness"
+      },
+      {
+        "value": 44,
+        "trait_type": "Friendliness"
+      },
+      {
+        "value": "The Steampunks",
+        "trait_type": "Pack"
+      },
+      {
+        "trait_type": "TraitCount",
+        "value": 12
+      }
+    ],
+    "name": "Top Cat #1"
+  }
+}

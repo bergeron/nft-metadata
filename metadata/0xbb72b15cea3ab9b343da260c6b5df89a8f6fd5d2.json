@@ -1,0 +1,28 @@
+{
+  "address": "0xbb72b15cea3ab9b343da260c6b5df89a8f6fd5d2",
+  "type": "ERC1155",
+  "name": "NFT_Postcards",
+  "tokenCount": "1",
+  "uri": "ipfs://QmcWocPZ4PccpcJfEA86JYGpbWxnTQMxE3mhr5WTtnpxuu",
+  "metadata": {
+    "name": "XMAS'21 Postcard",
+    "description": "Dynamic Christmas postcard that changes scenery between Day & Night, based on the time user is viewing this NFT.",
+    "external_url": "https://nftpostcards.xyz/",
+    "image": "ipfs://QmQcmG7VsAAd4T7wAakG2N1d4Vw5JdhLxXqqHraA93XwGU",
+    "animation_url": "ipfs://QmY1nh5gAtzwaPoZXHvFC85Eerpd3ALFu4YgePAKXDPxdP",
+    "properties": [
+      {
+        "display_type": "number",
+        "trait_type": "Year",
+        "value": 2021
+      },
+      {
+        "trait_type": "Dynamic",
+        "value": "Yes"
+      }
+    ],
+    "interactive_nft": {
+      "code_uri": "ipfs://QmY1nh5gAtzwaPoZXHvFC85Eerpd3ALFu4YgePAKXDPxdP"
+    }
+  }
+}

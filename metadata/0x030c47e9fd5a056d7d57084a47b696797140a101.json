@@ -1,0 +1,41 @@
+{
+  "address": "0x030c47e9fd5a056d7d57084a47b696797140a101",
+  "type": "ERC721",
+  "name": "Luminaries_NFT",
+  "tokenCount": "132",
+  "uri": "ipfs://QmZrCpPUkQVQaafMKeM8DKtGVikBgQBD3LHzrybHqKswfP/1.json",
+  "metadata": {
+    "name": "Luminaries #1",
+    "description": "The Space Station is an immersive visionary art and community space. We offer a state of the art venue for events, workshops, ceremonies, art, music, and gatherings.",
+    "external_url": "",
+    "image": "ipfs://QmbZrWEnf6p9TrYV1U8fz3oSXeTfWBhK23ECuCc6VWVECy/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background_Lucid"
+      },
+      {
+        "trait_type": "Geometry",
+        "value": "Geometry_Void"
+      },
+      {
+        "trait_type": "Hoods",
+        "value": "Red Spirit Accessory"
+      },
+      {
+        "trait_type": "Staff",
+        "value": "OFF"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "NFT Constructer"
+  }
+}

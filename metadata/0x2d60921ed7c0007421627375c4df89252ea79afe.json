@@ -1,0 +1,38 @@
+{
+  "address": "0x2d60921ed7c0007421627375c4df89252ea79afe",
+  "type": "ERC721",
+  "name": "PixCats NFT - old",
+  "tokenCount": "3",
+  "uri": "ipfs://QmVJo7iqPk1TSMs7cYW6bizYjbNEubYRSJUyJxk6EG4czK/1.json",
+  "metadata": {
+    "name": "sevencats.wtf #1",
+    "description": "",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "f54c157a6a8343d2d33abb189cb29e9b969d7d69",
+    "edition": 1,
+    "date": 1656228729433,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cool Gray"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Overalls Pink"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Sunglasses Squad"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Afro Rainbow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

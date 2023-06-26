@@ -1,0 +1,28 @@
+{
+  "address": "0x2999ef1f9c3ccc92ddb32cde7848eb1f2096fbd0",
+  "type": "ERC721",
+  "name": "Vip NFT Club",
+  "tokenCount": "3",
+  "uri": "ipfs://bafyreidc7ottd6rlt3eqlddzxzl3tvapyg3zd4v2pgkeb2vkockifezgly/metadata.json",
+  "metadata": {
+    "name": "VNC #1",
+    "description": "VIP NFT CLUB is a collection of 100 unique NFTs. Each NFT also serves as VIP NFT CLUB membership card and provides access to member-only benefits including a private area, business opportunities, parties and activities.",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black Lys"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Border",
+        "value": "Gold"
+      }
+    ],
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0x550888686083366a67028546901F3b13cc8954d3",
+    "image": "ipfs://bafybeihel36wvlonuemaep6zr3vohcixebocc3rr2viwfga5snvtbzdaxi/1.png"
+  }
+}

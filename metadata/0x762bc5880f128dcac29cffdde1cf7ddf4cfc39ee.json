@@ -1,0 +1,64 @@
+{
+  "address": "0x762bc5880f128dcac29cffdde1cf7ddf4cfc39ee",
+  "type": "ERC721",
+  "name": "Troverse Planets",
+  "tokenCount": "10000",
+  "uri": "https://mtdt.troverse.io/api/planets/1",
+  "metadata": {
+    "name": "Planet #1",
+    "image": "ipfs://QmVbX9n21TuW5YSoUwujusQZZFEBU4KvJguyMaWCFmstYq",
+    "animation_url": "ipfs://QmVAvGjNettoAfQK61Wz56VjaJfPDfGu1GmyAkj1fzvcdT",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Frozen"
+      },
+      {
+        "trait_type": "Biome",
+        "value": "Arctic"
+      },
+      {
+        "trait_type": "Formation",
+        "value": "Extreme Mountains"
+      },
+      {
+        "trait_type": "Liquid",
+        "value": "Ice 2"
+      },
+      {
+        "trait_type": "Atmosphere",
+        "value": "Purple Regular"
+      },
+      {
+        "trait_type": "Ring",
+        "value": "Asteroid Belt - Rocky"
+      },
+      {
+        "trait_type": "Star System",
+        "value": 174,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Flora Density",
+        "value": 4
+      },
+      {
+        "trait_type": "Fauna Density",
+        "value": 3
+      },
+      {
+        "trait_type": "Oxygen Level",
+        "value": 5
+      },
+      {
+        "trait_type": "Hostility Level",
+        "value": 8
+      },
+      {
+        "trait_type": "Average Temperature (C)",
+        "value": -224,
+        "display_type": "number"
+      }
+    ]
+  }
+}

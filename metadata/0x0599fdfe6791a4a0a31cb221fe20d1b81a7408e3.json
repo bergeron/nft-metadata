@@ -1,0 +1,37 @@
+{
+  "address": "0x0599fdfe6791a4a0a31cb221fe20d1b81a7408e3",
+  "type": "ERC721",
+  "name": "Alpha Cats",
+  "tokenCount": "10000",
+  "uri": "ipfs://bafybeifvcwvajuuzqdhonr7hcu5dkpr3twzb24rzpwaddmspnpl7va7c5i/1.json",
+  "metadata": {
+    "name": "Alpha Cat #1",
+    "description": "",
+    "image": "ipfs://bafybeig3iyh65bm5qqcmyp5fkimnep53rnvy54vhg7ttmjlyqdoynn2xou/1.png",
+    "dna": "022ee8bc0bc9ec6819c0ecdaa2db5fb4c4b15d64",
+    "edition": 1,
+    "date": 1664890425004,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Puffer orange"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Nerd glasses happy"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None"
+      }
+    ]
+  }
+}

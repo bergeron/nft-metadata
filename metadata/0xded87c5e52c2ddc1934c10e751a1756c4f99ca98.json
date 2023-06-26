@@ -1,0 +1,38 @@
+{
+  "address": "0xded87c5e52c2ddc1934c10e751a1756c4f99ca98",
+  "type": "ERC721",
+  "name": "Curvy Dancers",
+  "tokenCount": "192",
+  "uri": "https://art-sandbox.sunflower.industries/token/0xded87C5E52C2DDC1934c10e751A1756C4F99ca98/1",
+  "metadata": {
+    "description": "Curvy Dancers was developed as an appreciation project, free for Geometria Holders.\n\nThis project consists of randomly generated dancing figures similar to Geometria, but unique in its own way.\n\n\nThis project consists of randomly generated dancing figures similar to Geometria, but being also unique in its own way.\n\n\nEvery design and animation is completely unique and cannot be repeated.\n\nDeployed on Sunflower Industries.",
+    "dependencies": "[{\"name\":\"p5@1.4.0\",\"keccak256\":\"0xcef1df742d5237151854b6ccd3d7769c7bcb2cf987e4f8f6ca1ad69afdac3dcc\"}]",
+    "artist": "0x44150cca3BeBd0AAFbD6d5e3501aF0271b8AD023",
+    "external_url": "https://art.sunflower.industries/token/0xded87C5E52C2DDC1934c10e751A1756C4F99ca98/1",
+    "image": "https://art-sandbox.sunflower.industries/render/tokenImage/0xded87C5E52C2DDC1934c10e751A1756C4F99ca98/1",
+    "name": "Curvy Dancers #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "#fff"
+      },
+      {
+        "trait_type": "Ease",
+        "value": "false"
+      },
+      {
+        "trait_type": "Random Colors",
+        "value": "false"
+      },
+      {
+        "trait_type": "All Circles",
+        "value": "true"
+      },
+      {
+        "trait_type": "Number of Shapes",
+        "value": "141.1411306564696"
+      }
+    ],
+    "animation_url": "https://art-sandbox.sunflower.industries/tokenFrame/0xded87C5E52C2DDC1934c10e751A1756C4F99ca98/1"
+  }
+}

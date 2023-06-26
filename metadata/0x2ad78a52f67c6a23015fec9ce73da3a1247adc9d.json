@@ -1,0 +1,22 @@
+{
+  "address": "0x2ad78a52f67c6a23015fec9ce73da3a1247adc9d",
+  "type": "ERC721",
+  "name": "Selfie Camera",
+  "tokenCount": "10",
+  "uri": "data:application/json;utf8,{\"name\":\"Selfie #1\",\"description\":\"Hey. Take a selfie! This is the OG camera. Selfies expire in 24 hours.\",\"image\":\"https://heytakeaselfie.s3.us-west-2.amazonaws.com/0x2aD78A52F67c6A23015FeC9ce73Da3A1247aDc9d/camera.jpeg\", \"attributes\":[{\"trait_type\":\"Subject\",\"value\":\"probcause.eth\"},{\"trait_type\":\"Camera\",\"value\":\"1\"}]}",
+  "metadata": {
+    "name": "Selfie #1",
+    "description": "Hey. Take a selfie! This is the OG camera. Selfies expire in 24 hours.",
+    "image": "https://heytakeaselfie.s3.us-west-2.amazonaws.com/0x2aD78A52F67c6A23015FeC9ce73Da3A1247aDc9d/camera.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Subject",
+        "value": "probcause.eth"
+      },
+      {
+        "trait_type": "Camera",
+        "value": "1"
+      }
+    ]
+  }
+}

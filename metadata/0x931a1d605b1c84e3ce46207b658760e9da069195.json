@@ -1,0 +1,44 @@
+{
+  "address": "0x931a1d605b1c84e3ce46207b658760e9da069195",
+  "type": "ERC721",
+  "name": "Smurfs Yacht Club",
+  "tokenCount": "1242",
+  "uri": "https://cdn-api.niftykit.com/reveal/mTeN1CNmfLGkag1ZtbpG/1",
+  "metadata": {
+    "name": "Smurfs Yacht Club #1",
+    "description": "Smurfs Yacht Club",
+    "image": "https://p2emint.xyz/Smurfs//1.png",
+    "dna": "32313b3dcfe0cdf65854a436da63dc736566512f",
+    "edition": 1,
+    "date": 1664208085653,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Delta"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Winter Cloth"
+      },
+      {
+        "trait_type": "Necklace",
+        "value": "Medallion"
+      },
+      {
+        "trait_type": "Head",
+        "value": "WhiteHair"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "ribbon"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Heart"
+      }
+    ],
+    "compiler": "HashLips Art Engine",
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x716765b0594ad146743c4860C66D10c1a5211C45"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "address": "0x8574cf2aacccfba94e3cf3a970729b5647bf36a7",
+  "type": "ERC721",
+  "name": "asdfqwerqweroo",
+  "tokenCount": "512",
+  "uri": "https://api.artblocks.io/token/4000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "4000001",
+    "series": 1,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Dynamic Slices #1",
+    "minted": true,
+    "artist": "pxlq",
+    "description": "An on-chain experiment with interactive abstract art.",
+    "script_type": "p5@1.0.0",
+    "project_id": "4",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 1",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/4000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/4000001.png",
+    "generator_url": "https://generator.artblocks.io/4000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/4000001",
+    "royaltyInfo": {
+      "artistAddress": "0xb56ae8a727cf38f1f4716aeda6749d2af340d8f4",
+      "additionalPayee": "0xb56ae8a727cf38f1f4716aeda6749d2af340d8f4",
+      "additionalPayeePercentage": 100,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Dynamic Slices by pxlq",
+    "website": null,
+    "token_hash": "0xa97bfdbb5608e064f5aab989dceaae29f059d50b6394f60d3e3a2d4a68206499",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/4/tokens/4000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/4000001",
+    "features": {
+      "Count": 11,
+      "Slices": "Single",
+      "Stroke": "Midnight",
+      "Palette": "Budapest"
+    },
+    "traits": [
+      {
+        "trait_type": "Dynamic Slices",
+        "value": "All Dynamic Slices"
+      },
+      {
+        "trait_type": "Dynamic Slices",
+        "value": "Count: 11"
+      },
+      {
+        "trait_type": "Dynamic Slices",
+        "value": "Slices: Single"
+      },
+      {
+        "trait_type": "Dynamic Slices",
+        "value": "Stroke: Midnight"
+      },
+      {
+        "trait_type": "Dynamic Slices",
+        "value": "Palette: Budapest"
+      }
+    ],
+    "is_static": false,
+    "license": "NFT License"
+  }
+}

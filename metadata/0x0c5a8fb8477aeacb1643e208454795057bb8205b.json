@@ -1,0 +1,45 @@
+{
+  "address": "0x0c5a8fb8477aeacb1643e208454795057bb8205b",
+  "type": "ERC721",
+  "name": "Treesome NFT",
+  "tokenCount": "10",
+  "uri": "ipfs://QmZmi4fcvgBb199F7S3fTc2CSXHqabk4xPwNkKQKYCWudq/1.json",
+  "metadata": {
+    "name": "Treesome #1",
+    "description": "",
+    "image": "ipfs://QmegVrvsDgRc1AJjP9zj1N8izJn74zy9pnqEbu9Ks5ZTn4/1.png",
+    "dna": "bb3fbea37d90cd828bcc6aa8b333755a64466625",
+    "edition": 1,
+    "date": 1643825366756,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Khaki"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Left Hand",
+        "value": "None"
+      },
+      {
+        "trait_type": "Right Hand",
+        "value": "Lighter"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Sad Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Blue and pink glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cowboy Hat"
+      }
+    ]
+  }
+}

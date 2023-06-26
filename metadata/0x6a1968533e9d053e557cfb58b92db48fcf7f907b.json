@@ -1,0 +1,37 @@
+{
+  "address": "0x6a1968533e9d053e557cfb58b92db48fcf7f907b",
+  "type": "ERC721",
+  "name": "artBloots",
+  "tokenCount": "3080",
+  "uri": "https://artbloots.s3.us-east-2.amazonaws.com/1.json",
+  "metadata": {
+    "dna": "00864",
+    "name": "artBloot #1",
+    "description": "Collection of unique 1/1 framed artBloots to hang on the walls of buildings in the Bloot metaverse. Probably nothing, do what you want with them...",
+    "image": "https://artbloots.s3.us-east-2.amazonaws.com/1.png",
+    "edition": 1,
+    "date": 1631374019117,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Block",
+        "value": "None"
+      },
+      {
+        "trait_type": "Art",
+        "value": "Bloot David"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Nameplate",
+        "value": "Blue"
+      }
+    ]
+  }
+}

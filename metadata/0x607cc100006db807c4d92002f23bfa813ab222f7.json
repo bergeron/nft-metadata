@@ -1,0 +1,22 @@
+{
+  "address": "0x607cc100006db807c4d92002f23bfa813ab222f7",
+  "type": "ERC721",
+  "name": "Dokigotchi",
+  "tokenCount": "117",
+  "uri": "https://dokigotchi.com/api/meta?id=1",
+  "metadata": {
+    "image": "https://imagedelivery.net/gqd4TqkekG4666HBpJxCbg/91ea995b-1c15-4d3e-190a-a55c339d0400/raw",
+    "description": "A special creature that mutates to resemble its owner. A rare class of egg indeed, only the chosen ones can train them.",
+    "name": "Honorary #1",
+    "attributes": [
+      {
+        "trait_type": "Stage",
+        "value": "Egg"
+      },
+      {
+        "trait_type": "Family",
+        "value": "Honorary"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "address": "0x615f9c42e3794d8265ad018b2e76a0eece5fcabb",
+  "type": "ERC721",
+  "name": "McFlys NFT Collection",
+  "tokenCount": "210",
+  "uri": "https://api-minting.mcflysnft.com/token/1",
+  "metadata": {
+    "name": "McFlys #1",
+    "description": "A collection of 4,122 NFTs, portion of proceeds will be donated to  for Parkinsons research",
+    "image": "https://assets.wenmint.com/images/mcflysnft/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Desert"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Purple Skin"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Western"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Flying Glasses"
+      },
+      {
+        "trait_type": "Misc Items",
+        "value": "Pop Bottle"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Mikes"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Creature",
+        "value": "Fly"
+      }
+    ],
+    "rank": 2
+  }
+}

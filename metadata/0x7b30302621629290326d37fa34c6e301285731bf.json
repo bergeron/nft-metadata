@@ -1,0 +1,75 @@
+{
+  "address": "0x7b30302621629290326d37fa34c6e301285731bf",
+  "type": "ERC721",
+  "name": "PunksVersusApesVIP2022",
+  "tokenCount": "17",
+  "uri": "ipfs://Qme6D6WvRWWc1MWHjcuhr2wU8mXqVg6DJ5PeGntWTyDFyv",
+  "metadata": {
+    "name": "VIP Event Pass",
+    "description": "Includes: - Entry to Friday Night Party - Entry to Saturday Brunch & Competitions - Access to Friday Night Private Lounge - Friday Night Premium Open Bar (Beer, Wine, Liquor) - Friday Night VIP Bathroom - Friday Private Event Entrance - Guaranteed Entry to Saturday Competition of Choice - Ape/Punk Displayed during event\n\nVerisart Certified: https://verisart.com/works/9a7eb498-8794-49de-b1ab-a462b8e33cb7",
+    "image": "ipfs://QmQnCXVxzN8Nsdsy72vk2T6mFyJXVo8x4uCkxy2SiGMdjn",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 1080,
+          "height": 1080,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 9
+        },
+        "frameRate": 30,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0x3443d68ced92fe63edfb2777eb235fbb77dca7d2",
+            "bps": 600
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "animation_url": "ipfs://QmRR8NnzoEzr3VRphoGdhmFu84nt5TmGPd6FLXRMY2PhwS",
+    "external_url": "https://verisart.com/works/9a7eb498-8794-49de-b1ab-a462b8e33cb7",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Magic Eden",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "VIP Event Pass",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "1080x1080 px",
+        "display_type": null
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:09",
+        "display_type": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": "0x1bc2804bf111a24bd10e39a505e12bc6926bc100",
+  "type": "ERC721",
+  "name": "Space Travelers Club",
+  "tokenCount": "550",
+  "uri": "ipfs://QmTxsbQbpDxRh55hEfNwB6vD4xydQVx8H91HTbBGXGQPCf/1",
+  "metadata": {
+    "name": "Space Travelers Club #1",
+    "symbol": "STC",
+    "description": "The Space Travelers Club is a Real-Life experiences NFT project. Your Space Traveler is your membership card, which grants you access to our Monthly Travel events, as well as many members-only benefits. All Space Travelers come from a Cyberpunk world living on the Ethereum Blockchain.",
+    "seller_fee_basis_points": 600,
+    "image": "ipfs://QmTxPQHCU3Gv1Ft6hcEqtS6ydSvTbTMZDnUHKMcHnYTSg7/1.png",
+    "external_url": "https://spacetravelersclub.co",
+    "attributes": [
+      {
+        "trait_type": "Family",
+        "value": "Celestial"
+      },
+      {
+        "trait_type": "Crew",
+        "value": "Tech nerds blue"
+      },
+      {
+        "trait_type": "Type",
+        "value": "White"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hel armor"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Crown blue"
+      }
+    ],
+    "collection": {
+      "name": "SPACE TRAVELERS CLUB",
+      "family": "Space Travelers NFT"
+    },
+    "properties": {
+      "creators": [
+        {
+          "address": "0xB8CdC9E57Dcc02B3E903E7dE3246F9396EEEFE0D",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

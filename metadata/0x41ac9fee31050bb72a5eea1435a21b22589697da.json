@@ -1,0 +1,34 @@
+{
+  "address": "0x41ac9fee31050bb72a5eea1435a21b22589697da",
+  "type": "ERC721",
+  "name": "Sports Things",
+  "tokenCount": "9140",
+  "uri": "ipfs://QmcTL4sttzJBGScZVMs5sZE3bnEXHwJ9DQ6QZDhu5AeSMS/1",
+  "metadata": {
+    "name": "Sports Thing #1",
+    "image": "ipfs://QmPAA3sMRe8P9bngoAxToMxqmYzAbh96U6FHk27FCaqKWc/1.jpeg",
+    "description": "VSP partner claim with Thingdoms.",
+    "attributes": [
+      {
+        "trait_type": "vsp_base",
+        "value": "blue"
+      },
+      {
+        "trait_type": "thingdoms_base",
+        "value": "zeno"
+      },
+      {
+        "trait_type": "sport",
+        "value": "esports"
+      },
+      {
+        "trait_type": "tier",
+        "value": "rare"
+      },
+      {
+        "trait_type": "grade",
+        "value": "8"
+      }
+    ]
+  }
+}

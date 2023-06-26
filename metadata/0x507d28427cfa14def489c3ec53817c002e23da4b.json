@@ -1,0 +1,23 @@
+{
+  "address": "0x507d28427cfa14def489c3ec53817c002e23da4b",
+  "type": "ERC721",
+  "name": "Forever Frogs: The Egg",
+  "tokenCount": "450",
+  "uri": "ipfs://bafybeidwgtmw6pjymo5dl7rx3nqc5t35oipdxkwkv46dhm555q2ctfj4iu/1",
+  "metadata": {
+    "name": "Egg #1",
+    "description": "A forever frog egg. With this egg you will be able to hatch the first forever frogs. Multiplier is used for giveaways!",
+    "image": "ipfs://bafybeid5ctoymfksbuqk6flqnzse6l67br5n5bx6y6zjrmai5n7l4575v4/egg.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Multiplier",
+        "value": "1x"
+      },
+      {
+        "trait_type": "Name",
+        "value": "Egg"
+      }
+    ]
+  }
+}

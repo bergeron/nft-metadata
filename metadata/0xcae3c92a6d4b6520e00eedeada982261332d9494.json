@@ -1,0 +1,39 @@
+{
+  "address": "0xcae3c92a6d4b6520e00eedeada982261332d9494",
+  "type": "ERC721",
+  "name": "NELLY ethEra",
+  "tokenCount": "595",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=0iW4rAkb1RJHTjetNhVO",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1574182195637?alt=media&token=887f218a-12c9-436a-ae04-ef09f31e60c0",
+    "isForSale": true,
+    "contractAddress": "0xCAE3c92A6d4B6520E00eEDEadA982261332d9494",
+    "description": "Limited digital edition of ethEra by Nelly Baksht",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xCAE3c92A6d4B6520E00eEDEadA982261332d9494/0iW4rAkb1RJHTjetNhVO",
+    "minter": "0x91e03CA709C1950e621060e64ddEbdc3B7C6deDE",
+    "mintedOn": {
+      "_seconds": 1574182265,
+      "_nanoseconds": 709000000
+    },
+    "price": "0.1",
+    "name": "ethEra",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "ethEra"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "id": null
+  }
+}

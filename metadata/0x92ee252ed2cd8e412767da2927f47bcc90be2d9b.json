@@ -1,0 +1,42 @@
+{
+  "address": "0x92ee252ed2cd8e412767da2927f47bcc90be2d9b",
+  "type": "ERC721",
+  "name": "Bermudaunicorn",
+  "tokenCount": "1",
+  "uri": "https://ola.infura-ipfs.io/ipfs/QmV2aQxuRcZKkxGVJT8w4KRmP9tUM118koXDQwqy3kWZAF",
+  "metadata": {
+    "name": "Devil dog",
+    "description": "this is first devil dog.",
+    "image": "https://ola.infura-ipfs.io/ipfs/QmWPv8RLpijsBHnM5ZHUPE3jcUsyVRgAZhEy3cACp4wMWp",
+    "attributes": [
+      {
+        "trait_type": "male",
+        "value": "dog"
+      },
+      {
+        "trait_type": "open",
+        "value": "mouth"
+      },
+      {
+        "trait_type": "red",
+        "value": "background"
+      },
+      {
+        "trait_type": "black",
+        "value": "colour"
+      },
+      {
+        "trait_type": "male",
+        "value": "6",
+        "max_value": "6",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "3",
+        "max_value": "3",
+        "display_type": "number"
+      }
+    ]
+  }
+}

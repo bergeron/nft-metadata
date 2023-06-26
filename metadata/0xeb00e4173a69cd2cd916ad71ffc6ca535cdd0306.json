@@ -1,0 +1,40 @@
+{
+  "address": "0xeb00e4173a69cd2cd916ad71ffc6ca535cdd0306",
+  "type": "ERC721",
+  "name": "gozo V2",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/sFWhq1A1a0U_BCeIyoGexTcypHc8uip4V1F0k3a5ZJw",
+  "metadata": {
+    "name": "an unfinished fall",
+    "created_by": "gozo",
+    "description": "1080x1080 pixels, mp4, 480 frames, 30fps, 2022.  \n4K video version available.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "gozo"
+      }
+    ],
+    "animation_details": {
+      "bytes": 47822806,
+      "format": "MP4",
+      "duration": 16,
+      "sha256": "2427cf09137034848a2bcd631a0427c17f4f79d8c697a8ff92d82cbdeab3a7fb",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/8nmqPDr7kWN8Gm1lfVRr39xIpiwsp9O0w-4kl--EPF0",
+    "animation_url": "https://arweave.net/8nmqPDr7kWN8Gm1lfVRr39xIpiwsp9O0w-4kl--EPF0",
+    "image_details": {
+      "bytes": 549794,
+      "format": "JPEG",
+      "sha256": "26fa5d9afdd85ecc8fdaf0bedbb0dfb4315170af7d6babd903a400ca57d554e9",
+      "width": 2160,
+      "height": 2160
+    },
+    "image": "https://arweave.net/oaMSx1A4hSkWofiVdCr5uPJfny6IzGDyNzrGmItUrn4",
+    "image_url": "https://arweave.net/oaMSx1A4hSkWofiVdCr5uPJfny6IzGDyNzrGmItUrn4"
+  }
+}

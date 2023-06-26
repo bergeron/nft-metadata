@@ -1,0 +1,31 @@
+{
+  "address": "0xe15e9c0bf6b6b29d3b9e1c921ab2cb09c2194463",
+  "type": "ERC721",
+  "name": "MegaCryptoPolis",
+  "tokenCount": "25175",
+  "uri": "https://mcp.town/api/land/1",
+  "metadata": {
+    "image": "https://mcp3d.com/api/image/land/1/b",
+    "symbol": "Land",
+    "parameters": {},
+    "attributes": [
+      {
+        "trait_type": "resources",
+        "value": 5,
+        "max_value": 10
+      },
+      {
+        "trait_type": "level",
+        "value": 3
+      },
+      {
+        "trait_type": "type",
+        "value": "industrial"
+      }
+    ],
+    "name": "Mixing Plant #42 X 472 Y 362",
+    "owner": "0x55BB9DcC3a1E29750Dce52217BA2Ba597fd0fB22",
+    "external_url": "https://play.mcp3d.com/ethereum/land?x=472&y=362",
+    "description": "Produces Sand or Stone to Construct, Upgrade and Repair Buildings"
+  }
+}

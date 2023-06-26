@@ -1,0 +1,19 @@
+{
+  "address": "0x53a5d94155aedd2079d271c6bbd45c8fa2548a49",
+  "type": "ERC721",
+  "name": "CustomCamels",
+  "tokenCount": "9",
+  "uri": "https://camelsnft-api.herokuapp.com/api/custom/metadata/1",
+  "metadata": {
+    "name": "Custom Camel #1",
+    "description": "Custom Camels is a sub-collection of CamelsNFT that contains 1/1 art featuring Camels. Some of the NFT in this collection are inspired by a significant events (not only from the web3 space), and some are just made for fun.",
+    "image": "https://storage.fleek.zone/b28bd1bc-9e0b-4bfd-99fd-72fb095f9bf9-bucket/CustomCamels/0001.jpg",
+    "external_url": "https://twitter.com/CamelsNFT",
+    "attributes": [
+      {
+        "value": "Keid",
+        "trait_type": "Artist"
+      }
+    ]
+  }
+}

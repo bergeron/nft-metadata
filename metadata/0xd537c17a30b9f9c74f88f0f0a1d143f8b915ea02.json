@@ -1,0 +1,44 @@
+{
+  "address": "0xd537c17a30b9f9c74f88f0f0a1d143f8b915ea02",
+  "type": "ERC721",
+  "name": "GreenPowerN-Genesis",
+  "tokenCount": "100",
+  "uri": "https://ipfs.greenpowern.com/nft/genesis/1.json",
+  "metadata": {
+    "name": "GreenPowerN-Genesis #1",
+    "description": "Green Energy Avatar is the GreenPower Network’s first NFT series. The green energy Avatar is the highest-level Avatar in the GreenPower Network NFT series. It consists of masks, clothes, backgrounds, neck rings, necklaces, and Names. The NFT introduces the concept of charging. Users can charge the energy slot to get rewards. Binding mobile devices and users‘ real world energy-saving behavior will accelerate charging. Green energy NFTs can be used for a series of events initiated by Greenpower Network.",
+    "image": "https://ipfs.greenpowern.com/nft/genesisavatar/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "name",
+        "value": "Silicone Sentinel"
+      },
+      {
+        "trait_type": "gender",
+        "value": "male"
+      },
+      {
+        "trait_type": "background",
+        "value": "blue purple"
+      },
+      {
+        "trait_type": "body",
+        "value": "blue"
+      },
+      {
+        "trait_type": "clothing",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "core",
+        "value": "hydro"
+      },
+      {
+        "trait_type": "mask",
+        "value": "green energy"
+      }
+    ],
+    "compiler": "GreenPower Network"
+  }
+}

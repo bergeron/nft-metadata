@@ -1,0 +1,46 @@
+{
+  "address": "0x192c682905bb6f97a93096f1bcd99060820d15c1",
+  "type": "ERC721",
+  "name": "SPACE SMASHERS",
+  "tokenCount": "2222",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmZ7XHapgiT8uTX9HLgjWKxVYedWajfzDZueDjynYvXMod/1",
+  "metadata": {
+    "name": "Space Smashers #1",
+    "symbol": "SCSM",
+    "description": "The ultimate smasher #1",
+    "image": "https://testlaunchmynft.mypinata.cloud/ipfs/QmPoDggQN2VccQUD3oCg749Fxd2q69HQ7YksRn5rgp6RcV/1.png",
+    "external_url": "",
+    "collection": {
+      "name": "Space Smashers",
+      "family": "SpaceSmashers"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "B (51)"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Kisliniu"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Travellingo"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 870,
+        "display_type": "number",
+        "max_value": 2222
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/QmPoDggQN2VccQUD3oCg749Fxd2q69HQ7YksRn5rgp6RcV/1.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
+}

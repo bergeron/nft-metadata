@@ -1,0 +1,42 @@
+{
+  "address": "0x251304c8afcea16d364dec35e271520355872c7a",
+  "type": "ERC721",
+  "name": "it's a box",
+  "tokenCount": "57",
+  "uri": " ipfs://QmZmbjy4CVqYCJxfzvcMqnuj8mEVW3fD66w79VGPnB7WcF/1.json",
+  "metadata": {
+    "name": "Box #1",
+    "description": "it's a box",
+    "image": "ipfs://Qmcvwb56GaHATR5iMVQwu7coRSbSAMJnV7CFfXSae3QDU7/1.png",
+    "dna": "c30dbf42a5197bf65e5c07bb3e5869d8d1117f8d",
+    "edition": 1,
+    "date": 1664449387899,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "peach"
+      },
+      {
+        "trait_type": "box",
+        "value": "box"
+      },
+      {
+        "trait_type": "face",
+        "value": "dreamy"
+      },
+      {
+        "trait_type": "hands",
+        "value": "happy"
+      },
+      {
+        "trait_type": "legs",
+        "value": "jump"
+      },
+      {
+        "trait_type": "accessories",
+        "value": "ball"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

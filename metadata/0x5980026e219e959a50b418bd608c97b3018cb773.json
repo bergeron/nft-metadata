@@ -1,0 +1,25 @@
+{
+  "address": "0x5980026e219e959a50b418bd608c97b3018cb773",
+  "type": "ERC721",
+  "name": "NovumLimitedEditionETH",
+  "tokenCount": "2",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x5980026e219e959a50b418bd608c97b3018cb773/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x5980026E219E959a50b418BD608C97b3018cB773/icon?id=1",
+    "expiration": 1662040538,
+    "tokenId": "1",
+    "owner": "0xe5cd62ac8d2ca2a62a04958f07dd239c1ffe1a9e",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1662040538
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x5980026E219E959a50b418BD608C97b3018cB773",
+    "network": 1
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "address": "0x85817fb6388e4165b71f86ccc7845f8755ef7f9d",
+  "type": "ERC721",
+  "name": "999 Genesis AI Lords",
+  "tokenCount": "828",
+  "uri": "https://fantomlordsapi.herokuapp.com/lords/1",
+  "metadata": {
+    "name": "Chosen One Hildelft He Who Strikes True",
+    "description": "An epic collection of 1222 randomly generated Ascended Lords stored on the Fantom Blockchain",
+    "image": "ipfs://QmNrTZQJeni73oUJAUoP9ACAZfdfyfcV4miHAhjwkU7b1A/2401.gif",
+    "dna": "5a4851714d37cf76b8412944b4313ca3bd35fc84",
+    "edition": 2401,
+    "date": 1651833836625,
+    "attributes": [
+      {
+        "trait_type": "Class",
+        "value": "Chosen One",
+        "frequency": "1.22%",
+        "count": 30
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Enchanted Long Bow",
+        "frequency": "6.07%",
+        "count": 148
+      },
+      {
+        "trait_type": "Background",
+        "value": "Sweltering Jungle",
+        "frequency": "9.02%",
+        "count": 220
+      },
+      {
+        "trait_type": "Ancestry",
+        "value": "Redguard Monk",
+        "frequency": "17.38%",
+        "count": 424
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Arcane Pathfinder Orichalcum Cuirass",
+        "frequency": "13.52%",
+        "count": 330
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Arcane Archer Hood",
+        "frequency": "4.26%",
+        "count": 104
+      },
+      {
+        "trait_type": "Relic",
+        "value": "None",
+        "frequency": "9.34%",
+        "count": 228
+      }
+    ],
+    "compiler": "Lord of Stuttering x HashLips Art Engine"
+  }
+}

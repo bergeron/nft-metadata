@@ -1,0 +1,19 @@
+{
+  "address": "0xd614e3b775b94794ea16a7843f31a56c36edcb09",
+  "type": "ERC721",
+  "name": "Arpeggi Genesis Studio Pass",
+  "tokenCount": "600",
+  "uri": "https://www.arpeggi.io/metadata/pass/1",
+  "metadata": {
+    "name": "Arpeggi Studio Pass #1",
+    "image": "https://arpeggi-image-store.s3.us-west-2.amazonaws.com/studio-pass/Arpegggi_Genesis_Pass.png",
+    "description": "The Arpeggi Studio Pass is the genesis mint pass collection of Arpeggi Studio, the first on-chain music creation platform. An Arpeggi Studio Pass allows the holder to mint one song in Arpeggi Studio. Try Arpeggi Studio at https://www.arpeggi.io/studio",
+    "external_url": "https://www.arpeggi.io/studio",
+    "attributes": [
+      {
+        "trait_type": "Studio Pass",
+        "value": "All Studio Passes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0xde369c910892592a33cbb6472b63988f87e9732e",
+  "type": "ERC721",
+  "name": "Escobars Treasure",
+  "tokenCount": "1",
+  "uri": "https://ipfs.io/ipfs/QmcDzWxBRGWFHjTEZrkfLu5aeQK8kSArgzWxztniH89LEq/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "",
+    "external_url": "",
+    "image": "https://ipfs.io/ipfs/QmaYHqjRHsmb5GDp7DtFGsoLvmE4Xm53R4udMdKzYsyFen/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "x15"
+      },
+      {
+        "trait_type": "Body",
+        "value": "pepeshirt"
+      },
+      {
+        "trait_type": "Face",
+        "value": "cigar"
+      },
+      {
+        "trait_type": "Items",
+        "value": "goldbar"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

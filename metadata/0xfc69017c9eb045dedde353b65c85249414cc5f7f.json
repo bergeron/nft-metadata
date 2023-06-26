@@ -1,0 +1,58 @@
+{
+  "address": "0xfc69017c9eb045dedde353b65c85249414cc5f7f",
+  "type": "ERC721",
+  "name": "Digital Bot Lab",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/-uggafmSQUl_teWBJW8L6k7PVRNof3TdoOpZMJ2nolE",
+  "metadata": {
+    "name": "Ascending and Descending 2.0",
+    "created_by": "Andy Green",
+    "external_url": "https://www.digitalbotlab.com/",
+    "description": "A tribute to M C Escher's 'Ascending and Descending'.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Andy Green"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2023"
+      },
+      {
+        "trait_type": "Medium",
+        "value": "Digital 3D"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Animation"
+      },
+      {
+        "trait_type": "Music",
+        "value": "Andy Green"
+      }
+    ],
+    "animation_details": {
+      "bytes": 189362016,
+      "format": "MP4",
+      "duration": 48,
+      "sha256": "c3ac0061d0ad9f5cda3f211fc93f8190628a26a621ded345e98db0a77ffbfa8d",
+      "width": 1920,
+      "height": 2560,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/waTkP3POconLS29Dx6xOtVdbEjAzFzCGc5CwkGUcKQk",
+    "animation_url": "https://arweave.net/waTkP3POconLS29Dx6xOtVdbEjAzFzCGc5CwkGUcKQk",
+    "image_details": {
+      "bytes": 10914106,
+      "format": "PNG",
+      "sha256": "20d3148857d178bc6c46031e36b32bdd585dc3b050174789ae72afd84816ba90",
+      "width": 1920,
+      "height": 2560
+    },
+    "image": "https://arweave.net/XG9ZOl9vRa7IsOGjpmDxQAR_MHkdtv0QY_FMi-UVcmk",
+    "image_url": "https://arweave.net/XG9ZOl9vRa7IsOGjpmDxQAR_MHkdtv0QY_FMi-UVcmk"
+  }
+}

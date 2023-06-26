@@ -1,0 +1,25 @@
+{
+  "address": "0x046f8236787ae8fc4d246c64393f66a8846d52cd",
+  "type": "ERC721",
+  "name": "Masshift Subjects",
+  "tokenCount": "33",
+  "uri": "https://masshift.s3.ap-southeast-1.amazonaws.com/subject_metadatas/1.json",
+  "metadata": {
+    "name": "Subject #1",
+    "description": "Masshift first collection “The Lab” is a collection of 1,000 dynamic avatars that owners can customize the outfit with items.",
+    "image": "https://masshift.s3.ap-southeast-1.amazonaws.com/Invisible.png",
+    "dna": "56143178e8176b5106eeb47818c45b1561c4c2f1",
+    "edition": 1,
+    "date": 1655399858635,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Scene"
+      },
+      {
+        "trait_type": "Figure",
+        "value": "Invisible"
+      }
+    ]
+  }
+}

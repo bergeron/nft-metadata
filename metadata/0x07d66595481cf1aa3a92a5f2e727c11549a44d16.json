@@ -1,0 +1,79 @@
+{
+  "address": "0x07d66595481cf1aa3a92a5f2e727c11549a44d16",
+  "type": "ERC721",
+  "name": "Link V3",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=lGZ8E8Azwxv9p7PXCkH5",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1581630495215?alt=media&token=29e3f230-e556-4064-bce3-d6bdaff7d161",
+    "forSale": false,
+    "description": "Tuesday's Link's adventures",
+    "contractAddress": "0x07d66595481cf1aa3a92a5f2e727c11549a44d16",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1581630608,
+      "_nanoseconds": 309000000
+    },
+    "price": "1",
+    "name": "Link on a tuesday",
+    "fiatPrice": "$264.37",
+    "attributes": [
+      {
+        "trait_type": "Dog",
+        "value": "Link"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "Tuesday"
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "Ta",
+        "value": ""
+      },
+      {
+        "trait_type": "T",
+        "value": ""
+      },
+      {
+        "trait_type": "Do",
+        "value": ""
+      },
+      {
+        "trait_type": "D",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": ""
+      },
+      {
+        "trait_type": "location",
+        "value": "Vancouver, BC, Canada"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1581580800
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x07d66595481cf1aa3a92a5f2e727c11549a44d16",
+    "type": "ERC721"
+  }
+}

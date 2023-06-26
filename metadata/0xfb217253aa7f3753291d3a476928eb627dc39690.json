@@ -1,0 +1,44 @@
+{
+  "address": "0xfb217253aa7f3753291d3a476928eb627dc39690",
+  "type": "ERC1155",
+  "name": "Testing Tiger",
+  "tokenCount": "3",
+  "uri": "ipfs://QmPdPQKUtkzP84nMf3UmjskNK9sPwL28q4SXApdLS3wp72",
+  "metadata": {
+    "title": "Testing Tiger",
+    "logo": "",
+    "name": "Tiger",
+    "type": "object",
+    "imageUrl": "ipfs://QmZqDdbPTrD4odmQZ4KYGxELDUdZ8UeWpBhnpoERAx3TzZ",
+    "description": "Testing Tiger",
+    "id": 1,
+    "image": "ipfs://QmZqDdbPTrD4odmQZ4KYGxELDUdZ8UeWpBhnpoERAx3TzZ",
+    "httpUrl": "https://ipfs.io/ipfs/QmZqDdbPTrD4odmQZ4KYGxELDUdZ8UeWpBhnpoERAx3TzZ",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "HeadPhone"
+      }
+    ]
+  }
+}

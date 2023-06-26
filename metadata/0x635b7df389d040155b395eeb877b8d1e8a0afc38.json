@@ -1,0 +1,23 @@
+{
+  "address": "0x635b7df389d040155b395eeb877b8d1e8a0afc38",
+  "type": "ERC1155",
+  "name": "Boss Beauties Collabs",
+  "tokenCount": "4",
+  "uri": "ipfs://QmbZN88bZb356XkuQvk3sdtfGQvafPxNXEW6PjafQLDhkG",
+  "metadata": {
+    "name": "Boss Beauties x Rolling Stone",
+    "description": "A Women Can Be Everything She Wants\nIncluding a Rock and Roll Queen!\nThis Boss Beauty is the first collaboration between Boss Beauties and Rolling Stone.",
+    "image": "ipfs://QmaaTS1kbm3q1fSKWVdkV6SkKC9sXWQ7To65wkWaV8tJ89",
+    "external_url": "https://bossbeauties.com",
+    "supply": 10000,
+    "on": true,
+    "price": 0,
+    "merkleRoot": "0x473a3b0cda0a5a3306a72d980cf01a5fe3516d1347446074bb7772dc88835a0b",
+    "attributes": [
+      {
+        "trait_type": "Collaborator",
+        "value": "Rolling Stone"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "address": "0xd634479e404975f54bd466916b22d62acf22be85",
+  "type": "ERC721",
+  "name": "Egg Heads Club",
+  "tokenCount": "3499",
+  "uri": "ipfs://QmZUd7wHtEBZfi2ep45n1W2mgj95bXadvSXKoTx3Mx8AbD/1",
+  "metadata": {
+    "name": "Egg Head #1",
+    "description": "3,499 first generation Egg Heads roaming the luscious land of Eggtopia.",
+    "image": "ipfs://QmWLH7MLriLVEsLrzq1tLUCLsh2nSWoazxoURMLaym8cep/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bubblegum Pink"
+      },
+      {
+        "trait_type": "Back Accessory",
+        "value": "None"
+      },
+      {
+        "trait_type": "Shell",
+        "value": "Coral"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Beige"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Smiling Eyes"
+      },
+      {
+        "trait_type": "Front Accessory",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Yellow Fisherman Hat"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "None"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Shell Strength",
+        "value": 15,
+        "max_value": 40
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Jumping",
+        "value": 14,
+        "max_value": 40
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Speed",
+        "value": 14,
+        "max_value": 40
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Attack Power",
+        "value": 10,
+        "max_value": 40
+      },
+      {
+        "trait_type": "Special Trait",
+        "value": "Hide Away"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Classic"
+      }
+    ]
+  }
+}

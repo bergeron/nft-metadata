@@ -1,0 +1,42 @@
+{
+  "address": "0xaa2dee504104d99d3bee7a393fbeed9381a1deec",
+  "type": "ERC721",
+  "name": "Just A Duck NFT",
+  "tokenCount": "2000",
+  "uri": "ipfs://bafybeicrhkwbdjebgtp2bni3ce76ewoj3tklasjvfpzfjrnjjpgjjit4tq/1.json",
+  "metadata": {
+    "name": "Just A Duck #1",
+    "description": "A collection of 2k Ducks, reminding you not to give a quack.",
+    "image": "ipfs://bafybeiaqnsk3itwal2l2aw42j3ddkijvxemt2oon7gnns23ohjl6ieuro4/1.png",
+    "dna": "e967a54b7372d2ecec9406a7eb0152eb504cdb41",
+    "edition": 1,
+    "date": 1675028504949,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Ice"
+      },
+      {
+        "trait_type": "body",
+        "value": "Duck"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Scarf"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Afro"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Super Hero"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "Whistle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0xd2669aefca82e23d1b0a94459deafd656f6b719a",
+  "type": "ERC721",
+  "name": "Etherjump Plots",
+  "tokenCount": "5555",
+  "uri": "https://api.etherjump.game/metadata/1",
+  "metadata": {
+    "description": "This is plot #1 of Etherjump\n\nBuild your plot at: https://build.etherjump.game\n\nPlay in fullscreen or on mobile at: https://play.etherjump.game/1\n\nControls:\n\n- WASD/Arrow Keys to move\n\n- Space to dash\n\n- Esc to pause",
+    "external_url": "https://play.etherjump.game/1",
+    "image": "https://play.etherjump.game/thumbnails/White Wolf_Small.gif",
+    "name": "Etherjump Plot #1",
+    "animation_url": "https://play.etherjump.game/1",
+    "interactive_nft": {
+      "code_uri": "https://play.etherjump.game/1",
+      "version": "1.0"
+    },
+    "attributes": [
+      {
+        "trait_type": "Character",
+        "value": "White Wolf"
+      },
+      {
+        "trait_type": "Size",
+        "value": "Small"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Scene Count",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Grid Size",
+        "value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Biome Limit",
+        "value": 1
+      }
+    ]
+  }
+}

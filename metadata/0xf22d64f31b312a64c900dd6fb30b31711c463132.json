@@ -1,0 +1,49 @@
+{
+  "address": "0xf22d64f31b312a64c900dd6fb30b31711c463132",
+  "type": "ERC721",
+  "name": "Holy War Loot (Summons)",
+  "tokenCount": "285",
+  "uri": "https://ipfs.io/ipfs/QmVfVXfinknXPiDCPDf7QWCCRgu7qEeoHf1bMU85iaZV1p/1",
+  "metadata": {
+    "description": "Llamas are very social animals and live with others as a herd. It's fur can keep you warm",
+    "image": "https://ipfs.io/ipfs/QmPWM6hMBDM1qtLRDycnzxnKNsAoyqBDPVQpcHWYwhNY1W/llama.png",
+    "attributes": [
+      {
+        "trait_type": "Species",
+        "value": "Llama"
+      },
+      {
+        "trait_type": "allegience",
+        "value": "Neutral"
+      },
+      {
+        "trait_type": "id",
+        "value": "1"
+      },
+      {
+        "trait_type": "strength",
+        "value": 7
+      },
+      {
+        "trait_type": "agility",
+        "value": 6
+      },
+      {
+        "trait_type": "HP",
+        "value": 3
+      },
+      {
+        "trait_type": "size",
+        "value": "small"
+      },
+      {
+        "trait_type": "personality",
+        "value": "confident"
+      },
+      {
+        "trait_type": "common attack",
+        "value": "trample"
+      }
+    ]
+  }
+}

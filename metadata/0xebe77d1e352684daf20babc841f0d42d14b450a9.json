@@ -1,0 +1,25 @@
+{
+  "address": "0xebe77d1e352684daf20babc841f0d42d14b450a9",
+  "type": "ERC721",
+  "name": "UDT minting Lock Eth",
+  "tokenCount": "2",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xebe77d1e352684daf20babc841f0d42d14b450a9/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xeBe77d1e352684DAF20babc841f0d42d14B450A9/icon?id=1",
+    "expiration": 1627374992,
+    "tokenId": "1",
+    "owner": "0xdd8e2548da5a992a63ae5520c6bc92c37a2bcc44",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1627374992
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xeBe77d1e352684DAF20babc841f0d42d14B450A9",
+    "network": 1
+  }
+}

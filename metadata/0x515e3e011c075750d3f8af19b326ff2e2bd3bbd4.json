@@ -1,0 +1,32 @@
+{
+  "address": "0x515e3e011c075750d3f8af19b326ff2e2bd3bbd4",
+  "type": "ERC1155",
+  "name": "Orso Genesis Collection",
+  "tokenCount": "1",
+  "uri": "https://ipfs.rarity.garden/ipfs/QmQBUohrv7w8CxieA6nGxgdAdmEjF5Z2DHjd5MdPT8DGUR",
+  "metadata": {
+    "name": "King Sora",
+    "description": "King of the Orso bears, Sora unites the bear fortress and guards the sacred essence known as Ether and distributes it fairly amongst the pack. In other mythology he is often referred to as the Sky God of Light.",
+    "image": "https://rarity.infura-ipfs.io/ipfs/QmWp4KbKrV9a2beYjP4RYA145Bvy25XwT7usB3MrfrVBcP",
+    "animation_url": "",
+    "audio_url": "",
+    "interactive_url": "",
+    "external_link": "http://orsotoken.com/",
+    "attributes": [
+      {
+        "trait_type": "HP",
+        "value": "180",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Attack",
+        "value": "65"
+      },
+      {
+        "trait_type": "Defense",
+        "value": "33",
+        "display_type": "boost_percentage"
+      }
+    ]
+  }
+}

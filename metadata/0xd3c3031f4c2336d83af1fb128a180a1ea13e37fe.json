@@ -1,0 +1,23 @@
+{
+  "address": "0xd3c3031f4c2336d83af1fb128a180a1ea13e37fe",
+  "type": "ERC721",
+  "name": "Outwar",
+  "tokenCount": "20",
+  "uri": "https://outwar.com/nft/1",
+  "metadata": {
+    "name": "Thanox, Balancer of Chaos",
+    "image": "https://outwar.com/images/mobs/velendgamegod.jpg",
+    "description": "The ethereal soul of Thanox, Balancer of Chaos. When slain, the bearer of the soul will receive 11 points.",
+    "external_url": "https://outwar.com/nft-ow/1",
+    "attributes": [
+      {
+        "trait_type": "Server",
+        "value": "Sigil"
+      },
+      {
+        "trait_type": "Points",
+        "value": 11
+      }
+    ]
+  }
+}

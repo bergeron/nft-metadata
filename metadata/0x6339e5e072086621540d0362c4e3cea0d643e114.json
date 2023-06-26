@@ -1,0 +1,22 @@
+{
+  "address": "0x6339e5e072086621540d0362c4e3cea0d643e114",
+  "type": "ERC721",
+  "name": "Opepen Edition",
+  "tokenCount": "16000",
+  "uri": "https://metadata.opepen.art/1/metadata.json",
+  "metadata": {
+    "name": "Opepen 1",
+    "description": "This artwork may or may not be handmade.",
+    "image": "ipfs://QmVXvZ5Sp6aSDBrWvtJ5gZ3bwNWRqqY3iPvyF8nveWj5HF/5.png",
+    "attributes": [
+      {
+        "trait_type": "Edition Size",
+        "value": "Five"
+      },
+      {
+        "trait_type": "Number",
+        "value": 1
+      }
+    ]
+  }
+}

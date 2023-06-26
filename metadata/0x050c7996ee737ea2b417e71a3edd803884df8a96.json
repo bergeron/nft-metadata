@@ -1,0 +1,37 @@
+{
+  "address": "0x050c7996ee737ea2b417e71a3edd803884df8a96",
+  "type": "ERC721",
+  "name": "OKX NFT AI Creation - ETH",
+  "tokenCount": "6",
+  "uri": "https://www.okx.com/priapi/v1/nft/MetaXCreation/ethereum/10935186002811542",
+  "metadata": {
+    "description": "",
+    "external_link": "",
+    "fee_recipient": "",
+    "image": "https://static.coinall.ltd/cdn/nft/17e3b47b-2c92-4a3e-aba3-3b875ea865b2.jpeg",
+    "name": "111",
+    "properties": [
+      {
+        "trait_type": "name",
+        "value": "Latent Diffusion"
+      },
+      {
+        "trait_type": "uri",
+        "value": "dream.ai"
+      },
+      {
+        "trait_type": "version",
+        "value": "diffusion-1.4"
+      },
+      {
+        "trait_type": "description",
+        "value": "Latent Diffusion models use a technique known as Diffusion to generate images from pure noise, based on the model's idea of the most probable image that fits the given caption."
+      },
+      {
+        "trait_type": "prompt",
+        "value": "机械世界"
+      }
+    ],
+    "seller_fee_basis_points": null
+  }
+}

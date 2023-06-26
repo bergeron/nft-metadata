@@ -1,0 +1,28 @@
+{
+  "address": "0xfdcde28359db316957534e825327d99d9f4a5d17",
+  "type": "ERC721",
+  "name": "SOLV Allocation Voucher",
+  "tokenCount": "11",
+  "uri": "data:application/json,{\"name\":\"SOLV Allocation Voucher #1 - 100000.00 - OneTime\", \"description\":\"Voucher #1 of SOLV allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade SOLV's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!\",\"image\": \"https://imgurl.solv.finance/meta/images/icSOLV/1.png\",\"external_url\":\"https://app.solv.finance/icSOLV/1\", \"properties\": {\"owner\":\"0xb145ed57fdf5b6f4fc7d8ec9a2f03026a218f000\",\"underlying\":\"0x256f2d67e52fe834726d2ddcd8413654f5eb8b53\",\"underlyingSymbol\":\"SOLV\",\"vestingAmount\":\"100000.000000000000000000\",\"principal\":\"100000.000000000000000000\",\"claimType\":\"OneTime\",\"claimableAmount\":\"100000.000000000000000000\",\"percentages\":[\"100.00%\"],\"maturities\":[1628380800]}}",
+  "metadata": {
+    "name": "SOLV Allocation Voucher #1 - 100000.00 - OneTime",
+    "description": "Voucher #1 of SOLV allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade SOLV's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!",
+    "image": "https://imgurl.solv.finance/meta/images/icSOLV/1.png",
+    "external_url": "https://app.solv.finance/icSOLV/1",
+    "properties": {
+      "owner": "0xb145ed57fdf5b6f4fc7d8ec9a2f03026a218f000",
+      "underlying": "0x256f2d67e52fe834726d2ddcd8413654f5eb8b53",
+      "underlyingSymbol": "SOLV",
+      "vestingAmount": "100000.000000000000000000",
+      "principal": "100000.000000000000000000",
+      "claimType": "OneTime",
+      "claimableAmount": "100000.000000000000000000",
+      "percentages": [
+        "100.00%"
+      ],
+      "maturities": [
+        1628380800
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "0x2e76568a721b389aa6c49801efba2b88e755de79",
+  "type": "ERC721",
+  "name": "Beep Boop Exo Suit",
+  "tokenCount": "5000",
+  "uri": "https://beepboopbotz.io/api/exosuit/1.json",
+  "metadata": {
+    "name": "Beep Boop Exo Suit #1",
+    "image": "ipfs://QmV8WsFkcB9X5pSvJhh28avB3H8BN4fJoe3sjv9Tp3snqW/BB11000_Snakeskin.gif",
+    "description": "\"The new and improved BB-11000 EXO Suit Pro… all environment capable battle-suits. Beep Boop Industries Advanced Warfare Division.\"",
+    "external_url": "beepboopbotz.io",
+    "token_id": "1",
+    "attributes": [
+      {
+        "value": "BB-11000",
+        "rare": "Uber rare",
+        "trait_type": "Exosuit"
+      },
+      {
+        "value": "Snakeskin",
+        "trait_type": "Evolved Skin"
+      }
+    ]
+  }
+}

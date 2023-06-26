@@ -1,0 +1,65 @@
+{
+  "address": "0x7fcf44b05e74912c80e57145c1db8f47f97a92e5",
+  "type": "ERC721",
+  "name": "Notorious A.P.E.",
+  "tokenCount": "20",
+  "uri": "https://arweave.net/JGnqPLoh1AoTRLV4W0MO7qYRwVrcKyqPbRnKy_Zv9iA/1",
+  "metadata": {
+    "name": "Rookie Card #1/20",
+    "created_by": "Notorious A.P.E.",
+    "description": "Rookie Card commemorating the music debut of Notorious A.P.E.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Notorious A.P.E."
+      },
+      {
+        "trait_type": "Vocals",
+        "value": "Pat Ron"
+      },
+      {
+        "trait_type": "Producer",
+        "value": "Paper"
+      },
+      {
+        "trait_type": "Name",
+        "value": "Rookie Card"
+      },
+      {
+        "trait_type": "Series",
+        "value": "1"
+      },
+      {
+        "trait_type": "Animated",
+        "value": "True"
+      },
+      {
+        "trait_type": "Art",
+        "value": "Paper x Artemations"
+      }
+    ],
+    "animation_details": {
+      "bytes": 62197539,
+      "format": "MP4",
+      "duration": 55,
+      "sha256": "351be55198763ec01f40cd759f83c86053a487c8f166d11de3f78539c28de2f7",
+      "width": 1080,
+      "height": 1620,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/f2sRK497FQMs8M1DhSJrjtSv2JD2yxwDPKbbWky78ik",
+    "animation_url": "https://arweave.net/f2sRK497FQMs8M1DhSJrjtSv2JD2yxwDPKbbWky78ik",
+    "image_details": {
+      "bytes": 3739742,
+      "format": "GIF",
+      "sha256": "c4a33879e8419678069192c038b15d6742f8141cdf41bea5a384d8be8398b582",
+      "width": 792,
+      "height": 1246
+    },
+    "image": "https://arweave.net/LXlSUeHu8KExtGqzP2d47su-IW09tz0h-nH4470fCEw",
+    "image_url": "https://arweave.net/LXlSUeHu8KExtGqzP2d47su-IW09tz0h-nH4470fCEw"
+  }
+}

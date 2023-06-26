@@ -1,0 +1,40 @@
+{
+  "address": "0x07d57fdfb86c114ba9688dd4cb6a55e61eb8e79d",
+  "type": "ERC721",
+  "name": "The OG DoodFellaz",
+  "tokenCount": "445",
+  "uri": "https://rav3a2ton8.execute-api.eu-central-1.amazonaws.com/prod/json/1",
+  "metadata": {
+    "name": "DoodFellaz #1",
+    "description": "10,000 DoodFellaz living peacefully on the Ethereum blockchain. First NFT project created to be fully handed to the community DAO.",
+    "image": "https://rav3a2ton8.execute-api.eu-central-1.amazonaws.com/prod/image/1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Blue Gradient"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Green Tracksuit"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Multicolor Cap"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pearly Whites"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed Up Eyes"
+      }
+    ],
+    "compiler": "HashLips Art Engine",
+    "id": 1
+  }
+}

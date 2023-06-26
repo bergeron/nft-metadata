@@ -1,0 +1,75 @@
+{
+  "address": "0xfe173bec3312a87291b9816e796cd66a5cef36d5",
+  "type": "ERC721",
+  "name": "Ways to Misspell Obsidian",
+  "tokenCount": "2",
+  "uri": "ipfs://QmVgvQgTBMa4gA5i6jRzbpTnhtoYsAV36HAtBvYXPfs12o",
+  "metadata": {
+    "name": "Juan",
+    "description": "A spoken-word poem written to commemorate the ten-year anniversary of a close friend’s passing. This text celebrates how the seemingly small moments spent with others prove to be the most meaningful.\n\nVerisart Certified: https://verisart.com/works/68759764-b6af-4b3e-9065-c44c07df37f9",
+    "image": "ipfs://QmcbPCRNY1HtVAKGvja9FzNNQnSJsYb6ECs4e9u4aM65HS",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 2160,
+          "height": 2160,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 5,
+          "seconds": 0
+        },
+        "frameRate": 25,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0x1ca635be1b3dee78005df9e9725f2446925cf4ac",
+            "bps": 1000
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "animation_url": "ipfs://QmdtqnrnTguP4s7qMU2Pjwx3NMk1hQSdMPggYVvNCgosqP",
+    "external_url": "https://verisart.com/works/68759764-b6af-4b3e-9065-c44c07df37f9",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Ana Maria Caballero",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "Juan",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "2160x2160 px",
+        "display_type": null
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:05:00",
+        "display_type": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "address": "0x7b408fec07fee41ce9974fa2b7e6eb3e3b461b72",
+  "type": "ERC721",
+  "name": "Cybots NFT",
+  "tokenCount": "5000",
+  "uri": "ipfs://bafybeicqkaxs3cuesxnvxymqkiiat4fxqxpmiuwv2cdbkmh6blren7jhf4/1.json",
+  "metadata": {
+    "name": "Cybots #1",
+    "description": "A robot from future.",
+    "image": "ipfs://bafybeialun3j3oop44mqmjmlh5cqb2m24w3mzghnwcx6jlmsedagtr4sey/1.png",
+    "dna": "b1e791ae4fb55d42016622c496dd0181682fda91",
+    "edition": 1,
+    "date": 1653640442816,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "back",
+        "value": "None "
+      },
+      {
+        "trait_type": "skin",
+        "value": "HUMAN "
+      },
+      {
+        "trait_type": "body",
+        "value": "GREY"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "EYE PATCH BORED EYE "
+      },
+      {
+        "trait_type": "hair",
+        "value": "CYBOT CAP "
+      },
+      {
+        "trait_type": "mouth",
+        "value": "MULTICOLOR POP HUMAN "
+      },
+      {
+        "trait_type": "shirts",
+        "value": "GREEN VARSITY JACKET "
+      },
+      {
+        "trait_type": "head",
+        "value": "HALO "
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

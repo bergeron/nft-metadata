@@ -1,0 +1,157 @@
+{
+  "address": "0xc3f733ca98e0dad0386979eb96fb1722a1a05e69",
+  "type": "ERC721",
+  "name": "MoonCats",
+  "tokenCount": "19654",
+  "uri": "https://api.mooncat.community/traits/1",
+  "metadata": {
+    "animation_url": "https://api.mooncat.community/dynamic/1",
+    "description": "An Adorable Sky Blue Smiling Tortie [MoonCat](https://purrse.mooncat.community/1).",
+    "license": "https://mooncat.community/mooncatlicense",
+    "name": "MoonCat #1: 0x000f53c2fd",
+    "background_color": "000000",
+    "image": "https://api.mooncat.community/cat-image/1",
+    "details": {
+      "name": null,
+      "isAcclimated": true,
+      "owner": "0x5fcf881976edaf9faa5e9d7f2e08ee8afd163372",
+      "lootprint": "Claimed",
+      "contract": {
+        "tokenId": 1,
+        "description": "MoonCatAcclimator",
+        "address": "0xc3f733ca98e0dad0386979eb96fb1722a1a05e69",
+        "capabilities": [
+          "ERC20",
+          "ERC721",
+          "ERC998"
+        ]
+      },
+      "accessories": [],
+      "hue": "skyBlue",
+      "kInt": 15,
+      "onlyChild": false,
+      "isPale": false,
+      "litterId": "0021330043660096e666caff99ffdec0",
+      "catId": "0x000f53c2fd",
+      "expression": "smiling",
+      "cloneSet": [
+        1
+      ],
+      "facing": "left",
+      "hasTwins": true,
+      "litter": [
+        1,
+        2002,
+        9768,
+        22432,
+        23846,
+        25034
+      ],
+      "twinId": "0021330043660096e666caff99ffdec0",
+      "classification": "rescue",
+      "pale": false,
+      "kBin": "00001111",
+      "hasClones": false,
+      "twinSetSize": 2,
+      "litterSize": 6,
+      "mirrorSetSize": 1,
+      "pose": "stalking",
+      "rescueIndex": 1,
+      "rescuedBy": "0x4be972e5799b243180b2fc76468a1c8503281449",
+      "cloneId": "0021330043660096e666caff99ffdecc",
+      "genesis": false,
+      "twinSet": [
+        1,
+        23846
+      ],
+      "rescueYear": 2017,
+      "mirrorId": "0021330043660096e666caff99ffdecc",
+      "glow": [
+        83,
+        194,
+        253
+      ],
+      "mirrorSet": [
+        1
+      ],
+      "hasMirrors": false,
+      "cloneSetSize": 1,
+      "pattern": "tortie",
+      "hueValue": 200
+    },
+    "attributes": [
+      {
+        "trait_type": "MoonCat Id",
+        "value": "0x000f53c2fd"
+      },
+      {
+        "trait_type": "Rescue Index",
+        "value": 1,
+        "max_value": 25439
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Rescue"
+      },
+      {
+        "trait_type": "Rescue Year",
+        "value": "2017"
+      },
+      {
+        "trait_type": "Coat",
+        "value": "Sky Blue Tortie"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Smiling"
+      },
+      {
+        "trait_type": "Pose",
+        "value": "Stalking"
+      },
+      {
+        "trait_type": "Only Child?",
+        "value": "No"
+      },
+      {
+        "trait_type": "Has Twins?",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Has Mirrors?",
+        "value": "No"
+      },
+      {
+        "trait_type": "Has Clones?",
+        "value": "No"
+      },
+      {
+        "trait_type": "Coat Pattern",
+        "value": "Tortie"
+      },
+      {
+        "trait_type": "Coat Hue",
+        "value": "Sky Blue"
+      },
+      {
+        "trait_type": "Coat Saturation",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "isNamed",
+        "value": "No"
+      },
+      {
+        "trait_type": "lootprint",
+        "value": "Minted"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Hue",
+        "value": 200,
+        "max_value": 359
+      }
+    ],
+    "external_url": "https://purrse.mooncat.community/1"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "address": "0x7ca385e182cc1bda37174a24e11fcaf60c8e9522",
+  "type": "ERC721",
+  "name": "Free Beer RMLL2012",
+  "tokenCount": "25",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=ck0kHa1zgaJlOtaYwuJD",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1586035173156?alt=media&token=0c14c199-31c9-46b6-826a-1125acb58f03",
+    "forSale": true,
+    "description": "Free Beer under CERN OHL v1.1 made in limited edition for RMLL 2012 in Geneva.",
+    "contractAddress": "0x7ca385e182cc1bda37174a24e11fcaf60c8e9522",
+    "tags": [],
+    "amountToMint": 25,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1586035537,
+      "_nanoseconds": 237000000
+    },
+    "price": "0.01",
+    "name": "Free Beer RMLL2012",
+    "fiatPrice": "$1.44",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "https://2012.rmll.info/biere-libre"
+      },
+      {
+        "trait_type": "location",
+        "value": "Geneva, Switzerland"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJ6-LQkwZljEcRObwLezWVtqA"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1338328800
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "youtube_url": "https://www.youtube.com/watch?v=rh0CHfflwSk",
+    "external_url": "https://mintbase.io/my-market/0x7ca385e182cc1bda37174a24e11fcaf60c8e9522",
+    "type": "ERC721"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "address": "0xae1fb0cce66904b9fa2b60bef2b8057ce2441538",
+  "type": "ERC721",
+  "name": "REPLICATOR by Mad Dog Jones",
+  "tokenCount": "220",
+  "uri": "https://arweave.net/YNSMS6sB3I5hWzQB75E2yCD-e0Cdsm9k66c_HQ8q2UU",
+  "metadata": {
+    "name": "REPLICATOR",
+    "created_by": "Mad Dog Jones",
+    "description": "Chapter 1: In and out like a ghost\n\nApril 12, 1993",
+    "external_url": "https://maddogjones.com/",
+    "image": "https://arweave.net/TEmnWymUXw5fChTKgi9cYEAl4Fw2Me7P51UppRJDC8o",
+    "image_url": "https://arweave.net/TEmnWymUXw5fChTKgi9cYEAl4Fw2Me7P51UppRJDC8o",
+    "image_details": {
+      "sha256": "b2c27755fb876c407eb3a23e2751caf6d01eb76a35858177cff54bc1dfb94318",
+      "bytes": 16457805,
+      "width": 4800,
+      "height": 6000,
+      "format": "PNG"
+    },
+    "animation": "https://arweave.net/-rtDXRMOWLJql67yxd3V71nc_7mpWXKieL01G4jy-TU",
+    "animation_url": "https://arweave.net/-rtDXRMOWLJql67yxd3V71nc_7mpWXKieL01G4jy-TU",
+    "animation_details": {
+      "sha256": "13d3ed2dba0b6ad47ed86bc2de5809486d08a0797298f57c7361e6b891728d49",
+      "bytes": 64232495,
+      "width": 4800,
+      "height": 6000,
+      "duration": 50,
+      "format": "MP4",
+      "codecs": [
+        "AAC",
+        "H.264"
+      ]
+    },
+    "auction_details": {
+      "auctioneer": "Phillips",
+      "start_time": 1618243200,
+      "end_time": 1619193600,
+      "currency_code": "USD",
+      "currency_unit": "cents",
+      "hammer_amount": 340000000,
+      "sale_amount": 414400000
+    },
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Mad Dog Jones"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Replicator"
+      },
+      {
+        "trait_type": "Generation",
+        "value": "1"
+      },
+      {
+        "trait_type": "Print Number",
+        "value": "1"
+      }
+    ]
+  }
+}

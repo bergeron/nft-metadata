@@ -1,0 +1,44 @@
+{
+  "address": "0x798c6f5877b853b2f388e7e81cde39aca9cb72c4",
+  "type": "ERC721",
+  "name": "Art Unchained V2",
+  "tokenCount": "54",
+  "uri": "https://arweave.net/5LA7E4Bw_uWKQ0xfH7UEdlfqg4K6MQhKRbAfAjt077U/1",
+  "metadata": {
+    "name": "Art Unchained XMAS 2022 #1/420",
+    "created_by": "Art Unchained",
+    "external_url": "https://www.art-unchained.io",
+    "description": "Art Unchained XMAS gift 2022\n\nGet your own customized virtual gallery at art-unchained.io",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Year",
+        "value": 2022
+      },
+      {
+        "trait_type": "Topic",
+        "value": "XMAS"
+      },
+      {
+        "trait_type": "Animated",
+        "value": "Yes"
+      }
+    ],
+    "animation_details": {
+      "bytes": 12594896,
+      "format": "GLB",
+      "sha256": "a742f8e171a3a4a4b98f4ecefb2f4032c8e148b6494f60d8dbd5138e6aa85989"
+    },
+    "animation": "https://arweave.net/UQwa3ES8UnfKZN7S1-R4-kHeROrmGdQwEt1p-XSuEcg",
+    "animation_url": "https://arweave.net/UQwa3ES8UnfKZN7S1-R4-kHeROrmGdQwEt1p-XSuEcg",
+    "image_details": {
+      "bytes": 374953,
+      "format": "PNG",
+      "sha256": "255a689d5deabf8c3203cc04d3744bbca76365dfd708b77f85ca1049e30c4004",
+      "width": 1195,
+      "height": 757
+    },
+    "image": "https://arweave.net/R8GygsBZUY3oy-5kTk-smntdqBSWlGXS03yDHjUULcE",
+    "image_url": "https://arweave.net/R8GygsBZUY3oy-5kTk-smntdqBSWlGXS03yDHjUULcE"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "address": "0x8c02418ff222caaeafae065e9341dff69ca9ffcf",
+  "type": "ERC1155",
+  "name": "Eth editions",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/Ok3tjMqJ-WEeWxhVh5Z9_4ju0Bsz7rsR83LHyXdzxG8",
+  "metadata": {
+    "name": "Love is in the rain",
+    "created_by": "Urban.paintingz",
+    "description": "I love how the rain can change the mood and look a painting. The couple walking in the rain add a lot to the mood of the painting and city lights come to life in the rain. I wanted add something to my digital art that I could not do in my physical oil or acrylic paintings so I have animated the rain.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Urban.paintingz"
+      },
+      {
+        "trait_type": "Art",
+        "value": "Art"
+      },
+      {
+        "trait_type": "Location",
+        "value": "London"
+      },
+      {
+        "trait_type": "Painting",
+        "value": "Painting"
+      }
+    ],
+    "animation_details": {
+      "bytes": 98712613,
+      "format": "MP4",
+      "duration": 20,
+      "sha256": "dbe50f0a0f31d804a28dabd8aecdea6799dd8a22781ccc56d361b1487d3f2fd5",
+      "width": 2160,
+      "height": 2704,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/s5r2tn0hnrT7xxN9se6ZC9whGRxos3Ptsr8JpZwgwHM",
+    "animation_url": "https://arweave.net/s5r2tn0hnrT7xxN9se6ZC9whGRxos3Ptsr8JpZwgwHM",
+    "image_details": {
+      "bytes": 2955457,
+      "format": "JPEG",
+      "sha256": "a12f54b00f719c57d87c193910eb1bd56fe5be20530e32be59158a9c8124f8b6",
+      "width": 2160,
+      "height": 2704
+    },
+    "image": "https://arweave.net/ftEKTee9nHW5z-pWJRBLJoiqTDtTxXTKPzD45OhEZCs",
+    "image_url": "https://arweave.net/ftEKTee9nHW5z-pWJRBLJoiqTDtTxXTKPzD45OhEZCs"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "address": "0x552eb4cc55496163df81e726fea60f3bb27cc13e",
+  "type": "ERC721",
+  "name": "Dead Founders Club",
+  "tokenCount": "10000",
+  "uri": "ipfs://bafybeidklnj2nisfo6ssrlnt54vbpeiodwfkrhpzi2xsstzuj7plr6c2fu/1.json",
+  "metadata": {
+    "name": "Dead Founder #1",
+    "description": "Welcome to the Dead Founders Club. Meet the founders who died during their project mint.",
+    "image": "ipfs://bafybeie5ovszai62o4j2h4zmunysmzmqe5x2ollzayhcmitoqsxjwiahrq/1.png",
+    "dna": "fbd0fc2d9a50a39489e759cb99d895aee83cdf0f",
+    "edition": 1,
+    "date": 1665964103707,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Brown Fur Coat"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Cross"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Hanging Jaw"
+      },
+      {
+        "trait_type": "Face Hair",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Tears"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Punk Spiked"
+      }
+    ],
+    "compiler": "DFC"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "address": "0x1afb4d019ce1193dfc5f4d8226a64306852b1256",
+  "type": "ERC721",
+  "name": "rareWhiskyNFT",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/NMVZAdNvYXKT7odhGt3h9RRBwFs_LRx13bYXjQ8r4wI",
+  "metadata": {
+    "name": "Whisky #001",
+    "created_by": "rareWhiskyNFT",
+    "description": "you have the chance to redeem this NFT and get the real bottle of Whisky",
+    "How to redeem": "IF you want to change the NFT into a real bottle of Whisky go to https://",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Single Malt"
+      },
+      {
+        "trait_type": "Distillery",
+        "value": "Glenallachie"
+      },
+      {
+        "trait_type": "Bottler",
+        "value": "Distillery Bottling"
+      },
+      {
+        "trait_type": "Bottling serie",
+        "value": "n/a"
+      }
+    ],
+    "animation_details": {
+      "bytes": 22803745,
+      "format": "MP4",
+      "duration": 16,
+      "sha256": "7a82f5276997aa1ffbaf3b7f9367737a669abdae659ae4bc514960b396e0c5f3",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/ZFRHI_KSmEyxkrDJi_oheZyd8N-dI30tMh2ejSzpvNI",
+    "animation_url": "https://arweave.net/ZFRHI_KSmEyxkrDJi_oheZyd8N-dI30tMh2ejSzpvNI",
+    "image_details": {
+      "bytes": 115620,
+      "format": "JPEG",
+      "sha256": "e234305bb025fbb21c39eaa48fe9f373920c771d52c53f321326fec4dbfcc29b",
+      "width": 1127,
+      "height": 1127
+    },
+    "image": "https://arweave.net/AtxB51xZ83EnnuWx0SavpTcLSjj1XZKU6KmpgFWfJA8",
+    "image_url": "https://arweave.net/AtxB51xZ83EnnuWx0SavpTcLSjj1XZKU6KmpgFWfJA8"
+  }
+}

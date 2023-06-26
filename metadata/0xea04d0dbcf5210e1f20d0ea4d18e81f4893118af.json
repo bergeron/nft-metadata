@@ -1,0 +1,40 @@
+{
+  "address": "0xea04d0dbcf5210e1f20d0ea4d18e81f4893118af",
+  "type": "ERC721",
+  "name": "1687 Club",
+  "tokenCount": "420",
+  "uri": "ipfs://QmREwjPqFkLmZ53snLFsujpg11AnciwAy1dw3tPPVvhRDq/1",
+  "metadata": {
+    "description": "1687 Club Membership Token",
+    "image": "ipfs://Qmf8k254vLUn38K4JE2bdNurxTnMivnsmJkheRNSVXhK6M/1.png",
+    "name": "1687 Token #1",
+    "external_url": "https://1687club.com/gallery/?id=1",
+    "attributes": [
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Cat",
+        "value": "Leopard"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black Panther"
+      },
+      {
+        "trait_type": "Design",
+        "value": "Bespoke"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Super Rare 1"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 1639123200
+      }
+    ]
+  }
+}

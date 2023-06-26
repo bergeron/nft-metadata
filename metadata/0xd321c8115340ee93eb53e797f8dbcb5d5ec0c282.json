@@ -1,0 +1,34 @@
+{
+  "address": "0xd321c8115340ee93eb53e797f8dbcb5d5ec0c282",
+  "type": "ERC1155",
+  "name": "ErcForge",
+  "tokenCount": "1",
+  "uri": "https://api.ercforge.io/contract/5/token/1",
+  "metadata": {
+    "image": "https://i.ibb.co/87nSxtJ/Erc-Forge2.png",
+    "external_url": "https://www.ercforge.io/",
+    "token_id": "1",
+    "name": "ErcForge Member",
+    "description": "This NFT grants zero fees on our website www.ercforge.io. The supply is limited for our first supporters. Mint your Member token on the link below.\n\nThe supply of this token is currently zero. We will announce the exact date of the mint event on our Twitter page. The mint supply will be low and limited.\n\nMint page: https://app.ercforge.io/mint/0xd321c8115340ee93EB53e797f8dBCb5d5ec0C282/1\n\n",
+    "attributes": [
+      {
+        "display_type": "boost_percentage",
+        "value": "100",
+        "trait_type": "Discount",
+        "max_value ": ""
+      },
+      {
+        "display_type": "",
+        "value": "Member",
+        "trait_type": "Rank",
+        "max_value ": ""
+      },
+      {
+        "display_type": "",
+        "value": "Lifetime",
+        "trait_type": "Duration",
+        "max_value ": ""
+      }
+    ]
+  }
+}

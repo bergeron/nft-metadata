@@ -1,0 +1,35 @@
+{
+  "address": "0x010ec8f204151e0c9afcfef00ca70605d4a20b4f",
+  "type": "ERC721",
+  "name": "Giddy Glider",
+  "tokenCount": "13",
+  "uri": "ipfs://Qmbx553FyKi6paPepsg2FxhD1bGZN5EKGHRTNJ9DKiSXkF",
+  "metadata": {
+    "name": "Sky Glider",
+    "description": "Sky Glider brings a Birds Eye view - for industry perspective",
+    "image": "ipfs://QmTSN74pDhdZWjaH6nZwv89vs1oTeBNGH6dD69t18oodVW",
+    "external_url": "https://gliders.club",
+    "attributes": [
+      {
+        "trait_type": "Accessory",
+        "value": "drone"
+      },
+      {
+        "trait_type": "Holding",
+        "value": "drone Controller"
+      },
+      {
+        "trait_type": "background",
+        "value": "mountains"
+      },
+      {
+        "trait_type": "clothing",
+        "value": "natural"
+      },
+      {
+        "trait_type": "platform",
+        "value": "plinth"
+      }
+    ]
+  }
+}

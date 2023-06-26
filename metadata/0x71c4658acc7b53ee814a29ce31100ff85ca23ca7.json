@@ -1,0 +1,99 @@
+{
+  "address": "0x71c4658acc7b53ee814a29ce31100ff85ca23ca7",
+  "type": "ERC721",
+  "name": "GalaXY Kats Universe",
+  "tokenCount": "10000",
+  "uri": "https://metadata.galaxy.art/1",
+  "metadata": {
+    "name": "GalaXY Kats #1",
+    "description": "GalaXY Kats is a collection of 10,000 unique meerkat NFTs on the Ethereum blockchain. Each meerkat is a holder’s avatar ticket to enter the blockchain game. Moreover, holders can participate in exclusive content airdrops and earn tokens.",
+    "image": "https://images.galaxy.art/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gradient Aurora",
+        "id": "9010"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Royal",
+        "id": "5561"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Puppy Eye",
+        "id": "7008"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Royal",
+        "id": "121"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Blendy",
+        "id": "11003"
+      },
+      {
+        "trait_type": "Head",
+        "value": "XY Baseball Cap Red",
+        "id": "1381"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Blendy",
+        "id": "4031"
+      },
+      {
+        "trait_type": "Accessories back level",
+        "value": 0,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Accessories front level",
+        "value": 0,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Glasses level",
+        "value": 1,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Head level",
+        "value": 1,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Skin level",
+        "value": 1,
+        "max_value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "ATK",
+        "value": 71
+      },
+      {
+        "display_type": "number",
+        "trait_type": "HP",
+        "value": 138
+      },
+      {
+        "display_type": "number",
+        "trait_type": "DEF",
+        "value": 127
+      },
+      {
+        "display_type": "number",
+        "trait_type": "INT",
+        "value": 108
+      },
+      {
+        "display_type": "number",
+        "trait_type": "SPD",
+        "value": 137
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "address": "0xbd2017c2e45fc87f3c2d7da5e25eca49ba609155",
+  "type": "ERC721",
+  "name": "Futureland Portal",
+  "tokenCount": "30",
+  "uri": "https://nft.futureland.io/portal/1",
+  "metadata": {
+    "id": 1,
+    "name": "Future Portal #1",
+    "image": "https://nft.futureland.io/portal/image/1.png",
+    "description": "Your portal to the world of Futureland - Portal #1",
+    "external_url": "https://futureland.io/portal/1/",
+    "attributes": [
+      {
+        "trait_type": "Flying object",
+        "value": "Whale"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Man"
+      },
+      {
+        "trait_type": "Portal",
+        "value": "Blue Aura"
+      },
+      {
+        "trait_type": "Destination",
+        "value": "Unknown Purple"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Night Ocean"
+      }
+    ]
+  }
+}

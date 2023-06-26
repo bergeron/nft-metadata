@@ -1,0 +1,28 @@
+{
+  "address": "0x30fda944075c1b7e92498ce6358bcef1284febfa",
+  "type": "ERC721",
+  "name": "WBTC V2",
+  "tokenCount": "13",
+  "uri": "data:application/json,{\"name\":\"WBTC Allocation Voucher #1 - 0.00 - OneTime\", \"description\":\"Voucher #1 of WBTC allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade WBTC's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!\",\"image\": \"https://imgurl.solv.finance/meta/images/vvWBTC/1.png\",\"external_url\":\"https://app.solv.finance/vvWBTC/1\", \"properties\": {\"owner\":\"0x2493da1b4ea660ceedbfe4bef5f3ca8b24fecf10\",\"underlying\":\"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599\",\"underlyingSymbol\":\"WBTC\",\"vestingAmount\":\"0.99911000\",\"principal\":\"0.00000000\",\"claimType\":\"OneTime\",\"claimableAmount\":\"0.00000000\",\"percentages\":[\"100.00%\"],\"maturities\":[1643068800]}}",
+  "metadata": {
+    "name": "WBTC Allocation Voucher #1 - 0.00 - OneTime",
+    "description": "Voucher #1 of WBTC allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade WBTC's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!",
+    "image": "https://imgurl.solv.finance/meta/images/vvWBTC/1.png",
+    "external_url": "https://app.solv.finance/vvWBTC/1",
+    "properties": {
+      "owner": "0x2493da1b4ea660ceedbfe4bef5f3ca8b24fecf10",
+      "underlying": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "underlyingSymbol": "WBTC",
+      "vestingAmount": "0.99911000",
+      "principal": "0.00000000",
+      "claimType": "OneTime",
+      "claimableAmount": "0.00000000",
+      "percentages": [
+        "100.00%"
+      ],
+      "maturities": [
+        1643068800
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0xeb0eb6d0b303bc0b83a86f23e977ef12c805080b",
+  "type": "ERC721",
+  "name": "MenschMachine",
+  "tokenCount": "60",
+  "uri": "https://www.menschmaschine.io/api/track/1",
+  "metadata": {
+    "id": "1",
+    "name": "menschmaschine 001",
+    "description": "MenschMaschine is a set of 60 unique music creations.  \n  \nEach MenschMaschine NFT is a unique musical work created by combining Mensch, the music producer, and Maschine. The Maschine creates unique randomized iterations of the work, seeded by the Ethereum block number at the time of creation, combining each of the musical parts created by the Producer along with unique effects and other manipulations.  \n  \nThe purchase and sale of this NFT is subject to terms and conditions available at [MenschMaschine.io.](https://www.menschmaschine.io/).",
+    "external_url": "https://www.menschmaschine.io/track/001",
+    "image": "https://www.menschmaschine.io/img/track/blank-record.png",
+    "animation_url": "https://menschmaschine.s3-us-west-1.amazonaws.com/11001.wav",
+    "background_color": "DC43AB",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "MxM"
+      },
+      {
+        "trait_type": "Batch",
+        "value": "5"
+      },
+      {
+        "trait_type": "Seed",
+        "value": "12311400"
+      },
+      {
+        "trait_type": "length",
+        "value": "4 bars"
+      },
+      {
+        "trait_type": "DNA",
+        "value": "642251742-11222-2-11816-26"
+      }
+    ]
+  }
+}

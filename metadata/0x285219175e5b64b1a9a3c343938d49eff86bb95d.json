@@ -1,0 +1,55 @@
+{
+  "address": "0x285219175e5b64b1a9a3c343938d49eff86bb95d",
+  "type": "ERC721",
+  "name": "Barnacle",
+  "tokenCount": "24",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=Uko9at0pzJFPNLmgS2AP",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1585961229256?alt=media&token=955e159a-8e02-41af-8a58-6dcf7be913ae",
+    "forSale": true,
+    "contractAddress": "0x285219175e5b64b1a9a3c343938d49eff86bb95d",
+    "description": "The place for something to grow, native to the sea,",
+    "tags": [],
+    "amountToMint": 24,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1585961494,
+      "_nanoseconds": 734000000
+    },
+    "price": "5",
+    "name": "Barnacle",
+    "fiatPrice": "$707.20",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": ""
+      },
+      {
+        "trait_type": "location",
+        "value": "Colorado Springs, CO 80903, USA"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJ8WWhxCZFE4cR1P16LTJxi-A"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1585893600
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x285219175e5b64b1a9a3c343938d49eff86bb95d",
+    "type": "ERC721"
+  }
+}

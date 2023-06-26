@@ -1,0 +1,38 @@
+{
+  "address": "0xbbef111d8969d952bd504141f13cd12d3dc3e273",
+  "type": "ERC721",
+  "name": "Asatoken",
+  "tokenCount": "4",
+  "uri": "ipfs://QmYdixJV9Lt8H1pEXJCRsWN3e4aNeJLZWwjB1ytn7xFuDh/metadata.json",
+  "metadata": {
+    "name": "JBL speaker in pink",
+    "description": "This is a JBL Charge 5 speaker in color pink ",
+    "category": "Electronic",
+    "image": "ipfs://QmZCFHRgbT3e12EKRy7M3ozd5QVht27HAnzHUSYtyu6KGY/0.jpg",
+    "image_url": "ipfs://QmZCFHRgbT3e12EKRy7M3ozd5QVht27HAnzHUSYtyu6KGY/0.jpg",
+    "attributes": [
+      {
+        "trait_type": "Picture",
+        "value": "2"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://QmUT5ribRwUmQdXesCESYxJfKQNzVtKBrg922CDybuUhkS/1.mov",
+          "type": ".mov",
+          "description": "A short clip of me holding the speaker",
+          "category": "Picture",
+          "private": false
+        },
+        {
+          "uri": "ipfs://QmUT5ribRwUmQdXesCESYxJfKQNzVtKBrg922CDybuUhkS/2.pdf",
+          "type": ".pdf",
+          "description": "A pdf file of the speaker picture",
+          "category": "Picture",
+          "private": false
+        }
+      ]
+    }
+  }
+}

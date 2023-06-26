@@ -1,0 +1,30 @@
+{
+  "address": "0x5266c5aca260818be013c80bd9ed5ba0f3d49070",
+  "type": "ERC721",
+  "name": "ADVENTUROUS HALFLINGS",
+  "tokenCount": "10000",
+  "uri": "https://www.halflings.art/api/api/metadata/1",
+  "metadata": {
+    "id": 1,
+    "name": "Halfling #1",
+    "description": "Near the city of Halflington, down Finnegan's Road, there is a small village called Wetfoot. A peaceful community, where you can hear the birds chirpin and the Orfen River running. Wetfoot is home to a small, silent, but heroic breed, called 'The Halflings'. Halflings are full of wanderlust and their next adventure is about to begin.",
+    "image": "https://halflings.art/api/public/images/1.png",
+    "webp_imageUrl": "https://halflings.art/api/public/previews/1.webp",
+    "points": 0,
+    "stakeTime": 0,
+    "stakeTime2": 0,
+    "isOneOfOne": true,
+    "isStake": false,
+    "attributes": [
+      {
+        "trait_type": "1 Of 1",
+        "value": "The Creator"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Adventure Points %",
+        "value": 0
+      }
+    ]
+  }
+}

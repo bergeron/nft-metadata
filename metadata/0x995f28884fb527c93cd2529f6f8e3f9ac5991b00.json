@@ -1,0 +1,28 @@
+{
+  "address": "0x995f28884fb527c93cd2529f6f8e3f9ac5991b00",
+  "type": "ERC721",
+  "name": "Piece of the pie",
+  "tokenCount": "72",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=WKEbb6c1PnidLxyY3BKi",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1582496774622?alt=media&token=0d689caf-4a0d-438f-b2da-429ea48f3ace",
+    "forSale": true,
+    "description": "Pie digital baked of CYMK grids and cut in 8 pieces",
+    "contractAddress": "0x995f28884fb527c93cd2529f6f8e3f9ac5991b00",
+    "tags": [],
+    "amountToMint": 8,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1582496956,
+      "_nanoseconds": 222000000
+    },
+    "price": "0.015625",
+    "name": "Piece of the pie 1/8",
+    "fiatPrice": "$4.25",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x995f28884fb527c93cd2529f6f8e3f9ac5991b00",
+    "type": "ERC721"
+  }
+}

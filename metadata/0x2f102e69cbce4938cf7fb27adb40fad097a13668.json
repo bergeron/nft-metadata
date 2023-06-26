@@ -1,0 +1,75 @@
+{
+  "address": "0x2f102e69cbce4938cf7fb27adb40fad097a13668",
+  "type": "ERC721",
+  "name": "Rollbots",
+  "tokenCount": "10000",
+  "uri": "https://rollbot.rollbit.com/metadata/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Special",
+        "value": "Golden Caesar"
+      },
+      {
+        "display_type": "boost_percentage",
+        "max_value": 20,
+        "trait_type": "Rollback",
+        "value": 10
+      },
+      {
+        "display_type": "boost_percentage",
+        "max_value": 30,
+        "trait_type": "Rollbox",
+        "value": 30
+      },
+      {
+        "display_type": "boost_number",
+        "max_value": 1000,
+        "trait_type": "Marketplace",
+        "value": 1000
+      },
+      {
+        "display_type": "boost_number",
+        "max_value": 1000000,
+        "trait_type": "RLB",
+        "value": 1000000
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Lottery",
+        "value": 5.2
+      }
+    ],
+    "external_url": "https://rollbit.com/nft/eth:0x2f102e69cbce4938cf7fb27adb40fad097a13668/1",
+    "image": "https://rollbot.rollbit.com/pics/1.webp",
+    "name": "Golden Caesar"
+  }
+}

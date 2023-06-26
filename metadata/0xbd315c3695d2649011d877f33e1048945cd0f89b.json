@@ -1,0 +1,25 @@
+{
+  "address": "0xbd315c3695d2649011d877f33e1048945cd0f89b",
+  "type": "ERC721",
+  "name": "Jules Lock",
+  "tokenCount": "5",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xbd315c3695d2649011d877f33e1048945cd0f89b/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xbd315c3695d2649011d877f33e1048945Cd0f89B/icon?id=1",
+    "expiration": 1590433954,
+    "tokenId": "1",
+    "owner": "0x51286013d10cf5781837a72a2f3959a93b3f9005",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1590433954
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xbd315c3695d2649011d877f33e1048945Cd0f89B",
+    "network": 1
+  }
+}

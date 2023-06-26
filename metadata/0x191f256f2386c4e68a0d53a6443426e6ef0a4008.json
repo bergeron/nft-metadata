@@ -1,0 +1,47 @@
+{
+  "address": "0x191f256f2386c4e68a0d53a6443426e6ef0a4008",
+  "type": "ERC721",
+  "name": "Kit (for Heroes)",
+  "tokenCount": "22",
+  "uri": "https://kit-for-heroes.s3.us-east-2.amazonaws.com/%231-8888/1.json",
+  "metadata": {
+    "name": "ID #1",
+    "description": "Kit is a randomized superhero identity stored on the chain. Stats, images, and other functionality are intentionally omitted as we believe your truest super power is your imagination. Please feel free to use Kit in any way you want.",
+    "image": "https://kit-for-heroes.s3.us-east-2.amazonaws.com/%231-8888/ID1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Alter_Ego",
+        "value": "Aerobics Instructor"
+      },
+      {
+        "trait_type": "Alternative_Trait",
+        "value": "Mischievous"
+      },
+      {
+        "trait_type": "Super_Power",
+        "value": "Divinity"
+      },
+      {
+        "trait_type": "Super_Power",
+        "value": "Ability Shift +2"
+      },
+      {
+        "trait_type": "Super_Power",
+        "value": "Accelerated Healing +1"
+      },
+      {
+        "trait_type": "Costume",
+        "value": "Leather Gauntlet"
+      },
+      {
+        "trait_type": "Costume",
+        "value": "Gold Hat"
+      },
+      {
+        "trait_type": "Costume",
+        "value": "Fur Gloves"
+      }
+    ]
+  }
+}

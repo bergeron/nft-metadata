@@ -1,0 +1,38 @@
+{
+  "address": "0x2b5afa41bbf73d5dd5412bbab18e6bdf878cb652",
+  "type": "ERC721",
+  "name": "The Panda Pack",
+  "tokenCount": "220",
+  "uri": "ipfs://QmYx1Vk5GVurRyy1jMemxTYwUzsCoyDobesUd9BQuYKFRp/1.json",
+  "metadata": {
+    "dna": "ce592c4220a8a73789d6835440d28a854658c01e",
+    "name": " #1",
+    "description": "Panda Pack",
+    "image": "ipfs://QmejQhpBhkBTEDKtjmVu58jQokdtPf927MfRGCKfULWAKy/1.png",
+    "edition": 1,
+    "date": 1634563333420,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "8"
+      },
+      {
+        "trait_type": "Base",
+        "value": "base gold"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "costume 9"
+      },
+      {
+        "trait_type": "Caps",
+        "value": "santa hat"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "sarcastic mouth"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

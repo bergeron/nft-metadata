@@ -1,0 +1,63 @@
+{
+  "address": "0x5d031f0ee400ef5667a7a1f5f51936d0c62637ca",
+  "type": "ERC721",
+  "name": "Lucindas Gashadokuro",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/3fj5WvHEh4lH3HYCe_mRxDy3nq2qRCEXyoo8x3DXBUo",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1640841582
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Lucinda Bradford"
+      }
+    ],
+    "description": "Lucinda's Gashadokuro",
+    "external_url": "https://cxip.io/nft/0x5d031f0ee400ef5667a7a1f5f51936d0c62637ca/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/bJG-zupXlGXD5ArZ9wYwcQbtFc4ss4ONHCpTrEdp66s",
+    "imageUrl": "https://arweave.net/bJG-zupXlGXD5ArZ9wYwcQbtFc4ss4ONHCpTrEdp66s",
+    "name": "Gashadokuro",
+    "properties": {
+      "created_at": "2021-12-30T05:19:42.000000Z",
+      "creator_wallet": "0x7702f985e855ddd381c0060b392205d6b45d1f55",
+      "description": "Lucinda's Gashadokuro",
+      "image": "https://arweave.net/bJG-zupXlGXD5ArZ9wYwcQbtFc4ss4ONHCpTrEdp66s",
+      "imageUrl": "https://arweave.net/bJG-zupXlGXD5ArZ9wYwcQbtFc4ss4ONHCpTrEdp66s",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "30 December 2021",
+      "name": "Gashadokuro",
+      "nft_type": "non-fungible image token (image/jpeg)",
+      "preview_media_file": "https://arweave.net/9cfLOMk5t--fd3KRElJlpa11FDyUvwETlDada0-yKLg",
+      "preview_media_file_dimensions": "480x360",
+      "preview_media_file_size": 126881,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "4032x3024",
+      "raw_media_file": "https://arweave.net/MVDXQIf-MDJEazaGOBV7IB1viIKBYpfjXUJwmCwP90E",
+      "raw_media_file_size": 8229026,
+      "raw_media_file_spec": "JPEG 4032x3024 4032x3024+0+0 8-bit sRGB 7.84781MiB 0.000u 0:00.000",
+      "raw_media_file_type": "image/jpeg",
+      "raw_media_format": "landscape",
+      "raw_media_signature": "0x538edbe728c0cb85802ec27e61e0eefc9f089948d07ac9b3453f8e76efe209db",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/9cfLOMk5t--fd3KRElJlpa11FDyUvwETlDada0-yKLg",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Gashadokuro",
+      "total_supply": 1
+    },
+    "title": "Gashadokuro"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "address": "0x105872a18f39d5d562d8e22fd5d99a9e35fa5d40",
+  "type": "ERC721",
+  "name": "Nakacatz",
+  "tokenCount": "2",
+  "uri": "https://bafybeiggk3ymktnmxhgroqjcjjbhs3i3xqrk5lv5xot264vpzcpv4n65bu.ipfs.w3s.link/1.json",
+  "metadata": {
+    "name": "Nakacatz #1",
+    "description": "Nakacatz #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "None"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Cherry"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Red Cape"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Balaclava"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cig"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Red Baseball Cap"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Bling"
+      }
+    ],
+    "creators": [
+      {
+        "address": "eth:0xFfE6d57C57efC7884C3fA51C35B658e592B45c12",
+        "share": 100
+      }
+    ],
+    "collection": {
+      "name": "Nakacatz",
+      "family": "Unique Family Name"
+    },
+    "symbol": "CATZ",
+    "seller_fee_basis_points": 0,
+    "image": "https://bafybeif6lvbnoh3mofvqcx6y2g5trhhug4e7zw4hnrw35tqebt5dtudnmi.ipfs.w3s.link/1.png"
+  }
+}

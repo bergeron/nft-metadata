@@ -1,0 +1,39 @@
+{
+  "address": "0x0f959b35c936c643bb5aaab9db0e4dc7c2eee784",
+  "type": "ERC721",
+  "name": "GANergy",
+  "tokenCount": "70",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=SDOm7KBoWJlyISqig5bP",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1573099843973?alt=media&token=8c50a6a3-debb-4b61-aaad-a8ec6cca9ea1",
+    "isForSale": true,
+    "description": "Life mix encapsulated \nGANergy #1",
+    "contractAddress": "0x0f959B35c936c643bb5aAAB9DB0E4Dc7c2eeE784",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x0f959B35c936c643bb5aAAB9DB0E4Dc7c2eeE784/SDOm7KBoWJlyISqig5bP",
+    "hide": true,
+    "minter": "0x6E63a4CAeCcb4F341EE9C9175c9Cc554bDB6d10B",
+    "mintedOn": {
+      "_seconds": 1573099900,
+      "_nanoseconds": 349000000
+    },
+    "price": "0.025",
+    "name": "Birth",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Birth"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

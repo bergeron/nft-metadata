@@ -1,0 +1,32 @@
+{
+  "address": "0x55def676ac8af3141d2efa73737fcbaf06ba459d",
+  "type": "ERC721",
+  "name": "birdjpg",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeifutxmpn2s423bvhje3vxnxjnodxgmceqwjb4gfrmjckmlkbcctxm/regular_bird_no_1.json",
+  "metadata": {
+    "name": "regular bird #1",
+    "description": "regular bird no 1 - one of 600 regular birds who migrated to Ethereum together with 1 sir bird, 9 babe birds, 40 cool birds and 150 nerd birds. \n\n800 is the finite supply for birdjpg on Ethereum - controlled by smart contract. \n\nOriginating on the XRPL in the year 2022, birdjpg initially minted a total supply of 8008 birdjpgs. Every birdjpg on Ethereum has a burned NFTokenId on the XRPL but uses the same jpg ipfs. Same jpg - different blockchain and different supply. \n\nWelcome to birdjpg. \n - get bird.",
+    "nftokenid_on_xrpl": "0008138808C4E53F4F6EF5D5B2AF64F96B457F42E0ED95301B56DA1400000779",
+    "image": "ipfs://bafybeienvbxkuolk7x3c36awhj44noohwva3ph5h7ktjxamhmoc32es62q/regular_bird_no_78.jpg",
+    "external_url": "https://www.birdjpg.io/",
+    "attributes": [
+      {
+        "value": "regular bird",
+        "trait_type": "Type"
+      },
+      {
+        "trait_type": "regular bird serial",
+        "value": 1,
+        "display_type": "number",
+        "max_value": 600
+      },
+      {
+        "trait_type": "collection serial",
+        "value": 201,
+        "display_type": "number",
+        "max_value": 800
+      }
+    ]
+  }
+}

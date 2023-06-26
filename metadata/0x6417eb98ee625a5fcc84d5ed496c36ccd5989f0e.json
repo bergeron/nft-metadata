@@ -1,0 +1,56 @@
+{
+  "address": "0x6417eb98ee625a5fcc84d5ed496c36ccd5989f0e",
+  "type": "ERC721",
+  "name": "Alienbirds",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmWwXJqwxmCUzoEr6nNAxFAQa4M716G6AcbVbtBK44aaf6/1",
+  "metadata": {
+    "name": "#1",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://QmSJrpRZ71xBUmYER5NxFHS3vFrRMirh6y1UaVEkdGhcef/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Translucid"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Coins"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Key"
+      },
+      {
+        "trait_type": "Outwear",
+        "value": "None"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Alienbirds",
+      "family": "Alienbirds"
+    },
+    "symbol": ""
+  }
+}

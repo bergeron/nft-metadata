@@ -1,0 +1,55 @@
+{
+  "address": "0x1ec2253404c429c1f8e464be027031813a3c6c61",
+  "type": "ERC721",
+  "name": "Ruggie Arthouse",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=EZ7rrEHKD8C5FuPzZobC",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1585430026126?alt=media&token=894052a9-eab1-4fa2-88a8-144ce6638e01",
+    "forSale": true,
+    "description": "Made by inspiring young, new artist (Ruggie) age 6. \nThe original is a real hand painting on canvas. Tokenized and minted. \nThis is a signed and limited 1 of 1 digital creation.\nYou will receive the non-commercial rights to the original art piece.\nAll Sales Final",
+    "contractAddress": "0x1ec2253404c429c1f8e464be027031813a3c6c61",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1585430852,
+      "_nanoseconds": 25000000
+    },
+    "price": ".07",
+    "name": "The WaterFall",
+    "fiatPrice": "$9.24",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": ""
+      },
+      {
+        "trait_type": "location",
+        "value": "United States"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1585378800
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": ""
+      }
+    ],
+    "external_url": "https://mintbase.io/my-market/0x1ec2253404c429c1f8e464be027031813a3c6c61",
+    "type": "ERC721"
+  }
+}

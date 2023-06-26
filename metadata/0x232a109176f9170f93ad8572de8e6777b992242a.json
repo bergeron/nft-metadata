@@ -1,0 +1,42 @@
+{
+  "address": "0x232a109176f9170f93ad8572de8e6777b992242a",
+  "type": "ERC721",
+  "name": "THE BRITS",
+  "tokenCount": "1023",
+  "uri": "ipfs://QmU3J3k9X4CKFHKSDmgyLfx2U5TEjiwwYGh4hUdVKmx5af/1.json",
+  "metadata": {
+    "name": "The Brits #1",
+    "description": "The Brits",
+    "image": "ipfs://QmZqaF19M7gZJ5kNA1oMSvDaHW2FpDGC3yukiuSxczQZpu/1.png",
+    "dna": "0dabcad7b167a7840e7d84ce13e2c08385fd0315",
+    "edition": 1,
+    "date": 1657476178012,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUNDS",
+        "value": "purple"
+      },
+      {
+        "trait_type": "BODY",
+        "value": "George"
+      },
+      {
+        "trait_type": "EYEWEAR",
+        "value": "glasses 5"
+      },
+      {
+        "trait_type": "FACIALHAIR",
+        "value": "chinstrap dark grey"
+      },
+      {
+        "trait_type": "HEADWEAR",
+        "value": "british bowler white"
+      },
+      {
+        "trait_type": "ACCESORY",
+        "value": "earring gold"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

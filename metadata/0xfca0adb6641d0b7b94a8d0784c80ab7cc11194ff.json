@@ -1,0 +1,38 @@
+{
+  "address": "0xfca0adb6641d0b7b94a8d0784c80ab7cc11194ff",
+  "type": "ERC721",
+  "name": "Bobo Punks",
+  "tokenCount": "999",
+  "uri": "ipfs://QmSEp11cdBmMZEW1CYiEvebSm6XokhTuEHFst9baNbhwD5/1.json",
+  "metadata": {
+    "name": "Bobo Punks #1",
+    "description": "Bobo punks is the first punk collection that honors Pixelmon's most beautiful piece of art : The Boremons 🦧 🤡 ",
+    "image": "ipfs://QmZmaL2KyhKxyB3wPXU9FrGgn8T19MDVmfVjCLHJkLAdGQ/1.png",
+    "dna": "41b72854156c6e1e859ec1ada44443abd56f6f3f",
+    "edition": 1,
+    "date": 1646413036124,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light_Yellow"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Zombie_Bobo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Knitted_Cap"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Gold_Earring"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

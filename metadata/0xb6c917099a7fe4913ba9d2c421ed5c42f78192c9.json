@@ -1,0 +1,36 @@
+{
+  "address": "0xb6c917099a7fe4913ba9d2c421ed5c42f78192c9",
+  "type": "ERC721",
+  "name": "SciShipToken",
+  "tokenCount": "50",
+  "uri": "https://api.quantclass.cn/cryptoxms/nft/scishiptoken2204/1",
+  "metadata": {
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "serial",
+        "value": 1
+      },
+      {
+        "trait_type": "version",
+        "value": "April@2022"
+      },
+      {
+        "trait_type": "color",
+        "value": "Space Gray"
+      },
+      {
+        "trait_type": "material",
+        "value": "Metal"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "genesis",
+        "value": 1
+      }
+    ],
+    "description": "Rewarded to the Scientist Ship crew for Y2022M04. https://mfe.xet.tech/s/3iflQS",
+    "image": "https://cdnservice.quantclass.cn/cryptoxms/nft/sciship2204/space-gray-0.jpg",
+    "name": "Scientist Ship Token v2204"
+  }
+}

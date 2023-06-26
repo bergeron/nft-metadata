@@ -1,0 +1,47 @@
+{
+  "address": "0xf0ac3332a49fb3c9ead1f5e438e5cd4d1985daaa",
+  "type": "ERC721",
+  "name": "Lucky Panda Freemint",
+  "tokenCount": "777",
+  "uri": "https://storageapi.fleek.co/256e1077-3ba4-4f13-9298-2a063e646bf9-bucket/PandaJson/1.json",
+  "metadata": {
+    "dna": "fd86593a42a146be2fb2584f2ea86d00f6a18771caa21315d32850f5f6295b42",
+    "name": "Lucky Panda # 1",
+    "description": "Your panda will bring you luck for your future mints",
+    "image": "https://storageapi.fleek.co/256e1077-3ba4-4f13-9298-2a063e646bf9-bucket/PandaImg//1.png",
+    "imageHash": "3ad5cb3c1a8d91657db3f6fe889af72ead5f57adf1f0e6cfbda69d4b97eb916c",
+    "edition": 1,
+    "date": 1660492337148,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "GradYellow"
+      },
+      {
+        "trait_type": "arm",
+        "value": "arm4"
+      },
+      {
+        "trait_type": "body",
+        "value": "body3"
+      },
+      {
+        "trait_type": "ear",
+        "value": "ear2"
+      },
+      {
+        "trait_type": "head",
+        "value": "head6"
+      },
+      {
+        "trait_type": "eye",
+        "value": "eye2"
+      },
+      {
+        "trait_type": "leg",
+        "value": "leg1"
+      }
+    ],
+    "compiler": "Custom Compiler"
+  }
+}

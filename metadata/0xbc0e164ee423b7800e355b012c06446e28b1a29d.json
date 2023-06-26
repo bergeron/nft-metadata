@@ -1,0 +1,34 @@
+{
+  "address": "0xbc0e164ee423b7800e355b012c06446e28b1a29d",
+  "type": "ERC721",
+  "name": "PixelChain",
+  "tokenCount": "2804",
+  "uri": "https://api-max.pixelchain.art/pixelchain/v1/1",
+  "metadata": {
+    "token_id": 1,
+    "name": "CryptoMotors",
+    "author": {
+      "wallet_address": "0xE8bF704e1e27067c664177A851166021E96C1071"
+    },
+    "owner": {
+      "wallet_address": "0xE8bF704e1e27067c664177A851166021E96C1071"
+    },
+    "image": "https://pixelchain.s3.filebase.com/1_1_large.png",
+    "version": 1,
+    "attributes": [
+      {
+        "trait_type": "Version",
+        "value": "PixelChain"
+      },
+      {
+        "trait_type": "Author Wallet",
+        "value": "0xE8bF704e1e27067c664177A851166021E96C1071"
+      },
+      {
+        "trait_type": "Author",
+        "value": "CryptoMotors"
+      }
+    ],
+    "external_url": "https://pixelchain.art/decoder?id=1&version=1"
+  }
+}

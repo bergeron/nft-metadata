@@ -1,0 +1,40 @@
+{
+  "address": "0x2da3aba3add64761fefbe5593ee8479e4c81b3f1",
+  "type": "ERC721",
+  "name": "FlipYourFee",
+  "tokenCount": "27",
+  "uri": "https://www.flipyourfees.xyz/api/meta/1",
+  "metadata": {
+    "image": "https://gateway.pinata.cloud/ipfs/Qmbzn6HTk5KE6joeqhoirgVCFaf6qzrYGQwUHdgUGGgC5C/1.png",
+    "name": "FlipYourFees #1",
+    "description": "",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Mf_third_bg"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "Mf_second_effect"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Mf_second_skin"
+      },
+      {
+        "trait_type": "Gloves",
+        "value": "Mf_first_gloves"
+      },
+      {
+        "trait_type": "Ring2",
+        "value": "Mf_third_upper_ring"
+      },
+      {
+        "trait_type": "Ring",
+        "value": "Mf_second_ring"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

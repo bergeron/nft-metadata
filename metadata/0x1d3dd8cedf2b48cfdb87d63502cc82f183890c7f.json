@@ -1,0 +1,45 @@
+{
+  "address": "0x1d3dd8cedf2b48cfdb87d63502cc82f183890c7f",
+  "type": "ERC721",
+  "name": "TRANSATLANTIC V3",
+  "tokenCount": "31",
+  "uri": "https://ipfs.pixura.io/ipfs/QmPKGLBdM9f4ikJAMfCDfVtKpLsSw2ffQLpP3JwTGjjPz5/metadata.json",
+  "metadata": {
+    "name": "Flight 15: Glasgow - Basel",
+    "createdBy": "Rebecca Rose",
+    "yearCreated": "2022",
+    "description": "\"Flight 15: Glasgow - Basel\" by artist Rebecca Rose.\nNow boarding a departure from Glasgow in 2016 with an arrival to Basel in 2013. Dimensions: 1523 × 2061.",
+    "image": "https://ipfs.pixura.io/ipfs/QmZnVVFTED8mR5MhA9fiZ5b4ivBcv9CBvGp4PaUf6QiUHy/Flight15.Glasgow-Basel.JPG",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmZnVVFTED8mR5MhA9fiZ5b4ivBcv9CBvGp4PaUf6QiUHy/Flight15.Glasgow-Basel.JPG",
+      "dimensions": "1523x2061",
+      "size": "824543",
+      "mimeType": "image/jpeg"
+    },
+    "tags": [
+      "rebeccarose",
+      "transatlantic",
+      "digitalcollage",
+      "collage",
+      "photography"
+    ],
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "value": "1/1"
+      },
+      {
+        "trait_type": "Departure",
+        "value": "Glasgow"
+      },
+      {
+        "trait_type": "Arrival",
+        "value": "Basel"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Achromatic"
+      }
+    ]
+  }
+}

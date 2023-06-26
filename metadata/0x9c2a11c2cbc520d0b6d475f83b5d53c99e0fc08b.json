@@ -1,0 +1,42 @@
+{
+  "address": "0x9c2a11c2cbc520d0b6d475f83b5d53c99e0fc08b",
+  "type": "ERC721",
+  "name": "AOY Rabbit",
+  "tokenCount": "5555",
+  "uri": "ipfs://QmVWgx6JEezYHtqhTePtNW1g8HmXdumbH6V8USfXH2jdaa/1.json",
+  "metadata": {
+    "name": "AOY Rabbit #1",
+    "description": "'A...O...Y....'  Rabbits...can talk? Follow the rabbit and see what's going on.",
+    "image": "ipfs://QmW8tLJHUuRDJvdPBx5VBqSbrJF9bMJNRXN8k9SC9KGa2B/1.png",
+    "dna": "acb9701d3ab69d117387135b00e0368397ab966a",
+    "edition": 1,
+    "date": 1678270223264,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "garden"
+      },
+      {
+        "trait_type": "legs",
+        "value": "j&j"
+      },
+      {
+        "trait_type": "ear",
+        "value": "sock"
+      },
+      {
+        "trait_type": "hands",
+        "value": "semicircle"
+      },
+      {
+        "trait_type": "body",
+        "value": "banana"
+      },
+      {
+        "trait_type": "face",
+        "value": "misplaced"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

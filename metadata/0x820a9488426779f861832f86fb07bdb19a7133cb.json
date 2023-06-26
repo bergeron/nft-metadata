@@ -1,0 +1,46 @@
+{
+  "address": "0x820a9488426779f861832f86fb07bdb19a7133cb",
+  "type": "ERC1155",
+  "name": "P00LS Stuff",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/F8CSXFKiiI9kJubUdRI8YuK4hqg7PzUlu1x6QKqgeAM",
+  "metadata": {
+    "name": "The 00 Diamond Chain",
+    "created_by": "P00LS",
+    "description": "This is the very first collectible from the P00LS Stuff contract.  This will be a limited-edition collection of up to 200 pieces.  Created by P00LS co-founders Hugo Renaudin, Rich Tong, and designer Maria Cristina Sega.  Great way to rank up in the P00LS community while starting or growing your collection of digital art.",
+    "external_url": "https://www.p00ls.io",
+    "attributes": [
+      {
+        "trait_type": "P00LS Stuff",
+        "value": "1"
+      },
+      {
+        "trait_type": "Material",
+        "value": "Diamond"
+      }
+    ],
+    "animation_details": {
+      "bytes": 13968195,
+      "format": "MP4",
+      "duration": 11,
+      "sha256": "b355e8493a204700ea226f173ac532b950d47e060be615763a06b150d7e62b13",
+      "width": 2160,
+      "height": 2160,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/Ux7jg5OWdOeWF8TkY6lPNAv2FygA9noUpI_UX_enH54",
+    "animation_url": "https://arweave.net/Ux7jg5OWdOeWF8TkY6lPNAv2FygA9noUpI_UX_enH54",
+    "image_details": {
+      "bytes": 44737676,
+      "format": "GIF",
+      "sha256": "4d0e1ebd08d0632c6ab99242955378bd736d01be0f4b78b0a484f0bb528d2e40",
+      "width": 864,
+      "height": 864
+    },
+    "image": "https://arweave.net/rEZCHIL9yosBg8GbtooM-itcqzOVBCuJBCDb0n4862s",
+    "image_url": "https://arweave.net/rEZCHIL9yosBg8GbtooM-itcqzOVBCuJBCDb0n4862s"
+  }
+}

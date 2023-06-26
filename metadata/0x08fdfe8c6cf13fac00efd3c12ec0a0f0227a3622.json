@@ -1,0 +1,63 @@
+{
+  "address": "0x08fdfe8c6cf13fac00efd3c12ec0a0f0227a3622",
+  "type": "ERC721",
+  "name": "isiah + cxip - old",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/68u0UPiKG6jh5szEfVBCyp4X0YBHORxsMha95I0LG6s",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1650281395
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Isiah"
+      }
+    ],
+    "description": "isiah.jpg",
+    "external_url": "https://cxip.io/nft/0x08fdfe8c6cf13fac00efd3c12ec0a0f0227a3622/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/kdbaWUyB701kseZG9oQYvo42ZgFVWne1Vor87TnGsCY",
+    "imageUrl": "https://arweave.net/kdbaWUyB701kseZG9oQYvo42ZgFVWne1Vor87TnGsCY",
+    "name": "isiah",
+    "properties": {
+      "created_at": "2022-04-18T11:29:55.000000Z",
+      "creator_wallet": "0x6a932f0ae2a7a49fb24b70c8eef6ec0808163345",
+      "description": "isiah.jpg",
+      "image": "https://arweave.net/kdbaWUyB701kseZG9oQYvo42ZgFVWne1Vor87TnGsCY",
+      "imageUrl": "https://arweave.net/kdbaWUyB701kseZG9oQYvo42ZgFVWne1Vor87TnGsCY",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "18 April 2022",
+      "name": "isiah",
+      "nft_type": "non-fungible image token (image/jpeg)",
+      "preview_media_file": "https://arweave.net/2hfy5kdkpbuEBCxo98sjycxtJqKDSfxTjltHUjGuXDE",
+      "preview_media_file_dimensions": "360x360",
+      "preview_media_file_size": 51766,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "400x400",
+      "raw_media_file": "https://arweave.net/w-1QYYKdJvCTpwYR8RBGvQGse2zu6PeBC5f0j-BHBcA",
+      "raw_media_file_size": 20329,
+      "raw_media_file_spec": "JPEG 400x400 400x400+0+0 8-bit sRGB 20329B 0.000u 0:00.000",
+      "raw_media_file_type": "image/jpeg",
+      "raw_media_format": "square",
+      "raw_media_signature": "0xc78716f15e9df8f5612c5e3b150063d9409c0480cddcb28e088d257939a5b30b",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/2hfy5kdkpbuEBCxo98sjycxtJqKDSfxTjltHUjGuXDE",
+      "thumb_media_file_type": "image/jpg",
+      "title": "isiah",
+      "total_supply": 1
+    },
+    "title": "isiah"
+  }
+}

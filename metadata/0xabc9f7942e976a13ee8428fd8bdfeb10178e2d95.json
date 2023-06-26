@@ -1,0 +1,35 @@
+{
+  "address": "0xabc9f7942e976a13ee8428fd8bdfeb10178e2d95",
+  "type": "ERC721",
+  "name": "Omni X",
+  "tokenCount": "5",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmdZofkJUccyBkGz6Z5DKxxhniYMgyXZJRiBrLSauXd4FS",
+  "metadata": {
+    "name": "Omni X",
+    "description": "The first natively omnichain NFT platform and marketplace",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVxUFUpqVa7BHF2i3Z2UQHRRKS4nqYNiTXN5sD3jAo1hB",
+    "external_url": "https://omni-x.io/",
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Omnichain"
+      },
+      {
+        "trait_type": "Marketplace",
+        "value": "Enabled"
+      },
+      {
+        "trait_type": "Launchapd",
+        "value": "Enabled"
+      },
+      {
+        "trait_type": "Leaderboard",
+        "value": "Enabled"
+      },
+      {
+        "trait_type": "Bridging",
+        "value": "Enabled"
+      }
+    ]
+  }
+}

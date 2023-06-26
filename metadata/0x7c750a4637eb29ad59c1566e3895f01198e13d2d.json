@@ -1,0 +1,43 @@
+{
+  "address": "0x7c750a4637eb29ad59c1566e3895f01198e13d2d",
+  "type": "ERC721",
+  "name": "Lil Doods NFT",
+  "tokenCount": "2",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmPzbSm7cyyhb56Y3yQ9gL9fqzp9e5vvgsGGH1Cpj3hzEh/1",
+  "metadata": {
+    "dna": "a3ff939c1aab23919df8d5b1f95c339c0ce547d4176da38f17233399a0750953",
+    "name": "Lil Doods #1",
+    "description": "Lil Doods",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPZE9keomrecipWfWKRRhFtpU7npg2rM1hNoEPaRaTCRY/1.png",
+    "imageHash": "8ddd9376a44d34546980af6a6f4ea3c01b1f7714cdf5111feb20d69387289c48",
+    "edition": 1,
+    "date": 1644092139618,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Epic",
+        "value": "Green Orange"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Agape"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Heart"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Puffer white 2"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Doofus Blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  }
+}

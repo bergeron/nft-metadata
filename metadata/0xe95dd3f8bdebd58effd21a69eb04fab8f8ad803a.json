@@ -1,0 +1,106 @@
+{
+  "address": "0xe95dd3f8bdebd58effd21a69eb04fab8f8ad803a",
+  "type": "ERC721",
+  "name": "119sadf45wqer",
+  "tokenCount": "399",
+  "uri": "https://api.artblocks.io/token/407000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "407000001",
+    "series": "N/A",
+    "aspect_ratio": 0.8,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "The Harvest #1",
+    "minted": true,
+    "artist": "Per Kristian Stoveland",
+    "description": "The Caretaker awakes. After a millennia of slumber it must again usher its minions into the expanse. It must sustain. It must replenish. So it guides its horde out to the stars, visiting countless worlds to restart the cycle. For an eternity the cycle has repeated, minding and tending this garden of worlds. Now it is time for the garden to give back. This event has come to be known as *The Harvest*.\n\n*The Harvest* depicts worlds that exist in eternal symbiosis with the Caretaker. We witness the spectacle of monumental chromatic beams as they impact the surface of these beautiful, alien bodies. The Caretaker assigns different constellations to each planet, giving rise to unique combinations of beams as they extract the much needed nectar. This project has been inspired by a life-long fascination for science fiction and space exploration. Aiming to capture a moment of awe, the beams reach to their origin, emulating a cathedral-like atmosphere in the vein of Hugh Ferriss, while borrowing inspiration from Micheal Whelan’s landscapes. All in the effort of capturing a sense of how small we are in relation to the cosmos.\n\n*The Harvest* is built on p5js, and takes advantage of its 3d api. With the orthogonal view enabled, the algorithm uses volumetric rectangular units to create the stylised illusion of alien landscapes. Each beam has a position, color, reach and yield that is calculated and procedurally drawn over time.",
+    "script_type": "p5@1.0.0",
+    "project_id": "407",
+    "curation_status": "curated",
+    "image": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/407000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/407000001.png",
+    "generator_url": "https://generator.artblocks.io/407000001",
+    "animation_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/407000001",
+    "royaltyInfo": {
+      "artistAddress": "0x1be15d742f1e454302753c55d429c0be169cc6bc",
+      "additionalPayee": "0x4af63e35dc0d069fd784133e82145916b9e291c8",
+      "additionalPayeePercentage": 25,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "The Harvest by Per Kristian Stoveland",
+    "website": "https://linktr.ee/perkwerk",
+    "token_hash": "0x2da8943904d4f84357b82e13f5c68124057c69e1059ab6c1c7381c6269af1a35",
+    "external_url": "https://artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/407/tokens/407000001",
+    "primary_asset_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/407000001",
+    "features": {
+      "Reach": "Medium",
+      "Yield": "Low",
+      "Feature": "None",
+      "Palette": "Barbapiccola",
+      "Surface": "Untouched",
+      "Approach": "Perpendicular",
+      "Alignment": "Synchronized",
+      "Elevation": "Low",
+      "Harvester": "Miner",
+      "Atmosphere": "Calm",
+      "Topography": "Mountainous",
+      "Support Drones": "None"
+    },
+    "traits": [
+      {
+        "trait_type": "The Harvest",
+        "value": "All The Harvests"
+      },
+      {
+        "trait_type": "The Harvest",
+        "value": "Reach: Medium"
+      },
+      {
+        "trait_type": "The Harvest",
+        "value": "Yield: Low"
+      },
+      {
+        "trait_type": "The Harvest",
+        "value": "Feature: None"
+      },
+      {
+        "trait_type": "The Harvest",
+        "value": "Palette: Barbapiccola"
+      },
+      {
+        "trait_type": "The Harvest",
+        "value": "Surface: Untouched"
+      },
+      {
+        "trait_type": "The Harvest",
+        "value": "Approach: Perpendicular"
+      },
+      {
+        "trait_type": "The Harvest",
+        "value": "Alignment: Synchronized"
+      },
+      {
+        "trait_type": "The Harvest",
+        "value": "Elevation: Low"
+      },
+      {
+        "trait_type": "The Harvest",
+        "value": "Harvester: Miner"
+      },
+      {
+        "trait_type": "The Harvest",
+        "value": "Atmosphere: Calm"
+      },
+      {
+        "trait_type": "The Harvest",
+        "value": "Topography: Mountainous"
+      },
+      {
+        "trait_type": "The Harvest",
+        "value": "Support Drones: None"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "address": "0x748f545ee9fdfaa028f43188b5924feabfde8f1e",
+  "type": "ERC721",
+  "name": "Dad Gods",
+  "tokenCount": "6666",
+  "uri": "ipfs://QmWn6af3WSCNRHBR6eNsmteArGWq3tNHVAk3Rem4UUbdYh/1.json",
+  "metadata": {
+    "name": "DadGods #1",
+    "description": " A collective ETH project from the artist behind eternals xyz",
+    "image": "ipfs://QmXaBH6VDmgJmZnivsqetsqixPk1AyytwFM9mqWEnyiYJf/1.png",
+    "edition": 1,
+    "date": 1672354190050,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "wood green"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Pink Skin"
+      },
+      {
+        "trait_type": "Texture skin",
+        "value": "Party Texture"
+      },
+      {
+        "trait_type": "Tshirt",
+        "value": "Golem Shirt"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Unicorn Hat"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Baby"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

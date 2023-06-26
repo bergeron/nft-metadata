@@ -1,0 +1,47 @@
+{
+  "address": "0x5b7a317a300699531ca4673473b84b6a7cbbc294",
+  "type": "ERC721",
+  "name": "My HERO Sidekicks",
+  "tokenCount": "10000",
+  "uri": "https://x2e-dao-mint.com/data/mhs/main/meta/1.json",
+  "metadata": {
+    "name": "My HERO Sidekicks #1",
+    "description": "You are your own HERO. \n \n My HERO Sidekicks (MHS) is a generative collection consists of the sidekicks of X2E-HEROES. \n \nIf you get an MHS, you can make new friends in X2E-DAO, and your X2E-DAO buddies will become your sidekicks.  \n \n \n あなた自身がHERO \n \n My HERO Sidekicks（MHS）は、X2E-HEROESの相棒「Sidekicks」が主役のコレクションです。 \n \n MHSを手にすると、X2E-DAOで新たな仲間ができ、X2E-DAOの仲間があなたの”相棒”になってくれます。 \n \n\nこのNFTの背景透過バージョンを作成したのでぜひ遊んでくださいね！  \n  https://x2e-dao-mint.com/data/mhs/transparent/1.png ",
+    "image": "https://x2e-dao-mint.com/data/mhs/main/img/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "CHARACTER",
+        "value": "hinomaru"
+      },
+      {
+        "trait_type": "background",
+        "value": "kirasticker_06"
+      },
+      {
+        "trait_type": "effect",
+        "value": "gokou"
+      },
+      {
+        "trait_type": "weapon",
+        "value": "mushitoriami"
+      },
+      {
+        "trait_type": "body",
+        "value": "headpiece_04"
+      },
+      {
+        "trait_type": "appendage",
+        "value": "none"
+      },
+      {
+        "trait_type": "face",
+        "value": "wink2"
+      },
+      {
+        "trait_type": "accessory",
+        "value": "rainbow_03"
+      }
+    ]
+  }
+}

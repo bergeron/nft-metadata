@@ -1,0 +1,48 @@
+{
+  "address": "0x155b9c677d0160b0d0787d283e3cb003217befe8",
+  "type": "ERC1155",
+  "name": "Geometric.Art",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/700GDbc3FnsEASTEoSHXN4s5LU2qM5sbzG7OvIVLVrQ",
+  "metadata": {
+    "name": "Geometric Skull • Relaxation ",
+    "created_by": "CYBERVERSE",
+    "description": "Geometric skull art with an animated background of crashing ocean waves.  Art that soothes a restless mind. Enjoy and may the art bring you peace.",
+    "attributes": [
+      {
+        "trait_type": "Date Created",
+        "value": "1/5/23"
+      },
+      {
+        "trait_type": "Art Style",
+        "value": "Mixed Media"
+      },
+      {
+        "trait_type": "Variant Background",
+        "value": "Animated Waves"
+      }
+    ],
+    "animation_details": {
+      "bytes": 17418875,
+      "format": "MOV",
+      "duration": 31,
+      "sha256": "7451509d9f92778da5941355c024c9ae73a718a5b2416848160f2e7a3ae02128",
+      "width": 1280,
+      "height": 1280,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/GBYaJnFopdaZcTDKJMk4kKDyvaVPCAd_cvbik8CulkU",
+    "animation_url": "https://arweave.net/GBYaJnFopdaZcTDKJMk4kKDyvaVPCAd_cvbik8CulkU",
+    "image_details": {
+      "bytes": 403560,
+      "format": "JPEG",
+      "sha256": "aaa09d99789ef3b245a2c50b42043c8065f2e92bb451131f1d7f0d7efd1072be",
+      "width": 1125,
+      "height": 1121
+    },
+    "image": "https://arweave.net/WOAvsx1sRxR-hcgOVUCQNDR-FX6zvVAkrMThgWFc2GE",
+    "image_url": "https://arweave.net/WOAvsx1sRxR-hcgOVUCQNDR-FX6zvVAkrMThgWFc2GE"
+  }
+}

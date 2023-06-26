@@ -1,0 +1,26 @@
+{
+  "address": "0x9a414db0d2c98ec9bcae019e01813cf8ebee1232",
+  "type": "ERC721",
+  "name": "uRock Stamp X AI Network",
+  "tokenCount": "41",
+  "uri": "https://us-central1-nft-server-prod.cloudfunctions.net/ainur2022Metadata/1",
+  "metadata": {
+    "name": "URNFT #1",
+    "description": "A NFT given to the visitor of uRock exhibition 2022 with DADAZ at the Uncommon gallery (AI Network) (Backgrounds and Rocks made by uRock, Faces made by DADAZ).",
+    "image": "https://storage.googleapis.com/uncommon-gallery/ainur2022/38.png",
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "2Rock X DADAZ"
+      },
+      {
+        "trait_type": "body",
+        "value": "Pointed"
+      },
+      {
+        "trait_type": "face",
+        "value": "Curiosity"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "address": "0xbd7913fe33b3d3db7d8ab060416eb08362d97f40",
+  "type": "ERC1155",
+  "name": "Eggs For Ukraine",
+  "tokenCount": "3",
+  "uri": "ipfs://QmeMTweSV8nuTRcXrrsXMgbsUTVUpYDdd9jCp4vkco9j2D/1",
+  "metadata": {
+    "name": "EggsForUkraine: Gold Proof Of Donation",
+    "description": "Eggs For Ukraine is an NFT mint to raise funds to help those affected by the conflict in Ukraine. The EggsDAO along with many other projects have donated NFTs that will be raffled off to the holders of Eggs For Ukraine NFTs",
+    "external_url": "https://eggsforukraine.com",
+    "image": "ipfs://QmaXgR3cfx5t3vbwwDQcP3dMaQboHFxUW2u3YnmGKtoz9Z",
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Minimum Donation",
+        "value": "0.2Ξ"
+      }
+    ]
+  }
+}

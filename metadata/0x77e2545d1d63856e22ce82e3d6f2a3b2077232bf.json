@@ -1,0 +1,51 @@
+{
+  "address": "0x77e2545d1d63856e22ce82e3d6f2a3b2077232bf",
+  "type": "ERC721",
+  "name": "Camels-NFT",
+  "tokenCount": "8000",
+  "uri": "https://camelsnft-api.herokuapp.com/api/metadata/1",
+  "metadata": {
+    "name": "Camel #1",
+    "description": "Camels is a collection consisting of 8000 hand-drawn Camels, taking inspiration from diverse clothing style, pop culture, ready to live on the Ethereum Blockchain",
+    "image": "https://storageapi.fleek.one/b28bd1bc-9e0b-4bfd-99fd-72fb095f9bf9-bucket/CamelsNFT-v007/0001_211cc6dca12f9cc8f75f9bd3.jpg",
+    "external_url": "https://twitter.com/CamelsNFT",
+    "attributes": [
+      {
+        "value": "light sea green",
+        "trait_type": "background"
+      },
+      {
+        "value": "dark gray",
+        "trait_type": "body"
+      },
+      {
+        "value": "earbuds pro",
+        "trait_type": "ears special"
+      },
+      {
+        "value": "septum hoop",
+        "trait_type": "face special"
+      },
+      {
+        "value": "standard",
+        "trait_type": "eyes"
+      },
+      {
+        "value": "polite",
+        "trait_type": "eyebrows"
+      },
+      {
+        "value": "undershirt",
+        "trait_type": "outfit"
+      },
+      {
+        "value": "aviator transparent",
+        "trait_type": "eyes special"
+      },
+      {
+        "value": "rabbit ears",
+        "trait_type": "headwear"
+      }
+    ]
+  }
+}

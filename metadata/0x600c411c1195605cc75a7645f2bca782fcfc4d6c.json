@@ -1,0 +1,75 @@
+{
+  "address": "0x600c411c1195605cc75a7645f2bca782fcfc4d6c",
+  "type": "ERC721",
+  "name": "ARBO Heroes",
+  "tokenCount": "10000",
+  "uri": "https://fs.arbo.xyz/heroes/1",
+  "metadata": {
+    "name": "Hero #1",
+    "description": "One of the most innovative and technologically-advanced ARBO Classes, the Karu’s inherent protective nature prompts them to selflessly shield and support others while shaping the ARBO world.",
+    "image": "ipfs://QmaavmGneRw4am7zjXjdJGmPiN8beCNZoP4vEzggUPdiLz",
+    "external_url": "https://arbo.world",
+    "attributes": [
+      {
+        "key": "Rarity",
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "key": "Class",
+        "trait_type": "Class",
+        "value": "Karu"
+      },
+      {
+        "key": "Generation",
+        "trait_type": "Generation",
+        "value": "Genesis"
+      },
+      {
+        "key": "Enhancer",
+        "trait_type": "Enhancer",
+        "value": "4"
+      },
+      {
+        "key": "Initiative",
+        "trait_type": "Initiative",
+        "value": "78"
+      },
+      {
+        "key": "Base Color",
+        "trait_type": "Base Color",
+        "value": "Matte Black"
+      },
+      {
+        "key": "Accent Color",
+        "trait_type": "Accent Color",
+        "value": "Matte Orange"
+      },
+      {
+        "key": "Base Pattern",
+        "trait_type": "Base Pattern",
+        "value": "None"
+      },
+      {
+        "key": "Accent Pattern",
+        "trait_type": "Accent Pattern",
+        "value": "None"
+      },
+      {
+        "key": "Operation 1",
+        "trait_type": "Operation 1",
+        "value": "Deviant Blade"
+      },
+      {
+        "key": "Operation 2",
+        "trait_type": "Operation 2",
+        "value": "Salvage"
+      },
+      {
+        "key": "Operation 3",
+        "trait_type": "Operation 3",
+        "value": "Overload"
+      }
+    ]
+  }
+}

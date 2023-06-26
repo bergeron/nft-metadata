@@ -1,0 +1,55 @@
+{
+  "address": "0xc39b2308be6b708457ee82ad35252c0c3c8f0d3b",
+  "type": "ERC721",
+  "name": "The Collectors NFT Vault",
+  "tokenCount": "15",
+  "uri": "https://server.thecollectorsnft.xyz/nftVault/token/1/1.json",
+  "metadata": {
+    "image": "https://server1.gemzy.xyz/nftVault/token/1/1.png",
+    "external_url": "https://vaults.gemzy.xyz/vault/1",
+    "name": "50% ownership of WoW #1072",
+    "description": "This NFT currently untradable on OpenSea. Visit https://vaults.gemzy.xyz for supported marketplaces. This NFT represents 50% ownership of the original World of Women #1072 NFT. To view the original NFT go to https://opensea.io/assets/0xe785E82358879F061BC3dcAC6f0444462D4b5330/1072\n\nTo view the vault that holds the original NFT go to https://vaults.gemzy.xyz/vault/1",
+    "attributes": [
+      {
+        "trait_type": "Collection",
+        "value": "World of Women"
+      },
+      {
+        "trait_type": "Token Id",
+        "value": "1072"
+      },
+      {
+        "display_type": "number",
+        "max_value": 100,
+        "min_value": 0,
+        "trait_type": "Ownership (%)",
+        "value": 50
+      },
+      {
+        "trait_type": "OS Verified",
+        "value": "YES"
+      },
+      {
+        "trait_type": "Migrated",
+        "value": "NO"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Purchased Share For (ETH)",
+        "value": 1.9
+      },
+      {
+        "trait_type": "Staking Collector",
+        "value": "YES"
+      },
+      {
+        "trait_type": "Staked Collector Id",
+        "value": "70"
+      },
+      {
+        "trait_type": "Vault Sold NFT",
+        "value": "NO"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "address": "0x5276f18241fa251ffcda71a6955495654409020d",
+  "type": "ERC721",
+  "name": "TheEpicPizza",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmWyECgPqTazvv5L4cfrCveyzpaUBTbxbFetQDhww8Dy87/1.json",
+  "metadata": {
+    "name": "The Epic Pizza #1",
+    "description": "",
+    "image": "ipfs://QmcMrAojsVr8mCBfkrseKUDypSf6bBKoun3KnpzpQXzL1T/1.png",
+    "dna": "c743d353e0970ca1eddf4842c1974e7ccb998912",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Special Pink"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Lipstick Red"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin Gold"
+      },
+      {
+        "trait_type": "Sunglass",
+        "value": "Stylish Orange"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "address": "0xd176d605e5e742d1365d95019952ea86244ec0bf",
+  "type": "ERC721",
+  "name": "Let Me Do It For You",
+  "tokenCount": "154",
+  "uri": "ipfs://bafybeigprklmmso6qdkz64v5fqjud6i5rrvtqkphhj4wppvjekbfequjda/1.json",
+  "metadata": {
+    "name": "Let Me Do It For You #1",
+    "image": "ipfs://bafybeiekeey666npzbrbfzhmnybvxzzh2jwmknsbq2ti3ev2xgro5kxcq4/1.jpeg",
+    "description": "Didn't I do it for you? Why don't I do it for you? Why won't you do it for me? When all I do is for you?",
+    "external_url": "letmedoitforyou.xyz",
+    "token_id": 1,
+    "attributes": [
+      {
+        "value": "avo",
+        "rare": "Normal",
+        "trait_type": "Background"
+      },
+      {
+        "value": "hoodie",
+        "rare": "Normal",
+        "trait_type": "Bod"
+      },
+      {
+        "value": "tired",
+        "rare": "Rare",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "watergun",
+        "rare": "Normal",
+        "trait_type": "Toy"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Rarity",
+        "value": 56
+      }
+    ]
+  }
+}

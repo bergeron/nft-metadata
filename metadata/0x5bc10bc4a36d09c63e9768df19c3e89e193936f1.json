@@ -1,0 +1,35 @@
+{
+  "address": "0x5bc10bc4a36d09c63e9768df19c3e89e193936f1",
+  "type": "ERC1155",
+  "name": "Top Critters",
+  "tokenCount": "9",
+  "uri": "https://api.topdogbeachclub.com/critter/1",
+  "metadata": {
+    "attributes": [
+      {
+        "value": "Fabulous",
+        "trait_type": "Personality"
+      },
+      {
+        "value": "Stuck-Up",
+        "trait_type": "Behaviour"
+      },
+      {
+        "value": "Pout",
+        "trait_type": "Look"
+      },
+      {
+        "value": "Dog",
+        "trait_type": "Species"
+      },
+      {
+        "trait_type": "TraitCount",
+        "value": 4
+      }
+    ],
+    "tokenId": 1,
+    "image": "https://tdbc.mypinata.cloud/ipfs/QmVBDn7zYSHa5auiwfCcGhrdBuKLPhomeYP6U4i4pn2Sq8/1.png",
+    "name": "Cruella dog Vil",
+    "status": "CRITTER"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "address": "0xd33e0f592ec74dbfc792a1db94d151a22603f484",
+  "type": "ERC721",
+  "name": "Flower - 8t3eXay8rR",
+  "tokenCount": "2",
+  "uri": "https://api.app.pace.art/api/v1/nfts/metadata/flower/1",
+  "metadata": {
+    "id": 1,
+    "name": "Flower #1 example",
+    "description": "This is a collectible for testing!",
+    "external_url": "https://app.pace.art",
+    "image": "https://media.app.pace.art/input/nft-image/10/1637376049133.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Number",
+        "value": "1000"
+      }
+    ]
+  }
+}

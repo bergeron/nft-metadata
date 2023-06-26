@@ -1,0 +1,95 @@
+{
+  "address": "0xafe2c381c385cbbcbb570d8b39b36449be6b35c4",
+  "type": "ERC721",
+  "name": "larva mfers",
+  "tokenCount": "6300",
+  "uri": "ipfs://QmZxGVewiEXBeUhJaKXNs7QmjEDU8Bqd5nCHLatek2xiHx/1.json",
+  "metadata": {
+    "edition": 1,
+    "name": "larva mfer #1",
+    "description": "Larva Mfers are a play on mfers, Larva Lads, and everything in between. Created under the CC0 license.\n\nThis project is in the public domain, feel encouraged to use Larva Mfers in any way you want.",
+    "image": "ipfs://QmawtxQVYKmjXA6ZkA6zresNCHhFAQ9VoBe1guPsapwKiL/1.png",
+    "image_cutout": "ipfs://Qmd2SetXEEdKL3hJv3JS6rAouD4BnzWiG6B2zEEKsoBFTL/1.png",
+    "dna": "450254f0f6a7ab9e1837ec0c9ccd0f958e62f461",
+    "lucky_number": 50,
+    "stats": {
+      "type": "creamy",
+      "slime": 3,
+      "speed": 2,
+      "spice": 4,
+      "stealth": 3,
+      "stink": 3
+    },
+    "attributes": [
+      {
+        "trait_type": "Hair",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headphones",
+        "value": "None"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Creamy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blonde_Handle_Bars"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Pink_Headband"
+      },
+      {
+        "trait_type": "Smoke",
+        "value": "Cig"
+      },
+      {
+        "trait_type": "Slime",
+        "value": 3,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Speed",
+        "value": 2,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Spice",
+        "value": 4,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Stealth",
+        "value": 3,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Stink",
+        "value": 3,
+        "max_value": 5
+      }
+    ],
+    "derived_from": [
+      {
+        "name": "mfers",
+        "network": "Ethereum",
+        "src": "0x79FCDEF22feeD20eDDacbB2587640e45491b757f"
+      },
+      {
+        "name": "Larva Lads",
+        "network": "Ethereum",
+        "src": "0x5755Ab845dDEaB27E1cfCe00cd629B2e135Acc3d"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "0xff6889ea7d06137edd949f8381a14f0ffc39ba80",
+  "type": "ERC721",
+  "name": "NyanDogg",
+  "tokenCount": "212",
+  "uri": "https://nyandoggapi.azurewebsites.net/api/GenerateMetadata?artContract=0xff6889ea7d06137edd949f8381a14f0ffc39ba80&id=1",
+  "metadata": {
+    "image": "https://arweave.net/pKWejOOeCXF3iliWy0pL2aNr-rT-xfNXCVovbZTAUpY",
+    "description": "Snoops personal magic blunt, one puff of this will send you into the nyan universe!",
+    "external_url": "https://nyandogg.com?artContract=0xff6889ea7d06137edd949f8381a14f0ffc39ba80&id=1",
+    "name": "Nyan Blunt",
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "value": "1 of 81"
+      },
+      {
+        "trait_type": "Evolution",
+        "value": "1"
+      },
+      {
+        "trait_type": "Creator",
+        "value": "SnoopDogg"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "+10"
+      },
+      {
+        "trait_type": "Oohwee",
+        "value": "+50"
+      },
+      {
+        "trait_type": "Intergalactic Nostalgia",
+        "value": "+420"
+      }
+    ]
+  }
+}

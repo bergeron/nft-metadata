@@ -1,0 +1,52 @@
+{
+  "address": "0xe80201a8e706a7ac353124c004960201c8b99f4b",
+  "type": "ERC721",
+  "name": "Infinites IRL",
+  "tokenCount": "993",
+  "uri": "https://irl-infinites.s3.us-east-2.amazonaws.com/json/1.json",
+  "metadata": {
+    "animation_url": "https://www.infinites.ai/irl/preview/1",
+    "image": "https://irl-infinites.s3.us-east-2.amazonaws.com/images/IRL001.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "El Fantasma"
+      },
+      {
+        "trait_type": "Type of Painting",
+        "value": "Portrait"
+      },
+      {
+        "trait_type": "Augmentation Type",
+        "value": "Still-Life"
+      },
+      {
+        "trait_type": "Residual Style",
+        "value": "Abstraction"
+      },
+      {
+        "trait_type": "Fluidity",
+        "value": "Dense"
+      },
+      {
+        "trait_type": "Body",
+        "value": "0.03"
+      },
+      {
+        "trait_type": "Surface",
+        "value": "Mirror"
+      },
+      {
+        "trait_type": "Depth",
+        "value": "Surface"
+      }
+    ],
+    "name": "IRL #1",
+    "external_url": "https://www.infinites.ai/irl/collection/1",
+    "base": "162",
+    "baseSpeed": "0.05",
+    "noise": "3.6",
+    "scale": "1",
+    "reflectivity": "0.1"
+  }
+}

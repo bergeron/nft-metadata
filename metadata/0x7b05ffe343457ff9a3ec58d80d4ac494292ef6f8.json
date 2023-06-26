@@ -1,0 +1,38 @@
+{
+  "address": "0x7b05ffe343457ff9a3ec58d80d4ac494292ef6f8",
+  "type": "ERC721",
+  "name": "Molly Dragon",
+  "tokenCount": "222",
+  "uri": "ipfs://QmdPxZPoXvH1CzA8FtdRGw7xfmyW6Y66cUhkUZDVTRubqG/1.json",
+  "metadata": {
+    "name": "Molly Dragon #1",
+    "description": "Molly's Pet Dragon.",
+    "image": "ipfs://QmXdPirDT1qXqA323Hddtrc2ccwjzw1q1w6jCpa2fYX8Ge/1.png",
+    "dna": "aebf732946984cea083183dcf99fda538de61f72",
+    "edition": 1,
+    "date": 1658920082167,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Dragon",
+        "value": "Paper"
+      },
+      {
+        "trait_type": "Fire",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Tusk",
+        "value": "No"
+      },
+      {
+        "trait_type": "Staking Power",
+        "value": "No"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

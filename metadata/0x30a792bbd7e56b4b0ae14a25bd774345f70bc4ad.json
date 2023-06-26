@@ -1,0 +1,57 @@
+{
+  "address": "0x30a792bbd7e56b4b0ae14a25bd774345f70bc4ad",
+  "type": "ERC721",
+  "name": "DubaiDudesNFT",
+  "tokenCount": "5555",
+  "uri": "ipfs://QmRDtqsuXr4cmfGWjffpUM258nTiiQJrMLnZ3z8Bx2tKy9/1",
+  "metadata": {
+    "name": "Pixel Bots #1",
+    "description": "Pixel Bots",
+    "image": "ipfs://QmTUhG8TqhTDXMa7aKdmzPqQURyHyHBNLniWsCie5xrgot/1.png",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "Dubai"
+      },
+      {
+        "trait_type": "bases",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "accessories",
+        "value": "Gold Chain"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Camelhat"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Dark Cartier"
+      },
+      {
+        "trait_type": "mouths",
+        "value": "Smirk"
+      }
+    ],
+    "symbol": "",
+    "seller_fee_basis_points": 1000,
+    "edition": 1
+  }
+}

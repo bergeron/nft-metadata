@@ -1,0 +1,52 @@
+{
+  "address": "0xdc8c9988212ba573ce74bcc2444042f2f8f39101",
+  "type": "ERC721",
+  "name": "DOPE: Dawn Of the Pixel Empire",
+  "tokenCount": "10000",
+  "uri": "https://dopevoyage.mypinata.cloud/ipfs/QmQK5Az1pyuGfb9v57TkPzC1jBmFGZp8dbP8mXgjzNG5sF/1",
+  "metadata": {
+    "name": "DOPE #1",
+    "image": "https://dopemove.mypinata.cloud/ipfs/QmbEY8zvWBW7tH59QxeByJygd7AwsNvy9ijqZGd9Jtbs9D/1.png",
+    "attributes": [
+      {
+        "trait_type": "species",
+        "value": "King"
+      },
+      {
+        "trait_type": "bg color",
+        "value": "Unique"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Pale"
+      },
+      {
+        "trait_type": "cape",
+        "value": "King Cape"
+      },
+      {
+        "trait_type": "hair wear",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "effect",
+        "value": "Unique"
+      }
+    ],
+    "motions": {
+      "idle": [
+        "https://dopemove.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/idle/00.png",
+        "https://dopemove.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/idle/01.png",
+        "https://dopemove.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/idle/02.png",
+        "https://dopemove.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/idle/03.png",
+        "https://dopemove.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/idle/04.png"
+      ],
+      "running": [
+        "https://dopemove.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/running/00.png",
+        "https://dopemove.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/running/01.png",
+        "https://dopemove.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/running/02.png",
+        "https://dopemove.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/running/03.png"
+      ]
+    }
+  }
+}

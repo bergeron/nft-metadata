@@ -1,0 +1,32 @@
+{
+  "address": "0x95d6522ece2a8506f50eef1bc3e9314e65700b5d",
+  "type": "ERC1155",
+  "name": "DanoPhoto",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/u3zJV4ZGAtmQCkQ0QqSOhyfDxe1syOpQ2T0ldKmhkyI",
+  "metadata": {
+    "name": "Rough Road Ahead",
+    "created_by": "Dano",
+    "external_url": "www.danopendygrasse.com",
+    "description": "Test Edition token",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Dano"
+      },
+      {
+        "trait_type": "Medium",
+        "value": "Digital Photography"
+      }
+    ],
+    "image_details": {
+      "bytes": 2779536,
+      "format": "JPEG",
+      "sha256": "c110ded3733db003795bfbf713e9685dc1384396cb19a32bf793925dea4edbdb",
+      "width": 1920,
+      "height": 1281
+    },
+    "image": "https://arweave.net/E34beCg1xdE1WhdnN14GwrqmVfipbxw-lyKcrgWaML4",
+    "image_url": "https://arweave.net/E34beCg1xdE1WhdnN14GwrqmVfipbxw-lyKcrgWaML4"
+  }
+}

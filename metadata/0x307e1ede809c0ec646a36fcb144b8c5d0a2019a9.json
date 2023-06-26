@@ -1,0 +1,38 @@
+{
+  "address": "0x307e1ede809c0ec646a36fcb144b8c5d0a2019a9",
+  "type": "ERC721",
+  "name": "TestingWolf",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeihaxl7we7m53dj3fxb3ya6jdl2fyppzwfo75ltjki5vgyu7w7zkeq/1.json",
+  "metadata": {
+    "description": "checking if it works ",
+    "name": "char #1",
+    "image": "ipfs://bafybeihd7gj7dlkxw3lpkxt5qlb73nzsjjhhcjmbty5cblh5c6ev43qena/1.png",
+    "attributes": [
+      {
+        "trait_type": "Body",
+        "value": "Body1"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Head2"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eyes"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth1"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Background1"
+      }
+    ]
+  }
+}

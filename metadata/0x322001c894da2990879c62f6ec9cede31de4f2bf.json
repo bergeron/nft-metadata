@@ -1,0 +1,37 @@
+{
+  "address": "0x322001c894da2990879c62f6ec9cede31de4f2bf",
+  "type": "ERC721",
+  "name": "Fotos de Cuba",
+  "tokenCount": "18",
+  "uri": "https://arweave.net/84HOvjoIXgzVaA_VdJ8hyfXpYs52wD3a_MuXrt1312U/1",
+  "metadata": {
+    "name": "Cuba #1",
+    "created_by": "Steven Morse",
+    "description": "Statue of Eloy Alfaro, La Habana.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Steven Morse"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Number",
+        "value": "1",
+        "max_value": "18"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Havana"
+      }
+    ],
+    "image_details": {
+      "bytes": 17592683,
+      "format": "JPEG",
+      "sha256": "30d25b73684005315cf43297741111f1864b2451320506daa3ce1ec9960ef13d",
+      "width": 6000,
+      "height": 4000
+    },
+    "image": "https://arweave.net/MgoUgXUewkdN9TorKCby1VWOYd55U9LnpfpY7-iQxZQ",
+    "image_url": "https://arweave.net/MgoUgXUewkdN9TorKCby1VWOYd55U9LnpfpY7-iQxZQ"
+  }
+}

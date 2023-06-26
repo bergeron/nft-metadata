@@ -1,0 +1,58 @@
+{
+  "address": "0xc2d31475a1fbce0725ad71665976f18502a37234",
+  "type": "ERC721",
+  "name": "Porkchamps",
+  "tokenCount": "10000",
+  "uri": "https://porkchamps-collection-v1.s3.amazonaws.com/1",
+  "metadata": {
+    "name": "Porkchamps #1",
+    "description": "Porkchamps is a collection of 10,000 adorable, battle-ready porkies.",
+    "image": "https://porkchamps-collection-v1.s3.amazonaws.com/1.png",
+    "attributes": [
+      {
+        "trait_type": "Body",
+        "value": "Wetland",
+        "atk": 1,
+        "def": 1
+      },
+      {
+        "trait_type": "Facial",
+        "value": "Resting Angry Face",
+        "atk": 0,
+        "def": 0
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Classic Porkchop",
+        "atk": 0,
+        "def": 18
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Mythical Strawhat",
+        "atk": 0,
+        "def": 20
+      },
+      {
+        "trait_type": "Handheld",
+        "value": "Perfect Rod",
+        "atk": 20,
+        "def": 0
+      },
+      {
+        "trait_type": "Type",
+        "value": "Wetland"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Attack",
+        "value": 21
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Defense",
+        "value": 39
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0x0529612f9811aeddc85123e01dc37985b00b353e",
+  "type": "ERC721",
+  "name": "BurningPotato",
+  "tokenCount": "2",
+  "uri": "ipfs://QmQZX1pqpmPViuaA7BB663gTj6Wi6NmXj3jDWLXTWpNiQU/1.json",
+  "metadata": {
+    "name": "Burning Potato #1",
+    "description": "An experiment with really hot potatoes",
+    "image": "ipfs://QmYyAFX5jG8GxA9VhcbsuSJz8UHwej6DTr3My1M2QrykHp/1.png",
+    "dna": "87e23a17eacfd53de450782a0b5e70175bd83bd6",
+    "edition": 1,
+    "date": 1638939747921,
+    "attributes": [
+      {
+        "trait_type": "Potato",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Laser Eyes",
+        "value": "White"
+      },
+      {
+        "trait_type": "Fire",
+        "value": "Blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

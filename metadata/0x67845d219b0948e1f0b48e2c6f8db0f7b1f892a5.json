@@ -1,0 +1,32 @@
+{
+  "address": "0x67845d219b0948e1f0b48e2c6f8db0f7b1f892a5",
+  "type": "ERC1155",
+  "name": "test2023 V2",
+  "tokenCount": "1",
+  "uri": "ipfs://QmWjnDwCAjDAx5J3QWkAYFd8QwFqcivZ41JMQzNucGCcNA/1",
+  "metadata": {
+    "name": "Token 2 Name",
+    "description": "Token 2 Description",
+    "image": "ipfs://QmULWAHVyAr7PhLT9e32oATd5ubHnv78bTKkknh3eNzfzK/1.JPG",
+    "external_url": "https://thirdweb.com",
+    "background_color": "e8e1ed",
+    "attributes": [
+      {
+        "trait_type": "additional",
+        "value": "every"
+      },
+      {
+        "trait_type": "properties",
+        "value": "row"
+      },
+      {
+        "trait_type": "can be",
+        "value": "is a"
+      },
+      {
+        "trait_type": "added",
+        "value": "property"
+      }
+    ]
+  }
+}

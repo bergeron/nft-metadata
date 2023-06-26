@@ -1,0 +1,59 @@
+{
+  "address": "0x46e4da6c59f6008f628511063a36dc22dffc51aa",
+  "type": "ERC721",
+  "name": "Rooster 2000 10K Collection",
+  "tokenCount": "20",
+  "uri": "ipfs://QmaYytfXJiUeu2HccXhQyPPgEZhNPSeiHgycXbca4RYSpX/1.json",
+  "metadata": {
+    "name": "Rooster 2000 10K Collection #1",
+    "description": "Rooster 2000 10K Collection created by Robert Selby",
+    "image": "ipfs://QmVn6e7w2NZrtQL8P6h3UNUqE9u8wo75vHGB34QQErXapj/1.png",
+    "external_url": "1.png",
+    "dna": "42559f03e03f262f95c3d59dcaaf656ad6416d47",
+    "edition": 1,
+    "date": 1650384180,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "R2K BG 15.png"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "R2K Floor 15.png"
+      },
+      {
+        "trait_type": "Shadow",
+        "value": "R2K Shadow.png"
+      },
+      {
+        "trait_type": "Platform",
+        "value": "R2K Platform - Jewels Blue.png"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "R2K Tail Metallic Color - Silver.png"
+      },
+      {
+        "trait_type": "Body",
+        "value": "R2K Body Robot - Shut Down.png"
+      },
+      {
+        "trait_type": "Feet",
+        "value": "R2K Feet - Rubber Footies - Black.png"
+      },
+      {
+        "trait_type": "Headware",
+        "value": "R2K Headware Hat - Sombrero.png"
+      },
+      {
+        "trait_type": "Face",
+        "value": "R2K Face Eyes - Snarl.png"
+      },
+      {
+        "trait_type": "Gobbler",
+        "value": "R2K Gobblers - Base Color - Blue.png"
+      }
+    ],
+    "compiler": "generate-nft.online"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "address": "0xab31c7e8c5b907b87104fb0b81a8e9af99ecb236",
+  "type": "ERC721",
+  "name": "OshareNFT",
+  "tokenCount": "100",
+  "uri": "ipfs://QmdztLKXVbd9SYeSy3cbHkEWfBmtQtvnamafhquSNRr4Po/1.json",
+  "metadata": {
+    "name": "OshareNFT #1",
+    "description": "Black and White Manga Collection",
+    "image": "ipfs://QmTGyaVMfrSGQGB6LmU6LSFwRihgJC5vmS6cqaT3C14cwc/1.png",
+    "dna": "68e90868775c37f12adeae92c9f8192e75f60285",
+    "edition": 1,
+    "date": 1647288710324,
+    "external_url": "https://www.osharenft.com/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "OffBlack"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Base"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Heart"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Doe"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pout"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Hand"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Oshare"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

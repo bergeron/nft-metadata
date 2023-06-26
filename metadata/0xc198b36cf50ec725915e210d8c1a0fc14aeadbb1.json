@@ -1,0 +1,43 @@
+{
+  "address": "0xc198b36cf50ec725915e210d8c1a0fc14aeadbb1",
+  "type": "ERC721",
+  "name": "Alien Punk Salsa",
+  "tokenCount": "689",
+  "uri": "https://alienpunksalsaprod.blob.core.windows.net/metadata/1.json",
+  "metadata": {
+    "notes": "Metadata and images will move to IPFS when minting is complete.",
+    "image": "https://alienpunksalsaprod.blob.core.windows.net/images/1.png",
+    "description": "This is a salsafied clone of Alien Punk Thing #2977",
+    "attributes": [
+      {
+        "value": "White",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Gray",
+        "trait_type": "Head"
+      },
+      {
+        "value": "Blue Lips",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": "Pink Slime",
+        "trait_type": "Head Accessory"
+      },
+      {
+        "value": "Rainbow Sunglasses",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "Silver Earring",
+        "trait_type": "Accessory"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Salsafied"
+      }
+    ],
+    "name": "Alien Punk Salsa #1"
+  }
+}

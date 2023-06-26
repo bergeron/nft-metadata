@@ -1,0 +1,37 @@
+{
+  "address": "0xfd99bfab9b93b552b022f90ebc29412d3683c4dc",
+  "type": "ERC721",
+  "name": "CZ Doodles",
+  "tokenCount": "143",
+  "uri": "ipfs://bafybeidonvasmkkc5p7liill3ejm7u3r54dbrhpygqimlzds2hnl2denf4/1.json",
+  "metadata": {
+    "name": "CZ1",
+    "description": "CZ Doodles is a collection of 1111 unique Bored CZ NFTs— unique digital collectibles living on the Ethereum blockchain. Is he a villain or a hero?",
+    "fee_recipient": "0x0BA0786C66304e7211f4Ad7696B318Cf9554C248",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://bafybeie3riivg3j4ilhsjckbafo7l4n5cvekgpetbuftekoszh62vij6tm/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "1 Background",
+        "value": "Pastel Yellow"
+      },
+      {
+        "trait_type": "2 Skin",
+        "value": "CZ"
+      },
+      {
+        "trait_type": "3 Clothes",
+        "value": "Cloth Red"
+      },
+      {
+        "trait_type": "4 Headwear",
+        "value": "Newsboy Blue"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 764,
+        "display_type": "number"
+      }
+    ]
+  }
+}

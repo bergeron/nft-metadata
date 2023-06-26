@@ -1,0 +1,38 @@
+{
+  "address": "0x476e510960546764ad310759f6f834a343ca59ae",
+  "type": "ERC721",
+  "name": "Lost Cats NFTs",
+  "tokenCount": "213",
+  "uri": "https://api.thelostcats.xyz/metadata/1.json",
+  "metadata": {
+    "name": "Lost Cat #0001",
+    "description": "The Lost Cats is a fun derivative collection of 4999 cats lost on the Ethereum blockchain. It tells the story of those that have become lost but managed to beat the odds and made something of themselves.",
+    "image": "https://api.thelostcats.xyz/images/1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Doing Something"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Lost Cat"
+      },
+      {
+        "trait_type": "Scars",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Dev Hair"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Dev"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Companion 2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "address": "0x8c0d8ae99dc1edb1ef34cc657e9af99392b6fba7",
+  "type": "ERC721",
+  "name": "ArmoryLoot",
+  "tokenCount": "12",
+  "uri": "ipfs://QmY3AryLtKy1i8RUE3YaPKNA53nTkEC1tTCzxW75NhPhKp/1.json",
+  "metadata": {
+    "dna": "ECD91198FB6F97714BCF685B9F2392ED4DA48097",
+    "name": "Helmet",
+    "description": "Armory is an NFT collection of 10,000 randomly generated RPG items.",
+    "image": "ipfs://QmZK3GTZ4HW7PHM32noF3ZGpWTmYv2oeuJiGcE5BnTCKZo/1.png",
+    "date": 1635036225,
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Helmet"
+      },
+      {
+        "trait_type": "Quality",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "ItemLevel",
+        "value": 65
+      },
+      {
+        "trait_type": "Protection",
+        "value": 29
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Lightning Resistance",
+        "value": 4
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Strength",
+        "value": 4
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Maximum Health",
+        "value": 3
+      }
+    ]
+  }
+}

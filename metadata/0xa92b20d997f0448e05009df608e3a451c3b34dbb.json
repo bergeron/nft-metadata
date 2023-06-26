@@ -1,0 +1,42 @@
+{
+  "address": "0xa92b20d997f0448e05009df608e3a451c3b34dbb",
+  "type": "ERC721",
+  "name": "F1 DAO",
+  "tokenCount": "81",
+  "uri": "https://gateway.pinata.cloud/ipfs/Qmc83EFeq9jnFxksn8kG4CZoCy5r8kw9Mn4fGapMwoWZwe/1.json",
+  "metadata": {
+    "name": "F1 NFT DAO Collection #1",
+    "description": "Formula 1 Race Car Art Collection",
+    "image": "https://gateway.pinata.cloud/ipfs/QmWb3yyDrKdudSKtJkC32T76Egq7LAMXVYVgNAHekW8MUd/1.png",
+    "dna": "eccaae400cd396267c31d79e8957c0d3c18b2fe4",
+    "edition": 1,
+    "date": 1648827298739,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Chassis",
+        "value": "2022"
+      },
+      {
+        "trait_type": "ChassisColor",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Number",
+        "value": "16"
+      },
+      {
+        "trait_type": "Wheels",
+        "value": "Dry"
+      },
+      {
+        "trait_type": "Rims",
+        "value": "Chrome"
+      }
+    ],
+    "compiler": "F1 NFT Engine"
+  }
+}

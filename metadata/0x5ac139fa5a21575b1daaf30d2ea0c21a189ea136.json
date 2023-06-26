@@ -1,0 +1,23 @@
+{
+  "address": "0x5ac139fa5a21575b1daaf30d2ea0c21a189ea136",
+  "type": "ERC721",
+  "name": "Health Potion Insurance",
+  "tokenCount": "26",
+  "uri": "https://www.healthpotion.xyz/api/1.json",
+  "metadata": {
+    "name": "Vitality Elixir",
+    "image": "https://www.healthpotion.xyz/api/images/bottle_2_4.gif",
+    "description": "A safety net for web3. For more details go to healthpotion.xyz",
+    "tokenId": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Market Stall"
+      },
+      {
+        "trait_type": "Bottle",
+        "value": "Elixir"
+      }
+    ]
+  }
+}

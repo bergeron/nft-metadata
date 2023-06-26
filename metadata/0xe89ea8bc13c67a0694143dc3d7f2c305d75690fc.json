@@ -1,0 +1,53 @@
+{
+  "address": "0xe89ea8bc13c67a0694143dc3d7f2c305d75690fc",
+  "type": "ERC721",
+  "name": "Basquiat Doodles",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmeehRFPAuKmFqxFUAoBNaV3cH5Uw3a4ieFdJc1822VdAy/1.json",
+  "metadata": {
+    "name": "Basquiat #1",
+    "description": "5000 Basquiat Doodles living on the Ethereum Blockchain.",
+    "external_url": "https://manic.art",
+    "image": "ipfs://QmVmUoPSMTdJTuMaWRgfqjSRnitncGSpPA1vp1r6RNeSFp/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "96D395"
+      },
+      {
+        "trait_type": "Secret Name",
+        "value": "Festive Khorana"
+      },
+      {
+        "trait_type": "Crown",
+        "value": "black"
+      },
+      {
+        "trait_type": "Country",
+        "value": "CH"
+      },
+      {
+        "trait_type": "Effort",
+        "value": 12
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        "Manic Distopia"
+      ]
+    },
+    "compiler": "https://manic.art",
+    "collection": {
+      "name": "Basquiat Doodles",
+      "family": "Basquiat Doodles"
+    },
+    "symbol": ""
+  }
+}

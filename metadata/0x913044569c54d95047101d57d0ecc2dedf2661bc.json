@@ -1,0 +1,27 @@
+{
+  "address": "0x913044569c54d95047101d57d0ecc2dedf2661bc",
+  "type": "ERC721",
+  "name": "DeFi-Robot Trial Membership",
+  "tokenCount": "42",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x913044569c54d95047101d57d0ecc2dedf2661bc/1",
+  "metadata": {
+    "name": "DeFi-Robot Trial Membership",
+    "description": "DeFi-Robot Trial Membership allows you to try the DeFi-Robot ecosystem for 3 days.\n\nYou'll get access to all features, except:\n- Exclusive Chat\n- Advanced Simulator\n\nOnce this NFT bought, connect to the DAPP to match your Telegram ID",
+    "image": "https://dapp.defirobot.org/defiRobot-logo.jpg",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1674044387
+      }
+    ],
+    "external_url": "https://dapp.defirobot.org/account",
+    "background_color": "000000",
+    "expiration": 1674044387,
+    "tokenId": "1",
+    "owner": "0xb7b05f2fffd58e73fe91160095e0e3e1c0b6de5a",
+    "keyId": "1",
+    "lockAddress": "0x913044569c54d95047101d57D0eCc2dedF2661bc",
+    "network": 1
+  }
+}

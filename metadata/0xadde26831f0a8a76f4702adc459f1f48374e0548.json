@@ -1,0 +1,29 @@
+{
+  "address": "0xadde26831f0a8a76f4702adc459f1f48374e0548",
+  "type": "ERC1155",
+  "name": "DeFine Badge",
+  "tokenCount": "2",
+  "uri": "https://api.de-fine.art/api/badges/mainnet/0xaDDe26831f0A8A76F4702adC459f1f48374e0548/1",
+  "metadata": {
+    "chainType": "mainnet",
+    "contractAddress": "0xadde26831f0a8a76f4702adc459f1f48374e0548",
+    "id": 1,
+    "owner": "0x469adaf766fb35f1a3c2569fe8c57a50f4b39131",
+    "type": "LOOT",
+    "group": null,
+    "level": null,
+    "name": "LOOT",
+    "description": null,
+    "qualification": null,
+    "qualificationAmount": null,
+    "qualificationBlockNumber": null,
+    "image": "https://define-art-static-prod.s3-ap-northeast-1.amazonaws.com/badge/loot/DeFine_Badge_Loot.jpg",
+    "thumbnails": null,
+    "grantTo": "0x469adaf766fb35f1a3c2569fe8c57a50f4b39131",
+    "createdBlockNumber": "13184178",
+    "transactionHash": "0x4617c508f8eb949c84d171b4a4f6373366c7ad54a756c3bc137b970ecaa8b286",
+    "createTime": 1631091561,
+    "external_url": null,
+    "project": "loot"
+  }
+}

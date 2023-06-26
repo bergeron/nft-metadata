@@ -1,0 +1,46 @@
+{
+  "address": "0x6ccb5bfb606ded83c27d58ec38f0a33ed299626d",
+  "type": "ERC721",
+  "name": "Glitched Worms",
+  "tokenCount": "495",
+  "uri": "https://art-sandbox.sunflower.industries/token/0x6cCb5bfb606ded83C27D58EC38f0A33ED299626D/1",
+  "metadata": {
+    "description": "Glitched worms is an animated collection of 512 colored worms, crawling around the canvas. They come with several traits. Some are rarer than others. Watch the colors unfold as you stare at the art in evolution. \nLet your imagination fly. What do you see? A brain? A flower? A dead animal? Worms?\nObserve the randomness unfold. Each design is unique and cannot be repeated. \nPress s to stop animation. Press c to continue animation. \nYou can even right click and save image, exactly at your favorite moment. And do try it out on a big screen.",
+    "dependencies": "[{\"name\":\"p5@1.4.0\",\"keccak256\":\"0xcef1df742d5237151854b6ccd3d7769c7bcb2cf987e4f8f6ca1ad69afdac3dcc\"}]",
+    "artist": "0x87661b4740FD1a6ac45a927079E1DB09827dA4bA",
+    "external_url": "https://art.sunflower.industries/token/0x6cCb5bfb606ded83C27D58EC38f0A33ED299626D/1",
+    "image": "https://art-sandbox.sunflower.industries/render/tokenImage/0x6cCb5bfb606ded83C27D58EC38f0A33ED299626D/1",
+    "name": "Glitched Worms #1",
+    "attributes": [
+      {
+        "trait_type": "speedtype",
+        "value": "ultra_fast"
+      },
+      {
+        "trait_type": "circles",
+        "value": "19"
+      },
+      {
+        "trait_type": "worms",
+        "value": "horde"
+      },
+      {
+        "trait_type": "blendMode",
+        "value": "hard-light"
+      },
+      {
+        "trait_type": "noStroke",
+        "value": "True"
+      },
+      {
+        "trait_type": "color",
+        "value": "standard"
+      },
+      {
+        "trait_type": "speed",
+        "value": "13"
+      }
+    ],
+    "animation_url": "https://art-sandbox.sunflower.industries/tokenFrame/0x6cCb5bfb606ded83C27D58EC38f0A33ED299626D/1"
+  }
+}

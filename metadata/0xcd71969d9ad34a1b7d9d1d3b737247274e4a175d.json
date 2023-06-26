@@ -1,0 +1,42 @@
+{
+  "address": "0xcd71969d9ad34a1b7d9d1d3b737247274e4a175d",
+  "type": "ERC721",
+  "name": "sidsPKNZ",
+  "tokenCount": "1",
+  "uri": "https://sidspunksv2.s3.amazonaws.com/json/1.json",
+  "metadata": {
+    "name": "SIDS PUNKS #1",
+    "description": "This is a collection based off the crypto punks and is not an exact replica, but  thats what makes it mine the fact that it is not perfect like the crypto punks.",
+    "image": "https://sidspunksv2.s3.amazonaws.com/images/1.png",
+    "dna": "221d8491e589569cb30560cac8d6c0d045626dc8",
+    "edition": 1,
+    "date": 1661884875838,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUNDOFPUNK",
+        "value": "redBG"
+      },
+      {
+        "trait_type": "CLASSOFPUNK",
+        "value": "classZombie"
+      },
+      {
+        "trait_type": "HAIROFPUNK",
+        "value": "crazywhitehair"
+      },
+      {
+        "trait_type": "HATOFPUNK",
+        "value": "cowboyhat"
+      },
+      {
+        "trait_type": "EYEOFPUNK",
+        "value": "bigpurpleshades"
+      },
+      {
+        "trait_type": "ACESSORYOFPUNK",
+        "value": "mole"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

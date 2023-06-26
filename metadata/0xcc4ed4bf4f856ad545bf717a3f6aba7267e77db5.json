@@ -1,0 +1,55 @@
+{
+  "address": "0xcc4ed4bf4f856ad545bf717a3f6aba7267e77db5",
+  "type": "ERC721",
+  "name": "Testing In Prod",
+  "tokenCount": "1",
+  "uri": "https://storage.treum.io/public/QmV6fhtNZwWPRTNkVF9jsLmi5wKkmW9jpqKvcvaEBfAo1u/metadata.json",
+  "metadata": {
+    "name": "Test Collectible 01",
+    "description": "Description of a test collectible",
+    "image_url": "https://storage.treum.io/public/QmdyBNd8UCqK9FCapeNMRywHgVpq9RCEFxUDYBA6UwzoCa/pexels-elli-1854652.jpg",
+    "external_url": "https://collect.treum.io/e04090e0-1738-46fd-88dc-e72e7dfe6dc0",
+    "properties": {
+      "digital_twin": {
+        "name": "Digital Twin",
+        "value": "Yes"
+      },
+      "depth": {
+        "name": "Depth",
+        "value": 3
+      },
+      "genre": {
+        "name": "Genre",
+        "value": "Abstract"
+      },
+      "width": {
+        "name": "Width",
+        "value": 14
+      },
+      "height": {
+        "name": "Height",
+        "value": 14
+      },
+      "medium": {
+        "name": "Medium",
+        "value": ""
+      },
+      "period": {
+        "name": "Period",
+        "value": ""
+      },
+      "creator": {
+        "name": "Author",
+        "value": "Frank"
+      },
+      "substrate": {
+        "name": "Substrate",
+        "value": ""
+      },
+      "creation_date": {
+        "name": "Creation Date",
+        "value": "2020-12-12"
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "address": "0x538d3573b65ef4ba09e242d9a88ae3089bfc2880",
+  "type": "ERC721",
+  "name": "実務スキル証明1",
+  "tokenCount": "2",
+  "uri": "ipfs://QmYVm4t9ioY2oTGaLXjsUA9o25EFD2USytVoYRiFAEZdKg/0",
+  "metadata": {
+    "name": "実務スキル",
+    "description": "2023年2月16日時点の保有スキルです。",
+    "image": "ipfs://QmXhanGicgJvGQs9ebztJQp9GzX9a5LTeAG4rzY4xBvBCE/logoicon6%404x.png",
+    "attributes": [
+      {
+        "trait_type": "issue_date",
+        "value": "20230216"
+      },
+      {
+        "trait_type": "exp_type",
+        "value": "実務スキル"
+      },
+      {
+        "trait_type": "issuer_address",
+        "value": "0x05993defade431de87720c5fb2761aebc5018c88"
+      },
+      {
+        "trait_type": "issuer_name",
+        "value": "実務スキル証明1"
+      },
+      {
+        "trait_type": "owner_address",
+        "value": "0x3f86141Cd2294302d5268039cDB6e02df8B43379"
+      }
+    ]
+  }
+}

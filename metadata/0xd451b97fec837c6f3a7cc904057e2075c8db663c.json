@@ -1,0 +1,41 @@
+{
+  "address": "0xd451b97fec837c6f3a7cc904057e2075c8db663c",
+  "type": "ERC721",
+  "name": ".Clay",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/8MoOfYPXADB4vz9GwGzswZNDMjBpBBWwqJ3oaTqMONw",
+  "metadata": {
+    "name": "The Bends",
+    "created_by": "Raz Does Art",
+    "description": "With every action, \nA reaction.  \nWith every high,  \nA low.  \nIn a search for balance,  \nWe find everything.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Raz Does Art"
+      }
+    ],
+    "image_details": {
+      "bytes": 7864144,
+      "format": "PNG",
+      "sha256": "8a4487a044b8c118c5dabbb0a9c30d5ae7308b4aa6d604a248bcc85b1870f78f",
+      "width": 2160,
+      "height": 2160
+    },
+    "image": "https://arweave.net/cRmC4Mtfj4zl4b7zLdRAv3cfTIKvYjHKH6IBZBFW3Kk",
+    "image_url": "https://arweave.net/cRmC4Mtfj4zl4b7zLdRAv3cfTIKvYjHKH6IBZBFW3Kk",
+    "animation_details": {
+      "bytes": 9454115,
+      "format": "MP4",
+      "duration": 7,
+      "sha256": "0639eb8a0e8bc51d7c02b5994179735050103754ff12805c99232ba4d58a2cd1",
+      "width": 2160,
+      "height": 2160,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/qVNSGfrCPUhzQfWM51GmCkgdBrLBKqk0-4OiBcVRpI4",
+    "animation_url": "https://arweave.net/qVNSGfrCPUhzQfWM51GmCkgdBrLBKqk0-4OiBcVRpI4"
+  }
+}

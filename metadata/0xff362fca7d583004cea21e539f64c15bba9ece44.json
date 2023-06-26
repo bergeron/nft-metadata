@@ -1,0 +1,38 @@
+{
+  "address": "0xff362fca7d583004cea21e539f64c15bba9ece44",
+  "type": "ERC721",
+  "name": "hngeb - old",
+  "tokenCount": "17",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=cn3JOfUG9vsY7cjrSUqm",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1578180540255?alt=media&token=9a5fd52e-216e-4787-85a9-94f57c4f8a1c",
+    "isForSale": true,
+    "description": "Ethereum Owl Art",
+    "contractAddress": "0xff362fca7d583004cea21e539f64c15bba9ece44",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xff362fca7d583004cea21e539f64c15bba9ece44/cn3JOfUG9vsY7cjrSUqm",
+    "minter": "0x8a976eaA7A69bB263ad5A896D187389E68738DB1",
+    "mintedOn": {
+      "_seconds": 1578180618,
+      "_nanoseconds": 470000000
+    },
+    "price": "0.25",
+    "name": "ETH_OWL",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "ETH_OWL"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

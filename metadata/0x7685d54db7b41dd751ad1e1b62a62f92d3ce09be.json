@@ -1,0 +1,35 @@
+{
+  "address": "0x7685d54db7b41dd751ad1e1b62a62f92d3ce09be",
+  "type": "ERC721",
+  "name": "CryptoRugs",
+  "tokenCount": "5555",
+  "uri": "https://raw.githubusercontent.com/aladdinrugmaster/thecryptorugs/main/meta/tokens/1/metadata.json",
+  "metadata": {
+    "name": "CryptoRug #1",
+    "description": "This is a CryptoRug memorializing EasyFi, which lost ~$59,000,000 on April 19, 2021.",
+    "external_url": "https://cryptorugs.org/",
+    "image": "https://raw.githubusercontent.com/aladdinrugmaster/thecryptorugs/main/meta/tokens/1/image.png",
+    "attributes": [
+      {
+        "trait_type": "Project",
+        "value": "EasyFi"
+      },
+      {
+        "trait_type": "Rug",
+        "value": "Microchip"
+      },
+      {
+        "trait_type": "Tassels",
+        "value": "Regular"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "Tile"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      }
+    ]
+  }
+}

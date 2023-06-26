@@ -1,0 +1,42 @@
+{
+  "address": "0xd9d24a436cc00640b586d71263400b77e4742079",
+  "type": "ERC721",
+  "name": "STICKY FACES NFT",
+  "tokenCount": "1500",
+  "uri": "ipfs://bafybeicw4ra3g7f4n2czqdz4jv73kbropkpofmsbejbzgkh7t4w5vpdyj4/1.json",
+  "metadata": {
+    "name": "STICKY FACES #1",
+    "description": "A collection of 5000 Stickies",
+    "image": "ipfs://bafybeiame6ph27xiffq3gx5wveitnrbuap54bpnj4sf3qbvsp7l6hbuym4/1.png",
+    "dna": "feff07ef43158ec8fb2e27256bbd1cc853564756",
+    "edition": 1,
+    "date": 1663056323598,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BODY",
+        "value": "Knight"
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Lion"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "CuteDissaproved"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "Droll"
+      },
+      {
+        "trait_type": "NOSE",
+        "value": "Smoll"
+      }
+    ],
+    "compiler": "Jose Web3"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0xc9eea096c23aabc60207a3804dc73b1ffb32cafd",
+  "type": "ERC721",
+  "name": "Ghostly Friends Club",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmQSQm25NunDoutKEJ6nDazoXJpciyGf8LQH96CusT52ZH/1.json",
+  "metadata": {
+    "name": "Ghostly Friends #1",
+    "description": "5000 unique Ghostly Friends NFT.",
+    "image": "ipfs://QmSNxHqsdaEyTagi5G6GHo4RWckYXY4rMBbeY7wLAfXSuW/1.png",
+    "dna": "1b384619688778ce27198a982fb6831cc017928b",
+    "edition": 1,
+    "date": 1649363847440,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Pink"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Base"
+      },
+      {
+        "trait_type": "Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eye Glass"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cross"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Pac Man Friends"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

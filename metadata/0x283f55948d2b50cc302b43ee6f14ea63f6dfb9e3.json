@@ -1,0 +1,48 @@
+{
+  "address": "0x283f55948d2b50cc302b43ee6f14ea63f6dfb9e3",
+  "type": "ERC721",
+  "name": "A Bug Travels Far",
+  "tokenCount": "617",
+  "uri": "https://abug-api.vercel.app/api/meta/1",
+  "metadata": {
+    "tokenId": 1,
+    "image": "https://ipfs.io/ipfs/QmYPud1k8NM9nULPUxWbfnUDp7DsdrkR8BUhU7fChJVp2T",
+    "description": "OG Character Token, Ty Fly, Color, Ally Border",
+    "name": "Book 1, 3, OG 1, Ty Fly",
+    "external_link": "https://abugtravelsfar.com/",
+    "attributes": [
+      {
+        "trait_type": "Series",
+        "value": "1"
+      },
+      {
+        "trait_type": "Book Number & Name",
+        "value": "1, A Dangerous Turn"
+      },
+      {
+        "trait_type": "Page(s)",
+        "value": "None"
+      },
+      {
+        "trait_type": "Character(s)",
+        "value": "Ty Fly"
+      },
+      {
+        "trait_type": "Token Type",
+        "value": "Character OG"
+      },
+      {
+        "trait_type": "Drawing Type",
+        "value": "Color"
+      },
+      {
+        "trait_type": "Border",
+        "value": "Ally"
+      },
+      {
+        "trait_type": "Background",
+        "value": "None"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "0x1522c212757e65e18832183ab8afe7f89b8abe0a",
+  "type": "ERC721",
+  "name": "Kryptoria - Weapons",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmeFDb9pkav8yTnphy8xKowQZa2WooBFNTU8jEeTis372Z/1.json",
+  "metadata": {
+    "dna": "38ef931e39522c323dd4d098a4695bc6bfb4e16a7372861c402fb05abb1248e9",
+    "name": "Kryptoria Weapon #1",
+    "description": "Kryptoria is a VC backed, immersive map-based blockchain game. Set in our Unity built world, holders will be able to dynamically update all traits on their Alpha Citizen post mint offering not only individual customisation but on-going commercial opportunities.\n  \n  Owners of Kryptoria's Weapons will, when combined with an Alpha Citizen and Land, be able to fight and secure that all important stockpile of resources.\n  \n  Weapons are your ticket to freedom. To building your forces. To securing your future.",
+    "image": "ipfs://QmSWF429F63LMfwKSK8HCrwDFdUuFMzcyu1Qwfe3Pa4ZMu/1.png",
+    "imageHash": "22e030d7bd099b269c7e33bf086159d6151762c783b9a58bc146c1aedaf1852c",
+    "edition": 1,
+    "date": 1665902654286,
+    "attributes": [
+      {
+        "trait_type": "CLASS",
+        "value": "Assault"
+      },
+      {
+        "trait_type": "Attack - Base",
+        "value": "64",
+        "display_type": "number",
+        "max_value": 100
+      },
+      {
+        "trait_type": "CHARM",
+        "value": "RaceCar"
+      },
+      {
+        "trait_type": "ORIGIN",
+        "value": "DegenTech"
+      },
+      {
+        "trait_type": "MODEL",
+        "value": "Tsunami"
+      },
+      {
+        "trait_type": "VARIATION",
+        "value": "MK3"
+      },
+      {
+        "trait_type": "RARITY",
+        "value": "Normal"
+      }
+    ]
+  }
+}

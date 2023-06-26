@@ -1,0 +1,50 @@
+{
+  "address": "0xfd2386f6b305fb03425f9a7e46205ae907a4e786",
+  "type": "ERC1155",
+  "name": "Panter Xhita's Supper",
+  "tokenCount": "15",
+  "uri": "ipfs://QmWjz61JavNTPvgB3FKa7h5EZnJPgKw7z9yBTpan98VaZK/1/token.json",
+  "metadata": {
+    "name": "The heater",
+    "image": "ipfs://QmTagdpP9krFmpHM975vvmaApvZefgQSDKVkQHt2FEnBc2",
+    "description": "It's enough.\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Panter Xhita"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "Panter Xhita's Supper"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0xdd9e62bc2968ec2b00ebb76d7b384056c4561a2e"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Outside",
+              "state": {
+                "label": "The heater",
+                "uri": "QmP7aU4TQH1qd91w3YscVUsQqcb2JH9qcSv7jvkfR3SJy2"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

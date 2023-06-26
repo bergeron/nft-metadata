@@ -1,0 +1,18 @@
+{
+  "address": "0xa74e199990ff572a320508547ab7f44ea51e6f28",
+  "type": "ERC721",
+  "name": "CryptoBeasts",
+  "tokenCount": "10000",
+  "uri": "https://cryptobeasts.org/api/json.php?id=1",
+  "metadata": {
+    "name": "CryptoBeasts Rare Egg #1",
+    "description": "Congratulations! You have stumbled upon a Rare Egg. CryptoBeasts is a first-of-its-kind online experience. You can learn more at www.CryptoBeasts.org",
+    "attributes": [
+      {
+        "trait_type": "Rare Egg Type",
+        "value": "Type 0"
+      }
+    ],
+    "image": "https://gateway.pinata.cloud/ipfs/QmewXNks9aL2pXpv4YN9ahbKTw5bv3nffmf72Nt8kwHVJg/Egg0.gif"
+  }
+}

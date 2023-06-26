@@ -1,0 +1,54 @@
+{
+  "address": "0x7d66b38d534eaeca2a1679270ea082b7d72f82f3",
+  "type": "ERC1155",
+  "name": "FraktalNFT0xTubbyCats",
+  "tokenCount": "2",
+  "uri": "ipfs://QmbEZd7TDwv3Unsavwiwk7LJvMehGzgPZLBY1MZ2RF74o5/810.json",
+  "metadata": {
+    "dna": "2c4c867dcf3de1814538134acdf43123aed2ccce",
+    "name": "#810",
+    "description": "An expansion of 5,000 uniquely enhanced Tubby Cats. Same cats, new style. We like the cats. 0xTubbyCats is not affiliated with Tubby Cats NFT.",
+    "image": "ipfs://Qmb5TQjxZo2xJ4FWgSJWMKQ9vEYimY22udxsDrFnYbP9uU/810.png",
+    "edition": 810,
+    "date": 1645688937933,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "0x"
+      },
+      {
+        "trait_type": "Base",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "cat eyes"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "concerened"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "little"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "gauze"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "green coat"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink parted"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "blue hand"
+      }
+    ],
+    "compiler": "0xTubbyCats Deployer"
+  }
+}

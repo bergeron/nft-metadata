@@ -1,0 +1,24 @@
+{
+  "address": "0xdaedcc4d043af915c714b78233318e9258dbc635",
+  "type": "ERC721",
+  "name": "ElseVerse Cars",
+  "tokenCount": "500",
+  "uri": "https://api.elseverse.io/nft/car/1",
+  "metadata": {
+    "name": "ElseVerse Car #1",
+    "image": "https://s3.eu-west-2.amazonaws.com/cdn-front.elseverse.io/2023-03-15/ELSEVERSE_MARKETING_CITYCAR_SKIN2_700.png",
+    "animation_url": "https://s3.eu-west-2.amazonaws.com/cdn-front.elseverse.io/2023-03-15/ELSEVERSE_MARKETING_CITYCAR_SKIN2.mp4",
+    "description": "Luxurious car of the ElseVerse metaverse.",
+    "external_url": "https://elseverse.io/",
+    "attributes": [
+      {
+        "trait_type": "id",
+        "value": 1
+      },
+      {
+        "trait_type": "type",
+        "value": 2
+      }
+    ]
+  }
+}

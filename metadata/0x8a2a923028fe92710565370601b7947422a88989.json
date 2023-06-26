@@ -1,0 +1,30 @@
+{
+  "address": "0x8a2a923028fe92710565370601b7947422a88989",
+  "type": "ERC721",
+  "name": "Bored Ape Pixelized Club",
+  "tokenCount": "50",
+  "uri": "ipfs://QmTmWSJ1wdzmLt3dmm1sbLy9faxYcAuT8BuRWE3nVqMENh/1.json",
+  "metadata": {
+    "name": "Bored Ape Pixel Club #1",
+    "description": "Bored Ape Pixel Club",
+    "image": "ipfs://QmRbmufT1Mx6uJELaJvNjxwLvfF8DB4aCr3RJzQVRAPtB8/1.png",
+    "edition": 1,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(77,104,114)"
+        },
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Hot Dog"
+        },
+        {
+          "trait_type": "date",
+          "value": 1851
+        }
+      ]
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0xeb931b8b188f18421a4c022886189aaa306e9454",
+  "type": "ERC721",
+  "name": "Wallkanda Curated Artists",
+  "tokenCount": "36",
+  "uri": "ipfs://QmYWJXLPw7vJF9xJuW6woFPQGtdYcwksno9sZrn7K671o3/nft.json",
+  "metadata": {
+    "name": "LARA",
+    "description": "Digital artwork animated.\n2020",
+    "image": "ipfs://QmagGcMqsfM6xfiYW4888YziYFi1n1oksisinGVb796R6Q/asset.GIF",
+    "creator": "0xa2ba4d5057636d79c3646f54672b0f8202e74cf3",
+    "artEdition": 10,
+    "external_url": "https://wallkanda.art",
+    "attributes": [
+      {
+        "trait_type": "Editions",
+        "value": "1 of 10"
+      },
+      {
+        "trait_type": "Creator",
+        "value": "0xa2ba4d5057636d79c3646f54672b0f8202e74cf3"
+      }
+    ],
+    "royalties": {
+      "recipient": "0xa2ba4d5057636d79c3646f54672b0f8202e74cf3",
+      "amount": "5%"
+    },
+    "keywords": "#graffiti #streetart #derf #digitalart #nft"
+  }
+}

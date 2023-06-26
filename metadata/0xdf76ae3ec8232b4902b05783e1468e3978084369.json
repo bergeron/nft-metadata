@@ -1,0 +1,45 @@
+{
+  "address": "0xdf76ae3ec8232b4902b05783e1468e3978084369",
+  "type": "ERC1155",
+  "name": "FraktalNFTBaby Ethalien",
+  "tokenCount": "2",
+  "uri": "https://fisa6z9ui7.execute-api.us-east-2.amazonaws.com/beta/getbabyid?setId=666",
+  "metadata": {
+    "external_url": "https://www.ethaliens.com",
+    "image": "https://baby-alien-v2.s3.us-east-2.amazonaws.com/666.PNG",
+    "animation_url": "https://ethalien-dual-metadata-95wwv7xim-asterialabs.vercel.app/imageswitch?id=666",
+    "attributes": [
+      {
+        "value": "Purple",
+        "trait_type": "Backgrounds"
+      },
+      {
+        "value": "Blue",
+        "trait_type": "Skins"
+      },
+      {
+        "value": "Whiskers",
+        "trait_type": "Tattoo"
+      },
+      {
+        "value": "Sweatshirt",
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "Grin",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": "Standard",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "Large Horns",
+        "trait_type": "Headwear"
+      }
+    ],
+    "description": "Baby Ethalien are the children of the Ethalien. You have woken them from their deep slumber.",
+    "id": 666,
+    "name": "#666"
+  }
+}

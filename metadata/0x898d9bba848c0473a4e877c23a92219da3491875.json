@@ -1,0 +1,30 @@
+{
+  "address": "0x898d9bba848c0473a4e877c23a92219da3491875",
+  "type": "ERC1155",
+  "name": "FungyProof Enrichments",
+  "tokenCount": "5",
+  "uri": "https://bafybeigxgfo4vqkpjtkzpuhupwu2qndziuufnc3x4aa3siaqnsbfztxwdm.ipfs.dweb.link/fungyproof-case.json",
+  "metadata": {
+    "name": "FungyProof Case",
+    "description": "The FungyProof Case protects your NFT. Once encased, your token is backed up into decentralized storage and added to the registry.",
+    "image": "https://bafybeib6jsngmyky5xbsnoykxc5chhmbazwivx4opclaifuou7cvo47ji4.ipfs.dweb.link/fungyproof-case.png",
+    "attributes": [
+      {
+        "trait_type": "Generation",
+        "value": "1"
+      },
+      {
+        "trait_type": "Action",
+        "value": "Backup"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Case"
+      }
+    ]
+  }
+}

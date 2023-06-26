@@ -1,0 +1,94 @@
+{
+  "address": "0x70215fab3ffb80836fbdf85f89915ccd71ce5ac8",
+  "type": "ERC721",
+  "name": "DozerDollV3",
+  "tokenCount": "333",
+  "uri": "https://qtsaj4j9bc.execute-api.ap-southeast-1.amazonaws.com/prod/v4/game/dozer/p3/fancy/meta/v3/1",
+  "metadata": {
+    "name": "Bram",
+    "description": "Bram is DozerFriend’s Dracula obsessed lemur, wearing a cape and with frightening yellow eyes. He’s ready to be one with the night.",
+    "image": "https://cryptodozer.io/static/images/dozer/meta/v2/fancyV2/5011001.png",
+    "external_url": "https://cryptodozer.io/",
+    "language": "en-US",
+    "attributes": {
+      "id": 5011,
+      "level": 1,
+      "star": "★★★★"
+    },
+    "playdapp": {
+      "market": {
+        "except_attributes": [
+          "id"
+        ],
+        "price_word": "Bram1"
+      },
+      "games": [
+        {
+          "title": "CryptoDozer",
+          "image": "https://market.playdapp.com/images/games/game_profile_cryptodozer@2x.png",
+          "external_url": "https://cryptodozer.io/",
+          "attributes": [
+            {
+              "display_type": "chart_bar",
+              "trait_type": "Level",
+              "value": 1,
+              "value_max": 10
+            },
+            {
+              "display_type": "chart_percentage",
+              "trait_type": "Chance to Drop Wall coin when doll collected",
+              "value": 10,
+              "value_max": 100,
+              "prefix": "",
+              "suffix": "%",
+              "reward": 104
+            }
+          ]
+        },
+        {
+          "title": "DozerBird",
+          "image": "https://market.playdapp.com/images/games/game_profile_dozerbird@2x.png",
+          "external_url": "https://dozerbird.io/",
+          "attributes": [
+            {
+              "display_type": "chart_bar",
+              "trait_type": "Flying Control",
+              "value": 85,
+              "value_max": 100
+            },
+            {
+              "display_type": "chart_bar",
+              "trait_type": "Wind Resistance",
+              "value": 90,
+              "value_max": 100
+            },
+            {
+              "display_type": "chart_percentage",
+              "trait_type": "booster time",
+              "value": 4,
+              "value_max": 12,
+              "prefix": "+",
+              "suffix": "s"
+            },
+            {
+              "display_type": "chart_percentage",
+              "trait_type": "predict time",
+              "value": 8,
+              "value_max": 12,
+              "prefix": "+",
+              "suffix": "s"
+            },
+            {
+              "display_type": "chart_percentage",
+              "trait_type": "bonus shield",
+              "value": 1,
+              "value_max": 2,
+              "prefix": "+",
+              "suffix": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

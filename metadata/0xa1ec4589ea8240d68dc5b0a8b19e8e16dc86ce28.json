@@ -1,0 +1,40 @@
+{
+  "address": "0xa1ec4589ea8240d68dc5b0a8b19e8e16dc86ce28",
+  "type": "ERC721",
+  "name": "MetaBrot Collection",
+  "tokenCount": "444",
+  "uri": "ipfs://QmVGKT86CYu7yp6MZaFMf25374EaFDoa5A716GQ128voU1/metabrot_1.json",
+  "metadata": {
+    "name": "#1 Honey Drive",
+    "description": "Honey Drive is a MetaBrot based on the distribution the orbits of 1 billion random points through repeated iterations of the polynomial 0.9 z + 0.9 z² + 0.8 z³ + 0.7 z⁴ - 0.2 z⁵",
+    "external_url": "https://root.fractalnft.art/metabrot",
+    "image": "ipfs://Qmb79NyN5X2iSZ95RTXMhKoZrXSQMPnTbhBdae9c9kCyvw/0001_Honey_Drive_b4978252d42744f94e1dac84a38fbb.jpg",
+    "animation": "ipfs://Qmb79NyN5X2iSZ95RTXMhKoZrXSQMPnTbhBdae9c9kCyvw/0001_Honey_Drive_b4978252d42744f94e1dac84a38fbb.jpg",
+    "attributes": [
+      {
+        "trait_type": "Point",
+        "value": "Drive"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Honey"
+      },
+      {
+        "trait_type": "Spin",
+        "value": 9
+      },
+      {
+        "trait_type": "Flow",
+        "value": 2
+      },
+      {
+        "trait_type": "Type",
+        "value": "Hybrid"
+      },
+      {
+        "trait_type": "Force",
+        "value": "Light"
+      }
+    ]
+  }
+}

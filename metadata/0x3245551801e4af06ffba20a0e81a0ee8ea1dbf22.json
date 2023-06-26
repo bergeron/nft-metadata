@@ -1,0 +1,42 @@
+{
+  "address": "0x3245551801e4af06ffba20a0e81a0ee8ea1dbf22",
+  "type": "ERC721",
+  "name": "The French NFT!",
+  "tokenCount": "127",
+  "uri": "ipfs://QmRWfevu5uXh4N6rpoamSYcw1aoqXidvm74zmAxZGoCTS3/1.json",
+  "metadata": {
+    "name": "The French! #1",
+    "description": "The French are here! #MAXBAGUETTE",
+    "image": "ipfs://QmdE958ze1kNzTBs56gnBpmyazhPoaofXitS51gmYtKPyq/1.png",
+    "dna": "2d03660fc04c868766dff57494a04271aed7a63e",
+    "edition": 1,
+    "date": 1658113946405,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "The French"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Tanned"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black French Beard"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Monocle"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Beret"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

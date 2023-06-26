@@ -1,0 +1,38 @@
+{
+  "address": "0x50c55592f38364a79699eab30c997c804bcfb203",
+  "type": "ERC721",
+  "name": "AnonBirds Official",
+  "tokenCount": "222",
+  "uri": "ipfs://bafybeigdonzxioblw3qgfvwwzzm3ibzhn6omzbus33l77kkvnxhws7wsfy/1.json",
+  "metadata": {
+    "name": "Anonbird #1",
+    "description": "888 Anonbirds only. Private alpha.",
+    "image": "ipfs://bafybeidhfn33bfaafenx2lhe2qdijn6yusv2cyceuyk32dqkpso35w4xou/1.png",
+    "dna": "f665c1960135e854af9ee261758125034310df62",
+    "edition": 1,
+    "date": 1670643649074,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Bird",
+        "value": "Bird 2"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Face"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eyes 9"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Cowboy"
+      }
+    ],
+    "compiler": "Bird"
+  }
+}

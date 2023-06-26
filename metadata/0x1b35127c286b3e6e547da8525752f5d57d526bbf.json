@@ -1,0 +1,30 @@
+{
+  "address": "0x1b35127c286b3e6e547da8525752f5d57d526bbf",
+  "type": "ERC721",
+  "name": "Hape Marketplace",
+  "tokenCount": "880",
+  "uri": "https://marketplace-nfts.hape.io/metadata/ba-je-sp-cl-bl.json",
+  "metadata": {
+    "name": "Baseball Jersey (Black / Orange)",
+    "description": "Hape Marketplace Trait - Digital Only",
+    "image": "https://marketplace-nfts.hape.io/images/ba-je-sp-cl-bl.png",
+    "attributes": [
+      {
+        "trait_type": "Collection",
+        "value": "Sporty"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Clothing"
+      },
+      {
+        "trait_type": "Primary Colour",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      }
+    ]
+  }
+}

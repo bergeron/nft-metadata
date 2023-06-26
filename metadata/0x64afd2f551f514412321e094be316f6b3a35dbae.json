@@ -1,0 +1,39 @@
+{
+  "address": "0x64afd2f551f514412321e094be316f6b3a35dbae",
+  "type": "ERC721",
+  "name": "131asdf31",
+  "tokenCount": "100",
+  "uri": "ipfs://QmUp9eAZCWYWDq76mKmKRf3AzNU4Jtmx7XF8jhgCyFE4H8/4000001",
+  "metadata": {
+    "name": "Structural disobediance",
+    "attributes": [
+      {
+        "trait_type": "aspect_ratio",
+        "value": "square"
+      },
+      {
+        "trait_type": "Format",
+        "value": "png"
+      },
+      {
+        "trait_type": "Collection Name",
+        "value": "DreamScapes"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Xander Steenbrugge"
+      }
+    ],
+    "artist_website": "https://twitter.com/xsteenbrugge",
+    "platform": "Braindrops",
+    "description": "DreamScapes is an attempt to recreate the fantastical dreamworlds we all experience every night through the lens of AI. By combining the power of language interpretation and visual perception using a highly customized VQGAN+CLIP pipeline, the pieces in this collection each evoke their own unique dreamworld that should be experienced rather than understood.",
+    "artistRoyaltyInfo": {
+      "artistAddress": "0x707189FAEC130309Fcac40AbAFAA211384883866",
+      "artistPercentage": "5",
+      "additionalPayee": "0x31c253dE07308f77d0769388fb959B7CB7e38d8d",
+      "additionalPayeePercentage": "2.5"
+    },
+    "image": "ipfs://QmVfbsYdqkKotVk2duRFceW4K3AFwHN1Q1TQGAAZDSJk1X",
+    "external_url": "https://braindrops.cloud/token/4000001"
+  }
+}

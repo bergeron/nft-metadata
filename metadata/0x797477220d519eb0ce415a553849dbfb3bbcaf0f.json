@@ -1,0 +1,38 @@
+{
+  "address": "0x797477220d519eb0ce415a553849dbfb3bbcaf0f",
+  "type": "ERC721",
+  "name": "Poomigos",
+  "tokenCount": "1000",
+  "uri": "ipfs://bafybeigiizffyqkhnlrhqhrr5kd4f66bhyk2wbph6n3kqcujg7jldda5iy/1.json",
+  "metadata": {
+    "name": "Poomigo #1",
+    "description": "Made for fun from nakamigos community.",
+    "image": "ipfs://bafybeieflgicrksam7gpvbt4nl3h6mw3bx6dl2untoe3cdk4lgbygcba4a/1.png",
+    "dna": "3761a77753f01b55a0ad81809c020082af703a13",
+    "edition": 1,
+    "date": 1680978784677,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Poo",
+        "value": "Mocha"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Shadow Beard"
+      },
+      {
+        "trait_type": "Item",
+        "value": "Wrestler Blue"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Long Ginger"
+      }
+    ],
+    "compiler": "Poo"
+  }
+}

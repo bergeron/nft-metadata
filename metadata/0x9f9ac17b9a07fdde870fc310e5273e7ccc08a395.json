@@ -1,0 +1,73 @@
+{
+  "address": "0x9f9ac17b9a07fdde870fc310e5273e7ccc08a395",
+  "type": "ERC721",
+  "name": "GoblinArmytown.wtf",
+  "tokenCount": "3333",
+  "uri": "https://bafybeibcntfgkxvyd56aqmdxzugqloc6grlkf5b3cy2id3coo4nvouetle.ipfs.dweb.link/1.json",
+  "metadata": {
+    "name": "Goblin Army #2",
+    "image": "https://bafybeidw5auo6uxgbtp4bc7c6s57nazogrmfo5mgu5xcmzcv2gf2m56h6e.ipfs.dweb.link/1.png",
+    "symbol": "GBLN",
+    "edition": "Goblin Army",
+    "external_url": "https://goblinarmy.io",
+    "seller_fee_basis_points": 400,
+    "description": "3,333 unique, hand-drawn, collectible Goblin Army NFTs on the Solana blockchain. 119 unique traits of varying rarity. Play2Earn style MMORPG Metaverse game.",
+    "collection": {
+      "name": "Goblin Army",
+      "family": "Goblin Metaverse"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://bafybeidw5auo6uxgbtp4bc7c6s57nazogrmfo5mgu5xcmzcv2gf2m56h6e.ipfs.dweb.link/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+          "share": 10
+        },
+        {
+          "address": "9xqptHdGRJH6ai7hQWCDD597jEtybijiSxpDamceQuPP",
+          "share": 90
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Solo White"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Coat"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "Mono"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Innocent"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Goatee"
+      }
+    ]
+  }
+}

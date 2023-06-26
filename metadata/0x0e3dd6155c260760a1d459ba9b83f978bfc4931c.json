@@ -1,0 +1,175 @@
+{
+  "address": "0x0e3dd6155c260760a1d459ba9b83f978bfc4931c",
+  "type": "ERC721",
+  "name": "VOIDED - Objective Spector",
+  "tokenCount": "88",
+  "uri": "ipfs://QmR1J4vU3QJjTdGfj5UMdRb2QRz1k6oAJzw84bxEK34irf\n",
+  "metadata": {
+    "name": "Objective Spector No. 2",
+    "description": "“SPECTOR” is the very first vinyl figure created by Jakuan Melendez in 2000. Experimentation has always been key to his creative process, and immortalizing his real-life collectible into NFT Objective Spector is Melendez’s new approach to pushing the boundaries of art toys.",
+    "image": "ipfs://QmNpp9S62vMvH7n6kzj74n63Gy6vEQRGrqCKauG2R5MV7J",
+    "external_url": "https://collectible.sweet.io/series/1238/2",
+    "uri": "https://collectible.sweet.io/series/1238/2",
+    "uri_sha256": "vTMZuyYkY-YMWrAad_ecmIrZUSLFkqREuJY8FWMSAVo=",
+    "extended_metadata": {
+      "creator": {
+        "name": "SocialSweet Inc.",
+        "uri": "https://sweet.io"
+      },
+      "rights_info": {
+        "copyright_holder": "SocialSweet Inc.",
+        "copyright_notice": "(c) Copyright 2022 SocialSweet Inc., all rights reserved",
+        "terms_and_conditions": {
+          "url": "https://collectible.sweet.io/static/terms-and-conditions-mar2021.txt",
+          "sha256": "an7cc_0l4AOoHzgqFA_n5irW8PKRVrDaHXRsxTguNQE="
+        }
+      },
+      "name": "Objective Spector No. 2",
+      "issued": "2022-02-13T23:59:48.332106",
+      "series": {
+        "display_meta": {
+          "genre": "music",
+          "name": "Objective Spector",
+          "color": "#D0BC86",
+          "metalness": 0.5,
+          "roughness": 0.5,
+          "description": "“SPECTOR” is the very first vinyl figure created by Jakuan Melendez in 2000. Experimentation has always been key to his creative process, and immortalizing his real-life collectible into NFT Objective Spector is Melendez’s new approach to pushing the boundaries of art toys.",
+          "type": "video",
+          "print_sequence_number_on_image": false,
+          "creator_campaign_id": 811,
+          "rarity": {
+            "name": "Tier 5",
+            "rank": 5
+          },
+          "creator_campaign": {
+            "campaign_id": 811,
+            "name": "Red NVLPE",
+            "description": "Red NVLPE",
+            "client": {
+              "name": "Red NVLPE",
+              "company": "Red NVLPE"
+            }
+          }
+        },
+        "total_number": 88,
+        "uri": "https://collectible.sweet.io/series/1238"
+      },
+      "fees": [
+        {
+          "basis_points": 1000,
+          "recipient_address": "0x849Bbf31E83FDE725D68B9d895E634ECb92DD440",
+          "type": "seller-fee"
+        }
+      ],
+      "type": "erc721",
+      "network": "ethereum",
+      "uri": "https://collectible.sweet.io/series/1238/2",
+      "assets": {
+        "front_image": {
+          "url": "https://collectible.sweet.io/series/1238/image-front.jpg",
+          "sha256": "kB-L5nxiCluxq7t4gWsiGKRZnEBeULdzakXmILQ7uRE=",
+          "altloc": {
+            "ipfs": "ipfs://QmdpiewuAfHJFkWZ4mzcEMob6SzuawEmtgti53UsVbS1Fk"
+          },
+          "content-type": "image/jpeg"
+        },
+        "reverse_image": null,
+        "media": [
+          {
+            "uri": "https://mediagateway.sweet.io/media/token/lAqkwnq6/164/media.mp4",
+            "sha256": "CoBLRp-bna1IBLBCRll54dIqfOLHsw5NGkc720kLx5o=",
+            "altloc": {
+              "ipfs": "ipfs://QmZrv42oJtgFAstdQeNLR3k26eapsFiDdtCrZ6m226ixtV"
+            },
+            "content-type": "video/mp4",
+            "gateway": "https://mediagateway.sweet.io/gateway/token/lAqkwnq6/164/media.mp4",
+            "purpose": "primary-asset"
+          }
+        ]
+      },
+      "images": {
+        "front": {
+          "url": "https://collectible.sweet.io/series/1238/images/front.png",
+          "width": 1024,
+          "height": 1024,
+          "sha256": "dfgQrVNR_i0_6xLSYYXWU7qqdV3zfvT8tSqLXCiXOSA=",
+          "altloc": {
+            "ipfs": "ipfs://QmUwUPwHpTe5QSx5SZBaNxwYJUYpBvQ1Uh8QRiPvr19yFC"
+          },
+          "content-type": "image/png"
+        }
+      },
+      "sequence_number": 2,
+      "image": {
+        "url": "https://collectible.sweet.io/series/1238/images/front.png",
+        "width": 1024,
+        "height": 1024,
+        "sha256": "dfgQrVNR_i0_6xLSYYXWU7qqdV3zfvT8tSqLXCiXOSA=",
+        "altloc": {
+          "ipfs": "ipfs://QmUwUPwHpTe5QSx5SZBaNxwYJUYpBvQ1Uh8QRiPvr19yFC"
+        },
+        "content-type": "image/png",
+        "thumbnail": {
+          "350": {
+            "url": "https://collectible.sweet.io/series/1238/images/front-350x.png",
+            "width": 350,
+            "height": 350,
+            "sha256": "SxhsEvRBVlyALSZP3RHd0wuCdMqD8tuxAb74qwDrtcg=",
+            "altloc": {
+              "ipfs": "ipfs://QmNtsWiBdoXPjQrGCLHCJF68iLW8MeTnQUNMUoDvyAmGjZ"
+            },
+            "content-type": "image/png"
+          },
+          "500": {
+            "url": "https://collectible.sweet.io/series/1238/images/front-500x.png",
+            "width": 500,
+            "height": 499,
+            "sha256": "ihKw1WSFFwGouRjX8duxVXhun-32NYeO8mlr4QRMlrM=",
+            "altloc": {
+              "ipfs": "ipfs://QmWgNkBRVRRkX4yHWkyH4TfNPdgYYTcMaeD6yN1QxRdwv8"
+            },
+            "content-type": "image/png"
+          }
+        }
+      },
+      "attributes": [
+        {
+          "name": "Background",
+          "value": "Gray Smoke"
+        },
+        {
+          "name": "Hoodie",
+          "value": "Red"
+        },
+        {
+          "name": "Logo",
+          "value": "White"
+        },
+        {
+          "name": "Pants and Boots",
+          "value": "Blue & Yellow"
+        }
+      ]
+    },
+    "sequence_number": 2,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray Smoke"
+      },
+      {
+        "trait_type": "Hoodie",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pants and Boots",
+        "value": "Blue & Yellow"
+      }
+    ],
+    "animation_url": "ipfs://QmZrv42oJtgFAstdQeNLR3k26eapsFiDdtCrZ6m226ixtV"
+  }
+}

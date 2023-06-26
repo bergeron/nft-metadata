@@ -1,0 +1,19 @@
+{
+  "address": "0x32e0b54d142f8b5c0446d58002bf907ca4d19e74",
+  "type": "ERC1155",
+  "name": "Anime Metaverse: Starcrane Rewards",
+  "tokenCount": "4",
+  "uri": "https://reward-metadata.animemetaverse.ai/metadata/1",
+  "metadata": {
+    "name": "Gift of Soul",
+    "description": "Precious gifts that are meant for our Soulmates to have. It’s like a box of chocolates, you never know what you’re going to get.",
+    "image_url": "https://am-gacha.s3.ap-southeast-1.amazonaws.com/images/giftbox.jpg",
+    "animation_url": "https://am-gacha.s3.ap-southeast-1.amazonaws.com/images/giftbox.mp4",
+    "attributes": [
+      {
+        "trait_type": "rewards",
+        "value": "Giftbox"
+      }
+    ]
+  }
+}

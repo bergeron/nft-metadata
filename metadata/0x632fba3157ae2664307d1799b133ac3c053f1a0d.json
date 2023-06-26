@@ -1,0 +1,26 @@
+{
+  "address": "0x632fba3157ae2664307d1799b133ac3c053f1a0d",
+  "type": "ERC721",
+  "name": "Tradix Influencer Pass",
+  "tokenCount": "1000",
+  "uri": "ipfs://QmVT2qQGocRiJX63mt8MvLVe1mQNiV2TF9BZcmrBQXLSfz/",
+  "metadata": {
+    "name": "Tradix Influencer Pass",
+    "description": "Influencer access to Tradix premium features",
+    "image": "ipfs://QmXgfrwnBnod4rcdpZCYN6dASoUHkE7YKDiYN7nywsmen5/",
+    "attributes": [
+      {
+        "trait_type": "Access Level",
+        "value": "Premium"
+      },
+      {
+        "trait_type": "Membership Type",
+        "value": "Influencer"
+      },
+      {
+        "trait_type": "Contract",
+        "value": "ERC-721A"
+      }
+    ]
+  }
+}

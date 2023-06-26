@@ -1,0 +1,52 @@
+{
+  "address": "0x9a8bec5b52b1b423010de6cca3a65fd5ec27b812",
+  "type": "ERC721",
+  "name": "Catpocalypse Official",
+  "tokenCount": "1666",
+  "uri": "https://ipfs.io/ipfs/QmYx7m1EfZNLXv6uvnCqMk4XDm9kE3xcBmEVZgnrkwpp1b/1.json",
+  "metadata": {
+    "name": "Catpocalypse #1",
+    "description": "The Catpocalypse is a fully Free Mint collection living in the ethereum metaverse. We are bringing value to our holders and sharing our love for kitties!  There will be a Private Node, Staking, Marketplace & Alpha for holders.",
+    "external_url": "https://catpocalypse.io",
+    "image": "https://ipfs.io/ipfs/QmXa8Zwh7AjEpxEi72fwdpjHeAFBG9wp1ZwRsoytVbafj1/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rocket Station"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Avatar"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Winter Sweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Magma"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Harry Glasses"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Catpocalypse",
+      "family": "Catpocalypse"
+    },
+    "symbol": ""
+  }
+}

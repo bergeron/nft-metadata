@@ -1,0 +1,32 @@
+{
+  "address": "0xf496ec221ac0a3eb19b24f83aa915b92ee8424e4",
+  "type": "ERC721",
+  "name": "IYK Demos",
+  "tokenCount": "3",
+  "uri": "https://metadata.iyk.app/1/0xf496ec221ac0a3eb19b24f83aa915b92ee8424e4/1",
+  "metadata": {
+    "name": "Demo Tag #1",
+    "description": "IYK Demo. Something something.",
+    "image": "https://metadata.iyk.app/sample-tag.png",
+    "iyk_metadata_version": "1",
+    "collection": "IYK Demos",
+    "attributes": [
+      {
+        "trait_type": "Item Type",
+        "value": "Sample Tag"
+      },
+      {
+        "trait_type": "Size",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Fabric",
+        "value": "100% Cotton French Terry"
+      }
+    ]
+  }
+}

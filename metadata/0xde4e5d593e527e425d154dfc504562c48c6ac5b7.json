@@ -1,0 +1,68 @@
+{
+  "address": "0xde4e5d593e527e425d154dfc504562c48c6ac5b7",
+  "type": "ERC721",
+  "name": "Ordinals On ETH",
+  "tokenCount": "1000",
+  "uri": "ipfs://bafybeifg6qlu5gq5mrgnu5nphwayjyku5ywzk2hcz3n3l5xcmxezw6zhaa/1.json",
+  "metadata": {
+    "name": "Ordinal #1",
+    "image": "ipfs://bafybeignkx45g725hny3udh4oi6rj3pep3irjesyibijn56bgne7dqdx44/1.png",
+    "external_url": "https://ordinals.com/inscription/26482871f33f1051f450f2da9af275794c0b5f1c61ebf35e4467fb42c2813403i0",
+    "token_id": "1",
+    "attributes": [
+      {
+        "trait_type": "ID",
+        "value": "26482871f33f1051f450f2da9af275794c0b5f1c61ebf35e4467fb42c2813403i0"
+      },
+      {
+        "trait_type": "Address",
+        "value": "bc1qctx9fzhzf4253ka7jd2s0sf5fqvzffnfvpk5wn"
+      },
+      {
+        "trait_type": "Output Value",
+        "value": "4562"
+      },
+      {
+        "trait_type": "Sat",
+        "value": "727624168684699"
+      },
+      {
+        "trait_type": "Content Length",
+        "value": "20266 bytes"
+      },
+      {
+        "trait_type": "Content Type",
+        "value": "image/png"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Timestamp",
+        "value": 1671252570
+      },
+      {
+        "trait_type": "Genesis Height",
+        "value": "767753"
+      },
+      {
+        "trait_type": "Genesis Fee",
+        "value": "5218"
+      },
+      {
+        "trait_type": "Genesis Transaction",
+        "value": "26482871f33f1051f450f2da9af275794c0b5f1c61ebf35e4467fb42c2813403"
+      },
+      {
+        "trait_type": "Location",
+        "value": "a03017b45b99a61a69c8f4aa9e649ef476147396f59f0f75c03a156c3cc83aa5:0:0"
+      },
+      {
+        "trait_type": "Output",
+        "value": "a03017b45b99a61a69c8f4aa9e649ef476147396f59f0f75c03a156c3cc83aa5:0"
+      },
+      {
+        "trait_type": "Offset",
+        "value": "0"
+      }
+    ]
+  }
+}

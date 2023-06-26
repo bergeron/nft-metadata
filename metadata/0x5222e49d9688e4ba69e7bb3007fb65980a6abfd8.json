@@ -1,0 +1,51 @@
+{
+  "address": "0x5222e49d9688e4ba69e7bb3007fb65980a6abfd8",
+  "type": "ERC721",
+  "name": "Invisimigos",
+  "tokenCount": "307",
+  "uri": "ipfs://QmXECuP4wapUbnBSBJUdTi2SRJmc8tHUY3BgbSWRoGTw5M/1",
+  "metadata": {
+    "name": "Invisimigo #1",
+    "description": "10,000 unique, invisible crypto investors on the blockchain with commercial rights.",
+    "external_url": "",
+    "image": "ipfs://QmekcTjQz2nABzVaq9BZZJnX1mZxUCpgEmLGwAdvQzeDCi/1.png",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Invisible Ape"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Pink T"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Head",
+        "value": "White Bucket Hat"
+      },
+      {
+        "trait_type": "Invisibility Level",
+        "value": "Unseen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://onemint.io/",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Invisimigos",
+      "family": "Invisimigos"
+    },
+    "symbol": ""
+  }
+}

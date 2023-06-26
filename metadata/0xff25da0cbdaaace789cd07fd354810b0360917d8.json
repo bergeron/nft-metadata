@@ -1,0 +1,47 @@
+{
+  "address": "0xff25da0cbdaaace789cd07fd354810b0360917d8",
+  "type": "ERC1155",
+  "name": "theBeastClub",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/wV4T05235xrQXOEKZ3PefcIk4fJhx8sWu1dXtatxNRw",
+  "metadata": {
+    "name": "Beast Club Hoodie Original",
+    "created_by": "The Beast Club",
+    "external_url": "www.aclubcalledbeast.com",
+    "description": "Beast Club Hoodie\n\nA key to the exclusive Beast Club. \n\n@theBeastClub",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Hoodie"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "value": "0"
+      }
+    ],
+    "image_details": {
+      "bytes": 3157672,
+      "format": "PNG",
+      "sha256": "064d190a4478bc782abb7ccc14823b53803bc366e9809f7fed56787608844f5a",
+      "width": 2000,
+      "height": 2000
+    },
+    "image": "https://arweave.net/078Ae_RVrRXFHAeqxaAY9EZPbZbk7RJkj2UB10xuE6I",
+    "image_url": "https://arweave.net/078Ae_RVrRXFHAeqxaAY9EZPbZbk7RJkj2UB10xuE6I",
+    "animation_details": {
+      "bytes": 1351231,
+      "format": "MP4",
+      "duration": 5,
+      "sha256": "4422e5526edf54c0c084d6344c15623c6c18746ca170912abb6a53945d3684f1",
+      "width": 2000,
+      "height": 2000,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/ylTkLsQ3fOQPW32JZdRiFSAx-jpZ667irU-y1vYSsK8",
+    "animation_url": "https://arweave.net/ylTkLsQ3fOQPW32JZdRiFSAx-jpZ667irU-y1vYSsK8"
+  }
+}

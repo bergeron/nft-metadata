@@ -1,0 +1,56 @@
+{
+  "address": "0x18f835c5a2268e9871fbf2cde9abde4d646e9747",
+  "type": "ERC721",
+  "name": "X-Passport",
+  "tokenCount": "10",
+  "uri": "https://api.xpassport.app/token/1?network=mainnet&address=18f835c5a2268e9871fbf2cde9abde4d646e9747",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Cockade Color",
+        "value": "epic"
+      },
+      {
+        "trait_type": "Epaulet Color",
+        "value": "green"
+      },
+      {
+        "trait_type": "Cufflink Color",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Bordure Color",
+        "value": "green"
+      },
+      {
+        "trait_type": "Blazon Color",
+        "value": "rare"
+      },
+      {
+        "trait_type": "Blazon Pattern",
+        "value": 4
+      }
+    ],
+    "description": "Look at the design rendering of this card here: https://xpassport.app/v/miaoda.eth",
+    "image": "https://api.xpassport.app/images/mainnet_18f835c5a2268e9871fbf2cde9abde4d646e9747/1.png",
+    "name": "Xcard#1",
+    "properties": {
+      "blazon": {
+        "color": "rare",
+        "pattern": 4
+      },
+      "bordure": {
+        "color": "green"
+      },
+      "cockade": {
+        "color": "epic"
+      },
+      "cufflink": {
+        "color": "purple"
+      },
+      "epaulet": {
+        "color": "green"
+      }
+    }
+  }
+}

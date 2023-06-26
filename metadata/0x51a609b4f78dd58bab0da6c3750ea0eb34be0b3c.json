@@ -1,0 +1,30 @@
+{
+  "address": "0x51a609b4f78dd58bab0da6c3750ea0eb34be0b3c",
+  "type": "ERC721",
+  "name": "OWN5",
+  "tokenCount": "500",
+  "uri": "https://api.onigiri.art/ownest/own5/1",
+  "metadata": {
+    "name": "OWN5 #1",
+    "description": "OWN5 NFT. 1st Reveal on 25th december.",
+    "image": "https://api.onigiri.art/ownest/OWN5.png",
+    "attributes": [
+      {
+        "trait_type": "Event",
+        "value": "Ownest 5th anniversary"
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Ownest"
+      },
+      {
+        "trait_type": "Style",
+        "value": "AI Art"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Unopened"
+      }
+    ]
+  }
+}

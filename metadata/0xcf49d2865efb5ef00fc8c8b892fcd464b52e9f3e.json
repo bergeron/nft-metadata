@@ -1,0 +1,32 @@
+{
+  "address": "0xcf49d2865efb5ef00fc8c8b892fcd464b52e9f3e",
+  "type": "ERC721",
+  "name": "Arbor Fusion Project Virus Collection",
+  "tokenCount": "1500",
+  "uri": "ipfs://QmaNbztXS3xDy3A2oyT9xfDv6bb6mJVdrTLTp2emsffnHP/1.json",
+  "metadata": {
+    "name": "Arbor Fusion Project - Virus Collection #1",
+    "description": "Various trees fused with different viruses.",
+    "image": "ipfs://QmVDVvq7yQstCsYEeAT6iuGR1Qv6tFoeHS2RJmEbnzi1jM/1.png",
+    "attributes": [
+      {
+        "trait_type": "Virus",
+        "value": "Influenza"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Virus Collection"
+      },
+      {
+        "trait_type": "Tree",
+        "value": "Black Locust Tree"
+      }
+    ],
+    "custom_fields": {
+      "dna": "29e2dcfbb16f63bb0254df7585a15bb6fb5e927d",
+      "edition": 1,
+      "date": 1653753190352
+    },
+    "external_url": "https://arborfusionproject.com"
+  }
+}

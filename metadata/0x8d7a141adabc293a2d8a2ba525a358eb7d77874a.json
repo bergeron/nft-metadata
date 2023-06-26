@@ -1,0 +1,102 @@
+{
+  "address": "0x8d7a141adabc293a2d8a2ba525a358eb7d77874a",
+  "type": "ERC721",
+  "name": "wqerdsafadsf",
+  "tokenCount": "401",
+  "uri": "https://api.artblocks.io/token/328000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "328000001",
+    "series": 7,
+    "aspect_ratio": 1.4143,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Sudfah #1",
+    "minted": true,
+    "artist": "Melissa Wiederrecht",
+    "description": "Sudfah (Arabic for \"happy accident\") is a generative collection celebrating the beauty that can emerge from chaos, mistakes, and accidents.\n\nA single calligraphic line intends to tell one story (sometimes wandering and confused in its own right, but always meandering from one side to the other).\n\nDigital liquid is spilled upon it and takes the ink in directions that are unexpected, uncontrolled, and tell a much more interesting story than the one the line intended.... and often more beautiful.",
+    "script_type": "p5@1.0.0",
+    "project_id": "328",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 7",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/328000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/328000001.png",
+    "generator_url": "https://generator.artblocks.io/328000001",
+    "royaltyInfo": {
+      "artistAddress": "0x4bed1d532b7c7bd148eb43c8473dca3685fd271d",
+      "additionalPayee": "0x006ca7d347c0d1be6ba7da7875ed3147fee37b3c",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Sudfah by Melissa Wiederrecht",
+    "website": "https://www.melissawiederrecht.com/sudfah",
+    "token_hash": "0x042686fc8beaf02402f7e004403876bb49efb312763bb207059eb4498d6189c5",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/328/tokens/328000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/328000001.png",
+    "features": {
+      "BW": false,
+      "Blots": "7",
+      "Layers": "1",
+      "Spill 1": "Mess",
+      "Spill 2": "None",
+      "Spill 3": "None",
+      "Baseline": 0.29,
+      "Inverted": false,
+      "Double Line": false,
+      "Stroke Size": 14,
+      "Ink Solubility": 90,
+      "Background Shade": "0"
+    },
+    "traits": [
+      {
+        "trait_type": "Sudfah",
+        "value": "All Sudfahs"
+      },
+      {
+        "trait_type": "Sudfah",
+        "value": "BW: false"
+      },
+      {
+        "trait_type": "Sudfah",
+        "value": "Blots: 7"
+      },
+      {
+        "trait_type": "Sudfah",
+        "value": "Layers: 1"
+      },
+      {
+        "trait_type": "Sudfah",
+        "value": "Spill 1: Mess"
+      },
+      {
+        "trait_type": "Sudfah",
+        "value": "Spill 2: None"
+      },
+      {
+        "trait_type": "Sudfah",
+        "value": "Spill 3: None"
+      },
+      {
+        "trait_type": "Sudfah",
+        "value": "Baseline: 0.29"
+      },
+      {
+        "trait_type": "Sudfah",
+        "value": "Inverted: false"
+      },
+      {
+        "trait_type": "Sudfah",
+        "value": "Double Line: false"
+      },
+      {
+        "trait_type": "Sudfah",
+        "value": "Stroke Size: 14"
+      },
+      {
+        "trait_type": "Sudfah",
+        "value": "Background Shade: 0"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

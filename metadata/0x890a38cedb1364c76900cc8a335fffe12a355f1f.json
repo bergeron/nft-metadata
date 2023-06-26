@@ -1,0 +1,42 @@
+{
+  "address": "0x890a38cedb1364c76900cc8a335fffe12a355f1f",
+  "type": "ERC721",
+  "name": "Fcollection",
+  "tokenCount": "1420",
+  "uri": "ipfs://QmQEBS9E6CZK47YUu2PCq9tRMjg6ySL51LWACdB1Z7CFyC/1.json",
+  "metadata": {
+    "dna": "f2642ad103bceaf4c8056bc5500605a5feb8245f8aaabfb9b159e57b20a31326",
+    "name": "Fake #1",
+    "description": "FAKE description.",
+    "image": "ipfs://QmSkxtktMMEH3dVHaT8BFWcZQDjJ81wUoDQmBD2Pxx1TPq/1.png",
+    "imageHash": "ffc3307212f03f6f653f8d625266d29aab09a7d606be15914064b0f121ae2253",
+    "edition": 1,
+    "date": 1680881229358,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "02"
+      },
+      {
+        "trait_type": "body",
+        "value": "orange"
+      },
+      {
+        "trait_type": "eyes and nose",
+        "value": "shady"
+      },
+      {
+        "trait_type": "head",
+        "value": "short hair and bangs brown"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "smug"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Lacoste shirt with suspenders"
+      }
+    ]
+  }
+}

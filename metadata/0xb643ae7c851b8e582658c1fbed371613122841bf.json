@@ -1,0 +1,27 @@
+{
+  "address": "0xb643ae7c851b8e582658c1fbed371613122841bf",
+  "type": "ERC721",
+  "name": "BEANZ      OfficiaI",
+  "tokenCount": "10",
+  "uri": "ipfs://QmPjGt1fmbjnQ66vq9urmKEZTgWoiChKei1Z4JgXXyMz3j/1.json",
+  "metadata": {
+    "name": "Beanz #1",
+    "image": "https://gateway.pinata.cloud/ipfs/QmURcSUteoj7YyaDS8jwjZAihqxWmxtAQmYfg4kAMRwZ4v/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Devs",
+        "value": "Doing Something"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

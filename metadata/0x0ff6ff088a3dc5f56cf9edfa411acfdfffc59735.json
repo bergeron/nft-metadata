@@ -1,0 +1,52 @@
+{
+  "address": "0x0ff6ff088a3dc5f56cf9edfa411acfdfffc59735",
+  "type": "ERC721",
+  "name": "Crypto Whale Club",
+  "tokenCount": "678",
+  "uri": "https://api.cryptowhaleclub.io/1",
+  "metadata": {
+    "name": "Crypto Whale #1",
+    "description": "Crypto Whale Club is a collection of hand-drawn, randomly generated crypto whales. They are forged from 150+ unique attributes/traits with an initial release of 1,000 Gen 1 whales. CWC is a DAO driven project, with commercial usage rights granted to each whale holder, staking of whales for BLUB as well as game & burn mechanics to reward the discerning collector.",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      },
+      {
+        "trait_type": "Ahab's Pod",
+        "value": "No"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Great Wave"
+      },
+      {
+        "trait_type": "Whale Type",
+        "value": "Bitcoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "WAGMI T-Shirt"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Dark Steampunk"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Pink Mohawk"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Scotch"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Short Blond Beard"
+      }
+    ],
+    "image": "https://arweave.net/_5V2kX__EDdFhVO3U0PZ5Bfdz1qIKhcGY7mCgSIK7Ak",
+    "external_url": "https://cryptowhaleclub.io"
+  }
+}

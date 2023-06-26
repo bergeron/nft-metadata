@@ -1,0 +1,80 @@
+{
+  "address": "0x625a8f6d27f7ba4f269b3852532dc337da8b40bc",
+  "type": "ERC721",
+  "name": "Flowerboy Project Digital",
+  "tokenCount": "11",
+  "uri": "ipfs://QmRtefGSBrsXU2aaoSHpQkZgm5j81NkhuquhXCV3W6iK7t",
+  "metadata": {
+    "name": "Serafina Digital Bouquet",
+    "description": "Each Flowerboy Project digital bouquet is a limited-edition piece of digital art based upon a one-of-a-kind design, handcrafted by highly experienced 3-D vegetation artists and rendered using one of the world’s most advanced engines. During this virtual sculpting, the Flowerboy team literally ‘hand-paints’ the image using a mouse, keyboard and tablet. No 3-D scanning tools are utilized in the process, just an artist and their eye. This is all bytes and no atoms. Numbered release of 125 bouquets. For someone you love, love yourself.\n\nVerisart Certified: https://verisart.com/works/4bf97e3f-158a-44c6-b1eb-95e908cabdc0",
+    "image": "ipfs://Qmco8mSM5Zrdq4cJBNZDDN5bLnGFWLmCVKpuEqKr9MM8zZ",
+    "properties": {
+      "verisart": {
+        "productionYear": 2023,
+        "dimensions": {
+          "width": 4000,
+          "height": 4000,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": null,
+        "frameRate": null,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0x6d331754fcaf7e007804b69ebb36b7b74eafbb0e",
+            "bps": 1100
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "external_url": "https://verisart.com/works/4bf97e3f-158a-44c6-b1eb-95e908cabdc0",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Flowerboy  Project",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2023",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "Serafina Digital Bouquet",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "4000x4000 px",
+        "display_type": null
+      },
+      {
+        "trait_type": "Background",
+        "value": "Shadow",
+        "display_type": null
+      },
+      {
+        "trait_type": "Vase",
+        "value": "Glass Bubbles",
+        "display_type": null
+      },
+      {
+        "trait_type": "Special",
+        "value": "Horizon Line",
+        "display_type": null
+      }
+    ]
+  }
+}

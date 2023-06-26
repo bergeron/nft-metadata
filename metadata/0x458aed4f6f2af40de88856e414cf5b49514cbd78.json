@@ -1,0 +1,27 @@
+{
+  "address": "0x458aed4f6f2af40de88856e414cf5b49514cbd78",
+  "type": "ERC721",
+  "name": "MinTech",
+  "tokenCount": "300",
+  "uri": "https://mintechbots.com/api/v2/metadata/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Expired",
+        "value": "true"
+      },
+      {
+        "trait_type": "Expiry Timestamp",
+        "value": "1685037167"
+      },
+      {
+        "trait_type": "Expiry Date",
+        "value": "25 May, 2023"
+      }
+    ],
+    "description": "MinTech Pass for ETH Automation Software, gives you full access to the software",
+    "image": "https://mintechbots.s3.us-west-2.amazonaws.com/mintechwebsite/static/Broken.mp4",
+    "name": "MinTech Pass #1",
+    "tokenId": "1"
+  }
+}

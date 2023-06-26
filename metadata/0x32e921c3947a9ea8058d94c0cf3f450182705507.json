@@ -1,0 +1,76 @@
+{
+  "address": "0x32e921c3947a9ea8058d94c0cf3f450182705507",
+  "type": "ERC1155",
+  "name": "Opera Noir",
+  "tokenCount": "9",
+  "uri": "https://monegraph.mypinata.cloud/ipfs/QmebFHdSw1S9YoXQzDE87AqSoP5QDzFRftX9XXxUeMoTfw",
+  "metadata": {
+    "name": "Timbaland Afrodite 3",
+    "description": "Opera Noir Afrodite Bass Stem 3",
+    "external_url": "",
+    "animation_url": "",
+    "image": "https://monegraph.mypinata.cloud/ipfs/QmS2SDbp91frNiBcd9nYcA1T9xgbdW37u2kgnhJfYDMvt4/AFRODITE_STEM3.mp4",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Timbaland"
+      },
+      {
+        "trait_type": "Rights Agreement",
+        "value": "https://ipfs.io/ipfs/QmaWE9TaxZcVqbuFEpHyU4tppMZkWWeaA5uMKvzdsZBPeM"
+      },
+      {
+        "trait_type": "Archive Link",
+        "value": "Not applicable"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Timbaland Afrodite 3"
+      },
+      "description": {
+        "type": "string",
+        "description": "Opera Noir Afrodite Bass Stem 3"
+      },
+      "image": {
+        "type": "string",
+        "description": "https://monegraph.mypinata.cloud/ipfs/QmS2SDbp91frNiBcd9nYcA1T9xgbdW37u2kgnhJfYDMvt4/AFRODITE_STEM3.mp4"
+      },
+      "rights_agreement": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/QmaWE9TaxZcVqbuFEpHyU4tppMZkWWeaA5uMKvzdsZBPeM"
+      },
+      "rights_agreement_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "rights_agreement_signature": {
+        "type": "string",
+        "description": "d1c0f1fb0cfa336724cf8cd34e7c6bf91ea24518d533e2392d4c97c9c9d32dec"
+      },
+      "archive_link": {
+        "type": "string"
+      },
+      "archive_link_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "archive_link_signature": {
+        "type": "string"
+      },
+      "rights_agreement_values": {
+        "$ARTIST": "Timbaland",
+        "$URL": "https://monegraph.mypinata.cloud/ipfs/QmS2SDbp91frNiBcd9nYcA1T9xgbdW37u2kgnhJfYDMvt4/AFRODITE_STEM3.mp4",
+        "$TITLE": "Timbaland Afrodite 3",
+        "$YEAR": "2021",
+        "$ROYALTYRATE": "10",
+        "$ADDRESS": "0xF82d31541fE4F96dfeE2A2C306f70086D91d67c9",
+        "$EDITIONS": "9",
+        "$TOKEN": "eth",
+        "$LICENSE": "CA.05.19.21., Patent No. US 10,380,702",
+        "$CONTRACTSHAHASH": "d1c0f1fb0cfa336724cf8cd34e7c6bf91ea24518d533e2392d4c97c9c9d32dec"
+      }
+    }
+  }
+}

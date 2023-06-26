@@ -1,0 +1,35 @@
+{
+  "address": "0xc6eeafab22fdcb1da95a335a03af2113e15fce82",
+  "type": "ERC721",
+  "name": "DTP(Legacy)",
+  "tokenCount": "846",
+  "uri": "https://api.dtools.org/pass/1/1",
+  "metadata": {
+    "name": "Common(legacy)",
+    "image": "https://cdn.dtools.org/img/pass_common.webp",
+    "description": "The pass of dtools.",
+    "animation_url": "",
+    "youtube_url": "",
+    "external_url": "https://dtools.org",
+    "background_color": "FFFFFF",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Expired"
+      },
+      {
+        "trait_type": "ExpireAt",
+        "value": 1656622524,
+        "display_type": "date"
+      },
+      {
+        "trait_type": "ExpireAt",
+        "value": "2022-06-30"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "address": "0xcf061465ebddd8e0b931f12ac8f0d4c57d275a26",
+  "type": "ERC721",
+  "name": "Drippin Skulls",
+  "tokenCount": "282",
+  "uri": "https://nftstorage.link/ipfs/bafybeigb3npcpmqtzlaafuhrhbq5ck5pu5ec2y2jx6j2anafmows5avycq/1.json",
+  "metadata": {
+    "name": "YoSkull #2",
+    "symbol": "YOSK",
+    "image": "https://nftstorage.link/ipfs/bafybeiahjhiyaaslvdqy7ykoqxufjfeihfknprwbcvpbghgwhnn245qxoe/1.png",
+    "externalUrl": "https://yoskulls.com/",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://nftstorage.link/ipfs/bafybeiahjhiyaaslvdqy7ykoqxufjfeihfknprwbcvpbghgwhnn245qxoe/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "GHYK5D2nBSLvu6Z4gB9X8uC7a2LDpCKaxGeWm4EX5f7B",
+          "share": 25
+        },
+        {
+          "address": "6udmCjUgT9riAS61RVaeX8ZTAMLy5T6nJKEBR7RhyUGX",
+          "share": 25
+        },
+        {
+          "address": "7fut4p9MQmvCRBou8WRq7fw3FeZdK1yBvoiDfYqPYVeL",
+          "share": 25
+        },
+        {
+          "address": "Ay4VcHbEG1fPRMZCcSGTfEb5xRJbWSWuQtchzZkNKYDw",
+          "share": 25
+        }
+      ]
+    },
+    "description": "YoSkulls NFT is a collection of 5555 hand-drawn unique PFPs. Visit YoSkulls.com to learn more.",
+    "seller_fee_basis_points": 1200,
+    "attributes": [
+      {
+        "trait_type": "Teeth",
+        "value": "Wise"
+      },
+      {
+        "trait_type": "Extra",
+        "value": "Wings"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Flat brim hat teal"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Ice"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blood"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Ghost detective"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      }
+    ],
+    "collection": {
+      "name": "YoSkulls",
+      "family": "YoSkulls"
+    }
+  }
+}

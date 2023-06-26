@@ -1,0 +1,43 @@
+{
+  "address": "0x47bb2bf53a6bc225ae51ad8605aefb029881286e",
+  "type": "ERC721",
+  "name": "Seattle Kraken",
+  "tokenCount": "150",
+  "uri": "https://api.orangecomet.io/collectible-metadata/kraken-goalie-mask-10-red-eyes/1",
+  "metadata": {
+    "name": "Kraken Goalie Mask 10 Red Eyes #1",
+    "description": "The Kraken Goalie Mask emblazoned with marks of the Seattle Kraken. This mask features a unique custom design by Orange Comet. This extremely rare version with the red eyes came with a pair of tickets to the original minter.",
+    "image": "ipfs://bafybeibt2bvehnujwv2gy6cg76f4smsvhzch47mge6y3uutsmytkmqs3xy/KRAKEN-GOALIE-MASK-10-RED-EYES.jpg",
+    "animation_url": "ipfs://bafybeihuiudpg5u7m4i3rfsc5ttghfyjoybkq7lvrwjl3ryia3agiclmvy/KRAKEN-GOALIE-MASK-10-RED-EYES.mp4",
+    "attributes": [
+      {
+        "trait_type": "Team Name",
+        "value": "Seattle Kraken"
+      },
+      {
+        "trait_type": "Team Tri-Code",
+        "value": "SEA"
+      },
+      {
+        "trait_type": "Featured Image",
+        "value": "Bearded Crowned Skull"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Featuring",
+        "value": "Short Goalie Mask"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Rough Water"
+      },
+      {
+        "trait_type": "Version",
+        "value": "Red"
+      }
+    ]
+  }
+}

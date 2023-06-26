@@ -1,0 +1,35 @@
+{
+  "address": "0xed42f1618eb0aad3f895854579a86f603907e152",
+  "type": "ERC721",
+  "name": "3 Bug Heads",
+  "tokenCount": "35",
+  "uri": "ipfs://Qmez2KdBeWVvJzGMxDwFnBj1gaBEbwMFfyrTXmRXBfWWfr/1.json",
+  "metadata": {
+    "name": "3BugHead #1",
+    "description": "Bug Head 3",
+    "image": "ipfs://QmNzkyuovedUVaqb3pFgN9XTywBxiNjNZstu73pyiJsQ7e/1.png",
+    "dna": "ceab8ee7ec7ab828d2587bd58406b1b87cb1ad36",
+    "edition": 1,
+    "date": 1656079669952,
+    "creator": "Art by Based John",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bug_Head_Layers_Fill"
+      },
+      {
+        "trait_type": "LBughead",
+        "value": "LBug_Head_artboard"
+      },
+      {
+        "trait_type": "RBughead",
+        "value": "RBug_Head_artboard4"
+      },
+      {
+        "trait_type": "Black_layer",
+        "value": "Bug_Head_artboard_Blk"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "address": "0xa13e407171e0f0658dfa97271c90dc8f488a41f6",
+  "type": "ERC721",
+  "name": "Kokoke V1",
+  "tokenCount": "1",
+  "uri": "data:application/json;utf8,{\"name\":\"Kokoke V1\",\"description\":\"E hele kokoke loa e lanakila.\",\"image\":\"ipfs://QmcprQ1VHrpK2Qidngs8aEU8r9LdjSxMMYwzZK9NyqqvvD\",\"attributes\":[{\"display_type\":\"date\",\"trait_type\":\"Last Stolen\",\"value\":1683951263},{\"display_type\":\"boost_number\",\"trait_type\":\"Times Stolen\",\"value\":1},{\"display_type\": \"boost_percentage\",\"trait_type\":\"~Distance Away\",\"value\":11}]}",
+  "metadata": {
+    "name": "Kokoke V1",
+    "description": "E hele kokoke loa e lanakila.",
+    "image": "ipfs://QmcprQ1VHrpK2Qidngs8aEU8r9LdjSxMMYwzZK9NyqqvvD",
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "Last Stolen",
+        "value": 1683951263
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Times Stolen",
+        "value": 1
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "~Distance Away",
+        "value": 11
+      }
+    ]
+  }
+}

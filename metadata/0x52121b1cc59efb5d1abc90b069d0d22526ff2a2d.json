@@ -1,0 +1,58 @@
+{
+  "address": "0x52121b1cc59efb5d1abc90b069d0d22526ff2a2d",
+  "type": "ERC721",
+  "name": "AuthenticNFT",
+  "tokenCount": "2",
+  "uri": "ipfs://QmXtTQLRV4wkxvxud9DtnryjrmgWGF5FpvnGXRqScLpJVP",
+  "metadata": {
+    "title": "AuthenticNFT paper pdf",
+    "type": "object",
+    "name": "AuthenticNFT paper pdf",
+    "description": "This is the AuthenticNFT paper pdf authentic NFT. Everyone can check the authenticity of this NFT. Get the NFT metadata from contract address and token id. Get the author key fingerprint, media file and media file signature, from the NFT metadata. Check two things. First, check that the media file contains the contract address and the token id. Second, check that the media file signature is a valid signature, of the author identified by the key fingerprint, of the media file. You have to trust the author key fingerprint. To avoid chain attacks, you should know the author's previous works and publication dates.",
+    "image": "ipfs://Qmb4ULdMk3jUHLUCBr7DkjioDRNZjyy8PW2yHbmHXW2ara",
+    "media_file": "ipfs://QmRw7uQYUzjMbhMdrEdZXemqP3BJEhcZymyb7V6Wakwsqd",
+    "authentic_nft": {
+      "version": "1.0",
+      "digital_media_signature_type": "OpenPGP",
+      "author_key_fingerprint": "A2F546D869358FD3A9862EF426BC24CEAF3FFDC5",
+      "image_signature": "ipfs://QmRcJq7Np4hAMMrwqyEvr4E1PRnTBzkj5yivQGJzGV8LAd",
+      "media_file_signature": "ipfs://QmX3TGoqj95Yz1BGj3qapMwaibDtBDKxLitezh7Hzf7iNj"
+    },
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "AuthenticNFT paper pdf"
+      },
+      "description": {
+        "type": "string",
+        "description": "This is the AuthenticNFT paper pdf authentic NFT. Everyone can check the authenticity of this NFT. Get the NFT metadata from contract address and token id. Get the author key fingerprint, media file and media file signature, from the NFT metadata. Check two things. First, check that the media file contains the contract address and the token id. Second, check that the media file signature is a valid signature, of the author identified by the key fingerprint, of the media file. You have to trust the author key fingerprint. To avoid chain attacks, you should know the author's previous works and publication dates."
+      },
+      "image": {
+        "type": "string",
+        "description": "ipfs://Qmb4ULdMk3jUHLUCBr7DkjioDRNZjyy8PW2yHbmHXW2ara"
+      }
+    },
+    "attributes": [
+      {
+        "trait_type": "NFT type",
+        "value": "AuthenticNFT"
+      },
+      {
+        "trait_type": "Media signature type",
+        "value": "OpenPGP"
+      },
+      {
+        "trait_type": "Author key fingerprint",
+        "value": "A2F546D869358FD3A9862EF426BC24CEAF3FFDC5"
+      },
+      {
+        "trait_type": "Media file",
+        "value": "ipfs://QmRw7uQYUzjMbhMdrEdZXemqP3BJEhcZymyb7V6Wakwsqd"
+      },
+      {
+        "trait_type": "Media file signature",
+        "value": "ipfs://QmX3TGoqj95Yz1BGj3qapMwaibDtBDKxLitezh7Hzf7iNj"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "address": "0xfa2dd6b4ad4c4fc452424359e3fdc9e2ffb90cbd",
+  "type": "ERC721",
+  "name": "Etheremu",
+  "tokenCount": "3",
+  "uri": "ipfs://QmXpHeRJHMJGV4Q59ba1GYkCCYExB1kLpfewx2J8g5tZ3M/1.json",
+  "metadata": {
+    "name": "Etheremu #1",
+    "description": "Ethereum Blockchain's first hand drawn collectable Emu! There are 10,000 unique Etheremu. The first owner of an Etheremu has a chance to win a prize of 0.5 ETH if two body parts are gold, 1 ETH for three gold body parts, and 2 ETH if the Legs, Body, Neck and Beak are gold.",
+    "image": "ipfs://Qme5WFGmNGcsgH7yUd8JPK58vzWQztDZ5TexNuKTgFWgqu/1.png",
+    "dna": "d1ed5dffe3cecb70dba843cb59f322da9b816d7a",
+    "edition": 1,
+    "date": 1640227097889,
+    "artist": "ThirdEye",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "green"
+      },
+      {
+        "trait_type": "legs",
+        "value": "green"
+      },
+      {
+        "trait_type": "neck",
+        "value": "purple"
+      },
+      {
+        "trait_type": "beak",
+        "value": "whistle_green"
+      },
+      {
+        "trait_type": "eye",
+        "value": "glazed"
+      },
+      {
+        "trait_type": "body",
+        "value": "purple"
+      },
+      {
+        "trait_type": "accessory",
+        "value": "green_glassess"
+      },
+      {
+        "trait_type": "hat",
+        "value": "none"
+      },
+      {
+        "trait_type": "outfit",
+        "value": "none"
+      },
+      {
+        "trait_type": "item",
+        "value": "red_saber"
+      },
+      {
+        "trait_type": "chain",
+        "value": "cardano"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "address": "0x568a6f14c8096983b341b5514930a45637e13222",
+  "type": "ERC721",
+  "name": "Acrocalypse Spacecraft",
+  "tokenCount": "8799",
+  "uri": "http://spacecraftmetadata.s3-website-us-west-2.amazonaws.com/1.json",
+  "metadata": {
+    "name": "Spacecraft #1",
+    "image": "ipfs://QmYsH2XxgK16ibfG8GZZDkiPnQDTorxSVK38nLDY7t8HUS/Wasp.gif",
+    "attributes": [
+      {
+        "trait_type": "Vessel",
+        "value": "Dropship"
+      },
+      {
+        "trait_type": "Craft Type",
+        "value": "Wasp"
+      }
+    ]
+  }
+}

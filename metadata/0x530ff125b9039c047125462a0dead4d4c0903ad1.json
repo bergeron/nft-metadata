@@ -1,0 +1,45 @@
+{
+  "address": "0x530ff125b9039c047125462a0dead4d4c0903ad1",
+  "type": "ERC721",
+  "name": "CryptoStarks",
+  "tokenCount": "104",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=SvDuceRXOuuQxJLSgHMP",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1580378764745?alt=media&token=27f0cf9b-3649-4a0e-bd6c-bb28e9c726b7",
+    "forSale": false,
+    "contractAddress": "0x530ff125b9039c047125462a0dead4d4c0903ad1",
+    "description": "Level 7 Dragon Slayer - Protecting Stark Castle",
+    "tags": [],
+    "amountToMint": 5,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1580378820,
+      "_nanoseconds": 585000000
+    },
+    "price": 0,
+    "name": "Louis Starks",
+    "fiatPrice": "$0.00",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": ""
+      },
+      {
+        "trait_type": "location",
+        "value": "Netanya, Israel"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJ1XXAkwRAHRURIj88VL6V2Sw"
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x530ff125b9039c047125462a0dead4d4c0903ad1",
+    "type": "ERC721"
+  }
+}

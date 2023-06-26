@@ -1,0 +1,63 @@
+{
+  "address": "0x406f2620c884d581fe2940e3f43ee87834c9a224",
+  "type": "ERC721",
+  "name": "adsfqewrqer444",
+  "tokenCount": "200",
+  "uri": "https://api.artblocks.io/token/343000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "343000001",
+    "series": "N/A",
+    "aspect_ratio": 1.77777778,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Balletic #1",
+    "minted": true,
+    "artist": "Motus Art",
+    "description": "Balletic is a generative art animation created by digital artist Owen McAteer, aka. Motus Art.\nIn this piece, a grid of rotating blocks move together in a mathematically choreographed dance to reveal hidden patterns, shapes and flowing figures.\n\nExploring soft fluid motion in a hard fixed grid of blocks to a two-tone minimalist design, the piece comes to life in dance, conducted by the combination of several algorithms, easing curves and timing modifiers all working together.",
+    "script_type": "p5@1.0.0",
+    "project_id": "343",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/343000001.gif",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/343000001.gif",
+    "generator_url": "https://generator.artblocks.io/343000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/343000001",
+    "royaltyInfo": {
+      "artistAddress": "0x865fff61747465ea7826e8e7932733f01f845033",
+      "additionalPayee": "0x095f1fd53a56c01c76a2a56b7273995ce915d8c4",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Balletic by Motus Art",
+    "website": "https://owenmcateer.com/balletic/",
+    "token_hash": "0xf7a1661dad065148c95558492586232469bf04533f71e324f65c6cfbe2546c92",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/343/tokens/343000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/343000001",
+    "features": {
+      "GridSize": 63,
+      "RotationY": "2π",
+      "RotationZ": "0",
+      "EasingCurve": "OutQuint"
+    },
+    "traits": [
+      {
+        "trait_type": "Balletic",
+        "value": "All Balletics"
+      },
+      {
+        "trait_type": "Balletic",
+        "value": "RotationY: 2π"
+      },
+      {
+        "trait_type": "Balletic",
+        "value": "RotationZ: 0"
+      },
+      {
+        "trait_type": "Balletic",
+        "value": "EasingCurve: OutQuint"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-SA 4.0"
+  }
+}

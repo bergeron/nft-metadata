@@ -1,0 +1,62 @@
+{
+  "address": "0x00b8a75ae8f4c68afe206f1006da92f2cda57fc8",
+  "type": "ERC721",
+  "name": "1 Minted Ducks",
+  "tokenCount": "1220",
+  "uri": "ipfs://bafybeieqcdubbx7zcpqqqwotrnusywkputdjneffa3wmuky5tos222hneu/1.json",
+  "metadata": {
+    "dna": "1f699106312e615c0aa962c13aeb0c52f19810c6",
+    "name": "Ducky #1",
+    "description": "This collection of 5,000 lovable digital collectible characters. Created by 1minted Network unlocks access to a the Luckyducks experiences, and a community like no other. A community-driven collectibles project with draws and prizes to all Duck holders and traders. Take a swim with us and see what you can find in are Pond.",
+    "image": "ipfs://bafybeicqu2zlv7bfeiuz34bvyygp5aqcmvzw3dttlkmxdbfcp3st6zvmcu/1.png",
+    "edition": 1,
+    "date": 1678110580081,
+    "seller_fee_basis_points": 1000,
+    "collection": {
+      "name": "1 Minted Ducks",
+      "family": "1 Minted Ducks"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "creator": "1minted",
+          "owner": "1minted"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue Ring"
+      },
+      {
+        "trait_type": "Base",
+        "value": "White"
+      },
+      {
+        "trait_type": "Costume",
+        "value": "Blue Suit"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Very Shocked Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Gaping Gray"
+      },
+      {
+        "trait_type": "Head Accessories",
+        "value": "Black Glasses"
+      }
+    ],
+    "compiler": ""
+  }
+}

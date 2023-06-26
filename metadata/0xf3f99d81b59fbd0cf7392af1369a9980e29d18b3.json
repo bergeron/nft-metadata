@@ -1,0 +1,40 @@
+{
+  "address": "0xf3f99d81b59fbd0cf7392af1369a9980e29d18b3",
+  "type": "ERC721",
+  "name": "Andy Needham",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/1-cyahqkwRg_W1LRsZcZjsGgWT6PdDjv_q3IO8YrX_E",
+  "metadata": {
+    "name": "Heart",
+    "created_by": "Andy Needham",
+    "description": "Heart Animation",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Andy Needham"
+      }
+    ],
+    "animation_details": {
+      "bytes": 75005,
+      "format": "MP4",
+      "duration": 1,
+      "sha256": "65f34224c27d0d9774b6d5c851aa68ef0c9bba2a434f911a059129de415f08e0",
+      "width": 200,
+      "height": 200,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/8DDrHU_e0irBClv-9tR2_ljFN05giwYihZPT6cWy40k",
+    "animation_url": "https://arweave.net/8DDrHU_e0irBClv-9tR2_ljFN05giwYihZPT6cWy40k",
+    "image_details": {
+      "bytes": 20204,
+      "format": "PNG",
+      "sha256": "12d80578b421d1c6039043d26bb62d3f499a316049648407e4dc97be706b6c65",
+      "width": 200,
+      "height": 200
+    },
+    "image": "https://arweave.net/baPg7UI5rC3i-rklIoEOLNXIh3p9-KGjh1yr8iKEMdI",
+    "image_url": "https://arweave.net/baPg7UI5rC3i-rklIoEOLNXIh3p9-KGjh1yr8iKEMdI"
+  }
+}

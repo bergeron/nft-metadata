@@ -1,0 +1,49 @@
+{
+  "address": "0x8826c4f4c5b7652ba97c35596a0adf80a804b92a",
+  "type": "ERC1155",
+  "name": "TheFlip",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/LSEYnkDmolGSBfUoQ6JcrmDT1h02AojvUDG5jX-25V4",
+  "metadata": {
+    "name": "The Flip",
+    "created_by": "Fliper Gonzalez",
+    "description": "The ever-changing path is revealed to the observant one. Contemplation precedes creation.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Fliper Gonzalez"
+      },
+      {
+        "trait_type": "Year Created",
+        "value": "2022"
+      },
+      {
+        "trait_type": "One Of",
+        "value": "55"
+      }
+    ],
+    "animation_details": {
+      "bytes": 70102291,
+      "format": "MP4",
+      "duration": 49,
+      "sha256": "24915b07781d9abe40631d585362fc248965623ef70ee9d0b8536017a7b4d9de",
+      "width": 1554,
+      "height": 1554,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/Z_BU68VZqlDjYyetIpwPTqfZzeV8k8v8BRA5r3631tI",
+    "animation_url": "https://arweave.net/Z_BU68VZqlDjYyetIpwPTqfZzeV8k8v8BRA5r3631tI",
+    "image_details": {
+      "bytes": 1301348,
+      "format": "PNG",
+      "sha256": "740f4de5bc6ca504e3c6bfbbf4286fc575e2a3fade4697bf29e9ca077cd0ea27",
+      "width": 1600,
+      "height": 1600
+    },
+    "image": "https://arweave.net/lB8or2lQHvT5AbsLVhXCpxVbIBbYzhMoOjv3pKd7JhY",
+    "image_url": "https://arweave.net/lB8or2lQHvT5AbsLVhXCpxVbIBbYzhMoOjv3pKd7JhY"
+  }
+}

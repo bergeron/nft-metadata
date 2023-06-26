@@ -1,0 +1,50 @@
+{
+  "address": "0x165fcacaf4d1ce6550b60eeec9defd4603939ede",
+  "type": "ERC721",
+  "name": "tiny dragons cc0",
+  "tokenCount": "50",
+  "uri": "ipfs://QmcnsCZkFoG2dKiitdQDZFEr2579oPRhaZRmmjsFqd1MN8/1.json",
+  "metadata": {
+    "name": "tiny dragons #1",
+    "description": "",
+    "image": "ipfs://QmbMgXsyzP2VjmSN5ZfqBCkSEKHbAxJ58TVc7ukCE28nsj/1.png",
+    "dna": "da2d0988f0bce9c6ecd0b48ce4c16afcf17600b4",
+    "edition": 1,
+    "date": 1652623526130,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "gray_conical_gradient"
+      },
+      {
+        "trait_type": "body",
+        "value": "teal"
+      },
+      {
+        "trait_type": "underbelly",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "horns and wings",
+        "value": "orange"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "white"
+      },
+      {
+        "trait_type": "face",
+        "value": "normal"
+      },
+      {
+        "trait_type": "head",
+        "value": "none"
+      },
+      {
+        "trait_type": "feet",
+        "value": "normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

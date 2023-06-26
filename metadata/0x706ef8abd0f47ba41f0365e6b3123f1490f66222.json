@@ -1,0 +1,40 @@
+{
+  "address": "0x706ef8abd0f47ba41f0365e6b3123f1490f66222",
+  "type": "ERC721",
+  "name": "Interactive Banners",
+  "tokenCount": "3576",
+  "uri": "ipfs://bafybeibatynq4y2sttgesfxsbhplwun2ugstt6hejpzbae3nkanwdo2bbi/1.json",
+  "metadata": {
+    "name": "Interactive Banners #1",
+    "description": "Interactive Banners is a free mint that aims to expand and utilize the Ethereum Blockchain to its full potential.",
+    "image": "ipfs://QmPvcsVs7JppY53nBBZvKcYXsBUY2vKk6xSdgSq8b4ETKM",
+    "animation_url": "https://scapes.punkscape.xyz/#1",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1",
+    "animation_url_ipns_gateways": {
+      "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1",
+      "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1",
+      "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1",
+    "attributes": [
+      {
+        "trait_type": "Atmosphere",
+        "value": "Dark Night"
+      },
+      {
+        "trait_type": "Sky",
+        "value": "Simmering Light"
+      },
+      {
+        "trait_type": "Celestial",
+        "value": "Happy Clouds"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "date",
+        "value": 2499221535
+      }
+    ],
+    "compiler": ""
+  }
+}

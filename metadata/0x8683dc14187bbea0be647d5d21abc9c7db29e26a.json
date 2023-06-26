@@ -1,0 +1,40 @@
+{
+  "address": "0x8683dc14187bbea0be647d5d21abc9c7db29e26a",
+  "type": "ERC1155",
+  "name": "Stephan Dybus Editions",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/-74I4dZKh7sgdKgdCQkxGi1FBBDGbLHzx4sdrZhnfyY",
+  "metadata": {
+    "name": "Woke Up Like This",
+    "created_by": "Stephan Dybus",
+    "description": "3D Animation, 3:4, 2160x2880px, 2x59 Frames",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Stephan Dybus"
+      }
+    ],
+    "animation_details": {
+      "bytes": 16469142,
+      "format": "MP4",
+      "duration": 4,
+      "sha256": "d4dd5904864ec57859c3814eed08946c8d5cb101585c53df4da5448a6901d470",
+      "width": 2160,
+      "height": 2880,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/-DeI-6NK1F9y7StP6Rs5Bk4Hec0JnRFkoN8tPBapKVw",
+    "animation_url": "https://arweave.net/-DeI-6NK1F9y7StP6Rs5Bk4Hec0JnRFkoN8tPBapKVw",
+    "image_details": {
+      "bytes": 1834458,
+      "format": "JPEG",
+      "sha256": "91ffd6f81764d16b481b0d38fbcf72b9d48db31570a75891aa4016703570f800",
+      "width": 2160,
+      "height": 2880
+    },
+    "image": "https://arweave.net/ZG877OUsRKIWahXeljXiMV03AekzdCmJkO7PqxUgdTU",
+    "image_url": "https://arweave.net/ZG877OUsRKIWahXeljXiMV03AekzdCmJkO7PqxUgdTU"
+  }
+}

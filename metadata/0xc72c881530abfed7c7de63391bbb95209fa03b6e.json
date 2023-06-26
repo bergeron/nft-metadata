@@ -1,0 +1,25 @@
+{
+  "address": "0xc72c881530abfed7c7de63391bbb95209fa03b6e",
+  "type": "ERC721",
+  "name": "GVol Sampler",
+  "tokenCount": "3",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xc72c881530abfed7c7de63391bbb95209fa03b6e/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xC72C881530ABfeD7C7DE63391bbB95209FA03b6e/icon?id=1",
+    "expiration": 1605141997,
+    "tokenId": "1",
+    "owner": "0x3993996b09949bba655d98c02c87ea6abf553630",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1605141997
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xC72C881530ABfeD7C7DE63391bbB95209FA03b6e",
+    "network": 1
+  }
+}

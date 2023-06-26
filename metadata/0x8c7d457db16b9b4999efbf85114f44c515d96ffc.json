@@ -1,0 +1,25 @@
+{
+  "address": "0x8c7d457db16b9b4999efbf85114f44c515d96ffc",
+  "type": "ERC1155",
+  "name": "Bank of Metaverse Pass Collection",
+  "tokenCount": "4",
+  "uri": "https://ipfs.io/ipfs/QmZpKcPfGqg3F4nrBcnUNhn1BioyHcCQAuNvjSTwnb8VKi/1.json",
+  "metadata": {
+    "name": "Diamond Pass",
+    "collection": "Bank of Metaverse Pass",
+    "description": "A Limited collection of 800 staking NFTs. Membership to the Bank of Metaverse DAO and all the benefits come from holding the Metaverse DAO pass.",
+    "animation_url": "https://ipfs.io/ipfs/QmfJZkF9ZkYgqv2QHx6jbyFt58Z54wBrNqnvq5BRxv9hbq",
+    "image": "https://ipfs.io/ipfs/QmfJZkF9ZkYgqv2QHx6jbyFt58Z54wBrNqnvq5BRxv9hbq",
+    "external_url": "https://metaversedao.app/",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Pass"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Diamond"
+      }
+    ]
+  }
+}

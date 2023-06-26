@@ -1,0 +1,38 @@
+{
+  "address": "0x13baf65517a04fa5707fd8d3534bd51af2302199",
+  "type": "ERC721",
+  "name": "Gakko Labs",
+  "tokenCount": "5555",
+  "uri": "https://gakkoverse.s3.filebase.com/1.json",
+  "metadata": {
+    "name": "GakkoVerse #1",
+    "description": "5555 various creatures originating from different planets and traveling through space on the Gakko starship",
+    "image": "https://gakkoverse.s3.filebase.com/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "501"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Dark Heal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black Gray"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Green Mod"
+      },
+      {
+        "trait_type": "Vest",
+        "value": "Basic Shoulder"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Yellow Romb"
+      }
+    ]
+  }
+}

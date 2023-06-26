@@ -1,0 +1,24 @@
+{
+  "address": "0xd315945e9e31cc04ce7a2c6e32d0aa677302cf30",
+  "type": "ERC721",
+  "name": "Buddha_TEST_NFT",
+  "tokenCount": "1",
+  "uri": "ipfs://QmST7JGa7Sn2uvLmcbrBzPBfN9GkRTz1nyQVJrT8ePoxvz/1.json",
+  "metadata": {
+    "name": "Buddha Test NFT 1",
+    "decription": "This is Mike's test NFT.",
+    "image": "ipfs://QmXEx5wqUbReP1Z28i6ww5ymopsirhWPwhy78VmYe1vYTo/1.mp4",
+    "edition": 3,
+    "date": 1664251087,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "universe"
+      },
+      {
+        "trait_type": "frame",
+        "value": "gold"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0x5f0b14538258fc7ed623033aaa8f907b96417c43",
+  "type": "ERC721",
+  "name": "Glob Genesis Tokens",
+  "tokenCount": "5",
+  "uri": "https://api.globstudio.io/api/1",
+  "metadata": {
+    "name": "Glob Genesis Token #1",
+    "description": "Redeem your Glob Token for a 3D version of your BAYC. Upon redemption, the metadata of your Glob NFT will be updated to reveal your 3D ape.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmXHX4U4sfCZ5gefMckwyweFyLyFkRLrY1rwjMn3GUbvHv",
+    "tokenId": 1,
+    "external_url": "https://globstudio.io",
+    "attributes": [
+      {
+        "trait_type": "Collection",
+        "value": "BAYC"
+      },
+      {
+        "trait_type": "BAYC ID",
+        "value": "8951"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Redeemed"
+      }
+    ]
+  }
+}

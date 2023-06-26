@@ -1,0 +1,45 @@
+{
+  "address": "0xb6632d5df7cee3e3c964049177640ded388cd89c",
+  "type": "ERC721",
+  "name": "Panda Daily",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeie452gtds4exif4wpczvxzzypbobjfg3daud5yjqfddcvcyc5mvhm/1.json",
+  "metadata": {
+    "name": "Panda Daily Series 1 #1",
+    "description": "Epidemics in Panda Kingdom",
+    "image": "ipfs://bafybeifxvurmfdav7yjtbmfnorjlcodzmx2qw6tx7lg6brvyzuhrylx6eu/1.png",
+    "dna": "ba622b30cd021ea694a68967ba8904eab21ff379",
+    "edition": 1,
+    "date": 1664770096103,
+    "attributes": [
+      {
+        "trait_type": "panda",
+        "value": "panda"
+      },
+      {
+        "trait_type": "artmouth_panda",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eye_panda",
+        "value": "orange"
+      },
+      {
+        "trait_type": "headphone_panda",
+        "value": "gray"
+      },
+      {
+        "trait_type": "hand_panda",
+        "value": "live_left"
+      },
+      {
+        "trait_type": "tongue_panda",
+        "value": "tongueblue"
+      },
+      {
+        "trait_type": "food_panda",
+        "value": "pizza"
+      }
+    ]
+  }
+}

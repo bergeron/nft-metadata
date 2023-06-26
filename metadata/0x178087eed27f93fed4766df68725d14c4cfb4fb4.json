@@ -1,0 +1,46 @@
+{
+  "address": "0x178087eed27f93fed4766df68725d14c4cfb4fb4",
+  "type": "ERC721",
+  "name": "Art Basel Punks by Mach",
+  "tokenCount": "1484",
+  "uri": "ipfs://bafybeifg3dgkodo6rwty2vdksqhzbqjjqgjq35baqikxkzqod4q3r7wdxm/1.json",
+  "metadata": {
+    "name": "Basel Punk #1",
+    "description": "Punk collection inspired by Art Basel with more than 100 hand drawn traits.",
+    "image": "ipfs://bafybeicdnne5lshrl767p74n6g62jgg676zgig3rmefnvw2n2a3cn2kdui/1.png",
+    "dna": "aa597c9d31f597e8dc763029e124c770c69e6fee",
+    "edition": 1,
+    "date": 1670963281383,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Abstract 3"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Aqua"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose 14"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth 13"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Punk"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Target"
+      }
+    ],
+    "compiler": "Punks"
+  }
+}

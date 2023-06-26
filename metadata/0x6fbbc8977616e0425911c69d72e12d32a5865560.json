@@ -1,0 +1,42 @@
+{
+  "address": "0x6fbbc8977616e0425911c69d72e12d32a5865560",
+  "type": "ERC721",
+  "name": "MetaGuardians: Villains",
+  "tokenCount": "10000",
+  "uri": "https://metav-backend.herokuapp.com/1",
+  "metadata": {
+    "name": "Villain #1",
+    "attributes": [
+      {
+        "trait_type": "Clothing",
+        "value": "Eccentric"
+      },
+      {
+        "trait_type": "Material",
+        "value": "Blue White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Blue Bowtie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Evil Purple"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Vignette Purple"
+      }
+    ],
+    "image": "https://metavstorage.s3.sa-east-1.amazonaws.com/_0_0_101_6_999_999_999_901_999_14_8_3.0001.png",
+    "description": "Villains"
+  }
+}

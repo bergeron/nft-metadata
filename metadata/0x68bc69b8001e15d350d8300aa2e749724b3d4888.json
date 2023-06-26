@@ -1,0 +1,36 @@
+{
+  "address": "0x68bc69b8001e15d350d8300aa2e749724b3d4888",
+  "type": "ERC1155",
+  "name": "PlayerOne Blueprint",
+  "tokenCount": "16",
+  "uri": "https://res.playerone.world/metadata/blueprint/a32e059b-0dfb-4e44-8ebc-badc96367cd4",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "uuid",
+        "value": "a32e059b-0dfb-4e44-8ebc-badc96367cd4"
+      },
+      {
+        "trait_type": "width",
+        "value": 20
+      },
+      {
+        "trait_type": "depth",
+        "value": 20
+      },
+      {
+        "trait_type": "height",
+        "value": 20
+      },
+      {
+        "trait_type": "style",
+        "value": "Modern"
+      }
+    ],
+    "description": "Blueprints are a handy way for users to develop building in PlayerOne. Builders may earn by selling blueprints of their structures, while consumers can easily produce buildings by purchasing required blueprints.\r\n\r\nAfter the blueprint is available, people may either sell it or utilize it in the plot. It should be noted that used blueprints will be connected to the appropriate plots and will not be available for sale independently.",
+    "external_url": "",
+    "image": "https://playeroneworld.s3.ap-southeast-1.amazonaws.com/uimg/temp-9035e5c3-de2c-45bf-95dc-6c2b2d965335.png",
+    "animation_url": "https://playeroneworld.s3.ap-southeast-1.amazonaws.com/uvideos/9035e5c3-de2c-45bf-95dc-6c2b2d965335.mp4",
+    "name": "Coffee"
+  }
+}

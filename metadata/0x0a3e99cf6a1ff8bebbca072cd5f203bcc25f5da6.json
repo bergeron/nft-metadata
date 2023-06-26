@@ -1,0 +1,39 @@
+{
+  "address": "0x0a3e99cf6a1ff8bebbca072cd5f203bcc25f5da6",
+  "type": "ERC721",
+  "name": "Terroritory",
+  "tokenCount": "27",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=LjDjFFXJ3rQMGeaOKNnd",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1576178876331?alt=media&token=4b642e20-d99e-45a3-b5f4-5f9173b8fc0d",
+    "isForSale": true,
+    "contractAddress": "",
+    "description": "TER token",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted//LjDjFFXJ3rQMGeaOKNnd",
+    "minter": "0x962aAF5fFeDD993BE4eDaF9807F2cfcd6616E077",
+    "mintedOn": {
+      "_seconds": 1576179206,
+      "_nanoseconds": 261000000
+    },
+    "price": "0",
+    "name": "Terroritory",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Terroritory"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "id": null
+  }
+}

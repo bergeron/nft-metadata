@@ -1,0 +1,43 @@
+{
+  "address": "0x8765e43765fa715af70a1e4483814660b48b497c",
+  "type": "ERC721",
+  "name": "Grumbies Genesis Battle",
+  "tokenCount": "1500",
+  "uri": "https://genesis-battle.vercel.app/v1/1",
+  "metadata": {
+    "image": "https://storage.googleapis.com/grumbies.appspot.com/1-0.jpeg?t=553",
+    "name": "Grumbie #1",
+    "description": "Grumbies an interactive NFT game to win Ethereum! When first minted each grumbie comes with a small subset of traits. Check out battle.grumbies.io to upgrade your Grumbie and check its status, as secondary market data may be behind. Marketplace rarity is largely irrelevant to the actual game. ",
+    "id": "1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Retro Satelite"
+      },
+      {
+        "trait_type": "Heads",
+        "value": "Ghost"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Finned Collar"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Viking Hole Eyes"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Bald Hair Curl"
+      },
+      {
+        "trait_type": "Staff",
+        "value": "None"
+      },
+      {
+        "trait_type": "status",
+        "value": "eliminated"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0xd4048be096f969f51fd5642a9c744ec2a7eb89fe",
+  "type": "ERC721",
+  "name": "HalloweenBears",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmPZLypREH8okGjFjSagUcbbrJhBJHhGsDVKfkZM62FBxs/1.json",
+  "metadata": {
+    "dna": "fb2a50911d8bd9b57b25c3b0d91d1295f74776c2",
+    "name": "#802",
+    "description": "Spooky Bears bringing you the scares.",
+    "image": "ipfs://Qme4CdxdmPXWxYwFcf1HyVziQpsHdgjb8CaVX25EsvjGjt/802.png",
+    "edition": 802,
+    "date": 1633820500828,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Hot"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "ZombieShirt"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Eyes"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Beak"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "ChilliWings"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

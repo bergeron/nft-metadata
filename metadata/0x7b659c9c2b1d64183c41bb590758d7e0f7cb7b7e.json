@@ -1,0 +1,46 @@
+{
+  "address": "0x7b659c9c2b1d64183c41bb590758d7e0f7cb7b7e",
+  "type": "ERC721",
+  "name": "0x3lander",
+  "tokenCount": "599",
+  "uri": "ipfs://QmRXV2H2yhXGP3gr2z7wW2E4XD11S5NauHkQ6YwjPHDmjV/1.json",
+  "metadata": {
+    "dna": "2bb0eab183f0e5483ce26d114499f6fe416d4a03",
+    "name": "#1",
+    "description": "An expansion collection of 5555 unique landers. 0x3Landers is not affiliated with 3Landers.",
+    "image": "ipfs://QmYiYXX9W2xKHyjp5xhkqaACHyyScajLet42aqjoC7UQy6/1.png",
+    "edition": 1,
+    "date": 1645594602323,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "0x"
+      },
+      {
+        "trait_type": "Base",
+        "value": "human dark"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "redeyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "normal"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "bluesweater"
+      },
+      {
+        "trait_type": "Head",
+        "value": "joystick"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "float2"
+      }
+    ],
+    "compiler": "0xFactory Deployer"
+  }
+}

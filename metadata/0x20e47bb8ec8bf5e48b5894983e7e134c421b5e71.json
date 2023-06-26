@@ -1,0 +1,37 @@
+{
+  "address": "0x20e47bb8ec8bf5e48b5894983e7e134c421b5e71",
+  "type": "ERC721",
+  "name": "Sudo Cute-Os",
+  "tokenCount": "500",
+  "uri": "ipfs://bafybeihgdc5qq2mmk554voyctuenncpmqkvsemtwbdnwcjmxtfeh25qeea/1.json",
+  "metadata": {
+    "name": "SudoCuteos #1",
+    "description": "500 Cuteos roaming around on Sudoswap looking as cute as can be",
+    "image": "ipfs://bafybeieenkct3b5mp3nyspcfegeece2hjqiphoyloi3cdgj6hkj6cqu3g4/1.png",
+    "edition": 1,
+    "date": 1660708334396,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Clouds",
+        "value": "Sherbert Dream"
+      },
+      {
+        "trait_type": "Cuteo",
+        "value": "Mint"
+      },
+      {
+        "trait_type": "Item",
+        "value": "Pizza 3"
+      },
+      {
+        "trait_type": "Effects",
+        "value": "Warm Sparkle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

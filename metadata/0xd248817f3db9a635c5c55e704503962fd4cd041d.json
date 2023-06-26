@@ -1,0 +1,60 @@
+{
+  "address": "0xd248817f3db9a635c5c55e704503962fd4cd041d",
+  "type": "ERC721",
+  "name": "GuacIsNotExtra",
+  "tokenCount": "24",
+  "uri": "ipfs://QmcZB7eA4WPfx87VoziUZxycibWyHWbrowmTBApjvU5ciY/1.json",
+  "metadata": {
+    "name": "Guac Is Not Extra #1",
+    "description": "Never pay for GUAC again !!!",
+    "image": "ipfs://QmeSUp3bXXHdhTTDkqWT31Wo3WmPCyzHsHxn4tyNbJDryr/1.png",
+    "dna": "86e22e14b073d54175cf1a29f6f9a1415418b350",
+    "edition": 1,
+    "date": 1642379374066,
+    "guacIsExtra": "False",
+    "artist": "Rees Wagen",
+    "attributes": [
+      {
+        "trait_type": "0-Background",
+        "value": "Background_Purple_Pink"
+      },
+      {
+        "trait_type": "1-Filling",
+        "value": "Regular_soft_Filling"
+      },
+      {
+        "trait_type": "2-Outline",
+        "value": "Brown_Chunky_Outline"
+      },
+      {
+        "trait_type": "3-Pit-Color",
+        "value": "Regular_Pit_Color"
+      },
+      {
+        "trait_type": "4-Pit-outline",
+        "value": "Regular_pit_Outline_Brown"
+      },
+      {
+        "trait_type": "5-Eyes",
+        "value": "Eyes_Ghost_Unsurprised"
+      },
+      {
+        "trait_type": "6-Mouth-and-Tongue",
+        "value": "Regular_mount_tongue"
+      },
+      {
+        "trait_type": "7-Arms-and-Legs",
+        "value": "Regular_Arms_and_Legs"
+      },
+      {
+        "trait_type": "8-Cheek-Blush",
+        "value": "Freckle_Blush"
+      },
+      {
+        "trait_type": "9-Foreground",
+        "value": "Guacs_on_me"
+      }
+    ],
+    "compiler": "Guacalaca"
+  }
+}

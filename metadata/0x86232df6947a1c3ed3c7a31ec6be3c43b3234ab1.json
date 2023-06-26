@@ -1,0 +1,41 @@
+{
+  "address": "0x86232df6947a1c3ed3c7a31ec6be3c43b3234ab1",
+  "type": "ERC721",
+  "name": "Birdzuki",
+  "tokenCount": "3333",
+  "uri": "https://birdzuki.s3.us-east-2.amazonaws.com/metadata/1",
+  "metadata": {
+    "image": "https://birdzuki.s3.us-east-2.amazonaws.com/images/1.png",
+    "name": "BirdZuki #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cool Gray"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Bone"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Chill"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Hoodie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Toothpick"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Duck"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Floorsweeper"
+      }
+    ]
+  }
+}

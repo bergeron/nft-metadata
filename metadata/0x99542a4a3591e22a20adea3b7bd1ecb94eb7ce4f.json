@@ -1,0 +1,26 @@
+{
+  "address": "0x99542a4a3591e22a20adea3b7bd1ecb94eb7ce4f",
+  "type": "ERC721",
+  "name": "MiniPets NFT",
+  "tokenCount": "43",
+  "uri": "https://minimints.app/minipets/api/1.json",
+  "metadata": {
+    "name": "MiniPet #1",
+    "tokenId": 1,
+    "image": "https://minimints.app/minipets/api/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Hawaiian Monk Seal"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Seal"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Caramel brown"
+      }
+    ]
+  }
+}

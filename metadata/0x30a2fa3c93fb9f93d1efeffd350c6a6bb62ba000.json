@@ -1,0 +1,145 @@
+{
+  "address": "0x30a2fa3c93fb9f93d1efeffd350c6a6bb62ba000",
+  "type": "ERC721",
+  "name": "CryptoMotors",
+  "tokenCount": "559",
+  "uri": "https://api.cryptomotors.io/vehicles/a6c81984-b9d1-4044-9cd9-825ec59dcb09",
+  "metadata": {
+    "uuid": "a6c81984-b9d1-4044-9cd9-825ec59dcb09",
+    "ethId": "1",
+    "dna": "0000020002000701013833483E3B",
+    "status": 2,
+    "model": {
+      "uuid": "eecbf468-4bd0-43fd-9c1a-4ff078f17abe",
+      "designer": {
+        "uuid": "f7d4b1bd-b463-41dc-b1ed-bc866f6d2a99",
+        "username": "CryptoMotorsTeam"
+      },
+      "name": "Sport Coupé",
+      "gen": 0,
+      "price": "1000000000000000000",
+      "decimalPrice": 1,
+      "minMaxSpeed": 49,
+      "maxMaxSpeed": 94,
+      "minAcceleration": 48,
+      "maxAcceleration": 92,
+      "minGrip": 50,
+      "maxGrip": 80,
+      "minHandling": 55,
+      "maxHandling": 87,
+      "minBraking": 37,
+      "maxBraking": 82,
+      "bio": "Classical proportion combined with a modern look of the supersport vehicle segment. The SportCoupe GEN0 is a pureblood stallion with the heritage of the iconic racers. A robust body made of pure and muscular surfaces, elegant and powerful. If you believe you deserve the best this car is for you. Now is your time to shine and conquer the track!"
+    },
+    "wallet": {
+      "address": "0x100d9e93f8066972bf67579ea53b5ac04f343c60",
+      "user": null
+    },
+    "customAttributes": [
+      {
+        "trait_type": "First Edition",
+        "value": "Yes"
+      }
+    ],
+    "forAuction": false,
+    "color": 7,
+    "coolDown": 1,
+    "gen": 0,
+    "material": 1,
+    "maxSpeed": 56,
+    "acceleration": 51,
+    "grip": 72,
+    "handling": 62,
+    "braking": 59,
+    "files": [
+      {
+        "name": "sportcoupe_00_7_1_1.png",
+        "mimeType": "png",
+        "type": 1
+      },
+      {
+        "name": "sportcoupe_00_7_1_2.png",
+        "mimeType": "png",
+        "type": 2
+      },
+      {
+        "name": "sportcoupe_00_7_1_3.png",
+        "mimeType": "png",
+        "type": 3
+      }
+    ],
+    "activeAuction": null,
+    "activeSale": {
+      "uuid": "789db5c6-19da-489c-83e1-a2d0c72b600a",
+      "price": "1000000000000000000",
+      "decimalPrice": 1
+    },
+    "borrower": null,
+    "eventDrop": false,
+    "name": "Sport Coupé",
+    "description": "Classical proportion combined with a modern look of the supersport vehicle segment. The SportCoupe GEN0 is a pureblood stallion with the heritage of the iconic racers. A robust body made of pure and muscular surfaces, elegant and powerful. If you believe you deserve the best this car is for you. Now is your time to shine and conquer the track!",
+    "background_color": "FFFFFF",
+    "external_url": "https://cryptomotors.io/vehicle/a6c81984-b9d1-4044-9cd9-825ec59dcb09",
+    "image": "https://cryptomotors.io/images/full_vehicle_body/sportcoupe_00_7_1_1.png",
+    "top_view": "https://cryptomotors.io/images/full_vehicle_body/sportcoupe_00_7_1_4.png",
+    "attributes": [
+      {
+        "trait_type": "maxSpeed",
+        "value": 56,
+        "max_value": 100
+      },
+      {
+        "trait_type": "acceleration",
+        "value": 51,
+        "max_value": 100
+      },
+      {
+        "trait_type": "grip",
+        "value": 72,
+        "max_value": 100
+      },
+      {
+        "trait_type": "handling",
+        "value": 62,
+        "max_value": 100
+      },
+      {
+        "trait_type": "braking",
+        "value": 59,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Color",
+        "value": "High glossy White"
+      },
+      {
+        "trait_type": "High resolution 3D",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Voxel 3D model",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Low poly 3D",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Gen",
+        "value": 0
+      },
+      {
+        "trait_type": "Genesis Founder Badge",
+        "value": "Black Elite"
+      },
+      {
+        "trait_type": "Production",
+        "value": "Series Car"
+      },
+      {
+        "trait_type": "First Edition",
+        "value": "Yes"
+      }
+    ]
+  }
+}

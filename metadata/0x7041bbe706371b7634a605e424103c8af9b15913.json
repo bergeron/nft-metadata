@@ -1,0 +1,49 @@
+{
+  "address": "0x7041bbe706371b7634a605e424103c8af9b15913",
+  "type": "ERC721",
+  "name": "Dragon Deez NFTS",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmeVoXfDkn6h7hDsEc6EoYqnRd9gPEEw1mMbPxyPYsLJFx/1",
+  "metadata": {
+    "name": "#1",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://QmcQUJc4Pqadd3aGfX66Xip5siUqcfa2V7J6yuZh1JvyLC/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "background 3-01"
+      },
+      {
+        "trait_type": "Base",
+        "value": "DIAMOND PURPLE-01"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "CLASSIC EYES-01"
+      },
+      {
+        "trait_type": "Heads",
+        "value": "NONE-01"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "PACIFIER-01"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "SILVER CHAIN-01"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

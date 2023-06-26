@@ -1,0 +1,50 @@
+{
+  "address": "0x77d49dd910e0548498d13349d9893314a55f3fa8",
+  "type": "ERC1155",
+  "name": "Open",
+  "tokenCount": "10",
+  "uri": "https://arweave.net/Mq7wsK8EvxA8CMKN2TcAbJhRWGKoLVzIynCkyQEmuUQ",
+  "metadata": {
+    "name": "Open door",
+    "created_by": "J'erre",
+    "description": "\"Open\" series.\n\nPart 1.",
+    "external_url": "jerre.art",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "J'erre"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Open"
+      },
+      {
+        "trait_type": "Version",
+        "value": "01"
+      }
+    ],
+    "animation_details": {
+      "bytes": 6318979,
+      "format": "MP4",
+      "duration": 5,
+      "sha256": "ce1555bff6ad18a14aec083ec4cbe0a418e65f1a980e27da96442265d9f45138",
+      "width": 2160,
+      "height": 2160,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/gpo8S7DbvAm1TPpe1suie306vBIwsXHncwfDi3DEwhQ",
+    "animation_url": "https://arweave.net/gpo8S7DbvAm1TPpe1suie306vBIwsXHncwfDi3DEwhQ",
+    "image_details": {
+      "bytes": 1347623,
+      "format": "PNG",
+      "sha256": "f5008ab7dec3715948c41c1c243dc8fbd1d532fcc16365cd9bf12010e060184e",
+      "width": 1024,
+      "height": 1024
+    },
+    "image": "https://arweave.net/FrVqwF_xYvgIUUtSw5GzAqZjKpN4aTRVNkkjoLKwR8s",
+    "image_url": "https://arweave.net/FrVqwF_xYvgIUUtSw5GzAqZjKpN4aTRVNkkjoLKwR8s"
+  }
+}

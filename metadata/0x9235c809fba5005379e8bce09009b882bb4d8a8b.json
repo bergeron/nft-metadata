@@ -1,0 +1,40 @@
+{
+  "address": "0x9235c809fba5005379e8bce09009b882bb4d8a8b",
+  "type": "ERC721",
+  "name": "SupBirds",
+  "tokenCount": "20",
+  "uri": "https://www.supbirds.com/meta/1.json",
+  "metadata": {
+    "dna": "033531",
+    "name": "Supbirds #1",
+    "description": "SupBirds are 5000 unique bird characters which live on Ethereum Blockchain. Each Sup Bird comes with proof of ownership, represented by the ERC721-standard.",
+    "image": "https://supbirds.com/meta/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FrenchPass"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Twinkle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Monacle"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Blueshirt"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Worm"
+      }
+    ]
+  }
+}

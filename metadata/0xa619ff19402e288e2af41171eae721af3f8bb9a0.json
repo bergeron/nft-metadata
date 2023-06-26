@@ -1,0 +1,57 @@
+{
+  "address": "0xa619ff19402e288e2af41171eae721af3f8bb9a0",
+  "type": "ERC721",
+  "name": "Amazing HamsterLand",
+  "tokenCount": "8",
+  "uri": "ipfs://bafybeia4crx7vjxdqlecticxw6mhf3x4x5tr2g52jpnmdg3mzxe2fopitm/1.json",
+  "metadata": {
+    "name": "Hamster #9255",
+    "symbol": "THW",
+    "description": "Created by TheHamsterKing",
+    "seller_fee_basis_points": 1000,
+    "image": "ipfs://bafybeibo2nvd3mzd4fwho6ys2ase7hdaco6c5xcz2zimuhj3msmyqxx5hu/1.png",
+    "external_url": "",
+    "edition": 9255,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Yellow Hard Hat"
+      },
+      {
+        "trait_type": "Clock",
+        "value": "Analog Red"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hawaiian Shirt 2"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "9255.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "H6EPKfgmPYj5d5KT75so2TsLCu8KVcbPN1ty7am1n4UK",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

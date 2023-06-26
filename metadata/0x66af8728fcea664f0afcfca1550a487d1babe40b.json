@@ -1,0 +1,35 @@
+{
+  "address": "0x66af8728fcea664f0afcfca1550a487d1babe40b",
+  "type": "ERC721",
+  "name": "Space Invaders Game NFT",
+  "tokenCount": "1200",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmTucT1BnJxsWTEMfuiQCgtQuyaDncA9m2Tmck5d2tji33/1.json",
+  "metadata": {
+    "name": "Space Invaders 1",
+    "description": "Space Invaders Game NFT",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmb1CRx9kkA3quG1TGPweeyyfVg5aaj1TUnMGtxByjgvrP/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background1"
+      },
+      {
+        "trait_type": "Player",
+        "value": "Player4"
+      },
+      {
+        "trait_type": "Enemy",
+        "value": "Enemy5"
+      },
+      {
+        "trait_type": "PlayerBullet",
+        "value": "White"
+      },
+      {
+        "trait_type": "EnemyBullet",
+        "value": "Green"
+      }
+    ],
+    "animation_url": "https://gateway.pinata.cloud/ipfs/QmeMVEzyrFZ2dy3HjMYkeRowWie6GY2nv2SUG8UTyG4k6B/1.html"
+  }
+}

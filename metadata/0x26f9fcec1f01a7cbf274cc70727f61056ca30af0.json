@@ -1,0 +1,41 @@
+{
+  "address": "0x26f9fcec1f01a7cbf274cc70727f61056ca30af0",
+  "type": "ERC721",
+  "name": "Non-Fungible Vinyls V2",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/GTWqxjcI8YERwchsnvi02NdXwEWdR0xIkn4NmbXoPFU",
+  "metadata": {
+    "name": "Placeholder",
+    "created_by": "Can Artsan",
+    "description": "Placeholder for the genesis NFT of Non-Fungible Vinyls.",
+    "attributes": [
+      {
+        "trait_type": "Creator",
+        "value": "Non-Fungible Albums"
+      }
+    ],
+    "animation_details": {
+      "bytes": 83246,
+      "format": "MP4",
+      "duration": 32,
+      "sha256": "0085c8267ce92e8f80b69b1757423ad52358a3f89721cc26e78851e3f41eb378",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/-HelqSApMJWTGvyWbBr4_uV1mnCdOcgfCc7t7SAbMBk",
+    "animation_url": "https://arweave.net/-HelqSApMJWTGvyWbBr4_uV1mnCdOcgfCc7t7SAbMBk",
+    "image_details": {
+      "bytes": 7694,
+      "format": "JPEG",
+      "sha256": "8fbcb8cdf63283baf8078c7311d09e868040fc460603469a8f80d32706e8684d",
+      "width": 1080,
+      "height": 1080
+    },
+    "image": "https://arweave.net/CHPAULzWn7mqzRX-Jk3ttaAVxg2pDizoY8mCw-LkgHQ",
+    "image_url": "https://arweave.net/CHPAULzWn7mqzRX-Jk3ttaAVxg2pDizoY8mCw-LkgHQ"
+  }
+}

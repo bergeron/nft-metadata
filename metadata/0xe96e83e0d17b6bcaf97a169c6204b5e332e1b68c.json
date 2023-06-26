@@ -1,0 +1,12 @@
+{
+  "address": "0xe96e83e0d17b6bcaf97a169c6204b5e332e1b68c",
+  "type": "ERC721",
+  "name": "Numbers - x5FZtgtqMz",
+  "tokenCount": "5",
+  "uri": "ipfs://QmXerUFwLSwiT7wSr8SdqsgUUh3TgzxRyf8hT2asvGguiB/metadata.json",
+  "metadata": {
+    "name": "Number 10, Red",
+    "description": "What's a (natural) number? What does it look like?\n\nWe represent numbers with symbols like 1, 2, 3, I, II, III. We are aware of objects that have a numeric property: A square has 4 sides.\n\nBut, what about the number itself? What is it? What does it look like?\n\nIn 1923, John von Neumann proposed a set-theoretic construction of natural numbers: We can start with the empty set, and then define the next number as the set containing all previous numbers:\n\n0 = {}  \n1 = { {} }  \n2 = {0, 1} = { {}, {{}} },  \n3 = {0, 1, 2} = { {}, {{}}, { {}, {{}} } }  \nAnd so on.\n\n\"Number 10, Red\", is inspired by von Neumann's construction. Each closed shape is a set.",
+    "image": "ipfs://QmbYc3xcgwRPnrdGZpdAEjCNRVhbRCTCFQw8WERmvx7261/nft.svg"
+  }
+}

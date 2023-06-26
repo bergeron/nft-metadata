@@ -1,0 +1,50 @@
+{
+  "address": "0x560bfa4bd5dea696ed1af3b9d4c3e6469903faaf",
+  "type": "ERC1155",
+  "name": "InPeak \"Neon Dreams\"",
+  "tokenCount": "1",
+  "uri": "ipfs://QmT7VAe8xJykhdb8i7RxFBodRFjbtfe7yrCxvAaTgZF12X/1/token.json",
+  "metadata": {
+    "name": "Neon Dreams",
+    "image": "ipfs://QmSnhcHRjw7AfrRzZFMC52ovLcVbemvGfpr97BGoaX2qSA",
+    "description": "New dreams start at the supper table. Dream big. Dream together.\n\nArtist: TheBenMeadows\nFor InPeak.xyz\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "InPeak"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Back Left Screen"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "InPeak \"Neon Dreams\""
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0x7057efb2ed8dd42d7e73954ce9181266f0f086e5"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Back Left Screen",
+              "state": {
+                "label": "Neon Dreams",
+                "uri": "QmUNUdhbtaYGmmwQ9Qr1rZkZbks3okTQahPPPvJiBoopUs"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

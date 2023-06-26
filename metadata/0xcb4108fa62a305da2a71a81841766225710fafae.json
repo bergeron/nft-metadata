@@ -1,0 +1,53 @@
+{
+  "address": "0xcb4108fa62a305da2a71a81841766225710fafae",
+  "type": "ERC721",
+  "name": "Top Cat Crew",
+  "tokenCount": "100",
+  "uri": "ipfs://QmdNgwyHgFNUMURa8seMr1MozT7UqcBZaruzoYatX5XfBq/1.json",
+  "metadata": {
+    "name": "Top Cat #88",
+    "description": "Top Cat #88 - A collection of 100 crazy cats wearing top hats.",
+    "fee_recipient": "0xc8404bdF586B617298c06B8ACD398bAf5a407377",
+    "seller_fee_basis_points": 1000,
+    "image": "ipfs://Qmd57n6qD4oKseLjAjhBUz5GTZU5RkTjfum3yyzTYJXbi1/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Clay"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Whiskers",
+        "value": "Straight"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Butterfly"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 49,
+        "display_type": "number"
+      }
+    ]
+  }
+}

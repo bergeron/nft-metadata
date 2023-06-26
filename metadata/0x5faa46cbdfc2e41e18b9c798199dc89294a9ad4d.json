@@ -1,0 +1,44 @@
+{
+  "address": "0x5faa46cbdfc2e41e18b9c798199dc89294a9ad4d",
+  "type": "ERC721",
+  "name": "ScreamingWombat",
+  "tokenCount": "7",
+  "uri": "https://andrewmohawk.com/NFT/pngwombat.json",
+  "metadata": {
+    "description": "Wombat1 - Screaming Wombat",
+    "external_url": "https://andrewmohawk.com/NFT/",
+    "image": "https://andrewmohawk.com/NFT/wombat.jpg",
+    "background_color": "eb8334",
+    "animation_url": "https://andrewmohawk.com/NFT/wombat.html",
+    "name": "PNG Wombat - Screaming Wombat",
+    "attributes": [
+      {
+        "trait_type": "Mouth shape",
+        "value": "Screetching"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Sharp"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Aggressive"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Screetch Power",
+        "value": 40
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Grumble Increase",
+        "value": 10
+      },
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 315550801
+      }
+    ]
+  }
+}

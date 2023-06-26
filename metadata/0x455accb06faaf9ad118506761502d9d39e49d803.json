@@ -1,0 +1,22 @@
+{
+  "address": "0x455accb06faaf9ad118506761502d9d39e49d803",
+  "type": "ERC721",
+  "name": "Dice(for Adventurers)",
+  "tokenCount": "17",
+  "uri": "data:application/json;utf8,{\"name\": \"Die #1\", \"description\": \"Dice (for Adventurers) are randomized dice for your adventuring stories. Everytime you refresh the metadata, you will get a new rolled number based on your die. Feel free to use Dice in any way you want.\", \"image_data\": \"<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 350 350'><style>.base { fill: white; font-family: serif; font-size: 24px; }   .roll { fill: yellow; font-family: serif; font-size: 48px; text-decoration: underline} .block { fill: red; font-family: serif; font-size: 24px;}</style><rect width='100%' height='100%' fill='black' /><text x='10' y='40' class='base'>D6</text><text x='10' y='175' class='base'>You rolled a:</text><text x='150' y='175' class='roll'>6</text><text x='10' y='325' class='block'>Block: #17539747</text></svg>\", \"attributes\": [ {\"trait_type\": \"Type\", \"value\": \"D6\"}, {\"trait_type\": \"Roll\", \"value\": \"6\"}]}",
+  "metadata": {
+    "name": "Die #1",
+    "description": "Dice (for Adventurers) are randomized dice for your adventuring stories. Everytime you refresh the metadata, you will get a new rolled number based on your die. Feel free to use Dice in any way you want.",
+    "image_data": "<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 350 350'><style>.base { fill: white; font-family: serif; font-size: 24px; }   .roll { fill: yellow; font-family: serif; font-size: 48px; text-decoration: underline} .block { fill: red; font-family: serif; font-size: 24px;}</style><rect width='100%' height='100%' fill='black' /><text x='10' y='40' class='base'>D6</text><text x='10' y='175' class='base'>You rolled a:</text><text x='150' y='175' class='roll'>6</text><text x='10' y='325' class='block'>Block: #17539747</text></svg>",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "D6"
+      },
+      {
+        "trait_type": "Roll",
+        "value": "6"
+      }
+    ]
+  }
+}

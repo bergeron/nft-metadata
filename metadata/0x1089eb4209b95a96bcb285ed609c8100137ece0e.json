@@ -1,0 +1,93 @@
+{
+  "address": "0x1089eb4209b95a96bcb285ed609c8100137ece0e",
+  "type": "ERC721",
+  "name": "Atari Asteroids by Shantell Martin",
+  "tokenCount": "560",
+  "uri": "https://api.polycade.ltd/api/v1/item/smasteroidsae/metadata/1",
+  "metadata": {
+    "name": "Shantell Martin Asteroids Artist Edition",
+    "description": "In this limited edition release, the well-loved arcade classic Asteroids is painted in a new light by artist Shantell Martin.",
+    "external_url": "https://polycade.ltd/collab/shantell-martin-x-asteroids/launch",
+    "image": "https://polycade-assets.s3.us-east-2.amazonaws.com/public/media/box-smasteroidsae.gif",
+    "animation_url": "https://polycade-assets.s3.us-east-2.amazonaws.com/public/media/box-smasteroidsae.glb",
+    "attributes": [
+      {
+        "display_type": "boost_number",
+        "value": 0,
+        "trait_type": "Total Game Plays"
+      },
+      {
+        "display_type": "boost_number",
+        "value": 0,
+        "trait_type": "Highest Score"
+      },
+      {
+        "display_type": "boost_number",
+        "value": 0,
+        "trait_type": "Lowest Score"
+      },
+      {
+        "value": "00:00:00",
+        "trait_type": "Time Played"
+      },
+      {
+        "value": "00:00:00",
+        "trait_type": "Fastest Run"
+      },
+      {
+        "value": "00:00:00",
+        "trait_type": "Longest Run"
+      },
+      {
+        "display_type": "boost_number",
+        "value": 0,
+        "trait_type": "Levels Cleared"
+      },
+      {
+        "display_type": "boost_number",
+        "value": 0,
+        "trait_type": "Total Deaths"
+      },
+      {
+        "display_type": "boost_number",
+        "value": 0,
+        "trait_type": "Total Enemies Destroyed"
+      },
+      {
+        "display_type": "boost_number",
+        "value": 0,
+        "trait_type": "Big Asteroids Destroyed"
+      },
+      {
+        "display_type": "boost_number",
+        "value": 0,
+        "trait_type": "Medium Asteroids Destroyed"
+      },
+      {
+        "display_type": "boost_number",
+        "value": 0,
+        "trait_type": "Small Asteroids Destroyed"
+      },
+      {
+        "display_type": "boost_number",
+        "value": 0,
+        "trait_type": "Big Alien Spacecrafts Destroyed"
+      },
+      {
+        "display_type": "boost_number",
+        "value": 0,
+        "trait_type": "Small Alien Spacecrafts Destroyed"
+      },
+      {
+        "display_type": "boost_percentage",
+        "value": null,
+        "trait_type": "Accuracy"
+      },
+      {
+        "display_type": "boost_number",
+        "value": 0,
+        "trait_type": "Bullets Fired"
+      }
+    ]
+  }
+}

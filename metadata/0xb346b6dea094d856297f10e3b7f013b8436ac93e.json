@@ -1,0 +1,17 @@
+{
+  "address": "0xb346b6dea094d856297f10e3b7f013b8436ac93e",
+  "type": "ERC721",
+  "name": "Meatoes Best Meal Of The Day",
+  "tokenCount": "2",
+  "uri": "https://cluk7yhcnf.execute-api.us-east-2.amazonaws.com/prod/getmetadata?tokenId=1&typeId=1",
+  "metadata": {
+    "name": "Best Meal Of The Day Rainbow #1",
+    "image": "https://meatoes-images.s3.us-east-2.amazonaws.com/MEATOES_BMOD_RAINBOW_01.jpg",
+    "attributes": {
+      "Collection": "Best Meal Of The Day",
+      "Rarity": "Medium-Rare",
+      "ColorWay": "Rainbow",
+      "Edition #": 1
+    }
+  }
+}

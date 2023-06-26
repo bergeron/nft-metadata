@@ -1,0 +1,42 @@
+{
+  "address": "0xe1ea528848ba938ea9af6f2efcb3d88fe51d00f5",
+  "type": "ERC721",
+  "name": "Pepemigos",
+  "tokenCount": "746",
+  "uri": "ipfs://bafybeibdrz77fwc6b64lgb3sfsmhknt7zpac7q6dwy4lxq6lvvfkuxk3u4/1.json",
+  "metadata": {
+    "name": "Pepemigo #1",
+    "description": "A collection inspired by Nakamigos and Pepe.",
+    "image": "ipfs://bafybeibhcq4za2v2rc3tqlcmpgkyezuqikllszaixxee43hffqos4eclvy/1.png",
+    "dna": "4868f19494d49b0a2264ac140936bd060c30886d",
+    "edition": 1,
+    "date": 1681172143929,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Pepe",
+        "value": "Diamond"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Cobra top"
+      },
+      {
+        "trait_type": "Hat or Helmet",
+        "value": "Knit White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Looking Right"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Killer"
+      }
+    ],
+    "compiler": "PEPE"
+  }
+}

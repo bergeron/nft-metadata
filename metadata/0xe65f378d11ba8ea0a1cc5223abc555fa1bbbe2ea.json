@@ -1,0 +1,23 @@
+{
+  "address": "0xe65f378d11ba8ea0a1cc5223abc555fa1bbbe2ea",
+  "type": "ERC721",
+  "name": "Thunderbirds IRC Mint Pass",
+  "tokenCount": "1000",
+  "uri": "ipfs://QmbNNbEoYVLjs6EMYmgr5ChipuS9JsrhuC8BXta4E7aA3j",
+  "metadata": {
+    "description": "Mint up to 3 generative assets for Thunderbirds International Rescue Club",
+    "external_url": "ipfs://QmR6VGrCSiRRVF4iWtrEt1xwW19kSb4NFZRhcAS4icbUWb",
+    "image": "ipfs://QmR6VGrCSiRRVF4iWtrEt1xwW19kSb4NFZRhcAS4icbUWb",
+    "name": "TIRC Mint Pass #1",
+    "animation_url": "",
+    "background_color": "000000",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Redeemed Times",
+        "value": 2,
+        "max_value": 3
+      }
+    ]
+  }
+}

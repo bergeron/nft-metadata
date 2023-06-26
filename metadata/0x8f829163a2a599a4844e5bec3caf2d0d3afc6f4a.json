@@ -1,0 +1,35 @@
+{
+  "address": "0x8f829163a2a599a4844e5bec3caf2d0d3afc6f4a",
+  "type": "ERC721",
+  "name": "Cutiepepes official",
+  "tokenCount": "3333",
+  "uri": "https://www.cutie-pepes.com/api/metadata/1",
+  "metadata": {
+    "name": "Cutiepepe #1",
+    "image": "https://cutiepepes.s3.amazonaws.com/1.png",
+    "description": "Cutiepepes is a collection of 3333 of the cutest Pepes.",
+    "external_url": "https://cutie-pepes.com",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Backyard"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Sprout"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "White Shirt"
+      },
+      {
+        "trait_type": "Accessories ",
+        "value": "Shy"
+      }
+    ]
+  }
+}

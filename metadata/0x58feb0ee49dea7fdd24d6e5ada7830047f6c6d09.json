@@ -1,0 +1,53 @@
+{
+  "address": "0x58feb0ee49dea7fdd24d6e5ada7830047f6c6d09",
+  "type": "ERC721",
+  "name": "CryptoDinodiles",
+  "tokenCount": "2",
+  "uri": "ipfs://QmV2gsZy1gRmCeQmctocaSgA1MQ8tyt7tpPpuT9DafJFtM/1.json",
+  "metadata": {
+    "dna": "03ded9cd7319d7cd5db3b1fe26322feb405f1262",
+    "name": "CryptoDinodile #1",
+    "description": "CryptoDinodiles are a new form of Dinosaurs arising from ash and coming to overtake the Earth!",
+    "image": "ipfs://QmXcw16UEmwV9KreEj7hNhQjciVJGtbc12SqB8peZfM3qU/1.png",
+    "edition": 1,
+    "date": 1633877874102,
+    "lead_Visual_Artist": "Matěj Obšivač",
+    "lead_Programmer": "Matěj Foukal",
+    "project_Manager": "Zdeněk Roháček",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Maroon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Shadow"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Basic"
+      },
+      {
+        "trait_type": "Spikes",
+        "value": "Woody"
+      },
+      {
+        "trait_type": "Horns",
+        "value": "Rusty"
+      },
+      {
+        "trait_type": "Vision Accesories",
+        "value": "Plain"
+      },
+      {
+        "trait_type": "Extras",
+        "value": "Plain"
+      },
+      {
+        "trait_type": "Wrist",
+        "value": "Bracelets"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

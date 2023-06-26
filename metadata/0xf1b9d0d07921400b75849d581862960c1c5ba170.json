@@ -1,0 +1,43 @@
+{
+  "address": "0xf1b9d0d07921400b75849d581862960c1c5ba170",
+  "type": "ERC721",
+  "name": "Console NFT Vaults",
+  "tokenCount": "500",
+  "uri": "ipfs://Qme3G56xxaGykHLXkyfC9VirA1LXTLpd3nPkq6xUwm3z39/1.json",
+  "metadata": {
+    "name": "Console Vault #1",
+    "image": "ipfs://QmYhSnamjRUs3TTbaqDMMqFJFKMqeai98CxL1qsRyrDkyF/4.mp4",
+    "external_url": "https://console-nft.art/",
+    "description": "This Vault contains valuable items and a little secret. Waiting to be opened.",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Number of Items Inside",
+        "value": "4"
+      },
+      {
+        "trait_type": "First Item Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Second Item Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "First Item Class",
+        "value": "- None -"
+      },
+      {
+        "trait_type": "Credit Multiplier",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Credit Amount",
+        "value": "Low"
+      }
+    ]
+  }
+}

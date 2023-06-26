@@ -1,0 +1,63 @@
+{
+  "address": "0x9110c63c462c3efe17344880e4e042baed5288a0",
+  "type": "ERC721",
+  "name": "Eyreocyne",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/6w8etVwWoSlm6Evp6_QGXj1ujz0nJmfhes-Lq_NT6KM",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1646694599
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Akirose"
+      }
+    ],
+    "description": "Lumens of the deep sea, Eryeocenes are particles, strongly absorbed in the visible region of the electromagnetic spectrum when underwater. A rare phenomenon of pure theoretical interest existing only in the phantastical destination world of Akirose.",
+    "external_url": "https://cxip.io/nft/0x9110c63c462c3efe17344880e4e042baed5288a0/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/W52cZg0ovp-nMJ6WaMXGFgSUnvagFysyPZK9cIqQowE",
+    "imageUrl": "https://arweave.net/W52cZg0ovp-nMJ6WaMXGFgSUnvagFysyPZK9cIqQowE",
+    "name": "Eyreocyne I",
+    "properties": {
+      "created_at": "2022-03-07T23:09:59.000000Z",
+      "creator_wallet": "0x279398c07623aa564f6bba8a611893b50ce6f0bf",
+      "description": "Lumens of the deep sea, Eryeocenes are particles, strongly absorbed in the visible region of the electromagnetic spectrum when underwater. A rare phenomenon of pure theoretical interest existing only in the phantastical destination world of Akirose.",
+      "image": "https://arweave.net/W52cZg0ovp-nMJ6WaMXGFgSUnvagFysyPZK9cIqQowE",
+      "imageUrl": "https://arweave.net/W52cZg0ovp-nMJ6WaMXGFgSUnvagFysyPZK9cIqQowE",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "7 March 2022",
+      "name": "Eyreocyne I",
+      "nft_type": "non-fungible image token (image/png)",
+      "preview_media_file": "https://arweave.net/stgDMs8OFBil0K7k8IfTXxu3fNQDXCw1RtCK2_92Gt4",
+      "preview_media_file_dimensions": "613x360",
+      "preview_media_file_size": 79923,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "8000x4700",
+      "raw_media_file": "https://arweave.net/r3k6_VDHoE_QcogzCXmd0SgDGlrKpR-i-PttJ0lkliQ",
+      "raw_media_file_size": 13850906,
+      "raw_media_file_spec": "PNG 8000x4700 8000x4700+0+0 8-bit sRGB 13.2093MiB 0.000u 0:00.000",
+      "raw_media_file_type": "image/png",
+      "raw_media_format": "landscape",
+      "raw_media_signature": "0xe1fe7d17c5a4d173a91b37363fa877a09b98ed5e722f44ed0c3f10595628db04",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/stgDMs8OFBil0K7k8IfTXxu3fNQDXCw1RtCK2_92Gt4",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Eyreocyne I",
+      "total_supply": 1
+    },
+    "title": "Eyreocyne I"
+  }
+}

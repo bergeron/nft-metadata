@@ -1,0 +1,53 @@
+{
+  "address": "0xa907238a396b4de66bc234e7a95d799b81d32ece",
+  "type": "ERC721",
+  "name": "BITROCK-NFTs",
+  "tokenCount": "6",
+  "uri": "ipfs://bafyreie6g7sbhqoum7wwwalfcdgm7lqji75ymdbu7gv2b5b2tfektm7awm/metadata.json",
+  "metadata": {
+    "name": "BITROCK",
+    "description": "Welcome to BITROCK! An NFTs project exists in bit cosmos!\n\rAt the moment of global world powers with proven ability are launching rockets, and seeking sovereignty over space; tech giants are undertaking massive space missions that lead to progressive overuse of orbits, however, all these unparalleled feats seem out of us space lovers' reach. For the sake of our shared ownership of the universe, we created the BITROCK world - a parallel universe that exists in the bit cosmos. Following the Web3 spirit, every space enthusiast is provided with the same power in BITROCK.",
+    "external_url": "https://bitrock.cc/#/tokens/v1/1",
+    "youtube_url": "",
+    "attributes": [
+      {
+        "trait_type": "Diameter",
+        "value": 127.56
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Orbital Altitude",
+        "max_value": 20,
+        "value": "10"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Orbital Angle",
+        "max_value": 179,
+        "value": "51"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Orbital Period",
+        "max_value": 100,
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Rotation Period",
+        "max_value": 100,
+        "value": 1
+      },
+      {
+        "trait_type": "Parent",
+        "value": "EARTH"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": "1653676871"
+      }
+    ],
+    "image": "ipfs://bafybeibccvplfbhbgdo2zyg5ddjxiajfctbsho4qg3thu3jxm4yrixno3u/1.png"
+  }
+}

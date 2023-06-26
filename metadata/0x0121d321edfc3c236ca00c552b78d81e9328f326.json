@@ -1,0 +1,44 @@
+{
+  "address": "0x0121d321edfc3c236ca00c552b78d81e9328f326",
+  "type": "ERC721",
+  "name": "GoldenDeers",
+  "tokenCount": "248",
+  "uri": "https://goldendeers.io/metadata/1",
+  "metadata": {
+    "id": 1,
+    "name": "Golden Deer #1",
+    "description": "",
+    "dna": "0bc0d6c1188c5b37a74ef96e9c6baf7f7dd5a8df",
+    "image": "https://hirschennft-assets-dev.s3.eu-central-1.amazonaws.com/0bc0d6c1188c5b37a74ef96e9c6baf7f7dd5a8df.png",
+    "attributes": [
+      {
+        "trait_type": "Hintergrund",
+        "value": "lila"
+      },
+      {
+        "trait_type": "Grundform",
+        "value": "KoerperNuance02"
+      },
+      {
+        "trait_type": "Kleidung",
+        "value": "Blazerschwarz"
+      },
+      {
+        "trait_type": "Augen/Schnauze",
+        "value": "Farbe9Sus"
+      },
+      {
+        "trait_type": "Kopfbedeckung/Geweih",
+        "value": "Geweihgrau SommersprossenGlatze"
+      },
+      {
+        "trait_type": "Mund",
+        "value": "Zweizähne"
+      },
+      {
+        "trait_type": "Nase",
+        "value": "Nasenormal"
+      }
+    ]
+  }
+}

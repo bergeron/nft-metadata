@@ -1,0 +1,34 @@
+{
+  "address": "0x6fd5ebf530b5ad4930314dcecbb230a8eb5f7af3",
+  "type": "ERC721",
+  "name": "PhD Anonymous Mintbase",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=SFZzKUaUIrSGREJH5DaQ",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2FUnknown.png?alt=media&token=6c24a418-9383-4b5b-b4fc-24efc81bc19d",
+    "isForSale": true,
+    "minter": "0x3f46680099cF623163C96747a8ADdB85a1dA1Cd1",
+    "price": "0.01",
+    "name": "nbb",
+    "contractAddress": "0x6fD5eBF530B5aD4930314dcECbb230A8eB5F7AF3",
+    "description": "mnbnmbmnbn",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "value": "nbb",
+        "trait_type": "item"
+      },
+      {
+        "value": 2,
+        "trait_type": "level"
+      },
+      {
+        "display_type": "number",
+        "value": 1,
+        "trait_type": "generation"
+      }
+    ],
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x6fD5eBF530B5aD4930314dcECbb230A8eB5F7AF3/SFZzKUaUIrSGREJH5DaQ"
+  }
+}

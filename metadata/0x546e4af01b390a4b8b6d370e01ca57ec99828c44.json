@@ -1,0 +1,23 @@
+{
+  "address": "0x546e4af01b390a4b8b6d370e01ca57ec99828c44",
+  "type": "ERC721",
+  "name": "NFT",
+  "tokenCount": "459",
+  "uri": "https://api-v2.bbrc.io/nft-metadata/heedong-blindbox/1",
+  "metadata": {
+    "name": "HeeDong Blindbox #1",
+    "image": "https://cdn.bbrc.io/heedong-blindbox/images/unrevealed.jpg",
+    "attributes": [
+      {
+        "trait_type": "Revealed",
+        "value": "False"
+      }
+    ],
+    "description": "",
+    "animation_url": "https://cdn.bbrc.io/heedong-blindbox/images/unrevealed.gif",
+    "collections": {
+      "slug": "heedong-blindbox"
+    },
+    "tokenId": 1
+  }
+}

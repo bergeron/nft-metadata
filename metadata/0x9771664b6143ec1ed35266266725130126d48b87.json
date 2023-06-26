@@ -1,0 +1,72 @@
+{
+  "address": "0x9771664b6143ec1ed35266266725130126d48b87",
+  "type": "ERC721",
+  "name": "kjsadfkljldasf900",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/365000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "365000001",
+    "series": "N/A",
+    "aspect_ratio": 0.82,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Stains on a Canvas #1",
+    "minted": true,
+    "artist": "Omar Lobato",
+    "description": "This project is an exercise in simplicity, simulating stains of ink made through points and noise. \n\nSince creating art with code, I’ve wanted to reproduce the physical with the digital. \nStains On A Canvas emerged from this desire to produce a hand-made canvas painting. \n\nStains On A Canvas’s background textures use points or grids, and the algorithm explores the maximum difference between each iteration. The collection is divided into styles, named after popular flowers in my country [Brazil]. Colors are randomly generated to create unique tones paired with the variety of shades and shadows.\n\n\n\n\n\n-Press from 1 - 9 in your keyboard to adjust the pixelDensity and increase/equalize the resolution quality according to your screen.\n\n-Press \"S\" to save a .png file in the resolution quality you choose.",
+    "script_type": "p5@1.0.0",
+    "project_id": "365",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/365000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/365000001.png",
+    "generator_url": "https://generator.artblocks.io/365000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/365000001",
+    "royaltyInfo": {
+      "artistAddress": "0x740da587b33cc378940c24cf81fd188ceca1dd20",
+      "additionalPayee": "0x75256caab1976d18e1048bc9f406f298b9430622",
+      "additionalPayeePercentage": 10,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Stains on a Canvas by Omar Lobato",
+    "website": null,
+    "token_hash": "0x2b9ba0cba9eba0e76006d8c8c6af323b67e2c4f948fa349d555af8c4720f5248",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/365/tokens/365000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/365000001",
+    "features": {
+      "Style": "Dente-de-leão",
+      "Stains Type": "Mix between Varied and Common",
+      "Canvas Color": "BlanchedAlmond",
+      "Canvas Texture": "Points",
+      "Some RGB Stain?": false
+    },
+    "traits": [
+      {
+        "trait_type": "Stains on a Canvas",
+        "value": "All Stains on a Canvas"
+      },
+      {
+        "trait_type": "Stains on a Canvas",
+        "value": "Style: Dente-de-leão"
+      },
+      {
+        "trait_type": "Stains on a Canvas",
+        "value": "Stains Type: Mix between Varied and Common"
+      },
+      {
+        "trait_type": "Stains on a Canvas",
+        "value": "Canvas Color: BlanchedAlmond"
+      },
+      {
+        "trait_type": "Stains on a Canvas",
+        "value": "Canvas Texture: Points"
+      },
+      {
+        "trait_type": "Stains on a Canvas",
+        "value": "Some RGB Stain?: false"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

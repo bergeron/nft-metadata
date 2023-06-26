@@ -1,0 +1,39 @@
+{
+  "address": "0xac8167ab915cfa9bfafdee7f8d0ff6c198f9c230",
+  "type": "ERC721",
+  "name": "Nomadzland Destinations",
+  "tokenCount": "544",
+  "uri": "ipfs://QmW1KsUAckQxYKE7XqcjtfDccLbanXK5TcSiSEZfLUR7Q8/1.json",
+  "metadata": {
+    "name": "Destination/Ambassador #1",
+    "description": "Tourist Destinations who shares revenue every time somebody books",
+    "image": "ipfs://QmaAnzqPeeZmNZnp9Qm4xt8ndJRutKcAAV2aEKNocGRJMz/1.jpg",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "country",
+        "value": "Belgium"
+      },
+      {
+        "trait_type": "place",
+        "value": "Ghent"
+      },
+      {
+        "trait_type": "Population",
+        "value": "259,083"
+      },
+      {
+        "trait_type": "Yearly visitors",
+        "value": "1,500,000"
+      },
+      {
+        "trait_type": "Surface",
+        "value": "156,2 km²"
+      },
+      {
+        "trait_type": "Ambassador",
+        "value": false
+      }
+    ]
+  }
+}

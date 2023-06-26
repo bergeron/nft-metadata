@@ -1,0 +1,40 @@
+{
+  "address": "0x26dffb6d78dd4b7a528ff8af62702598e09631ef",
+  "type": "ERC721",
+  "name": "BLUNKS",
+  "tokenCount": "500",
+  "uri": "ipfs://QmPhNgAmo92Mnw2zbRyoebYCVz77Uqb1ZtNuGYVsYnsy61/1.json",
+  "metadata": {
+    "name": "BLUNK #1",
+    "description": "BLUNKS - Blinking Punks blunks is not affiliated with Larva Labs.",
+    "external_url": "",
+    "image": "https://ipfs.io/ipfs/QmRgUAnxJTKxiZ4XkdJahjPfSnb2hbXX99VTFHMphQXYj2/1.gif",
+    "attributes": [
+      {
+        "trait_type": "BASE",
+        "value": "alien"
+      },
+      {
+        "trait_type": "accessory",
+        "value": "pipe"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Blinking Punks (BLUNKS)",
+      "family": "Blinking Punks (BLUNKS)"
+    },
+    "symbol": ""
+  }
+}

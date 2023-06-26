@@ -1,0 +1,25 @@
+{
+  "address": "0x867dcc2a70605b1626a901062fa5fef474410d50",
+  "type": "ERC721",
+  "name": "Medium CC",
+  "tokenCount": "6",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x867dcc2a70605b1626a901062fa5fef474410d50/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x867dCC2A70605B1626a901062fA5Fef474410d50/icon?id=1",
+    "expiration": 1586733472,
+    "tokenId": "1",
+    "owner": "0x25bc1fd16ee28430ec632fa42235d32634002746",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1586733472
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x867dCC2A70605B1626a901062fA5Fef474410d50",
+    "network": 1
+  }
+}

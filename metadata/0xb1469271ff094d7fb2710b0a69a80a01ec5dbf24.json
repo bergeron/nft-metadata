@@ -1,0 +1,42 @@
+{
+  "address": "0xb1469271ff094d7fb2710b0a69a80a01ec5dbf24",
+  "type": "ERC721",
+  "name": "Deez Nuts (Official Nuts)",
+  "tokenCount": "10000",
+  "uri": "https://storage.googleapis.com/deeznutsnft/final/Nut1.json",
+  "metadata": {
+    "description": "NUT #1",
+    "image": "https://storage.googleapis.com/deeznutsnft/final/Nut1.png",
+    "name": "NUT #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Nuts"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Short Dreads"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Nut Buster"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "E Earring"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Role",
+        "value": "Floor Manager"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "address": "0x7dd4e7cea7b45a294ddc774edd6dddcbec52ddab",
+  "type": "ERC1155",
+  "name": "CollectionTest4348521777",
+  "tokenCount": "3",
+  "uri": "https://legoman1314.github.io/nft-testing/1.json",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "base",
+        "value": "goldfish"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "big"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "surprised"
+      },
+      {
+        "trait_type": "level",
+        "value": 5
+      },
+      {
+        "trait_type": "stamina",
+        "value": 1.4
+      },
+      {
+        "trait_type": "personality",
+        "value": "sad"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "aqua_power",
+        "value": 30
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "stamina_increase",
+        "value": 15
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 2
+      }
+    ],
+    "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+    "external_url": "https://example.com/?token_id=41801569192534563623203241611989776437306712780997871030699002302234548785245",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/41801569192534563623203241611989776437306712780997871030699002302234548785245.png",
+    "name": "Captain McCoy"
+  }
+}

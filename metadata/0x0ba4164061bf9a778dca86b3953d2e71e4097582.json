@@ -1,0 +1,50 @@
+{
+  "address": "0x0ba4164061bf9a778dca86b3953d2e71e4097582",
+  "type": "ERC721",
+  "name": "Backers Art",
+  "tokenCount": "20",
+  "uri": "https://backers-art-metadata.onrender.com/json/1",
+  "metadata": {
+    "name": " #1",
+    "description": "",
+    "image": "ipfs://QmVwJ95unH5cxBNpkm4yG4oGeTjgJEfTBxbZYHJTbFFLMZ/1.png",
+    "dna": "96aa4d3c1a4ec17a5de4cdc5a7055405277acd0d",
+    "edition": 1,
+    "date": 1683250014447,
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Runway"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Julie"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Surprised Blue"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Skirt"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Brown Long"
+      },
+      {
+        "trait_type": "Footwear",
+        "value": "Blue Shoes"
+      },
+      {
+        "trait_type": "Animal",
+        "value": "Rhino"
+      },
+      {
+        "trait_type": "Background",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

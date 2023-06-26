@@ -1,0 +1,63 @@
+{
+  "address": "0x755de5182c3cc3d2365970050228a911059ef68e",
+  "type": "ERC721",
+  "name": "primum opus",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/1_C9AtG1WqJZwQTcDFwoLd1RZI76yzzy2zzS8aMUB9s",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1643978597
+      },
+      {
+        "trait_type": "Creator",
+        "value": "chilingo"
+      }
+    ],
+    "description": "Saint Petersburg, Russia\r\n2018",
+    "external_url": "https://cxip.io/nft/0x755de5182c3cc3d2365970050228a911059ef68e/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/GY-k19-K2CbwmGD-VeXJ4V2EKk50qVZSzwE5wCWhNuk",
+    "imageUrl": "https://arweave.net/GY-k19-K2CbwmGD-VeXJ4V2EKk50qVZSzwE5wCWhNuk",
+    "name": "It's not as hard as you think...#1",
+    "properties": {
+      "created_at": "2022-02-04T12:43:17.000000Z",
+      "creator_wallet": "0x332af6e7c39276a5a83da16ae3576ba3508c5bce",
+      "description": "Saint Petersburg, Russia\r\n2018",
+      "image": "https://arweave.net/GY-k19-K2CbwmGD-VeXJ4V2EKk50qVZSzwE5wCWhNuk",
+      "imageUrl": "https://arweave.net/GY-k19-K2CbwmGD-VeXJ4V2EKk50qVZSzwE5wCWhNuk",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "4 February 2022",
+      "name": "It's not as hard as you think...#1",
+      "nft_type": "non-fungible image token (image/jpeg)",
+      "preview_media_file": "https://arweave.net/jitZVQzRSoSP6ukIYinXO57vjhAomVijXmWqGvapIpI",
+      "preview_media_file_dimensions": "538x360",
+      "preview_media_file_size": 90103,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "3872x2592",
+      "raw_media_file": "https://arweave.net/xvXDqlSJbgrl9x6N1g9SrBiOLFBS4IPrJVlDLYTnqk8",
+      "raw_media_file_size": 2714191,
+      "raw_media_file_spec": "JPEG 3872x2592 3872x2592+0+0 8-bit sRGB 2.58845MiB 0.000u 0:00.000",
+      "raw_media_file_type": "image/jpeg",
+      "raw_media_format": "landscape",
+      "raw_media_signature": "0x888d6ef331dd56b4fd53fdc6bced8d7751e279fb95190e5e3040bdec7ed1e165",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/jitZVQzRSoSP6ukIYinXO57vjhAomVijXmWqGvapIpI",
+      "thumb_media_file_type": "image/jpg",
+      "title": "It's not as hard as you think...#1",
+      "total_supply": 1
+    },
+    "title": "It's not as hard as you think...#1"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "address": "0xdf0f0a5508aa4f506e5bdc8c45c8879e6e80d3e4",
+  "type": "ERC721",
+  "name": "HelpMeDebugThis",
+  "tokenCount": "855",
+  "uri": "ipfs://QmcE6nDokYJQKHs36hfbC96MuF61MsHodfy7SamvYNy7nw/1.json",
+  "metadata": {
+    "name": "Help Me Debug This #1",
+    "description": "Something is fundamentally wrong. H3lp M3 D3bu8 Th15!",
+    "image": "ipfs://QmS3g1MArz2x45SNjYmADoeVdrP7wkH9qAZGksEAQrSKJk/1.png",
+    "edition": "1",
+    "date": 5832334023,
+    "attributes": [
+      {
+        "trait_type": "Bug",
+        "value": "OutOfBound"
+      },
+      {
+        "trait_type": "Language",
+        "value": "Rust"
+      },
+      {
+        "trait_type": "Home",
+        "value": "Shanghai"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Alien"
+      }
+    ]
+  }
+}

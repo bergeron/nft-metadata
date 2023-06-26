@@ -1,0 +1,42 @@
+{
+  "address": "0xfbed4c6d0c80910bca8cb6333c1bed07ac0076fe",
+  "type": "ERC721",
+  "name": "BonesNFT",
+  "tokenCount": "14",
+  "uri": "ipfs://QmZzHGpnC4yyT1JYrGmRmVuMF8qYFTp1GisizJhcvYvnvR/1.json",
+  "metadata": {
+    "name": "Bone #1",
+    "description": "1111 Bones which act as tickets into the Bones community.",
+    "image": "ipfs://QmRv3c5aEKhwjERG1W2YqyCngSHRcRw84fvbE3pr4Ej1BB/1.png",
+    "dna": "1b66a1eff67574c79f382fe329773511b34fdbc8",
+    "edition": 1,
+    "date": 1635712034441,
+    "attributes": [
+      {
+        "trait_type": "Scene",
+        "value": "Bliss"
+      },
+      {
+        "trait_type": "Skull",
+        "value": "Dusty"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hollow"
+      },
+      {
+        "trait_type": "Head Top",
+        "value": "Cap"
+      },
+      {
+        "trait_type": "Curse",
+        "value": "None"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Tear"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

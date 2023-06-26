@@ -1,0 +1,51 @@
+{
+  "address": "0x8312baffb7b86361e2aaa3d927c182710540986f",
+  "type": "ERC721",
+  "name": "COOLRPOP",
+  "tokenCount": "8",
+  "uri": "https://cdn-api.niftykit.com/reveal/d0y1MYxW0UsS9UEqrRTB/1",
+  "metadata": {
+    "name": "COOLRPOP #1",
+    "description": "We are COOLRPOP, simple COOL and POP ICE POPS!",
+    "image": "ipfs://bafybeiavoafhv5jafjayhngubvardkqf4tim2yzfrs6axmnwsu5ci5kvd4/1.png",
+    "edition": 1,
+    "date": 1675530752571,
+    "attributes": [
+      {
+        "trait_type": "POP.BASE",
+        "value": "WHITE_POP+COLOR_BK (63)"
+      },
+      {
+        "trait_type": "CHEEKS",
+        "value": "EMPTY"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "EYES (64)"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "SMILE"
+      },
+      {
+        "trait_type": "BACKGROUND",
+        "value": "BIG WHITE HEARTS"
+      },
+      {
+        "trait_type": "ARMS",
+        "value": "ARMS OPEN"
+      },
+      {
+        "trait_type": "HATS",
+        "value": "EMPTY"
+      },
+      {
+        "trait_type": "FRAME",
+        "value": "EMPTY"
+      }
+    ],
+    "compiler": "HashLips Art Engine",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0x6B876Df54A13d75126B28befb394677ea2fb4777"
+  }
+}

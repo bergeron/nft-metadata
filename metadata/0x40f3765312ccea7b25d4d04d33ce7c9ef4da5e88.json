@@ -1,0 +1,43 @@
+{
+  "address": "0x40f3765312ccea7b25d4d04d33ce7c9ef4da5e88",
+  "type": "ERC721",
+  "name": "Krakenlanders",
+  "tokenCount": "30",
+  "uri": "ipfs://QmNg8XeHABnttfqKnGYJFRR2sQNkX7q2MNPa2YjAJ456w4/1.json",
+  "metadata": {
+    "name": "KrazyKraken #1",
+    "description": "KrazyKraken #1 is standing in front of a red wall, having a sad look and an orange and violet colored body. It is wearing a turkey hat while holding a cigarette on the left.",
+    "image": "ipfs://Qma6YD7Hn9UpmRDSpL2Yjr3K5yK4BRD6SBncJop391YN4n/1.png",
+    "custom_fields": {
+      "dna": "499809bd4307b1a0746b716a0d1cd21e9f3f250a",
+      "edition": 1,
+      "date": 1646181749152,
+      "compiler": "HashLips Art Engine",
+      "rarity": 570
+    },
+    "external_url": "https://nft.merchkraken.com",
+    "collection_name": "KrazyKraken",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "red wall"
+      },
+      {
+        "trait_type": "Body",
+        "value": "orange and violet colored"
+      },
+      {
+        "trait_type": "Left Hand",
+        "value": "cigarette"
+      },
+      {
+        "trait_type": "Face",
+        "value": "sad look"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "turkey hat"
+      }
+    ]
+  }
+}

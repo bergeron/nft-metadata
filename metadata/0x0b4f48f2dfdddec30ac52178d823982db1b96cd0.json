@@ -1,0 +1,54 @@
+{
+  "address": "0x0b4f48f2dfdddec30ac52178d823982db1b96cd0",
+  "type": "ERC721",
+  "name": "TurtlesNFTs",
+  "tokenCount": "340",
+  "uri": "https://bafybeihcpmjrygq6rojnmfxwbwvzjuyxxei2rcwppwuaa54ofqhljj4ji4.ipfs.dweb.link/1.json",
+  "metadata": {
+    "name": "TurtleNFT #1",
+    "description": "Turtles what we all know and what we all love! #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Body"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "White"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Armour",
+        "value": "Wooden & wooden arms"
+      },
+      {
+        "trait_type": "Weapons",
+        "value": "Twin katana & banana"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bubble gum"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0xFDD8455ae72c1139D2AdF6CE02b5c2AaB0f48c31",
+        "share": 100
+      }
+    ],
+    "collection": {
+      "name": "TurtlesNFTs",
+      "family": "Turtle Ninjas"
+    },
+    "symbol": "TTs",
+    "seller_fee_basis_points": 5,
+    "image": "https://bafybeiawgpehov2ddhxqe4eafx4e5fhl7d36abb7ldh4snn7nxlvixm6l4.ipfs.dweb.link/1.png"
+  }
+}

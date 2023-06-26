@@ -1,0 +1,30 @@
+{
+  "address": "0xa60cd9f1ad86dc9ef2875fdb75c23e6f7776c8b4",
+  "type": "ERC721",
+  "name": "Nothing Burger",
+  "tokenCount": "208",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmT6bC8Z8dXH3yYN9uMwyFXJDsoNbKvZ8Xq8aHW3ViWGLC/1",
+  "metadata": {
+    "name": "Nothing Burger",
+    "description": "No patty, no lettuce, no sauce. Just a bun",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPRC4giNY98yZfbx42JwkeVt8Nuud9N2MkMZwdKmKyr59",
+    "attributes": [
+      {
+        "trait_type": "Bun",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Patty",
+        "value": "No"
+      },
+      {
+        "trait_type": "Lettuce",
+        "value": "No"
+      },
+      {
+        "trait_type": "Sauce",
+        "value": "No"
+      }
+    ]
+  }
+}

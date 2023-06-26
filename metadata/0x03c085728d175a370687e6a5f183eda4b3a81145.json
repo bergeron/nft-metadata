@@ -1,0 +1,37 @@
+{
+  "address": "0x03c085728d175a370687e6a5f183eda4b3a81145",
+  "type": "ERC721",
+  "name": "Refract Team",
+  "tokenCount": "2",
+  "uri": "ipfs://QmZp4YNhqc6K36aH9S5htkxrKCsbXtiKuDMEdTLRDuPqcu",
+  "metadata": {
+    "name": "Nish",
+    "description": "Solving the existence trilemma (live, love, laugh)",
+    "image": "ipfs://QmWKWnBde4sRYq9X6azjzXTn52GFxiWi85q1KuBbh2J1HY",
+    "attributes": [
+      {
+        "trait_type": "Title",
+        "value": "Assistant (to the) Regional Code Monkey"
+      },
+      {
+        "trait_type": "Coding",
+        "value": 1,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Catan",
+        "value": 87,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Couch Potato-ing",
+        "value": 99,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Twitter Handle",
+        "value": "@nishthenomad"
+      }
+    ]
+  }
+}

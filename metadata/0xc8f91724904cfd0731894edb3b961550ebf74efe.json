@@ -1,0 +1,36 @@
+{
+  "address": "0xc8f91724904cfd0731894edb3b961550ebf74efe",
+  "type": "ERC721",
+  "name": "Monsteria",
+  "tokenCount": "500",
+  "uri": "https://data.monsteria.xyz/metadata/1",
+  "metadata": {
+    "name": "Monsteria #1",
+    "description": "There are 3,333 unique monsters left here. Hundreds of these monsters have different traits. Food got very hard to find in Monsteria. therefore some monster became aggresive, while some others became very coward.",
+    "image": "https://data.monsteria.xyz/images/1.png",
+    "animation_url": "https://data.monsteria.xyz/images/1.png",
+    "external_url": "https://monsteria.xyz/",
+    "attributes": [
+      {
+        "trait_type": "Accessories",
+        "display_type": "string",
+        "value": "Crystal"
+      },
+      {
+        "trait_type": "Color",
+        "display_type": "string",
+        "value": "Colourful"
+      },
+      {
+        "trait_type": "Eyes",
+        "display_type": "string",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Humor",
+        "display_type": "string",
+        "value": "Fighter"
+      }
+    ]
+  }
+}

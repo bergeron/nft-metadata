@@ -1,0 +1,45 @@
+{
+  "address": "0xe634d0f34f9bf10f986f3f0e9a0287d6a72a2c29",
+  "type": "ERC721",
+  "name": "cryptoys 3d",
+  "tokenCount": "5",
+  "uri": "https://arweave.net/0HAEZjJEyLE_6JHJ3n15CFtpYJO8wmUg8FR7ROHkCCo",
+  "metadata": {
+    "name": "pepe toy",
+    "created_by": "marto",
+    "description": "pepe toy 3d genesis",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "marto"
+      },
+      {
+        "trait_type": "figure",
+        "value": "pepe"
+      }
+    ],
+    "animation_details": {
+      "bytes": 1515932,
+      "format": "MP4",
+      "duration": 6,
+      "sha256": "a7c888c427c3636f0e5e94ea19b5333d5331cc72ebade6d16c2a36081cb6088b",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/WHq30za3o4cc7jd3PHss3p4tUPBsY6gBYrRhO5If1jM",
+    "animation_url": "https://arweave.net/WHq30za3o4cc7jd3PHss3p4tUPBsY6gBYrRhO5If1jM",
+    "image_details": {
+      "bytes": 295314,
+      "format": "JPEG",
+      "sha256": "76904606adf16e36a9f50f36345e20c48d40d80c7d406fdb2a844716ac3b4c8e",
+      "width": 1080,
+      "height": 1080
+    },
+    "image": "https://arweave.net/_aE1ofcylrHdvYjixEtkPzvh22Psp1LASh6eTKl3NPk",
+    "image_url": "https://arweave.net/_aE1ofcylrHdvYjixEtkPzvh22Psp1LASh6eTKl3NPk"
+  }
+}

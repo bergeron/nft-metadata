@@ -1,0 +1,72 @@
+{
+  "address": "0x7226fa0e625ad8e4963e382d411817a66bf23f8d",
+  "type": "ERC721",
+  "name": "Moon Goons Official",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmW9NmdqXYZJVFfWzMLYjtgza3qfki6qseVLmhxHcp4qiG/1.json",
+  "metadata": {
+    "name": "Moon Goon #1",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://Qmd4BKsRpLyxXWBeU4KTm1jpEVGHNUK7zApApR6v5YK6V4/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Trippy2"
+      },
+      {
+        "trait_type": "Body Color",
+        "value": "Golden"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Mk.1"
+      },
+      {
+        "trait_type": "Chest",
+        "value": "JackPot"
+      },
+      {
+        "trait_type": "Helmets",
+        "value": "Mk.1"
+      },
+      {
+        "trait_type": "Helmet Colors",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Visors",
+        "value": "Pizza The Hut"
+      },
+      {
+        "trait_type": "Accessories ",
+        "value": "Howdy Metal"
+      },
+      {
+        "trait_type": "Antennas",
+        "value": "Mk.1"
+      },
+      {
+        "trait_type": "Antenna Tops",
+        "value": "Bitcoin"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Moon Goons",
+      "family": "Moon Goons"
+    },
+    "symbol": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "address": "0x32019192e2839d49d6b100d8191cd3347df7018a",
+  "type": "ERC721",
+  "name": "WITN MEMBERSHIP PASS",
+  "tokenCount": "2",
+  "uri": "https://witn.io/metadata.json",
+  "metadata": {
+    "description": "You will use the Membeship Pass as the key to enter the world of WITN.io",
+    "external_url": "https://witn.io/",
+    "image": "https://witn.io/witn_pass.png",
+    "name": "Membership Pass",
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Membership Pass"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      }
+    ]
+  }
+}

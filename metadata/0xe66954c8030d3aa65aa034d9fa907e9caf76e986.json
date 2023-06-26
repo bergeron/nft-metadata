@@ -1,0 +1,48 @@
+{
+  "address": "0xe66954c8030d3aa65aa034d9fa907e9caf76e986",
+  "type": "ERC721",
+  "name": "CryptoSkateboards V2",
+  "tokenCount": "9",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=VOKdMqiI0b8cxSVZRlOZuQQCJV5UmBmwWBaXyP9jj3w",
+  "metadata": {
+    "minter": "0x2c4469d16a86989c15741fb13ad583166ef0895a",
+    "mintedOn": "2020-09-11T19:43:49.107Z",
+    "contractAddress": "0xe66954c8030d3aa65aa034d9fa907e9caf76e986",
+    "minted": "Minted on Mintbase.io",
+    "fiatPrice": "$166.48",
+    "name": "CryptoSkateboards Tape One",
+    "description": "First clip from CryptoSkateboards Tapes series. Art and performing by Marko Zubak.  \nTrick: switch kickflip, Pula, Croatia. ",
+    "youtube_url": "",
+    "price": 0,
+    "ethPrice": "0.45",
+    "amountToMint": 1,
+    "visibility": "safe",
+    "forSale": true,
+    "image": "https://arweave.net/JoQyIbRjpu0gtBFETa2okxn2_LeYOOMdCHuwI4OcWSY",
+    "attributes": [
+      {
+        "trait_type": "location",
+        "value": "Pula, Croatia"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJbXszCd7SfEcRDVhOezpKMnI"
+      },
+      {
+        "trait_type": "zoom",
+        "value": 9
+      },
+      {
+        "trait_type": "website",
+        "value": "https://www.cryptovoxels.com/parcels/1746"
+      },
+      {
+        "trait_type": "I",
+        "value": "SwFlip2016"
+      }
+    ],
+    "category": "alJuInV4dezvHTNU8Dp1",
+    "external_url": "https://mintbase.io/my-market/0xe66954c8030d3aa65aa034d9fa907e9caf76e986",
+    "type": "ERC721"
+  }
+}

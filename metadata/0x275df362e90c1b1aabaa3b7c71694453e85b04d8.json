@@ -1,0 +1,46 @@
+{
+  "address": "0x275df362e90c1b1aabaa3b7c71694453e85b04d8",
+  "type": "ERC1155",
+  "name": "AI Music Videos by GummyLSD",
+  "tokenCount": "10",
+  "uri": "https://arweave.net/JP1AIkRpHbZse1equ9ScO1YUWgWq3uCL2BvRnrQY9HQ",
+  "metadata": {
+    "name": "World So Strange",
+    "created_by": "GummyLSD",
+    "external_url": "http://lsdgb.com",
+    "description": "AI Created Music Video using Jukebox for the audio track and VQGAN+Clip scripted with Audio Keyframes for the video. \n\nI edited the AI audio track in Adobe Audition and AI videos in After Effects.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "GummyLSD"
+      },
+      {
+        "trait_type": "Music Video",
+        "value": "Audio and Video Created via AI"
+      }
+    ],
+    "animation_details": {
+      "bytes": 282740886,
+      "format": "MP4",
+      "duration": 120,
+      "sha256": "7640ca57666fabd4f5f1b3f4484264595d6e23272afda4ef5c1a0057975734bc",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/SqFHhfT9cwqDh8PgS9nuCHxwOWjbVLaKBjAI0YyxWIg",
+    "animation_url": "https://arweave.net/SqFHhfT9cwqDh8PgS9nuCHxwOWjbVLaKBjAI0YyxWIg",
+    "image_details": {
+      "bytes": 5324781,
+      "format": "PNG",
+      "sha256": "7272c168562c2c0295f12daa7e3bac0d89de5cf299afe01e62e700d8f0845bf6",
+      "width": 3072,
+      "height": 1728
+    },
+    "image": "https://arweave.net/Wzwe-CO2ffD8POgDaHwmKha_vKFUUNQ_aIrH2AS-uiw",
+    "image_url": "https://arweave.net/Wzwe-CO2ffD8POgDaHwmKha_vKFUUNQ_aIrH2AS-uiw"
+  }
+}

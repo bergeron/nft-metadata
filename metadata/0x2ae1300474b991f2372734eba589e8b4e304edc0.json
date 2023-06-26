@@ -1,0 +1,42 @@
+{
+  "address": "0x2ae1300474b991f2372734eba589e8b4e304edc0",
+  "type": "ERC721",
+  "name": "tiny pepes (eth)",
+  "tokenCount": "4444",
+  "uri": "ipfs://bafybeieze557ofvh4vwz6xce3fk36kmelkgpl6u4bsk3ovxmc3qiyqvdui/1.json",
+  "metadata": {
+    "name": "tiny pepe #1",
+    "description": "one of 4k cc0 tiny pepes minted out across 7 different chains.",
+    "image": "ipfs://bafybeieocu22pd4kbhf2hwokk6csvhcxg53jie4n6tqpihknua5hgqeqjq/1.png",
+    "dna": "12e68bd35fb8d4f106dc69d02174e5b6472c633c",
+    "edition": 1,
+    "date": 1659250660355,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pepe",
+        "value": "Green Popo"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Left"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Clean"
+      }
+    ],
+    "compiler": "Pepe"
+  }
+}

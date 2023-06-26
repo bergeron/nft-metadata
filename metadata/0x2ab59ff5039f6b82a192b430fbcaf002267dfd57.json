@@ -1,0 +1,54 @@
+{
+  "address": "0x2ab59ff5039f6b82a192b430fbcaf002267dfd57",
+  "type": "ERC721",
+  "name": "CORNZ NFT",
+  "tokenCount": "3425",
+  "uri": "ipfs://bafybeihx5sajf6wwddhvkdcy2cw7vs4wyoicqd4ytlhhifk5xhcor7kooa/1.json",
+  "metadata": {
+    "name": "Cornz #1",
+    "description": "CORNZ are small species of cereal plants growing in the garden. But they can also evolve.",
+    "image": "ipfs://bafybeidgchhueu6bymj2eocszptw4boos7hdrjzhfybx4olf3fnjsdvxnq/1.png",
+    "dna": "153849c54e991c78b41b6fa8dbb359c40444bb17",
+    "edition": 1,
+    "date": 1665186679590,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Plant",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Cornz",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Leaves",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Buck Tooth"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Wand"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cpt Corn"
+      }
+    ],
+    "compiler": "CORNZ"
+  }
+}

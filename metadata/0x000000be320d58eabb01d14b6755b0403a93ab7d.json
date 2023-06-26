@@ -1,0 +1,48 @@
+{
+  "address": "0x000000be320d58eabb01d14b6755b0403a93ab7d",
+  "type": "ERC721",
+  "name": "YuGiOhCard",
+  "tokenCount": "700",
+  "uri": "ipfs://QmXagot22CqnxsrtARpvsYfAMXbjR3PwqN2iHWjiwcb4dm/1",
+  "metadata": {
+    "name": "Limit Reverse",
+    "description": "Target 1 monster with 1000 or less ATK in your Graveyard; Special Summon it in Attack Position. If the target is changed to Defense Position, destroy it and this card. When this card leaves the field, destroy the target. When the target is destroyed, destroy this card.",
+    "external_url": "https://ygocard.org",
+    "image": "ipfs://QmaGZ1rt1y5YS8eNAVqykiihTVAmn7FAm5EdKeHwmbTBun",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "trap"
+      },
+      {
+        "trait_type": "Attribute",
+        "value": "light"
+      },
+      {
+        "trait_type": "Icon",
+        "value": "continuous"
+      },
+      {
+        "trait_type": "CardType",
+        "value": "normal"
+      },
+      {
+        "trait_type": "CardType",
+        "value": "normal"
+      },
+      {
+        "trait_type": "Level",
+        "value": 0
+      },
+      {
+        "trait_type": "Rank",
+        "value": 0,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Password",
+        "value": "00027551"
+      }
+    ]
+  }
+}

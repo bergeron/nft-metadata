@@ -1,0 +1,53 @@
+{
+  "address": "0x5035fe91e99f29ab26d14d37f64f833dc7c09e72",
+  "type": "ERC721",
+  "name": "abcxyz123",
+  "tokenCount": "1",
+  "uri": "ipfs://QmPmsBqRsG4Nkexa1fLhQjkPYM7oaLZpuWZ1aDQRVL5TbM/1.json",
+  "metadata": {
+    "name": "Death@Space #1",
+    "description": "Death@Space is unique and brave team of 10,000 astronauts who were on a mission to colonize the Solar System, which unfortunately encountered Dark Energy thus turning all 10,000 into Death for the Solar System",
+    "image": "ipfs://QmUTDaXo6iNn7HazkoRx2EneepYkwvtzk1emBooFL8Bc1i/1.png",
+    "dna": "a971499ede2794b04e7f540899e22f0385f5308e",
+    "edition": 1,
+    "date": 1646187942395,
+    "external_url": "http://deathatspace.com/",
+    "seller_fee_basis_points": 500,
+    "collection": {
+      "name": "Death@Space",
+      "family": "Death@Space Family"
+    },
+    "properties": {
+      "files": {
+        "url": "image.png",
+        "type": "image/png"
+      }
+    },
+    "category": "image",
+    "creators": [
+      {
+        "address": "0x241267378C00b493c5f8D26eebD81beC8Ad556f9",
+        "share": 100
+      }
+    ],
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow Rhyme100"
+      },
+      {
+        "trait_type": "Suits",
+        "value": "AirForce100"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "Black Teeth100"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blood Eyes100"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

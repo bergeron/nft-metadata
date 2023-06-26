@@ -1,0 +1,27 @@
+{
+  "address": "0xd4383afcc4de7c044cf920dbac35cefe7d3b609a",
+  "type": "ERC721",
+  "name": "Bi123 Community Pass",
+  "tokenCount": "13",
+  "uri": "https://www.bi123.co/crypto-web/nft/metadata/4001713867215/1",
+  "metadata": {
+    "name": "Bi123 Annually Community Pass Card #1",
+    "description": "Bi123 Annually Community Pass Card",
+    "image": "https://www.bi123.co/crypto-web/nft/image/4001713867215/1",
+    "attributes": [
+      {
+        "trait_type": "Bi123CommunityPass",
+        "value": "www.bi123.co"
+      },
+      {
+        "trait_type": "StartDate",
+        "value": "04/24/2023"
+      },
+      {
+        "trait_type": "EndDate",
+        "value": "04/23/2024"
+      }
+    ],
+    "compiler": "bi123.co"
+  }
+}

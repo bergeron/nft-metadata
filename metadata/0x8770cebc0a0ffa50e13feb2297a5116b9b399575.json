@@ -1,0 +1,29 @@
+{
+  "address": "0x8770cebc0a0ffa50e13feb2297a5116b9b399575",
+  "type": "ERC721",
+  "name": "Gold Membership",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x8770cebc0a0ffa50e13feb2297a5116b9b399575/1",
+  "metadata": {
+    "name": "Gold Membership",
+    "description": "Gold Membership is a lock created using contracts from Unlock Labs. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://storage.unlock-protocol.com/4664809b-022c-49bd-8813-e1f5498a2210",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1715082660
+      }
+    ],
+    "background_color": "000000",
+    "expiration": 1715082660,
+    "tokenId": "1",
+    "owner": "0xd1d866a50ed814d3b89ac38c93690ba92f1bc852",
+    "userMetadata": {
+      "public": {}
+    },
+    "keyId": "1",
+    "lockAddress": "0x8770cEbc0A0FFa50E13FEB2297A5116b9b399575",
+    "network": 1
+  }
+}

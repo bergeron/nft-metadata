@@ -1,0 +1,51 @@
+{
+  "address": "0xb6400d91a1bee48797fe7647db9401d44fd16f8f",
+  "type": "ERC721",
+  "name": "qwerqewr6",
+  "tokenCount": "500",
+  "uri": "https://api.artblocks.io/token/2000001 ",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "2000001",
+    "series": 1,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Construction Token #1",
+    "minted": true,
+    "artist": "Jeff Davis",
+    "description": "Each Construction Token is unique and contains a randomized seed that determines the composition of the artwork. This includes the number, orientation, and placement of rectangles, as well as the color selections. Most tokens are monochromatic, with occasional light or dark variants. In some cases, the script will produce a token using complementary colors.",
+    "script_type": "processing-js@1.4.6",
+    "project_id": "2",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 1",
+    "image": "https://media-proxy.artblocks.io/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/2000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/2000001.png",
+    "generator_url": "https://generator.artblocks.io/2000001",
+    "royaltyInfo": {
+      "artistAddress": "0x7d42611012fdbe366bf4a0481fc0e1abf15e245a",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Construction Token by Jeff Davis",
+    "website": "https://www.jeffgdavis.com/",
+    "token_hash": "0x99d81607bf567b73d2ec1f0e32267bec05b2b9def04a456a8d1534803d460442",
+    "external_url": "https://artblocks.io/collections/curated/projects/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/2/tokens/2000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/2000001.png",
+    "features": {
+      "Variant": "Standard"
+    },
+    "traits": [
+      {
+        "trait_type": "Construction Token",
+        "value": "All Construction Tokens"
+      },
+      {
+        "trait_type": "Construction Token",
+        "value": "Variant: Standard"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC 4.0"
+  }
+}

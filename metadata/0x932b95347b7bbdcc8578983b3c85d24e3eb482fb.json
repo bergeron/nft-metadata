@@ -1,0 +1,44 @@
+{
+  "address": "0x932b95347b7bbdcc8578983b3c85d24e3eb482fb",
+  "type": "ERC721",
+  "name": "Brewer's Can",
+  "tokenCount": "500",
+  "uri": "https://cdn-api.niftykit.com/reveal/iaFv9tGooI7whVLOVnst/1",
+  "metadata": {
+    "name": "CityBeer - Brewer's #1",
+    "description": "Your pass to all things CityBeer",
+    "file_url": "https://nftstorage.link/ipfs/bafybeiad2cynfznj5sg6mdhyets7e4xqftnupsq6227h5u6636c67irr6e/1.gif",
+    "image": "https://nftstorage.link/ipfs/bafybeiad2cynfznj5sg6mdhyets7e4xqftnupsq6227h5u6636c67irr6e/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Beer Style",
+        "value": "Light Lager "
+      },
+      {
+        "trait_type": "ABV",
+        "value": "9% "
+      },
+      {
+        "trait_type": "Hops",
+        "value": "Nelson "
+      },
+      {
+        "trait_type": "Tag",
+        "value": "Superior Quality "
+      },
+      {
+        "trait_type": "Can",
+        "value": "Brewer's"
+      }
+    ],
+    "custom_fields": {
+      "dna": "f7624bd9c6d50f1aac3ea15946a4e003f30f2fa3",
+      "edition": 1,
+      "date": 1661392493673,
+      "compiler": "HashLips Art Engine - codeSTACKr Modified"
+    },
+    "external_url": "https://citybeer.io",
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x6a131556F3F295cCec45076c7bA6260c8a0De29D"
+  }
+}

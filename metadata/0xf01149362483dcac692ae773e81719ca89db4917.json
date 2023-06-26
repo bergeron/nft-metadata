@@ -1,0 +1,43 @@
+{
+  "address": "0xf01149362483dcac692ae773e81719ca89db4917",
+  "type": "ERC721",
+  "name": "Fincake NFT Uncommon",
+  "tokenCount": "10",
+  "uri": "https://fincake-metadata-provider.s3.eu-north-1.amazonaws.com/uncommon/public/metadata/1.json",
+  "metadata": {
+    "name": "Shark #1",
+    "symbol": "",
+    "description": "NFT Shark for fincake.io DAO",
+    "image": "https://fincake-metadata-provider.s3.eu-north-1.amazonaws.com/uncommon/public/assets/1.png",
+    "image_url": "https://fincake-metadata-provider.s3.eu-north-1.amazonaws.com/uncommon/public/assets/1.png",
+    "external_url": "https://fincake.io",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Fincake.io Shark NFT"
+      },
+      "description": {
+        "type": "string",
+        "description": "Allow access to Fincake DAO and other privileges"
+      },
+      "image": {
+        "type": "string",
+        "description": "Exclusive shark image"
+      },
+      "rarity": {
+        "type": "string",
+        "description": "UNCOMMON"
+      }
+    },
+    "attributes": [
+      {
+        "trait_type": "Shark quality",
+        "value": "UNCOMMON"
+      }
+    ],
+    "collection": {
+      "name": "Shark UNCOMMON",
+      "family": "Fincake"
+    }
+  }
+}

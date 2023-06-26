@@ -1,0 +1,31 @@
+{
+  "address": "0x9474a8bb3923775a8a9b94d05abee7f23b933c30",
+  "type": "ERC721",
+  "name": "NakaRicans",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeidtnij4p7aglvrdnzyitnhlosangv4ydmwjwkjzs4vwlne2pz57gq/1",
+  "metadata": {
+    "name": "NakaRicans ",
+    "description": "NakaRicans NFT",
+    "image": "ipfs://bafkreicsppkokrqpchf43pxmxs3bfkzkziot73ax35owqtroogalqne5hy/2.png",
+    "attributes": [
+      {
+        "trait_type": "TEE",
+        "value": "PR"
+      },
+      {
+        "trait_type": "GEAR",
+        "value": "Robo Glasses"
+      },
+      {
+        "trait_type": "SKIN",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "BACKGROUND",
+        "value": "Blue"
+      }
+    ],
+    "compiler": "HeyMint CSV-to-Metadata Converter (heymint.xyz)"
+  }
+}

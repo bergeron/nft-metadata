@@ -1,0 +1,50 @@
+{
+  "address": "0x2bf8cf12df50fff4e6f2135ed91a9ec06b9a385b",
+  "type": "ERC1155",
+  "name": "Artifex Experiences",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/SvaeAx1mHMh2VtrqwFdN6p1_KoiUbfmPdZxHhNVG1tA",
+  "metadata": {
+    "name": "Artifex Origins",
+    "created_by": "Artifex",
+    "external_url": "https://artifex.art/artifex-origins/0gen",
+    "description": "Artifex Origins, Generation 0. Only 15 will ever be minted. Holders of this Origin are reserved one (1) private sale of each Artifex 3D sculpture immediately upon release - no raffle entry required. Additional benefits and access unlock as Artifex evolves.",
+    "attributes": [
+      {
+        "trait_type": "Creator",
+        "value": "Artifex"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Gen 0"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Origins Pass"
+      }
+    ],
+    "image_details": {
+      "bytes": 1565479,
+      "format": "PNG",
+      "sha256": "398db67890605e08a32feeb896e833e9224a84db868e057d49f1da9117b9e8fd",
+      "width": 3000,
+      "height": 3000
+    },
+    "image": "https://arweave.net/ZG53n7RjRM4DJFA8qT_cKox3uxopWX5dCpFm4qZdCho",
+    "image_url": "https://arweave.net/ZG53n7RjRM4DJFA8qT_cKox3uxopWX5dCpFm4qZdCho",
+    "animation_details": {
+      "bytes": 8280818,
+      "format": "MP4",
+      "duration": 8,
+      "sha256": "badc2bb65bfdfaae43c6b086d17d608bc12caad6ec4b8de3999f9991fa7d126d",
+      "width": 3000,
+      "height": 3000,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/MOepz6VzXxG_b-WXxZKo5RiRtUYM4QHr6vc87FKCtL0",
+    "animation_url": "https://arweave.net/MOepz6VzXxG_b-WXxZKo5RiRtUYM4QHr6vc87FKCtL0"
+  }
+}

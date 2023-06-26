@@ -1,0 +1,72 @@
+{
+  "address": "0x77c1e2decc1ed3ba9ea35da7d44bdebb29c6ed73",
+  "type": "ERC721",
+  "name": "Lean Panda",
+  "tokenCount": "5",
+  "uri": "ipfs://QmdrpULodKK2BY65eMaGzsLJN4kjNx1t99oEAtNcemsEjW/1.json",
+  "metadata": {
+    "dna": "a6d9a90d15b8bbaf188c3583ba7835ecb82958e3",
+    "name": "Lean Panda #1",
+    "description": "THE FIRST NFT WAR! PANDA NFT WAR! There are 3330 homies in the collection. Lean Panda believe that the main thing in life is to have fun and do what they want. They do not like pandas from the collection Protein Panda and believe that they spend their lives on stupidity limiting pleasure. They treat the pandas from the collection Between Panda calmly, at least they do not condemn them. WHOSE SIDE ARE YOU ON?!",
+    "image": "ipfs://QmYnEZaL8VhUwvmNENP2JjgxXUTEn1eLr4mpgfZCCn2TFv/1.png",
+    "edition": 1,
+    "date": 1659267326431,
+    "symbol": "Lean Panda",
+    "seller_fee_basis_points": 250,
+    "external_url": "",
+    "collection": {
+      "name": "Lean Panda",
+      "family": ""
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xB70cB8D16Cf480F199F2aF9d494e2E56C2869121",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink wall"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Purple cap"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Uncomprehending"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Winking"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Legs",
+        "value": "Green shorts"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Without clothes"
+      },
+      {
+        "trait_type": "Tube",
+        "value": "Dark gray"
+      }
+    ],
+    "compiler": "by compiler"
+  }
+}

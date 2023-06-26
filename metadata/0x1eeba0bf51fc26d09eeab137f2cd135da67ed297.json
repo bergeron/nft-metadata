@@ -1,0 +1,24 @@
+{
+  "address": "0x1eeba0bf51fc26d09eeab137f2cd135da67ed297",
+  "type": "ERC721",
+  "name": "Check My Flag",
+  "tokenCount": "13",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIkNoZWNrIE15IEZsYWcgIzIiLCAiZXh0ZXJuYWxfdXJsIjogImh0dHBzOi8vY2hlY2tteWZsYWcuYXJ0IiwgImRlc2NyaXB0aW9uIjogIkFsbCBmbGFncyBhcmUgbm90YWJsZSEiLCAiYXR0cmlidXRlcyI6W3sidHJhaXRfdHlwZSI6ICJGbGFnIiwgInZhbHVlIjogIkF1c3RyaWEifSx7ImRpc3BsYXlfdHlwZSI6ICJib29zdF9udW1iZXIiLCAidHJhaXRfdHlwZSI6ICJDb3VudGVyIiwgInZhbHVlIjogMX1dLCAiaW1hZ2VfdXJsIjogImlwZnM6Ly9iYWZ5YmVpYndsaGQzZ2ZpeWRiNTR5cmdvZ3ZtNWNyY29ra2F2Ymx6anE1Z2dvZnlpdnpkYnRpZDZ1aS83Mi5wbmcifQ==",
+  "metadata": {
+    "name": "Check My Flag #2",
+    "external_url": "https://checkmyflag.art",
+    "description": "All flags are notable!",
+    "attributes": [
+      {
+        "trait_type": "Flag",
+        "value": "Austria"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Counter",
+        "value": 1
+      }
+    ],
+    "image_url": "ipfs://bafybeibwlhd3gfiydb54yrgogvm5crcokkavblzjq5ggofyivzdbtid6ui/72.png"
+  }
+}

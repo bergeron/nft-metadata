@@ -1,0 +1,41 @@
+{
+  "address": "0xe0dc1e0fcc1f39fd8ead7106d57b01334f95347f",
+  "type": "ERC721",
+  "name": "Bearache",
+  "tokenCount": "958",
+  "uri": "https://api-services.bearache.com/api/v1/sys/metadata/1",
+  "metadata": {
+    "name": "Bearache #1",
+    "description": "Your First Digital Friend in Metaverse",
+    "image": "https://dyl5c3kx0qjwc.cloudfront.net/3836.jpg",
+    "seller_fee_basis_points": 250,
+    "fee_recipient": "0x8fC84505dE9C51c577130760fd3F7B3682777BCC",
+    "external_url": "https://www.bearache.com",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orchid"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Terminator"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Ultrabear"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Dorabmon"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "Swimwear"
+      },
+      {
+        "trait_type": "Leg",
+        "value": "Girl"
+      }
+    ]
+  }
+}

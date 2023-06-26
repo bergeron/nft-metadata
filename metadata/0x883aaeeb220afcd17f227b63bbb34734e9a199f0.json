@@ -1,0 +1,35 @@
+{
+  "address": "0x883aaeeb220afcd17f227b63bbb34734e9a199f0",
+  "type": "ERC721",
+  "name": "Moonling Guardians",
+  "tokenCount": "25",
+  "uri": "ipfs://QmPn6xFusuTnqW4yvDKWeJtkUqYHxKnZ44YpgRLthoNRNk/1.json",
+  "metadata": {
+    "id": 1,
+    "name": "Guardian #1 | Glaze",
+    "description": "Moonlings Guardians",
+    "image": "https://ipfs.io/ipfs/QmeWoV8Kd1tZihP2XWbwptzkt65F6jtM6P69jraDoFrDiW",
+    "attributes": [
+      {
+        "trait_type": "Guardian #",
+        "value": "1"
+      },
+      {
+        "trait_type": "Name",
+        "value": "Glaze"
+      },
+      {
+        "trait_type": "Identity",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Ice"
+      },
+      {
+        "trait_type": "Power",
+        "value": "Frost"
+      }
+    ]
+  }
+}

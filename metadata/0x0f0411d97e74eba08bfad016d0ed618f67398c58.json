@@ -1,0 +1,68 @@
+{
+  "address": "0x0f0411d97e74eba08bfad016d0ed618f67398c58",
+  "type": "ERC721",
+  "name": "HashBrown NFT",
+  "tokenCount": "455",
+  "uri": "ipfs://Qmar25YVqvysbmrkyP3MCt13o8vMCSpEA516tGehEBxPpb/1.json",
+  "metadata": {
+    "name": "HashBrown NFT #2",
+    "symbol": "HB",
+    "description": "Hash into another reality",
+    "seller_fee_basis_points": 1000,
+    "image": "ipfs://QmbsbrU4GFmEVpbDJWfdnyez3MQKs683b3bBYqrHEBe2NA/1.png",
+    "external_url": "https://hashbrownnft.com/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Brown Clouds"
+      },
+      {
+        "trait_type": "Special",
+        "value": "Good Vs Evil"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Mango"
+      },
+      {
+        "trait_type": "Upper Body",
+        "value": "70S Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Mango Beanie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "60S Specs"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Juicy"
+      },
+      {
+        "trait_type": "Noise",
+        "value": "Noise"
+      }
+    ],
+    "collection": {
+      "name": "HashBrown NFT",
+      "family": "Hashbrown NFT Generator"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0f0411d97E74eBa08bfaD016d0ED618f67398c58",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

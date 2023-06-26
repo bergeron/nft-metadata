@@ -1,0 +1,24 @@
+{
+  "address": "0xe42c0dd275df284d1c00c90d247a1b4aa35b19b8",
+  "type": "ERC721",
+  "name": "ElseVerse Dragon Egg",
+  "tokenCount": "500",
+  "uri": "https://api.elseverse.io/nft/dragon-egg/1",
+  "metadata": {
+    "name": "Dragon egg #1",
+    "image": "https://elseverse.io/assets/images/nft/epic-dragon-egg.png",
+    "animation_url": "https://s3.eu-west-2.amazonaws.com/cdn-front.elseverse.io/2023/ELSEVERSE_MARKETING_EGG360_YELLOW11.mov",
+    "description": "Dragon egg of the ElseVerse metaverse.",
+    "external_url": "https://elseverse.io/",
+    "attributes": [
+      {
+        "trait_type": "id",
+        "value": 1
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Epic"
+      }
+    ]
+  }
+}

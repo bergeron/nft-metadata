@@ -1,0 +1,48 @@
+{
+  "address": "0xa7f767865fce8236f71adda56c60cf2e91dadc00",
+  "type": "ERC721",
+  "name": "Infinites AI",
+  "tokenCount": "512",
+  "uri": "https://infinites.s3.us-east-2.amazonaws.com/json/1.json",
+  "metadata": {
+    "animation_url": "https://www.infinites.ai/preview/1",
+    "image": "https://infinites.s3.us-east-2.amazonaws.com/images/Infinites01.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Blue Matt"
+      },
+      {
+        "trait_type": "Type of Painting",
+        "value": "Abstraction"
+      },
+      {
+        "trait_type": "Augmentation Type",
+        "value": "Landscape"
+      },
+      {
+        "trait_type": "Residual Style",
+        "value": "Seascape"
+      },
+      {
+        "trait_type": "Base Speed",
+        "value": "0.08"
+      },
+      {
+        "trait_type": "Noise Scale",
+        "value": "0.7"
+      },
+      {
+        "trait_type": "Fluidity",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Soft"
+      }
+    ],
+    "name": "Infinite #1",
+    "external_url": "https://www.infinites.ai/collection/1",
+    "base": "30"
+  }
+}

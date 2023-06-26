@@ -1,0 +1,38 @@
+{
+  "address": "0xddf142fb37a4ef956780670bb7f93d809703c37d",
+  "type": "ERC721",
+  "name": "Warbox",
+  "tokenCount": "427",
+  "uri": "ipfs://QmUh7kaALd5oewaA9uQZqmhVXwgCuKAukFVTSzXYcrj4Cp/1.json",
+  "metadata": {
+    "name": "Warbox #1",
+    "description": "Collection Warbox: A set of 500 pieces representing one unique box",
+    "image": "ipfs://QmP4NGCKao1DaUMdLPGXDb233Gti9C9YyM7GzcoqNSMv6z/1.png",
+    "attributes": [
+      {
+        "trait_type": "Area",
+        "value": "29"
+      },
+      {
+        "trait_type": "Volume",
+        "value": "6"
+      },
+      {
+        "trait_type": "Grid",
+        "value": "5x5"
+      },
+      {
+        "trait_type": "N",
+        "value": "10"
+      },
+      {
+        "trait_type": "Body",
+        "value": "steelblue"
+      },
+      {
+        "trait_type": "Outsider",
+        "value": "10"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "address": "0xb8dde984c709fe9258d4406e4a53074d015923d7",
+  "type": "ERC721",
+  "name": "DryadesNFT",
+  "tokenCount": "18",
+  "uri": "https://dryades-dao.s3.amazonaws.com/erc721-token-metadata/1.json",
+  "metadata": {
+    "name": "Dryades Token #1",
+    "description": "Dryades Acorn Honey",
+    "image": "https://dryades-dao.s3.amazonaws.com/erc721-token-metadata/dryades-1-thumb.jpg",
+    "external_url": "https://dryades-dao.s3.amazonaws.com/erc721-token-metadata/dryades-1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Material",
+        "value": "Honey"
+      }
+    ]
+  }
+}

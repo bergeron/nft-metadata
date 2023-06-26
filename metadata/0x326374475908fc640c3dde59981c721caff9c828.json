@@ -1,0 +1,71 @@
+{
+  "address": "0x326374475908fc640c3dde59981c721caff9c828",
+  "type": "ERC1155",
+  "name": "Wincity Paris Grande Chaumiere",
+  "tokenCount": "1111",
+  "uri": "https://www.wincity.com/api/metadata/WincityParisGrandeChaumiere/1",
+  "metadata": {
+    "type": "object",
+    "title": "La table des copains",
+    "description": "The Holy Grail, a single card, to get even more earnings!",
+    "image": "https://cdn.wincity.com/asset/WincityParisGrandeChaumiere/cards/1.png",
+    "name": "UNIQUE #1",
+    "external_url": "https://www.wincity.com/fr-FR/assets/WincityParisGrandeChaumiere/cards/1",
+    "attributes": [
+      {
+        "trait_type": "Earned capital",
+        "value": 3023.3,
+        "description": "Total of the win capital reward accumulated on the card.",
+        "display_type": "boost_number",
+        "max_value": 3023.3
+      },
+      {
+        "trait_type": "Estimated capital gain",
+        "value": 0,
+        "description": "Total of the win capital gain reward accumulated on the card.",
+        "display_type": "boost_number",
+        "max_value": 0
+      },
+      {
+        "trait_type": "Available rewards (ETH)",
+        "value": 0.022119,
+        "description": "Total of the win cash reward accumulated on the card, in ethereum.",
+        "display_type": "boost_number",
+        "max_value": 0.022119
+      },
+      {
+        "trait_type": "Annual Win Capital",
+        "value": "2579",
+        "description": "estimated annual capital",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Annual Win Capital Gain",
+        "value": "0",
+        "description": "estimated annual capital gain",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Annual Win Cash",
+        "value": "88",
+        "description": "estimated annual reward",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "type",
+        "value": "UNIQUE",
+        "description": "Identifier that give the type of the card: regular, rare, mythic, unique or history."
+      },
+      {
+        "trait_type": "tier",
+        "value": "TIER_3",
+        "description": "Identifier that give the type of the asset card tier: star, tier 1, tier 2 or tier 3."
+      },
+      {
+        "trait_type": "physical claimed",
+        "value": "YES",
+        "description": "If Physical card is already claimed or not"
+      }
+    ]
+  }
+}

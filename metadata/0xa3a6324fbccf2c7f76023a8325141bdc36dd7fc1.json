@@ -1,0 +1,31 @@
+{
+  "address": "0xa3a6324fbccf2c7f76023a8325141bdc36dd7fc1",
+  "type": "ERC721",
+  "name": "TeddyBatz",
+  "tokenCount": "357",
+  "uri": "https://teddybits.world/api/batz/1",
+  "metadata": {
+    "id": 2,
+    "name": "TeddyBatz #2",
+    "description": "Mystery creature from TeddyBitz universe. They will fly through the darkest night to give you the cutiest bite.",
+    "image": "https://storage.googleapis.com/teddybatz/gif/002.gif",
+    "attributes": [
+      {
+        "trait_type": "Skin",
+        "value": "Yellow",
+        "dna": 3
+      },
+      {
+        "trait_type": "Head",
+        "value": "Flower",
+        "dna": 17
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Heart",
+        "dna": 15
+      }
+    ],
+    "animation_url": "https://storage.googleapis.com/teddybatz/gltf/Bat_002.gltf"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "address": "0xdf463759da0ca0eefeb7003c0c6bc6ceefdfdd7f",
+  "type": "ERC721",
+  "name": "TEST 721 - 1",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/8uMvD7-V-XveDC2Tp0_Gx3ASof3xrNe75GQD81wcpuk",
+  "metadata": {
+    "created_by": "TEST DEPLOYER DAOZ",
+    "name": "Entropy",
+    "description": "Entropy is sick",
+    "Hiden ": "Is it really hiden ?",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "TEST DEPLOYER DAOZ"
+      },
+      {
+        "trait_type": "TExt",
+        "value": "Entroyis so sick"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Number ",
+        "value": 1,
+        "max_value": 2000
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Boost number ",
+        "value": 1,
+        "max_value": 2000
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Boost percent ",
+        "value": 1,
+        "max_value": 2000
+      }
+    ],
+    "image_details": {
+      "bytes": 65214,
+      "format": "JPEG",
+      "sha256": "920e9ca7b99bfc48d6a7ffa9e5e2929e350fd055318d2acb585fb7e78fca912b",
+      "width": 400,
+      "height": 400
+    },
+    "image": "https://arweave.net/vcczBHBL17ZRFIk6JwwykYE1ZmvSlcKNdPIdNH_XZy0",
+    "image_url": "https://arweave.net/vcczBHBL17ZRFIk6JwwykYE1ZmvSlcKNdPIdNH_XZy0"
+  }
+}

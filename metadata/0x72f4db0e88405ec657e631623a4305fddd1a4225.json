@@ -1,0 +1,20 @@
+{
+  "address": "0x72f4db0e88405ec657e631623a4305fddd1a4225",
+  "type": "ERC721",
+  "name": "HW3 Membership Pass",
+  "tokenCount": "500",
+  "uri": "https://api.passage.xyz/passport/metadata/1/0x72f4db0e88405ec657e631623a4305fddd1a4225/1",
+  "metadata": {
+    "name": "HW3 Membership Pass",
+    "description": "House of Web3 (HW3) is the first retail platform fractionally owned by its community of artists, innovators and creators. We offer custom collaborations that combine digital assets and collectibles with physical art, jewelry and apparel. We represent the confluence of the digital and physical world in fashion and art allowing our members to earn increased access and share of profits through participation.",
+    "image": "https://metadata.passage.xyz/passport/hw3/image/1.gif",
+    "animation_url": "https://metadata.passage.xyz/passport/hw3/image/1.gif",
+    "external_url": "https://passage.xyz",
+    "attributes": [
+      {
+        "trait_type": "Rank",
+        "value": "Creator"
+      }
+    ]
+  }
+}

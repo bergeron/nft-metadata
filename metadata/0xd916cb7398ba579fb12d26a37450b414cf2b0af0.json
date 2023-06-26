@@ -1,0 +1,131 @@
+{
+  "address": "0xd916cb7398ba579fb12d26a37450b414cf2b0af0",
+  "type": "ERC721",
+  "name": "1217sadfweqr",
+  "tokenCount": "300",
+  "uri": "https://api.artblocks.io/token/395000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "395000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Implications #1",
+    "minted": true,
+    "artist": "ixnayokay",
+    "description": "__*Implications*__ explores the symmetry of a chaotic system in motion. Each output contains a selection of geometric shapes that slide, twist, and resize over time. Their intersections divide the canvas into two regions, each with its own set of rules for generating mathematical textures. As predictable geometry and chaotic automata intersect and evolve, a variety of organic and artificial patterns emerge. Gradually, the colors and rules shift, and new forms appear. Through a series of carefully reflected changes, symmetry persists.\n\nEach animation is constructed from large virtual pixels. By varying their scale, spacing, and alignment a variety of patterns are generated — ranging from a pixel art aesthetic to one with softer, larger-scale structures. Where does a tiny pixel end, and the emergent whole it’s a part of begin?\n\nBuilding on the foundation laid in __*mono no aware*__ and __*Zoologic*__, __*Implications*__ continues the work of making the beautiful complexity of cellular automata visible and accessible. New techniques for optimization, color generation, and constraint selection -- along with simplifications to features and interactive controls -- place focus squarely on an endless and compelling animated experience.\n\n__*Implications*__ is a meditative work best experienced over the course of at least a few minutes. Put on some music, full-screen the live view, and enjoy the show! What sorts of symmetry do you see? What sorts of shapes and textures are there, and how do they move? For viewers who would like to customize the detail level, frame rate, and other aspects of the viewing experience, press **[H]** to open a menu describing the available keyboard controls.",
+    "script_type": "js@na",
+    "project_id": "395",
+    "curation_status": "presents",
+    "image": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/395000001.gif",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/395000001.gif",
+    "generator_url": "https://generator.artblocks.io/395000001",
+    "animation_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/395000001",
+    "royaltyInfo": {
+      "artistAddress": "0x5e8a9afad6225118ed0f4c1fe944924262fe61c4",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Implications by ixnayokay",
+    "website": "https://www.ixnayokay.art/post/introducing-implications",
+    "token_hash": "0x14b5d90ace72fd3a8ab65e404bb95f4e6a539b34f54b5031f81c39e4743b1e0f",
+    "external_url": "https://artblocks.io/collections/presents/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/395/tokens/395000001",
+    "primary_asset_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/395000001",
+    "features": {
+      "Blur": "Low",
+      "Palette": "Mu",
+      "Symmetry": "Reflection (Left-Right)",
+      "Topology": "Toroidal",
+      "Block Size": "Medium",
+      "Shape Type": "Square",
+      "Circle Type": "Four",
+      "Color Drift": "Off",
+      "Pixel Style": "Large and Normal (Digital)",
+      "Slider Type": "Moment of Reflection",
+      "Animation Style": "Kaleidoscope",
+      "Asymmetry Filter": "Off",
+      "Sweep Left-Right": "Off",
+      "Sweep Top-Bottom": "Off",
+      "Circle Pulse Rate": "Slow",
+      "Starting Placement": "Double-cross",
+      "Shape Rotation Speed": "Fast"
+    },
+    "traits": [
+      {
+        "trait_type": "Implications",
+        "value": "All Implications"
+      },
+      {
+        "trait_type": "Implications",
+        "value": "Blur: Low"
+      },
+      {
+        "trait_type": "Implications",
+        "value": "Palette: Mu"
+      },
+      {
+        "trait_type": "Implications",
+        "value": "Symmetry: Reflection (Left-Right)"
+      },
+      {
+        "trait_type": "Implications",
+        "value": "Topology: Toroidal"
+      },
+      {
+        "trait_type": "Implications",
+        "value": "Block Size: Medium"
+      },
+      {
+        "trait_type": "Implications",
+        "value": "Shape Type: Square"
+      },
+      {
+        "trait_type": "Implications",
+        "value": "Circle Type: Four"
+      },
+      {
+        "trait_type": "Implications",
+        "value": "Color Drift: Off"
+      },
+      {
+        "trait_type": "Implications",
+        "value": "Pixel Style: Large and Normal (Digital)"
+      },
+      {
+        "trait_type": "Implications",
+        "value": "Slider Type: Moment of Reflection"
+      },
+      {
+        "trait_type": "Implications",
+        "value": "Animation Style: Kaleidoscope"
+      },
+      {
+        "trait_type": "Implications",
+        "value": "Asymmetry Filter: Off"
+      },
+      {
+        "trait_type": "Implications",
+        "value": "Sweep Left-Right: Off"
+      },
+      {
+        "trait_type": "Implications",
+        "value": "Sweep Top-Bottom: Off"
+      },
+      {
+        "trait_type": "Implications",
+        "value": "Circle Pulse Rate: Slow"
+      },
+      {
+        "trait_type": "Implications",
+        "value": "Starting Placement: Double-cross"
+      },
+      {
+        "trait_type": "Implications",
+        "value": "Shape Rotation Speed: Fast"
+      }
+    ],
+    "is_static": false,
+    "license": "CC By-NC-SA 4.0"
+  }
+}

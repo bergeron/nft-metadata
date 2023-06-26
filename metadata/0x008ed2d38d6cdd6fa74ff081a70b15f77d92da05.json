@@ -1,0 +1,38 @@
+{
+  "address": "0x008ed2d38d6cdd6fa74ff081a70b15f77d92da05",
+  "type": "ERC721",
+  "name": "Pixel Cat Club Collection",
+  "tokenCount": "1500",
+  "uri": "ipfs://QmWtrp3BbrwqHpbe6UPXTyCNDwkUD2m3TYinboBHwmBYVe/1.json",
+  "metadata": {
+    "dna": "e42d120f2fa6250aed8b4f9891b3e173f01bdea5",
+    "name": "#1",
+    "description": "PixelCatClub a Collection of Cat$ living on the Ethereum BlockChain",
+    "image": "ipfs://QmdnNGpq3sSdQ4ctVd7j6RkD7YooYfsXRjxTTUj1U7yrq5/1.png",
+    "edition": 1,
+    "date": 1643303112867,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bright Orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green & Blue"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Big Mouths"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Frown Green"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Lolly"
+      }
+    ],
+    "compiler": "PixelCatClub"
+  }
+}

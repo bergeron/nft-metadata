@@ -1,0 +1,42 @@
+{
+  "address": "0x98e5a99e5ac34c0d2075b248f9f6aaa0a439ed0a",
+  "type": "ERC721",
+  "name": "Ostrich Bob",
+  "tokenCount": "1000",
+  "uri": "ipfs://QmdZySbA7FpqoDEg9dDfUvPYecbkjKyKFNKSZL23bzdmJR/1.json",
+  "metadata": {
+    "name": "Ostrich Bob #1",
+    "description": "",
+    "image": "ipfs://QmU5pieRqyhRgMW3hBvr5Vm2cK9AMNeC23vas9yWjr2Lrd/1.png",
+    "dna": "21fc4b03215411d2b34a6b0a5e029963b4d54c9d",
+    "edition": 1,
+    "date": 1659424644675,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Aqua"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Indian Vest"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Miner Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleeping"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

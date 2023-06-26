@@ -1,0 +1,21 @@
+{
+  "address": "0xce701559597256f49a4fcd4489ca85db6172eb95",
+  "type": "ERC721",
+  "name": "FaceArt",
+  "tokenCount": "3",
+  "uri": "https://us-central1-affiliate-program-1792e.cloudfunctions.net/getTokenMetadata/nft/1",
+  "metadata": {
+    "date": 1682189188,
+    "image": "https://faceartnft.b-cdn.net/nft/battery/negative.png",
+    "name": "FaceArt #1",
+    "description": "FaceArt by TheArtist",
+    "edition": 1,
+    "attributes": [
+      {
+        "value": "Negative",
+        "trait_type": "Energy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

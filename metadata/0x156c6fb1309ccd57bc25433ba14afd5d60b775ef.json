@@ -1,0 +1,42 @@
+{
+  "address": "0x156c6fb1309ccd57bc25433ba14afd5d60b775ef",
+  "type": "ERC1155",
+  "name": "Pamo",
+  "tokenCount": "1",
+  "uri": "ipfs://Qmb8ZC8yj3XSJSRCiQ6h5qa5Zp5U6HEaUxcTHKmGADJaEm/_metadata%20Kopie.json",
+  "metadata": {
+    "description": "erstes Sportwagen-NFT von PAMO - dem Supercar Hub am Bodensee",
+    "image": "ipfs://QmY9A1eCfuS6knbGf6s1eXrg3vsUzxiysodqh5KoAUh6kg/GT3%20RS.jpg",
+    "name": "PAMO Porsche 991.2 GT3RS",
+    "attributes": [
+      {
+        "trait_type": "Manufacturer",
+        "value": "Porsche"
+      },
+      {
+        "trait_type": "Model",
+        "value": "GT3 RS"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Lizard Green"
+      },
+      {
+        "trait_type": "Horsepower",
+        "value": "520"
+      },
+      {
+        "trait_type": "Engine",
+        "value": "6 Cylinder Boxer"
+      },
+      {
+        "trait_type": "Special",
+        "value": "Weissach Package"
+      },
+      {
+        "trait_type": "PAMO Number",
+        "value": "403"
+      }
+    ]
+  }
+}

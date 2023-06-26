@@ -1,0 +1,39 @@
+{
+  "address": "0xdf0eab397e42424c914aae524049d18852af530e",
+  "type": "ERC721",
+  "name": "ChievMint",
+  "tokenCount": "38",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=OM2frLcssMBN4YoutROf",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1575657018440?alt=media&token=0225fed4-5544-4446-bcbb-580100ebec3f",
+    "isForSale": true,
+    "description": "This achievement was minted for Peter 'pet3rpan' \nin recognition of the sacrifices he made in \nmemeing the MetaCartel into reality.",
+    "contractAddress": "",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted//OM2frLcssMBN4YoutROf",
+    "minter": "0xB53b0255895c4F9E3a185E484e5B674bCCfbc076",
+    "mintedOn": {
+      "_seconds": 1575657039,
+      "_nanoseconds": 476000000
+    },
+    "price": "0",
+    "name": "Summoner of MetaCartel DAO",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Summoner of MetaCartel DAO"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "id": null
+  }
+}

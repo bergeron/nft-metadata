@@ -1,0 +1,31 @@
+{
+  "address": "0x8f2a7af7aaf33ffe4e2c61ee91fde92cecea45dd",
+  "type": "ERC721",
+  "name": "Uniqly Collections",
+  "tokenCount": "2311",
+  "uri": "https://metadata.uniqly.io/api/metadata/collections/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Uniqly.io",
+        "value": "Collection"
+      },
+      {
+        "trait_type": "Physical item",
+        "value": "SOCKS"
+      },
+      {
+        "trait_type": "REDEEMED",
+        "value": "FALSE"
+      }
+    ],
+    "name": "Uniqly Socks #1",
+    "image": "https://d2613m4qfb4tub.cloudfront.net/metadata/other/socks.gif",
+    "external_url": "https://www.uniqly.io/",
+    "description": "Limited Edition UNIQ socks is a reward for the presale participants for holding $UNIQ tokens until 60% of the vesting period. Having them, represent the true Uniqly.io supporters. Each Uniqly NFT is redeemable for the physical item with full Proof of Authenticity.",
+    "data": {
+      "collection": "Uniqly.io",
+      "front": "https://d2613m4qfb4tub.cloudfront.net/metadata/other/socks.gif"
+    }
+  }
+}

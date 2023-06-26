@@ -1,0 +1,97 @@
+{
+  "address": "0x2f09973f0807885b7841288be9f87e15c2bc2e36",
+  "type": "ERC721",
+  "name": "afdsweqr9898",
+  "tokenCount": "208",
+  "uri": "https://api.artblocks.io/token/347000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "347000001",
+    "series": "N/A",
+    "aspect_ratio": 0.666666666666,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Avalon #1",
+    "minted": true,
+    "artist": "r0zk0",
+    "description": "**Avalon is a series of generative maps to imaginary places.** \n\nVisually inspired by vintage textbooks and map collections, Avalon takes a purely aesthetical perspective on the land drop hype and the mythical realm that is the metaverse. \n\nThe practice of mapping the imaginary reaches back to the middle ages and has been particularly popular in the renaissance era. It has always been used as tool to visualize allegories and manifest a sense of longing. In that sense, Avalon can be interpreted as a visualization of a machines wanderlust.\n\nThe series is named after the place where, according to legend, King Arthur is buried. Avalon is referred to in literary sources as an island, valley or field.\n\n**Avalon is a dynamic collection.** Each map is positioned on a virtual globe and will go through 12.5 hour tidal cycles based on a virtual moon orbit. Maps will update every two minutes and to reflect the changing tides. \n\nMap labels show some basic information about each map. They include the map coordinates, maximum elevation and maximum sea depth, a topographic profile of the map and an indication of the current tidal level.\n\n**Avalon is interactive.** Collectors can interact with and customize their maps by using a series of commands that will change some of the basic visual traits of their maps. Maps can be downloaded both as high and low resolution images directly from the art blocks preview.\n\n**Basic commands:**\n‘s’ - save image\n‘i’ - toggle label on or off\n‘m’ - switch between colored and monochrome versions\n‘h’ - render high resolution image\n'r' - refresh image in its original state\n\n**Please make sure the map is active by clicking it before you interact.**\n\nAvalon is limited to 208 mints, one for every sovereign state (based on [this list](https://en.wikipedia.org/wiki/List_of_sovereign_states))",
+    "script_type": "p5@1.0.0",
+    "project_id": "347",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/347000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/347000001.png",
+    "generator_url": "https://generator.artblocks.io/347000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/347000001",
+    "royaltyInfo": {
+      "artistAddress": "0xb034826f216eaa55d366d8d3532d662cdd023ff5",
+      "additionalPayee": "0x97f8f795be7e539b485c46b426d6d2ca1e94ee8c",
+      "additionalPayeePercentage": 100,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Avalon by r0zk0",
+    "website": "http://r0zk0.art",
+    "token_hash": "0xa62c5106f44e07ade356547c48d6545987ab33ff0e9a85b8f9b9caac8e877a80",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/347/tokens/347000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/347000001",
+    "features": {
+      "Grid": "On",
+      "Frame": "On",
+      "Ruler": "Minimal",
+      "Border": "Off",
+      "Colored": "Yes",
+      "Palette": "Falkland",
+      "Terrain": "Random",
+      "Coloring": "Hatch",
+      "Highlights": "Dark",
+      "Line Style": "Print"
+    },
+    "traits": [
+      {
+        "trait_type": "Avalon",
+        "value": "All Avalons"
+      },
+      {
+        "trait_type": "Avalon",
+        "value": "Grid: On"
+      },
+      {
+        "trait_type": "Avalon",
+        "value": "Frame: On"
+      },
+      {
+        "trait_type": "Avalon",
+        "value": "Ruler: Minimal"
+      },
+      {
+        "trait_type": "Avalon",
+        "value": "Border: Off"
+      },
+      {
+        "trait_type": "Avalon",
+        "value": "Colored: Yes"
+      },
+      {
+        "trait_type": "Avalon",
+        "value": "Palette: Falkland"
+      },
+      {
+        "trait_type": "Avalon",
+        "value": "Terrain: Random"
+      },
+      {
+        "trait_type": "Avalon",
+        "value": "Coloring: Hatch"
+      },
+      {
+        "trait_type": "Avalon",
+        "value": "Highlights: Dark"
+      },
+      {
+        "trait_type": "Avalon",
+        "value": "Line Style: Print"
+      }
+    ],
+    "is_static": false,
+    "license": "NFT License 2.0"
+  }
+}

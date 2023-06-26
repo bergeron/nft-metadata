@@ -1,0 +1,45 @@
+{
+  "address": "0x8325d5dc5efe8e5ce2d868d93d72facbb75925c2",
+  "type": "ERC721",
+  "name": "Cosmopolity",
+  "tokenCount": "235",
+  "uri": "https://cosmopolity.art/api/v1/token-metadata/1",
+  "metadata": {
+    "name": "COSMOPOLITY #1",
+    "description": "View #1's' full stylization history at https://cosmopolity.art/planets/1.\n\nCOSMOPOLITY is a creative collection of planets, moons and stars living forever on the blockchain. It is an experiment in NFT programmability & auto-derivation, and plays with the idea of what it means to ‘own’ a work of digital art.\n      \nThe foundational colors and patterns on each celestial body in the collection are created by taking a real planet or moon from our solar system, called the “genesis planet,” and transferring the artistic style of an existing NFT artwork onto its surface with a custom-trained neural AI algorithm.\n\nImagine redrawing the moon in the style of a cartoon, or recreating Mars as a work by Picasso.  In each case, the genesis planet is reimagined in the style of another work of art.\n\nThe particular genesis planet of each piece in the collection is decided deterministically at the time of minting, based on the minter’s Ethereum address.  All secondary celestial characteristics, such as rings, constellations and nebulae, are similarly derived.  These qualities will never change, and are what make each piece unique.\n\nThe owner of a Cosmopolity planet, moon or star may, however, choose to modify the style of their piece at any time, repainting it in the artistic style of any other work of NFT art – so long as it is an NFT they also currently own.\n\nIn some cases these changes will be very subtle, almost unnoticeable to the eye, while in others they will result in a dramatic new look for the entire piece.\n\nHow will you change your planet?\n",
+    "external_url": "https://cosmopolity.art/planets/1",
+    "animation_url": "https://cosmopolity.art/embedded-planets/1",
+    "image": "https://cosmopolity.art/api/v1/thumbnails/planet/1?seed=26256781",
+    "attributes": [
+      {
+        "trait_type": "Class",
+        "value": "Gas Giant"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Mulled Wine"
+      },
+      {
+        "trait_type": "Constellations",
+        "value": "Hieroglyphs"
+      },
+      {
+        "trait_type": "Content Base",
+        "value": "Itokawa"
+      },
+      {
+        "trait_type": "Wobble",
+        "value": "Wobble: No"
+      },
+      {
+        "trait_type": "Rings",
+        "value": "Rings: No"
+      },
+      {
+        "trait_type": "Genesis Mint",
+        "value": "Genesis Mint: Yes"
+      }
+    ],
+    "background_color": "#3a2029"
+  }
+}

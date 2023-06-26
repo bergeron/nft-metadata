@@ -1,0 +1,42 @@
+{
+  "address": "0x82316468c72e3c2b897ea0624d2e7545c4dea9c1",
+  "type": "ERC721",
+  "name": "Empyros NFT",
+  "tokenCount": "16",
+  "uri": "ipfs://QmTXEv3Kxgpdfh54MjGpLUPi4HjCARsYD8Jn26MaHQkaNp/1.json",
+  "metadata": {
+    "name": "Empyros #1",
+    "description": "Empyros NFTs for everyone.",
+    "image": "ipfs://Qmb79BzCKJzxg3P5d9yFDmzmqvCGVfRbHzcY9rJfnbdypu/1.png",
+    "dna": "e2c529a4795bbb6f1aad2d36226e9fa568ee6204",
+    "edition": 1,
+    "date": 1646603475975,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gradient_Yellow"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Lion_Base"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Sad_Face"
+      },
+      {
+        "trait_type": "Bodywear",
+        "value": "Suit"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "No_Eyewear"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "No_Headwear"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0x236e02f54ae508c47c87e65a713af56d439cde25",
+  "type": "ERC721",
+  "name": "ZEE Eggs",
+  "tokenCount": "262",
+  "uri": "https://metadata.zee-verse.com/zee/1",
+  "metadata": {
+    "name": "Zee Egg #1",
+    "description": "ZEE Egg - used to hatch a new ZEE creature.",
+    "external_link": "https://zee-verse.com/",
+    "ID": 1,
+    "attributes": [
+      {
+        "trait_type": "Tribe",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "Rare"
+      }
+    ],
+    "image": "https://metadata.zee-verse.com/zee/images/fire_egg.png"
+  }
+}

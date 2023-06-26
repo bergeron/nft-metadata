@@ -1,0 +1,26 @@
+{
+  "address": "0xe3c47892e6c71e881eaff077664e3055a48f8e27",
+  "type": "ERC721",
+  "name": "Primal Beast",
+  "tokenCount": "1000",
+  "uri": "https://primalbeastmetadata.s3.us-west-1.amazonaws.com/json/1",
+  "metadata": {
+    "name": "Primal Beast #1",
+    "description": "Primal Beasts is an NFT collection of 1000 Genesis Beasts and 2000 breedable baby Beasts conquering the Metaverse. These Beasts are all about community and being good-looking. ALL TRAITS APART FROM THE BODY COLOR ARE CHANGEABLE! ",
+    "image": "https://primalbeastmetadata.s3.us-west-1.amazonaws.com/images/1.gif",
+    "dna": "bd9ae74ba99680bdd779b1fbd1848149e239c755",
+    "edition": 1,
+    "date": 1647120886392,
+    "attributes": [
+      {
+        "trait_type": "Origin",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Legendary",
+        "value": "Zeus"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "address": "0x225d50914fe6d026dea2af39d0260d2bfabaaca9",
+  "type": "ERC1155",
+  "name": "STAY EATTIN, BANK ON CRYPTO.",
+  "tokenCount": "59",
+  "uri": "ipfs://QmeaLUfj1aFUEqjdy1ewRHXvwRQKogetFtjDeHuCzBRptY/1/token.json",
+  "metadata": {
+    "name": "DEGEN CITY",
+    "image": "ipfs://QmaujKqxCNEQN7n5FPEzyj3k78CvEgjuYWmfPi1uNnKqzm",
+    "description": "THE CITY OF JEPGS, GIFS AND SHIT COIN$, WHERE A DEGEN GOES TO LET GO\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "CultBitz"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "STAY EATTIN, BANK ON CRYPTO."
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0x99bbae611bc61cd18962bf8bbfacec87d6378d18"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Outside",
+              "state": {
+                "label": "DEGEN CITY",
+                "uri": "QmUQkkm5SkaHtgYYycYMZyKGbcKuD9R7V59FFDZTmhaVyS"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

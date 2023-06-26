@@ -1,0 +1,67 @@
+{
+  "address": "0x990b06ec286c465e70a5091910f7cf50fb1770d2",
+  "type": "ERC721",
+  "name": "DOJOFISH NFT",
+  "tokenCount": "1000",
+  "uri": "ipfs://QmXPstsXNarBhXxV7ZeUV4t9eyB7GfyH5snRW47dewJ4Xj/1.json",
+  "metadata": {
+    "name": "Dojo Fish #1",
+    "description": "Hand-drawn fishy fighters from the wrong side of the reef. They’re out of the water, fresh off the boat, and ready to kick ass.",
+    "image": "ipfs://QmUGrKgfBvE6bFHAXmr6tJjyYuzCMFV7AaAbsHkcjVAvh9/1.png",
+    "dna": "4542db3ef54a26f8a04242afe94b2ba0e86a9b9e",
+    "edition": 1,
+    "date": 1647673558706,
+    "creator": "@ogToby",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bubble Blue"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "Majenta Fan Fin"
+      },
+      {
+        "trait_type": "Right Weapon",
+        "value": "Tactical Blade"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Orange Tiger Stripes"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Middleweight 2"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Old Timey"
+      },
+      {
+        "trait_type": "Bottom",
+        "value": "Rockstar Pants"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Black Button Up"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Orange Beanie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Screaming"
+      },
+      {
+        "trait_type": "Left Weapon",
+        "value": "Bat"
+      }
+    ],
+    "compiler": "Highstack Art Compiler"
+  }
+}

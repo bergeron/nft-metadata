@@ -1,0 +1,56 @@
+{
+  "address": "0x80b16d157e9faaf0fd7f79890463747aeebba785",
+  "type": "ERC721",
+  "name": "KPTNFTB",
+  "tokenCount": "110",
+  "uri": "https://api.kryptopetsmetaverse.com/box/1",
+  "metadata": {
+    "description": "The normal box is the best companion for the Trainer! It holds all the necessary items to train 1 to 3 Kryptopets",
+    "name": "Normal Box",
+    "image": "/trainer-box.png",
+    "nft_id": 1,
+    "last_use": 1650898974552,
+    "attributes": [
+      {
+        "id": 1,
+        "display_type": "number",
+        "trait_type": "Potion",
+        "image": "/box/potion.png",
+        "description": "Potion: Potions are used to cure Kryptopets by providing the necessary elements to gain Health Points, Intelligence Points, or Constitution Points.",
+        "value": 3
+      },
+      {
+        "id": 2,
+        "display_type": "number",
+        "trait_type": "Sweets",
+        "image": "/box/candy.png",
+        "description": "Potion: Potions are used to cure Kryptopets by providing the necessary elements to gain Health Points, Intelligence Points, or Constitution Points.",
+        "value": 3
+      },
+      {
+        "id": 3,
+        "display_type": "number",
+        "trait_type": "Learning",
+        "image": "/box/learn-book.png",
+        "description": "Potion: Potions are used to cure Kryptopets by providing the necessary elements to gain Health Points, Intelligence Points, or Constitution Points.",
+        "value": 2
+      },
+      {
+        "id": 4,
+        "display_type": "number",
+        "trait_type": "Training",
+        "image": "/box/training.png",
+        "description": "Potion: Potions are used to cure Kryptopets by providing the necessary elements to gain Health Points, Intelligence Points, or Constitution Points.",
+        "value": 2
+      },
+      {
+        "id": 5,
+        "display_type": "number",
+        "trait_type": "Revive",
+        "image": "/box/revive.png",
+        "description": "Revive: In the event your Kryptopet suffer devastating damages during a Combat Training or is left unattended for too long and dies, you can use a Revive to get it back to full health.",
+        "value": 1
+      }
+    ]
+  }
+}

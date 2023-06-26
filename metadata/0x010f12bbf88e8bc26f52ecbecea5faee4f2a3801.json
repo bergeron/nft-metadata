@@ -1,0 +1,34 @@
+{
+  "address": "0x010f12bbf88e8bc26f52ecbecea5faee4f2a3801",
+  "type": "ERC1155",
+  "name": "Telesto Digikey",
+  "tokenCount": "1",
+  "uri": "https://smol.mypinata.cloud/ipfs/QmU8zGGNBa8qfAqqry5xQrhB7t3ixfBUL3Uz6YV9R6XGcP/1.json",
+  "metadata": {
+    "name": "Telesto Digikey",
+    "description": "Unlocks the gates to telesto world",
+    "external_url": "https://key.telesto.world/",
+    "image": "https://bafybeigkyitmdqzesdvnrjxvp5ocjfr2qxpac37fbioepwxjkes5pull4u.ipfs.infura-ipfs.io/",
+    "animation_url": "https://bafybeigkyitmdqzesdvnrjxvp5ocjfr2qxpac37fbioepwxjkes5pull4u.ipfs.infura-ipfs.io/",
+    "attributes": [
+      {
+        "trait_type": "edition",
+        "value": "1"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "https://bafybeih7iipupqpn5i632srh6x37qnwi5nqaqx37sqgaiyymgrnb2jvq6q.ipfs.infura-ipfs.io/",
+          "type": "image/png"
+        },
+        {
+          "uri": "https://bafybeih7iipupqpn5i632srh6x37qnwi5nqaqx37sqgaiyymgrnb2jvq6q.ipfs.infura-ipfs.io/",
+          "type": "model/gltf-binary"
+        }
+      ],
+      "creators": []
+    }
+  }
+}

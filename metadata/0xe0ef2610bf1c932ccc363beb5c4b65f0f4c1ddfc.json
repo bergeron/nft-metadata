@@ -1,0 +1,18 @@
+{
+  "address": "0xe0ef2610bf1c932ccc363beb5c4b65f0f4c1ddfc",
+  "type": "ERC1155",
+  "name": "Squishiverse Items",
+  "tokenCount": "20",
+  "uri": "https://api.squishiverse.com/token/items/1",
+  "metadata": {
+    "name": "Mystic Lootbox",
+    "image": "ipfs://QmYcaHpZC5ot9H21Hiq5e49EzSrM869Lutsh9Yy1KZPbYo/1.png",
+    "description": "This is the chest of King Aurian, filled with one of ten items.",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      }
+    ]
+  }
+}

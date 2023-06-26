@@ -1,0 +1,60 @@
+{
+  "address": "0x0d9162e44a38552e7984c42547efbee333f65286",
+  "type": "ERC721",
+  "name": "Ginchy Girls",
+  "tokenCount": "10",
+  "uri": "ipfs://bafybeiexhbm5xxrweiusejgvxoh3sf22rhofvynycdhlf7x7hb2xfsir5i/1",
+  "metadata": {
+    "name": "Ginchy Girl #1",
+    "description": "She will choose you.",
+    "image": "ipfs://bafybeidr2dx5lainvkv645uztrhoinooifdfnfsabwmmdqwu3aha6yu2re/1.jpeg",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sea Foam"
+      },
+      {
+        "trait_type": "Background Detail",
+        "value": "No Background Detail"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Black-and-Tan"
+      },
+      {
+        "trait_type": "Lip Color",
+        "value": "Deep Red"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Makeup",
+        "value": "Turquoise Eyeliner"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Figure-Outline"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Blonde Bangs"
+      },
+      {
+        "trait_type": "Eye Glow",
+        "value": "No Glow"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Pink Flower Earrings"
+      },
+      {
+        "trait_type": "Eyelid Shadow",
+        "value": "Eyelid-Shadow"
+      }
+    ],
+    "compiler": "Open3"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0x05b319f57f93abadd226c723bf06046a7a6fa163",
+  "type": "ERC721",
+  "name": "The Goose Gustavo Collection",
+  "tokenCount": "47",
+  "uri": "ipfs://bafybeihbjvjl5b3xmjwqn3n4havjssrmsuo6c6oupftj2sr7ocwqr4jz5u/1.json",
+  "metadata": {
+    "name": "Gustavo #1",
+    "description": "The Goose Gustavo Collection is a collection of 1555 NFTs that are procedurally generated based on item interaction.",
+    "image": "ipfs://bafybeibtuaivcvbxgepxzqqrhxoneje6tmk2s53cs4bpwjnjyalbdjd5s4/1.png",
+    "dna": "f58b75650d842c6c008bbf7ec907fb9b18dac4d5",
+    "edition": 1,
+    "date": 1645468777,
+    "attributes": [
+      {
+        "trait_type": "Eyebrow",
+        "value": "common_eyebrow_peach_1"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "common_indifferent_eyes_white"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "common_beak_blue"
+      },
+      {
+        "trait_type": "Eyelash",
+        "value": "common_bored_eyelash_peach"
+      },
+      {
+        "trait_type": "Body",
+        "value": "very_rare_body_blue"
+      },
+      {
+        "trait_type": "Background",
+        "value": "common_gray_gradient_1"
+      }
+    ],
+    "compiler": "SteelBeaver"
+  }
+}

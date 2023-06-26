@@ -1,0 +1,20 @@
+{
+  "address": "0x6cbe141a4d5b5723be65ea1d34e3e601c03658f0",
+  "type": "ERC721",
+  "name": "NonFungibleFrens Genesis Cartridge",
+  "tokenCount": "24",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIk5vbiBGdW5naWJsZSBGcmVucyBDYXJ0cmlkZ2UgIzEiLCJkZXNjcmlwdGlvbiI6ICJUaGUgTkZGIGdlbmVzaXMgY2FydHJpZGdlIHBlcm1pdHMgYWNjZXNzIHRvIHRoZSBGcmVucyBEaXNjb3JkIHJlc3RyaWN0ZWQgY2hhbm5lbHMuIEVhY2ggaG9sZGVyIGlzIGVudGl0bGVkIHRvIGEgdm90ZSBpbiB0aGUgZ292ZXJuYW5jZSBvZiB0aGUgTm9uIEZ1bmdpYmxlIEZyZW5zIERBTy4iLCAiaW1hZ2UiOiJodHRwczovL2dhdGV3YXkucGluYXRhLmNsb3VkL2lwZnMvUW1ld3dyc3dzVUJHenRSaEc3OHBkRWloMUg3ZjlrMk4yZk1QTnVhYlZIZUgxVS9OZXdfVmlkZW8uZ2lmIiwiYW5pbWF0aW9uX3VybCI6Imh0dHBzOi8vZ2F0ZXdheS5waW5hdGEuY2xvdWQvaXBmcy9RbWV3d3Jzd3NVQkd6dFJoRzc4cGRFaWgxSDdmOWsyTjJmTVBOdWFiVkhlSDFVL05ld19WaWRlby5tcDQiLCJhdHRyaWJ1dGVzIjpbeyJ0cmFpdF90eXBlIjoiRnJpZW5kc2hpcCIsIm1heF92YWx1ZSI6MTAwLCJ2YWx1ZSI6OTB9XX0=",
+  "metadata": {
+    "name": "Non Fungible Frens Cartridge #1",
+    "description": "The NFF genesis cartridge permits access to the Frens Discord restricted channels. Each holder is entitled to a vote in the governance of the Non Fungible Frens DAO.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmewwrswsUBGztRhG78pdEih1H7f9k2N2fMPNuabVHeH1U/New_Video.gif",
+    "animation_url": "https://gateway.pinata.cloud/ipfs/QmewwrswsUBGztRhG78pdEih1H7f9k2N2fMPNuabVHeH1U/New_Video.mp4",
+    "attributes": [
+      {
+        "trait_type": "Friendship",
+        "max_value": 100,
+        "value": 90
+      }
+    ]
+  }
+}

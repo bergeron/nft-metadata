@@ -1,0 +1,34 @@
+{
+  "address": "0x32bb6ee15fed613024132f278ea70a1186ae6e31",
+  "type": "ERC721",
+  "name": "WhoopLegend",
+  "tokenCount": "6",
+  "uri": "https://arweave.net/DaEUrXfoU9hu8iXSqt6u60rtvhElGp_5JTtcRlBB1vM/1",
+  "metadata": {
+    "name": "Trident of the Sacred",
+    "created_by": "Whoopsies Doopsies ",
+    "external_url": "www.whoopdoop.com",
+    "description": "Six Unique 1/1 Legendary weapons handcrafted by Whoopsies. \nEach Weapon provides the owner with additional 3000 Power during battles for the mines and other adventures.",
+    "attributes": [
+      {
+        "value": "Trident of the Sacred",
+        "trait_type": "1/1"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Power",
+        "value": "3000",
+        "max_value": "3000"
+      }
+    ],
+    "image_details": {
+      "bytes": 948726,
+      "format": "JPEG",
+      "sha256": "4f1f4cf908e99276948042049156d0427523e0fdcc764762c8b867425528058b",
+      "width": 3465,
+      "height": 3465
+    },
+    "image": "https://arweave.net/srdN1BSM9lhHoG8l2_pfswdJ7c6nBsTzEMTvPVhIYvU",
+    "image_url": "https://arweave.net/srdN1BSM9lhHoG8l2_pfswdJ7c6nBsTzEMTvPVhIYvU"
+  }
+}

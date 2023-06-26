@@ -1,0 +1,38 @@
+{
+  "address": "0x43d8a1d2bced02eb644969114f3b974b5c48c4d0",
+  "type": "ERC721",
+  "name": "SweetiesNFT",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmeMQapQymTUx1apugaYmwV7XH8gL9VbuegPBYj4vXRy2G/1.json",
+  "metadata": {
+    "name": "Sweeties #1",
+    "description": "A project designed by and for the community, Sweeties is a collection of 10,000 NFTs that will each have unique and sweet traits, owning one will give you the chance to belong to the sweet community that will have multiple benefits, which will be powered by DAO and financed by the Candy Bank. Aren't they cute?",
+    "image": "ipfs://QmWMeYuE5e7f8c6CrihWQJqHNJcgMggvowT77Tc9tm9QWL/1.png",
+    "dna": "80d8504d9e358cf344472c00712e81195a39dc0d",
+    "edition": 1,
+    "date": 1657258393276,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gradient 7"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Yellow Coat"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Pale Ivory"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Hypnotized"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Black Ponytail"
+      }
+    ],
+    "compiler": "Sweet Art Engine"
+  }
+}

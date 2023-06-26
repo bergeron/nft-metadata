@@ -1,0 +1,30 @@
+{
+  "address": "0x0edf9f38fe1bf9eb1322c5560bd5b5eb23c0056e",
+  "type": "ERC721",
+  "name": "Crypto Moments - DAO Hack",
+  "tokenCount": "100",
+  "uri": "ipfs://QmT8Py33ycNKptuiDWJLyztWJfYutLDnVyQq6iDBR4SXRV/1",
+  "metadata": {
+    "description": "Commemorative NFT art collection created from popular crypto moments. Art is generated from on-chain transaction data related to the moment in blockchain history. \n\nCollection 1 - DAO Hack\n\nTransaction Hash: 0x0ec3f2488a93839524add10ea229e773f6bc891b4eb4794c3337d4495263790b\n\nOn June 17, 2016, 'The DAO' was subject to an attack, exploiting a combination of vulnerabilities, including the one concerning recursive calls, that resulted in the transfer of 3.6 Million Ether - which was around a third of the 11.5 Million Ether committed to The DAO - valued at the time at around $50M",
+    "image": "ipfs://QmcGgedm151gH8c9MrPLn4guR7f7mSGfaJ2ZZ2d2U8FU85",
+    "name": "Crypto Moments - Dao Hack #1",
+    "attributes": [
+      {
+        "moment_chain": "Ethereum"
+      },
+      {
+        "moment_transaction": "0x0ec3f2488a93839524add10ea229e773f6bc891b4eb4794c3337d4495263790b"
+      },
+      {
+        "moment_transaction_view": "https://etherscan.io/tx/0x0ec3f2488a93839524add10ea229e773f6bc891b4eb4794c3337d4495263790b"
+      },
+      {
+        "moment_value_involved": "3.6 Million Ether hack - valued at around $50M at the time and valued around $12B billion on mint."
+      },
+      {
+        "moment_story": "On June 17, 2016, 'The DAO' was subject to an attack, exploiting a combination of vulnerabilities, including the one concerning recursive calls, that resulted in the transfer of 3.6 Million Ether - which was around a third of the 11.5 Million Ether committed to The DAO - valued at the time at around $50M"
+      }
+    ],
+    "external_url": "https://www.cryptomoments.art/#/collection_1"
+  }
+}

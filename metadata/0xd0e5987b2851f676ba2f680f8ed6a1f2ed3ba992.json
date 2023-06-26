@@ -1,0 +1,41 @@
+{
+  "address": "0xd0e5987b2851f676ba2f680f8ed6a1f2ed3ba992",
+  "type": "ERC721",
+  "name": "HUXLEY Humans",
+  "tokenCount": "3000",
+  "uri": "https://us-central1-huxley-production.cloudfunctions.net/api/humans/1",
+  "metadata": {
+    "tokenId": "1",
+    "name": "HUXLEY Humans #1",
+    "image": "https://storage.googleapis.com/huxley-production-humans/1.jpeg",
+    "description": "HUXLEY Humans are a generative collection of 3000 Citizens from Fury-7, located in Sector-217 in the HUXLEY Universe. 10 Colonies of Humans represent different visual styles through the collection.\n\nHUXLEY Humans can only be minted with a Genesis Token. Join the hunt at huxleysaga.com.\n\nHUXLEY Humans are granted certain personal and commercial use licenses, found in the metadata.",
+    "external_url": "https://huxleysaga.com/avatars/humans/1",
+    "attributes": [
+      {
+        "value": "Advanced",
+        "trait_type": "Model"
+      },
+      {
+        "value": "Alabaster",
+        "trait_type": "Colony"
+      },
+      {
+        "value": "Guardian",
+        "trait_type": "Type"
+      },
+      {
+        "value": "Special",
+        "trait_type": "Armor"
+      },
+      {
+        "value": "Personal Use, Commercial Display, Merchandising",
+        "trait_type": "Licenses"
+      },
+      {
+        "value": "ᚸᚩᚣᚮ",
+        "trait_type": "Genealogy"
+      }
+    ],
+    "huxley_ip_license_agreement": "ipfs://QmSmNcYfze4PbG1KfdZHgDft63gbr2VCaj2h9H3KXQedcK"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "0x7b84d893ddccc91cd236cc0c1cfcc5928e0f8342",
+  "type": "ERC721",
+  "name": "Shapessplatter",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeiaoxjiyyyd2zushli2srjb2uml2zna6wmmyzskqyzjsoltutc6i7u/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "Just shapes",
+    "external_url": "",
+    "image": "ipfs://bafybeifo65wfbn35qdkwoceeuk4mavkbhgkkyy3uojyt4pn4io7jrzehja/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cyan BG"
+      },
+      {
+        "trait_type": "Shapes",
+        "value": "Triangle"
+      },
+      {
+        "trait_type": "Textures",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "White Frame"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Shapes",
+      "family": "Shapes"
+    },
+    "symbol": ""
+  }
+}

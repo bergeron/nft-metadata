@@ -1,0 +1,75 @@
+{
+  "address": "0xf7f6dee46c6bdcf32c14a825f3a714262960c361",
+  "type": "ERC721",
+  "name": "EtherTulips",
+  "tokenCount": "2953",
+  "uri": "https://tokens.ethertulips.com/meta/v1/1.json",
+  "metadata": {
+    "name": "Tulipa chroma",
+    "description": "EtherTulips: tradable virtual tulips on the Ethereum blockchain that can fight each other. What could go wrong?",
+    "external_url": "https://ethertulips.com",
+    "image": "https://tokens.ethertulips.com/design/v1/1.png",
+    "attributes": [
+      {
+        "trait_type": "Generation",
+        "value": "Gen 0"
+      },
+      {
+        "trait_type": "Mint Date",
+        "value": 1516595761,
+        "display_type": "date"
+      },
+      {
+        "trait_type": "Petal",
+        "value": "255afa"
+      },
+      {
+        "trait_type": "Face",
+        "value": "f7584"
+      },
+      {
+        "trait_type": "Stem",
+        "value": "20dcc"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "BP",
+        "value": 20,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Damage",
+        "value": 1,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Armor",
+        "value": 21,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Strength",
+        "value": 42,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Agility",
+        "value": 9,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 29,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Health",
+        "value": 17,
+        "display_type": "boost_number"
+      }
+    ]
+  }
+}

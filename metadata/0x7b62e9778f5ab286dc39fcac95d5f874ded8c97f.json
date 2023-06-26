@@ -1,0 +1,43 @@
+{
+  "address": "0x7b62e9778f5ab286dc39fcac95d5f874ded8c97f",
+  "type": "ERC721",
+  "name": "HODL APE CLUB",
+  "tokenCount": "25",
+  "uri": "https://api.hodlapeclub.com/tokens/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "HODL APE CLUB",
+    "image": "https://api.hodlapeclub.com/images/1.gif",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Detective"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Orc"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Leaf"
+      },
+      {
+        "trait_type": "Diamond",
+        "value": "Yellow"
+      }
+    ]
+  }
+}

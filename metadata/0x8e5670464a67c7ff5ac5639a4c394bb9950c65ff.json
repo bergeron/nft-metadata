@@ -1,0 +1,30 @@
+{
+  "address": "0x8e5670464a67c7ff5ac5639a4c394bb9950c65ff",
+  "type": "ERC721",
+  "name": "Number Quest",
+  "tokenCount": "101",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIk5VTVFVRVNUIDEiLCJkZXNjcmlwdGlvbiI6ICJFbWJhcmsgb24gYW4gZXBpYyBqb3VybmV5IG9mIG51bWVyaWMgZGlzY292ZXJ5LiIsImltYWdlIjoiaHR0cHM6Ly9udW1iZXItcXVlc3QudmVyY2VsLmFwcC8/dG9rZW49MSZ2YWx1ZT0xMiIsImF0dHJpYnV0ZXMiOlt7InRyYWl0X3R5cGUiOiJUeXBlIiwidmFsdWUiOiJOdW1iZXIifSx7InRyYWl0X3R5cGUiOiJOdW1iZXIiLCJ2YWx1ZSI6MTJ9LHsidHJhaXRfdHlwZSI6IlJhcml0eSIsInZhbHVlIjoiVW5jb21tb24ifSx7InRyYWl0X3R5cGUiOiJHZW5lcmF0aW9uIiwidmFsdWUiOjF9XX0=",
+  "metadata": {
+    "name": "NUMQUEST 1",
+    "description": "Embark on an epic journey of numeric discovery.",
+    "image": "https://number-quest.vercel.app/?token=1&value=12",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Number"
+      },
+      {
+        "trait_type": "Number",
+        "value": 12
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Generation",
+        "value": 1
+      }
+    ]
+  }
+}

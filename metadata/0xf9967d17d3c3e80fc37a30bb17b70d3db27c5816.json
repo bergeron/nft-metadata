@@ -1,0 +1,35 @@
+{
+  "address": "0xf9967d17d3c3e80fc37a30bb17b70d3db27c5816",
+  "type": "ERC721",
+  "name": "Kjetil Golid",
+  "tokenCount": "10",
+  "uri": "https://arweave.net/0G1XMwWZaeTigt3B-VSg2xiy_spe-4mVBhnpLTVzHsU",
+  "metadata": {
+    "name": "EXPANSE - Kaleidoscope",
+    "created_by": "Kjetil Golid",
+    "description": "EXPANSE divides the plane into a grid and extrudes each cell of the grid into cuboids of various dimensions. \n\nEach face on each cuboid is colored based on its slant, relative to a light source. Laws of illumination turns this geometrical relation into a numerical value which is subsequently mapped to a location in a custom color space, giving each face its color.\n\nWith the shapes and colors so tightly linked, by using repetitious rules when deciding upon dimensions and slants, chromatic patterns and tendencies emerge as well.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Kjetil Golid"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Expanse"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2022"
+      }
+    ],
+    "image_details": {
+      "bytes": 19712725,
+      "format": "PNG",
+      "sha256": "6eec6f62b68c79d879a82cdffdbd24d9a2367e2f5edbccd91301c051f7ae6904",
+      "width": 10000,
+      "height": 14160
+    },
+    "image": "https://arweave.net/ZghddQ_8lEfF6lMRxN5uGjyAF4MeKZzopbk1nXy_vec",
+    "image_url": "https://arweave.net/ZghddQ_8lEfF6lMRxN5uGjyAF4MeKZzopbk1nXy_vec"
+  }
+}

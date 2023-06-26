@@ -1,0 +1,38 @@
+{
+  "address": "0x5ac730ea25523c475544b9b40bcf92a108d57605",
+  "type": "ERC1155",
+  "name": "FraktalNFTCryptoZombiez",
+  "tokenCount": "2",
+  "uri": "https://cryptozombiez.io/api/metadata/777",
+  "metadata": {
+    "name": "ZOMBIE #777",
+    "description": "Crypto Zombiez have awakened from their grave and now wander the blockchain looking for their next brain to consume!",
+    "image": "ipfs://Qme3Vy38eLpxdxaZMfE2quciVverwmK6vVoDDNkbs24f3U/777.png",
+    "attributes": [
+      {
+        "value": "Mystical",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Common Poison",
+        "trait_type": "Skin"
+      },
+      {
+        "value": "Rainbow",
+        "trait_type": "T-Shirt"
+      },
+      {
+        "value": "Wide Open",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": "Men In Red",
+        "trait_type": "Eyes"
+      },
+      {
+        "trait_type": "Origin Story",
+        "value": "Default"
+      }
+    ]
+  }
+}

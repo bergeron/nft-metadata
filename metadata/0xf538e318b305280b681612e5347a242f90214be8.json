@@ -1,0 +1,36 @@
+{
+  "address": "0xf538e318b305280b681612e5347a242f90214be8",
+  "type": "ERC721",
+  "name": "URUZ by Felt Zine",
+  "tokenCount": "250",
+  "uri": "https://uruz.feltzine.art/api/1",
+  "metadata": {
+    "name": "#1 | A Blue Queen with a Reaper's Soul",
+    "description": "Pixel art collection inspired by dissident subcultures, Chess, and underground comix by Mark Sabb for Felt Zine.",
+    "tokenId": 1,
+    "image": "https://gateway.pinata.cloud/ipfs/Qmb2Qt3i8NVUhu3tJW3ZXQTBhWNSgejmhpf9AxNJjsFkcb",
+    "external_url": "https://www.feltzine.art",
+    "attributes": [
+      {
+        "trait_type": "Form",
+        "value": "Queen"
+      },
+      {
+        "trait_type": "Form Color",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Soul",
+        "value": "Reaper"
+      },
+      {
+        "trait_type": "Soul Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Philosophy",
+        "value": "Zen"
+      }
+    ]
+  }
+}

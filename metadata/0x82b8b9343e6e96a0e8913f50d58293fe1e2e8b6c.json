@@ -1,0 +1,23 @@
+{
+  "address": "0x82b8b9343e6e96a0e8913f50d58293fe1e2e8b6c",
+  "type": "ERC721",
+  "name": "Hypenotics Factory",
+  "tokenCount": "2",
+  "uri": "https://vps633737.ovh.net:4443/api/factory/1",
+  "metadata": {
+    "name": "Five new Hypenotics",
+    "description": "When you purchase this item, you will receive five unique randomly generated Hypenotics. They will appear instantly in your Created NFT's on your Opensea, Rarible and Mintable account.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbuykmnHDfMimtox5upxorAomDGZFzwP6Bn7Zz4A28YSB/Hypenotic%231003.gif",
+    "external_url": "https://hypenotics.lionelpalun.com/",
+    "attributes": [
+      {
+        "trait_type": "number_inside",
+        "value": 5
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Lionel Palun"
+      }
+    ]
+  }
+}

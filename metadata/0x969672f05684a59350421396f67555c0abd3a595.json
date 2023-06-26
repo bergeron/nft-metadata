@@ -1,0 +1,41 @@
+{
+  "address": "0x969672f05684a59350421396f67555c0abd3a595",
+  "type": "ERC721",
+  "name": "Sky Crucible - Weapons",
+  "tokenCount": "16",
+  "uri": "https://sky-crucible-forged-weapons-metadata.s3.amazonaws.com/mainnet/1",
+  "metadata": {
+    "symbol": "SKYCWEAPON",
+    "description": "Use ore, magic orbs, and weapons schematics to forge your weapon and compete in the arena of Sky Crucible.",
+    "external_url": "https://skycrucible.xyz",
+    "name": "Flawless Bronze Longsword - #1",
+    "image": "https://sky-crucible-forged-weapons-images.s3.amazonaws.com/mainnet/1",
+    "attributes": [
+      {
+        "trait_type": "Durability",
+        "value": 86
+      },
+      {
+        "trait_type": "Attack",
+        "value": 65
+      },
+      {
+        "trait_type": "Defense",
+        "value": 33
+      },
+      {
+        "trait_type": "Speed",
+        "value": 15
+      },
+      {
+        "trait_type": "Range",
+        "value": 22
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Dark",
+        "value": 44
+      }
+    ]
+  }
+}

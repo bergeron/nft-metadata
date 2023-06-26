@@ -1,0 +1,60 @@
+{
+  "address": "0xfd40af4e5fa5b0af310d92398fba63adc092232e",
+  "type": "ERC721",
+  "name": "Pixel Primates NFT",
+  "tokenCount": "1362",
+  "uri": "https://metadata.pixelprimates.io/1",
+  "metadata": {
+    "_id": 1,
+    "description": "A primate ready for battle! Mint yours to join the war effort!",
+    "external_url": "https://pixelprimates.io/",
+    "image": "https://pixelprimates.mypinata.cloud/ipfs/QmTx6kpb1DqrnQQVUArWBHhmiYtafAzR5VswRdrCdStLfH",
+    "name": "Pixel Primates #1",
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Monkey"
+      },
+      {
+        "trait_type": "Wing",
+        "value": "Demon Wings"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Light Earring"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Mustache"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Black Cap"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Katana"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "STR",
+        "value": 11
+      },
+      {
+        "display_type": "number",
+        "trait_type": "DEF",
+        "value": 11
+      },
+      {
+        "display_type": "number",
+        "trait_type": "SPD",
+        "value": 16
+      },
+      {
+        "display_type": "number",
+        "trait_type": "INT",
+        "value": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "address": "0x98fb982050b0177ce1a062f1c7bdebf068482697",
+  "type": "ERC721",
+  "name": "oculardelusion mintbase shop",
+  "tokenCount": "9",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=wULfqOyjXic5DdCnMlbc",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1589282533876?alt=media&token=926c9586-d0a7-4da5-bfd7-c27579b538fd",
+    "forSale": true,
+    "description": "'with reflections of reflections in the opulent / glimmering surface of endless flaws...' – Michael McClure ",
+    "contractAddress": "0x98fb982050b0177ce1a062f1c7bdebf068482697",
+    "ethPrice": "0.04",
+    "amountToMint": "3",
+    "minter": "0xbc2c67a59ec004d7127a63f0f99275e31b4883cf",
+    "mintedOn": {
+      "_seconds": 1589282807,
+      "_nanoseconds": 472000000
+    },
+    "price": "$0.00",
+    "name": "'THIS IS ALL A STRING OF PEARLS....'",
+    "fiatPrice": "$7.65",
+    "minted": "Minted on Mintbase.io",
+    "youtube_url": "",
+    "external_url": "https://mintbase.io/my-market/0x98fb982050b0177ce1a062f1c7bdebf068482697",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "wULfqOyjXic5DdCnMlbc"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1589238000
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": 1589238000
+      },
+      {
+        "trait_type": "location",
+        "value": "United Kingdom"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJqZHHQhE7WgIReiWIMkOg-MQ"
+      },
+      {
+        "trait_type": "website",
+        "value": "karenfranceseng.com"
+      }
+    ],
+    "type": "ERC721"
+  }
+}

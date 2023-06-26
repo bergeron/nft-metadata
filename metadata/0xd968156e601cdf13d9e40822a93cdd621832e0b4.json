@@ -1,0 +1,36 @@
+{
+  "address": "0xd968156e601cdf13d9e40822a93cdd621832e0b4",
+  "type": "ERC721",
+  "name": "JapanDreamCollection",
+  "tokenCount": "1200",
+  "uri": "https://api.swagga.io/front/static/nft/ETH/SWAGGAJDC/1",
+  "metadata": {
+    "tokenId": "1",
+    "name": "Onimaru × AZITO #1",
+    "image": "ipfs://Qmd1CtFoY7yPE8xq3xVPZ6FTR2Rg3gkAxD7pwh4RMVPKga",
+    "description": "When you put on a mask, you are recognised as the mask.\r\nThen who are you, the mask or the one behind it?",
+    "extend_info": {
+      "videoUrl": "ipfs://QmNRhywwb5oMBLvmGmZz2spyjDFAWjfpvAsnztnE8DgcNn"
+    },
+    "attributes": [
+      {
+        "trait_type": "IP",
+        "value": "AZITO"
+      },
+      {
+        "trait_type": "Open",
+        "value": "true"
+      },
+      {
+        "trait_type": "Rank",
+        "value": "R"
+      },
+      {
+        "trait_type": "YEAR",
+        "value": "2023"
+      }
+    ],
+    "animation_url": "https://blocwars-bucket.s3.ap-northeast-3.amazonaws.com/ipfs/QmeRg5knS1E5z21wUJsxAjgYsuyTND4tk5dZbifQAgTt9w.glb",
+    "background_color": "121212"
+  }
+}

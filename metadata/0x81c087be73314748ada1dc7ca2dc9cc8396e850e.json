@@ -1,0 +1,26 @@
+{
+  "address": "0x81c087be73314748ada1dc7ca2dc9cc8396e850e",
+  "type": "ERC721",
+  "name": "Flower Spin",
+  "tokenCount": "7",
+  "uri": "https://art-sandbox.sunflower.industries/token/0x81C087Be73314748Ada1DC7CA2dC9cC8396E850E/1",
+  "metadata": {
+    "description": "A series of beautiful spinning flowers. 1024 NFTs.\nGenerative Art by pifragile.",
+    "dependencies": "[{\"name\":\"p5@1.4.0\",\"keccak256\":\"0xcef1df742d5237151854b6ccd3d7769c7bcb2cf987e4f8f6ca1ad69afdac3dcc\"}]",
+    "artist": "0xe8C39372a3284FA8a99437568df0Ad66153af809",
+    "external_url": "https://art.sunflower.industries/token/0x81C087Be73314748Ada1DC7CA2dC9cC8396E850E/1",
+    "image": "https://art-sandbox.sunflower.industries/render/tokenImage/0x81C087Be73314748Ada1DC7CA2dC9cC8396E850E/1",
+    "name": "Flower Spin #1",
+    "attributes": [
+      {
+        "trait_type": "hue",
+        "value": "335.79"
+      },
+      {
+        "trait_type": "speed",
+        "value": "16.84"
+      }
+    ],
+    "animation_url": "https://art-sandbox.sunflower.industries/tokenFrame/0x81C087Be73314748Ada1DC7CA2dC9cC8396E850E/1"
+  }
+}

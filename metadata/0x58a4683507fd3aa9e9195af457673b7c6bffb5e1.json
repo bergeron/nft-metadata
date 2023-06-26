@@ -1,0 +1,36 @@
+{
+  "address": "0x58a4683507fd3aa9e9195af457673b7c6bffb5e1",
+  "type": "ERC721",
+  "name": "The Infinite Dodos",
+  "tokenCount": "128",
+  "uri": "ipfs://QmfBRiRqVc4KCYWj1eSNhURNNmWYRVwF5bB3WAxF5duRre/1",
+  "metadata": {
+    "image": "ipfs://QmWoNdfXQCstQv7Px1W6aDZX5ySQ5bmrceqjBk95zCmgtu/1.png",
+    "name": "Infinite Dodos #1",
+    "description": "250 Infinite Dodos coming to take the DodoVerse!",
+    "external_url": "https://www.infinitedodos.com",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Base Dodo"
+      },
+      {
+        "trait_type": "Backgrounds",
+        "value": "Infinite Dodos Backgrounds Lime 1"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Infinite Dodos Bodies + Skins Cheetah"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Infinite Dodos Beaker Orange Slime"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Infinite Dodos French Beret Red"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

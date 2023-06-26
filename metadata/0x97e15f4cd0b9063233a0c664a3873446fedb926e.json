@@ -1,0 +1,50 @@
+{
+  "address": "0x97e15f4cd0b9063233a0c664a3873446fedb926e",
+  "type": "ERC1155",
+  "name": "All-Star Supper",
+  "tokenCount": "120",
+  "uri": "ipfs://QmdUSzdcYdstKwdoHXFLofHmF4SFyiU1z86GpSLuwu47Vf/1/token.json",
+  "metadata": {
+    "name": "Off White Room",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/image/upload/w_1200/v1678141743/0x4762b5ac03fc097a500b48cfefffc027e8b37227/6404a630e3b7a5f8236bb5bc/stateCovers/ry5joog7iegqdlibijfb.jpg",
+    "description": "Warning: Staying in this room may cause creativity and individuality.\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "mrrichieth"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Room"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "All-Star Supper"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0x4762b5ac03fc097a500b48cfefffc027e8b37227"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Room",
+              "state": {
+                "label": "Off White Room",
+                "uri": "QmaZ2SRK6oDr9hoBQVZFecqU12ksRiLxt8swApen8LVC4D"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

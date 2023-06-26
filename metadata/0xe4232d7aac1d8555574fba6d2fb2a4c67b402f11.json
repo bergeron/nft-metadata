@@ -1,0 +1,38 @@
+{
+  "address": "0xe4232d7aac1d8555574fba6d2fb2a4c67b402f11",
+  "type": "ERC721",
+  "name": "HAPPY FACES ART",
+  "tokenCount": "42",
+  "uri": "ipfs://Qma3m78PUSziZBi94NFzxgHLfK84Y6cC7s82zRgbNVnJas/1.json",
+  "metadata": {
+    "dna": "6dcd89d508c9d6015a9b28fca28288bf5098ddfd",
+    "name": "#1",
+    "description": "Happy Faces v1.0: No matter how bad things get, there is always a reason to smile…so go ahead and put on your favorite Happy Face!",
+    "image": "ipfs://QmPzgFo4igZpqvjaMNTXgzRFBC1n4TBdh9CWotbPDsFz86/1.png",
+    "edition": 1,
+    "date": 1632104814533,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 009"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Face 011"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Eye 003"
+      },
+      {
+        "trait_type": "Hair Style",
+        "value": "Hair Style 010"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth 009"
+      }
+    ],
+    "compiler": "Happy Faces Art Engine"
+  }
+}

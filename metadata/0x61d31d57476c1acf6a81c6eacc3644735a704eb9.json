@@ -1,0 +1,38 @@
+{
+  "address": "0x61d31d57476c1acf6a81c6eacc3644735a704eb9",
+  "type": "ERC721",
+  "name": "DigiScoop",
+  "tokenCount": "2",
+  "uri": "https://digiscoop.art/api/v1/1.json",
+  "metadata": {
+    "name": "DigiScoop #1",
+    "description": "Triple scoop Strawberry, Vanilla, Mint with Chocolate Chips in a Waffle cone.",
+    "image": "ipfs://QmfRckewJGYRpwNAdcyjaPKa7cwaY88kKHT2tN2fK9tnxt",
+    "attributes": [
+      {
+        "trait_type": "Scoops",
+        "value": "Triple"
+      },
+      {
+        "trait_type": "Cone",
+        "value": "Waffle"
+      },
+      {
+        "trait_type": "Flavor 1",
+        "value": "Strawberry"
+      },
+      {
+        "trait_type": "Flavor 2",
+        "value": "Vanilla"
+      },
+      {
+        "trait_type": "Flavor 3",
+        "value": "Mint"
+      },
+      {
+        "trait_type": "Topping",
+        "value": "ChocChip"
+      }
+    ]
+  }
+}

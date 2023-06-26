@@ -1,0 +1,59 @@
+{
+  "address": "0xdcb68734d74281a2743e50795cfb6ee18728c42e",
+  "type": "ERC721",
+  "name": "NFTiles",
+  "tokenCount": "5",
+  "uri": "https://www.nftil.es/api/nft/1",
+  "metadata": {
+    "name": "The Starry Night #1",
+    "description": "#1 of 100 NFTiles of The Starry Night by Vincent van Gogh.",
+    "external_url": "https://nftil.es/t/1",
+    "image": "https://d6ws5h9gd4gqy.cloudfront.net/images/starry/full/0-0.jpg",
+    "attributes": [
+      {
+        "trait_type": "Artwork",
+        "value": "The Starry Night"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Vincent van Gogh"
+      },
+      {
+        "trait_type": "Year",
+        "value": "1889"
+      },
+      {
+        "trait_type": "Dominant Color",
+        "value": "Midnight Blue"
+      },
+      {
+        "trait_type": "Position Left",
+        "value": "00.0 cm"
+      },
+      {
+        "trait_type": "Position Top",
+        "value": "00.0 cm"
+      },
+      {
+        "trait_type": "Position Right",
+        "value": "09.2 cm"
+      },
+      {
+        "trait_type": "Position Bottom",
+        "value": "07.4 cm"
+      },
+      {
+        "value": "Edge Piece"
+      },
+      {
+        "value": "Corner Piece"
+      },
+      {
+        "value": "Star"
+      },
+      {
+        "value": "Sky"
+      }
+    ]
+  }
+}

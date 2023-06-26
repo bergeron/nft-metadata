@@ -1,0 +1,36 @@
+{
+  "address": "0xbabf01b90899c5abde49f14379f3e77d067f37b1",
+  "type": "ERC1155",
+  "name": "BrutalEth Collectible",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/GBfp9J_UCLH2fp7TLD7RCeM4oixD9aFFcwyMIAcxWSs",
+  "metadata": {
+    "created_by": "BrutalEth",
+    "name": "Freedom",
+    "description": "Token Card",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "BrutalEth"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Number",
+        "value": 1
+      },
+      {
+        "trait_type": "Card",
+        "value": "Token"
+      }
+    ],
+    "image_details": {
+      "bytes": 21634759,
+      "format": "JPEG",
+      "sha256": "7bd6e62b9030be24a37bee373120c01eeb271e49b21108d308ce67af211fb840",
+      "width": 4050,
+      "height": 5600
+    },
+    "image": "https://arweave.net/1EomAjIM0fbPI_UkQSR1vgsg7R_-_jp4qiGOJlTuA3A",
+    "image_url": "https://arweave.net/1EomAjIM0fbPI_UkQSR1vgsg7R_-_jp4qiGOJlTuA3A"
+  }
+}

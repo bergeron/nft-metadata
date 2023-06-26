@@ -1,0 +1,34 @@
+{
+  "address": "0xca16c34348d3888eb5dea809197e88fa8a61861e",
+  "type": "ERC721",
+  "name": "ziad",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=rmw3ea8mlZigOJlPoBAm",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1565805409669?alt=media&token=d22a3ef5-d174-4d31-af2a-12a38f754245",
+    "isForSale": true,
+    "minter": "0x7FcADe77d5983bcBcfbB2571af0466C58e0d3CdF",
+    "price": "0",
+    "name": "uno",
+    "description": "one",
+    "contractAddress": "0xCa16C34348d3888EB5DEa809197e88fa8A61861e",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "value": "uno",
+        "trait_type": "item"
+      },
+      {
+        "value": 2,
+        "trait_type": "level"
+      },
+      {
+        "display_type": "number",
+        "value": 1,
+        "trait_type": "generation"
+      }
+    ],
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xCa16C34348d3888EB5DEa809197e88fa8A61861e/rmw3ea8mlZigOJlPoBAm"
+  }
+}

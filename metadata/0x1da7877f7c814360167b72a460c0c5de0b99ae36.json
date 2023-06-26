@@ -1,0 +1,33 @@
+{
+  "address": "0x1da7877f7c814360167b72a460c0c5de0b99ae36",
+  "type": "ERC721",
+  "name": "StarWorld Collectibles",
+  "tokenCount": "13",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=QOcmpjgzb4pLT4wa1vA2",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1584141785648?alt=media&token=8d1f6421-f92b-432f-842b-bd0cd020530b",
+    "forSale": true,
+    "description": "Darth Ether is the ultimate Jedi Knight, and extremely powerfull.  \nHe rules the dark side of StarWorld, and does not hand out second chances.  “Come to the dark side, we have Ether”\n\nA “Star Wars” Starworld limited edition NFT figure\n*Rare - Only 20 will ever be created of this Collectible.\n#SWC02",
+    "contractAddress": "0x1da7877f7c814360167b72a460c0c5de0b99ae36",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1584142020,
+      "_nanoseconds": 571000000
+    },
+    "price": "0.25",
+    "name": "Darth Ether",
+    "fiatPrice": "$34.10",
+    "attributes": [
+      {
+        "trait_type": "website",
+        "value": "https://mintbase.io/my-market/0x1da7877f7c814360167b72a460c0c5de0b99ae36"
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x1da7877f7c814360167b72a460c0c5de0b99ae36",
+    "type": "ERC721"
+  }
+}

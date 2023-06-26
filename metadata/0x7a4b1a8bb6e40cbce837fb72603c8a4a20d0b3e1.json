@@ -1,0 +1,42 @@
+{
+  "address": "0x7a4b1a8bb6e40cbce837fb72603c8a4a20d0b3e1",
+  "type": "ERC721",
+  "name": "Salty Pirate Crew",
+  "tokenCount": "3000",
+  "uri": "https://saltypiratecrew.s3.amazonaws.com/metadata/1",
+  "metadata": {
+    "image": "https://saltypiratecrew.s3.amazonaws.com/images/1.png",
+    "external_url": "https://www.saltypiratecrew.io/",
+    "name": "#1",
+    "attributes": [
+      {
+        "trait_type": "Genesis",
+        "value": "Human"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blue Punk"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "Villain"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Scar"
+      },
+      {
+        "trait_type": "Patch",
+        "value": "Jolly Roger"
+      }
+    ]
+  }
+}

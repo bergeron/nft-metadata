@@ -1,0 +1,62 @@
+{
+  "address": "0x78319dcc9af63333cab5c5dec4b667f6d46a2358",
+  "type": "ERC721",
+  "name": "Stoned Pepe",
+  "tokenCount": "3333",
+  "uri": "ipfs://bafybeie5lkbdrrumvrgv5wjxnwubhhnnekalhptvseewkz4hiw7n74ceti/1.json",
+  "metadata": {
+    "name": "Stoned Pepe #1",
+    "symbol": "SP",
+    "description": "A collection of 3333 unique randomly generated Pepes living in ethereum blockchain. Nothing More, Nothing less. Stoned Pepes.",
+    "seller_fee_basis_points": 0,
+    "image": "https://nftstorage.link/ipfs/bafybeibbaptme5jtxzwxnecrxaqnj3njto7klxledmq4opedhsoceopu5y/1.jpeg",
+    "external_url": "",
+    "collection": {
+      "name": "Stoned Pepe",
+      "family": "Stoned Pepe"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Black Suit"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3D Glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Cap"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bearded"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 231,
+        "display_type": "number",
+        "max_value": 3333
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://nftstorage.link/ipfs/bafybeibbaptme5jtxzwxnecrxaqnj3njto7klxledmq4opedhsoceopu5y/1.jpeg",
+          "type": "image/jpeg"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xac624883052eb2d2ed54cab87e3b4f9b8276d5d5",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "address": "0x692d5f7e1e0e3a878c94e248b8172775c486302b",
+  "type": "ERC721",
+  "name": "The Exodia NFT",
+  "tokenCount": "10",
+  "uri": "ipfs://QmUvF2BA4sr4Yf2XMus4ST4GKMJjQLyRDbrcg43ajN5iij/2.json",
+  "metadata": {
+    "dna": "d8da16e126d1de289e285287a5e664e4494c8a7ac97e91df5c556254217fe0ea",
+    "name": "Right Leg #2",
+    "description": "Exodia",
+    "image": "ipfs://QmP2rwckARcDkzLPC73yoR9xL15Q74bpfwghaSmAhkJKj6/2.png",
+    "imageHash": "ef1123b128ccbaafb4183a4e14de35a4406926cca0e8110d363eea684200ad7d",
+    "edition": 2,
+    "date": 1654871587000,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Element"
+      },
+      {
+        "trait_type": "Right Leg",
+        "value": "Osiris"
+      },
+      {
+        "trait_type": "Right Leg Armor",
+        "value": "Shai"
+      }
+    ],
+    "compiler": "Exodia: The Forbbiden One"
+  }
+}

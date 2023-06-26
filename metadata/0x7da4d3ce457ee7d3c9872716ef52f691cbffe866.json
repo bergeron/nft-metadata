@@ -1,0 +1,39 @@
+{
+  "address": "0x7da4d3ce457ee7d3c9872716ef52f691cbffe866",
+  "type": "ERC721",
+  "name": "ECDSA Series",
+  "tokenCount": "47",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=6WAqMoXcARr5mb3YuQSp",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1576214828046?alt=media&token=f34390de-bcc1-4ce4-8e1c-9c2abf2d31f9",
+    "isForSale": true,
+    "description": "Retro Bitcoin ",
+    "contractAddress": "",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted//6WAqMoXcARr5mb3YuQSp",
+    "minter": "0x56dA9F8b34dEE9Aa64B384fd6a8Dd6a39a16c186",
+    "mintedOn": {
+      "_seconds": 1576214855,
+      "_nanoseconds": 891000000
+    },
+    "price": "1",
+    "name": "Retro",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Retro"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "id": null
+  }
+}

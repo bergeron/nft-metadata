@@ -1,0 +1,41 @@
+{
+  "address": "0xbcaecf8a9f679e77d118004ea5d2265e5cf7fcd5",
+  "type": "ERC721",
+  "name": "Pixel Kitaro",
+  "tokenCount": "4000",
+  "uri": "ipfs://QmVh7HvSwNxuduLVwboRtq5NEL7ZxchytJGEtJSrX9LJAR/1.json",
+  "metadata": {
+    "name": "Pixel Kitaro #1",
+    "description": "Pixel Kitaro is 32x32 pixel art of kitaro.",
+    "image": "ipfs://QmRSyCddF5SJHZp57UuzCaauvYgpZBPA62NLKmSCpMgRjb/1.png",
+    "edition": 1,
+    "date": 1664831358032,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Brown"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Black Sukan"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tooth Pick"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Black Dad Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Orange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

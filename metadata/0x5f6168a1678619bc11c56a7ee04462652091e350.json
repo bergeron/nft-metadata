@@ -1,0 +1,67 @@
+{
+  "address": "0x5f6168a1678619bc11c56a7ee04462652091e350",
+  "type": "ERC721",
+  "name": "kljqewrkjqwekreqwr",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/260000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "260000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Non Either #1",
+    "minted": true,
+    "artist": "Rafaël Rozendaal",
+    "description": "Circles move in, circles move out, some light, some dark. 🌹 The work is responsive, it will adapt to any screen size and resolution.",
+    "script_type": "js@na",
+    "project_id": "260",
+    "curation_status": "presents",
+    "heritage_curation_status": "playground",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/260000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/260000001.png",
+    "generator_url": "https://generator.artblocks.io/260000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/260000001",
+    "royaltyInfo": {
+      "artistAddress": "0x0f441cfad93287109f5ef834bf52f4aaaa8d8ffa",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Non Either by Rafaël Rozendaal",
+    "website": "https://www.newrafael.com",
+    "token_hash": "0x70b5382510a0658d74340513fb0d47396be21c42adc1768166adaae8a4ee0789",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/260/tokens/260000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/260000001",
+    "features": {
+      "Colors": "Free",
+      "Movement": "Inward",
+      "Color Count": 11,
+      "Composition": "Spiral Dense"
+    },
+    "traits": [
+      {
+        "trait_type": "Non Either",
+        "value": "All Non Eithers"
+      },
+      {
+        "trait_type": "Non Either",
+        "value": "Colors: Free"
+      },
+      {
+        "trait_type": "Non Either",
+        "value": "Movement: Inward"
+      },
+      {
+        "trait_type": "Non Either",
+        "value": "Color Count: 11"
+      },
+      {
+        "trait_type": "Non Either",
+        "value": "Composition: Spiral Dense"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

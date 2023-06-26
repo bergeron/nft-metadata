@@ -1,0 +1,74 @@
+{
+  "address": "0xb908245101b059118dcdb3177521b1d5acdfa34a",
+  "type": "ERC721",
+  "name": "Bored Ape God Club",
+  "tokenCount": "912",
+  "uri": "ipfs://QmdF4UeKsCPvZzc2W2wHjJWs7egANux4AYkdA8iRT9D5vz/2.json",
+  "metadata": {
+    "name": "BGC #10",
+    "symbol": "BGC",
+    "description": "1999 BoredGods appeared in Solana.",
+    "seller_fee_basis_points": 999,
+    "image": "https://testlaunchmynft.mypinata.cloud/ipfs/QmP498dLycpqHR3KSFWuRiPEibnZRf4UTbSE2iadx6GWgF/2.png",
+    "external_url": "",
+    "collection": {
+      "name": "Bored Gods Club",
+      "family": "LaunchMyNFT"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Zebra"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Overalls"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "FriendshipNecklace"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BoredUnshavenKazoo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "HippieHair"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 488,
+        "display_type": "number",
+        "max_value": 1999
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/QmP498dLycpqHR3KSFWuRiPEibnZRf4UTbSE2iadx6GWgF/2.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "HL9jE2KeqQ5QYh8oKFsGoUcbErR4izsfMyZNN3cVPAxz",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "address": "0x6c3c5310b0477b4c971f6baf24a0fc83a57b7d10",
+  "type": "ERC721",
+  "name": "Tokenised Art",
+  "tokenCount": "21",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=DkjC4TNQuxi0PU8MK03G",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1585853779158?alt=media&token=976d0bae-0e2e-4da3-a5d9-737759a364c7",
+    "forSale": false,
+    "contractAddress": "0x6c3c5310b0477b4c971f6baf24a0fc83a57b7d10",
+    "description": "This token is connected to a real world painting making the purchaser of this token the official owner. The painting will be posted to the buyer after the necessary details are sent to:\nTokenisedArt@protonmail.com\nArtist: Dillan Powre\nArtwork Title: Silver River\nCompletion Date: 6th of June 2019\nDimensions: 50x40cm (20x16in)\nMedium: Acrylic paint mixed with polyvinyl acetate on cotton canvas\nCountry of Origin: Republic of Ireland\nArtwork Number: PN001AG-SR\n\nThis Certificate of Authenticity verifies the legitimacy of this tokenized painting. The artist's signature on this document attests that the artist has personally hand crafted and signed this original painting. The painting represented in this token is the rightful property of the address in possession of this token unless otherwise specified or agreed upon by the token holder.\n",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1585854102,
+      "_nanoseconds": 501000000
+    },
+    "price": 0,
+    "name": "Silver River",
+    "fiatPrice": "$0.00",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "Title",
+        "value": "Certificate of Authenticity"
+      },
+      {
+        "trait_type": "Name",
+        "value": "Silver River"
+      },
+      {
+        "trait_type": "Details",
+        "value": "Artist: Dillan Powre Artwork Title: Silver River Completion Date: 6th of June 2019 Dimensions: 50x40cm (20x16in) Medium: Acrylic paint mixed with polyvinyl acetate on cotton canvas Country of Origin: Republic of Ireland Artwork Number: PN001AG-SR"
+      },
+      {
+        "trait_type": "Terms",
+        "value": "This Certificate of Authenticity verifies the legitimacy of this tokenized painting. The artist's signature on this document attests that the artist has personally hand crafted and signed this original painting. The painting represented in this token is the rightful property of the address in possession of this token unless otherwise specified or agreed upon by the token holder."
+      },
+      {
+        "trait_type": "Image URL",
+        "value": "https://ibb.co/s172mTh"
+      },
+      {
+        "trait_type": "Email",
+        "value": "TokenisedArt@protonmail.com"
+      },
+      {
+        "trait_type": "SocialMedia1",
+        "value": "https://beta.cent.co/@TokenisedArt"
+      },
+      {
+        "trait_type": "SocialMedia2",
+        "value": "https://ello.co/tokenisedart"
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "v",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "TokenisedArt@protonmail.com"
+      }
+    ],
+    "external_url": "https://mintbase.io/my-market/0x6c3c5310b0477b4c971f6baf24a0fc83a57b7d10",
+    "type": "ERC721"
+  }
+}

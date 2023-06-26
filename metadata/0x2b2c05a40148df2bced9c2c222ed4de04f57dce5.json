@@ -1,0 +1,24 @@
+{
+  "address": "0x2b2c05a40148df2bced9c2c222ed4de04f57dce5",
+  "type": "ERC721",
+  "name": "Check Mates Official",
+  "tokenCount": "5000",
+  "uri": "ipfs://bafybeidpcogwtbukmh3mdxcjxtt4vdhdiroqykddjd6ntu5btyj4hnvoj4/1.json",
+  "metadata": {
+    "name": "CheckMates #1",
+    "description": "CheckMates is an AI-powered chess game. Each NFT represents a fixed game, played by an artificial intelligence system.",
+    "image": "ipfs://bafybeibd232nitcmmirdj6c46kocdcotq2ajdbyfwucf6xmtg4vqmakati/1.svg",
+    "external_url": "ipfs://bafybeibd232nitcmmirdj6c46kocdcotq2ajdbyfwucf6xmtg4vqmakati/1.svg",
+    "animation_url": "https://check-mates.vercel.app/htmls/1.html",
+    "attributes": [
+      {
+        "trait_type": "Winner",
+        "value": "White"
+      },
+      {
+        "trait_type": "Moves",
+        "value": 37
+      }
+    ]
+  }
+}

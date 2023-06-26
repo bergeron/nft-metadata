@@ -1,0 +1,49 @@
+{
+  "address": "0x437012159b9e9a4e9a48e3dba979da9defee7a30",
+  "type": "ERC721",
+  "name": "FutopiaNFT",
+  "tokenCount": "4444",
+  "uri": "ipfs://QmepL5uZsMhhf1wThEKTT2zAgMgAvwfxxUox9opK4RRQ4F/1.json",
+  "metadata": {
+    "dna": "94d470b1d3ef72e206f7f95bfb9c170b",
+    "name": "Futopia #1",
+    "description": "4444 Futopians trying to survive... we need your help.",
+    "image": "ipfs://QmQbVxGSn7CphvgWLxBTsuWehj26mbwWZA5ethY9bYbydr/1.gif",
+    "date": 1664013405797,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Spaceship"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Normal Skin"
+      },
+      {
+        "trait_type": "Pet",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Black Armor"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Laser"
+      },
+      {
+        "trait_type": "Head",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blindfold"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Hologram"
+      }
+    ],
+    "compiler": "FutopiaMachine"
+  }
+}

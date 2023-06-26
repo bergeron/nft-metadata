@@ -1,0 +1,68 @@
+{
+  "address": "0xad757f0083b8a4005ca898bc40c0d70b60a32b26",
+  "type": "ERC721",
+  "name": "Flux Collective x Cloudfest",
+  "tokenCount": "59",
+  "uri": "ipfs://QmNUk6mvXQhifUaLe1SPfYeERwThdfDFUzC25CFGotvnsZ",
+  "metadata": {
+    "name": "NFT isn't dead",
+    "description": "Within the last year, the NFT market seems to be popping up everywhere and I think it will continue to develop over the next few years, even though the voices were getting louder in 2021 that NFTs will disappear again. – Uwe Dresemann aka buzzlightning \n\nUwe Dresemann aka buzzlightning, after an apprenticeship as a display designer and excursions into various craft areas, devotes himself not only to creative work but also to the mediation of art. It is not only children for whom this need for and the strength for art must be awakened, but also people who, for various reasons, are in contexts outside of cultural life. Dresemann's current works of art deal with the tension between man and computer, between life and technology, between reality and virtuality and the topic of media competence.\n\nVerisart Certified: https://verisart.com/works/56571456-2749-497f-9fe3-09527d92e9c5",
+    "image": "ipfs://QmPcxZP8UM8FK9kKY6HP4ex1zxJsMpd5cDGFc9AqpRBV1B",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 1280,
+          "height": 720,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 20
+        },
+        "frameRate": 23.976025,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xf3022c86d77b3b730119a69782da12651d5039be",
+            "bps": 1000
+          }
+        ],
+        "editionInfo": null
+      }
+    },
+    "animation_url": "ipfs://QmbupjTZ1Ar1nDPnKZj8LiaZimWnwNnmE8EFuLC8oxjbpU",
+    "external_url": "https://verisart.com/works/56571456-2749-497f-9fe3-09527d92e9c5",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "buzzlightning"
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Title",
+        "value": "NFT isn't dead"
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "720x1280 px"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:20"
+      }
+    ]
+  }
+}

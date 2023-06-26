@@ -1,0 +1,50 @@
+{
+  "address": "0x5621f0501861f7b0f069b627c4b109869717df70",
+  "type": "ERC721",
+  "name": "Ottey Otters",
+  "tokenCount": "3758",
+  "uri": "https://ipfs.io/ipfs/QmamedeA8qaDzEhGtQH96u5VzhFU9pnV52WbhNrgQBghiB/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://QmaQvLQqo6nqhswVepRDeQNU1R3YuwFvc5oZVurYhZ2m7z/1.webp",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "red"
+      },
+      {
+        "trait_type": "body",
+        "value": "infected"
+      },
+      {
+        "trait_type": "emotions",
+        "value": "happy"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "none"
+      },
+      {
+        "trait_type": "clothing",
+        "value": "baseball jersey"
+      },
+      {
+        "trait_type": "hat",
+        "value": "none"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

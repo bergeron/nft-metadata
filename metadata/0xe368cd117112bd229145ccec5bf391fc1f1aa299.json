@@ -1,0 +1,60 @@
+{
+  "address": "0xe368cd117112bd229145ccec5bf391fc1f1aa299",
+  "type": "ERC721",
+  "name": "Meta Gladiators (Genesis Collection)",
+  "tokenCount": "400",
+  "uri": "ipfs://QmPTShL8HVRMToBnvY5jXFACGm1b18oQMtLK4VXsCnBa9d/1.json",
+  "metadata": {
+    "name": "Meta Gladiator #1",
+    "description": "Meta Gladiators is a play-to-earn (P2E) NFT gladiator game created for degens by degens",
+    "image": "ipfs://QmVzJuTQTNAVRrGCzDCTF4VaeMJc2dV91sc5Mew1JdHXpw/1.png",
+    "external_url": "https://metagladiators.co/gladiator/1",
+    "attributes": [
+      {
+        "trait_type": "Attack",
+        "value": 90
+      },
+      {
+        "trait_type": "Defense",
+        "value": 130
+      },
+      {
+        "trait_type": "Speed",
+        "value": 20
+      },
+      {
+        "trait_type": "Background",
+        "value": "Home_sweet_home"
+      },
+      {
+        "trait_type": "Tribe",
+        "value": "Commando_Hog"
+      },
+      {
+        "trait_type": "Bottom",
+        "value": "Camo_pants"
+      },
+      {
+        "trait_type": "Tattoos",
+        "value": "Tribe_of_douchebags"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Plate_carrier"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Balaklava"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Punch_knife"
+      }
+    ],
+    "custom_fields": {
+      "edition": 1,
+      "dna": "945c97aeecc550822fd722f4c366496f0401e57b",
+      "date": 1655587089884
+    }
+  }
+}

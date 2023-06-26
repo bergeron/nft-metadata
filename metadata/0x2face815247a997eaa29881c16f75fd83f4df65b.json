@@ -1,0 +1,26 @@
+{
+  "address": "0x2face815247a997eaa29881c16f75fd83f4df65b",
+  "type": "ERC721",
+  "name": "RabbitHole Credentials (DeFi)",
+  "tokenCount": "17506",
+  "uri": "https://rabbithole-credentials.s3.amazonaws.com/defi/metadata/1",
+  "metadata": {
+    "name": "Intro to DeFi",
+    "description": "On-chain proof of knowledge gained and skills acquired on RabbitHole",
+    "image": "https://rabbithole-credentials.s3.amazonaws.com/defi/image/1",
+    "attributes": [
+      {
+        "trait_type": "Topic",
+        "value": "DeFi"
+      },
+      {
+        "trait_type": "Level",
+        "value": "Intro"
+      },
+      {
+        "trait_type": "Season",
+        "value": 0
+      }
+    ]
+  }
+}

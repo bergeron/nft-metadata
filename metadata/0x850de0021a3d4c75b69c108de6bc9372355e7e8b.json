@@ -1,0 +1,49 @@
+{
+  "address": "0x850de0021a3d4c75b69c108de6bc9372355e7e8b",
+  "type": "ERC721",
+  "name": "MysticalPets",
+  "tokenCount": "1",
+  "uri": "https://mysticalpets.club/api/metadata/1",
+  "metadata": {
+    "name": "1",
+    "image": "https://mysticalpets.club/images/Dragon/BlackBaby.gif",
+    "attributes": [
+      {
+        "trait_type": "Species",
+        "value": "Dragon"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Evolution",
+        "value": "Baby"
+      },
+      {
+        "trait_type": "Level",
+        "value": "6"
+      },
+      {
+        "trait_type": "Strength",
+        "value": "18"
+      },
+      {
+        "trait_type": "Agility",
+        "value": "17"
+      },
+      {
+        "trait_type": "Spirit",
+        "value": "18"
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": "14"
+      }
+    ]
+  }
+}

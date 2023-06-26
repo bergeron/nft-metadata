@@ -1,0 +1,27 @@
+{
+  "address": "0x927d248989cbbeb0a66cecdf1d5ed7042f551e0b",
+  "type": "ERC721",
+  "name": "Reveal V3",
+  "tokenCount": "6",
+  "uri": "https://mainnet-sample-assets.s3.eu-west-2.amazonaws.com/reveal/1.json",
+  "metadata": {
+    "description": "We will reveal",
+    "image": "https://mainnet-sample-assets.s3.eu-west-2.amazonaws.com/reveal/artwork-01.png",
+    "name": "1",
+    "background_color": "fff",
+    "attributes": [
+      {
+        "trait_type": "Engraving",
+        "value": "Earth"
+      },
+      {
+        "trait_type": "Generation",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Redemtion Status",
+        "value": "0"
+      }
+    ]
+  }
+}

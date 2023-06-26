@@ -1,0 +1,37 @@
+{
+  "address": "0x705660531d3b38e797b7f4b469215c1e51c30226",
+  "type": "ERC721",
+  "name": "PolybetShares",
+  "tokenCount": "3",
+  "uri": "https://metadata.polybetgames.com/token?token_id=1",
+  "metadata": {
+    "description": "Prove ZENA Polybet's headquarters rights.",
+    "image": "https://ipfs.io/ipfs/bafybeibgsvzpycfpbgmph3s3wfj5sz4sl2umpyhs4p2mdd3soa2tvv7ouu/head.jpeg",
+    "name": "ZENA Polybet Head office",
+    "external_url": "https://metadata.polybetgames.com/token?token_id=1",
+    "attributes": [
+      {
+        "trait_type": "Referral Type",
+        "value": "ROLLING"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Single Rate",
+        "value": "2.45%"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Combination Rate",
+        "value": "3.8%"
+      },
+      {
+        "trait_type": "Dividend",
+        "value": "$0.00"
+      },
+      {
+        "trait_type": "Boosting Referral",
+        "value": "$0.00"
+      }
+    ]
+  }
+}

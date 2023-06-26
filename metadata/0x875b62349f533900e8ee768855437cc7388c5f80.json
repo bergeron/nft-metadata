@@ -1,0 +1,53 @@
+{
+  "address": "0x875b62349f533900e8ee768855437cc7388c5f80",
+  "type": "ERC721",
+  "name": "Punks Origins",
+  "tokenCount": "14",
+  "uri": "ipfs://QmVaPesiYVxfPjZWiL3KS6kyacteAjF7QcR8p9yfD8ZJzu/1.json",
+  "metadata": {
+    "name": "Punks Origins  #1",
+    "description": "Not affiliated with Larva Labs. The Cryptopunks devs ran the generator hundreds of times before getting the final result. Punks Origins are the revived 10,000 1/1 Punks in the blockchain, which were not included in the official collection.",
+    "external_url": "",
+    "image": "ipfs://QmcjJLD5k8WfFRHEdbXnKyAbWMMzHDWdTpkWhjG5gaVUTu/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BG copy"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Female 3"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Earring"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Messy Hair"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Nerd Glasses"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Punks Origins",
+      "family": "Punks Origins"
+    },
+    "symbol": ""
+  }
+}

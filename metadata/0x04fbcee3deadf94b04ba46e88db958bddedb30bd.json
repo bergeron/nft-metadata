@@ -1,0 +1,62 @@
+{
+  "address": "0x04fbcee3deadf94b04ba46e88db958bddedb30bd",
+  "type": "ERC721",
+  "name": "_CRYPTOSTATIONS",
+  "tokenCount": "14",
+  "uri": "ipfs://QmXT5YhPV4Wuty9EBmMCTgyndWinrpB3mQVUA7JJzkhHd3/1.json",
+  "metadata": {
+    "dna": "eda8132f50ddba0527ab3743e81381c280a2dc04",
+    "name": "0x1",
+    "description": "Randomly generated PC setups stored on the ethereum blockchain and IPFS",
+    "image": "ipfs://QmdHbDAxoAKSQFcyBZiCzsLx6EMwU9MTgWWyrdGP1228Cx/1.png",
+    "edition": 1,
+    "date": 1633711124482,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Wall",
+        "value": "Celeste"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Slate"
+      },
+      {
+        "trait_type": "Window",
+        "value": "Highrise"
+      },
+      {
+        "trait_type": "Legs",
+        "value": "No Alex"
+      },
+      {
+        "trait_type": "Desk",
+        "value": "Karlby"
+      },
+      {
+        "trait_type": "Mousepad",
+        "value": "Extended"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "White"
+      },
+      {
+        "trait_type": "Keyboard",
+        "value": "TKL Blue"
+      },
+      {
+        "trait_type": "PC",
+        "value": "ATX Vintage"
+      },
+      {
+        "trait_type": "Monitor",
+        "value": "Double Red"
+      }
+    ],
+    "compiler": "CryptoStations"
+  }
+}

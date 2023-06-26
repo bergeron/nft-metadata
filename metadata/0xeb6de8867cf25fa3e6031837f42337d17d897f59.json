@@ -1,0 +1,51 @@
+{
+  "address": "0xeb6de8867cf25fa3e6031837f42337d17d897f59",
+  "type": "ERC721",
+  "name": "test-test-123",
+  "tokenCount": "12",
+  "uri": "ipfs://QmQWBN1gwA1NpeG6oKUY9Q2rSwQsBMC4eqTRRXD5mmh7Ge/1",
+  "metadata": {
+    "name": "#0 Animated test",
+    "description": "Animated test",
+    "image": "ipfs://QmRQiF75rNDPGCqWfFnhBhyezw7mL47GpvVK4dzThdVVwS",
+    "external_url": "https://test.io",
+    "animation_url": "ipfs://QmT727HzqzxxzUneF6CTkkLRxduMZhuVY8pTcJy2Qs7Dci",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "display_type": "String",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Helmet",
+        "display_type": "String",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Helmet Detail",
+        "display_type": "String",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyes",
+        "display_type": "String",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hat",
+        "display_type": "String",
+        "value": "None"
+      },
+      {
+        "trait_type": "Accessories",
+        "display_type": "String",
+        "value": "Bitcoin Necklace"
+      },
+      {
+        "trait_type": "Hands",
+        "display_type": "String",
+        "value": "Guitar"
+      }
+    ]
+  }
+}

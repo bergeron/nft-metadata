@@ -1,0 +1,20 @@
+{
+  "address": "0x25002bcda1ed423b6d7511ee04c0777390e59d47",
+  "type": "ERC721",
+  "name": "Deviants Mint Pass NFT - Diamond",
+  "tokenCount": "500",
+  "uri": "ipfs://bafybeidnoekhtonfgu4ic4cv4mxqygvqvvpwvacwyntjyh52jknexkuiza/1",
+  "metadata": {
+    "id": 1,
+    "name": "Deviants Diamond Mint Pass #1",
+    "description": "Deviants Diamond Mint Pass NFT is a reservation system, one Diamond Mint Pass NFT is redeemable for one Deviants NFT by burning the Pass.",
+    "image": "ipfs://bafybeigiyryl2ondi6anzsh4nbzw24soc2th6wak5m2qj6hp3rbh6bkdte/Deviant_Pass-Key_Diamond_small_v1.gif",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Diamond"
+      }
+    ],
+    "compiler": "HeyMint CSV-to-Metadata Converter (heymint.xyz)"
+  }
+}

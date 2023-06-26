@@ -1,0 +1,48 @@
+{
+  "address": "0xd77e17ecc3942b6e83f67c56999c5230c70a85a4",
+  "type": "ERC721",
+  "name": "Hero Galaxy: Heroes",
+  "tokenCount": "5555",
+  "uri": "https://api.herogalaxy.io/hero/1",
+  "metadata": {
+    "name": "Hero #0001",
+    "tokenId": "1",
+    "token_id": "1",
+    "image": "https://igfs.herogalaxy.io/heroes/1.png",
+    "description": "Hero Galaxy Heroes ",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Green"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "None"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Water"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Preppy Smile"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hearts"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": ""
+      },
+      {
+        "trait_type": "Hero God",
+        "value": ""
+      },
+      {
+        "trait_type": "Sector",
+        "value": "Terra"
+      }
+    ]
+  }
+}

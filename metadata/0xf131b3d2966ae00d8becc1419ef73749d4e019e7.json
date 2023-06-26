@@ -1,0 +1,62 @@
+{
+  "address": "0xf131b3d2966ae00d8becc1419ef73749d4e019e7",
+  "type": "ERC721",
+  "name": "Tubby Tummies",
+  "tokenCount": "35",
+  "uri": "ipfs://bafybeibdpfynzqxwxwzufmg5oxuekbiimnru7vwejw7eq3m2aeoxgnwbaa/1",
+  "metadata": {
+    "name": "1",
+    "description": "A collection of cute Tubby Tummies!",
+    "external_url": "",
+    "image": "ipfs://bafybeiggssoxkv6rohfdk3nbu3qfcjdmckgkihqqfvd5mp6oeiw4hnxora/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bg_green_ps"
+      },
+      {
+        "trait_type": "body",
+        "value": "light_gf"
+      },
+      {
+        "trait_type": "body background",
+        "value": "dusk_gb"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eyes_over9000_blue_noun"
+      },
+      {
+        "trait_type": "hair 2",
+        "value": "cap_backwards_bald_h2"
+      },
+      {
+        "trait_type": "legs",
+        "value": "battle_suit_lower"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "tongueout_toad"
+      },
+      {
+        "trait_type": "shirt front",
+        "value": "sacred_hakama_tf"
+      },
+      {
+        "trait_type": "item",
+        "value": "chain_wl"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": []
+    },
+    "compiler": "NFTexport.io"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0x7a04106bc9bee1af58dd219a6ea0ac28ae84c60d",
+  "type": "ERC721",
+  "name": "The Clown Tent",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/_UGSxpVbAZyMwPM1dCUDhYYxzL4epVm8qbhcT2F0v-U",
+  "metadata": {
+    "name": "Clown Charles and The Blimp Drop",
+    "description": "A wild ride it was, even for a clown like Charles. ",
+    "image_url": "https://arweave.net/hx8ZWi2Z0fMU3DCJVyP1NcjzyXVzJoew8lSAsBnARG4",
+    "image_preview_url": "https://universeapp-assets-prod.s3.amazonaws.com/937a9cd3deb28684e718c61d268657934aeb0e8909b4b176.png",
+    "image_thumbnail_url": "https://universeapp-assets-prod.s3.amazonaws.com/354b14b335d9b8c180125406f275fabaf59b764c87dc3ca7.png",
+    "image_original_url": "https://universeapp-assets-prod.s3.amazonaws.com/b8d8c4a4ba82d8dd48943c9c0ce253c7240532128cb79e1c.png",
+    "royalties": [
+      {
+        "address": "0x5473580406d12e1cbd4c00b77e158fff0ce9424e",
+        "amount": 2.5
+      },
+      {
+        "address": "0xa8047c2a86d5a188b0e15c3c10e2bc144cb272c2",
+        "amount": 2.5
+      }
+    ],
+    "attributes": [
+      {
+        "trait_type": "Polymorph",
+        "value": "Clown Charles"
+      },
+      {
+        "trait_type": "Universe",
+        "value": "XYZ"
+      },
+      {
+        "trait_type": "Media",
+        "value": "Image"
+      },
+      {
+        "trait_type": "Type",
+        "value": "3D Render"
+      }
+    ]
+  }
+}

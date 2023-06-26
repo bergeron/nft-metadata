@@ -1,0 +1,35 @@
+{
+  "address": "0x8a4815e0e50521e6cc11eaac509f5142e1a97394",
+  "type": "ERC721",
+  "name": "manifold_test",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/DdyPN9VQv8fUPUD0fnYBl0Cr-3Rmocv0M8nbvLH-UdA",
+  "metadata": {
+    "name": "Mtest01",
+    "created_by": "Mt.Blue",
+    "description": "うちゅう",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Mt.Blue"
+      }
+    ],
+    "image_details": {
+      "bytes": 85541,
+      "format": "PNG",
+      "sha256": "423859d2ff0ff1aa1b8a2df008179f39ab2998d53da261a6ca184ad112835dcb",
+      "width": 2048,
+      "height": 2048
+    },
+    "image": "https://arweave.net/BozVnqahlaX5ogli1kSf6gDA-y41JWbiuLXiTs75crw",
+    "image_url": "https://arweave.net/BozVnqahlaX5ogli1kSf6gDA-y41JWbiuLXiTs75crw",
+    "animation_details": {
+      "bytes": 45770762,
+      "format": "WAV",
+      "duration": 173,
+      "sha256": "66f326d3e9aed004bf95da614598c9604e8704f294c242adc319cf5e152e7584"
+    },
+    "animation": "https://arweave.net/-ZAPWO-37ROkfLe9L5bZJY2wFsnKxtAVojwA52W3kEc",
+    "animation_url": "https://arweave.net/-ZAPWO-37ROkfLe9L5bZJY2wFsnKxtAVojwA52W3kEc"
+  }
+}

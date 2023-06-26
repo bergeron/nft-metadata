@@ -1,0 +1,49 @@
+{
+  "address": "0xc5f9b9845a7b04bdbc66d3f52128c4634054b23c",
+  "type": "ERC721",
+  "name": "Surprise by Nicolas Daniel",
+  "tokenCount": "100",
+  "uri": "https://arweave.net/hlT5-PSYqOVt7bNimSIIwuZK_6oqiqVgaXRW61bg8PI",
+  "metadata": {
+    "name": "Surprise #1",
+    "created_by": "Nicolas Daniel",
+    "external_url": "https://surpriseland.xyz/pieces/1",
+    "description": "Surprise is a generative collection of one-hundred pieces permanently exhibited in an immersive experience, Surprise Land.\n\nEach piece as been produced by an algorithm. The unique seed of each token drives a set of rules for cube subdivisions, animation and colors.\n\nSurprise is an emotion you can feel when you discover something unexpected. This feeling has stuck with me ever since I started writing algorithms that produce visuals based on randomness, and I love it.\n\nYou can discover Surprise #1 in the Labyrinth  \nhttps://oncyber.io/surpriseland-labyrinth\n\nAnd also in the Museum  \nhttps://oncyber.io/surpriseland-museum  \n\nOr you can download the three-dimensional file  \nhttps://gateway.pinata.cloud/ipfs/QmWibdRtQYScqaHU4yrxHcjxPeeNqMxNKku9GiekUZTwNG/1.glb",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Nicolas Daniel"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Labyrinth"
+      }
+    ],
+    "animation_details": {
+      "bytes": 5879720,
+      "format": "MP4",
+      "duration": 2,
+      "sha256": "23b9a8b9edb4aae541ad4625a381f3deae0711346a5eaf1f6c195867b71fa2fa",
+      "width": 1920,
+      "height": 1920,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/dJleadhljfjNZeT6GE2qQXlmDox0yprIBh2X2TG9ptA",
+    "animation_url": "https://arweave.net/dJleadhljfjNZeT6GE2qQXlmDox0yprIBh2X2TG9ptA",
+    "image_details": {
+      "bytes": 5368660,
+      "format": "GIF",
+      "sha256": "c3bfff788599b82f77100e978f8d5f536c27659ec1de1c9acf13e1f7008a90dd",
+      "width": 540,
+      "height": 540
+    },
+    "image": "https://arweave.net/bHQnvx0SvwmfIt7PtlOmfEUz15aAQDcJwOsi5IwCNNM",
+    "image_url": "https://arweave.net/bHQnvx0SvwmfIt7PtlOmfEUz15aAQDcJwOsi5IwCNNM"
+  }
+}

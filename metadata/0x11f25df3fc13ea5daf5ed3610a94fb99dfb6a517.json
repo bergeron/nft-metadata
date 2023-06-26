@@ -1,0 +1,45 @@
+{
+  "address": "0x11f25df3fc13ea5daf5ed3610a94fb99dfb6a517",
+  "type": "ERC721",
+  "name": "BLVD",
+  "tokenCount": "5",
+  "uri": "https://raw.githubusercontent.com/BULVRD-Tech/BULVRD.ERC721-Maps/master/giveaways/gold_world/gold_world.json",
+  "metadata": {
+    "name": "BLVD Map G O L D E N . W O R L D",
+    "image": "https://raw.githubusercontent.com/BULVRD-Tech/BULVRD.ERC721-Maps/master/giveaways/gold_world/gold_world.jpg",
+    "description": "T H E  G O L D E N . W O R L D",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "season",
+        "value": 1
+      },
+      {
+        "trait_type": "name",
+        "value": "G O L D E N  W O R L D"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Day"
+      },
+      {
+        "trait_type": "level",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "supply",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "map_id",
+        "value": 0
+      }
+    ],
+    "external_url": "https://bulvrdapp.com/map_styles",
+    "background_color": "FFD700",
+    "styleUrl": "mapbox://styles/bulvrdapp/cjxy058i00dl41dnv4pxxpf5e",
+    "buildingHex": "#FFD700"
+  }
+}

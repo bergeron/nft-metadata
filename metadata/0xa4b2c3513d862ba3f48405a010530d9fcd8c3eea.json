@@ -1,0 +1,47 @@
+{
+  "address": "0xa4b2c3513d862ba3f48405a010530d9fcd8c3eea",
+  "type": "ERC721",
+  "name": "Deep Space x Cosmos Astro Art",
+  "tokenCount": "25",
+  "uri": "https://arweave.net/wJSQoEmHLNuGCB1Ieh13g14MMFFJRhnJYPo-krTbLy4/1",
+  "metadata": {
+    "name": "Deep Space Collection # 1. Carina",
+    "created_by": "Cosmos Astro Art",
+    "description": "The Carina Nebula is a stunningly beautiful and vast star-forming region located in the southern sky, approximately 7,500 light-years away from Earth in the constellation Carina. The nebula's vibrant colors and intricate structures are formed by the intense radiation and winds from newly formed massive stars, which are sculpting the surrounding gas and dust into dazzling shapes. \n\nAt the heart of the nebula lies the massive star cluster, Trumpler 14, which contains hundreds of hot, young stars that illuminate the gas and dust clouds around them.\n\nAbout the Deep Space Collection:\n\nShot entirely with my rooftop telescope from the urban skies of Buenos Aires, the Deep Space Collection features many objects observable only from the southern hemisphere. \n\nAll images in the collection were shot using individual narrowband filters which cut off most of the light and allow only very specific wavelengths to pass (the light emitted from ionized hydrogen, oxygen and sulfur), making it possible to photograph deep space objects even from the highly light polluted skies of the city.\n\nThe images from each separate filter are then processed individually, combined and mapped to RGB channels for a final color image. \n\nTwo different color mapping palettes were used in this collection: SHO, where sulfur is mapped to red, hydrogen to green and oxygen to blue in what is referred to as \"Hubble Palette\" processing (as used in the images the famous space telescope) and HOO, where hydrogen is mapped to red, and oxygen to blue and green.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Cosmos Astro Art"
+      },
+      {
+        "trait_type": "Object type",
+        "value": "Emission nebula"
+      },
+      {
+        "trait_type": "Distance",
+        "value": "8500 ly"
+      },
+      {
+        "trait_type": "Exposure time",
+        "value": "17 hours"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "SHO"
+      },
+      {
+        "trait_type": "Constellation",
+        "value": "Carina"
+      }
+    ],
+    "image_details": {
+      "bytes": 11433756,
+      "format": "JPEG",
+      "sha256": "a95e0d49178b0979877346792249a7022ebd300cc3edc05fa1db5a749dd0f4b6",
+      "width": 7776,
+      "height": 4979
+    },
+    "image": "https://arweave.net/RbgAOfjMivALHF6s2XXYwhDC_Q3uOlO9x28jK08hNq4",
+    "image_url": "https://arweave.net/RbgAOfjMivALHF6s2XXYwhDC_Q3uOlO9x28jK08hNq4"
+  }
+}

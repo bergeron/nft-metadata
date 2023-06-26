@@ -1,0 +1,63 @@
+{
+  "address": "0xc79a140fe0dd1f4e2e3db1401d87f1fd840e398a",
+  "type": "ERC721",
+  "name": "Sacred Unions",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/sSJurg5p26SsGcceGhntFJn0sRyiMQhZ0LfZ75TCP3Y",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1649151486
+      },
+      {
+        "trait_type": "Creator",
+        "value": "thesacrednft"
+      }
+    ],
+    "description": "eternally thankful.",
+    "external_url": "https://cxip.io/nft/0xc79a140fe0dd1f4e2e3db1401d87f1fd840e398a/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/K42eEXhcAuOzKZymmCHsUonOnCMTRDlmQHb0N9Ddrlk",
+    "imageUrl": "https://arweave.net/K42eEXhcAuOzKZymmCHsUonOnCMTRDlmQHb0N9Ddrlk",
+    "name": "Sacred Crypto Punk 8219",
+    "properties": {
+      "created_at": "2022-04-05T09:38:06.000000Z",
+      "creator_wallet": "0xa31abf770e71be96f0730631f1b80465badd7567",
+      "description": "eternally thankful.",
+      "image": "https://arweave.net/K42eEXhcAuOzKZymmCHsUonOnCMTRDlmQHb0N9Ddrlk",
+      "imageUrl": "https://arweave.net/K42eEXhcAuOzKZymmCHsUonOnCMTRDlmQHb0N9Ddrlk",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "5 April 2022",
+      "name": "Sacred Crypto Punk 8219",
+      "nft_type": "non-fungible image token (image/jpeg)",
+      "preview_media_file": "https://arweave.net/ANt0sfcuuBIlkrnkb63URabHqWEj0SeSKnu2AG8xLHQ",
+      "preview_media_file_dimensions": "360x360",
+      "preview_media_file_size": 120157,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "1280x1280",
+      "raw_media_file": "https://arweave.net/vU8fFS8lfRxo_2PgFk_af6Iw1WHRMFTjoRkXWCNVy2s",
+      "raw_media_file_size": 258950,
+      "raw_media_file_spec": "JPEG 1280x1280 1280x1280+0+0 8-bit sRGB 258950B 0.000u 0:00.000",
+      "raw_media_file_type": "image/jpeg",
+      "raw_media_format": "square",
+      "raw_media_signature": "0x995efb60351ad0e7c6f7f102473b414ed4c573ab624d8ff9fbc69a79733ea43c",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/ANt0sfcuuBIlkrnkb63URabHqWEj0SeSKnu2AG8xLHQ",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Sacred Crypto Punk 8219",
+      "total_supply": 1
+    },
+    "title": "Sacred Crypto Punk 8219"
+  }
+}

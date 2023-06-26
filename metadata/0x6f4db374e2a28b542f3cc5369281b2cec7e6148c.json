@@ -1,0 +1,48 @@
+{
+  "address": "0x6f4db374e2a28b542f3cc5369281b2cec7e6148c",
+  "type": "ERC721",
+  "name": "Harrys PFPs",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/6p5FQJY68FAac6yfJqjfOjQZlS2IRL_WjmAc2TykkhA",
+  "metadata": {
+    "name": "Harry's First PFP",
+    "created_by": "harryschwartz",
+    "external_url": "https://twitter.com/hschwiz",
+    "description": "I wanted a hexagon on Twitter so I minted my own PFP.",
+    "attributes": [
+      {
+        "display_type": "number",
+        "max_value": "10",
+        "value": "10",
+        "trait_type": "Degen"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Bullish",
+        "value": "10",
+        "max_value": "10"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Forester"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "The North Face"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Pacsun"
+      }
+    ],
+    "image_details": {
+      "bytes": 462192,
+      "format": "JPEG",
+      "sha256": "67614414134f203e79b502f127de589cdac8dfa44465baedf12282460985cbbb",
+      "width": 2059,
+      "height": 2060
+    },
+    "image": "https://arweave.net/uAhTszk-ivIXDBNz4rJatek0t2BLGH6t-Z2knEUdZ9A",
+    "image_url": "https://arweave.net/uAhTszk-ivIXDBNz4rJatek0t2BLGH6t-Z2knEUdZ9A"
+  }
+}

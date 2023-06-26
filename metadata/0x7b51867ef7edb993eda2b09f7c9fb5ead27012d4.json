@@ -1,0 +1,41 @@
+{
+  "address": "0x7b51867ef7edb993eda2b09f7c9fb5ead27012d4",
+  "type": "ERC721",
+  "name": "CoolCyclops",
+  "tokenCount": "10",
+  "uri": "ipfs://QmXQhJ5sDDooexcNU3WG2ESTSSDDFZxV8XmvdxFMS7gCYA/1",
+  "metadata": {
+    "name": "CuteCyclop #1",
+    "description": "Can you spare an eye?\nCollection of 1,000+one-eyed dinky NFT's.",
+    "image": "ipfs://bafybeih65iobix4wmhm5dpkv4zucp5rjel7ymaqhnhwpf3xxpjptc2jlbm/2.png",
+    "edition": 2,
+    "date": 1654696055399,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Cyanface"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Happyeye"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Headphones"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Slingshot_stone"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0x0faaacc3f18b0e93951626cd21ca9a17e1d6d6a1",
+  "type": "ERC721",
+  "name": "We Like The Stonk [WLTS]",
+  "tokenCount": "21",
+  "uri": "ipfs://QmbNDu1C2p8vhnVYKnTmTnTdQ1NLWz61Es7ZgnEpr4QqGB/1.json",
+  "metadata": {
+    "name": "WeLikeTheStonk #1",
+    "description": "Your favorite stonk NFT",
+    "image": "ipfs://QmbmZamYWVmG34sq9yrx1RQp3Gri4eseE85NyMg1WmuTSH/1.png",
+    "dna": "b8b6005624d5e7fd75542050ea637e22f12e21aa",
+    "edition": 1,
+    "date": 1641522318585,
+    "attributes": [
+      {
+        "trait_type": "Date",
+        "value": "March 4, 2005"
+      },
+      {
+        "trait_type": "Close Price",
+        "value": "$10 to $20"
+      },
+      {
+        "trait_type": "% Change",
+        "value": "0% to 2%"
+      }
+    ],
+    "compiler": "WLTS SuperStonkCompiler"
+  }
+}

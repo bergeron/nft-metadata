@@ -1,0 +1,35 @@
+{
+  "address": "0xc0b0361dcfd434978375a06dd223074e6e986fab",
+  "type": "ERC721",
+  "name": "Alpy Research",
+  "tokenCount": "3",
+  "uri": "https://api.alpy-research.xyz/metadata.getTokenData?address=0x15466e89424c359a7a11d355a64336cc32108102&chainId=1",
+  "metadata": {
+    "name": "Alpy, who made 508 steps",
+    "description": "I've reached Empire State Building!",
+    "external_link": "https://alpy-research.xyz",
+    "attributes": [
+      {
+        "trait_type": "Participant",
+        "value": "0x15466e89424c359a7a11d355a64336cc32108102"
+      },
+      {
+        "trait_type": "Steps",
+        "value": 508
+      },
+      {
+        "trait_type": "Meters",
+        "value": 387.1
+      },
+      {
+        "trait_type": "Location",
+        "value": "Empire State Building"
+      },
+      {
+        "trait_type": "Dimension",
+        "value": "Height"
+      }
+    ],
+    "image": "https://api.alpy-research.xyz/metadata.getImage?address=0x15466e89424c359a7a11d355a64336cc32108102&chainId=1&hash=2a16c2e5b04c602c27cad6d9f90e84cc"
+  }
+}

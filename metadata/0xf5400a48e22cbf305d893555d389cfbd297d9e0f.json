@@ -1,0 +1,50 @@
+{
+  "address": "0xf5400a48e22cbf305d893555d389cfbd297d9e0f",
+  "type": "ERC1155",
+  "name": "Forever Supper Remixed",
+  "tokenCount": "2",
+  "uri": "ipfs://QmX6oyGeEfaT4Sh599967siMLg1k734nGEFSQa2SYN2dW8/1/token.json",
+  "metadata": {
+    "async-attributes": {
+      "artists": [
+        "0xb3866e0292d10ee4bf69534479b5113697d1c681"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "state": {
+                "label": "Forever Supper Remix",
+                "uri": "QmYnp7mJXEXujQWPiJsgsrPgDxxrJxMKPJLd6CD7BxY5nx"
+              },
+              "id": "Back Right Screen"
+            }
+          ]
+        }
+      ]
+    },
+    "name": "Forever Supper Remix",
+    "image": "ipfs://QmbherGdPvB6Q3zQfmhnKwm5ECwzLiuyV6A8PzbZeVwKRx",
+    "description": "A remix collab with :\nGremplin\ndefiantsquid\nFabiano Speziari\nGeorge Boya\nShortcut\nSturec\nSkeenee\nuczine\nJaen\nMr. Richi\nSophie Sturdevant\nneurocolor\nHaru Komoda\n105 Collective (Stina Jones, urben, oculardelusion, Unrealcity)\n0xMJ\nNeonGlitch86\nROBNESS\nDAILLY\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Eclectic Method"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Back Right Screen"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "Forever Supper Remixed"
+      }
+    ]
+  }
+}

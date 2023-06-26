@@ -1,0 +1,34 @@
+{
+  "address": "0xa3bcf0e6aed1851a8612f34f90947c2a0eeef28d",
+  "type": "ERC721",
+  "name": "Mintable Governance NFT",
+  "tokenCount": "237",
+  "uri": "https://gov.mintable.app/metadata/1",
+  "metadata": {
+    "address": "0x445CaAa21B44a85372e1B217309bB1CA6Cd063e1",
+    "name": "Mintable Voting NFT",
+    "title": "Mintable Voting NFT",
+    "subtitle": "MINT - a NFT with votes inside to be used in Mintable's DAO",
+    "symbol": "MINT",
+    "tokenId": "1",
+    "url": "https://mintable.app/vote",
+    "animation_url": "https://d3luz8cn6n4wh0.cloudfront.net/voting_nft_gif.gif",
+    "baseURI": "https://gov.mintable.app/metadata",
+    "category": "Voting NFT",
+    "vote_balance": "Unknown",
+    "description": "This NFT contains votes that can be used in the world's first ever NFT only DAO. Each NFT has a voting balance that can be used to participate in the governance of Mintable.app's platform.",
+    "image": "https://d3luz8cn6n4wh0.cloudfront.net/voting_nft_both.png",
+    "original_creator": "0x7638fB46bFAb88344b9770b39E09F30e2912DD52",
+    "preview_images": [
+      "https://d3luz8cn6n4wh0.cloudfront.net/voting_nft_both.png",
+      "https://d3luz8cn6n4wh0.cloudfront.net/voting_nft_gif.gif"
+    ],
+    "attributes": [
+      {
+        "trait_type": "Vote Balance",
+        "value": "Unknown"
+      }
+    ],
+    "token_id": "1"
+  }
+}

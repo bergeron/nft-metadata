@@ -1,0 +1,30 @@
+{
+  "address": "0x7c2ca289589d385b3a0fd1b0e94ade2d6ab89297",
+  "type": "ERC721",
+  "name": "The Hoodies",
+  "tokenCount": "2",
+  "uri": "https://storage.googleapis.com/the_hoodies/metadata/1",
+  "metadata": {
+    "name": "The hoodies girl #Mio",
+    "description": "名前:澪　少し気の強い女の子。いつも詩音のことを気にかけている。\nName:Mio  she is a little strong girl. she always cares about Shion.",
+    "image": "https://storage.googleapis.com/the_hoodies/image/1.png",
+    "attributes": [
+      {
+        "trait_type": "GENDER",
+        "value": "Girl"
+      },
+      {
+        "trait_type": "COLOR",
+        "value": "Green"
+      },
+      {
+        "trait_type": "ANIMAL",
+        "value": "Cat"
+      },
+      {
+        "trait_type": "SWEET",
+        "value": "Ice"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0xeafaa14a3a00ad66123421a68a7dbd7d544923b2",
+  "type": "ERC721",
+  "name": "JourneyNFT V2",
+  "tokenCount": "3",
+  "uri": "ipfs://QmZyV5Ek4S8mtCu9jv4Y8oB1ER87XYB16rEaSa9exhHqqD",
+  "metadata": {
+    "description": "Journey NFT Collection, one day five countries!",
+    "external_url": "https://ipfs.io/ipfs/QmefNMWiaFwC1xP3XhN1VXDSMuy4Nn5JtStv1WsMHL6BDm?filename=dublin-airport.JPG",
+    "image": "https://ipfs.io/ipfs/QmefNMWiaFwC1xP3XhN1VXDSMuy4Nn5JtStv1WsMHL6BDm?filename=dublin-airport.JPG",
+    "name": "Journey",
+    "background_color": "#183675",
+    "attributes": [
+      {
+        "trait_type": "location",
+        "value": "Dublin, Ireland"
+      },
+      {
+        "trait_type": "latitude",
+        "value": "53.425702845922444"
+      },
+      {
+        "trait_type": "longitude",
+        "value": "-6.2411281440668"
+      }
+    ]
+  }
+}

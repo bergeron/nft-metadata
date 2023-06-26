@@ -1,0 +1,63 @@
+{
+  "address": "0x9e5836809fe456713237cdb3634e5283f34f5741",
+  "type": "ERC721",
+  "name": "Blockchain Bunnies",
+  "tokenCount": "25",
+  "uri": "ipfs://bafybeiff6zp2247cfpidm5m4cuziokwwoqjteptpq43xgsmvkk24eleisi/1.json",
+  "metadata": {
+    "name": "Blockchain Bunny #1",
+    "description": "7777 bunnies randomly generated on-chain from almost 27'000'000 possible combinations.",
+    "external_url": "",
+    "image": "ipfs://bafybeiepdd6q62maxykgko6scenp2zfru7ryephq7egaftvuyhzylu6ltu/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Orange Ears"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes Dollar Signs"
+      },
+      {
+        "trait_type": "Feet",
+        "value": "Yellow Feet"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "Yellow Tail"
+      },
+      {
+        "trait_type": "Health-Bar",
+        "value": "7"
+      },
+      {
+        "trait_type": "Faction",
+        "value": "Subtraction"
+      },
+      {
+        "trait_type": "Level",
+        "value": "7"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://onemint.io/",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Blockchain Bunnies",
+      "family": "Blockchain Bunnies"
+    },
+    "symbol": ""
+  }
+}

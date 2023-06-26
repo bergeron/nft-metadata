@@ -1,0 +1,36 @@
+{
+  "address": "0x85aa46fde08b84b645c1f590ccfe24d363bc9159",
+  "type": "ERC721",
+  "name": "Brix Official",
+  "tokenCount": "44",
+  "uri": "ipfs://bafybeifjbeuriu4foenzyiff52a4prowp45bit6cre5zk3nj7rn6beh77u/1.json",
+  "metadata": {
+    "name": "BRIX#1",
+    "description": "Brix NFT",
+    "external_url": "https://www.brixnft.io",
+    "image": "ipfs://bafybeib2eilqaks4riapwbs4snoompxtsxbofi2cigwk647gvqkjotosfm/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Brix 1",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Brix 2",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Brix 4",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Brix 6",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Brix 8",
+        "value": "Blue"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

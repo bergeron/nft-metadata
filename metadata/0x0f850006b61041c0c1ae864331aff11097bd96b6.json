@@ -1,0 +1,26 @@
+{
+  "address": "0x0f850006b61041c0c1ae864331aff11097bd96b6",
+  "type": "ERC1155",
+  "name": "Etherjump Builder Items",
+  "tokenCount": "3",
+  "uri": "https://api.etherjump.game/builderItemsMetadata/1",
+  "metadata": {
+    "name": "Rare Builder Pack (Halloween 2022 Exclusive)",
+    "image": "https://api.etherjump.game/builderItems/images/rareHalloweenBuilderPack",
+    "description": "Includes:\n\n• Graveyard Biome\n\n• Pumpkin Runner\n\n• Candy\n\nFor use in Etherjump’s Level Builder: https://build.etherjump.game/",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Builder Pack"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Halloween 2022"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      }
+    ]
+  }
+}

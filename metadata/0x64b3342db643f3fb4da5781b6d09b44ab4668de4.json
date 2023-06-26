@@ -1,0 +1,31 @@
+{
+  "address": "0x64b3342db643f3fb4da5781b6d09b44ab4668de4",
+  "type": "ERC1155",
+  "name": "Unidentified contract - hoihiVLb7M",
+  "tokenCount": "581",
+  "uri": "https://meta.wows.finance/wolves_assets/metadata/0000.json",
+  "metadata": {
+    "name": "BUGSEY EYES",
+    "description": "He has sure-fire ways to build anticipation and excitement for his multiple businesses. Our Bugsey has an intense stare over there and is hungry for that sizzle. By the time the product’s launched, he’s found the hype somewhere else. On a never-ending quest for thrills, he’s the hound with hunger running through his blood.",
+    "image": "https://meta.wows.finance/wolves_assets/cards/bois/level1/BUGSEY-500.jpg",
+    "attributes": [
+      {
+        "trait_type": "Team",
+        "value": "One of the Bois"
+      },
+      {
+        "trait_type": "Cryptofolio Level",
+        "value": "PRODIGY"
+      }
+    ],
+    "external_url": "https://app.wows.finance/detail?type=bois&levelId=0&cardId=bugsey",
+    "localization": {
+      "uri": "./0000_{locale}.json",
+      "default": "en_US",
+      "locales": [
+        "en_US",
+        "zh_CN"
+      ]
+    }
+  }
+}

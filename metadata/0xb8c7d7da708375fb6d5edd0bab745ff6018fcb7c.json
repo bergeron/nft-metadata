@@ -1,0 +1,58 @@
+{
+  "address": "0xb8c7d7da708375fb6d5edd0bab745ff6018fcb7c",
+  "type": "ERC721",
+  "name": "Doggies NFT",
+  "tokenCount": "210",
+  "uri": "ipfs://QmP1yfdsfLi2Kiodxe2FVkhedNGSSLVJFxnK24wH9Rcvvs/1",
+  "metadata": {
+    "name": "Doggies NFT #1",
+    "description": "10,000 procedurally generated pixel art dogs",
+    "image": "ipfs://QmYBruz56JAXHTpikVnSvEcmDPjVXVsqptiFiMb7EW4h9c/1.png",
+    "dna": "5bdcd057cef3a7e375c37822f3e8d5d4c1fc0aef",
+    "edition": 1,
+    "date": 1643249647621,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Outline"
+      },
+      {
+        "trait_type": "Eye Colour",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Breed",
+        "value": "Husky"
+      },
+      {
+        "trait_type": "Neck Accessory",
+        "value": "Blue_Black_Collar"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tongue"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "No_Glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Orange_Beanie"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "No_Earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "address": "0xd7b65d5151c497302a5903c4e236892c2c7b6227",
+  "type": "ERC721",
+  "name": "Froot Invaders",
+  "tokenCount": "999",
+  "uri": "https://api.ryps.co/frootlings/id/1",
+  "metadata": {
+    "name": "Supreme Frootling",
+    "description": "Read the Frootlings story at frootinvaders.com\n\nAnd become a Froot Fren by joining the Badfroot community at badfroot.com/discord",
+    "image": "https://api.ryps.co/frootlings/images/01.png",
+    "edition": 2,
+    "artist": "Badfroot",
+    "artistwww": "https://badfroot.com",
+    "developer": "Jeff Sarris",
+    "developerwww": "https://RYPS.co",
+    "attributes": [
+      {
+        "trait_type": "Atmosphere",
+        "value": "Planet Froot"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Supreme Frootling"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Supreme Frootling"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Supreme Frootling"
+      },
+      {
+        "trait_type": "Antenna",
+        "value": "Supreme Frootling"
+      },
+      {
+        "trait_type": "Gear",
+        "value": "Supreme Frootling"
+      }
+    ],
+    "compiler": "https://RYPS.co"
+  }
+}

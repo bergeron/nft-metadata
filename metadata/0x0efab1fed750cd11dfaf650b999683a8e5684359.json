@@ -1,0 +1,53 @@
+{
+  "address": "0x0efab1fed750cd11dfaf650b999683a8e5684359",
+  "type": "ERC721",
+  "name": "RetroVerseNFT",
+  "tokenCount": "18",
+  "uri": "https://storage.googleapis.com/retroverse-nft/metadata/1.json",
+  "metadata": {
+    "name": "01-JAN-1990",
+    "description": "Retroverse NFT",
+    "image": "https://storage.googleapis.com/retroverse-nft/1.png",
+    "external_url": "https://storage.googleapis.com/retroverse-nft/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Body Tattoo"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black Tuxedo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Brown Medium Brushed"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tongue"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Lost"
+      },
+      {
+        "trait_type": "VR Headset",
+        "value": "Normal"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Date",
+        "value": 631211711
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0x52af70465a5b6acbab6392d9b09c3502696695a7",
+  "type": "ERC721",
+  "name": "CryptoBar P2P Annual Pass vE",
+  "tokenCount": "3",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x52af70465a5b6acbab6392d9b09c3502696695a7/1",
+  "metadata": {
+    "name": "CryptoBar P2P 1 year pass vE",
+    "description": "CryptoBar P2PのNFT会員証です。購入日から365日間有効。\n本NFT会員証の使用方法は公式HPをご覧ください。\n公式HP：https://cryptobarp2p.io/\n\nCryptoBar P2P Membership NFT. Valid for 365 days from the date of purchase.\nPlease refer to the official HP for how to use this NFT membership card.\nOfficial HP: https://cryptobarp2p.io/",
+    "image": "https://storage.unlock-protocol.com/95345732-5e37-450e-8ba4-9a120c79d75c",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1714208051
+      },
+      {
+        "value": "5-6-8 Ginza, chuoku, Tokyo, Japan",
+        "trait_type": "event_address"
+      },
+      {
+        "value": "Annual Pass",
+        "trait_type": "Type"
+      },
+      {
+        "value": "365",
+        "trait_type": "Duration"
+      }
+    ],
+    "background_color": "000000",
+    "expiration": 1714208051,
+    "tokenId": "1",
+    "owner": "0x4d3181f05debc89b852871c38b4d894019c2f65a",
+    "keyId": "1",
+    "lockAddress": "0x52aF70465A5b6aCBaB6392D9B09c3502696695A7",
+    "network": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "address": "0xf262a3b2a6973db844b6c82187d917e3b7a89170",
+  "type": "ERC721",
+  "name": "Autentica Avatars",
+  "tokenCount": "1",
+  "uri": "https://s3.us-east-1.amazonaws.com/nft.autentica.io/avatars/1/1.json",
+  "metadata": {
+    "image": "https://s3.us-east-1.amazonaws.com/nft.autentica.io/avatars/1/1.png",
+    "name": "Autentica",
+    "description": "Autentica logo mark in Kanye Blue.",
+    "external_url": "https://www.autentica.io",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Kanye Blue"
+      },
+      {
+        "trait_type": "Tint",
+        "value": "White"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "address": "0xbc00c54306c12a881cfe332bed4469bdbb10763a",
+  "type": "ERC721",
+  "name": "TridenTech Pass",
+  "tokenCount": "50",
+  "uri": "https://api.tridentech.io/1",
+  "metadata": {
+    "id": 1,
+    "name": "TridenTech Genesis #1",
+    "description": "TridenTech Guild Pass gives you exclusive access to our community.",
+    "image": "https://api.tridentech.io/vid/black.mp4",
+    "frontimage": "https://api.tridentech.io/img/black-front.png",
+    "backimage": "https://api.tridentech.io/img/black-back.png",
+    "access": true,
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Trident Black"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "address": "0x9e0c32ff743d567f4d046f82aa03848a99191e84",
+  "type": "ERC721",
+  "name": "The iGuy NFT",
+  "tokenCount": "31",
+  "uri": "ipfs://QmcfigEzA4xXUBP6p1tJwkoSjS4ktfFd79iVn4G8DyDiSJ/1",
+  "metadata": {
+    "name": "iGuy NFT #2",
+    "description": "The first honest and secure gambling NFT game in the world",
+    "image": "ipfs://QmaCPsyNoifzUBYYuPMQ7445g5ozpuyJTF32eTmbroSF9h/1.png",
+    "attributes": [
+      {
+        "trait_type": "NFT World: Chinese Wall",
+        "value": "Chinese Wall Green 95"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Caucasic"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "Blue octopus!"
+      },
+      {
+        "trait_type": "Expressions",
+        "value": "WHAT"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Speed shirt green"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Gramps"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Beanie Purple"
+      },
+      {
+        "trait_type": "Phones",
+        "value": "Flip"
+      }
+    ],
+    "baseUri": "ipfs://QmZFD3FrkuJCPkxpWgM22SqK7bmjvgW8WbY8XP1Z5rYxtd/2.png",
+    "custom_fields": {
+      "dna": "62aa29871d8a699c3e43c5a34cbae301cce07b7a",
+      "edition": 2,
+      "date": 1668458624934,
+      "compiler": "iGuy art engine"
+    }
+  }
+}

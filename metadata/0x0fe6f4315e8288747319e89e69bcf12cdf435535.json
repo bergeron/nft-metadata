@@ -1,0 +1,38 @@
+{
+  "address": "0x0fe6f4315e8288747319e89e69bcf12cdf435535",
+  "type": "ERC721",
+  "name": "Gangnam Art Club",
+  "tokenCount": "2",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=L5LrkJonLMJob0PmU2F3",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1578360070654?alt=media&token=c6b3b41a-8726-44d0-9a5c-787b2877b14d",
+    "isForSale": false,
+    "description": "Gangnam Art Club meetup 1/6/2020",
+    "contractAddress": "0x0fe6f4315e8288747319e89e69bcf12cdf435535",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x0fe6f4315e8288747319e89e69bcf12cdf435535/L5LrkJonLMJob0PmU2F3",
+    "minter": "0x9AF481276b075e036BC23E887a8Bd275e69Ef74C",
+    "mintedOn": {
+      "_seconds": 1578360229,
+      "_nanoseconds": 76000000
+    },
+    "price": "0",
+    "name": "Robness explaining his work to a crowd",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Robness explaining his work to a crowd"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

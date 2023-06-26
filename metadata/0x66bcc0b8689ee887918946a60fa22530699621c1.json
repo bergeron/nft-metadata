@@ -1,0 +1,25 @@
+{
+  "address": "0x66bcc0b8689ee887918946a60fa22530699621c1",
+  "type": "ERC721",
+  "name": "The Non Fungible Times",
+  "tokenCount": "33",
+  "uri": "ipfs://bafkreihxltaczgiimw5wo67n324jz6mpdqwwm7wnzzqjclli75ydiuqkxm/",
+  "metadata": {
+    "name": "Non-Fungible Times Limited Edition",
+    "description": "Ethereum transitions from Proof of Work to Proof of Stake.",
+    "image": "ipfs://QmRPbDxadhWSB5ey84wEchYhsbNcUd4tRZcvLZDDo5C2a3/merg.mp4",
+    "external_link": "external-link-url",
+    "seller_fee_basis_points": 100,
+    "fee_recipient": "multisig address",
+    "attributes": [
+      {
+        "trait_type": "Year",
+        "value": "2000s"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Cryptocurrency"
+      }
+    ]
+  }
+}

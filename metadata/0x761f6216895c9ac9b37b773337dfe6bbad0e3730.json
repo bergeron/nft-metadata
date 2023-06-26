@@ -1,0 +1,23 @@
+{
+  "address": "0x761f6216895c9ac9b37b773337dfe6bbad0e3730",
+  "type": "ERC1155",
+  "name": "Iscariot",
+  "tokenCount": "11",
+  "uri": "https://iscariot.net/tokens/1.json",
+  "metadata": {
+    "name": "Iscariot #1",
+    "description": "Illuminator. A utility to access Volume 1 hints.",
+    "image": "https://iscariot.net/media/uploads/tokens/1.png",
+    "external_url": "https://iscariot.net/tokens/1.json",
+    "attributes": [
+      {
+        "trait_type": "type",
+        "value": "Utility"
+      },
+      {
+        "trait_type": "volume",
+        "value": "1"
+      }
+    ]
+  }
+}

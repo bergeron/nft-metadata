@@ -1,0 +1,35 @@
+{
+  "address": "0x9e85db9daef510856aac8ec66a5eed585796ab3e",
+  "type": "ERC721",
+  "name": "Slyly Foxes",
+  "tokenCount": "10000",
+  "uri": "https://slylyfoxes.io/data/1.json",
+  "metadata": {
+    "name": "Slyly Fox #1",
+    "description": "Slyly Foxes is a collection of 10k cute foxes.",
+    "image": "https://slylyfoxes.io/data/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Mint"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "Regular"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sailor"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Alien"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Pumpkin"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0xb7a9c552ce78bb5eeb6cee1a0ae3224ae35c76ed",
+  "type": "ERC721",
+  "name": "#UkraineHeroes",
+  "tokenCount": "57",
+  "uri": "https://help.art/api/v1/metadata/1",
+  "metadata": {
+    "name": "Ukraine Hero #1",
+    "description": "Created to help the people of Ukraine! 100% of the funds will be donated directly to Ukraine.",
+    "image": "ipfs://bafybeiczp75ocp4klsmdyde2vk5gxspp65bikqgyj2ltvvume6nkygktxi/image.png",
+    "attributes": [
+      {
+        "trait_type": "Person Type",
+        "value": "Medic"
+      },
+      {
+        "trait_type": "Vehicle",
+        "value": "Police car"
+      },
+      {
+        "trait_type": "Handgear (L)",
+        "value": "Stethoscope"
+      },
+      {
+        "trait_type": "Handgear (R)",
+        "value": "Stethoscope"
+      },
+      {
+        "trait_type": "Pet",
+        "value": "Cat"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Paramedic helmet"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Farm"
+      }
+    ]
+  }
+}

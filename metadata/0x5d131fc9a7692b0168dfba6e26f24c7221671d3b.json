@@ -1,0 +1,28 @@
+{
+  "address": "0x5d131fc9a7692b0168dfba6e26f24c7221671d3b",
+  "type": "ERC1155",
+  "name": "Jungle by ESCAPEPLAN",
+  "tokenCount": "8",
+  "uri": "ipfs://bafybeiczjwxmqef43bxjhwamyb2icqa2gtau6f63w6wbhjnwqqndebkslq/trippy.json",
+  "metadata": {
+    "name": "Trippy",
+    "description": "Ownership of this token entitles the holder to 4% of the net artist master royalties from Jungle by ESCAPEPLAN and Rich the Kid. More details on our website.",
+    "image": "ipfs://bafybeignbntqjqorejfcj2zo4sx5ylwa44skdqfnsjrld5cdrlpxyv6twq/trippy.mp4",
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Trippy"
+      },
+      {
+        "trait_type": "Royalty",
+        "display_type": "boost_percentage",
+        "value": 4
+      },
+      {
+        "trait_type": "Tier Supply",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

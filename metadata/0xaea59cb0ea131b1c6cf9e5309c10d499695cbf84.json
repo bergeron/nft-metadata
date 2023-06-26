@@ -1,0 +1,163 @@
+{
+  "address": "0xaea59cb0ea131b1c6cf9e5309c10d499695cbf84",
+  "type": "ERC721",
+  "name": "VOIDED - Sweet Life by Sandra Jockus (Mind Jungle)",
+  "tokenCount": "150",
+  "uri": "ipfs://QmX89QvfkPTEFtRxBiNs5WCoZa2v8HWPGy4uf5gNgGJUMz",
+  "metadata": {
+    "name": "Sweet Life No. 2",
+    "description": "Every day brings lots of different emotions and feelings whether good or bad. This is a collection full of bright and colorful NFTs each telling a story of people and animals, including expressions of diverse feelings and some funny messages.",
+    "image": "ipfs://QmdvBRZjeKJtwabdTBvRkDxWbhxVUYZW8YTfZoZb9inz2L",
+    "external_url": "https://collectible.sweet.io/series/1240/2",
+    "uri": "https://collectible.sweet.io/series/1240/2",
+    "uri_sha256": "6cTg_fXrySb7mVI6CZ8jQU71k4n5X_tPsdF9enwDyVQ=",
+    "extended_metadata": {
+      "creator": {
+        "name": "SocialSweet Inc.",
+        "uri": "https://sweet.io"
+      },
+      "rights_info": {
+        "copyright_holder": "SocialSweet Inc.",
+        "copyright_notice": "(c) Copyright 2022 SocialSweet Inc., all rights reserved",
+        "terms_and_conditions": {
+          "url": "https://collectible.sweet.io/static/terms-and-conditions-mar2021.txt",
+          "sha256": "an7cc_0l4AOoHzgqFA_n5irW8PKRVrDaHXRsxTguNQE="
+        }
+      },
+      "name": "Sweet Life No. 2",
+      "issued": "2022-02-13T23:59:43.422657",
+      "series": {
+        "display_meta": {
+          "genre": "music",
+          "name": "Sweet Life",
+          "color": "#D0BC86",
+          "metalness": 0.5,
+          "roughness": 0.5,
+          "description": "Every day brings lots of different emotions and feelings whether good or bad. This is a collection full of bright and colorful NFTs each telling a story of people and animals, including expressions of diverse feelings and some funny messages.",
+          "type": "image",
+          "print_sequence_number_on_image": false,
+          "creator_campaign_id": 811,
+          "rarity": {
+            "name": "Tier 5",
+            "rank": 5
+          },
+          "creator_campaign": {
+            "campaign_id": 811,
+            "name": "Red NVLPE",
+            "description": "Red NVLPE",
+            "client": {
+              "name": "Red NVLPE",
+              "company": "Red NVLPE"
+            }
+          }
+        },
+        "total_number": 177,
+        "uri": "https://collectible.sweet.io/series/1240"
+      },
+      "fees": [
+        {
+          "basis_points": 1000,
+          "recipient_address": "0x2Da1E05aABAe317B3467720b9Ed76BbC1E324564",
+          "type": "seller-fee"
+        }
+      ],
+      "type": "erc721",
+      "network": "ethereum",
+      "uri": "https://collectible.sweet.io/series/1240/2",
+      "assets": {
+        "front_image": {
+          "uri": "https://mediagateway.sweet.io/media/token/MebW2A1G/54/media.jpg",
+          "sha256": "u24Eh0XbSdAd5AnD1wq8BAdacJsLBzF_KdQq6BVpfUc=",
+          "altloc": {
+            "ipfs": "ipfs://QmYXxocmZVGLY58svHmWZUqQxno5RQvtcARYaP4T4r5WUD"
+          },
+          "content-type": "image/jpeg",
+          "gateway": "https://mediagateway.sweet.io/gateway/token/MebW2A1G/54/media.jpg",
+          "purpose": "primary-asset",
+          "url": "https://collectible.sweet.io/series/1240/2/images/front.jpg"
+        },
+        "reverse_image": null
+      },
+      "images": {
+        "front": {
+          "sha256": "u24Eh0XbSdAd5AnD1wq8BAdacJsLBzF_KdQq6BVpfUc=",
+          "altloc": {
+            "ipfs": "ipfs://QmYXxocmZVGLY58svHmWZUqQxno5RQvtcARYaP4T4r5WUD"
+          },
+          "content-type": "image/jpeg",
+          "purpose": "primary-asset",
+          "url": "https://collectible.sweet.io/series/1240/2/images/front.jpg"
+        }
+      },
+      "sequence_number": 2,
+      "image": {
+        "sha256": "u24Eh0XbSdAd5AnD1wq8BAdacJsLBzF_KdQq6BVpfUc=",
+        "altloc": {
+          "ipfs": "ipfs://QmYXxocmZVGLY58svHmWZUqQxno5RQvtcARYaP4T4r5WUD"
+        },
+        "content-type": "image/jpeg",
+        "purpose": "primary-asset",
+        "url": "https://collectible.sweet.io/series/1240/2/images/front.jpg",
+        "thumbnail": {
+          "350": {
+            "url": "https://collectible.sweet.io/series/1240/2/images/front-350x.png",
+            "width": 350,
+            "height": 350,
+            "sha256": "MyJOgzKSqVRczagvVw2rrCPDt3LbZZb3Z09Wb80Nl8U=",
+            "altloc": {
+              "ipfs": "ipfs://QmdvBRZjeKJtwabdTBvRkDxWbhxVUYZW8YTfZoZb9inz2L"
+            },
+            "content-type": "image/png"
+          },
+          "500": {
+            "url": "https://collectible.sweet.io/series/1240/2/images/front-500x.png",
+            "width": 500,
+            "height": 500,
+            "sha256": "QsLD4Rl1IQWZuqK-7DiISZDlCNDdQ0vI_hUd4TPyI5s=",
+            "altloc": {
+              "ipfs": "ipfs://QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH"
+            },
+            "content-type": "image/png"
+          }
+        }
+      },
+      "attributes": [
+        {
+          "name": "Balloon",
+          "value": "Wow"
+        },
+        {
+          "name": "Dog",
+          "value": "Yellow"
+        },
+        {
+          "name": "Dress",
+          "value": "Black"
+        },
+        {
+          "name": "Skin",
+          "value": "Tanned"
+        }
+      ]
+    },
+    "sequence_number": 2,
+    "attributes": [
+      {
+        "trait_type": "Balloon",
+        "value": "Wow"
+      },
+      {
+        "trait_type": "Dog",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Tanned"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0x695c5ba4aff8d993c15c0cf5d4093145b488a078",
+  "type": "ERC721",
+  "name": "TEST DONT BUY",
+  "tokenCount": "20",
+  "uri": "ipfs://QmPvJb5v53zx4ZEdZNBoj6kGovhAYXCe2YDcvQUnrUAnDT/1.json",
+  "metadata": {
+    "name": "Squod #1",
+    "description": "The cute Squod plushi",
+    "image": "ipfs://QmUJNA4w4tQEN8uwqhK72bkKF1ZAgktmromETP3d82M6AZ/1.png",
+    "dna": "9d869bb34a2a3922bf747cefce0f55b2d1114c43",
+    "edition": 1,
+    "date": 1653359504066,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "9"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "9"
+      },
+      {
+        "trait_type": "Tear",
+        "value": "no_tear"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "no_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

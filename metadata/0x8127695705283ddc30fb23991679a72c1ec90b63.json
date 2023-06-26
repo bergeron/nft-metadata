@@ -1,0 +1,35 @@
+{
+  "address": "0x8127695705283ddc30fb23991679a72c1ec90b63",
+  "type": "ERC1155",
+  "name": "Cosmo Gang Items",
+  "tokenCount": "1",
+  "uri": "https://thecosmogang.infura-ipfs.io/ipfs/QmU5FjyNKMvkohQakfQ4zpeEat3AK43bWXPwzhoac2BnJ7/1.json",
+  "metadata": {
+    "name": "Cosmo Ganja",
+    "symbol": "CGI5",
+    "description": "Cosmo Gang Items",
+    "external_url": "https://thecosmogang.xyz",
+    "image": "https://thecosmogang.infura-ipfs.io/ipfs/QmSGScZJ9ks42PZvJXyVon6Aid5xXF2ByYzYTzQTGXq7vL",
+    "collection": {
+      "name": "Cosmo Gang Items",
+      "family": "The Cosmo Gang"
+    },
+    "attributes": [
+      {
+        "trait_type": "FACTION",
+        "value": "Jahjahrion"
+      },
+      {
+        "trait_type": "ITEM TYPE",
+        "value": "Cosmo Ganja"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "0x9C21c877B44eBac7F0E8Ee99dB4ebFD4A9Ac5000",
+        "share": 100
+      }
+    ]
+  }
+}

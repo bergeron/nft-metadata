@@ -1,0 +1,22 @@
+{
+  "address": "0xe6df93590105673a6896085175bcad6e5dcc0b82",
+  "type": "ERC1155",
+  "name": "Etherjump Winter Items",
+  "tokenCount": "2",
+  "uri": "https://api.etherjump.game/christmasItemsMetadata/1",
+  "metadata": {
+    "name": "Winter Builder Pack (Winter 2022 Exclusive)",
+    "image": "https://api.etherjump.game/winterItems/images/winterPack",
+    "description": "Includes:\n\n• Winter Biome\n\n• Yeti\n\n• Evil Elf (Bomb)\n\n• Evil Elf (Candycane)\n\n• Snowman\n\n• Sled\n\nFor use in Etherjump’s Level Builder: https://build.etherjump.game/",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Builder Pack"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Winter 2022"
+      }
+    ]
+  }
+}

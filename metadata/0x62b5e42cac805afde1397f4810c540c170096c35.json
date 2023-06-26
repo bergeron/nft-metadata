@@ -1,0 +1,41 @@
+{
+  "address": "0x62b5e42cac805afde1397f4810c540c170096c35",
+  "type": "ERC721",
+  "name": "apepix.wtf",
+  "tokenCount": "2222",
+  "uri": "ipfs://bafybeibki442hzosvird6sknihggf7zxw52lcyhdbfmx66bnsbfdepixaa/1.json",
+  "metadata": {
+    "name": "apepix #1",
+    "description": "Apepix is a collection of 2,222 pixel apes walking 4 frame animation.",
+    "image": "ipfs://bafybeiguxxoulmmnc4ag3gm3wenzn5z4gbyn4stgimh7mr2rjsnscu3hmy/1.gif",
+    "imageName": "1.gif",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "Flat Green"
+      },
+      {
+        "trait_type": "BODY",
+        "value": "Red"
+      },
+      {
+        "trait_type": "OUTFITS",
+        "value": "PP-W Hoodie"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "EYE",
+        "value": "Gleeful Eye"
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Mohawk Purple"
+      }
+    ],
+    "compiler": "Jalagar Animated Art Engine"
+  }
+}

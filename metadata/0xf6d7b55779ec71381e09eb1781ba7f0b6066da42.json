@@ -1,0 +1,24 @@
+{
+  "address": "0xf6d7b55779ec71381e09eb1781ba7f0b6066da42",
+  "type": "ERC721",
+  "name": "MetaBrewSociety SeptemBeerfest 2022",
+  "tokenCount": "172",
+  "uri": "ipfs://bafybeig5ao2y4cxr3zfniy22lfz5quqfsakcrlyn2up2bjocvgrxb67vty/1.json",
+  "metadata": {
+    "name": "2022 Septembeer Ticket 001",
+    "description": "A Ticket with the number 001 to admit 2 persons to the first ever MetaBrewSociety Septembeerfest ",
+    "fee_recipient": "0xbA8317F0DA687b85b86Bb3Ba5ab48619df2921b5",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://bafybeiceszrv4dkkjdwsgotktodv35nl6gxeubgwffd5if2dhf7fwjlasa/1.png",
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Ticket"
+      },
+      {
+        "trait_type": "Number",
+        "value": "001"
+      }
+    ]
+  }
+}

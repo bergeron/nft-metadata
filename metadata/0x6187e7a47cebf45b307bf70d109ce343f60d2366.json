@@ -1,0 +1,81 @@
+{
+  "address": "0x6187e7a47cebf45b307bf70d109ce343f60d2366",
+  "type": "ERC721",
+  "name": "RSTLSS ✕ CrypToadz",
+  "tokenCount": "2070",
+  "uri": "https://rstlss-content.xyz/cryptoadz/metadata/1.json",
+  "metadata": {
+    "name": "RSTLSS x CrypToadz #7098",
+    "tokenId": 1,
+    "description": "A small, warty, amphibious creature that resides in the metaverse.",
+    "external_url": "https://rstlss.xyz",
+    "animation_url": "https://rstlss-content.xyz/cryptoadz/1/index.html",
+    "image": "https://rstlss-content.xyz/cryptoadz/1/assets/image.png",
+    "reference": [
+      7098,
+      "su2"
+    ],
+    "version": 1,
+    "garment_types": "TOADALLY RARE HOODIE",
+    "garment_artists": "RSTLSS",
+    "garment_description": "A new endangered species has emerged from the swamp",
+    "glyph_count": 1,
+    "glyph_slots": "Back",
+    "glyph_types": "Projection",
+    "glyph_artists": "Gremplin",
+    "attributes": [
+      {
+        "trait_type": "Garment",
+        "value": "TOADALLY RARE HOODIE"
+      },
+      {
+        "trait_type": "Garment Artist",
+        "value": "RSTLSS"
+      },
+      {
+        "trait_type": "Glyph Artist",
+        "value": "Gremplin"
+      },
+      {
+        "trait_type": "Glyph Background",
+        "value": "Sulphur Inferno"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Sulphur"
+      },
+      {
+        "trait_type": "Colour",
+        "value": "Toxic Green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Headphones"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Quite Rare 1/20"
+      }
+    ],
+    "properties": {
+      "rpm": [
+        {
+          "modelUrl": "https://rstlss-content.xyz/cryptoadz/1/assets/rpm-male.glb",
+          "gender": "male",
+          "iconUrl": "https://rstlss-content.xyz/cryptoadz/1/assets/rpm-male-icon.png",
+          "type": "outfit"
+        },
+        {
+          "modelUrl": "https://rstlss-content.xyz/cryptoadz/1/assets/rpm-female.glb",
+          "gender": "female",
+          "iconUrl": "https://rstlss-content.xyz/cryptoadz/1/assets/rpm-female-icon.png",
+          "type": "outfit"
+        }
+      ]
+    }
+  }
+}

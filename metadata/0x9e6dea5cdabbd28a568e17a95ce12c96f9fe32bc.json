@@ -1,0 +1,40 @@
+{
+  "address": "0x9e6dea5cdabbd28a568e17a95ce12c96f9fe32bc",
+  "type": "ERC721",
+  "name": "GM by George Grant",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/GsOMzW2LB1Scevt2QIXtFH80EbbQthKzYHYThvA5K5k",
+  "metadata": {
+    "name": "GM #001",
+    "created_by": "George Grant",
+    "external_url": "https://gm.baby",
+    "description": "this text changed later bro",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "George Grant"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Monochrome"
+      }
+    ],
+    "animation_details": {
+      "bytes": 8200313,
+      "format": "MP4",
+      "duration": 6,
+      "sha256": "ab471f157926b9693a4d7ed9d6c1742ad4e5e15258fb6ec6c5403c91f0ff0ac8",
+      "width": 3840,
+      "height": 3840,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/MMiE44HUbDAu-YA7Uu32xO--zSQItxfV60CFd4xHsmE",
+    "animation_url": "https://arweave.net/MMiE44HUbDAu-YA7Uu32xO--zSQItxfV60CFd4xHsmE"
+  }
+}

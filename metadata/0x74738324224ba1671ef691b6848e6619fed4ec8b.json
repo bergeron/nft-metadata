@@ -1,0 +1,114 @@
+{
+  "address": "0x74738324224ba1671ef691b6848e6619fed4ec8b",
+  "type": "ERC721",
+  "name": "EemYu - old",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeidfpynbug7d55pks47wgoolpt5h2bv7thcuhgfrqtfqvur4hgodui/1.json",
+  "metadata": {
+    "name": "EeMyu #1",
+    "description": "Cubic Punks : Home of Eye Candy Collectibles",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "e547e2b25ea5ec8eb36704d0ed96ec99f8864459",
+    "edition": 1,
+    "date": 1646086498486,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "EeMyu",
+      "family": "EeMyu"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x936B1037A13E4c56D5c9e079aEa24235C1E78BD6",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Base08"
+      },
+      {
+        "trait_type": "Background",
+        "value": "PBBG07"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "GradBlue"
+      },
+      {
+        "trait_type": "Neck Hair",
+        "value": "neckhair"
+      },
+      {
+        "trait_type": "Neck Access",
+        "value": "NeckScarf"
+      },
+      {
+        "trait_type": "HeadPhones",
+        "value": "headphones 102"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "DreadLock3"
+      },
+      {
+        "trait_type": "Hair2",
+        "value": "DreadLock2"
+      },
+      {
+        "trait_type": "Hair3",
+        "value": "BGClear"
+      },
+      {
+        "trait_type": "Head",
+        "value": "LightBlue"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Beak01"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose"
+      },
+      {
+        "trait_type": "Sockets",
+        "value": "LightBlue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eyes18"
+      },
+      {
+        "trait_type": "Lips",
+        "value": "Lips05"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Round Glasses01"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "No Hat"
+      },
+      {
+        "trait_type": "Spikey Hair",
+        "value": "BGClear"
+      },
+      {
+        "trait_type": "Helmets",
+        "value": "bike hemet"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

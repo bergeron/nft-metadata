@@ -1,0 +1,26 @@
+{
+  "address": "0x00606daaec4263d3bb5cef9552ac71b85f4063f6",
+  "type": "ERC721",
+  "name": "Pixel Landers",
+  "tokenCount": "262",
+  "uri": "ipfs://QmNLu2X3dy5YGcUg2ag79ZZnpeAHri2JHdTGJmc4wNqVru/1.json",
+  "metadata": {
+    "name": "Pixel Landers #1",
+    "description": "Dare we dream in this nightmare we are living",
+    "image": "ipfs://QmWeYcwsALd3qAXWN9iBQFkpFC3CEXekVn7jjuYdjRDFUb/1.png",
+    "edition": 1,
+    "attributes": [
+      [
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Lander"
+        },
+        {
+          "trait_type": "date",
+          "value": 1882
+        }
+      ]
+    ],
+    "compiler": "0xPixelLabs"
+  }
+}

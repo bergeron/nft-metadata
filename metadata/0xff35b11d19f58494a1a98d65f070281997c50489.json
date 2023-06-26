@@ -1,0 +1,58 @@
+{
+  "address": "0xff35b11d19f58494a1a98d65f070281997c50489",
+  "type": "ERC721",
+  "name": "Otherdeed V2",
+  "tokenCount": "1",
+  "uri": "https://api.otherside.xyz/lands/1",
+  "metadata": {
+    "attributes": [
+      {
+        "value": "Volcanic",
+        "trait_type": "Category"
+      },
+      {
+        "value": "Biogenic Swamp",
+        "trait_type": "Sediment"
+      },
+      {
+        "display_type": "number",
+        "value": 2,
+        "trait_type": "Sediment Tier"
+      },
+      {
+        "value": "Obsidian",
+        "trait_type": "Environment"
+      },
+      {
+        "display_type": "number",
+        "value": 1,
+        "trait_type": "Environment Tier"
+      },
+      {
+        "value": "Brimstone",
+        "trait_type": "Western Resource"
+      },
+      {
+        "display_type": "number",
+        "value": 3,
+        "trait_type": "Western Resource Tier"
+      },
+      {
+        "value": "Abyssia",
+        "trait_type": "Northern Resource"
+      },
+      {
+        "display_type": "number",
+        "value": 3,
+        "trait_type": "Northern Resource Tier"
+      },
+      {
+        "display_type": "number",
+        "value": 1,
+        "trait_type": "Plot"
+      }
+    ],
+    "id": 1,
+    "image": "https://assets.otherside.xyz/otherdeeds/871079decce602d36188f532fe6623a15d8c6817ecd3bcd9b0c3a2933bb51c3b.jpg"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "address": "0x91fb210a51b8b411d31406d9ff820b07bac3270d",
+  "type": "ERC1155",
+  "name": "Satellite V2",
+  "tokenCount": "1",
+  "uri": "ipfs://QmRtcwx9t7d5ZtLYuLh85FGnXSQyvEneVhtSa4vNE6u8EH",
+  "metadata": {
+    "name": "Satellite Mark 1 Boarding Pass",
+    "description": "Join us in orbit as we take a ride through the metaverse. Country roads, take me home. To the place where I belong.",
+    "image": "ipfs://QmW4Nf25qGWrZ8yowTVziLiJrfFoLuZnKvUx24RfWpMdPD",
+    "animation_url": "ipfs://QmQ8orszTpWBUMUcaxeyzjPTD974y5XKBSQLGQ5BokmRbs",
+    "external_url": "https://www.satellite.events/",
+    "attributes": [
+      {
+        "trait_type": "Date",
+        "value": "03/30/2022"
+      },
+      {
+        "trait_type": "Event",
+        "value": "NFT LA"
+      },
+      {
+        "trait_type": "Departure City",
+        "value": "Los Angeles"
+      },
+      {
+        "trait_type": "Destination",
+        "value": "Moon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "address": "0x557e94e4aff94425564209b0954fa378f01fbbb6",
+  "type": "ERC721",
+  "name": "Shadows by Kiya",
+  "tokenCount": "666",
+  "uri": "ipfs://QmXKYmyhSTkiJsi2gh6bL7yJSCA12t4Kco8P5Z3YiVB8GX/1.json",
+  "metadata": {
+    "name": "Shadows by Kiya #1",
+    "description": "I put my pain into art debuting my first collection \"Shadows\" by Kiya",
+    "image": "ipfs://QmbVGqf4cP4faTTSUDax6u58dVZ71doVDcXTmT1GCatDfd/1.png",
+    "edition": 1,
+    "date": 1672008640973,
+    "attributes": [
+      {
+        "trait_type": "Expression",
+        "value": "Appearance"
+      },
+      {
+        "trait_type": "Focal Range",
+        "value": "15mm"
+      },
+      {
+        "trait_type": "Form",
+        "value": "Solid"
+      },
+      {
+        "trait_type": "Lab",
+        "value": "07"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Shade",
+        "value": "Contrast"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

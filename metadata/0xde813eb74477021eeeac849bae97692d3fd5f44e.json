@@ -1,0 +1,30 @@
+{
+  "address": "0xde813eb74477021eeeac849bae97692d3fd5f44e",
+  "type": "ERC721",
+  "name": "Piece of 3.141",
+  "tokenCount": "3141",
+  "uri": "ipfs://QmVswJZaau4SpKUNAT3b2Rj4cTKHAFFxK6e19bx9ubPHs6/1",
+  "metadata": {
+    "description": "Piece of π is a collection of generative artwork based on the decimal digits of pi.",
+    "image": "ipfs://QmVRJ3cXfVRXQp5XVyGi5qdDU7GeuFbMq8sKPuTG11BFYR/1.webp",
+    "name": "Piece of π #1",
+    "attributes": [
+      {
+        "trait_type": "Color palette",
+        "value": "Spirit of Ramanujan"
+      },
+      {
+        "trait_type": "Number of digits",
+        "value": 233
+      },
+      {
+        "trait_type": "Last two digits",
+        "value": "78"
+      },
+      {
+        "trait_type": "Is perfect square",
+        "value": "No"
+      }
+    ]
+  }
+}

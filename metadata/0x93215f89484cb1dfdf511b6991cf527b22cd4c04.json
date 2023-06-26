@@ -1,0 +1,32 @@
+{
+  "address": "0x93215f89484cb1dfdf511b6991cf527b22cd4c04",
+  "type": "ERC721",
+  "name": "ART-WANG V2",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/_KIsjC0nVRvnndqo0tk9gtJctKly8DlaoLJ65QAv-hs",
+  "metadata": {
+    "name": "TEST",
+    "created_by": "wang",
+    "external_url": "HTTPS://TEST.XYZ",
+    "description": "TEST",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "wang"
+      }
+    ],
+    "animation_details": {
+      "bytes": 5185544,
+      "format": "MP4",
+      "duration": 9,
+      "sha256": "eb7d44bd6bd8ba911fb559bf4acb8b1a3b3d5537c0fbb88bbacd2d33cd0085bf",
+      "width": 1080,
+      "height": 1920,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/-AE97PZKoBGG_Z_iAvCVyhMBhSeUfcLW1POwf1rsZfo",
+    "animation_url": "https://arweave.net/-AE97PZKoBGG_Z_iAvCVyhMBhSeUfcLW1POwf1rsZfo"
+  }
+}

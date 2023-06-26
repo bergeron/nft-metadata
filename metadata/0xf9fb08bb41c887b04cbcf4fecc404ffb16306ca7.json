@@ -1,0 +1,24 @@
+{
+  "address": "0xf9fb08bb41c887b04cbcf4fecc404ffb16306ca7",
+  "type": "ERC721",
+  "name": "Hyacinth Auditor NFT",
+  "tokenCount": "22",
+  "uri": "ipfs://bafybeibmc6z7lzkaugmtiv5wbgeqnr23ri4umu5dswoemr3rgfo3wirpgu/3",
+  "metadata": {
+    "name": "Proof of Auditor NFT",
+    "description": "Hyacinth Approved Auditor",
+    "image": "ipfs://bafybeib7kimxaljkezmidlzwbcsqxvf3yju7e2mcrpyhlulyyaqvha63qi/3.png",
+    "external_url": "https://hyacinth.gg",
+    "attributes": [
+      {
+        "trait_type": "Auditor",
+        "value": "Level 4"
+      },
+      {
+        "trait_type": "Level",
+        "value": 4,
+        "max_value": 4
+      }
+    ]
+  }
+}

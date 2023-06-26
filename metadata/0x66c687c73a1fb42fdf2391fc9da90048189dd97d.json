@@ -1,0 +1,40 @@
+{
+  "address": "0x66c687c73a1fb42fdf2391fc9da90048189dd97d",
+  "type": "ERC721",
+  "name": "GOD Panels",
+  "tokenCount": "852",
+  "uri": "https://god-panels-metadata.galaxis.xyz/api/metadata/38/638",
+  "metadata": {
+    "tokenId": 1,
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmWePF6ebsB5hzP8djeHctB7Nr5shhxuutmgfRhz7KETpG/front/38/638.jpg",
+    "animation_url": "https://explorer.galaxis.xyz/#/render?god-panels-metadata.galaxis.xyz/api/metadata/38/638",
+    "name": "GOD Panels #1",
+    "collection_type": "galaxis",
+    "sides": [
+      {
+        "id": 1,
+        "dna": "0815",
+        "image": "https://ether-cards.mypinata.cloud/ipfs/QmWePF6ebsB5hzP8djeHctB7Nr5shhxuutmgfRhz7KETpG/front/38/638.jpg"
+      }
+    ],
+    "collection_name": "GOD Panels",
+    "attributes": [
+      {
+        "value": "Blue Stripe",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Multi Color",
+        "trait_type": "GOD Layer"
+      },
+      {
+        "value": "Rare",
+        "trait_type": "Background type"
+      },
+      {
+        "value": "Rare",
+        "trait_type": "GOD Layer type"
+      }
+    ]
+  }
+}

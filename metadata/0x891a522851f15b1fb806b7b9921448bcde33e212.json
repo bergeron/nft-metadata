@@ -1,0 +1,41 @@
+{
+  "address": "0x891a522851f15b1fb806b7b9921448bcde33e212",
+  "type": "ERC721",
+  "name": "Sketchbook Musicians",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/aNjtz4utSnZiz6VSwZGhD3SPRWD8pEA1Wr5r44F-6E8",
+  "metadata": {
+    "name": "Guitar Hero - Morning Serenade",
+    "created_by": "ponicshy",
+    "description": "What a song!",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "ponicshy"
+      }
+    ],
+    "animation_details": {
+      "bytes": 5277482,
+      "format": "MP4",
+      "duration": 30,
+      "sha256": "f1eee8168268ddd2ba3e131b37cd292325dd07a492c90f80290a11cab2f3fa3f",
+      "width": 2000,
+      "height": 2000,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/TMjO1jt1HgNnXNPHixenmM-wPe43go8ERO4THDnoO9Y",
+    "animation_url": "https://arweave.net/TMjO1jt1HgNnXNPHixenmM-wPe43go8ERO4THDnoO9Y",
+    "image_details": {
+      "bytes": 169027,
+      "format": "PNG",
+      "sha256": "1466824a6b9872cd4c090cc346f50082c5255a734fc0fe678e939f16c5e07521",
+      "width": 2000,
+      "height": 2000
+    },
+    "image": "https://arweave.net/6W_Qq5222Swi64O9ta-Fi3p1kFCXx2e1816pOG3OC28",
+    "image_url": "https://arweave.net/6W_Qq5222Swi64O9ta-Fi3p1kFCXx2e1816pOG3OC28"
+  }
+}

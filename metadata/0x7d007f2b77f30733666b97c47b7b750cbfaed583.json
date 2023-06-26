@@ -1,0 +1,36 @@
+{
+  "address": "0x7d007f2b77f30733666b97c47b7b750cbfaed583",
+  "type": "ERC721",
+  "name": "Magic Mushrooms V3",
+  "tokenCount": "10",
+  "uri": "ipfs://QmUtyjnBt5XV4pmeJunF41q3EB5etGXQT3thiCz1rfvAmR/1",
+  "metadata": {
+    "name": "Color Magic",
+    "description": "",
+    "attributes": [
+      {
+        "trait_type": "Rights",
+        "value": "Editorial"
+      },
+      {
+        "trait_type": "Photographer",
+        "value": "Albert Dros"
+      },
+      {
+        "trait_type": "Magic Intensity",
+        "display_type": "boost_number",
+        "value": "7"
+      },
+      {
+        "trait_type": "Lens",
+        "value": "Sony 90mm f/2.8 Macro"
+      },
+      {
+        "trait_type": "Camera",
+        "value": "Sony A7RIV"
+      }
+    ],
+    "image": "ipfs://QmTodLHgCEUwFDwgmLAhs7atSpbn6EenYk9k1RFk9J7miR/1.jpg",
+    "external_url": "https://sloika.xyz/albertdros.eth/magic-mushrooms/1"
+  }
+}

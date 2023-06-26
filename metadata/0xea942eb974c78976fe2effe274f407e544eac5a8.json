@@ -1,0 +1,67 @@
+{
+  "address": "0xea942eb974c78976fe2effe274f407e544eac5a8",
+  "type": "ERC721",
+  "name": "lkjqerkqjwerkqewr",
+  "tokenCount": "750",
+  "uri": "https://api.artblocks.io/token/98000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "98000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "sail-o-bots #1",
+    "minted": true,
+    "artist": "sturec",
+    "description": "Sail-o-bots try to combine but also spare concepts, perceptions and even basic human need based on Maslow's hierarchy. They are the mischief of the sea, have their own tiny boats to sail but they prefer to stand still, and watch the sunset. Until the next day comes, Sail-o-bots wait, they do not eat, they do not sleep, that's why they are on edge from time to time. Do not judge them quickly. Each bot has its own messages if you want to take or they are just shiny stuff you can stare at. Sail-o-bots cannot stay at a same style, that is who they are, they might be called inconsistent, but it has advantages, having multiple disciplines is really important for them, they will never stop trying to discover more. They will always be going back and forward around several versions, do not think that they will stop at one since they discover themselves, which is probably never.\n\nsail-o-bots is based on the original generative project Strange Robots by Che-Yu Wu (https://twitter.com/Majer666666) Source code derived from https://openprocessing.org/sketch/1150492 under CC-BY-SA 3.0 license. Modifications include: custom botGlasses variable added with 3 different cases; custom botLips variable added with 3 different cases; 10 sets of custom colors added; antennas, ear and nose size and geometric shape types updated.",
+    "script_type": "p5@1.0.0",
+    "project_id": "98",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/98000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/98000001.png",
+    "generator_url": "https://generator.artblocks.io/98000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/98000001",
+    "royaltyInfo": {
+      "artistAddress": "0xced878400dc0f8a11b37224a1a6b94767a82a117",
+      "additionalPayee": "0xb60d52448a5c76c87853c011bb4b8ec3114a3277",
+      "additionalPayeePercentage": 50,
+      "royaltyFeeByID": "0"
+    },
+    "collection_name": "sail-o-bots by sturec",
+    "website": null,
+    "token_hash": "0x77a0fffa2aa5d6c9c4a0fe6ffc3e6aee0eea4216e3ff2675175d8d3265d7a792",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/98/tokens/98000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/98000001",
+    "features": {
+      "mouth": "FeelsGoodMan",
+      "planet": "Uranus",
+      "clarity": "Polished",
+      "glasses": "Ultra Mega Hyper Intergalactic Shades"
+    },
+    "traits": [
+      {
+        "trait_type": "sail-o-bots",
+        "value": "All sail-o-bots"
+      },
+      {
+        "trait_type": "sail-o-bots",
+        "value": "mouth: FeelsGoodMan"
+      },
+      {
+        "trait_type": "sail-o-bots",
+        "value": "planet: Uranus"
+      },
+      {
+        "trait_type": "sail-o-bots",
+        "value": "clarity: Polished"
+      },
+      {
+        "trait_type": "sail-o-bots",
+        "value": "glasses: Ultra Mega Hyper Intergalactic Shades"
+      }
+    ],
+    "is_static": false,
+    "license": "NFT License"
+  }
+}

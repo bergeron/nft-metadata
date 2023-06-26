@@ -1,0 +1,41 @@
+{
+  "address": "0x5c29cfde130c8ac8ee0f2df4b246c7db0b86d763",
+  "type": "ERC721",
+  "name": "Hagrids wizards",
+  "tokenCount": "1",
+  "uri": "ipfs://QmaZkjvB6tpaUV5z2Q1sPwLpWqUdMpZoNKptrRhQBzXgJb/1.json",
+  "metadata": {
+    "name": "Wizard #1",
+    "description": "RIP Robbie Coltrane the legendary hagrid. we made 6000 Wizards in the name of hagrid",
+    "image": "ipfs://QmUJVvuAb74GYF6BumGgqUBHJ2GttFKozKYmbV3XnECv5r/1.png",
+    "edition": 1,
+    "date": 1665792437541,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Type",
+        "value": "IMP"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Elf Robe"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Fire"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

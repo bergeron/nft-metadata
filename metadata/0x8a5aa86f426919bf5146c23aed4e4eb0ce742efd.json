@@ -1,0 +1,56 @@
+{
+  "address": "0x8a5aa86f426919bf5146c23aed4e4eb0ce742efd",
+  "type": "ERC721",
+  "name": "Chromospheres",
+  "tokenCount": "707",
+  "uri": "https://chromospheres-metadata-prod.s3.amazonaws.com/1",
+  "metadata": {
+    "description": "Sol (Chromosphere #1) is a piece from the third and final collection in Spectra's Dawn Trilogy. The Chromospheres collection comprises 707 pieces; each an artistic expression of a star from our night's sky. The rendering of each Chromosphere required the simulation of over half a trillion light rays, and each incorporates actual astronomical data from the star that it represents.",
+    "name": "Sol: Our Home Star",
+    "star_name_no_special_chars": "Sol: Our Home Star",
+    "token_id": "1",
+    "seed_hash": "0x1f5a98d318fa2e5d22c3397b1e286c2765e891c99aa467d47decf03a0dcd4472",
+    "external_url": "https://chromospheres.spectra.art/",
+    "image": "https://chromospheres-backend-prod.s3.amazonaws.com/token-1/frames/0.png",
+    "animation_url": "https://chromospheres-backend-prod.s3.amazonaws.com/token-1/anims/anim.mp4",
+    "hq_still": "https://chromospheres-backend-prod.s3.amazonaws.com/token-1/stills/60.png",
+    "attributes": [
+      {
+        "trait_type": "Surface",
+        "value": "Sinusoidal Fire"
+      },
+      {
+        "trait_type": "Inner Harmonic",
+        "value": "Intermediate"
+      },
+      {
+        "trait_type": "Outer Harmonic",
+        "value": "Superhigh"
+      },
+      {
+        "trait_type": "Amplitude",
+        "value": "Elevated"
+      },
+      {
+        "trait_type": "Field Lines",
+        "value": "Dense"
+      },
+      {
+        "trait_type": "Field Dynamics",
+        "value": "Outward Synchronisation"
+      },
+      {
+        "trait_type": "Stellar Class",
+        "value": "G2"
+      },
+      {
+        "trait_type": "Distance (Parsecs)",
+        "value": 0.0000047697
+      },
+      {
+        "trait_type": "Apparent Magnitude",
+        "value": -26.7
+      }
+    ]
+  }
+}

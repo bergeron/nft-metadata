@@ -1,0 +1,34 @@
+{
+  "address": "0x06daf7e34595f9d3260dd5262dca8e3bcfeb39d5",
+  "type": "ERC721",
+  "name": "CryptoFighters Alliance",
+  "tokenCount": "2865",
+  "uri": "https://cf-alliance.s3.eu-central-1.amazonaws.com/metas/1",
+  "metadata": {
+    "description": "CryptoFighters Alliance fighter #1. ",
+    "image": "https://cf-alliance.s3.eu-central-1.amazonaws.com/fighters/1.png",
+    "name": "Fighter #1",
+    "attributes": [
+      {
+        "trait_type": "Race",
+        "value": "Half-Elf"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Plate Armor"
+      },
+      {
+        "trait_type": "Boots",
+        "value": "Comfortable Footwear"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Nature Weapon"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      }
+    ]
+  }
+}

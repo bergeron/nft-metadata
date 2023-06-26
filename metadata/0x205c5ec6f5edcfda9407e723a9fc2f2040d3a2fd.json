@@ -1,0 +1,32 @@
+{
+  "address": "0x205c5ec6f5edcfda9407e723a9fc2f2040d3a2fd",
+  "type": "ERC721",
+  "name": "Aeropups",
+  "tokenCount": "3",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIkFlcm9QdXAgIzEiLCJkZXNjcmlwdGlvbiI6IkdlbmVzaXMgY29sbGVjdGlvbiBieSBBZXJvUHVwcywgTExDLiBCcmluZ2luZyB3ZWIzIHRvIHRoZSBza3kgZm9yIHRoZSB2ZXJ5IGZpcnN0IHRpbWUuICAiLCJpbWFnZSI6ICJodHRwczovL2Fyd2VhdmUubmV0L0FRSFYxdFRsODd2MjJnRVF2cTlYYW5LQnRob3dJd2JYUWdUSEhvRTRlWjAvMS5qcGciLCJhbHRfaW1hZ2UiOiAiaHR0cHM6Ly9pcGZzLmlvL2lwZnMvUW1lMkc4a1M0eHp3cU4xdDhuaXNTN3hnWmZvM3d5azhVUktuTll0NXp4eTJqTS8xLmpwZyIsImF0dHJpYnV0ZXMiOlt7InRyYWl0X3R5cGUiOiAiQnJlZWQiLCAidmFsdWUiOiAiUm90dHdlaWxlciJ9LHsidHJhaXRfdHlwZSI6ICJMb2NhdGlvbiIsICJ2YWx1ZSI6ICJDYWxpZm9ybmlhIENvYXN0In0seyJ0cmFpdF90eXBlIjogIkFpcnBsYW5lIiwgInZhbHVlIjogIlN0ZWVybWFuIn0seyJ0cmFpdF90eXBlIjogIkNsYXNzIiwgInZhbHVlIjogIkdlbmVzaXMifV0sInBvd2VyZWRCeSI6Imh0dHBzOi8vd3d3Lm5hbWVsZXNzLmlvLyJ9",
+  "metadata": {
+    "name": "AeroPup #1",
+    "description": "Genesis collection by AeroPups, LLC. Bringing web3 to the sky for the very first time.  ",
+    "image": "https://arweave.net/AQHV1tTl87v22gEQvq9XanKBthowIwbXQgTHHoE4eZ0/1.jpg",
+    "alt_image": "https://ipfs.io/ipfs/Qme2G8kS4xzwqN1t8nisS7xgZfo3wyk8URKnNYt5zxy2jM/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Rottweiler"
+      },
+      {
+        "trait_type": "Location",
+        "value": "California Coast"
+      },
+      {
+        "trait_type": "Airplane",
+        "value": "Steerman"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Genesis"
+      }
+    ],
+    "poweredBy": "https://www.nameless.io/"
+  }
+}

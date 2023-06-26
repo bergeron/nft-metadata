@@ -1,0 +1,36 @@
+{
+  "address": "0xc93f0d1d0b1c898a7729a68a96b1fc8af1306d49",
+  "type": "ERC721",
+  "name": "MOONDENS NFT",
+  "tokenCount": "1800",
+  "uri": "ipfs://bafybeiaul2fselvkt4ww7ungubtd66nvp7c5b2b7tdz6wjirwixcxkwoli/1",
+  "metadata": {
+    "image": "ipfs://bafybeiatlwylrs3h2676gljuedtwiqs5nfpfgbh7qyeke6iu3of5loeu3m/1.png",
+    "name": "Moondens #1",
+    "description": "Own a beautiful Moonden for your wolves.",
+    "external_url": "https://www.moondens.com",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yin Yang"
+      },
+      {
+        "trait_type": "Special",
+        "value": "Goblin Head"
+      },
+      {
+        "trait_type": "Sky",
+        "value": "Red Sun"
+      },
+      {
+        "trait_type": "Floors",
+        "value": "Ancient"
+      },
+      {
+        "trait_type": "Caves",
+        "value": "Grey"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

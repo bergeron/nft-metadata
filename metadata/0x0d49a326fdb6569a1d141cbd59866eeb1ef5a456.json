@@ -1,0 +1,30 @@
+{
+  "address": "0x0d49a326fdb6569a1d141cbd59866eeb1ef5a456",
+  "type": "ERC721",
+  "name": "Magic Toadz",
+  "tokenCount": "1111",
+  "uri": "ipfs://Qme8t9tgVLYKqg4SKxzmAY89uE6tokPuxGDCsaR8zjHpZa/1.json",
+  "metadata": {
+    "name": "Magic Toad #1",
+    "description": "From the swamp",
+    "image": "ipfs://QmPCRbWspeYwDRefvniRj5YUdkj7AWikNh2gTaSCcdFj8A/1.jpeg",
+    "dna": "c3f279114bf67c4f5bd730f72973bceda9769b08",
+    "edition": 1,
+    "date": 1650054151916,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark blue"
+      },
+      {
+        "trait_type": "Toad Type",
+        "value": "Blue_eyed_and_crazy"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Godzilla"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0xf2292cec555f4225069a08b7cd79c2ac32764108",
+  "type": "ERC721",
+  "name": "High Stack Private Circle",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xf2292cec555f4225069a08b7cd79c2ac32764108/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xF2292cEC555f4225069a08b7cd79c2ac32764108/icon?id=1",
+    "expiration": 1669823940,
+    "tokenId": "1",
+    "owner": "0xd6635062ec5899a9789cdac964825c6ec1037b09",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1669823940
+      }
+    ],
+    "userMetadata": {
+      "public": {}
+    },
+    "keyId": "1",
+    "lockAddress": "0xF2292cEC555f4225069a08b7cd79c2ac32764108",
+    "network": 1
+  }
+}

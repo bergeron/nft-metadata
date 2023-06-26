@@ -1,0 +1,38 @@
+{
+  "address": "0x14fd23d36e88df35fb11069b0a65cd1c69636f68",
+  "type": "ERC721",
+  "name": "testcollectionx11",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=BpSuAZK3QC9jTDxoKzHv",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1588134352912?alt=media&token=64ef6534-46ba-4a95-b5a0-a99425683760",
+    "forSale": true,
+    "contractAddress": "0x14fd23d36e88df35fb11069b0a65cd1c69636f68",
+    "description": "First video on YouTube",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1588134527,
+      "_nanoseconds": 71000000
+    },
+    "price": "0.0",
+    "name": "Me at the zoo",
+    "fiatPrice": "$0.00",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+    "external_url": "https://mintbase.io/my-market/0x14fd23d36e88df35fb11069b0a65cd1c69636f68",
+    "type": "ERC721"
+  }
+}

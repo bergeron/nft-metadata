@@ -1,0 +1,128 @@
+{
+  "address": "0x2fc24dc8bd5b68e87c458ac9342c8162640c7c7f",
+  "type": "ERC721",
+  "name": "Astro Cars",
+  "tokenCount": "140",
+  "uri": "https://ipfs.io/ipfs/QmQsEPCSLf9NCx63M5c9mqQBDX11VscwQjruVp9gyEoPwy/1.json",
+  "metadata": {
+    "name": "Nitro Vision",
+    "image": "https://ipfs.io/ipfs/QmTq9K51VpdVRxh9BcLmVGm3UQQwijPht7hyq6MTfGhKVf/GNVN-101000333/NFT_Front.png",
+    "animation_url": "https://ipfs.io/ipfs/QmTq9K51VpdVRxh9BcLmVGm3UQQwijPht7hyq6MTfGhKVf/GNVN-101000333/Video.mp4",
+    "model": "https://ipfs.io/ipfs/QmTq9K51VpdVRxh9BcLmVGm3UQQwijPht7hyq6MTfGhKVf/GNVN-101000333/GNVN-101000333.glb",
+    "icon": "https://ipfs.io/ipfs/QmTq9K51VpdVRxh9BcLmVGm3UQQwijPht7hyq6MTfGhKVf/GNVN-101000333/Icon.png",
+    "attributes": [
+      {
+        "trait_type": "Model",
+        "value": "GNVN-101000333"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Reputation",
+        "value": "5"
+      },
+      {
+        "trait_type": "Speed",
+        "value": "4.7"
+      },
+      {
+        "trait_type": "Acceleration",
+        "value": "5.4"
+      },
+      {
+        "trait_type": "Handling",
+        "value": "4.7"
+      },
+      {
+        "trait_type": "Durability",
+        "value": "4.5"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Cherry Black"
+      },
+      {
+        "trait_type": "WindowTint",
+        "value": "Magnificent Blue"
+      },
+      {
+        "trait_type": "Tire",
+        "value": "Raging Tire"
+      },
+      {
+        "trait_type": "Spoiler",
+        "value": "Hunter Spoiler"
+      },
+      {
+        "trait_type": "Decal",
+        "value": ""
+      },
+      {
+        "trait_type": "DecalColor",
+        "value": ""
+      }
+    ],
+    "brand": "Nitro League",
+    "description": "This new Generative car from Nitro League is here, and it’s hard to deny that it’s something of a looker. This customisable race car is from Nitro League’s latest brand lineup, and it might just be the most handsome of the bunch. So if looks are your priority, you might already be sold - performance wise, awkward handling is a thing of the past with the new autonomous ai and on top the exterior is designed for speed with minimal drag coefficient.",
+    "tags": {
+      "visuals": {
+        "paintcolor1": "57321D",
+        "paintcolor2": "0",
+        "decaldolor": "",
+        "decaldhape": "",
+        "power": "0.4",
+        "carparts": {
+          "windowtint": {
+            "basetexture": "#0000FF"
+          },
+          "airintake": {
+            "basetexture": "",
+            "object": ""
+          },
+          "spoiler": {
+            "basetexture": "Spoiler002",
+            "object": "Spoiler002"
+          },
+          "fronttyre": {
+            "basetexture": "Wheel001",
+            "object": "Wheel001"
+          }
+        }
+      },
+      "track_bonus": {
+        "asphalt": {
+          "acceleration": "3"
+        },
+        "fibre": {
+          "acceleration": ""
+        },
+        "concrete": {
+          "speed": "-31"
+        },
+        "straightstretch": {
+          "speed": "12"
+        },
+        "twistturns": {
+          "speed": "-27"
+        }
+      },
+      "weather_bonus": {
+        "sunny": {
+          "speed": "28"
+        },
+        "snowy": {
+          "handling": "17"
+        },
+        "windy": {
+          "handling": "-18"
+        }
+      },
+      "carclass": "Alpha",
+      "enginetype": "Combustion",
+      "rlevel": "1",
+      "rp": "5"
+    }
+  }
+}

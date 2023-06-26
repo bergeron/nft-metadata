@@ -1,0 +1,49 @@
+{
+  "address": "0xd3fba17b60f35e5dfb7d2272d0a259b459c03bf2",
+  "type": "ERC721",
+  "name": "brdg",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/VAaOWEkdnxteNipAUUcv_nZnfFqlEAwIdM9gDyy1ans/1",
+  "metadata": {
+    "name": "blu #1/13",
+    "created_by": "dgb",
+    "description": "blu brdg",
+    "attributes": [
+      {
+        "trait_type": "artist",
+        "value": "dgb"
+      },
+      {
+        "trait_type": "color",
+        "value": "blu"
+      },
+      {
+        "trait_type": "type",
+        "value": "brdg"
+      }
+    ],
+    "animation_details": {
+      "bytes": 50118052,
+      "format": "MP4",
+      "duration": 30,
+      "sha256": "75c5b6445b6d9ef3979749797b009fa8b59e8ecbfc8627087fca1610f39a4656",
+      "width": 3840,
+      "height": 2160,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/PyNDQKjzkm7YCJimvL6PKjYwfS2JptGqqudYz9p-yW4",
+    "animation_url": "https://arweave.net/PyNDQKjzkm7YCJimvL6PKjYwfS2JptGqqudYz9p-yW4",
+    "image_details": {
+      "bytes": 915636,
+      "format": "JPEG",
+      "sha256": "7bf74c6340bc349b0d244ef12a4d0a0b9530d26f101bab41cdcc3f874b6f1f56",
+      "width": 3840,
+      "height": 2160
+    },
+    "image": "https://arweave.net/L3RzJqO_3FhJEwkxD2spIhOe3GDodPcmSmcgwLP0WZI",
+    "image_url": "https://arweave.net/L3RzJqO_3FhJEwkxD2spIhOe3GDodPcmSmcgwLP0WZI"
+  }
+}

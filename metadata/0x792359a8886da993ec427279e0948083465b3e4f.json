@@ -1,0 +1,18 @@
+{
+  "address": "0x792359a8886da993ec427279e0948083465b3e4f",
+  "type": "ERC721",
+  "name": "SeizedPNGs",
+  "tokenCount": "214",
+  "uri": "ipfs://QmVHBAjojXKqQDQg4shqNaGMv5F8YM9AaEysymskVFJXrY/2.json",
+  "metadata": {
+    "description": "PNGs must be seized.",
+    "name": "SeizePNGs",
+    "attributes": [
+      {
+        "trait_type": "PNG",
+        "value": "SEIZED"
+      }
+    ],
+    "image": "ipfs://QmReY1zupWf1qY9RWGh8C71BpBVesw4KTrWsDt3isA1Kca"
+  }
+}

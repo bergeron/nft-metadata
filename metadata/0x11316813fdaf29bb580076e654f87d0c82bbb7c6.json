@@ -1,0 +1,41 @@
+{
+  "address": "0x11316813fdaf29bb580076e654f87d0c82bbb7c6",
+  "type": "ERC721",
+  "name": "PhoudArt",
+  "tokenCount": "15",
+  "uri": "https://arweave.net/k0TM6pUEu3eoIY6dTdkRIgvBI4xJV5paZc5DRLTKuNU/1",
+  "metadata": {
+    "name": "Monsters in space #1/15",
+    "created_by": "PhoudArt",
+    "description": "The mysteries of the stars, time, and alien creature fascinated me. I want to float through the dark space with my imaginary friends and see the things that we've never seen before.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "PhoudArt"
+      }
+    ],
+    "animation_details": {
+      "bytes": 103924976,
+      "format": "MP4",
+      "duration": 39,
+      "sha256": "db4a4b983e9e54f7c28dc036ccb8e89ee03ce7f5148d2fcfb8f98a54c68c0974",
+      "width": 3136,
+      "height": 2160,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/eXX7ZDDf4MH6WfDflVd0tvhGuIHbpHFq4WMyxVcXG-Q",
+    "animation_url": "https://arweave.net/eXX7ZDDf4MH6WfDflVd0tvhGuIHbpHFq4WMyxVcXG-Q",
+    "image_details": {
+      "bytes": 31054149,
+      "format": "GIF",
+      "sha256": "588c23554f98176e8b109368afe4378b4ff3e4072fcd7f6878382694f3e3c480",
+      "width": 2732,
+      "height": 1882
+    },
+    "image": "https://arweave.net/MHxeOHaUHUZdu2-wXvsF8QZDW5q6Zfb7ebJCc9LYvD0",
+    "image_url": "https://arweave.net/MHxeOHaUHUZdu2-wXvsF8QZDW5q6Zfb7ebJCc9LYvD0"
+  }
+}

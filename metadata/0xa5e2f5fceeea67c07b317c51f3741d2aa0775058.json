@@ -1,0 +1,35 @@
+{
+  "address": "0xa5e2f5fceeea67c07b317c51f3741d2aa0775058",
+  "type": "ERC721",
+  "name": "Seattle Kraken",
+  "tokenCount": "1500",
+  "uri": "https://api.orangecomet.io/collectible-metadata/kraken-captains-box/1",
+  "metadata": {
+    "name": "Kraken Captain’s Box #1",
+    "description": "This Captain’s Box is constructed out of fine walnut and salt-marinated silver. Carved and forged by an ancient smith, this artifact boasts handwrought latches, pressure gauges, and pneumatic locks to keep its contents hidden away from the prying eyes of a ship’s company.",
+    "image": "ipfs://bafybeibt2bvehnujwv2gy6cg76f4smsvhzch47mge6y3uutsmytkmqs3xy/KRAKEN-CAPTAINS-BOX.jpg",
+    "animation_url": "ipfs://bafybeibt2bvehnujwv2gy6cg76f4smsvhzch47mge6y3uutsmytkmqs3xy/KRAKEN-CAPTAINS-BOX.mp4",
+    "attributes": [
+      {
+        "trait_type": "Team Name",
+        "value": "Seattle Kraken"
+      },
+      {
+        "trait_type": "Team Tri-Code",
+        "value": "SEA"
+      },
+      {
+        "trait_type": "Status",
+        "value": "opened"
+      },
+      {
+        "trait_type": "Featuring",
+        "value": "Kraken Captains Box"
+      },
+      {
+        "trait_type": "Content",
+        "value": "Parchment Rolls"
+      }
+    ]
+  }
+}

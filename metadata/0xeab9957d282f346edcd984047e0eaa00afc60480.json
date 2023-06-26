@@ -1,0 +1,39 @@
+{
+  "address": "0xeab9957d282f346edcd984047e0eaa00afc60480",
+  "type": "ERC721",
+  "name": "Bald Dudes NFT Collection",
+  "tokenCount": "703",
+  "uri": "https://balddudes.net/meta/1.json",
+  "metadata": {
+    "name": "Bald Dude #1",
+    "description": "BaldDudes NFT, celebrating baldness in the Metaverse",
+    "image": "https://balddudes.net/meta/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Jacket"
+      },
+      {
+        "trait_type": "Bald Dude",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Three Hairs"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blond Beard"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Round Ears"
+      }
+    ]
+  }
+}

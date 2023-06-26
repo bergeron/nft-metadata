@@ -1,0 +1,41 @@
+{
+  "address": "0x1d8083567266c8bdc4606c233303100976e6f61c",
+  "type": "ERC1155",
+  "name": "The Angry Ostrich Country Club",
+  "tokenCount": "500",
+  "uri": "ipfs://Qmeb1oA9kVyDiCWC6JtEBhgxYgeGhvsHhZsNt7UyxvCb2q/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "The Angry Ostrich Country Club is an NFT Community. Bound together by 9,999 unique Ostriches and a strong discord community.",
+    "external_url": "https://angryostrichcountryclub.io/",
+    "image": "ipfs://QmPh6stzw9foZ1fByeo2T2Lo89AeSESYSBMKtFxvkhGKWs/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Ostrich"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black button"
+      },
+      {
+        "trait_type": "Shirts",
+        "value": "Pink puff"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ]
+    },
+    "developer": "Grant Fields @gradvm"
+  }
+}

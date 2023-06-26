@@ -1,0 +1,42 @@
+{
+  "address": "0xa6b1a58a5d8e14908ec7c696c1b40622b7bf42fe",
+  "type": "ERC721",
+  "name": "RengaPunks",
+  "tokenCount": "4444",
+  "uri": "ipfs://bafybeiholb4ttljk5vzpudgzmzg2axfuiiabg5x4xogwstmolgtsq7ruu4/1.json",
+  "metadata": {
+    "name": "Renga Punks #1",
+    "description": "Collection of 10000 Renga Punks",
+    "image": "ipfs://bafybeihn6fgf4p2k74xobkpiy327pthaydehy5ctcxu5irqgx436ee7wti/1.png",
+    "dna": "4dec41deaa3b2dc120a268379b2f98d50b56f2dc",
+    "edition": 1,
+    "date": 1665849529174,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Background Misc",
+        "value": "Drops"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Brown man"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "Coat"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smoke"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

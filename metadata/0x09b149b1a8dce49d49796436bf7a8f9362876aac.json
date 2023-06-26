@@ -1,0 +1,65 @@
+{
+  "address": "0x09b149b1a8dce49d49796436bf7a8f9362876aac",
+  "type": "ERC721",
+  "name": "Rain Gutter Regatta",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/wPBKmx_l5q0hKH14xC9sP0E7LUNHR_nMPsVnlSTLZbQ",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "animation_url": "https://arweave.net/qkmJe6XnxDu874kV-HySeBSmGA0Yl2nKMdj3RIAIFBE",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1645500886
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Vivienne Maffei, World-Class Artist"
+      }
+    ],
+    "description": "Vivienne racing with the Scouts in the Raingutter Regatta",
+    "external_url": "https://cxip.io/nft/0x09b149b1a8dce49d49796436bf7a8f9362876aac/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/M0Ehq8TUagXo4lrYg1itl-NRO3e5LRvtut4AY8Ji2Oo",
+    "imageUrl": "https://arweave.net/M0Ehq8TUagXo4lrYg1itl-NRO3e5LRvtut4AY8Ji2Oo",
+    "name": "Rain Gutter Regatta Race",
+    "properties": {
+      "animation_url": "https://arweave.net/qkmJe6XnxDu874kV-HySeBSmGA0Yl2nKMdj3RIAIFBE",
+      "created_at": "2022-02-22T03:34:46.000000Z",
+      "creator_wallet": "0x95e5c68f7b5a9379fcac17d04ceb3d2ba7d79116",
+      "description": "Vivienne racing with the Scouts in the Raingutter Regatta",
+      "image": "https://arweave.net/M0Ehq8TUagXo4lrYg1itl-NRO3e5LRvtut4AY8Ji2Oo",
+      "imageUrl": "https://arweave.net/M0Ehq8TUagXo4lrYg1itl-NRO3e5LRvtut4AY8Ji2Oo",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "22 February 2022",
+      "name": "Rain Gutter Regatta Race",
+      "nft_type": "non-fungible gif token (image/gif)",
+      "preview_media_file": "https://arweave.net/M0Ehq8TUagXo4lrYg1itl-NRO3e5LRvtut4AY8Ji2Oo",
+      "preview_media_file_dimensions": "360x360",
+      "preview_media_file_size": 3373438,
+      "preview_media_file_type": "image/gif",
+      "raw_media_dimensions": "360x640",
+      "raw_media_file": "https://arweave.net/qkmJe6XnxDu874kV-HySeBSmGA0Yl2nKMdj3RIAIFBE",
+      "raw_media_file_size": 4536278,
+      "raw_media_file_spec": "32 frames of GIF 360x640 360x640+0+0 8-bit sRGB 256c 0.000u 0:00.000",
+      "raw_media_file_type": "image/gif",
+      "raw_media_format": "portrait",
+      "raw_media_signature": "0xa10b8296edefe087db5c159f21068fd3163c44a22d50104e7c45cab53a477491",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/qtRsPYdPynoAONSei4j0WnLkaCQl_LQhG2Yl6bOkBbk",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Rain Gutter Regatta Race",
+      "total_supply": 1
+    },
+    "title": "Rain Gutter Regatta Race"
+  }
+}

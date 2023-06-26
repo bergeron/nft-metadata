@@ -1,0 +1,30 @@
+{
+  "address": "0xc0e991e923dcd19d6ffd34981fc9841ca3617f41",
+  "type": "ERC1155",
+  "name": "7 Factorial",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/FfMBmy0jEPho2J-ZsqIW9oQgl0cK2Gwkw3bVK1rBDS4",
+  "metadata": {
+    "name": "7 Factorial, all 5040",
+    "created_by": "larswander",
+    "external_url": "https://larswander.com",
+    "description": "One thing that I find amazing about computers as tools is how much they allow us to explore. Being able to express systems in terms of only their rules, and let the computer evaluate, search, optimize, etc… is incredibly fascinating. There are entire worlds out there waiting to be explored through the lens of computation. One such thing I keep using the computer to search for are visual “enumerations” of all possible states of a system. This series explores permutations.\n\nIn PROOF's Evolving Pixels show (https://www.proof.xyz/curated/evolving-pixels/7-factorial), 19 tokens were minted, each representing a possible permutation of 7 items. To illustrate where each token fits in the parameter space, this full set of 5040 is pictured here. Amazingly, purely by chance, a pair of \"twin\" tokens were created, both at index 1792. The single twin permutation is drawn in blue, and the other 17 are drawn in red. \n\nThis is an SVG, so zoom in, scroll around, and explore :-).",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "larswander"
+      },
+      {
+        "trait_type": "mints",
+        "value": "528,4994,848,3104,1888,1984,1792,416,1680,1792,3168,2224,2976,2816,2208,2656,3184,688,4368"
+      }
+    ],
+    "image_details": {
+      "bytes": 9928746,
+      "format": "SVG",
+      "sha256": "ad0040dcd7ba29901609bbf4ea373588223a82ee396131abef440808060202eb"
+    },
+    "image": "https://arweave.net/2FyLcrl0pDZw5wlFJyVDw4UOMiGkkpEvgJnPXfHJtZ0",
+    "image_url": "https://arweave.net/2FyLcrl0pDZw5wlFJyVDw4UOMiGkkpEvgJnPXfHJtZ0"
+  }
+}

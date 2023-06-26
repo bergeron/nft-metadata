@@ -1,0 +1,51 @@
+{
+  "address": "0x71e69d83ad7860a798773557f79960a97d322a9f",
+  "type": "ERC721",
+  "name": "NFT Design Awards",
+  "tokenCount": "6",
+  "uri": "ipfs://QmUsG8NvtLnieiTFiQKkphnpxt4Pd1BehuA6g3srT9pupz/1.json",
+  "metadata": {
+    "name": "NFT of the Month Award December 2022",
+    "description": "NFT Design Awards (https://nftdesignawards.io/) is proud to present this award to some of the most talented NFT professionals in the world. A jury of experts has assembled and voted on the best projects. This award is the result of hard work, dedication and impressive contribution to the NFT community.",
+    "image_url": "ipfs://QmQ9EDBkVKSfpjA4NQziFewfcyKzWPJdSsmbDyrybvpXk6/1.gif",
+    "image_preview_url": "ipfs://QmQ9EDBkVKSfpjA4NQziFewfcyKzWPJdSsmbDyrybvpXk6/1.gif",
+    "image_thumbnail_url": "ipfs://QmQ9EDBkVKSfpjA4NQziFewfcyKzWPJdSsmbDyrybvpXk6/1.gif",
+    "image_original_url": "ipfs://QmQ9EDBkVKSfpjA4NQziFewfcyKzWPJdSsmbDyrybvpXk6/1.gif",
+    "animation_url": "ipfs://QmQ9EDBkVKSfpjA4NQziFewfcyKzWPJdSsmbDyrybvpXk6/1.mp4",
+    "animation_original_url": "ipfs://QmQ9EDBkVKSfpjA4NQziFewfcyKzWPJdSsmbDyrybvpXk6/1.mp4",
+    "dna": "ef0f8f58d60bd3ccb39d2ab827a126b7020c578d",
+    "edition": 1,
+    "creator": "NFT Design Awards",
+    "fee_recipient": "0x787B2703032A7eB413FCC9a96742C0249FeAFddD",
+    "seller_fee_basis_points": 100,
+    "creators": [
+      {
+        "address": "0x787B2703032A7eB413FCC9a96742C0249FeAFddD",
+        "share": 100
+      }
+    ],
+    "attributes": [
+      {
+        "trait_type": "Month",
+        "value": "December"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Project",
+        "value": "Marine Overdose"
+      },
+      {
+        "trait_type": "Score",
+        "value": "7.82"
+      },
+      {
+        "trait_type": "Recipient",
+        "value": "https://twitter.com/leaf_swan"
+      }
+    ],
+    "compiler": "NFTDA Mint Engine"
+  }
+}

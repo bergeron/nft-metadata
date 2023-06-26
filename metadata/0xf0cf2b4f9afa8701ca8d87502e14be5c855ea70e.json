@@ -1,0 +1,25 @@
+{
+  "address": "0xf0cf2b4f9afa8701ca8d87502e14be5c855ea70e",
+  "type": "ERC721",
+  "name": "Decentraland 2",
+  "tokenCount": "2",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xf0cf2b4f9afa8701ca8d87502e14be5c855ea70e/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xF0cF2b4f9AfA8701Ca8d87502E14be5C855eA70e/icon?id=1",
+    "expiration": 1630229684,
+    "tokenId": "1",
+    "owner": "0x3ca206264762caf81a8f0a843bbb850987b41e16",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1630229684
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xF0cF2b4f9AfA8701Ca8d87502E14be5C855eA70e",
+    "network": 1
+  }
+}

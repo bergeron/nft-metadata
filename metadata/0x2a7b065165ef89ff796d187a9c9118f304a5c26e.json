@@ -1,0 +1,80 @@
+{
+  "address": "0x2a7b065165ef89ff796d187a9c9118f304a5c26e",
+  "type": "ERC721",
+  "name": "Crocs League",
+  "tokenCount": "4444",
+  "uri": "https://www.crocsleague.com/api/tokens/1",
+  "metadata": {
+    "name": "Croc #1 - King Croc",
+    "isRare": true,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Ultra Rare"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Regal"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Golden Skin"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "King Robe"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Golden"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Golden"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Golden Crown"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Royal Blue"
+      },
+      {
+        "trait_type": "Family",
+        "value": "Early Bird"
+      },
+      {
+        "trait_type": "Role",
+        "value": "Ambassador"
+      },
+      {
+        "trait_type": "Wins",
+        "value": 1,
+        "max_value": 1,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Losses",
+        "value": 0,
+        "max_value": 1,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Draws",
+        "value": 0,
+        "max_value": 1,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Win Percentage",
+        "value": 100,
+        "max_value": 100,
+        "display_type": "boost_percentage"
+      }
+    ],
+    "description": "Croc #1 - King Croc",
+    "external_url": "https://www.crocsleague.com",
+    "image": "https://images.crocsleague.com/images/1.png"
+  }
+}

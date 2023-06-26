@@ -1,0 +1,49 @@
+{
+  "address": "0xf58629d7fc4e8f89466adb4122099108acae3777",
+  "type": "ERC721",
+  "name": "Greg Cat NFT - old",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeifu6w2jv3jjq7a6ackj6ddcixoar5bnjqe3l7s35djvycat6vbcjm/1.json",
+  "metadata": {
+    "name": "Greg Cat #1",
+    "description": "Greg Cats is a collection of  randomly generated NFTs that exist on the Ethereum Blockchain.",
+    "fee_recipient": "0x5962d4Fb9c9BB649AB3Bf34cA90BacBB2996c06a",
+    "seller_fee_basis_points": 1500,
+    "image": "ipfs://bafybeieq5zuccw2ablhcpnffjr5ceztmb3dxojrc2hocpougjjqbbffwqq/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Ginger Cat"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Hair Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Squint"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Sign No"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 4374,
+        "display_type": "number"
+      }
+    ]
+  }
+}

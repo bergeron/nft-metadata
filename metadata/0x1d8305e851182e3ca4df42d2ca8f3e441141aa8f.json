@@ -1,0 +1,25 @@
+{
+  "address": "0x1d8305e851182e3ca4df42d2ca8f3e441141aa8f",
+  "type": "ERC1155",
+  "name": "penguPins",
+  "tokenCount": "10",
+  "uri": "https://nft.pudgypenguins.com/penguPin/1.json",
+  "metadata": {
+    "name": "Penguineering Team",
+    "symbol": "penguPin",
+    "description": "Our home was lost, but together we rebuild. We won't stop our work until every heart is filled. No matter the obstacle we get it done, that is our code. Pengu community and penguineering team is like ethereum and node.",
+    "image": "https://nft.pudgypenguins.com/penguPin/images/1.gif",
+    "animation_url": "https://nft.pudgypenguins.com/penguPin/images/1.mp4",
+    "external_url": "https://pudgypenguins.com",
+    "attributes": [
+      {
+        "trait_type": "TYPE",
+        "value": "CLUB"
+      },
+      {
+        "trait_type": "PUDGY",
+        "value": "PENGUIN"
+      }
+    ]
+  }
+}

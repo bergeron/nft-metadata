@@ -1,0 +1,38 @@
+{
+  "address": "0x55f1c36bb7ae0d7d6cae97902e30a2306686ec73",
+  "type": "ERC721",
+  "name": "MoonCats Reimagined",
+  "tokenCount": "7507",
+  "uri": "ipfs://bafybeialrwxmskznai3ljrnfgd3pft45u3rg6rzluaolxdiu52y7eel6ge/1.json",
+  "metadata": {
+    "name": "MoonCat Reimagined #1",
+    "description": "Cats gets a remastered after their success. CC0 License. Meow.",
+    "image": "ipfs://bafybeifgmdt4scmmgrgcy2deygunpcepo2mapu4x5ogpbosdfl4m4ry55i/1.png",
+    "dna": "798118e91db3fc74f59ed52d054abeadbabda2a1",
+    "edition": 1,
+    "date": 1664238124818,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Cats",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Hue",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Semi Closed Orange"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Lincoln"
+      }
+    ],
+    "compiler": "Cats"
+  }
+}

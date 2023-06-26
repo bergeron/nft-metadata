@@ -1,0 +1,23 @@
+{
+  "address": "0x986010627a96200c287cff73007b7b5797c32846",
+  "type": "ERC721",
+  "name": "Drops DAO Ambassadors",
+  "tokenCount": "3",
+  "uri": "data:application/json;base64,eyJuYW1lIjoiQW1iYXNzYWRvciAjMSIsImRlc2NyaXB0aW9uIjoiVGhlIEFtYmFzc2Fkb3IgTkZUIGlzIGEgbm9uLXRyYW5zZmVyYWJsZSB0b2tlbiBleGNsdXNpdmVseSBhdmFpbGFibGUgdG8gRHJvcHMgREFPIGFtYmFzc2Fkb3JzLiBFYWNoIE5GVCBwcm92aWRlcyB2ZURPUCB2b3RpbmcgcG93ZXIgd2hpY2ggaXMgdXNlZCBpbiBEQU8gZ292ZXJuYW5jZSBwcm9jZXNzLiIsImltYWdlIjoiaHR0cHM6Ly9hbWJhc3NhZG9yLm15cGluYXRhLmNsb3VkL2lwZnMvUW1lR1hDcmJpdGVjWDFLTnFYWTlWQmZtOUFLc3dCSFp4M2ptaHlaZ1RtZWlkeS8zLmpwZyIsImF0dHJpYnV0ZXMiOlt7InRyYWl0X3R5cGUiOiJDb2xsZWN0aW9uIiwidmFsdWUiOiJDeWJlckJyb2tlcnMifSx7ImRpc3BsYXlfdHlwZSI6Im51bWJlciIsInRyYWl0X3R5cGUiOiJ2ZURPUCIsInZhbHVlIjozMDAwfV19",
+  "metadata": {
+    "name": "Ambassador #1",
+    "description": "The Ambassador NFT is a non-transferable token exclusively available to Drops DAO ambassadors. Each NFT provides veDOP voting power which is used in DAO governance process.",
+    "image": "https://ambassador.mypinata.cloud/ipfs/QmeGXCrbitecX1KNqXY9VBfm9AKswBHZx3jmhyZgTmeidy/3.jpg",
+    "attributes": [
+      {
+        "trait_type": "Collection",
+        "value": "CyberBrokers"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "veDOP",
+        "value": 3000
+      }
+    ]
+  }
+}

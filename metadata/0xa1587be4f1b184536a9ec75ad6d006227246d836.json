@@ -1,0 +1,81 @@
+{
+  "address": "0xa1587be4f1b184536a9ec75ad6d006227246d836",
+  "type": "ERC721",
+  "name": "Hieroglyphs by pxlq V2",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/30000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "30000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Hieroglyphs #1",
+    "minted": true,
+    "artist": "pxlq",
+    "description": "Simple rules - complex patterns. An exploration of abstract variation through generative symbols.",
+    "script_type": "p5@1.0.0",
+    "project_id": "30",
+    "curation_status": "presents",
+    "heritage_curation_status": "playground",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/30000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/30000001.png",
+    "generator_url": "https://generator.artblocks.io/30000001",
+    "royaltyInfo": {
+      "artistAddress": "0xb56ae8a727cf38f1f4716aeda6749d2af340d8f4",
+      "additionalPayee": "0xb56ae8a727cf38f1f4716aeda6749d2af340d8f4",
+      "additionalPayeePercentage": 100,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Hieroglyphs by pxlq",
+    "website": null,
+    "token_hash": "0xa18dda15c1be3860aa1ff7efd680d7d15e1278ccb073ee87b9e986c9881ff12f",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/30/tokens/30000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/30000001.png",
+    "features": {
+      "Depth": "On",
+      "Canvas": "Classic",
+      "Shapes": "Single",
+      "Sizing": "Small",
+      "Primary": "#D9A881",
+      "Color Mode": "Flat",
+      "Party Mode": "Activated"
+    },
+    "traits": [
+      {
+        "trait_type": "Hieroglyphs",
+        "value": "All Hieroglyphs"
+      },
+      {
+        "trait_type": "Hieroglyphs",
+        "value": "Depth: On"
+      },
+      {
+        "trait_type": "Hieroglyphs",
+        "value": "Canvas: Classic"
+      },
+      {
+        "trait_type": "Hieroglyphs",
+        "value": "Shapes: Single"
+      },
+      {
+        "trait_type": "Hieroglyphs",
+        "value": "Sizing: Small"
+      },
+      {
+        "trait_type": "Hieroglyphs",
+        "value": "Primary: #D9A881"
+      },
+      {
+        "trait_type": "Hieroglyphs",
+        "value": "Color Mode: Flat"
+      },
+      {
+        "trait_type": "Hieroglyphs",
+        "value": "Party Mode: Activated"
+      }
+    ],
+    "is_static": true,
+    "license": "NFT License"
+  }
+}

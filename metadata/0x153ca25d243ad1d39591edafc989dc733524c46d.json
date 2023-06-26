@@ -1,0 +1,27 @@
+{
+  "address": "0x153ca25d243ad1d39591edafc989dc733524c46d",
+  "type": "ERC721",
+  "name": "iAMs",
+  "tokenCount": "500",
+  "uri": "https://raw.githubusercontent.com/artistthebob/iams/main/JSON/1",
+  "metadata": {
+    "name": "iAM #1 Genesis",
+    "id": "1",
+    "description": "iAMs are a representation of everything you can be or want to be. A lovingly handcrafted collection of 500 completely unique 3D characters.",
+    "image": "https://raw.githubusercontent.com/artistthebob/iams/main/1.png",
+    "attributes": [
+      {
+        "trait_type": "Class",
+        "value": "Elemental"
+      },
+      {
+        "trait_type": "Quirk",
+        "value": "Nickname"
+      },
+      {
+        "trait_type": "Quirk",
+        "value": "Genesis"
+      }
+    ]
+  }
+}

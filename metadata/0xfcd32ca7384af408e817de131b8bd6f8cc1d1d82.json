@@ -1,0 +1,34 @@
+{
+  "address": "0xfcd32ca7384af408e817de131b8bd6f8cc1d1d82",
+  "type": "ERC721",
+  "name": "Nerys Art",
+  "tokenCount": "8",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=bP1QvwRn9WQYVJfd1G8j",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1590252653138?alt=media&token=bd2dfa6c-3579-404a-adbb-60ed08d65b9e",
+    "forSale": true,
+    "description": "Dream with me",
+    "contractAddress": "0xfcd32ca7384af408e817de131b8bd6f8cc1d1d82",
+    "ethPrice": "8",
+    "amountToMint": "1",
+    "minter": "0xeace75f74ae384eefa21eb11a2d441bd566783ed",
+    "mintedOn": {
+      "_seconds": 1590252873,
+      "_nanoseconds": 445000000
+    },
+    "price": "$0.00",
+    "name": "Nery's Abstract 001",
+    "fiatPrice": "$1,661.60",
+    "minted": "Minted on Mintbase.io",
+    "youtube_url": "",
+    "category": "alJuInV4dezvHTNU8Dp1",
+    "external_url": "https://mintbase.io/my-market/0xfcd32ca7384af408e817de131b8bd6f8cc1d1d82",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "bP1QvwRn9WQYVJfd1G8j"
+      }
+    ],
+    "type": "ERC721"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "address": "0x596cfe8d6709a86d51ff0c18ebf0e66561b08ae3",
+  "type": "ERC721",
+  "name": "MM3NFT",
+  "tokenCount": "1112",
+  "uri": "https://metadata.mm3nft.com/mm3/nft/metadata/1",
+  "metadata": {
+    "name": "mm3 #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lime Light",
+        "cid": "003",
+        "tid": 1,
+        "rare": 0
+      },
+      {
+        "trait_type": "Face",
+        "value": "Almond Eyes",
+        "parent_trait": "Body"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Dark Brown",
+        "parent_trait": "Body"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Beige",
+        "parent_trait": "Body"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Crimson",
+        "parent_trait": "Body"
+      },
+      {
+        "trait_type": "Makeup",
+        "value": "Smoky Crimson",
+        "parent_trait": "Body"
+      },
+      {
+        "trait_type": "Fashion",
+        "value": "Giselle Chained Dress",
+        "cid": "021",
+        "tid": 3,
+        "rare": 5
+      },
+      {
+        "trait_type": "Necklace",
+        "value": "New York",
+        "cid": "006",
+        "tid": 4,
+        "rare": 5
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Blonde Short Bob Side Part",
+        "cid": "016",
+        "tid": 5,
+        "rare": 0
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Ball & Chain",
+        "cid": "027",
+        "tid": 6,
+        "rare": 10
+      }
+    ],
+    "total_rare": 20,
+    "image": "https://image.mm3nft.com/nft/1.png"
+  }
+}

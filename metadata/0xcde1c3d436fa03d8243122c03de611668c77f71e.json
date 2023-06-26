@@ -1,0 +1,46 @@
+{
+  "address": "0xcde1c3d436fa03d8243122c03de611668c77f71e",
+  "type": "ERC721",
+  "name": "TATest",
+  "tokenCount": "12",
+  "uri": "https://jitender-poc.s3.amazonaws.com/1",
+  "metadata": {
+    "name": "TATN #1",
+    "description": "New Description",
+    "image": "https://jitender-poc.s3.amazonaws.com/1.png",
+    "dna": "0697faddf45aa21aa7952b94adcf3ab1c57e15d1",
+    "edition": 1,
+    "date": 1665943989691,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "0x716039ab9ce2780e35450b86dc6420f22460c380",
+  "type": "ERC721",
+  "name": "Cool Monkes Genesis",
+  "tokenCount": "10000",
+  "uri": "https://www.coolmonkes.io/api/metadata/genesis/1",
+  "metadata": {
+    "name": "Cool Monke #1",
+    "description": "🐒 Cool Monke Genesis, expert at monke business & having fun! <br/> 🐵 All work and no play makes a monke a dull ape!",
+    "image": "http://coolmonkes.io/api/monkes/1",
+    "external_url": "http://coolmonkes.io/api/monkes/1",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Head",
+        "value": ""
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Tired"
+      },
+      {
+        "trait_type": "Ears",
+        "value": ""
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Huh"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "King"
+      }
+    ]
+  }
+}

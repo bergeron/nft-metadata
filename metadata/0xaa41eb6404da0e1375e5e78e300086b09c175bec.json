@@ -1,0 +1,35 @@
+{
+  "address": "0xaa41eb6404da0e1375e5e78e300086b09c175bec",
+  "type": "ERC1155",
+  "name": "MyCryptoIsland",
+  "tokenCount": "19",
+  "uri": "https://arweave.net/Y70oCVd6NEfCjVMcInVDtmerBTmxpLVVx1_-lNkslWw",
+  "metadata": {
+    "name": "New York RARE Apartment",
+    "created_by": "MyCryptoIsland",
+    "description": "The NFT card is the Certificate of Ownership.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "MyCryptoIsland"
+      },
+      {
+        "trait_type": "District",
+        "value": "New York"
+      },
+      {
+        "trait_type": "Scarcity",
+        "value": "Rare"
+      }
+    ],
+    "image_details": {
+      "bytes": 3403846,
+      "format": "JPEG",
+      "sha256": "36206e24da92d157c13f865541781258d3190991fbc990e385ff421af3d09079",
+      "width": 2480,
+      "height": 3508
+    },
+    "image": "https://arweave.net/TPX9p5SygqrSh8VqchrUM4V-59ztsXS1NoYR_xT478A",
+    "image_url": "https://arweave.net/TPX9p5SygqrSh8VqchrUM4V-59ztsXS1NoYR_xT478A"
+  }
+}

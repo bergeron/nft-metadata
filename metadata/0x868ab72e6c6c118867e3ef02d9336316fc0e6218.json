@@ -1,0 +1,62 @@
+{
+  "address": "0x868ab72e6c6c118867e3ef02d9336316fc0e6218",
+  "type": "ERC721",
+  "name": "Maniaveres",
+  "tokenCount": "700",
+  "uri": "ipfs://QmRPSoPdS77AMi2TVgKzUYwkinNTWCDpvC1qCtHCz4BBab/1",
+  "metadata": {
+    "name": "Maniavere Egg #936",
+    "description": "ManiaVerse is an interoperable metaverse where we bring utility to NFTs. Our vision is to intergrate and drive value to existing NFTs and communities.",
+    "external_url": "",
+    "image": "https://bafybeifiwchdbxjteszpmludi2fznrgqiio3wtui46irca73tuykhzuwti.ipfs.dweb.link/936.gif?ext=gif",
+    "attributes": [
+      {
+        "value": "Wind",
+        "trait_type": "Egg"
+      },
+      {
+        "value": "Earth",
+        "trait_type": "Incubator"
+      },
+      {
+        "value": "Sakura",
+        "trait_type": "Climate"
+      },
+      {
+        "value": "Shadow",
+        "trait_type": "Energy"
+      },
+      {
+        "value": "OG",
+        "trait_type": "OG Symbol"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://bafybeifiwchdbxjteszpmludi2fznrgqiio3wtui46irca73tuykhzuwti.ipfs.dweb.link/936.gif?ext=gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": [
+        {
+          "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+          "share": 10
+        },
+        {
+          "address": "J6vK7PmyNX3tBbxzKz6TywKpoExitFunBYRj6VEDCaRj",
+          "share": 72
+        },
+        {
+          "address": "Cj9SJuukKUGn7ouatiyeM37eD8uA9fCdC3xobc8w1KXr",
+          "share": 18
+        }
+      ],
+      "category": "image",
+      "collection": {
+        "name": "Maniavere Eggs",
+        "family": "Sovana"
+      }
+    }
+  }
+}

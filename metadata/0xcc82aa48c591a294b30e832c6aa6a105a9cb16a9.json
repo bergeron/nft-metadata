@@ -1,0 +1,25 @@
+{
+  "address": "0xcc82aa48c591a294b30e832c6aa6a105a9cb16a9",
+  "type": "ERC721",
+  "name": "Inugami Kiryo",
+  "tokenCount": "69",
+  "uri": "https://us-central1-inugaminft-42b46.cloudfunctions.net/getMetadata?tokenId=1\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "metadata": {
+    "name": "Kiryo #1",
+    "image": "https://firebasestorage.googleapis.com/v0/b/inugaminft-42b46.appspot.com/o/kiryo.jpeg?alt=media&token=b2a5a30a-a8f5-4790-9ee1-44ba4120250d",
+    "animation_url": "https://firebasestorage.googleapis.com/v0/b/inugaminft-42b46.appspot.com/o/kiryo.mp4?alt=media&token=0dbc92e1-2d7e-41c4-a41b-b1f4583fc1de",
+    "description": "#Kiryo the traveller\r\nOne of the lesser Inugami, sent first out of the void to scout.\r\n`Gives 20% boost to in-game earnings.`",
+    "attributes": [
+      {
+        "trait_type": "In-game Earnings",
+        "display_type": "boost_percentage",
+        "value": 20
+      },
+      {
+        "trait_type": "Type",
+        "value": "Traveller"
+      }
+    ],
+    "background_color": "000000"
+  }
+}

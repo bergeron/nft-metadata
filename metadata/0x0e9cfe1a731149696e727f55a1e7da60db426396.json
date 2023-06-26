@@ -1,0 +1,45 @@
+{
+  "address": "0x0e9cfe1a731149696e727f55a1e7da60db426396",
+  "type": "ERC721",
+  "name": "Testing",
+  "tokenCount": "55",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=6RSGGsQEwfZgCtcJMbIa",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1588453633769?alt=media&token=902fef66-4966-4ccc-a45d-4a5ad30f10b1",
+    "forSale": false,
+    "contractAddress": "0x0e9cfe1a731149696e727f55a1e7da60db426396",
+    "description": "Myself",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1588453686,
+      "_nanoseconds": 364000000
+    },
+    "price": 0,
+    "name": "Brantly",
+    "fiatPrice": "$0.00",
+    "attributes": [
+      {
+        "trait_type": "location",
+        "value": "Springfield, MO, USA"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJP5jIRfdiz4cRoA1pHrNs_Ws"
+      },
+      {
+        "trait_type": "website",
+        "value": "http://brantly.xyz/"
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x0e9cfe1a731149696e727f55a1e7da60db426396",
+    "type": "ERC721"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0x5cf51e611b36e9b3bf4e5b36da908fa3b040961e",
+  "type": "ERC721",
+  "name": "The First Slice",
+  "tokenCount": "16",
+  "uri": "https://batter-api.herokuapp.com/v1/collection/640d1b1d2c06214a49c21a29/tokens/1",
+  "metadata": {
+    "_id": "640d228e75b59f348a607f33",
+    "tokenId": "1",
+    "collectionId": "640d1b1d2c06214a49c21a29",
+    "attributes": [
+      {
+        "value": "Vapor3on",
+        "display_type": "",
+        "trait_type": "Icing"
+      },
+      {
+        "value": "Flavor",
+        "display_type": "",
+        "trait_type": "Valhalla Vanilla"
+      },
+      {
+        "value": "Filling",
+        "display_type": "",
+        "trait_type": "Peach Marmalade"
+      },
+      {
+        "value": "Candle",
+        "display_type": "",
+        "trait_type": "Upright"
+      },
+      {
+        "value": "Oven",
+        "display_type": "",
+        "trait_type": "Preheated"
+      }
+    ],
+    "name": "1",
+    "image": "https://cakeapp-clients.s3.us-west-2.amazonaws.com/prod_the-first-slice/tokens/artworks/1.mp4",
+    "isMetadataValid": true
+  }
+}

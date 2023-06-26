@@ -1,0 +1,12 @@
+{
+  "address": "0x2ee996c68c97871eef4e87cefa2149bc698959bd",
+  "type": "ERC721",
+  "name": "The Bored Trust",
+  "tokenCount": "1",
+  "uri": "ipfs://QmYeNhD36Zw5zQ9bYA95tsWz71g7Xpaed2Nfxst9a5HkL9",
+  "metadata": {
+    "name": "Bored Trust Token",
+    "image": "ipfs://QmZCt5XCJ1PttD2vgPSMRzcyfsqFmmoxB8T9GeSCHjkiZC",
+    "description": "This is the only token in this collection. It grants its owner the ability to claim the funds locked in the token contract once the release time is reached.\n\nThe funds can be claimed through the 'claim()' function, which transfers everything to the caller's address. The user can also check the time left until release using the 'getTimeUntilRelease()' function.\n\nHappy birthday, G! Enjoy this little gift!\n-Mex"
+  }
+}

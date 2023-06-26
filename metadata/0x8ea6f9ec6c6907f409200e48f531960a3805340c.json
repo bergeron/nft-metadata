@@ -1,0 +1,27 @@
+{
+  "address": "0x8ea6f9ec6c6907f409200e48f531960a3805340c",
+  "type": "ERC721",
+  "name": "Astro Bums",
+  "tokenCount": "20",
+  "uri": "https://api-mint.astrobums.com/token/1",
+  "metadata": {
+    "name": "Astro Bum #1",
+    "description": "Astro Bums",
+    "external_url": "https://www.astrobums.com/",
+    "image": "https://assets.wenmint.com/images/astrobums/1.png",
+    "attributes": [
+      {
+        "trait_type": "Generation",
+        "value": "Gen 1"
+      },
+      {
+        "trait_type": "Astro Bum Name",
+        "value": "Astro Bum #1"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Swamp Fog Green"
+      }
+    ]
+  }
+}

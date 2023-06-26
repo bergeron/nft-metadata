@@ -1,0 +1,48 @@
+{
+  "address": "0x62e63b40ae0f1618fc8e422b8cea28a69ccd5d41",
+  "type": "ERC721",
+  "name": "Sound Words",
+  "tokenCount": "6",
+  "uri": "https://ipfs.pixura.io/ipfs/QmQhZCp7xDTGsjyQwHTNYGwWQgU1Tvjn6PmLZYRHvfHkpr/metadata.json",
+  "metadata": {
+    "name": "Illegal Human",
+    "createdBy": "Bård Ionson",
+    "yearCreated": "2022",
+    "description": "A human is not illegal \nIllegal human? \n(I am illegal) \nAm I an illegal human \n\nSound Words A Spoken Word Generative Art Poem performed by the artist into an oscilloscope",
+    "image": "https://ipfs.pixura.io/ipfs/QmZBC8tzjnn1VWygSFP4VBsspGW9iiauRJNm3Y1swUoTYn/IllegalHuman.gif",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmPmevD32WbjqaLiWhqrzY8pvb3DohphCTAq5khzQfFoVw/IllegalHuman.mp4",
+      "dimensions": "1920x1080",
+      "size": "23873085",
+      "mimeType": "video/mp4"
+    },
+    "tags": [
+      "bardionson",
+      "poem",
+      "word",
+      "soundWords"
+    ],
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Bård Ionson"
+      },
+      {
+        "trait_type": "Medium",
+        "value": "Oscilloscope"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Video"
+      },
+      {
+        "trait_type": "Soundtrack",
+        "value": "Voice of the artist & sound word"
+      },
+      {
+        "trait_type": "Website",
+        "value": "https://collect.bardionson.com/soundWords"
+      }
+    ]
+  }
+}

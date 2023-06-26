@@ -1,0 +1,45 @@
+{
+  "address": "0xdd5c14f6ec5281ca7bd2ad3c6934bee7fedd6d1b",
+  "type": "ERC721",
+  "name": "BLVD",
+  "tokenCount": "90",
+  "uri": "https://raw.githubusercontent.com/BULVRD-Tech/BULVRD.ERC721-Maps/master/season_1/satellite/satellite.json",
+  "metadata": {
+    "name": "BLVD Map Satellite",
+    "image": "https://raw.githubusercontent.com/BULVRD-Tech/BULVRD.ERC721-Maps/master/season_1/satellite/satellite.jpg",
+    "description": "Satellite map styling for those looking for an aerial view.",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "season",
+        "value": 1
+      },
+      {
+        "trait_type": "name",
+        "value": "Satellite"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Day"
+      },
+      {
+        "trait_type": "level",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "supply",
+        "value": 10000
+      },
+      {
+        "display_type": "number",
+        "trait_type": "map_id",
+        "value": 0
+      }
+    ],
+    "external_url": "https://bulvrdapp.com/map_styles",
+    "background_color": "414b58",
+    "styleUrl": "mapbox://styles/bulvrdapp/cjpkc1ukc01p02qm9wn4wbgl6",
+    "buildingHex": "#414b58"
+  }
+}

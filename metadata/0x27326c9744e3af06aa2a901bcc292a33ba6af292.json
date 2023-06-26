@@ -1,0 +1,35 @@
+{
+  "address": "0x27326c9744e3af06aa2a901bcc292a33ba6af292",
+  "type": "ERC721",
+  "name": "Freedom Squares",
+  "tokenCount": "116",
+  "uri": "ipfs://QmRqaNzb8SYAqRbobTbVfBjvcf3LCJ678sdVWB3YtFDycM/1",
+  "metadata": {
+    "name": "#2: Freedom Square",
+    "description": "This NFT celebrates Freedom Square located in Kharkiv with the \"courage\" color scheme.",
+    "image": "https://fssquaresprod.s3.us-west-1.amazonaws.com/pngdata/nft_002321_courage.png",
+    "external_url": "freedomsquares.io/collection",
+    "attributes": [
+      {
+        "trait_type": "longitude",
+        "value": "36.2317776"
+      },
+      {
+        "trait_type": "latitude",
+        "value": "50.0045531"
+      },
+      {
+        "trait_type": "virtue",
+        "value": "courage"
+      },
+      {
+        "trait_type": "city",
+        "value": "Kharkiv"
+      },
+      {
+        "trait_type": "special event",
+        "value": "May 10th Auction"
+      }
+    ]
+  }
+}

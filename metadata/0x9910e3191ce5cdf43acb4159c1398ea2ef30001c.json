@@ -1,0 +1,51 @@
+{
+  "address": "0x9910e3191ce5cdf43acb4159c1398ea2ef30001c",
+  "type": "ERC721",
+  "name": "Degenerate Rabbits",
+  "tokenCount": "234",
+  "uri": "ipfs://bafybeif5kz24aaayoxbnzkquq6nyzuypmoiayysc3aiymlyo3bxdawvvku/1.json",
+  "metadata": {
+    "name": "Degenerate Rabbits #1",
+    "description": "",
+    "image": "ipfs://QmfNMUDEUuCkJdbejeHfS52zowT6TG2v1bXGeZhNohDMFh/1.png",
+    "edition": "1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple",
+        "count": 236,
+        "frequency": "11.80%"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Grey",
+        "count": 705,
+        "frequency": "35.25%"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normies Left",
+        "count": 488,
+        "frequency": "24.40%"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Nil",
+        "count": 879,
+        "frequency": "43.95%"
+      },
+      {
+        "trait_type": "Paraphernalia",
+        "value": "Grog",
+        "count": 331,
+        "frequency": "16.55%"
+      },
+      {
+        "trait_type": "Vice",
+        "value": "The Gentlemans Breath",
+        "count": 580,
+        "frequency": "29.00%"
+      }
+    ]
+  }
+}

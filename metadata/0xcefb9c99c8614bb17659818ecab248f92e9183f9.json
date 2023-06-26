@@ -1,0 +1,47 @@
+{
+  "address": "0xcefb9c99c8614bb17659818ecab248f92e9183f9",
+  "type": "ERC721",
+  "name": "Living Frame Paradox",
+  "tokenCount": "7",
+  "uri": "https://arweave.net/CNLXS5rkm2N2h1LR8n9mCdqXuTJSq6nQvwoyPB93n_Y",
+  "metadata": {
+    "name": "Living Frame - Intrusion",
+    "created_by": "Anymat",
+    "description": "“Living Frame” is all about the interaction between the present and past, and how none of them belong to each other.",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Serial no.",
+        "value": 1,
+        "max_value": 25
+      },
+      {
+        "trait_type": "Texture",
+        "value": "Warning"
+      }
+    ],
+    "animation_details": {
+      "bytes": 12546459,
+      "format": "MP4",
+      "duration": 10,
+      "sha256": "b113e1bd415ed2285b8c8e2e74dea6bb8554809e94f365627400add9f6574200",
+      "width": 2000,
+      "height": 2000,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/QIC-nB6O-kkOsL4v7YAwA-1uLJl8tsvbvUsngKF18CU",
+    "animation_url": "https://arweave.net/QIC-nB6O-kkOsL4v7YAwA-1uLJl8tsvbvUsngKF18CU",
+    "image_details": {
+      "bytes": 1758241,
+      "format": "PNG",
+      "sha256": "10a6dc5a824d1e57d50aa2cdc5dc4abfce8c95d2380a9ed5043356b8dcf7861f",
+      "width": 1000,
+      "height": 1000
+    },
+    "image": "https://arweave.net/BsZx9XJ0pkO89ZAYcPqjqtfYRMdEgM3kpYifzciSpAs",
+    "image_url": "https://arweave.net/BsZx9XJ0pkO89ZAYcPqjqtfYRMdEgM3kpYifzciSpAs"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "address": "0x5211569551b55c1427ae69ab321be7bc38dfd2d4",
+  "type": "ERC721",
+  "name": "natealex concept art",
+  "tokenCount": "1",
+  "uri": "https://infiNFT.azurewebsites.net/api/HttpTrigger?artContract=0x5211569551b55c1427ae69ab321be7bc38dfd2d4&id=1",
+  "metadata": {
+    "image": "https://gateway.pinata.cloud/ipfs/QmZJ4QgimaBEjy6DKePfruSL7LjgnGNihBZn7bQLazqE6w",
+    "description": "A 3x3 matrix of the POC art for an animated on-chain SVG project, TinyBoxes",
+    "animation_url": "",
+    "external_url": "https://www.infinft.com/view.html?artistcontract=0x5211569551b55c1427ae69ab321be7bc38dfd2d4&token=1",
+    "name": "Tinybox POC Art",
+    "attributes": [
+      {
+        "trait_type": "artist name",
+        "value": "natealex"
+      },
+      {
+        "trait_type": "edition number",
+        "value": "1 of 1"
+      },
+      {
+        "trait_type": "exhibition",
+        "value": "none"
+      },
+      {
+        "trait_type": "file type",
+        "value": "png"
+      }
+    ]
+  }
+}

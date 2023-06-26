@@ -1,0 +1,39 @@
+{
+  "address": "0xe90eeeecabc5607059283796408013f720c53238",
+  "type": "ERC721",
+  "name": "Lady Doomsday",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/GIz7gFpjHDTb5_YeKFMlySvxCXgRt1h5vhcb8lSgDPc",
+  "metadata": {
+    "name": "Lady Doomsday",
+    "created_by": "lord noisy",
+    "description": "The world is ending anon. You don't need a description.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "lord noisy"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "DOOM",
+        "value": "100",
+        "max_value": "100"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Kickass",
+        "value": "100",
+        "max_value": "100"
+      }
+    ],
+    "image_details": {
+      "bytes": 3561314,
+      "format": "JPEG",
+      "sha256": "6e626439f0501052e2ec47a9e5933cb87a40800613b483bb3b24d99d6585a1ad",
+      "width": 2048,
+      "height": 2048
+    },
+    "image": "https://arweave.net/96hhFE3pvzmH888OjvsmZUk1xIQeucnVsGipSzcpVws",
+    "image_url": "https://arweave.net/96hhFE3pvzmH888OjvsmZUk1xIQeucnVsGipSzcpVws"
+  }
+}

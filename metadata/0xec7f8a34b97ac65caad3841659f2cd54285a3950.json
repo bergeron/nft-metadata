@@ -1,0 +1,24 @@
+{
+  "address": "0xec7f8a34b97ac65caad3841659f2cd54285a3950",
+  "type": "ERC721",
+  "name": "Impostors Genesis Pets",
+  "tokenCount": "8697",
+  "uri": "https://impostors-pet.s3.amazonaws.com/1",
+  "metadata": {
+    "name": "Impostors Pet 1",
+    "image": "https://impostors-pet.s3.amazonaws.com/draconis.png",
+    "animation_url": "https://impostors-pet.s3.amazonaws.com/draconis.mp4",
+    "description": "",
+    "attributes": [
+      {
+        "trait_type": "Galaxy",
+        "value": "Draconis"
+      },
+      {
+        "trait_type": "Power",
+        "value": 73,
+        "max_value": 100
+      }
+    ]
+  }
+}

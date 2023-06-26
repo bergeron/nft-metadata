@@ -1,0 +1,30 @@
+{
+  "address": "0x510a9f432e130f5e2742178ccd4bc981cbf38953",
+  "type": "ERC721",
+  "name": "SpellCard",
+  "tokenCount": "2",
+  "uri": "ipfs://QmQDYqBw468viqE9WE2vdFheKdnH7kWdN2V2DRMe85ax4s/1.json",
+  "metadata": {
+    "name": "Spell Card #1",
+    "description": "This card will grant you exclusive access to The Spell Card",
+    "image": "ipfs://QmcHLtWtNzDiY6meuLaxLwwxzkGjmgSNhRgZ78bUUsEPUT/1.png",
+    "dna": "111e6f4da3980cb1bb8562b89a487c8600a00bca",
+    "edition": 1,
+    "date": 1646368577872,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "background2"
+      },
+      {
+        "trait_type": "Card",
+        "value": "card3"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "text3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

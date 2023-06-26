@@ -1,0 +1,80 @@
+{
+  "address": "0x4382f79d24699a0c1563cb75d4340965021d2b6a",
+  "type": "ERC721",
+  "name": "Derek Boshier",
+  "tokenCount": "1",
+  "uri": "ipfs://QmTDDM9rGgNMr3Q9sMYspmSDx6QDxxa5LqhSC4XK6vAqWH",
+  "metadata": {
+    "name": "KPop-Pop",
+    "description": "Derek Boshier’s second NFT is drawn from his series K-Pop and created in collaboration with digital artist Shapeshifter7. Inspired by South Korean singing television contest King of Mask Singer – whose participants’ identities are only revealed when eliminated – the NFT depicts cartoon-like figures. The canvas set against the wall provides a clear link to the work’s roots as a painting, now brought to life through animation. Kellogg’s iconic “K” is playfully used as a signifier for both Korean pop music and American consumerism. The work nods to the TV show’s increasingly popular global franchise, highlighting aspects of cultural appropriation and universalist aspirations. For Boshier, these inherent elements of deception, mystery, and audience participation mirror the political landscape of the post-Trump era. The K-pop series that inspired this NFT debuted for the first time at a Gazelli Art House exhibition in London in October 2021. In partnership with Gazelli Art House and Gazell.io.   \n\n\nThis NFT has been certified by Verisart https://verisart.com/works/a2878768-e863-44ed-837a-e771e8a8a2db",
+    "image": "ipfs://QmVmZcctJ8AuEoq7RgvV2ruRLAS9R4DXUXZ57HFEZYTMV6",
+    "properties": {
+      "verisart": {
+        "productionYear": 2021,
+        "dimensions": {
+          "width": 3840,
+          "height": 2160,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 20
+        },
+        "frameRate": 30,
+        "tags": [
+          "pop",
+          "GazelliArtHouse",
+          "Kpop",
+          "Shapeshifter7",
+          "Gazellio",
+          "verisartcertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xf51737aeae215149d2c0129de822251718229a08",
+            "bps": 1000
+          }
+        ]
+      }
+    },
+    "animation_url": "ipfs://QmXD2TV1dHjgiWY2jNnjnY1Sz5Z7pircMpixrd5T48yyH6",
+    "external_url": "https://verisart.com/works/a2878768-e863-44ed-837a-e771e8a8a2db",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "pop"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "GazelliArtHouse"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "Kpop"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "Shapeshifter7"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "Gazellio"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "verisartcertified"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Derek Boshier"
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2021"
+      }
+    ]
+  }
+}

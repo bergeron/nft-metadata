@@ -1,0 +1,42 @@
+{
+  "address": "0x23d51d585e57e7f7bf7aa7a96a02f42931f68ab1",
+  "type": "ERC721",
+  "name": "Skeletown Club",
+  "tokenCount": "2253",
+  "uri": "ipfs://bafybeie663nffbbiatypecxip2intuyvkejywpdslugjxjai3ambl3rv4y/1.json",
+  "metadata": {
+    "name": "Skeletown #1",
+    "description": "If you own this skull you are welcome into the Cemetery Club. CC0.",
+    "image": "ipfs://bafybeich2alynbvmwrte5wksibcrzceofxgtjv4zuzqrcqs2bnqd2tfvou/1.png",
+    "dna": "fba35832c77928d97f23d7781c8b99e367742d07",
+    "edition": 1,
+    "date": 1666666414041,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Phase 1"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Evil"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Orange TShirt"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Farmer"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Purple Cap"
+      }
+    ],
+    "compiler": "Skvll"
+  }
+}

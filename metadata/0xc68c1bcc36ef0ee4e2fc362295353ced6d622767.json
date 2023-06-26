@@ -1,0 +1,42 @@
+{
+  "address": "0xc68c1bcc36ef0ee4e2fc362295353ced6d622767",
+  "type": "ERC721",
+  "name": "RoboPunk NFT",
+  "tokenCount": "9",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmUTnXaLor4u3kxCu8cRyedB6CwgTqixZepmuPEEJxD6tn/1.json",
+  "metadata": {
+    "name": "Robo Punks #1",
+    "description": "Collection of unique Robo Punk Faces",
+    "image": "ipfs://QmT7NCmeQgdH8AKcTxpagdp8fvZhnpJB9S5YpjfyNMLXkN/1.png",
+    "dna": "162c49fa5494523bc91105a9137a8d094f89d7f8",
+    "edition": 1,
+    "date": 1643260437146,
+    "attributes": [
+      {
+        "trait_type": "backgrounds",
+        "value": "green"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "alien_visor"
+      },
+      {
+        "trait_type": "head",
+        "value": "war_helmet"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "gas_mask_black"
+      },
+      {
+        "trait_type": "outfit",
+        "value": "hoodie"
+      },
+      {
+        "trait_type": "skins",
+        "value": "black_titanium"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "0xca6788c8efa6a1c8bc97fa98938fa361d51ef823",
+  "type": "ERC721",
+  "name": "Open Head NFT",
+  "tokenCount": "3333",
+  "uri": "https://api.openheadnft.com/metadata/5731",
+  "metadata": {
+    "name": "#1",
+    "description": "Created by OpenHead",
+    "image": "http://api.openheadnft.com/image/5731",
+    "resized_image": "http://api.openheadnft.com/resized-image/5731",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Yellow/Cyan"
+      },
+      {
+        "trait_type": "ear",
+        "value": "Stitches"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Eye Patch"
+      },
+      {
+        "trait_type": "head",
+        "value": "Muscles"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "nose",
+        "value": "Wide septum"
+      },
+      {
+        "trait_type": "skin",
+        "value": "Space"
+      },
+      {
+        "trait_type": "wear",
+        "value": "Blue denim jacket"
+      }
+    ],
+    "success": true
+  }
+}

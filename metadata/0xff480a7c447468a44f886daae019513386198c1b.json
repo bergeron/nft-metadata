@@ -1,0 +1,33 @@
+{
+  "address": "0xff480a7c447468a44f886daae019513386198c1b",
+  "type": "ERC721",
+  "name": "Mass Adoption fine crypto art gallery by Nelly Baksht",
+  "tokenCount": "11",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=WiO5gVmmiOQGBv7PYIzA",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1581973615603?alt=media&token=8d89e85d-91aa-4e7b-ac7b-62821bd54c0d",
+    "forSale": false,
+    "description": "Limited digital edition collectible #01/01 of \"\"Mass Adoption\" final touch by Nelly Baksht",
+    "contractAddress": "0xff480a7c447468a44f886daae019513386198c1b",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1581974051,
+      "_nanoseconds": 20000000
+    },
+    "price": 0,
+    "name": "\"Mass Adoption\" Final Touch #01/01",
+    "fiatPrice": "$0.00",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "website",
+        "value": "https://artbynelly.com/mass-adoption/"
+      }
+    ],
+    "external_url": "https://mintbase.io/my-market/0xff480a7c447468a44f886daae019513386198c1b",
+    "type": "ERC721"
+  }
+}

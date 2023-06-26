@@ -1,0 +1,36 @@
+{
+  "address": "0x8365b6c0fccd1502e745e12f1c3749818b7a0382",
+  "type": "ERC1155",
+  "name": "Zukari Origin License NFT",
+  "tokenCount": "2",
+  "uri": "https://ori-static.particle.network/1/collection/0x8365b6c0fccd1502e745e12f1c3749818b7a0382/1.json",
+  "metadata": {
+    "name": "Zukari #777 - LIC #1",
+    "image": "https://ori-static.particle.network/images/15159e49-71f3-4d9e-b9a7-f25ca6fdb81b.png",
+    "originToken": "0x9305741791e5958a5015f3b6a5Aa0d500d4492d9",
+    "originTokenId": "777",
+    "description": "This NFT is a License NFT, which provides copyright to the Derivative NFT. You can create Derivative NFTs in ORI.",
+    "external_url": "https://orinft.xyz",
+    "nftType": "license",
+    "attributes": [
+      {
+        "trait_type": "Zukari",
+        "value": "229"
+      },
+      {
+        "trait_type": "ExpirationDate",
+        "value": "11/03/2022"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "earning",
+        "value": 1,
+        "max_value": 10
+      },
+      {
+        "trait_type": "ONFT",
+        "value": "#777"
+      }
+    ]
+  }
+}

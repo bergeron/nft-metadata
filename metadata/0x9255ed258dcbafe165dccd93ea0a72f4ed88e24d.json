@@ -1,0 +1,42 @@
+{
+  "address": "0x9255ed258dcbafe165dccd93ea0a72f4ed88e24d",
+  "type": "ERC721",
+  "name": "CryptoMorph",
+  "tokenCount": "5792",
+  "uri": "https://ChainScrape3.damo1884.repl.co/api/mint?id=1",
+  "metadata": {
+    "name": "CryptoMorph - Mint #1",
+    "image_url": "https://cryptomorph-mint.s3.amazonaws.com/1.png",
+    "description": "Fuddy-duddy Zydeco",
+    "attributes": [
+      {
+        "trait_type": "Catch Number",
+        "display_type": "number",
+        "value": 1
+      },
+      {
+        "trait_type": "Colors",
+        "value": "1"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "2"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Score",
+        "value": 94,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Uniqueness",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "State",
+        "value": "Designed"
+      }
+    ],
+    "id": 1
+  }
+}

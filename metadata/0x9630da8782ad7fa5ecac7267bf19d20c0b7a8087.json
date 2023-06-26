@@ -1,0 +1,38 @@
+{
+  "address": "0x9630da8782ad7fa5ecac7267bf19d20c0b7a8087",
+  "type": "ERC721",
+  "name": "Flow Monsters",
+  "tokenCount": "1",
+  "uri": "ipfs://QmfKmamLN9SRBzt9bhEXunjLWeZcd4pLyiZHWAmk1XgTJ7/1.json",
+  "metadata": {
+    "name": "Flow Monster #1",
+    "description": "You can finally get that monster friend you have always wanted by raising your Flow Monster through minting.",
+    "image": "ipfs://QmPw66ef6ZWvS2vaFsAhNXGyYJcCXPmzVwK8vpK1QVzdUE/1.png",
+    "dna": "e945ff302ff765c7007c33589f1a1ddc2ac072ea",
+    "edition": 1,
+    "date": 1650981016460,
+    "attributes": [
+      {
+        "trait_type": "Luminescence",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Horns",
+        "value": "Uncommon Green"
+      },
+      {
+        "trait_type": "Body Type",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Uncommon Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      }
+    ],
+    "compiler": "Flow Monsters"
+  }
+}

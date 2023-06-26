@@ -1,0 +1,40 @@
+{
+  "address": "0x2c3e2d5034e12f01e5ca6256d321b4d149ca25f3",
+  "type": "ERC721",
+  "name": "Rental Raccoons",
+  "tokenCount": "10",
+  "uri": "ipfs://bafybeialqionzsppbnrga3q4kagsd67du7zcvvaqe5yisl6lnwttc63vnq/1.json",
+  "metadata": {
+    "name": "Rental Raccoon #1",
+    "description": "",
+    "external_url": "https://www.rentalraccoons.com/",
+    "image": "ipfs://bafybeie4c3bxhyeqzufy4xijt3td4a4qv4a4jehois3bimovluakocr3la/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bg6"
+      },
+      {
+        "trait_type": "Raccoon",
+        "value": "body2"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mouth1"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "sleepy"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "horns-01"
+      },
+      {
+        "trait_type": "Extras",
+        "value": "bolo-01"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

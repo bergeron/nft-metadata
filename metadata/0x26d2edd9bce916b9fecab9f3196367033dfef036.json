@@ -1,0 +1,27 @@
+{
+  "address": "0x26d2edd9bce916b9fecab9f3196367033dfef036",
+  "type": "ERC1155",
+  "name": "Nomad Blvd | Mint Pass",
+  "tokenCount": "2",
+  "uri": "https://nomad-blvd.kingtide.dev/v1/metadata/1.json",
+  "metadata": {
+    "name": "Nomad BLVD Collector Pass",
+    "description": "The Official Nomad BLVD Mint Pass collection. Each Mint Pass can be redeemed for one Nomad. Each Nomad is generated live in real-time at mint. Passports may also be held for entry into provably fair raffles.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdSVv5ocayXGk5mnpPQPAu4NMUCtcMqc7Bdo7GxME7PaB",
+    "external_url": "https://nomadblvd.io",
+    "attributes": [
+      {
+        "trait_type": "Redeems",
+        "value": "1 Nomad"
+      },
+      {
+        "trait_type": "Redemption Window",
+        "value": "Collector Sale"
+      },
+      {
+        "trait_type": "Finish",
+        "value": "Collector"
+      }
+    ]
+  }
+}

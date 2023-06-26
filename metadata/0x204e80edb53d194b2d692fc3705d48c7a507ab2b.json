@@ -1,0 +1,35 @@
+{
+  "address": "0x204e80edb53d194b2d692fc3705d48c7a507ab2b",
+  "type": "ERC721",
+  "name": "collexx-auction-nft",
+  "tokenCount": "102",
+  "uri": "https://ipfs.collexx.io/45342777-4c37-40de-b889-f26ea28c94f6",
+  "metadata": {
+    "name": "COLLEXX AUCTION FIRST SAMPLE NFT",
+    "description": "THIS IS SAMPLE IMAGE FOR FIRST NFT AUCTION ITEM ",
+    "image": "https://image.collexx.io/965b9242-752a-45be-868f-0efcd4b8b9e7.png",
+    "animation_url": "https://image.collexx.io/8ba2f0c2-9e71-4c45-aa20-8b49329bd95d.mp4",
+    "attributes": [
+      {
+        "trait_type": "ITEM CODE",
+        "value": "SAMPLE-CODE-001"
+      },
+      {
+        "trait_type": "NAME",
+        "value": "SAMPE-UNIFORM"
+      },
+      {
+        "trait_type": "ITEM",
+        "value": "SAMPLE-ITEM-001"
+      },
+      {
+        "trait_type": "LOCATION SIGNED",
+        "value": "SAMPLE-LOCATION"
+      },
+      {
+        "trait_type": "DATE SIGNED",
+        "value": "2022.12.02"
+      }
+    ]
+  }
+}

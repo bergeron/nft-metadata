@@ -1,0 +1,31 @@
+{
+  "address": "0x23ecf0c5d95b72bbe6e34209de5ac8775f1d4f21",
+  "type": "ERC721",
+  "name": "GTC.ETH Subdomains / Impact Certificates",
+  "tokenCount": "3",
+  "uri": "https://us-central1-matic-services.cloudfunctions.net/gtc?ens=sgm",
+  "metadata": {
+    "is_normalized": true,
+    "name": "sgm.gtc.eth",
+    "image": "https://storage.googleapis.com/ensimage/sgmgtc.png",
+    "description": "The GTC Domain sgm, which is also the GTC subdomain sgm.gtc.eth.",
+    "attributes": [
+      {
+        "trait_type": "Length",
+        "display_type": "number",
+        "value": 3
+      },
+      {
+        "trait_type": "Data Type",
+        "value": "Alphabets"
+      },
+      {
+        "trait_type": "Club",
+        "value": "ThreeLetterClub"
+      }
+    ],
+    "name_length": 3,
+    "url": "https://app.ens.domains/name/sgm.gtc.eth",
+    "version": 0
+  }
+}

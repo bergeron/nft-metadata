@@ -1,0 +1,36 @@
+{
+  "address": "0x29ca1a49b1354b29e0df7900654942e058df11d6",
+  "type": "ERC1155",
+  "name": "NFT-Haiku",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/OGtH3zRsNsPXHT-pzsAVnh32CDOHUT9jtQbs14eibVQ",
+  "metadata": {
+    "name": "Tiny Dino's Haiku",
+    "created_by": "NFT Haiku",
+    "description": "This is an attempt to capture the essence of the Tiny Dino's NFT collection, using the Haiku artform.  For all to use as they see fit.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "NFT Haiku"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Tiny Dino's"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Editions",
+        "value": "1000"
+      }
+    ],
+    "image_details": {
+      "bytes": 21455,
+      "format": "PNG",
+      "sha256": "3584a83f847c6a4c98f1acf1241a77d329e37eb5cc4b8c150173924a129ad42a",
+      "width": 400,
+      "height": 400
+    },
+    "image": "https://arweave.net/hGDqKDbj1UfM9QVOdcmrL28eSN3sZqV2SSqpC9f1QqY",
+    "image_url": "https://arweave.net/hGDqKDbj1UfM9QVOdcmrL28eSN3sZqV2SSqpC9f1QqY"
+  }
+}

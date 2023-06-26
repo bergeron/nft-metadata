@@ -1,0 +1,40 @@
+{
+  "address": "0x1b0aebafeb9452c7abbda0b920bb1a272182aacb",
+  "type": "ERC721",
+  "name": "terra0 Flowertokens",
+  "tokenCount": "46",
+  "uri": "https://ipfs.terra0.org/ipfs/QmXiLsQMyE2DR5dRapKr8VrLXmFQpm6TCMixbhoZ1Gnors/1.json",
+  "metadata": {
+    "description": "Flowertokens was an experimental project centered around the tokenization and verification of natural commodities, and an early attempt at creating a combined crypto-collectible physical asset in 2018. This ERC721 non-fungible token is a wrapped original Flowertoken.",
+    "external_url": "https://terra0.org/",
+    "image": "https://ipfs.terra0.org/ipfs/QmNxcPFSgTceM5EJVJEVcKtzcqjJdgyJWA8Euax3P2ZSEd/token1.jpg",
+    "name": "Flower 1",
+    "attributes": [
+      {
+        "trait_type": "blooming",
+        "value": "no"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "height",
+        "value": 21.06
+      },
+      {
+        "display_type": "number",
+        "trait_type": "growth rate (relative)",
+        "value": -41.353
+      },
+      {
+        "display_type": "number",
+        "trait_type": "growth rate (absolute)",
+        "value": 702
+      },
+      {
+        "display_type": "number",
+        "trait_type": "timestamp (UNIX)",
+        "value": 1541317894
+      }
+    ],
+    "animation_url": "https://ipfs.terra0.org/ipfs/QmWUzTvZUHpbbjb4KRRznsnFSUaXyrZkKpU2WywQfTXBgh/videos/token1.mp4"
+  }
+}

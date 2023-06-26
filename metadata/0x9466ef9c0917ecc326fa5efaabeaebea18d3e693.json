@@ -1,0 +1,70 @@
+{
+  "address": "0x9466ef9c0917ecc326fa5efaabeaebea18d3e693",
+  "type": "ERC721",
+  "name": "TwitFi  - Tweet to Earn",
+  "tokenCount": "1181",
+  "uri": "ipfs://QmaN8Z6NKcBJsfx49f5Ps2D6WqRqKBaeBTW1vEac3BwZfn/1",
+  "metadata": {
+    "name": "TWITFI-DIK7E5",
+    "image": "https://s3.ap-southeast-1.amazonaws.com/twitfi/birds/twitfi-ee27f3a2-e1f3-43ef-9390-8d43c2de1ecb.gif",
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "created",
+        "value": 1671498058195
+      },
+      {
+        "trait_type": "Habitat",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Level",
+        "value": "A"
+      },
+      {
+        "trait_type": "Birdsong",
+        "value": "Chirp"
+      },
+      {
+        "trait_type": "Type",
+        "value": "swan"
+      },
+      {
+        "trait_type": "Quality",
+        "value": "rare"
+      },
+      {
+        "trait_type": "Upgrade",
+        "value": "No"
+      },
+      {
+        "trait_type": "Feed Remaining",
+        "display_type": "number",
+        "value": 0,
+        "max_value": 50
+      },
+      {
+        "trait_type": "Virus Infection",
+        "display_type": "number",
+        "value": 0,
+        "max_value": 50
+      },
+      {
+        "trait_type": "Tweet Count",
+        "display_type": "number",
+        "value": 28,
+        "max_value": 3000
+      },
+      {
+        "trait_type": "Egg Minted",
+        "display_type": "number",
+        "value": 0,
+        "max_value": 3
+      }
+    ]
+  }
+}

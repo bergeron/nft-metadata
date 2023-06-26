@@ -1,0 +1,58 @@
+{
+  "address": "0x30884ae80990bc3ff44ed7570d1f3335fb010f61",
+  "type": "ERC1155",
+  "name": "Hatverse App",
+  "tokenCount": "6",
+  "uri": "https://arweave.net/p76NkCjrUfuwEFDO03mjLcy6_kuDZvu_qKE43rQ-83U",
+  "metadata": {
+    "name": "Tech Moonhat",
+    "created_by": "Hatverse",
+    "external_url": "https://hatverse.app",
+    "description": "A tiny little egg of Moonhat. These creatures are fond of hats, try to keep it on your nest near a Moonbird hat, and it may find the bravery to finally hatch.",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Moonhat"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Tech"
+      },
+      {
+        "trait_type": "Stage",
+        "value": "Baby creature"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Power",
+        "value": "1",
+        "max_value": "5"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Speed",
+        "value": "2",
+        "max_value": "5"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Stamina",
+        "value": "2",
+        "max_value": "5"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "@ChiaraMoreni"
+      }
+    ],
+    "image_details": {
+      "bytes": 8281059,
+      "format": "PNG",
+      "sha256": "f4a3bf77ce573b8a897a576cdb674a33722325ab8a07e97f2796005829b914eb",
+      "width": 4000,
+      "height": 4000
+    },
+    "image": "https://arweave.net/DBLJYTCZveJuU53pE8dxew7wDwOdAcyWWW7f8Q9vCdc",
+    "image_url": "https://arweave.net/DBLJYTCZveJuU53pE8dxew7wDwOdAcyWWW7f8Q9vCdc"
+  }
+}

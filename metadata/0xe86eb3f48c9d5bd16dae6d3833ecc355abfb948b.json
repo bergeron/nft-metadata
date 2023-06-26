@@ -1,0 +1,49 @@
+{
+  "address": "0xe86eb3f48c9d5bd16dae6d3833ecc355abfb948b",
+  "type": "ERC721",
+  "name": "MoonTrolls",
+  "tokenCount": "7000",
+  "uri": "ipfs://QmfCj7Wn5Qv9ejXKqjXrFvS9T2ctC5yaV6Rq7ZwXcuvhjY/1",
+  "metadata": {
+    "dna": "618dc7a53bb9d479d5f851731c872382",
+    "name": "Moon Trolls #1",
+    "description": null,
+    "image": "ipfs://QmeYjWYs6anhEmcxMDF9LTVCbdtEwYk6noa3vUj1h5GecC/1.png",
+    "date": 1656989429544,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Crooked body"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Socks"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bowl"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Stapled"
+      },
+      {
+        "trait_type": "Left Eye",
+        "value": "Scared"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Right Eye",
+        "value": "Furious"
+      }
+    ],
+    "compiler": "Moon.Trolls"
+  }
+}

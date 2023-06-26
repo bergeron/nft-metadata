@@ -1,0 +1,51 @@
+{
+  "address": "0x2af3ef1bf2cf7551439f662b715d8e7a3b321fe3",
+  "type": "ERC721",
+  "name": "qewrdsfeqwrtpeqropoeqreqwr",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/228000001 ",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "228000001",
+    "series": "N/A",
+    "aspect_ratio": 0.8,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Incomplete Control #1",
+    "minted": true,
+    "artist": "Tyler Hobbs",
+    "description": "Incomplete Control is about letting go, allowing room for error and imperfection. It is a meditation on the relation between analogue and computational aesthetics. The output space is a continuous spectrum. Each iteration has its own character to discover and enjoy, if you are willing to give it the time.",
+    "script_type": "p5@1.0.0",
+    "project_id": "228",
+    "curation_status": "presents",
+    "heritage_curation_status": "playground",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/228000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/228000001.png",
+    "generator_url": "https://generator.artblocks.io/228000001",
+    "royaltyInfo": {
+      "artistAddress": "0x96d009e5cc01da183b35443ae3f22af9143142e0",
+      "additionalPayee": "0xb96e81f80b3aeef65cb6d0e280b15fd5dbe71937",
+      "additionalPayeePercentage": 30,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Incomplete Control by Tyler Hobbs",
+    "website": "https://tylerxhobbs.com",
+    "token_hash": "0x7cd5d3d73cb91e9d8f11a9cd4a9f4cf302c0cfd028c7c2c0f6e251cc195bae5b",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/228/tokens/228000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/228000001.png",
+    "features": {
+      "In Complete Control": "false"
+    },
+    "traits": [
+      {
+        "trait_type": "Incomplete Control",
+        "value": "All Incomplete Controls"
+      },
+      {
+        "trait_type": "Incomplete Control",
+        "value": "In Complete Control: false"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC 4.0"
+  }
+}

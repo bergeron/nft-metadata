@@ -1,0 +1,88 @@
+{
+  "address": "0xf27229c20ef15ca8398afccba234fac3e9a2ce2b",
+  "type": "ERC721",
+  "name": "Genetic Chain - Ikebana",
+  "tokenCount": "1213",
+  "uri": "https://geneticchain.io/api/project/5/token/1/meta",
+  "metadata": {
+    "project": "Ikebana",
+    "projectLogo": "https://geneticchain.io/api/project/5/logo",
+    "name": "Ikebana #1",
+    "artDesc": "A digital abstraction of the Ikebana art's quest for harmony, balance and grace. Dancing forever in honor of beauty.",
+    "description": "A **[Genetic Chain](https://geneticchain.io)** Project.\n\n**Project #5**: [Ikebana](https://geneticchain.io/project/5) by Jento\n\nA digital abstraction of the Ikebana art's quest for harmony, balance and grace. Dancing forever in honor of beauty.",
+    "artist": "Jento",
+    "tokenId": "1",
+    "website": "http://jento.xyz/ikebana/",
+    "dapp": null,
+    "license": null,
+    "attributes": [
+      {
+        "trait_type": "Color Scheme",
+        "value": "Midday"
+      },
+      {
+        "trait_type": "Central Expansion",
+        "value": 252
+      },
+      {
+        "trait_type": "Edge Expansion",
+        "value": 353
+      },
+      {
+        "trait_type": "Depth",
+        "value": 243
+      },
+      {
+        "trait_type": "Knot Coefficient 1",
+        "value": 3
+      },
+      {
+        "trait_type": "Knot Coefficient 2",
+        "value": 1
+      },
+      {
+        "trait_type": "Knot Coefficient 3",
+        "value": 3
+      },
+      {
+        "trait_type": "Knot Coefficient 4",
+        "value": 3
+      },
+      {
+        "trait_type": "Branches",
+        "value": "8"
+      },
+      {
+        "trait_type": "Cubes per Branch",
+        "value": "70"
+      },
+      {
+        "trait_type": "Spread Factor",
+        "value": "4"
+      },
+      {
+        "trait_type": "Speed",
+        "value": 10
+      },
+      {
+        "trait_type": "Cubes Size",
+        "value": 60
+      },
+      {
+        "trait_type": "Depth Offset",
+        "value": 50
+      }
+    ],
+    "tokenHash": "0xa21840e3390535312bff0a539e8cd03ac47293f346b31c5ac42592d91c42c21c",
+    "maxTokens": 1213,
+    "state": {
+      "cubesize": "60",
+      "speed": "10",
+      "offset": "50"
+    },
+    "dynamic": true,
+    "image": "https://geneticchain.io/api/project/5/token/1/image",
+    "external_url": "https://geneticchain.io/project/5/token/1",
+    "animation_url": "https://geneticchain.io/project/5/token/1/anim"
+  }
+}

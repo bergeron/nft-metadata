@@ -1,0 +1,49 @@
+{
+  "address": "0x602312d45ce18270a84bb649e98afaf6bb58ec3e",
+  "type": "ERC1155",
+  "name": "U.TOKEN Birds Edition",
+  "tokenCount": "8",
+  "uri": "https://arweave.net/ucUAW-zwLl7tLQwtC051GFV7SykdVX5IPg-3Th_2c9w",
+  "metadata": {
+    "name": "500 U. \"Birds Edition-A\"",
+    "created_by": "U.Token creator team",
+    "description": "500 U. from U.TOKEN \"Birds Edition \"  \nAnimated money design token that brings together the best of traditional currency and digital art. Each U.TOKEN is a unique, visually stunning animated banknote that comes in various denominations, including 1, 5, 10, 20, 50, 100, 200 and 500.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "U.Token creator team"
+      },
+      {
+        "trait_type": "Token",
+        "value": "Animated digital money"
+      },
+      {
+        "trait_type": "U.TOKEN",
+        "value": "500 U. \"Birds edition\""
+      }
+    ],
+    "animation_details": {
+      "bytes": 18359895,
+      "format": "MP4",
+      "duration": 13,
+      "sha256": "fb4e9fb6cefc20f3941275e06ac253d1eb3b5ac7cf0bbd7f4f95023e952e9136",
+      "width": 1920,
+      "height": 950,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/V6Q03ypEPn3VBom0FG02fA0C8kT8QZMuolALDPibHzM",
+    "animation_url": "https://arweave.net/V6Q03ypEPn3VBom0FG02fA0C8kT8QZMuolALDPibHzM",
+    "image_details": {
+      "bytes": 18582,
+      "format": "JPEG",
+      "sha256": "bbdd3e0e5c1dc0bc5ca1f6e83cd6d4f68e5ac22c954fd8f8b88db2882d5d0678",
+      "width": 300,
+      "height": 300
+    },
+    "image": "https://arweave.net/JTPimqlkFPCpOje7Kd8uYYbYtn7-Ev7-I_6WeG_Gm-8",
+    "image_url": "https://arweave.net/JTPimqlkFPCpOje7Kd8uYYbYtn7-Ev7-I_6WeG_Gm-8"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0x87b52daa1cb064a98109fbc82c13108c6c1919fc",
+  "type": "ERC1155",
+  "name": "Studio Provenance Labrosse NFT",
+  "tokenCount": "1",
+  "uri": "https://nft.anothernow.io/provenance-art-gallery/provenance/metadata/1.json",
+  "metadata": {
+    "name": "Provenance NFT",
+    "description": "Memorandum of the event held in Budapest 2022",
+    "image": "https://nft.anothernow.io/provenance-art-gallery/provenance/images/0.png",
+    "date": "31/05/2022 13:52:30 CET",
+    "attributes": [
+      {
+        "trait_type": "Event",
+        "value": "Labrosse Dániel - Private Life exhibition"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Budapest, V. district Petőfi tér"
+      },
+      {
+        "trait_type": "Note",
+        "value": "Provenance Art Gallery first NFT airdrop event"
+      }
+    ],
+    "engine": "Agent FUD Art Engine v0.3.4"
+  }
+}

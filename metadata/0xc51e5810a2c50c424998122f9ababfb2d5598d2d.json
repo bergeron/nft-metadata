@@ -1,0 +1,38 @@
+{
+  "address": "0xc51e5810a2c50c424998122f9ababfb2d5598d2d",
+  "type": "ERC721",
+  "name": "its egg",
+  "tokenCount": "3333",
+  "uri": "ipfs://Qmb5o14Mh1dBZCAHwUXRyXsJmidN3v5FYazdpw7NyZd5FL/1",
+  "metadata": {
+    "name": "It's Egg #1",
+    "description": "This is no ordinary egg. You won't find this egg in the supermarket. But what's inside it?",
+    "image": "ipfs://QmTN1x2BRpdqWMD969u1DGgkwPnew7tSZQ5annGSbf31Ki/1.png",
+    "dna": "3e389b6a807a1df09d70bfc615d9c085a4f6a499",
+    "edition": 1,
+    "date": 1659537227338,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "back",
+        "value": "None"
+      },
+      {
+        "trait_type": "Legs",
+        "value": "light blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blueish Purple"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Headband"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

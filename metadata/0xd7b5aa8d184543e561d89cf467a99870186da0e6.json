@@ -1,0 +1,42 @@
+{
+  "address": "0xd7b5aa8d184543e561d89cf467a99870186da0e6",
+  "type": "ERC1155",
+  "name": "Austin Visual Zines",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/43VgB8aqXhsb6vfLyxWuRg1aBxmtn1F1Muik_YeH3Fg",
+  "metadata": {
+    "created_by": "austinvisual",
+    "name": "Sleeping Suburbia - Vol I (zine)",
+    "description": "Digital flipbook NFTs of project work by Austin Visual.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "austinvisual"
+      },
+      {
+        "trait_type": "Project",
+        "value": "Sleeping Suburbia"
+      },
+      {
+        "trait_type": "Volume",
+        "value": "One"
+      }
+    ],
+    "animation_details": {
+      "bytes": 701,
+      "format": "HTML",
+      "sha256": "948699ba6632e8a4f5de203e45a107c452124ff0c1e271d228d4148b09a67e1a"
+    },
+    "animation": "https://arweave.net/S7NYZuQV6jdhZEmyjzpQftlNlb_3NdKtX7CW8C4S45I",
+    "animation_url": "https://arweave.net/S7NYZuQV6jdhZEmyjzpQftlNlb_3NdKtX7CW8C4S45I",
+    "image_details": {
+      "bytes": 68299,
+      "format": "JPEG",
+      "sha256": "92d2cd223f947e3e04159f0e917bae04869bc8a6515e8fe253dfcd4cda5d4ea3",
+      "width": 612,
+      "height": 792
+    },
+    "image": "https://arweave.net/ttD4X3JrohWieQNZOssns6pK06BcXUSwK3MOby0Lgtg",
+    "image_url": "https://arweave.net/ttD4X3JrohWieQNZOssns6pK06BcXUSwK3MOby0Lgtg"
+  }
+}

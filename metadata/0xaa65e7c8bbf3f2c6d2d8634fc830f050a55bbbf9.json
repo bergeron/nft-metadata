@@ -1,0 +1,26 @@
+{
+  "address": "0xaa65e7c8bbf3f2c6d2d8634fc830f050a55bbbf9",
+  "type": "ERC721",
+  "name": "Dao Badge",
+  "tokenCount": "7",
+  "uri": "https://gateway.pinata.cloud/ipfs/Qma1bfrZ7UoWbDzmgAwuEEkEtAzRCUkYAfdgWP5MvbkLeW/voteCount-1-Badge.json",
+  "metadata": {
+    "title": "Badge Metadata",
+    "properties": {
+      "name": "Vote 1",
+      "description": "Awarded for participating in the Moloch DAO ecosystem",
+      "image": "https://gateway.pinata.cloud/ipfs/QmXBTdNdXPWGnzPxepiYhVbDZhM3WGBNJboRW6L8MbPBy9/v1-badges/001-medal-1.svg",
+      "external_url": "https://raidguild.org",
+      "attributes": [
+        {
+          "trait_type": "Base",
+          "value": "Badge"
+        },
+        {
+          "trait_type": "Level",
+          "value": 1
+        }
+      ]
+    }
+  }
+}

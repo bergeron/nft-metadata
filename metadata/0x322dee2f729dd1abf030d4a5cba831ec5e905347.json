@@ -1,0 +1,41 @@
+{
+  "address": "0x322dee2f729dd1abf030d4a5cba831ec5e905347",
+  "type": "ERC721",
+  "name": "Splats by Furu",
+  "tokenCount": "555",
+  "uri": "ipfs://QmdCzYN3CMQWzJGp1bfQP3vzkjuqBcCkhEsszeSVts8yqv/1.json",
+  "metadata": {
+    "name": "Splats by Furu #1",
+    "description": "A vibrant color collection of various pastel splats creating abstract art by Furu.",
+    "image": "ipfs://QmWh48X1fnPhJiBo3rXRYr5iFphVyXmjbe75Lpd1h3GePf/1.png",
+    "edition": 1,
+    "date": 1673163393603,
+    "attributes": [
+      {
+        "trait_type": "Expression",
+        "value": "Dense"
+      },
+      {
+        "trait_type": "Focal Range",
+        "value": "15mm"
+      },
+      {
+        "trait_type": "Form",
+        "value": "Solid"
+      },
+      {
+        "trait_type": "Lab",
+        "value": "06"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Mad"
+      },
+      {
+        "trait_type": "Shade",
+        "value": "Screen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

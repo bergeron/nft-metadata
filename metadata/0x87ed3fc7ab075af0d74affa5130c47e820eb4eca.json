@@ -1,0 +1,36 @@
+{
+  "address": "0x87ed3fc7ab075af0d74affa5130c47e820eb4eca",
+  "type": "ERC721",
+  "name": "Wild Tigers Rescue Club NFT",
+  "tokenCount": "26",
+  "uri": "https://ipfs.io/ipfs/QmQtZv2K47VssaRjuU48iVptUcGoapMarC9nAp9K6UKUsf/1.json",
+  "metadata": {
+    "name": "Tiger#1",
+    "description": "WTRC is a collection of 3000 programmatically, randomly generated voxel NFTs from 115 possible traits.",
+    "image": "https://ipfs.io/ipfs/QmXZ9zqr7mTAS8G2GQpqbgmZrnGuyLRf4wqRhxVxjrdoYE?filename=1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Maltese"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Frightened"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Leather Jacket"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Viking Helmet"
+      }
+    ],
+    "seller_fee_basis_points": 250,
+    "fee_recipient": "0xfaBa228714D090A5C6E3a683b9fF8b85d85fbed6"
+  }
+}

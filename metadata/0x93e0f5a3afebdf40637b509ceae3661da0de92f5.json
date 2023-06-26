@@ -1,0 +1,45 @@
+{
+  "address": "0x93e0f5a3afebdf40637b509ceae3661da0de92f5",
+  "type": "ERC721",
+  "name": "WineBottleClub",
+  "tokenCount": "1855",
+  "uri": "https://wbcapi.herokuapp.com/api/metadata/1",
+  "metadata": {
+    "name": "Wine Bottle Club #1",
+    "description": "The first 3D collection provided by the Wine Bottle Club. Made up with 1855 exclusive NFTs, this initial collection will spotlight iconic luxury wines through a classy and unique design. The NFT collection will give you access to VIP membership and all resulting benefits.",
+    "image": "ipfs://QmXnBrtfXSWZjRvr2otY24wFvnUYxMD7r9zNnmg8FiLZyt/274f89b1705c4409e632a0dd.png",
+    "external_url": "https://winebottleclub.mypinata.cloud/ipfs/QmXnBrtfXSWZjRvr2otY24wFvnUYxMD7r9zNnmg8FiLZyt/274f89b1705c4409e632a0dd.png",
+    "date": 1653912410632,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Gradient dark red background"
+      },
+      {
+        "trait_type": "style",
+        "value": "Circuit Board"
+      },
+      {
+        "trait_type": "label",
+        "value": "Saint-Émilion Grand Cru Bitcoin La Cuvée® 2019"
+      },
+      {
+        "trait_type": "cap",
+        "value": "Orange cap"
+      },
+      {
+        "trait_type": "bottle",
+        "value": true
+      },
+      {
+        "trait_type": "reveal",
+        "value": "true"
+      },
+      {
+        "trait_type": "redeem",
+        "value": "true"
+      }
+    ],
+    "compiler": "WBC compiler"
+  }
+}

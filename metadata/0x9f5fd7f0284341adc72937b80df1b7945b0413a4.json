@@ -1,0 +1,61 @@
+{
+  "address": "0x9f5fd7f0284341adc72937b80df1b7945b0413a4",
+  "type": "ERC721",
+  "name": "RAREPAPER",
+  "tokenCount": "2282",
+  "uri": "https://arweave.net/DJeA8PvMGPKTSgPgPgP4Vfdc4ldJf27aHryCN77rJwg",
+  "metadata": {
+    "name": "RAREPAPER",
+    "created_by": "Paper",
+    "description": "Allows holder to queue the next song.",
+    "attributes": [
+      {
+        "trait_type": "Name",
+        "value": "RAREPAPER"
+      },
+      {
+        "trait_type": "Music Production",
+        "value": "Paper"
+      },
+      {
+        "trait_type": "Cover Art",
+        "value": "Paper"
+      },
+      {
+        "trait_type": "Vocals",
+        "value": "None"
+      },
+      {
+        "trait_type": "Collab?",
+        "value": "No"
+      },
+      {
+        "trait_type": "Scarcity",
+        "value": "Open Edition"
+      }
+    ],
+    "animation_details": {
+      "bytes": 1216983,
+      "format": "MP4",
+      "duration": 16,
+      "sha256": "ea78db53192ae2b1a44eafd6fabd761be38407ac5618083b26c1ecccaffd6ae0",
+      "width": 1080,
+      "height": 1508,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/OdPepSgq6gK_94BMtR5ZKW6_N4zikJ1U06EufTezsTw",
+    "animation_url": "https://arweave.net/OdPepSgq6gK_94BMtR5ZKW6_N4zikJ1U06EufTezsTw",
+    "image_details": {
+      "bytes": 230608,
+      "format": "PNG",
+      "sha256": "677cc809acd61ed688b130dcaf62bc2756b8fc484c1be66a67b6539b528fa9e4",
+      "width": 400,
+      "height": 560
+    },
+    "image": "https://arweave.net/EYxX8VG4QNZdD6OmDuh1rgvEbxEMcg-RSPk-gfEhUvM",
+    "image_url": "https://arweave.net/EYxX8VG4QNZdD6OmDuh1rgvEbxEMcg-RSPk-gfEhUvM"
+  }
+}

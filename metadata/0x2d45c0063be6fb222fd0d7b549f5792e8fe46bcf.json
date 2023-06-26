@@ -1,0 +1,38 @@
+{
+  "address": "0x2d45c0063be6fb222fd0d7b549f5792e8fe46bcf",
+  "type": "ERC721",
+  "name": "thethisisart",
+  "tokenCount": "3333",
+  "uri": "ipfs://QmP7syK4SMJWaDJP5HVjC1PU5JkgFvYjWYhcNz9mfyQf8y/1.json",
+  "metadata": {
+    "name": "This is art #1",
+    "description": "This is art, maybe nothing.",
+    "image": "ipfs://Qmexc1CZdME2Gh1VigR4nirXBZUjHg2XJCFMpHeCXrvVFy/1.png",
+    "dna": "e0d2a4323f4f136a4660a8426a76e0e5c2b4d0b8",
+    "edition": 1,
+    "date": 1655885595828,
+    "attributes": [
+      {
+        "trait_type": "Eyebrow",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Smile",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Left",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Right",
+        "value": "purple"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

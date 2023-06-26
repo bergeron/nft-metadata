@@ -1,0 +1,127 @@
+{
+  "address": "0x5758bb188caa0ca527128320badb2a0c6a411ef7",
+  "type": "ERC721",
+  "name": "Gener8tive Mutations Test - old",
+  "tokenCount": "20",
+  "uri": "https://api.gener8tive.io/mutations/metadata/1",
+  "metadata": {
+    "name": "Variant 1, Mutation 2",
+    "description": "A collaborative generative token containing instructions from previous minters: 0xff1...fb2,0xbbc...abb",
+    "image": "ipfs://QmPpvMcKQitwAoNUGEPebutAajA5NNNtCvm3VSUtQmLvub",
+    "image_url": "ipfs://QmPpvMcKQitwAoNUGEPebutAajA5NNNtCvm3VSUtQmLvub",
+    "external_url": "https://gener8tive.io/variant/1",
+    "home_url": "https://gener8tive.io/variant/1",
+    "background_color": "#FFFFFF",
+    "attributes": [
+      {
+        "trait_type": "Inspiration",
+        "value": "COVID-19"
+      },
+      {
+        "trait_type": "Medium",
+        "value": "JS/Solidity"
+      },
+      {
+        "trait_type": "Style",
+        "value": "minimalistic"
+      },
+      {
+        "trait_type": "Collection Index",
+        "max_value": 256,
+        "value": 2
+      },
+      {
+        "trait_type": "Variant Mutation",
+        "max_value": 16,
+        "value": 2
+      },
+      {
+        "trait_type": "Size Multiplier",
+        "value": "20"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Extremely Rare"
+      },
+      {
+        "trait_type": "Spike Randomness",
+        "value": "2"
+      },
+      {
+        "trait_type": "Spike Length",
+        "value": "4"
+      },
+      {
+        "trait_type": "# Spikes",
+        "value": "8"
+      },
+      {
+        "trait_type": "# Parts",
+        "value": "3"
+      }
+    ],
+    "properties": [
+      {
+        "type": "string",
+        "key": "Inspiration",
+        "value": "COVID-19"
+      },
+      {
+        "type": "string",
+        "key": "Medium",
+        "value": "JS/Solidity"
+      },
+      {
+        "type": "string",
+        "key": "Style",
+        "value": "minimalistic"
+      },
+      {
+        "type": "number",
+        "key": "Collection Index",
+        "value": 2
+      },
+      {
+        "type": "number",
+        "key": "Variant Mutation",
+        "value": 2
+      },
+      {
+        "trait_type": "Size Multiplier",
+        "value": "20"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Extremely Rare"
+      },
+      {
+        "trait_type": "Spike Randomness",
+        "value": "2"
+      },
+      {
+        "trait_type": "Spike Length",
+        "value": "4"
+      },
+      {
+        "trait_type": "# Spikes",
+        "value": "8"
+      },
+      {
+        "trait_type": "# Parts",
+        "value": "3"
+      }
+    ],
+    "tags": [
+      "rare",
+      "art",
+      "minimalistic",
+      "generative",
+      "collaborative",
+      "covid-19"
+    ],
+    "collaborators_truncated": [
+      "0xff1...fb2",
+      "0xbbc...abb"
+    ]
+  }
+}

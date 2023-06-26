@@ -1,0 +1,41 @@
+{
+  "address": "0x2a007f58dab921a9f17b4ce7bd94d4963a35715b",
+  "type": "ERC721",
+  "name": "Bear Markt",
+  "tokenCount": "209",
+  "uri": "ipfs://bafybeiapvatuye6qx2c6nrfzlvozd3evfxsmwbusog7cdelg23ulgr6bba/1.json",
+  "metadata": {
+    "name": "Markt Bear #2839",
+    "description": "We got a bear markt within a bear market. Choose your player.",
+    "fee_recipient": "0x65356D123f57375527A2ca9Ef30279aCDc5bB1a5",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://bafybeibvnzdogje6sy3k3xrio7a65o2a6cjtf5wym6nzbsqfxz2buolqau/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Shade",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Fluorescent Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accessories ",
+        "value": "Wen Bullish"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 3600,
+        "display_type": "number"
+      }
+    ]
+  }
+}

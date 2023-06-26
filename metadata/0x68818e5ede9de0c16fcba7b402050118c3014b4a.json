@@ -1,0 +1,54 @@
+{
+  "address": "0x68818e5ede9de0c16fcba7b402050118c3014b4a",
+  "type": "ERC721",
+  "name": "Hipworth",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/sSanzCdbevMSGY2NA-d6bV8X7qz7qT_Ndm2MuUSo8oc",
+  "metadata": {
+    "name": "Spare Parts",
+    "created_by": "Hipworth",
+    "external_url": "https://hipworth.studio",
+    "description": "Used robotic and biomechatronic parts.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Hipworth"
+      },
+      {
+        "trait_type": "Part",
+        "value": "Cranium"
+      },
+      {
+        "trait_type": "SKU",
+        "value": "CYB/CH/BR/CRAN"
+      },
+      {
+        "trait_type": "Condition",
+        "value": "Used"
+      }
+    ],
+    "animation_details": {
+      "bytes": 66337473,
+      "format": "MP4",
+      "duration": 24,
+      "sha256": "6ee2d17b5e1a158aa89bf99d361d852ca036be6d351b6fd38f29a0c5268b632f",
+      "width": 1280,
+      "height": 1920,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/DKJC_9MJiR4yXqG61paDZjUWHE-rjpevndeRwG-t_a4",
+    "animation_url": "https://arweave.net/DKJC_9MJiR4yXqG61paDZjUWHE-rjpevndeRwG-t_a4",
+    "image_details": {
+      "bytes": 778275,
+      "format": "PNG",
+      "sha256": "c47e87b8cbeff5ad3fd032c7e6352aebd4a705585e78d750c9668d909d93f6eb",
+      "width": 960,
+      "height": 1344
+    },
+    "image": "https://arweave.net/5651N8RRd9Rc7Cxr4tb_96LpGUF2KexNA1xTCiyMVeo",
+    "image_url": "https://arweave.net/5651N8RRd9Rc7Cxr4tb_96LpGUF2KexNA1xTCiyMVeo"
+  }
+}

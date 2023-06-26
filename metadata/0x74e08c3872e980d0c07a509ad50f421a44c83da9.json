@@ -1,0 +1,50 @@
+{
+  "address": "0x74e08c3872e980d0c07a509ad50f421a44c83da9",
+  "type": "ERC721",
+  "name": "Sakura Hunters NFT",
+  "tokenCount": "80",
+  "uri": "ipfs://bafybeigygzljsca6ug7m2mkz4iuxubj2bupi3elo353rksmmdk7m7mheju/1.json",
+  "metadata": {
+    "name": "Sakura Hunters S1 #1",
+    "description": "Sakura hunters s1.",
+    "image": "ipfs://bafybeib74wnxudha64hvgurzm3rknvm6qwbivbic4y2ln4vwknlkhtxera/1.png",
+    "dna": "96661b9f29b959e5e301e8563fb5e16de0c3b3ae",
+    "edition": 1,
+    "date": 1658091708190,
+    "attributes": [
+      {
+        "trait_type": "BN",
+        "value": "BN10"
+      },
+      {
+        "trait_type": "Human",
+        "value": "Human"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "surprised yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "smirk"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "Ninja"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Long Fire"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "business holy"
+      },
+      {
+        "trait_type": "weapons",
+        "value": "mecha greatsword"
+      }
+    ],
+    "compiler": "Sakura Hunters (Credits to HashLips)"
+  }
+}

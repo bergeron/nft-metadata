@@ -1,0 +1,41 @@
+{
+  "address": "0xf99406b556c4376508ec88b07e3f2c1725dab92e",
+  "type": "ERC721",
+  "name": "StickItem",
+  "tokenCount": "7",
+  "uri": "https://firebasestorage.googleapis.com/v0/b/sticksports-lockerroom/o/bats%2Fschema%2F1011101210101162.json?alt=media",
+  "metadata": {
+    "title": "Stick Cricket LE",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Stick Cricket LE"
+      },
+      "description": {
+        "type": "string",
+        "description": "Exclusive Stick Cricket Next Gen bat."
+      },
+      "image": {
+        "type": "string",
+        "description": "https://firebasestorage.googleapis.com/v0/b/sticksports-lockerroom/o/bats%2Fimages%2F1011101210101162.png?alt=media"
+      },
+      "3DReference": {
+        "type": "string",
+        "description": "https://bats.locker.sticksports.io/3d/?battype=Bat00"
+      },
+      "typeId": {
+        "type": "string",
+        "description": "1011101210101162"
+      },
+      "superLeagueId": {
+        "type": "string",
+        "description": "1001"
+      },
+      "json": {
+        "type": "string",
+        "description": "https://firebasestorage.googleapis.com/v0/b/sticksports-lockerroom/o/bats%2Fschema%2F1011101210101162.json?alt=media"
+      }
+    }
+  }
+}

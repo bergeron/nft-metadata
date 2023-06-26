@@ -1,0 +1,42 @@
+{
+  "address": "0x6619cf3c61bc6a495791ae1a327d52d152cbe1b4",
+  "type": "ERC721",
+  "name": "txers.xyz",
+  "tokenCount": "4444",
+  "uri": "ipfs://bafybeihzf5dhq2vmpjbq7mu4eajj3a66tn4yweadbb2befrgpmy7mkwlxi/1.json",
+  "metadata": {
+    "name": "Txer #1",
+    "description": "Txers is a pixel art project, representing 64x64 pixel characters that are constantly in motion, running through the blockchain and driving the movement of transactions.",
+    "image": "ipfs://bafybeifzl52oceupinhoq3mx3tvvs2mj6hqniazwhtw3i5vqq23nvfqeg4/1.png",
+    "imageHash": "bfa5f83c7c3452bc40d915f8f0b2efc99ecb8e11802a216489eb1218449f014b",
+    "edition": 1,
+    "date": 1675938306887,
+    "attributes": [
+      {
+        "trait_type": "Character",
+        "value": "zombie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "lookdown"
+      },
+      {
+        "trait_type": "Fit",
+        "value": "beachboy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "toxicbeard"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "smallmohawk"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "white"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "address": "0x171f83d8e5b9c915b726784871f7f9f205f55365",
+  "type": "ERC721",
+  "name": ".soul (Relation Profile Name)",
+  "tokenCount": "724",
+  "uri": "https://sbt0.io/sbt/polygon/0x171f83d8e5b9c915b726784871f7f9f205f55365/json/1.json",
+  "metadata": {
+    "image_url": "ar://5sOCE-v4tnqAJT6cIa_38Mv3mNgFQXUhDkEA0NNMRCA",
+    "description": "The Name Service",
+    "attributes": [
+      {
+        "value": "Soul_0x247b8cdf5ff2ed74ba5da461f96f0f5b275cdeda",
+        "trait_type": "subject"
+      },
+      {
+        "value": "hold",
+        "trait_type": "predicate"
+      },
+      {
+        "value": "Name_relation.soul",
+        "trait_type": "object"
+      },
+      {
+        "value": ":Soul_0x247b8cdf5ff2ed74ba5da461f96f0f5b275cdeda p:hold :Name_relation.soul .",
+        "trait_type": "semantic_rdf"
+      }
+    ]
+  }
+}

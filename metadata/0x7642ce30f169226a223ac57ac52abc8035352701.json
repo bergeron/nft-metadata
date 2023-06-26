@@ -1,0 +1,37 @@
+{
+  "address": "0x7642ce30f169226a223ac57ac52abc8035352701",
+  "type": "ERC721",
+  "name": "Flur Labs",
+  "tokenCount": "50",
+  "uri": "https://flurlabs.io/nfts/1.json",
+  "metadata": {
+    "animation_url": "https://flurlabs.io/nfts/flurlabs.mp4",
+    "description": "",
+    "tokenId": 1,
+    "image": "https://flurlabs.io/nfts/flurlabs.png",
+    "attributes": [
+      {
+        "trait_type": "Pass Type",
+        "value": "Builder"
+      },
+      {
+        "trait_type": "Serial No",
+        "value": "001"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "type": "image/png",
+          "uri": "flurlabs.png"
+        },
+        {
+          "type": "video/mp4",
+          "uri": "flurlabs.mp4"
+        }
+      ],
+      "category": "video"
+    },
+    "name": "Flur Labs #1"
+  }
+}

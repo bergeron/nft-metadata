@@ -1,0 +1,42 @@
+{
+  "address": "0x16cc2c3efb79eb62c459f6980f4f0b1ef6ba3901",
+  "type": "ERC721",
+  "name": "Kool Kevins NFT",
+  "tokenCount": "9",
+  "uri": "ipfs://QmVE153oxGV8rPrERPMUr1yMYSmpYL6PULDm6NQtKxHJsH/1.json",
+  "metadata": {
+    "name": "Kool Kevins #1",
+    "description": "The Koolest Kevin Derivative yet!",
+    "image": "ipfs://QmTAiwstkRRQxpBvmcPbuoHEUwECf6614Tau16M2nJwQvn/1.png",
+    "dna": "3b2e85c375ca76725c652a935c300b833fddc9d2",
+    "edition": 1,
+    "date": 1646234236709,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Kevin"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bucket Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "Original"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Naked"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

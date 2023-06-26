@@ -1,0 +1,23 @@
+{
+  "address": "0x0bdde5fd11a87850915975ce153066bacf95cb77",
+  "type": "ERC1155",
+  "name": "Valee Example",
+  "tokenCount": "50",
+  "uri": "https://bafybeiaijkdqw6lexah6tpc4dflihlpn65vfaeihavpjsw4akaogtfuaai.ipfs.nftstorage.link/1.json",
+  "metadata": {
+    "name": "Valee Example NFT #1",
+    "description": "This is a example NFT to test out Valee platform. Try it yourself at https://valee.io",
+    "image": "https://nftstorage.link/ipfs/bafybeibbhlauy2z26uaz6xmms62wyqskfwhxdihzzvhjgffhhgiks2rrc4/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "17"
+      },
+      {
+        "trait_type": "Content",
+        "value": "15"
+      }
+    ]
+  }
+}

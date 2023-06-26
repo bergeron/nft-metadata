@@ -1,0 +1,49 @@
+{
+  "address": "0x60da897670c9969ff36317553034bb05410937b3",
+  "type": "ERC721",
+  "name": "Pussycat Doodles",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmWDfpV2erYwtXf3PsiTjyxSgghQkAs3LvrEVL66usfhZy/1.json",
+  "metadata": {
+    "name": "Pussycat #1",
+    "description": "5000 low effort Pussycats living on the Ethereum Blockchain.",
+    "external_url": "https://manic.art",
+    "image": "ipfs://QmPRJ2x7sn85ztgPpVsS1LmisSiW6sKaGWRuZvkKBKxWFv/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BCD030"
+      },
+      {
+        "trait_type": "Secret Name",
+        "value": "Awesome Brown"
+      },
+      {
+        "trait_type": "Country",
+        "value": "VE"
+      },
+      {
+        "trait_type": "Effort",
+        "value": 55
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        "Manic Distopia"
+      ]
+    },
+    "compiler": "https://manic.art",
+    "collection": {
+      "name": "Pussycat Doodles",
+      "family": "Pussycat Doodles"
+    },
+    "symbol": ""
+  }
+}

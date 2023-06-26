@@ -1,0 +1,39 @@
+{
+  "address": "0xbd2b1e5d46048408e35a6182a1497e466a76005e",
+  "type": "ERC721",
+  "name": "Mukabe Land",
+  "tokenCount": "22",
+  "uri": "https://cdn.mukabe.land/api/contracts/MKBL/1/",
+  "metadata": {
+    "name": "Mukabe Land",
+    "description": "Mukabe land placed at:\n(-7, -7) - (8, 8)\nVisit at https://mukabe.land/lands/1",
+    "external_url": "https://mukabe.land/lands/1",
+    "image": "https://cdn.mukabe.land/images/lands/1/thumbnail.png",
+    "attributes": [
+      {
+        "trait_type": "Size",
+        "value": 256
+      },
+      {
+        "trait_type": "Min x",
+        "value": -7
+      },
+      {
+        "trait_type": "Min y",
+        "value": -7
+      },
+      {
+        "trait_type": "Max x",
+        "value": 8
+      },
+      {
+        "trait_type": "Max y",
+        "value": 8
+      },
+      {
+        "trait_type": "Distant to origin",
+        "value": 0
+      }
+    ]
+  }
+}

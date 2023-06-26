@@ -1,0 +1,28 @@
+{
+  "address": "0x25a4f45d88b6d48a2ec2c87f5ef7f6af65db9d8e",
+  "type": "ERC721",
+  "name": "Sky Crucible - Materials",
+  "tokenCount": "6670",
+  "uri": "https://sky-crucible-materials-metadata.s3.amazonaws.com/1",
+  "metadata": {
+    "name": "Common Light Orb - #1",
+    "symbol": "SKYCWEAPONCRAFTING",
+    "description": "Use ore, magic orbs, and weapons schematics to forge your weapon and compete in the arena of Sky Crucible.",
+    "image": "https://sky-crucible-materials-images.s3.amazonaws.com/orbs/light.jpeg",
+    "external_url": "https://skycrucible.xyz",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Orb"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Light"
+      },
+      {
+        "trait_type": "Rank",
+        "value": "Common"
+      }
+    ]
+  }
+}

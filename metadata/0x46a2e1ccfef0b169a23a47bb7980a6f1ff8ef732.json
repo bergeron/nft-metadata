@@ -1,0 +1,47 @@
+{
+  "address": "0x46a2e1ccfef0b169a23a47bb7980a6f1ff8ef732",
+  "type": "ERC721",
+  "name": "testing_manyfold",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/wSr9GoJyR1U50mkrLtcakIqquQGquVJOVHC8MSB0wvs",
+  "metadata": {
+    "name": "testing_manyfold",
+    "created_by": "riwuowu",
+    "external_url": "https://opensea.io/collection/crashtestjoyride",
+    "description": "testing_manyfold",
+    "ddd": "ddd",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "riwuowu"
+      },
+      {
+        "display_type": "number",
+        "max_value": "1",
+        "value": "1",
+        "trait_type": "1"
+      },
+      {
+        "display_type": "boost_percentage",
+        "max_value": "2",
+        "value": "2",
+        "trait_type": "2"
+      },
+      {
+        "display_type": "boost_number",
+        "max_value": "3",
+        "value": "3",
+        "trait_type": "3"
+      }
+    ],
+    "image_details": {
+      "bytes": 98864,
+      "format": "PNG",
+      "sha256": "dcdb64ac312437c7bfe7da6dc943cdf56b6dbc02d9fddb882096fa1b4aa9261b",
+      "width": 500,
+      "height": 440
+    },
+    "image": "https://arweave.net/tYYYyIx0vho2jBvHYW_l_Gmp3UDfjjam-Y2Q-3z_yXc",
+    "image_url": "https://arweave.net/tYYYyIx0vho2jBvHYW_l_Gmp3UDfjjam-Y2Q-3z_yXc"
+  }
+}

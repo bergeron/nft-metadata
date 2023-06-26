@@ -1,0 +1,41 @@
+{
+  "address": "0xe43122c3b9a291d1c99137301eb5799efd5aed5f",
+  "type": "ERC721",
+  "name": "I'm Not An Artist | Topaz Crypt",
+  "tokenCount": "6",
+  "uri": "https://arweave.net/LiUBNnIQTTY-f70Pdsj63sX5M1N-fsKXFIudNw3E3y0",
+  "metadata": {
+    "name": "where did my childhood go?",
+    "created_by": "Topaz Crypt",
+    "description": "it feels so far away\n\n__________\n\ncollage,  \ndigital painting,  \nanimation,  \n3000 x 2400",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Topaz Crypt"
+      }
+    ],
+    "image_details": {
+      "bytes": 10516478,
+      "format": "PNG",
+      "sha256": "a35bdb9a39576d6cd1cd6127b21c61dd17ff83f91080c7568677ad78a0d13b65",
+      "width": 3000,
+      "height": 2400
+    },
+    "image": "https://arweave.net/yMBhJrXazPZEvYooWDOjVTpZzXF-UYg-TL8HXrKkK9s",
+    "image_url": "https://arweave.net/yMBhJrXazPZEvYooWDOjVTpZzXF-UYg-TL8HXrKkK9s",
+    "animation_details": {
+      "bytes": 32592396,
+      "format": "MP4",
+      "duration": 25,
+      "sha256": "6a41a33c49b5b78b9dc02796204e594f8adc5d925a0dc15e8abb91ec0c00bf3b",
+      "width": 3000,
+      "height": 2400,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/yhUKHShh3ZvZ9Sy34KHykQM7UAy3FOTjOkCO5RO8VRE",
+    "animation_url": "https://arweave.net/yhUKHShh3ZvZ9Sy34KHykQM7UAy3FOTjOkCO5RO8VRE"
+  }
+}

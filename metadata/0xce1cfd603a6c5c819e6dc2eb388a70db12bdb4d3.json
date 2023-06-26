@@ -1,0 +1,20 @@
+{
+  "address": "0xce1cfd603a6c5c819e6dc2eb388a70db12bdb4d3",
+  "type": "ERC721",
+  "name": "ElseVerse Mystery Boxes",
+  "tokenCount": "3000",
+  "uri": "https://api.elseverse.io/nft/mystery-box/1",
+  "metadata": {
+    "name": "Mystery Box #1",
+    "image": "https://elseverse.io/assets/images/mystery-box.png",
+    "animation_url": "https://elseverse.io/assets/images/mystery-box.mp4",
+    "description": "Mysterious box of the ElseVerse metaverse. Drops mysterious items when opens.",
+    "external_url": "https://elseverse.io/",
+    "attributes": [
+      {
+        "trait_type": "id",
+        "value": 1
+      }
+    ]
+  }
+}

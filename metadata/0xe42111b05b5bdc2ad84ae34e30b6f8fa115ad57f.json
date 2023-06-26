@@ -1,0 +1,66 @@
+{
+  "address": "0xe42111b05b5bdc2ad84ae34e30b6f8fa115ad57f",
+  "type": "ERC721",
+  "name": "Creepy Crew",
+  "tokenCount": "1",
+  "uri": "ipfs://QmVBmWw4DfxDorHHAgaU7abkW5b2GjYM2vFzit8ntmrTrJ/1.json",
+  "metadata": {
+    "name": " #1",
+    "description": "",
+    "image": "ipfs://QmPWG6mpQoQMh1mwtTdz2f18cYisj5RxR45Y2J6LGSQMDi/1.png",
+    "dna": "62bd5c68bd5e26db15290c0a4aab63776e82af07",
+    "edition": 1,
+    "date": 1639118040239,
+    "seller_fee_basis_points": 1250,
+    "collection": {
+      "name": "Creepy Crew",
+      "family": "Creepy Crew"
+    },
+    "properties": {
+      "files": [
+        {
+          "url": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x619CcA294d5166F2BB8B0acaAaf9a370754D29Cf",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bg19"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Shade"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Thic"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Unacceptable"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "X"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Godly"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

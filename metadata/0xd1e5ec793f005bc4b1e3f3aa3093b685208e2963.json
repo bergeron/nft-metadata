@@ -1,0 +1,45 @@
+{
+  "address": "0xd1e5ec793f005bc4b1e3f3aa3093b685208e2963",
+  "type": "ERC721",
+  "name": "SALAMANDERS.io",
+  "tokenCount": "1",
+  "uri": "ipfs://QmbudQE7zdtygzdPceNVRCzTNdt2GPEzf8ENQrCaomJKkP/1.json",
+  "metadata": {
+    "name": "Salamanders.io Collection #1",
+    "description": "The initial wave of Salamanders, more details can be found at www.salamanders.io",
+    "image": "ipfs://QmVk1XK7bTdJPkaive34XeVjV1CrUBiL1QbfgFcpFn7DNP/1.png",
+    "custom_fields": {
+      "dna": "7e529b0d1017331cbc18aab13f5a27bed09d776f",
+      "edition": 1,
+      "date": 1644776431211,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "https://www.salamanders.io",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "webbedFeet",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "body",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "wings",
+        "value": "Red"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Regular "
+      },
+      {
+        "trait_type": "gills",
+        "value": "Regular "
+      }
+    ]
+  }
+}

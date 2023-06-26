@@ -1,0 +1,83 @@
+{
+  "address": "0x8e2ca2263c9c4cf2eac576f746eac72fcfa2e325",
+  "type": "ERC721",
+  "name": "Ricardo Wiesse",
+  "tokenCount": "1",
+  "uri": "ipfs://QmWvD9H3cK1pqhtX6qNMnBdHiH8v91yx5DL3w3qxxkQ5jn",
+  "metadata": {
+    "name": "Elevation Art Logo",
+    "description": "ElevationArt.io\n\nVerisart Certified: https://verisart.com/works/758c4794-40ce-44bb-8e7e-043cb5681150",
+    "image": "ipfs://QmSGAQTn6FFkz4DEbEcDBKAknNzG6Uixhkw7c9uWgxYmmg",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 1080,
+          "height": 1080,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": null,
+        "frameRate": null,
+        "tags": [
+          "Elevation",
+          "Art",
+          "Logo",
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0x82176c4f5fd05088a1c5ee98708f6cd1a1b5671c",
+            "bps": 1000
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "external_url": "https://verisart.com/works/758c4794-40ce-44bb-8e7e-043cb5681150",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "Elevation",
+        "display_type": null
+      },
+      {
+        "trait_type": "Tag",
+        "value": "Art",
+        "display_type": null
+      },
+      {
+        "trait_type": "Tag",
+        "value": "Logo",
+        "display_type": null
+      },
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Eduardo  San Martín Wu",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "Elevation Art Logo",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "1080x1080 px",
+        "display_type": null
+      }
+    ]
+  }
+}

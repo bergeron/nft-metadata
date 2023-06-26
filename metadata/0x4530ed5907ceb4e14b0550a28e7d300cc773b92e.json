@@ -1,0 +1,47 @@
+{
+  "address": "0x4530ed5907ceb4e14b0550a28e7d300cc773b92e",
+  "type": "ERC721",
+  "name": "Exoplanets: The 4001 Project.",
+  "tokenCount": "3989",
+  "uri": "https://api.the4001project.com/metadata/1",
+  "metadata": {
+    "name": "Exoplanet #0001",
+    "description": "Exoplanet #0001 is a unique Exoplanet from The 4001 Project.  \n_This token is a collectible that lives on the Ethereum blockchain._",
+    "image": "https://gateway.pinata.cloud/ipfs/QmSo3zzhXg8vovX1YsMtGXmuXcnFHgSxyj8DgrDZXSL42k",
+    "attributes": [
+      {
+        "trait_type": "planet_type",
+        "value": "Terrestrial"
+      },
+      {
+        "trait_type": "planet_mass",
+        "value": "0.25 Earths"
+      },
+      {
+        "trait_type": "stellar_magnitude",
+        "value": "13.942"
+      },
+      {
+        "trait_type": "galaxy",
+        "value": "Majestic Galaxy"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Habitable Zone"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Clear Sky"
+      },
+      {
+        "trait_type": "discovery",
+        "value": 1618110000,
+        "display_type": "date"
+      },
+      {
+        "trait_type": "mission",
+        "value": "Mercury"
+      }
+    ]
+  }
+}

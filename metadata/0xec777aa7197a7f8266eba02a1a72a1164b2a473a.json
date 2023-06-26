@@ -1,0 +1,96 @@
+{
+  "address": "0xec777aa7197a7f8266eba02a1a72a1164b2a473a",
+  "type": "ERC721",
+  "name": "128adfkjeqwrqewr",
+  "tokenCount": "200",
+  "uri": "https://api.artblocks.io/token/382000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "382000001",
+    "series": "N/A",
+    "aspect_ratio": 0.7,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Metaphysics #1",
+    "minted": true,
+    "artist": "Jinyao Lin",
+    "description": "Many things in the world are perceptible but not visible. Some things we can only feel, but not understand. Some things touch us and move us deeply, but not physically. We can only confirm some things through experience.\n\nQi is believed to be part of everything that exists as a \"life force\" or \"spiritual energy\" that pervades the natural world. It cannot be seen, but in some paintings, the artist creates the flow of Qi to present a vivid world. Artists use Qi to show the presence of life in their artwork, and it’s also believed to be a metaphor for the energy that powers our body and spirit.\n\nMetaphysics is a generative system to simulate an organic world, to make the audience feel the Qi. Every single object is gradually deformed, shifted, and rotated in an attempt to find a pattern in the chaos that describes the workings of the life force and constitutes a living entity. It is inspired by the fluent Tai Chi movement, Cloud Hand. It develops with organic rotations and movements, like practicing Tai Chi on the canvas which makes the generative system alive.\n\nThat movement composes this piece, and once we feel the invisible vital life force by the physics of the algorithm, could we say it is a process of metaphysics?\n\nThis project uses p5js.\n\nPress [S] to download a high resolution jpeg.\nPress [A] to see the slow animation.\nPress [R] to download the animation.\nPress [B] to switch border/borderless mode.",
+    "script_type": "p5@1.0.0",
+    "project_id": "382",
+    "curation_status": "presents",
+    "image": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/382000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/382000001.png",
+    "generator_url": "https://generator.artblocks.io/382000001",
+    "animation_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/382000001",
+    "royaltyInfo": {
+      "artistAddress": "0xc0482317aa426020c08f1e892e6b0414ae7245d1",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Metaphysics by Jinyao Lin",
+    "website": "https://www.jinyaolin.info/",
+    "token_hash": "0x5607df5b3423240d50ef398dfe2e4e529534000139bcf29cf7dd466109424ea3",
+    "external_url": "https://artblocks.io/collections/presents/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/382/tokens/382000001",
+    "primary_asset_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/382000001",
+    "features": {
+      "Broad": 3,
+      "Palette": "Grullo",
+      "Coloring": "Continuous",
+      "Wildness": 4,
+      "BrushType": "Clone",
+      "Leaf Scale": 1,
+      "Spine Type": "0",
+      "Leaf Structure": 5,
+      "Background Color": "Paper2",
+      "Background Texture": "Linen fiber light"
+    },
+    "traits": [
+      {
+        "trait_type": "Metaphysics",
+        "value": "All Metaphysics"
+      },
+      {
+        "trait_type": "Metaphysics",
+        "value": "Broad: 3"
+      },
+      {
+        "trait_type": "Metaphysics",
+        "value": "Palette: Grullo"
+      },
+      {
+        "trait_type": "Metaphysics",
+        "value": "Coloring: Continuous"
+      },
+      {
+        "trait_type": "Metaphysics",
+        "value": "Wildness: 4"
+      },
+      {
+        "trait_type": "Metaphysics",
+        "value": "BrushType: Clone"
+      },
+      {
+        "trait_type": "Metaphysics",
+        "value": "Leaf Scale: 1"
+      },
+      {
+        "trait_type": "Metaphysics",
+        "value": "Spine Type: 0"
+      },
+      {
+        "trait_type": "Metaphysics",
+        "value": "Leaf Structure: 5"
+      },
+      {
+        "trait_type": "Metaphysics",
+        "value": "Background Color: Paper2"
+      },
+      {
+        "trait_type": "Metaphysics",
+        "value": "Background Texture: Linen fiber light"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "address": "0x2f4f6ad912de598502a6a5a16dd85d62ec71b498",
+  "type": "ERC1155",
+  "name": "Unisocks.org Genesis Vault",
+  "tokenCount": "60",
+  "uri": "ipfs://QmbfiUDbse7wCraNvBryrw2qEn9jYZdHpnxr4RyW1wZPtL/1",
+  "metadata": {
+    "image": "ipfs://QmNY4Jo3DedNKVsWtRdDNLdL9TkgtwmuGKSbcntimzi1kq",
+    "description": "$SOCKS is a token that entitles you to 1 real pair of limited edition socks, shipped anywhere in the world. You can sell the token back at any time. You can get the real socks for free. For more information, Visit https://www.unisocks.org",
+    "name": "Unisocks.org : Genesis Item",
+    "attributes": [
+      {
+        "trait_type": "Website",
+        "value": "Unisocks.org"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Deep Pink on Crème"
+      },
+      {
+        "trait_type": "Material",
+        "value": "Cotton blend"
+      },
+      {
+        "trait_type": "Made In",
+        "value": "USA"
+      },
+      {
+        "trait_type": "Length",
+        "value": "Mid-calf"
+      },
+      {
+        "trait_type": "Size",
+        "value": "One size fits most"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "1 / 500"
+      },
+      {
+        "trait_type": "USD Value",
+        "value": "ethPrice * 1750 / (500 - socksSold)**2"
+      },
+      {
+        "trait_type": "Version",
+        "value": 0,
+        "display_type": "number"
+      }
+    ],
+    "background_color": "ffffff"
+  }
+}

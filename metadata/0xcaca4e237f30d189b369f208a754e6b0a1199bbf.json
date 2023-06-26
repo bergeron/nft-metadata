@@ -1,0 +1,41 @@
+{
+  "address": "0xcaca4e237f30d189b369f208a754e6b0a1199bbf",
+  "type": "ERC721",
+  "name": "Breakfast NFT",
+  "tokenCount": "12",
+  "uri": "https://api.breakfastnft.wtf/nft/1.json",
+  "metadata": {
+    "dna": "063101",
+    "name": "Breakfast #1",
+    "description": "A delicious and wholesome breakfast prepared by Buford the line cook.",
+    "image": "https://api.breakfastnft.wtf/nft/1.png",
+    "edition": 1,
+    "date": 1631127379513,
+    "attributes": [
+      {
+        "trait_type": "Eating Surface",
+        "value": "Formica Counter Top"
+      },
+      {
+        "trait_type": "Drink",
+        "value": "Coffee in Grandma's Mug"
+      },
+      {
+        "trait_type": "Plate",
+        "value": "Grandma's Decorative Plate"
+      },
+      {
+        "trait_type": "Side 2",
+        "value": "Grits"
+      },
+      {
+        "trait_type": "Side 1",
+        "value": "Banana"
+      },
+      {
+        "trait_type": "Main Dish",
+        "value": "Waffles"
+      }
+    ]
+  }
+}

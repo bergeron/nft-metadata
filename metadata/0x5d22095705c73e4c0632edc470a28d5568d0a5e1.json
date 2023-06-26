@@ -1,0 +1,114 @@
+{
+  "address": "0x5d22095705c73e4c0632edc470a28d5568d0a5e1",
+  "type": "ERC721",
+  "name": "LadyLany",
+  "tokenCount": "1",
+  "uri": "ipfs://QmfMAwQHx7jGGNUkTCdigk7ZvPMkNbyj7o3CTBnVkdfRDq/1.json",
+  "metadata": {
+    "name": "Lady LanyG #1",
+    "description": "Cubic Punks - Home of Eye Candy Collectibles",
+    "image": "ipfs://bafybeie3vsvkzmso3du67kr626tkwi657vcuftzt4qveo2ze73e4lolnxq/1.png",
+    "dna": "0f581b5abd60db6ebb260730f6da4bccbb59fc22",
+    "edition": 1,
+    "date": 1649813126646,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "Lady LanyG",
+      "family": "Cubic Punks"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x936B1037A13E4c56D5c9e079aEa24235C1E78BD6",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "FocusBlkLeft"
+      },
+      {
+        "trait_type": "Background",
+        "value": "LinesOfDots"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Neck02"
+      },
+      {
+        "trait_type": "Neck 2",
+        "value": "NeckB04"
+      },
+      {
+        "trait_type": "Chin",
+        "value": "Chin03"
+      },
+      {
+        "trait_type": "Chin2",
+        "value": "Chin08"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Face02"
+      },
+      {
+        "trait_type": "Face 2",
+        "value": "BGClear"
+      },
+      {
+        "trait_type": "FaceB",
+        "value": "FaceB01"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose3"
+      },
+      {
+        "trait_type": "Nose 2",
+        "value": "BGClear"
+      },
+      {
+        "trait_type": "EyesR",
+        "value": "EyesR08"
+      },
+      {
+        "trait_type": "EyesL",
+        "value": "EyesL08"
+      },
+      {
+        "trait_type": "Hair 1",
+        "value": "HairOuter04"
+      },
+      {
+        "trait_type": "Hair 1B",
+        "value": "HairOuter01"
+      },
+      {
+        "trait_type": "Hair 2",
+        "value": "HairInner10"
+      },
+      {
+        "trait_type": "Hair 2B",
+        "value": "HairInner02"
+      },
+      {
+        "trait_type": "Lips",
+        "value": "Lips05"
+      },
+      {
+        "trait_type": "Fore Ground",
+        "value": "Flowers5"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0x8fc7f11342dbe913f783833342291c1f26a64363",
+  "type": "ERC721",
+  "name": "The Aliens PFP",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmVDbGbVSd11zMNH9kqKBtywb2vTeWJyzc6ocEfr2RzgC9/1.json",
+  "metadata": {
+    "name": "The Aliens #1",
+    "description": "Hello from Mars. We have something for you humans.",
+    "image": "ipfs://QmW7cC5uS3h7Kbbyxc6itmikGiivZTXWyEZcDSYkjiSb5s/1.png",
+    "dna": "07781d7432371beecdeece9ac2deb7d25541f84a",
+    "edition": 1,
+    "date": 1657850243752,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sky"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Alienstein Red"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Shirt Purple"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Small Beard"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Red ufo"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Triple eyes"
+      }
+    ],
+    "compiler": "Aliens"
+  }
+}

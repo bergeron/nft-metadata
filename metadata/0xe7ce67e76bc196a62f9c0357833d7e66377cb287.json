@@ -1,0 +1,30 @@
+{
+  "address": "0xe7ce67e76bc196a62f9c0357833d7e66377cb287",
+  "type": "ERC721",
+  "name": "Cool Colors Test Token",
+  "tokenCount": "3",
+  "uri": "data:application/json;utf8,{\"name\": \"Test Token #1\", \"description\": \"This is a test token, for trying out cool things related to NFTs! Please note that this token has no value or warranty of any kind.\\n\\n\\\"The future belongs to those who believe in the beauty of their dreams.\\\"\\n-Eleanor Roosevelt\", \"image_data\": \"<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 350 350'><style>  .example { fill: white; font-family: serif; font-size: 24px; }</style><rect width='100%' height='100%' fill='black' /><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' style='fill: white; font-family: Tahoma; font-size: 177px;'>1</text></svg>\", \"attributes\": [ {\"trait_type\": \"Token ID\", \"value\": \"1\"}, {\"trait_type\": \"Font\", \"value\": \"Tahoma\"}, {\"trait_type\": \"Font size\", \"value\": \"177\"}, {\"trait_type\": \"Chain ID\", \"value\": \"1\"}]}",
+  "metadata": {
+    "name": "Test Token #1",
+    "description": "This is a test token, for trying out cool things related to NFTs! Please note that this token has no value or warranty of any kind.\n\n\"The future belongs to those who believe in the beauty of their dreams.\"\n-Eleanor Roosevelt",
+    "image_data": "<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 350 350'><style>  .example { fill: white; font-family: serif; font-size: 24px; }</style><rect width='100%' height='100%' fill='black' /><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' style='fill: white; font-family: Tahoma; font-size: 177px;'>1</text></svg>",
+    "attributes": [
+      {
+        "trait_type": "Token ID",
+        "value": "1"
+      },
+      {
+        "trait_type": "Font",
+        "value": "Tahoma"
+      },
+      {
+        "trait_type": "Font size",
+        "value": "177"
+      },
+      {
+        "trait_type": "Chain ID",
+        "value": "1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "address": "0x86a68f655018389658f657257fd6d0c337c09351",
+  "type": "ERC1155",
+  "name": "Wrapped Cryptocards (OS Untradable)",
+  "tokenCount": "64",
+  "uri": "ipfs://QmWAP5TQokmAXWw7mYFapCdDa9piYZE2kVJiqP53NqoQD2",
+  "metadata": {
+    "image": "ipfs://QmUBN3Ah9RP5vzf3neGT3e45U2DtoHRn6YtLixAxd2LJmf",
+    "description": "\"Satoshi Nakamoto\" from CryptoCards collection",
+    "attributes": [
+      {
+        "value": "ghost rare",
+        "trait_type": "Rarity"
+      },
+      {
+        "value": "0x5700f9a7544f111cd0bedab4ff8cf20eef731e5c199a6fa4e2df3309badd98ac",
+        "trait_type": "Mint Tx"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Mint Date",
+        "value": 1515724425
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Total Supply",
+        "value": 1
+      }
+    ],
+    "name": "Satoshi Nakamoto"
+  }
+}

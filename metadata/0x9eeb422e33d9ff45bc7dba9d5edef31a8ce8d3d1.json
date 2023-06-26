@@ -1,0 +1,29 @@
+{
+  "address": "0x9eeb422e33d9ff45bc7dba9d5edef31a8ce8d3d1",
+  "type": "ERC721",
+  "name": "PEPE Proof",
+  "tokenCount": "31",
+  "uri": "https://metadata.hungrywolves.com/api/pepe-proof/1",
+  "metadata": {
+    "id": 1,
+    "image": "https://hungrywolves.mypinata.cloud/ipfs/QmRkuK5xn5qx99r4gLUd34AzG6oQxKwAhCwGrEJkREy8Lz",
+    "image_sm": "https://hungrywolves.mypinata.cloud/ipfs/QmS8yaAx1n8fd3zLiDmqRRd7ujX6kLJPQAcGc17w6HH3Yc",
+    "token_id": 1,
+    "name": "PEPE Proof #1",
+    "attributes": [
+      {
+        "value": "Slate",
+        "trait_type": "Background"
+      },
+      {
+        "value": 1,
+        "trait_type": "Tier"
+      },
+      {
+        "value": 0,
+        "trait_type": "$PEPE Held"
+      }
+    ],
+    "description": "Pepe Proof NFT metadata updates dynamically (roughly hourly) based on the amount of $PEPE held in the same wallet."
+  }
+}

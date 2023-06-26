@@ -1,0 +1,46 @@
+{
+  "address": "0x98919c74f6beec4117281eb6ddfc70ba5a2dc123",
+  "type": "ERC721",
+  "name": "beepbeepboopboop official",
+  "tokenCount": "1524",
+  "uri": "ipfs://Qmb7paBMpDuAiqia49Nx1uvRfYAQmWFMf87RBiZZjtaKGT/1",
+  "metadata": {
+    "name": "beep #1",
+    "description": "beep beep... boop boop?",
+    "external_url": "",
+    "image": "ipfs://QmTcMXANxud4WaDfjEamGSNU3dzSiojQ6wQe9cKk9RMCPx/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sky Night"
+      },
+      {
+        "trait_type": "Back",
+        "value": "Katana Double"
+      },
+      {
+        "trait_type": "Material",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Snow Storm"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Silly"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "address": "0x2794f5fe3a3823962e9679abd2f4b5dd27afef21",
+  "type": "ERC721",
+  "name": "Words digits and notes",
+  "tokenCount": "2",
+  "uri": "ipfs://QmVnBTYQT254DazUnRQ6k4PCJof9nNAAvM9afioaUMFKjT/metadata.json",
+  "metadata": {
+    "name": "Flats for dear friends",
+    "description": "In my work I'm interested in bringing the practices of conceptualism and language research into the context of digital art. Particularly in this project I collected big body of text data from most popular facebook groups for renting flats in Moscow. Next, I ran this data through opensource NLP (Natural language processing) app Textblob” and extract most relevant noun phrases from all of this posts. The result was a table containing several thousand phrases, which, in my opinion, reflect the true form of this kind of post. In the end I wrote a generative patch in Touchdesigner, witch randomly extract noun phrases from this big body of text, and make sequence for “projection” and projected this sequence on the object that represent iconic architecture of Moscow kremlin. Kremlin is a very complex image that reflects both power and opportunities, as well as violence and despair.",
+    "image": "ipfs://QmcBuMdVwE9SHWRrm8fsUVw5vwYdefgH9RuyToCBg2JtYc/nft.mp4"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "0x91cba7bba31b18c266ca408c7e7e75a999bd10ab",
+  "type": "ERC1155",
+  "name": "B07 Editions",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/d1IW3mc2xPUdKkCsuSfi6uVIeQ-_IH9DUn5niybc8eQ",
+  "metadata": {
+    "name": "Test",
+    "created_by": "Bulli007",
+    "description": "Testing 1.2.3...",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Bulli007"
+      }
+    ],
+    "animation_details": {
+      "bytes": 598818,
+      "format": "MP4",
+      "duration": 32,
+      "sha256": "5dce064b6792f06aa3291c46cea7e6ead3d55dc80bc48a3f0c40053eb0874144",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/24OU7q4g1IaMHKL87FqIuyeTMUaM8z064TH4_C1wvWQ",
+    "animation_url": "https://arweave.net/24OU7q4g1IaMHKL87FqIuyeTMUaM8z064TH4_C1wvWQ",
+    "image_details": {
+      "bytes": 388,
+      "format": "SVG",
+      "sha256": "2d0026a04e07c02f26c89619ad0f7e55fa85ff4c7fa12800f2994034c7ec405e"
+    },
+    "image": "https://arweave.net/j7RhnsO7ESoNGjUro6T1Oir56z8DV9oCpk794wmjor8",
+    "image_url": "https://arweave.net/j7RhnsO7ESoNGjUro6T1Oir56z8DV9oCpk794wmjor8"
+  }
+}

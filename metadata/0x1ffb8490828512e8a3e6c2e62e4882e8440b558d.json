@@ -1,0 +1,28 @@
+{
+  "address": "0x1ffb8490828512e8a3e6c2e62e4882e8440b558d",
+  "type": "ERC721",
+  "name": "Graffiti Kimono",
+  "tokenCount": "39",
+  "uri": "https://roamcouch.geneticchain.io/api/meta/1",
+  "metadata": {
+    "name": "Graffiti Kimono #1",
+    "artist": "Roamcouch",
+    "description": "The genesis generative NFT collection by renound street artist Roamcouch.",
+    "external_url": "https://roamcouch.geneticchain.io",
+    "image": "https://roamcouch.geneticchain.io/api/image/1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Paint Brush",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Bubbles",
+        "value": "Nope"
+      }
+    ]
+  }
+}

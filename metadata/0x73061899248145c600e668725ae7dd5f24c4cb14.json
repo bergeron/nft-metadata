@@ -1,0 +1,56 @@
+{
+  "address": "0x73061899248145c600e668725ae7dd5f24c4cb14",
+  "type": "ERC721",
+  "name": "Paper Bag Man",
+  "tokenCount": "9",
+  "uri": "ipfs://bafybeie5da3pne563tjnf7prgqzoteoywmltmx5oclr7pdgezp7fezm2gu/1.json",
+  "metadata": {
+    "name": "1",
+    "description": "The busy world may bring you a lot of impatience, bring your favorite paper bag and be yourself, or hide yourself.Everyone is a paper bag person, you just want people to see what kind of person you are.",
+    "external_url": "",
+    "image": "ipfs://bafybeib7gsxbbj2ewo3fdlpcr5q4kdouylioku3gshtddhfz2brxjxoavy/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Main Body",
+        "value": "Main body"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Sweatshirt"
+      },
+      {
+        "trait_type": "Decoration",
+        "value": "Purple Planet"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Little Bear"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Sword"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": []
+    },
+    "compiler": "https://onemint.io/",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Paper bag man",
+      "family": "Paper bag man"
+    },
+    "symbol": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "address": "0x30fb6b5703fb3dbd41ac729409ff29054d4983a6",
+  "type": "ERC721",
+  "name": "ParaSpace Derivative Token KODA",
+  "tokenCount": "120",
+  "uri": "https://api.otherside.xyz/kodas/1",
+  "metadata": {
+    "image": "https://assets.otherside.xyz/pendant/pfp_full/1200px/1.webp",
+    "image_alt": "https://assets.otherside.xyz/kodas/63960f98d58826ab11c47679d347d5c9734544b900a1613fe67fff276868e45c.png",
+    "attributes": [
+      {
+        "value": "Crystalline Helm",
+        "trait_type": "Head"
+      },
+      {
+        "value": "Tricemore",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "Caged Geminite",
+        "trait_type": "Core"
+      },
+      {
+        "value": "Shards of Iridia",
+        "trait_type": "Weapon"
+      },
+      {
+        "value": "KodaPendant",
+        "trait_type": "Relic"
+      }
+    ],
+    "id": 1,
+    "nftLicenseTerms": "https://otherside.xyz/license/koda"
+  }
+}

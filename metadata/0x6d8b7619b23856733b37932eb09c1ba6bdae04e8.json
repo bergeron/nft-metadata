@@ -1,0 +1,76 @@
+{
+  "address": "0x6d8b7619b23856733b37932eb09c1ba6bdae04e8",
+  "type": "ERC721",
+  "name": "qewrewqr66",
+  "tokenCount": "1000",
+  "uri": "https://api.artblocks.io/token/163000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "163000001",
+    "series": "N/A",
+    "aspect_ratio": 0.5625,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Meridian #1",
+    "minted": true,
+    "artist": "Matt DesLauriers",
+    "description": "Stratified landforms constructed from many small strokes of colour. The hash of each token describes a coordinate within a multidimensional generative space, locating a unique composition that lies along one of many possible longitudes.",
+    "script_type": "js@na",
+    "project_id": "163",
+    "curation_status": "presents",
+    "heritage_curation_status": "playground",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/163000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/163000001.png",
+    "generator_url": "https://generator.artblocks.io/163000001",
+    "royaltyInfo": {
+      "artistAddress": "0xcab81f14a3fc98034a05bab30f8d0e53e978c833",
+      "additionalPayee": "0x309fd9dc50e465dc6e2ecd20430c3497e009e6bc",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Meridian by Matt DesLauriers",
+    "website": "https://mattdesl.com/",
+    "token_hash": "0x28a3d92bb27a703814bab99f7993571d7b956b51e7861032a3c3f8dc36a24800",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/163/tokens/163000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/163000001.png",
+    "features": {
+      "Zoom": "Medium",
+      "Style": "Screenprint",
+      "Palette": "Other",
+      "Frequency": "Standard",
+      "Structure": "Variable",
+      "Chromaticity": "Monochrome"
+    },
+    "traits": [
+      {
+        "trait_type": "Meridian",
+        "value": "All Meridians"
+      },
+      {
+        "trait_type": "Meridian",
+        "value": "Zoom: Medium"
+      },
+      {
+        "trait_type": "Meridian",
+        "value": "Style: Screenprint"
+      },
+      {
+        "trait_type": "Meridian",
+        "value": "Palette: Other"
+      },
+      {
+        "trait_type": "Meridian",
+        "value": "Frequency: Standard"
+      },
+      {
+        "trait_type": "Meridian",
+        "value": "Structure: Variable"
+      },
+      {
+        "trait_type": "Meridian",
+        "value": "Chromaticity: Monochrome"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC 4.0"
+  }
+}

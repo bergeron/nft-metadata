@@ -1,0 +1,25 @@
+{
+  "address": "0x2694865af305074ea102705b5a8dfb5b94fb33f7",
+  "type": "ERC721",
+  "name": "ERC721-Collection-StaxNFT",
+  "tokenCount": "5",
+  "uri": "https://ipfs.io/ipfs/QmS5h2fXQkfvo7Xq3hXn1tcb6wwB4oD5w9sAshkyHWskfQ?filename=1_staxCollection.json",
+  "metadata": {
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "1"
+      },
+      "description": {
+        "type": "string",
+        "description": "1 Desc"
+      },
+      "image": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/QmYMYVvJdKDKR7YhxUnA2eN9LSDBcmTU5xZJz1SZ97aR2f?filename=1_staxCollection.PNG"
+      }
+    }
+  }
+}

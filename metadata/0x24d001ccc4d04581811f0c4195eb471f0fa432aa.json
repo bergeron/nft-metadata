@@ -1,0 +1,92 @@
+{
+  "address": "0x24d001ccc4d04581811f0c4195eb471f0fa432aa",
+  "type": "ERC721",
+  "name": "127dsafadfsadf",
+  "tokenCount": "300",
+  "uri": "https://token.artblocks.io/0x4d928ab507bf633dd8e68024a1fb4c99316bbdf3/1",
+  "metadata": {
+    "platform": "Tennis Art",
+    "tokenID": "1",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x2317ef91f5d1df2ac141520cf43581d8bdbf1d9b",
+    "name": "LOVE #1",
+    "minted": true,
+    "artist": "Martin Grasser",
+    "description": "A collaboration between the ATP Tour, Art Blocks Engine, and Martin Grasser, LOVE is a collection of unique digital artworks that uses in-match sports data to celebrate impactful moments from the 2022 Nitto ATP Finals in Turin, Italy.",
+    "script_type": "three@0.124.0",
+    "project_id": "0",
+    "engine_type": "fullyonchain",
+    "image": "https://media-proxy.artblocks.io/0x4d928ab507bf633dd8e68024a1fb4c99316bbdf3/1.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x4d928ab507bf633dd8e68024a1fb4c99316bbdf3/1.png",
+    "generator_url": "https://generator.artblocks.io/0x4d928ab507bf633dd8e68024a1fb4c99316bbdf3/1",
+    "animation_url": "https://generator.artblocks.io/0x4d928ab507bf633dd8e68024a1fb4c99316bbdf3/1",
+    "royaltyInfo": {
+      "artistAddress": "0x616fc752e4d9503b1b65b51f1113003ab2256ce9",
+      "additionalPayee": "0x00f7d4fc9ef2b9871b66e2265aba3a1eba65d345",
+      "additionalPayeePercentage": 100,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "LOVE by Martin Grasser",
+    "website": "https://art.tennis",
+    "token_hash": "0xc1c16811744579ef5af93db40fcba21a815adf45bfa4a41ca8f536679083a5da",
+    "external_url": "https://art.tennis/token/0x4d928ab507bf633dd8e68024a1fb4c99316bbdf3-1",
+    "primary_asset_url": "https://generator.artblocks.io/0x4d928ab507bf633dd8e68024a1fb4c99316bbdf3/1",
+    "features": {
+      "Set": 1,
+      "Game": 7,
+      "Shot": "First Serve T (Deuce)",
+      "Match": "Djokovic v Fritz",
+      "Point": 5,
+      "Round": "Semi-final",
+      "Player": "Fritz",
+      "Palette": "Tuttoapposto",
+      "Velocity": 139.07,
+      "Key Trait": "Top 5 Fastest Serve"
+    },
+    "traits": [
+      {
+        "trait_type": "LOVE",
+        "value": "All LOVEs"
+      },
+      {
+        "trait_type": "LOVE",
+        "value": "Set: 1"
+      },
+      {
+        "trait_type": "LOVE",
+        "value": "Game: 7"
+      },
+      {
+        "trait_type": "LOVE",
+        "value": "Shot: First Serve T (Deuce)"
+      },
+      {
+        "trait_type": "LOVE",
+        "value": "Match: Djokovic v Fritz"
+      },
+      {
+        "trait_type": "LOVE",
+        "value": "Point: 5"
+      },
+      {
+        "trait_type": "LOVE",
+        "value": "Round: Semi-final"
+      },
+      {
+        "trait_type": "LOVE",
+        "value": "Player: Fritz"
+      },
+      {
+        "trait_type": "LOVE",
+        "value": "Palette: Tuttoapposto"
+      },
+      {
+        "trait_type": "LOVE",
+        "value": "Key Trait: Top 5 Fastest Serve"
+      }
+    ],
+    "is_static": false,
+    "license": " CC BY-NC-ND 4.0"
+  }
+}

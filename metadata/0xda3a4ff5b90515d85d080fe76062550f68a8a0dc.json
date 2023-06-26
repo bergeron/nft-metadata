@@ -1,0 +1,30 @@
+{
+  "address": "0xda3a4ff5b90515d85d080fe76062550f68a8a0dc",
+  "type": "ERC721",
+  "name": "DegenBox NFT",
+  "tokenCount": "555",
+  "uri": "ipfs://QmYVf3qyhwCeveit1Pfc1sxTzM6dDgt3qx9U8unvsPwrpn/1.json",
+  "metadata": {
+    "name": "DegenBox NFT #1",
+    "description": "Collect All 5 Editions Degen Box. 555 Total. 5 Tier Rarities yet to be revealed. Upon opening inside you will find nothing you could expect.",
+    "image": "ipfs://QmNdXcHyc3YW1r1rpCwjg52QQqTiSSmZeyarEnx6JkY5hm/1.png",
+    "dna": "6fd6f5e5e538b7b22337202f8ddd00c8626c35d9",
+    "edition": 1,
+    "date": 1648021335114,
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "value": "GoldRush"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Golden Egg"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "Degens"
+  }
+}

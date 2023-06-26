@@ -1,0 +1,30 @@
+{
+  "address": "0x850c4431da843bb50e2591a4ef64cda5e9026f03",
+  "type": "ERC721",
+  "name": "Nice Rug",
+  "tokenCount": "2",
+  "uri": "ipfs://QmSr848YMbEChmz8uBFvdnPe24jSVYUb3Vbvn6BrXPgM1X/1.json",
+  "metadata": {
+    "name": "Nice Rug #1",
+    "description": "Nice Rug is a collection of 5,555 unique Rug NFTs",
+    "image": "ipfs://QmP9UkVK8vdphUMuE8XdZbq8UF569J5iwd3itnFh2fA5Ds/1.png",
+    "dna": "5f8dfc933fd6dba64e0958dd9194e834a7466102",
+    "edition": 1,
+    "date": 1635304487886,
+    "attributes": [
+      {
+        "trait_type": "Outer Rim",
+        "value": "OR32"
+      },
+      {
+        "trait_type": "Inner Rim",
+        "value": "IR107"
+      },
+      {
+        "trait_type": "Center",
+        "value": "C99"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "0x44af8d742e708b46a43a50aaef30124f573be1a6",
+  "type": "ERC721",
+  "name": "Chainverse Portal - Gift Subscription",
+  "tokenCount": "7",
+  "uri": "https://diamond-dao-dynamic-nfts.vercel.app/api/v1/gift/metadata/1",
+  "metadata": {
+    "name": "Chainverse Portal - Gift Subscription #1",
+    "description": "Chainverse Portal Gift Membership",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbwCyTNKGgh27ACSk8opEzbkFSL7txkHuZYfisXdYxbGD",
+    "external_url": "https://chainversenft-test.surge.sh/?jsonURL=https://diamond-dao-dynamic-nfts.vercel.app/api/v1/generateJson/0x6b431d4c7fe98825873c70d5c89ea5fef5e3aa6c&seed=0x6b431d4c7fe98825873c70d5c89ea5fef5e3aa6c",
+    "animation_url": "https://chainversenft-test.surge.sh/?jsonURL=https://diamond-dao-dynamic-nfts.vercel.app/api/v1/generateJson/0x6b431d4c7fe98825873c70d5c89ea5fef5e3aa6c&seed=0x6b431d4c7fe98825873c70d5c89ea5fef5e3aa6c",
+    "iframe_url": "https://chainversenft-test.surge.sh/?jsonURL=https://diamond-dao-dynamic-nfts.vercel.app/api/v1/generateJson/0x6b431d4c7fe98825873c70d5c89ea5fef5e3aa6c&seed=0x6b431d4c7fe98825873c70d5c89ea5fef5e3aa6c",
+    "attributes": [
+      {
+        "trait_type": "address",
+        "value": "0x6b431d4c7fe98825873c70d5c89ea5fef5e3aa6c"
+      },
+      {
+        "trait_type": "Membership Type",
+        "value": "Gift"
+      }
+    ]
+  }
+}

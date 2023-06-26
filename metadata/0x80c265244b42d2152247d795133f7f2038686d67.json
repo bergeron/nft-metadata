@@ -1,0 +1,38 @@
+{
+  "address": "0x80c265244b42d2152247d795133f7f2038686d67",
+  "type": "ERC721",
+  "name": "Pro Camel Riders",
+  "tokenCount": "114",
+  "uri": "https://ipfs.io/ipfs/QmNUNod3i2oDL9zaXFcuQFQggwZSEaaWHJPqGgCtLMGrsT/1",
+  "metadata": {
+    "dna": "8a74781a98ff748807f1e99e21dab6a54f85dc60",
+    "name": "Camel #1",
+    "description": "9,999 unique Camels that display the beauty of the Arab world",
+    "image": "ipfs://QmQ66ePyBah9YrxhS1qse7SSLpzBNKqLcguUBPLUfUKVGR/Camel%20%231.png",
+    "edition": 1,
+    "date": 1632218390017,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach Background"
+      },
+      {
+        "trait_type": "Camel Type",
+        "value": "Camel"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Star Shirt"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Baker Boy Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Reading Glasses"
+      }
+    ],
+    "compiler": "The Camel Farm Compiler"
+  }
+}

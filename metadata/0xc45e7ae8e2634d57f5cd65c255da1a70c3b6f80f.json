@@ -1,0 +1,41 @@
+{
+  "address": "0xc45e7ae8e2634d57f5cd65c255da1a70c3b6f80f",
+  "type": "ERC721",
+  "name": "Dana Ulama Single Editions",
+  "tokenCount": "8",
+  "uri": "https://arweave.net/QuhmMEW2Q5pTWlN--mNhDbmG8HYWy5WGbqcWv6z7K9c",
+  "metadata": {
+    "name": "Ghosts of Summer",
+    "created_by": "Dana Ulama",
+    "description": "Animated Artwork, Sep. 2022. \nProcreate/ Photoshop.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Dana Ulama"
+      }
+    ],
+    "image_details": {
+      "bytes": 7533538,
+      "format": "GIF",
+      "sha256": "e70fe0ef1aa49304934966cc179dab357cbdb8de1af0218d733956bad597d26b",
+      "width": 1000,
+      "height": 1278
+    },
+    "image": "https://arweave.net/JYwosnOIxO9uhvpxxL5YqsNEehShoo3V6ch7b33PzH8",
+    "image_url": "https://arweave.net/JYwosnOIxO9uhvpxxL5YqsNEehShoo3V6ch7b33PzH8",
+    "animation_details": {
+      "bytes": 48436960,
+      "format": "MP4",
+      "duration": 10,
+      "sha256": "9b93099381acc97d8c3e86afa8297b2615e88ba3838890fdc6ac394eb30c4089",
+      "width": 1800,
+      "height": 2300,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/aftjE4bfn5heFT26Og-_w5kZIitzz05F8T6DshBeIgw",
+    "animation_url": "https://arweave.net/aftjE4bfn5heFT26Og-_w5kZIitzz05F8T6DshBeIgw"
+  }
+}

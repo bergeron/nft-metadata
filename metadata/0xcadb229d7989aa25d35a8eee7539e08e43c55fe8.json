@@ -1,0 +1,63 @@
+{
+  "address": "0xcadb229d7989aa25d35a8eee7539e08e43c55fe8",
+  "type": "ERC721",
+  "name": "Cosmic Meta War Chicks",
+  "tokenCount": "176",
+  "uri": "https://api.cosmicmeta.io/war-chicks/1",
+  "metadata": {
+    "date": 1653572285716,
+    "image": "https://media.cosmicmeta.io/war-chicks/lzEuwbEg7wHKAEBb.png",
+    "website": "https://cosmicmeta.io",
+    "tokenID": "lzEuwbEg7wHKAEBb",
+    "description": "Part of the generative art series \"**Cosmic Meta**\" which is 100% stored on the Ethereum blockchain. Each artwork is an advanced 3D collectible driven by powerful AI...  \n  \n**Dimensions**: 2160 x 2700 (5,832,000 pixels).",
+    "edition": 1,
+    "platform": "Cosmic Meta Platform",
+    "external_url": "https://cosmicmeta.io",
+    "project_id": 2,
+    "dna": "1c1cdbf9a3f6042049cf7893caad7a53",
+    "series": 2,
+    "name": "Cosmic Meta War Chicks #1",
+    "attributes": [
+      {
+        "value": "White Sand",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Robobird Wings",
+        "trait_type": "Wings"
+      },
+      {
+        "value": "Sinthetic Dual Swords",
+        "trait_type": "Back Weapons"
+      },
+      {
+        "value": "Marsala",
+        "trait_type": "Characters"
+      },
+      {
+        "value": "Elite Comms Link",
+        "trait_type": "Accessories"
+      },
+      {
+        "value": "Army Technician Wear",
+        "trait_type": "Outfit"
+      },
+      {
+        "value": "Spike Lee Mask",
+        "trait_type": "Headwear Above"
+      },
+      {
+        "display_type": "number",
+        "value": 1375,
+        "trait_type": "Rarity Rank",
+        "max_value": 2222
+      },
+      {
+        "value": "Common",
+        "trait_type": "Cosmic Rarity"
+      }
+    ],
+    "compiler": "Cosmic Meta Compiler",
+    "collection_name": "Cosmic Meta War Chicks"
+  }
+}

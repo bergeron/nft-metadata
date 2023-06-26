@@ -1,0 +1,41 @@
+{
+  "address": "0x5e2cb8dd24da6ec8a7a20693316dfca523269bce",
+  "type": "ERC721",
+  "name": "Basically Bears",
+  "tokenCount": "2",
+  "uri": "ipfs://QmNmDo9wdEyYVbmPqPhPaKLF5ZVsKz41F5JBQVdepcGdeu/1.json",
+  "metadata": {
+    "name": "Basically Bears1",
+    "description": "We are Basic and we are Bears, we are Basically Bears. Hand drawn and randomly generated to live a basic life on the blockchain",
+    "fee_recipient": "0x8C5a4e76167c896152495E23506C79d3b69D534e",
+    "seller_fee_basis_points": 750,
+    "image": "ipfs://QmXtmtZq1p1xaJDjA8UzYuWLacjjRaDkT73rR4xNzxZKp4/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Goofy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "White Dress Shirt"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 3703,
+        "display_type": "number"
+      }
+    ]
+  }
+}

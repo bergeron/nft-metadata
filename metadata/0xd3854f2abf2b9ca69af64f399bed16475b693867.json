@@ -1,0 +1,61 @@
+{
+  "address": "0xd3854f2abf2b9ca69af64f399bed16475b693867",
+  "type": "ERC1155",
+  "name": "CREEPTCHI",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/5LMV186O7llkBpSIY2eTal-ndalEkJIcXGry3kyGnVY",
+  "metadata": {
+    "created_by": "Marco Mori",
+    "name": "#01 Creeptchi",
+    "external_url": "https://www.creeptures.xyz/tamagotchi",
+    "description": "Burn here: https://app.manifold.xyz/br/creeptchi01\n\nDiscover the enigmatic CREEPTCHI, shrouded in secrecy, waiting to reveal its hidden inhabitant as it teeters on the verge of hatching into an uncharted world of adventure.",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "LEVEL",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "SATISFIED",
+        "value": 3,
+        "max_value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "ENERGY",
+        "value": 3,
+        "max_value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "LOVE",
+        "value": -1,
+        "max_value": 3
+      }
+    ],
+    "animation_details": {
+      "bytes": 3159555,
+      "format": "MP4",
+      "duration": 5,
+      "sha256": "57bf7dae86278314ad2983cb80c081bffe68850bff8408aa021a5507612cac63",
+      "width": 1920,
+      "height": 1920,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/GyDREo0WsedMvNWriqT86A1C6-3hF1kaHK8KUwF0KdY",
+    "animation_url": "https://arweave.net/GyDREo0WsedMvNWriqT86A1C6-3hF1kaHK8KUwF0KdY",
+    "image_details": {
+      "bytes": 38113272,
+      "format": "GIF",
+      "sha256": "f7a7ab29b1e8de36435c019e3ba7e118c442708454512c05b87ee04b0bc93bb4",
+      "width": 960,
+      "height": 960
+    },
+    "image": "https://arweave.net/yjKyYqt64HS9uHPZuu7Odv5DDXW0suKt1bMGlqB6tdI",
+    "image_url": "https://arweave.net/yjKyYqt64HS9uHPZuu7Odv5DDXW0suKt1bMGlqB6tdI"
+  }
+}

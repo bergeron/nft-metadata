@@ -1,0 +1,45 @@
+{
+  "address": "0x7eb06125cee4af501de800cbfe22960598e4d7a0",
+  "type": "ERC1155",
+  "name": "Monogram Network Inc.",
+  "tokenCount": "23",
+  "uri": "https://stg.api.mgnstg2.monogramnetwork.com/token/meta/1",
+  "metadata": {
+    "title": "MG Whiskey Deeds, MWS, May 2021",
+    "name": "MG Whiskey Deeds, MWS, May 2021",
+    "type": "object",
+    "imageUrl": "https://deedimages.s3.us-east-2.amazonaws.com/monogram_deed_tall.png",
+    "image": "https://deedimages.s3.us-east-2.amazonaws.com/monogram_deed_tall.png",
+    "description": "\n    In our endeavor to create a Global Marketplace for Appreciating Assets, Monogram Network Inc. has created the Monogram (MG) Token providing unprecedented access to appreciating assets and a secure purchase, trade and sale opportunity. Starting with a marketplace for whiskey enthusiasts, the MG Token represents a single 220-liter barrel of prime maturing whiskey, authenticated via certification through SGS. During the asset’s five year lifespan, the token will pay out annually 10% of its purchase price. On the fifth year the owner will receive a final payout plus the original principal, after which the token will become inactive.\n\n    Symbol: MGW-0521-3\n\n    Issuance date: Thu Apr 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)\n\n    Initial Principal: $900\n\n    Annual payout Date: 4/1\n\n    Maturity: 4/1/2026\n\n    Final Payout: $90\n\n    Insurance: Lloyds of London-LL01335\n  ",
+    "creator": "Monogram Network, Inc.",
+    "attributes": [
+      {
+        "trait_type": "Creator",
+        "value": "Monogram Network, Inc."
+      },
+      {
+        "trait_type": "Annual Payout Date",
+        "value": "4/1"
+      },
+      {
+        "trait_type": "Maturity",
+        "value": "4/1/2026"
+      },
+      {
+        "trait_type": "Final Payout",
+        "value": 90
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "MG Whiskey Deeds, MWS, May 2021"
+      },
+      "description": {
+        "type": "string",
+        "description": "\n    In our endeavor to create a Global Marketplace for Appreciating Assets, Monogram Network Inc. has created the Monogram (MG) Token providing unprecedented access to appreciating assets and a secure purchase, trade and sale opportunity. Starting with a marketplace for whiskey enthusiasts, the MG Token represents a single 220-liter barrel of prime maturing whiskey, authenticated via certification through SGS. During the asset’s five year lifespan, the token will pay out annually 10% of its purchase price. On the fifth year the owner will receive a final payout plus the original principal, after which the token will become inactive.\n\n    Symbol: MGW-0521-3\n\n    Issuance date: Thu Apr 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)\n\n    Initial Principal: $900\n\n    Annual payout Date: 4/1\n\n    Maturity: 4/1/2026\n\n    Final Payout: $90\n\n    Insurance: Lloyds of London-LL01335\n  "
+      }
+    },
+    "statusCode": 200
+  }
+}

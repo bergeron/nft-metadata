@@ -1,0 +1,18 @@
+{
+  "address": "0xade61708180d721b87d41ec1711b228c1fcfd1ed",
+  "type": "ERC721",
+  "name": "Superbowl NFT",
+  "tokenCount": "10",
+  "uri": "https://super-nft-collections.s3.eu-west-1.amazonaws.com/SuperBowl/json/1.json",
+  "metadata": {
+    "name": "SuperBowl NFT #1",
+    "description": "2023 Superbowl NFT for the token $SB",
+    "image": "https://super-nft-collections.s3.eu-west-1.amazonaws.com/SuperBowl/images/1.png",
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Normal"
+      }
+    ]
+  }
+}

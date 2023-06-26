@@ -1,0 +1,41 @@
+{
+  "address": "0xa1bbd4e7452817e8e8c1932219db87c98264d010",
+  "type": "ERC721",
+  "name": "SquaredCircles",
+  "tokenCount": "1",
+  "uri": "ipfs://QmbaaGcepLLuDktQw5aBz8eVDc7FJsydAh8m8YQbLzhafA/1.json",
+  "metadata": {
+    "name": "Squared Circles3721",
+    "description": "Squared Circles is a collection of 10.000 NFTs composed of a AI-generated set of different patterns built using quarter circles on a 2x2 grid, rarity is set by each element of the grid's rotation and color. This collection uses a palette of Primary colors (red, green, blue) balanced with black and white. Size 4.000x4.000px. ",
+    "fee_recipient": "0x5B7f85480260D2Bca22FE67C220B6Da8F6c0Fb38",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://Qmd34EGRTgZjLtCw7whiV7ZkksgfTc74jHrNyCSMVexG69/1.png",
+    "attributes": [
+      {
+        "trait_type": "Bg",
+        "value": "Bg Red"
+      },
+      {
+        "trait_type": "Tsx",
+        "value": "Tsx Yellow 4"
+      },
+      {
+        "trait_type": "Bsx",
+        "value": "Bsx Black 1"
+      },
+      {
+        "trait_type": "Bdx",
+        "value": "Bdx Blue 3"
+      },
+      {
+        "trait_type": "Tdx",
+        "value": "Tdx Red 2"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 356,
+        "display_type": "number"
+      }
+    ]
+  }
+}

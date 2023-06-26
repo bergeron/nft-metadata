@@ -1,0 +1,42 @@
+{
+  "address": "0xcd00c852c5f92469970070e18393f943d6fc522c",
+  "type": "ERC721",
+  "name": "Habbo X Rooms",
+  "tokenCount": "1300",
+  "uri": "https://nft-tokens.habbo.com/rooms/metadata/1.json",
+  "metadata": {
+    "tokenId": 1,
+    "uniqueIdentifier": "b627a5c1-45bf-40ea-b029-79f64c020bee",
+    "name": "Habbo Room #1",
+    "description": "By owning your own Habbo X Room you can throw parties and host interactive experiences! We have a huge back catalogue of Habbo items that will be available to use completely free of charge by all Habbo X players. You can get a room by buying one or by owning a Habbo Avatar.",
+    "attributes": [
+      {
+        "trait_type": "World Map Location",
+        "value": "Genesis Hotel"
+      },
+      {
+        "trait_type": "Room Size",
+        "value": 180,
+        "max_value": 4000
+      },
+      {
+        "trait_type": "Room Collection",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Room Design",
+        "value": "Regular Room Common"
+      },
+      {
+        "trait_type": "Room Level",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Room Type",
+        "value": "Studio Room"
+      }
+    ],
+    "image": "https://nft-tokens.habbo.com/rooms/images/genesis_regular_room_1_common.png"
+  }
+}

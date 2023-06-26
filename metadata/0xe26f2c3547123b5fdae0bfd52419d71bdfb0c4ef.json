@@ -1,0 +1,30 @@
+{
+  "address": "0xe26f2c3547123b5fdae0bfd52419d71bdfb0c4ef",
+  "type": "ERC721",
+  "name": "Dreamland Genesis",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmYMkKwo4ZrRt8rT65Qh55k33aJtUtijjQLARwhQruPHjZ",
+  "metadata": {
+    "name": "Dreamer #1",
+    "description": "",
+    "external_url": "ipfs://QmZzmAmqQS2DcYGmKAqz478rpXyhunduLW6fBaAYVssyB7",
+    "image": "ipfs://QmZzmAmqQS2DcYGmKAqz478rpXyhunduLW6fBaAYVssyB7",
+    "attributes": [
+      {
+        "trait_type": "LEGENDARY",
+        "value": "PHANTOM"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

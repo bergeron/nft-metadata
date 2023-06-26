@@ -1,0 +1,69 @@
+{
+  "address": "0x10d0cf714544a97d5f2f97fc8084fdaa5ae2eaf0",
+  "type": "ERC721",
+  "name": "Atomic Key Pass",
+  "tokenCount": "1898",
+  "uri": "https://storage.googleapis.com/fractal-launchpad-public-assets/psyker-assets/jsons/1.json",
+  "metadata": {
+    "name": "Keycard #0001",
+    "symbol": "PSYKC",
+    "description": "Keycards are the way to enter the Psykerverse. Keycard holder benefits include: closed beta access, DAO membership, and a genesis character loadout.",
+    "seller_fee_basis_points": 500,
+    "image": "https://storage.googleapis.com/fractal-launchpad-public-assets/psyker-assets/gifs/1.gif",
+    "external_url": "https://psyker.game/",
+    "animation_url": "",
+    "collection": {
+      "name": "Psyker Keycards",
+      "family": "Psyker"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://storage.googleapis.com/fractal-launchpad-public-assets/psyker-assets/gifs/1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "3aKY2TVrHV7XnjcuYhP2gdUWqF8ra8TA4AL5qWQQz5gr",
+          "share": 30
+        },
+        {
+          "address": "Gvp1RDYLpbBQg35k3x1zpBxWhXNEPuS1jbLALDH8XCaA",
+          "share": 30
+        },
+        {
+          "address": "2e8DoDgFZR3By185CDPJAwNE3h1QsaS1NtndM8NQi3Q5",
+          "share": 30
+        },
+        {
+          "address": "HMduKVo3A19U5EpQdEhPjo9hq9zfZXn8aGVYZp7Vc7fX",
+          "share": 10
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Weapons",
+        "value": "Katana Neon"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Robo Geish Diamond"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "Mantis Arms Bloody"
+      },
+      {
+        "trait_type": "Chest",
+        "value": "Ninja Hooded Vest purple"
+      },
+      {
+        "trait_type": "Legs",
+        "value": "Ninja pants black"
+      }
+    ]
+  }
+}

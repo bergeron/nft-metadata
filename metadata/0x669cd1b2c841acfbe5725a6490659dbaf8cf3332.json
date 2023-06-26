@@ -1,0 +1,54 @@
+{
+  "address": "0x669cd1b2c841acfbe5725a6490659dbaf8cf3332",
+  "type": "ERC721",
+  "name": "Turtle Rescue",
+  "tokenCount": "14",
+  "uri": "ipfs://Qme4JdEnaMYvCKQgt2K8gYnkn2JobL9MJH2wtYKcqm3cQg/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://QmYwTLs9m7g6cWA8ZteUGHBbDw5RpPNK4Wz8qwcc2y7wcp/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue Swirl"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Gold Wand"
+      },
+      {
+        "trait_type": "Turtle",
+        "value": "Turtle Scout"
+      },
+      {
+        "trait_type": "Short Sleeve",
+        "value": "Dark Blue Baseball Jersey"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Brown Space Buns"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Cute Eyes 03"
+      },
+      {
+        "trait_type": "Shell Accessory",
+        "value": "Green Alien on Back"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

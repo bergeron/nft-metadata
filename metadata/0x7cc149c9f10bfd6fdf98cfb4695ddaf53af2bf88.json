@@ -1,0 +1,42 @@
+{
+  "address": "0x7cc149c9f10bfd6fdf98cfb4695ddaf53af2bf88",
+  "type": "ERC721",
+  "name": "Trash and no stars",
+  "tokenCount": "966",
+  "uri": "https://trashandnostar.fra1.digitaloceanspaces.com/json/1.json",
+  "metadata": {
+    "name": "No Star #1",
+    "description": "Trash and No Star",
+    "image": "https://trashandnostar.fra1.digitaloceanspaces.com/jpg/1.jpeg",
+    "dna": "b8d4629a10adb258200e91acf4d946bf6cba9399",
+    "edition": 1,
+    "date": 1679044885794,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "sky"
+      },
+      {
+        "trait_type": "logo",
+        "value": "trash and no star"
+      },
+      {
+        "trait_type": "style",
+        "value": "Freddy"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "shining"
+      },
+      {
+        "trait_type": "eye",
+        "value": "Clint"
+      },
+      {
+        "trait_type": "accessories",
+        "value": "Slash"
+      }
+    ],
+    "compiler": "Tony"
+  }
+}

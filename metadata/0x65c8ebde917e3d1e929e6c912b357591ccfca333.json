@@ -1,0 +1,39 @@
+{
+  "address": "0x65c8ebde917e3d1e929e6c912b357591ccfca333",
+  "type": "ERC721",
+  "name": "Cool Saudis",
+  "tokenCount": "31",
+  "uri": "ipfs://QmRZh3sKLVp9fQ1L8x2sMcAdHr8yMx1wRqXXjksn2HayoA/1.json",
+  "metadata": {
+    "name": "Cool Saudis #1",
+    "description": "MAX BID",
+    "image": "ipfs://QmR7ebWfkhy3Rivktqn7BdpczUFutzz8CEbB8QXUoKCpBY/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Robe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Red Turban"
+      }
+    ]
+  }
+}

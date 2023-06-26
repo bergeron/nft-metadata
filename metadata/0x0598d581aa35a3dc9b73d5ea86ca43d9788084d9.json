@@ -1,0 +1,49 @@
+{
+  "address": "0x0598d581aa35a3dc9b73d5ea86ca43d9788084d9",
+  "type": "ERC721",
+  "name": "Candygrams",
+  "tokenCount": "131",
+  "uri": "https://candygrams.xyz/api/token/1.json",
+  "metadata": {
+    "description": "Candygram",
+    "external_url": "https://candygrams.xyz",
+    "image": "https://candygrams.storage.googleapis.com/editions/mainnet/00000.png",
+    "name": "Candygram #1",
+    "tokenId": 1,
+    "message": null,
+    "attributes": [
+      {
+        "trait_type": "Candy",
+        "value": "Heart"
+      },
+      {
+        "trait_type": "Engraving",
+        "value": "Unengraved"
+      },
+      {
+        "trait_type": "background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "sky",
+        "value": "none"
+      },
+      {
+        "trait_type": "ground",
+        "value": "Mountains"
+      },
+      {
+        "trait_type": "heart",
+        "value": "Licorice"
+      },
+      {
+        "trait_type": "body",
+        "value": "Rays"
+      },
+      {
+        "trait_type": "above",
+        "value": "Snake"
+      }
+    ]
+  }
+}

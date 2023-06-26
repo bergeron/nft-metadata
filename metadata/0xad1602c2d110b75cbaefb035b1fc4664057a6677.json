@@ -1,0 +1,93 @@
+{
+  "address": "0xad1602c2d110b75cbaefb035b1fc4664057a6677",
+  "type": "ERC721",
+  "name": "Maison Autonome",
+  "tokenCount": "30",
+  "uri": "ipfs://QmQ1pJ2kj5EShWuJPTjRFCpjynMnAN8irjrvVMikH8My3E",
+  "metadata": {
+    "name": "Maison Autonome - Selection 1 of 30",
+    "description": "1 of 30 generative models from the video artwork Maison Autonome. In this generative video work, which has never been shown before, Universal Everything push the limits of visual technological innovations to create a fantasy fashion show. These endlessly delightful characters strut towards the viewer in a randomized combination of form, size and material. Each has their own anthropomorphic walk and personality, as well as a unique garment that could only exist in the digital sphere. Their outrageous, seductive couture takes the language of fashion and makes it oversized, fluid and truly space-age. An image of the future that is positivist, while at the same time questioning the role and need of designers at all.\n\nVerisart Certified: https://verisart.com/works/1c36814b-bc73-42ff-9908-c4fa29807912",
+    "image": "ipfs://QmaVPQPHyGEvJxytqbBHqYqgsaCn9DumU1sTqD9qtzoA14",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 14
+        },
+        "frameRate": 30,
+        "tags": [
+          "generative",
+          "videoart",
+          "figurative",
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0x5a1ceb120611d1a418cebf305b765f102c8d3e17",
+            "bps": 1000
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": null
+      }
+    },
+    "animation_url": "ipfs://QmcbWFzoBmjWdyY3c374zCFgkwu3x8EJe1mo1jsUHtZPiQ",
+    "external_url": "https://verisart.com/works/1c36814b-bc73-42ff-9908-c4fa29807912",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "generative",
+        "display_type": null
+      },
+      {
+        "trait_type": "Tag",
+        "value": "videoart",
+        "display_type": null
+      },
+      {
+        "trait_type": "Tag",
+        "value": "figurative",
+        "display_type": null
+      },
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Universal Everything",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "Maison Autonome - Selection 1 of 30",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "1920x1080 px",
+        "display_type": null
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:14",
+        "display_type": null
+      }
+    ]
+  }
+}

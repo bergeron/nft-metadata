@@ -1,0 +1,43 @@
+{
+  "address": "0xf66328f1f2b741997082ae4764a5ab5b1273ca36",
+  "type": "ERC721",
+  "name": "The Fungibles ^",
+  "tokenCount": "88",
+  "uri": "https://cdn-api.niftykit.com/reveal/recGV2BEfdKB0WWGpBqu/1",
+  "metadata": {
+    "name": "THE FUNGIBLES ^ Bitcoin #1",
+    "title": "THE FUNGIBLES ^ Bitcoin #1",
+    "type": "object",
+    "description": "This is code as art. An ERC721 Ethereum blockchain experiment where each NFT's visual identity changes daily, dynamically-on-chain, derived from the last 30 days of each cryptocurrency's latest trading data. The Fungibles are A.I. generative code with a visual human emotional trait portraying the coin's current sentiment on social media. Cryptocurrencies that cease trading, reach their end of life and get frozen in time! New successfully trading cryptocurrencies that are born, are bred into a NFT and hence join the smart contract automatically. Only the top 10,000 coins get to play and changes each day based on their real life ranking data. The game of The Fungibles is an experiment that will evolve with time as each NFT transforms into a sentient being. The genesis and the evolution will differ with time through a journey of visual experiments powered by its very own market performance.",
+    "externalUrl": "https://thistle.capital/nft.php?id=1",
+    "external_url": "https://thistle.capital/nft.php?id=1",
+    "backgroundColor": "#050505",
+    "image": "https://thistle.capital/nft/1.png",
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x445Ea5fde28E719145665576AcAC7EA72f4C8339",
+    "maxSupply": "1",
+    "attributes": [
+      {
+        "type": "property",
+        "name": "Cryptocurrency",
+        "trait_type": "Cryptocurrency",
+        "traitType": "Cryptocurrency",
+        "value": "Bitcoin"
+      },
+      {
+        "type": "property",
+        "name": "Symbol",
+        "trait_type": "Symbol",
+        "traitType": "Symbol",
+        "value": "BTC"
+      },
+      {
+        "type": "property",
+        "name": "Color",
+        "trait_type": "Color",
+        "traitType": "Color",
+        "value": "#ccff00"
+      }
+    ]
+  }
+}

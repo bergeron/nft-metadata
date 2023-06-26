@@ -1,0 +1,24 @@
+{
+  "address": "0x6074270f2592aa7089f06b93b7c7588bccd1a9c5",
+  "type": "ERC721",
+  "name": "Sudo Moon",
+  "tokenCount": "100",
+  "uri": "ipfs://QmTDT9F6uZNWGjc3jK7shrSTeE2MRzz6CJzgcGKvFbHvhF/1.json",
+  "metadata": {
+    "name": "Hidden Shitcoin",
+    "description": "A shitcoin with a picture attached, that hasn't even been revealed yet.",
+    "image": "ipfs://QmYoX7BpVRLD97LSzsmymGctVuhC8aZ3ZnnmVgqoEV64Xu/Hidden.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Hidden",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Rug?",
+        "value": "Unconfirmed"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

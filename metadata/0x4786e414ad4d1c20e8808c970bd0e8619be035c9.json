@@ -1,0 +1,45 @@
+{
+  "address": "0x4786e414ad4d1c20e8808c970bd0e8619be035c9",
+  "type": "ERC721",
+  "name": "Camassia",
+  "tokenCount": "24",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=35YfGquN2D6s0rrGSnY1",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1581307853799?alt=media&token=ff48ca74-5565-43ee-ade4-ea59786874e2",
+    "forSale": true,
+    "description": "Wading through ancient magic",
+    "contractAddress": "0x4786e414ad4d1c20e8808c970bd0e8619be035c9",
+    "tags": [],
+    "amountToMint": 10,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1581309257,
+      "_nanoseconds": 385000000
+    },
+    "price": "0.0001",
+    "name": "JewelFlood",
+    "fiatPrice": "$0.02",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": ""
+      },
+      {
+        "trait_type": "location",
+        "value": "Cathedral Grove, BC-4, Nanaimo F, BC V0R, Canada"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJOy3xjpH0iFQRK75CBvMewug"
+      }
+    ],
+    "external_url": "https://mintbase.io/my-market/0x4786e414ad4d1c20e8808c970bd0e8619be035c9",
+    "type": "ERC721"
+  }
+}

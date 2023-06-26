@@ -1,0 +1,31 @@
+{
+  "address": "0xfccc5e5d71d7105c36c89f3216600f787ae44758",
+  "type": "ERC1155",
+  "name": "Bitski Editions",
+  "tokenCount": "1",
+  "uri": "ipfs://bafkreig54eowsh3g2cpennzm75fqhvoxoiwq7xwjzgfafwi2swgjbrs3oe",
+  "metadata": {
+    "name": "Bitski x Ledger Open Edition",
+    "description": "Bitski Wallet and Ledger join forces to enable a simple, secure, and accessible wallet experience for everyone. To commemorate their new partnership, Bitski is dropping a free open edition NFT on Zora. Download the Bitski Wallet here: https://www.bitski.com/",
+    "image": "ipfs://bafybeiaotyglsgiuecqmjagc6rt63idvgxjtueozncbb6gq5sahkdcif7m",
+    "animation_url": "ipfs://bafybeigep3ar34d3gwnv5ak4ddxw4incnclmludy3hqbodochmlxt3uxga",
+    "content": {
+      "mime": "video/mp4",
+      "uri": "ipfs://bafybeigep3ar34d3gwnv5ak4ddxw4incnclmludy3hqbodochmlxt3uxga"
+    },
+    "attributes": [
+      {
+        "trait_type": "Hardware Secured",
+        "value": "Ledger"
+      },
+      {
+        "trait_type": "Accessible",
+        "value": "Bitski"
+      },
+      {
+        "trait_type": "Vibes",
+        "value": "Zora"
+      }
+    ]
+  }
+}

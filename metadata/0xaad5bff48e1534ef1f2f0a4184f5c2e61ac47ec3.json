@@ -1,0 +1,25 @@
+{
+  "address": "0xaad5bff48e1534ef1f2f0a4184f5c2e61ac47ec3",
+  "type": "ERC721",
+  "name": "Locked.fyi",
+  "tokenCount": "16",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xaad5bff48e1534ef1f2f0a4184f5c2e61ac47ec3/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xaad5Bff48e1534EF1f2f0A4184F5C2E61aC47EC3/icon?id=1",
+    "expiration": 1617323569,
+    "tokenId": "1",
+    "owner": "0x3ca206264762caf81a8f0a843bbb850987b41e16",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1617323569
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xaad5Bff48e1534EF1f2f0A4184F5C2E61aC47EC3",
+    "network": 1
+  }
+}

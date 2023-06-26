@@ -1,0 +1,54 @@
+{
+  "address": "0x14ab45f6edc154e338e27f8d1d2a7cad4ed62ec2",
+  "type": "ERC721",
+  "name": "IIGenesis",
+  "tokenCount": "21",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmdezMf3PGRCLSD3G9R14bCcT7dsomE58enNVxEfApdGsi",
+  "metadata": {
+    "ens": "01h40.eth",
+    "external_url": "https://indexit.club/public/cards/0x46983deff710adf39de8e457070f80adeee3d0af9d7b050a41ac50f211ff589d61a3dbff21ad1804e899bb012eaf6a8d927a832d452da7baa3dbcca25c82db711c/0x46983deff710adf39de8e457070f80adeee3d0af9d7b050a41ac50f211ff589d61a3dbff21ad1804e899bb012eaf6a8d927a832d452da7baa3dbcca25c82db711c.png",
+    "description": "Rarity Cards for Digit Clubs (v0) for 01h40.eth",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZBbwxDDg2UUykqsRHJeHPDhiKR7B4VFwDXW6ckcD54g4",
+    "svg": "https://indexit.club/public/cards/0x46983deff710adf39de8e457070f80adeee3d0af9d7b050a41ac50f211ff589d61a3dbff21ad1804e899bb012eaf6a8d927a832d452da7baa3dbcca25c82db711c/0x46983deff710adf39de8e457070f80adeee3d0af9d7b050a41ac50f211ff589d61a3dbff21ad1804e899bb012eaf6a8d927a832d452da7baa3dbcca25c82db711c.svg",
+    "name": "Rarity Card for 01h40.eth",
+    "mintedBy": "0xb2a406a878dcc9e5ee832add8d0e2892209c7a8a",
+    "timestamp": 1656498612238,
+    "toSign": "Signed by 0xb2a406a878dcc9e5ee832add8d0e2892209c7a8a at time 1656498612238",
+    "message": "0x463265785e996df1c8e6ac1024894a81415012a60740df5f38bed564e4773da6",
+    "signature": "0x46983deff710adf39de8e457070f80adeee3d0af9d7b050a41ac50f211ff589d61a3dbff21ad1804e899bb012eaf6a8d927a832d452da7baa3dbcca25c82db711c",
+    "club": "24h",
+    "index": 0,
+    "isEven": true,
+    "isOdd": false,
+    "isPalindrome": false,
+    "isPrime": false,
+    "primeCount": 0,
+    "primeForm": "B0C0D0E0F0G0H0I0L0M0N0P0Q0R0S0T0U0W0",
+    "isRepeating": 0.4,
+    "isAlternating": false,
+    "isIncrementing": false,
+    "attributes": [
+      {
+        "trait_type": "Club",
+        "value": "24h"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Index",
+        "value": 0
+      },
+      {
+        "value": "Even"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Prime Count",
+        "value": 0
+      },
+      {
+        "trait_type": "Prime Form",
+        "value": "B0C0D0E0F0G0H0I0L0M0N0P0Q0R0S0T0U0W0"
+      }
+    ]
+  }
+}

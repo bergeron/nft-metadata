@@ -1,0 +1,42 @@
+{
+  "address": "0xb17c040698c5e0990ce7204a031b0731152c9e41",
+  "type": "ERC721",
+  "name": "Mutant Doodle - old V3",
+  "tokenCount": "1",
+  "uri": "ipfs://QmWPukVe8kVK5byJEniLB7wBFBAgTkn3FNm1yD3MrUiWMR/1.json",
+  "metadata": {
+    "dna": "b707bc2ef27b16562fc1d45139228a57804b49c3",
+    "name": "#1",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://QmRvPxugn2LERgUdTcExj5ihV9sc6TqZYqQsx4udEg78do/1.png",
+    "edition": 1,
+    "date": 1637789696288,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gradient_2"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blue_Turtleneck"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Mutated_Purple"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue_Chemicals"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Stabbed_Blue_Bowlcut"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

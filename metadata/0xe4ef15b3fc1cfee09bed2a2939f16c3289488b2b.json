@@ -1,0 +1,42 @@
+{
+  "address": "0xe4ef15b3fc1cfee09bed2a2939f16c3289488b2b",
+  "type": "ERC1155",
+  "name": "AetherClash",
+  "tokenCount": "30",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmYdYwH5hhSGyA26kPVNZ332jpxK5tc2p3NTKjmS4SDGTf/1.json",
+  "metadata": {
+    "name": "Sera the Serpent Queen",
+    "description": "A powerful champion in the fantasy card battle game.",
+    "image": "ipfs://QmUs6h7nq4QsH8ZpciRnH1yaRjk7K1A7fQAoQu7Pow6WH3",
+    "attributes": [
+      {
+        "trait_type": "Card Type",
+        "value": "Champion"
+      },
+      {
+        "trait_type": "Quantity",
+        "value": 200
+      },
+      {
+        "trait_type": "Energy",
+        "value": 45
+      },
+      {
+        "trait_type": "Movement Speed",
+        "value": 2
+      },
+      {
+        "trait_type": "Attack",
+        "value": 55
+      },
+      {
+        "trait_type": "Health",
+        "value": 50
+      },
+      {
+        "trait_type": "Effect",
+        "value": "None"
+      }
+    ]
+  }
+}

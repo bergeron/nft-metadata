@@ -1,0 +1,58 @@
+{
+  "address": "0x89d0b2eb96c801cb90f33b9d67d96560b6799b0f",
+  "type": "ERC1155",
+  "name": "FraktalNFTTubby Bears V2",
+  "tokenCount": "2",
+  "uri": "ipfs://QmbxWttwGxD1ZJN3T8YJWadjpLqF54xCchKYzDfsRUFKi4/2835.json",
+  "metadata": {
+    "dna": "33c750f8da24a5fbe63c3a15057aafcde2b9561d",
+    "name": "#2835",
+    "description": "4,000 tubby bears rawring on the blockchain.",
+    "image": "ipfs://QmepUHMTRx6Uzb3XvVnyTntsQdKRtQQYdUBiR55RpAMxTG/2835.png",
+    "edition": 2835,
+    "date": 1646033900828,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Base",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Special",
+        "value": "devil wings"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "bushy"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "hypnoteyes"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "meh"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "none"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "pink tropic"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "camo hat"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "crystal ball"
+      }
+    ],
+    "compiler": "TubbyBearsDeployer"
+  }
+}

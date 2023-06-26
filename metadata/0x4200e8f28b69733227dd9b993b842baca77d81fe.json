@@ -1,0 +1,25 @@
+{
+  "address": "0x4200e8f28b69733227dd9b993b842baca77d81fe",
+  "type": "ERC721",
+  "name": "Test lock 1 in DAI",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x4200e8f28b69733227dd9b993b842baca77d81fe/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x4200E8F28B69733227dD9B993B842BaCa77D81fe/icon?id=1",
+    "expiration": 1583103041,
+    "tokenId": "1",
+    "owner": "0xdb92c096bc5efa8adb48f05cd601dddb75228203",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1583103041
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x4200E8F28B69733227dD9B993B842BaCa77D81fe",
+    "network": 1
+  }
+}

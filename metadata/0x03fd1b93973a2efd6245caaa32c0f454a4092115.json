@@ -1,0 +1,23 @@
+{
+  "address": "0x03fd1b93973a2efd6245caaa32c0f454a4092115",
+  "type": "ERC721",
+  "name": ".Bonk Name Service",
+  "tokenCount": "6",
+  "uri": "https://bonk.id/metadata/bonk",
+  "metadata": {
+    "name": "bonk.bonk",
+    "image": "https://bonk.id/bonk_svg/bonk.svg",
+    "description": "bonk.bonk, a bonk name.",
+    "attributes": [
+      {
+        "trait_type": "Length",
+        "display_type": "string",
+        "value": "4"
+      }
+    ],
+    "name_length": 4,
+    "segment_length": 4,
+    "url": "https://bonk.id/name/bonk.bonk",
+    "version": 0
+  }
+}

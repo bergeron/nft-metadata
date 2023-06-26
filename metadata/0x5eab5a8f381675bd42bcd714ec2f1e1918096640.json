@@ -1,0 +1,36 @@
+{
+  "address": "0x5eab5a8f381675bd42bcd714ec2f1e1918096640",
+  "type": "ERC721",
+  "name": "Doodlenauts",
+  "tokenCount": "21",
+  "uri": "https://doodlenauts.io/nft/1.json",
+  "metadata": {
+    "edition": 1,
+    "description": "Doodlenauts are 3,333 provably rare, randomly generated NFT doodles hosted on the ETH Blockchain.",
+    "external_url": "https://doodlenauts.io",
+    "image": "https://seanpen.com/nft/1.png",
+    "name": "Doodlenaut #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Maroon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Reaper"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Black Horns"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Cowl"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Kaonashi"
+      }
+    ]
+  }
+}

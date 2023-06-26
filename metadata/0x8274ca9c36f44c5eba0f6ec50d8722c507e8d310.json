@@ -1,0 +1,33 @@
+{
+  "address": "0x8274ca9c36f44c5eba0f6ec50d8722c507e8d310",
+  "type": "ERC721",
+  "name": "Crimson Blooms by Mad Boogie",
+  "tokenCount": "32",
+  "uri": "https://chaincards-be.herokuapp.com/get-metaData/0x8274CA9C36F44c5ebA0f6EC50d8722c507E8d310/1",
+  "metadata": {
+    "name": "Crimson Blooms",
+    "description": "ChainCards reimagines greeting cards through NFT technology, offering limited edition, seasonally themed collections created by talented artists. Our platform supports artists in the digital economy and fosters connections across the globe. For the best viewing experience, explore your NFT cards at chaincards.io.",
+    "imageUrl": "https://chaincards-imgs.s3.us-west-2.amazonaws.com/ChainCards+-+Mad+Boogie+-+S1.jpg",
+    "animation_url": "https://chaincards-be.herokuapp.com/get-htmlContentForNft/0x8274CA9C36F44c5ebA0f6EC50d8722c507E8d310/1",
+    "tokenId": "1",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Mad Boogie"
+      },
+      {
+        "trait_type": "Edition size",
+        "value": 500
+      },
+      {
+        "trait_type": "Series",
+        "value": "Season 1"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Digital"
+      }
+    ],
+    "status": "purchased"
+  }
+}

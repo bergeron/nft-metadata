@@ -1,0 +1,64 @@
+{
+  "address": "0x278cb48c194448ec941fbee1a1f9fb18975d0e3d",
+  "type": "ERC721",
+  "name": "Creepto Kids",
+  "tokenCount": "10000",
+  "uri": "ipfs://bafybeihortcqhg6yhmrcsunai2kl7rpsagmyhr4segilpjxdg5rxx366cy/1.json",
+  "metadata": {
+    "name": "Creepto Kids #1",
+    "description": "Creepto kids is a collection of 10 000 unique characters, inspired by crypto meme culture. We are a community of degenerates punting around crypto and NFTs.",
+    "external_url": "https://creeptokids.wtf",
+    "image": "ipfs://bafybeicsdrye7ok5pi4mq7pvvjxwbl7q76h7ghdw2rfnao7n5y64jdynta/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Sad"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bra"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Cap Fud"
+      },
+      {
+        "trait_type": "Boys's first name",
+        "value": "Martin"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Creepto Kids",
+      "family": "Creepto Kids"
+    },
+    "symbol": ""
+  }
+}

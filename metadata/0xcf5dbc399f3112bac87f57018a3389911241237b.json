@@ -1,0 +1,23 @@
+{
+  "address": "0xcf5dbc399f3112bac87f57018a3389911241237b",
+  "type": "ERC1155",
+  "name": "PiProtocol",
+  "tokenCount": "2",
+  "uri": "https://storage.pi-marketplace.io/ipfs/circle/uri2/1",
+  "metadata": {
+    "name": "Pi Protocol - Small Circle",
+    "description": "pETH/PIP LP Collateral",
+    "image": "https://storage.pi-marketplace.io/ipfs/circle/scircle.mp4",
+    "external_url": "pi-protocol.io",
+    "attributes": [
+      {
+        "trait_type": "creator",
+        "value": "Pi-Protocol"
+      },
+      {
+        "trait_type": "Circle",
+        "value": "small"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0x62548788ebc169b209434003e906b520e4b779d5",
+  "type": "ERC721",
+  "name": "Som Tachs Beer Factory",
+  "tokenCount": "1000",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmUTHpB47iww6AdNQhv7bT2S7ehy9zcbwrsK7Ld1HfcEVg/1.json",
+  "metadata": {
+    "name": "Som Tachs Beer Factory #1",
+    "description": "description? lol, this is just a beer (or not)",
+    "image": "ipfs://QmSpknzn77egGkuQgya9P1qWr3SMyno9px7yo2TXYY1SAE/0001.png",
+    "attributes": [
+      {
+        "trait_type": "Brand",
+        "value": "Budweiser"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Tin"
+      },
+      {
+        "trait_type": "Contais",
+        "value": "Hop"
+      },
+      {
+        "trait_type": "Price",
+        "value": "$10"
+      }
+    ]
+  }
+}

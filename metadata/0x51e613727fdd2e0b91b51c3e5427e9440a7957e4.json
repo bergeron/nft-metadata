@@ -1,0 +1,20 @@
+{
+  "address": "0x51e613727fdd2e0b91b51c3e5427e9440a7957e4",
+  "type": "ERC1155",
+  "name": "Crypto Corgis",
+  "tokenCount": "10000",
+  "uri": "https://cryptocorgis.co/api/token-metadata/1",
+  "metadata": {
+    "name": "Corgi from Block #1",
+    "description": "100% Purebred Crypto Corgi.\n  Attributes derived from block number 1.\n  ",
+    "image": "https://img.cryptocorgis.co/corgi/1",
+    "external_url": "https://cryptocorgis.co/corgis/1",
+    "properties": {
+      "Base": "Basic Pink",
+      "Mood": "Content",
+      "Nose": "Brown",
+      "Tail": "Tan",
+      "Face": "Pink Sunglasses"
+    }
+  }
+}

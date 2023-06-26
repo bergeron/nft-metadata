@@ -1,0 +1,30 @@
+{
+  "address": "0xf239920774c02c10776a880a74b37393e92ae0e1",
+  "type": "ERC1155",
+  "name": "DAW Specials",
+  "tokenCount": "5",
+  "uri": "https://ipfs.io/ipfs/QmW7nMTBmZsXKvpT2rrAnf36UCmCmBpp4JT54mznYMCvy1/1.json",
+  "metadata": {
+    "description": "An official DAW artwork celebrating the first anniversary of Desperate ApeWives. Created by 0xMulan.eth. Twitter: @mulan_bean.",
+    "image": "https://ipfs.io/ipfs/QmPH3mMyRTfUZAA2mcVSoRxg8D9vhZcjfNFKRKEPazXDpU/1.png",
+    "name": "DAW 1 Year Anniversary",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "0xMulan.eth"
+      },
+      {
+        "trait_type": "Occasion",
+        "value": "DAW Anniversary"
+      },
+      {
+        "trait_type": "Anniversary",
+        "value": "First"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Community"
+      }
+    ]
+  }
+}

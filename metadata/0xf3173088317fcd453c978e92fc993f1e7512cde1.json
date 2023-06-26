@@ -1,0 +1,61 @@
+{
+  "address": "0xf3173088317fcd453c978e92fc993f1e7512cde1",
+  "type": "ERC721",
+  "name": "CPP-Baby V2",
+  "tokenCount": "3",
+  "uri": "https://ipfs.io/ipfs/QmWdk7uyocxd33Lm1FHtAmwzGzteH9WjMW2MeRN6XBpPb3",
+  "metadata": {
+    "description": "He loves hot coffee. That's why he decided to wear it. However, he also suffers from iced coffee, depending on the temperature.",
+    "name": "CPP-Baby #006",
+    "image": "https://miuradonuts.com/CPP-Baby/6.gif",
+    "attributes": [
+      {
+        "trait_type": "COVERERD-FACE",
+        "value": "ICE COFFEE"
+      },
+      {
+        "value": "CPP HOT COFFEE"
+      },
+      {
+        "trait_type": "OCCUPATION1",
+        "value": "Office worker"
+      },
+      {
+        "trait_type": "OCCUPATION2",
+        "value": "With screw-twist donut"
+      },
+      {
+        "trait_type": "Favourite food",
+        "value": "Boiled Egg"
+      },
+      {
+        "trait_type": "Favourite Phrase",
+        "value": "Good Morning!"
+      },
+      {
+        "trait_type": "Favorite pastimes",
+        "value": "Read Newspapers"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Activity",
+        "value": 10
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Growth Potency",
+        "value": 65
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Stability",
+        "value": 45
+      },
+      {
+        "display_type": "date",
+        "trait_type": "転生日",
+        "value": 1666705500
+      }
+    ]
+  }
+}

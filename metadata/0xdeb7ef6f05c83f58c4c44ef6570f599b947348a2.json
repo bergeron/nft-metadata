@@ -1,0 +1,34 @@
+{
+  "address": "0xdeb7ef6f05c83f58c4c44ef6570f599b947348a2",
+  "type": "ERC721",
+  "name": "Genesis Ball Beta",
+  "tokenCount": "16",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmNRMeXnybmHyhT4ScViqxVev7usCz6HZvbXEyzRYhB3n9/1",
+  "metadata": {
+    "dna": "a191b9a233a14b107ce56aea35fa04bb4588420c",
+    "name": "#1",
+    "description": "Genesis Bouncing Ball",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZm1JSTaEyoT6AmMkLpithdaervVLWo17agzab7N5daQz/1.gif",
+    "edition": 1,
+    "date": 1648776678013,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Landscape",
+        "value": "Red Tower"
+      },
+      {
+        "trait_type": "Ball",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Top Hat"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "address": "0x8fa935379d984eb8a84681f735b08b304e2a0c7e",
+  "type": "ERC721",
+  "name": "Little Bento",
+  "tokenCount": "50",
+  "uri": "https://gateway.ipfs.io/ipfs/QmeupheZMCZSGLe4X9nNWcxQaedWTUjkZ2bznc94BUhzc5/1.json",
+  "metadata": {
+    "name": "1",
+    "description": "8888 uniquely generated bento boxes",
+    "image": "https://gateway.ipfs.io/ipfs/QmPRijfksDUDDYjmRsrp27fTpyvcVH3iagmfeRCvUuvjp3",
+    "external_url": "https://www.nepenthes.xyz/bento/1",
+    "small_image_url": "https://gateway.ipfs.io/ipfs/QmVQTVA1BWMK5jhG2uc8VXsLY2iftW2f7yQtqUQmKWhhd6",
+    "edition": 1,
+    "date": 1637530581446,
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Partitions",
+        "value": 4,
+        "name": "parts"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Inside",
+        "value": 0,
+        "name": "in-forest"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Partition1",
+        "value": 0,
+        "name": "sakana-cooked"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Partition2",
+        "value": 0,
+        "name": "veg-mix"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Partition3",
+        "value": 0,
+        "name": "sandwich"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Partition4",
+        "value": 0,
+        "name": "veg-tomatoes"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Box",
+        "value": 0,
+        "name": "ash"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Rarity Score",
+        "value": 0,
+        "name": "0"
+      }
+    ],
+    "seller_fee_basis_points": 800,
+    "fee_recipient": "0x9F6246dF82350631Dd2a8ebeFD162a428fbde55F"
+  }
+}

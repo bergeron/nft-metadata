@@ -1,0 +1,46 @@
+{
+  "address": "0x7daed43f91fb70be08ff3796b5b1fee50039e033",
+  "type": "ERC721",
+  "name": "staples_sc",
+  "tokenCount": "1",
+  "uri": "ipfs://QmVyi6HKpxsy7QqKGbSXemZU38oTtrgvJgguhTNPfVwQZE/1.json",
+  "metadata": {
+    "name": "Saul Goodman #1",
+    "description": "It's all good, man.",
+    "image": "ipfs://QmSULPTzpdSvQYZPK1CuK94aka1YgGQnpCqe694dsC5f6t/1.png",
+    "dna": "fa3d4d4d1d872f36584f3c49155f5773a092db09",
+    "edition": 1,
+    "date": 1647943769908,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tint7"
+      },
+      {
+        "trait_type": "Circle",
+        "value": "darkPurple"
+      },
+      {
+        "trait_type": "Polygon",
+        "value": "darkGreen"
+      },
+      {
+        "trait_type": "Rhombus",
+        "value": "darkRed"
+      },
+      {
+        "trait_type": "Square",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Star",
+        "value": "lightPurple"
+      },
+      {
+        "trait_type": "Stick",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

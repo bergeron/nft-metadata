@@ -1,0 +1,43 @@
+{
+  "address": "0x5fb784ed9d2e5b2eca16cb8f467e03a8b7ea22cd",
+  "type": "ERC1155",
+  "name": "Den - Lair Ownership",
+  "tokenCount": "152",
+  "uri": "https://api.den.social/api/v1/lairs/lot/1",
+  "metadata": {
+    "name": "DragonchainEmployees",
+    "description": "",
+    "external_url": "https://den.social/l/DragonchainEmployees",
+    "image": "https://media-den.dragonchain.com/lair/lot-image/40782eda43394e7b84a5b6d055a0cc52",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "B2B"
+      },
+      {
+        "trait_type": "Access",
+        "value": "Permissioned"
+      },
+      {
+        "trait_type": "Lair Created",
+        "display_type": "date",
+        "value": 1574472424
+      },
+      {
+        "trait_type": "Avg MTR Mined Daily",
+        "display_type": "string",
+        "value": "0.000000"
+      },
+      {
+        "trait_type": "Subscribers",
+        "display_type": "string",
+        "value": "7"
+      },
+      {
+        "trait_type": "LOT Supply",
+        "display_type": "string",
+        "value": "7"
+      }
+    ]
+  }
+}

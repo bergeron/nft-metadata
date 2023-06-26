@@ -1,0 +1,40 @@
+{
+  "address": "0x2153572802f6bbe6a44a39d565e1715c60a85dd4",
+  "type": "ERC721",
+  "name": "Cosmopets",
+  "tokenCount": "5718",
+  "uri": "https://cosmopet.s3.eu-west-3.amazonaws.com/json/1",
+  "metadata": {
+    "dna": "1761217",
+    "name": "Cosmopet #1",
+    "description": "Cosmopets are the companions of cosmodinos. There are different types of pets, each with their own abilities, that are very useful for Cosmodinos. Over 300 traits are available for 11 types of cosmopets.",
+    "image": "https://cosmopet.s3.eu-west-3.amazonaws.com/reveal/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Dinobot Yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Dinobot Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Three Eyes Line Empty Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Wavy Vampire"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Dinobot"
+      }
+    ]
+  }
+}

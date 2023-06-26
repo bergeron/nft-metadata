@@ -1,0 +1,85 @@
+{
+  "address": "0x5bf33f2f12289654720964b2b63412a2e112da62",
+  "type": "ERC721",
+  "name": "Future Citizens of the Universe",
+  "tokenCount": "100",
+  "uri": "ipfs://QmeK7mQHgoGFsmkr1dHPXNSZ67CRQht7Cfz475yoF7UMVX/1",
+  "metadata": {
+    "name": "Future Citizen #1",
+    "image": "ipfs://QmSbJZtxH8AjXmiVaVRUFj56YZG5DczAg7YTTNQ5VJnp5s/1.png",
+    "attributes": [
+      {
+        "trait_type": "Generation",
+        "value": "1st Generation"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Human"
+      },
+      {
+        "trait_type": "Species Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Biological Sex",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Age",
+        "value": "51 to 100 years"
+      },
+      {
+        "trait_type": "Origin Galaxy",
+        "value": "Milky Way"
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 12,
+        "min_value": 1,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Emotional Intelligence",
+        "value": 14,
+        "min_value": 1,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Knowledge",
+        "value": 13,
+        "min_value": 1,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Physical Strength",
+        "value": 11,
+        "min_value": 1,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Agility",
+        "value": 10,
+        "min_value": 1,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Speed",
+        "value": 11,
+        "min_value": 1,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Wealth",
+        "value": 10,
+        "min_value": 1,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Power",
+        "value": 10,
+        "min_value": 1,
+        "max_value": 100
+      }
+    ]
+  }
+}

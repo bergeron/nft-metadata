@@ -1,0 +1,22 @@
+{
+  "address": "0x96136f0ffd9c91113b805653298711700c210c6b",
+  "type": "ERC721",
+  "name": "Rare Gabes",
+  "tokenCount": "100",
+  "uri": "ipfs://QmT3Wb6i5xzkUcFaiYWE7AeTPwJ29uPYRiSYHMG3SSZ7ck/1.json",
+  "metadata": {
+    "name": "Rare Gabe #1",
+    "description": "The ultimate homage to Gabriel Leydon. 100 unique Rare Gabes.",
+    "image": "ipfs://QmWgSLfDQYo9QDVbzqAJM3dPU6SLiq12fPmPeERBfvXw2g/1.jpg",
+    "dna": "8145ef8ef6bc7ce829f05ee40e91814f1cca7f52",
+    "edition": 1,
+    "date": 1660608873294,
+    "attributes": [
+      {
+        "trait_type": "Gabe",
+        "value": "Afghan Gabe"
+      }
+    ],
+    "compiler": "OMS"
+  }
+}

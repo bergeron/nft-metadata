@@ -1,0 +1,45 @@
+{
+  "address": "0x0069d698371f31df60ecfc3473cc6cf4c0bf96ce",
+  "type": "ERC1155",
+  "name": "Unikase",
+  "tokenCount": "2",
+  "uri": "https://unikase-api.kathdata.com/Files/202210/40992b39-9c2d-462f-896a-338437b9442emetadata.json",
+  "metadata": {
+    "name": "Kasedata Logo",
+    "description": "Kasedata is a company dedicated to developing data security and smart contracts. We focus on every development and possibility of the trend in decentralizaion. In 2022, the start year of Metaverse, we have launched our owned exchange platform. Moreover, we also provide one-stop service to fulfill our customers' NFT demands.",
+    "image": "https://unikase-api.kathdata.com/Images/202210/de261ef3-c4c5-4b4a-98fb-7b92dee0e88c.png",
+    "external_url": "http://kasedata.com/index.html",
+    "attributes": [
+      {
+        "key": "MintType",
+        "trait_type": "MintType",
+        "value": "防偽標籤"
+      },
+      {
+        "key": "Amount",
+        "trait_type": "Amount",
+        "value": 1
+      },
+      {
+        "key": "Publisher",
+        "trait_type": "Publisher:1",
+        "value": "凱思數據科技有限公司"
+      },
+      {
+        "key": "Certified",
+        "trait_type": "Certified",
+        "value": false
+      },
+      {
+        "key": "MintChain",
+        "trait_type": "MintChain",
+        "value": "ETH Chain"
+      },
+      {
+        "key": "MintTime",
+        "trait_type": "MintTime",
+        "value": 1664635461626
+      }
+    ]
+  }
+}

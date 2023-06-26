@@ -1,0 +1,35 @@
+{
+  "address": "0x50882eda5eae39f6cb877e04c60d741e9d8ab44a",
+  "type": "ERC721",
+  "name": "BNBPotRoulette",
+  "tokenCount": "6",
+  "uri": "https://bafybeiglhyxoaal5vgvdjcywfmurcwz6wxkn7443q5eim3mlzranngd53e.ipfs.nftstorage.link/bnb.json",
+  "metadata": {
+    "description": "BNB Roulette on Binance Smart Chain.",
+    "image": "https://bafybeibp3eb6k4czilwl23v6spmjq5ufh7e75vrjgcatv5esvay27uv5hq.ipfs.nftstorage.link/bnb-roulette.jpg",
+    "name": "BNB Roulette",
+    "external_url": "https://pulsepot.io/",
+    "attributes": [
+      {
+        "trait_type": "Token",
+        "value": "BNB"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Binance Smart Chain"
+      },
+      {
+        "trait_type": "Max Bet",
+        "value": "25000$"
+      },
+      {
+        "trait_type": "Fee",
+        "value": "3%"
+      },
+      {
+        "trait_type": "Style",
+        "value": "European"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "address": "0x5c111745e05bc630ced89a63aa74254c3dcde12a",
+  "type": "ERC721",
+  "name": "1st Edition Pop Pixters",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeifa3owscgdej4pivryqyktclwgbxp6ddpqa675banwjzwd2adgs3q/1.json",
+  "metadata": {
+    "name": "1st Edition Poypoy #282",
+    "description": "Pop Pixters: Trading & colectable monsters",
+    "image": "ipfs://bafybeihj3mx5gxgbe6f3ecz5shm2nfwc3kfdyafgxptyozowwcq4eifdaq/1.png",
+    "attributes": [
+      {
+        "trait_type": "Power",
+        "value": 120
+      },
+      {
+        "trait_type": "Speed",
+        "value": 130
+      },
+      {
+        "trait_type": "Dextery",
+        "value": 70
+      },
+      {
+        "trait_type": "Defense",
+        "value": 110
+      },
+      {
+        "trait_type": "Body",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Spear"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Rabbit Ears"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Angel Wings"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue"
+      }
+    ],
+    "custom_fields": {
+      "dna": "aa22b6615e3563ab1e46fed1b8fd15db2c429d16",
+      "edition": 282,
+      "date": 1663603318546,
+      "compiler": "HashLips Art Engine"
+    }
+  }
+}

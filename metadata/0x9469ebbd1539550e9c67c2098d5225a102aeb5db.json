@@ -1,0 +1,38 @@
+{
+  "address": "0x9469ebbd1539550e9c67c2098d5225a102aeb5db",
+  "type": "ERC721",
+  "name": "Piandex",
+  "tokenCount": "84",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=kuUpQYSwyXNnBCRq90he",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1577556172978?alt=media&token=75739e06-cd63-4ea7-8cce-ee24dcbc9d46",
+    "isForSale": true,
+    "contractAddress": "0x9469ebbd1539550e9c67c2098d5225a102aeb5db",
+    "description": "VoxelArt Original Character - Mr. Bits",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x9469ebbd1539550e9c67c2098d5225a102aeb5db/kuUpQYSwyXNnBCRq90he",
+    "minter": "0x4f31bfdee182626076e98a2aa6cbef2d490bda4c",
+    "mintedOn": {
+      "_seconds": 1577556234,
+      "_nanoseconds": 913000000
+    },
+    "price": "0.005",
+    "name": "Mr. Bits",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Mr. Bits"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

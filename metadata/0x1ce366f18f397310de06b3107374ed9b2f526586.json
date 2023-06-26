@@ -1,0 +1,54 @@
+{
+  "address": "0x1ce366f18f397310de06b3107374ed9b2f526586",
+  "type": "ERC721",
+  "name": "The Creepy Guys",
+  "tokenCount": "5555",
+  "uri": "ipfs://QmXhdrDPqBjK8VkDw3AaGaG8Rxe1LqHJ5Mn3L3opDwBioK/1.json",
+  "metadata": {
+    "name": "Creepy Guys #1",
+    "description": "The Creepy Guys live on a dark and small planet, with different colors of aura. The color of their aura represents their creepiness. As their creepiness increase, they will be promoted into higher tiers, and receive rarer traits.",
+    "image": "ipfs://QmakSjUcrwzJjJwx43ernNDHo8cqAJyfkBHSA8h6m1TnRm/1.png",
+    "dna": "9eb00696ced3903137a03d5303e13574c1ca8ecd",
+    "edition": 1,
+    "date": 1651645615340,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Tier 7"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Creepy Guy"
+      },
+      {
+        "trait_type": "Tattoo",
+        "value": "Jungle White 2"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Bear"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Hook"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tongue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Rectangular"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bull"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

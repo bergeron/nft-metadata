@@ -1,0 +1,135 @@
+{
+  "address": "0x6023da5c4ed130e73cd816ec931b562db2c346bb",
+  "type": "ERC721",
+  "name": "Game Disease",
+  "tokenCount": "7638",
+  "uri": "https://diseaseds.s3.amazonaws.com/graveyard/1",
+  "metadata": {
+    "hash": "f757304ac773c504365efb12fc1b5555eea8590538eb8177f02047ff2cc22576",
+    "name": "GD #1",
+    "description": "A collector, hoarder of various resentful memories that blow up periodically in sudden rapts of innocuous rage. Owner of a profound stupidity obvious to anyone but himself. Surely, his celibacy and his living with his mother are choices, he’s got the money to do anything he wants. But, what does he want? ",
+    "image": "ipfs://QmbzTxmihFqJ6bjmB6qRJTwxWPcM8EMWrZeDTEV6ozEgmo",
+    "attributes": [
+      {
+        "trait_type": "NAME",
+        "value": "Phil"
+      },
+      {
+        "trait_type": "TYPE",
+        "value": "Diseased"
+      },
+      {
+        "trait_type": "SKIN",
+        "value": "Tattoed"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "CHAIN",
+        "value": "Hound "
+      },
+      {
+        "trait_type": "HEADWEAR",
+        "value": "Devil Horns"
+      },
+      {
+        "trait_type": "EYEWEAR ",
+        "value": "Hippie"
+      },
+      {
+        "trait_type": "NOSE ",
+        "value": "Clown"
+      },
+      {
+        "display_type": "boost_percentage",
+        "value": 42,
+        "trait_type": "TRASHER"
+      },
+      {
+        "display_type": "boost_percentage",
+        "value": 35,
+        "trait_type": "STONER"
+      },
+      {
+        "display_type": "boost_percentage",
+        "value": 26,
+        "trait_type": "PARTY LOVER"
+      },
+      {
+        "display_type": "boost_percentage",
+        "value": 20,
+        "trait_type": "NAUGHTY"
+      },
+      {
+        "display_type": "boost_percentage",
+        "value": 14,
+        "trait_type": "PARTY LORD"
+      },
+      {
+        "trait_type": "SAVVINESS",
+        "value": 3,
+        "max_value": 10
+      },
+      {
+        "trait_type": "FEROCITY",
+        "value": 1,
+        "max_value": 10
+      },
+      {
+        "trait_type": "CHARM",
+        "value": 7,
+        "max_value": 10
+      },
+      {
+        "trait_type": "DEGENERACY",
+        "value": 9,
+        "max_value": 10
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Birthday",
+        "value": 618983749098
+      }
+    ],
+    "external_url": "https://thegamedisease.com/sickos/1",
+    "gamedisease": {
+      "characterName": "PHIL",
+      "traits": {
+        "BACK": {
+          "name": "VIOLET",
+          "id": "204"
+        },
+        "SKIN": {
+          "name": "DARK",
+          "id": "2"
+        },
+        "MAKEUP": {
+          "name": "TATTOOED A (BP)",
+          "id": "8"
+        },
+        "EYES": {
+          "name": "BROWN",
+          "id": "11"
+        },
+        "CHAIN": {
+          "name": "DOG SILVER",
+          "id": "27"
+        },
+        "HEAD": {
+          "name": "DEMON HEADBAND GOLD",
+          "id": "68"
+        },
+        "EYES WEARABLES": {
+          "name": "HIPPIE GLASSES SILVER",
+          "id": "113"
+        },
+        "NOSE": {
+          "name": "CLOWN BLUE",
+          "id": "128"
+        }
+      }
+    }
+  }
+}

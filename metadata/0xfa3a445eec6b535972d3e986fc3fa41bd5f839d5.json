@@ -1,0 +1,50 @@
+{
+  "address": "0xfa3a445eec6b535972d3e986fc3fa41bd5f839d5",
+  "type": "ERC1155",
+  "name": "Clod 255 - First expansion - Mystery Pack",
+  "tokenCount": "86",
+  "uri": "ipfs://Qmb58Bqcot26NJEoCwYyZ1cvEbEfU2eTEh94DUQwop2PUF/1/token.json",
+  "metadata": {
+    "name": "The sky",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/image/upload/w_1200/v1677710217/0x36bd6221c2016371c3af00071726578b91acb007/63ff9f46847adb4af698952f/stateCovers/s9bcsgck112h7y3shftl.jpg",
+    "description": "The sky\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "fabiano speziari"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "Clod 255 - First expansion - Mystery Pack"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0x36bd6221c2016371c3af00071726578b91acb007"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Outside",
+              "state": {
+                "label": "The sky",
+                "uri": "QmThWp8rnjQwcbpR2sjc7ZU4rekT9qE5TG5aF7h5DhhXFA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

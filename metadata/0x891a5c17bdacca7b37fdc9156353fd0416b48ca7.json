@@ -1,0 +1,22 @@
+{
+  "address": "0x891a5c17bdacca7b37fdc9156353fd0416b48ca7",
+  "type": "ERC721",
+  "name": "Masters of Exodia",
+  "tokenCount": "5",
+  "uri": "https://www.artamei.com/api/xodia/1",
+  "metadata": {
+    "name": "Red Wolf",
+    "image": "https://res.cloudinary.com/djz50upgs/image/upload/v1682994690/sdsds_hxaldn_jcp9cc.jpg",
+    "description": "1/1 Red Wolf",
+    "attributes": [
+      {
+        "trait_type": "Master",
+        "value": "Red Wolf"
+      },
+      {
+        "trait_type": "Soulbound",
+        "value": "True"
+      }
+    ]
+  }
+}

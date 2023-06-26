@@ -1,0 +1,12 @@
+{
+  "address": "0x6b4ee2abd800775c70e59a385824fcf8dca0cbf3",
+  "type": "ERC721",
+  "name": "Web3Pic",
+  "tokenCount": "5",
+  "uri": "data:application/json;base64,eyJuYW1lIiA6ICJXM1AgMSIsImRlc2NyaXB0aW9uIiA6ICJUaGlzIGlzIGEgV2ViMyBQaWN0dXJlIHRva2VuLCBpdCBjYW4gYmUgdXNlZCB0byByZXByZXNlbnQgYSB3YWxsZXQgYWRkcmVzcyBpbiBEQXBwcyBhZnRlciBsb2dpbiwgZWFjaCB3YWxsZXQgYWRkcmVzcyBjYW4gb3duIG9uZSBvciBtb3JlIFdlYjNQaWMgYnV0IGFzc2lnbiBvbmx5IG9uZSB0byBiZSBwcmltYXJ5LCB0aGUgcHJpbWFyeSBwaWN0dXJlIHdpbGwgYmUgc2hvd24gYXMgdGhlIHdhbGxldCBhZGRyZXNzIHBpY3R1cmUuIiwgImltYWdlIjogImlwZnM6Ly9pcGZzL1FtUlFMUW5wZ0NKTER0S3NEQnZtN1hjM0M4bk5jd1NIZm53REMxQlBHcTRYYnYifQ==",
+  "metadata": {
+    "name": "W3P 1",
+    "description": "This is a Web3 Picture token, it can be used to represent a wallet address in DApps after login, each wallet address can own one or more Web3Pic but assign only one to be primary, the primary picture will be shown as the wallet address picture.",
+    "image": "ipfs://ipfs/QmRQLQnpgCJLDtKsDBvm7Xc3C8nNcwSHfnwDC1BPGq4Xbv"
+  }
+}

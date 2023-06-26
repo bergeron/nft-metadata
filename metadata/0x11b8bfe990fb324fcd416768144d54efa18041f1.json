@@ -1,0 +1,23 @@
+{
+  "address": "0x11b8bfe990fb324fcd416768144d54efa18041f1",
+  "type": "ERC721",
+  "name": "PuppetParts",
+  "tokenCount": "192",
+  "uri": "ipfs://QmW51XwcgL11vcYcZWRiFToY8HyXzn9afnT3TwEqPUMwCN/1",
+  "metadata": {
+    "name": "PuppetParts #1",
+    "description": "Parts to assemble PuppetStars",
+    "image": "ipfs://QmY8dcM9EvcEK9YiWCn9wFu2eWUpLCo2kicYw2HcYQZeAN/Background/Ivory.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Parts"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Ivory"
+      }
+    ]
+  }
+}

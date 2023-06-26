@@ -1,0 +1,40 @@
+{
+  "address": "0x7345eeaf91ed20a819257a48fe7627946ff92ffe",
+  "type": "ERC721",
+  "name": "SATSY",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/22RbLA30M-qAbnAjyhYpF_XIlzDFOTbcT0hsYd_iT4M",
+  "metadata": {
+    "created_by": "satsy",
+    "name": "lights",
+    "description": "open editions - lights by satsy",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "satsy"
+      }
+    ],
+    "animation_details": {
+      "bytes": 549531,
+      "format": "MP4",
+      "duration": 4,
+      "sha256": "ddd6424f5f809a688d8898f63eb4450eeaf3116ead304c283626c7de51663cf4",
+      "width": 1556,
+      "height": 1080,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/eF_ZFSQshjief-VEAII5IZraCfhp_Ry5KzKO03Ja2Yk",
+    "animation_url": "https://arweave.net/eF_ZFSQshjief-VEAII5IZraCfhp_Ry5KzKO03Ja2Yk",
+    "image_details": {
+      "bytes": 1172825,
+      "format": "PNG",
+      "sha256": "9c8e5f6ba69ca197cc371f277639777a7a1c79527ffba982bf72ad1addf6c94b",
+      "width": 1556,
+      "height": 1080
+    },
+    "image": "https://arweave.net/yK4TFLgATdcP0CHhEpGKncfyerA1qE8gMhYgwd7h2uM",
+    "image_url": "https://arweave.net/yK4TFLgATdcP0CHhEpGKncfyerA1qE8gMhYgwd7h2uM"
+  }
+}

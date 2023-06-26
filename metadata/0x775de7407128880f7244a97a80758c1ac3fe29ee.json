@@ -1,0 +1,60 @@
+{
+  "address": "0x775de7407128880f7244a97a80758c1ac3fe29ee",
+  "type": "ERC721",
+  "name": "DotPepes",
+  "tokenCount": "900",
+  "uri": "ipfs://QmTcwUFVVwDytVoFcpsKE7vTDocixQXPgtH3dSa28Viwrz/1",
+  "metadata": {
+    "name": "DotPepe #855",
+    "description": "929 animated NFTs crafted with great attention to detail, utilizing a 2-dimensional patterned array known as a Dot Matrix, to represent Pepe in all his glory.",
+    "image": "ipfs://QmfUf8YfXWacn9Yt3VXDQTHqZgcrxAuAoVCbXG8riqZSEE/1.gif",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://nftstorage.link/ipfs/bafybeieg37duf3zyrvqcy4mgrd2x7wwaqgzakl2vqqmsaaodo6h246khuu/855.gif",
+          "type": "gif/gif"
+        }
+      ],
+      "category": "gif",
+      "creators": [
+        {
+          "address": "0xED50cf05E4CcBe556De31d2d5ecb38fCF7455E6A",
+          "share": "100"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "species",
+        "value": "DotPepe"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Cat"
+      },
+      {
+        "trait_type": "outfit",
+        "value": "Nude"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "background",
+        "value": "Rainbow"
+      }
+    ],
+    "symbol": "SDOTPP",
+    "seller_fee_basis_points": "500",
+    "collection": {
+      "name": "DotPepes",
+      "family": "Pepology"
+    }
+  }
+}

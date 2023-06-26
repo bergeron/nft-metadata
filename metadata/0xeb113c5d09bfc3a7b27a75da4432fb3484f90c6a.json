@@ -1,0 +1,114 @@
+{
+  "address": "0xeb113c5d09bfc3a7b27a75da4432fb3484f90c6a",
+  "type": "ERC721",
+  "name": "Kinesis Art",
+  "tokenCount": "5164",
+  "uri": "https://kinesis.art/api/metadata/1",
+  "metadata": {
+    "animation_url": "https://kinesis.art/api/generator/1",
+    "artist": "Grant Oesterling",
+    "aspect ratio (w/h)": "1",
+    "collection_name": "Atlanta by Grant Oesterling",
+    "description": "Atlanta is the genesis mint of the Kinesis Art Collective. A mesmerizing study in phasing in the 2D plane, Atlanta contains moments of profound synchronicity that emerge out of a seemingly jumbled chaos. As shapes align, the viewer is invited to reflect upon moments of alignment and seeming chance in their own life. It is recommended to view each piece for at least 45 seconds to allow deeper, more satisfying patterns to emerge.",
+    "features": {
+      "Color Scheme": "Fire and Ice",
+      "Direction": "Forwards",
+      "Glass Panel": "False",
+      "Halo": "False",
+      "Number of Sets": 2,
+      "Pattern Type": "Three-Petalled Rose",
+      "Points per Set": "Solid Amount",
+      "Polar Rotation": "False",
+      "Pulsating": "False",
+      "Rainbow": "False",
+      "Recentering": "False",
+      "Shape": "Circle",
+      "Shape Size": "TOO Big, Sizeable even",
+      "Speed": "Pretty Quick",
+      "Thickness": "Average"
+    },
+    "image": "https://kinesis.art/api/image/1",
+    "license": "NFT License",
+    "name": "Atlanta #1",
+    "payout_address": "0x20a61252cf47cc71afea0728d139fd490e812fa2",
+    "platform": "KINESIS",
+    "royaltyInfo": {
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": 0,
+      "artistAddress": "0x20A61252CF47Cc71aFEa0728D139Fd490e812Fa2",
+      "royaltyFeeByID": 0
+    },
+    "script type": "p5js",
+    "series": "0",
+    "tokenID": "1",
+    "token_hash": "0x93211b01f067837574fd35360eee14b1b5631cee87e2abc1511b955b2e85b637",
+    "traits": [
+      {
+        "trait_type": "Atlanta",
+        "value": "Halo: False"
+      },
+      {
+        "trait_type": "Atlanta",
+        "value": "Color Scheme: Fire and Ice"
+      },
+      {
+        "trait_type": "Atlanta",
+        "value": "Rainbow: False"
+      },
+      {
+        "trait_type": "Atlanta",
+        "value": "Pattern Type: Three-Petalled Rose"
+      },
+      {
+        "trait_type": "Atlanta",
+        "value": "Shape: Circle"
+      },
+      {
+        "trait_type": "Atlanta",
+        "value": "Shape Size: TOO Big, Sizeable even"
+      },
+      {
+        "trait_type": "Atlanta",
+        "value": "Points per Set: Solid Amount"
+      },
+      {
+        "trait_type": "Atlanta",
+        "value": "Thickness: Average"
+      },
+      {
+        "trait_type": "Atlanta",
+        "value": "Direction: Forwards"
+      },
+      {
+        "trait_type": "Atlanta",
+        "value": "Speed: Pretty Quick"
+      },
+      {
+        "trait_type": "Atlanta",
+        "value": "Pulsating: False"
+      },
+      {
+        "trait_type": "Atlanta",
+        "value": "Number of Sets: 2"
+      },
+      {
+        "trait_type": "Atlanta",
+        "value": "Glass Panel: False"
+      },
+      {
+        "trait_type": "Atlanta",
+        "value": "Polar Rotation: False"
+      },
+      {
+        "trait_type": "Atlanta",
+        "value": "Recentering: False"
+      },
+      {
+        "trait_type": "Atlanta",
+        "value": "All Atlantas"
+      }
+    ],
+    "uses hash": true,
+    "website": "https://grantoesterling.com/art/atlanta"
+  }
+}

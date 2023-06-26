@@ -1,0 +1,61 @@
+{
+  "address": "0x7da3dcc2c5464264ca6d138a8c40e95ef12d4148",
+  "type": "ERC721",
+  "name": "mfer starter Pack",
+  "tokenCount": "58",
+  "uri": "ipfs://QmYPoDDxR1BV5Ykw3E24bx6DdESJMv8MktTPBpZfx2AM9t/1.json",
+  "metadata": {
+    "name": "mfer loot #1",
+    "description": "Lost mfer loot stored on the etherium blockchain that can only be claimed by a mfer token holder",
+    "external_url": "https://manic.art",
+    "image": "ipfs://QmR5wd2zz3RfMjaY2HBqrzELoPoJovkqMrN5C8c7pcEYLa/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Computer",
+        "value": "Asus"
+      },
+      {
+        "trait_type": "Laptop",
+        "value": "Gigabyte"
+      },
+      {
+        "trait_type": "Effort",
+        "value": 95
+      },
+      {
+        "trait_type": "GM Cup",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "4:20 Watch",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Headphones",
+        "value": "Black"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        "Manic Distopia"
+      ]
+    },
+    "compiler": "https://manic.art",
+    "collection": {
+      "name": "mfer starter Pack",
+      "family": "mfer starter Pack"
+    },
+    "symbol": ""
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "address": "0xeb08d6fabbdbfa4633891b28c0ce780ba8c39a65",
+  "type": "ERC721",
+  "name": "Collect NFT Art",
+  "tokenCount": "14",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=pGiceo2pvTdPJJaLDu4j",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1587133904493?alt=media&token=989e7138-3b29-492e-b8ef-f60751d5d19c",
+    "forSale": true,
+    "contractAddress": "0xeb08d6fabbdbfa4633891b28c0ce780ba8c39a65",
+    "description": "Infection is a current state of mind in a world of anxiety and fear of a new normal.",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1587134108,
+      "_nanoseconds": 142000000
+    },
+    "price": ".25",
+    "name": "Infection",
+    "fiatPrice": "$42.73",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": ""
+      },
+      {
+        "trait_type": "location",
+        "value": "United States"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw"
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0xeb08d6fabbdbfa4633891b28c0ce780ba8c39a65",
+    "type": "ERC721"
+  }
+}

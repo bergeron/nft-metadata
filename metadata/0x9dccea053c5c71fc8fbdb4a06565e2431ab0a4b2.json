@@ -1,0 +1,31 @@
+{
+  "address": "0x9dccea053c5c71fc8fbdb4a06565e2431ab0a4b2",
+  "type": "ERC721",
+  "name": "Rubik NFT",
+  "tokenCount": "666",
+  "uri": "ipfs://QmS6rqMnfdPck4V7o3WJydVWBGM5RfJzPHG3mN9DvfXxTP/1.json",
+  "metadata": {
+    "name": "Rubik's NFT #1",
+    "description": "Rubik's NFT is an interactive game in a form of an NFT. Play and try to solve your unique cube in a 3D environment.",
+    "image": "https://ipfs.io/ipfs/QmR2Q9iAcR2WyfDKsvCUmYck48nXvA5jVbceWgrwoAHmXz/1.png",
+    "attributes": [
+      {
+        "trait_type": "Size",
+        "value": "3"
+      },
+      {
+        "trait_type": "Theme",
+        "value": "10"
+      },
+      {
+        "trait_type": "Flip",
+        "value": "Bounce"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Mint"
+      }
+    ],
+    "animation_url": "https://ipfs.io/ipfs/QmZn4tV8HPBg4iht1jGeYkUqraw3biSuakvhZofzKnrZ6X/1.html"
+  }
+}

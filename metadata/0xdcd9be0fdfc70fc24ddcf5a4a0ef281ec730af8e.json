@@ -1,0 +1,50 @@
+{
+  "address": "0xdcd9be0fdfc70fc24ddcf5a4a0ef281ec730af8e",
+  "type": "ERC721",
+  "name": "THE TOKS",
+  "tokenCount": "10000",
+  "uri": "http://meta.toksnft.com/1",
+  "metadata": {
+    "name": "Toks #1",
+    "description": "Horsehead Nebula Project",
+    "image": "ipfs://QmV78r14cBVFpQgkfLKxdfcQHbHb5omtLbUXHKLw1Aw41D",
+    "dna": "b7eafc698cd686861f71604ab2f641bf175e9cd2",
+    "edition": 1,
+    "date": 1645251298707,
+    "attributes": [
+      {
+        "trait_type": "AURAS",
+        "value": "CLINOHUMITE"
+      },
+      {
+        "trait_type": "CONSTELLATION",
+        "value": "LYRA"
+      },
+      {
+        "trait_type": "5OCLOCK",
+        "value": "BLACK STUBBLE"
+      },
+      {
+        "trait_type": "TASTER",
+        "value": "SMASH SMILE"
+      },
+      {
+        "trait_type": "SOUNDERS",
+        "value": "HOOP"
+      },
+      {
+        "trait_type": "SIGHTER",
+        "value": "POLYYPHEMUS"
+      },
+      {
+        "trait_type": "DISGUISE",
+        "value": "SAFETY VEST"
+      },
+      {
+        "trait_type": "NOGGIN",
+        "value": "BEDHEAD"
+      }
+    ],
+    "compiler": "Horsehead Biz Compiler"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "address": "0x8cb32be20b8c5d04efd978f6b2b808b3b7b2b19b",
+  "type": "ERC721",
+  "name": "EarlyBroadcasterComics",
+  "tokenCount": "555",
+  "uri": "https://bcsnft.s3.us-east-2.amazonaws.com/comics-meta/1",
+  "metadata": {
+    "name": "Early Broadcaster Comics #1",
+    "image": "https://bcsnft.s3.us-east-2.amazonaws.com/comics/1.png",
+    "description": "The EBC is a mint pass for earlier access link in order to lessen gas war. But it's not an ordinary mint pass as we know it. We want to be different.",
+    "external_url": "https://bcsnft.io",
+    "attributes": [
+      {
+        "trait_type": "Series",
+        "value": "BullsOnTheBlock"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0x07586ecf78061c4748ec12bd92ca5d62e763b908",
+  "type": "ERC721",
+  "name": "Speed Paintings with Open3",
+  "tokenCount": "99",
+  "uri": "ipfs://bafybeih3lr55z4eser3l6rioue4apjfviyddc4ayyoyckqigptaf7bocgy/1",
+  "metadata": {
+    "name": "Speed Painting #1",
+    "description": "Speed Paintings by Stephan Guillais",
+    "image": "ipfs://bafybeieufn6xb2q4aywpkkj2ws7izjta75vurfen57r2fa5kgu2czlxv5i/1.jpg",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Ocean Waves"
+      },
+      {
+        "trait_type": "Middle Ground",
+        "value": "Sunflower"
+      },
+      {
+        "trait_type": "Foreground",
+        "value": "Bird of Paradise"
+      }
+    ],
+    "compiler": "Open3"
+  }
+}

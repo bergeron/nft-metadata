@@ -1,0 +1,35 @@
+{
+  "address": "0x1078c0311088ee915af0e8da0b729df7fb3911ba",
+  "type": "ERC721",
+  "name": "Peace of Cake NFT",
+  "tokenCount": "35",
+  "uri": "ipfs://bafybeid56wkp7iogozkmucwvv5ffsy77pxlnxe2w7yhak5q53famcyo4pi/1.json",
+  "metadata": {
+    "name": "Peace of Cake #1",
+    "description": "Just a peace of cake",
+    "image": "ipfs://bafybeig4je4dhvpgo5koswnhr55u4zl5w5xygzwbcailqwsc2o3umvgmfe/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Decoration 1",
+        "value": "Cranberry Jam"
+      },
+      {
+        "trait_type": "Decoration 2",
+        "value": "White Chocolate Flakes"
+      },
+      {
+        "trait_type": "Decoration 3",
+        "value": "White Chocolate"
+      },
+      {
+        "trait_type": "Cream",
+        "value": "Happiness"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "Today's Special 10"
+      }
+    ]
+  }
+}

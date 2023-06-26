@@ -1,0 +1,66 @@
+{
+  "address": "0x717785e71be2c34ddc181458c323075286ca0d95",
+  "type": "ERC721",
+  "name": "Favetta Aliens NFT",
+  "tokenCount": "32",
+  "uri": "ipfs://QmZ4rshe7p7N9ZdZtbEdyPNvkMhwHz6yppVNmmiYP3X16F/1.json",
+  "metadata": {
+    "dna": "fc5232a757fc53876c8336e3654396fcc3d78f6b",
+    "name": "Favetta Alien #1",
+    "description": "Favetta The Alien | NFT",
+    "image": "ipfs://QmXCAmf5Bn8tqzgWDbWqqmdFFYPuHSHph67vMrWrhzEp7W/1.png",
+    "edition": 1,
+    "date": 1637837713227,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "Grey Beams"
+      },
+      {
+        "trait_type": "SKIN",
+        "value": "Pink Scales"
+      },
+      {
+        "trait_type": "NAME",
+        "value": "The King"
+      },
+      {
+        "trait_type": "Air Traits Level",
+        "value": 10,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Fire Traits Level",
+        "value": 5,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Earth Traits Level",
+        "value": 4,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Water Traits Level",
+        "value": 2,
+        "max_value": 10
+      },
+      {
+        "trait_type": "CLOTHING",
+        "value": "King Armour"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "Wide Open"
+      },
+      {
+        "trait_type": "EYE",
+        "value": "Pink Open"
+      },
+      {
+        "trait_type": "HAT-HAIR",
+        "value": "King Silver Cube"
+      }
+    ],
+    "compiler": "Menorca Blockchain Technologies"
+  }
+}

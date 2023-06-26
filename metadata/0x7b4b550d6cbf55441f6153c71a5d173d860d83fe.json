@@ -1,0 +1,29 @@
+{
+  "address": "0x7b4b550d6cbf55441f6153c71a5d173d860d83fe",
+  "type": "ERC1155",
+  "name": "Aura Exchange Membership",
+  "tokenCount": "5",
+  "uri": "ipfs://QmSgZBhpK87PZzYrxWShrbvN5cigV9dBBHA2Qzk3nQ9qig/1",
+  "metadata": {
+    "name": "Aura Diamond",
+    "description": "",
+    "image": "ipfs://QmWgsQEXVTmkGG3G3KCts53j1DCNBKbyNvwfnq2FDPHs1y/1.png",
+    "external_url": "https://auraexchange.org",
+    "animation_url": "ipfs://QmWgsQEXVTmkGG3G3KCts53j1DCNBKbyNvwfnq2FDPHs1y/2.mp4",
+    "background_color": "",
+    "attributes": [
+      {
+        "trait_type": "Revenue Share",
+        "value": "30%"
+      },
+      {
+        "trait_type": "Max Supply",
+        "value": "5000"
+      },
+      {
+        "trait_type": "Max Per Wallet",
+        "value": "5"
+      }
+    ]
+  }
+}

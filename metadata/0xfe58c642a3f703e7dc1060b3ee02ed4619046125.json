@@ -1,0 +1,25 @@
+{
+  "address": "0xfe58c642a3f703e7dc1060b3ee02ed4619046125",
+  "type": "ERC721",
+  "name": "MyCrypto Membership 3-Month V2",
+  "tokenCount": "2",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xfe58c642a3f703e7dc1060b3ee02ed4619046125/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xfe58C642A3F703e7Dc1060B3eE02ED4619046125/icon?id=1",
+    "expiration": 1615023793,
+    "tokenId": "1",
+    "owner": "0x8a867ff9e8123b9d44f233a21d64d3f751bdc8a6",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1615023793
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xfe58C642A3F703e7Dc1060B3eE02ED4619046125",
+    "network": 1
+  }
+}

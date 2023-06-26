@@ -1,0 +1,45 @@
+{
+  "address": "0xc8f7b7be4ea811dbd2f2c20d837c91f9d19e8436",
+  "type": "ERC721",
+  "name": "KawaiiKowai",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/jEdZkI6RGHZ0FWOCftt-m7wt_nmHecuPJBqmdVZKPQw",
+  "metadata": {
+    "name": "Free Your Monsters",
+    "created_by": "KawaiiKowai",
+    "description": "Each KawaiiKowai work of art explores dichotomous themes of East/West and Love/Fear with Cute/Scary monsters.  \nIncludes animated vector art and music.\n\nSpecifications: 2560x2560 16s loopable video\n\nTools: Adobe Illustrator, After Effects, GarageBand\n\nCollector will be given access to: 4K (3840x3840) MP4, 4K (3840x3840) PNG",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "KawaiiKowai"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Monster Sightings"
+      }
+    ],
+    "image_details": {
+      "bytes": 17866636,
+      "format": "PNG",
+      "sha256": "47adb4407e392a1031ffe4a293617c1617d66aa5c914ba8ed6b4e1f051f9f635",
+      "width": 6000,
+      "height": 6000
+    },
+    "image": "https://arweave.net/BM1g85fDWGz13HwQGUOWSNOtFs8FFulL-knHgkj5I54",
+    "image_url": "https://arweave.net/BM1g85fDWGz13HwQGUOWSNOtFs8FFulL-knHgkj5I54",
+    "animation_details": {
+      "bytes": 46573148,
+      "format": "MP4",
+      "duration": 16,
+      "sha256": "8d9cbb898bee103f86587bc13a8cc104e1a2078f32dd5df07fd897dbf7b7e27d",
+      "width": 2560,
+      "height": 2560,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/QbBtb0UMF-VShMjXCZhDyOEcg6_NxXIHUW9gO1SvOzc",
+    "animation_url": "https://arweave.net/QbBtb0UMF-VShMjXCZhDyOEcg6_NxXIHUW9gO1SvOzc"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "0x5d875322c2cb1d58b95fd412492b5965e9ac0977",
+  "type": "ERC721",
+  "name": "PrayStation",
+  "tokenCount": "5",
+  "uri": "https://arweave.net/xOgR6mrUK2Prq6UUrcvLieb4yZHCLYMysv7FwlOd01g",
+  "metadata": {
+    "name": "the Universe Machine # 003",
+    "created_by": "PrayStation",
+    "description": "the Universe Machine # 003, is a custom, written from scratch, generative program using processing (JAVA). This 3 minute 27 second real-time generative animation uses a particle (500 particles) flocking behavior randomly mapped with a bank of visual assets and colors. This project is also an exercise in slowness... a death variable tracks each particles lifespan... and after each of the particles have lived their lives, a snapshot of the universe is captured. This current render cycles through this life and death dance six times.\n\nBecause this is an algorithmic generative piece of software, it is not limited to a fixed timeline of animation, it can create an infinite length of animation and generate rendered stills infinitely like the pattern of a snowflake where no two visual compositions would ever be the same. When a video is rendered, you're basically viewing a window of time from the software's infinite system.\n\nDavis also takes on the role of the critic, living with the work, watching it mutate and evolve, to finally capture/render a moment in time considered by the artist as visual pleasing. to put it simply, Davis programs all the rules, boundaries, and decision making an artist would make... but allows the software/algorithm to become the independent artist, and as such, Davis is in constant state of surprise in his role as observer as the program paints and animates decisions.\n\nJoshua Davis / PrayStation 'the Universe Machine # 003' (2021) Single-channel digital video with audio 2560 x 1440 px, 00:03:27, 60 FPS, Edition: Unique, Date of Export: 2021, Year Minted: 2021",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Joshua Davis"
+      },
+      {
+        "trait_type": "Artist Alias",
+        "value": "PrayStation"
+      },
+      {
+        "trait_type": "Algorithm",
+        "value": "the Universe Machine"
+      }
+    ],
+    "image_details": {
+      "bytes": 16855477,
+      "format": "PNG",
+      "sha256": "491994b03da4837c00379d07e7629ba3b37d34b438f56b9a8eedc7ea0c77bed6",
+      "width": 3689,
+      "height": 2075
+    },
+    "image": "https://arweave.net/3Zd0u-tXksmqSJiOc1WFMHmOiHHXKwLy6jqMW9s2QeI",
+    "image_url": "https://arweave.net/3Zd0u-tXksmqSJiOc1WFMHmOiHHXKwLy6jqMW9s2QeI",
+    "animation_details": {
+      "bytes": 255751947,
+      "format": "MP4",
+      "duration": 207,
+      "sha256": "380b4c699bc01f79e831768b6d8f728fbda5378a69eb9dc8c516231a521508a8",
+      "width": 2560,
+      "height": 1440,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/dRcTlExDjbcIhdsYD8YDKPednQT1E7SLSealcbW9i14",
+    "animation_url": "https://arweave.net/dRcTlExDjbcIhdsYD8YDKPednQT1E7SLSealcbW9i14"
+  }
+}

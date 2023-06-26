@@ -1,0 +1,33 @@
+{
+  "address": "0xd12d12aacad77d54421a2c2ad723e259bf390488",
+  "type": "ERC1155",
+  "name": "Unidentified contract - urVZeXLXyR",
+  "tokenCount": "3",
+  "uri": "https://nftapi.antimatter.finance/app/getMetadata?nftId=1&chainId=1",
+  "metadata": {
+    "msg": "success",
+    "code": 200,
+    "data": {
+      "image": "https://nftapi.antimatter.finance/profile/avatar/ed5f6bc1-0345-45e9-a520-a4bfa156cb49.png",
+      "name": "Dex",
+      "title": "antimatter index nft",
+      "type": "Object",
+      "properties": [
+        {
+          "symbol": "UNI",
+          "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+          "chainId": 1,
+          "decimals": 18,
+          "name": "Uniswap"
+        },
+        {
+          "symbol": "CRV",
+          "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+          "chainId": 1,
+          "decimals": 18,
+          "name": "Curve DAO Token"
+        }
+      ]
+    }
+  }
+}

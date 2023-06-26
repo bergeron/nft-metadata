@@ -1,0 +1,68 @@
+{
+  "address": "0x25c8f450afe471b5238245140024cbfd9d86f868",
+  "type": "ERC721",
+  "name": "Salty Power Cabins",
+  "tokenCount": "251",
+  "uri": "https://saltypowercabins.s3.amazonaws.com/metadata/1",
+  "metadata": {
+    "name": "Barracks 4",
+    "image": "https://saltypowercabins.s3.amazonaws.com/images/1.png",
+    "external_url": "https://www.saltypiratecrew.io/",
+    "attributes": [
+      {
+        "value": "Basic Bed"
+      },
+      {
+        "value": "Small Fireplace"
+      },
+      {
+        "value": "Rifle"
+      },
+      {
+        "value": "Sword"
+      },
+      {
+        "value": "Salt"
+      },
+      {
+        "value": "Fruit"
+      },
+      {
+        "value": "Key"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Midday"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Barracks"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Life Bonus",
+        "value": 10
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Power Bonus",
+        "value": 5
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Water Bonus",
+        "value": 10
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Salt Bonus",
+        "value": 30
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Fire Bonus",
+        "value": 2
+      }
+    ]
+  }
+}

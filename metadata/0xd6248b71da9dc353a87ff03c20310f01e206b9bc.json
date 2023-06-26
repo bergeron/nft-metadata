@@ -1,0 +1,54 @@
+{
+  "address": "0xd6248b71da9dc353a87ff03c20310f01e206b9bc",
+  "type": "ERC1155",
+  "name": "Serc Editions",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/LIH9k4ba838XAHcbSha9_gh7cN6K3xU74YUkp-E-bqs",
+  "metadata": {
+    "name": "The Face",
+    "created_by": "serc",
+    "description": "The Face",
+    "Discord Link": "TBD",
+    "attributes": [
+      {
+        "trait_type": "Token Number",
+        "value": "1"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Serc"
+      },
+      {
+        "trait_type": "Style",
+        "value": "3D - Animated"
+      },
+      {
+        "trait_type": "Music",
+        "value": "Yes"
+      }
+    ],
+    "animation_details": {
+      "bytes": 7456664,
+      "format": "MP4",
+      "duration": 10,
+      "sha256": "6ca5251a6b236e8afb6317408dd410fbc6cae939b5cd8ab422369735fdabbbcb",
+      "width": 1500,
+      "height": 1500,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/yl5bR0YvdvyyTYgUqZi-IozECveVlzqrcbSjjMils8Y",
+    "animation_url": "https://arweave.net/yl5bR0YvdvyyTYgUqZi-IozECveVlzqrcbSjjMils8Y",
+    "image_details": {
+      "bytes": 8303136,
+      "format": "PNG",
+      "sha256": "e7cac1f5ddb4a22935458af8731bf64cbb8379bba7698e077aad2c96d07a6ae4",
+      "width": 1500,
+      "height": 1500
+    },
+    "image": "https://arweave.net/bsCmXxjqO0Qf8u-_ojl9ItOImF6iHyWMf1wlCRY9w5Y",
+    "image_url": "https://arweave.net/bsCmXxjqO0Qf8u-_ojl9ItOImF6iHyWMf1wlCRY9w5Y"
+  }
+}

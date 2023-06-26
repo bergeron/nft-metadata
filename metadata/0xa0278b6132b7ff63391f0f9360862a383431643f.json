@@ -1,0 +1,38 @@
+{
+  "address": "0xa0278b6132b7ff63391f0f9360862a383431643f",
+  "type": "ERC721",
+  "name": "Fake Binance 2",
+  "tokenCount": "59",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=tlBqeOWNeh7RhaJZSOgE",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1577555888807?alt=media&token=f10cfd01-2ec6-49c2-9be3-b8a7aac3e7b9",
+    "isForSale": false,
+    "description": "Binance Collectibles Series 1 - Sharing is caring!",
+    "contractAddress": "0xa0278b6132b7ff63391f0f9360862a383431643f",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xa0278b6132b7ff63391f0f9360862a383431643f/tlBqeOWNeh7RhaJZSOgE",
+    "minter": "0x790aa2f541c8f310ae42c1afe7341e92fa6af540",
+    "mintedOn": {
+      "_seconds": 1577555896,
+      "_nanoseconds": 473000000
+    },
+    "price": "0.001",
+    "name": "BNBAUBLE",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "BNBAUBLE"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

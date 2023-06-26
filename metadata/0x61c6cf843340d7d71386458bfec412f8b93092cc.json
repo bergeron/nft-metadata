@@ -1,0 +1,93 @@
+{
+  "address": "0x61c6cf843340d7d71386458bfec412f8b93092cc",
+  "type": "ERC721",
+  "name": "Possess V1 - Single and Open Edition NFTs",
+  "tokenCount": "2",
+  "uri": "ipfs://QmRPz42ZLCz2SDq45DkCBSyUqfwfQwJXsW2jH6mfHdcJbx",
+  "metadata": {
+    "name": "PorscheMissionAirTWO",
+    "description": "Open Edition\nGlobe: Speed\nCycle: PaintBullets\nSegment: Cars\nVariation: Ignitian\nKilian Saueressig, 2022.\nThis NFT Was Minted On PossessPlatform.io\n\nVerisart Certified: https://verisart.com/works/f03d8900-4e06-4286-b842-4c59febcdb55",
+    "image": "ipfs://QmVSyiBMPSLXED3ugoEDSLYmpFCRhf16PjBzXB7ZePhMVa",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 1280,
+          "height": 720,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 16
+        },
+        "frameRate": 12,
+        "tags": [
+          "openedition",
+          "contemporarynft",
+          "kiliansaueressig",
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xd11e2cb7559605c907406d5edb30fe0dba6536c5",
+            "bps": 800
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "animation_url": "ipfs://QmefiwNtrtXu8osU6a9xTUfXy3n1EEyP9Vi52vkYmF15mZ",
+    "external_url": "https://verisart.com/works/f03d8900-4e06-4286-b842-4c59febcdb55",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "openedition",
+        "display_type": null
+      },
+      {
+        "trait_type": "Tag",
+        "value": "contemporarynft",
+        "display_type": null
+      },
+      {
+        "trait_type": "Tag",
+        "value": "kiliansaueressig",
+        "display_type": null
+      },
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Kilian Saueressig",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "PorscheMissionAirTWO",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "720x1280 px",
+        "display_type": null
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:16",
+        "display_type": null
+      }
+    ]
+  }
+}

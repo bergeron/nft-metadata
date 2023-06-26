@@ -1,0 +1,46 @@
+{
+  "address": "0x8a935de522e2a3fc7a487a2517bacfc43c6ed591",
+  "type": "ERC721",
+  "name": "RACERS",
+  "tokenCount": "30",
+  "uri": "ipfs://QmeT8nXapgEeQFdz7BTqecRCspeGpjYYBfgS5bi9kBm8ue/1",
+  "metadata": {
+    "name": "RACER #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Suit",
+        "value": "Purple"
+      },
+      {
+        "value": "Sleeveless"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Happy"
+      }
+    ],
+    "image": "ipfs://QmZaSMZBVJKqirVTwsgdBtL8EKuRqMWQUQws1jRznQ5odj/1.png",
+    "additional_images": [
+      {
+        "name": "pfp png",
+        "image": "ipfs://QmScby5dKFG3Mtmqa38w9WCiqSHU7Dm4k26oKKDNEMC9ng/1.png"
+      },
+      {
+        "name": "pfp svg",
+        "image": "ipfs://Qmc7LxcENFQWrZZzbXH1fPvKf4TcxdfXuqVE76yjn2b8AN/1.svg"
+      },
+      {
+        "name": "svg",
+        "image": "ipfs://QmerLRtLDDVzS6r2Yaj8pHhHd8Z57Fi34a7qKRMTqkVxNJ/1.svg"
+      }
+    ]
+  }
+}

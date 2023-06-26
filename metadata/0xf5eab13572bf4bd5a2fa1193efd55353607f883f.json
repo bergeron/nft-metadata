@@ -1,0 +1,61 @@
+{
+  "address": "0xf5eab13572bf4bd5a2fa1193efd55353607f883f",
+  "type": "ERC721",
+  "name": "CXIP sample NFT",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/2gOAvG5x_FJHj9dO2ZouqQSD7ArdBtloX0WL_KOqHOs",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1632947380
+      },
+      {
+        "trait_type": "Creator",
+        "value": "CXIP"
+      }
+    ],
+    "description": "This is a sample CXIP nft.",
+    "external_url": "https://cxip.io/nft/0xf5eab13572bf4bd5a2fa1193efd55353607f883f/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/szU8mJmlA4kHx0ZdiiSnIOLtVMLgaPO_UASPwaP48q8",
+    "imageUrl": "https://arweave.net/szU8mJmlA4kHx0ZdiiSnIOLtVMLgaPO_UASPwaP48q8",
+    "name": "CXIP nft sample",
+    "properties": {
+      "created_at": "2021-09-29T20:29:40.0000000Z",
+      "creator_wallet": "0xf348d1286a74f64892f63c7182d6e62df4d6f336",
+      "description": "This is a sample CXIP nft.",
+      "image": "https://arweave.net/szU8mJmlA4kHx0ZdiiSnIOLtVMLgaPO_UASPwaP48q8",
+      "imageUrl": "https://arweave.net/szU8mJmlA4kHx0ZdiiSnIOLtVMLgaPO_UASPwaP48q8",
+      "infiniteObjects": {
+        "allowsPrints": false,
+        "allowsUnlimited": false,
+        "priceTier": ""
+      },
+      "minted_on": "29 September 2021",
+      "name": "CXIP nft sample",
+      "nft_type": "non-fungible token (image/png)",
+      "preview_media_file": "https://arweave.net/szU8mJmlA4kHx0ZdiiSnIOLtVMLgaPO_UASPwaP48q8",
+      "preview_media_file_dimensions": "600x600",
+      "preview_media_file_size": 16306,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_file": "https://arweave.net/cIvVhRijDKGtQmu-4tWklr3I41FVG84xw3Xj8OFkM3A",
+      "raw_media_file_size": 62527,
+      "raw_media_file_spec": "PNG 943x943 943x943+0+0 8-bit sRGB 62527B 0.000u 0:00.000",
+      "raw_media_file_type": "image/png",
+      "raw_media_signature": "0xf50704174aeefdd6df5f6f8935add71431a5cce71cc52e1fba10ef0c37528b7c",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/vtzdogW3ZWaNScWUBpU0BMNfLDradrYEVOGbvA7qOyQ",
+      "thumb_media_file_type": "image/jpg",
+      "title": "CXIP nft sample",
+      "total_supply": 1
+    },
+    "title": "CXIP nft sample"
+  }
+}

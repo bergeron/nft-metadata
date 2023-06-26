@@ -1,0 +1,38 @@
+{
+  "address": "0xaf07b6a033ac624a741c88dce056f6d9e5a5f322",
+  "type": "ERC721",
+  "name": "Metalverse Origin Land",
+  "tokenCount": "4356",
+  "uri": "ipfs://Qmca49eTiNyEjKiu3snUdBwNDcsKoAj2mdA8nsbEiViqrU/1.json",
+  "metadata": {
+    "name": "METALVERSE Origin Land NFT #1",
+    "description": "METALVERSE Origin Land NFTs",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNk815GbxMwnv4b9qH8pGvE6qFDTzmuGLDBQBG5Tfk4R6/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "value": "Metal"
+      },
+      {
+        "value": "Rust"
+      },
+      {
+        "value": "NocturnalNorths"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Column",
+        "value": 1,
+        "max_value": 66
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Row",
+        "value": 1,
+        "max_value": 66
+      }
+    ],
+    "row": 1,
+    "column": 1
+  }
+}

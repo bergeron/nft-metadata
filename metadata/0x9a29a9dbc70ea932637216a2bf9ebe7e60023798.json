@@ -1,0 +1,48 @@
+{
+  "address": "0x9a29a9dbc70ea932637216a2bf9ebe7e60023798",
+  "type": "ERC721",
+  "name": "The Lockeys",
+  "tokenCount": "3500",
+  "uri": "https://ipfs.io/ipfs/bafybeieemu6gnfrfyavh6ndalktoi6lexwlwap26ed5vlba2whsurwnt6e/1",
+  "metadata": {
+    "name": "Lockey #1",
+    "description": "The Lockeys is the genesis collection of Unlockd, the decentralized protocol that unlocks the full value of your NFTs.",
+    "seller_fee_basis_points": "500",
+    "image": "https://ipfs.io/ipfs/bafybeib4qi6syfz2rcz5c2wzhx6bencko3icmsoqh7ia5y3iqwjfjkeozy/1.png",
+    "external_url": "",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Acadarena"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Acadarena"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Acadarena"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Acadarena"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0xa8121b153c77ca4dd1da3a9d7cdc4729129c8c6d",
+  "type": "ERC721",
+  "name": "The Pixel Portraits",
+  "tokenCount": "926",
+  "uri": "https://pixels-metadata.s3.amazonaws.com/1",
+  "metadata": {
+    "name": "Zombie Thom",
+    "description": "Zombie Thom\nGenesis mint on 721 Pixel Portraits contract",
+    "image": "https://pixels-commissions.s3.eu-west-1.amazonaws.com/%23214%20thom.png",
+    "attributes": [
+      {
+        "trait_type": "character",
+        "value": "zombie"
+      },
+      {
+        "trait_type": "hair",
+        "value": "shaved"
+      },
+      {
+        "trait_type": "accessory",
+        "value": "neck tattoo"
+      },
+      {
+        "trait_type": "hair",
+        "value": "moustache"
+      }
+    ]
+  }
+}

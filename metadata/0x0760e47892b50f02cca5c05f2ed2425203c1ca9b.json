@@ -1,0 +1,32 @@
+{
+  "address": "0x0760e47892b50f02cca5c05f2ed2425203c1ca9b",
+  "type": "ERC1155",
+  "name": "Yair Nieto",
+  "tokenCount": "2",
+  "uri": "ipfs://QmetzfJUNZ5CDQtwQ6UVaenbzoKuv9f4jkSbXaYW6V1tXq/metadata.json",
+  "metadata": {
+    "description": "This NFT is a PFP of Yair Nieto at a coffee shop. It is part of the Yair Nieto Collection that is to display part of his life on the Ethereum Blockchain.",
+    "image": "ipfs://QmSPCywXtsxcSbZkCEMok37yxf2PGyUTnkx5XwFhLgxiX8/yair_nieto.jpg",
+    "name": "Yair Nieto",
+    "attributes": [
+      {
+        "trait_type": "Character",
+        "value": "Human"
+      },
+      {
+        "trait_type": "Coffee Shop",
+        "value": "Mozart's Coffee Roasters"
+      },
+      {
+        "trait_type": "Caffeinated",
+        "value": 10,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Coffee Rating",
+        "value": 9,
+        "max_value": 10
+      }
+    ]
+  }
+}

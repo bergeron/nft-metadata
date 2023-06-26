@@ -1,0 +1,66 @@
+{
+  "address": "0x8cd5dc6ef8f17250a7ddbf4e9cd0343c88ced83e",
+  "type": "ERC721",
+  "name": "Sloth Royalty Club",
+  "tokenCount": "1",
+  "uri": "https://jordanwink.mypinata.cloud/ipfs/QmfPQawYtSkE7XmMkuhPbfYguXJEwc5A2rK2t5zYrwnLNw/1",
+  "metadata": {
+    "name": "Sloth Royalty Club #1",
+    "description": "Royal Highness of Sloths in Cryptoverse!",
+    "image": "https://jordanwink.mypinata.cloud/ipfs/QmSUSf9fsA7PYG7zAJpDbQkHQX9nnwHFNKnzG5xsx3qUfV/1.png",
+    "dna": "5d2489ae94e21c4768686694d9d7d462d9895a41",
+    "edition": 1,
+    "date": 1637702930557,
+    "seller_fee_basis_points": 150,
+    "collection": {
+      "name": "Sloth Royalty Club",
+      "family": "Sloth"
+    },
+    "Properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xca6152D8c6ff768ec41b84BA28fBA8D6c9D4d0c0",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pinkish purple"
+      },
+      {
+        "trait_type": "Sloth",
+        "value": "ruby"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "brown robe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eyepatch"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "smile"
+      },
+      {
+        "trait_type": "Crown",
+        "value": "blue pearl"
+      },
+      {
+        "trait_type": "Staff",
+        "value": "gold ruby"
+      }
+    ],
+    "compiler": "#Pib NFT Generator"
+  }
+}

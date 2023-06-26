@@ -1,0 +1,27 @@
+{
+  "address": "0xc358bb718de45ca3dc16c49db96db21bfce3f07b",
+  "type": "ERC721",
+  "name": "Test V1",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/eM_Y67S6whDOSX__upV2ZBXLaYOrF0HEjErscmWFAa4",
+  "metadata": {
+    "name": "Dog 1",
+    "created_by": "Artist 1 and Emi",
+    "description": "This is a test description for the Dog 1 image",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Dog Artist"
+      }
+    ],
+    "image_details": {
+      "bytes": 1297121,
+      "format": "PNG",
+      "sha256": "47dba686f76827d50cebdc27b769ce9505a1771fc986189e733e15c3c791184d",
+      "width": 700,
+      "height": 1050
+    },
+    "image": "https://arweave.net/_hRvxviolTU2tCVXEZ_AyzEYXH3HxKkS5OBhTDhbBOY",
+    "image_url": "https://arweave.net/_hRvxviolTU2tCVXEZ_AyzEYXH3HxKkS5OBhTDhbBOY"
+  }
+}

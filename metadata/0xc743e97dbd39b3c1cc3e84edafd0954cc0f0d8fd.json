@@ -1,0 +1,25 @@
+{
+  "address": "0xc743e97dbd39b3c1cc3e84edafd0954cc0f0d8fd",
+  "type": "ERC1155",
+  "name": "Mercurian Assets",
+  "tokenCount": "5",
+  "uri": "https://api.mercurianproject.xyz/assets/1",
+  "metadata": {
+    "name": "Mercurian Asset #1",
+    "tokenId": "1",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQdwnxRp6NryqkT1FJHFSvoGiG2fRxM9rJvmNEY4B9Cd4",
+    "imageHash": "QmQdwnxRp6NryqkT1FJHFSvoGiG2fRxM9rJvmNEY4B9Cd4",
+    "description": "Assets of the Mercurian Project. Their true nature will be revealed.",
+    "external_url": "https://www.mercurianproject.xyz",
+    "attributes": [
+      {
+        "trait_type": "Planet",
+        "value": "Mercury"
+      },
+      {
+        "trait_type": "Purpose",
+        "value": "Key"
+      }
+    ]
+  }
+}

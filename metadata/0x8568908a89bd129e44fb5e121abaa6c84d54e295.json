@@ -1,0 +1,63 @@
+{
+  "address": "0x8568908a89bd129e44fb5e121abaa6c84d54e295",
+  "type": "ERC721",
+  "name": "DragoniaNFT",
+  "tokenCount": "5000",
+  "uri": "ipfs://bafybeihvgrr4sk46crxtgopaxyeu3h4be4aargi5ef47im4gjgatkvudbi/1.json",
+  "metadata": {
+    "name": "Dragonia #1",
+    "description": "Dragonia is a collection of 5000 algorithmically generated NFTs based on the mythical creatures, dragons. The unique digital collectibles are living on the Ethereum blockchain via the ERC721-A contracts. Dragonia is the Genesis Collection for the Dracoverse. Your Dragon grants access to members-only benefits including access to the Dracoverse.",
+    "image": "ipfs://bafybeifzxirk7igsirnysx7lcn67vvizv4ad3jo76s4y73yzhpiwchtkza/1.png",
+    "seller_fee_basis_points": 750,
+    "fee_recipient": "0x83380F935694a15b03A7B8648856625443A526CF",
+    "custom_fields": {
+      "dna": "7cd475293c802f87bdc0b53674c8d58e49aab5e2",
+      "edition": 1,
+      "date": 1653740795572,
+      "compiler": "Sleek Art Engine"
+    },
+    "external_url": "http://dragonianft.io/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Carnation Pink ",
+        "rarity": "17%"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Dragonia Black ",
+        "rarity": "9.7%"
+      },
+      {
+        "trait_type": "Body Texture",
+        "value": "Shrooms ",
+        "rarity": "4.5%"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Blue Bathrobe ",
+        "rarity": "4.5%"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Ghost ",
+        "rarity": "11%"
+      },
+      {
+        "trait_type": "Head",
+        "value": "None ",
+        "rarity": "65.3%"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "None ",
+        "rarity": "56%"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cool ",
+        "rarity": "14.5%"
+      }
+    ]
+  }
+}

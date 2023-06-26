@@ -1,0 +1,76 @@
+{
+  "address": "0x1e5536dc1b1fd03fb29160cac83ce2c88d6d467c",
+  "type": "ERC721",
+  "name": "1215skadhjfqwer",
+  "tokenCount": "256",
+  "uri": "https://api.artblocks.io/token/385000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "385000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Dipolar #1",
+    "minted": true,
+    "artist": "Junia Farquhar",
+    "description": "**Sales note: The first 16 mints will be eligible for an 8''x8'' signed plot, posted anywhere in the world.**\n\nThe vein running through my work, linking each piece to the next and to me as an artist, is the opposition between physical rationalism (the idea that physics seeks to reveal the true nature of reality) and empiricism (the idea that physics seeks to identify the behaviour of the world through experiment). Empiricism describes the world, while rationalism explains it. This conflict has been at the core of me throughout my studies, and I explore the idea further in this project.\n\nDipolar tries to answer the question \"What would electromagnetism look like in two dimensions?\", itself rich in the ideas of rationalism. To an empiricist, it is a question which can not be answered, but the answer has impacts throughout physics, from 3D electromagnetism to condensed matter. These questions and those like them have been grappled with for thousands of years, and we will die without knowing if our attempts at answers will be seen any differently from Plato's theory of Forms.\n\nOur three-dimensional universe constrains by its symmetry the behaviour of point charges to the radial fields that we are used to. In two dimensions the fields can curl around the charge, leading to two kinds of fields able to be produced by a charge. When paired with another particle of the same type and equal but opposite charge they create a 'dipole moment', which look alike when composed of either type of charge. Dipolar shows the field profiles produced by these combinations for each type, and as an idealised 'point dipole'.\n\nThe style was inspired by the sketches of Euler and da Vinci. Both were revolutionary minds, they sought to understand and explain the world in diagram, a tradition that has been preserved in art and science to this day. More broadly, I've felt inspired by Sol Lewitt and Vera Molnar, in particular their use of dense detail, seeing how it can provide tension in their work and draw the viewer in closer.\n\n*An SVG for plotting can be downloaded by pressing DOWN*\n*A 4096x4096 image can be downloaded by pressing UP*\n*Plotting speed can be adjusted with LEFT/RIGHT*\n*The animation can be restarted with SPACE*",
+    "script_type": "paper@0.12.15",
+    "project_id": "385",
+    "curation_status": "curated",
+    "image": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/385000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/385000001.png",
+    "generator_url": "https://generator.artblocks.io/385000001",
+    "animation_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/385000001",
+    "royaltyInfo": {
+      "artistAddress": "0x84d39e4e417f15fce42bf500d2fc684f6d821e06",
+      "additionalPayee": "0x9d5025b327e6b863e5050141c987d988c07fd8b2",
+      "additionalPayeePercentage": 25,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Dipolar by Junia Farquhar",
+    "website": "https://art.orbital.me.uk/dipolar",
+    "token_hash": "0x8de432965cbc0d40fb7f0699b36759a1fb4ff4952ca171e75004c38fc56dbe20",
+    "external_url": "https://artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/385/tokens/385000001",
+    "primary_asset_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/385000001",
+    "features": {
+      "Charge": "Magnetic",
+      "Layout": "Grid",
+      "DoubleVision": "Monochromatic",
+      "Optimisation": "Preserve Direction",
+      "PrimaryColour": "India Ink",
+      "SecondaryColour": "Strawberry"
+    },
+    "traits": [
+      {
+        "trait_type": "Dipolar",
+        "value": "All Dipolars"
+      },
+      {
+        "trait_type": "Dipolar",
+        "value": "Charge: Magnetic"
+      },
+      {
+        "trait_type": "Dipolar",
+        "value": "Layout: Grid"
+      },
+      {
+        "trait_type": "Dipolar",
+        "value": "DoubleVision: Monochromatic"
+      },
+      {
+        "trait_type": "Dipolar",
+        "value": "Optimisation: Preserve Direction"
+      },
+      {
+        "trait_type": "Dipolar",
+        "value": "PrimaryColour: India Ink"
+      },
+      {
+        "trait_type": "Dipolar",
+        "value": "SecondaryColour: Strawberry"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

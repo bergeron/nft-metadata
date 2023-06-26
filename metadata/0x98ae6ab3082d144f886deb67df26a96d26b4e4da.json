@@ -1,0 +1,45 @@
+{
+  "address": "0x98ae6ab3082d144f886deb67df26a96d26b4e4da",
+  "type": "ERC721",
+  "name": "EggVolution X",
+  "tokenCount": "24",
+  "uri": "https://arweave.net/wJPjjpT0wIf7Tqek2oeAxpAHmPRQGIOy1IH1IU4f6Io/1",
+  "metadata": {
+    "name": "EggX #1/24",
+    "created_by": "oveck",
+    "description": "As \"Egg Hatchers\" hatch, I created a special edition for collectors of this series. It's a digital painting with a slight animation. This piece will serve as a key for future drops and there will only be 24 pieces.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "oveck"
+      },
+      {
+        "trait_type": "Hatchers Special Edition",
+        "value": "24"
+      }
+    ],
+    "animation_details": {
+      "bytes": 127332425,
+      "format": "MP4",
+      "duration": 15,
+      "sha256": "cb96189a765abc5c33fee280a7afe3c5d8832ab3a67250a0de4f3a74ac5dbcbc",
+      "width": 3278,
+      "height": 4096,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/TvflfjNYIA9lWncQrRuvi2bomCB1wAnkaNjpJX09jQc",
+    "animation_url": "https://arweave.net/TvflfjNYIA9lWncQrRuvi2bomCB1wAnkaNjpJX09jQc",
+    "image_details": {
+      "bytes": 180569946,
+      "format": "GIF",
+      "sha256": "95284abf89cafcd436ce3b4b166ae57f7ad5fdca6ed6acbb61e2b3c29b7904a2",
+      "width": 1536,
+      "height": 1920
+    },
+    "image": "https://arweave.net/ij71esSoX8IGDLug4sBoRLfP-ScuimZGOxC4RwtZx1M",
+    "image_url": "https://arweave.net/ij71esSoX8IGDLug4sBoRLfP-ScuimZGOxC4RwtZx1M"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "address": "0xea3194dbb8ba1d66b5e5c636c31cfa0e81d04f92",
+  "type": "ERC721",
+  "name": "V1 Lads",
+  "tokenCount": "4353",
+  "uri": "ipfs://QmVPUg6T9fZGWXsvP5MoVRnxk4E7vkGhSxGoZxVc7sjDFE/1.json",
+  "metadata": {
+    "dna": "e3718357fc6749d0386723c3a587ab728fbcfedb20541e396447f392ca55d6d8",
+    "name": "V1 Lad #1",
+    "description": "V1 Lads this is a prequel to the original Larva Lads collection, designed to complement it. V1 Lads are built from the original traits, resulting in new unique combinations.",
+    "image": "ipfs://QmcGadbvhyaDHKYteakS2gSWE8kA9oSLqr8LsURi6SvSQN/1.png",
+    "imageHash": "05ab5f8055229f58582938ead989b449a767ae98140c5c76622a28870026e502",
+    "edition": 1,
+    "date": 1649083852013,
+    "attributes": [
+      {
+        "trait_type": "type",
+        "value": "purple"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "smile"
+      },
+      {
+        "trait_type": "headware",
+        "value": "police cap"
+      },
+      {
+        "trait_type": "eyeware",
+        "value": "big shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  }
+}

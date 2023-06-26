@@ -1,0 +1,45 @@
+{
+  "address": "0x462a44c2b538c29c12cea1a6d749d329911f087f",
+  "type": "ERC721",
+  "name": "rare8liens",
+  "tokenCount": "100",
+  "uri": "ipfs://bafybeidbvk5vvldla7qxiflgsoo6t4keajmsjewknz673omwk5misrhdpi/1.json",
+  "metadata": {
+    "name": "rare8liens #1",
+    "description": "Rare8liens coming out of the portal will fall into the world and their new adventures will begin",
+    "fee_recipient": "0x2acE7a5349D2829a526E5b8695752f37681f72fa",
+    "seller_fee_basis_points": 750,
+    "image": "ipfs://bafybeibc7xweskiw6iqfx37xcbuhdnlvroovfwk654zo23uq3bqlki7tlm/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PurpleBlack"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Toxic"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "SpaceSuit"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sick Of"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bite"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Liberty"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 875,
+        "display_type": "number"
+      }
+    ]
+  }
+}

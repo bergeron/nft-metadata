@@ -1,0 +1,26 @@
+{
+  "address": "0x1ba656c08211dd552f9066a4e12baaa2d8e1d1d7",
+  "type": "ERC1155",
+  "name": "CryptoPeaks Guestbook",
+  "tokenCount": "2",
+  "uri": "https://metadata.iyk.app/1/0x1ba656c08211dd552f9066a4e12baaa2d8e1d1d7/1",
+  "metadata": {
+    "name": "CryptoPeaks 2022",
+    "description": "Proof of attending CryptoPeaks 2022.",
+    "image": "https://metadata.iyk.app/CryptoPeaks_2022_NFT.mp4",
+    "animation_url": "https://metadata.iyk.app/CryptoPeaks_2022_NFT.mp4",
+    "iyk_metadata_version": "1",
+    "collection": "CryptoPeaks Guestbook",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Lake Tahoe"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Date",
+        "value": 1644436800
+      }
+    ]
+  }
+}

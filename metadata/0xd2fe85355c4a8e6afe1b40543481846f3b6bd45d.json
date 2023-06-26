@@ -1,0 +1,77 @@
+{
+  "address": "0xd2fe85355c4a8e6afe1b40543481846f3b6bd45d",
+  "type": "ERC721",
+  "name": "Bad Killer Bunnies NFT",
+  "tokenCount": "32",
+  "uri": "ipfs://Qmdv1UGErXR7mJwYfWJuUL2QfM2354uz5trmZ3E46ec7NN/1.json",
+  "metadata": {
+    "name": "Bunnies #1",
+    "description": "Bad killer bunnies",
+    "image": "ipfs://Qmew3WUuEySidPHE8CRNUZaXwqAr7bkzjferNuMNkHbHv4/1.png",
+    "dna": "b43f86e6b0961fd2b6759b13c5f43c8712af838e",
+    "edition": 1,
+    "date": 1640898320444,
+    "seller_fee_basis_points": 1200,
+    "collection": {
+      "name": "Bad Killer Bunnies NFT",
+      "family": "Bad Killer Bunnies NFT"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x0Cb93f80fb7587ef1fDcd72b1c63D172e84fC8b2",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark brown crystal background (3)"
+      },
+      {
+        "trait_type": "Special gear",
+        "value": "Green wings"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Beige  Skin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink Angry Bunny Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Closed Teeth With Anger"
+      },
+      {
+        "trait_type": "Head wear",
+        "value": "In the field bunny hat (green)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Dark blue t shirt and coat"
+      },
+      {
+        "trait_type": "shoes And feet",
+        "value": "Light Grey Shoes With White Angel Wings 4"
+      },
+      {
+        "trait_type": "Right hand",
+        "value": "Open right hand 2"
+      },
+      {
+        "trait_type": "Left hand",
+        "value": "Open left hand bunny"
+      }
+    ]
+  }
+}

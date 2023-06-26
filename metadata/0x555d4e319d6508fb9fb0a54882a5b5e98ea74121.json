@@ -1,0 +1,43 @@
+{
+  "address": "0x555d4e319d6508fb9fb0a54882a5b5e98ea74121",
+  "type": "ERC721",
+  "name": "Larva Breads",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmTogGg7a3Lvu1bstKzf1T9LoqTNC9yfDDaUNLpHRw2tcL/1",
+  "metadata": {
+    "name": "Larva Breads #1",
+    "description": "Larva Breads are a play and tribute to the Crypto Punks and their creators, Larva Labs. A collection of 5000 uniquely baked, randomly generated loaves on the Ethereum blockchain.",
+    "image": "ipfs://QmYxCF4dbwtfFEvbaDA8j4tUgnoSk64K36wsYJaomMQNcD/1.png",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "ID",
+        "value": 1
+      },
+      {
+        "trait_type": "Type",
+        "value": "White Bread"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "None"
+      },
+      {
+        "trait_type": "Facial Hair",
+        "value": "Front Beard"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Do-rag"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Nerd Glasses"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "None"
+      }
+    ]
+  }
+}

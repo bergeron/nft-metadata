@@ -1,0 +1,38 @@
+{
+  "address": "0xd2005a78c8c26a1304d26c21b1d3cb49187e4c53",
+  "type": "ERC721",
+  "name": "BasePepe Official",
+  "tokenCount": "2222",
+  "uri": "ipfs://bafybeier3fewkt45xzp7xazcfpx5hyr3s7mzmhqyhzsu4lqxqvjstqvaqa/1.json",
+  "metadata": {
+    "name": "BasePepe #1",
+    "description": "First Pepe NFT on Base.",
+    "image": "ipfs://bafybeibjhe7djnaqmgd65defvglaajwbeqbob6kysmln5akf3t3fod2pda/1.png",
+    "dna": "6180fd31053cbd848c6c67d8dd7e95a74966dec4",
+    "edition": 1,
+    "date": 1677191462435,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Detective"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Neutral"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Afro"
+      }
+    ],
+    "compiler": "Base"
+  }
+}

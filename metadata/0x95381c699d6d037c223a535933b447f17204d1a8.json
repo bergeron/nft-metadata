@@ -1,0 +1,54 @@
+{
+  "address": "0x95381c699d6d037c223a535933b447f17204d1a8",
+  "type": "ERC721",
+  "name": "Ninja Bears Genesis",
+  "tokenCount": "310",
+  "uri": "ipfs://bafybeigreuqquvqm6teix4piqsovw56tufdkxojsoxggstqfz2recwcnxi/bears-meta/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "Ninja Bears",
+    "external_url": "",
+    "animation_url": "ipfs://bafybeiaqn3bcvegimdaov2dzrqltzjlkm5bowz7h652wlpi4yqdzmzstim/bears/1.mp4",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Scarlet"
+      },
+      {
+        "trait_type": "Moving Background",
+        "value": "Ethereal Ninjas"
+      },
+      {
+        "trait_type": "Base Bear",
+        "value": "Iridescent Bear"
+      },
+      {
+        "trait_type": "Off-Hand",
+        "value": "RayGun"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Pink Beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Red Hoodie"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "image": "ipfs://bafybeihqfw7jack2nwhudxrcp6slbznsczlxrs4f722wr7lathcwrx3kai/bears-images/1.jpg"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "address": "0xc57e94cba3152940468747bbcf41eaebca495d08",
+  "type": "ERC721",
+  "name": "test-nft",
+  "tokenCount": "4",
+  "uri": "https://infiNFT.azurewebsites.net/api/HttpTrigger?artContract=0xc57e94cba3152940468747bbcf41eaebca495d08&id=1",
+  "metadata": {
+    "image": "https://arweave.rocks/0stw7CQhJfc7JiAn7U8Kk__yCUvr6BE6fa2aNSVTTlI",
+    "description": "https://ipfs.io/ipfs/Qmb145tR25sZhvDT6RJ1qv4LGRydvwtqwF7ysau9FPdHgb",
+    "animation_url": "https://arweave.rocks/8oDU1pGOFdNESZtyMwkR5RBkVaCRFKzDylZ3wqcK6rw.pdf",
+    "external_url": "https://www.infinft.com/view.html?artistcontract=0xc57e94cba3152940468747bbcf41eaebca495d08&token=1",
+    "name": "bob123",
+    "attributes": [
+      {
+        "trait_type": "artist name",
+        "value": "bob"
+      },
+      {
+        "trait_type": "edition number",
+        "value": "1 of 1"
+      },
+      {
+        "trait_type": "exhibition",
+        "value": ""
+      },
+      {
+        "trait_type": "file type",
+        "value": "pdf"
+      }
+    ]
+  }
+}

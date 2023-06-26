@@ -1,0 +1,72 @@
+{
+  "address": "0x25daed1d20531b9a415c44ed674f3e6a73c6ebaa",
+  "type": "ERC721",
+  "name": "Blocks Labs",
+  "tokenCount": "955",
+  "uri": "ipfs://bafybeic6lovl6gwj7kniqwhrxo5uhxgq6a5snkgf5xjrrfxvqjfxxwshtm/1.json",
+  "metadata": {
+    "name": "Blocksmith Labs #1",
+    "symbol": "BSL",
+    "description": "Elite crew of builders, creators and doers on Solana",
+    "seller_fee_basis_points": 880,
+    "image": "https://bafybeifexjgc2moh2s7ap7b7tbfdzoreawiuzqq4oqav6guk4v6quldyby.ipfs.nftstorage.link/1.png?ext=png",
+    "external_url": "https://www.blocksmithlabs.io/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sapphire"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Salmon"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Archer"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Dark Pirate"
+      },
+      {
+        "trait_type": "Belt",
+        "value": "Pirate"
+      },
+      {
+        "trait_type": "Gauntlet",
+        "value": "Archer"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Possessed"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Emerald King"
+      }
+    ],
+    "collection": {
+      "name": "Blocksmith Labs",
+      "family": "Blocksmith Labs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://bafybeifexjgc2moh2s7ap7b7tbfdzoreawiuzqq4oqav6guk4v6quldyby.ipfs.nftstorage.link/1.png?ext=png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+          "share": 10
+        },
+        {
+          "address": "BSLiqdvTiCLSkpRasjBBJQqNHRLuvp4vP2qyzKALjs9W",
+          "share": 90
+        }
+      ]
+    }
+  }
+}

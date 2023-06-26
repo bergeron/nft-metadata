@@ -1,0 +1,40 @@
+{
+  "address": "0x8a6c1b2d9f2ed02457f308b452f78e8fa4dc6645",
+  "type": "ERC721",
+  "name": "Punk Nuggets",
+  "tokenCount": "50",
+  "uri": "ipfs://QmUVSt9tfbZf56PxUEwikeK7pQbpCcWH9SbQc7jYqNtSn1/1.json",
+  "metadata": {
+    "name": "Punk Nugget #1",
+    "description": "A collection of 10k Punk Nuggets living on the Ethereum Blockchain.",
+    "image": "ipfs://QmcKqQ2cDG8PFuWFy4ru8u5vf2EQRhq9QpBK9wUgLCffaF/1.png",
+    "edition": 1,
+    "date": 1650922912166,
+    "attributes": [
+      {
+        "trait_type": "Scene",
+        "value": "Steel Can"
+      },
+      {
+        "trait_type": "Nugget",
+        "value": "Golden"
+      },
+      {
+        "trait_type": "Attire",
+        "value": "Black Tank"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Pirate Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Clueless Blue"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Forky"
+      }
+    ]
+  }
+}

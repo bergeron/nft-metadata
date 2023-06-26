@@ -1,0 +1,50 @@
+{
+  "address": "0x822c0e73e31b680ee03258655edcff31a90b9d3c",
+  "type": "ERC721",
+  "name": "PolkaCitizens",
+  "tokenCount": "2",
+  "uri": "ipfs://QmZuMyNZHSbheTRvWVC1Xon22iD28Hfv6UoPEAxuFZZ7Ub/1.json",
+  "metadata": {
+    "name": "ATT-M1",
+    "description": "PolkaCitizens NFT enables exclusive access to gaming in the Metaverse.",
+    "image": "ipfs://QmSj7kK9df1k8U88GtJoKQKVfcZ7snje2Xj9ebEQx9sGDj/1.png",
+    "dna": "aa06e0c36c4bf4a072b13a1a1dc2121171ddc841",
+    "edition": 1,
+    "date": 1643677539989,
+    "attributes": [
+      {
+        "trait_type": "backgrounds",
+        "value": "violet"
+      },
+      {
+        "trait_type": "weapons",
+        "value": "saber red "
+      },
+      {
+        "trait_type": "base",
+        "value": "boy base "
+      },
+      {
+        "trait_type": "body",
+        "value": "red hoodie "
+      },
+      {
+        "trait_type": "face",
+        "value": "face 3"
+      },
+      {
+        "trait_type": "hair",
+        "value": "black hair "
+      },
+      {
+        "trait_type": "legs",
+        "value": "brown pants "
+      },
+      {
+        "trait_type": "shoes",
+        "value": "green "
+      }
+    ],
+    "compiler": "Polkacitizens"
+  }
+}

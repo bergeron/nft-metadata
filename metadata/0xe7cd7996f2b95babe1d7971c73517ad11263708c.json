@@ -1,0 +1,43 @@
+{
+  "address": "0xe7cd7996f2b95babe1d7971c73517ad11263708c",
+  "type": "ERC721",
+  "name": "ChristmasBallsNFT",
+  "tokenCount": "3",
+  "uri": "ipfs://QmdjiGa2ZHvEAowuHT6YxNitaeaJ3sz5Uo4j1KanKDQKuK/1.json",
+  "metadata": {
+    "name": "Christmas Balls NFT #1",
+    "description": "Spread the Joy with the very first Christmas Balls NFT",
+    "image": "ipfs://QmYxqPqV8TziRaZSpZHYtiiSypGrUp6rHjgHYRf3LbuHMK/1.png",
+    "dna": "2df6fb68dfbf8e7ff429e064a310229fcf4edb94",
+    "edition": 1,
+    "date": 1637955367969,
+    "artists": "Luca & Andres",
+    "attributes": [
+      {
+        "trait_type": "Background Color",
+        "value": "LightRed"
+      },
+      {
+        "trait_type": "Background",
+        "value": "SnowScape"
+      },
+      {
+        "trait_type": "Christmas Ball",
+        "value": "LightGrey"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "DeerSnow"
+      },
+      {
+        "trait_type": "Crowns",
+        "value": "Golden"
+      },
+      {
+        "trait_type": "Top Crowns",
+        "value": "DarkRedBow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

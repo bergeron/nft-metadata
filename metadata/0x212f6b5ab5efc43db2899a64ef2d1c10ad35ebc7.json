@@ -1,0 +1,31 @@
+{
+  "address": "0x212f6b5ab5efc43db2899a64ef2d1c10ad35ebc7",
+  "type": "ERC721",
+  "name": "AI Punks Art",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmcfR1H3T1QMeMSjgBijE8HLPC7ySRh9zECdCvvMaZYZjq/1",
+  "metadata": {
+    "tokenId": 1,
+    "name": "AIPunks #1",
+    "description": "Just AI doing AI art.\nTo make every image unique, our AI builds 6 million possible combinations for each image.",
+    "image": "ipfs://QmQi2zxywbasEet1wYxbbcZe2ia6hRz7CCCNjumfZDvS4P/1.png",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "3 attributes"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Purple Eye Shadow"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Mohawk"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "address": "0xe609d6d7f4d7262367bbf9b0e49b91aa39b36c42",
+  "type": "ERC721",
+  "name": "Bubble Vase",
+  "tokenCount": "11",
+  "uri": "https://arweave.net/D3KYiJJ6fq6rPphNYP_pn5tXkLgzczi9GeK2qfhlEsM",
+  "metadata": {
+    "name": "Bubble Vase OG",
+    "created_by": "Brendan Dugan",
+    "external_url": "brendandugan.com",
+    "description": "3D printing ceramics allows complex forms to be modeled in the computer and then precisely extruded in soft clay by the 3D printer. This creative process lends itself extremely well to the world of NFTs. The 3D computer model, as well as the XYZ coordinates used by the 3D printer (called GCode) can be distributed on the blockchain to allow the collector to own the virtual object while also having the ability to print their own physical ceramic object. \n\nThis piece will include a rendered 3D Model in .glb format. Collectors may contact duganbrendan@gmail.com for the GCode.  It will also come with a physical Bubble Vase that I printed, glazed, and fired in the kilns at BKLYN Clay studio in Prospect Heights.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Brendan Dugan"
+      },
+      {
+        "trait_type": "Clay Type",
+        "value": "Red Stoneware"
+      },
+      {
+        "trait_type": "Kiln Firing Temperature",
+        "value": "Cone 6 (2200ºF)"
+      },
+      {
+        "trait_type": "Firing Location",
+        "value": "Brooklyn, NY"
+      }
+    ],
+    "animation_details": {
+      "bytes": 253004,
+      "format": "GLB",
+      "sha256": "f238eb3f918b4086b91cd72d3c180e857ef993465fa4d748484201eca1f54e7e"
+    },
+    "animation": "https://arweave.net/7xsTSYR8Z5k5ZG8Mwme6Xgm7G2n-AToKFIR6kncR4nY",
+    "animation_url": "https://arweave.net/7xsTSYR8Z5k5ZG8Mwme6Xgm7G2n-AToKFIR6kncR4nY",
+    "image_details": {
+      "bytes": 492545,
+      "format": "JPEG",
+      "sha256": "a8499ac40d84b81a68a9c7004bebf3b2e26a23759dd80b615d7009ec6349f48a",
+      "width": 1440,
+      "height": 1800
+    },
+    "image": "https://arweave.net/y8S9FvIq6eZML6jd9nHhhYAFcQdLiaHn55qO8PSGTA0",
+    "image_url": "https://arweave.net/y8S9FvIq6eZML6jd9nHhhYAFcQdLiaHn55qO8PSGTA0"
+  }
+}

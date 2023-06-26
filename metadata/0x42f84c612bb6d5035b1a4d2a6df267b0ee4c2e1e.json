@@ -1,0 +1,66 @@
+{
+  "address": "0x42f84c612bb6d5035b1a4d2a6df267b0ee4c2e1e",
+  "type": "ERC721",
+  "name": "The Alice Game NFT",
+  "tokenCount": "10",
+  "uri": "ipfs://QmPTZW4nEiqqnFmEo5Wt4rtwDTdgohca9sB8dUrRdBncpz/1.json",
+  "metadata": {
+    "dna": "9779869fddb9d6888b0d98e62fb7cf2580f5695f",
+    "name": "ALICE #1",
+    "description": "Alice Game is a collection of 7,777 unique Alice NFTs built on the Ethereum Blockchain. Each Alice is randomly created with 100 unique features. We will be producing an impeccable quality of games and great rewards.",
+    "image": "ipfs://QmeSgWWhxzZT4B9BZR56QfF4RFzDgZM7cuP6gnWcLf9md3/1.png",
+    "edition": 1,
+    "date": 1640167775287,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Oriental"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Mechanics"
+      },
+      {
+        "trait_type": "Make Up",
+        "value": "Oriental"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Ashy"
+      },
+      {
+        "trait_type": "Inner",
+        "value": "Laced White"
+      },
+      {
+        "trait_type": "Outer",
+        "value": "none"
+      },
+      {
+        "trait_type": "Necklace",
+        "value": "none"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Bob Orange"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "none"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Goggles Black"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Mechanics"
+      }
+    ],
+    "compiler": "AliceGame"
+  }
+}

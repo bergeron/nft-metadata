@@ -1,0 +1,42 @@
+{
+  "address": "0x1b680acb015dce9aaa607994f918f50b04f16f1d",
+  "type": "ERC721",
+  "name": "Toy Frens",
+  "tokenCount": "666",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmNkMEaRqCgxF3SFwFRrmNzFQxyLnmiVGMz3QDjYfs3NcK/1.json",
+  "metadata": {
+    "dna": "4011fe04b9d9156c1361ff18ff9701b181e27f34",
+    "name": "#1",
+    "description": "1 of 666 TOYFRENS",
+    "image": "ipfs://QmZf5ZqpJSmmJy2fuAf1V6BXQxaJvidwuFiELu5zXoZfT9/1.png",
+    "edition": 1,
+    "date": 1634783723501,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Luv_hearts"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Berry"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Zoomy"
+      },
+      {
+        "trait_type": "Hat-hair",
+        "value": "6_hairs"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tounge-out"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Green-nose"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

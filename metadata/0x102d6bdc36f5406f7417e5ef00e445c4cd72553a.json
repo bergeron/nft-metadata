@@ -1,0 +1,55 @@
+{
+  "address": "0x102d6bdc36f5406f7417e5ef00e445c4cd72553a",
+  "type": "ERC721",
+  "name": "CryptoCartel",
+  "tokenCount": "51",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=n7Fh5UxoegGpsoQVZbZQ",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1588279575305?alt=media&token=0bc6574b-2162-4168-864d-c124d8fce3ad",
+    "forSale": true,
+    "description": "One unit of Columbian CryptoCaine",
+    "contractAddress": "0x102d6bdc36f5406f7417e5ef00e445c4cd72553a",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1588279890,
+      "_nanoseconds": 388000000
+    },
+    "price": "0.0025",
+    "name": "Columbian CryptoCaine",
+    "fiatPrice": "$0.53",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "https://doccannabis2020.wixsite.com/cocaine"
+      },
+      {
+        "trait_type": "location",
+        "value": "Montreal, QC, Canada"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJDbdkHFQayUwR7-8fITgxTmU"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1588219200
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": ""
+      }
+    ],
+    "external_url": "https://mintbase.io/my-market/0x102d6bdc36f5406f7417e5ef00e445c4cd72553a",
+    "type": "ERC721"
+  }
+}

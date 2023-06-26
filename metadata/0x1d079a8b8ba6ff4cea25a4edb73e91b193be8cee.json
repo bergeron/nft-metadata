@@ -1,0 +1,35 @@
+{
+  "address": "0x1d079a8b8ba6ff4cea25a4edb73e91b193be8cee",
+  "type": "ERC721",
+  "name": "nftea.land VENDING",
+  "tokenCount": "333",
+  "uri": "https://metadata.artlab.xyz/3c5f6aee-04f5-40a3-b098-91a7d9a48de5/0",
+  "metadata": {
+    "image": "ipfs://QmTmTXSrrsEBcrQKgHwyRjpHDeYoHepwJNVYbdHpmhnsyA",
+    "animation_url": "ipfs://QmdG8KXjfHuznivPCeCdfKoJ3F28MyNNm5NZqNZG92VfgS",
+    "name": "001 Krispy Kreme Arizona Iced Tea",
+    "description": "so Krispy you'll Kreme™",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Audio",
+        "value": "Jingle"
+      },
+      {
+        "trait_type": "Vend",
+        "value": "001"
+      },
+      {
+        "trait_type": "Material",
+        "value": "Aluminum"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Bronze"
+      }
+    ]
+  }
+}

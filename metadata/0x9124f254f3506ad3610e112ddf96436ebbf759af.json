@@ -1,0 +1,45 @@
+{
+  "address": "0x9124f254f3506ad3610e112ddf96436ebbf759af",
+  "type": "ERC721",
+  "name": "Mona Lisa Doodles",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmPShyaoRSwtoPWUhf7ZUQWqCqu7wAQ861ngrGuhLoyDHQ/1.json",
+  "metadata": {
+    "name": "Mona Lisa #1",
+    "description": "5000 Mona Lisa living on the Etherium blockcain with no utiltiy or promises of anything.",
+    "external_url": "https://manic.art",
+    "image": "ipfs://Qmc1eccgeqqD3Wr54Y6Z79PeRL3ZmG7aBhnC9WxG84DuV7/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "#DC88D3"
+      },
+      {
+        "trait_type": "Country Code",
+        "value": "GB"
+      },
+      {
+        "trait_type": "Effort",
+        "value": 32
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        "Manic Distopia"
+      ]
+    },
+    "compiler": "https://manic.art",
+    "collection": {
+      "name": "Mona Lisa Doodles",
+      "family": "Mona Lisa Doodles"
+    },
+    "symbol": ""
+  }
+}

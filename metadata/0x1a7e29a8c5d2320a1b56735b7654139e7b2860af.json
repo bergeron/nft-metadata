@@ -1,0 +1,63 @@
+{
+  "address": "0x1a7e29a8c5d2320a1b56735b7654139e7b2860af",
+  "type": "ERC721",
+  "name": "World of Freight",
+  "tokenCount": "5618",
+  "uri": "https://api.worldoffreight.xyz/metadata/1",
+  "metadata": {
+    "description": "World of Freight is a generative collection of 10000 NFT vehicles living on the Ethereum blockchain, earning Wof tokens and made to revolutionise supply chains. Every Wof NFT is completely unique and features up to 9 traits with 222+ assets, out of which 38 are different vehicle types. In addition, each vehicle has been assigned with 5 additional numerical traits. Made with love by Wof Labs.",
+    "image": "https://ams3.digitaloceanspaces.com/wofstorage/1.png",
+    "name": "WOF #1",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "I Scream"
+      },
+      {
+        "trait_type": "Background Color",
+        "value": "Infinity, and Beyond"
+      },
+      {
+        "trait_type": "Transportation Mode",
+        "value": "Ground"
+      },
+      {
+        "trait_type": "Food",
+        "value": "Potato"
+      },
+      {
+        "trait_type": "Sign",
+        "value": "Floor Price"
+      },
+      {
+        "trait_type": "Vehicle Type",
+        "value": "Box Truck"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Max Speed",
+        "value": 150
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Max Range",
+        "value": 947
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Max Capacity",
+        "value": 2857
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Fuel Efficiency",
+        "value": 9
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Emission Rate",
+        "value": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "0x56b24ac7d1060d67785d8c9dddf74d86953f81e5",
+  "type": "ERC721",
+  "name": "WizardX Mint",
+  "tokenCount": "226",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=hOVei9fNL2M1B8nKwBBJ",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1576476881930?alt=media&token=071754cf-624f-4ffc-b593-d4562654f2e8",
+    "isForSale": true,
+    "description": "The bull is recharging. ",
+    "contractAddress": "",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted//hOVei9fNL2M1B8nKwBBJ",
+    "minter": "0x44E9d011DF8741Be2493E99297E9ad67bb1aa85B",
+    "mintedOn": {
+      "_seconds": 1576476944,
+      "_nanoseconds": 657000000
+    },
+    "price": "1",
+    "name": "theBull-0x",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "theBull-0x"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "id": null
+  }
+}

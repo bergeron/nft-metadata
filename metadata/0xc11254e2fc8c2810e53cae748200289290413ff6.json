@@ -1,0 +1,18 @@
+{
+  "address": "0xc11254e2fc8c2810e53cae748200289290413ff6",
+  "type": "ERC721",
+  "name": "Yakuza Golden Tickets",
+  "tokenCount": "333",
+  "uri": "https://yakuza-api.vercel.app/api/ticket/1",
+  "metadata": {
+    "description": "333 Golden Yakuza Tickets that will be used as a redeemable in the near future.",
+    "image": "ipfs://bafybeicnb2czq22uib65xudqnnzkldca2vazrrpbxsyusqdmzzsc6t4axe",
+    "name": "Yakuza Golden Ticket",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Golden Ticket"
+      }
+    ]
+  }
+}

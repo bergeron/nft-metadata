@@ -1,0 +1,61 @@
+{
+  "address": "0xe095a2d745fb310ae0925890c70f6523a666d54a",
+  "type": "ERC721",
+  "name": "RUG.SUPPLY (SBTs)",
+  "tokenCount": "19",
+  "uri": "https://rug-supply.s3.amazonaws.com/metadata/current/1",
+  "metadata": {
+    "name": "SBT #1",
+    "description": "RUG.SUPPLY is an end-to-end D3C brand that embraces blockchain technology to bring custom-tailored rugs to NFT collector's floors worldwide.",
+    "image": "https://rug-supply.s3.amazonaws.com/1000/current/1.png",
+    "external_url": "https://rug.supply/",
+    "attributes": [
+      {
+        "trait_type": "Size",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Cutout"
+      },
+      {
+        "trait_type": "NFT",
+        "value": "RUG.WTF #365"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "RUG.WTF"
+      },
+      {
+        "trait_type": "Token id",
+        "value": 365
+      },
+      {
+        "trait_type": "Status",
+        "value": "Delivered"
+      },
+      {
+        "trait_type": "Factory Image",
+        "value": false
+      },
+      {
+        "trait_type": "Delivered Image",
+        "value": false
+      }
+    ],
+    "token_id": 1,
+    "animation_url": "https://i.quantum.tech/rugsupply/1",
+    "nft": {
+      "name": "RUG.WTF #365",
+      "collection_name": "RUG.WTF",
+      "contract_address": "0x6C94954D0b265F657A4A1B35dfAA8B73D1A3f199",
+      "token_id": 365,
+      "image": "https://rug-supply.s3.amazonaws.com/images/nft/pfmbmwVPehYN9Xrfq65XzE3IETsO4eOA.jpg"
+    },
+    "status": "delivered",
+    "size": "small",
+    "type": "cutout",
+    "hash": "0x898b26a269a3eb2c3b115c9ca71f7effe7a59403cc3ea8c6e89a22d74ba5b022",
+    "delivered_image": "https://rug-supply.s3.amazonaws.com/rug_delivered/1.jpg"
+  }
+}

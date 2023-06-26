@@ -1,0 +1,32 @@
+{
+  "address": "0x2be6dae126185abfcd0c3fce25d971f84bb33f7b",
+  "type": "ERC721",
+  "name": "Willam M. Peaster Art",
+  "tokenCount": "5",
+  "uri": "https://infiNFT.azurewebsites.net/api/HttpTrigger?artContract=0x2be6dae126185abfcd0c3fce25d971f84bb33f7b&id=1",
+  "metadata": {
+    "image": "https://gateway.pinata.cloud/ipfs/QmcwN93uRjT7m988ifsVMRaRHyG5Skvt445AMGDnzpDray",
+    "description": "Who grabs beauty for a time",
+    "animation_url": "",
+    "external_url": "https://www.infinft.com/view.html?artistcontract=0x2be6dae126185abfcd0c3fce25d971f84bb33f7b&token=1",
+    "name": "The Collector",
+    "attributes": [
+      {
+        "trait_type": "artist name",
+        "value": "William M. Peaster"
+      },
+      {
+        "trait_type": "edition number",
+        "value": "1 of 1"
+      },
+      {
+        "trait_type": "exhibition",
+        "value": ""
+      },
+      {
+        "trait_type": "file type",
+        "value": "png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "address": "0x85685fe7f129de3346ac8f103aab521d1e59cdb4",
+  "type": "ERC721",
+  "name": "STRP V2",
+  "tokenCount": "5",
+  "uri": "data:application/json,{\"name\":\"STRP Allocation Voucher #1 - 0.00 - Linear\", \"description\":\"Voucher #1 of STRP allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade STRP's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!\",\"image\": \"https://imgurl.solv.finance/meta/images/avSTRP/1.png\",\"external_url\":\"https://app.solv.finance/avSTRP/1\", \"properties\": {\"owner\":\"0x624daef5ea222aad86d1a17ef72728169bdb360d\",\"underlying\":\"0x97872eafd79940c7b24f7bcc1eadb1457347adc9\",\"underlyingSymbol\":\"STRP\",\"vestingAmount\":\"6923.070000000000000000\",\"principal\":\"0.000000000000000000\",\"claimType\":\"Linear\",\"claimableAmount\":\"0.000000000000000000\",\"percentages\":[\"100.00%\"],\"maturities\":[1668124800],\"term\":\"360.00 days\"}}",
+  "metadata": {
+    "name": "STRP Allocation Voucher #1 - 0.00 - Linear",
+    "description": "Voucher #1 of STRP allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade STRP's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!",
+    "image": "https://imgurl.solv.finance/meta/images/avSTRP/1.png",
+    "external_url": "https://app.solv.finance/avSTRP/1",
+    "properties": {
+      "owner": "0x624daef5ea222aad86d1a17ef72728169bdb360d",
+      "underlying": "0x97872eafd79940c7b24f7bcc1eadb1457347adc9",
+      "underlyingSymbol": "STRP",
+      "vestingAmount": "6923.070000000000000000",
+      "principal": "0.000000000000000000",
+      "claimType": "Linear",
+      "claimableAmount": "0.000000000000000000",
+      "percentages": [
+        "100.00%"
+      ],
+      "maturities": [
+        1668124800
+      ],
+      "term": "360.00 days"
+    }
+  }
+}

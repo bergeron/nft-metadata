@@ -1,0 +1,62 @@
+{
+  "address": "0x58169d34e9298761f97a06cf9ba5f4b134e268b9",
+  "type": "ERC721",
+  "name": "Mkay Bears",
+  "tokenCount": "10000",
+  "uri": "https://mkay.mypinata.cloud/ipfs/Qmc6rjqwZxEwZ2L1RLw95BGshuEVLTZkuWT6Xxsn9FW9Ff/1",
+  "metadata": {
+    "name": "Mkay Bear #2",
+    "description": "Bears on the blockchain that actually works, but flipped to face the right way. Mkay?",
+    "image": "https://bafybeiebykx3fq5w4o6ll46dkirzlveskychoykadml7owohmgpjuj3xjq.ipfs.nftstorage.link/1.png?ext=png",
+    "external_url": "https://mkaybears.com/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Sand"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Clean Smile"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Okay"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Black Bucket Hat"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Lumber Jacket"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Wayfarer Sunglasses"
+      }
+    ],
+    "collection": {
+      "name": "Mkay Bears",
+      "family": "Mkay Bears"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://bafybeiebykx3fq5w4o6ll46dkirzlveskychoykadml7owohmgpjuj3xjq.ipfs.nftstorage.link/1.png?ext=png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "7zL7HVn85F5yFT6XM3BsJcQF7PBcNE7R2BT5GyfunpKe",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

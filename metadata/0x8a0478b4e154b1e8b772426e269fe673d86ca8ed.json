@@ -1,0 +1,45 @@
+{
+  "address": "0x8a0478b4e154b1e8b772426e269fe673d86ca8ed",
+  "type": "ERC721",
+  "name": "Monoliths Lands",
+  "tokenCount": "1000",
+  "uri": "ipfs://QmfM93GA9qgE79bViDCTRtREwoSDdrVHF9MuxhV2DKb51f/1",
+  "metadata": {
+    "name": "#2",
+    "description": "Your Collection",
+    "image": "ipfs://QmWwvaxuwCu7t924ZKD8ePX47RMSJRgMW2jjpAtSXSvqQb/1.png",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "attributes": [
+      {
+        "trait_type": "Landlords",
+        "value": "Barons"
+      },
+      {
+        "trait_type": "Program",
+        "value": "Unstabilized"
+      },
+      {
+        "trait_type": "Access",
+        "value": "White Pass"
+      },
+      {
+        "trait_type": "Origins",
+        "value": "Sacred Sigils"
+      },
+      {
+        "trait_type": "Monoliths",
+        "value": "Dolmen"
+      }
+    ],
+    "compiler": "https://the-nft-generator.com"
+  }
+}

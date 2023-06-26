@@ -1,0 +1,54 @@
+{
+  "address": "0xddc0f8d52b7f8d384addc885df48f3a1ae65e6b3",
+  "type": "ERC721",
+  "name": "MaskedMonsters",
+  "tokenCount": "4",
+  "uri": "ipfs://QmSDt4tsV6RiJpcVGeafKFqu3jTFKuw54YE4NLqp9N2NFp/1.json",
+  "metadata": {
+    "name": "Your Collection #1",
+    "description": "Masked monsters",
+    "image": "ipfs://QmSSZUChskTGSQ6zN7zPJ4DxaJCaiEqCjWKUZC1ebZDwGM/1.png",
+    "dna": "8f0ac99cfd5f9de8dc240c0c5ce8801739942561",
+    "edition": 1,
+    "date": 1639009202450,
+    "attributes": [
+      {
+        "trait_type": "0_background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "1_Basic Body",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "2_Clothing",
+        "value": "School"
+      },
+      {
+        "trait_type": "3_Shoes",
+        "value": "Wizard"
+      },
+      {
+        "trait_type": "4_Basic Head",
+        "value": "Red"
+      },
+      {
+        "trait_type": "5_Hats",
+        "value": "Energy"
+      },
+      {
+        "trait_type": "6_Eyes",
+        "value": "Uni"
+      },
+      {
+        "trait_type": "7_Mouths",
+        "value": "Purple Mouth"
+      },
+      {
+        "trait_type": "8_Props",
+        "value": "Toy"
+      }
+    ],
+    "compiler": "mobius29er"
+  }
+}

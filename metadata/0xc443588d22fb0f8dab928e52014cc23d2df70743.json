@@ -1,0 +1,51 @@
+{
+  "address": "0xc443588d22fb0f8dab928e52014cc23d2df70743",
+  "type": "ERC721",
+  "name": "Giving Shape by ippsketch",
+  "tokenCount": "93",
+  "uri": "http://token.artblocks.io/0xc443588d22fb0f8dab928e52014cc23d2df70743/1",
+  "metadata": {
+    "platform": "FAB DAO",
+    "tokenID": "1",
+    "series": "N/A",
+    "aspect_ratio": 0.75,
+    "payout_address": "0x9b7a675f3ce4e1cf87a9f6b46a362c355feac82f",
+    "name": "Giving Shape #1",
+    "minted": true,
+    "artist": "ippsketch",
+    "description": "Embracing pure geometric abstraction, Giving Shape employs tangible formal elements to ‘give shape’ to intangible concepts. With a double entendre at play, Giving Shape refers to both the generative algorithm’s construction of striking abstract compositions and ‘giving’ back through a revenue share to support other artists.",
+    "script_type": "p5@1.0.0",
+    "project_id": "0",
+    "engine_type": "fullyonchain",
+    "image": "https://media-proxy.artblocks.io/0xc443588d22fb0f8dab928e52014cc23d2df70743/1.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xc443588d22fb0f8dab928e52014cc23d2df70743/1.png",
+    "generator_url": "https://generator.artblocks.io/0xc443588d22fb0f8dab928e52014cc23d2df70743/1",
+    "animation_url": "https://generator.artblocks.io/0xc443588d22fb0f8dab928e52014cc23d2df70743/1",
+    "royaltyInfo": {
+      "artistAddress": "0xf523011fc571d67beb53ee108fdeb010d1addbe9",
+      "additionalPayee": "0x0f3fe3d8607cdec4fb76de84f68713f6e0cd54ac",
+      "additionalPayeePercentage": 50,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Giving Shape by ippsketch",
+    "website": null,
+    "token_hash": "0xb8722d0f77f2f36e64929777730b8f207e5a2ff23e2f32ad7baca145346c8939",
+    "external_url": "",
+    "primary_asset_url": "https://generator.artblocks.io/0xc443588d22fb0f8dab928e52014cc23d2df70743/1",
+    "features": {
+      "Act": "I - Color Background"
+    },
+    "traits": [
+      {
+        "trait_type": "Giving Shape",
+        "value": "All Giving Shapes"
+      },
+      {
+        "trait_type": "Giving Shape",
+        "value": "Act: I - Color Background"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

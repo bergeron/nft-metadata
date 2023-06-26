@@ -1,0 +1,25 @@
+{
+  "address": "0x8c5d4a16ddf2702f58a6e881a0834f010b722ebd",
+  "type": "ERC721",
+  "name": "VladiatorNFT",
+  "tokenCount": "15",
+  "uri": "https://firebasestorage.googleapis.com/v0/b/vladiatornft.appspot.com/o/1.json?alt=media",
+  "metadata": {
+    "title": "Vladiators",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Vladiators"
+      },
+      "description": {
+        "type": "string",
+        "description": "Vladiators"
+      },
+      "image": {
+        "type": "string",
+        "description": "https://firebasestorage.googleapis.com/v0/b/vladiatornft.appspot.com/o/1.png?alt=media"
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "address": "0x255aba47276382900f343d773bf5936851e67714",
+  "type": "ERC721",
+  "name": "ORI // Unfolded",
+  "tokenCount": "26",
+  "uri": "https://arweave.net/4FV1OEHvx0vD8XXyF_joWbXlB9hY8U01oLVt-yHNmhE",
+  "metadata": {
+    "name": "ORI Unfolded - #0",
+    "created_by": "lostpixels",
+    "external_url": "https://ori.lostpixels.io",
+    "description": "ORI Unfolded is a limited series of animations that accompany the ORI long-form generative art project. Each NFT shows the origami-like folding steps that created its sibling. \n\nWarning: Some animations may contain flashing images.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "lostpixels"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "ori mint",
+        "value": "0"
+      }
+    ],
+    "animation_details": {
+      "bytes": 66740376,
+      "format": "MP4",
+      "duration": 15,
+      "sha256": "2272aa7c0730f5261fdeffec513333d741b929c2840b37e8ba32ec7ff04ed3fb",
+      "width": 1124,
+      "height": 1500,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/g-H_cfIjzv8xRhstRnyKda3UalyO7DSsMPxLu-2EXGw",
+    "animation_url": "https://arweave.net/g-H_cfIjzv8xRhstRnyKda3UalyO7DSsMPxLu-2EXGw",
+    "image_details": {
+      "bytes": 783332,
+      "format": "GIF",
+      "sha256": "c2c4e6eb451aa06c7009be9c2ba3c2851d562d573098d64c2c3d5b523e08d58c",
+      "width": 300,
+      "height": 400
+    },
+    "image": "https://arweave.net/yomOcXydVh39gW5vGMXmEOsGoNKIwIt_nx7LGcXFsvY",
+    "image_url": "https://arweave.net/yomOcXydVh39gW5vGMXmEOsGoNKIwIt_nx7LGcXFsvY"
+  }
+}

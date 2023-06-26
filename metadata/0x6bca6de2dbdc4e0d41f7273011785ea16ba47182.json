@@ -1,0 +1,64 @@
+{
+  "address": "0x6bca6de2dbdc4e0d41f7273011785ea16ba47182",
+  "type": "ERC721",
+  "name": "Muhammad Ali | The Next Legends - Boxers",
+  "tokenCount": "5661",
+  "uri": "https://api-locker-room.thenextlegends.xyz/meta/0xa6a2f379db5b7d8bc865b0957159f3c28af0c52fc29d15281568dc374bca4c97",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Skin Features",
+        "value": "Scars"
+      },
+      {
+        "trait_type": "Hair Style",
+        "value": "Royal"
+      },
+      {
+        "trait_type": "Facial Hair",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hair Color",
+        "value": "Golden Blonde"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Pro Standard"
+      },
+      {
+        "trait_type": "Gloves",
+        "value": "White"
+      },
+      {
+        "trait_type": "Boots",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Pro"
+      },
+      {
+        "trait_type": "Skin Tone",
+        "value": "Sepia"
+      }
+    ],
+    "image": "https://d2zg32cm5x1o6j.cloudfront.net/boxers/1/jpg/1.jpg",
+    "name": "Pro 1",
+    "first_name": "Pro",
+    "last_name": "1",
+    "description": null,
+    "models": {
+      "fbx": "https://d2zg32cm5x1o6j.cloudfront.net/boxers/1/fbx/1.fbx",
+      "glb": "https://d2zg32cm5x1o6j.cloudfront.net/boxers/1/glb/1.glb",
+      "gltf": "https://d2zg32cm5x1o6j.cloudfront.net/boxers/1/gltf/1.gltf",
+      "png": "https://d2zg32cm5x1o6j.cloudfront.net/boxers/1/png/1.png",
+      "jpg": "https://d2zg32cm5x1o6j.cloudfront.net/boxers/1/jpg/1.jpg"
+    },
+    "animation_url": "https://boxer-viewer.thenextlegends.xyz?tokenId=1"
+  }
+}

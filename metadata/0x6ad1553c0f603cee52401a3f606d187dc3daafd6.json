@@ -1,0 +1,29 @@
+{
+  "address": "0x6ad1553c0f603cee52401a3f606d187dc3daafd6",
+  "type": "ERC721",
+  "name": "Tweetbound Tokens",
+  "tokenCount": "29",
+  "uri": "https://api.open3.com/metadata/tweetbound-tokens/token_uri/1",
+  "metadata": {
+    "external_url": "https://open3.com/projects/tweetbound-tokens",
+    "name": "Tweetbound Token #1",
+    "description": "Tweetbound Tokens are minted on Open3 to provide on-chain verification of social credentials.\r\n\r\nMint your free Tweetbound Token at [Open3](https://www.open3.com/projects/tweetbound-tokens).",
+    "image": "https://api.open3.com/twitter/token.html?followersCount=4127&followingCount=3770",
+    "compiler": "Open3",
+    "attributes": [
+      {
+        "trait_type": "Followers Count",
+        "value": 4127
+      },
+      {
+        "trait_type": "Following Count",
+        "value": 3770
+      },
+      {
+        "trait_type": "Verified",
+        "value": false
+      }
+    ],
+    "animation_url": "https://api.open3.com/twitter/token.html?followersCount=4127&followingCount=3770"
+  }
+}

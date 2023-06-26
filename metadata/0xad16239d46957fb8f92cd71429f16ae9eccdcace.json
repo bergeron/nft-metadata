@@ -1,0 +1,42 @@
+{
+  "address": "0xad16239d46957fb8f92cd71429f16ae9eccdcace",
+  "type": "ERC721",
+  "name": "PixWolves",
+  "tokenCount": "10",
+  "uri": "ipfs://QmRPHDa2LfYVwmc7kZKLB4nMocKsfoiRxuWr5rf5ZNLPzq/1.json",
+  "metadata": {
+    "name": "PixWolves #1",
+    "description": "PixWolves is a collection of 10000 randomly generated pixelated elements living on the Ethereum blockchain. Each PixWolves is unique and comes in different types and varies greatly in rarity depending on its attributes. NFT Collection + Metaverse, Token Standard ERC-721.",
+    "image": "ipfs://QmV1DzUHyLzgJPkf8BPVcbc3SChkK2uLV1Rv9LbHYUGYzh/1.png",
+    "dna": "bca328d017118066ed705a0646ed43a9d9714e0f",
+    "edition": 1,
+    "date": 1661573380073,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Light_Wolf"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Scarf"
+      },
+      {
+        "trait_type": "Extras",
+        "value": "Wiseman_Beard"
+      },
+      {
+        "trait_type": "Eyes and Eyewear",
+        "value": "Disco_Lens"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Green_Curled_Hair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "address": "0x22e0b7dc0a02bc79a822844d0910653381ed7896",
+  "type": "ERC721",
+  "name": "LCD 1",
+  "tokenCount": "41",
+  "uri": "https://lcd.ertdfgcvb.xyz/meta1/1.json",
+  "metadata": {
+    "name": "LCD 1 #1/32",
+    "external_url": "https://lcd.ertdfgcvb.xyz/terminal1/index.html?edition=1&claimed=0",
+    "animation_url": "https://lcd.ertdfgcvb.xyz/terminal1/index.html?edition=1&claimed=0",
+    "image": "https://lcd.ertdfgcvb.xyz/meta1/1.png",
+    "description": "LCD 1 is a device for ASCII art. It is hardware and software as a single entity.  \nA real-time generative program, optimised for high contrast monochrome liquid crystal displays, runs on it creating animated text compositions.  \nThe token allows its owner to request the physical device associated with it. Once claimed the state of the token will change from ‘unclaimed’ to ‘claimed’, this state can’t be reversed.  \nThe asset associated with the token acts as a real-time terminal and it can stream the visual content of the physical device to a computer screen; the device connects to it with an USB-C cable and the data is transmitted through the serial port.  \nNote: it may not always be possible to access the serial port if the media is displayed in an inline frame (iframe); opening the original file in a dedicated window may overcome this limitation.  \nAdditional information and more detailed connection instructions can be found in the console.  \n  \nLCD 1  \n– is not multipurpose  \n– is not a product  \n– is not colourful  \n– is made for ASCII art  \n– is 100% custom made  \n– is hardware and software  \n– is small  \n– is generative  \n– is real-time  \n– has two zoom levels  \n– has gold-plated traces  \n– uses codepage 437  \n– can output content to big screens  \n  \nRealised for the “Kunsthalle Zürich NFT edition programme”.  \n  \nThe device for this token has not been claimed.  \nTo claim the physical device visit:  \nhttps://lcd.ertdfgcvb.xyz  \n  \n",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "ertdfgcvb"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "1/32"
+      },
+      {
+        "trait_type": "Claimed",
+        "value": "No"
+      },
+      {
+        "trait_type": "Hardware version",
+        "value": "1.0"
+      },
+      {
+        "trait_type": "Width",
+        "value": "71 mm"
+      },
+      {
+        "trait_type": "Height",
+        "value": "71 mm"
+      },
+      {
+        "trait_type": "Depth",
+        "value": "13 mm"
+      },
+      {
+        "trait_type": "PCB thickness",
+        "value": "1.6 mm"
+      },
+      {
+        "trait_type": "PCB solder mask color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "PCB surface finish",
+        "value": "ENIG"
+      },
+      {
+        "trait_type": "PCB copper weight",
+        "value": "1 oz"
+      },
+      {
+        "trait_type": "PCB layers",
+        "value": "2"
+      },
+      {
+        "trait_type": "Weight",
+        "value": "35.3 g (without battery)"
+      },
+      {
+        "trait_type": "Display resolution",
+        "value": "400×240 px"
+      },
+      {
+        "trait_type": "Display type",
+        "value": "LCD"
+      },
+      {
+        "trait_type": "CPU cores",
+        "value": "2"
+      },
+      {
+        "trait_type": "CPU frequency",
+        "value": "240 MHz"
+      },
+      {
+        "trait_type": "Flash memory",
+        "value": "16 MB"
+      },
+      {
+        "trait_type": "SRAM",
+        "value": "520 kB"
+      },
+      {
+        "trait_type": "Speakers",
+        "value": "1"
+      },
+      {
+        "trait_type": "Buttons",
+        "value": "2"
+      },
+      {
+        "trait_type": "LEDs",
+        "value": "3"
+      },
+      {
+        "trait_type": "Screws",
+        "value": "4"
+      },
+      {
+        "trait_type": "Battery type",
+        "value": "LiPo"
+      },
+      {
+        "trait_type": "Battery capacity",
+        "value": "500 mAh"
+      },
+      {
+        "trait_type": "Battery voltage",
+        "value": "3.7 V"
+      },
+      {
+        "trait_type": "Font",
+        "value": "Toshiba 8×8"
+      },
+      {
+        "trait_type": "Grid",
+        "value": "25×15 and 50×30"
+      },
+      {
+        "trait_type": "Code page",
+        "value": "437 (customized)"
+      },
+      {
+        "trait_type": "Connectivity",
+        "value": "USB-C and external 5 V"
+      }
+    ]
+  }
+}

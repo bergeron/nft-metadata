@@ -1,0 +1,68 @@
+{
+  "address": "0x191c34006cb66136e166a91eae7f171eb29c0f7e",
+  "type": "ERC721",
+  "name": "Cats Famous",
+  "tokenCount": "60",
+  "uri": "ipfs://QmS5k7XoVQmHY7JHgaS4tyiECSdFer1W598Rszg5U2Jtpe/1.json",
+  "metadata": {
+    "dna": "d37668f61c5177dcac7b3d3d6909e5bf147aacd1",
+    "name": " #1",
+    "description": "Famous Cats is an endless collection of cats with different personalities powered by the Ethereum blockchain. The first celebrities I drew were Tekashi 6ix9ine, Justin Bieber, 50 cent, Big L, XXXTentaction. To be continued",
+    "image": "ipfs://QmQsvY4ZQEP8tGrZVQ98u3utT7bKuCSeX6JrQFsXwRWpTC//1.png",
+    "edition": 1,
+    "date": 1653898386707,
+    "symbol": "Puma",
+    "seller_fee_basis_points": 250,
+    "external_url": "",
+    "collection": {
+      "name": "Famous puma cats",
+      "family": ""
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x74321BdF31D363946a3a43a04E13435EAC8Ab892",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Green_background"
+      },
+      {
+        "trait_type": "body",
+        "value": "Apricot_body"
+      },
+      {
+        "trait_type": "clothing",
+        "value": "Blue windbreaker_clothing"
+      },
+      {
+        "trait_type": "chain",
+        "value": "Gold_chain"
+      },
+      {
+        "trait_type": "eye",
+        "value": "Glasses_eye"
+      },
+      {
+        "trait_type": "headdress",
+        "value": "Yellow bandana_headdress"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "Serious_mouth"
+      }
+    ],
+    "compiler": "by compiler"
+  }
+}

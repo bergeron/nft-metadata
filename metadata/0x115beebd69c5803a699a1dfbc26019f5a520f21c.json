@@ -1,0 +1,58 @@
+{
+  "address": "0x115beebd69c5803a699a1dfbc26019f5a520f21c",
+  "type": "ERC721",
+  "name": "The CryptoBrews Pub",
+  "tokenCount": "10",
+  "uri": "ipfs://QmfCTyWi8NL1Aq58ERJhL4QDY7qq8UNEMtEBfJas4dAf8g/1.json",
+  "metadata": {
+    "name": "CryptoBrew #2",
+    "description": "",
+    "image": "ipfs://QmbMA8WfgiGohmqSQJemyhjEsEcDkpAM3AMz5agEwUnL5g/1.png",
+    "dna": "c93496e278387e96505bc8c296a90f745bb5accb",
+    "edition": 2,
+    "date": 1639705563825,
+    "brewery": "The CryptoBrews Pub",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "slate"
+      },
+      {
+        "trait_type": "Container",
+        "value": "bottle"
+      },
+      {
+        "trait_type": "Liquid",
+        "value": "honey_mead"
+      },
+      {
+        "trait_type": "Label",
+        "value": "peach"
+      },
+      {
+        "trait_type": "Bottle Top",
+        "value": "sealed_apple_cap"
+      },
+      {
+        "trait_type": "Waist",
+        "value": "grey_plaid_scarf"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "doctor_head_mirror"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "normal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "rounded_tan_pipe"
+      },
+      {
+        "trait_type": "Brewery",
+        "value": "The_CryptoBrews_Pub"
+      }
+    ]
+  }
+}

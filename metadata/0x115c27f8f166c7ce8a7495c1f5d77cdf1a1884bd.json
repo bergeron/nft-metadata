@@ -1,0 +1,41 @@
+{
+  "address": "0x115c27f8f166c7ce8a7495c1f5d77cdf1a1884bd",
+  "type": "ERC721",
+  "name": "ScoopDog Squad",
+  "tokenCount": "664",
+  "uri": "https://api.scoopdogsquad.com/getMetadata/1",
+  "metadata": {
+    "name": "ScoopDog Squad #1",
+    "image": "https://ipfs.io/ipfs/Qmd5jhaJ7a3mYrZwNH3i1Mj3jQSPKoBxXAq23sCCx6XDMa",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sea Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Light Brown"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Clown Dress"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Bike Helmet"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Disgusted"
+      }
+    ],
+    "originalIndex": 554,
+    "seller_fee_basis_points": 350,
+    "fee_recipient": "0xa0FfCadc0018A0DD1827E8e35127A480c23Dfb98",
+    "description": "Woof!"
+  }
+}

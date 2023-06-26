@@ -1,0 +1,50 @@
+{
+  "address": "0x703af35cb3ecbcec10f07e9ea06ee8ef1c719879",
+  "type": "ERC721",
+  "name": "THE ZEROS",
+  "tokenCount": "32",
+  "uri": "https://zeros-viewer.quentinmerabet.com/api/metadata/1",
+  "metadata": {
+    "name": "ZERO #1",
+    "animation_url": "https://zeros-viewer.quentinmerabet.com/1",
+    "image": "https://storage.googleapis.com/zeros/thumbnails/c2f9a9a48cc4a00cf1efe53371d871bc0029d41b300b112918a2146b8a1a5604.jpeg",
+    "description": "When are we? DRAG to explore - CLICK to wake up your Zero.",
+    "attributes": [
+      {
+        "trait_type": "Style",
+        "value": "Line"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Ethereal"
+      },
+      {
+        "trait_type": "Ground",
+        "value": "Rocky"
+      },
+      {
+        "trait_type": "Sky",
+        "value": "Mystic"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Vibration Power",
+        "value": 17
+      }
+    ],
+    "data": {
+      "seed": 777,
+      "groundType": "rocky",
+      "groundTextureOffsetX": 0.12733113300055265,
+      "groundTextureOffsetY": 0.5139663736335933,
+      "frequency": 0.013933062611613423,
+      "style": "line",
+      "colorA": "#d9a4ff",
+      "vibrationPower": 0.000583232456468977,
+      "cloudsOffsetX": -9,
+      "cloudsType": "mystic",
+      "sunPositionX": 19,
+      "amplitude": 13.683592012152076
+    }
+  }
+}

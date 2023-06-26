@@ -1,0 +1,42 @@
+{
+  "address": "0x86bac104dfa157bf9ab37724be4a5ed0e6d8a0eb",
+  "type": "ERC721",
+  "name": "MinkWhale_book",
+  "tokenCount": "10",
+  "uri": "ipfs://QmScC8MnAjhcTHNpqyRdkgouahwxAcc5HMrTEguGti9W6Q/1.json",
+  "metadata": {
+    "name": "TheMinkWhale2023 #1",
+    "description": "The story of whales is picturebook",
+    "image": "ipfs://QmSJgrJoHqVMzeofMrzeWo34LkMkgoB5xaUKfCvLr6pB4e/1.png",
+    "dna": "078756db3eb5f65903e98077f8bbe3019091bcf7",
+    "edition": 1,
+    "date": 1669630585805,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "background_yellow"
+      },
+      {
+        "trait_type": "body",
+        "value": "body_green"
+      },
+      {
+        "trait_type": "back",
+        "value": "back_green"
+      },
+      {
+        "trait_type": "front",
+        "value": "frant_red"
+      },
+      {
+        "trait_type": "dot1",
+        "value": "dot_orange"
+      },
+      {
+        "trait_type": "dot2",
+        "value": "dot_sky"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

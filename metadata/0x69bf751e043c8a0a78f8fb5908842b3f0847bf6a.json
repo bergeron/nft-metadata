@@ -1,0 +1,52 @@
+{
+  "address": "0x69bf751e043c8a0a78f8fb5908842b3f0847bf6a",
+  "type": "ERC721",
+  "name": "Virtual Reality In Real Life",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/rlI4qs5wTdinSCNsdMa12R3BHH-l9SEsPFpYbGKg4zA",
+  "metadata": {
+    "name": "Genesis",
+    "created_by": "ahdamn",
+    "external_url": "adamnphoto.com/VRIRL/genesis",
+    "description": "VR compatible model of a real world place. \n\nThis genesis piece created in 2017 uses basic image rectification without LiDAR to form a 3D photo sphere of the location captured. Although imperfect, this is one of my earliest attempts to create this type of image.",
+    "Date": "09/30/2017",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "ahdamn"
+      },
+      {
+        "trait_type": "Season",
+        "value": "Fall"
+      },
+      {
+        "trait_type": "Time of Day",
+        "value": "Afternoon"
+      },
+      {
+        "trait_type": "Method",
+        "value": "Image Rectification"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Enders State Forest"
+      }
+    ],
+    "animation_details": {
+      "bytes": 12932172,
+      "format": "GLB",
+      "sha256": "ad62e6bf3519e42a6ccbd383651fb987b1b7ef325461583c38eac0622082471a"
+    },
+    "animation": "https://arweave.net/JmVQ8i7wVeI32_AoCBPud4hL9T973PNE1LrIvSxX9YA",
+    "animation_url": "https://arweave.net/JmVQ8i7wVeI32_AoCBPud4hL9T973PNE1LrIvSxX9YA",
+    "image_details": {
+      "bytes": 12885291,
+      "format": "JPEG",
+      "sha256": "b673958660ade55098b30c7b7a0c0d8a6efaee5fe19e272a96dae64d24ba8507",
+      "width": 8704,
+      "height": 4352
+    },
+    "image": "https://arweave.net/tABoydIXQw5edRBMZCg7p2-ImaqmlJxJVu4lXLRBeqw",
+    "image_url": "https://arweave.net/tABoydIXQw5edRBMZCg7p2-ImaqmlJxJVu4lXLRBeqw"
+  }
+}

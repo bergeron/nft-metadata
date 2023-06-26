@@ -1,0 +1,41 @@
+{
+  "address": "0x8f5be6ee538c8e4b2bcfbf51d824cb9d294d1567",
+  "type": "ERC721",
+  "name": "Mini KOYE",
+  "tokenCount": "2000",
+  "uri": "https://koyegang.s3.ap-southeast-1.amazonaws.com/nft/json/1.json",
+  "metadata": {
+    "name": "Mini Koye#1",
+    "description": "",
+    "external_url": "",
+    "image": "https://koyegang.s3.ap-southeast-1.amazonaws.com/nft/images/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple soul"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Rainbow Falmari"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Orange smiling"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Duck"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

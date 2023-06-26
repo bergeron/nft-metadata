@@ -1,0 +1,46 @@
+{
+  "address": "0x8e8feeb6dfc03d609e8136e0528f8c1d372b2d97",
+  "type": "ERC721",
+  "name": "NOVA9 - Genesis",
+  "tokenCount": "563",
+  "uri": "https://nova9-mint.s3.ap-northeast-1.amazonaws.com/nova/1.json",
+  "metadata": {
+    "name": "NOVA9 #1",
+    "description": "NOVA9 is an IP content project created together with the community and creators at its center.",
+    "image": "https://nova9-mint.s3.ap-northeast-1.amazonaws.com/nova/1.png",
+    "dna": "f8767538967f0f324c8ff0553028e49b803dc659",
+    "edition": 1,
+    "date": 1680353319433,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Mint"
+      },
+      {
+        "trait_type": "body",
+        "value": "Orange space"
+      },
+      {
+        "trait_type": "face",
+        "value": "Concerned"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Jindo dog"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Santa"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Love of the Universe"
+      },
+      {
+        "trait_type": "nova",
+        "value": "Light Nova"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

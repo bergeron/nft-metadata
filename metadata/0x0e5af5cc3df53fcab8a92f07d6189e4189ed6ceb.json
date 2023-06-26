@@ -1,0 +1,52 @@
+{
+  "address": "0x0e5af5cc3df53fcab8a92f07d6189e4189ed6ceb",
+  "type": "ERC721",
+  "name": "HOME homes",
+  "tokenCount": "48",
+  "uri": "https://homecoin-api.goloansnap.com/api/homes/1",
+  "metadata": {
+    "name": "$100,000 of $258,000",
+    "description": "A lien for $100,000 on a home worth $258,000 in Orangevale, CA.",
+    "image": "https://files.homecoin.finance/homes/1.png",
+    "external_url": "https://app.homecoin.finance/homes",
+    "attributes": [
+      {
+        "trait_type": "Amount",
+        "value": "100,000"
+      },
+      {
+        "trait_type": "Home Value",
+        "value": "258,000"
+      },
+      {
+        "trait_type": "Address",
+        "value": "9200 Madison Avenue #144, Orangevale, CA 95662"
+      },
+      {
+        "trait_type": "Created",
+        "display_type": "date",
+        "value": 1653497940
+      },
+      {
+        "trait_type": "Senior Liens",
+        "value": "0"
+      },
+      {
+        "trait_type": "LTV",
+        "value": "39"
+      },
+      {
+        "trait_type": "Total LTV",
+        "value": "39"
+      },
+      {
+        "trait_type": "Servicer",
+        "value": "LoanSnap"
+      },
+      {
+        "trait_type": "Backing",
+        "value": "None"
+      }
+    ]
+  }
+}

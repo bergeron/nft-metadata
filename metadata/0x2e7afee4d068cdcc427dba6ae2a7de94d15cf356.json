@@ -1,0 +1,31 @@
+{
+  "address": "0x2e7afee4d068cdcc427dba6ae2a7de94d15cf356",
+  "type": "ERC721",
+  "name": "LiquidDelegate",
+  "tokenCount": "59",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIkxpcXVpZCBEZWxlZ2F0ZSAjMSIsICJkZXNjcmlwdGlvbiI6ICJMaXF1aWREZWxlZ2F0ZSBsZXRzIHlvdSBlc2Nyb3cgeW91ciB0b2tlbiBmb3IgYSBjaG9zZW4gdGltZXBlcmlvZCBhbmQgcmVjZWl2ZSBhIGxpcXVpZCBORlQgcmVwcmVzZW50aW5nIHRoZSBhc3NvY2lhdGVkIGRlbGVnYXRpb24gcmlnaHRzLiIsICJhdHRyaWJ1dGVzIjpbeyJ0cmFpdF90eXBlIjogIkNvbGxlY3Rpb24gQWRkcmVzcyIsICJ2YWx1ZSI6ICIweDA1OWVkZDcyY2QzNTNkZjUxMDZkMmI5Y2M1YWI4M2E1MjI4N2FjM2EifSwgeyJ0cmFpdF90eXBlIjogIlRva2VuIElEIiwgInZhbHVlIjogIjg4NDcifSwgeyJ0cmFpdF90eXBlIjogIkV4cGlyYXRpb24iLCAiZGlzcGxheV90eXBlIjogImRhdGUiLCAidmFsdWUiOiAxNjc2NDM3MTQwfSwgeyJ0cmFpdF90eXBlIjogIkRlcG9zaXRvciBBZGRyZXNzIiwgInZhbHVlIjogIjB4MjIzZDZhNmQyNDZkMTUxYWZkN2U2OGI2ZGFiNmIyNzE4MzE5MjE5YiJ9XSwgImltYWdlIjogImh0dHBzOi8vbWV0YWRhdGEuZGVsZWdhdGUuY2FzaC9saXF1aWQvMS8weDJlN2FmZWU0ZDA2OGNkY2M0MjdkYmE2YWUyYTdkZTk0ZDE1Y2YzNTYvMSJ9",
+  "metadata": {
+    "name": "Liquid Delegate #1",
+    "description": "LiquidDelegate lets you escrow your token for a chosen timeperiod and receive a liquid NFT representing the associated delegation rights.",
+    "attributes": [
+      {
+        "trait_type": "Collection Address",
+        "value": "0x059edd72cd353df5106d2b9cc5ab83a52287ac3a"
+      },
+      {
+        "trait_type": "Token ID",
+        "value": "8847"
+      },
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1676437140
+      },
+      {
+        "trait_type": "Depositor Address",
+        "value": "0x223d6a6d246d151afd7e68b6dab6b2718319219b"
+      }
+    ],
+    "image": "https://metadata.delegate.cash/liquid/1/0x2e7afee4d068cdcc427dba6ae2a7de94d15cf356/1"
+  }
+}

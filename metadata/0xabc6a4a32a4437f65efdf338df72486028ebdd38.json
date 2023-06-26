@@ -1,0 +1,48 @@
+{
+  "address": "0xabc6a4a32a4437f65efdf338df72486028ebdd38",
+  "type": "ERC721",
+  "name": "Alpha Vakkudian",
+  "tokenCount": "9",
+  "uri": "https://arweave.net/rgBaMJzeuOAjQFhiHdlLd4d_xnmZsm1ePonAASZD-LY",
+  "metadata": {
+    "name": "Vakkuda",
+    "created_by": "vakkuda",
+    "description": "Vakkuda is the last Full Blooded Werewolf left alive. Leader of the Alpha Vakkudian he commands the Vakkudian (Monster) army to do his bidding.",
+    "attributes": [
+      {
+        "trait_type": "Species",
+        "value": "Werewolf"
+      },
+      {
+        "trait_type": "Power",
+        "value": "Shadow"
+      },
+      {
+        "trait_type": "Strength",
+        "display_type": "number",
+        "value": "10",
+        "max_value": "10"
+      },
+      {
+        "trait_type": "Speed",
+        "display_type": "number",
+        "value": "10",
+        "max_value": "10"
+      },
+      {
+        "trait_type": "Alpha",
+        "display_type": "boost_number",
+        "value": "100"
+      }
+    ],
+    "image_details": {
+      "bytes": 6372056,
+      "format": "PNG",
+      "sha256": "0973e52476ef4a682e7bea3afa4afadd72e42cd4a630eefe7ac1034abfb57381",
+      "width": 1984,
+      "height": 1984
+    },
+    "image": "https://arweave.net/Z81W_fm391ScgvVtjw-AXbasEcN9_xGwXliwZyjZvjM",
+    "image_url": "https://arweave.net/Z81W_fm391ScgvVtjw-AXbasEcN9_xGwXliwZyjZvjM"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "address": "0xcdca6f6221a9b66d7c663c2d207b7df9a7980927",
+  "type": "ERC721",
+  "name": "1118lasdfwqer",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/134000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "134000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Wave Schematics #1",
+    "minted": true,
+    "artist": "luxpris",
+    "description": "An arcane schematic encased within a rotating vortex. Token data determines palette, vortex attributes, and the arrangement of all lines and shapes.",
+    "script_type": "p5@1.0.0",
+    "project_id": "134",
+    "curation_status": "presents",
+    "heritage_curation_status": "playground",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/134000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/134000001.png",
+    "generator_url": "https://generator.artblocks.io/134000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/134000001",
+    "royaltyInfo": {
+      "artistAddress": "0xbd3527f0c0f6bd513f0a1560fc0108a291c82806",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": "0"
+    },
+    "collection_name": "Wave Schematics by luxpris",
+    "website": "https://twitter.com/luxpris",
+    "token_hash": "0xf0efa7928d3c98728c168da1800b45903c949dfae687e437e88d08a17c516547",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/134/tokens/134000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/134000001",
+    "features": {
+      "Glitch": "False",
+      "Enclosure": "Circular",
+      "Color (HSB)": "228, 26, 250",
+      "Vortex Type": "Triangle",
+      "Vortex Theme": "Dark",
+      "Background State": "Static",
+      "Vortex Animation": "Static",
+      "Background Blend Mode": "Soft",
+      "Background Stroke Theme": "Light"
+    },
+    "traits": [
+      {
+        "trait_type": "Wave Schematics",
+        "value": "All Wave Schematics"
+      },
+      {
+        "trait_type": "Wave Schematics",
+        "value": "Glitch: False"
+      },
+      {
+        "trait_type": "Wave Schematics",
+        "value": "Enclosure: Circular"
+      },
+      {
+        "trait_type": "Wave Schematics",
+        "value": "Vortex Type: Triangle"
+      },
+      {
+        "trait_type": "Wave Schematics",
+        "value": "Vortex Theme: Dark"
+      },
+      {
+        "trait_type": "Wave Schematics",
+        "value": "Background State: Static"
+      },
+      {
+        "trait_type": "Wave Schematics",
+        "value": "Vortex Animation: Static"
+      },
+      {
+        "trait_type": "Wave Schematics",
+        "value": "Background Blend Mode: Soft"
+      },
+      {
+        "trait_type": "Wave Schematics",
+        "value": "Background Stroke Theme: Light"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

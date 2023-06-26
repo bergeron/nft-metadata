@@ -1,0 +1,39 @@
+{
+  "address": "0x43dfe4a8d4b9889183dd20ac5da466228e86ff51",
+  "type": "ERC721",
+  "name": "TheAussies",
+  "tokenCount": "2022",
+  "uri": "https://data.zoomtopia.xyz/TheAussies/json/1.json",
+  "metadata": {
+    "name": "The Aussies! #1",
+    "description": "Celebrating Aussies in Web 3 in 2022. Come to the pub and have a beer!",
+    "image": "https://data.zoomtopia.xyz/TheAussies/images/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Aussie Flag"
+      },
+      {
+        "trait_type": "Aussie Bloke",
+        "value": "Dark Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Rainbow Spew"
+      },
+      {
+        "trait_type": "Headware",
+        "value": "Ranga Medium Hair"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Green Zinc"
+      }
+    ]
+  }
+}

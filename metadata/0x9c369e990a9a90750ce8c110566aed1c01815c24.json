@@ -1,0 +1,42 @@
+{
+  "address": "0x9c369e990a9a90750ce8c110566aed1c01815c24",
+  "type": "ERC721",
+  "name": "Trippy Dogs",
+  "tokenCount": "20",
+  "uri": "ipfs://QmeoXL4kVsQxpWbgRX9eT98CYinEcXubzF67yzFDzNuAQ3/1.json",
+  "metadata": {
+    "dna": "d52c26f00c26efe06c691b2023df0ce74425aec3",
+    "name": "Trippy Dogs #1",
+    "description": "Trippy Dogs are a collection of 10.000 unique randomly generated Hot Dogs with 150 attributes, some are rarer than the others. Gotta mint em all to find out!",
+    "image": "ipfs://QmQFpLTq1Rgz8s64kE3BWqpQ3QRXRqAkQkE1PVT4x6aC1B/1.png",
+    "edition": 1,
+    "date": 1632411334589,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Bun",
+        "value": "Wood"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Drool"
+      },
+      {
+        "trait_type": "Feet",
+        "value": "Nimbus"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "Toppings",
+        "value": "Cola"
+      }
+    ],
+    "compiler": "Trippy Dogs NFT made possible thanks to HashLips Art Engine"
+  }
+}

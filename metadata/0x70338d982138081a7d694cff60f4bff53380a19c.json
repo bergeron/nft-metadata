@@ -1,0 +1,30 @@
+{
+  "address": "0x70338d982138081a7d694cff60f4bff53380a19c",
+  "type": "ERC1155",
+  "name": "C - Ag5G7O3upo",
+  "tokenCount": "3",
+  "uri": "https://our-metadata.s3.amazonaws.com/c/token.json",
+  "metadata": {
+    "id": 1,
+    "name": "C Anon",
+    "description": "C Anon",
+    "type": "C",
+    "image": "ipfs://bafybeia6cin4yghiiunnmlc75jbrpomdbf7mr3jvidk3sfdnob2ibntjfm/1.png",
+    "edition": 1,
+    "icid": "bafybeia6cin4yghiiunnmlc75jbrpomdbf7mr3jvidk3sfdnob2ibntjfm",
+    "date": 1650963110941,
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "Anon"
+      },
+      {
+        "trait_type": "Level",
+        "value": 5
+      }
+    ],
+    "model_url": "",
+    "animation_url": "",
+    "external_url": "http://website.com/"
+  }
+}

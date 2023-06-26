@@ -1,0 +1,59 @@
+{
+  "address": "0x02ad2cd3321a6a57eac0b35fd49795e880bf6ef0",
+  "type": "ERC721",
+  "name": "misa.art: Created on iPad",
+  "tokenCount": "32",
+  "uri": "ipfs://QmUtjAMKQs94qoSxLncnjPbgsjHHg4mHAFsj3NVbqYozwA",
+  "metadata": {
+    "name": "Evgen Čopi Gorišek - Lovely Beginning",
+    "description": "It's an artwork based on life cycle, painted digitally on Ipad in the same way/steps as I paint with acrylics and oil stick on canvas. The flowers are symbolizing the life and on the end when they wither they symbolize death.\n\nVerisart Certified: https://verisart.com/works/83c01e20-0aa4-476c-8a90-d5d7302ef53d",
+    "image": "ipfs://QmQC7Dxt2qyX9JSxJjN2WWSnLdtq6BkChqKU6o88yEbP1g",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 3999,
+          "height": 5000,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": null,
+        "frameRate": null,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0x4fe9ef602f978f34702eeaad93ae05a1faa4cc39",
+            "bps": 800
+          }
+        ],
+        "editionInfo": null
+      }
+    },
+    "external_url": "https://verisart.com/works/83c01e20-0aa4-476c-8a90-d5d7302ef53d",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Evgen Čopi Gorišek"
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Title",
+        "value": "Evgen Čopi Gorišek - Lovely Beginning"
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "5000x3999 px"
+      }
+    ]
+  }
+}

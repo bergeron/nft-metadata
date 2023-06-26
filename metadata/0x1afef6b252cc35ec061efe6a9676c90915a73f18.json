@@ -1,0 +1,58 @@
+{
+  "address": "0x1afef6b252cc35ec061efe6a9676c90915a73f18",
+  "type": "ERC721",
+  "name": "FLUF World: Thingies",
+  "tokenCount": "9590",
+  "uri": "https://thingies-api.fluf.world/api/token/1",
+  "metadata": {
+    "tokenId": 1,
+    "attributes": [
+      {
+        "trait_type": "Body",
+        "value": "Thingie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Furtive Outcome"
+      },
+      {
+        "trait_type": "Scene",
+        "value": "Debase Aim"
+      },
+      {
+        "trait_type": "Backpack",
+        "value": "Satchel (Weekend)"
+      },
+      {
+        "trait_type": "Music",
+        "value": "Normal"
+      }
+    ],
+    "description": null,
+    "image": "https://thingie-renders.s3.ap-northeast-1.amazonaws.com/renders_1/high_res_thingie_1.png",
+    "name": null,
+    "owner": "0xbe921e602ee59ba32e205a41fe2d101dc0300d23",
+    "animation_url": "https://thingie-renders.s3.ap-northeast-1.amazonaws.com/renders_1/thingie_vid_1.mp4",
+    "transparent_image": "https://thingie-renders.s3.ap-northeast-1.amazonaws.com/renders_1/high_res_transparent_image_1.png",
+    "unlockedStyles": [
+      "Root",
+      "Alien",
+      "Pablo Picasso",
+      "Surreal",
+      "Van Gogh",
+      "Geometric",
+      "Salvador Dali",
+      "Abstract",
+      "3D",
+      "Realistic",
+      "Goblin"
+    ],
+    "image_small": "https://thingies-compressed.s3.eu-west-1.amazonaws.com/1_432_432.png",
+    "image_medium": "https://thingies-compressed.s3.eu-west-1.amazonaws.com/1_864_864.png",
+    "image_large": "https://thingies-compressed.s3.eu-west-1.amazonaws.com/1_1296_1296.png"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "address": "0xd665a161c687bb0818f53a0815e5b8b038d983d4",
+  "type": "ERC721",
+  "name": "Guiteau Jockey Club - Omnihorse",
+  "tokenCount": "11",
+  "uri": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/nftjson/0xD665a161c687Bb0818F53a0815e5b8B038d983D4/1.json",
+  "metadata": {
+    "name": "Guiteau Jockey Club #1",
+    "description": "Guiteau Jockey Club membership NFTs",
+    "animation_url": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/Guiteau/1.mp4",
+    "image": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/Guiteau/1.gif",
+    "external_link": "https://www.omnihorse.io/",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0xfa93360A5bf0B9e012B771577Db71B85792ab4e9",
+    "edition": 1,
+    "date": 1665611760,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "Pink Blue"
+      },
+      {
+        "trait_type": "Frame Background",
+        "value": "Paintball"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Red Whip"
+      },
+      {
+        "trait_type": "Level",
+        "value": "Lv1"
+      }
+    ]
+  }
+}

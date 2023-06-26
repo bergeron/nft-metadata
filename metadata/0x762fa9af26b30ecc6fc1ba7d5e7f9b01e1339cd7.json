@@ -1,0 +1,25 @@
+{
+  "address": "0x762fa9af26b30ecc6fc1ba7d5e7f9b01e1339cd7",
+  "type": "ERC721",
+  "name": "Local House Member",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x762fa9af26b30ecc6fc1ba7d5e7f9b01e1339cd7/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x762fa9af26b30EcC6FC1ba7D5e7F9b01E1339cD7/icon?id=1",
+    "expiration": 1652962564,
+    "tokenId": "1",
+    "owner": "0x4368a43697338a7f30d105e12cb4e0ee62dc9649",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1652962564
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x762fa9af26b30EcC6FC1ba7D5e7F9b01E1339cD7",
+    "network": 1
+  }
+}

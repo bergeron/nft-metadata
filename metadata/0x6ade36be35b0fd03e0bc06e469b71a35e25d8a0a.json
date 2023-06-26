@@ -1,0 +1,69 @@
+{
+  "address": "0x6ade36be35b0fd03e0bc06e469b71a35e25d8a0a",
+  "type": "ERC721",
+  "name": "#robots",
+  "tokenCount": "105",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=hHmSAcZhZgcbtGbNened",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1588358751572?alt=media&token=d504e08c-b741-43d4-a645-f26ce77aa34e",
+    "forSale": true,
+    "description": "frank",
+    "contractAddress": "0x6ade36be35b0fd03e0bc06e469b71a35e25d8a0a",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1588359067,
+      "_nanoseconds": 248000000
+    },
+    "price": ".3",
+    "name": "frank",
+    "fiatPrice": "$63.51",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "name",
+        "value": "frank"
+      },
+      {
+        "trait_type": "style",
+        "value": "hero"
+      },
+      {
+        "trait_type": "styl",
+        "value": ""
+      },
+      {
+        "trait_type": "sty",
+        "value": ""
+      },
+      {
+        "trait_type": "st",
+        "value": ""
+      },
+      {
+        "trait_type": "s",
+        "value": ""
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "nam",
+        "value": ""
+      },
+      {
+        "trait_type": "na",
+        "value": ""
+      },
+      {
+        "trait_type": "n",
+        "value": ""
+      }
+    ],
+    "external_url": "https://mintbase.io/my-market/0x6ade36be35b0fd03e0bc06e469b71a35e25d8a0a",
+    "type": "ERC721"
+  }
+}

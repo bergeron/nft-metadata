@@ -1,0 +1,38 @@
+{
+  "address": "0xc940f8d60e533fd7d4454545d7ef260e7225f04f",
+  "type": "ERC721",
+  "name": "Imaginary Punks (IMUNKS)",
+  "tokenCount": "100",
+  "uri": "ipfs://QmSG8zjvCLNrCHePdq5GK7n3TzFBH1kH32a15zrj7cVh1H/1.json",
+  "metadata": {
+    "name": "Imaginary Punks #1",
+    "description": "Punks... but imaginary ones!",
+    "image": "ipfs://QmX5JCShStRBCzbgNwfcjUoQ21BWE5Z6Q4zJk1LYRPDD2N/1.png",
+    "dna": "43536fef098f5914d443c7b0c3c8bc0541c84b83",
+    "edition": 1,
+    "date": 1650989798738,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Human2"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pink & White"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cowboy"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

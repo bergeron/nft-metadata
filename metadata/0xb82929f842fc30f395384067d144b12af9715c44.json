@@ -1,0 +1,37 @@
+{
+  "address": "0xb82929f842fc30f395384067d144b12af9715c44",
+  "type": "ERC721",
+  "name": "The Scribbles NFT",
+  "tokenCount": "2222",
+  "uri": "ipfs://QmdPeUnGCQpUPukCFnf9XR2Xk1KyMr5xKxsPo9qenw7vyd/1.json",
+  "metadata": {
+    "name": "Scribbles #1",
+    "description": "2222 scribbles. CC0.",
+    "image": "ipfs://QmV3uNEwuhUrLEmYCWXbqVN3SfSpK24eqqww796LqYDzB7/1.png",
+    "dna": "e8777ca13498c7f87a173b119381aa0b58f54208",
+    "edition": 1,
+    "date": 1657314108496,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Scribble 1",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Scribble 2",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Scribble 3",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Scribble 4",
+        "value": "Orange"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0x741ebc5479a89ebe654121df894e3e030959736b",
+  "type": "ERC721",
+  "name": "photobooks",
+  "tokenCount": "1",
+  "uri": "https://assets.cargo.build/fea71adba2d14fd7a9bfb24f64556288_pub.json",
+  "metadata": {
+    "$schema": "https://assets.cargo.build/cargo_public_asset_schema_v1.json",
+    "$evidence": "https://assets.cargo.build/fea71adba2d14fd7a9bfb24f64556288_evidence.json",
+    "name": "The Art of the Russ, Volume One",
+    "description": "The first volume of Seattle based neural impressionist and photographyer, David Russell",
+    "image": "https://assets.cargo.build/fea71adba2d14fd7a9bfb24f64556288_preview.jpeg",
+    "metadata": {
+      "origination": {
+        "author": "David Russell",
+        "author_pgp_public_key": "5F36-314B-494B-0E23",
+        "author_website": "https://russd.keybase.pub",
+        "title": "The Art of the Russ, Volume 1",
+        "item_details": {
+          "type": "photo book",
+          "dimension_height_inches": 12,
+          "dimension_width_inches": 12,
+          "pages": "back cover",
+          "origination_page_location": "center bottom",
+          "creation_service": "amazon print"
+        }
+      }
+    }
+  }
+}

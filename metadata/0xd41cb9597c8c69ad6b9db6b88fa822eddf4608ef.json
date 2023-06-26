@@ -1,0 +1,64 @@
+{
+  "address": "0xd41cb9597c8c69ad6b9db6b88fa822eddf4608ef",
+  "type": "ERC721",
+  "name": "Lock Name",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xd41cb9597c8c69ad6b9db6b88fa822eddf4608ef/1",
+  "metadata": {
+    "name": "Lock Name",
+    "description": "This is the description where markdown is supported.\nThis is a link: [Some Link](https://benbodhi.com)\n# H1\n## H2\n### H3\n**bold text**\n*italicized text*\n> blockquote\n1. First item\n2. Second item\n3. Third item\n- First item\n- Second item\n- Third item\n`code`\n---\nI need to highlight these ==very important words==.\nX^2^\nShademark^⌐◨-◨^ ",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xd41cb9597c8c69ad6b9db6b88fa822eddf4608ef/icon",
+    "attributes": [
+      {
+        "value": "2023-11-11",
+        "trait_type": "event_start_date",
+        "display_type": "date"
+      },
+      {
+        "value": "11:11",
+        "trait_type": "event_start_time",
+        "display_type": "date"
+      },
+      {
+        "value": "1111 Street Road, Town City, State, Country, 1234567890",
+        "trait_type": "event_address"
+      },
+      {
+        "value": "2023-11-11",
+        "trait_type": "event_start_date"
+      },
+      {
+        "value": "11:11",
+        "trait_type": "event_start_time"
+      },
+      {
+        "value": "1111 Street Road, Town City, State, Country, 1234567890",
+        "trait_type": "event_address"
+      },
+      {
+        "value": "https://meetinglink.url",
+        "trait_type": "event_meeting_url"
+      },
+      {
+        "value": "Property Value",
+        "trait_type": "Property Type"
+      },
+      {
+        "value": "Another Value",
+        "trait_type": "Another Property Type"
+      }
+    ],
+    "youtube_url": "https://youtu.be/INbtbooYmaQ",
+    "external_url": "https://external.url",
+    "animation_url": "",
+    "background_color": "#691fb2",
+    "tokenId": "1",
+    "owner": "0xa903c06bf35286f6d1cdad25396748353979a44c",
+    "userMetadata": {
+      "public": {}
+    },
+    "keyId": "1",
+    "lockAddress": "0xd41cb9597c8C69AD6b9db6B88Fa822eDDf4608eF",
+    "network": 1
+  }
+}

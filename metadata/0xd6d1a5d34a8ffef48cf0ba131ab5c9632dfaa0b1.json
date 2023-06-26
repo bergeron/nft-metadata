@@ -1,0 +1,45 @@
+{
+  "address": "0xd6d1a5d34a8ffef48cf0ba131ab5c9632dfaa0b1",
+  "type": "ERC721",
+  "name": "MetaPhysical Art Institute",
+  "tokenCount": "35",
+  "uri": "https://arweave.net/KnJ6lPbZyVzdwDJIdUxb3c72bJRRa1-tgYdLGJF4F8s/1",
+  "metadata": {
+    "name": "MAI Membership NFT #1/25",
+    "created_by": "MetaPhysical Art Institute",
+    "external_url": "https://www.metaphysicalartinstitute.com",
+    "description": "The \"Architect\" Membership NFT. VIP status token for the first 25 members of MAI.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "MetaPhysical Art Institute"
+      },
+      {
+        "display_type": "text",
+        "trait_type": "Collection",
+        "value": "Membership"
+      },
+      {
+        "display_type": "text",
+        "trait_type": "Rank",
+        "value": "Architect"
+      }
+    ],
+    "animation_details": {
+      "bytes": 42476,
+      "format": "GLB",
+      "sha256": "c83bfce2cec68c88f638d89bc0144fd74649e36d92dd00c433df32b06fa68054"
+    },
+    "animation": "https://arweave.net/6SYvfC6-mFPJ5y58T2vafdgxz58F9OQP2ZOdFLtUIC0",
+    "animation_url": "https://arweave.net/6SYvfC6-mFPJ5y58T2vafdgxz58F9OQP2ZOdFLtUIC0",
+    "image_details": {
+      "bytes": 2641502,
+      "format": "PNG",
+      "sha256": "0dc0951aaa63b978e1f5b56501a67b79248a0772899a854e57279a5f31672e46",
+      "width": 1920,
+      "height": 1080
+    },
+    "image": "https://arweave.net/nwnDJsSfGNnr7ieUmxL5CLZWj2vpzyB3yAksHd4VkRQ",
+    "image_url": "https://arweave.net/nwnDJsSfGNnr7ieUmxL5CLZWj2vpzyB3yAksHd4VkRQ"
+  }
+}

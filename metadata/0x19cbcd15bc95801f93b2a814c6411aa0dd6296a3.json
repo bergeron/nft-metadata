@@ -1,0 +1,45 @@
+{
+  "address": "0x19cbcd15bc95801f93b2a814c6411aa0dd6296a3",
+  "type": "ERC721",
+  "name": "Elevate Vinyls",
+  "tokenCount": "15",
+  "uri": "https://arweave.net/YkwgLtGgRY1Njn7QU8q28eRRhE19Gxb_g3MI97xyJdE/1",
+  "metadata": {
+    "name": "Elevate Vinyl - Caught You Genesis Edition #1/15",
+    "created_by": "Elevate",
+    "description": "Elevate Vinyl - Caught You by Elevate. Genesis Edition.",
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "value": "Genesis Edition"
+      },
+      {
+        "trait_type": "Song",
+        "value": "Caught You"
+      }
+    ],
+    "animation_details": {
+      "bytes": 73345071,
+      "format": "MP4",
+      "duration": 147,
+      "sha256": "5281b95ec8c863f8bd0f83eb30b3bcb85fc60ba34a021948e2c099914cf66389",
+      "width": 2160,
+      "height": 2160,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/t0Y11Z8ljZ6wM5ut5tKiDBVhBnGPPnnDHEchiOlSN5o",
+    "animation_url": "https://arweave.net/t0Y11Z8ljZ6wM5ut5tKiDBVhBnGPPnnDHEchiOlSN5o",
+    "image_details": {
+      "bytes": 16857830,
+      "format": "GIF",
+      "sha256": "ea598bd50d7ea379c9f3b8b9d35b18b2a643e772260a8b9bbf3951919dbcb073",
+      "width": 518,
+      "height": 518
+    },
+    "image": "https://arweave.net/wC6whCYaS3irYGVIHzfVh8dfr1mh4tcGn0j75xC2dr4",
+    "image_url": "https://arweave.net/wC6whCYaS3irYGVIHzfVh8dfr1mh4tcGn0j75xC2dr4"
+  }
+}

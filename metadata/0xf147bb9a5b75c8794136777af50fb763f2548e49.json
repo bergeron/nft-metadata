@@ -1,0 +1,137 @@
+{
+  "address": "0xf147bb9a5b75c8794136777af50fb763f2548e49",
+  "type": "ERC721",
+  "name": "Cryptagion Ethogens",
+  "tokenCount": "234",
+  "uri": "https://lab.cryptagion.com/tokenmeta/getmetadata.php?tokenid=1",
+  "metadata": {
+    "external_url": "https://nexus.cryptagion.com/",
+    "image": "https://nexus.cryptagion.com/img/cardpic_1_5.png",
+    "name": "Ethogen #1",
+    "attributes": [
+      {
+        "trait_type": "Level",
+        "value": 0,
+        "max_value": 100
+      },
+      {
+        "trait_type": "XP",
+        "value": 0,
+        "max_value": 32000
+      },
+      {
+        "trait_type": "Species",
+        "value": "Viddy"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Ethogen Class",
+        "value": "Virus"
+      },
+      {
+        "trait_type": "Attack Vector",
+        "value": "Airborne"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Base Infection Rate",
+        "value": 136,
+        "max_value": 255
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Base Mortality Rate",
+        "value": 20,
+        "max_value": 255
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Base Resistance",
+        "value": 48,
+        "max_value": 255
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Base Stealth",
+        "value": 168,
+        "max_value": 255
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Modified Infection Rate",
+        "value": 1,
+        "max_value": 255
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Modified Mortality Rate",
+        "value": 1,
+        "max_value": 255
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Modified Resistance",
+        "value": 1,
+        "max_value": 255
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Modified Stealth",
+        "value": 1,
+        "max_value": 255
+      },
+      {
+        "trait_type": "Mutation",
+        "value": "Radioactive"
+      },
+      {
+        "trait_type": "Mutation",
+        "value": "Zombification"
+      },
+      {
+        "trait_type": "Mutation",
+        "value": "Auto-Immune"
+      },
+      {
+        "trait_type": "Weak Against",
+        "value": "Bacteria"
+      },
+      {
+        "trait_type": "Special",
+        "value": "Callus Shield"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Boost Infection",
+        "value": 0,
+        "max_value": 255
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Boost Mortality",
+        "value": 0,
+        "max_value": 255
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Boost Resistance",
+        "value": 0,
+        "max_value": 255
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Boost Stealth",
+        "value": 0,
+        "max_value": 255
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Birthday",
+        "value": 1635931291
+      }
+    ]
+  }
+}

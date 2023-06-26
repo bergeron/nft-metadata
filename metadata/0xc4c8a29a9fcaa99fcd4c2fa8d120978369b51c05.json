@@ -1,0 +1,54 @@
+{
+  "address": "0xc4c8a29a9fcaa99fcd4c2fa8d120978369b51c05",
+  "type": "ERC721",
+  "name": "Hero Infinity Cards",
+  "tokenCount": "78",
+  "uri": "https://heroinfinity.mypinata.cloud/ipfs/QmShqcYMpJQLZnyNqxqGZqb9zaE2CXPntuMVx4v6idNHas/1.json",
+  "metadata": {
+    "image": "https://heroinfinity.mypinata.cloud/ipfs/QmZxdcUsVNogxjkKAHtqAK3npyEQ7swtw8zBbTQdFQiLSP/1.png",
+    "description": "Hailing from a distant mountain range and raised by an ancient order of monks, Isaac has escaped brutality and learned to forge his own destiny.",
+    "external_url": "https://heroinfinity.io/heroes/isaac",
+    "name": "Isaac",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Immortal"
+      },
+      {
+        "trait_type": "Primary",
+        "value": "Agility"
+      },
+      {
+        "trait_type": "Attack Type",
+        "value": "Melee"
+      },
+      {
+        "trait_type": "Strength",
+        "value": 23
+      },
+      {
+        "trait_type": "Agility",
+        "value": 24
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 12
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Strength",
+        "value": "1.60"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Agility",
+        "value": "2.80"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Intelligence",
+        "value": "1.80"
+      }
+    ]
+  }
+}

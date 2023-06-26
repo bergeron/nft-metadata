@@ -1,0 +1,45 @@
+{
+  "address": "0xb93b1753d15690c85fb6f97a86a63150ea0de22d",
+  "type": "ERC721",
+  "name": "pepenati-721test",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/BWFdkniiWumfToJEM9zsinWNjd9GAGC3-p5alFfg9eI/1",
+  "metadata": {
+    "name": "pepenati-1-721test",
+    "created_by": "pepenati",
+    "description": "pepenati 721 testing",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "pepenati"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Number",
+        "value": "01",
+        "max_value": "99"
+      },
+      {
+        "trait_type": "Suit",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Money"
+      }
+    ],
+    "image_details": {
+      "bytes": 70275,
+      "format": "JPEG",
+      "sha256": "6fa9289f7424e56eb6029b3500eb074f0f3160a7a09a9dae35cf7601866b31d3",
+      "width": 991,
+      "height": 672
+    },
+    "image": "https://arweave.net/2ZklamiaqBjifThSVeip-rctnFzvSall2LmMwqWn-EQ",
+    "image_url": "https://arweave.net/2ZklamiaqBjifThSVeip-rctnFzvSall2LmMwqWn-EQ"
+  }
+}

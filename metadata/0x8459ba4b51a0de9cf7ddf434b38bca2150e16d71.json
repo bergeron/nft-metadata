@@ -1,0 +1,73 @@
+{
+  "address": "0x8459ba4b51a0de9cf7ddf434b38bca2150e16d71",
+  "type": "ERC721",
+  "name": "VALIBOTS Tier 1",
+  "tokenCount": "355",
+  "uri": "https://app.valibots.com/api/nft/tier1/1.json",
+  "metadata": {
+    "name": "ValiBots NFT #1",
+    "description": "ValiBots Freedom Fighters Collection",
+    "external_url": "",
+    "image": "https://web.mercurialis.io/images/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple Rain"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Porcelain"
+      },
+      {
+        "trait_type": "Bikini",
+        "value": "Green Thong"
+      },
+      {
+        "trait_type": "Bottoms",
+        "value": "Red Bellbottoms"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "Demon Tattoo"
+      },
+      {
+        "trait_type": "Cybernetics",
+        "value": "None"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Cyberop"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Visor"
+      },
+      {
+        "trait_type": "Lips",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Red Side Shaved "
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Plasma Pistol"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Gold-High-Heels"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

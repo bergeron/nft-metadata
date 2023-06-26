@@ -1,0 +1,57 @@
+{
+  "address": "0x8ccf354bf0d84e06be508efc7cac1946bcf0766c",
+  "type": "ERC721",
+  "name": "NSTEST",
+  "tokenCount": "2",
+  "uri": "https://cdn-api.niftykit.com/reveal/DmJ2XYa54LGceYVd2GGN/1",
+  "metadata": {
+    "dna": "3320c118f3a82109efa3516fb9285222d10a2dcd0bf3c0bc2cdf071cae3edcb6",
+    "name": "NumbSkull #1",
+    "description": "Minimal. Iconic. Skulls.",
+    "image": "https://nftstorage.link/ipfs/bafybeie34s3s5hb7x5olw64yv3vghht2yxklxbhxyzcsaxzu7utdnzdgcy/1.svg",
+    "imageHash": "424f8d3f4e3451903dbbf2789ade7381107292276b7af144afa957d91bfc0c9b",
+    "edition": 1,
+    "date": 1662667824963,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Skull",
+        "value": "Hoodie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Holler"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Droopy"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bulging"
+      },
+      {
+        "trait_type": "Death Day",
+        "value": "February 24, 2014"
+      },
+      {
+        "trait_type": "Killed By",
+        "value": "A brilliant human."
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.svg",
+          "type": "image/svg"
+        }
+      ]
+    },
+    "compiler": "NumbSkulls",
+    "seller_fee_basis_points": 750,
+    "fee_recipient": "0xA43109375972232Da6d9Ed2457D4bcf85D7847FE"
+  }
+}

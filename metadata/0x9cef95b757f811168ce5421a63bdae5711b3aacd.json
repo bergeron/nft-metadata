@@ -1,0 +1,32 @@
+{
+  "address": "0x9cef95b757f811168ce5421a63bdae5711b3aacd",
+  "type": "ERC721",
+  "name": "LeCamion.io - Crash Test Trucks",
+  "tokenCount": "14",
+  "uri": "https://api.lecamion.io/v1/nft/metadata/truck-crash-test/1",
+  "metadata": {
+    "name": "Crash Test Truck #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Tires",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Stickers",
+        "value": "None"
+      }
+    ],
+    "image": "https://api.lecamion.io/v1/nft/image/truck-crash-test/1",
+    "image_thumbnail": "https://api.lecamion.io/v1/nft/image/truck-crash-test/1/small",
+    "external_url": "https://lecamion.io/vehicle/truck-crash-test/1",
+    "description": "These Trucks will be the first to hit the road in the game Le Camion at https://lecamion.io"
+  }
+}

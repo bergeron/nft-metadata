@@ -1,0 +1,55 @@
+{
+  "address": "0x00bd8f77a6222a17cda498807fa938031e158298",
+  "type": "ERC721",
+  "name": "ToxSam",
+  "tokenCount": "90",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=BXotGMW5NbFh4kysB2DZ",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1585217234819?alt=media&token=a8b77b5c-aec7-40b0-b5a6-260947d89500",
+    "forSale": false,
+    "contractAddress": "0x00bd8f77a6222a17cda498807fa938031e158298",
+    "description": "Custom art by ToxSam, a token of exclusively gratitude for everyone attending the first Momus Crypto Art Meet-up in held in Decentraland 25 March 2020. Hosted by Polygonal Mind team.",
+    "tags": [],
+    "amountToMint": 20,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1585217715,
+      "_nanoseconds": 660000000
+    },
+    "price": 0,
+    "name": "Momus Collection Meta-Canned Crypto Art",
+    "fiatPrice": "$0.00",
+    "attributes": [
+      {
+        "trait_type": "website",
+        "value": "https://play.decentraland.org/?position=12%2C38&realm=unicorn-blue"
+      },
+      {
+        "trait_type": "location",
+        "value": "212 Adelaide St W, Toronto, ON M5H 1W7, Canada"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJQ5-twdE0K4gRvO3w41TUnes"
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1585090800
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x00bd8f77a6222a17cda498807fa938031e158298",
+    "type": "ERC721"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "address": "0x0ff5cc8eed3d129e2c4294bfc7d25b85323a577f",
+  "type": "ERC721",
+  "name": "Muddled Beasts Blind Mint",
+  "tokenCount": "4",
+  "uri": "ipfs://QmZBoNGU89daMihrfjoZ3RQMtCLhdk5ZgLK7QGJcHEW4LL/1.json",
+  "metadata": {
+    "name": "Muddled Beasts #1",
+    "description": "Muddled Beasts is a 10,000 beast menagerie of unique digital collectibles. A mixed and twisted collection specially bred from your favorite barnyard and jungle animals.",
+    "image": "ipfs://QmV3tJBAyYaMKpRaBTpu9xM6Goz9qqAj74V7dDmJ3EuDPZ/1.png",
+    "dna": "6332c89352f4a90d40c9af30a50847907d61d704",
+    "edition": 1,
+    "date": 1642902272765,
+    "artist": "Design by Pixel Soup",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "jungleblue"
+      },
+      {
+        "trait_type": "tail",
+        "value": "monkeytail"
+      },
+      {
+        "trait_type": "top",
+        "value": "dogtop"
+      },
+      {
+        "trait_type": "head",
+        "value": "elephanthead"
+      },
+      {
+        "trait_type": "torso",
+        "value": "gulltorso"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "snakeeyes"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "chickenmouth"
+      },
+      {
+        "trait_type": "limbs",
+        "value": "monkeylimbs"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

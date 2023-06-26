@@ -1,0 +1,70 @@
+{
+  "address": "0x46541c7c9904112e5e62847bebb148051f71bafa",
+  "type": "ERC721",
+  "name": "Beep Boop Botz",
+  "tokenCount": "10000",
+  "uri": "https://beepboopbotz.io/api/bot/metadata/1.json",
+  "metadata": {
+    "name": "El Mono",
+    "image": "ipfs://bafybeia6ubxryt4c6y72ckfsj7gjgf2yccm6d64uf7xwvbpmc2jqxwtzsq/1.png",
+    "description": "Beep Boop Botz: Recharged, rebuilt, and earn rewards! 🌟\n\n10,000 robots living on the Ethereum blockchain, battling to the death each season for rewards and prizes. 🤖💥🏆\n\nUpgrade your botz, search the blockchain for items to assist you in battle, and learn how to play at BeepBoopBotz.io",
+    "external_url": "beepboopbotz.io",
+    "token_id": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "1/1"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "1/1"
+      },
+      {
+        "trait_type": "Left Leg",
+        "value": "1/1"
+      },
+      {
+        "trait_type": "Body",
+        "value": "1/1"
+      },
+      {
+        "trait_type": "Belt",
+        "value": "1/1"
+      },
+      {
+        "trait_type": "Right Leg",
+        "value": "1/1"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "1/1"
+      },
+      {
+        "trait_type": "Reactor Base",
+        "value": "1/1"
+      },
+      {
+        "trait_type": "Battery Core",
+        "value": "1/1"
+      },
+      {
+        "trait_type": "BoopTrooper Head",
+        "value": "1/1"
+      },
+      {
+        "trait_type": "Evolved",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Damage",
+        "value": 350,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Defense",
+        "value": 350,
+        "display_type": "boost_number"
+      }
+    ]
+  }
+}

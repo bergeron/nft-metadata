@@ -1,0 +1,39 @@
+{
+  "address": "0xd3c22f8020066b46441e957ba18b6c73561d28e3",
+  "type": "ERC721",
+  "name": "BlackBox.Art",
+  "tokenCount": "26",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=3UUuFRDZQ2Yha7KUWgTr",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1575803107526?alt=media&token=96b39f52-7c93-4b3e-988b-a2f83016a312",
+    "isForSale": true,
+    "description": "Recording the events of Art Basel Miami.  A throwback to the Miami Vice TV series. A glitched future comment.  Present, past & future all rolled into one.",
+    "contractAddress": "",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted//3UUuFRDZQ2Yha7KUWgTr",
+    "minter": "0xDC546f477f273bCF327297bf4ADCB671b5f20BE1",
+    "mintedOn": {
+      "_seconds": 1575803140,
+      "_nanoseconds": 528000000
+    },
+    "price": "0.1",
+    "name": "Miami Vice (Still)",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Miami Vice (Still)"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "id": null
+  }
+}

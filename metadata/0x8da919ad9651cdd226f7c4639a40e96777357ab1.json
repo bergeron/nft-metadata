@@ -1,0 +1,42 @@
+{
+  "address": "0x8da919ad9651cdd226f7c4639a40e96777357ab1",
+  "type": "ERC721",
+  "name": "EARTH",
+  "tokenCount": "6",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=lm3qsPHqqSBzwaEUZhy2",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1589296524494?alt=media&token=8061e9e8-2cc0-42c2-b8cf-f4b45c65f2b0",
+    "forSale": true,
+    "contractAddress": "0x8da919ad9651cdd226f7c4639a40e96777357ab1",
+    "description": "New York, NY, USA",
+    "ethPrice": "0.1",
+    "amountToMint": "1",
+    "minter": "0xb203faa6207ce9384d46fa5b9f397d304f17943c",
+    "mintedOn": {
+      "_seconds": 1589296879,
+      "_nanoseconds": 440000000
+    },
+    "price": "$0.00",
+    "name": "New York USA",
+    "fiatPrice": "$19.26",
+    "minted": "Minted on Mintbase.io",
+    "youtube_url": "",
+    "category": "alJuInV4dezvHTNU8Dp1",
+    "external_url": "https://mintbase.io/my-market/0x8da919ad9651cdd226f7c4639a40e96777357ab1",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "lm3qsPHqqSBzwaEUZhy2"
+      },
+      {
+        "trait_type": "location",
+        "value": "New York, NY, USA"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJOwg_06VPwokRYv534QaPC8g"
+      }
+    ],
+    "type": "ERC721"
+  }
+}

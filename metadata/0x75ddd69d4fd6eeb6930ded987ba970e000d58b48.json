@@ -1,0 +1,40 @@
+{
+  "address": "0x75ddd69d4fd6eeb6930ded987ba970e000d58b48",
+  "type": "ERC721",
+  "name": "pxPengus",
+  "tokenCount": "93",
+  "uri": "https://thepengus.vercel.app/api/1",
+  "metadata": {
+    "name": "pxPengus #1",
+    "description": "Pixel Penguin revolution. Winter is coming.",
+    "tokenId": 1,
+    "image": "https://gateway.pinata.cloud/ipfs/QmWg5pZusKGxU1S5UQgtLzBQnoeYoUojb2uBbYHJFu3EYU",
+    "external_url": "https://pxpengus.co/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Mint"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Mint"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Gold Medal"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Eyepatch"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Macaroni"
+      },
+      {
+        "trait_type": "Pixel",
+        "value": "Pengus"
+      }
+    ]
+  }
+}

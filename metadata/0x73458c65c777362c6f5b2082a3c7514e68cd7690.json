@@ -1,0 +1,24 @@
+{
+  "address": "0x73458c65c777362c6f5b2082a3c7514e68cd7690",
+  "type": "ERC721",
+  "name": "Decentralized Refreshments",
+  "tokenCount": "5",
+  "uri": "ipfs://QmakS7BVuuvu57REbn9mkbmefTdw7iA7oktf2NJ3yGL1Kq",
+  "metadata": {
+    "name": "Snapple Refreshment",
+    "description": "Sip, savor, and share: experience the freedom of decentralized Snapple!",
+    "image": "ipfs://QmTr1cxs9jPU2eby9PLoCNtfDDKZ8mDfQKvJebDjwcvpB2",
+    "attributes": [
+      {
+        "trait_type": "Refreshment",
+        "value": "Snapple"
+      },
+      {
+        "trait_type": "Decentralized",
+        "value": "Yes"
+      }
+    ],
+    "external_url": "magnet:?xt=urn:btih:db2212c1c8cc42e083759b28e800a9eebe1ad9c3&dn=refreshment-_0004_snapple-refreshment.png&tr=udp%3A%2F%2Ftracker.graviton.xyz%3A8000",
+    "is_tnft": true
+  }
+}

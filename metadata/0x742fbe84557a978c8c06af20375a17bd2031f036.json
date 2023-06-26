@@ -1,0 +1,29 @@
+{
+  "address": "0x742fbe84557a978c8c06af20375a17bd2031f036",
+  "type": "ERC721",
+  "name": "iamai.wtf",
+  "tokenCount": "10000",
+  "uri": "https://iamaiwtf.s3.amazonaws.com/metadata/1.json",
+  "metadata": {
+    "name": "AI #1",
+    "image": "https://iamaiwtf.s3.amazonaws.com/assets/1.png",
+    "attributes": [
+      {
+        "trait_type": "Emotion",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Mohawk"
+      },
+      {
+        "trait_type": "Sex",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Trait Count",
+        "value": "2 Attributes"
+      }
+    ]
+  }
+}

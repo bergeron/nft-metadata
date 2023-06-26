@@ -1,0 +1,54 @@
+{
+  "address": "0x14c3d0ccf2c031aad0467ff685e0905884abcf9c",
+  "type": "ERC721",
+  "name": "Ordinal Mini Zombie",
+  "tokenCount": "23",
+  "uri": "ipfs://QmQic43iBTYHqssVhZ5NpYNEehgNdUk8a7N9hCuo4h6LF6/1",
+  "metadata": {
+    "name": "Zombie481",
+    "description": "3333 Mini zombies residing in a small town called zombieland.",
+    "image": "ipfs://QmZ4qqCMHiKpb1B5BTrHmaTJocMJjbzG1maiwr3amQL66B/1.png",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "zombie481.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": []
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Floor"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Body A"
+      },
+      {
+        "trait_type": "Blouse",
+        "value": "BL WD"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eye D4"
+      },
+      {
+        "trait_type": "Wound",
+        "value": "Wound C"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cap AA"
+      }
+    ],
+    "compiler": "NFTexport.io"
+  }
+}

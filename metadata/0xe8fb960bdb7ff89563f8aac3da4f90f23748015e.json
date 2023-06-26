@@ -1,0 +1,50 @@
+{
+  "address": "0xe8fb960bdb7ff89563f8aac3da4f90f23748015e",
+  "type": "ERC1155",
+  "name": "Titans Heroes",
+  "tokenCount": "7",
+  "uri": "ipfs://bafybeihud2vcovq7pmdm2bvlrkeu7ixzdexx5woasxdzopjcbjkth2deiq/1.json",
+  "metadata": {
+    "name": "Titan's Hero #1",
+    "description": "A single hero from a collection of 2000 uniquely generated hero art work.",
+    "image": "ipfs://bafybeibs6wpu7ttqdilbxgf3jxxuy6a4u7xml6rl4n6c7b52chknvznh4e/1.png",
+    "dna": "5f8e55f420a580a3fe511ac83b5bcf4060ab8023",
+    "edition": 1,
+    "date": 1681240559196,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Emerald"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Silver Visor Blue Screen Dugar"
+      },
+      {
+        "trait_type": "Suit",
+        "value": "Hero Blue"
+      },
+      {
+        "trait_type": "Energy",
+        "value": "Ruby"
+      },
+      {
+        "trait_type": "Riggy",
+        "value": "Flare"
+      },
+      {
+        "trait_type": "Aura",
+        "value": "Purple Static"
+      },
+      {
+        "trait_type": "Halo",
+        "value": "Cosmic"
+      },
+      {
+        "trait_type": "Lasers",
+        "value": "Omni_s Essence"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

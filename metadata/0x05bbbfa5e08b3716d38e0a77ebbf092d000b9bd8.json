@@ -1,0 +1,43 @@
+{
+  "address": "0x05bbbfa5e08b3716d38e0a77ebbf092d000b9bd8",
+  "type": "ERC721",
+  "name": "Quack Ducks War",
+  "tokenCount": "1420",
+  "uri": "ipfs://QmNcRpDTFqm1ptzuqYxqszHwgeWGVspq86Jxp6byyjrTVL/1",
+  "metadata": {
+    "dna": "f76d9d747255b4c6c8412249ab9676a9c949723d6d706f3f7df7ef01dd2288c3",
+    "name": "Quack Duck #1",
+    "description": "Quack Quack Quack Quack Quack",
+    "image": "ipfs://QmUzp3LvR6bAEoTDd6JDv4vCspqupMcD8XEk7YuTipPGAU/1.png",
+    "imageHash": "0c412e593669b7f907eca11cc7af66774c365b6b98dc7697f8b95c6ba0c19e94",
+    "edition": 1,
+    "date": 1654140847783,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Business"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Troop"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Surpirsed"
+      }
+    ],
+    "compiler": "Duck"
+  }
+}

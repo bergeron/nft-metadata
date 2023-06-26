@@ -1,0 +1,42 @@
+{
+  "address": "0x6c7c97caff156473f6c9836522ae6e1d6448abe7",
+  "type": "ERC721",
+  "name": "[genesis] vibes",
+  "tokenCount": "1777",
+  "uri": "data:application/json;base64,eyJuYW1lIjogInZpYmUgIzEiLCAiZGVzY3JpcHRpb24iOiAidmliZXMgaXMgYSBnZW5lcmF0aXZlIGFydCBjb2xsZWN0aW9uLCByYW5kb21seSBjcmVhdGVkIGFuZCBzdG9yZWQgb24gY2hhaW4uIGVhY2ggdG9rZW4gaXMgYW4gaW50ZXJhY3RpdmUgaHRtbCBwYWdlIHRoYXQgYWxsb3dzIHlvdSB0byByZW5kZXIgeW91ciB2aWJlIGF0IGFueSBzaXplLiB2aWJlcyBtYWtlIHRoZWlyIGNvbG9yIHBhbGV0dGUgYXZhaWxhYmxlIG9uIGNoYWluLCBzbyBmZWVsIGZyZWUgdG8gY2FycnkgeW91ciBjb2xvcnMgd2l0aCB5b3Ugb24geW91ciBhZHZlbnR1cmVzLiIsICJpbWFnZSI6ICJodHRwczovL3ZpYmVzLmFydC92aWJlcy9qcGcvMS5qcGciLCAiYXR0cmlidXRlcyI6IFt7ICJ0cmFpdF90eXBlIjogImVsZW1lbnQiLCAidmFsdWUiOiAibGlnaHQiIH0sIHsgInRyYWl0X3R5cGUiOiAicGFsZXR0ZSIsICJ2YWx1ZSI6ICJzeWx2YW4iIH0sIHsgInRyYWl0X3R5cGUiOiAiY29sb3JzIiwgInZhbHVlIjogIjUiIH0sIHsgInRyYWl0X3R5cGUiOiAic3R5bGUiLCAidmFsdWUiOiAic21vb3RoIiB9LCB7ICJ0cmFpdF90eXBlIjogImdyYXZpdHkiLCAidmFsdWUiOiAibG93IiB9LCB7ICJ0cmFpdF90eXBlIjogImdyYWluIiwgInZhbHVlIjogIm1lZGl1bSIgfSwgeyAidHJhaXRfdHlwZSI6ICJkaXNwbGF5IiwgInZhbHVlIjogIm1pcnJvcmVkVXBzaWRlRG93biIgfV19",
+  "metadata": {
+    "name": "vibe #1",
+    "description": "vibes is a generative art collection, randomly created and stored on chain. each token is an interactive html page that allows you to render your vibe at any size. vibes make their color palette available on chain, so feel free to carry your colors with you on your adventures.",
+    "image": "https://vibes.art/vibes/jpg/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "element",
+        "value": "light"
+      },
+      {
+        "trait_type": "palette",
+        "value": "sylvan"
+      },
+      {
+        "trait_type": "colors",
+        "value": "5"
+      },
+      {
+        "trait_type": "style",
+        "value": "smooth"
+      },
+      {
+        "trait_type": "gravity",
+        "value": "low"
+      },
+      {
+        "trait_type": "grain",
+        "value": "medium"
+      },
+      {
+        "trait_type": "display",
+        "value": "mirroredUpsideDown"
+      }
+    ]
+  }
+}

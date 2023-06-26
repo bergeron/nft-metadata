@@ -1,0 +1,42 @@
+{
+  "address": "0xa23bb940ae07a29999d27f56485a9a5ecdb91c91",
+  "type": "ERC721",
+  "name": "Doodle Punks Genesis",
+  "tokenCount": "806",
+  "uri": "ipfs://QmPHFacfDHZSUaBBbRg9FjtXLbJzZM5UAsgTHyHbMQFRYx/1.json",
+  "metadata": {
+    "name": " #1",
+    "description": "9,999 Doodle Punks Genesys Avatars Bringing Immense Value to The Ethereum Blockchain through Staking our Utility Token, DAO Treasury, & Metaverse Development",
+    "image": "ipfs://QmXjfsGUpU9uuM9bgnfuFQZ31gbuPukUYRFwXoABXMGQav/1.png",
+    "dna": "ac2343142e86fbd699626b8c7d8b5a68dda72100",
+    "edition": 1,
+    "date": 1638245192292,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "DoodlePunks Genesys",
+      "family": "DoodlePunks Genesys"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xf26475bA5693521454a9a9966260Ec2F4Dc0d691",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "1 OF 1",
+        "value": "Clone trooper"
+      }
+    ],
+    "compiler": "BoeroiuEmanuelGabrielPC"
+  }
+}

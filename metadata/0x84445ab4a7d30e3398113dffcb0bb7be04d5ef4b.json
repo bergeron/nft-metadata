@@ -1,0 +1,80 @@
+{
+  "address": "0x84445ab4a7d30e3398113dffcb0bb7be04d5ef4b",
+  "type": "ERC721",
+  "name": "GoE.GG/Genesis",
+  "tokenCount": "37",
+  "uri": "https://api.goe.gg/get/metadata/1.json",
+  "metadata": {
+    "name": "Gold Rare Chaos Stalker",
+    "description": "Gates of Ethernity Genesis NFT by Ethernity Games Inc. An exclusive collection of 3000 GoE creatures. On top of being playable creatures within the upcoming game Gates of Ethernity, these NFT give you access to exclusive skins, consumables, skins and more within the Ethernity Games franchise.",
+    "image": "https://api.goe.gg/get/images/COE-GOLD_RARE_CHAOS_STALKER.png",
+    "video": "https://api.goe.gg/get/videos/GOLD_RARE_CHAOS_STALKER.mp4",
+    "attributes": [
+      {
+        "name": "Race",
+        "value": "Dragon",
+        "trait_type": "Race"
+      },
+      {
+        "name": "Element",
+        "value": "Chaos",
+        "trait_type": "Element"
+      },
+      {
+        "name": "Evolution",
+        "value": 1,
+        "display_type": "number",
+        "trait_type": "Evolution"
+      },
+      {
+        "name": "Attack",
+        "value": 8,
+        "max-value": 20,
+        "trait_type": "Attack"
+      },
+      {
+        "name": "Defense",
+        "value": 7,
+        "max-value": 20,
+        "trait_type": "Defense"
+      },
+      {
+        "name": "Speed",
+        "value": 7,
+        "max-value": 20,
+        "trait_type": "Speed"
+      },
+      {
+        "name": "Aether",
+        "value": 8,
+        "max-value": 20,
+        "trait_type": "Aether"
+      },
+      {
+        "name": "Crit Chance",
+        "value": 8,
+        "max-value": 20,
+        "display_type": "boost_percentage",
+        "trait_type": "Crit Chance"
+      },
+      {
+        "name": "Overall",
+        "value": 38,
+        "max-value": 100,
+        "trait_type": "Overall"
+      },
+      {
+        "name": "Rarity",
+        "value": "Ethernal mini pet",
+        "trait_type": "Rarity"
+      },
+      {
+        "name": "Card Type",
+        "value": "3D Ethernal",
+        "trait_type": "3D Ethernal"
+      }
+    ],
+    "animation_url": "https://api.goe.gg/get/videos/GOLD_RARE_CHAOS_STALKER.mp4",
+    "external_url": "https://goe.gg"
+  }
+}

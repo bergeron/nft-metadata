@@ -1,0 +1,113 @@
+{
+  "address": "0xf3b6248adde11be440d2789175a76f2790008463",
+  "type": "ERC721",
+  "name": "Monster Trucks Collection",
+  "tokenCount": "2500",
+  "uri": "https://api.monstertrucks.online/1",
+  "metadata": {
+    "name": "Truck #1",
+    "description": "",
+    "image": "https://api.monstertrucks.online/1.png",
+    "attributes": [
+      {
+        "trait_type": "Truck Name",
+        "value": "Not Set"
+      },
+      {
+        "trait_type": "Factory Model",
+        "value": "Might"
+      },
+      {
+        "trait_type": "Driving chip",
+        "value": "SJ-01"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Blast"
+      },
+      {
+        "trait_type": "Engine",
+        "value": "TD-280"
+      },
+      {
+        "trait_type": "Nitro",
+        "value": "No"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Bonus Points",
+        "value": "0.00000000000000"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Kills",
+        "value": 0,
+        "max_value": 10000
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Mileage",
+        "value": 0,
+        "max_value": 1000000
+      },
+      {
+        "trait_type": "Body",
+        "value": "Aleron"
+      },
+      {
+        "trait_type": "Engine Level",
+        "value": 40,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Brakes lvl",
+        "value": 20,
+        "max_value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Truck Level",
+        "value": 1,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Performance Chip",
+        "value": 10,
+        "max_value": 100
+      },
+      {
+        "trait_type": "NOS System",
+        "value": 50,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Dual Exhaust",
+        "value": 50,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Supercharger",
+        "value": 40,
+        "max_value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Experience",
+        "value": 0,
+        "max_value": 100000
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Cash points",
+        "value": "0"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Damage",
+        "value": 0,
+        "max_value": 1000
+      }
+    ],
+    "compiler": "https://startnft.app"
+  }
+}

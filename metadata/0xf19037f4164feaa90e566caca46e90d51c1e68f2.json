@@ -1,0 +1,32 @@
+{
+  "address": "0xf19037f4164feaa90e566caca46e90d51c1e68f2",
+  "type": "ERC1155",
+  "name": "MAP PLANT",
+  "tokenCount": "213",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIk1BUCBXYXRlciBQbGFudCAoQ29tbW9uKSIsICJkZXNjcmlwdGlvbiI6ICJNQVAgUGxhbnRzIGFyZSBSZXNvdXJjZSBleHRyYWN0aW9uIGZhY2lsaXRpZXMgdGhhdCBoZWxwIHlvdSB0byBzdXJ2aXZlIGluIGhhcnNoIGNvbmRpdGlvbnMgb2YgZWNvc3lzdGVtIG9mIHVua25vd24gcGxhbmV0LiIsICJpbWFnZSI6ICJpcGZzOi8vUW1XVDRNZHhSWHNoeGFxM2NuYURjeWM5RWtIVzVnNFcyZ0xGbnJYajhFY3VrZC9wbGFudHMvV2F0ZXJfQ29tbW9uLm1wNCIsICJhdHRyaWJ1dGVzIjogW3sidHJhaXRfdHlwZSI6ICJSYXJpdHkiLCAidmFsdWUiOiAiQ29tbW9uIn0sIHsidHJhaXRfdHlwZSI6ICJUeXBlIiwgInZhbHVlIjogIldhdGVyIn0sIHsidHJhaXRfdHlwZSI6ICJMZXZlbCIsICJ2YWx1ZSI6IDAsICJtYXhfdmFsdWUiOiA5fSwgeyJ0cmFpdF90eXBlIjogIk1pbmluZyIsICJ2YWx1ZSI6IDEwLCAibWF4X3ZhbHVlIjogNTkwfV19",
+  "metadata": {
+    "name": "MAP Water Plant (Common)",
+    "description": "MAP Plants are Resource extraction facilities that help you to survive in harsh conditions of ecosystem of unknown planet.",
+    "image": "ipfs://QmWT4MdxRXshxaq3cnaDcyc9EkHW5g4W2gLFnrXj8Ecukd/plants/Water_Common.mp4",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Water"
+      },
+      {
+        "trait_type": "Level",
+        "value": 0,
+        "max_value": 9
+      },
+      {
+        "trait_type": "Mining",
+        "value": 10,
+        "max_value": 590
+      }
+    ]
+  }
+}

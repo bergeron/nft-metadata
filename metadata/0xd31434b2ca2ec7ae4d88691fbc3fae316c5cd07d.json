@@ -1,0 +1,34 @@
+{
+  "address": "0xd31434b2ca2ec7ae4d88691fbc3fae316c5cd07d",
+  "type": "ERC721",
+  "name": "Bored Grapes - Vines",
+  "tokenCount": "245",
+  "uri": "https://grow.boredgrapes.io/api/grapes/metadata/1 ",
+  "metadata": {
+    "description": "Bored Grapes is an exclusive winemaking experience.\n\nCollect your Grape Vines and begin growing your grapes to fill empty bottles with wine. The grape rarity determines how fast your grapes will grow. Each grape also acts as a raffle ticket in our weekly raffles for digital and physical prizes.",
+    "image": "https://bg-vineyard.s3.amazonaws.com/pixel/pixel-capsule.jpg",
+    "name": "Vine #1",
+    "attributes": [
+      {
+        "trait_type": "TYPE",
+        "value": "Pixel"
+      },
+      {
+        "trait_type": "RARITY",
+        "value": "Semi-Rare"
+      },
+      {
+        "trait_type": "GROW RATE",
+        "value": "2x"
+      },
+      {
+        "trait_type": "STATUS",
+        "value": "Not Growing"
+      },
+      {
+        "trait_type": "GRAPES",
+        "value": "0"
+      }
+    ]
+  }
+}

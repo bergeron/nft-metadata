@@ -1,0 +1,65 @@
+{
+  "address": "0xac4caffbea06aab146b42b50b7d128f51b2ac43b",
+  "type": "ERC721",
+  "name": "qwrqwer55",
+  "tokenCount": "100",
+  "uri": "http://token.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/8000001 ",
+  "metadata": {
+    "platform": "MOMENT",
+    "tokenID": "8000001",
+    "series": "N/A",
+    "aspect_ratio": 0.7063020214,
+    "payout_address": "0x43a7d26a271f5801b8092d94dfd5b36ea5d01f5f",
+    "name": "FOLIO #1",
+    "minted": true,
+    "artist": "Matt DesLauriers",
+    "description": "FOLIO is a generative drawing system, inspired by concrete poetry and early computer artwork, that emits an output process for a given input. Each output may be realized digitally, in print, or through another medium. The drawing system, coded in JavaScript, recursively packs bins of data to fill the page, constrained entirely by the use of typographic glyphs and a limited mono-, duo-, or tri-colour palette.",
+    "script_type": "js@na",
+    "project_id": "8",
+    "engine_type": "fullyonchain",
+    "image": "https://media-proxy.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/8000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/8000001.png",
+    "generator_url": "https://generator.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/8000001",
+    "royaltyInfo": {
+      "artistAddress": "0xcab81f14a3fc98034a05bab30f8d0e53e978c833",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "FOLIO by Matt DesLauriers",
+    "website": null,
+    "token_hash": "0x869e84f149d33c7179a667023ba6effe2771a95c964aee18a4729ffe8df0c8c6",
+    "external_url": "https://generator.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/8000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/8000001.png",
+    "features": {
+      "INKS": "DEFAULT",
+      "STYLE": "ANALOG",
+      "WOVEN": "FALSE",
+      "PACKER": "V0"
+    },
+    "traits": [
+      {
+        "trait_type": "FOLIO",
+        "value": "All FOLIOs"
+      },
+      {
+        "trait_type": "FOLIO",
+        "value": "INKS: DEFAULT"
+      },
+      {
+        "trait_type": "FOLIO",
+        "value": "STYLE: ANALOG"
+      },
+      {
+        "trait_type": "FOLIO",
+        "value": "WOVEN: FALSE"
+      },
+      {
+        "trait_type": "FOLIO",
+        "value": "PACKER: V0"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC 4.0"
+  }
+}

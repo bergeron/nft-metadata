@@ -1,0 +1,41 @@
+{
+  "address": "0xc36a29724717b3271d952c923a13e3c7e9278b26",
+  "type": "ERC721",
+  "name": "SNAKEAI",
+  "tokenCount": "5001",
+  "uri": "https://ipfs.w3bmint.xyz/ipfs/QmV4BkFyDQghZkdgiHBTu2gNCDaCgBBANF4MoVzfTzEbhR/1",
+  "metadata": {
+    "image": "https://ipfs.w3bmint.xyz/ipfs/Qmb9eNQQrsy8jMma7Dz8tmoRGvB5Di7EWrkCj74LjC9Fc1",
+    "name": "SNAKE AI GAME #1",
+    "description": "A collection of 5000 unique games of snake each played by AI.",
+    "attributes": [
+      {
+        "trait_type": "1 of 1",
+        "value": 0,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Background_Colour",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Snake_Colour",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Food_Colour",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Level",
+        "value": 1,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Score\r",
+        "value": 20,
+        "display_type": "number"
+      }
+    ]
+  }
+}

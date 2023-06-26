@@ -1,0 +1,76 @@
+{
+  "address": "0xffc0b6d25c832ce967f62d5c4c43407793c30db2",
+  "type": "ERC721",
+  "name": "wqerewqrewqr99",
+  "tokenCount": "512",
+  "uri": "https://api.artblocks.io/token/1000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "1000001",
+    "series": 1,
+    "aspect_ratio": 1.3333333333333333,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Genesis #1",
+    "minted": true,
+    "artist": "DCA",
+    "description": "Genesis: Generative System. A block hash string is interpreted into a visual composition using a set of algorithmic rules. Compositions may contain grids, gradients, lines, shapes, and colors that harmonize with each other. Each mint is one of a kind and designed to stand-alone. Limited Edition.",
+    "script_type": "processing-js@1.4.6",
+    "project_id": "1",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 1",
+    "image": "https://media-proxy.artblocks.io/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/1000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/1000001.png",
+    "generator_url": "https://generator.artblocks.io/1000001",
+    "royaltyInfo": {
+      "artistAddress": "0xa9da6d2b707674a1cf5c3fbdee94c903b030d4e3",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Genesis by DCA",
+    "website": "https://www.instagram.com/dacaldera/",
+    "token_hash": "0xcfaa8630f0b48b6ed9bdbf9f486ba9e023ee168a2e0370cbac0e09196b33d12b",
+    "external_url": "https://artblocks.io/collections/curated/projects/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/1/tokens/1000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/1000001.png",
+    "features": {
+      "Grid": "Standard",
+      "line": "constellations",
+      "rect1": "1-count",
+      "rect2": "5-count",
+      "trapezoid": "white",
+      "triangle1": "all"
+    },
+    "traits": [
+      {
+        "trait_type": "Genesis",
+        "value": "All Genesis"
+      },
+      {
+        "trait_type": "Genesis",
+        "value": "Grid: Standard"
+      },
+      {
+        "trait_type": "Genesis",
+        "value": "line: constellations"
+      },
+      {
+        "trait_type": "Genesis",
+        "value": "rect1: 1-count"
+      },
+      {
+        "trait_type": "Genesis",
+        "value": "rect2: 5-count"
+      },
+      {
+        "trait_type": "Genesis",
+        "value": "trapezoid: white"
+      },
+      {
+        "trait_type": "Genesis",
+        "value": "triangle1: all"
+      }
+    ],
+    "is_static": true,
+    "license": "NFT License"
+  }
+}

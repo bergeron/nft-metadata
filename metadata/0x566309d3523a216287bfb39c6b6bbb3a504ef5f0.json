@@ -1,0 +1,50 @@
+{
+  "address": "0x566309d3523a216287bfb39c6b6bbb3a504ef5f0",
+  "type": "ERC721",
+  "name": "ArtlessLabs Geometria",
+  "tokenCount": "6000",
+  "uri": "https://art-sandbox.sunflower.industries/token/0x566309d3523A216287bFB39C6B6bbb3A504eF5f0/1",
+  "metadata": {
+    "description": "Geometria is a collection of 6,000 unique animations of geometric shapes flying around in a deterministic yet randomly generated manner.\nEvery design and animation is completely unique and cannot be repeated.",
+    "dependencies": "[{\"name\":\"p5@1.4.0\",\"keccak256\":\"0xcef1df742d5237151854b6ccd3d7769c7bcb2cf987e4f8f6ca1ad69afdac3dcc\"}]",
+    "artist": "0x44150cca3BeBd0AAFbD6d5e3501aF0271b8AD023",
+    "external_url": "https://art.sunflower.industries/token/0x566309d3523A216287bFB39C6B6bbb3A504eF5f0/1",
+    "image": "https://art-sandbox.sunflower.industries/render/tokenImage/0x566309d3523A216287bFB39C6B6bbb3A504eF5f0/1",
+    "name": "ArtlessLabs Geometria #1",
+    "attributes": [
+      {
+        "trait_type": "Random Color Triangles",
+        "value": "false"
+      },
+      {
+        "trait_type": "Random Color Circles",
+        "value": "false"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "leaves"
+      },
+      {
+        "trait_type": "Column Saturation",
+        "value": "6"
+      },
+      {
+        "trait_type": "Row Saturation",
+        "value": "5"
+      },
+      {
+        "trait_type": "Triangle Type",
+        "value": "dashed"
+      },
+      {
+        "trait_type": "Circle Type",
+        "value": "stroke"
+      },
+      {
+        "trait_type": "Background",
+        "value": "#000"
+      }
+    ],
+    "animation_url": "https://art-sandbox.sunflower.industries/tokenFrame/0x566309d3523A216287bFB39C6B6bbb3A504eF5f0/1"
+  }
+}

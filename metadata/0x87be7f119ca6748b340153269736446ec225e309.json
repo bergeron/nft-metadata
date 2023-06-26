@@ -1,0 +1,27 @@
+{
+  "address": "0x87be7f119ca6748b340153269736446ec225e309",
+  "type": "ERC721",
+  "name": "Crypto Slicer",
+  "tokenCount": "85",
+  "uri": "https://sparkpointio.github.io/api/game/cryptoslicer/nft/1",
+  "metadata": {
+    "name": "Worldbreaker #1",
+    "description": "Legendary sword Worldbreaker, the destroyer of worlds.",
+    "external_url": "https://sparkpoint.io/play",
+    "image": "https://sparkpointio.github.io/api/game/cryptoslicer/assets/1.png",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Set",
+        "value": "Weapons"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Sword"
+      }
+    ]
+  }
+}

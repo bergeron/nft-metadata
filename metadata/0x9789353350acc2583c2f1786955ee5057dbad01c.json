@@ -1,0 +1,29 @@
+{
+  "address": "0x9789353350acc2583c2f1786955ee5057dbad01c",
+  "type": "ERC1155",
+  "name": "DrugReceipts: DRx Greeting Cards",
+  "tokenCount": "2",
+  "uri": "https://batcave.drx.store/drxgreetingcard/token/1",
+  "metadata": {
+    "tokenId": 1,
+    "animation_url": "https://drxstore-strapi-aws-s3-images-bucket.s3.us-east-2.amazonaws.com/BrokenHearts/v_day_broken_hearts_club_card.mp4",
+    "external_url": "https://drugreceipts.com",
+    "attributes": [
+      {
+        "trait_type": "Character",
+        "value": "Tabbi"
+      },
+      {
+        "trait_type": "Occassion",
+        "value": "Valentine's Day"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2023"
+      }
+    ],
+    "description": "What's so great about anything anyway? Keep the candy and the flowers, this heartbreakingly sweet Valentine's Day greeting is only for the lonely. Welcome to the Broken Hearts Club.",
+    "image": "https://drxstore-strapi-aws-s3-images-bucket.s3.us-east-2.amazonaws.com/BrokenHearts/v_day_broken_hearts_v2.jpg",
+    "name": "DRx Broken Hearts Club"
+  }
+}

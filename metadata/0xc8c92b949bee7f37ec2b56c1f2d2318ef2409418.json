@@ -1,0 +1,25 @@
+{
+  "address": "0xc8c92b949bee7f37ec2b56c1f2d2318ef2409418",
+  "type": "ERC721",
+  "name": "dai lock V3",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xc8c92b949bee7f37ec2b56c1f2d2318ef2409418/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xC8C92B949BEE7f37EC2b56c1f2d2318ef2409418/icon?id=1",
+    "expiration": 1588281074,
+    "tokenId": "1",
+    "owner": "0xdb92c096bc5efa8adb48f05cd601dddb75228203",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1588281074
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xC8C92B949BEE7f37EC2b56c1f2d2318ef2409418",
+    "network": 1
+  }
+}

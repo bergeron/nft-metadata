@@ -1,0 +1,42 @@
+{
+  "address": "0x5aa1a8379729c22a825408abaf78d2af6d2ff736",
+  "type": "ERC721",
+  "name": "Definitely A Rug Not",
+  "tokenCount": "1000",
+  "uri": "ipfs://Qmcwj2F1quS76C2AvJZSmd8NGdHCFXKg9BrYbXcziBkcEk/1.json",
+  "metadata": {
+    "name": "Rug #1",
+    "description": "Definitely A Rug, Not is actually a Rug made by Derpy Labs",
+    "image": "ipfs://Qmbz4qm6YNVA7ehp7mRm4Fek74fuaJNNpg834shxvgRr22/1.png",
+    "dna": "9b72e400057c52626a6597a782552274fbc38562",
+    "edition": 1,
+    "date": 1648770079713,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Rug",
+        "value": "White"
+      },
+      {
+        "trait_type": "Border",
+        "value": "Lined"
+      },
+      {
+        "trait_type": "Design",
+        "value": "None"
+      },
+      {
+        "trait_type": "Trim",
+        "value": "None"
+      },
+      {
+        "trait_type": "Decal",
+        "value": "Radiant Sun"
+      }
+    ],
+    "compiler": "Derpy Labs"
+  }
+}

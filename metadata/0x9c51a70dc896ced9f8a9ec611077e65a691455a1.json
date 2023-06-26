@@ -1,0 +1,42 @@
+{
+  "address": "0x9c51a70dc896ced9f8a9ec611077e65a691455a1",
+  "type": "ERC1155",
+  "name": "Isekai Meta Summon",
+  "tokenCount": "1",
+  "uri": "ipfs://QmVHbTJVwv2MeVxBzKzwK6v1FTrJbAYnNp6AahEePrMyU6/1",
+  "metadata": {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  }
+}

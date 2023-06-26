@@ -1,0 +1,78 @@
+{
+  "address": "0xe4fd1d406c3957bbd08e89258da8154d5f2977dd",
+  "type": "ERC721",
+  "name": "TwoCans",
+  "tokenCount": "2",
+  "uri": "ipfs://QmcmkNR7eEZ7E1jsKnnEW5xDZLzrLnGnBwULCzGELeumnz/1.json",
+  "metadata": {
+    "name": "TwoCans #1",
+    "description": "Cubic Punks : Home of Eye Candy Collectibles",
+    "image": "ipfs://bafybeiaf252rnicxzgb4bcx73twq7m4mzeiyklgw2y7wiisyse2y5aetv4/1.png",
+    "dna": "c2f09adbd2aca8405fa0ddad2a1d6d1c8708ae04",
+    "edition": 1,
+    "date": 1644747113092,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "TwoCans",
+      "family": "Cubic Punks : Home of Eye Candy Collectibles"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x936B1037A13E4c56D5c9e079aEa24235C1E78BD6",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "BGC18"
+      },
+      {
+        "trait_type": "Background",
+        "value": "BGC17"
+      },
+      {
+        "trait_type": "BodyBlack2",
+        "value": "BodyBlack2A"
+      },
+      {
+        "trait_type": "Beak C",
+        "value": "BeakC02"
+      },
+      {
+        "trait_type": "Beak Deco",
+        "value": "BeakCclear"
+      },
+      {
+        "trait_type": "Beak B",
+        "value": "BeakB03"
+      },
+      {
+        "trait_type": "Beak A",
+        "value": "BeakA68"
+      },
+      {
+        "trait_type": "Body",
+        "value": "BodyB07"
+      },
+      {
+        "trait_type": "BodyBlack",
+        "value": "BodyBlack"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Eye01"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

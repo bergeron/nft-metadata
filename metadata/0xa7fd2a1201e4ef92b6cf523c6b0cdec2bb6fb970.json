@@ -1,0 +1,32 @@
+{
+  "address": "0xa7fd2a1201e4ef92b6cf523c6b0cdec2bb6fb970",
+  "type": "ERC721",
+  "name": "Arbor Fusion Project Canine Collection",
+  "tokenCount": "2000",
+  "uri": "ipfs://QmT2sLYWKp5gBGFhpqGWdFza6C7oY7g6LYKzCDXJgUL8ii/1.json",
+  "metadata": {
+    "name": "Arbor Fusion Project - Canine Collection #1",
+    "description": "Various trees fused with different dog breeds.",
+    "image": "ipfs://QmbLaDRQ3L2emB2GjMsjDbuxToMRUPTvbqAJvviPj4XSSQ/1.png",
+    "attributes": [
+      {
+        "trait_type": "Collection",
+        "value": "Canine Collection"
+      },
+      {
+        "trait_type": "Canine",
+        "value": "Great Pyrenees"
+      },
+      {
+        "trait_type": "Tree",
+        "value": "Elliott Oak Tree"
+      }
+    ],
+    "custom_fields": {
+      "dna": "29e2dcfbb16f63bb0254df7585a15bb6fb5e927d",
+      "edition": 1,
+      "date": 1653384361688
+    },
+    "external_url": "https://arborfusionproject.com"
+  }
+}

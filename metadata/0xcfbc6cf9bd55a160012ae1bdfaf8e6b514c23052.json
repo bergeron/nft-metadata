@@ -1,0 +1,30 @@
+{
+  "address": "0xcfbc6cf9bd55a160012ae1bdfaf8e6b514c23052",
+  "type": "ERC721",
+  "name": "ITS GG Bots",
+  "tokenCount": "543",
+  "uri": "https://its-nft-json.s3.us-west-1.amazonaws.com/ggbots/1.json",
+  "metadata": {
+    "name": "ITS GG Bots #1",
+    "description": "Good Game Bots - Create Your Own Epic Journey",
+    "image": "https://its-nft-images.s3.us-west-1.amazonaws.com/ggbots/1.png",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Swamp"
+      },
+      {
+        "trait_type": "body",
+        "value": "Anchor"
+      },
+      {
+        "trait_type": "head",
+        "value": "Red Chomper"
+      },
+      {
+        "trait_type": "item",
+        "value": "Bomb"
+      }
+    ]
+  }
+}

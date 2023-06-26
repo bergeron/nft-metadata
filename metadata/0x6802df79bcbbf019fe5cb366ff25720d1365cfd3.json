@@ -1,0 +1,34 @@
+{
+  "address": "0x6802df79bcbbf019fe5cb366ff25720d1365cfd3",
+  "type": "ERC1155",
+  "name": "Botto Access Passes",
+  "tokenCount": "13",
+  "uri": "https://media.botto.com/access-passes/metadata/1.json",
+  "metadata": {
+    "name": "Pathway to Freedom",
+    "description": "The original Botto Access Pass, granting its owner the right to vote and curate Botto's next masterpiece.",
+    "image": "https://media.botto.com/access-passes/images/bottodao.mp4",
+    "attributes": [
+      {
+        "trait_type": "Round Number",
+        "value": "3"
+      },
+      {
+        "trait_type": "Voting Points",
+        "value": "N/A"
+      },
+      {
+        "trait_type": "Raw Score",
+        "value": "N/A"
+      },
+      {
+        "trait_type": "Artwork Title",
+        "value": "Pathway to Freedom"
+      },
+      {
+        "trait_type": "Period",
+        "value": "Fragmentation"
+      }
+    ]
+  }
+}

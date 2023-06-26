@@ -1,0 +1,61 @@
+{
+  "address": "0x0a5d34f30f3c74a4f46abe1c5a744a1c93392c70",
+  "type": "ERC1155",
+  "name": "SocialHouseCards",
+  "tokenCount": "2",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmcuWTdhoaDPGKrbpvNKWuuz4qGjr1Y356rGPJ1wGp4QZA/1.json",
+  "metadata": {
+    "name": "HORN NFTs #2",
+    "symbol": "",
+    "description": "Exclusive NFTs from buffaloswap.org",
+    "seller_fee_basis_points": 800,
+    "fee_recipient": "0xA5DAF0bf65038c222dd94dD75b90000e125dFFf9",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRJdftrFwFTcEmDwco5nVLsRuz8hX75mt3MaBkimM16Bv/1.jpg",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple_Dots"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Skin_DarkBlue_Pink_Horn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Ethereum"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "None"
+      }
+    ],
+    "collection": {
+      "name": "HORN NFTs (1st Edition)",
+      "family": "NFTs on BSC"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://gateway.pinata.cloud/ipfs/QmRJdftrFwFTcEmDwco5nVLsRuz8hX75mt3MaBkimM16Bv/1.jpg",
+          "type": "image/jpg"
+        }
+      ]
+    },
+    "category": "image",
+    "creators": [
+      {
+        "address": "0xA5DAF0bf65038c222dd94dD75b90000e125dFFf9",
+        "share": 100
+      }
+    ]
+  }
+}

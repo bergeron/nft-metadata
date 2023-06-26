@@ -1,0 +1,34 @@
+{
+  "address": "0x25741f5f2dbdde9cfd38f73be7052ec03b0e9d85",
+  "type": "ERC721",
+  "name": "Neon District",
+  "tokenCount": "858",
+  "uri": "https://neon-district-founders-key-api.herokuapp.com/api/token/1/7",
+  "metadata": {
+    "name": "God Founder's Key #1",
+    "external_url": "https://founders.neondistrict.io/",
+    "description": "A God-Level Neon District Founder's Key, granting the owner lifetime early access to every major Neon District season and access to the Founder's Sale.",
+    "attributes": [
+      {
+        "trait_type": "Key Type",
+        "value": "God Key"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "Tier 0"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Token ID",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Gems",
+        "value": 3,
+        "max_value": 6
+      }
+    ],
+    "image": "https://s3.amazonaws.com/neon-district-founders-sale/Keys/000_GOD_KEY_1_G1.png"
+  }
+}

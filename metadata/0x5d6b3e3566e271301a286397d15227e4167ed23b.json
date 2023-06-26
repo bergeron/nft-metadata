@@ -1,0 +1,30 @@
+{
+  "address": "0x5d6b3e3566e271301a286397d15227e4167ed23b",
+  "type": "ERC721",
+  "name": "CutieRobots",
+  "tokenCount": "500",
+  "uri": "ipfs://QmYveN6zW6YpcGZBk1vGbyfCBny4Yo23swyBtioLuZZqvp/1.json",
+  "metadata": {
+    "name": "CutieRobots #1",
+    "description": "Cute Robots living In The Ethereum blockchain",
+    "image": "ipfs://QmYMW4xvWLbcWkyip2HZFQ6fJPYeqqrMSrnp8QZZuJ3pSn/1.png",
+    "edition": 1,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(203,207,202)"
+        },
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Hot Dog"
+        },
+        {
+          "trait_type": "date",
+          "value": 1812
+        }
+      ]
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

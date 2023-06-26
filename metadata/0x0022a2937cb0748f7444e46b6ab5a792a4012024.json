@@ -1,0 +1,30 @@
+{
+  "address": "0x0022a2937cb0748f7444e46b6ab5a792a4012024",
+  "type": "ERC721",
+  "name": "Diary of 88",
+  "tokenCount": "30",
+  "uri": "https://factory.chocomint.app/metadata/1/0x0022a2937cb0748f7444e46b6ab5a792a4012024/1",
+  "metadata": {
+    "image": "https://ipfs.io/ipfs/QmVMnpMj7Xy5NSWBBoHhooX1JFjM8gzjcDyySFMthmQ5Hb/nft.jpg",
+    "description": "mera takeru records each day in 88 tones",
+    "chainId": "1",
+    "name": "April 1st 2022",
+    "attributes": [
+      {
+        "trait_type": "YEAR",
+        "value": "2022"
+      },
+      {
+        "trait_type": "MONTH",
+        "value": "April"
+      },
+      {
+        "trait_type": "DATE",
+        "value": "1st"
+      }
+    ],
+    "animation_url": "https://ipfs.io/ipfs/QmRXBRnNWPGnNFjAJQxtRMNpCWdwoxWShMzrGWqi4ojma2/nft.mp4",
+    "nft_contract_address": "0x0022a2937cb0748f7444e46b6ab5a792a4012024",
+    "token_id": 1
+  }
+}

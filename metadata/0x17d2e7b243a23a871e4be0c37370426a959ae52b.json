@@ -1,0 +1,51 @@
+{
+  "address": "0x17d2e7b243a23a871e4be0c37370426a959ae52b",
+  "type": "ERC721",
+  "name": "Mega Rock Ville",
+  "tokenCount": "1000",
+  "uri": "https://raw.githubusercontent.com/megarockville/asset/main/metadata/1.json",
+  "metadata": {
+    "name": "MegaRockVille #1",
+    "description": "A thousand residents living in a good old 8-bit village. Whether they are robots or humans, no one knows nowadays. There is no war or conflict here. We will live in peace for a long time to come.",
+    "image": "https://raw.githubusercontent.com/megarockville/asset/main/images/1.png",
+    "animation_url": "https://github.com/megarockville/asset/blob/main/music/2.mp3?raw=true",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Light Grey"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Green Punk"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None"
+      }
+    ]
+  }
+}

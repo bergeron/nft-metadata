@@ -1,0 +1,41 @@
+{
+  "address": "0xe33273828e2ed58e0655ce2dcaec4ca71eacbb79",
+  "type": "ERC721",
+  "name": "The Emu Show",
+  "tokenCount": "4",
+  "uri": "ipfs://QmYGWzypGsxwTq1VChpSBWvRP9dcHinn1EDmT8ReFEu1Ai/1.json",
+  "metadata": {
+    "name": "The Emu Show #1",
+    "description": "A bunch of goofy emus existing to entertain on the blockchain.",
+    "image": "ipfs://QmUGrqNmoHCEQtycBwddGaABwbq3q615PCE6sUNcENkNSV/1.png",
+    "dna": "8905487754bea6b1f8b7b27daf17082c8f5de84a",
+    "edition": 1,
+    "date": 1651650016984,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Black Open"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Upwards Brown"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cowboy Hat"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Cowboy"
+      }
+    ]
+  }
+}

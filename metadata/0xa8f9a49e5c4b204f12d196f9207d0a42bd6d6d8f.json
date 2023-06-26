@@ -1,0 +1,72 @@
+{
+  "address": "0xa8f9a49e5c4b204f12d196f9207d0a42bd6d6d8f",
+  "type": "ERC721",
+  "name": "Unordinal Mfers",
+  "tokenCount": "201",
+  "uri": "ipfs://QmP1RuK6CYvMkFqdFXTPiinMJJwizhrMVrCv43SuSdRsqi/1",
+  "metadata": {
+    "name": "Unordinal Mfers#25",
+    "description": "Ordinals Art inspire by Mfers. Bridge: 02-14",
+    "image": "ipfs://QmVWJvzcMdpJUAhTwzQgtWo3TVahSYCsJahJeKdgebY7gK/1.png",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "/25.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x337fb6FE8b005b4a1194359d4fE71E71EF1f30D4",
+          "share": "100"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "4:20 watch",
+        "value": "sub blue"
+      },
+      {
+        "trait_type": "shirt",
+        "value": "hoodie down gray"
+      },
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "type",
+        "value": "plain mfer"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "regular eyes"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "smile"
+      },
+      {
+        "trait_type": "short hair",
+        "value": "mohawk black"
+      },
+      {
+        "trait_type": "smoke",
+        "value": "cig white"
+      },
+      {
+        "trait_type": "headphones",
+        "value": "pink headphones"
+      }
+    ],
+    "symbol": "Unordinal Mfers",
+    "seller_fee_basis_points": "500",
+    "collection": {
+      "name": "Unordinal Mfers",
+      "family": "Ordinal"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "address": "0xb8bf00a09ebc0e37209a7409ac5f23e4ce336fad",
+  "type": "ERC721",
+  "name": "Fur collection",
+  "tokenCount": "5",
+  "uri": "https://arweave.net/rWhxqs1OExUd8PLpyHOWMWY_0hEmskGhZNyPySVEhmg",
+  "metadata": {
+    "name": "Wild love",
+    "created_by": "Nat",
+    "description": "In this collection, I aimed to evoke an irresistible urge to touch and feel among viewers. Through the use of 3D, I sought to highlight the unique textures and beauty of animal fur.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Nat"
+      },
+      {
+        "trait_type": "Artwork",
+        "value": "3D"
+      }
+    ],
+    "animation_details": {
+      "bytes": 7549450,
+      "format": "MOV",
+      "duration": 7,
+      "sha256": "3eb0f53d245fa55dcbcbaf6dc21251a661d357b1a34fe7b3f1b43c2818ccf393",
+      "width": 718,
+      "height": 897,
+      "codecs": [
+        "H.265",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/mjA1EK14ROyWLmGohwKWJ8PFUzfXoeMbomOA7jIKEzo",
+    "animation_url": "https://arweave.net/mjA1EK14ROyWLmGohwKWJ8PFUzfXoeMbomOA7jIKEzo"
+  }
+}

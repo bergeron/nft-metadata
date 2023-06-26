@@ -1,0 +1,75 @@
+{
+  "address": "0xf648d44dd41f55046b5d2b50cddb0a3fd4f9f1b3",
+  "type": "ERC721",
+  "name": "Moments Spent with Others",
+  "tokenCount": "3",
+  "uri": "ipfs://Qmcy7UJAQDv7MEnjMqWUDsPMyugbyvDcm8VrkEjphEcm54",
+  "metadata": {
+    "name": "Moments Spent with Others: I'll Take a Slice",
+    "description": "Moments Spent with Others explores the beauty behind moments and how the concept of time and space is connected to the captivating feeling of interacting with others, centered around three moments from Dawes's life. I'll Take a Slice is born from imagery and sounds of downtown New York inspired by the memory of eating pizza on the edge of a building with his friend Hillman Curtis in SOHO, NY.\n\nVerisart Certified: https://verisart.com/works/82781a3f-7ed1-4ac5-8122-7b3ba83e533b",
+    "image": "ipfs://QmWYPn51vLgAUE4zVEtai6En6TctEim8w6dAbzWSK7RCPp",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 1080,
+          "height": 1920,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 30
+        },
+        "frameRate": 24,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xda39b7f4e3ed227c13a75f0976a5c9aaebc9b155",
+            "bps": 1000
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "animation_url": "ipfs://QmPxYyCoD5KYJqrLKugcUgiSatsG33fYkjMEChBRQVuShu",
+    "external_url": "https://verisart.com/works/82781a3f-7ed1-4ac5-8122-7b3ba83e533b",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Brendan Dawes",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "Moments Spent with Others: I'll Take a Slice",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "1920x1080 px",
+        "display_type": null
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:30",
+        "display_type": null
+      }
+    ]
+  }
+}

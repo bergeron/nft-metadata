@@ -1,0 +1,53 @@
+{
+  "address": "0xba0c9cf4da821dba98407cc4f9c11f6c7a5f9bbc",
+  "type": "ERC721",
+  "name": "adidas Virtual Gear - Genesis Collection",
+  "tokenCount": "12255",
+  "uri": "https://api.adidas.land/api/reveal/get-metadata/1.json",
+  "metadata": {
+    "tokenId": "1",
+    "name": "adidas Virtual Gear: Genesis 01 — Wallrunner",
+    "description": "Wallrunner is crafted from adidas Originals’ iconic trefoil. Cushy and comfy, it’s a material concoction of fairy floss, answered wens, feathers, your favourite teddy, virtual hugs—and the feeling you get when the !floor price is up. You name it, Wallrunner is made from it.\n\nThe trefoil’s three leaves represent the three different continents where adidas products were sold in 1972. We’ve come a long way since then—and the infinite trefoils represent the infinite nature of where the adidas community now exists: the metaverse. Dress up in Wallrunner: a trait so cushy, you can run through walls without feeling a scratch.\n\nTerms and conditions: https://a.did.as/into_the_metaverse_tc",
+    "external_url": "https://www.adidas.com/metaverse",
+    "image": "ipfs://QmNPB9udz7ULqsNjvoSP7yqP8Y5fzTpYcaEmZaHvdyLAY7/4.jpg",
+    "animation_url": "ipfs://QmWTCTAGL287DMLXieX3XkpZW7Ehsyk8iRziFA3YzeFDGL/4.mp4",
+    "attributes": [
+      {
+        "trait_type": "Gear",
+        "value": "Wallrunner"
+      },
+      {
+        "trait_type": "Gene",
+        "value": "SL '72 Cush"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Capsule",
+        "value": "Revealed"
+      },
+      {
+        "trait_type": "Generation",
+        "value": "1",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Bouncy collisions",
+        "value": "10",
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Force-proof",
+        "value": "30",
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Clumsy-proof",
+        "value": "10",
+        "display_type": "boost_number"
+      }
+    ]
+  }
+}

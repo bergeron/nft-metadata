@@ -1,0 +1,56 @@
+{
+  "address": "0xd4d1f32c280056f107ad4adf8e16bc02f2c5b339",
+  "type": "ERC721",
+  "name": "Tasties",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmRrkC8TqK8mfymFA3cvj8DZ9TNfvdPsNuCWvKaf4ajyW9/1.json",
+  "metadata": {
+    "name": "Tastie #1",
+    "description": "Tasties is a 5,000 art based collection of tasty PFP’s - with hidden utilities, that awaits each holder.",
+    "external_url": "https://tasties.io",
+    "image": "ipfs://QmUrd2mHemQpwuAtBTesjpg8GaBQcUxB7hApDrNjqtNfb4/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Blue witch hat"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow Heart Candy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Purple shirt"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blep"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Tasties",
+      "family": "Tasties"
+    },
+    "symbol": ""
+  }
+}

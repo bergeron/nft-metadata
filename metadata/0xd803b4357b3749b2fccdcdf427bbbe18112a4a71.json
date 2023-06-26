@@ -1,0 +1,22 @@
+{
+  "address": "0xd803b4357b3749b2fccdcdf427bbbe18112a4a71",
+  "type": "ERC721",
+  "name": "AlphaHQ Access Pass",
+  "tokenCount": "751",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIkFscGhhIEhRIEFjY2VzcyBwYXNzIiwgImRlc2NyaXB0aW9uIjogIkFjY2VzcyBwYXNzIGZvciBtZW1iZXJzaGlwIHRvIHRoZSBBbHBoYSBIUSB0b29sc2V0IGFuZCBhbHBoYSBpbmZvcm1hdGlvbiBjaGFubmVscy4iLCAiYXR0cmlidXRlcyI6IFt7InRyYWl0X3R5cGUiOiAiRXhwaXJhdGlvbiIsInZhbHVlIjogIkxJRkVUSU1FIn0seyJ0cmFpdF90eXBlIjogIkV4cGlyZWQiLCJ2YWx1ZSI6ICJmYWxzZSJ9XSwgImltYWdlIjogImlwZnM6Ly9iYWZ5YmVpZHd5aXZ1enhnNnhzdzYzdGlrc25wdXcyM3dpZ3N3cGpsN3pzYmtzeWN2NDNpY3dncWR4aSJ9",
+  "metadata": {
+    "name": "Alpha HQ Access pass",
+    "description": "Access pass for membership to the Alpha HQ toolset and alpha information channels.",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "value": "LIFETIME"
+      },
+      {
+        "trait_type": "Expired",
+        "value": "false"
+      }
+    ],
+    "image": "ipfs://bafybeidwyivuzxg6xsw63tiksnpuw23wigswpjl7zsbksycv43icwgqdxi"
+  }
+}

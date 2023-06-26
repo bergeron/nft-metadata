@@ -1,0 +1,42 @@
+{
+  "address": "0xcaf22bb9f36ae01d68c17ded5301590460a80e9e",
+  "type": "ERC721",
+  "name": "Test - X3IE8CEtnn",
+  "tokenCount": "3",
+  "uri": "https://eth.bulent.dev/meta/1",
+  "metadata": {
+    "name": "My nft #1",
+    "description": "My Super NFT is created for special persons",
+    "image": "https://eth.bulent.dev/image/1.png",
+    "date": 1639832168253,
+    "about_TeamNFT": "Hi :)",
+    "seller_fee_basis_points": 300,
+    "fee_recipient": "0x8749816543658aa4D278C27960660030230F6794",
+    "attributes": [
+      {
+        "trait_type": "Trait-0",
+        "value": "Value 0 "
+      },
+      {
+        "trait_type": "Trait-1",
+        "value": "Value 1 "
+      },
+      {
+        "trait_type": "Trait-2",
+        "value": "Value 2 "
+      },
+      {
+        "trait_type": "Trait-3",
+        "value": "Value 3 "
+      },
+      {
+        "trait_type": "Trait-4",
+        "value": "Value 4 "
+      },
+      {
+        "trait_type": "Trait-5",
+        "value": "Value 5 "
+      }
+    ]
+  }
+}

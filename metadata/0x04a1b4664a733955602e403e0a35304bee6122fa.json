@@ -1,0 +1,62 @@
+{
+  "address": "0x04a1b4664a733955602e403e0a35304bee6122fa",
+  "type": "ERC721",
+  "name": "CryptoPixelSperm",
+  "tokenCount": "6",
+  "uri": "ipfs://bafybeifuoglrov3nr5wio7e6hbjzt3vfjp2lpgrq3iomukoq5sfkb3hw4m/1",
+  "metadata": {
+    "name": "NFT# CryptoSperm_0",
+    "symbol": "CRSP",
+    "description": "CryptoSperm(CRSP) is a collection of 5000 different NFTs. We obtained Crypto Sperm from the future NFT project.",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://QmRB2K8bGfMwJbFPon34hUosppdfv1Y8tp7GX5ohgwxMyr/0.png",
+    "external_url": "",
+    "collection": {
+      "name": "CryptoSperm",
+      "family": "LaunchMyNFT"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Poinsetia"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Drameagers"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Tenukuhr"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Klaxereg"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 3189,
+        "display_type": "number",
+        "max_value": 5000
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "/0.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "Bkhc3WckJcV4kKzbP3XCEQh1VuTaizEHmnVZfq7LxTLz",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

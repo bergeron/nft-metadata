@@ -1,0 +1,23 @@
+{
+  "address": "0x6bb76529fed05ab2b8255a645cf28e71211bce7c",
+  "type": "ERC1155",
+  "name": "Metaprints Social Hub Pass",
+  "tokenCount": "9",
+  "uri": "https://metaprints.digital/api/socialhubpass/1",
+  "metadata": {
+    "name": "Social Hub Pass - Bounce",
+    "description": "The Bounce Social Hub Pass gives you exclusive access to enhanced rewards in their Social Hub Experience in The Sandbox! Earn $mSAND tokens for participating in games, enjoy discounts on asset sales, help shape the Social Hub at the development stage, and be a part of exclusive events within the Bounce metaverse experience!",
+    "image": "https://metaprints.digital/images/socialhubpass/Bounce.png",
+    "animation_url": "https://metaprints.digital/media/socialhubpass/Bounce_Cube_Rotation.gif",
+    "attributes": [
+      {
+        "trait_type": "Metaprints",
+        "value": "Social Hub Pass"
+      },
+      {
+        "trait_type": "Social Hub Pass",
+        "value": "Bounce"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "address": "0xe2e50522fb263a080d2824c5a4faae3e304d45f0",
+  "type": "ERC721",
+  "name": "Certificate Of Rug NFT",
+  "tokenCount": "97",
+  "uri": "https://cdn-api.niftykit.com/reveal/Iiret0urp3VFtfthnlQu/1",
+  "metadata": {
+    "name": "Finale #1",
+    "description": "Certificate of Rug NFT collection",
+    "image": "ipfs://bafybeibj63ops6qg2ual3cnpb6i37ee2d4tbvuyksyb3grbwlceiraeaqu/1.png",
+    "imageHash": "4bac1d73545993769d87344d42f3b577999dcc228d659335be43907b86207a90",
+    "edition": 1,
+    "date": 1676796516982,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Platform",
+        "value": "Discord"
+      },
+      {
+        "trait_type": "MostValuableAssetStolen",
+        "value": "RandomNFTs"
+      },
+      {
+        "trait_type": "Technique",
+        "value": "Phishing Website"
+      },
+      {
+        "trait_type": "Certificate Provider",
+        "value": "Producers of Memes"
+      }
+    ],
+    "compiler": "NFT compiler CoR",
+    "seller_fee_basis_points": 800,
+    "fee_recipient": "0xb7AC197F9B955e421f3Ef99810cdDA0cd0B4e315"
+  }
+}

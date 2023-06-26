@@ -1,0 +1,81 @@
+{
+  "address": "0xe43d741e21d8bf30545a88c46e4ff5681518ebad",
+  "type": "ERC721",
+  "name": "Good Morning Cafe",
+  "tokenCount": "333",
+  "uri": "https://api.gmcafe.io/metadata/gmoo/001.json?800100000000000000e89127b23db186161ba869c06faed618d0a0263bdb75c3",
+  "metadata": {
+    "id": 1,
+    "name": "🔒Highland Cow #1 - Frankie",
+    "image": "https://gmcafe.s3.us-east-2.amazonaws.com/gmoo/original/1.png",
+    "external_url": "https://gmcafe.io/moo/1",
+    "artist": "Ben Colefax",
+    "description": "The Good Morning Café 'Genesis' Collection is made up of 333 hand-drawn Highland Cows, all sipping cowffees on the Ethereum blockchain. The Moos are creatures of comfort, luxurious beasts who frolic in the grassy knolls of the café estate, located in Kawa Valley.",
+    "attributes": [
+      {
+        "trait_type": "Delivery",
+        "value": "Direct"
+      },
+      {
+        "trait_type": "Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Solid"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Basic"
+      },
+      {
+        "trait_type": "Item Type",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Neckwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Natural"
+      },
+      {
+        "trait_type": "Birth",
+        "value": 1632483720,
+        "display_type": "date"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Locked 🔒"
+      }
+    ],
+    "info": {
+      "domain": "moo1.gmcafe.art",
+      "fg": {
+        "color": "#ffffff"
+      },
+      "bg": {
+        "color": "#dfb9f1"
+      },
+      "title": "Frankie",
+      "titled": true
+    }
+  }
+}

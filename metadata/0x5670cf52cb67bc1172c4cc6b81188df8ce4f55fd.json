@@ -1,0 +1,58 @@
+{
+  "address": "0x5670cf52cb67bc1172c4cc6b81188df8ce4f55fd",
+  "type": "ERC721",
+  "name": "Gongbong",
+  "tokenCount": "4",
+  "uri": "https://gonbong-nft.s3.ap-northeast-2.amazonaws.com/json/1.json",
+  "metadata": {
+    "name": "Gonbong#1",
+    "description": "Gonbong",
+    "image": "https://gonbong-nft.s3.ap-northeast-2.amazonaws.com/images/1.png",
+    "dna": "60df61e8952b91fa0da9e97781c4f48cc9bbe1b3",
+    "edition": 1,
+    "date": 1664260289450,
+    "attributes": [
+      {
+        "trait_type": "BG",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "hand"
+      },
+      {
+        "trait_type": "Body",
+        "value": "body"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "blue T"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Lips",
+        "value": "sad"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "scribble"
+      },
+      {
+        "trait_type": "Bag",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "blank"
+      }
+    ],
+    "compiler": "Gonbong"
+  }
+}

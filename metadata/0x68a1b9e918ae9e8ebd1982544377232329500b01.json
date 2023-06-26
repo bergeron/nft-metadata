@@ -1,0 +1,61 @@
+{
+  "address": "0x68a1b9e918ae9e8ebd1982544377232329500b01",
+  "type": "ERC721",
+  "name": "Saucey Doodles",
+  "tokenCount": "164",
+  "uri": "ipfs://QmaUBttiFhS7g16yiGvyRHnDZqagCrvt5huPG1QWFXqCgd/1.json",
+  "metadata": {
+    "name": "Saucey #1",
+    "description": "10,000 Saucey Doodles and UFO encounter reports living on the Ethereum Blockchain",
+    "external_url": "https://manic.art",
+    "image": "ipfs://QmSKtjhA9mWRoWSn43GccPeDoLzEwG9EYRj8jDpJWasAYU/1.png",
+    "attributes": [
+      {
+        "trait_type": "Month",
+        "value": 7
+      },
+      {
+        "trait_type": "Day",
+        "value": 31
+      },
+      {
+        "trait_type": "Year",
+        "value": 2021
+      },
+      {
+        "trait_type": "State",
+        "value": "California"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "1 hour"
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Sphere"
+      },
+      {
+        "trait_type": "Effort",
+        "value": 17
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        "Manic Distopia"
+      ]
+    },
+    "compiler": "https://manic.art",
+    "collection": {
+      "name": "Saucey Doodles",
+      "family": "Saucey Doodles"
+    },
+    "symbol": ""
+  }
+}

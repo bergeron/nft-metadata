@@ -1,0 +1,52 @@
+{
+  "address": "0xc44d6d6402ab2ff79bddffef43894ceb5316c39c",
+  "type": "ERC721",
+  "name": "HyNinja",
+  "tokenCount": "2",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmcA9xL2Nxd5tWsUBpmVtBNuC5fshURhnta3fvYHgjWAVR/1.json",
+  "metadata": {
+    "image": "https://ipfs.io/ipfs/QmeAfTVs1aM6QjbHWEJALAzLTZCSVardy6A3dPbLqic1qP",
+    "tokenId": 1,
+    "name": "Hyninja 1 - Huga",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Base",
+        "value": ""
+      },
+      {
+        "trait_type": "Job",
+        "value": "student"
+      },
+      {
+        "trait_type": "Level",
+        "value": 3
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 1
+      },
+      {
+        "trait_type": "Strength",
+        "value": 2
+      },
+      {
+        "trait_type": "Personality",
+        "value": "talkative"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Ninja Power",
+        "value": 10
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Stamina Boost Increase",
+        "value": 5
+      }
+    ]
+  }
+}

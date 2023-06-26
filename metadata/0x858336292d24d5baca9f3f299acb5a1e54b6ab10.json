@@ -1,0 +1,107 @@
+{
+  "address": "0x858336292d24d5baca9f3f299acb5a1e54b6ab10",
+  "type": "ERC721",
+  "name": "adfqewrewqr9",
+  "tokenCount": "650",
+  "uri": "https://api.artblocks.io/token/276000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "276000001",
+    "series": "N/A",
+    "aspect_ratio": 0.8,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Strata #1",
+    "minted": true,
+    "artist": "Vebjørn Isaksen",
+    "description": "Strata explores the field of geology and more specifically rock layering. In the physical world, layered rocks form when particles settle from water or air. These layers of sedimentary rock are called strata. In the digital world, the Strata algorithm generates layer upon layer of colors to draw the impression of rock layering. Each token hash decides the unique path Strata takes through the generative space to the final output.",
+    "script_type": "p5@1.0.0",
+    "project_id": "276",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/276000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/276000001.png",
+    "generator_url": "https://generator.artblocks.io/276000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/276000001",
+    "royaltyInfo": {
+      "artistAddress": "0x297f1d06c9692c75cbeae64bab565b3ca5abce14",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Strata by Vebjørn Isaksen",
+    "website": "https://vebits.codes",
+    "token_hash": "0x2b4c5dc5d83eea9a0c3195190e83c8901d5fc7b6e17bae2b4b5207b99e7a9c91",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/276/tokens/276000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/276000001",
+    "features": {
+      "View": "Cross section 2",
+      "Density": "Medium",
+      "No fill": "No",
+      "Palette": "Sunken",
+      "Surface": "Even",
+      "Outlined": "Yes",
+      "Direction": "Both",
+      "Symmetric": "Almost perfect",
+      "Color change": "Discrete",
+      "Coloring strategy": "Random",
+      "Overhanging cliff": "No",
+      "Palette composition": "Full"
+    },
+    "traits": [
+      {
+        "trait_type": "Strata",
+        "value": "All Stratas"
+      },
+      {
+        "trait_type": "Strata",
+        "value": "View: Cross section 2"
+      },
+      {
+        "trait_type": "Strata",
+        "value": "Density: Medium"
+      },
+      {
+        "trait_type": "Strata",
+        "value": "No fill: No"
+      },
+      {
+        "trait_type": "Strata",
+        "value": "Palette: Sunken"
+      },
+      {
+        "trait_type": "Strata",
+        "value": "Surface: Even"
+      },
+      {
+        "trait_type": "Strata",
+        "value": "Outlined: Yes"
+      },
+      {
+        "trait_type": "Strata",
+        "value": "Direction: Both"
+      },
+      {
+        "trait_type": "Strata",
+        "value": "Symmetric: Almost perfect"
+      },
+      {
+        "trait_type": "Strata",
+        "value": "Color change: Discrete"
+      },
+      {
+        "trait_type": "Strata",
+        "value": "Coloring strategy: Random"
+      },
+      {
+        "trait_type": "Strata",
+        "value": "Overhanging cliff: No"
+      },
+      {
+        "trait_type": "Strata",
+        "value": "Palette composition: Full"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

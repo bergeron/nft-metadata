@@ -1,0 +1,25 @@
+{
+  "address": "0x9c5059e2f1afee56d87cd57c9915d8ba9051a097",
+  "type": "ERC721",
+  "name": "Sayre OG Pass",
+  "tokenCount": "69",
+  "uri": "ipfs://QmQBtv9YJSMMxCm2xLAW23tXYbPpLs3sFYsqyypEYLWdiw/1.json",
+  "metadata": {
+    "name": "Sayre OG Pass #1",
+    "description": "Membership pass",
+    "image": "ipfs://QmSJ7ocGpKfkaKF7UiuJMBDeMHeU9Mty2NkyQygQS7JeFP/1.png",
+    "dna": "b1766029651d2302d331e8c4ba3d29e29ade93a4",
+    "edition": 1,
+    "date": 1657038282309,
+    "attributes": [
+      {
+        "trait_type": "SayrePass",
+        "value": "SayrePass"
+      },
+      {
+        "trait_type": "Ownership",
+        "value": "Member"
+      }
+    ]
+  }
+}

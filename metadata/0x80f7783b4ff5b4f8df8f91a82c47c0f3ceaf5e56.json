@@ -1,0 +1,35 @@
+{
+  "address": "0x80f7783b4ff5b4f8df8f91a82c47c0f3ceaf5e56",
+  "type": "ERC1155",
+  "name": "MFER greeting cards",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/qkijtJAinQH7vLx6oT6TPllOooxTpL4YbIDNtWrj19Y",
+  "metadata": {
+    "name": "HBD sartocrates",
+    "created_by": "HBD mfers",
+    "description": "happy birthday sartocrates",
+    "attributes": [
+      {
+        "trait_type": "year",
+        "value": "2022"
+      },
+      {
+        "trait_type": "card type",
+        "value": "birthday"
+      },
+      {
+        "trait_type": "sent to",
+        "value": "sartocrates"
+      }
+    ],
+    "image_details": {
+      "bytes": 6956001,
+      "format": "PNG",
+      "sha256": "e787f34264f5a3167b75c5d6dc55a9806b9546ee1fc780f944a471b2f077d949",
+      "width": 3600,
+      "height": 4000
+    },
+    "image": "https://arweave.net/YtnDaNnWE3DTeRdth-pb-rLquKFqCStUyOuUgLbYhNg",
+    "image_url": "https://arweave.net/YtnDaNnWE3DTeRdth-pb-rLquKFqCStUyOuUgLbYhNg"
+  }
+}

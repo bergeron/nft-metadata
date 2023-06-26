@@ -1,0 +1,39 @@
+{
+  "address": "0x629a493a94b611138d4bee231f94f5c08ab6570a",
+  "type": "ERC721",
+  "name": "Etheria v1.0",
+  "tokenCount": "407",
+  "uri": "https://etheria.world/metadata/v1pt0/1.json",
+  "metadata": {
+    "name": "Tile 1 (0,1)",
+    "description": "A southwestern water tile in Etheria v1.0 (0xe414 2015-10-22), the first public release of the first NFT project in history",
+    "image": "https://etheria.world/images/tiles/v1pt0/1_area_1050x1050_95.jpg",
+    "external_url": "https://etheria.world/explore.html?tile=1&version=1.0",
+    "attributes": [
+      {
+        "trait_type": "col",
+        "value": 0
+      },
+      {
+        "trait_type": "row",
+        "value": 1
+      },
+      {
+        "trait_type": "index",
+        "value": 1
+      },
+      {
+        "trait_type": "type",
+        "value": "water"
+      },
+      {
+        "trait_type": "elevation",
+        "value": 116
+      },
+      {
+        "trait_type": "num_coasts",
+        "value": 0
+      }
+    ]
+  }
+}

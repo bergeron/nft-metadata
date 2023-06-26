@@ -1,0 +1,38 @@
+{
+  "address": "0x50bba52bafb24c43379bd61b38e512aee6e79cd2",
+  "type": "ERC721",
+  "name": "Christmas Wreaths NFT",
+  "tokenCount": "35",
+  "uri": "ipfs://bafybeifwcxucuwjshxw3c2bxoseyrw5m3e5iss3sxb6ar33aoq3pa2qtya/1.json",
+  "metadata": {
+    "name": "Christmas Wreaths 🍪 1",
+    "description": "This is real Christmas magic",
+    "image": "ipfs://bafybeibewmxvpxme3rilpyb4oidewjrodgcqrlxca63i5zcj64rrtvpc5a/1.png",
+    "dna": "4f6864acb27466515217f562dd3c6a50eff97290",
+    "edition": 1,
+    "date": 1671809767405,
+    "attributes": [
+      {
+        "trait_type": "Mood",
+        "value": "Yellow lemon"
+      },
+      {
+        "trait_type": "Ribbon",
+        "value": "Golden ribbon"
+      },
+      {
+        "trait_type": "Bottom",
+        "value": "Red candles"
+      },
+      {
+        "trait_type": "Toys",
+        "value": "Gingerbread man right"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Blue bow and bells"
+      }
+    ],
+    "compiler": "Santa"
+  }
+}

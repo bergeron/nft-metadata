@@ -1,0 +1,35 @@
+{
+  "address": "0x7ed5f03b28458f9d50056306c1027f17e85a140b",
+  "type": "ERC721",
+  "name": "Lucky Parrots",
+  "tokenCount": "3333",
+  "uri": "ipfs://QmejaKD5Z1q32ceQzB4fqbSAL6ghtB1WtbzpwJtTuagRtR/1.json",
+  "metadata": {
+    "name": "Lucky Parrot #1",
+    "description": "3333 mischievous parrots flying around Lucky Land looking for a good time!",
+    "image": "ipfs://QmQid7ZKq7cLbTiofomjTS8iBuxf38RfpYrhnhD6bwnYq7/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Bloom"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blue_Scarf"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Night_Beak"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Cute"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Skater_Brown"
+      }
+    ]
+  }
+}

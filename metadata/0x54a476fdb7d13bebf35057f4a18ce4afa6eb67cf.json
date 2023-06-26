@@ -1,0 +1,50 @@
+{
+  "address": "0x54a476fdb7d13bebf35057f4a18ce4afa6eb67cf",
+  "type": "ERC1155",
+  "name": "Pop Wonder World",
+  "tokenCount": "5",
+  "uri": "ipfs://QmQtiDJUw8j6zhbbesenm44wJnvzbgQ1uc4Eh5JtZxZz6t/1/token.json",
+  "metadata": {
+    "name": "Poplin",
+    "image": "ipfs://QmYNZYy9Mkb1qBTqnVq3LES2b7zyA3ADGzu5qfEMq6Fg2C",
+    "description": "The Poplin is a curious creature. Great technological advances but can’t seem to stay out of their own way.\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Pop Wonder"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Right Seat 2"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "Pop Wonder World"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0x1b21a4287cbfa8f81753de2a17028bf2fa231034"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Right Seat 2",
+              "state": {
+                "label": "Poplin",
+                "uri": "QmRyCB82XZ8eiv2iYH3HkaAHtmQK6UE7XBFN8pkDNGcqmo"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

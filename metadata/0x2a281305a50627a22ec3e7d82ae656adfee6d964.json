@@ -1,0 +1,43 @@
+{
+  "address": "0x2a281305a50627a22ec3e7d82ae656adfee6d964",
+  "type": "ERC721",
+  "name": "Barn Owlz",
+  "tokenCount": "3000",
+  "uri": "https://www.barnowlz.io/api/token?id=1",
+  "metadata": {
+    "description": "These Owlz are a HOOT! 3,000 Barn Owlz taking flight on the Ethereum blockchain.",
+    "external_url": "https://www.barnowlz.io",
+    "image": "https://bafybeicfcyos4yd6aorpgc3syaabuzlavlpwnavz5dz2cjwsixfuloppai.ipfs.nftstorage.link/0001.jpg",
+    "name": "0001",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Concerned"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Aviators"
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green Longsleeve"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Blue Mohawk"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Orange"
+      }
+    ]
+  }
+}

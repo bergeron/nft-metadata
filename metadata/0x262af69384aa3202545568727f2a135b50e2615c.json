@@ -1,0 +1,28 @@
+{
+  "address": "0x262af69384aa3202545568727f2a135b50e2615c",
+  "type": "ERC721",
+  "name": "HARV",
+  "tokenCount": "22",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=jtYvn1juwTGXr5vOLm7o",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1586820770835?alt=media&token=d444a79b-4f1f-4202-852c-095efa7a1ea2",
+    "forSale": true,
+    "contractAddress": "0x262af69384aa3202545568727f2a135b50e2615c",
+    "description": "ETHEREUM",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1586820839,
+      "_nanoseconds": 789000000
+    },
+    "price": 0,
+    "name": "VITALIK",
+    "fiatPrice": "$0.00",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x262af69384aa3202545568727f2a135b50e2615c",
+    "type": "ERC721"
+  }
+}

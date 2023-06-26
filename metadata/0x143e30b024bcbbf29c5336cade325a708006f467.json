@@ -1,0 +1,65 @@
+{
+  "address": "0x143e30b024bcbbf29c5336cade325a708006f467",
+  "type": "ERC721",
+  "name": "FitBears",
+  "tokenCount": "3008",
+  "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/QmP3QmTgko5tyNHY3iXKHSxPGsHmAcomE4Frm8E2G3r7n7/1.json",
+  "metadata": {
+    "name": "Buff Bears #1",
+    "symbol": "BB",
+    "description": "5K swole bears coming to solana to lay the foundation of a solid community & web3 brand focussed on building & gains.",
+    "seller_fee_basis_points": 1000,
+    "image": "https://testlaunchmynft.mypinata.cloud/ipfs/QmTUKnG7mu8kCVXrUUQNGEhydDW3ZSNYSw1XTps5L5EV83/1.png",
+    "external_url": "BuffBears",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "cyan"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tattoo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "none"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Aviator"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "none"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "none"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/QmTUKnG7mu8kCVXrUUQNGEhydDW3ZSNYSw1XTps5L5EV83/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FJC8fzZBXPKtVwpD7KCB3zTbHUMWw3T7z4xDBuLPpMLc",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

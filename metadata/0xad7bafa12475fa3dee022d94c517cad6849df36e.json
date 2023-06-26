@@ -1,0 +1,35 @@
+{
+  "address": "0xad7bafa12475fa3dee022d94c517cad6849df36e",
+  "type": "ERC721",
+  "name": "NFT Toronto Early Bird VIP",
+  "tokenCount": "4",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xad7bafa12475fa3dee022d94c517cad6849df36e/1",
+  "metadata": {
+    "name": "NFT Toronto Early Bird VIP",
+    "description": "NFT Toronto Early Bird VIP is a ticket for NFT Toronto. NFT Toronto is the first large-scale NFT-focused conference in Toronto, exploring endless opportunities in a rapidly growing market. This lock was created using contracts from Unlock Labs. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://gateway.pinata.cloud/ipfs/QmR117NwuaijaDejx1rHQSfgvs9FWAttpRu9F2w1snT6wT",
+    "attributes": [
+      {
+        "value": "2023-06-22",
+        "trait_type": "event_start_date"
+      },
+      {
+        "value": "13:00",
+        "trait_type": "event_start_time"
+      },
+      {
+        "value": "Metro Toronto Convention Centre",
+        "trait_type": "event_address"
+      }
+    ],
+    "background_color": "000000",
+    "tokenId": "1",
+    "owner": "0x3b502b054715a8e0d8f657169615a88b2ccdd429",
+    "userMetadata": {
+      "public": {}
+    },
+    "keyId": "1",
+    "lockAddress": "0xaD7BAfa12475fA3DEE022d94c517cad6849DF36e",
+    "network": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "address": "0x2467b97ab8470c998069cfd09ec397b098ef14dd",
+  "type": "ERC721",
+  "name": "Intellects",
+  "tokenCount": "15",
+  "uri": "ipfs://QmNMaWhjFeJdTPQEBezb7nPWaWJ4R6ryMq9SEBTzLgcKPR/1.json",
+  "metadata": {
+    "name": "Intellects #2",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://QmRqxBVKc9hTLnauV5C5ZM6qRmduipdVqFFi3twd1mQU7c/2.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Footwear",
+        "value": "Cowboy"
+      },
+      {
+        "trait_type": "Left Hand",
+        "value": "Balloon"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mustache"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Chopsticks"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wink"
+      },
+      {
+        "trait_type": "Right Hand",
+        "value": "Kitten"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

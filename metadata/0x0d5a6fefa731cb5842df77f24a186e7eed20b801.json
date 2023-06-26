@@ -1,0 +1,28 @@
+{
+  "address": "0x0d5a6fefa731cb5842df77f24a186e7eed20b801",
+  "type": "ERC721",
+  "name": "YIN V2",
+  "tokenCount": "85",
+  "uri": "data:application/json,{\"name\":\"YIN Allocation Voucher #1 - 0.00 - OneTime\", \"description\":\"Voucher #1 of YIN allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade YIN's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!\",\"image\": \"https://imgurl.solv.finance/meta/images/vvYIN/1.png\",\"external_url\":\"https://app.solv.finance/vvYIN/1\", \"properties\": {\"owner\":\"0x9b1a57da441d6d1e9a1dc48323709338b2b4b345\",\"underlying\":\"0x794baab6b878467f93ef17e2f2851ce04e3e34c8\",\"underlyingSymbol\":\"YIN\",\"vestingAmount\":\"25000.000000000000000000\",\"principal\":\"0.000000000000000000\",\"claimType\":\"OneTime\",\"claimableAmount\":\"0.000000000000000000\",\"percentages\":[\"100.00%\"],\"maturities\":[1636934400]}}",
+  "metadata": {
+    "name": "YIN Allocation Voucher #1 - 0.00 - OneTime",
+    "description": "Voucher #1 of YIN allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade YIN's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!",
+    "image": "https://imgurl.solv.finance/meta/images/vvYIN/1.png",
+    "external_url": "https://app.solv.finance/vvYIN/1",
+    "properties": {
+      "owner": "0x9b1a57da441d6d1e9a1dc48323709338b2b4b345",
+      "underlying": "0x794baab6b878467f93ef17e2f2851ce04e3e34c8",
+      "underlyingSymbol": "YIN",
+      "vestingAmount": "25000.000000000000000000",
+      "principal": "0.000000000000000000",
+      "claimType": "OneTime",
+      "claimableAmount": "0.000000000000000000",
+      "percentages": [
+        "100.00%"
+      ],
+      "maturities": [
+        1636934400
+      ]
+    }
+  }
+}

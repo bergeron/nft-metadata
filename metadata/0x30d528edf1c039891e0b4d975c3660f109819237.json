@@ -1,0 +1,41 @@
+{
+  "address": "0x30d528edf1c039891e0b4d975c3660f109819237",
+  "type": "ERC721",
+  "name": "Flowers & Friends",
+  "tokenCount": "26",
+  "uri": "ipfs://bafybeidc6n5q2aymn2frgwljrowe3ncuif7zvj7jgcbpbei6lrhusf6jr4/1.json",
+  "metadata": {
+    "name": "Flowers & Friends #1",
+    "image": "ipfs://bafybeifmrmrl3e4weibv54txqq6e4q4zrapuenpwpinaoxnttevi4mky4i/1.png",
+    "description": "Freshly bloomed flowers & friends.",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Emotions",
+        "value": "Disappointed"
+      },
+      {
+        "trait_type": "Face Color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Flower",
+        "value": "Purple Periwinkle"
+      },
+      {
+        "trait_type": "Extra Leaves",
+        "value": "None"
+      },
+      {
+        "trait_type": "Stem",
+        "value": "Elm"
+      },
+      {
+        "trait_type": "Background Color",
+        "value": "Orange"
+      }
+    ],
+    "seller_fee_basis_points": 0,
+    "compiler": "nft-inator.com"
+  }
+}

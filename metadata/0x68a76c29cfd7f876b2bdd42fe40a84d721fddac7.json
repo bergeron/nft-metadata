@@ -1,0 +1,31 @@
+{
+  "address": "0x68a76c29cfd7f876b2bdd42fe40a84d721fddac7",
+  "type": "ERC1155",
+  "name": "FDK Season 1",
+  "tokenCount": "45",
+  "uri": "https://api.frahm.art/fdk/metadata/1",
+  "metadata": {
+    "name": "Preview",
+    "image": "https://ik.imagekit.io/n0ga8dzjj4j4/genesis_preview/frahm-preview_wK9UDuAM2.png",
+    "description": "Preview",
+    "animation_url": "https://frahm-media.s3.us-east-2.amazonaws.com/1.glb",
+    "attributes": [
+      {
+        "trait_type": "Cartouche"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "FDK Season 1"
+      },
+      {
+        "trait_type": "Material"
+      },
+      {
+        "trait_type": "Orientation"
+      },
+      {
+        "trait_type": "Frame Style"
+      }
+    ]
+  }
+}

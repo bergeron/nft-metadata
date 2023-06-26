@@ -1,0 +1,66 @@
+{
+  "address": "0x0c6bfb01b2dea10bc2344291945a078b7ad7b9fb",
+  "type": "ERC721",
+  "name": "Rad Impressions",
+  "tokenCount": "35",
+  "uri": "https://256art.s3.eu-central-1.amazonaws.com/mainnet/0x0c6bfb01b2dea10bc2344291945a078b7ad7b9fb/json_files/1",
+  "metadata": {
+    "name": "Rad Impressions #1",
+    "artist": "Frank Force",
+    "description": "Rad Impressions generates abstract sculptures by imprinting repeated geometric shapes into soft virtual surfaces. The scenes are rendered with a special raymarching system exploring a range of conditions and parameters. The interplay of form and shadow evoke a sense of movement and rhythm, revealing how impressions can change when viewed in different lights.\n\nLive view: https://256art.s3.eu-central-1.amazonaws.com/mainnet/0x0c6bfb01b2dea10bc2344291945a078b7ad7b9fb/html_files/1.html\n\nHigh res image: https://256art.s3.eu-central-1.amazonaws.com/mainnet/0x0c6bfb01b2dea10bc2344291945a078b7ad7b9fb/max/1.png\n\nhttps://etherscan.io/address/0x0c6bfb01b2dea10bc2344291945a078b7ad7b9fb#readContract -> getArtFromChain",
+    "image": "https://256art.s3.eu-central-1.amazonaws.com/mainnet/0x0c6bfb01b2dea10bc2344291945a078b7ad7b9fb/max/1.png",
+    "live_url": "https://256art.s3.eu-central-1.amazonaws.com/mainnet/0x0c6bfb01b2dea10bc2344291945a078b7ad7b9fb/html_files/1.html",
+    "external_url": "https://256art.s3.eu-central-1.amazonaws.com/mainnet/0x0c6bfb01b2dea10bc2344291945a078b7ad7b9fb/html_files/1.html",
+    "art_from_chain": "https://etherscan.io/address/0x0c6bfb01b2dea10bc2344291945a078b7ad7b9fb#readContract -> getArtFromChain",
+    "attributes": [
+      {
+        "trait_type": "Surface Palette",
+        "value": "Three"
+      },
+      {
+        "trait_type": "Light Colors",
+        "value": "Desaturated"
+      },
+      {
+        "trait_type": "Turn",
+        "value": "Third"
+      },
+      {
+        "trait_type": "Warp",
+        "value": "None"
+      },
+      {
+        "trait_type": "Border",
+        "value": "Thick"
+      },
+      {
+        "trait_type": "Front",
+        "value": "Rectangles"
+      },
+      {
+        "trait_type": "Imprints",
+        "value": "Cylinder"
+      },
+      {
+        "trait_type": "Shape Scale",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Color Warp",
+        "value": "None"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "None"
+      },
+      {
+        "trait_type": "Center",
+        "value": "No"
+      },
+      {
+        "trait_type": "Invert",
+        "value": "No"
+      }
+    ]
+  }
+}

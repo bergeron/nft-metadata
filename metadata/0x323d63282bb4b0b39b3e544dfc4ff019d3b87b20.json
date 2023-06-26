@@ -1,0 +1,30 @@
+{
+  "address": "0x323d63282bb4b0b39b3e544dfc4ff019d3b87b20",
+  "type": "ERC721",
+  "name": "Banana Art Club Main",
+  "tokenCount": "300",
+  "uri": "ipfs://QmZqyfeCi74uuNZhzPWUjJBVVeh7JRZnQEqgw7ZuK4oGEZ/1.json",
+  "metadata": {
+    "name": "Banana Art Club #1",
+    "description": "The most Expensive banana on the web",
+    "image": "ipfs://QmYNm9XQYqgiqDKzc2kYgzfYr4h1HT3zsVX2QuKKPT242W/1.png",
+    "dna": "3c1b3ad55b5c58efffcf8dc2a13dcaeb09a044f4",
+    "edition": 1,
+    "date": 1649874149845,
+    "attributes": [
+      {
+        "trait_type": "Genetically Modified",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Art",
+        "value": "Spary"
+      },
+      {
+        "trait_type": "Duct Tape",
+        "value": "Picton Blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

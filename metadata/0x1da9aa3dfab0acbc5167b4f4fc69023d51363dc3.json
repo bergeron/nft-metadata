@@ -1,0 +1,41 @@
+{
+  "address": "0x1da9aa3dfab0acbc5167b4f4fc69023d51363dc3",
+  "type": "ERC721",
+  "name": "Nethervoid",
+  "tokenCount": "12",
+  "uri": "https://arweave.net/ongh68dyRiEBxMie4MsolXq3BCU3jX9zrfTekAyo5lg",
+  "metadata": {
+    "name": "Nethervoid 01",
+    "created_by": "anf",
+    "description": "A constantly shifting abstract composition based on a Perlin Noise field. Each time the code is run, the variables of the algorithm fluctuate over time to produce a dynamic ever changing artwork.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "anf"
+      }
+    ],
+    "animation_details": {
+      "bytes": 104096209,
+      "format": "MP4",
+      "duration": 60,
+      "sha256": "77698c0d9b0c36aaf9270406ec4551c172170344b42e75496e3e0e8fcc4e0b86",
+      "width": 2048,
+      "height": 2048,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/ov6mHxup2sG2VfJjmyWsY-xy81DYEekLWBh_-XjbVZk",
+    "animation_url": "https://arweave.net/ov6mHxup2sG2VfJjmyWsY-xy81DYEekLWBh_-XjbVZk",
+    "image_details": {
+      "bytes": 717052,
+      "format": "JPEG",
+      "sha256": "1a95cb397b6cbfebed7384cdceedfd96c6c3c1c463f290224bd92a71d20d0a3f",
+      "width": 2048,
+      "height": 2048
+    },
+    "image": "https://arweave.net/ibudAOSzKmpz27afIlfx9TmghJG39R7uukwRUHdX0Xo",
+    "image_url": "https://arweave.net/ibudAOSzKmpz27afIlfx9TmghJG39R7uukwRUHdX0Xo"
+  }
+}

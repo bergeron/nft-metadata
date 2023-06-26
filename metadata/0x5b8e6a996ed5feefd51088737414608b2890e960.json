@@ -1,0 +1,28 @@
+{
+  "address": "0x5b8e6a996ed5feefd51088737414608b2890e960",
+  "type": "ERC721",
+  "name": "ETHSafari - Late Bird Tickets",
+  "tokenCount": "2",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x5b8e6a996ed5feefd51088737414608b2890e960/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x5B8E6a996ed5fEEfD51088737414608B2890E960/icon?id=1",
+    "expiration": 1664917853,
+    "tokenId": "1",
+    "owner": "0x68cd0c3efa1dbf3632eef18fa4b7a450a77b258d",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1664917853
+      }
+    ],
+    "userMetadata": {
+      "public": {}
+    },
+    "keyId": "1",
+    "lockAddress": "0x5B8E6a996ed5fEEfD51088737414608B2890E960",
+    "network": 1
+  }
+}

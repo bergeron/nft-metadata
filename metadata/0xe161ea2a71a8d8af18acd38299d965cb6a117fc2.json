@@ -1,0 +1,42 @@
+{
+  "address": "0xe161ea2a71a8d8af18acd38299d965cb6a117fc2",
+  "type": "ERC721",
+  "name": "SpookyBirds",
+  "tokenCount": "1595",
+  "uri": "ipfs://bafybeief53s4y6ips73mwfj4agan66ehbv7gsua5rqhjzb4yxastaoe54a/1.json",
+  "metadata": {
+    "name": "SpookyBird #1",
+    "description": "Be ready for Halloween. The first dynamic-metadata project is here. CC0.",
+    "image": "ipfs://bafybeiflbx3qzgmsc32z5glg6cfhq6muybhh2mrxjemb5sqcpfjc36wipy/1.png",
+    "dna": "6f429217cf260760daf7327f89eaec68d4bc3704",
+    "edition": 1,
+    "date": 1663933158797,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Aqua"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Beak 2"
+      },
+      {
+        "trait_type": "Left Eye",
+        "value": "Eye 5"
+      },
+      {
+        "trait_type": "Right Eye",
+        "value": "Eye 2"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Gremplin"
+      }
+    ],
+    "compiler": "Birds"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0x1e0a2cf49dff783631f1dda704e1d9a114b31c6b",
+  "type": "ERC721",
+  "name": "Token Quest",
+  "tokenCount": "10",
+  "uri": "https://storage.googleapis.com/tokenquest.appspot.com/nft/1.json",
+  "metadata": {
+    "name": "Token Quest Diamond Admin Card ID # 1 (31,32)",
+    "description": "This admin card gives the bearer the ability to edit the tile at (31,32) on the Token Quest website. Go to https://www.tokenquest.xyz/edit/31x32 once you own to upload your image.",
+    "image": "https://storage.googleapis.com/tokenquest.appspot.com/nft/1.png",
+    "attributes": [
+      {
+        "trait_type": "drop",
+        "value": 2
+      },
+      {
+        "trait_type": "class",
+        "value": "diamond"
+      },
+      {
+        "trait_type": "tile_type",
+        "value": "grass"
+      },
+      {
+        "trait_type": "position",
+        "value": "(31,32)"
+      },
+      {
+        "trait_type": "x",
+        "value": 31
+      },
+      {
+        "trait_type": "y",
+        "value": 32
+      }
+    ]
+  }
+}

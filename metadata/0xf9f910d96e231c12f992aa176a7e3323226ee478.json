@@ -1,0 +1,24 @@
+{
+  "address": "0xf9f910d96e231c12f992aa176a7e3323226ee478",
+  "type": "ERC721",
+  "name": "Spiffy Spaceships",
+  "tokenCount": "5",
+  "uri": "https://spiffy-spaceships.vercel.app/api/1",
+  "metadata": {
+    "name": "#1",
+    "description": "A collection of 1024 unique procedurally generated pixel spaceships managed by a custom ERC-721 smart contract.",
+    "tokenId": 1,
+    "image": "https://spiffy-spaceships.vercel.app/images/hidden.gif",
+    "external_url": "http://spiffyspaceships.com",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "Hidden"
+      },
+      {
+        "trait_type": "Squadron Leader",
+        "value": "Alpha"
+      }
+    ]
+  }
+}

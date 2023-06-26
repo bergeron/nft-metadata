@@ -1,0 +1,82 @@
+{
+  "address": "0x2b3c48be4fb33b0724214aff12b086b0214f8f15",
+  "type": "ERC721",
+  "name": "CoinDesk Presents: Microcosms by Fahad Karim",
+  "tokenCount": "149",
+  "uri": "https://api.passage.xyz/passport/metadata/1/0x2b3c48be4fb33b0724214aff12b086b0214f8f15/1",
+  "metadata": {
+    "platform": "CoinDesk",
+    "tokenID": "1",
+    "series": "N/A",
+    "aspect_ratio": 0.8,
+    "payout_address": "0x7e793504f80b2dfea77cca91ab1672aa686a86cc",
+    "name": "Microcosms #1",
+    "minted": true,
+    "artist": "Fahad Karim",
+    "description": "Microcosms is an on-chain generative art collection by Fahad Karim. The artwork has been created in connection with Consensus, CoinDesk’s yearly conference bringing together the Web3/crypto community. Ownership of an NFT in this collection unlocks rewards and multi-year access to the conference. _Continue reading to see reward history of this token._ \n\n—\n\nIn moments when we gather, each person is an ambassador of their perspective, a microcosm of the world from which they come. The artwork in the Microcosms collection takes the form of dynamic two-dimensional cross-sections into people’s homes, providing a dollhouse-style peek into these spaces. A home is the most intimate setting, a place where people can be themselves. Karim uses the symbolism of this setting to build a collection representing a community of unique perspectives coming together under a common roof.\n\nThe visuals of Microcosms are inspired by the geometric structures of technology fused with the traditional aesthetics of Indo-Persian miniatures. A trail of floating rectangles is simultaneously a set of paintings in someone’s home and a literal manifestation of a blockchain. The resulting blend, a sort of abstract sci-fi miniature, feels both high-tech and traditional - a common theme in Karim’s work.\n\nTo explore the temporal nature of our evolving perspectives, each artwork is generated as an animated triptych that is revealed over the course of three years. Within each set, all three homes share the same compositional blueprint but can vary greatly in details. The primary panel on display will cycle every year, accompanied with glimpses of the future flashing in and out through glitch-style animation. Each microcosm, though tempting to appreciate as a still frame, represents this ever-changing and unpredictable blend of influences.\n\n–\n\nUse arrow keys to navigate through revealed panels. Click to toggle animation. Press ‘p’ or ‘j’ to download the displayed image.\n\n ** REWARD SUMMARY FOR TOKEN 1 ** \n\n2023 Reward NFTs Granted:  \n[ 2023 PRO PASS ] [ DESK TOKEN ] [ PRIVATEEVENT ] [ SIGNED BOOK ] [ MERCH ]\n\n2024 Reward NFTs Granted:  \n[ PENDING ]\n\n2025 Reward NFTs Granted:  \n[ PENDING ]",
+    "script_type": "p5@1.0.0",
+    "project_id": "0",
+    "engine_type": "fullyonchain",
+    "image": "https://media-proxy.artblocks.io/0x2b3c48be4fb33b0724214aff12b086b0214f8f15/1.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x2b3c48be4fb33b0724214aff12b086b0214f8f15/1.png",
+    "generator_url": "https://generator.artblocks.io/0x2b3c48be4fb33b0724214aff12b086b0214f8f15/1",
+    "animation_url": "https://generator.artblocks.io/0x2b3c48be4fb33b0724214aff12b086b0214f8f15/1",
+    "royaltyInfo": {
+      "artistAddress": "0xf128c0e35c19a3476a566e173c7acb44e28181fc",
+      "additionalPayee": "0x739a4278481d35bbcdb2db0d9ae845c2a75bf3ec",
+      "additionalPayeePercentage": 77,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Microcosms by Fahad Karim",
+    "website": "https://www.coindesk.com/consensusnft/",
+    "token_hash": "0x2463c3aa6a09a2db67d96a6d511a62928d9ac28a3f629203245da88d27387c25",
+    "external_url": "",
+    "primary_asset_url": "https://generator.artblocks.io/0x2b3c48be4fb33b0724214aff12b086b0214f8f15/1",
+    "features": {
+      "Stars": "2",
+      "Motion": "Calm",
+      "Curator": "Machine",
+      "Margins": "Narrow",
+      "Palette": "Brooklyn Brownstone",
+      "Lookahead": "Short",
+      "Granularity": "Medium",
+      "2023 Rewards": "5"
+    },
+    "traits": [
+      {
+        "trait_type": "Microcosms",
+        "value": "All Microcosms"
+      },
+      {
+        "trait_type": "Microcosms",
+        "value": "Stars: 2"
+      },
+      {
+        "trait_type": "Microcosms",
+        "value": "Motion: Calm"
+      },
+      {
+        "trait_type": "Microcosms",
+        "value": "Curator: Machine"
+      },
+      {
+        "trait_type": "Microcosms",
+        "value": "Margins: Narrow"
+      },
+      {
+        "trait_type": "Microcosms",
+        "value": "Palette: Brooklyn Brownstone"
+      },
+      {
+        "trait_type": "Microcosms",
+        "value": "Lookahead: Short"
+      },
+      {
+        "trait_type": "Microcosms",
+        "value": "Granularity: Medium"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-SA 4.0"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0xd651b0a4882df98c5a2cf626fd1e4a973bf13dc8",
+  "type": "ERC721",
+  "name": "RobosNFT",
+  "tokenCount": "1234",
+  "uri": "ipfs://QmcSRUE7Ct9B87G8XRYSLKmJ3tDwjzgtDjzJEoCUM6y2L1/1",
+  "metadata": {
+    "name": "Robo #2",
+    "description": "1234 incredibly vivid, beautifully crafted 24 * 24 pixel robos.",
+    "image": "ipfs://QmWFotaxtnTqggw3KvyXCcPvZATmsUUnYAyRVsqGaK9yX8/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "_Navy Gradient"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Digital Forest"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bionic Blue"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Head Accessory",
+        "value": "Yellow Transmitter"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Orange Box"
+      }
+    ],
+    "dna": "00c314289407d7b303e8aaf9730ec7ec87b50ccf",
+    "edition": 2,
+    "date": 1667806869837,
+    "compiler": "Art Generator"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "address": "0x94686fbc8ed787f39009b304207940aee10fb039",
+  "type": "ERC721",
+  "name": "JEFFGift_Official",
+  "tokenCount": "456",
+  "uri": "https://9qo8yqhl14.execute-api.ap-northeast-2.amazonaws.com/prod/mint/gift/1.json",
+  "metadata": {
+    "description": "JEFF Gift Box",
+    "external_url": "https://jeffworld.io",
+    "image": "https://d1qiahrcze2bb8.cloudfront.net/giftmint/jeffgiftbox.png",
+    "name": "JEFF GiftBox #1 ",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "ITEM"
+      },
+      {
+        "trait_type": "Kind",
+        "value": "Test"
+      },
+      {
+        "trait_type": "Name",
+        "value": "Test"
+      }
+    ]
+  }
+}

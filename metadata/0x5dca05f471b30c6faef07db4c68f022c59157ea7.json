@@ -1,0 +1,53 @@
+{
+  "address": "0x5dca05f471b30c6faef07db4c68f022c59157ea7",
+  "type": "ERC721",
+  "name": "The Lookers",
+  "tokenCount": "3",
+  "uri": "ipfs://QmS9RKgANAQEfvLiDC6dGpohZQxfGDbuoS3LYzqstxunBC/1.json",
+  "metadata": {
+    "name": "LOOKER #1",
+    "symbol": "LOOKR",
+    "description": "Green emerald cyclopes - All they do is Look.  A FORtheART collection. Unofficial Mascots, inspired by, but not affiliated with LooksRare.",
+    "seller_fee_basis_points": 420,
+    "image": "ipfs://QmTbYPpWcoTK77FpUehoN77F6asrv6gCuTEj39EPFAyzGC/1.png",
+    "external_url": "https://fortheart.xyz/",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "LightCloud"
+      },
+      {
+        "trait_type": "Circle",
+        "value": "Speckle"
+      },
+      {
+        "trait_type": "Appendages",
+        "value": "UpArrows"
+      },
+      {
+        "trait_type": "Diamond",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Lashes"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x37F4b16981E8847C3b59DC703B59abC56fcFA698",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

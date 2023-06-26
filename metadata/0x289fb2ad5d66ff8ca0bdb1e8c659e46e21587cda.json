@@ -1,0 +1,55 @@
+{
+  "address": "0x289fb2ad5d66ff8ca0bdb1e8c659e46e21587cda",
+  "type": "ERC721",
+  "name": "Wheelies OnChain",
+  "tokenCount": "456",
+  "uri": "ipfs://QmQ12GLGaZ4GMnNAWmi9uqeBWLhpvuEhNRKnhv2n62XX8n/1.json",
+  "metadata": {
+    "dna": "045a448337edf26717d2641db5153bd60fc556f58c29d222e2614356d9388e45",
+    "name": "wheelie #1",
+    "description": "Wheelies, riding fast and hauling ass.",
+    "image": "ipfs://QmWLo36mAWDAPzm8RsiNS86XqNT6rhyzRavNhHa4qdJ9A9/1.gif",
+    "imageName": "1.gif",
+    "edition": 1,
+    "date": 1664475968082,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "pass fence "
+      },
+      {
+        "trait_type": "Bodies clothing",
+        "value": "white guy muscular arms legs cut off purple shirt"
+      },
+      {
+        "trait_type": "Hair hats",
+        "value": "green hair"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "green flag"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "black shorts"
+      },
+      {
+        "trait_type": "Wheel Chairs",
+        "value": "chrome wheelchair"
+      },
+      {
+        "trait_type": "Wheels",
+        "value": "orange wheels"
+      },
+      {
+        "trait_type": "Spinners",
+        "value": "red spinners"
+      },
+      {
+        "trait_type": "MPH",
+        "value": 21
+      }
+    ],
+    "compiler": "Wheelies"
+  }
+}

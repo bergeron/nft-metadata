@@ -1,0 +1,38 @@
+{
+  "address": "0xfa6a3f24ebd80075a1fcc41e13ebf30089841051",
+  "type": "ERC721",
+  "name": "Philipps",
+  "tokenCount": "3",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=7AKxvBm7e8EyTCxvovFG",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1570093651566?alt=media&token=0352af79-10fc-4cbe-b832-d58718609538",
+    "isForSale": true,
+    "description": "Philipp :)",
+    "contractAddress": "0xfa6A3F24eBd80075A1fCc41E13eBf30089841051",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xfa6A3F24eBd80075A1fCc41E13eBf30089841051/7AKxvBm7e8EyTCxvovFG",
+    "minter": "0x0B43E683d75801Fe435F5d027f0DBb799968a983",
+    "mintedOn": {
+      "_seconds": 1570093657,
+      "_nanoseconds": 296000000
+    },
+    "price": "0",
+    "name": "Philipp",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Philipp"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "minted": "Minted on Mintbase.io"
+  }
+}

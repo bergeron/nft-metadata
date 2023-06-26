@@ -1,0 +1,45 @@
+{
+  "address": "0x105e46ddd92124705105dce8c9ca08210b8db40a",
+  "type": "ERC721",
+  "name": "JARVINART V2",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/XkppXlcaxkXxNJG_XhoEGZoHqzzf8nZvnu9LEcIWq6c",
+  "metadata": {
+    "name": "Above and Beyond",
+    "created_by": "jarvinart",
+    "description": "\"Can you see what the stars are made of on the citadel above the clouds?\"\n\nPhysical print of a desired frame will be sent to the collector.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "jarvinart"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2022"
+      }
+    ],
+    "animation_details": {
+      "bytes": 103159087,
+      "format": "MP4",
+      "duration": 27,
+      "sha256": "71fc286d9ec901033f77014bbb04a5cce1cb924ef79b326e1a1f33a52bb12de4",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/Xd3YVfTTkfnVVzX-raK46sAwXbxi39dilt08fOihhAU",
+    "animation_url": "https://arweave.net/Xd3YVfTTkfnVVzX-raK46sAwXbxi39dilt08fOihhAU",
+    "image_details": {
+      "bytes": 5628072,
+      "format": "JPEG",
+      "sha256": "ee937a42ceecea626fc3f3bf585575cb948321e543a1d40c4a20ef547793ae6d",
+      "width": 3840,
+      "height": 2160
+    },
+    "image": "https://arweave.net/ntoJq_d2_jiyjQ772UnfzFYaDhftmOimJq4bGkgn34k",
+    "image_url": "https://arweave.net/ntoJq_d2_jiyjQ772UnfzFYaDhftmOimJq4bGkgn34k"
+  }
+}

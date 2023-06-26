@@ -1,0 +1,35 @@
+{
+  "address": "0xb25d78d8bbd10aef95363e34df674bc2aa5d6001",
+  "type": "ERC721",
+  "name": "The girl and the Wolf",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeihkl6j25nh53ux7wmz6jllhyrvx6mpf2t7czdyhcroappmt7bopwu/1.json",
+  "metadata": {
+    "name": "Girl and Dog#1",
+    "description": "The girl and the Wolf in the deep forest",
+    "external_url": "https://fy.xyz",
+    "image": "ipfs://bafybeieg5qfwz3sdau6nzoszvsuj56y5qt6f273ogfvyie6ehl7l3eeeam/1.png",
+    "attributes": [
+      {
+        "trait_type": "pic",
+        "value": "3"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://onemint.io/",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "The girl and the Wolf",
+      "family": "The girl and the Wolf"
+    },
+    "symbol": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "address": "0x98c5f1d9f8d306f9edc771d58fda988c58e69f14",
+  "type": "ERC721",
+  "name": "Punk Machines Genesis",
+  "tokenCount": "888",
+  "uri": "https://punk-machines.nyc3.digitaloceanspaces.com/json/1.json",
+  "metadata": {
+    "name": "Punk Machines #1",
+    "description": "No Rules\n\n Only Anarchy",
+    "image": "https://punk-machines.nyc3.digitaloceanspaces.com/image/1.png",
+    "attributes": [
+      {
+        "trait_type": "Rank",
+        "value": "Anarchist"
+      },
+      {
+        "trait_type": "Operating system",
+        "value": "Windows Vista"
+      },
+      {
+        "trait_type": "Programming language",
+        "value": "LISP"
+      }
+    ]
+  }
+}

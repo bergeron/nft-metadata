@@ -1,0 +1,39 @@
+{
+  "address": "0x70282c6226bf92a2b1212b5a346072ae7e46452a",
+  "type": "ERC721",
+  "name": "Squares",
+  "tokenCount": "3",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=s8AtdV3ERRz55EnThI5V",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1575164178311?alt=media&token=9d85289f-5c81-4ebb-90a8-882597b89e06",
+    "isForSale": false,
+    "description": "Beautiful blue square",
+    "contractAddress": "",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted//s8AtdV3ERRz55EnThI5V",
+    "minter": "0x1de5125581eC31E9f710CB08B6A2506Ab3FD69EB",
+    "mintedOn": {
+      "_seconds": 1575164182,
+      "_nanoseconds": 92000000
+    },
+    "price": "0",
+    "name": "Blue",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "id": null
+  }
+}

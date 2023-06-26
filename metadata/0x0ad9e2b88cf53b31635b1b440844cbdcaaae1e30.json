@@ -1,0 +1,37 @@
+{
+  "address": "0x0ad9e2b88cf53b31635b1b440844cbdcaaae1e30",
+  "type": "ERC721",
+  "name": "Armin",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=zC7UaCkoy38PUdNoyEon",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1582804959649?alt=media&token=624712a6-b3e4-472b-868f-75a58e1ea8b3",
+    "forSale": false,
+    "description": "Ich reite in die Stadt und der Rest ergibt sich.",
+    "contractAddress": "0x0ad9e2b88cf53b31635b1b440844cbdcaaae1e30",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1582804996,
+      "_nanoseconds": 246000000
+    },
+    "price": 0,
+    "name": "Danke Armin",
+    "fiatPrice": "$0.00",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x0ad9e2b88cf53b31635b1b440844cbdcaaae1e30",
+    "type": "ERC721"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "address": "0x954893b35f013aa8e8d70d66bfb2b05c922c6796",
+  "type": "ERC721",
+  "name": "LOREM 1/1",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/JNiVK_vPv2ZOv0AuxHpm9zwRMkb69v09jVcQ6RnLQj0",
+  "metadata": {
+    "name": "Shift Four",
+    "created_by": "LOREM",
+    "description": "Shift Four | 1/1\n\n3840 × 2160",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "LOREM"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Shift"
+      }
+    ],
+    "image_details": {
+      "bytes": 2306588,
+      "format": "JPEG",
+      "sha256": "ff4fc1e82742fad2df4881d597a680ea12309e51b33800e80500c89ea701229e",
+      "width": 3840,
+      "height": 2160
+    },
+    "image": "https://arweave.net/QvoUAjKnKeUROIiOBCiqXfP8_QQwHOkT6xOHkLKwX3Q",
+    "image_url": "https://arweave.net/QvoUAjKnKeUROIiOBCiqXfP8_QQwHOkT6xOHkLKwX3Q",
+    "animation_details": {
+      "bytes": 29998858,
+      "format": "MP4",
+      "duration": 12,
+      "sha256": "e1b66ed7189efeb36366f1bf168e366ca4862166491536ebfe7a190c313c8b19",
+      "width": 3840,
+      "height": 2160,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/eUya2lFvc8p3of8pyDwtNvjYsKX6mgDGyOFScerFRq0",
+    "animation_url": "https://arweave.net/eUya2lFvc8p3of8pyDwtNvjYsKX6mgDGyOFScerFRq0"
+  }
+}

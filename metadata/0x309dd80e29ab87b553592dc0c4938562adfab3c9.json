@@ -1,0 +1,35 @@
+{
+  "address": "0x309dd80e29ab87b553592dc0c4938562adfab3c9",
+  "type": "ERC1155",
+  "name": "House of Splendors - old",
+  "tokenCount": "2",
+  "uri": "ipfs://QmU1Jktp6wF9S9THWRWmkQj2rBN9Af64RKAbxCzEDk4VPG/1.json",
+  "metadata": {
+    "id": "1",
+    "description": "An Amethyst gemstone that only exists on the Ethereum blockchain. A commemorative token for the purchase of Malt, Grain & Cane's Curated Range bottlings (Year 2). Upon closer inspection of this gemstone, a Powerful rush of emotions flow through you, leaving you with a bad mixture of melancholy, terrible longing, and nostalgia for a nearly-forgotten someone. The temptation is there, but you resist the Powerful urge to reach back out to them.",
+    "external_url": "www.maltgraincane.com/bottles/008B",
+    "seller_fee_basis_points": 1000,
+    "image": "ipfs://QmUEBb6FbtizW9iHBMvnfNrX3xhELSa4SyBktEEy4J2cBD/1.png",
+    "name": "Amethyst #1",
+    "attributes": [
+      {
+        "trait_type": "IsRedeemed",
+        "value": "false"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Limited Edition",
+        "value": 1,
+        "max_value": 50
+      },
+      {
+        "trait_type": "Year",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Gemstone"
+      }
+    ]
+  }
+}

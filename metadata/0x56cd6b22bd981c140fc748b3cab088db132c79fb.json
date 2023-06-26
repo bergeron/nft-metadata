@@ -1,0 +1,38 @@
+{
+  "address": "0x56cd6b22bd981c140fc748b3cab088db132c79fb",
+  "type": "ERC721",
+  "name": "MoonSkullyNFT",
+  "tokenCount": "7777",
+  "uri": "ipfs://QmUkN8tUNr4KRigRCtAQ4nMgKmxi9cgB6QrXVZtdhRWPRo/1.json",
+  "metadata": {
+    "name": "MoonSkully #1",
+    "description": "skulls are ready to take over the whole world",
+    "image": "ipfs://QmbXSzGkj5Mxw5RZVDoV2eF9aCeVAymFCCGqrW2JFtmBWu/1.png",
+    "dna": "0eee900830d98143f55a8ff3b8b2a4cc9626a0d3",
+    "edition": 1,
+    "date": 1657340157341,
+    "attributes": [
+      {
+        "trait_type": "Scene",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Type",
+        "value": "X O Blue"
+      },
+      {
+        "trait_type": "Spectacles",
+        "value": "Purple Glasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "Lil Crown"
+      },
+      {
+        "trait_type": "Apparel",
+        "value": "Lightning"
+      }
+    ],
+    "compiler": "SSS"
+  }
+}

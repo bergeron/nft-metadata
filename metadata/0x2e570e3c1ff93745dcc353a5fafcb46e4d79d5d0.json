@@ -1,0 +1,121 @@
+{
+  "address": "0x2e570e3c1ff93745dcc353a5fafcb46e4d79d5d0",
+  "type": "ERC721",
+  "name": "1119asldfsadf",
+  "tokenCount": "250",
+  "uri": "https://api.artblocks.io/token/384000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "384000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "VOXΞL #1",
+    "minted": true,
+    "artist": "JEANVASCRIPT",
+    "description": "**VOXΞL** is a real-time, interactive 3D generative art project. Each iteration is a collage of shapes, colors and animations laid out in a voxel grid of various size and complexity. The visuals are rendered on every frame allowing smooth animation and the ability to rotate the camera around the 3D scene by dragging and zooming by scrolling. This creates a more immersive feel, gives the viewer control over the artwork and leverages what makes Artblocks unique by generating all the outputs entirely through code running live in the browser.\n\nIn all my work, I seek to blur the lines between the digital and the physical world by making 3D digital sculptures that feel (and look) like they could live in the physical world. That’s why with all my artworks I provide a way to visualize each interaction through Augmented Reality and Virtual Reality interfaces.\n\nIn this project I tried to utilize all the technical skills I acquired over the years and used a combination of 3D objects composition, custom grid layout, GLSL shaders, perlin noise and custom post processing all powered by ThreeJS.\n\nThe features give a wide variety of outputs and rarity while retaining a common visual language throughout the collection.\n\n---\n\n## Controls\nClick and drag to rotate the camera around the artwork.\nScroll to zoom the camera in and out.\n\n---\n\n## To View in AR\nGo to [jeanvascript.com/voxel/xr/](https://www.jeanvascript.com/voxel/xr/) on a WebAR compatible browser like Google Chrome on Android and [XRViewer](https://labs.mozilla.org/projects/webxr-viewer/) on iOS and click the \"AR\" button.\n\n## To View in VR\nGo to [jeanvascript.com/voxel/xr/](https://www.jeanvascript.com/voxel/xr/) on an WebVR compatible browser and device like the Meta Quest browser on Quest 2 and click the \"VR\" button.",
+    "script_type": "three@0.124.0",
+    "project_id": "384",
+    "curation_status": "presents",
+    "image": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/384000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/384000001.png",
+    "generator_url": "https://generator.artblocks.io/384000001",
+    "animation_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/384000001",
+    "royaltyInfo": {
+      "artistAddress": "0xaccbee638fedfe3650be1fa3182b428483db8369",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "VOXΞL by JEANVASCRIPT",
+    "website": "https://jeanvascript.com/voxel/",
+    "token_hash": "0xa5bb81ad7e8926b4d7cd269433c871d3ffb26184db1c7498d40d2150be4b6313",
+    "external_url": "https://artblocks.io/collections/presents/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/384/tokens/384000001",
+    "primary_asset_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/384000001",
+    "features": {
+      "shiny": true,
+      "CameraAngle": "3/4 bottom",
+      "DarkDensity": "Full",
+      "FieldOfView": "narrow",
+      "GridDensity": "Medium",
+      "ColorPalette1": "Lemon Coral",
+      "ColorPalette2": "Chinese Chocolate",
+      "SphereDensity": "Medium",
+      "GlowingDensity": "Low",
+      "GridResolution": 12,
+      "BigElementsDensity": "Low",
+      "LongElementsXDensity": "None",
+      "LongElementsYDensity": "Low",
+      "LongElementsZDensity": "None",
+      "SmallElementsDensity": "Full"
+    },
+    "traits": [
+      {
+        "trait_type": "VOXΞL",
+        "value": "All VOXΞLs"
+      },
+      {
+        "trait_type": "VOXΞL",
+        "value": "shiny: true"
+      },
+      {
+        "trait_type": "VOXΞL",
+        "value": "CameraAngle: 3/4 bottom"
+      },
+      {
+        "trait_type": "VOXΞL",
+        "value": "DarkDensity: Full"
+      },
+      {
+        "trait_type": "VOXΞL",
+        "value": "FieldOfView: narrow"
+      },
+      {
+        "trait_type": "VOXΞL",
+        "value": "GridDensity: Medium"
+      },
+      {
+        "trait_type": "VOXΞL",
+        "value": "ColorPalette1: Lemon Coral"
+      },
+      {
+        "trait_type": "VOXΞL",
+        "value": "ColorPalette2: Chinese Chocolate"
+      },
+      {
+        "trait_type": "VOXΞL",
+        "value": "SphereDensity: Medium"
+      },
+      {
+        "trait_type": "VOXΞL",
+        "value": "GlowingDensity: Low"
+      },
+      {
+        "trait_type": "VOXΞL",
+        "value": "GridResolution: 12"
+      },
+      {
+        "trait_type": "VOXΞL",
+        "value": "BigElementsDensity: Low"
+      },
+      {
+        "trait_type": "VOXΞL",
+        "value": "LongElementsXDensity: None"
+      },
+      {
+        "trait_type": "VOXΞL",
+        "value": "LongElementsYDensity: Low"
+      },
+      {
+        "trait_type": "VOXΞL",
+        "value": "LongElementsZDensity: None"
+      },
+      {
+        "trait_type": "VOXΞL",
+        "value": "SmallElementsDensity: Full"
+      }
+    ],
+    "is_static": false,
+    "license": "NFT License 2.0"
+  }
+}

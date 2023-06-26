@@ -1,0 +1,29 @@
+{
+  "address": "0x745b279060c002c54fa9bbfb8d7474b449ca4e9a",
+  "type": "ERC721",
+  "name": "Copy",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=6SKwUDB1eYK5ZApyuBaA",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1579712105679?alt=media&token=952af924-6458-4144-b0bb-8f5a7a285f05",
+    "forSale": false,
+    "contractAddress": "0x745b279060c002c54fa9bbfb8d7474b449ca4e9a",
+    "description": "It's an image of the first minted marblecard.",
+    "type": "ERC721",
+    "tags": [],
+    "external_link": "https://mintbase.io/minted/0x745b279060c002c54fa9bbfb8d7474b449ca4e9a/6SKwUDB1eYK5ZApyuBaA",
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "external_url": "https://mintbase.io",
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1579712248,
+      "_nanoseconds": 167000000
+    },
+    "price": "1",
+    "name": "MarbleCards#1-card",
+    "fiatPrice": "$169.00",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io"
+  }
+}

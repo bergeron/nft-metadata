@@ -1,0 +1,42 @@
+{
+  "address": "0x6360ebf4823a306703f62e747966080970faa26c",
+  "type": "ERC721",
+  "name": "cirripedology",
+  "tokenCount": "15",
+  "uri": "https://arweave.net/p1F4JKmZ0thkTUQqF-FyVd0HmuFevzN6Zj00QH6FBz4",
+  "metadata": {
+    "name": "cirripedology #6",
+    "created_by": "madbutter",
+    "external_url": "https://www.madbutter.com/",
+    "description": "(n. the scientific study of barnacles) A madbutter \"generative photographic\" re-mix of a source photo of some common barnacles (probably semibalanus balanoides) attached to a clamshell found at Andy's Way, Block Island, RI, USA. The \"source\" photo is itself a composite of nine focus-stacked macroscopic images captured with my Sigma sd Quattro H digital camera and then extensively processed algorithmically with my image-manipulation software that iteratively reflects parts of the image to create an abstracted interpretation of the image.  \n3449x4897px jpg\n\nThere is a link to the source photo and a link to a Google Map of the source location embedded in the metadata of this token accessible by inputting the Token ID into tokenURI when reading the contract on Etherscan using the Read Proxy button.\n\nFun barnacle facts:  \n1. They are animals in the same subphylum (Crustacea) as crabs and lobsters.  \n2. A ring of 6 plates surrounds the body (like the carapace of other crustaceans), and 4 more form the opening or operculum. The plates of the operculum are missing in these photos, which show just the fossil carapaces of dead barnacles.  \n3. They attach to a substratum (in this case the clamshell) using a glue-like secretion emitted by their cement glands which are essentially antenna - they are in effect attached by their foreheads face-down to the substrate  \n4. Barnacles are hermaphroditic, but they cannot fertilize themselves. Since they are sessile (non-mobile) they accomplish sexual reproduction with extremely long penises: they have the largest penis to body size ratio in the animal kingdom, up to 8 times their body length.  \n5. Although they don't have eyes, barnacles have crude photoreceptors and are aware of changes in light, which allows them to withdraw into their shells when threatened by predators.  \nsource: https://en.wikipedia.org/wiki/Barnacle",
+    "source photo": "https://arweave.net/kFcWYEjOCrUnIjhC-SOg_p-N3YCyDFffSBrHav0hQug",
+    "googlemap location": "https://www.google.com/maps/place/41%C2%B012'03.4%22N+71%C2%B034'30.8%22W/@41.186302,-71.586788,14z",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "madbutter"
+      },
+      {
+        "trait_type": "collection",
+        "value": "cirripedology"
+      },
+      {
+        "trait_type": "location",
+        "value": "Rhode Island"
+      },
+      {
+        "trait_type": "genre",
+        "value": "fauna"
+      }
+    ],
+    "image_details": {
+      "bytes": 13085587,
+      "format": "JPEG",
+      "sha256": "672d25b4c1e6eff6e92bcaeba4dbaa91e3bcf066e6193047f1b7d5204c124a0a",
+      "width": 3449,
+      "height": 4897
+    },
+    "image": "https://arweave.net/OH59S_57fyXz7PNORNYp7RV96794zTxnpDjjoyMSGHI",
+    "image_url": "https://arweave.net/OH59S_57fyXz7PNORNYp7RV96794zTxnpDjjoyMSGHI"
+  }
+}

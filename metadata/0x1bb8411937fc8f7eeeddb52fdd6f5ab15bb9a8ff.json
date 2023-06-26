@@ -1,0 +1,72 @@
+{
+  "address": "0x1bb8411937fc8f7eeeddb52fdd6f5ab15bb9a8ff",
+  "type": "ERC721",
+  "name": "92154asdf",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/172000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "172000001",
+    "series": "N/A",
+    "aspect_ratio": 0.5625,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Rituals - Venice #1",
+    "minted": true,
+    "artist": "Aaron Penne x Boreta",
+    "description": "Rituals combines generative music and generative artwork to create 1000 unique windows into a singular parametric universe. The music and art are crafted to infinitely evolve, giving collectors a subtly new experience upon each viewing. If left running, a single Ritual will continue generating music and art without repeating for ~9 million years. We invite you to hold space for yourself and enjoy a moment of mindful stillness. The first 200 were minted in real life at Bright Moments in Venice, CA, USA in September 2021.\n\nBest experienced on modern equipment. Click to start.\n\nArtwork by Aaron Penne (@aaronpenne), music by Boreta (@boreta), music system produced by Counterpoint (ctpt.co).",
+    "script_type": "tone@14.8.15",
+    "project_id": "172",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/172000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/172000001.png",
+    "generator_url": "https://generator.artblocks.io/172000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/172000001",
+    "royaltyInfo": {
+      "artistAddress": "0x92fb249865ae0d26120031868ba07434674a1600",
+      "additionalPayee": "0xff8f53ff6c7c4e72f8482153ab2df5e7d5555c32",
+      "additionalPayeePercentage": 45,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Rituals - Venice by Aaron Penne x Boreta",
+    "website": "https://www.ritualsirl.com/",
+    "token_hash": "0xbe3e72e0ab805b2b322d33b8976f93d2e24b142e60e1212d446b35b7b026e919",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/172/tokens/172000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/172000001",
+    "features": {
+      "Feel": "Spacious",
+      "Field": "Lattice",
+      "Colors": "Holotropic",
+      "Location": "Venice",
+      "Composition": "Glimmering Horizon"
+    },
+    "traits": [
+      {
+        "trait_type": "Rituals - Venice",
+        "value": "All Rituals - Venices"
+      },
+      {
+        "trait_type": "Rituals - Venice",
+        "value": "Feel: Spacious"
+      },
+      {
+        "trait_type": "Rituals - Venice",
+        "value": "Field: Lattice"
+      },
+      {
+        "trait_type": "Rituals - Venice",
+        "value": "Colors: Holotropic"
+      },
+      {
+        "trait_type": "Rituals - Venice",
+        "value": "Location: Venice"
+      },
+      {
+        "trait_type": "Rituals - Venice",
+        "value": "Composition: Glimmering Horizon"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

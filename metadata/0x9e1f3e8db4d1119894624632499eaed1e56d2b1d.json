@@ -1,0 +1,34 @@
+{
+  "address": "0x9e1f3e8db4d1119894624632499eaed1e56d2b1d",
+  "type": "ERC721",
+  "name": "PixelChain",
+  "tokenCount": "2524",
+  "uri": "https://api-max.pixelchain.art/pixelchain/v2/1",
+  "metadata": {
+    "token_id": 1,
+    "name": "SNAKE 2.0",
+    "author": {
+      "wallet_address": "0x7EaBFE610657218bB4FD5620ED699B14dE305412"
+    },
+    "owner": {
+      "wallet_address": "0x7EaBFE610657218bB4FD5620ED699B14dE305412"
+    },
+    "image": "https://pixelchain.s3.filebase.com/2_1_large.png",
+    "version": 2,
+    "attributes": [
+      {
+        "trait_type": "Version",
+        "value": "PixelChain Max"
+      },
+      {
+        "trait_type": "Author Wallet",
+        "value": "0x7EaBFE610657218bB4FD5620ED699B14dE305412"
+      },
+      {
+        "trait_type": "Author",
+        "value": "NFTcrypt0"
+      }
+    ],
+    "external_url": "https://pixelchain.art/decoder?id=1&version=2"
+  }
+}

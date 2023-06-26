@@ -1,0 +1,131 @@
+{
+  "address": "0x9b8c8fd376eec2651d0134d0a1a5cab36abf562e",
+  "type": "ERC721",
+  "name": "ajskdfqwerqewr",
+  "tokenCount": "512",
+  "uri": "https://api.artblocks.io/token/294000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "294000001",
+    "series": "N/A",
+    "aspect_ratio": 0.75,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Alien DNA #1",
+    "minted": true,
+    "artist": "Shvembldr",
+    "description": "In the year 3075 of the Second Nuclear Age, a laboratory of an unknown race of aliens was discovered on the planet Vtolmr while drilling a well of molecular oil. Its presumed purpose is to study genetic mutations of races from neighboring planets. During the laboratory investigation, 512 silicon impressions with DNA of different alien species were extracted. Modern methods of quantum analysis do not allow the deciphering of the data obtained. At this point, their value is purely aesthetic. But that may change in time.\n\nPress 1 to 9 - change the pixel density\nPress \"s\" - save the image",
+    "script_type": "p5@1.0.0",
+    "project_id": "294",
+    "curation_status": "presents",
+    "heritage_curation_status": "playground",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/294000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/294000001.png",
+    "generator_url": "https://generator.artblocks.io/294000001",
+    "royaltyInfo": {
+      "artistAddress": "0x4666fd1f89576e2d6fb3f2ecec5eefd3e1ba6b59",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Alien DNA by Shvembldr",
+    "website": "https://www.shvembldr.com",
+    "token_hash": "0xe4dbfc8878dc12c2c12f72280f74e08e08073c419651ec68a6f8949f5801a791",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/294/tokens/294000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/294000001.png",
+    "features": {
+      "base": "sNoise",
+      "torn": "false",
+      "colors": "mono",
+      "spline": true,
+      "details": 3,
+      "palette": "ptlmoerq-1",
+      "spirals": "1",
+      "streams": "false",
+      "centered": false,
+      "z-points": 4,
+      "top layer": "full",
+      "back layer": true,
+      "connection": false,
+      "extra link": "false",
+      "separation": "halfV",
+      "x-nucleotides": false,
+      "z-nucleotides": true
+    },
+    "traits": [
+      {
+        "trait_type": "Alien DNA",
+        "value": "All Alien DNAs"
+      },
+      {
+        "trait_type": "Alien DNA",
+        "value": "base: sNoise"
+      },
+      {
+        "trait_type": "Alien DNA",
+        "value": "torn: false"
+      },
+      {
+        "trait_type": "Alien DNA",
+        "value": "colors: mono"
+      },
+      {
+        "trait_type": "Alien DNA",
+        "value": "spline: true"
+      },
+      {
+        "trait_type": "Alien DNA",
+        "value": "details: 3"
+      },
+      {
+        "trait_type": "Alien DNA",
+        "value": "palette: ptlmoerq-1"
+      },
+      {
+        "trait_type": "Alien DNA",
+        "value": "spirals: 1"
+      },
+      {
+        "trait_type": "Alien DNA",
+        "value": "streams: false"
+      },
+      {
+        "trait_type": "Alien DNA",
+        "value": "centered: false"
+      },
+      {
+        "trait_type": "Alien DNA",
+        "value": "z-points: 4"
+      },
+      {
+        "trait_type": "Alien DNA",
+        "value": "top layer: full"
+      },
+      {
+        "trait_type": "Alien DNA",
+        "value": "back layer: true"
+      },
+      {
+        "trait_type": "Alien DNA",
+        "value": "connection: false"
+      },
+      {
+        "trait_type": "Alien DNA",
+        "value": "extra link: false"
+      },
+      {
+        "trait_type": "Alien DNA",
+        "value": "separation: halfV"
+      },
+      {
+        "trait_type": "Alien DNA",
+        "value": "x-nucleotides: false"
+      },
+      {
+        "trait_type": "Alien DNA",
+        "value": "z-nucleotides: true"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC 4.0"
+  }
+}

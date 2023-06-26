@@ -1,0 +1,51 @@
+{
+  "address": "0x62eb144fe92ddc1b10bcade03a0c09f6fbffbffb",
+  "type": "ERC721",
+  "name": "AdWorld",
+  "tokenCount": "3333",
+  "uri": "https://adworld.game/api/metadata/1",
+  "metadata": {
+    "description": "Tracer - Former Pro-FPS player, dropped from their E-Sports team after saying [$@$%#$&*!] during a heated gamer moment. Reforming their vocab and working on anger management. They’re a formidable combatant in AdWorld.",
+    "name": "Citizen 2",
+    "attributes": [
+      {
+        "trait_type": "Body",
+        "value": "Groc Wetsuit"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Loco"
+      },
+      {
+        "trait_type": "Gloves",
+        "value": "Miki"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Makendougles Manchester Boot"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Montessori Dress"
+      },
+      {
+        "trait_type": "Bottom",
+        "value": "Tactical Cargos"
+      },
+      {
+        "trait_type": "Samskara",
+        "value": "Tracer"
+      }
+    ],
+    "stats": {
+      "mobility": 12,
+      "dexterity": 15,
+      "strength": 13,
+      "charisma": 15,
+      "speed": 13,
+      "defense": 12
+    },
+    "_accessCode": "15435c24",
+    "image": "https://storage.googleapis.com/citizen-render/1/1.gif"
+  }
+}

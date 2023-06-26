@@ -1,0 +1,46 @@
+{
+  "address": "0x939f6390bd7eabb34dbad2c50547457468c9fe4a",
+  "type": "ERC721",
+  "name": "Test - 1ivXmXQilB",
+  "tokenCount": "27",
+  "uri": "https://foobar.zerion.io/api/v1/avatars/g1/1",
+  "metadata": {
+    "name": "#1",
+    "image": "https://zerion-foobar.s3.us-east-1.amazonaws.com/g1/ae2552ead5148000c2c46d397e12575dc21d68a0",
+    "image_preview": "https://zerion-foobar.s3.us-east-1.amazonaws.com/g1/6d949b2a8a33e93904f7a040b95c01e2ba5ed9d6.100x100",
+    "description": "FOOBAR",
+    "external_url": "https://foobar.io",
+    "attributes": [
+      {
+        "trait_type": "Primary",
+        "value": "yes"
+      },
+      {
+        "trait_type": "Age",
+        "value": "56 weeks"
+      },
+      {
+        "trait_type": "Gas Spend",
+        "value": "$100+"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Transactions",
+        "value": 3
+      },
+      {
+        "trait_type": "Balance",
+        "value": "$100+"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Assets",
+        "value": 5
+      },
+      {
+        "trait_type": "Networks",
+        "value": "Polygon, Ethereum"
+      }
+    ]
+  }
+}

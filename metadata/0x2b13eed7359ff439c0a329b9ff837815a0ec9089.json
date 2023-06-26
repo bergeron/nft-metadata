@@ -1,0 +1,76 @@
+{
+  "address": "0x2b13eed7359ff439c0a329b9ff837815a0ec9089",
+  "type": "ERC721",
+  "name": "jklljrqjejhjqre",
+  "tokenCount": "600",
+  "uri": "https://api.artblocks.io/token/23000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "23000001",
+    "series": 2,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Archetype #1",
+    "minted": true,
+    "artist": "Kjetil Golid",
+    "description": "Archetype explores the use of repetition as a counterweight to unruly, random structures. As each single component look chaotic alone, the repetition brings along a sense of intentionality, ultimately resulting in a complex, yet satisfying expression.",
+    "script_type": "p5@1.0.0",
+    "project_id": "23",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 2",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/23000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/23000001.png",
+    "generator_url": "https://generator.artblocks.io/23000001",
+    "royaltyInfo": {
+      "artistAddress": "0x08f950816358f4306b70fb319e4f35c592d1b8a8",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Archetype by Kjetil Golid",
+    "website": "https://generated.space",
+    "token_hash": "0xfbd98cd73bbf94a5ec01e65cda6b08292a49399b577a25092a37f76903b6f837",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/23/tokens/23000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/23000001.png",
+    "features": {
+      "Scene": "Flat",
+      "Framed": "Yep",
+      "Layout": "Order",
+      "Palette": "Atlas",
+      "Shading": "Evening",
+      "Coloring strategy": "Main"
+    },
+    "traits": [
+      {
+        "trait_type": "Archetype",
+        "value": "All Archetypes"
+      },
+      {
+        "trait_type": "Archetype",
+        "value": "Scene: Flat"
+      },
+      {
+        "trait_type": "Archetype",
+        "value": "Framed: Yep"
+      },
+      {
+        "trait_type": "Archetype",
+        "value": "Layout: Order"
+      },
+      {
+        "trait_type": "Archetype",
+        "value": "Palette: Atlas"
+      },
+      {
+        "trait_type": "Archetype",
+        "value": "Shading: Evening"
+      },
+      {
+        "trait_type": "Archetype",
+        "value": "Coloring strategy: Main"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC 4.0"
+  }
+}

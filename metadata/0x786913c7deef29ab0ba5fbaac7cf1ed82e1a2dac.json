@@ -1,0 +1,25 @@
+{
+  "address": "0x786913c7deef29ab0ba5fbaac7cf1ed82e1a2dac",
+  "type": "ERC721",
+  "name": "bake V4",
+  "tokenCount": "4",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x786913c7deef29ab0ba5fbaac7cf1ed82e1a2dac/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x786913c7DEEf29aB0Ba5FBaac7cf1ed82E1a2Dac/icon?id=1",
+    "expiration": 1632986733,
+    "tokenId": "1",
+    "owner": "0x391733077d27fe0dd837ebac203995c47a46c546",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1632986733
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x786913c7DEEf29aB0Ba5FBaac7cf1ed82E1a2Dac",
+    "network": 1
+  }
+}

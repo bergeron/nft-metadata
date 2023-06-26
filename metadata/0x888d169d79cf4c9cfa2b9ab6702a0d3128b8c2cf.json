@@ -1,0 +1,32 @@
+{
+  "address": "0x888d169d79cf4c9cfa2b9ab6702a0d3128b8c2cf",
+  "type": "ERC721",
+  "name": "Le Parisien Crypto-unes",
+  "tokenCount": "1000",
+  "uri": "ipfs://QmUegezpMXA76yPCWnyJyGk5HJzwiFDva2THRYGZbRBQmL/1",
+  "metadata": {
+    "name": "Crypto-une #1",
+    "description": "Emblematic cover of Le Parisien giving a subscription period to Le Parisien newspaper for a period relative to its rarity, access to journalist and the editorial team, events, and more to come.",
+    "image": "ipfs://QmTx4D2pmuR1TeSZcR8pPtCNtbmE2AkSkJUXiXfEUfNakk",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "gold"
+      },
+      {
+        "trait_type": "edition",
+        "value": "3",
+        "max_value": "3"
+      },
+      {
+        "trait_type": "cover",
+        "value": "21 January 1986"
+      },
+      {
+        "trait_type": "tier",
+        "value": 2,
+        "max_value": 3
+      }
+    ]
+  }
+}

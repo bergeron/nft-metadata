@@ -1,0 +1,41 @@
+{
+  "address": "0x19b793cc2fd9b015d9d782a3bfca0945a67634d3",
+  "type": "ERC721",
+  "name": "SIMPLE OBJECTS V2",
+  "tokenCount": "6",
+  "uri": "https://arweave.net/9bUJgdWxboi86D8IAMa4Fqmge7sj64kZXtP_LX0Y0dU",
+  "metadata": {
+    "name": "FLOWER",
+    "created_by": "EVGENII SHELKOVOI",
+    "description": "analog animation of a flower",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "eshelkovoy"
+      }
+    ],
+    "animation_details": {
+      "bytes": 14971536,
+      "format": "MP4",
+      "duration": 4,
+      "sha256": "16a9faf952cc712d708a6ac922de1e2b416a2ff2b9bc22bdfec6cf5c66c52481",
+      "width": 1200,
+      "height": 1200,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/86tg5yjF-kZZJu3Dfi_Ip3YubfpqReNAHWDm73BD-Vs",
+    "animation_url": "https://arweave.net/86tg5yjF-kZZJu3Dfi_Ip3YubfpqReNAHWDm73BD-Vs",
+    "image_details": {
+      "bytes": 3248901,
+      "format": "GIF",
+      "sha256": "d267f0ee16a078cf9de1b0e268e1877f88898e12e8c9b10447a18e0bd8814525",
+      "width": 600,
+      "height": 600
+    },
+    "image": "https://arweave.net/rIWNDpyV2O6deOww5yPVKJyB5xBUtIUSyFowM314tSw",
+    "image_url": "https://arweave.net/rIWNDpyV2O6deOww5yPVKJyB5xBUtIUSyFowM314tSw"
+  }
+}

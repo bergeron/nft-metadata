@@ -1,0 +1,27 @@
+{
+  "address": "0x701fb3c4f5e3fe8111f804c94cd0452488348192",
+  "type": "ERC721",
+  "name": "EtherTulips Garden",
+  "tokenCount": "74",
+  "uri": "https://tokens.ethertulips.com/meta/plot/1.json",
+  "metadata": {
+    "name": "Garden Plot #1",
+    "description": "A plot of grass perfect for growing tulips",
+    "external_url": "https://ethertulips.com",
+    "image": "https://ethertulips-assets.s3.amazonaws.com/tiles/grass_9.png",
+    "attributes": [
+      {
+        "trait_type": "Terrain",
+        "value": "Grass"
+      },
+      {
+        "trait_type": "X Coordinate",
+        "value": 146
+      },
+      {
+        "trait_type": "Y Coordinate",
+        "value": 53
+      }
+    ]
+  }
+}

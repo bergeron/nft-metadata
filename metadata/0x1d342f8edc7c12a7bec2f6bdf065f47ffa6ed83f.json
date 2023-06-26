@@ -1,0 +1,42 @@
+{
+  "address": "0x1d342f8edc7c12a7bec2f6bdf065f47ffa6ed83f",
+  "type": "ERC721",
+  "name": "Bored SneakerHeads",
+  "tokenCount": "5000",
+  "uri": "ipfs://Qmf2AR2YB4H32zL7muveWbs8GHp94udeAv5uZVX5wQ8WDL/1",
+  "metadata": {
+    "name": "Bored Sneaker Heads #1",
+    "description": "10K bored sneaker Heads",
+    "image": " ipfs://QmXHD9Vq4JPdskm4PbwXKVydi23rqwJbtJHCY5dn5fF1PU/1.png",
+    "dna": "31a6d01c580526b70f130704074c9ad96dd85560",
+    "edition": 1,
+    "date": 1655531502794,
+    "attributes": [
+      {
+        "trait_type": "face",
+        "value": "camo"
+      },
+      {
+        "trait_type": "texture",
+        "value": "blue"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "exagon"
+      },
+      {
+        "trait_type": "ears",
+        "value": "potstick"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "lakers"
+      },
+      {
+        "trait_type": "nose",
+        "value": "shiny_gold"
+      }
+    ],
+    "compiler": "BoredHeads"
+  }
+}

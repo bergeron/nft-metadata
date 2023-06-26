@@ -1,0 +1,30 @@
+{
+  "address": "0xdcf1ad302a01a84b0cf1a0372adca14c7d583593",
+  "type": "ERC721",
+  "name": "DegenGoblinsAI",
+  "tokenCount": "4",
+  "uri": "ipfs://QmW211QXficAqRRJfoxXboRmhWpp6WUKxh8UUC5zxP5C2s/1.json",
+  "metadata": {
+    "name": "DegenGoblinsAI #1",
+    "description": "AI generated NFT collection inspired by Goblins",
+    "image": "ipfs://QmZ6Rn6RBRBwXFF4SwJKv4uXBGfsD6mENhgzg6UZbghNWG/1.png",
+    "edition": 1,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(119,121,124)"
+        },
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Hot Dog"
+        },
+        {
+          "trait_type": "date",
+          "value": 1573
+        }
+      ]
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

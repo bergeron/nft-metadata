@@ -1,0 +1,42 @@
+{
+  "address": "0x7f18ce4569555c3308379dcb26c4208b60185a33",
+  "type": "ERC721",
+  "name": "Meekicks Genesis",
+  "tokenCount": "601",
+  "uri": "ipfs://QmVSb87MGq1pBEGnx63aWxzE5VC1Ytzi7xGWPmmH21PMTf/1",
+  "metadata": {
+    "description": "Meebits got the [sweetest kicks](https://www.meekicks.org/?gp=50). There are over 80 different pairs of Meebits shoes, accounting for type, color, and size. Every pair of Meekicks is uniquely tied to one of the 20,000 Meebits and has its own randomized Jump, Speed, and Dance levels. Own a Meebit? Claim your [Meekicks](https://www.meekicks.org/?gp=50): Meekicks was created and funded by the MeebitsDAO.",
+    "attributes": [
+      {
+        "trait_type": "Shoes",
+        "value": "Sneakers"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Male"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Speed",
+        "value": 65
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Jump",
+        "value": 29
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Dance",
+        "value": 48
+      }
+    ],
+    "name": "Meekicks",
+    "image": "ipfs://QmZguNUyh2a3qBpxHe3haskRXRSH294xUk9KaywxM2Tfr9",
+    "animation_url": "ipfs://QmVz2cx2e1EUPbHoeqoTr5oUq3HxqoNyKc4ktxZTTJ68C5"
+  }
+}

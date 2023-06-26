@@ -1,0 +1,40 @@
+{
+  "address": "0x25386ad85769cc2d1d1807b08b2c5a07198b609e",
+  "type": "ERC721",
+  "name": "HappyShacksNFT",
+  "tokenCount": "888",
+  "uri": "ipfs://QmTzL77xtztWfg8fuLb9M629YsKHoShpwTa112gj4uBPq4/1.json",
+  "metadata": {
+    "dna": "8040ddc7b1d5d8f23ab1e9523f295f411bc6656fd5964875facc3cef1b57d659",
+    "name": "HappyShacks #1",
+    "description": "4444 Happy Shacks NFTs, bringing happiness to homes around the globe!",
+    "image": "ipfs://QmX4am7ELWy7knonRzAKo7bT8QmB9eGEc2C3wMinAuLEvi/1.png",
+    "imageHash": "b63916edd515b19ba308efdb491147be6e231ea25cbd82032f113b8571b19c4f",
+    "edition": 1,
+    "date": 1648257678080,
+    "artist": "Rob",
+    "attributes": [
+      {
+        "trait_type": "Skies",
+        "value": "Night"
+      },
+      {
+        "trait_type": "Biomes",
+        "value": "Beach"
+      },
+      {
+        "trait_type": "Shacks",
+        "value": "Bamboo_Hut"
+      },
+      {
+        "trait_type": "Objects",
+        "value": "Flowerbed"
+      },
+      {
+        "trait_type": "Doors and Windows",
+        "value": "Flowers"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  }
+}

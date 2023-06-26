@@ -1,0 +1,74 @@
+{
+  "address": "0x30333a963b1c79162f0a9169e238c6da8a621110",
+  "type": "ERC721",
+  "name": "sketchy mfers",
+  "tokenCount": "2000",
+  "uri": "ipfs://QmdpPJr1WFzFLL8pQSX7PNHTQr5vznz1ue94EVnihFdK8S/1.json",
+  "metadata": {
+    "edition": 1,
+    "name": "sketchy mfer #1",
+    "description": "sketchy mfers by jellopeas, sodasoondae, and zhoug",
+    "image": "ipfs://QmX8ERT5LQaZZR4cCdM1k9ownHsib5Kh1v5fBGaNMFdNtQ/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Charcoal"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "None"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Collared_Shirt_Yellow"
+      },
+      {
+        "trait_type": "4:20 Watch",
+        "value": "Sub_Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Regular"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headphones",
+        "value": "Black_Headphones"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "None"
+      },
+      {
+        "trait_type": "Smoke",
+        "value": "None"
+      }
+    ],
+    "derived_from": [
+      {
+        "name": "mfers",
+        "network": "Ethereum",
+        "src": "0x79FCDEF22feeD20eDDacbB2587640e45491b757f"
+      }
+    ]
+  }
+}

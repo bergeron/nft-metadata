@@ -1,0 +1,44 @@
+{
+  "address": "0x8a1e388094f541a569f33870ab4834fad52e4bea",
+  "type": "ERC721",
+  "name": "Checks - The GIFted Edition",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/W0z4RN91ST8TEoCj7BlrEprQZG6GVVJsWUUGBVDUrFA",
+  "metadata": {
+    "name": "Checks - The GIFted Edition",
+    "created_by": "0xPNW",
+    "description": "This GIF may or may not be notable",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "0xPNW"
+      },
+      {
+        "trait_type": "Name ",
+        "value": "GIFted"
+      }
+    ],
+    "image_details": {
+      "bytes": 515435,
+      "format": "PNG",
+      "sha256": "9517d598d5744dcb380b3f6b760638e2c1cb97d74da088c50798b035559055b1",
+      "width": 4000,
+      "height": 4000
+    },
+    "image": "https://arweave.net/NAkXgTulB7lNsPkVLf-gwqv7A8JZhLNGTzxkhy4APx8",
+    "image_url": "https://arweave.net/NAkXgTulB7lNsPkVLf-gwqv7A8JZhLNGTzxkhy4APx8",
+    "animation_details": {
+      "bytes": 1877497,
+      "format": "MP4",
+      "duration": 3,
+      "sha256": "5933b53e58e73b91886def49cbdcbe0c865619f32e3dfcddd9190867ce9f4d47",
+      "width": 2880,
+      "height": 2880,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/5LvVBQRs2McarShSX7NopJ1jtUuKlsHk3CQNDmFW2OU",
+    "animation_url": "https://arweave.net/5LvVBQRs2McarShSX7NopJ1jtUuKlsHk3CQNDmFW2OU"
+  }
+}

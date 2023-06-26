@@ -1,0 +1,63 @@
+{
+  "address": "0x6dd55cc3a318c20d6ac1c570ef814d327351e629",
+  "type": "ERC721",
+  "name": "THE SNUFFY 500",
+  "tokenCount": "555",
+  "uri": "https://arweave.net/4hJeoD0zbzgrtzmeCOdIUUgMsTjZkeJStDg7Ez7cu9o",
+  "metadata": {
+    "$id": "https://static.cxip.app/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1641839270
+      },
+      {
+        "trait_type": "Creator",
+        "value": "SNUFFY"
+      }
+    ],
+    "description": "",
+    "external_url": "https://snuffy.nyc/SNUFFY500/1/",
+    "image": "https://arweave.net/qWC4mA0mbXXw8Zz-5xNPCe4HBo6Fsa1hpHjI-u08FiM",
+    "imageUrl": "https://arweave.net/qWC4mA0mbXXw8Zz-5xNPCe4HBo6Fsa1hpHjI-u08FiM",
+    "name": "#001 - LvL 1",
+    "properties": {
+      "created_at": "2022-01-10T18:27:50.000000Z",
+      "creator_wallet": "0xcf5439084322598b841c15d421c206232b553e78",
+      "description": "",
+      "image": "https://arweave.net/qWC4mA0mbXXw8Zz-5xNPCe4HBo6Fsa1hpHjI-u08FiM",
+      "imageUrl": "https://arweave.net/qWC4mA0mbXXw8Zz-5xNPCe4HBo6Fsa1hpHjI-u08FiM",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": true,
+        "priceTier": "CX1"
+      },
+      "minted_on": "10 January 2022",
+      "name": "#001 - LvL 1",
+      "nft_type": "non-fungible image token (image/jpeg)",
+      "preview_media_file": "https://arweave.net/DugFbgS43_j-RkqyWLVtCw2p0_J3Px5wtM30xbSlKzM",
+      "preview_media_file_dimensions": "500x500",
+      "preview_media_file_size": 219094,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "2000x2000",
+      "raw_media_file": "https://arweave.net/qWC4mA0mbXXw8Zz-5xNPCe4HBo6Fsa1hpHjI-u08FiM",
+      "raw_media_file_size": 3583774,
+      "raw_media_file_spec": "JPEG 2000x2000 2000x2000+0+0 8-bit sRGB 3.41775MiB 0.000u 0:00.002",
+      "raw_media_file_type": "image/jpeg",
+      "raw_media_format": "square",
+      "raw_media_signature": "0xfbfd1c4a22c4c608e208c5041339a6464d4a2475fe257d42a129eddd90e00404",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/DugFbgS43_j-RkqyWLVtCw2p0_J3Px5wtM30xbSlKzM",
+      "thumb_media_file_type": "image/jpg",
+      "title": "#001 - LvL 1",
+      "total_supply": 1
+    },
+    "title": "#001 - LvL 1"
+  }
+}

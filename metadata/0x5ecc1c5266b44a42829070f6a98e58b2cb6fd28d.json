@@ -1,0 +1,41 @@
+{
+  "address": "0x5ecc1c5266b44a42829070f6a98e58b2cb6fd28d",
+  "type": "ERC721",
+  "name": "Official Gangsters Paradise",
+  "tokenCount": "999",
+  "uri": "ipfs://QmNZU9V6Rvw5jY8Y43bQRtC2v2d1yQoiGQFPnEd9TgxaCA/1.json",
+  "metadata": {
+    "name": "Gangsters Paradise #1",
+    "description": "Gangsters Paradise is a collection of 999 Gangsters as a tribute to Coolio a homie gone to soon R.I.P.",
+    "image": "ipfs://QmRvCRdVkHG8Sgxx6LkVVAqim7kepopryNoGWQzVYgsp4w/1.png",
+    "edition": 1,
+    "date": 1664494370726,
+    "attributes": [
+      {
+        "trait_type": "Street",
+        "value": "West Crib"
+      },
+      {
+        "trait_type": "Bottoms",
+        "value": "Grey Sweats ft Nikes"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blue Shirt Gold Chain"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Bearded Wide Grin"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Backwards Red Cap"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Baseball Bat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

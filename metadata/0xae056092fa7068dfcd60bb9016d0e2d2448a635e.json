@@ -1,0 +1,32 @@
+{
+  "address": "0xae056092fa7068dfcd60bb9016d0e2d2448a635e",
+  "type": "ERC721",
+  "name": "Trislits Fine Art Collection",
+  "tokenCount": "13",
+  "uri": "https://infiNFT.azurewebsites.net/api/HttpTrigger?artContract=0xae056092fa7068dfcd60bb9016d0e2d2448a635e&id=1",
+  "metadata": {
+    "image": "https://arweave.net/5UmnphBReFG1KUaq4WBSdPiW_T9i9HkUmYOYVffZWCY",
+    "description": "For those long walks on the Ocean floor.",
+    "animation_url": "https://arweave.net/D8vYvYZqIX6i4jkdd4omwIw4GjsWtRCvLx9b-_JDyzI.vox",
+    "external_url": "https://www.infinft.com/view.html?artistcontract=0xae056092fa7068dfcd60bb9016d0e2d2448a635e&token=1",
+    "name": "Diving Helmet",
+    "attributes": [
+      {
+        "trait_type": "artist name",
+        "value": "trislit"
+      },
+      {
+        "trait_type": "edition number",
+        "value": "1 of 4"
+      },
+      {
+        "trait_type": "exhibition",
+        "value": "cv wearables"
+      },
+      {
+        "trait_type": "file type",
+        "value": "vox"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "address": "0xfd358e32a27b8ba8f59c9001c1166fc6306120f2",
+  "type": "ERC721",
+  "name": "The Wild Cards NFT",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeihzdvh5gb2pbcmpsll3pbbnfx7xrdjdbq5644rwsecddxwznxxmae/1",
+  "metadata": {
+    "name": "The Wild Cards NFT",
+    "description": "The Wild Cards NFT is a unique small batch collection of future and past limited edition style art. Only 402 will exist in the First Edition.",
+    "image": "ipfs://bafybeidxbwduhst24et2xqdzi5mpaxe7z6jrhisgapqu4uwabvybtydes4/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Trait 1",
+        "value": "First Edition"
+      },
+      {
+        "trait_type": "Trait 2",
+        "value": "Assassin"
+      },
+      {
+        "trait_type": "Trait 3",
+        "value": ""
+      },
+      {
+        "trait_type": "Trait 4",
+        "value": ""
+      }
+    ],
+    "compiler": "HeyMint CSV-to-Metadata Converter (heymint.xyz)"
+  }
+}

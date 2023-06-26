@@ -1,0 +1,74 @@
+{
+  "address": "0x82a25178c8dafb51ed3cf0bce207ff683dee39ed",
+  "type": "ERC721",
+  "name": "SAD APE CLUB NFTs",
+  "tokenCount": "10",
+  "uri": "ipfs://bafybeiamb4zcm7ll3gayptn5rjv7zblp3vaophxh4cigdorsvjdoatdqfa/1.json",
+  "metadata": {
+    "name": "Sad Ape Club 1",
+    "symbol": "SAC",
+    "description": "Sad Ape Club 1 - Sad Ape Club are 7777 randomly Sad Ape conducting Business on the Ethereum  & Polygon Blockchain.",
+    "seller_fee_basis_points": 600,
+    "image": "ipfs://bafybeifnb4j3xdokep4theztnfpmewcajv5e5pzw5eikirp4o6dj7avleu/1.png",
+    "external_url": "",
+    "collection": {
+      "name": "Sad Ape Club ",
+      "family": "LaunchMyNFT"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Ninja"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Boring"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Glasses 3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Gangster"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Russian Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 3147,
+        "display_type": "number",
+        "max_value": 7777
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x3fb62a143311dbFA3F937e4aB83004e854d9Ead6",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

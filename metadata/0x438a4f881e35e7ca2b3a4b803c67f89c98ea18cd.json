@@ -1,0 +1,34 @@
+{
+  "address": "0x438a4f881e35e7ca2b3a4b803c67f89c98ea18cd",
+  "type": "ERC721",
+  "name": "Bored Saiyan Ape 2",
+  "tokenCount": "20",
+  "uri": "https://bafybeie37blr2hfcz54fdzbif6y33hhixxbubqkdy4vdzvyfakodygazfi.ipfs.w3s.link/1.json",
+  "metadata": {
+    "name": "Saiyan Monkey #1",
+    "description": "Saiyan Monkeys of the Metaverse #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "M10"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x5EEcb544f2e5110b7fd3ad31872F93fc8a3Fb470",
+        "share": 100
+      }
+    ],
+    "collection": {
+      "name": "Saiyan Monkeys part 1",
+      "family": "Saiyan Monkeys"
+    },
+    "symbol": "NFT",
+    "seller_fee_basis_points": 10,
+    "image": "https://bafybeieoj7ynpwihcmrwjbrhzfa5kwc4of7dqkz7gscmmqx2az3bveuxjy.ipfs.w3s.link/1.png"
+  }
+}

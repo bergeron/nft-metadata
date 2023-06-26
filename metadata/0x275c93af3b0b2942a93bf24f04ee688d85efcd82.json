@@ -1,0 +1,78 @@
+{
+  "address": "0x275c93af3b0b2942a93bf24f04ee688d85efcd82",
+  "type": "ERC721",
+  "name": "Mfers Doodles Punks",
+  "tokenCount": "15",
+  "uri": "ipfs://QmRypNqVXScvNmY9xsHVX3z25EYEa3drbC4rTAsVRK7q22/1.json",
+  "metadata": {
+    "name": "729",
+    "symbol": "s",
+    "description": "729 - Generated and deployed on LaunchMyNFT.",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://QmQpX393YZpEzewcApRc7n8Co8MZeUzWw6CLGyfqLbkaPK/1.png",
+    "external_url": "",
+    "collection": {
+      "name": "s",
+      "family": "LaunchMyNFT"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": " 0008s 0002 3"
+      },
+      {
+        "trait_type": "Skin",
+        "value": " 0007s 0010 10"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": " 0006s 0005 5"
+      },
+      {
+        "trait_type": "Chair",
+        "value": " 0005s 0000 1 Copia 2"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": " 0004s 0000 1"
+      },
+      {
+        "trait_type": "Headphones",
+        "value": " 0003s 0004 4"
+      },
+      {
+        "trait_type": "Hair",
+        "value": " 0002s 0001 2"
+      },
+      {
+        "trait_type": "Watch",
+        "value": " 0001s 0001 2"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": " 0000s 0001 2"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 331,
+        "display_type": "number",
+        "max_value": 999
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "/729.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "E58YkEWxkEKBDcHprk57xVZFcyqtUosFdQRZbME2iycj",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

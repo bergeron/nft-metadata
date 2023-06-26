@@ -1,0 +1,56 @@
+{
+  "address": "0x0a8d311b99ddaa9ebb45fd606eb0a1533004f26b",
+  "type": "ERC721",
+  "name": "ETH GOBBLERS",
+  "tokenCount": "5041",
+  "uri": "https://ethgobblers.com/metadata/1",
+  "metadata": {
+    "tokenID": 1,
+    "name": "Gooey #1",
+    "description": "ETH Gobblers, a Christmas project by Omakasea.",
+    "image": "https://ethgobblers.com/image/1",
+    "animation_url": "https://ethgobblers.com/animation/1",
+    "attributes": [
+      {
+        "trait_type": "generation",
+        "value": 1
+      },
+      {
+        "trait_type": "health",
+        "value": 0
+      },
+      {
+        "trait_type": "disposition",
+        "value": "nice"
+      },
+      {
+        "trait_type": "age",
+        "value": "deceased"
+      },
+      {
+        "trait_type": "isAwake",
+        "value": false
+      },
+      {
+        "trait_type": "isBuried",
+        "value": true
+      },
+      {
+        "trait_type": "mitosisCredits",
+        "value": 2
+      },
+      {
+        "trait_type": "parentID",
+        "value": null
+      },
+      {
+        "trait_type": "body",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "ETHGobbled",
+        "value": "0.017"
+      }
+    ]
+  }
+}

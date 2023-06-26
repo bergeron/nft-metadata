@@ -1,0 +1,69 @@
+{
+  "address": "0xb6a070f2ad9b8d87411d96975b4cdcd1e5799916",
+  "type": "ERC721",
+  "name": "Super Normal Finance",
+  "tokenCount": "4",
+  "uri": "ipfs://QmUL4K79BKzCqvbAuD6PF4CjA6DRwN7d7ybhj1Ji4LPV7G",
+  "metadata": {
+    "name": "Elliot Dodd - 2 Super Normals",
+    "description": "40 secs digital video loop\n\nVerisart Certified: https://verisart.com/works/5085c320-fefb-4146-94ae-a76eeb04f91c",
+    "image": "ipfs://QmQMnKSPTZCNhjzVqVLRuSyf5oihBXnLtB1TpuMo5FNxNW",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 1080,
+          "height": 1080,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 40
+        },
+        "frameRate": 25,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xb79bfaadf6644d6220e1b853e174b26fe1a5b6bf",
+            "bps": 800
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "animation_url": "ipfs://QmUbsGrSLnxQSpq8sp5PmNwnvyG2eTgw44Xy6TSD2NN7mj",
+    "external_url": "https://verisart.com/works/5085c320-fefb-4146-94ae-a76eeb04f91c",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Elliot Dodd"
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Title",
+        "value": "Elliot Dodd - 2 Super Normals"
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "1080x1080 px"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:40"
+      }
+    ]
+  }
+}

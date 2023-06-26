@@ -1,0 +1,35 @@
+{
+  "address": "0x51369e8c482763089b0b90009c2a79c98244168e",
+  "type": "ERC721",
+  "name": "Unifriends",
+  "tokenCount": "3333",
+  "uri": "data:application/json;base64,eyJuYW1lIiA6ICJDeWJlciBQZWdhc3VzIiwiZGVzY3JpcHRpb24iIDogIlRoZXkgZ290IGEgc2Vjb25kIGNoYW5jZSBhdCBsaWZlLiBGcm9tIG5vdCBiZWluZyBhYmxlIHRvIHdhbGsgb3IgZmx5IHRoZXkgaGF2ZSBiZWNjb21lIHRoZSBmYXN0ZXN0IHdpbmdzIGluIHRoZSBlbnRpcmUgbWV0YXZlcnNlLiIsImF0dHJpYnV0ZXMiOiBbeyAidHJhaXRfdHlwZSI6ICJMZWdlbmRhcnkiLCAidmFsdWUiOiAidHJ1ZSJ9LCB7ICJ0cmFpdF90eXBlIjogIlN0cmVuZ3RoIiwgImRpc3BsYXlfdHlwZSI6ICJudW1iZXIiLCAidmFsdWUiOiAiOTAifSwgeyAidHJhaXRfdHlwZSI6ICJTcGVlZCIsICJkaXNwbGF5X3R5cGUiOiAibnVtYmVyIiwgInZhbHVlIjogIjk5In0sIHsgInRyYWl0X3R5cGUiOiAiSW50ZWxsaWdlbmNlIiwgImRpc3BsYXlfdHlwZSI6ICJudW1iZXIiLCAidmFsdWUiOiAiOTEifV0sImltYWdlIiA6ICJodHRwczovL3VuaWZyaWVuZHMuczMuYW1hem9uYXdzLmNvbS9nZW5lc2lzLzEiLCJleHRlcm5hbF91cmwiIDogImh0dHBzOi8vbmZ0LnVuaWZyaWVuZHMuaW8vZ2VuZXNpcy8xIiwiYW5pbWF0aW9uX3VybCIgOiAiaHR0cHM6Ly9uZnQudW5pZnJpZW5kcy5pby9nZW5lc2lzLzEifQ==",
+  "metadata": {
+    "name": "Cyber Pegasus",
+    "description": "They got a second chance at life. From not being able to walk or fly they have beccome the fastest wings in the entire metaverse.",
+    "attributes": [
+      {
+        "trait_type": "Legendary",
+        "value": "true"
+      },
+      {
+        "trait_type": "Strength",
+        "display_type": "number",
+        "value": "90"
+      },
+      {
+        "trait_type": "Speed",
+        "display_type": "number",
+        "value": "99"
+      },
+      {
+        "trait_type": "Intelligence",
+        "display_type": "number",
+        "value": "91"
+      }
+    ],
+    "image": "https://unifriends.s3.amazonaws.com/genesis/1",
+    "external_url": "https://nft.unifriends.io/genesis/1",
+    "animation_url": "https://nft.unifriends.io/genesis/1"
+  }
+}

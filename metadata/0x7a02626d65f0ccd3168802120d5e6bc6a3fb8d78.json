@@ -1,0 +1,45 @@
+{
+  "address": "0x7a02626d65f0ccd3168802120d5e6bc6a3fb8d78",
+  "type": "ERC1155",
+  "name": "5K Odyssey",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/CwkDHwcEsplvh3OBd6ExJn8PvwPWzkOui3At-CT6F_Q",
+  "metadata": {
+    "name": "Now and Wen",
+    "created_by": "Pablo 5k",
+    "description": "Journeys to the land of Wen.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Pablo 5k"
+      },
+      {
+        "value": "Still Life",
+        "trait_type": "Series"
+      }
+    ],
+    "image_details": {
+      "bytes": 5245679,
+      "format": "GIF",
+      "sha256": "f88cfed66ed415ebe9f32faf7cff6ca2e652334c05c8b869eb8ab424d9a72b1b",
+      "width": 362,
+      "height": 500
+    },
+    "image": "https://arweave.net/hOoM8nFTUV5yqxscm5m_GoFZrE47dLkr8j57RhaX52Q",
+    "image_url": "https://arweave.net/hOoM8nFTUV5yqxscm5m_GoFZrE47dLkr8j57RhaX52Q",
+    "animation_details": {
+      "bytes": 23110540,
+      "format": "MP4",
+      "duration": 26,
+      "sha256": "b88b53c1568cbb51e9188cf97cc9d9d0414d7f50e7296279ec5b1b7f48323cd1",
+      "width": 1666,
+      "height": 2304,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/-_3XAW3SJNhWsQFcCCseingCgEKlty_rBpWCBGVKM4U",
+    "animation_url": "https://arweave.net/-_3XAW3SJNhWsQFcCCseingCgEKlty_rBpWCBGVKM4U"
+  }
+}

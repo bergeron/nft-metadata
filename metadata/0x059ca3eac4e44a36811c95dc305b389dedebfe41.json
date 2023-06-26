@@ -1,0 +1,52 @@
+{
+  "address": "0x059ca3eac4e44a36811c95dc305b389dedebfe41",
+  "type": "ERC721",
+  "name": "Cerebellum",
+  "tokenCount": "13",
+  "uri": "https://token.artblocks.io/412000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "412000001",
+    "series": "N/A",
+    "aspect_ratio": 1.3,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Cerebellum #1",
+    "minted": true,
+    "artist": "Laya Mathikshara & Santiago",
+    "description": "*Please Note: This is an Exponential Dutch Auction (no settlement). The price you purchase is the price you will pay.*\n\nAn ideal human being is one big optimization problem. We have a goal - we optimize our actions to maximize the outcome of this goal. \nIn our initial days, we optimize to stay alive, during school, we optimize to study well, gain skills and obtain the best scores.\n\nAs we progress in our careers we optimize to get the most amount of money, material growth, and maybe even influential growth such as fame.\n\nAs we age we optimize to minimize diseases and maximize our lifespan - we workout, we eat healthily, we retire, and rest \n\nAs ideal as it sounds, how do we know what exact actions would lead to maximizing my outcome? At this very moment - instead of reading this should you be doing something else that would make your life’s outcome better? Maybe, maybe not - We don't know... Although, we do find out through trial and error. \n\nIn the grand scheme of things we’re just an agent exploring actions around us, learning which ones increase our reward and choosing the path that seems to lead to the maximum reward. Cerebellum is a window (pun intended) of the human mind - a continuously evolving art piece that is built on top of a reinforcement learning agent that is learning and optimizing and evolving as you see it. \n\nThe project starts with an untrained model of a reinforcement learning agent that is deployed in an environment where it is faced with positive reward and negative reward. The agent is also equipped with a bunch of eyes that lets it sense the objects around it and judge if it wants to go ahead and consume the object or abstain and move in a different direction. The agent here is optimization to maximize its positive rewards while avoiding the negative ones. How does the agent know if a reward is positive or negative? - It learns that after experiencing a bunch of samples. And the magic is - all of this happens in your browser. The seemingly random motion of the agent at the beginning running into everything it sees subsides with time as it learns better about the environment and only hits on the positive rewards. How fast does this happen? Depends on your luck - every art has agents with varied number of eyes and range of these eyes. In addition with every refresh your agent would start from a new place, taking a new path - a path that might lead to it learning things at a different pace depending on what it comes across as it explores. To add some practicality - the environment also has some walls, elements that just block the agent from moving doesn’t add or decrease rewards. Hinders the agent’s movement, lets it find a different path - sometimes this is needed for the agent to strategize, sometimes it's just a hindrance… I’ll leave this to your imagination as you see the agent in action…\nThe seemingly random motion - the path towards true understanding - the process of optimisation is captured by the windows. Windows that show the beauty of this process expressed in a variety of ways. \n\nCerebellum is a window into the black box of AI, an unapologetic exaltation of the unpolished, an ode to the process and its aesthetic vernacular.\n\n+ Press 'p' to switch from 2d/3d views\n+ Press 'e' to expose the reinforced learning layer\n+ Press 't' to pause/unpause the training of the agent\n+ Press 'w' to randomize the walls of the training environment\n\nOn mobile, tap to switch from 2d to 3d",
+    "script_type": "three@0.124.0",
+    "project_id": "412",
+    "curation_status": "curated",
+    "image": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/412000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/412000001.png",
+    "generator_url": "https://generator.artblocks.io/412000001",
+    "animation_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/412000001",
+    "royaltyInfo": {
+      "artistAddress": "0x508574b9bfafc3fcaf30571dc84b23c441562483",
+      "additionalPayee": "0xb535c9592abac51b0e094d4e227e462ef29957d1",
+      "additionalPayeePercentage": 100,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Cerebellum by Laya Mathikshara & Santiago",
+    "website": "http://cerebellum.world",
+    "token_hash": "0x0168d8eb4e745468bfa638cdff4c005e4d9976fc19ba5041473bdf610608b5ae",
+    "external_url": "https://artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/412/tokens/412000001",
+    "primary_asset_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/412000001",
+    "features": {
+      "Eyes": 3,
+      "Sight range": 169.69021418131888
+    },
+    "traits": [
+      {
+        "trait_type": "Cerebellum",
+        "value": "All Cerebellums"
+      },
+      {
+        "trait_type": "Cerebellum",
+        "value": "Eyes: 3"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-SA 4.0"
+  }
+}

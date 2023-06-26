@@ -1,0 +1,18 @@
+{
+  "address": "0xb3330bf74917e95912e36bc36f54b26b45ac36cb",
+  "type": "ERC721",
+  "name": "stakefish Ethereum validator",
+  "tokenCount": "1",
+  "uri": "data:application/json;base64,eyJuYW1lIjoic3Rha2VmaXNoIHZhbGlkYXRvciAjNTA0MTIwIiwiZGVzY3JpcHRpb24iOiJUaGlzIE5GVCByZXByZXNlbnRzIGEgc3Rha2VmaXNoIEV0aGVyZXVtIHZhbGlkYXRvciBtaW50ZWQgd2l0aCAzMiBFVEguIE93bmVyIG9mIHRoaXMgTkZUIGNvbnRyb2xzIHRoZSB3aXRoZHJhd2FsIGNyZWRlbnRpYWxzLCByZWNlaXZlcyBwcm90b2NvbCByZXdhcmRzLCBhbmQgcmVjZWl2ZXMgZmVlL01FViByZXdhcmRzLlxuTW9yZSBzdGF0cyBhdDogaHR0cHM6Ly9zdGFrZS5maXNoL2V0aGVyZXVtL25mdC8xXG5cbk5GVCBNYW5hZ2VyOiAweGIzMzMwYmY3NDkxN2U5NTkxMmUzNmJjMzZmNTRiMjZiNDVhYzM2Y2JcblZhbGlkYXRvciBJbmRleDogNTA0MTIwXG5cbkRJU0NMQUlNRVI6IER1ZSBkaWxpZ2VuY2UgaXMgaW1wb3J0YW50IHdoZW4gZXZhbHVhdGluZyB0aGlzIE5GVC4gTWFrZSBzdXJlIGlzc3Vlci9uZnQgbWFuYWdlciBtYXRjaCB0aGUgb2ZmaWNpYWwgbmZ0IG1hbmFnZXIgb24gc3Rha2UuZmlzaCwgYXMgdG9rZW4gc3ltYm9scyBtYXkgYmUgaW1pdGF0ZWQuIiwiaW1hZ2UiOiAiaHR0cHM6Ly9mZWUtcG9vbC1hcGktbWFpbm5ldC5wcm9kLmV0aGVyZXVtLmZpc2gvbmZ0P3Rva2VuX2lkPTEiLCJhdHRyaWJ1dGVzIjpbeyJ0cmFpdF90eXBlIjogIkVhcmx5IEFjY2VzcyBEaXNjb3VudCIsICJ2YWx1ZSI6ICI0MCJ9XX0=",
+  "metadata": {
+    "name": "stakefish validator #504120",
+    "description": "This NFT represents a stakefish Ethereum validator minted with 32 ETH. Owner of this NFT controls the withdrawal credentials, receives protocol rewards, and receives fee/MEV rewards.\nMore stats at: https://stake.fish/ethereum/nft/1\n\nNFT Manager: 0xb3330bf74917e95912e36bc36f54b26b45ac36cb\nValidator Index: 504120\n\nDISCLAIMER: Due diligence is important when evaluating this NFT. Make sure issuer/nft manager match the official nft manager on stake.fish, as token symbols may be imitated.",
+    "image": "https://fee-pool-api-mainnet.prod.ethereum.fish/nft?token_id=1",
+    "attributes": [
+      {
+        "trait_type": "Early Access Discount",
+        "value": "40"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "address": "0x56681458e00cafe1206313d2d033946f458fdefd",
+  "type": "ERC721",
+  "name": "Cool Dogs Official",
+  "tokenCount": "5000",
+  "uri": " http://cooldogs.io/json/1",
+  "metadata": {
+    "name": "Cool Dog #1",
+    "external_url": "https://gooddogsnft.io/nftimg/370a768c42d33fc355c2faca570e12e6.png",
+    "description": "Nft image #1",
+    "image": "https://gooddogsnft.io/nftimg/370a768c42d33fc355c2faca570e12e6.png",
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Woof Food"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Cool"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Rock Lee"
+      },
+      {
+        "trait_type": "Type",
+        "value": "NORMAL"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "Chill"
+      }
+    ]
+  }
+}

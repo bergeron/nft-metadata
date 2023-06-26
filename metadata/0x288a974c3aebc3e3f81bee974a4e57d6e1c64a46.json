@@ -1,0 +1,51 @@
+{
+  "address": "0x288a974c3aebc3e3f81bee974a4e57d6e1c64a46",
+  "type": "ERC1155",
+  "name": "HOPE | Art Pass",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/NYrRoa-0NQR7bpy3vl4Fuiq13gPXrF_B6LGcr5ZUqjI",
+  "metadata": {
+    "name": "HOPE | Art Pass (Season 01)",
+    "created_by": "RAWS",
+    "external_url": "https://www.rawsone.com/hope-nft-collection",
+    "description": "This is the offical \"HOPE | Art Pass (Season 01)\" token, which gives you access to the first season of art nfts (HOPE | Art collection) by artist Raws in collaboration with other known  and upcoming artists. #artisforeveryone",
+    "Technical Partner": "PINSL Labs",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "RAWS"
+      },
+      {
+        "trait_type": "Season",
+        "value": "01"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2022"
+      }
+    ],
+    "image_details": {
+      "bytes": 719563,
+      "format": "JPEG",
+      "sha256": "d9167be1f1e123604eb9c31e77acc503437889ed674f0effa956dbbda1c28cbb",
+      "width": 1284,
+      "height": 1284
+    },
+    "image": "https://arweave.net/mFV_hwgoPmkBZqhRiHDbd7RFMCFpbPNCHEuR0dLGWCo",
+    "image_url": "https://arweave.net/mFV_hwgoPmkBZqhRiHDbd7RFMCFpbPNCHEuR0dLGWCo",
+    "animation_details": {
+      "bytes": 32983113,
+      "format": "MP4",
+      "duration": 24,
+      "sha256": "fa7c35a5446e29c85450e39cc928fbf1a72574206bd0fafb7d7cd0f4b847a55f",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/QojexYE3lBKXmHeYXhQ_wCQ0co9MVa6ApE_ZWJCJsR4",
+    "animation_url": "https://arweave.net/QojexYE3lBKXmHeYXhQ_wCQ0co9MVa6ApE_ZWJCJsR4"
+  }
+}

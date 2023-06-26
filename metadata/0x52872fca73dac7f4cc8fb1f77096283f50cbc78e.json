@@ -1,0 +1,32 @@
+{
+  "address": "0x52872fca73dac7f4cc8fb1f77096283f50cbc78e",
+  "type": "ERC721",
+  "name": "Pet Ghost Club",
+  "tokenCount": "2222",
+  "uri": "ipfs://QmYratzW92zmHkdSCTm3vVaPQVfstX8HSvaXpaXJ71br2A/1.json",
+  "metadata": {
+    "name": "My Pet Ghost Club #1",
+    "description": "Animated + New traits = The Pet Ghost Club.  A unique hand drawn experience haunting the scene.",
+    "image": "ipfs://QmWXxvqJZeykCc1xFaDVgCq6j9VGbeC1xjK4pKQUypcxS2/1.gif",
+    "edition": 1,
+    "date": 1665525905808,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "grey"
+      },
+      {
+        "trait_type": "bodies",
+        "value": "blue simpson"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "happy"
+      },
+      {
+        "trait_type": "hats",
+        "value": "bats"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "address": "0x50ce4a3fccc3c173c028b0528a5a1f2c62a36633",
+  "type": "ERC721",
+  "name": "NopenSea the Maiden Voyage",
+  "tokenCount": "20",
+  "uri": "ipfs://QmZ7h4qiKeoqS484xbbkF5CnNWh42BrPz7EKkXuf8TvFHT/1.json",
+  "metadata": {
+    "description": "NopenSea is a response to the November 8, 2022 change to Royalties on OpenSea, where OpenSea requires 100% control of the NFT or it will not honor royalties. NopenSea's contract offers an alternative that protects both Artist Royalties and Owner Rights on chain without censorship.",
+    "artistRoyaltyInfo": {
+      "artistAddress": "0xbf1aB3DDB7b1F2d8f302C1048a33e3b382887B63",
+      "artistPercentage": "10"
+    },
+    "external_url": "sovrn.art",
+    "image": "ipfs://QmTBR84yHy1haZuzb9wuGiBFgQg4tyGvpJGWTMaNjTK8ZE/nopensea01.gif",
+    "name": "NopenSea",
+    "attributes": [
+      {
+        "trait_type": "ArtistName",
+        "value": "Highland, koloz, and Van Arman"
+      },
+      {
+        "trait_type": "Project",
+        "value": "RoyaltyGuard"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Red"
+      }
+    ]
+  }
+}

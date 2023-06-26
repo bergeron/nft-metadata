@@ -1,0 +1,99 @@
+{
+  "address": "0x9b4c6762b25575ab76a050a5dcacf406b1fdb051",
+  "type": "ERC721",
+  "name": "Arcade Life",
+  "tokenCount": "4",
+  "uri": "https://nftcontracts.art/api/contracts/arcadelife/tokens/1",
+  "metadata": {
+    "name": "Arcade Life Edition #1 Played by Blissful Pigeon",
+    "image": "https://nftcontracts.art/api/assets/arcadelife/images/1.png",
+    "animation_url": "https://nftcontracts.art/api/assets/arcadelife/videos/1.mp4",
+    "external_url": "https://nftcontracts.art",
+    "description": "Inspired by Conway's Game of Life, Arcade Life leverages similar game mechanics, but with a number of retro twists, to create unique 1 of 1 pixel art played to you in the form of a video.\n\nThere are 4200 unique Arcade Life NFTs, each is algorithmically generated.\n\nThe game (NFT) played shows thousands of cells coming to life and dying over generations. This is truly one of a kind pixel art.",
+    "properties": [
+      {
+        "trait_type": "Player Name",
+        "value": "Blissful Pigeon"
+      },
+      {
+        "trait_type": "Speed",
+        "value": "1"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "C"
+      },
+      {
+        "value": "Cannon Lasers"
+      },
+      {
+        "value": "Horizontal Beams"
+      },
+      {
+        "value": "Vertical Beams"
+      },
+      {
+        "trait_type": "Cannon Lasers Occurrence",
+        "value": "86"
+      },
+      {
+        "value": "Epoch Virus"
+      },
+      {
+        "trait_type": "Epoch Virus Occurrence",
+        "value": "34"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Total Generated Cells",
+        "value": 98107
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Total Dead Cells",
+        "value": 100860
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation 1",
+        "value": 274
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation 2",
+        "value": 153
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation 3",
+        "value": 77
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation 4",
+        "value": 33
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation 5+",
+        "value": 224
+      },
+      {
+        "trait_type": "Border Colour",
+        "value": "H-4"
+      },
+      {
+        "trait_type": "Loading Bar Colour",
+        "value": "H-1"
+      },
+      {
+        "trait_type": "Loading Text Colour",
+        "value": "H-4"
+      },
+      {
+        "trait_type": "Colour Palette",
+        "value": "H"
+      }
+    ]
+  }
+}

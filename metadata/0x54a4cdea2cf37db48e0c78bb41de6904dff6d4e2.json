@@ -1,0 +1,57 @@
+{
+  "address": "0x54a4cdea2cf37db48e0c78bb41de6904dff6d4e2",
+  "type": "ERC721",
+  "name": "Enlightened Lizards",
+  "tokenCount": "43",
+  "uri": "ipfs://QmNcBExudw8NrkLvp1HPJHX9SqGoVMmcuZhzG4i3wSPwUH/1.json",
+  "metadata": {
+    "name": "Enlightened Lizard #1",
+    "description": "**About Enlightened Lizards**\n\nEnlightened Lizards is a NFT collection of utility-driven, digital collectibles that celebrate and unify our amazing community centered around music, art, and positivity. As the genesis collection from [PhanFT](https://phanft.xyz), created for phans by phans, these NFTs grant membership access into the PhanFT ecosystem and unlock all the benefits that come with it. It's your web3 pass to 4.0 phandom!\n\n**Utility-Driven Digital Collectibles**\n\nThe utility comes in the form of redeemable items attached to the given token's ID. These can be loaded on retro-actively from PhanFT and can be claimed on-chain. Items can take the form of IRL swag and collaborations with community artists, event tickets, token airdrops, and more. Check out the [PhanFT roadmap](https://phanft.xyz/roadmap) for more information.\n\nEach token keeps its own state of redeemable items, including what has or hasn't been claimed. For the latest state of this token's redeemable items, view its [NFT status page](https://phanft.xyz/enlightened-lizards/1).\n\n**NFT Rights & Licensing**\n\nThis NFT collection has been MINTangible™ Pre-Certified. Pre-Certification ensures that each NFT in the collection includes granted license rights for a registered work from a self-verified NFT creator. View the [terms](https://rightsregistry.xyz/ethereum/0x54A4cDeA2CF37db48E0c78bb41De6904DFF6d4E2/1).",
+    "external_url": "https://phanft.xyz/enlightened-lizards/1",
+    "image": "ipfs://QmRiee4BAoP45758bn5jaGyMfWtYxKA4v7bXxVNC6bGCWJ/1.png",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "teal"
+      },
+      {
+        "trait_type": "body",
+        "value": "sea green moss"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "gazing"
+      },
+      {
+        "trait_type": "head",
+        "value": "donut bucket hat"
+      },
+      {
+        "trait_type": "hand",
+        "value": "donut"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "awestruck"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        "PhanFT (@phanft_official Twitter)",
+        "dco (@dcodev_ Twitter)"
+      ],
+      "is_genesis": true
+    },
+    "rights": {
+      "rights_registry_listing": "https://rightsregistry.xyz/ethereum/0x54A4cDeA2CF37db48E0c78bb41De6904DFF6d4E2/1",
+      "rights_metadata_url": "ipfs://bafybeie4o6qh65wj5empj6lkgqyxyet4ig2js26gajg2k4f4vhc24e5cii/rights-metadata/1.json"
+    },
+    "contract_address": "0x54A4cDeA2CF37db48E0c78bb41De6904DFF6d4E2"
+  }
+}

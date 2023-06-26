@@ -1,0 +1,39 @@
+{
+  "address": "0xc49e1a70061304f05973be912fb72de58b5c81f3",
+  "type": "ERC721",
+  "name": "The \"Art is shit, don't buy\" NFT",
+  "tokenCount": "7",
+  "uri": "ipfs://Qmb2aoz3Ps5QoYJj9Q4ifo3yb1eqZDHSfVZ9PPVd9ZHxqr/1.json",
+  "metadata": {
+    "dna": "34dbaf3bc61df394fb100180f126d8aaa991286e",
+    "name": "#1",
+    "description": "Art is shit, don't buy pls",
+    "image": "ipfs://QmRjjERKar78PiLXKHTPahmAp7xqEjFo3rtk9afdqqVvmc/1.png",
+    "edition": 1,
+    "date": 1634942056566,
+    "artist": "u",
+    "attributes": [
+      {
+        "trait_type": "Trunk_Color",
+        "value": "Green_Trunk"
+      },
+      {
+        "trait_type": "Leafs",
+        "value": "Skyblue_Leafs"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Mask"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mustache"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "BTC"
+      }
+    ],
+    "compiler": "Not me, ok?"
+  }
+}

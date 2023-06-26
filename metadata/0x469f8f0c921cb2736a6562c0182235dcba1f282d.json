@@ -1,0 +1,61 @@
+{
+  "address": "0x469f8f0c921cb2736a6562c0182235dcba1f282d",
+  "type": "ERC1155",
+  "name": "Bueno Skate",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/jjUltwkEh0O1eyb8wppy4zLWHoYBCSFd3Uaayy4Q30g",
+  "metadata": {
+    "created_by": "Bueno Skate",
+    "name": "Bueno V1.2",
+    "external_url": "https://linktr.ee/buenoskate",
+    "description": "1st Official re-release of the \"Bueno Skate\" collection on the new contract.  \nAs a thank you, this token will be an open edition for a limited time.  \nOnly 1 token claimable per wallet.\n\nSkate everything.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Bueno Skate"
+      },
+      {
+        "trait_type": "Graphic",
+        "value": "B. blank"
+      },
+      {
+        "trait_type": "Grip",
+        "value": "B. Foam"
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Popsicle"
+      },
+      {
+        "trait_type": "Wood",
+        "value": "Maple"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2023"
+      }
+    ],
+    "animation_details": {
+      "bytes": 2429555,
+      "format": "MP4",
+      "duration": 4,
+      "sha256": "366ddb41e7b834fed1737f08e3bfb46380e9b9e553f44087b9fed7eebeb7d434",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/aHsQhXwe3Ds3GEWPbTHAzvqaiPBPATKmZW_MiqRlsSw",
+    "animation_url": "https://arweave.net/aHsQhXwe3Ds3GEWPbTHAzvqaiPBPATKmZW_MiqRlsSw",
+    "image_details": {
+      "bytes": 3962611,
+      "format": "GIF",
+      "sha256": "fd8582114cada41173957d4899cdc80019b6c86aab904a0def50b92d4c692119",
+      "width": 800,
+      "height": 800
+    },
+    "image": "https://arweave.net/-MUedtPCJdup0a6VKS5llLXkxyriKU7Q0_yqxudF458",
+    "image_url": "https://arweave.net/-MUedtPCJdup0a6VKS5llLXkxyriKU7Q0_yqxudF458"
+  }
+}

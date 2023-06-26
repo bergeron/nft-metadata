@@ -1,0 +1,53 @@
+{
+  "address": "0x76e51bc8fa0beebcf3e45de408fa43c9dc5ffb27",
+  "type": "ERC721",
+  "name": "Primate Social Society",
+  "tokenCount": "10000",
+  "uri": "https://tbziw4f7f4.execute-api.us-west-2.amazonaws.com/dev/tokens/1",
+  "metadata": {
+    "image": "https://tbziw4f7f4.execute-api.us-west-2.amazonaws.com/dev/images/1.png",
+    "tokenId": "1",
+    "name": "Primate Social Society #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "kinda_gross"
+      },
+      {
+        "trait_type": "SkinColor",
+        "value": "fake_tan"
+      },
+      {
+        "trait_type": "HairColor",
+        "value": "black"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "red_plaid"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "V_happy"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eth_eyes"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "hipster_destroy"
+      },
+      {
+        "trait_type": "Rarity Score",
+        "value": 124.71883132708874,
+        "max_value": 256
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "display_type": "number",
+        "value": 6889,
+        "max_value": 10000
+      }
+    ]
+  }
+}

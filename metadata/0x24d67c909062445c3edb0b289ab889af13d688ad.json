@@ -1,0 +1,16 @@
+{
+  "address": "0x24d67c909062445c3edb0b289ab889af13d688ad",
+  "type": "ERC721",
+  "name": "RENT A VOTE",
+  "tokenCount": "4",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIlJFTlQgQSBWT1RFIDEiLCAiZGVzY3JpcHRpb24iOiAiIyBBdXRvbWF0ZWQgVm90ZSBZaWVsZFxuXG5fQSBwdWJsaWMgdm90aW5nIG1lY2hhbmlzbSBmb3Igb24tY2hhaW4gZ292ZXJuYW5jZV8uIFxuXG4jIyMgTG9iYnlpc3RcbjEuIERlcG9zaXRzIEVUSCB3LyBwcm9wIElEIGFuZCB2b3RlXG4yLiBWb3RlIGlzIHRhbGxpZWQgYWNjb3JkaW5nIHRvIEVUSCB3ZWlnaHQsIGZvciBvciBhZ2FpbnN0IHRoZSBwcm9wXG4zLiBFVEggaXMgdHJhbnNmZXJyZWQgdG8gYSB2b3RpbmcgcG9vbFxuXG4jIyMgVG9rZW4gSG9sZGVyXG4xLiBEZXBvc2l0cyBgRVJDMjBWb3Rlc2Agb3IgYEVSQzcyMVZvdGVzYCB0b2tlbnMgaW50byB0aGUgdm90aW5nIHBvb2xcbjIuIFNuYXBzaG90IGlzIHRha2VuLCBtYXJraW5nIHRoZSB0b2tlbnMgYXMgZWxpZ2libGUgZm9yIHZvdGluZyBpbiBhbnkgbmV3IHByb3Bvc2FsXG4zLiBQb29sZWQgZnVuZHMgZnJvbSBwcmV2aW91cyB2b3RlcyBieSAqKkxvYmJ5aXN0cyoqIGNhbiBiZSB3aXRoZHJhd24gYXQgYW55IHRpbWUgYWNjb3JkaW5nIHRvICoqVG9rZW4gSG9sZGVyJ3MqKiByZWxhdGl2ZSB3ZWlnaHQgaW4gdGhlIGRpc3RyaWJ1dGlvbiBwb29sXG5cbiMjIyBBcmJpdHJhdG9yXG4xLiBJZiB0aGVyZSBhcmUgPDVtIHJlbWFpbmluZyBpbiBhIHByb3Bvc2FsLCBhbiAqKmFyYml0cmF0b3IqKiBjYW4gc3VibWl0IHRoZSB2b3RlIGZyb20gdGhlIHBvb2wncyBgR292ZXJuYW5jZWAgY29udHJhY3RcbjIuIEFzIGEgcmV3YXJkIGZvciBkb2luZyB0aGlzLCB0aGUgKiphcmJpdHJhdG9yKiogaXMgZWxpZ2libGUgdG8gY2xhaW0gMSUgb2YgdGhlIHBvb2xlZCBFVEggZm9yIHRoYXQgcHJvcG9zYWxcbiIsICJpbWFnZSI6ICJpcGZzOi8vYmFma3JlaWhmYzU3cmk1cW94M2c0Z3FqYW8yenFwamNxNXNwMm1keGlkZW9ybmN1bHpxdmZiNXhvYm0iLCAicHJvcGVydGllcyI6IHsibnVtYmVyIjogMSwgIm5hbWUiOiAiUkVOVCBBIFZPVEUifX0=",
+  "metadata": {
+    "name": "RENT A VOTE 1",
+    "description": "# Automated Vote Yield\n\n_A public voting mechanism for on-chain governance_. \n\n### Lobbyist\n1. Deposits ETH w/ prop ID and vote\n2. Vote is tallied according to ETH weight, for or against the prop\n3. ETH is transferred to a voting pool\n\n### Token Holder\n1. Deposits `ERC20Votes` or `ERC721Votes` tokens into the voting pool\n2. Snapshot is taken, marking the tokens as eligible for voting in any new proposal\n3. Pooled funds from previous votes by **Lobbyists** can be withdrawn at any time according to **Token Holder's** relative weight in the distribution pool\n\n### Arbitrator\n1. If there are <5m remaining in a proposal, an **arbitrator** can submit the vote from the pool's `Governance` contract\n2. As a reward for doing this, the **arbitrator** is eligible to claim 1% of the pooled ETH for that proposal\n",
+    "image": "ipfs://bafkreihfc57ri5qox3g4gqjao2zqpjcq5sp2mdxideornculzqvfb5xobm",
+    "properties": {
+      "number": 1,
+      "name": "RENT A VOTE"
+    }
+  }
+}

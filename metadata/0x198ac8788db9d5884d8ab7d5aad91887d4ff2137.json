@@ -1,0 +1,42 @@
+{
+  "address": "0x198ac8788db9d5884d8ab7d5aad91887d4ff2137",
+  "type": "ERC721",
+  "name": "Unlockd Bound NFT COOL",
+  "tokenCount": "1",
+  "uri": "https://api.coolcatsnft.com/cat/1",
+  "metadata": {
+    "description": "Cool Cats is a collection of 9,999 randomly generated and stylistically curated NFTs that exist on the Ethereum Blockchain. Cool Cat holders can participate in exclusive events such as NFT claims, raffles, community giveaways, and more. Remember, all cats are cool, but some are cooler than others. Visit [www.coolcatsnft.com](https://www.coolcatsnft.com/) to learn more.",
+    "image": "https://ipfs.io/ipfs/QmYrxAviWHGugdikgU1Awc8MRtfqxMYYRmBuCTMEc5mCAx",
+    "name": "Cool Cat #1",
+    "attributes": [
+      {
+        "trait_type": "body",
+        "value": "blue cat skin"
+      },
+      {
+        "trait_type": "hats",
+        "value": "hat black"
+      },
+      {
+        "trait_type": "shirt",
+        "value": "winter red"
+      },
+      {
+        "trait_type": "face",
+        "value": "sunglasses blue"
+      },
+      {
+        "trait_type": "tier",
+        "value": "wild_1"
+      }
+    ],
+    "points": {
+      "Body": 0,
+      "Shirt": 2,
+      "Hats": 2,
+      "Face": 1
+    },
+    "ipfs_image": "https://ipfs.io/ipfs/QmYrxAviWHGugdikgU1Awc8MRtfqxMYYRmBuCTMEc5mCAx",
+    "google_image": "https://drive.google.com/uc?id=1ZYdHKuETneoIWDNvbLD0SHmG83-LXXw1"
+  }
+}

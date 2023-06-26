@@ -1,0 +1,40 @@
+{
+  "address": "0x448d14938d41dd60dbd336d0f72cf0d45b2392ca",
+  "type": "ERC1155",
+  "name": "THE KEY by RSTLSS",
+  "tokenCount": "10",
+  "uri": "ipfs://bafybeib22zbfs72zh62aypzwrcrg3vjayywcnvymj5xmbkh3cw5zzf3rma/1.json",
+  "metadata": {
+    "name": "THE KEY - AVI",
+    "tokenId": 1,
+    "description": "THE KEY fused with Avi",
+    "external_url": "https://rstlss.xyz",
+    "animation_url": "https://rstlss-content.xyz/the-key/avi/index.html",
+    "image": "https://rstlss-content.xyz/the-key/avi/image.gif",
+    "model_url": "https://rstlss-content.xyz/the-key/avi/model.glb",
+    "garment_types": "Jacket",
+    "garment_artists": "RSTLSS",
+    "garment_description": "RSTLSS genesis jacket",
+    "glyph_slots": "Back",
+    "glyph_types": "Projection",
+    "glyph_artists": "Avi",
+    "game_low": "https://rstlss-content.xyz/the-key/avi/game-low.glb",
+    "game_high": "https://rstlss-content.xyz/the-key/avi/game-high.glb",
+    "avatar_low": "https://rstlss-content.xyz/the-key/avi/avatar-low.glb",
+    "avatar_high": "https://rstlss-content.xyz/the-key/avi/avatar-high.glb",
+    "attributes": [
+      {
+        "trait_type": "Garment",
+        "value": "Jacket"
+      },
+      {
+        "trait_type": "Garment Artist",
+        "value": "RSTLSS"
+      },
+      {
+        "trait_type": "Back Glyph",
+        "value": "Avi"
+      }
+    ]
+  }
+}

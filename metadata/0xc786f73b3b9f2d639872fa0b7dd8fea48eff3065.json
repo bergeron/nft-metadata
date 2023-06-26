@@ -1,0 +1,45 @@
+{
+  "address": "0xc786f73b3b9f2d639872fa0b7dd8fea48eff3065",
+  "type": "ERC721",
+  "name": "NeoBots Collection",
+  "tokenCount": "50",
+  "uri": "ipfs://QmbJDSU7J3fRfZqUqAqmsAFSLzVGcqsyWxrxX2GnfuKGPP/1.json",
+  "metadata": {
+    "name": "NeoBot #1",
+    "description": "NeoBot #1 of the NeoBot Collection",
+    "external_link": "https://neobots.neopoly.io/token/1",
+    "attributes": [
+      {
+        "value": "Spider Legs"
+      },
+      {
+        "trait_type": "Mobility",
+        "value": 75,
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Primary Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Secondary Color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Cuteness",
+        "value": 25,
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Toughness",
+        "value": 25,
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Casual"
+      }
+    ],
+    "image": "ipfs://QmdWHCfbCT1ZK4E67smdf6mNrgujPE2Gnef6SirnYoAvrY/1.png"
+  }
+}

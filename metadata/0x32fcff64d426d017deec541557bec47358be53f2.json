@@ -1,0 +1,80 @@
+{
+  "address": "0x32fcff64d426d017deec541557bec47358be53f2",
+  "type": "ERC721",
+  "name": "Ether Legends",
+  "tokenCount": "354",
+  "uri": "https://www.etherlegends.com/metadata/menandbeasts/029_Ipslip.json",
+  "metadata": {
+    "name": "'Gargonn' The Ipslip Dragon",
+    "image": "https://www.etherlegends.com/tradingcards/menandbeasts/029_Ipslip.png",
+    "description": "Beware of dragon's breathe!",
+    "external_url": "https://www.etherlegends.com",
+    "attributes": [
+      {
+        "trait_type": "game",
+        "value": "Ether Legends"
+      },
+      {
+        "trait_type": "set",
+        "value": "Men and Beasts"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "type",
+        "value": "Character"
+      },
+      {
+        "trait_type": "element_1",
+        "value": "Water"
+      },
+      {
+        "trait_type": "strength_1",
+        "value": "Heal"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "number",
+        "value": 29,
+        "max_value": 39
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "elementeum",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "attack",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "defense",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heal",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "disrupt",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heart",
+        "value": 11
+      }
+    ]
+  }
+}

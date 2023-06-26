@@ -1,0 +1,35 @@
+{
+  "address": "0x10f3bf8ef64ebe302d9b7237863ad0453f68f75b",
+  "type": "ERC721",
+  "name": "PixelPuffins",
+  "tokenCount": "420",
+  "uri": "https://pixelpuffinsnft.web.app/metadata/1",
+  "metadata": {
+    "image": "https://pixelpuffinsnft.web.app/img/1.png",
+    "name": "Pixel Puffin #1",
+    "description": "Pixel Puffins are super cute! Try right clicking... you might be able to save one to your wallet for free if it hasn't been locked.",
+    "animation_url": "https://pixelpuffinsnft.web.app/html/1.html",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light blue"
+      },
+      {
+        "trait_type": "Feet",
+        "value": "Red feet"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth"
+      },
+      {
+        "trait_type": "Belly",
+        "value": "White belly"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Red body"
+      }
+    ]
+  }
+}

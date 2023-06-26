@@ -1,0 +1,38 @@
+{
+  "address": "0xa520d773ec3caadfc82250a52a9dbde56bd93f90",
+  "type": "ERC721",
+  "name": "Horrible - General Collection",
+  "tokenCount": "3000",
+  "uri": "ipfs://bafybeihsk5wsmpvcryffnbetzyh62ni3lxe5kbnbsi34ljgxx2skeqxu5y/1",
+  "metadata": {
+    "name": "Horrible #1",
+    "description": "\"the most horrible story in the world.\"",
+    "image": "ipfs://bafybeici7hy73pnxd36ovmzyrc2mxzuk6gh73qhx6ga2ebluqsofmy3yr4/1.png",
+    "dna": "01ef600c1c0db0f31ba660ae77b669a1b2d01812",
+    "edition": 1,
+    "date": 1669277723661,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "background 3"
+      },
+      {
+        "trait_type": "costume",
+        "value": "costume 8"
+      },
+      {
+        "trait_type": "head",
+        "value": "head 19"
+      },
+      {
+        "trait_type": "face",
+        "value": "face 4"
+      },
+      {
+        "trait_type": "eye light",
+        "value": "eye light 8"
+      }
+    ],
+    "compiler": "Horrible"
+  }
+}

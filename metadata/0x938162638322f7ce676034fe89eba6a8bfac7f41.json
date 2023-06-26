@@ -1,0 +1,36 @@
+{
+  "address": "0x938162638322f7ce676034fe89eba6a8bfac7f41",
+  "type": "ERC1155",
+  "name": "Rare NFT V4",
+  "tokenCount": "20",
+  "uri": "https://nft.rare.market/nft/1.json",
+  "metadata": {
+    "id": 1,
+    "name": "Clause and Effect",
+    "description": "\"Clause and Effect” explores the mythology of Wu-Tang Clan’s album “Once Upon a Time in Shaolin”, of which only one copy was produced, and subsequently auctioned to the highest bidder. The winner of the auction was notorious Pharma-bro Martin Shkreli, who purchased the copy for $2m. The album came with a variety of clauses restricting its use and public accessibility. The idea of a single copy existing of an item that would normally find its value through massive copying and distribution was a fascinating study in scarcity and value, something that the nature of NFT’s addresses and accommodates. ",
+    "image": "https://res.cloudinary.com/visible-magic/image/upload/v1619202474/rare/blamb_1000_1000_clauseeffect_8e116b90cd.png",
+    "external_url": "https://rare.market/auction/1",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Unique"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "BENJAMIN LAMB"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Auction"
+      },
+      {
+        "trait_type": "Category",
+        "value": "artwork"
+      },
+      {
+        "trait_type": "Max Supply",
+        "value": 1
+      }
+    ]
+  }
+}

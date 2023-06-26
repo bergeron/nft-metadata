@@ -1,0 +1,32 @@
+{
+  "address": "0xaa12465e30e764eeaf2acd976447ee6a77ba30d9",
+  "type": "ERC1155",
+  "name": "Lunar Specimen",
+  "tokenCount": "1",
+  "uri": "https://pl6121.com/observatory/102s/lunar_specimen/1",
+  "metadata": {
+    "name": "Lunar Specimen",
+    "description": "These lunar rocks under observation glow iridescently, are indestructible, and appear to move with no external force. Further study is required; however, we predict these specimens may be biological in nature.\n\nThey were recently reported as entering the earth's atmosphere and landing across the planet. We've located 450 of them although we believe there are many more. Further reports will be logged and released.",
+    "image": "https://pl6121.com/observatory/102s/lunar_specimen/image.png",
+    "animation_url": "https://pl6121.com/observatory/102s/lunar_specimen/animation.mp4",
+    "background_color": "000000",
+    "attributes": [
+      {
+        "trait_type": "Observed Fall",
+        "value": "Negative"
+      },
+      {
+        "trait_type": "Year Found",
+        "value": "2023"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Lunar"
+      },
+      {
+        "trait_type": "Pieces",
+        "value": "Multiple"
+      }
+    ]
+  }
+}

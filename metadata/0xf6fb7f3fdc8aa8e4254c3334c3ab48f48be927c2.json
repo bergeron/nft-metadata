@@ -1,0 +1,33 @@
+{
+  "address": "0xf6fb7f3fdc8aa8e4254c3334c3ab48f48be927c2",
+  "type": "ERC721",
+  "name": "PIXELCATS",
+  "tokenCount": "856",
+  "uri": "ipfs://bafybeifzcjkubdhrfzpldlvfqyz3uvm6oogpkk4365ny247wzwd6pvyxqy/1.json",
+  "metadata": {
+    "name": "1",
+    "description": "A Collection of 2500 unique generative Pixel Cats floating through the Ethereum Space",
+    "external_url": "https://t.me/PixelCatsERC",
+    "image": "https://ipfs.io/ipfs/bafybeibldrvenrjul42dwpvtp3iuutmkhfwxnceybyu4jixt2ut5nvlplm/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "taupe"
+      },
+      {
+        "trait_type": "Cat",
+        "value": "#241"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": []
+    }
+  }
+}

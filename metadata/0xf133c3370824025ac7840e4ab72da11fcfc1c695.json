@@ -1,0 +1,44 @@
+{
+  "address": "0xf133c3370824025ac7840e4ab72da11fcfc1c695",
+  "type": "ERC721",
+  "name": "Vitalik Inspired",
+  "tokenCount": "1000",
+  "uri": "ipfs://QmQfSxURK3dg9JfWydh9x4By5a8UAmuLNg3jxSLDCxewTs/1",
+  "metadata": {
+    "name": "Vitalik Inspired #1",
+    "description": "On March 8 2023, Gitcoin released an NFT drop called 'Gitcoin Presents' with Vitalik Buterin, the founder of Ethereum, partnered to the project. Now a new collection is dropping, 'Vitalik Inspired' is a generative art with seed and parameters inferred from emotions of Vitalik over the years. Through iconic images, a generative algorithm has produced 1,000 art pieces.",
+    "attributes": [
+      {
+        "trait_type": "BackgroundColor",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "BaseColor",
+        "value": "RGB(228, 217, 53)"
+      },
+      {
+        "trait_type": "BoxAmount",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "LengthOfDrawing",
+        "value": "70 Frames"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Low Variance"
+      },
+      {
+        "trait_type": "BoxSize",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "True"
+      }
+    ],
+    "image": "ipfs://QmdubuSea3FrptVJNxcwWRyRvmqyUBb4u3KXjNJ7nzg8aK/1.png",
+    "symbol": "VI",
+    "collection": "Vitalik Inspired Vol. 1"
+  }
+}

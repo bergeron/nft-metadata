@@ -1,0 +1,34 @@
+{
+  "address": "0x51efe9abd39bc59017c1756bd2b1b97d80d45073",
+  "type": "ERC721",
+  "name": "NERI",
+  "tokenCount": "6",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=5VL5kxk2oqOwuI3rWF5R",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1565304362126?alt=media&token=7924f206-c67c-40ec-b3c3-af099b9889ac",
+    "isForSale": false,
+    "minter": "0x4765273C477c2Dc484dA4F1984639E943ADCcfEb",
+    "price": "0",
+    "name": "FLOW 001",
+    "contractAddress": "0x51efe9AbD39BC59017c1756bd2B1B97D80d45073",
+    "description": "Transormative and Transfigurative",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "value": "FLOW 001",
+        "trait_type": "item"
+      },
+      {
+        "value": 2,
+        "trait_type": "level"
+      },
+      {
+        "display_type": "number",
+        "value": 1,
+        "trait_type": "generation"
+      }
+    ],
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x51efe9AbD39BC59017c1756bd2B1B97D80d45073/5VL5kxk2oqOwuI3rWF5R"
+  }
+}

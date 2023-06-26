@@ -1,0 +1,36 @@
+{
+  "address": "0x1ba4c30d298de770b77df13c16f42d48499616cc",
+  "type": "ERC721",
+  "name": "Demon Mask NFT",
+  "tokenCount": "6",
+  "uri": "ipfs://bafybeiaotijri4hu5j3ctfatd5eovxmpdypuyakzgtnp6zdygvvohheiva/1.json",
+  "metadata": {
+    "name": "Demon Mask #1",
+    "description": "Demons are coming to dominate the ETH blockchain",
+    "external_url": "",
+    "image": "ipfs://QmSwgWkfZxqEHU9RT5pnTwiRbxCJFy3pqb4H7dW2VKFEbz/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Demon Yellow Hell"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Horns",
+        "value": "Green"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

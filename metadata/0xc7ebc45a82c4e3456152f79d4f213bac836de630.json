@@ -1,0 +1,38 @@
+{
+  "address": "0xc7ebc45a82c4e3456152f79d4f213bac836de630",
+  "type": "ERC721",
+  "name": "I WANT ART",
+  "tokenCount": "265",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=MbrcCs2aqneTWn5fCZDZ",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1577378412499?alt=media&token=4269f41f-debb-4735-a274-6c016a65c494",
+    "isForSale": true,
+    "description": "This I.W.A-artwork challenges the propaganda spread by 5Gnetwork providers about the safety of 5G.",
+    "contractAddress": "0xc7ebc45a82c4e3456152f79d4f213bac836de630",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xc7ebc45a82c4e3456152f79d4f213bac836de630/MbrcCs2aqneTWn5fCZDZ",
+    "minter": "0x2fbce63004d21f07a2f76b07c19b7ac176d1c751",
+    "mintedOn": {
+      "_seconds": 1577378578,
+      "_nanoseconds": 283000000
+    },
+    "price": "0.3",
+    "name": "5G antihype",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "5G antihype"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

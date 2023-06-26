@@ -1,0 +1,25 @@
+{
+  "address": "0xf1a57ae58253c2b6865ed0861ca0213bca7ab9cb",
+  "type": "ERC721",
+  "name": "Ethcc chat V4",
+  "tokenCount": "5",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xf1a57ae58253c2b6865ed0861ca0213bca7ab9cb/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xf1A57Ae58253C2b6865ED0861Ca0213bcA7aB9cB/icon?id=1",
+    "expiration": 1583508697,
+    "tokenId": "1",
+    "owner": "0x2ff2daae17ac215bd8f869d06b76cf2f30b76a2f",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1583508697
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xf1A57Ae58253C2b6865ED0861Ca0213bcA7aB9cB",
+    "network": 1
+  }
+}

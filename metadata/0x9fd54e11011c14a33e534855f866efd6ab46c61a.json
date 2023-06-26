@@ -1,0 +1,46 @@
+{
+  "address": "0x9fd54e11011c14a33e534855f866efd6ab46c61a",
+  "type": "ERC721",
+  "name": "the test V3",
+  "tokenCount": "5",
+  "uri": "ipfs://QmSMfWzAE9einq1YsGQQdXAjukTnk1c3wSpn4UMPQCvurf/1.json",
+  "metadata": {
+    "name": "the test #1",
+    "description": "my test",
+    "image": "ipfs://QmZXUvDjQW2U7hP621Gx9GWDNZ9RWVArkQsZbLUmugoZfM/1.png",
+    "dna": "8aac49dd74e03342d462bd9052cd5be1aeedc6a9",
+    "edition": 1,
+    "date": 1654445079969,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

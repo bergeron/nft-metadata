@@ -1,0 +1,57 @@
+{
+  "address": "0x7904c2e23342d4ac4a35de931857bd89b0c99fc9",
+  "type": "ERC721",
+  "name": "111dsafdasfweqr",
+  "tokenCount": "275",
+  "uri": "https://api.artblocks.io/token/371000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "371000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "JPEG #1",
+    "minted": true,
+    "artist": "Jan Robert Leegte",
+    "description": "Compression has been the driving force behind the image-based internet since the early 90s. No compression, no Netscape, no social media, no NFTs. The JPEG compression has specifically enabled photography-based imagery on the net. It has always served that purpose and over time become the de facto default for showing high quality imagery online. But compression always leaves a trace, which has become the lens through which the network sees the world of uploaded images.\n\n\"A painting is not a picture of an experience, but is the experience.\" ― Mark Rothko\n\nJPEG tries to create an image programatically fully expressing that signature compression. An image that is like empty made from barely nothing, yet fully present in its blazing appearance. A work deeply material, expressing itself through the language of code and codec only. This is not a JPEG depicting an image. The JPEG is the image itself.\n\nDelving into the depths and peculiarities of the digital, tethered to art history, JPEG found its way to the surface. Generated color fields are utilised to trigger the compressing algorithm, resulting in a world of raw visual entities. Where the abstract expressionists cut out the depiction in painting, aiming to let the artist convey pure emotion, JPEG cuts out the artist's emotion and lets it emerge from within the algorithm. Carefully you could categorize the work as *compressionism*. An art form where the machine speaks in its own raw language, but nevertheless makes a direct touch to our human heart.\n\nJPEG is a collection of generative images in the JPEG file format. The work tries to break with the idea of the fixed file format, therefor creating the JPEG entirely from code using no image material whatsoever. The individual JPEGs are generated responsively at the moment of viewing based on the token hash as a random seed. You can literally drag the JPEG out from the browser window.\n\nJPEG pays tribute to interface culture, and as such the work is responsive and not scaling. When the work is resized, the work is again rendered and compressed. When viewed smaller, details will disappear, yet the composition stays recognisable. It’s like stepping back to see a work from further away. The choice of color wanders from monochromatic tones to the brutality of complete randomness and everything in between.\n\nIn honour of the blockchain and the web, the work is written in vanilla JavaScript, using no dependancies, and generates a standard JPEG. This way the file is downloadable, aiming for a materiality that comes as close as possible to the standard browser.",
+    "script_type": "js@na",
+    "project_id": "371",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/371000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/371000001.png",
+    "generator_url": "https://generator.artblocks.io/371000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/371000001",
+    "royaltyInfo": {
+      "artistAddress": "0xe8e01e71d18f838b13e8f6fa250ee0e4bed6b877",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "JPEG by Jan Robert Leegte",
+    "website": "https://jpeg.leegte.org/",
+    "token_hash": "0xd68d2e8f5c00803429382497c5e1205e6ada499dcc92bd504bbb57f76132615a",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/371/tokens/371000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/371000001",
+    "features": {
+      "Color field": "double",
+      "Orientation": "horizontal"
+    },
+    "traits": [
+      {
+        "trait_type": "JPEG",
+        "value": "All JPEGs"
+      },
+      {
+        "trait_type": "JPEG",
+        "value": "Color field: double"
+      },
+      {
+        "trait_type": "JPEG",
+        "value": "Orientation: horizontal"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0x527fed0373a22a2f288d3fd4f9264178386285f4",
+  "type": "ERC721",
+  "name": "Lucky Foo Dogs NFT",
+  "tokenCount": "2000",
+  "uri": "ipfs://QmRRPjBcYA66cxxgVmu1To17TmjP6a6kVhbWMLKZB2z5R8/1.json",
+  "metadata": {
+    "name": "Foo Dogs #1",
+    "description": "Foo Dogs for good luck. Carry these in your wallet for good fortune. But Foo Dogs do more than bring prosperity, the full roadmap will be released soon...",
+    "image": "ipfs://QmeKVb8vjeToUyG35qh4o3avhWo2q5uHNbZ6iDuxUntSkY/1.png",
+    "dna": "aa3b2e7b58b730122335089226ff6f4b0b58767e",
+    "edition": 1,
+    "date": 1642995844335,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lucky 358"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Cute"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Foo"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Teeth"
+      },
+      {
+        "trait_type": "Ball",
+        "value": "Gold Ball"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

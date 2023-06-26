@@ -1,0 +1,57 @@
+{
+  "address": "0x1407d0ae97f56614114c473442893aeb1b893bb6",
+  "type": "ERC721",
+  "name": "Heartsies",
+  "tokenCount": "2",
+  "uri": "https://api.heartsies.org/metadata/1.json",
+  "metadata": {
+    "name": "Heartsy #1",
+    "description": "❤️ ❤️ ❤️\n\nEach Heartsy is a uniquely generated heart NFT composed of various colors, where every color has a different meaning.\n\nA Heartsy can easily be gifted to your special someone at https://heartsies.org.\n\n2% of all Heartsies have a smiley face, and 10% of all Heartsies have a dark background.\n\n15% of all proceeds will be donated to the National Coalition Against Domestic Violence, because everyone deserves relationships free from domestic violence.",
+    "image": "ipfs://QmVQmATttienuagdiXSoRzLVxv7gtcnqtWRzVT3DpgaDvL",
+    "dna": "99a0d5486a4d995c853990f83836aa539c232486",
+    "edition": 1,
+    "date": 1641883021368,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Right Border",
+        "value": "Amethyst"
+      },
+      {
+        "trait_type": "Left Border",
+        "value": "Sunset"
+      },
+      {
+        "trait_type": "Right Fill",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Left Fill",
+        "value": "Sunset"
+      },
+      {
+        "trait_type": "Bottom Right Accent",
+        "value": "Emerald"
+      },
+      {
+        "trait_type": "Top Right Accent",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Bottom Left Accent",
+        "value": "Amethyst"
+      },
+      {
+        "trait_type": "Top Left Accent",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Point",
+        "value": "Sunset"
+      }
+    ]
+  }
+}

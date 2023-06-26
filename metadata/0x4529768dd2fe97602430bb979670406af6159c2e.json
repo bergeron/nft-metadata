@@ -1,0 +1,54 @@
+{
+  "address": "0x4529768dd2fe97602430bb979670406af6159c2e",
+  "type": "ERC721",
+  "name": "Test1",
+  "tokenCount": "3",
+  "uri": "ipfs://QmQw9mt9xcrhsi9AktiUuqHZ8tYfqQrH2bky3fb3PhPgJS/1",
+  "metadata": {
+    "name": "Dapper Ducks 1",
+    "description": "Dapper Ducks is a collection.",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "animation_url": "ipfs://QmQgG5biJrtzTYbRwFdEt5xyAmZUb6QPbQpNQ48Xg74HM7/1.wav",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "grey"
+      },
+      {
+        "trait_type": "Fur",
+        "value": {
+          "trait_type": "Fur",
+          "value": "orange stripes"
+        }
+      },
+      {
+        "trait_type": "Beak",
+        "value": {
+          "trait_type": "Beak",
+          "value": "pure sky blue"
+        }
+      },
+      {
+        "trait_type": "Clothing",
+        "value": {
+          "trait_type": "Clothing",
+          "value": "backpack green"
+        }
+      },
+      {
+        "trait_type": "Earring",
+        "value": {
+          "trait_type": "Glasses",
+          "value": "hearts green"
+        }
+      },
+      {
+        "trait_type": "Hat",
+        "value": {
+          "trait_type": "Hat",
+          "value": "bucket hat blue"
+        }
+      }
+    ]
+  }
+}

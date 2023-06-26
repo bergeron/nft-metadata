@@ -1,0 +1,64 @@
+{
+  "address": "0xf81ea6f30c06d3cf037b33334fe31ade682e6574",
+  "type": "ERC721",
+  "name": "ChatPuppyNFT",
+  "tokenCount": "10",
+  "uri": "ipfs://bafyreihu5imb27y7c6uxw6g6shys45jbm4v6qpwwxuzcrqxvv5hq7oeny4/metadata.json",
+  "metadata": {
+    "name": "ChatPuppy NFT #1",
+    "description": "ChatPuppy, a group of NFTs of official chatpuppy peer-to-peer and wallet-to-wallet messeging Dapp. The owners of ChatPuppies can show the NFT as avatar in the messenger and get super functions.",
+    "external_url": "https://chatpuppy.com",
+    "dna": "0x297e8fddd39e7d8e71003aab56f426792b5592b75a443e71dbbd26a11da16c6c",
+    "artifacts": "0x07950006040108020503",
+    "level": 6,
+    "experience": 1941,
+    "rarity": "3.4271",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple",
+        "level": 1,
+        "experience": 50,
+        "rarity": 190000
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Grey",
+        "level": 1,
+        "experience": 1,
+        "rarity": 370000
+      },
+      {
+        "trait_type": "Body",
+        "value": "Stonks",
+        "level": 1,
+        "experience": 230,
+        "rarity": 100000
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Beard",
+        "level": 1,
+        "experience": 110,
+        "rarity": 150000
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored",
+        "level": 1,
+        "experience": 130,
+        "rarity": 130000
+      },
+      {
+        "trait_type": "Head",
+        "value": "Crown",
+        "level": 1,
+        "experience": 1420,
+        "rarity": 25000
+      }
+    ],
+    "image": "ipfs://bafybeifjnibd2pcsdae2p6yjid2vpiegcejye4abi6vwsyfe5c5vx5c7ti/nft.png",
+    "image_url": "ipfs://bafybeifjnibd2pcsdae2p6yjid2vpiegcejye4abi6vwsyfe5c5vx5c7ti/nft.png",
+    "thumbnail": "ipfs://bafybeigbszgz52gnmhfgzv4luceazet7sjqiud6roe3pqncwnod4dvzpja/thumbnail.jpg"
+  }
+}

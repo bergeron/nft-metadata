@@ -1,0 +1,44 @@
+{
+  "address": "0xd821998e2a8af072cdc99ed77fa3a2cb48134775",
+  "type": "ERC1155",
+  "name": "Spike Art",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/k1wUdItuzGZhDn2NKLmYwRSW_j61PsIHSGVP68DzDTs",
+  "metadata": {
+    "created_by": "Spike",
+    "name": "Paused",
+    "description": "Can be claimed for free until July 2023. ",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Spike"
+      },
+      {
+        "trait_type": "Date Minted",
+        "value": "6/14/23"
+      }
+    ],
+    "animation_details": {
+      "bytes": 475526,
+      "format": "MP4",
+      "duration": 2,
+      "sha256": "1f9fb0363917a1ad320022972ff598250b32341c2888936e417cee7243ab2ef8",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/EFfqzMyYt14Q5x3Dgf7Bnh1F6AjzHSySBB1oLFNIv3Q",
+    "animation_url": "https://arweave.net/EFfqzMyYt14Q5x3Dgf7Bnh1F6AjzHSySBB1oLFNIv3Q",
+    "image_details": {
+      "bytes": 339018,
+      "format": "PNG",
+      "sha256": "d8aab37a935bea103680e2b281e6941caa89a86bba3ae11abdb0ee61aa7f6952",
+      "width": 1047,
+      "height": 733
+    },
+    "image": "https://arweave.net/G7SnYv6JbrWCOO76p_4XNLVMkA-29lveNmyAIPpPkvM",
+    "image_url": "https://arweave.net/G7SnYv6JbrWCOO76p_4XNLVMkA-29lveNmyAIPpPkvM"
+  }
+}

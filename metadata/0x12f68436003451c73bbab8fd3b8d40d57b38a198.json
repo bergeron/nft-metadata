@@ -1,0 +1,27 @@
+{
+  "address": "0x12f68436003451c73bbab8fd3b8d40d57b38a198",
+  "type": "ERC721",
+  "name": "Flexa NFT",
+  "tokenCount": "7",
+  "uri": "https://graphigo.prd.galaxy.eco/metadata/0x12f68436003451c73bbab8fd3b8d40d57b38a198/1.json",
+  "metadata": {
+    "name": "Test",
+    "description": "",
+    "image": "https://dweb.link/ipfs/bafybeibeotxycphco3zbm6c3devphy6e7plqyrthzyce32zwmvrfjwzfmi/flexcode-qr-links.png",
+    "animation_url": "",
+    "background_color": "",
+    "external_link": "https://galaxy.eco/nft/1/0x12F68436003451c73BbAb8FD3B8D40d57B38a198",
+    "owner": "0x96129FB1ebF5839386126f352b87050FC8a30860",
+    "attributes": [
+      {
+        "trait_type": "category",
+        "value": "Test"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 1653703739
+      }
+    ]
+  }
+}

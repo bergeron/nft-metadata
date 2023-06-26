@@ -1,0 +1,65 @@
+{
+  "address": "0x0f75214ac5af0bb9ed5e3475bc7819a1a3980c3e",
+  "type": "ERC721",
+  "name": "Cells Genesis",
+  "tokenCount": "2980",
+  "uri": "https://api.thecellszone.com/json/1",
+  "metadata": {
+    "name": "Origin Cell #1: TOKYO",
+    "description": "Cell code 6018c. Located in Japan.\n\n",
+    "image": "https://cells.land/img/custom_pictures/6018c_1646434529328.jpg",
+    "external_url": "https://map.cells.land/?tokenId=1",
+    "attributes": [
+      {
+        "trait_type": "Country",
+        "value": "Japan"
+      },
+      {
+        "trait_type": "Continent",
+        "value": "Asia"
+      },
+      {
+        "trait_type": "Subregion",
+        "value": "Eastern Asia"
+      },
+      {
+        "trait_type": "Size",
+        "value": "Tiny"
+      },
+      {
+        "trait_type": "Nationality",
+        "value": "Single"
+      },
+      {
+        "trait_type": "Border Color",
+        "value": "Fuchsia"
+      },
+      {
+        "trait_type": "Border Lines",
+        "value": "Solid"
+      },
+      {
+        "trait_type": "Glow",
+        "value": "None"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Birds 4"
+      },
+      {
+        "trait_type": "Area (km²)",
+        "value": "3836"
+      },
+      {
+        "trait_type": "Origin",
+        "value": "Tokyo"
+      }
+    ],
+    "properties": {
+      "cell_contents_url": {
+        "type": "string",
+        "description": 0
+      }
+    }
+  }
+}

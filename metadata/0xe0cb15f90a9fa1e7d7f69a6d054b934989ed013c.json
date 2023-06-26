@@ -1,0 +1,47 @@
+{
+  "address": "0xe0cb15f90a9fa1e7d7f69a6d054b934989ed013c",
+  "type": "ERC1155",
+  "name": "Starcatchers: Space Junk",
+  "tokenCount": "17",
+  "uri": "ipfs://QmUmX1HCMBhuEtscsXfAG8uJ17qK2AaawZmAakUJTMCy8s/CommonGravity.json",
+  "metadata": {
+    "name": "Gravity B.A.P Device (Common)",
+    "description": "Here. You'll need this...",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmeD1aE1puBFekQen5rwDW5bb2FLzLvTx2AW1xPA5UEWT8/Common_Gravity.gif",
+    "image": "ipfs://QmeD1aE1puBFekQen5rwDW5bb2FLzLvTx2AW1xPA5UEWT8/Common_Gravity.gif",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "B.A.P Device"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Subvariant",
+        "value": "Gravity"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Rare",
+        "value": "34"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Common",
+        "value": "66"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "ipfs://QmeD1aE1puBFekQen5rwDW5bb2FLzLvTx2AW1xPA5UEWT8/Common_Gravity.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    }
+  }
+}

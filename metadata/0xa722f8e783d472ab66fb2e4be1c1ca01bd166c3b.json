@@ -1,0 +1,67 @@
+{
+  "address": "0xa722f8e783d472ab66fb2e4be1c1ca01bd166c3b",
+  "type": "ERC721",
+  "name": "JPG PEOPLE by Debbie Tea",
+  "tokenCount": "8888",
+  "uri": "https://api.jpgpeople.club/metadata/1",
+  "metadata": {
+    "description": "\nThis JPG People's phrase can still be changed.\n\nPlease check NFT STATUS property:\nPERMANENT RESIDENT = No more changes possible.\nTOURIST = Phrase can still be changed.\nDOPPELGANGER = The image is a duplicate. Image can be regenerated.\nBROKEN CHATBOT = The phrase is a duplicate. Phrase can still be changed.\n        ",
+    "external_url": "https://jpgpeople.club",
+    "image": "https://jpgpeople.s3.amazonaws.com/file/8229d21578fd4b07adb6c53a3a36b5cc.PNG?AWSAccessKeyId=AKIAZQNE2GMLEW5C7V5T&Signature=epp31iKt9N9O0o%2FXA8gB2qvdzOQ%3D&Expires=1687500656",
+    "thumbnail": "https://jpgpeople.s3.amazonaws.com/file/resized_image_of_obj_G6k.png?AWSAccessKeyId=AKIAZQNE2GMLEW5C7V5T&Signature=1%2FTkaZRltVWiCSQk8YHFCqALos0%3D&Expires=1687500656",
+    "original_image": "https://jpgpeople.s3.amazonaws.com/file/47a5195675ab4e36b6a607dc8c4d1eb8.PNG?AWSAccessKeyId=AKIAZQNE2GMLEW5C7V5T&Signature=t0PIL80n%2Bign0epMySz0bO3T7xU%3D&Expires=1687500656",
+    "name": "JPG MARTIAN #8623",
+    "rarity": "Uncommon",
+    "phrase": "But first, JPG!",
+    "attributes": [
+      {
+        "value": "Purple",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Martian",
+        "trait_type": "Body"
+      },
+      {
+        "value": "Yellow Long Pants",
+        "trait_type": "Body Bottom"
+      },
+      {
+        "value": "Black Training Jacket",
+        "trait_type": "Body Top"
+      },
+      {
+        "value": "White Short Bob Hair",
+        "trait_type": "Hair"
+      },
+      {
+        "value": "Great Gatsby",
+        "trait_type": "Right Arm"
+      },
+      {
+        "value": "Yellow Fedora Hat",
+        "trait_type": "Top"
+      },
+      {
+        "value": "Blue Briefcase",
+        "trait_type": "Left Arm"
+      },
+      {
+        "value": "Uncommon",
+        "trait_type": "Rarity"
+      },
+      {
+        "value": "Neutral",
+        "trait_type": "Expression"
+      },
+      {
+        "value": "Tourist",
+        "trait_type": "Status"
+      }
+    ],
+    "is_safe": true,
+    "change_phrase_disable": true,
+    "change_image_disable": false,
+    "frozen": false
+  }
+}

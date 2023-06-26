@@ -1,0 +1,49 @@
+{
+  "address": "0x7a4be76df0fd703c840569cf50bc5bbea38ac08e",
+  "type": "ERC721",
+  "name": "Vip Level V4",
+  "tokenCount": "1",
+  "uri": "https://pulsar.12rw.io/vip/101.json",
+  "metadata": {
+    "name": "Liutenant",
+    "description": "Genesis Liutenant",
+    "image": "https://pulsar.game/images/vip/Liutenant_Genesis.png",
+    "animation_url": "",
+    "properties": {
+      "type": {
+        "type": "string",
+        "value": "Membership"
+      },
+      "category": {
+        "type": "string",
+        "value": "Membership"
+      },
+      "collection": {
+        "type": "string",
+        "value": "Membership"
+      },
+      "discountPercentage": {
+        "type": "string",
+        "value": "5% perpetual discount to buy NFTs"
+      },
+      "timestampDiscountInMinutes": {
+        "type": "string",
+        "value": "Enters 15 minutes earlier to NFT drops"
+      },
+      "transferable": {
+        "type": "string",
+        "value": "You cannot transfer this NFT"
+      }
+    },
+    "attributes": [],
+    "social_media": {
+      "youtube_url": "https://www.youtube.com/@pulsar-12rw",
+      "twitter_url": "https://twitter.com/PulsarGame",
+      "twitch_url": "",
+      "linkedin_url": "",
+      "telegram_url": ""
+    },
+    "drop": "Shop > Membership",
+    "id": 2
+  }
+}

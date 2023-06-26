@@ -1,0 +1,49 @@
+{
+  "address": "0xb4d8dbea74b5d18b479d29348109197fc58206d9",
+  "type": "ERC721",
+  "name": "Andaluz The Artist",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/evZJSVS3DT8doOTW1sIMBlZRkv4lt33jBfa8e3xwS4s",
+  "metadata": {
+    "name": "Hip-Hop Card 1 (DMX)",
+    "created_by": "Andaluz The Artist",
+    "external_url": "andaluztheartist.com",
+    "description": "Original piece spray painted in 2021. Hip-Hop ICON.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Andaluz The Artist"
+      },
+      {
+        "trait_type": "Medium",
+        "value": "Spray Paint, 3D digital art"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Purple"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "value": "1",
+        "max_value": "1"
+      }
+    ],
+    "animation_details": {
+      "bytes": 6529964,
+      "format": "GLB",
+      "sha256": "b1821e13f5bfbd0334a6ede2273c6de238c09c37a4211750e192d44bcc375659"
+    },
+    "animation": "https://arweave.net/TIKskSDTFWs763UbUxOxmTNr83XFaubLPH2tr9dXRjA",
+    "animation_url": "https://arweave.net/TIKskSDTFWs763UbUxOxmTNr83XFaubLPH2tr9dXRjA",
+    "image_details": {
+      "bytes": 1694595,
+      "format": "JPEG",
+      "sha256": "2379c3d6b05fe6ba006b4397a2692a38202618f5acf775900e533e29ebb1e106",
+      "width": 2000,
+      "height": 2000
+    },
+    "image": "https://arweave.net/eOGc7MzUQzFI6N_P5d_Iolf50zoaqoAwlhSQHPuR9ls",
+    "image_url": "https://arweave.net/eOGc7MzUQzFI6N_P5d_Iolf50zoaqoAwlhSQHPuR9ls"
+  }
+}

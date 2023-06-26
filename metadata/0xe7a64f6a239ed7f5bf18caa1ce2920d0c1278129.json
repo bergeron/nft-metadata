@@ -1,0 +1,41 @@
+{
+  "address": "0xe7a64f6a239ed7f5bf18caa1ce2920d0c1278129",
+  "type": "ERC721",
+  "name": "Decentraland Wearables",
+  "tokenCount": "42",
+  "uri": "https://wearable-api.decentraland.org/v2/standards/erc721-metadata/collections/dc_meta/wearables/meta_hair/1",
+  "metadata": {
+    "id": "urn:decentraland:ethereum:collections-v1:dc_meta:meta_hair",
+    "name": "DC META 01000100",
+    "description": "DCL Wearable 1/10",
+    "language": "en-US",
+    "image": "https://peer-ec1.decentraland.org/content/contents/QmUe7o2VbVsh6qsVcSCJKDYpNJtmRrSPnoyBcPDKf81zZP",
+    "thumbnail": "https://peer-ec1.decentraland.org/content/contents/QmSBhsqMvxt1VngYrL2PAFoXteWtmiQWKvucwL1WvnqhdH",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "mythic"
+      },
+      {
+        "trait_type": "Category",
+        "value": "hair"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "reality"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "secrets"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "hair"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "exclusive"
+      }
+    ]
+  }
+}

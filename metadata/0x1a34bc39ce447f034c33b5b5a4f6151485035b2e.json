@@ -1,0 +1,40 @@
+{
+  "address": "0x1a34bc39ce447f034c33b5b5a4f6151485035b2e",
+  "type": "ERC721",
+  "name": "Dancing Souls V2",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/OY5OiPqMmbHjs7zJsFfVJAnbzjauQ2C79ps0h5Li6iY",
+  "metadata": {
+    "name": "SOUL #1",
+    "created_by": "Gydravlik",
+    "description": "The soul of every living being is immortal.  \nEach soul has its own unique life experience and continues its journey in the endless dance of divine energy.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Gydravlik"
+      },
+      {
+        "trait_type": "Size ",
+        "value": "2000x200 px"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Multicolor"
+      }
+    ],
+    "animation_details": {
+      "bytes": 34900204,
+      "format": "MP4",
+      "duration": 6,
+      "sha256": "91ff5a46b8e9b8c0da98a658eb1aa433589fde2fdf633ee6492418ca215d6a27",
+      "width": 2000,
+      "height": 2000,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/vCqQLexIUETICLTFBkorA3JYs9qjBUtYk0wdOxW3rCA",
+    "animation_url": "https://arweave.net/vCqQLexIUETICLTFBkorA3JYs9qjBUtYk0wdOxW3rCA"
+  }
+}

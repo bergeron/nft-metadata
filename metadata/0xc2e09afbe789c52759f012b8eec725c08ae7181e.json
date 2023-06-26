@@ -1,0 +1,46 @@
+{
+  "address": "0xc2e09afbe789c52759f012b8eec725c08ae7181e",
+  "type": "ERC721",
+  "name": "House of Shadows",
+  "tokenCount": "2",
+  "uri": "ipfs://QmVs73eqiFgDxz46yqE4GQu1BE52Q2GtrWm1yaKgKuf7b4/1.json",
+  "metadata": {
+    "dna": "5a516daa904c4205884e43af8dfcce637ac2835f",
+    "name": "Kai #1",
+    "description": "First of the House Of Shadows, Kai",
+    "image": "ipfs://QmWCv5RpuV9rafGQiDdupkGuGGcru4aQSBMXv9xQ2ofGLH/1.png",
+    "edition": 1,
+    "date": 1633088277491,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "052"
+      },
+      {
+        "trait_type": "Base",
+        "value": "01"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "029"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "055"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "074"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "087"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "011"
+      }
+    ],
+    "compiler": "Shade"
+  }
+}

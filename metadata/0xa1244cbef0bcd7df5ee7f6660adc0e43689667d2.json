@@ -1,0 +1,53 @@
+{
+  "address": "0xa1244cbef0bcd7df5ee7f6660adc0e43689667d2",
+  "type": "ERC721",
+  "name": "Chaotic Flux",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/FeH6Bt6JH-G9VhM3wNkyZ5t64oJJJ9-ed-X0-va9mBQ",
+  "metadata": {
+    "name": "CHAOTIC : Lorenz wanderer",
+    "created_by": "COLIMIT",
+    "description": "A single orbit in the Lorenz attractor winds about, switching from one side to the next. This quintessential chaotic dynamical system is full of graceful beauty.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "COLIMIT"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Dimension",
+        "value": "3"
+      },
+      {
+        "trait_type": "Time",
+        "value": "continuous"
+      },
+      {
+        "trait_type": "System",
+        "value": "Lorenz"
+      }
+    ],
+    "animation_details": {
+      "bytes": 37525603,
+      "format": "MP4",
+      "duration": 30,
+      "sha256": "d6f95e6944f321155f546fed92ef4ca5b84aece5d16010dd505f0cae1a929136",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/HR0BBEBDLJ6Rkwh8OS8JHvODYVnSaz6TM_JiTYkMe2o",
+    "animation_url": "https://arweave.net/HR0BBEBDLJ6Rkwh8OS8JHvODYVnSaz6TM_JiTYkMe2o",
+    "image_details": {
+      "bytes": 370999,
+      "format": "PNG",
+      "sha256": "be8e2a79a892b1a54a7c65d620e741bd9f5e2280c5aafc122a01c8022e5b82f4",
+      "width": 1080,
+      "height": 1080
+    },
+    "image": "https://arweave.net/Qekh59xVub6czKLYxaKz6dtJILJ2RGnqyPGKgJfLTDs",
+    "image_url": "https://arweave.net/Qekh59xVub6czKLYxaKz6dtJILJ2RGnqyPGKgJfLTDs"
+  }
+}

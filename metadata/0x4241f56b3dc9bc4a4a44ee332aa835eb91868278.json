@@ -1,0 +1,58 @@
+{
+  "address": "0x4241f56b3dc9bc4a4a44ee332aa835eb91868278",
+  "type": "ERC721",
+  "name": "Spectrum by Valencia",
+  "tokenCount": "128",
+  "uri": "https://arweave.net/C6u8ZCw7obGxhOhtWbaOfq-N-AHIyGq-yss4XUuKuJE",
+  "metadata": {
+    "name": "Spectrum #128",
+    "created_by": "Valencia",
+    "external_url": "www.thevalencia.art",
+    "description": "Spectrum is a collection of 128 tokens that explore the relationship between noise and color. The collection features sixteen different colors, four distinct frequencies and two backgrounds accompanied with a signature of each model. Physical copies are available via Infinite Objects. Spectrum is the debut collection of Valencia.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Valencia"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Tangerine"
+      },
+      {
+        "trait_type": "Frequency ",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Day"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Model",
+        "value": "128"
+      }
+    ],
+    "animation_details": {
+      "bytes": 16891548,
+      "format": "MOV",
+      "duration": 10,
+      "sha256": "db103f21109f02e369ab678b4ce4a5c9ed3ab586d9595fddb0a15965555f6c12",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/HlPanlwC5taklxXEn6c4AYgJavcDWH1LXunj78G3Pz8",
+    "animation_url": "https://arweave.net/HlPanlwC5taklxXEn6c4AYgJavcDWH1LXunj78G3Pz8",
+    "image_details": {
+      "bytes": 6881675,
+      "format": "GIF",
+      "sha256": "9d50e32e576770c78e87bac9b98a5c207bacf7571771b06a5da7ea8a281b1ce7",
+      "width": 360,
+      "height": 360
+    },
+    "image": "https://arweave.net/cDgYKHJQH16mTfE68Sa9utjpweuwAYsp6zugTxE7VP0",
+    "image_url": "https://arweave.net/cDgYKHJQH16mTfE68Sa9utjpweuwAYsp6zugTxE7VP0"
+  }
+}

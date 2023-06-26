@@ -1,0 +1,51 @@
+{
+  "address": "0x0823c8d1789bcb472c16a60bb9ab317c2647d2b5",
+  "type": "ERC721",
+  "name": "The Shark Mob",
+  "tokenCount": "3000",
+  "uri": "https://api.thesharkmob.com/metadata/1.json",
+  "metadata": {
+    "description": "Atlanta is the capital city of Georgia and a major hub of commerce and culture with a population of just over 4.9 million.",
+    "external_url": "https://yoniishappy.com",
+    "image": "https://cities.yoniishappy.com/images/cities/1.jpg",
+    "name": "Atlanta",
+    "attributes": [
+      {
+        "trait_type": "Country",
+        "value": "USA"
+      },
+      {
+        "trait_type": "State",
+        "value": "Georgia"
+      },
+      {
+        "trait_type": "1180 Peachtree",
+        "value": "200m"
+      },
+      {
+        "trait_type": "One Atlantic Center",
+        "value": "250m"
+      },
+      {
+        "trait_type": "Promenade II",
+        "value": "215m"
+      },
+      {
+        "trait_type": "Georgia-Pacific Tower",
+        "value": "212m"
+      },
+      {
+        "trait_type": "Georgia State Capitol",
+        "value": "72m"
+      },
+      {
+        "trait_type": "Bank of America Plaza",
+        "value": "317m"
+      },
+      {
+        "trait_type": "SunTrust Plaza",
+        "value": "275m"
+      }
+    ]
+  }
+}

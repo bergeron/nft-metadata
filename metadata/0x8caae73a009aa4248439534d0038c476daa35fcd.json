@@ -1,0 +1,44 @@
+{
+  "address": "0x8caae73a009aa4248439534d0038c476daa35fcd",
+  "type": "ERC721",
+  "name": "EyePhunks",
+  "tokenCount": "2389",
+  "uri": "ipfs://QmQmgu6BNwdQVVWJ4Au99fv3qikQPf9o5ixSJxBZ8dC5US/1",
+  "metadata": {
+    "name": "EyePhunk #1",
+    "image": "ipfs://QmRbHfQKuvott8PLS9ziN3Pf6oj9PaWXiKoRNpiHrCF4mA/1.png",
+    "description": "Eye Don't Give a Phunk!",
+    "external_url": "https://eyephunks.wtf",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Back",
+        "value": "Daggers"
+      },
+      {
+        "trait_type": "Face",
+        "value": "11"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "X Eye"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Harpy Mouth"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Wtf Nose"
+      },
+      {
+        "trait_type": "Head",
+        "value": "333"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

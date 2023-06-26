@@ -1,0 +1,39 @@
+{
+  "address": "0xe76591ad590765e9ab9ede82bea274afcf5ce703",
+  "type": "ERC721",
+  "name": "KittyGotchi V2",
+  "tokenCount": "6",
+  "uri": "https://kittygotchi.dexkit.com/api/eth/1",
+  "metadata": {
+    "name": "Kitty #1",
+    "description": "Your cute Kitty, make it unique, feed him to earn attack, speed, and defense, he is here for you. Your Kitty gives you special powers on DexKit Dashboard",
+    "image": "ipfs://QmcEiojL8675Z7m3ZWQGjMreQNBjLha5pGEbZgPoJJwnS7",
+    "external_url": "https://app.dexkit.com",
+    "attributes": [
+      {
+        "trait_type": "Body",
+        "value": "Body"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Pointed"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Star"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Fan"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cute"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Piercing"
+      }
+    ]
+  }
+}

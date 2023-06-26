@@ -1,0 +1,38 @@
+{
+  "address": "0x52abf0d84cb262ecd02a84026f177dc19b4a9734",
+  "type": "ERC721",
+  "name": "Penguins",
+  "tokenCount": "223",
+  "uri": "ipfs://bafybeigra3i663d544pdceuz4b7akuitvab3o5ef46wggmlmmopknfmisi/1",
+  "metadata": {
+    "name": "Penguins 1",
+    "image": "ipfs://bafybeic2ntko7fuqfpxybarcpzhaqjstnwtyjry3om5oqojoavvsrk35ga/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Ice"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Poisoning"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Love"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "No, where my hands"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Iroquois"
+      },
+      {
+        "trait_type": "Legs",
+        "value": "Short legs"
+      }
+    ],
+    "description": "5'555 penguins. Randomly generated on-chain from over 90'000'000 possible combinations."
+  }
+}

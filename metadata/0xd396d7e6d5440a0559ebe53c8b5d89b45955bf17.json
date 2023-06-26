@@ -1,0 +1,63 @@
+{
+  "address": "0xd396d7e6d5440a0559ebe53c8b5d89b45955bf17",
+  "type": "ERC721",
+  "name": "Cluck Club",
+  "tokenCount": "20",
+  "uri": "ipfs://QmPiWFWFEEMrqWPAABtHxsn6Kqgib2kMLTMYETWPA6Z81f/1",
+  "metadata": {
+    "name": "Cluck 1",
+    "description": "Cluck Club is a Collection of 10,000 randomly generated CLUCKS based on 130 Different Traits stored on the Ethereum blockchain. Each Cluck will have 10 base stat categories, be placed in a district and have a gender classification.",
+    "image": "https://ipfs.io/ipfs/QmWmNvh3Kz2Xx3uyAjcK92jwTYDiZRUyiuJRL7NC93rwJe/1.png",
+    "attributes": [
+      {
+        "trait_type": "ATTACK",
+        "value": "ATK 10/100"
+      },
+      {
+        "trait_type": "BALANCE",
+        "value": "BAL 60/100"
+      },
+      {
+        "trait_type": "CHARM",
+        "value": "CHRM 10/100"
+      },
+      {
+        "trait_type": "DEFENCE",
+        "value": "DEF 10/100"
+      },
+      {
+        "trait_type": "HP",
+        "value": "HP 10/100"
+      },
+      {
+        "trait_type": "INTELLIGENCE",
+        "value": "INTL 30/100"
+      },
+      {
+        "trait_type": "SOCIAL",
+        "value": "SCL 40/100"
+      },
+      {
+        "trait_type": "SPEED",
+        "value": "SPD 20/100"
+      },
+      {
+        "trait_type": "STAMINA",
+        "value": "STM 20/100"
+      },
+      {
+        "trait_type": "STRENGTH",
+        "value": "STR 70/100"
+      },
+      {
+        "trait_type": "DISTRICT",
+        "value": "6"
+      },
+      {
+        "trait_type": "GENDER",
+        "value": "MALE"
+      }
+    ],
+    "external_url": "https://www.cluck-club.com/"
+  }
+}

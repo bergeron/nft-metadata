@@ -1,0 +1,41 @@
+{
+  "address": "0x65d2850b3218b2f9f054f8cd77b77574b9642b7a",
+  "type": "ERC721",
+  "name": "Whacky Walrus",
+  "tokenCount": "20",
+  "uri": "ipfs://QmSMxW91XVFy1ow9L2REmFsKsTqXYuzdBEnLdrVinA5bkw/1.json",
+  "metadata": {
+    "id": 1,
+    "name": "Walrus #2",
+    "description": "",
+    "image": "ipfs://QmXXFKnrDejJPeDEJBS6mojGUMxjhCD4T6evKdXDDU68k6/1.png",
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "navy blue"
+      },
+      {
+        "trait_type": "COLOR",
+        "value": "green"
+      },
+      {
+        "trait_type": "FACE",
+        "value": "forehead scar"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "normal male"
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "judge wig"
+      },
+      {
+        "trait_type": "TUSK",
+        "value": "white"
+      }
+    ],
+    "seller_fee_basis_points": 750,
+    "fee_recipient": "0x1595C64BB9D09A893388eA8b8C3eBb708BAFBA13"
+  }
+}

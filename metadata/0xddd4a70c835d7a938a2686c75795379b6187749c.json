@@ -1,0 +1,90 @@
+{
+  "address": "0xddd4a70c835d7a938a2686c75795379b6187749c",
+  "type": "ERC1155",
+  "name": "The Reboot Camp Collection",
+  "tokenCount": "35",
+  "uri": "ipfs://Qme9L6e7ULvtYya2UaiSfhZvCFDpbD4iZRF9AZVBVuzacK",
+  "metadata": {
+    "name": "Rebooting the Vajayjay",
+    "title": "Rebooting the Vajayjay",
+    "description": "After the Guru teaches and leads the followers through the journey of rebirth, he unveils the latest centerpiece; the actual model depiction of Nicole’s vagina. However, it’s not just a large vagina, it’s also a water slide! The followers are gathered around the main pool to witness the unveiling. The original purchaser of this deleted scene will receive an invitation for them and a guest to attend the red carpet screening of the film at the Cinelounge Theatre in Hollywood where they will be able to meet Nicole and walk the red carpet for the ultimate Instagrammable experience. The purchaser will also have the option to receieve the physical vagina collectible prop (signed slide) that was used in the movie.",
+    "type": "object",
+    "image": "ipfs://QmRYKUdbhmsoctvTsSmJF2hNSZR2UjvS93NBD8oJwTtzkN",
+    "animation_url": "ipfs://QmR6YEkcFr6UgP7HMkCSbAyS2FpJSP3DE2uAKQL3AjPqTc",
+    "background_color": "000000",
+    "external_url": "https://v1.mglnft.com/0xdDD4A70c835D7a938a2686c75795379b6187749c/1",
+    "properties": {
+      "contract_address": {
+        "type": "string",
+        "description": "0xdDD4A70c835D7a938a2686c75795379b6187749c"
+      },
+      "title": {
+        "type": "string",
+        "description": "Rebooting the Vajayjay"
+      },
+      "description": {
+        "type": "string",
+        "description": "After the Guru teaches and leads the followers through the journey of rebirth, he unveils the latest centerpiece; the actual model depiction of Nicole’s vagina. However, it’s not just a large vagina, it’s also a water slide! The followers are gathered around the main pool to witness the unveiling. The original purchaser of this deleted scene will receive an invitation for them and a guest to attend the red carpet screening of the film at the Cinelounge Theatre in Hollywood where they will be able to meet Nicole and walk the red carpet for the ultimate Instagrammable experience. The purchaser will also have the option to receieve the physical vagina collectible prop (signed slide) that was used in the movie."
+      },
+      "issuer": {
+        "type": "string",
+        "description": "Reboot Camp"
+      },
+      "external_url": {
+        "type": "string",
+        "description": "https://v1.mglnft.com/0xdDD4A70c835D7a938a2686c75795379b6187749c/1"
+      },
+      "image_url": {
+        "type": "string",
+        "description": "ipfs://QmRYKUdbhmsoctvTsSmJF2hNSZR2UjvS93NBD8oJwTtzkN"
+      },
+      "image_original_url": {
+        "type": "string",
+        "description": "ipfs://QmRYKUdbhmsoctvTsSmJF2hNSZR2UjvS93NBD8oJwTtzkN"
+      },
+      "animation_url": {
+        "type": "string",
+        "description": "ipfs://QmR6YEkcFr6UgP7HMkCSbAyS2FpJSP3DE2uAKQL3AjPqTc"
+      },
+      "animation_original_url": {
+        "type": "string",
+        "description": "ipfs://QmR6YEkcFr6UgP7HMkCSbAyS2FpJSP3DE2uAKQL3AjPqTc"
+      },
+      "media_orientation": {
+        "type": "string",
+        "description": "landscape"
+      },
+      "background_color": {
+        "type": "string",
+        "description": "000000"
+      },
+      "collection_label": {
+        "type": "string",
+        "description": "The Reboot Camp Collection"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 1
+      },
+      "issue_date": {
+        "type": "date",
+        "description": 1631707200
+      }
+    },
+    "attributes": [
+      {
+        "trait_type": "Issuer",
+        "value": "Reboot Camp"
+      },
+      {
+        "trait_type": "Talent",
+        "value": "Nicole Aniston"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Issue Date",
+        "value": 1631707200
+      }
+    ]
+  }
+}

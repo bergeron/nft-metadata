@@ -1,0 +1,8 @@
+{
+  "address": "0x038d924647c4fbade97a66901739997d1277683e",
+  "type": "ERC721",
+  "name": "Sybil V3",
+  "tokenCount": "5339",
+  "uri": "ipfs://QmNLzpq4kyRModRFahpuhc1aggdibcgb5Z1F7KEg6RMrMT",
+  "metadata": "/**\n* @type import('hardhat/config').HardhatUserConfig\n*/\nrequire('dotenv').config();\nrequire(\"@nomiclabs/hardhat-ethers\");\nconst { API_URL, PRIVATE_KEY } = process.env;\nmodule.exports = {\n   solidity: \"0.8.4\",\n   networks: {\n      hardhat: {},\n      ropsten: {\n         url: API_URL,\n         accounts: [`0x${PRIVATE_KEY}`]\n      }\n   },\n}\n"
+}

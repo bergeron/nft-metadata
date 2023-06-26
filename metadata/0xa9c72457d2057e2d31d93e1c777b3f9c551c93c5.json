@@ -1,0 +1,21 @@
+{
+  "address": "0xa9c72457d2057e2d31d93e1c777b3f9c551c93c5",
+  "type": "ERC1155",
+  "name": "Unidentified contract - coBd9D0tiZ",
+  "tokenCount": "1",
+  "uri": "https://debi-media-bucket-staging.s3.us-east-2.amazonaws.com/tokens/biowallet/metadata/token_metadata1.json",
+  "metadata": {
+    "description": "Biowallet token for decentralized biobank study/application.",
+    "external_url": "https://de-bi.com",
+    "image": "https://debi-media-bucket-staging.s3.us-east-2.amazonaws.com/tokens/biowallet/images/biowalletToken1.svg",
+    "name": "De-Bi Biowallet Token",
+    "attributes": [
+      {
+        "user_type": "patient"
+      },
+      {
+        "transferability": "Non-Transferrable Soul-Bound Token"
+      }
+    ]
+  }
+}

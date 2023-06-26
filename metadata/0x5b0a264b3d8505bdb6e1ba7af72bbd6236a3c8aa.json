@@ -1,0 +1,18 @@
+{
+  "address": "0x5b0a264b3d8505bdb6e1ba7af72bbd6236a3c8aa",
+  "type": "ERC721",
+  "name": "myEtherPet",
+  "tokenCount": "9",
+  "uri": "https://etherpets.xyz/myNft.json",
+  "metadata": {
+    "name": "Ether Fish",
+    "description": "My first Ether Pet!!!",
+    "image": "https://etherpets.xyz/nftpic/etherfish.png",
+    "attributes": [
+      {
+        "trait_type": "cuteness",
+        "value": 100
+      }
+    ]
+  }
+}

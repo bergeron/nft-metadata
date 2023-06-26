@@ -1,0 +1,31 @@
+{
+  "address": "0xba1d2d6c5c82a4f0050b8d5dda501dbec234de8c",
+  "type": "ERC721",
+  "name": "SpaceWarriors Spaceships",
+  "tokenCount": "1100",
+  "uri": "ipfs://bafybeifbmgevufmagdl5ybe7qemhfi77yap2t7b3eavxjjp2j2th7o7iqm/1.json",
+  "metadata": {
+    "name": "SWC Spaceships #1",
+    "description": "Embark on the ship of your faction. You are the proud owner of one of the 3700 ships of the SpaceWarriors Club fleet. Welcome aboard !",
+    "image": "ipfs://bafybeickxwgfeyj3e7rpyhlmc3kd6yk47segfeg6pwt7pmkk6frhy3ffiu/1.png",
+    "attributes": [
+      {
+        "trait_type": "Race",
+        "value": "SpaceshipE"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "ATYPIC"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Accessory S2"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Body S0"
+      }
+    ],
+    "compiler": "Unreal Engine 5"
+  }
+}

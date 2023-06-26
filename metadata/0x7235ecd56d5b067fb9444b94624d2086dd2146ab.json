@@ -1,0 +1,144 @@
+{
+  "address": "0x7235ecd56d5b067fb9444b94624d2086dd2146ab",
+  "type": "ERC721",
+  "name": "Dark Puppet",
+  "tokenCount": "444",
+  "uri": "ipfs://bafybeiberatdx5o25sd5sjn6irkss2xmol3b4ymmchxrale44fssxrb2ya/1",
+  "metadata": {
+    "0": {
+      "version": "1.0",
+      "image": {
+        "name": "/home/videosdownloader/public_html/image/public/uploadt/1.jpg",
+        "baseName": "1.jpg",
+        "format": "JPEG",
+        "formatDescription": "JPEG",
+        "mimeType": "image/jpeg",
+        "class": "DirectClass",
+        "geometry": {
+          "width": 600,
+          "height": 600,
+          "x": 0,
+          "y": 0
+        },
+        "resolution": {
+          "x": 72,
+          "y": 72
+        },
+        "printSize": {
+          "x": 8.33333,
+          "y": 8.33333
+        },
+        "units": "PixelsPerInch",
+        "type": "TrueColor",
+        "baseType": "Undefined",
+        "endianness": "Undefined",
+        "colorspace": "sRGB",
+        "depth": 8,
+        "baseDepth": 8,
+        "channelDepth": {
+          "red": 8,
+          "green": 8,
+          "blue": 1
+        },
+        "pixels": 1080000,
+        "imageStatistics": {
+          "Overall": {
+            "min": 0,
+            "max": 255,
+            "mean": 147.969,
+            "median": 182.667,
+            "standardDeviation": 23057.5,
+            "kurtosis": -1.3063,
+            "skewness": -0.436962,
+            "entropy": 0.61314
+          }
+        },
+        "channelStatistics": {
+          "red": {
+            "min": 0,
+            "max": 255,
+            "mean": 120.18,
+            "median": 110,
+            "standardDeviation": 19510.4,
+            "kurtosis": -0.856665,
+            "skewness": -0.214293,
+            "entropy": 0.631455
+          },
+          "green": {
+            "min": 0,
+            "max": 255,
+            "mean": 149.286,
+            "median": 193,
+            "standardDeviation": 23177.6,
+            "kurtosis": -1.2015,
+            "skewness": -0.679257,
+            "entropy": 0.61777
+          },
+          "blue": {
+            "min": 0,
+            "max": 255,
+            "mean": 174.442,
+            "median": 245,
+            "standardDeviation": 26484.5,
+            "kurtosis": -1.21181,
+            "skewness": -0.783324,
+            "entropy": 0.590195
+          }
+        },
+        "renderingIntent": "Perceptual",
+        "gamma": 0.454545,
+        "chromaticity": {
+          "redPrimary": {
+            "x": 0.64,
+            "y": 0.33
+          },
+          "greenPrimary": {
+            "x": 0.3,
+            "y": 0.6
+          },
+          "bluePrimary": {
+            "x": 0.15,
+            "y": 0.06
+          },
+          "whitePrimary": {
+            "x": 0.3127,
+            "y": 0.329
+          }
+        },
+        "matteColor": "#BDBDBD",
+        "backgroundColor": "#FFFFFF",
+        "borderColor": "#DFDFDF",
+        "transparentColor": "#00000000",
+        "interlace": "JPEG",
+        "intensity": "Undefined",
+        "compose": "Over",
+        "pageGeometry": {
+          "width": 600,
+          "height": 600,
+          "x": 0,
+          "y": 0
+        },
+        "dispose": "Undefined",
+        "iterations": 0,
+        "compression": "JPEG",
+        "quality": 61,
+        "orientation": "Undefined",
+        "properties": {
+          "date:create": "2022-09-09T00:16:55+00:00",
+          "date:modify": "2022-09-09T00:16:55+00:00",
+          "jpeg:colorspace": "2",
+          "jpeg:sampling-factor": "2x2,1x1,1x1",
+          "signature": "87551797352c319b6bd4e1c8077c24b2cad7541e3ee032a7b9c20b9a11f6598a"
+        },
+        "tainted": false,
+        "filesize": "65053B",
+        "numberPixels": "360000",
+        "pixelsPerSecond": "13.8923MB",
+        "userTime": "0.020u",
+        "elapsedTime": "0:01.025",
+        "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+      }
+    },
+    "image": "ipfs://bafybeidg5usknbhamozkconpj7etuylzru5k7iiurtuudbg5aqbbnopgdi/1.png"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0x25336c0aa44c1bf04b8dcd2788d2a400b4e670bc",
+  "type": "ERC721",
+  "name": "Tom Tom Cats",
+  "tokenCount": "329",
+  "uri": "ipfs://QmWvoYeFwa1T8touP84fxiNfc9m8SoPgB5XB6t6WBwBXHA/1.json",
+  "metadata": {
+    "dna": "489cf184ae1177033ced6d35ed49c94cc94a960f",
+    "name": "#1",
+    "description": "The best collection of 2000 unique tomcats",
+    "image": "ipfs://QmYXd1vkm5fuEhayCyDF1Xdsn1rVZDnydavtYocjKaC1zt/1.png",
+    "edition": 1,
+    "date": 1641573655807,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "background1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "vest"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mouth 5"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "red eyes binocular"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "ears4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

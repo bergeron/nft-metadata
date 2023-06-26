@@ -1,0 +1,31 @@
+{
+  "address": "0x18070715c2c3bd2d32e9bd5e2088a2671331424a",
+  "type": "ERC721",
+  "name": "PopAnimals",
+  "tokenCount": "1024",
+  "uri": "https://api.popanimals.art/1",
+  "metadata": {
+    "name": "PopAnimal #1",
+    "description": "",
+    "image": "https://api.popanimals.art/1.png",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Escher Electrons"
+      },
+      {
+        "trait_type": "Art",
+        "value": "Wacky"
+      },
+      {
+        "trait_type": "Color Scheme",
+        "value": "9"
+      },
+      {
+        "trait_type": "Сanvas",
+        "value": "Sisal canvas"
+      }
+    ],
+    "compiler": "https://startnft.app"
+  }
+}

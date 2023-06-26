@@ -1,0 +1,52 @@
+{
+  "address": "0x44e491adb468dfa6ab4545a030665e81ee85a77c",
+  "type": "ERC1155",
+  "name": "Rope Makers United V2",
+  "tokenCount": "5",
+  "uri": "https://rope.lol/api/RMU/1",
+  "metadata": {
+    "pool": {
+      "name": "root",
+      "points": 1
+    },
+    "external_url": "https://rope.lol/cards/api/1",
+    "image": "https://rope.lol/images/cards/Varess_Generation_One/1.jpg",
+    "name": "root_artifact",
+    "description": "Ancient Rope was first made from the fibers of water reeds, thus strong roots was a necessity. This artifact is a play to our humble beginnings as Rope Makers.",
+    "attributes": [
+      {
+        "trait_type": "Set",
+        "value": "Powered by Anons"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Rope Makers United"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Varess"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "@dontbuyrope"
+      },
+      {
+        "trait_type": "Exhibition",
+        "value": "Don't Buy Rope"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 1600782718
+      },
+      {
+        "trait_type": "Max Supply",
+        "value": "10000"
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "address": "0xcfe385287200f0c10a54100e9b22855a73664156",
+  "type": "ERC1155",
+  "name": "PWN LOANs",
+  "tokenCount": "47",
+  "uri": "https://api.pwn.xyz/loan/1/0xcFe385287200F0c10a54100e9b22855A73664156/1/metadata",
+  "metadata": {
+    "name": "PWN Loan #1677",
+    "description": "Loan token is a tokenized loan which is wrapping a collateral token enabling its release only if the loan is either paid back or if it expires.",
+    "image": "https://api.pwn.xyz/loan/1/0xcFe385287200F0c10a54100e9b22855A73664156/0000000000000000000000000000000000000000000000000000000000000001/thumbnail",
+    "external_url": "https://app.pwn.xyz/#/loan/1677",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "Dead"
+      },
+      {
+        "trait_type": "Collateral Address",
+        "value": "0x9C8fF314C9Bc7F6e59A9d9225Fb22946427eDC03"
+      },
+      {
+        "trait_type": "Collateral Category",
+        "value": "ERC721"
+      },
+      {
+        "trait_type": "Collateral Amount",
+        "value": "1 Noun 315"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "30 Days"
+      },
+      {
+        "trait_type": "Loan Asset Seeked",
+        "value": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+      },
+      {
+        "trait_type": "Desired Asset Amount",
+        "value": "60000"
+      },
+      {
+        "trait_type": "Borrower",
+        "value": "0xf6B6F07862A02C85628B3A9688beae07fEA9C863"
+      },
+      {
+        "trait_type": "Lender",
+        "value": "0xc5B2359Fe6b4A7118B67B116069Ca2E7cF3cCc27"
+      },
+      {
+        "trait_type": "Expiration",
+        "value": 0,
+        "display_type": "date"
+      },
+      {
+        "trait_type": "Provided Loan Asset Address",
+        "value": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+      },
+      {
+        "trait_type": "Provided Loan Amount",
+        "value": "60000 DAI"
+      },
+      {
+        "trait_type": "To Be Paid Back",
+        "value": "60739.72602739726 DAI"
+      },
+      {
+        "trait_type": "Apy",
+        "value": "15.00%"
+      },
+      {
+        "trait_type": "Yield",
+        "value": "739.72602739726 DAI"
+      }
+    ],
+    "parameters": {
+      "status": {
+        "name": "Status",
+        "value": "DEAD",
+        "display_value": "Dead"
+      },
+      "collateral_address": {
+        "name": "Collateral Address",
+        "value": "0x9C8fF314C9Bc7F6e59A9d9225Fb22946427eDC03",
+        "display_value": "0x9C8fF314C9Bc7F6e59A9d9225Fb22946427eDC03"
+      },
+      "collateral_category": {
+        "name": "Collateral Category",
+        "value": "ERC721",
+        "display_value": "ERC721"
+      },
+      "collateral_amount": {
+        "name": "Collateral Amount",
+        "value": "1",
+        "display_value": "1 Noun 315"
+      },
+      "duration": {
+        "name": "Duration",
+        "value": 30,
+        "display_value": "30 Days"
+      },
+      "loan_asset_seeked": {
+        "name": "Loan Asset Seeked",
+        "value": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "display_value": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+      },
+      "desired_asset_amount": {
+        "name": "Desired Asset Amount",
+        "value": 6e+22,
+        "display_value": "60000"
+      },
+      "borrower": {
+        "name": "Borrower",
+        "value": "0xf6B6F07862A02C85628B3A9688beae07fEA9C863",
+        "display_value": "0xf6B6F07862A02C85628B3A9688beae07fEA9C863"
+      },
+      "lender": {
+        "name": "Lender",
+        "value": "0xc5B2359Fe6b4A7118B67B116069Ca2E7cF3cCc27",
+        "display_value": "0xc5B2359Fe6b4A7118B67B116069Ca2E7cF3cCc27"
+      },
+      "expiration": {
+        "name": "Expiration",
+        "value": 0,
+        "display_value": "1970-01-01T00:00:00+00:00"
+      },
+      "provided_loan_asset_address": {
+        "name": "Provided Loan Asset Address",
+        "value": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "display_value": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+      },
+      "provided_loan_amount": {
+        "name": "Provided Loan Amount",
+        "value": "60000",
+        "display_value": "60000 DAI"
+      },
+      "to_be_paid_back": {
+        "name": "To Be Paid Back",
+        "value": "60739.72602739726",
+        "display_value": "60739.72602739726 DAI"
+      },
+      "apy": {
+        "name": "Apy",
+        "value": "15.00%",
+        "display_value": "15.00%"
+      },
+      "yield": {
+        "name": "Yield",
+        "value": "739.72602739726 DAI",
+        "display_value": "739.72602739726 DAI"
+      }
+    },
+    "version": "v_beta/Loan"
+  }
+}

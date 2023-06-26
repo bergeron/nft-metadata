@@ -1,0 +1,42 @@
+{
+  "address": "0x551eb9394c064b6878e66211dd3b720f2bd87c96",
+  "type": "ERC721",
+  "name": "The Blinkless: Holidaze",
+  "tokenCount": "500",
+  "uri": "https://theblinkless.s3.amazonaws.com/holidazejson/1.json",
+  "metadata": {
+    "name": "The Blinkless: Holidaze #1",
+    "description": "Celebrate the holiday season with The Blinkless.",
+    "image": "https://theblinkless.s3.amazonaws.com/holidazeimages/1.png",
+    "dna": "666720b257f71c654a430f4c5d28ea5c0c5ebae5",
+    "edition": 1,
+    "date": 1668727016063,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rooftop"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf"
+      },
+      {
+        "trait_type": "Sweater",
+        "value": "HappyHolidaze"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Snarl"
+      }
+    ],
+    "image_url": "https://theblinkless.s3.amazonaws.com/holidazeimages/1.png"
+  }
+}

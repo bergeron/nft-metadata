@@ -1,0 +1,32 @@
+{
+  "address": "0xc52ee91ebf9c48e57f6d1ebccc2f6c74d03dfe96",
+  "type": "ERC721",
+  "name": "testPunkz",
+  "tokenCount": "3",
+  "uri": "https://infiNFT.azurewebsites.net/api/HttpTrigger?artContract=0xc52ee91ebf9c48e57f6d1ebccc2f6c74d03dfe96&id=1",
+  "metadata": {
+    "image": "https://gateway.pinata.cloud/ipfs/QmSg8JfsNPn1rDQfgT8Z8vXiPd9jTrjKup8zzJwF2xj55Q",
+    "description": "Ok didn't really make this",
+    "animation_url": "",
+    "external_url": "https://www.infinft.com/view.html?artistcontract=0xc52ee91ebf9c48e57f6d1ebccc2f6c74d03dfe96&token=1",
+    "name": "noIDid",
+    "attributes": [
+      {
+        "trait_type": "artist name",
+        "value": "iMadeThis"
+      },
+      {
+        "trait_type": "edition number",
+        "value": "1 of 3"
+      },
+      {
+        "trait_type": "exhibition",
+        "value": "The Bog"
+      },
+      {
+        "trait_type": "file type",
+        "value": "jpeg"
+      }
+    ]
+  }
+}

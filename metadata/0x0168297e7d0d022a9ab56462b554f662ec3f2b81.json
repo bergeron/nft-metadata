@@ -1,0 +1,46 @@
+{
+  "address": "0x0168297e7d0d022a9ab56462b554f662ec3f2b81",
+  "type": "ERC721",
+  "name": "UGOTCHI",
+  "tokenCount": "3318",
+  "uri": "ipfs://bafybeidlfdaw2wt77ncu4g2pqxxbjnnhhlysuu24mg2bud2noxn6pc3s44/1.json",
+  "metadata": {
+    "name": "UGOTCHI #1",
+    "description": "Your personal Tamagotchi inspired by UINTS and different species.",
+    "image": "ipfs://bafybeiakf5dzmzt5r3ladu7cxjrwz5pirv2y62alpa73f4lblt2d5zbemu/1.png",
+    "dna": "343a02551841794a6395f70fea91cb406c213a4b",
+    "edition": 1,
+    "date": 1679322090671,
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Day",
+        "value": "1"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Pig"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Look Right"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Dog"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Shocked"
+      },
+      {
+        "trait_type": "Extra",
+        "value": "None"
+      }
+    ],
+    "compiler": "UINC"
+  }
+}

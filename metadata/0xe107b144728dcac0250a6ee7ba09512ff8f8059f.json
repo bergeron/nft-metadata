@@ -1,0 +1,20 @@
+{
+  "address": "0xe107b144728dcac0250a6ee7ba09512ff8f8059f",
+  "type": "ERC721",
+  "name": "ElseVerseFoundersPass",
+  "tokenCount": "500",
+  "uri": "https://api.elseverse.io/nft/founders-pass/1",
+  "metadata": {
+    "name": "Founder Pass #1",
+    "image": "https://elseverse.io/assets/images/founder-pass.png",
+    "animation_url": "https://elseverse.io/assets/images/founder-pass.mp4",
+    "description": "Your main key access to the ElseVerse ecosystem. Giving you access to dedicated airdrops, VIP events, discounts and access to the ElseVerse Council.",
+    "external_url": "https://elseverse.io/",
+    "attributes": [
+      {
+        "trait_type": "id",
+        "value": 1
+      }
+    ]
+  }
+}

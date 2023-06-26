@@ -1,0 +1,47 @@
+{
+  "address": "0xe62f2896804bf358c5dfc57065f2e314647f85e5",
+  "type": "ERC721",
+  "name": "Testing Project",
+  "tokenCount": "1",
+  "uri": "ipfs://QmYFGePbEWitDHMGw1E5TFtRhmysmTRjQvva4YwfY6GMzc/1",
+  "metadata": {
+    "name": "Your Collection #1",
+    "description": "The Luckiest Cats of 2022",
+    "image": "https://ipfs.io/ipfs/QmWVQTbMDWsRdPMfZ3MGdB8DWpwsd75fyBJN6nK6b7pTeK",
+    "dna": "ecd640d97620e4f94f4c0c577bcfe9bf649c98fe",
+    "edition": 1,
+    "date": 1638455448643,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Fire Emblem"
+      },
+      {
+        "trait_type": "Footer",
+        "value": "None"
+      },
+      {
+        "trait_type": "Fur Colour",
+        "value": "Calico"
+      },
+      {
+        "trait_type": "Facial Expression",
+        "value": "Dracule"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Firecracker"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "China Hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine",
+    "background_color": "",
+    "youtube_url": "",
+    "external_url": "",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0x5A98c73Bd9B4CD776f3eB262E2576AA88ffd0E41"
+  }
+}

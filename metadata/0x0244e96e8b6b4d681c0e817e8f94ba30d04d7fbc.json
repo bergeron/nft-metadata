@@ -1,0 +1,32 @@
+{
+  "address": "0x0244e96e8b6b4d681c0e817e8f94ba30d04d7fbc",
+  "type": "ERC721",
+  "name": "The MetaRares",
+  "tokenCount": "285",
+  "uri": "http://www.creativelevels.de/metarare/metadata/1.json",
+  "metadata": {
+    "image": "http://www.creativelevels.de/metarare/images/1.jpeg",
+    "description": "For a detailed description, please have a look the [webpage](http://www.creativelevels.de/metarare/description/overview.html#1 \"MetaRare\").",
+    "name": "dot",
+    "attributes": [
+      {
+        "trait_type": "Difficulty",
+        "value": 3
+      },
+      {
+        "trait_type": "Height",
+        "value": 2
+      },
+      {
+        "trait_type": "Type",
+        "value": "Hexspeak"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Red Stage"
+      }
+    ],
+    "background_color": "D07000",
+    "external_url": "http://www.creativelevels.de/metarare/description/overview.html#1"
+  }
+}

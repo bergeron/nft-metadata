@@ -1,0 +1,36 @@
+{
+  "address": "0xe3772ad291c33b2e1cf203867f098993d5ea7b7c",
+  "type": "ERC721",
+  "name": "OrdWiz",
+  "tokenCount": "4",
+  "uri": "ipfs://QmSrZQebmcfmZFUCZK5YkL8gspKa6DWsP6XYHYQLsHY21d/1.json",
+  "metadata": {
+    "name": "Ordinal Wizardz #1",
+    "description": "969 wizards living on BTC. Ready to learn some magic?",
+    "image": "ipfs://QmZNcPCYAnRDg45fujZN6dStbMCxrhusWybBrC5JFPHvV7/1.png",
+    "edition": "1",
+    "date": 123846433,
+    "attributes": [
+      {
+        "trait_type": "Wizararity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Mastery",
+        "value": "Journeyman"
+      },
+      {
+        "trait_type": "Tower",
+        "value": "Spellbinding Hall"
+      },
+      {
+        "trait_type": "Skill",
+        "value": "None"
+      },
+      {
+        "trait_type": "Cast",
+        "value": "None"
+      }
+    ]
+  }
+}

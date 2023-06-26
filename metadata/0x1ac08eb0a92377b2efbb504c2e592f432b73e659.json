@@ -1,0 +1,127 @@
+{
+  "address": "0x1ac08eb0a92377b2efbb504c2e592f432b73e659",
+  "type": "ERC721",
+  "name": "GOATATONIC",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/j9AqyomRj8PEyXzUIYDEXCzFYUuI0wzERTpD7X8C3FA",
+  "metadata": {
+    "name": "Young Goat 001",
+    "created_by": "goatatonic",
+    "description": "The goat has grown up to the young age. He's kind of in to the Hip Hop music. There are so many things for him to learn and explore in life. Let's see what's gonna happen from now on.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "goatatonic"
+      },
+      {
+        "trait_type": "Genre",
+        "value": "Hip Hop"
+      },
+      {
+        "trait_type": "Tempo",
+        "value": "150 bpm"
+      },
+      {
+        "trait_type": "Key",
+        "value": "Fm"
+      },
+      {
+        "trait_type": "BG",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Calm"
+      },
+      {
+        "trait_type": "Posture",
+        "value": "Standing"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Headphone"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Hoodie"
+      },
+      {
+        "trait_type": "Cloth Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Actor",
+        "value": "Goat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Ambitious"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": "5",
+        "max_value": "10"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Stamina",
+        "value": "1.4",
+        "max_value": "10"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Stamina Increase",
+        "value": "10",
+        "max_value": "100"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": "2",
+        "max_value": "3"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Aqua Power",
+        "value": "40",
+        "max_value": "100"
+      }
+    ],
+    "animation_details": {
+      "bytes": 117069152,
+      "format": "MP4",
+      "duration": 90,
+      "sha256": "fb11a9d09e9de454652ed6bec2d61e5e861aed945027507b75b061077b947502",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/F5mDIN1opNC1EqsNdJYl5jYZQ4Q5o7crbhM4LRjTDzI",
+    "animation_url": "https://arweave.net/F5mDIN1opNC1EqsNdJYl5jYZQ4Q5o7crbhM4LRjTDzI",
+    "image_details": {
+      "bytes": 26007550,
+      "format": "GIF",
+      "sha256": "eef0bfaf2207ce734410f4f61604843301fd94ebd75b20e357880019bb2a1424",
+      "width": 960,
+      "height": 960
+    },
+    "image": "https://arweave.net/pYwdST7LWGUGOeYyHswmPpY2I8DsuX5BKC-68gM4iWQ",
+    "image_url": "https://arweave.net/pYwdST7LWGUGOeYyHswmPpY2I8DsuX5BKC-68gM4iWQ"
+  }
+}

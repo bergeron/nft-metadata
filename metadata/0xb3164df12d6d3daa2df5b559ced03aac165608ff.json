@@ -1,0 +1,27 @@
+{
+  "address": "0xb3164df12d6d3daa2df5b559ced03aac165608ff",
+  "type": "ERC721",
+  "name": "Pets with Hats Genesis Collection",
+  "tokenCount": "200",
+  "uri": "https://nftstorage.link/ipfs/bafybeierwuzk4fjrgrvtim7rbbat45ich4oo67gqqdyutkdso7fvfpct74/1",
+  "metadata": {
+    "name": "Pets with Hats #1",
+    "description": "A happy, furry and cute colorful pet with big eyes looking straight at you. It wants to be adopted.",
+    "image": "https://nftstorage.link/ipfs/bafybeiarybqnov4nkrc5rgsg6qg7xofeyx52qqocvw7i3extaeng4cpcwa/1.png",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Magpie"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Safety helmet"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Light turquoise "
+      }
+    ],
+    "compiler": "mintfoundry.xyz"
+  }
+}

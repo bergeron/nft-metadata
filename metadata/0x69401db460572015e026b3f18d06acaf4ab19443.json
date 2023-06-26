@@ -1,0 +1,42 @@
+{
+  "address": "0x69401db460572015e026b3f18d06acaf4ab19443",
+  "type": "ERC721",
+  "name": "Cool Vincents",
+  "tokenCount": "209",
+  "uri": "https://coolvincent.nyc3.digitaloceanspaces.com/json/1.json",
+  "metadata": {
+    "name": "Cool Vincent #1",
+    "description": "299 Vincents supa cool!",
+    "image": "https://coolvincent.nyc3.digitaloceanspaces.com/img/1.png",
+    "dna": "dbe997e67afcc68b6e1cb43fafc1448ff4eef6a1",
+    "edition": 1,
+    "date": 1664290154333,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "white"
+      },
+      {
+        "trait_type": "Head",
+        "value": "angry"
+      },
+      {
+        "trait_type": "Piercing",
+        "value": "nose ring"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "cigarette"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "grey"
+      },
+      {
+        "trait_type": "Eyeglass",
+        "value": "none"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

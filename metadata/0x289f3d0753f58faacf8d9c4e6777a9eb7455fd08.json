@@ -1,0 +1,54 @@
+{
+  "address": "0x289f3d0753f58faacf8d9c4e6777a9eb7455fd08",
+  "type": "ERC721",
+  "name": "Eric Dickerson Hall of Fame NFT Collection",
+  "tokenCount": "52",
+  "uri": "https://nft.zelus.io/Eric-Dickerson-HoF/1",
+  "metadata": {
+    "name": "Eric Dickerson Legendary #1",
+    "description": "This is a bespoke visual variant of the original painting created by sports artist, Vernon Wells. The actual painting will reside on the SMU campus never to be sold. This digital collectible is 1 of 50 and has a unique combination of traits making it distinct from all others in the collection.\n\nThe owner is also entitled to the following physical goods and experiences:\n\n* Digital NFT frame with your NFT design pre-loaded\n\n* Memorabilia signed by Eric Dickerson (sport goggles, new college football, OR a SMU game used ball from the 2021 season)\n\n* Credit for a Cameo personalized message from Eric Dickerson\n\n* “Cocktails with Coach” ticket and guest pass to a private event with the SMU Head Coach (Timing and dates TBD)\n\n* “19 with #19” Cocktail Hour Field Pass: two times over the next 5 years, you and a guest will a private event at the stadium with Eric Dickerson and go down to the field to watch the game. (Timing and dates TBD)\n\n* Private access to upcoming content series with Eric Dickerson entitled “Stories Untold,” Eric’s take on stories from back in his playing days at SMU.\n\nNote: \n\n\n* Physical goods will only be redeemable by the initial owner of the NFT. Arrangements to ship physical items will be made after the conclusion of SMU football’s 2021 season in order to consolidate and ship all goods together.\n\n* This NFT has credit for two (2) experiences with Eric Dickerson from 2021-2026 and are redeemable by the token holder at the time of booking.\n\nFor scheduling, redemption information and other inquires please contact help@zelus.io.",
+    "properties": {
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://zelus-nft-assets-public.s3.amazonaws.com/Eric-Dickerson-HoF/1/thumbnail.gif"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "gif"
+      },
+      "preview_media_file2": {
+        "type": "string",
+        "description": "https://zelus-nft-assets-public.s3.amazonaws.com/Eric-Dickerson-HoF/1/Legendary%20Eric%20Dickerson%201-1.mp4"
+      },
+      "preview_media_file2_type": {
+        "type": "string",
+        "description": "mp4"
+      }
+    },
+    "image": "https://zelus-nft-assets-public.s3.amazonaws.com/Eric-Dickerson-HoF/1/thumbnail.gif",
+    "external_url": "https://zelus.io",
+    "animation_url": "https://zelus-nft-assets-public.s3.amazonaws.com/Eric-Dickerson-HoF/1/Legendary%20Eric%20Dickerson%201-1.mp4",
+    "attributes": [
+      {
+        "trait_type": "Jersey",
+        "value": "White"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Traditional"
+      },
+      {
+        "trait_type": "Defender",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Towel",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Memorabilia",
+        "value": "Used game ball"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "0xe9582998a8683074c483828ee30aa01701da12d6",
+  "type": "ERC721",
+  "name": "CHAI Tutorial",
+  "tokenCount": "46",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xe9582998a8683074c483828ee30aa01701da12d6/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xe9582998A8683074c483828eE30AA01701Da12d6/icon?id=1",
+    "expiration": 1584072529,
+    "tokenId": "1",
+    "owner": "0xb1bf41ed58dd36134f08a1bef12ca448bd9a85ff",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1584072529
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xe9582998A8683074c483828eE30AA01701Da12d6",
+    "network": 1
+  }
+}

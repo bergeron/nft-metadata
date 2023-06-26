@@ -1,0 +1,36 @@
+{
+  "address": "0x113771afa3da2e5e59c9c09bba92660e4c77008d",
+  "type": "ERC721",
+  "name": "EldenKnightsNFT",
+  "tokenCount": "30",
+  "uri": "ipfs://Qmacg7jMrKzQnmeuiVAPjfYvpYxJHJbbR6hwPoaB2x7P3w/1.json",
+  "metadata": {
+    "name": "EldenKnightsNFT #1",
+    "description": "EldenKnights NFT is the key to unlock the P2E game, and a life-long membership of its community!",
+    "image": "ipfs://QmVPcd8FZY22NZyzqh47z49eQ5E6XB4XDv9kN8v9aoG4v7/1.png",
+    "dna": "dbae6aa42ff5cb6cf8763e51de1895c4953cbebe",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Smoke"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "GoldrickAxe"
+      },
+      {
+        "trait_type": "Base",
+        "value": "BaseBody"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FiaArmor"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "LionelHelmet"
+      }
+    ]
+  }
+}

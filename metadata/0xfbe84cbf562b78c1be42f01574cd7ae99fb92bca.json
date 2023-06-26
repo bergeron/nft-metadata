@@ -1,0 +1,64 @@
+{
+  "address": "0xfbe84cbf562b78c1be42f01574cd7ae99fb92bca",
+  "type": "ERC721",
+  "name": "Ein Geheimer Ort",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/X9SBaDZDb7taa9t0gIb4c8d1nELn-aFASSblYbDEu-o",
+  "metadata": {
+    "name": "The Blue Marble",
+    "created_by": "yunewild",
+    "description": "One day Karenin asked: \"Where do we come from?\" Lou-Lou replied: \"From the Earth.\" Karenin kept asking: \"And where did the Earth come from?\" After a reflective silence, Lou-Lou answered: \"I don't know. Maybe we should pay a visit to the star-maker.\"\n\nDigitally drawn in Adobe Fresco and Procreate, 3000px x 3000px MP-4",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Space"
+      },
+      {
+        "trait_type": "Constellation",
+        "value": "Felis"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Lou-Lou"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Karenin"
+      },
+      {
+        "trait_type": "Messenger Particles",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "Earth"
+      },
+      {
+        "trait_type": "Planetoid",
+        "value": "B-616"
+      }
+    ],
+    "animation_details": {
+      "bytes": 1820997,
+      "format": "MP4",
+      "duration": 10,
+      "sha256": "b6f504939dacf32921ffa4ac93a641795ce211d7e32a1668ce6374ff86bc63ec",
+      "width": 3008,
+      "height": 3008,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/zrtfQ1oTPv228dhMa6b4RLsTcVY-uyVPrqAt3NqN98A",
+    "animation_url": "https://arweave.net/zrtfQ1oTPv228dhMa6b4RLsTcVY-uyVPrqAt3NqN98A",
+    "image_details": {
+      "bytes": 417905,
+      "format": "GIF",
+      "sha256": "51ff450d6e72a6a495f36a1a54c1db0c438ac059dc6e06f3997b0acb5eacee2f",
+      "width": 1024,
+      "height": 1024
+    },
+    "image": "https://arweave.net/kZT2aNXX5PgfPoiPRh9SDAeXXm78qCrZBvHyNH3vv6M",
+    "image_url": "https://arweave.net/kZT2aNXX5PgfPoiPRh9SDAeXXm78qCrZBvHyNH3vv6M"
+  }
+}

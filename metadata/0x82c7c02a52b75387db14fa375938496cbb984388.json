@@ -1,0 +1,38 @@
+{
+  "address": "0x82c7c02a52b75387db14fa375938496cbb984388",
+  "type": "ERC721",
+  "name": "EthBot V2",
+  "tokenCount": "220",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmNvDsEp35d31pT3WVUnQYN2pibMBLDH5hRs1oQHHsSsMa/Beneficent_Adam.json",
+  "metadata": {
+    "name": "Beneficent Adam Coordination Bot",
+    "description": "Beneficent Adam is a Coordination Bot thats vibing hard.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbK1MrkzX1QMRBp9urqUMoKYSatQi5mkRTotxrjJnqm2x/Beneficent_Adam.png",
+    "external_url": "http://greatestlarp.com/",
+    "seller_fee_basis_points": 100,
+    "fee_recipient": "0xde21F729137C5Af1b01d73aF1dC21eFfa2B8a0d6",
+    "background_color": "ffffff",
+    "attributes": [
+      {
+        "trait_type": "theme",
+        "value": "ethbot"
+      },
+      {
+        "trait_type": "leg",
+        "value": "red_fire_big"
+      },
+      {
+        "trait_type": "hand",
+        "value": "six"
+      },
+      {
+        "trait_type": "shoulder",
+        "value": "blue_fire"
+      },
+      {
+        "trait_type": "face",
+        "value": "squid"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0xd45ed1fb0d7e03d343a14971f73db8297bc64ea6",
+  "type": "ERC721",
+  "name": "crypto wine tasting",
+  "tokenCount": "24",
+  "uri": "ipfs://QmNQLPSR3Pmn9omJwUDHgvqBy5LwgwZRggcd16qopj3zKB/1.json",
+  "metadata": {
+    "dna": "4812ea8c0cd005aa724d701cfc95449a71a6947f",
+    "name": "#1",
+    "description": "crypto wine tasting is a collection of 5,000 unique and algorithmically generated nft wine glasses. each glass contains varying amounts of colors, fills, backgrounds and accessories, all with differing levels of rarity. join the wine club now. cheers.",
+    "image": "ipfs://QmSfSzWA3rRG4GbpaQ3GVdmNrDLwTrgQqnDyNdPxb1C4y3/1.png",
+    "edition": 1,
+    "date": 1633728608586,
+    "artist": "ernwrls",
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "BACKGROUND_GRADIENT_4"
+      },
+      {
+        "trait_type": "WINE GLASS",
+        "value": "WINE_GLASS_CLEAR"
+      },
+      {
+        "trait_type": "LIQUID",
+        "value": "LIQUID_BLUE_HEAVY"
+      },
+      {
+        "trait_type": "LIPS",
+        "value": "LIPS_NONE"
+      },
+      {
+        "trait_type": "COASTER",
+        "value": "COASTER_NONE"
+      },
+      {
+        "trait_type": "CHARM",
+        "value": "CHARM_GOLD"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

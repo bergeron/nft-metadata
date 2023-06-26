@@ -1,0 +1,58 @@
+{
+  "address": "0x12460df8e5b988508a0c3fccfe21e4b76d4a551d",
+  "type": "ERC721",
+  "name": "TABOOPUNKS",
+  "tokenCount": "10000",
+  "uri": "ipfs://Qmc2LSCYcYh6xYFUC4S6HEZqwV6uEyJ58pZyHGbM2W4WyH/1.json",
+  "metadata": {
+    "name": "TABOOPUNKS #1",
+    "description": "Original Collection",
+    "image": "ipfs://QmSV1jyKHXnweBypDuTzU2pVDo3gBBhh6cZAji8sgK7Ksh/1.png",
+    "dna": "92d832845a8fcd57e0bfe1b60be0c026436f554c",
+    "edition": 86,
+    "date": 1649898402069,
+    "attributes": [
+      {
+        "trait_type": "background_rare",
+        "value": "bg_gains_gold"
+      },
+      {
+        "trait_type": "bg_item",
+        "value": "bg_rainbow"
+      },
+      {
+        "trait_type": "punk_19/layers/body",
+        "value": "body"
+      },
+      {
+        "trait_type": "punk_19/layers/bottom_legendary",
+        "value": "bottom_robo"
+      },
+      {
+        "trait_type": "punk_19/layers/top_legendary",
+        "value": "empty"
+      },
+      {
+        "trait_type": "punk_19/layers/item_legendary",
+        "value": "item_cigar"
+      },
+      {
+        "trait_type": "punk_19/layers/item2_legendary",
+        "value": "item_robo"
+      },
+      {
+        "trait_type": "punk_19/layers/necklace",
+        "value": "empty"
+      },
+      {
+        "trait_type": "punk_19/layers/shoes",
+        "value": "shoes_blue"
+      },
+      {
+        "trait_type": "punk_19/layers/hair_legendary",
+        "value": "hair_robo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "address": "0xb2a5668247da10467b0dd0111f1b71da2556dd79",
+  "type": "ERC721",
+  "name": "Hajuko",
+  "tokenCount": "10000",
+  "uri": "ipfs://bafybeigztxsx2ubspp2whzi5rxrfwjmjdhw5lixzqdmbb5stzidtigqbc4/1.json",
+  "metadata": {
+    "name": "Hajuko #1",
+    "description": "Hajuko is a unique collection of 10,000 NFTs created by Taniel.",
+    "external_url": "",
+    "image": "ipfs://bafybeih5i64z6kke7yuoaqoooxiofhflenjir6s6rpl2yxdjpp5ndtxahi/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "olive-drab"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "grey"
+      },
+      {
+        "trait_type": "Body",
+        "value": "blue-ringer"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "red"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "heart"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "normal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "red-scar"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "army-helmet"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://onemint.io/",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Hajuko",
+      "family": "Hajuko"
+    },
+    "symbol": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "address": "0x76f359b6fbd0fad703cefd1b3665d00ece8e882c",
+  "type": "ERC721",
+  "name": "DeRace Tickets",
+  "tokenCount": "220",
+  "uri": "https://ticket.derace.com/api/v1/tickets/1",
+  "metadata": {
+    "name": "Omega NFT Horse Ticket",
+    "description": "A ticket to DeRace stables, exchangeable for Omega DeRace NFT horse once it is minted. \n\nDeRace NFT horses serve both as in-game assets and an independent liquid store of value. Horse owners can make a profit from horse breeding and racing in the DeRace NFT horse racing ecosystem. These NFT horses can also be traded in DeRace’s in-game marketplace, other NFT marketplaces or on any CEX, DEX or AMM.",
+    "image": "https://ticket.derace.com/api/v1/media/Omega.png",
+    "animation_url": "https://ticket.derace.com/api/v1/media/Omega.mp4",
+    "attributes": [
+      {
+        "trait_type": "tier",
+        "value": "Omega"
+      }
+    ]
+  }
+}

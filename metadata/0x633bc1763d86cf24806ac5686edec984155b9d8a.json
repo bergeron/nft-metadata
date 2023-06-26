@@ -1,0 +1,42 @@
+{
+  "address": "0x633bc1763d86cf24806ac5686edec984155b9d8a",
+  "type": "ERC721",
+  "name": "Wiggle 1",
+  "tokenCount": "2",
+  "uri": "ipfs://QmX3ZpNgKQV7DYCA42eYb1phJRhzSqpiwivQ2zYpeV5jvg/1",
+  "metadata": {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  }
+}

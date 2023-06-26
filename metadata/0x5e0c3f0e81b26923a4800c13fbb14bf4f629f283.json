@@ -1,0 +1,37 @@
+{
+  "address": "0x5e0c3f0e81b26923a4800c13fbb14bf4f629f283",
+  "type": "ERC721",
+  "name": "PSYOP FF6000 DUCKS",
+  "tokenCount": "6000",
+  "uri": "ipfs://QmPguTNnEJ2WfUnw9ciFGveJy2ojuMraGYPiC7r97GhX8q/1.json",
+  "metadata": {
+    "name": "PSYOP FF6000 #1",
+    "description": "A PSYOP experiment containing ducks and FF6000 backgrounds for social data",
+    "image": "ipfs://QmewxPVtJWWogmRw4sZfCoW17dLFXWsdbc2keThWrm1Ntm/1.png",
+    "edition": 1,
+    "date": 1686340038328,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FF6000"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Duck"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "PSYOP Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sealed"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "MK Ultra"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

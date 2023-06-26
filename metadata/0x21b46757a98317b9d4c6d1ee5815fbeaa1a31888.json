@@ -1,0 +1,32 @@
+{
+  "address": "0x21b46757a98317b9d4c6d1ee5815fbeaa1a31888",
+  "type": "ERC721",
+  "name": "CryptoSanta Club",
+  "tokenCount": "10",
+  "uri": "ipfs://QmUCQQYicqgveiasqmAiTzpmvtwS9s3W4XA6RWdd9E6kXY/1",
+  "metadata": {
+    "description": "CryptoSanta",
+    "external_url": "https://www.cryptosanta.club",
+    "image": "ipfs://QmX3QhKV4W21GWvrt7xLjqfCPUH88Jhh218enLb2PzADsv/1.png",
+    "tokenId": 1,
+    "name": "CryptoSanta #1",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "expression",
+        "value": "frightened"
+      },
+      {
+        "trait_type": "sports",
+        "value": "Archery"
+      },
+      {
+        "trait_type": "flag",
+        "value": "Columbia"
+      }
+    ]
+  }
+}

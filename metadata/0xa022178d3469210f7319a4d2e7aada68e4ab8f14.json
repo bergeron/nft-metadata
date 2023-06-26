@@ -1,0 +1,32 @@
+{
+  "address": "0xa022178d3469210f7319a4d2e7aada68e4ab8f14",
+  "type": "ERC721",
+  "name": "DopePunksNFT",
+  "tokenCount": "41",
+  "uri": "ipfs://QmaQRZor9mZy5LGAQ4wSzpoBU7fT1t6Vhuj2wxQTm1QbtD/1.json",
+  "metadata": {
+    "name": "DopePunk #0000",
+    "description": "The DopePunks is a private collection of 1,111 unique 2D CryptoPunks. More than +100 hand drawn traits, each NFT is unique. ",
+    "edition": 1,
+    "image": "ipfs://QmSgGLR6eYZ5z48GkboVJbr9BaC87FXcknosJZe4HMWFW9/punk0000.png",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Blone Bob"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Green Eye Shadow"
+      },
+      {
+        "trait_type": "Bodygear",
+        "value": "Black T-shirt"
+      }
+    ],
+    "compiler": "DopePunk NFT Engine"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "address": "0x8ed95314333fb38c4f914076e4987c998514ad73",
+  "type": "ERC721",
+  "name": "8 Bit Outlaws (OFFICIAL)",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmYrzVRcnk7xxiPx6R8kmiviUPVcsrFbvCFeAUaVdgWnvi/1.json",
+  "metadata": {
+    "name": "8 Bit Outlaws #1",
+    "description": "An 8 bit pixel art collection inspired from the Wild West.",
+    "image": "ipfs://QmawoRdwr3p9df35zTj72cGBQyZFUhRBuZEfHNDyZ1ENaS/1.png",
+    "edition": 1,
+    "date": 1681355592091,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Gray"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Wrangler"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Outlaw"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Possessed"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Headband"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

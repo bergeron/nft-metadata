@@ -1,0 +1,41 @@
+{
+  "address": "0xb96f913189afd93ea1a3207394957840ab96c7da",
+  "type": "ERC1155",
+  "name": "Reni Rocko Collector Editions",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/AqN8Dl7Rn6LyoTa2yrFZ7bNfsjfeBuYXKSdj2DSsKlI",
+  "metadata": {
+    "name": "The Collector",
+    "created_by": "Reni Rocko",
+    "description": "Collector edition. Limited to 10 copies. Eligible to Reni Rocko 1/1 holders. \n\nReni Rocko 2022 \n1986 x 2686 px MP4 \n10 second continuous loop",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Reni Rocko"
+      }
+    ],
+    "animation_details": {
+      "bytes": 49568465,
+      "format": "MP4",
+      "duration": 10,
+      "sha256": "c9790469040f8b2b6dc4c7e62b9050ec829d2cae329b623a9cacab1a2dfea945",
+      "width": 1986,
+      "height": 2686,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/MAR6uzMIrRjIhyRhihaG7LcOgGFP2KP2cx4IFWtPlNo",
+    "animation_url": "https://arweave.net/MAR6uzMIrRjIhyRhihaG7LcOgGFP2KP2cx4IFWtPlNo",
+    "image_details": {
+      "bytes": 4550646,
+      "format": "JPEG",
+      "sha256": "148114119cc441ccd5e9054165b3071161c25aeaae72253ee7595e04c7f4c13b",
+      "width": 1986,
+      "height": 2686
+    },
+    "image": "https://arweave.net/Id1GCQBmMPL0ivH8X1INVOIsIKAaWJr-R0XIBgyvP30",
+    "image_url": "https://arweave.net/Id1GCQBmMPL0ivH8X1INVOIsIKAaWJr-R0XIBgyvP30"
+  }
+}

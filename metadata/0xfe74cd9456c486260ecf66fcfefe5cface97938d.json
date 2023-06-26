@@ -1,0 +1,27 @@
+{
+  "address": "0xfe74cd9456c486260ecf66fcfefe5cface97938d",
+  "type": "ERC721",
+  "name": "OpenSea NFT Exploiter",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/ecY6ZTLqKHikmQ-iyV76i7gDcNmCluP1zFGlfNmOOI0",
+  "metadata": {
+    "name": "The Whole Scheme",
+    "created_by": "Charliemarketplace",
+    "description": "A hacker, most likely using a phishing scheme designed to mimic the OpenSea list contract migration email, was able to gather valid tx signatures from multiple NFT holders. These signatures, combined with a custom contract acting as the buyer, successfully tricked OpenSea into selling the victims' NFTs for $0 in a series of private sales. Fortunately for law enforcement, the hacker made several mistakes along the way. This series details the actions and Operational Security (OpSec) errors by the hacker during this scheme, given what we knew while it was happening.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Charliemarketplace"
+      }
+    ],
+    "image_details": {
+      "bytes": 163817,
+      "format": "SVG",
+      "sha256": "d4cbeb91f6e69ce2c10aea95d9739b0ac66739e0eed15c85f9de9cb173660c3c",
+      "width": 832,
+      "height": 3029
+    },
+    "image": "https://arweave.net/-P7cfLsMy2I5Jlov8hHgeDlZIbQi3vNWTOZkrWgTRvs",
+    "image_url": "https://arweave.net/-P7cfLsMy2I5Jlov8hHgeDlZIbQi3vNWTOZkrWgTRvs"
+  }
+}

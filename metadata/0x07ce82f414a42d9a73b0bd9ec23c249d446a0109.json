@@ -1,0 +1,23 @@
+{
+  "address": "0x07ce82f414a42d9a73b0bd9ec23c249d446a0109",
+  "type": "ERC721",
+  "name": "NFArcade Pass",
+  "tokenCount": "5000",
+  "uri": "https://www.nfa.gg/static/arcade-pass/metadata/1.json",
+  "metadata": {
+    "id": 1,
+    "external_url": "https://www.nfa.gg/",
+    "image": "https://www.nfa.gg/static/arcade-pass/images/goldenCircuit.jpg",
+    "name": "#1",
+    "attributes": [
+      {
+        "trait_type": "Generation",
+        "value": "0"
+      },
+      {
+        "trait_type": "Faction",
+        "value": "Golden Circuit"
+      }
+    ]
+  }
+}

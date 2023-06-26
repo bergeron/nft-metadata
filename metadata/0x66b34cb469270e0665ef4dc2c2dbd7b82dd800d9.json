@@ -1,0 +1,47 @@
+{
+  "address": "0x66b34cb469270e0665ef4dc2c2dbd7b82dd800d9",
+  "type": "ERC721",
+  "name": "Block Party!",
+  "tokenCount": "28",
+  "uri": "https://www.openpalette.io/api/block-party/metadata/1?seed=0&speed=5&elevation=4",
+  "metadata": {
+    "name": "Block Party #1",
+    "description": "Block Party! By Rich Poole & Devin Abbott\n    \nKeyboard shortcuts:\n\n- x: Toggle near/far camera\n- c: Toggle free camera",
+    "image": "https://www.openpalette.io/api/block-party/assets/image/1?seed=0&speed=5&elevation=4",
+    "animation_url": "https://www.openpalette.io/api/block-party/assets/interactive/1?seed=0&speed=5&elevation=4",
+    "attributes": [
+      {
+        "trait_type": "Color Mode",
+        "value": "Noise"
+      },
+      {
+        "trait_type": "Wave",
+        "value": "Trace"
+      },
+      {
+        "trait_type": "Block Size",
+        "value": 15
+      },
+      {
+        "trait_type": "Disco",
+        "value": "No"
+      },
+      {
+        "trait_type": "Wireframe",
+        "value": "No"
+      },
+      {
+        "trait_type": "Spin",
+        "value": "No"
+      },
+      {
+        "trait_type": "Camera",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Colored Lights",
+        "value": "No"
+      }
+    ]
+  }
+}

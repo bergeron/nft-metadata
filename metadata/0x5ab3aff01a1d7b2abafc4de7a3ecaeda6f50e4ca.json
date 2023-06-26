@@ -1,0 +1,38 @@
+{
+  "address": "0x5ab3aff01a1d7b2abafc4de7a3ecaeda6f50e4ca",
+  "type": "ERC721",
+  "name": "PlasticSoldiers",
+  "tokenCount": "1945",
+  "uri": "ipfs://QmbMbdfCsHY1gQDabeBiah6uJneYi9Vesrkm5b6RvYzyaw/1",
+  "metadata": {
+    "dna": "1fd393505fc42c542e6bb4f7eb07cee705a39033",
+    "name": "Soldier #1",
+    "description": "Plastic Soldiers is a collection of 1945 soldiers on the Ethereum blockchain.",
+    "image": "ipfs://QmRz3uNdkNGpW3D5fKt6Qcpwbp6fGdLfsG8YCXLuQrLwrN/1.png",
+    "edition": 1,
+    "date": 1651929987389,
+    "attributes": [
+      {
+        "trait_type": "Soldiers Green",
+        "value": "Rocket Launcher"
+      },
+      {
+        "trait_type": "Rank",
+        "value": "Sergeant"
+      },
+      {
+        "trait_type": "Attack",
+        "value": "3"
+      },
+      {
+        "trait_type": "Defence",
+        "value": "4"
+      },
+      {
+        "trait_type": "Moral",
+        "value": "3"
+      }
+    ],
+    "compiler": "Uncle Sam"
+  }
+}

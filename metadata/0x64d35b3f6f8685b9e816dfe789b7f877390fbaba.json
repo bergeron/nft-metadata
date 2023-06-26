@@ -1,0 +1,36 @@
+{
+  "address": "0x64d35b3f6f8685b9e816dfe789b7f877390fbaba",
+  "type": "ERC721",
+  "name": "Scary Apes",
+  "tokenCount": "6",
+  "uri": "ipfs://bafybeid2w6rgkq3rmcsijbu7bcwtwuztwnxfe2rqb3tkrouruuvhwf2p3u/1",
+  "metadata": {
+    "name": "Scary Apes #1",
+    "image": "ipfs://bafybeiblznpxrjp33n5rloxd7p6z3fjjd7doym6x5i7igluiehdp333nyi/1.png",
+    "description": "10,000 Scary Apes living on the blockchain",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Pastel Purple"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Neon Pink"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Bloodshot"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Joker Suit"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

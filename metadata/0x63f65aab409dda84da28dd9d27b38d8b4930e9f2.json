@@ -1,0 +1,34 @@
+{
+  "address": "0x63f65aab409dda84da28dd9d27b38d8b4930e9f2",
+  "type": "ERC721",
+  "name": "YG",
+  "tokenCount": "2",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=hLghkg6TeLGyPjIOQpdD",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1589514703001?alt=media&token=8907d0f4-5492-449e-83f5-42cc5fed6236",
+    "forSale": true,
+    "contractAddress": "0x63f65aab409dda84da28dd9d27b38d8b4930e9f2",
+    "description": "Portugal_Bus_Ticket_Memory_2019.Dec.",
+    "ethPrice": "1",
+    "amountToMint": "1",
+    "minter": "0xea32a33300d64bddb9f09a8308d44c23616ec706",
+    "mintedOn": {
+      "_seconds": 1589514784,
+      "_nanoseconds": 935000000
+    },
+    "price": "$0.00",
+    "name": "Portugal_Bus_Ticket_Memory_2019.Dec.",
+    "fiatPrice": "$200.85",
+    "minted": "Minted on Mintbase.io",
+    "category": "alJuInV4dezvHTNU8Dp1",
+    "youtube_url": "",
+    "external_url": "https://mintbase.io/my-market/0x63f65aab409dda84da28dd9d27b38d8b4930e9f2",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "hLghkg6TeLGyPjIOQpdD"
+      }
+    ],
+    "type": "ERC721"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "address": "0xf03c4e6b6187aca96b18162cbb4468fc6e339120",
+  "type": "ERC721",
+  "name": "Master Cats NFT",
+  "tokenCount": "9000",
+  "uri": "https://mastercatsnft.io:7777/api/tokens/cats/1 ",
+  "metadata": {
+    "name": "Master Cats #1",
+    "description": "Inspired by the Nine Lives Lounge and the LaMelo Master Challenge.\n\nThe Master Cats are a collection of 9,000 Cats sporting cool furs, nine lives, and one mission: HODL. Overtime, the Master Cats collection will evolve and feature 9 different art styles by 9 different artists per NFT. On top of gaining access to exclusive drops, special experiences, and unlockable rewards, Master Cats holders will have the ability to vote on the different art styles and artists, dictating the evolution of the collection.\n\nMaster the bear, ride the bull. #JoinTheHODL🍸",
+    "image": "https://mastercatsnft.io:7777/images/cats/1/1.png",
+    "animation_url": "https://mastercatsnft.io:5000/cats?tokenId=1",
+    "attributes": [
+      {
+        "trait_type": "Custom",
+        "value": "Custom Cat"
+      }
+    ],
+    "images": [
+      "https://mastercatsnft.io:7777/images/cats/1/1.png",
+      "https://mastercatsnft.io:7777/images/cats/u/8-gold.png",
+      "https://mastercatsnft.io:7777/images/cats/u/7-gold.png",
+      "https://mastercatsnft.io:7777/images/cats/u/6-gold.png",
+      "https://mastercatsnft.io:7777/images/cats/u/5-gold.png",
+      "https://mastercatsnft.io:7777/images/cats/u/4-gold.png",
+      "https://mastercatsnft.io:7777/images/cats/u/3-gold.png",
+      "https://mastercatsnft.io:7777/images/cats/u/2-gold.png",
+      "https://mastercatsnft.io:7777/images/cats/u/1-gold.png"
+    ],
+    "selectedIndex": 0,
+    "imageStates": [
+      "revealed",
+      "unrevealed",
+      "unrevealed",
+      "unrevealed",
+      "unrevealed",
+      "unrevealed",
+      "unrevealed",
+      "unrevealed",
+      "unrevealed"
+    ],
+    "unrevealedImages": [
+      "https://mastercatsnft.io:7777/images/cats/1/1.png",
+      "https://mastercatsnft.io:7777/images/cats/u/8-gold.png",
+      "https://mastercatsnft.io:7777/images/cats/u/7-gold.png",
+      "https://mastercatsnft.io:7777/images/cats/u/6-gold.png",
+      "https://mastercatsnft.io:7777/images/cats/u/5-gold.png",
+      "https://mastercatsnft.io:7777/images/cats/u/4-gold.png",
+      "https://mastercatsnft.io:7777/images/cats/u/3-gold.png",
+      "https://mastercatsnft.io:7777/images/cats/u/2-gold.png",
+      "https://mastercatsnft.io:7777/images/cats/u/1-gold.png"
+    ]
+  }
+}

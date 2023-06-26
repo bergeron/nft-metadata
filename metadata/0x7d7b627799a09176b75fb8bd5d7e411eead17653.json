@@ -1,0 +1,90 @@
+{
+  "address": "0x7d7b627799a09176b75fb8bd5d7e411eead17653",
+  "type": "ERC721",
+  "name": "Galactic Stars",
+  "tokenCount": "2975",
+  "uri": "https://www.galacticstartoken.com/stars/1",
+  "metadata": {
+    "id": 1,
+    "image": "https://www.galacticstartoken.com/stars/1/svg",
+    "external_url": "https://www.galacticstartoken.com/stars/1/view",
+    "description": "Star BSC5:47n, known officially as Alp1Cen, located at ICRS reference angle 219.89958333333334 (decimal) and declination -60.83527777777778 (decimal). Approximately 1.3315579227696406 parsecs from our solar system in observation epoch J2000. To view this star in it's local Milky Way Galaxy cluster, click the \"View on Galactic Stars\" link at the top-right of this listing or go to https://www.galacticstartoken.com/stars/1/view",
+    "name": "BSC5:47n",
+    "background_color": "000000",
+    "attributes": [
+      {
+        "trait_type": "Galactic Star Token",
+        "display_type": "number",
+        "value": 1
+      },
+      {
+        "trait_type": "Galactic Star Name",
+        "value": "BSC5:47n"
+      },
+      {
+        "trait_type": "Catalog ID",
+        "value": "BSC5:5459"
+      },
+      {
+        "trait_type": "Official Name",
+        "value": "Alp1Cen"
+      },
+      {
+        "trait_type": "Designation",
+        "value": "Henry Draper Catalog 128620"
+      },
+      {
+        "trait_type": "Peak Color",
+        "value": "#92ff00"
+      },
+      {
+        "trait_type": "Peak Color Name",
+        "value": "Chartreuse"
+      },
+      {
+        "trait_type": "Color Match Type",
+        "value": "APPROXIMATE"
+      },
+      {
+        "trait_type": "Observation Epoch",
+        "display_type": "number",
+        "value": "2000"
+      },
+      {
+        "trait_type": "ICRS Reference Angle",
+        "display_type": "number",
+        "value": "219.89958333333334"
+      },
+      {
+        "trait_type": "ICRS Declination",
+        "display_type": "number",
+        "value": "-60.83527777777778"
+      },
+      {
+        "trait_type": "Temperature (K)",
+        "display_type": "number",
+        "value": 5940
+      },
+      {
+        "trait_type": "Radius (km)",
+        "display_type": "number",
+        "value": 814271
+      },
+      {
+        "trait_type": "Magnitude (G band)",
+        "display_type": "number",
+        "value": -0.01
+      },
+      {
+        "trait_type": "Distance from Sun (Parsecs)",
+        "display_type": "number",
+        "value": 1.3315579227696406
+      },
+      {
+        "trait_type": "Distance from Sun (LY)",
+        "display_type": "number",
+        "value": 4.34
+      }
+    ]
+  }
+}

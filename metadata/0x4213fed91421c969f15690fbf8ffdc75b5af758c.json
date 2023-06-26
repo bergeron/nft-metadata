@@ -1,0 +1,38 @@
+{
+  "address": "0x4213fed91421c969f15690fbf8ffdc75b5af758c",
+  "type": "ERC721",
+  "name": "NFT Heroz",
+  "tokenCount": "230",
+  "uri": "ipfs://QmVTLVuUiDJ9wNtn7AMpmrKLu6XQT4mEZRzYnp1MXH7446/1.json",
+  "metadata": {
+    "name": "HEROZ edition #1",
+    "image": "ipfs://Qmezxo2svg2Fg8HsiKMRBMQ97d8UUdTpGPnxFWncqr2sZ9/1.png",
+    "description": "#1 of the HEROZ collection",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Cat"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Commando Outfit"
+      },
+      {
+        "trait_type": "Left Shoulder",
+        "value": "Gun Holster"
+      },
+      {
+        "trait_type": "Left Hand",
+        "value": "Silver Gun"
+      },
+      {
+        "trait_type": "Right Hand",
+        "value": "Black Gun"
+      }
+    ]
+  }
+}

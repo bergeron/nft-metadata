@@ -1,0 +1,29 @@
+{
+  "address": "0x2deaaf18ae9ca67875deac505a567fd3c5869d1d",
+  "type": "ERC721",
+  "name": "Shadow Monkey Box",
+  "tokenCount": "62",
+  "uri": "ipfs://QmVDjvUWKY9gBiAZR2NhWaRSdGmSG9HWaukHzQRcaoK7aS",
+  "metadata": {
+    "name": "The Monkey Key",
+    "description": "The mysterious Monkey Key from the 'Rise of the Shadow Monkey' collection. Design by artist Dawid Planeta.",
+    "image": "ipfs://QmeWZiqnafJAK9CXWmA92JidEWFjVtu5rEVTRbrtXojSgL",
+    "external_url": "https://theshadowmonkey.com",
+    "seller_fee_basis_points": 700,
+    "fee_recipient": "0xe4798B782B83DCD132318b087ea2014269B669fe",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Dawid Planeta"
+      },
+      {
+        "trait_type": "Treasure Hunt",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Year of Creation",
+        "value": "2021"
+      }
+    ]
+  }
+}

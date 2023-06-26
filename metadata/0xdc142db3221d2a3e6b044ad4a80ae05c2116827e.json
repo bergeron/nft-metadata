@@ -1,0 +1,37 @@
+{
+  "address": "0xdc142db3221d2a3e6b044ad4a80ae05c2116827e",
+  "type": "ERC721",
+  "name": "Crazy Dogz Genesis V2",
+  "tokenCount": "5",
+  "uri": "ipfs://QmQhzmnB3FYwRH23dCJRdDJuFeVQaRYe3CZbwospt3sDPR/1.json",
+  "metadata": {
+    "name": "CrazyDogzGenesis #1",
+    "description": "CrazyDogzGenesis #1 - of 500 Genesis Collection",
+    "fee_recipient": "0x44fB464BBC37Bba5b28F67D3f1f7232E36229Ac0",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://QmWNpqtYyHDk9vpyZz6Yex1TwK5RtTdcXLoLXjJEz9q4vm/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Fence"
+      },
+      {
+        "trait_type": "FlagPole",
+        "value": "Brazil"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Dog2"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "G2"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 216,
+        "display_type": "number"
+      }
+    ]
+  }
+}

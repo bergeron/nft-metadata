@@ -1,0 +1,42 @@
+{
+  "address": "0xfbabcdfd00507dc98b66fd49f9060f04dc4dbbe1",
+  "type": "ERC721",
+  "name": "Friendly Biker Gang",
+  "tokenCount": "1515",
+  "uri": "ipfs://QmT5MV2BC1Qy2g9Kr3bnZ6E32881BUuJo88jBt4gNd5Cpz/1.json",
+  "metadata": {
+    "name": "Friendly Biker Gang #1",
+    "description": "Friendly Biker Gang",
+    "image": "ipfs://QmdVApp7v3vZygS5j1UBAagKmz3b3z33tsnggHySUkKnJA/1.png",
+    "dna": "f43334f3f5224eda2c73d1b0f77cf09b96bc9be9",
+    "edition": 1,
+    "date": 1677129667688,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Light purple"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Tattered shirt"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Wrapped glove"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Full beard with bandana"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Black mask"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

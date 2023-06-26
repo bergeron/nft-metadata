@@ -1,0 +1,28 @@
+{
+  "address": "0xb61614fb58906bebcf380a6b09c98f8feb530525",
+  "type": "ERC721",
+  "name": "NZ: Web3 & NFTs 101 Proof of Onboarding NFT",
+  "tokenCount": "5",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xb61614fb58906bebcf380a6b09c98f8feb530525/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xB61614fb58906bEbCf380a6b09c98f8feB530525/icon?id=1",
+    "expiration": 1682705927,
+    "tokenId": "1",
+    "owner": "0x64ce5128b316bce031eaae5fd0e6daa98858862a",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1682705927
+      }
+    ],
+    "userMetadata": {
+      "public": {}
+    },
+    "keyId": "1",
+    "lockAddress": "0xB61614fb58906bEbCf380a6b09c98f8feB530525",
+    "network": 1
+  }
+}

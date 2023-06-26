@@ -1,0 +1,38 @@
+{
+  "address": "0x19e7b6ec408b5c7dd2e748b2abab442453ebaf49",
+  "type": "ERC721",
+  "name": "SbFcs",
+  "tokenCount": "2",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=cWGyAIWeP1Sjbouu3Vne",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1570463000264?alt=media&token=2f7c74a8-72f1-4fd7-8eb3-fa2846f0b68d",
+    "isForSale": false,
+    "description": "Company Shares",
+    "contractAddress": "0x19E7b6Ec408b5c7Dd2e748b2abAB442453ebAF49",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x19E7b6Ec408b5c7Dd2e748b2abAB442453ebAF49/cWGyAIWeP1Sjbouu3Vne",
+    "minter": "0x9BE7EE9F2Cac176451072d46f8b57618F74efefF",
+    "mintedOn": {
+      "_seconds": 1570463019,
+      "_nanoseconds": 273000000
+    },
+    "price": "0.005",
+    "name": "SbFcs RS",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "SbFcs RS"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

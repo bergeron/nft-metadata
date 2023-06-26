@@ -1,0 +1,30 @@
+{
+  "address": "0x11898d7e91b9548de0bd86dbce04970632f62068",
+  "type": "ERC721",
+  "name": "BitRunner Punks",
+  "tokenCount": "10000",
+  "uri": "ipfs://Qmdtb3Y17vrYye2gZhezpnVQNgcxEwpVagMfFiajLCrRw2/1.json",
+  "metadata": {
+    "dna": "91c1690b063c7335cfdcf50b5890b66f505a5456",
+    "name": "#1",
+    "description": "BitRunner Punks",
+    "image": "ipfs://QmTDXe2H3j4ws7cUTer2W2B5EDCeBVZKLknfYUMxArpEWc/1.png",
+    "edition": 1,
+    "date": 1677228230788,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Earring"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Straight Hair Dark"
+      }
+    ],
+    "compiler": "BitRunner Punks Compiler"
+  }
+}

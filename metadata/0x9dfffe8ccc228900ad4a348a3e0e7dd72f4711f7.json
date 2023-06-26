@@ -1,0 +1,102 @@
+{
+  "address": "0x9dfffe8ccc228900ad4a348a3e0e7dd72f4711f7",
+  "type": "ERC721",
+  "name": "Cryptomights Origin",
+  "tokenCount": "211",
+  "uri": "https://cryptomazeapp.fra1.digitaloceanspaces.com/origin/cryptomights/metadata/1.json",
+  "metadata": {
+    "external_url": "https://cryptomaze.app",
+    "name": "J-7",
+    "animation_url": "https://cryptomazeapp.fra1.digitaloceanspaces.com/origin/cryptomights/mp4/1.mp4",
+    "image": "https://cryptomazeapp.fra1.digitaloceanspaces.com/origin/cryptomights/webp/1.webp",
+    "description": "J-7 the Cryptomight is a Unique playable hero featured in the (MMO)Crypto Maze game at https://cryptomaze.app \n\nJ-7 is known for having high amounts of Power, legendary defensive skills and can take extreme amounts of damage. The hero also has extreme Acrobatic skills.\n",
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 1658533811
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Hero Collection",
+        "value": 1
+      },
+      {
+        "trait_type": "Arms",
+        "value": "Robotic",
+        "id": 1
+      },
+      {
+        "trait_type": "Body",
+        "value": "Whirlpool",
+        "id": 1
+      },
+      {
+        "trait_type": "Legs",
+        "value": "Sunflower Dino",
+        "id": 11
+      },
+      {
+        "trait_type": "Tails",
+        "value": "Platapus",
+        "id": 4
+      },
+      {
+        "trait_type": "Face",
+        "value": "Clown",
+        "id": 12
+      },
+      {
+        "trait_type": "Top Head",
+        "value": "Horns Evolved",
+        "id": 10
+      },
+      {
+        "trait_type": "Side Head",
+        "value": "Pike",
+        "id": 22
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Button",
+        "id": 24
+      },
+      {
+        "trait_type": "Symbols",
+        "value": "Fire",
+        "id": 2
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Power",
+        "value": 7
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Resistance",
+        "value": 19
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Mobility",
+        "value": 5
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Vitality",
+        "value": 16
+      },
+      {
+        "trait_type": "Total Might",
+        "value": 47
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Cryptomight",
+        "value": 1
+      }
+    ],
+    "dna": "arms,1|body,1|shader,0|legs,11|shader,2|tails,4|shader,6|mouthandnose,12|tophead,10|shader,10|sidehead,22|shader,12|eyes,24|symbols,2|shader,5|pallete,1011486638",
+    "power": 47
+  }
+}

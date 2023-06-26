@@ -1,0 +1,73 @@
+{
+  "address": "0x13d66dbace34218fddaf50f7057092a43507adef",
+  "type": "ERC721",
+  "name": "Hungry Wolves",
+  "tokenCount": "6000",
+  "uri": "https://metadata.hungrywolves.com/api/hungry-wolves/1",
+  "metadata": {
+    "id": 1,
+    "image": "https://hungrywolves.mypinata.cloud/ipfs/QmYWhf8dwjv1sZQwAsHAoCutUrPpCViuNceUYgmyLm9NTS/1.png",
+    "image_sm": "https://hungrywolves.mypinata.cloud/ipfs/QmR2uh8DRu14nMqaqncWFQwpyN3nAJ2cWtWMDk8k9PtiSs/1.png",
+    "token_id": 1,
+    "name": "Hungry Wolves 1",
+    "attributes": [
+      {
+        "value": "Grey Concrete",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Cyborg",
+        "trait_type": "Eye"
+      },
+      {
+        "value": "Clay",
+        "trait_type": "Fur"
+      },
+      {
+        "value": "None",
+        "trait_type": "Eyewear"
+      },
+      {
+        "value": "Glowing",
+        "trait_type": "Tail"
+      },
+      {
+        "value": "Barbed Wire Fence",
+        "trait_type": "Object"
+      },
+      {
+        "value": "Black T-Shirt",
+        "trait_type": "Shirt"
+      },
+      {
+        "value": "Party Nail",
+        "trait_type": "Hands"
+      },
+      {
+        "value": "Party Hat",
+        "trait_type": "Hat"
+      },
+      {
+        "value": "Clay",
+        "trait_type": "Fur"
+      },
+      {
+        "value": "Sad",
+        "trait_type": "Expression"
+      },
+      {
+        "value": "Alpha",
+        "trait_type": "Rank"
+      },
+      {
+        "value": "Tier 2",
+        "trait_type": "Evolution"
+      },
+      {
+        "value": 2,
+        "trait_type": "PVP Wins"
+      }
+    ],
+    "description": "Hungry Wolves is a collection of 6,000 randomly generated wolves prowling the Ethereum blockchain as ERC-721 NFTs"
+  }
+}

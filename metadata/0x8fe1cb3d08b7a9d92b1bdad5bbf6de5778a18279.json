@@ -1,0 +1,70 @@
+{
+  "address": "0x8fe1cb3d08b7a9d92b1bdad5bbf6de5778a18279",
+  "type": "ERC721",
+  "name": "The Purge I",
+  "tokenCount": "32",
+  "uri": "ipfs://bafybeihj7y7o6isd5aiw7ti3hwo36wragi2d5scf4hm6zhga6xcjjlq5pa/1.json",
+  "metadata": {
+    "symbol": "TPG",
+    "name": "TPG#883",
+    "description": "Purge time ! All crime is legal and emergency services are temporarily suspended. Put on a mask and let's cleanse the blockchain.",
+    "seller_fee_basis_points": "600",
+    "image": "ipfs://bafybeifgkpw2ked67vqizcva3ovqym62rd6ityhymxdcpswddbwkmkoupe/1.gif",
+    "external_url": "",
+    "collection": {
+      "name": "The Purge I",
+      "family": "TPG"
+    },
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "yellow alien"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "fangs blood"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "red"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "cat costume"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "goblin"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "lizard"
+      },
+      {
+        "trait_type": "Backgrounds",
+        "value": "Prison"
+      },
+      {
+        "trait_type": "RR",
+        "value": 7307,
+        "display_type": "number",
+        "max_value": 15000
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "/883.gif",
+          "type": "image/gif"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xFD60258A8CfA76829A765E4F3f71c3C03d0eA5aE",
+          "share": "100"
+        }
+      ]
+    }
+  }
+}

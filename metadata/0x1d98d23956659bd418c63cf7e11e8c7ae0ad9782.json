@@ -1,0 +1,30 @@
+{
+  "address": "0x1d98d23956659bd418c63cf7e11e8c7ae0ad9782",
+  "type": "ERC721",
+  "name": "Master Degens NFT",
+  "tokenCount": "1833",
+  "uri": "ipfs://bafybeifkboldwpnbzyckjd6zi5q4l4wnzh2muexxpjyie43kd22b3nyuti/1.json",
+  "metadata": {
+    "name": "Master Degen #1",
+    "description": "CC0.",
+    "image": "ipfs://bafybeibeulr7gwrzit7kghtrgkhrnoa5yjehcq6qbanpwvilsly5ackzva/1.png",
+    "dna": "05d5800a8564deb5c2608a6fa66c9d52c0af524b",
+    "edition": 1,
+    "date": 1662311936604,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Degen",
+        "value": "Beer guy"
+      },
+      {
+        "trait_type": "Text",
+        "value": "panic seller"
+      }
+    ],
+    "compiler": "Degens"
+  }
+}

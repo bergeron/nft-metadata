@@ -1,0 +1,59 @@
+{
+  "address": "0xd6c53b3ea255d0afc0c9eabc4be8eecdad9870a4",
+  "type": "ERC721",
+  "name": "District One",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmT4wn8xr2kkPYy9LnpSoEkKKLTYZdX7V9Hxc1up5rxzxo/1",
+  "metadata": {
+    "name": "District One  #2",
+    "description": "District One",
+    "image": "ipfs://QmehnayJmceG6Gf7M8XcVFVBQzvn6qjF1EmcDdPMCGM2Gy/1.png",
+    "external_url": "https://districtone.xyz",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Gun",
+        "value": "Bat"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Skin A"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Eye Close"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "bun black"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "shirt blue"
+      }
+    ],
+    "compiler": "https://nft-generator.art/",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "District One",
+      "family": "District One"
+    },
+    "symbol": ""
+  }
+}

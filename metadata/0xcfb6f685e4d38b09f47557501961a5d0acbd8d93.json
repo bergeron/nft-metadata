@@ -1,0 +1,24 @@
+{
+  "address": "0xcfb6f685e4d38b09f47557501961a5d0acbd8d93",
+  "type": "ERC721",
+  "name": "Mercredi Six",
+  "tokenCount": "100",
+  "uri": "ipfs://QmYga7TpxVr4sp2mYbLvNmdwLMf5Bp7J8Qqep1fR3SAdqM/1",
+  "metadata": {
+    "name": "Merecredi Six #1",
+    "description": "Votre description",
+    "image": "ipfs://QmZQuKEAqWuEbfJ4Y8SXrGokNce2hgFDcH7ZrEcoFYYfdY/1.png",
+    "edition": 1,
+    "creator": "0x53f2c0Cb49C10be009AdceB2C9F9c1f50AAFB34E",
+    "attributes": [
+      {
+        "trait_type": "Test1",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Test2",
+        "value": "1"
+      }
+    ]
+  }
+}

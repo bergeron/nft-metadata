@@ -1,0 +1,42 @@
+{
+  "address": "0xf50d23b5d2d5cb749e26de010c6cebfb1c24e05d",
+  "type": "ERC721",
+  "name": "Stomach Cancer Project",
+  "tokenCount": "1",
+  "uri": "ipfs://QmPMHtRZP3ZWNu683akyvp2qE7xBY1x3SBABdUytQpy88q/1.json",
+  "metadata": {
+    "name": "Stomach Cancer #1",
+    "description": "Potencial use of exopolyssacharides as a anti-tumoral molecule in stomach cancer",
+    "image": "ipfs://QmQS3V9CZ348zatbBunN26MDizK5fxC1pcCquU1dmk8qGM/1.png",
+    "dna": "6c3f365a9491f9dc37f42050494f1da0816a3dbf",
+    "edition": 1,
+    "date": 1657272492432,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Skin"
+      },
+      {
+        "trait_type": "pancrea",
+        "value": "Pancreaskin"
+      },
+      {
+        "trait_type": "liver",
+        "value": "Liver9"
+      },
+      {
+        "trait_type": "stomach",
+        "value": "Stomach"
+      },
+      {
+        "trait_type": "cover",
+        "value": "Covergeneral"
+      },
+      {
+        "trait_type": "tumor",
+        "value": "Ulcer"
+      }
+    ],
+    "compiler": "BioBayter"
+  }
+}

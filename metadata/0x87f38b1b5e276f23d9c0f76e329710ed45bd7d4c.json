@@ -1,0 +1,34 @@
+{
+  "address": "0x87f38b1b5e276f23d9c0f76e329710ed45bd7d4c",
+  "type": "ERC721",
+  "name": "Non-Fungible-Life",
+  "tokenCount": "4",
+  "uri": "ipfs://QmYThgRyj9RcU2BBJTA9ysP8hHfMqfj4UgJ7VZ9RxcnPLd/1",
+  "metadata": {
+    "description": "This is an NFT of the series of Non-Fungible Life.",
+    "image": "ipfs://QmcTAxBA8mvtDH5E2MAi6iEwesPaSWSo3pY24xxD9uRoiB/7.gif",
+    "name": "An ordinary life",
+    "attributes": [
+      {
+        "trait_type": "Charm",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Strong",
+        "value": 2,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Money",
+        "value": 3,
+        "max_value": 5
+      }
+    ]
+  }
+}

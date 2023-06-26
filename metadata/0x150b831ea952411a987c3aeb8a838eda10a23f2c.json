@@ -1,0 +1,76 @@
+{
+  "address": "0x150b831ea952411a987c3aeb8a838eda10a23f2c",
+  "type": "ERC721",
+  "name": "TestCoin V3",
+  "tokenCount": "13",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmPrq5k9XFpoVAYhLWK1xEyrY2QF2j3JJ9y84zLdYY46st",
+  "metadata": {
+    "title": "Shock G",
+    "image": "ipfs://QmZx3awcLzW4Eb9sjPpxAtaZx2L6ieWDnDpc7jmY3WKE3i",
+    "imageUrl": "https://gateway.pinata.cloud/ipfs/QmZx3awcLzW4Eb9sjPpxAtaZx2L6ieWDnDpc7jmY3WKE3i",
+    "image_author": "",
+    "image_type": "video/mp4",
+    "name": "TestCoin",
+    "description": "z",
+    "swagType": "Accessories",
+    "swagScore": "72",
+    "legacy": "Rockstar, [GOAT]",
+    "swagLevel": "Ice",
+    "fileSize": "Unknow KB",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Shock G"
+      },
+      "description": {
+        "type": "string",
+        "description": "z"
+      },
+      "image": {
+        "type": "string",
+        "description": "ipfs://QmZx3awcLzW4Eb9sjPpxAtaZx2L6ieWDnDpc7jmY3WKE3i"
+      },
+      "swagType": {
+        "type": "string",
+        "description": "Accessories"
+      },
+      "legacy": {
+        "type": "string",
+        "description": "Rockstar, [GOAT]"
+      },
+      "swagScore": {
+        "type": "string",
+        "description": "72"
+      },
+      "swagLevel": {
+        "type": "string",
+        "description": "Ice"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "video/mp4"
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://gateway.pinata.cloud/ipfs/QmZx3awcLzW4Eb9sjPpxAtaZx2L6ieWDnDpc7jmY3WKE3i"
+      },
+      "created_at": {
+        "type": "datetime",
+        "description": "2021-13-21T17:52:51.269256+00:00"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 1
+      },
+      "digital_media_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "digital_media_signature": {
+        "type": "string",
+        "description": "0xCfdb2A5D3e85C3Bf6060f232dCbA8C7Fd757d3E5"
+      }
+    }
+  }
+}

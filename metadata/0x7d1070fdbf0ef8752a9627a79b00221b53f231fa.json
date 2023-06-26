@@ -1,0 +1,105 @@
+{
+  "address": "0x7d1070fdbf0ef8752a9627a79b00221b53f231fa",
+  "type": "ERC721",
+  "name": "Cyber Rabby",
+  "tokenCount": "2224",
+  "uri": "https://backend.pod.so/api/v1/nft/0x7D1070fdbF0eF8752a9627a79b00221b53F231fA/items/1",
+  "metadata": {
+    "tokenId": 1,
+    "collection_address": "0x7D1070fdbF0eF8752a9627a79b00221b53F231fA",
+    "name": "Cyber Rabby #1",
+    "description": "The true pioneer Omnichain NFT to be minted on Ethereum and transferred across chains",
+    "amount": 1,
+    "image": "https://storage.googleapis.com/cyber-rabby/citizen/40364704750812881480226223812201325805608869422904907891314796873054562886347.png",
+    "image_cdn": "https://storage.googleapis.com/cyber-rabby/citizen/40364704750812881480226223812201325805608869422904907891314796873054562886347.png",
+    "thumbnail_cdn": "https://storage.googleapis.com/cyber-rabby/citizen/40364704750812881480226223812201325805608869422904907891314796873054562886347.png",
+    "image_content_type": "",
+    "rarity": {
+      "rank": 163,
+      "score": "0.819%",
+      "total": 2223,
+      "rarity": "mythic",
+      "frequency": ""
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow",
+        "count": 96,
+        "rarity": "Common",
+        "frequency": "5.55%"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Bone",
+        "count": 6,
+        "rarity": "Mythic",
+        "frequency": "0.08%"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Water",
+        "count": 431,
+        "rarity": "Common",
+        "frequency": "19.40%"
+      },
+      {
+        "trait_type": "Clothe",
+        "value": "None",
+        "count": 754,
+        "rarity": "Common",
+        "frequency": "46.40%"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "None",
+        "count": 496,
+        "rarity": "Common",
+        "frequency": "28.71%"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None",
+        "count": 1477,
+        "rarity": "Common",
+        "frequency": "80.48%"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None",
+        "count": 1613,
+        "rarity": "Common",
+        "frequency": "83.94%"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "None",
+        "count": 2063,
+        "rarity": "Common",
+        "frequency": "96.53%"
+      },
+      {
+        "trait_type": "Aspect",
+        "value": "Yang",
+        "count": 1133,
+        "rarity": "Common",
+        "frequency": "50.99%"
+      },
+      {
+        "trait_type": "Blood type",
+        "value": "O",
+        "count": 540,
+        "rarity": "Common",
+        "frequency": "24.30%"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "None",
+        "count": 124,
+        "rarity": "Rare",
+        "frequency": "2.61%"
+      }
+    ],
+    "metadata_id": "40364704750812881480226223812201325805608869422904907891314796873054562886347"
+  }
+}

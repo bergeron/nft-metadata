@@ -1,0 +1,36 @@
+{
+  "address": "0x6678db39984abbef5489735c277564c5b7b9835d",
+  "type": "ERC721",
+  "name": "Dead Will Rise",
+  "tokenCount": "5000",
+  "uri": "https://deadwillrise.xyz/metadata/Z1/120/512",
+  "metadata": {
+    "name": "#1",
+    "description": "An interactive, cross-community event brought to you by Gutter Punks. Every day from October 13th to October 31st a new chapter of the Dead Will Rise story will release and you will have a decision to make. Work together with your Web 3 community for safety or brave the apocalypse alone. Either way your goal is simple: survive.",
+    "image": "https://storage.googleapis.com/dead-will-rise/Z1.jpg",
+    "external_url": "https://deadwillrise.xyz",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Speed",
+        "value": "120",
+        "display_type": "boost_number",
+        "max_value": "150"
+      },
+      {
+        "trait_type": "Luck",
+        "value": "512",
+        "display_type": "boost_number",
+        "max_value": "1000"
+      },
+      {
+        "trait_type": "Group",
+        "value": "Gutter Punks"
+      }
+    ],
+    "compiler": "Gutter Punks Team"
+  }
+}

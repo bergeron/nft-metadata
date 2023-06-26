@@ -1,0 +1,35 @@
+{
+  "address": "0x19bc6c054752b5dbd0462192bccb78346e4e3c40",
+  "type": "ERC1155",
+  "name": "Art Trove",
+  "tokenCount": "359",
+  "uri": "ipfs://QmQTypABaedbcdvxjAECedNamAyXxjESrGGugtpWtam7bg/1.json",
+  "metadata": {
+    "name": "Lady of The Swamp",
+    "image": "ipfs://QmbmdAyozv1fwWLwYxqhAVFEGQVv6Cxom84kAEfUr8yPMr/1.gif",
+    "description": "Beware the marsh can be harsh, or it can be kind. It depends on your intent and what you leave behind. If you accidently cause it damage, your attemp at remorse should be prompt. Hopefully, that will soothe the anger of the lady of the swamp.",
+    "attributes": [
+      {
+        "trait_type": "Lady of The Swamp Variants",
+        "value": "7"
+      },
+      {
+        "trait_type": "Tokens Per Variant",
+        "value": "10"
+      },
+      {
+        "trait_type": "Release Date",
+        "value": "25 Nov 2022"
+      },
+      {
+        "trait_type": "Image Type",
+        "value": "Animated"
+      },
+      {
+        "trait_type": "Color Variation",
+        "value": "Blue"
+      }
+    ],
+    "compiler": "manually created"
+  }
+}

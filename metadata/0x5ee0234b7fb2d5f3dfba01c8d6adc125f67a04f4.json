@@ -1,0 +1,38 @@
+{
+  "address": "0x5ee0234b7fb2d5f3dfba01c8d6adc125f67a04f4",
+  "type": "ERC721",
+  "name": "DurianzNFT",
+  "tokenCount": "209",
+  "uri": "ipfs://QmQCkKtEcuWASPfX9LcGAbrSLZ6kbEWR8eqNbKzBXFe4YP/1.json",
+  "metadata": {
+    "name": "DURIANZ #1",
+    "description": "DURIANZ NFT",
+    "image": "ipfs://QmQe9kU7Nxzr127tjqFckH7sRdRJYeHfU7HSVwDY958GpF/1.png",
+    "dna": "4e50b21663a49d3d1c98489725e9575fc8581b28",
+    "edition": 1,
+    "date": 1655368403349,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "special"
+      },
+      {
+        "trait_type": "Reaction",
+        "value": "7"
+      },
+      {
+        "trait_type": "leak",
+        "value": "red"
+      }
+    ],
+    "compiler": "Durianz Deployer"
+  }
+}

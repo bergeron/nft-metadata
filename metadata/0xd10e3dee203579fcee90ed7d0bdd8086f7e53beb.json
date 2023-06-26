@@ -1,0 +1,86 @@
+{
+  "address": "0xd10e3dee203579fcee90ed7d0bdd8086f7e53beb",
+  "type": "ERC721",
+  "name": "Deconstructed City Plans by Proof of Beauty Studios",
+  "tokenCount": "37",
+  "uri": "https://token.artblocks.io/0xd10e3dee203579fcee90ed7d0bdd8086f7e53beb/1",
+  "metadata": {
+    "platform": "ARTCODE",
+    "tokenID": "1",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x538eaf2a7002d2120f3f7b1e22d36b1db7a65988",
+    "name": "Ensemble #1",
+    "minted": true,
+    "artist": "Loren Bednar",
+    "description": "A visual abstraction of musical performances.  \n\nEach \"Ensemble\" is solely composed of triangles, which represent the components of written music notes (stem, flag, notehead).  The triangular notes animate in the rhythm of musical styles: Tremolo, Vivace, Rondo, Flourish, Call and Response, Capriccio.  In the absence of sound, the animation highlights the exchange of ideas among a group of musicians during a performance.  \n\nA written composition provides musicians with direction, expecting live performers to apply their own influences and flair.  \"Ensemble\" draws a comparison between musical performance and on-chain generative art.  The cryptographic hash provides a unique composition of letters and numbers, which is interpreted and performed by the artist’s code.  \n\nClick to start the performance! Press any key or double click to show/hide the ARTCODE header. \n\n*Photosensitive seizure warning: These artworks contain flashing colors and moving patterns.",
+    "script_type": "p5@1.0.0",
+    "project_id": "0",
+    "engine_type": "fullyonchain",
+    "image": "https://media-proxy.artblocks.io/0xd10e3dee203579fcee90ed7d0bdd8086f7e53beb/1.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xd10e3dee203579fcee90ed7d0bdd8086f7e53beb/1.png",
+    "generator_url": "https://generator.artblocks.io/0xd10e3dee203579fcee90ed7d0bdd8086f7e53beb/1",
+    "animation_url": "https://generator.artblocks.io/0xd10e3dee203579fcee90ed7d0bdd8086f7e53beb/1",
+    "royaltyInfo": {
+      "artistAddress": "0x7f5a0a6847fd0fa05c13cbc02f435047b429e37c",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Ensemble by Loren Bednar",
+    "website": "https://twitter.com/LorenBednar",
+    "token_hash": "0x3acb3c78c5a70637133fb5582cd74af9d0289d8ef65bea956af35223b8901d90",
+    "external_url": "",
+    "primary_asset_url": "https://generator.artblocks.io/0xd10e3dee203579fcee90ed7d0bdd8086f7e53beb/1",
+    "features": {
+      "Divided": "false",
+      "Palette": "Wheat",
+      "Mirrored": "true",
+      "Dissonant": "false",
+      "Fractured": "false",
+      "Specialty": "Strings",
+      "Ensemble Size": "Ultra Band",
+      "Performance Style": "Vivace"
+    },
+    "traits": [
+      {
+        "trait_type": "Ensemble",
+        "value": "All Ensembles"
+      },
+      {
+        "trait_type": "Ensemble",
+        "value": "Divided: false"
+      },
+      {
+        "trait_type": "Ensemble",
+        "value": "Palette: Wheat"
+      },
+      {
+        "trait_type": "Ensemble",
+        "value": "Mirrored: true"
+      },
+      {
+        "trait_type": "Ensemble",
+        "value": "Dissonant: false"
+      },
+      {
+        "trait_type": "Ensemble",
+        "value": "Fractured: false"
+      },
+      {
+        "trait_type": "Ensemble",
+        "value": "Specialty: Strings"
+      },
+      {
+        "trait_type": "Ensemble",
+        "value": "Ensemble Size: Ultra Band"
+      },
+      {
+        "trait_type": "Ensemble",
+        "value": "Performance Style: Vivace"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

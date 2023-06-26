@@ -1,0 +1,35 @@
+{
+  "address": "0x2fb6e962283c3ffc048183913bcbf4626ac1a352",
+  "type": "ERC1155",
+  "name": "Angry Ape Army Armory Collection",
+  "tokenCount": "8",
+  "uri": "https://angryapearmy.mypinata.cloud/ipfs/QmVWT3m3xRrpjun7VFbS5ke51r45NbTPsPqm4LL2Q7pxDS/token/1.json",
+  "metadata": {
+    "name": "Angry Ape Army Golem",
+    "description": "Burn 4 Evos to claim the Golem, a monstrous creature spawned from the Virus Clan. Fast and agile, the Golem will attack from all angles. Add in its ability to uproot and entangle enemies, and the Golem becomes one of the fiercest opponents on the battlefield. Join the Virus Clan with your Golem and strike fear into challengers on Monkey Island.",
+    "external_url": "https://www.angryapearmy.com",
+    "image": "https://angryapearmy.mypinata.cloud/ipfs/QmRL4toFjobmtdR2tVniAQ1tHa2cVGHeLgJJTGoyLoEGHt",
+    "attributes": [
+      {
+        "trait_type": "Team",
+        "value": "Virus"
+      },
+      {
+        "trait_type": "Speed",
+        "value": "Fast Movement"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Damage",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Special",
+        "value": "Fast Melee Attack, Uproot Entangle"
+      }
+    ]
+  }
+}

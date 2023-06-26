@@ -1,0 +1,54 @@
+{
+  "address": "0x06be5f654fdd0fd5988ce5d53ed89bdd3a72b308",
+  "type": "ERC1155",
+  "name": "Unidentified contract - k2sGiecsCB",
+  "tokenCount": "94",
+  "uri": "https://nft1.projz.com/zofficialproductions/1.json",
+  "metadata": {
+    "name": "Cupid Wing (L)",
+    "image": "https://nft1.projz.com/1580463879792230401-animation.webp",
+    "animation_url": "https://nft1.projz.com/1580463879792230401-animation.webp",
+    "token_id": "1",
+    "type": "Collectibles",
+    "model": "Simple",
+    "entity_url": "https://nft1.projz.com/1580463879792230401.zpk",
+    "entity_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "contract_address": "0x06BE5f654FDD0fd5988ce5d53ED89BDD3a72b308",
+    "minter_address": "0x6e4Ec2bF0959B571A05Aaf2963b7e1345156DDd0",
+    "credits": [
+      {
+        "name": "Z Official Productions",
+        "certificate_url": "https://nft1.projz.com/certificates/102.pem",
+        "certificate_sha256": "bf625ec947513db47eb97873acba1632f9a5322afe2bc98dfa3e0cd8dde63e68",
+        "type": "Author"
+      },
+      {
+        "name": "Z Official Productions",
+        "certificate_url": "https://nft1.projz.com/certificates/102.pem",
+        "certificate_sha256": "bf625ec947513db47eb97873acba1632f9a5322afe2bc98dfa3e0cd8dde63e68",
+        "type": "Publisher",
+        "addresses": [
+          "0x6e4Ec2bF0959B571A05Aaf2963b7e1345156DDd0",
+          "0x06BE5f654FDD0fd5988ce5d53ED89BDD3a72b308",
+          "0x6e4Ec2bF0959B571A05Aaf2963b7e1345156DDd0"
+        ]
+      }
+    ],
+    "signatures_url": "https://nft1.projz.com//signatures/1580463879792230401.sig",
+    "capabilities": [
+      {
+        "type": 1,
+        "name": "ProfileFrame",
+        "contents": [
+          {
+            "id": 1580463879796424700,
+            "name": "Cupid Wing (L)",
+            "preview_url": "http://pf1.projz.com/8729/1580463736565137408-v2-r600x600-s600x600.webp",
+            "resource_url": "https://nft1.projz.com/1580463879796424704.zpf",
+            "resource_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        ]
+      }
+    ]
+  }
+}

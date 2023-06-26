@@ -1,0 +1,23 @@
+{
+  "address": "0x7111560a36ba3083fb991f4edd687af290d84d78",
+  "type": "ERC1155",
+  "name": "Fast Food Frens Marketplace Items",
+  "tokenCount": "25",
+  "uri": "https://fastfoodfrens.herokuapp.com/vxitems/1",
+  "metadata": {
+    "name": "Burgerly King Backpack",
+    "description": "Fast Food Frens VX Wearables",
+    "external_url": "https://fryer.fastfoodfren.com/marketplace",
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Backpacks"
+      }
+    ],
+    "image": "https://fastfoodfrens.herokuapp.com/vxitems/1/image/"
+  }
+}

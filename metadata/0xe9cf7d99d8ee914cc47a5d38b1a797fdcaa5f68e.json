@@ -1,0 +1,42 @@
+{
+  "address": "0xe9cf7d99d8ee914cc47a5d38b1a797fdcaa5f68e",
+  "type": "ERC721",
+  "name": "Speeches V2",
+  "tokenCount": "2",
+  "uri": "https://ipfs.pixura.io/ipfs/QmZbC2L4sNYQ4xABAG8fZSo4z86gJhPuQxsQxYbMYPjXU3/metadata.json",
+  "metadata": {
+    "name": "Brother",
+    "createdBy": "Klahr",
+    "yearCreated": "2023",
+    "description": "Excerpts from personal speeches given to me. Transcribed VHS recordings.",
+    "image": "https://ipfs.pixura.io/ipfs/QmbFTR8WaaftxU5ys5nGXU39nVEbBz2wZBjw53SkoYSW4f/brother.jpg",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmbFTR8WaaftxU5ys5nGXU39nVEbBz2wZBjw53SkoYSW4f/brother.jpg",
+      "dimensions": "3449x4961",
+      "size": "15147189",
+      "mimeType": "image/jpeg"
+    },
+    "tags": [
+      "Speeches",
+      "speech",
+      "calligraphy",
+      "asemic",
+      "brother",
+      "vhs"
+    ],
+    "attributes": [
+      {
+        "trait_type": "Ink",
+        "value": "Sumi"
+      },
+      {
+        "trait_type": "Paper",
+        "value": "coldpressed"
+      },
+      {
+        "trait_type": "Tool",
+        "value": "Rulingpen"
+      }
+    ]
+  }
+}

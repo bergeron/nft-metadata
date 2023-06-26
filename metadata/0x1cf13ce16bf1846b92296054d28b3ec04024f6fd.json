@@ -1,0 +1,46 @@
+{
+  "address": "0x1cf13ce16bf1846b92296054d28b3ec04024f6fd",
+  "type": "ERC721",
+  "name": "My Tiny Rooms",
+  "tokenCount": "31",
+  "uri": "ipfs://QmZnJZMbMdWdhASHHBWmv5u6vp8H5KFSqy2Zg7mJVKhiFw/1.json",
+  "metadata": {
+    "name": "My Tiny Rooms #1",
+    "description": "Collect tiny rooms and build tiny castles",
+    "image": "ipfs://QmQJ2jhqw9svdK6Q1e9UkYVWrCngKWPxmZEtt4PcNMGRYw/1.png",
+    "dna": "6f9b96ca85fe4975412a9f9a85035ed78ff3336c",
+    "edition": 1,
+    "date": 1654905077725,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Pink Glitter"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Pink With Molding"
+      },
+      {
+        "trait_type": "Wall Hanging",
+        "value": "Gold Stripes"
+      },
+      {
+        "trait_type": "Side Table",
+        "value": "Pink Wrapped Round"
+      },
+      {
+        "trait_type": "Decor",
+        "value": "Black Cell Phone"
+      },
+      {
+        "trait_type": "Furniture",
+        "value": "Pink Sewing Desk"
+      },
+      {
+        "trait_type": "Corner",
+        "value": "Black Stereo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

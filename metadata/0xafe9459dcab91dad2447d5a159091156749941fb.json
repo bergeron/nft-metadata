@@ -1,0 +1,45 @@
+{
+  "address": "0xafe9459dcab91dad2447d5a159091156749941fb",
+  "type": "ERC721",
+  "name": "Wrapped Gen0 CryptoKitties",
+  "tokenCount": "31",
+  "uri": "https://api.cryptokitties.co/tokenuri/1",
+  "metadata": {
+    "id": 1,
+    "created_at": "2017-11-23T06:19:59.000Z",
+    "name": "Genesis",
+    "background_color": "dfdffa",
+    "image": "https://img.cryptokitties.co/0x06012c8cf97bead5deae237070f9587f8e7a266d/1.png",
+    "external_url": "https://www.cryptokitties.co/kitty/1",
+    "genes": "626837621154801616088980922659877168609154386318304496692374110716999053",
+    "fetched_at": 1687513615212,
+    "nickname": "Genesis",
+    "description": "Greetings, human. I am Genesis. The dogs know me as alpha; the cats know me as omega. To your kind, I am a riddle wrapped in an enigma, first found by a user in Mystery, Alaska. I looked into the void and the void looked back. Then I lost interest. I can’t wait to be your new owner!",
+    "attributes": [
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 0
+      },
+      {
+        "trait_type": "class",
+        "value": "exclusive"
+      },
+      {
+        "trait_type": "type",
+        "value": "Genesis"
+      }
+    ],
+    "mutable_attributes": [
+      {
+        "trait_type": "cooldown index",
+        "display_type": "number",
+        "value": 0
+      },
+      {
+        "trait_type": "virginity",
+        "value": "virgin"
+      }
+    ]
+  }
+}

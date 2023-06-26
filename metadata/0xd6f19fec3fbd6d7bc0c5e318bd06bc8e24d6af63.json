@@ -1,0 +1,165 @@
+{
+  "address": "0xd6f19fec3fbd6d7bc0c5e318bd06bc8e24d6af63",
+  "type": "ERC721",
+  "name": "Sutu",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/xDbiFvFARYaPgKn2oDmmEbh6jX2YKxtfHbkb48ke0Gg",
+  "metadata": {
+    "name": "Post Humanity Arcade",
+    "created_by": "Sutu",
+    "description": "Embrace the Post Humanity Arcade. Synthetic memory enhancements and cybernetic upgrades. Be more. See more. Feel more. Upgrade everything. Remain connected. Reach beyond the fractal fresh into the meta sensory domain. \n\nArtist: Sutu | Medium: 2D/3D animation 13440 x2160 pixels | Original Creation date: February 2023",
+    "Multisensory_data": [
+      {
+        "actuations": [
+          {
+            "time": 0,
+            "devices": [
+              {
+                "id": 302,
+                "name": "Fragrances",
+                "state": "on",
+                "type": "Smoke",
+                "typeId": 302
+              },
+              {
+                "id": 100,
+                "name": "Fog",
+                "state": "on"
+              },
+              {
+                "id": 251,
+                "name": "RGBBottom",
+                "state": "on",
+                "color": {
+                  "red": 8,
+                  "green": 0,
+                  "blue": 239,
+                  "value": 1
+                }
+              }
+            ]
+          },
+          {
+            "time": 10,
+            "devices": [
+              {
+                "id": 302,
+                "name": "Fragrances",
+                "state": "off",
+                "type": "Smoke",
+                "typeId": 302
+              }
+            ]
+          },
+          {
+            "time": 11.5,
+            "devices": [
+              {
+                "id": 302,
+                "name": "Fragrances",
+                "state": "on",
+                "type": "Smoke",
+                "typeId": 302
+              }
+            ]
+          },
+          {
+            "time": 21.5,
+            "devices": [
+              {
+                "id": 302,
+                "name": "Fragrances",
+                "state": "off",
+                "type": "Smoke",
+                "typeId": 302
+              }
+            ]
+          },
+          {
+            "time": 44,
+            "devices": [
+              {
+                "id": 100,
+                "name": "Fog",
+                "state": "off"
+              },
+              {
+                "id": 251,
+                "name": "RGBBottom",
+                "state": "off",
+                "color": {
+                  "red": 8,
+                  "green": 0,
+                  "blue": 239,
+                  "value": 1
+                }
+              }
+            ]
+          },
+          {
+            "time": 44.04,
+            "devices": [
+              {
+                "id": 150,
+                "name": "Wind",
+                "state": "on",
+                "value": 1,
+                "temperature": "cold"
+              }
+            ]
+          },
+          {
+            "time": 49.54,
+            "devices": [
+              {
+                "id": 150,
+                "name": "Wind",
+                "state": "off",
+                "value": 1,
+                "temperature": "cold"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "content_url": "https://verticalcrypto.mypinata.cloud/ipfs/QmVVGjwJHaNLFuUHDsAdTuZeuPrWzVoS9VkC4wtoR1ZCPY",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Sutu"
+      },
+      {
+        "trait_type": "Gallery ",
+        "value": "Art In Space"
+      },
+      {
+        "trait_type": "Curator",
+        "value": "Vertical Crypto"
+      }
+    ],
+    "image_details": {
+      "bytes": 903803,
+      "format": "JPEG",
+      "sha256": "a807c79ccee3fef0508717b2828aac1d5b2d09ea691d74d251199b14946060b1",
+      "width": 2500,
+      "height": 1500
+    },
+    "image": "https://arweave.net/TMA98rPHaKc-6JxdesuTKo-ggv76R4E85Oux7-36Nvc",
+    "image_url": "https://arweave.net/TMA98rPHaKc-6JxdesuTKo-ggv76R4E85Oux7-36Nvc",
+    "animation_details": {
+      "bytes": 204772486,
+      "format": "MP4",
+      "duration": 117,
+      "sha256": "bfca25b9a5acd2ed48965c4deda722ef90079b51fa40c1aaddf58d9a0d2909af",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/VyOdomEEG8G9KsZo7iQQrx0CbNQHJYp6-DD1hmRbqeM",
+    "animation_url": "https://arweave.net/VyOdomEEG8G9KsZo7iQQrx0CbNQHJYp6-DD1hmRbqeM"
+  }
+}

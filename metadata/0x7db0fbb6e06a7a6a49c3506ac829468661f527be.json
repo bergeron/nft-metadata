@@ -1,0 +1,88 @@
+{
+  "address": "0x7db0fbb6e06a7a6a49c3506ac829468661f527be",
+  "type": "ERC721",
+  "name": "Crypto Zuki",
+  "tokenCount": "3474",
+  "uri": "ipfs://QmS4FmChwcY3VWfPhS31CqmkiJh7LerWqcdtW46PVCh4pr/1.json",
+  "metadata": {
+    "dna": "0d31fedb6d609095f5c49ede90b89fb0348afc3e",
+    "name": "CryptoZuki #1",
+    "description": "CryptoZuki is a 10,000 piece pixel art collection on the Ethereum Blockchain. Paying reverence to the original Azuki artwork, while establishing itself as an entirely new project, CryptoZuki is a blend of nostalgia, art, and utility",
+    "image": "https://gateway.pinata.cloud/ipfs/QmP9YKJq5uKE3HCn6ftxbFiBqLm6LGSW8HLfZXEtr6BBR7/1.png",
+    "edition": 1,
+    "date": 1653304043250,
+    "Link": "",
+    "seller_fee_basis_points": 0,
+    "external_url": "",
+    "collection": {
+      "name": "CryptoZuki",
+      "family": "CryptoZuki"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0",
+          "share": 0
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "OffWhiteA"
+      },
+      {
+        "trait_type": "Offhand",
+        "value": "Boombox"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Human"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "NoNeck"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Bandaid"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "NoEar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Focused"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "BrownLong"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "NoHeadgear"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "KungFuShirt"
+      },
+      {
+        "trait_type": "Special",
+        "value": "NoSpecial"
+      }
+    ],
+    "compiler": "inst:"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0x80d76e70ae8120d5fcaf0416e8fe33f21ce7bcd5",
+  "type": "ERC1155",
+  "name": "BULLRUN BOOSTER NFT",
+  "tokenCount": "1",
+  "uri": "https://cdn.bullrun.life/contracts/stakingbooster/metadata/brl-booster.json",
+  "metadata": {
+    "name": "BULLRUN NFTSB",
+    "created_by": "BULLRUN",
+    "external_url": "https://bullrun.life/",
+    "description": "This NFT Staking Booster serves to maximize $USDC rewards distributions once staked with the $BRL Token.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "BLACK LEMON"
+      }
+    ],
+    "image_details": {
+      "format": "PNG",
+      "width": 1804,
+      "height": 1810
+    },
+    "image": "https://cdn.bullrun.life/contracts/stakingbooster/staking_booster.png",
+    "image_url": "https://cdn.bullrun.life/contracts/stakingbooster/staking_booster.png",
+    "animation_details": {
+      "format": "MP4",
+      "duration": 7,
+      "width": 3000,
+      "height": 3000,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://cdn.bullrun.life/contracts/stakingbooster/staking_booster.mp4",
+    "animation_url": "https://cdn.bullrun.life/contracts/stakingbooster/staking_booster.mp4"
+  }
+}

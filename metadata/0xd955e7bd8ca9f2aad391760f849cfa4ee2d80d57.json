@@ -1,0 +1,18 @@
+{
+  "address": "0xd955e7bd8ca9f2aad391760f849cfa4ee2d80d57",
+  "type": "ERC1155",
+  "name": "HELIX - COLLECTABLES",
+  "tokenCount": "35",
+  "uri": "https://helix.herokuapp.com/api/tokens/metadata/1",
+  "metadata": {
+    "name": "HELIX - DIAMOND MYSTERY VAULT",
+    "description": "A premium VAULT, filled with surprises.",
+    "image": "https://helix-item-nft.s3.amazonaws.com/1.png",
+    "attributes": [
+      {
+        "trait_type": "Mystery Item",
+        "value": "Vault"
+      }
+    ]
+  }
+}

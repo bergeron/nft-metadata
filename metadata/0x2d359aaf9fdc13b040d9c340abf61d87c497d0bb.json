@@ -1,0 +1,40 @@
+{
+  "address": "0x2d359aaf9fdc13b040d9c340abf61d87c497d0bb",
+  "type": "ERC721",
+  "name": "Sausage Party Club",
+  "tokenCount": "31",
+  "uri": "https://sausageparty.club/api/sausages/1",
+  "metadata": {
+    "id": 1,
+    "name": "Sausage #1",
+    "image": "https://bafybeieidbnmfqxdu73rkyorvtsmwxvfaz5gb45cwcq7a5bhlu3jhjqu5m.ipfs.dweb.link/",
+    "description": "10,000 uniquely generated Sausages have been stuffed into the Meataverse and are waiting to be pulled out by you!",
+    "external_url": "https://sausageparty.club",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Sausage",
+        "value": "Party"
+      },
+      {
+        "trait_type": "Head Gear",
+        "value": "Sweat Band"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Sunglasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smirk"
+      },
+      {
+        "trait_type": "Holding",
+        "value": "Tennis Racquet"
+      }
+    ]
+  }
+}

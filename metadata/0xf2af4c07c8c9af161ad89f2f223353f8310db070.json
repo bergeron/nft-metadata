@@ -1,0 +1,32 @@
+{
+  "address": "0xf2af4c07c8c9af161ad89f2f223353f8310db070",
+  "type": "ERC1155",
+  "name": "Gear for Adventurers",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/6DYunF-FxewXlbLjXOognBL3PdQ0z0mdErPK6SNlHXA",
+  "metadata": {
+    "name": "Linen Robe",
+    "created_by": "Gear (for Adventurers)",
+    "external_url": "https://twitter.com/Gearproject_",
+    "description": "A Loot derivative that visualises items, adds a rarity score and matches the existing Loot item supply.",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Chest"
+      }
+    ],
+    "image_details": {
+      "bytes": 207999,
+      "format": "PNG",
+      "sha256": "79daffc126fc299d8b4bbb86b74a8961eede165aa2bcc4a2ff80ea043e2b3e1f",
+      "width": 960,
+      "height": 960
+    },
+    "image": "https://arweave.net/Q-GxVG-U5UorSF3lLcgSbtqhSKDQtgV1C0RsiuIcf_w",
+    "image_url": "https://arweave.net/Q-GxVG-U5UorSF3lLcgSbtqhSKDQtgV1C0RsiuIcf_w"
+  }
+}

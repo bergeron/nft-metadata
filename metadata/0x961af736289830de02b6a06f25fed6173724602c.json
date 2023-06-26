@@ -1,0 +1,68 @@
+{
+  "address": "0x961af736289830de02b6a06f25fed6173724602c",
+  "type": "ERC721",
+  "name": "Serene Animo",
+  "tokenCount": "830",
+  "uri": "https://geneticchain.io/api/project/11/token/1/meta",
+  "metadata": {
+    "project": "Serene Animo",
+    "projectLogo": "https://geneticchain.io/api/project/11/logo",
+    "name": "Serene Animo #1",
+    "artDesc": "Calming shapes and colors inspire to relax and let the mind wonder. ",
+    "description": "A **[Genetic Chain](https://geneticchain.io)** Project.\n\n**Project #11**: [Serene Animo](https://geneticchain.io/project/11) by atara\n\nCalming shapes and colors inspire to relax and let the mind wonder.",
+    "artist": "atara",
+    "tokenId": "1",
+    "website": "https://www.atara.xyz",
+    "dapp": null,
+    "license": "BYAC License",
+    "attributes": [
+      {
+        "trait_type": "Layers",
+        "value": "4"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Flow"
+      },
+      {
+        "trait_type": "Points",
+        "value": "10"
+      },
+      {
+        "trait_type": "Shapes",
+        "value": "Circle"
+      },
+      {
+        "trait_type": "Speed",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Size",
+        "value": "XL"
+      },
+      {
+        "trait_type": "Hilbert",
+        "value": "Ultra High"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Offset Inferno"
+      },
+      {
+        "trait_type": "Stacking",
+        "value": "High"
+      }
+    ],
+    "tokenHash": "0xa34ba1c3caa9436c028e7d8399f11dfd8f7d846c367c0d94640c38899a94493b",
+    "maxTokens": 830,
+    "state": {
+      "sdfblend": "50",
+      "speed": "0",
+      "size": "75"
+    },
+    "dynamic": true,
+    "image": "https://geneticchain.io/api/project/11/token/1/image",
+    "external_url": "https://geneticchain.io/project/11/token/1",
+    "animation_url": "https://geneticchain.io/project/11/token/1/anim"
+  }
+}

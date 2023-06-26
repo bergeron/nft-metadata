@@ -1,0 +1,38 @@
+{
+  "address": "0x24449346f2f8d6c874754b73904157dccc5da404",
+  "type": "ERC721",
+  "name": "Estancia Amarillo",
+  "tokenCount": "40",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=BV7xmsdUAwEPIWEGoEcY",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1571100804451?alt=media&token=e251fc9c-6508-420b-bbde-2e728fe6098e",
+    "isForSale": false,
+    "description": "Cada novillo tiene una caravana con su respectivo número",
+    "contractAddress": "0x24449346f2F8d6C874754b73904157DcCc5dA404",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x24449346f2F8d6C874754b73904157DcCc5dA404/BV7xmsdUAwEPIWEGoEcY",
+    "minter": "0xF14c405DC11157810428334f2fEb8f5270Cf6927",
+    "mintedOn": {
+      "_seconds": 1571100836,
+      "_nanoseconds": 628000000
+    },
+    "price": "0",
+    "name": "Novillos de la Estancia Amarillo",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Novillos de la Estancia Amarillo"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "minted": "Minted on Mintbase.io"
+  }
+}

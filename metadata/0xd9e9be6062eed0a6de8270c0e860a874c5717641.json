@@ -1,0 +1,78 @@
+{
+  "address": "0xd9e9be6062eed0a6de8270c0e860a874c5717641",
+  "type": "ERC721",
+  "name": "MILA LOLLI - Creature House",
+  "tokenCount": "1",
+  "uri": "https://metadata.metamundo.co/0xd9e9be6062eed0a6de8270c0e860a874c5717641/1",
+  "metadata": {
+    "name": "Creature House",
+    "description": "Mila Lolli's 'Creature House' is a playable 3D metaverse asset that is derived from the original 'Creatures of the Night' collection that she created in 2021. The collection is inspired by the American rock band Kiss, and their playful identities and face paints. Each individual piece within the 'Creatures of the Night' collection was audio reactive, and following that collection, the 'Creature House' was created. It challenges traditional architecture through its incorporation of characteristics of wild nocturnal animal faces. Mila's intention behind the 'Creature House' is for it to be utilized as an entertainment venue by serving as a celebratory stage for musicians and performers, across the metaverse.",
+    "image": "https://cdn.metamundo.co/metadata/default-Opensea-1080x1080_mila.png",
+    "animation_url": "https://cdn.metamundo.co/metadata/Mila_CH1_default_video_Turntable.mp4",
+    "audio_url": "",
+    "external_url": "https://www.metamundo.co/milalolli/Creature-House/",
+    "model_type": [],
+    "attributes": [],
+    "additional_files": [],
+    "metaverse_models": [
+      {
+        "format": "GLB",
+        "models": [
+          {
+            "name": "high fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/milalolli/creature-house/MilaLolli_CreatureHouse_HigherFidelityGLB.glb",
+            "image": null,
+            "animation_url": null
+          },
+          {
+            "name": "lower fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/milalolli/creature-house/MilaLolli_CreatureHouse_LowerFidelityGLB.rar",
+            "image": null,
+            "animation_url": null
+          }
+        ]
+      },
+      {
+        "format": "VOX/VXR",
+        "models": [
+          {
+            "name": "lower fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/milalolli/creature-house/MilaLolli_CreatureHouse_LowerFidelityVoxel.rar",
+            "image": null,
+            "animation_url": null
+          }
+        ]
+      },
+      {
+        "format": "USD",
+        "models": [
+          {
+            "name": "highest fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/milalolli/creature-house/MilaLolli_CreatureHouse_HighestFidelityFile_USD.rar",
+            "image": null,
+            "animation_url": null
+          }
+        ]
+      },
+      {
+        "format": "FBX",
+        "models": [
+          {
+            "name": "highest fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/milalolli/creature-house/MilaLolli_CreatureHouse_HighestFidelityFile_FBX.rar",
+            "image": null,
+            "animation_url": null
+          },
+          {
+            "name": "lower fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/milalolli/creature-house/MilaLolli_CreatureHouse_LowerFidelityFBX.rar",
+            "image": null,
+            "animation_url": null
+          }
+        ]
+      }
+    ],
+    "metafield": "© 2023 milalolli, All Rights Reserved.",
+    "End User Licensing Agreement": "https://ipfs.io/ipfs/QmVD5itG2cUNEWcW18Xyq7G8v1Nt9kYUjBy9MdC1Nq2uCs"
+  }
+}

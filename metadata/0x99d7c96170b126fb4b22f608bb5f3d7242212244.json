@@ -1,0 +1,44 @@
+{
+  "address": "0x99d7c96170b126fb4b22f608bb5f3d7242212244",
+  "type": "ERC721",
+  "name": "Mystery Box For Gamblers Only",
+  "tokenCount": "555",
+  "uri": "ipfs://QmRaAtEfdPX4QDfi5GvgCXnKuhdBhaLDJpeWCPxMot7fFY/1.json",
+  "metadata": {
+    "name": "Box #1",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://QmWS2FypqjgJw8j3YTDuwZjH1qpJP2W5sDCjPzF8gVda3Z/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Spray",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "orangeleaf"
+      },
+      {
+        "trait_type": "Lines",
+        "value": "doublegreen"
+      },
+      {
+        "trait_type": "Rarity ",
+        "value": "common"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    }
+  }
+}

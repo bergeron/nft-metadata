@@ -1,0 +1,72 @@
+{
+  "address": "0x7646db1caa1689c0e3f3b3b2059c211975345807",
+  "type": "ERC721",
+  "name": "ethroyal",
+  "tokenCount": "1",
+  "uri": "https://nftstorage.link/ipfs/bafybeic4vh43lez27525v3isbozaxlq472spj644uvyrn5ilny2oiwirmq/1",
+  "metadata": {
+    "id": 8150,
+    "description": "Good Test!",
+    "name": "ethrainbow",
+    "collectionId": 58596,
+    "image": "https://nftstorage.link/ipfs/bafkreicxft3sipmopugvbzhusy7rcmzrokvjaz5x3rb5qkb35dobswpnmi",
+    "attributes": [
+      {
+        "display_type": "string",
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Color",
+        "value": "Blue"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Color2",
+        "value": "Blue"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Color3",
+        "value": "Red"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Levels 1",
+        "value": 1,
+        "total": 5
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Levels 2",
+        "value": 2,
+        "total": 5
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Levels 3",
+        "value": 5,
+        "total": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Stats 1",
+        "value": 1,
+        "total": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Stats 2",
+        "value": 3,
+        "total": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Stats 3",
+        "value": 2,
+        "total": 3
+      }
+    ]
+  }
+}

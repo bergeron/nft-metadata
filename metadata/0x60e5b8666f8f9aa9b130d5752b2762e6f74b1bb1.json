@@ -1,0 +1,38 @@
+{
+  "address": "0x60e5b8666f8f9aa9b130d5752b2762e6f74b1bb1",
+  "type": "ERC721",
+  "name": "tohikas",
+  "tokenCount": "3",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=DswsUJpwXk7kNYy6RRWV",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1571487900098?alt=media&token=9eb4a835-aa2a-41f1-ad62-dba4dfe5d955",
+    "isForSale": true,
+    "description": "best test to mint",
+    "contractAddress": "0x60e5B8666F8F9AA9b130D5752b2762e6f74B1BB1",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x60e5B8666F8F9AA9b130D5752b2762e6f74B1BB1/DswsUJpwXk7kNYy6RRWV",
+    "minter": "0x68F8257a9D11b89F2497038723C1429761540997",
+    "mintedOn": {
+      "_seconds": 1571487911,
+      "_nanoseconds": 102000000
+    },
+    "price": "0.2",
+    "name": "testi1",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "testi1"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

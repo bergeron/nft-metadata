@@ -1,0 +1,50 @@
+{
+  "address": "0x41661221132ebe96a3b671357ae6fae69ac198ae",
+  "type": "ERC1155",
+  "name": "Women Of Dada",
+  "tokenCount": "10",
+  "uri": "ipfs://Qmb4UHHn7ZsAQzXxuq6RaRJVH4zBSpn4vikHHSpKN86BF5/1/token.json",
+  "metadata": {
+    "name": "Clara Tice",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/image/upload/w_1200/v1679002413/0xdc546f477f273bcf327297bf4adcb671b5f20be1/6412469d88174e3918fb6b4c/stateCovers/ida6mi7zvq0dhdhfdwqb.png",
+    "description": "Clara was an artist and illustrator, with her drawings featuring in Vanity Fair.\n\nNotably, a cafe was raided by the New York Society for the Suppression of Vice - the morality police - in search of her artworks, which caused demand for her art to skyrocket.\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Sparrow"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Right Seat 2"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "Women Of Dada"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0xdc546f477f273bcf327297bf4adcb671b5f20be1"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Right Seat 2",
+              "state": {
+                "label": "Clara Tice",
+                "uri": "QmV7QGFKzhqwCtGrZAan8Zt5mGTNL5hMZy3vJyGNjKgU5B"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

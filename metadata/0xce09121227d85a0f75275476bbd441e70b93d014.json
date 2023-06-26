@@ -1,0 +1,41 @@
+{
+  "address": "0xce09121227d85a0f75275476bbd441e70b93d014",
+  "type": "ERC721",
+  "name": "test123",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/v5uj3ok5J-ZzGhdBpJS5XitYZO5Gf-cWiMRkd0QjEbo",
+  "metadata": {
+    "name": "test123a",
+    "created_by": "testseeds",
+    "description": "3d",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "studio "
+      },
+      {
+        "trait_type": "Vitamin",
+        "value": "A"
+      },
+      {
+        "trait_type": "Vitamin",
+        "value": "B"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "ph",
+        "value": "3",
+        "max_value": "14"
+      }
+    ],
+    "image_details": {
+      "bytes": 6461,
+      "format": "JPEG",
+      "sha256": "10c3d1674830f2dc21fe298d50a2fb7afa073beb949f8a6c59c89735e9ed1948",
+      "width": 249,
+      "height": 202
+    },
+    "image": "https://arweave.net/3r7FG2jFDO0fRNwZzobXXbth1lWYm2N-bCxpwS0qO7s",
+    "image_url": "https://arweave.net/3r7FG2jFDO0fRNwZzobXXbth1lWYm2N-bCxpwS0qO7s"
+  }
+}

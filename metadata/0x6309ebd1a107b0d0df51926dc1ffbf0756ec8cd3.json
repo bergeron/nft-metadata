@@ -1,0 +1,40 @@
+{
+  "address": "0x6309ebd1a107b0d0df51926dc1ffbf0756ec8cd3",
+  "type": "ERC721",
+  "name": "You Can Rest Here",
+  "tokenCount": "999",
+  "uri": "ipfs://bafybeibvan6fl724wzajjalld3xa62bmp44a2i3of7p2g7s2gjmv7i5lxa/1",
+  "metadata": {
+    "name": "MoodSphere #1",
+    "description": "This is the present moment.",
+    "image": "ipfs://bafybeiehvmhpuicyygx6fqpcldhjzt337bxhttfagwluyvrs3ksd65cswi/1.jpeg",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Space",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "Fire",
+        "value": "Fire Storm"
+      },
+      {
+        "trait_type": "Sun",
+        "value": "Sun Metal Meat"
+      },
+      {
+        "trait_type": "Earth",
+        "value": "Earth Creation"
+      },
+      {
+        "trait_type": "Water",
+        "value": "Water Crescent Below"
+      },
+      {
+        "trait_type": "Flower",
+        "value": "Flower Water Right"
+      }
+    ],
+    "compiler": "Open3"
+  }
+}

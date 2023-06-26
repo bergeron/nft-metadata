@@ -1,0 +1,38 @@
+{
+  "address": "0x5da34f52e618f6839660821e34bb4e6128c76854",
+  "type": "ERC721",
+  "name": "kaigani",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=X3zqdhtqhfliN0pX6Q5P",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1573233203332?alt=media&token=7ddee5de-c06b-41c1-acc8-b155472c5fb7",
+    "isForSale": false,
+    "description": "Kai's original avatar recreated from a classic Apple ][e game",
+    "contractAddress": "0x5da34F52E618F6839660821e34bB4e6128c76854",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x5da34F52E618F6839660821e34bB4e6128c76854/X3zqdhtqhfliN0pX6Q5P",
+    "minter": "0xC5e38233Cc0D7CFf9340e6139367aBA498EC9b18",
+    "mintedOn": {
+      "_seconds": 1573233260,
+      "_nanoseconds": 205000000
+    },
+    "price": "0",
+    "name": "Drol Kai",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Drol Kai"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

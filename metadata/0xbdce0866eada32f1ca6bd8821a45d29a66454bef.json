@@ -1,0 +1,45 @@
+{
+  "address": "0xbdce0866eada32f1ca6bd8821a45d29a66454bef",
+  "type": "ERC721",
+  "name": "Dentaverse Student",
+  "tokenCount": "5",
+  "uri": "ipfs://QmVygxXgyuiQLeZsWqdtpyD8wA4ya28sEhrk3PRZMza8hg/1.json",
+  "metadata": {
+    "name": "TEST #1",
+    "description": "TEST",
+    "image": "ipfs://QmS45HvnbM5BZ9c7yiEu6kTdVAgsVf9eWp4VGxNbFmnKcz/1.mp4",
+    "edition": 1,
+    "date": 1669206551883,
+    "attributes": [
+      {
+        "trait_type": "TEST",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "TEST2",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "TEST3",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "TEST4",
+        "value": "None"
+      },
+      {
+        "trait_type": "TEST5",
+        "value": "Belgium"
+      },
+      {
+        "trait_type": "TEST6",
+        "value": "Diamond"
+      },
+      {
+        "trait_type": "TEST7",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

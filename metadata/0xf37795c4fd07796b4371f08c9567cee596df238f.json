@@ -1,0 +1,40 @@
+{
+  "address": "0xf37795c4fd07796b4371f08c9567cee596df238f",
+  "type": "ERC1155",
+  "name": "The Uther Trunks",
+  "tokenCount": "2",
+  "uri": "https://uther-trunks.communitynftproject.io/1",
+  "metadata": {
+    "id": "1",
+    "name": "Uther Male Trunk",
+    "image": "https://uther-trunks.communitynftproject.io/utherTrunks/male-trunk.mp4",
+    "animation_url": "https://uther-trunks.communitynftproject.io/utherTrunks/male-trunk.mp4",
+    "description": "By owning a male Uther Trunk you will receive a future Uthers collection of male clothing and a piece of Utherverse real estate.",
+    "attributes": [
+      {
+        "trait_type": "Handles",
+        "value": "Carbon Steel"
+      },
+      {
+        "trait_type": "Material",
+        "value": "Full grain leather"
+      },
+      {
+        "trait_type": "Lock 1",
+        "value": "Retina Scanner"
+      },
+      {
+        "trait_type": "Lock 2",
+        "value": "Ledger Port"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Locked"
+      },
+      {
+        "trait_type": "Trunk Type",
+        "value": "Male"
+      }
+    ]
+  }
+}

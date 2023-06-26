@@ -1,0 +1,40 @@
+{
+  "address": "0xa9bc86baf3d40e2d014467f1f2b86182581c728f",
+  "type": "ERC721",
+  "name": "Crypto Cards Deluxe",
+  "tokenCount": "22",
+  "uri": "https://256bit.io/api/metadata/1",
+  "metadata": {
+    "description": "One of the amazing original crypto cards from 256bit Labs",
+    "external_url": "https://256bit.io/ccd",
+    "image": "https://256bit.io/api/cards/1",
+    "name": "Jack of Spades",
+    "edition": 1,
+    "attributes": [
+      {
+        "value": "J",
+        "trait_type": "Value"
+      },
+      {
+        "value": "Spades",
+        "trait_type": "Suit"
+      },
+      {
+        "value": "Bitcoin",
+        "trait_type": "Deck"
+      },
+      {
+        "value": "#2B5797",
+        "trait_type": "Background"
+      },
+      {
+        "value": "#000000",
+        "trait_type": "Foreground"
+      },
+      {
+        "value": "#FFFFFF",
+        "trait_type": "Color"
+      }
+    ]
+  }
+}

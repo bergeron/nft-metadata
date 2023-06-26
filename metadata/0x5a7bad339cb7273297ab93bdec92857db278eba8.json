@@ -1,0 +1,31 @@
+{
+  "address": "0x5a7bad339cb7273297ab93bdec92857db278eba8",
+  "type": "ERC1155",
+  "name": "Panks Open Editions",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/YA-Vbxujynxon_yDqWF8nqXCfr6gL7YHjv65p6CR2Z4",
+  "metadata": {
+    "name": "Panks Layer Zero",
+    "created_by": "irman.eth",
+    "description": "Genesis Open Edition for access to future Panks artwork.",
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "value": "1"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "irman.eth"
+      }
+    ],
+    "image_details": {
+      "bytes": 29057,
+      "format": "PNG",
+      "sha256": "caaa6c85154d1cec066dfa77fa56acd5e44c181999cb71bd9765397b9b5f32c7",
+      "width": 2400,
+      "height": 2400
+    },
+    "image": "https://arweave.net/-G6xoGiiyok-jvNaHQm1nSl3cwkxGXx54_eWVr8X4uw",
+    "image_url": "https://arweave.net/-G6xoGiiyok-jvNaHQm1nSl3cwkxGXx54_eWVr8X4uw"
+  }
+}

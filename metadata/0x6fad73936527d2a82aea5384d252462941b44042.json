@@ -1,0 +1,37 @@
+{
+  "address": "0x6fad73936527d2a82aea5384d252462941b44042",
+  "type": "ERC1155",
+  "name": "FLUF World: Scenes & Sounds",
+  "tokenCount": "95",
+  "uri": "https://erc1155-api.fluf.world/api/token/1",
+  "metadata": {
+    "tokenId": 1,
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "FLUF World"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Scene"
+      },
+      {
+        "trait_type": "Drop",
+        "value": "1"
+      },
+      {
+        "trait_type": "Category",
+        "value": "A"
+      }
+    ],
+    "name": "Gallery",
+    "type": "Background",
+    "image": "https://fluf-assets.s3.eu-central-1.amazonaws.com/Gallery.png",
+    "artist": "FLUF World",
+    "description": "Flufs are beings of culture, it can't all be wild parties. Sometimes they need to wet their whiskers with the movers and shakers of the art world. There's always an opportunity for another artistic collaboration!",
+    "drop": "1",
+    "totalsupply": 750,
+    "wav": "",
+    "listPrice": ""
+  }
+}

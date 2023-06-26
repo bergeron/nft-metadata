@@ -1,0 +1,40 @@
+{
+  "address": "0xf8edd063180e7cb95882701cbf909b1298416673",
+  "type": "ERC721",
+  "name": "SadBulls NFT",
+  "tokenCount": "1000",
+  "uri": "ipfs://bafybeiacn65lxcrotwkzggufqynoina2hfhjryi36knjlataiwaxlppcue/1.json",
+  "metadata": {
+    "image": "ipfs://bafybeia7ojpg2ufc5oz6xkwhsnd66on4h5g6nvat6xkkhhe7rmv4tmzhai/1.jpg",
+    "name": "SadBulls #1",
+    "description": "SadBulls living on ETH",
+    "external_url": "https://www.sadbulls.com",
+    "attributes": [
+      {
+        "trait_type": "6 Background",
+        "value": "Background_violet"
+      },
+      {
+        "trait_type": "5 Skin",
+        "value": "Skin Orange"
+      },
+      {
+        "trait_type": "4 Eyes",
+        "value": "Eyes_cardano"
+      },
+      {
+        "trait_type": "3 Head",
+        "value": "Head Ethereum Bandana"
+      },
+      {
+        "trait_type": "2 Mouth",
+        "value": "Mouth Grass"
+      },
+      {
+        "trait_type": "1 Body",
+        "value": "Body_none"
+      }
+    ],
+    "compiler": "https://indianalabs.xyz"
+  }
+}

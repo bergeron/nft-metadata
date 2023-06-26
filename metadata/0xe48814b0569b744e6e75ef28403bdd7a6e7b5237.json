@@ -1,0 +1,39 @@
+{
+  "address": "0xe48814b0569b744e6e75ef28403bdd7a6e7b5237",
+  "type": "ERC721",
+  "name": "Goon Bods of Balatroon",
+  "tokenCount": "5689",
+  "uri": "https://goonbodies.s3.amazonaws.com/metadata/1",
+  "metadata": {
+    "name": "Goon Bod #1",
+    "description": "One of the Goon Bods of Balatroon.",
+    "image": "https://goonbodies.s3.amazonaws.com/fullBodies/1.png",
+    "traitIds": [
+      "255",
+      "36",
+      "68",
+      "255",
+      "122"
+    ],
+    "mannequinId": "49",
+    "background_color": "#FFFFFF",
+    "attributes": [
+      {
+        "trait_type": "Footwear",
+        "value": "Cowboy"
+      },
+      {
+        "trait_type": "Belt",
+        "value": "Earth Element"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Basketball"
+      },
+      {
+        "trait_type": "Mannequin",
+        "value": "Graphite Rhombus"
+      }
+    ]
+  }
+}

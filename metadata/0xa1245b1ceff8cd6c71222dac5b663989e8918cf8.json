@@ -1,0 +1,42 @@
+{
+  "address": "0xa1245b1ceff8cd6c71222dac5b663989e8918cf8",
+  "type": "ERC721",
+  "name": "Cool Birds nfts",
+  "tokenCount": "7",
+  "uri": "ipfs://QmPTB1Qabxrbd6nFCX8z1RJjTA9nJHsZSYHCoeobaKnydS/1.json",
+  "metadata": {
+    "name": "Cool Birds #1",
+    "description": "Cool Birds is an interactive collection of 5,000 randomly generated NFTs on the Ethereum blockchain,assembled from over 130 unique hand-drawn traits. All Birds have a variety of outfits, faces, hats, and colors. Cool Birds stay cool all year round and in every market condition. All are welcome to come and join the coolest birds on the blockchain.",
+    "image": "ipfs://QmXBwHR6CiMSDVcnEi7YmjazSV8Udgqf2ubJ5DiYGE13qU/1.png",
+    "dna": "78b661b386452ce09487f45d673fe2ae11144def",
+    "edition": 1,
+    "date": 1643368314924,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "background_verified"
+      },
+      {
+        "trait_type": "feather color",
+        "value": "feather_color_cool_blue"
+      },
+      {
+        "trait_type": "cloths",
+        "value": "shirt_bandaged"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "eyes_wink"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mouth_sad"
+      },
+      {
+        "trait_type": "head gear",
+        "value": "head_cowboy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

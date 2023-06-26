@@ -1,0 +1,131 @@
+{
+  "address": "0xb8b04e1ad12b488fde1f7c092546a8a765e4249a",
+  "type": "ERC1155",
+  "name": "FraktalNFTCryptoArte",
+  "tokenCount": "2",
+  "uri": "https://www.cryptoarte.io/api/painting/5758",
+  "metadata": {
+    "name": "Painting #5758",
+    "image": "https://storage.googleapis.com/pcarte/images/high/03316608-public-high.png",
+    "description": "This is painting #5758. Its full digital image (7680x4320 pixels) can be downloaded free of charge by the token owner at https://www.cryptoarte.io/paintings/5758. This painting represents block numbers 3316608 through 3317183, and the time period starting on 2017-03-08 21:24:16 UTC and ending on 2017-03-08 23:42:56 UTC.",
+    "external_url": "https://www.cryptoarte.io/paintings/5758",
+    "number": "5758",
+    "hash": "650e2e73968f158746478a5a137a1ea6d43bcad624c708c81f45950b0055b1e5",
+    "start_block": "3316608",
+    "end_block": "3317183",
+    "start_timestamp": "1489008256",
+    "end_timestamp": "1489016576",
+    "startDateTime": "2017-03-08T21:24:16+00:00",
+    "endDateTime": "2017-03-08T23:42:56+00:00",
+    "attributes": [
+      {
+        "trait_type": "Number of miners",
+        "display_type": "number",
+        "value": 26,
+        "max_value": 174
+      },
+      {
+        "trait_type": "Number of one-block miners (only in this painting)",
+        "display_type": "number",
+        "value": 0,
+        "max_value": 7
+      },
+      {
+        "trait_type": "Number of two-block miners",
+        "display_type": "number",
+        "value": 0,
+        "max_value": 42
+      },
+      {
+        "trait_type": "Miners rarity",
+        "display_type": "boost_percentage",
+        "value": 31.6
+      },
+      {
+        "trait_type": "Number of prime blocks",
+        "display_type": "number",
+        "value": 38,
+        "max_value": 105
+      },
+      {
+        "trait_type": "Number of seconds",
+        "display_type": "number",
+        "value": 8320,
+        "max_value": 27392
+      },
+      {
+        "trait_type": "Golden miner position",
+        "display_type": "number",
+        "value": 574
+      },
+      {
+        "trait_type": "Number of historically significant blocks",
+        "display_type": "number",
+        "value": 0,
+        "max_value": 2
+      },
+      {
+        "trait_type": "Significant blocks",
+        "value": "None"
+      },
+      {
+        "trait_type": "Prime painting number",
+        "value": "No"
+      },
+      {
+        "trait_type": "Golden miner on first block",
+        "value": "No"
+      },
+      {
+        "trait_type": "Golden miner on last block",
+        "value": "No"
+      },
+      {
+        "trait_type": "Golden miner on prime block",
+        "value": "No"
+      },
+      {
+        "trait_type": "Start Block",
+        "display_type": "number",
+        "value": 3316608,
+        "max_value": 5698944
+      },
+      {
+        "trait_type": "End Block",
+        "display_type": "number",
+        "value": 3317183,
+        "max_value": 5699519
+      },
+      {
+        "trait_type": "Start Date & Time",
+        "display_type": "date",
+        "value": 1489008256
+      },
+      {
+        "trait_type": "End Date & Time",
+        "display_type": "date",
+        "value": 1489016576
+      },
+      {
+        "trait_type": "Painting Number",
+        "display_type": "number",
+        "value": 5758,
+        "max_value": 9894
+      },
+      {
+        "trait_type": "Mint Order Number",
+        "display_type": "number",
+        "value": 6187,
+        "max_value": 9895
+      },
+      {
+        "trait_type": "Mint Year",
+        "value": "2021"
+      },
+      {
+        "trait_type": "Mint Month",
+        "value": "August"
+      }
+    ]
+  }
+}

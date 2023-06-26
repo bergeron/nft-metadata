@@ -1,0 +1,70 @@
+{
+  "address": "0x9c7a920b4bd95c85469ce564e195053babaa0401",
+  "type": "ERC721",
+  "name": "PepeDeFrog",
+  "tokenCount": "1333",
+  "uri": "ipfs://QmNcU7HnBMDHuqtj8SxZQQWqRRQRDu9TfMf4nTAZdRSzm7/1",
+  "metadata": {
+    "name": "Pepe DeFrog #1219",
+    "description": "Pepe DeFrog #1219 - Capturing the irreverent spirit of internet culture and transform it into a one-of-a-kind investment opportunity.",
+    "image": "ipfs://QmTfs4bhqgvUjrVXnceQNJYZPpYwUb4Buqpc1C6mH9PhhD/1.png",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://nftstorage.link/ipfs/bafybeiagmz76rjxsjoebl5di2qiogvl3zi6t2jukgg4r6cshd6xu2zisxu/194.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x80253F30BF2Ca09c7474393265Ea70E2AcfF8705",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Light-green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Cry"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hawai"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Mechanic"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Default"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 637,
+        "display_type": "number",
+        "max_value": 2222
+      }
+    ],
+    "symbol": "PPDF",
+    "seller_fee_basis_points": 500,
+    "collection": {
+      "name": "Pepe DeFrog",
+      "family": "Peopology"
+    }
+  }
+}

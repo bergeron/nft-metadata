@@ -1,0 +1,48 @@
+{
+  "address": "0x51eac4e3a2a616ec1270baef15919d5eb05e68cb",
+  "type": "ERC721",
+  "name": "Zombie Space Camp",
+  "tokenCount": "2",
+  "uri": "ipfs://QmYD4Quz5shiNYJUFfn4ETzEgbMtyiuiUtx8CUH6Vr65dr/1",
+  "metadata": {
+    "dna": "7d3842023dfa69df4607f0d98085b303c9c9be94",
+    "name": "Zombie Space Camp #1",
+    "description": "The Zombie Space Camp NFT collection consists of 10,000 programmatically generated Zombies roaming the Ethereum blockchain",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTRxJGuP43TLgshwU1ghbB4oCLc1nSycw5b3sqcxw1xVL/1.png",
+    "edition": 1,
+    "date": 1637966241659,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Turqoise Dark"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Body"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Space Robe"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Laugh"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Instense"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Flat"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Space Helmet"
+      }
+    ],
+    "compiler": "HashLips Art Engine",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0x26A11F36fbAde3129B4C9df94378e8F0d6081b5a"
+  }
+}

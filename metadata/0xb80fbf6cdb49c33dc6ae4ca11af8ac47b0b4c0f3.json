@@ -1,0 +1,41 @@
+{
+  "address": "0xb80fbf6cdb49c33dc6ae4ca11af8ac47b0b4c0f3",
+  "type": "ERC721",
+  "name": "BlockArt",
+  "tokenCount": "10790",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmdfSUPa864E2dh2tNeYGnJf98gFE2uB58RLR8dA5uCNE5",
+  "metadata": {
+    "name": "My Drawing Number One",
+    "created_at": 1609909546750,
+    "block_number": "11598689",
+    "creator_addr": "0x4b1a8dA7d7141f15c4e336E0ab1e29be04b735Bc",
+    "style_id": 1,
+    "style_name": "Signature",
+    "style_creator_name": "adrianleb",
+    "external_url": "https://ethblock.art/view/{id}",
+    "description": "Boa constrictors swallow their prey whole, without chewing it. After that they are not able to move, and they sleep through the six months that they need for digestion.",
+    "attributes": [
+      {
+        "trait_type": "BlockNumber",
+        "value": "11598689"
+      },
+      {
+        "trait_type": "Creator",
+        "value": "0x4b1a8dA7d7141f15c4e336E0ab1e29be04b735Bc"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Signature"
+      },
+      {
+        "trait_type": "Style Edition",
+        "value": "0"
+      },
+      {
+        "trait_type": "Style Creator",
+        "value": "adrianleb"
+      }
+    ],
+    "image": "https://gateway.pinata.cloud/ipfs/QmNvNvaPesAtXkL8geUdCybTAmv6V7uey3VbtvuF81Brzh/blockart.png"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "address": "0xe82f97e731af0e5b530791f228030ae14f393401",
+  "type": "ERC721",
+  "name": "BoredSnakeClub NFT",
+  "tokenCount": "5",
+  "uri": "ipfs://QmchaGtVegDwN9KnASKecjQdfdh3Bdmuc1CFmKD8sqTJoP/1.json",
+  "metadata": {
+    "name": "BoredSnakeClub #1",
+    "description": "BoredSnakeClub NFTs Collaction",
+    "image": "ipfs://QmYWXMzCrPfHqedxfVoFM5JVdJjMb8hX14SZLi8Zs8P2Pu/1.png",
+    "dna": "1930db3007da1ad310d20f0fe1843491ac9e3807",
+    "edition": 1,
+    "date": 1650268591640,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "babyblue"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "damascus steel"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "angry"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "smiling"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "astronautsuit"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "happy cap"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "goldchain"
+      }
+    ],
+    "compiler": "ModernSnakeNFT"
+  }
+}

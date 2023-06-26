@@ -1,0 +1,41 @@
+{
+  "address": "0x536a921cb9797d5b685950458cb20ef175433041",
+  "type": "ERC721",
+  "name": "The Lost Astronaut Series",
+  "tokenCount": "4",
+  "uri": "https://ipfs.pixura.io/ipfs/QmeZ8ofiyGGEcdP2CLyrCMHUYG9mmw17FZYcMzbm7sXZU1/metadata.json",
+  "metadata": {
+    "name": "Lost Astronaut. 001",
+    "createdBy": "Ken  Kelleher",
+    "yearCreated": "2022",
+    "description": "Lost astronaut from space mission 009er trans space human alien expedition into the 4th wave of the outer rim - galaxy portal 117 - has not returned.",
+    "image": "https://ipfs.pixura.io/ipfs/QmaoZtsQNJozNAhJiMc5mrLMJEbwsrJ5R8C7bcBAGYKkPk/LostAstronaut_1.png",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmaoZtsQNJozNAhJiMc5mrLMJEbwsrJ5R8C7bcBAGYKkPk/LostAstronaut_1.png",
+      "dimensions": "2048x2048",
+      "size": "6435184",
+      "mimeType": "image/png"
+    },
+    "tags": [
+      "Lostastronauts",
+      "anchorball",
+      "astronauts",
+      "spacemission009er",
+      "aliens"
+    ],
+    "attributes": [
+      {
+        "trait_type": "Space Mission 009er",
+        "value": "Galaxy Portal 117"
+      },
+      {
+        "trait_type": "Astronaut",
+        "value": "Expedition Leader"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Has Not Returned"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "address": "0xe75512aa3bec8f00434bbd6ad8b0a3fbff100ad6",
+  "type": "ERC721",
+  "name": "MG Land",
+  "tokenCount": "5000",
+  "uri": "https://api.mg.land/json/land/1",
+  "metadata": {
+    "token_id": "1",
+    "image": "https://dist.mg.land/static/land/-540_45.jpg",
+    "name": "MGland#1",
+    "description": "Composability is the Most Powerful Creative Force in the Metaverse.In MG.Land, you can build your own Web3 virtual world with your wallet assets including your avatar NFT, house NFT spaceship NFT, they all can be combined by the assets and the chain.",
+    "holder": "0x3ae961ecc9b6391da4d9580217b85b5be01750bb",
+    "external_url": "https://www.mg.land/",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Super Land"
+      },
+      {
+        "trait_type": "Size",
+        "value": "120 x 120"
+      },
+      {
+        "trait_type": "Location",
+        "value": "-540,45"
+      },
+      {
+        "trait_type": "Name",
+        "value": "MG Official"
+      },
+      {
+        "trait_type": "Domain",
+        "value": "https://official.mg.land/"
+      },
+      {
+        "trait_type": "description",
+        "value": null
+      },
+      {
+        "trait_type": "Logo",
+        "value": "https://dist.mg.land/static/upfile/32105579.png"
+      }
+    ]
+  }
+}

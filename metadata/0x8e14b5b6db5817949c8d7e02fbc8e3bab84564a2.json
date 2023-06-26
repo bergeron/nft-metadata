@@ -1,0 +1,35 @@
+{
+  "address": "0x8e14b5b6db5817949c8d7e02fbc8e3bab84564a2",
+  "type": "ERC1155",
+  "name": "ClaimTkn#2",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/i2v-7nSPphTYGrzW9dsvBDnBYCXYUP7PulaZd4-jOxI",
+  "metadata": {
+    "created_by": "bgbz",
+    "name": "Claim tkn 2",
+    "description": "This is claim token 2",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "bgbz"
+      },
+      {
+        "trait_type": "Claim test property",
+        "value": "ye"
+      },
+      {
+        "trait_type": "Claim claim",
+        "value": "claim"
+      }
+    ],
+    "image_details": {
+      "bytes": 328097,
+      "format": "PNG",
+      "sha256": "2b5fcce267dcd8ac98a90bd0589296e8cb89be8aa66ccda7629dc60c96930046",
+      "width": 466,
+      "height": 466
+    },
+    "image": "https://arweave.net/g_BkLGUTHORakZOVevWzLqtoZAL7So6TsGihkuYPyTE",
+    "image_url": "https://arweave.net/g_BkLGUTHORakZOVevWzLqtoZAL7So6TsGihkuYPyTE"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "address": "0x96aad824f2f38ca4a8ca82cf66c14de7b4b08c80",
+  "type": "ERC721",
+  "name": "MyTestCollection(NotForSell)",
+  "tokenCount": "1",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmPyxBWMM1siKmggR6Y9LsRmqgM4XvYXibCFkQ5x1S31Rb/1",
+  "metadata": {
+    "name": "TestToken #1",
+    "title": "TestToken #1",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcjmMt6hoZr9pwB8SmSsMX4XURgh34aqtkt2ShSTGzoWU",
+    "description": "Midjourney tests. NOT FOR SELL",
+    "external_url": "https://midjourney.com/",
+    "attributes": [
+      {
+        "value": "attribute_1",
+        "trait_type": "nice young smiling Japanese girl"
+      },
+      {
+        "value": "attribute_2",
+        "trait_type": "volumetric light"
+      },
+      {
+        "value": "attribute_3",
+        "trait_type": "ultra realistic"
+      },
+      {
+        "value": "attribute_4",
+        "trait_type": "8k"
+      },
+      {
+        "value": "attribute_5",
+        "trait_type": "Ray tracking"
+      },
+      {
+        "value": "attribute_6",
+        "trait_type": "super resolution "
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "address": "0xbc810e143edb7ba64b9712e8a4dea978f9100285",
+  "type": "ERC721",
+  "name": "Shapes by Sam Sage",
+  "tokenCount": "23",
+  "uri": "https://arweave.net/c3Pz_W6By-EzIimDZLI2nKMZcEk6sQPeSO_5TG6fr3Q",
+  "metadata": {
+    "name": "Shapes",
+    "created_by": "SamSage.eth",
+    "description": "shapes = [\"circle\", \"square\", \"triangle\", \"pentagon\", \"hexagon\", \"heptagon\", \"octagon\", \"nonagon\", \"decagon\", \"dodecagon\"]  \ncolors = [\"red\", \"green\", \"blue\", \"orange\", \"purple\", \"pink\", \"brown\", \"gray\"]\n\nfor i in range(50):  \n    shape = random.choice(shapes)  \n    color = random.choice(colors)  \n    draw_shape(shape, color)",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "SamSage.eth"
+      }
+    ],
+    "image_details": {
+      "bytes": 37239,
+      "format": "PNG",
+      "sha256": "aac3fab79d1cb43543ff8d233c7c5169ffbb19cfe6f4381ade0ecbd1d720a620",
+      "width": 2996,
+      "height": 2533
+    },
+    "image": "https://arweave.net/CGjD53-iVcTnX6s7cAHAXjNGU5NhZlksfCXF_5k0hmw",
+    "image_url": "https://arweave.net/CGjD53-iVcTnX6s7cAHAXjNGU5NhZlksfCXF_5k0hmw"
+  }
+}

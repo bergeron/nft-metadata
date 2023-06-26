@@ -1,0 +1,31 @@
+{
+  "address": "0xdf008e1781c57615c2fd39fa88daae2a74a6b192",
+  "type": "ERC721",
+  "name": "Simple Stick Figures",
+  "tokenCount": "9",
+  "uri": "ipfs://QmPpRi9wkdQzFXaWKcDj7HjNZooidiqEBcYf8gxie5w3Lj/1",
+  "metadata": {
+    "name": "Non-gender Tall Stick Figure",
+    "image": "ipfs://Qmee2mfygpRpjSQz1fufk1Qc379hbnHSZaccvC1uRAvX3H/unknown-neutral-tall-4.jpg",
+    "description": "This stick figure is from an edition of 10, each with unique attributes. Some are rarer than others.",
+    "attributes": [
+      {
+        "trait_type": "Gender",
+        "value": "Unknown"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Neutral"
+      },
+      {
+        "trait_type": "Height",
+        "value": "Tall"
+      },
+      {
+        "trait_type": "Limbs",
+        "display_type": "number",
+        "value": 4
+      }
+    ]
+  }
+}

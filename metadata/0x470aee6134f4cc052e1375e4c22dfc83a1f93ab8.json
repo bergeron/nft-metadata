@@ -1,0 +1,41 @@
+{
+  "address": "0x470aee6134f4cc052e1375e4c22dfc83a1f93ab8",
+  "type": "ERC721",
+  "name": "Art Blocks Yacht Club",
+  "tokenCount": "400",
+  "uri": "ipfs://QmchhspSTbesA53czfFz6YsLZQ4vAExFdJpBL2mqwrrdnY/2.json",
+  "metadata": {
+    "name": "Art Blocks Yacht Club #2",
+    "description": "10000 unique Art Blocks Yacht Club NFTs.",
+    "image": "ipfs://QmZcCgw5x6W4quA8dypCikxzBPUoozE2T81B6FxoCr8Nxx/2.png",
+    "edition": 2,
+    "date": 1667937844335,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Color10"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sailor Shirt"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Horns"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

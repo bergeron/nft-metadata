@@ -1,0 +1,60 @@
+{
+  "address": "0xc078d7461c712308dff400cd0e47e6a6955ba9fb",
+  "type": "ERC721",
+  "name": "Bored Ape Watch Club - BAWC",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmPXneoztSfJCES36h437E7WNDmwCZqTrQPwiMdmETdhBT/1.json",
+  "metadata": {
+    "name": "BAWC #1",
+    "description": "10'000 unique NFT watches inspired by every trait and rarity of the most famous NFT collection to date.",
+    "external_url": "",
+    "image": "ipfs://QmXyrKA7FaTb8YvtESK64EyyoMRjTzPEiV8fqi8yjzVM68/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "Clothes (Strap)",
+        "value": "Work Vest"
+      },
+      {
+        "trait_type": "Earring (charm)",
+        "value": "none"
+      },
+      {
+        "trait_type": "Fur (case and dial)",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyes (subdials)",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Mouth (hands)",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Hat (bezel)",
+        "value": "Party Hat 1"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "BAWC",
+      "family": "BAWC"
+    },
+    "symbol": ""
+  }
+}

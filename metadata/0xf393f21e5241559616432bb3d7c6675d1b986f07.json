@@ -1,0 +1,63 @@
+{
+  "address": "0xf393f21e5241559616432bb3d7c6675d1b986f07",
+  "type": "ERC721",
+  "name": "Cascade by Jen Stark",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/9wTzca90Nsph3RFwWXcelDBYlDpGlqgXXXWxDU0cgN4",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "animation_url": "https://arweave.net/jSJG35exOlofDOx7C6AimWl06op8k8px3c2kamUoINQ",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1633218926
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Jen Stark"
+      }
+    ],
+    "description": "A psychedelic waterfall of colors and patterns ooze down in Stark's signature style. Inspired by the fabric of the universe and the spiritual realm of the natural world. The result is like a psychedelic camouflage, transporting the viewer to an interdimensional plane - Artwork by Jen Stark - Animation by David Lewandowski - Sound by Charlie Scovill - Run time: 36 sec - 2021 - 1/1",
+    "external_url": "https://cxip.io/nft/0xf393f21e5241559616432bb3d7c6675d1b986f07/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/laIDNfyMPKO-anC6jGEPEHBpaTdFCBRTFAC5DCMGOts",
+    "imageUrl": "https://arweave.net/laIDNfyMPKO-anC6jGEPEHBpaTdFCBRTFAC5DCMGOts",
+    "name": "Drip Cascade",
+    "properties": {
+      "animation_url": "https://arweave.net/jSJG35exOlofDOx7C6AimWl06op8k8px3c2kamUoINQ",
+      "created_at": "2021-10-02T23:55:26.000000Z",
+      "creator_wallet": "0xb16525385824e8cf877be513386e75d875043ffd",
+      "description": "A psychedelic waterfall of colors and patterns ooze down in Stark's signature style. Inspired by the fabric of the universe and the spiritual realm of the natural world. The result is like a psychedelic camouflage, transporting the viewer to an interdimensional plane - Artwork by Jen Stark - Animation by David Lewandowski - Sound by Charlie Scovill - Run time: 36 sec - 2021 - 1/1",
+      "image": "https://arweave.net/laIDNfyMPKO-anC6jGEPEHBpaTdFCBRTFAC5DCMGOts",
+      "imageUrl": "https://arweave.net/laIDNfyMPKO-anC6jGEPEHBpaTdFCBRTFAC5DCMGOts",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": true,
+        "priceTier": "CX1"
+      },
+      "minted_on": "2 October 2021",
+      "name": "Drip Cascade",
+      "nft_type": "non-fungible token (video/mp4)",
+      "preview_media_file": "https://arweave.net/jSJG35exOlofDOx7C6AimWl06op8k8px3c2kamUoINQ",
+      "preview_media_file_dimensions": "1280x720",
+      "preview_media_file_size": 93332652,
+      "preview_media_file_type": "video/mp4",
+      "raw_media_file": "https://arweave.net/91T7IDm9xUvRt-67pOglgMY4PzdoaLTyIiziRjWP3UI",
+      "raw_media_file_size": 49521562,
+      "raw_media_file_spec": "Duration: 00:00:35.65, start: 0.000000, bitrate: 11113 kb/s\nVideo: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 1920x1080, 10801 kb/s, 60 fps, 60 tbr, 60k tbn, 120 tbc (default)\nAudio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 317 kb/s (default)",
+      "raw_media_file_type": "video/mp4",
+      "raw_media_signature": "0x36bd48d2a73747b66185ab52e955dcac6bc5570c4b83ee90fca7b2b1ca99e458",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/PE2alv55Ksw-S_GkaMyg3gJO5TCg3TlD1y3eP-YEO6E",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Drip Cascade",
+      "total_supply": 1
+    },
+    "title": "Drip Cascade"
+  }
+}

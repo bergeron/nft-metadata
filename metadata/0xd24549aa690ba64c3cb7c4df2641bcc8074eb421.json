@@ -1,0 +1,68 @@
+{
+  "address": "0xd24549aa690ba64c3cb7c4df2641bcc8074eb421",
+  "type": "ERC721",
+  "name": "Adam Swaab",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/uMuApZGi0Q--Ws2wuUtbtkVGJ-LWMrhLnPePo6Qj9rc",
+  "metadata": {
+    "name": "Boxes And Spheres",
+    "created_by": "Adam Swaab",
+    "description": "2160x2160 pixels | 0:40 Loop | 30 FPS | .mp4",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Adam Swaab"
+      },
+      {
+        "trait_type": "Medium",
+        "value": "Video"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "1/1"
+      },
+      {
+        "trait_type": "Size",
+        "value": "2160 X 2160 Pixels"
+      },
+      {
+        "trait_type": "Duration",
+        "value": ":40 Loop"
+      },
+      {
+        "trait_type": "Frame Rate",
+        "value": "30"
+      },
+      {
+        "trait_type": "Format",
+        "value": ".mp4"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Black"
+      }
+    ],
+    "image_details": {
+      "bytes": 9668706,
+      "format": "GIF",
+      "sha256": "53a093b2900b58370a7318788bcd505ded28d4019ebdb1a3a862e989b3a06444",
+      "width": 400,
+      "height": 400
+    },
+    "image": "https://arweave.net/Zr9R8UEnIAF8ZV4TD9OeUBBcH_rUYrM7ONyPq5CXgT0",
+    "image_url": "https://arweave.net/Zr9R8UEnIAF8ZV4TD9OeUBBcH_rUYrM7ONyPq5CXgT0",
+    "animation_details": {
+      "bytes": 98838622,
+      "format": "MP4",
+      "duration": 40,
+      "sha256": "16c82a348b7836143d1023586a4f205146a2754dfd7267b91b305c987652a4e4",
+      "width": 2160,
+      "height": 2160,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/298vHNBr-85pbW_lbOR097e9ITk6wFMtrtnbHj4CBg0",
+    "animation_url": "https://arweave.net/298vHNBr-85pbW_lbOR097e9ITk6wFMtrtnbHj4CBg0"
+  }
+}

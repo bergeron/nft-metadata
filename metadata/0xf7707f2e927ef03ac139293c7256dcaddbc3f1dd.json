@@ -1,0 +1,19 @@
+{
+  "address": "0xf7707f2e927ef03ac139293c7256dcaddbc3f1dd",
+  "type": "ERC1155",
+  "name": "NFThunder Pass",
+  "tokenCount": "2",
+  "uri": "ipfs://QmYxwnFzzqfWKKARNUdi1rFEhyLY8QGw2VsSW7rTja6iuN/1.json",
+  "metadata": {
+    "name": "NFThunder 6 Months Pass",
+    "description": "A Soul Bound Token to access an NFThunder 6 months subscription.\n\nThe pass is reserved to NFThunder members, join the Discord server and purchase a key to discover more.",
+    "image": "ipfs://QmWytkL4MDJHiDxD5NPK8U3JyH5VvQYKDzKaBHtxYtZE4U/6mo.png",
+    "external_url": "https://www.nfthunder.io/",
+    "attributes": [
+      {
+        "trait_type": "Duration",
+        "value": "6 months"
+      }
+    ]
+  }
+}

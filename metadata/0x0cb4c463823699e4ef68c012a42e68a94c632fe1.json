@@ -1,0 +1,66 @@
+{
+  "address": "0x0cb4c463823699e4ef68c012a42e68a94c632fe1",
+  "type": "ERC721",
+  "name": "Ethereum Monkey Business Genesis",
+  "tokenCount": "181",
+  "uri": "ipfs://Qmf8oYHQgDX2kvxExz7hv31sv1Nd88qszZWkDY7jNSsgwX/1.json",
+  "metadata": {
+    "name": "Monkey #1",
+    "symbol": "MAD",
+    "description": "Ethereum monkey business is a collection of 4,444 unique 24x24 pixels randomly generated Monkeys stored on the Ethereum PoS blockchain.",
+    "seller_fee_basis_points": 999,
+    "image": "https://nftstorage.link/ipfs/QmcTXpZdSjE9Mh3egCAZsRENGjo2yayGQRKvgdTuGLJZGk/0.png",
+    "external_url": "",
+    "collection": {
+      "name": "Masked Ape DAO",
+      "family": "LaunchMyNFT"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark-Grey"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Frankenstein"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bowl"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Empty"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 629,
+        "display_type": "number",
+        "max_value": 4444
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://nftstorage.link/ipfs/QmcTXpZdSjE9Mh3egCAZsRENGjo2yayGQRKvgdTuGLJZGk/0.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "7t4x8sPcNPzap7EvSY8gLZ9WEq4PXq9AvvTyWsyvtYhc",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

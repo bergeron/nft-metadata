@@ -1,0 +1,31 @@
+{
+  "address": "0x090bf7367d70ba9b82a92608beb567777b42c61e",
+  "type": "ERC721",
+  "name": "Art Explose by Oblex",
+  "tokenCount": "754",
+  "uri": "ipfs://QmUj1Y2D1sqUhnkq4DxaVusHerU4CDGW7iyUrA2hv1S9UE/1.json",
+  "metadata": {
+    "name": "Art Explose #1",
+    "description": "A mad painter after having concluded his work in the throes of a crisis decided to destroy his painting in 1600 parts. Who will now fill his work by him?",
+    "creator": "Oblex",
+    "image": "ipfs://QmdfNhm4rDSrcBR4X4r2GUVofJ7dHVJ7TeHXtXwaWjK1Aj/1.png",
+    "dna": "88146ff912e9a574d09a95bb0eb0c28a009666ab",
+    "edition": 1,
+    "date": 1670526349011,
+    "attributes": [
+      {
+        "trait_type": "AUTHOR",
+        "value": "Oblex"
+      },
+      {
+        "trait_type": "ART",
+        "value": "A mad painter"
+      },
+      {
+        "trait_type": "EXPLOSE",
+        "value": "Piece N° 1"
+      }
+    ],
+    "compiler": "Art Explose Art Engine"
+  }
+}

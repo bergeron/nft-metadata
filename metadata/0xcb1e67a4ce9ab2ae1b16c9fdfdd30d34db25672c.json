@@ -1,0 +1,87 @@
+{
+  "address": "0xcb1e67a4ce9ab2ae1b16c9fdfdd30d34db25672c",
+  "type": "ERC721",
+  "name": "LiveArt V2",
+  "tokenCount": "71",
+  "uri": "https://liveart.mypinata.cloud/ipfs/QmaXkTCNXLmNJJAbmXuqfhVBTnKjhJq5Kk2Tq6KoQHHNSj",
+  "metadata": {
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+      "description": {
+        "type": "string",
+        "description": "“These works are the beginning of a new direction - speaking of black identity, black confidence and black pride. These works show unapologetic blackness through color and scale.” \n- Adrian Armstrong"
+      },
+      "name": {
+        "type": "string",
+        "description": "Tylah"
+      },
+      "tokenBundle": {
+        "type": "string",
+        "description": "https://liveart.mypinata.cloud/ipfs/QmRaCwUGXYYAiCPYcV39Vx9Ywt7hW2psciPtM781B36aM2"
+      },
+      "artistName": {
+        "type": "string",
+        "description": "Adrian Armstrong"
+      },
+      "artistBirthDate": {
+        "type": "string",
+        "description": "1990"
+      },
+      "artworkCreationYear": {
+        "type": "string",
+        "description": "2021"
+      },
+      "saleConditions": {
+        "type": "string",
+        "description": "https://liveart.mypinata.cloud/ipfs/QmU2GahRvLpQjbsnEwsCD83F3LGLXcgLdbmtdconFDzoFy"
+      },
+      "media": {
+        "type": "string",
+        "description": "https://liveart.mypinata.cloud/ipfs/QmRMMBoMsodb1UNQCEfXcdrvk1spBouoiDFQqn7hBJNnct"
+      },
+      "createdAt": {
+        "type": "string",
+        "description": "Fri Jun 25 2021 18:09:33 GMT-0400 (Eastern Daylight Time)"
+      },
+      "fileName": {
+        "type": "string",
+        "description": "Adrian-Armstrong_small (1).gif"
+      },
+      "fileSize": {
+        "type": "number",
+        "description": 5470541
+      },
+      "fileType": {
+        "type": "string",
+        "description": "image/gif"
+      },
+      "AP": {
+        "type": "string",
+        "description": "1"
+      },
+      "preview": {
+        "type": "string",
+        "description": "https://liveart.mypinata.cloud/ipfs/QmbPm6QXzxa2hYz2KXLEbJLBqvMLLYbRqikF5nwYGAAtfL"
+      },
+      "previewFileType": {
+        "type": "string",
+        "description": "video/mp4"
+      }
+    },
+    "image": "https://liveart.mypinata.cloud/ipfs/QmRMMBoMsodb1UNQCEfXcdrvk1spBouoiDFQqn7hBJNnct",
+    "description": "“These works are the beginning of a new direction - speaking of black identity, black confidence and black pride. These works show unapologetic blackness through color and scale.” \n- Adrian Armstrong",
+    "name": "Tylah",
+    "external_url": "https://liveart.io",
+    "attributes": [
+      {
+        "trait_type": "Token Bundle",
+        "value": "https://liveart.mypinata.cloud/ipfs/QmRaCwUGXYYAiCPYcV39Vx9Ywt7hW2psciPtM781B36aM2"
+      },
+      {
+        "trait_type": "Sale Conditions",
+        "value": "https://liveart.mypinata.cloud/ipfs/QmU2GahRvLpQjbsnEwsCD83F3LGLXcgLdbmtdconFDzoFy"
+      }
+    ]
+  }
+}

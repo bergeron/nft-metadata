@@ -1,0 +1,55 @@
+{
+  "address": "0x22f59e432296f703a68cd60b7231b326688053d1",
+  "type": "ERC721",
+  "name": "Dumb Monkes",
+  "tokenCount": "35",
+  "uri": "https://dumbmonke.mypinata.cloud/ipfs/QmZjT4QosmLzxzka6F6qiyn6XX9sHQ4FAns7ZMQdnHaVLn/1",
+  "metadata": {
+    "name": "Dumb Monke #2",
+    "symbol": "",
+    "image": "https://dumbmonke.mypinata.cloud/ipfs/QmZ5j6PNJDStW1QK5wr89WwuBCmPtoNpoSQ1YjjiAcijYA/2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": []
+    },
+    "description": "",
+    "seller_fee_basis_points": 500,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Costume",
+        "value": "Classic Suit"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Ski"
+      },
+      {
+        "trait_type": "Head Accessories",
+        "value": "Cosmo Helmet"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Protruding"
+      }
+    ],
+    "collection": {}
+  }
+}

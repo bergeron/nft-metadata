@@ -1,0 +1,49 @@
+{
+  "address": "0x21980a3b0eae5c797e410f5a9b7f6251ce56002b",
+  "type": "ERC1155",
+  "name": "\"Take It Easy\" Hat",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/RdSz8ikjfAt5UXuSEkFildN0ABEnWM4dm4jggwEqjco",
+  "metadata": {
+    "name": "\"Take It Easy\" Hat",
+    "created_by": "House of Fox",
+    "description": "The \"Take It Easy\" hat is the first NFT to be associated with a physical House of Fox product. This is the first collection in an ever growing series of digital products being matched 1:1 to physical products.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "House of Fox"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Take It Easy"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Collection 1"
+      }
+    ],
+    "animation_details": {
+      "bytes": 5261777,
+      "format": "MP4",
+      "duration": 11,
+      "sha256": "203781cba86111721b7a764faa7a6bc2fc398c8d8751a9723e913e6eb715bd56",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/hY1jG5K_WCwdXgFtBqV_0EkBL3vhJPc17ORccolRbJ0",
+    "animation_url": "https://arweave.net/hY1jG5K_WCwdXgFtBqV_0EkBL3vhJPc17ORccolRbJ0",
+    "image_details": {
+      "bytes": 292266,
+      "format": "PNG",
+      "sha256": "7deaac64f6457fe03f9b85904dadbf698242db044f26093b3c69cc0d6c4ab3f4",
+      "width": 1165,
+      "height": 1165
+    },
+    "image": "https://arweave.net/XnNT3qHj02ko60FTjZhIZHymVebrxC0vRdhYf247s2U",
+    "image_url": "https://arweave.net/XnNT3qHj02ko60FTjZhIZHymVebrxC0vRdhYf247s2U"
+  }
+}

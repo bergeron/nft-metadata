@@ -1,0 +1,41 @@
+{
+  "address": "0x08b1aaef9fd158bbdf21c3cad6408afa7d35df4c",
+  "type": "ERC721",
+  "name": "Degents NFT",
+  "tokenCount": "6000",
+  "uri": "ipfs://QmRdxU9D7epaCBXtLAiEGYe3PTm7boUoh2CJTABMyvbKMa/1.json",
+  "metadata": {
+    "name": "DC #1",
+    "description": "The Degentlemen's Club is a collection of 6,000 Saber-toothed Degens roaming in the Ethereum jungle. Each NFT is unique and grants each holder access to the VIP section with holders-only benefits. Every single member in the VIP section will have a say in the steps we take for the future of this project.",
+    "image": "ipfs://QmQv27vobfxM7ySB4uBmipQHx37nKjSBbqCo6Acw5EsUkM/1.png",
+    "edition": 1,
+    "date": 1647452722726,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "FUR",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "CLOTHING",
+        "value": "Neon-T"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "Scratch"
+      },
+      {
+        "trait_type": "HEADWEAR",
+        "value": "Trippy bunny"
+      }
+    ],
+    "compiler": "Ethclusives remix"
+  }
+}

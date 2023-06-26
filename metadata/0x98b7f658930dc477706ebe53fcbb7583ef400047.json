@@ -1,0 +1,56 @@
+{
+  "address": "0x98b7f658930dc477706ebe53fcbb7583ef400047",
+  "type": "ERC721",
+  "name": "Breezy_Doodles",
+  "tokenCount": "12",
+  "uri": "ipfs://QmUzrLh1F5Qdok6Qr8zWqD7TLmPUmnwkoqNETqAJwcFYFi/1.json",
+  "metadata": {
+    "name": "groov #1",
+    "description": "This is a test",
+    "external_url": "",
+    "image": "ipfs://QmQrzzA6VgQ4cCLpXy9Qyv2LqKomCLzqLotHQRTe5rhnqP/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hintergund"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Kopf"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Augen"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "zylinder"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Körper"
+      },
+      {
+        "trait_type": "Util",
+        "value": "Zigarette"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Groovtest",
+      "family": "Groovtest"
+    },
+    "symbol": ""
+  }
+}

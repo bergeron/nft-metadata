@@ -1,0 +1,40 @@
+{
+  "address": "0xab2575dac48f84540e3dbf2937e93dfdad34b9d7",
+  "type": "ERC721",
+  "name": "Meta-Morphosis",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/w9ZoeE4WSzxVMUw0tlqk6yy0QYhEPKaiOzncQvz-cmo",
+  "metadata": {
+    "created_by": "Rohit",
+    "name": "Meta-Morphosis",
+    "description": "This art may morph.",
+    "attributes": [
+      {
+        "trait_type": "Morph Stage:",
+        "value": "Stage 1"
+      }
+    ],
+    "animation_details": {
+      "bytes": 1132516,
+      "format": "WEBM",
+      "duration": 9,
+      "sha256": "14ec9336cd236f3e9dbefd145f0beb1054f59809bb68ac31a6ab1ae5b48e23ba",
+      "width": 1000,
+      "height": 1000,
+      "codecs": [
+        "Google"
+      ]
+    },
+    "animation": "https://arweave.net/cKr8m-xJ808Vot9gHSsWpTc9j-hAFbtmP_SpYs0H7_k",
+    "animation_url": "https://arweave.net/cKr8m-xJ808Vot9gHSsWpTc9j-hAFbtmP_SpYs0H7_k",
+    "image_details": {
+      "bytes": 707963,
+      "format": "PNG",
+      "sha256": "423ef972a75e414c0b417ad9c5ee34e2b7f12e3683e4234e9a085b627ca85f99",
+      "width": 1000,
+      "height": 1000
+    },
+    "image": "https://arweave.net/5PCChfT12zEi9XhDRRNrvQ45ngpFhF4iPC8d611Y18Y",
+    "image_url": "https://arweave.net/5PCChfT12zEi9XhDRRNrvQ45ngpFhF4iPC8d611Y18Y"
+  }
+}

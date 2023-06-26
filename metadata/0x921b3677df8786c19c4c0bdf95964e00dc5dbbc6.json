@@ -1,0 +1,50 @@
+{
+  "address": "0x921b3677df8786c19c4c0bdf95964e00dc5dbbc6",
+  "type": "ERC1155",
+  "name": "rizzle forever supper",
+  "tokenCount": "50",
+  "uri": "ipfs://QmW5hFJjDocjQQS66za5hcZdSfQcwo4EZChd3WAZrhnSdD/1/token.json",
+  "metadata": {
+    "name": "rizzle glass 1",
+    "image": "ipfs://QmNhj44j7WFSTRuw35dSps7Q8MRKBiPpog475pHnzLMVm9",
+    "description": "one of fifteen pieces of stained glass made by ai and rizzle's brain featured as artwork for the forever supper🙏\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Rizzle"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "rizzle forever supper"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0x81e5cd19323ce7f6b36c9511fbc98d477a188b13"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Outside",
+              "state": {
+                "label": "rizzle glass 1",
+                "uri": "QmU4DKV7krhCWoeDSpoZddgg6zpYxX1DMkV5KyqzJajo87"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

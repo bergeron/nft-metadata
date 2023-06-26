@@ -1,0 +1,49 @@
+{
+  "address": "0xaf63e6bd6434e76aa5b629f5f1914bc27a8213f0",
+  "type": "ERC721",
+  "name": "CryptoUMA",
+  "tokenCount": "20",
+  "uri": "ipfs://QmPqZa6FfVFhTM9afWTJfsyrHoHMeXfL5YxxdYQ3e59x5g/1.json",
+  "metadata": {
+    "name": "Pacaboo #009",
+    "description": "美味しそうな動物を見ると無意識にチュパってしまう。動物園が出入り禁止になっている",
+    "image": "ipfs://QmX27osWvzAF8kX2ieuSgxnrTM6kLmWRF9PE3QV9hYACgD/9.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Name",
+        "value": "Pacaboo"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Levels_insensitivity",
+        "value": 3,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Levels_Shyness",
+        "value": 7,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Levels_Curiosity",
+        "value": 9,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Levels_Cooperativeness",
+        "value": 5,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Levels_Serious",
+        "value": 6,
+        "max_value": 10
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

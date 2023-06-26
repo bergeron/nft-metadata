@@ -1,0 +1,34 @@
+{
+  "address": "0x262d34aad6d49a14145f00696831b30f082b5401",
+  "type": "ERC721",
+  "name": "TestCollectionManifold",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/kbpRo0PSSktzMcGIlJ3LbAOoR_ERav9i2xs2kfbSJLQ",
+  "metadata": {
+    "name": "NewTitleeeee",
+    "created_by": "2",
+    "external_url": "https://Google.com",
+    "description": "Changed desc!",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "DaOthaDude"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Num",
+        "value": "420",
+        "max_value": "42069"
+      }
+    ],
+    "image_details": {
+      "bytes": 28476,
+      "format": "PNG",
+      "sha256": "772f301b57c84f25d799c83a2f865751179ad86440c24cdf97179ad3fef5de1a",
+      "width": 696,
+      "height": 564
+    },
+    "image": "https://arweave.net/D50Ho8fCwWeNbc1OVfwuZ39Ac77CpPv4e6vjMehs5Qo",
+    "image_url": "https://arweave.net/D50Ho8fCwWeNbc1OVfwuZ39Ac77CpPv4e6vjMehs5Qo"
+  }
+}

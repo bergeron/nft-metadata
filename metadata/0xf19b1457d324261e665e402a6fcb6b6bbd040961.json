@@ -1,0 +1,41 @@
+{
+  "address": "0xf19b1457d324261e665e402a6fcb6b6bbd040961",
+  "type": "ERC721",
+  "name": "Points in Time",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/XJyV42tSbmjVqxRETQBkzblDLOazaWgfcAuEczHZgds",
+  "metadata": {
+    "name": "Mirror Mirror",
+    "created_by": "David Lisser",
+    "description": "Mirror Mirror is the first in a series of point-cloud works that exploit limits in computer vision, and use these to explore memory and decay. \n\nInterrupting photogrammetry and NeRF scans with mirrors disrupts the scanning process, as both procedures struggle with reflections. \nInstead of categorising the mirrors as flat surfaces, they create newly formed 3 dimensional space from the reflections. \n\nI then use this newly constructed space through which to imagine new, dreamlike worlds, formed from memory and imagination.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "David Lisser"
+      }
+    ],
+    "animation_details": {
+      "bytes": 50667881,
+      "format": "MP4",
+      "duration": 41,
+      "sha256": "bb7b654391cc7156bf5060d50fd5c8ead105db9f5ab1ef937eb74ccec7814032",
+      "width": 3840,
+      "height": 2160,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/XwaTR4PYxSyOPE23wYIVI9Bp8n81AIskN1mi3sRkIA4",
+    "animation_url": "https://arweave.net/XwaTR4PYxSyOPE23wYIVI9Bp8n81AIskN1mi3sRkIA4",
+    "image_details": {
+      "bytes": 563498,
+      "format": "JPEG",
+      "sha256": "a567b502afd11d60ef4c55b1e10a7aad7a3216df4c4368832cb1fa8d88c2919e",
+      "width": 1899,
+      "height": 1055
+    },
+    "image": "https://arweave.net/jX9jySNi9NFq8A9kkstWoXeM65yBmR9AwGx4O9Wx0aY",
+    "image_url": "https://arweave.net/jX9jySNi9NFq8A9kkstWoXeM65yBmR9AwGx4O9Wx0aY"
+  }
+}

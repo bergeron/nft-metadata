@@ -1,0 +1,23 @@
+{
+  "address": "0x005327e0817a017259056fb51defd11088b41e05",
+  "type": "ERC721",
+  "name": "Ven Shiba NFT",
+  "tokenCount": "87",
+  "uri": "https://nft.ven.earth/api/venShiba/metadata/1",
+  "metadata": {
+    "name": "Ven Shiba #2",
+    "external_url": "https://ven.earth",
+    "description": "A cute Ven Shiba.",
+    "image": "https://nft.ven.earth/img/2.jpg",
+    "attributes": [
+      {
+        "trait_type": "Dog",
+        "value": "True"
+      },
+      {
+        "trait_type": "Shiba",
+        "value": "True"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": "0x85be20f30b9647d0df4d255cfe0e4f8124303ba5",
+  "type": "ERC721",
+  "name": "TPNFT",
+  "tokenCount": "91",
+  "uri": "https://tptoken.s3.us-west-1.amazonaws.com/JSONs/1.json",
+  "metadata": {
+    "dna": "-------",
+    "name": "#1",
+    "description": "Digital Toilet Paper!",
+    "external_url": "https://tptoken.s3.us-west-1.amazonaws.com/JSONs/1.json",
+    "image": "https://tptoken.s3.us-west-1.amazonaws.com/PNGs/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Custom"
+      },
+      {
+        "trait_type": "Bonus",
+        "value": "Custom"
+      },
+      {
+        "trait_type": "Upgrades",
+        "value": "Custom"
+      },
+      {
+        "trait_type": "Roll Outline",
+        "value": "Custom"
+      },
+      {
+        "trait_type": "Roll Hole",
+        "value": "Custom"
+      },
+      {
+        "trait_type": "Roll Shadow",
+        "value": "Custom"
+      },
+      {
+        "trait_type": "Roll Color",
+        "value": "Custom"
+      },
+      {
+        "trait_type": "Roll Eyes",
+        "value": "Custom"
+      }
+    ],
+    "compiler": "https://nft-generator.art/"
+  }
+}

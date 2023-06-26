@@ -1,0 +1,53 @@
+{
+  "address": "0xb935b858280e9c429514d8514c484e512ba0aea7",
+  "type": "ERC721",
+  "name": "Koodle Kats Official",
+  "tokenCount": "270",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmZ6rggdCQdcGKL2FQXRroWxgtX2JBsbCpDct3H7UcmUwT/1.json",
+  "metadata": {
+    "name": "Koodle Kat #1",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://QmTFrhLsRXnw3sSJyaVp676eh4u6zC6dQf8hUrczcSHnSX/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Deep Space"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Blue Sunglasses"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tshirt Blue"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Wizard Hat"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Koodle Kats",
+      "family": "Koodle Kats"
+    },
+    "symbol": ""
+  }
+}

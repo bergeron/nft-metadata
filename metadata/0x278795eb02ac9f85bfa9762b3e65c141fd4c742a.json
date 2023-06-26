@@ -1,0 +1,38 @@
+{
+  "address": "0x278795eb02ac9f85bfa9762b3e65c141fd4c742a",
+  "type": "ERC721",
+  "name": "CryptoSkateboards",
+  "tokenCount": "113",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=qPpkkaACbCpii5X02wYQ",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1570653656610?alt=media&token=d2bbf7da-f453-45b2-89cf-078208bb1355",
+    "isForSale": true,
+    "description": "Original graphic for a limited edition skateboard series by Marko Zubak. Graphic is part of his MLIBTY Shadows series and the background photo was taken in Lisbon, January 2019, during his trip to Portugal. Skateboard series was created in the same year and consists of 20/20 boards, 8.75” x 32.44”, pool shape, with hard rock American maple.\n\n“MLIBTY” stands for “My Life Is Better Than Yours”, which was taken from one of the artist's projects from 2009, that deals with free distribution of artworks, in the form of paper toys ( http://markozubak.com/mlibty).\nMLIBTY Shadows represent people in general, but also shadows behind the curtains, invisible inhabitants you never meet, but you feel their presence. Sometimes they are watching you, sometimes they smile, black and white, no hands and no legs, shadows with faces.\nMore about the whole project here: https://www.patreon.com/mlibty",
+    "contractAddress": "0x278795EB02ac9f85BFA9762b3E65c141Fd4c742a",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x278795EB02ac9f85BFA9762b3E65c141Fd4c742a/qPpkkaACbCpii5X02wYQ",
+    "minter": "0x2c4469D16A86989c15741fb13Ad583166ef0895a",
+    "mintedOn": {
+      "_seconds": 1570653879,
+      "_nanoseconds": 777000000
+    },
+    "price": "0.06",
+    "name": "Yellow tram",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Yellow tram"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

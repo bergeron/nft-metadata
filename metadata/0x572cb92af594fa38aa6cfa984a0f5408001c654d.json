@@ -1,0 +1,61 @@
+{
+  "address": "0x572cb92af594fa38aa6cfa984a0f5408001c654d",
+  "type": "ERC721",
+  "name": "DDD Punks",
+  "tokenCount": "530",
+  "uri": "ipfs://QmfGc8SminsVT4GxeWQthrHvEwWjtEu6vjci8AYfBVePGb/1",
+  "metadata": {
+    "name": "DDD Punks",
+    "description": "Be a Degen! you Punk...  Join the revolution.",
+    "image": "ipfs://QmbLUeYAT2gVWStDz2xrxhd3sGsJpe8TYLfZ8B9JMhghxr/1.gif",
+    "properties": {
+      "files": [
+        {
+          "uri": "/128.gif",
+          "type": "image/gif"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x5D7497559CC1dbf9599D57182cA667D1C0855e91",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Linen Red"
+      },
+      {
+        "trait_type": "Punk",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Red Plaid"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Straw Hat"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Green Helix"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bread"
+      }
+    ],
+    "Shapes": "1112",
+    "symbol": "DDDPunk",
+    "seller_fee_basis_points": 690,
+    "edition": 1112
+  }
+}

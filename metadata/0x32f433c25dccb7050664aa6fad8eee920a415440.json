@@ -1,0 +1,30 @@
+{
+  "address": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+  "type": "ERC721",
+  "name": "THE JEWEL",
+  "tokenCount": "777",
+  "uri": "https://factory.chocomint.app/metadata/1/0x32f433c25dccb7050664aa6fad8eee920a415440/1",
+  "metadata": {
+    "image": "https://ipfs.io/ipfs/Qmb7nyzLMkwy4Nf9w1ecGtVYxmpt83ZG6p85jXwhXKC1aF/nft.jpg",
+    "chainId": "1",
+    "name": "THE JEWEL #001",
+    "description": "THE JEWEL NFT",
+    "attributes": [
+      {
+        "value": "Blue Diamond",
+        "trait_type": "Jewel"
+      },
+      {
+        "value": "Blue",
+        "trait_type": "Control device"
+      },
+      {
+        "value": "Genesis",
+        "trait_type": "Shine"
+      }
+    ],
+    "animation_url": "https://ipfs.io/ipfs/QmPtXWDkabrEwRXhaXoZ8LnDMDWfze9yuhuW387cwPiCxM/nft.mp4",
+    "nft_contract_address": "0x32f433c25dccb7050664aa6fad8eee920a415440",
+    "token_id": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0xab4cfad723dfb40fc9cdad4708586c5ea5d4ecdd",
+  "type": "ERC721",
+  "name": "DolphinoNFT",
+  "tokenCount": "13",
+  "uri": "ipfs://QmcmGgp36GUAzQH7jpuAkWnfXFzbyjXaBFWpkD1rWDs7mJ/1.json",
+  "metadata": {
+    "name": "DolpinoNFT #1",
+    "description": "Hello world Dolpino has been born into the World",
+    "image": "ipfs://QmZjoErcrQarGQu2G8oFBFsBCYZCmW8tCbPE5KTCFbi61V/1.png",
+    "edition": 1,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(29,224,194)"
+        },
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Hot Dog"
+        },
+        {
+          "trait_type": "date",
+          "value": 1799
+        }
+      ]
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

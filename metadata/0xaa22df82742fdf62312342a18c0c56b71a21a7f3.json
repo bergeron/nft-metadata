@@ -1,0 +1,40 @@
+{
+  "address": "0xaa22df82742fdf62312342a18c0c56b71a21a7f3",
+  "type": "ERC721",
+  "name": "Cool Stoner Dogs",
+  "tokenCount": "6",
+  "uri": "ipfs://bafybeielybgznlpztm7gjko67zrdpfn5x7a72gcxfno6pvcezs6fda55ce/1.json",
+  "metadata": {
+    "name": "Stoner Dog#1",
+    "description": "A collection of 10,000 Stoner Dog NFT's generated from over 150 hand-drawn traits. Half of all proceeds and royalties will be donated to The Humane Society.",
+    "external_url": "https://www.coolstonerdogs.com",
+    "image": "ipfs://QmXtME1n8htVtL5R5LipvRTisntx9716nW98yS4rw22xB2/1.webp",
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "PALE YELLOW"
+      },
+      {
+        "trait_type": "BODY",
+        "value": "BURNT BROWN"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "TONGUE BLOOD"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "RED PINS BLACK"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "LIME 420 JERSEY"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "CURLY HEAD"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

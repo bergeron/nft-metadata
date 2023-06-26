@@ -1,0 +1,99 @@
+{
+  "address": "0x845dd2a7ee2a92a0518ab2135365ed63fdba0c88",
+  "type": "ERC721",
+  "name": "QQL",
+  "tokenCount": "251",
+  "uri": "https://token.qql.art/qql/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Flow Field",
+        "value": "Circular"
+      },
+      {
+        "trait_type": "Turbulence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Margin",
+        "value": "Wide"
+      },
+      {
+        "trait_type": "Color Variety",
+        "value": "High"
+      },
+      {
+        "trait_type": "Color Mode",
+        "value": "Stacked"
+      },
+      {
+        "trait_type": "Structure",
+        "value": "Formation"
+      },
+      {
+        "trait_type": "Ring Thickness",
+        "value": "Thick"
+      },
+      {
+        "trait_type": "Ring Size",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Size Variety",
+        "value": "Constant"
+      },
+      {
+        "trait_type": "Color Palette",
+        "value": "Fidenza"
+      },
+      {
+        "trait_type": "Spacing",
+        "value": "Sparse"
+      },
+      {
+        "trait_type": "Background Color",
+        "value": "Fidenza Newsprint"
+      },
+      {
+        "trait_type": "Parametric Artist",
+        "value": "1.tylerxhobbs.eth"
+      },
+      {
+        "trait_type": "Mint Period",
+        "value": "Day 0"
+      }
+    ],
+    "description": "QQL is a collaborative experiment in generative art by Tyler Hobbs and Dandelion Wist. This piece was co-created with 1.tylerxhobbs.eth.",
+    "image": "https://img.qql.art/canon/1.png",
+    "name": "QQL #1",
+    "parametricArtist": "0x33C9371d25Ce44A408f8a6473fbAD86BF81E1A17",
+    "renderData": {
+      "backgroundColor": "Fidenza Newsprint",
+      "colorsUsed": [
+        "fPink",
+        "fDarkBlue",
+        "fRed"
+      ],
+      "numColors": 3,
+      "numPoints": 196
+    },
+    "seed": "0x33c9371d25ce44a408f8a6473fbad86bf81e1a178c012cd49a85ffff14c54b46",
+    "traits": {
+      "bullseyeRings1": "On",
+      "bullseyeRings3": "Off",
+      "bullseyeRings7": "On",
+      "colorMode": "Stacked",
+      "colorPalette": "Fidenza",
+      "colorVariety": "High",
+      "flowField": "Circular",
+      "margin": "Wide",
+      "ringSize": "Medium",
+      "ringThickness": "Thick",
+      "sizeVariety": "Constant",
+      "spacing": "Sparse",
+      "structure": "Formation",
+      "turbulence": "None",
+      "version": 1
+    }
+  }
+}

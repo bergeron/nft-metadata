@@ -1,0 +1,104 @@
+{
+  "address": "0x0bef69a2c5323d03e980cd8988f747c0fc2da74a",
+  "type": "ERC721",
+  "name": "STREETH by Storich",
+  "tokenCount": "195",
+  "uri": "https://api.de-fine.art/api/tokens/mainnet/0x0Bef69A2C5323d03E980CD8988f747c0FC2dA74A/1",
+  "metadata": {
+    "tokenId": 1,
+    "chainType": "mainnet",
+    "tokenAddress": "0x0bef69a2c5323d03e980cd8988f747c0fc2da74a",
+    "tokenType": "ERC721",
+    "count": 1,
+    "name": "#1576",
+    "owner": {
+      "address": "0xce5583b6920d9e4905c28bbbad9428f77fe025d3",
+      "name": "userE025d3",
+      "avatar": "https://api.de-fine.art/u/0xce5583B6920d9e4905C28bBBAD9428f77FE025d3"
+    },
+    "artist": "Storich",
+    "description": null,
+    "image": "https://define-art-static-prod.s3-ap-northeast-1.amazonaws.com/token/image/mainnet/streeth/1576.jpg",
+    "fullimage": "https://define-art-static-prod.s3-ap-northeast-1.amazonaws.com/token/image/mainnet/streeth/1576.jpg",
+    "external_url": "https://de-fine.art/ERC721/1",
+    "txHash": "0x97d1a01fc7f3d6691b670d57f2c81d322c036413b28ac5bc244973085b88d30e",
+    "dateCreated": "2021-10-13T08:02:08.000Z",
+    "artistAvatar": "https://define-art-static-prod.s3-ap-northeast-1.amazonaws.com/avatar/73153e22d7104601a81477af45626b88.png",
+    "hot": false,
+    "creator": {
+      "address": "0xa43afa7fe2262be252c30d490e771c273b0f2b88",
+      "name": "Storich",
+      "avatar": "https://define-art-static-prod.s3-ap-northeast-1.amazonaws.com/avatar/73153e22d7104601a81477af45626b88.png"
+    },
+    "auctionInfo": null,
+    "swapInfo": null,
+    "thumbnails": null,
+    "attributes": [
+      {
+        "name": "Hands",
+        "value": "Blue",
+        "trait_type": "Hands",
+        "rarity": "8.87%"
+      },
+      {
+        "name": "Stickers",
+        "value": "ARMY3",
+        "trait_type": "Stickers",
+        "rarity": "3.35%"
+      },
+      {
+        "name": "Topheads",
+        "value": "Cuttie Snowman",
+        "trait_type": "Topheads",
+        "rarity": "2.64%"
+      },
+      {
+        "name": "Emission Fuels",
+        "value": "Yellow",
+        "trait_type": "Emission Fuels",
+        "rarity": "14.12%"
+      },
+      {
+        "name": "Eyes",
+        "value": "Screen Adjustment",
+        "trait_type": "Eyes",
+        "rarity": "4.40%"
+      },
+      {
+        "name": "Pose or Accessories",
+        "value": "none",
+        "trait_type": "Pose or Accessories",
+        "rarity": "89.02%"
+      },
+      {
+        "name": "Background",
+        "value": "Yellow",
+        "trait_type": "Background",
+        "rarity": "5.32%"
+      },
+      {
+        "name": "Graffiti",
+        "value": "Fun Cool Sexy",
+        "trait_type": "Graffiti",
+        "rarity": "3.14%"
+      },
+      {
+        "name": "Body",
+        "value": "melon w Light Sky Blue",
+        "trait_type": "Body",
+        "rarity": "3.21%"
+      },
+      {
+        "name": "Ski Color",
+        "value": "Blue",
+        "trait_type": "Ski Color",
+        "rarity": "11.04%"
+      }
+    ],
+    "swapInfoList": null,
+    "onSaleCountByCurrentUser": 0,
+    "ownedCountByCurrentUser": 0,
+    "ownerCount": 1,
+    "collection": "streeth-1"
+  }
+}

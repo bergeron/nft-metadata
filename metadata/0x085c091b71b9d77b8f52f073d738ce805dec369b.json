@@ -1,0 +1,36 @@
+{
+  "address": "0x085c091b71b9d77b8f52f073d738ce805dec369b",
+  "type": "ERC1155",
+  "name": "ARBO Artifacts",
+  "tokenCount": "62",
+  "uri": "https://fs.arbo.xyz/artifacts/1.json",
+  "metadata": {
+    "name": "Arkto's Glare",
+    "description": "Its ability to penetrate even the most deeply entrenched enemies with long-lingering radiation damage makes this ocular duo-laser an indispensable technology for any mission.",
+    "image": "ipfs://QmQ8hmjjV9mJPb961pRqoWvgVCMSmKUZwMkDxkL2tFZiqH",
+    "cdn_image": "https://fs.arbo.xyz/artifacts/protocols/ARBO_Protocol_Arktos_Glare_Compressed.jpg",
+    "external_url": "https://arbo.world",
+    "attributes": [
+      {
+        "key": "Category",
+        "trait_type": "Category",
+        "value": "Protocol"
+      },
+      {
+        "key": "Edition",
+        "trait_type": "Edition",
+        "value": "First Edition"
+      },
+      {
+        "key": "Rarity",
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "key": "Proficiency",
+        "trait_type": "Proficiency",
+        "value": "Universal"
+      }
+    ]
+  }
+}

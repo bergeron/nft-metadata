@@ -1,0 +1,27 @@
+{
+  "address": "0xfe299c1c0c65367a59af1991de8d6fab100c3e7c",
+  "type": "ERC721",
+  "name": "testmg",
+  "tokenCount": "8",
+  "uri": "ipfs://QmSVeNNmfQ2AJbYQveuP4Uhn1HufyAWFhvknLqwqkrspBS/1",
+  "metadata": {
+    "name": "Manny #1",
+    "token_id": 1,
+    "description": "Entry-level rare Manny, players will need at least one of these to win the game. Visit https://mannys.game/1 to interact with your Manny.",
+    "image": "ipfs://QmfP2qrLZbdmqAZmKsV8TCDkvNBYW43d8jaXSkhAoox1ej",
+    "texture_url": "ipfs://QmT4q318w6Axfh9nUtjDz7pGMzTJRCucW3UxeBQqdPmJ98",
+    "external_url": "https://mannys.game/1",
+    "animation_url": "https://api.mannys.game/view/1",
+    "iframe_url": "https://api.mannys.game/view/1",
+    "attributes": [
+      {
+        "trait_type": "skin",
+        "value": "Base Rare"
+      },
+      {
+        "trait_type": "mood",
+        "value": "bored"
+      }
+    ]
+  }
+}

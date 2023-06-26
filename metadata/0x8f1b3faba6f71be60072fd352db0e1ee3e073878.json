@@ -1,0 +1,26 @@
+{
+  "address": "0x8f1b3faba6f71be60072fd352db0e1ee3e073878",
+  "type": "ERC721",
+  "name": "Art History Frames",
+  "tokenCount": "3",
+  "uri": "ipfs://QmZzcVLgXn2e6cUX7vDPPJiJhmVv5JXP4KGNTK9jjHsQFh/1.json",
+  "metadata": {
+    "name": "Van Gogh",
+    "image": "ipfs://QmXgP6o5y5o5PVKgHZL5bcMW4Fws67Fkx5CxwTfio5f1gN/4285166e68690b805f49bb833158f84a",
+    "attributes": [
+      {
+        "value": "Van Gogh",
+        "trait_type": "Artist"
+      },
+      {
+        "value": "XIX",
+        "trait_type": "Century"
+      },
+      {
+        "value": "Netherlands",
+        "trait_type": "Country"
+      }
+    ],
+    "description": "Art History Frame: Van Gogh. Collaboration between Philosopher and Lucas Almajíd."
+  }
+}

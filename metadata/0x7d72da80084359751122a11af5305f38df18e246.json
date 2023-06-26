@@ -1,0 +1,88 @@
+{
+  "address": "0x7d72da80084359751122a11af5305f38df18e246",
+  "type": "ERC721",
+  "name": "Ether Legends",
+  "tokenCount": "106",
+  "uri": "https://www.etherlegends.com/metadata/menandbeasts/033_Gulp_Beheadress.json",
+  "metadata": {
+    "name": "Gulp And The Beheadress",
+    "image": "https://www.etherlegends.com/tradingcards/menandbeasts/033_Gulp_Beheadress.png",
+    "description": "Heads will roll!",
+    "external_url": "https://www.etherlegends.com",
+    "attributes": [
+      {
+        "trait_type": "game",
+        "value": "Ether Legends"
+      },
+      {
+        "trait_type": "set",
+        "value": "Men and Beasts"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "type",
+        "value": "Character"
+      },
+      {
+        "trait_type": "element_1",
+        "value": "Earth"
+      },
+      {
+        "trait_type": "strength_1",
+        "value": "Defense"
+      },
+      {
+        "trait_type": "element_2",
+        "value": "Water"
+      },
+      {
+        "trait_type": "strength_2",
+        "value": "Heal"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "number",
+        "value": 33,
+        "max_value": 39
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "elementeum",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "attack",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "defense",
+        "value": 6
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heal",
+        "value": 6
+      },
+      {
+        "display_type": "number",
+        "trait_type": "disrupt",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heart",
+        "value": 15
+      }
+    ]
+  }
+}

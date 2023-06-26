@@ -1,0 +1,39 @@
+{
+  "address": "0x77d4560444fcd4a8945e8f2ee387cda0e6936187",
+  "type": "ERC721",
+  "name": "NFT Advent",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=ufB8v51hFuZ5BuVYm1Jp",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1574263493086?alt=media&token=0c27c7d0-ba70-4fd7-8001-4fe8deee7c5e",
+    "isForSale": true,
+    "description": "This is the beginning of a neat new world of interoperable assets were all sorts of companies can get together and make things useful in the digital and virtual world. Join us every day in our cryptovoxels virtual headquartes where each company will give away one NFT a day tat gets you something neat.",
+    "contractAddress": "0x77d4560444fcD4A8945E8F2Ee387cdA0E6936187",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x77d4560444fcD4A8945E8F2Ee387cdA0E6936187/ufB8v51hFuZ5BuVYm1Jp",
+    "minter": "0x6F93fa8B383E51D59DDfC87988AFC964d6ffb5Da",
+    "mintedOn": {
+      "_seconds": 1574263559,
+      "_nanoseconds": 524000000
+    },
+    "price": "1",
+    "name": "Genis Block",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Genis Block"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "id": null
+  }
+}

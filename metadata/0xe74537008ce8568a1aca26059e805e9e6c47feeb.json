@@ -1,0 +1,42 @@
+{
+  "address": "0xe74537008ce8568a1aca26059e805e9e6c47feeb",
+  "type": "ERC721",
+  "name": "Down Market Pepe",
+  "tokenCount": "5227",
+  "uri": "ipfs://bafybeidasofkjrtud355ssae5jphj5bj2eedliyektm5kbeqysadkfwtw4/1.json",
+  "metadata": {
+    "name": "Down Market Pepe #1",
+    "description": "Pepe but ordered from Wish due to down market.",
+    "image": "ipfs://bafybeiawbxw7vkwtg4d46ca5pnyvrsb3gspo5aftdaaauaswgmaqe22tc4/1.png",
+    "dna": "808f3479a1f7920224e7c3a4ba60dbc7c2ef9cd5",
+    "edition": 1,
+    "date": 1665870853226,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Gray Stripes Tanktop"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Party"
+      }
+    ],
+    "compiler": "DownMarket"
+  }
+}

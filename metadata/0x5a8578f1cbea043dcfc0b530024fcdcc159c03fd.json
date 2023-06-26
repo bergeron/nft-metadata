@@ -1,0 +1,48 @@
+{
+  "address": "0x5a8578f1cbea043dcfc0b530024fcdcc159c03fd",
+  "type": "ERC721",
+  "name": "Bus stop",
+  "tokenCount": "9000",
+  "uri": "ipfs://bafybeieizqh7gpivdu44ceg7pwqg5srwehoitbq4l5akvluilldtjhuus4/1.json",
+  "metadata": {
+    "name": "Bus stop#1",
+    "description": "Robots waitting for the bus at night",
+    "external_url": "http://busstopdao.com",
+    "image": "ipfs://bafybeicrcyu7vuyy3d5lwgpwyc727hc5gdkhcxb43vhpa4zu6zjdonbdua/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Sky",
+        "value": "Sky 14"
+      },
+      {
+        "trait_type": "Ground",
+        "value": "Ground 1"
+      },
+      {
+        "trait_type": "Pavilion",
+        "value": "Pavilion 5"
+      },
+      {
+        "trait_type": "Bus Stop Sign",
+        "value": "Bus Stop Sign 6"
+      },
+      {
+        "trait_type": "Robot A",
+        "value": "Robot A7"
+      },
+      {
+        "trait_type": "Robot C",
+        "value": "Robot C3"
+      },
+      {
+        "trait_type": "Robot D",
+        "value": "Robot D2"
+      },
+      {
+        "trait_type": "Robot B",
+        "value": "Robot B7"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

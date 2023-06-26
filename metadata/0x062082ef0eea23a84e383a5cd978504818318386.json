@@ -1,0 +1,39 @@
+{
+  "address": "0x062082ef0eea23a84e383a5cd978504818318386",
+  "type": "ERC721",
+  "name": "Flippy Birds",
+  "tokenCount": "72",
+  "uri": "ipfs://QmUuxS5VhZHFrDP8k8aByubL6M6prAPeKy9S61i2T996nk/1.json",
+  "metadata": {
+    "name": "#1",
+    "image": "ipfs://QmSm7uKCyCLauXUwkjifa4VRKpLioqdFVt62UJAiA5uC9u/1.png",
+    "external_url": "https://flippybirds.com/",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "Jean Jacket"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tabby"
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Short"
+      }
+    ],
+    "x_debug": 1
+  }
+}

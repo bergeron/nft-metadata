@@ -1,0 +1,39 @@
+{
+  "address": "0xbaeec315f9d7f8db2645edfd5633360f152279bc",
+  "type": "ERC721",
+  "name": "Kaidan: The Rengoku Legends [Samurai]",
+  "tokenCount": "8787",
+  "uri": "https://rengoku-public.s3.amazonaws.com/samurai/metadata/json/rengoku-1-nft.json",
+  "metadata": {
+    "name": "Rengoku #1",
+    "image": "https://rengoku-public.s3.amazonaws.com/samurai/assets/rengoku-1-nft.png",
+    "tokenId": 1,
+    "animation_url": "https://rengoku-public.s3.amazonaws.com/samurai/assets/rengoku-1-nft.mp4",
+    "attributes": [
+      {
+        "trait_type": "Helmet",
+        "value": "Eiko"
+      },
+      {
+        "trait_type": "Faceplate",
+        "value": "Gyorin"
+      },
+      {
+        "trait_type": "Chest",
+        "value": "Ude"
+      },
+      {
+        "trait_type": "Visor",
+        "value": "Tate"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clan",
+        "value": "Ukigumo"
+      }
+    ]
+  }
+}

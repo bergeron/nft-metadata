@@ -1,0 +1,58 @@
+{
+  "address": "0xd50c5a3b357d99f89d2d3f8de0f5e8acf13d2188",
+  "type": "ERC721",
+  "name": "Curio - The Oracle Deck Collection",
+  "tokenCount": "9",
+  "uri": "https://the-curio-backend.herokuapp.com/api/token/1.json",
+  "metadata": {
+    "name": "Ace of Wands",
+    "tokenID": 1,
+    "description": "78 origin works were painstakingly selected to begin the process of creating the deck. We reimagined them, searching for the decisive moment within each canvas, upon which we built the cards. \n\n Hubble images compiled from the past three decades create the ground for the oil-works, two hundred year old jewelry technology informs the digital compilation of the jewels that crown minor arcana cards. \n\n Three dimensional tarot cards built in a digital world to fuse the world of technology with the occult game of chance that tarot represents. Cards will mint randomly, a form of divination through the synapses of the internet, for just as jewels choose their owners, so shall the cards.",
+    "background_color": "ffffff",
+    "image": "ipfs://QmV9UgNREnvfWqecuWH46naEvmbSKwQedDfwdYGZtjUkeo/22.png",
+    "animation_url": "ipfs://QmWUAw9LGLehRtGtNTjjojEkvrGBbVBWbuGbawEMBovHzm/22.mp4",
+    "external_url": "https://thecurio.xyz/",
+    "attributes": [
+      {
+        "trait_type": "Arcana",
+        "value": "Minor"
+      },
+      {
+        "trait_type": "House",
+        "value": "Wands"
+      },
+      {
+        "trait_type": "Number",
+        "value": "Ace "
+      },
+      {
+        "trait_type": "Chemical Symbol",
+        "value": "N/A"
+      },
+      {
+        "trait_type": "Subject",
+        "value": "Portrait of Suzane"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "by Auguste Leveque"
+      },
+      {
+        "trait_type": "Hubble",
+        "value": "Elara "
+      },
+      {
+        "trait_type": "Gem Cut",
+        "value": "Oval Cut"
+      },
+      {
+        "trait_type": "Gemstone",
+        "value": "Amethyst"
+      },
+      {
+        "trait_type": "Completion Year of Genesis Work",
+        "value": "1918 (est)"
+      }
+    ]
+  }
+}

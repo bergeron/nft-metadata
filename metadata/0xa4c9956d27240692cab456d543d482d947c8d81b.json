@@ -1,0 +1,49 @@
+{
+  "address": "0xa4c9956d27240692cab456d543d482d947c8d81b",
+  "type": "ERC721",
+  "name": "BeATiger",
+  "tokenCount": "1800",
+  "uri": "ipfs://bafybeifpnyvzvk7lojfuzicf3i6fs6njpk43fvsuqkj4ydnab4kuvebh3i/1",
+  "metadata": {
+    "name": "#1",
+    "description": "Be A Tiger",
+    "external_url": "",
+    "image": "ipfs://bafybeigkdbd7uqow7fdyjlyzl6fyi5uas6njoebdndmbjf47c44xnfcuvi/2.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Mist"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Fierce"
+      },
+      {
+        "trait_type": "Pelage",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Onesie Blue"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Diamonds"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "2.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

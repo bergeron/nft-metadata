@@ -1,0 +1,54 @@
+{
+  "address": "0x70856e6f303d75c2c0f289477448083536bcf295",
+  "type": "ERC721",
+  "name": "Mighty Mice NFT",
+  "tokenCount": "76",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmVgCsaEc85pk72npF8injTmDswijJftu2TgNRFsZBHurY/1.json",
+  "metadata": {
+    "dna": "7cb13feb99939ce2261adef64452cf92570a63c2",
+    "name": "Mighty Mice #1",
+    "description": "Mighty Mice is a collection of 9,999 computer generated Mice living on the Ethereum blockchain. Our Mice are always hungry and each one has a favorite type of cheese. Join the world's first NFT cheese Community!",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVR719xePi86fbP98nfkRnxbQ6TFbMBVrSraJLgSB6Pto/1.png",
+    "edition": 1,
+    "date": 1635063639382,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Red Bandana"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "No Chain"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Coins Gold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Unhappy"
+      },
+      {
+        "trait_type": "Special",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "3D Glasses"
+      },
+      {
+        "trait_type": "Favorite Cheese",
+        "value": "Smoked Cheese"
+      }
+    ],
+    "compiler": "Mighty Mice Engine"
+  }
+}

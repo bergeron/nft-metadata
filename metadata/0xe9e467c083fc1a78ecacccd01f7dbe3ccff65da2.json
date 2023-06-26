@@ -1,0 +1,609 @@
+{
+  "address": "0xe9e467c083fc1a78ecacccd01f7dbe3ccff65da2",
+  "type": "ERC721",
+  "name": "Dots",
+  "tokenCount": "3",
+  "uri": "ipfs://QmTtCSNrsokHe9eFB5LY2edtLc1CZ7KgiZkHpgo2KJVpz2?1",
+  "metadata": [
+    {
+      "dna": "5d87833e2a91738dfca2c83bfae8bbf9cc5246e75177ddb22cf2a6bc496cc1c4",
+      "name": "#0",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/0.gif",
+      "imageName": "0.gif",
+      "edition": 0,
+      "date": 1682469632445,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow2"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Black Square4"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Green Dot"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "b1f2d20fdaeef7f9f6139b828c83a64b7ad3dddc86c43102f617e9775ee795f9",
+      "name": "#1",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/1.gif",
+      "imageName": "1.gif",
+      "edition": 1,
+      "date": 1682469632951,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow1"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Lilac Square"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Green Dot"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "f82ef25aa0586ea82aaacc8bdbb670f47ae64ec345e5acb007f94cfadcd16d65",
+      "name": "#2",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/2.gif",
+      "imageName": "2.gif",
+      "edition": 2,
+      "date": 1682469633436,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow6"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Lilac Square"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Blue Dot8"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "24fc9fc04b670c63b8953782e8a5116432b91172c02060c153b65b755cb3a62b",
+      "name": "#3",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/3.gif",
+      "imageName": "3.gif",
+      "edition": 3,
+      "date": 1682469633927,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow1"
+        },
+        {
+          "trait_type": "Square",
+          "value": "White Square"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Purple Dot"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "34e5a88bdca0934ce9e8e30454486ef3e55e0cfcea9ebba1db3884fcbb0c8339",
+      "name": "#4",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/4.gif",
+      "imageName": "4.gif",
+      "edition": 4,
+      "date": 1682469634448,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Black Square"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Blue Dot2"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "ee0a72e457d335eb52a3b4b77793c059ad527870e2cfa3d228d5ace9cf53fa7e",
+      "name": "#5",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/5.gif",
+      "imageName": "5.gif",
+      "edition": 5,
+      "date": 1682469634928,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow1"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Teal Square"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Yellow Dot"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "bcff333e1bee97d2e2a3475b66a1908bf0c3bc4ee82a214d3351c849256dc116",
+      "name": "#6",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/6.gif",
+      "imageName": "6.gif",
+      "edition": 6,
+      "date": 1682469635406,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow1"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Black Square7"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Blue Dot3"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "686395ba767fef4f0810250e9ad54d16ba04f6ed0d4f24a642f4e3b00bc48629",
+      "name": "#7",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/7.gif",
+      "imageName": "7.gif",
+      "edition": 7,
+      "date": 1682469635886,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Black Square4"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Blue Dot3"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "22e7885b9c98de4774ad38beb8f3a2ab59b48940c981f40fb9bf6db17b5e84a1",
+      "name": "#8",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/8.gif",
+      "imageName": "8.gif",
+      "edition": 8,
+      "date": 1682469636379,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow2"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Grey Square"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Blue Dot3"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "01ba30283acd7e12da02e3175d7857e4fd805c2249714773a41d9a6127114782",
+      "name": "#9",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/9.gif",
+      "imageName": "9.gif",
+      "edition": 9,
+      "date": 1682469636855,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow5"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Black Square6"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Blue Dot3"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "b5f74799579f7b00ef77408b55171a17af9c9b82235497ccc7745cc6f11bd602",
+      "name": "#10",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/10.gif",
+      "imageName": "10.gif",
+      "edition": 10,
+      "date": 1682469637335,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Orange Square"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Purple Dot"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "2226be4246fdc1c757d1d17e46b4ba617af4476592ebd95e711b1698e0a3cbfd",
+      "name": "#11",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/11.gif",
+      "imageName": "11.gif",
+      "edition": 11,
+      "date": 1682469637804,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Black Square"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Yellow Dot"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "620e01ad239bb7e8451f9148ba15a498db23bfa2972ae327cfe77e0d15c2a597",
+      "name": "#12",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/12.gif",
+      "imageName": "12.gif",
+      "edition": 12,
+      "date": 1682469638288,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow4"
+        },
+        {
+          "trait_type": "Square",
+          "value": "White Square"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Green Dot"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "56d4195c241710a21301fcc8f75d1d4977e01c3afaaf752aaed335ad40daa6df",
+      "name": "#13",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/13.gif",
+      "imageName": "13.gif",
+      "edition": 13,
+      "date": 1682469638782,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow2"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Black Square5"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Green Dot"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "ce31f683d6e14a9cd19bf74b89c0fee6de124bcb8d29c8c341e1b9cebe60e104",
+      "name": "#14",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/14.gif",
+      "imageName": "14.gif",
+      "edition": 14,
+      "date": 1682469639264,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow2"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Orange Square"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Blue Dot3"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "a6137faecf6ba6c991a44363f29b6d0659e255e2c554f788ce9da53f2f51d5f1",
+      "name": "#15",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/15.gif",
+      "imageName": "15.gif",
+      "edition": 15,
+      "date": 1682469639731,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Black Square4"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Blue Dot6"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "a2877448136c9412e2bcecfb03f852280b335aa6f959f6d85b22c2accf322186",
+      "name": "#16",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/16.gif",
+      "imageName": "16.gif",
+      "edition": 16,
+      "date": 1682469640209,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow1"
+        },
+        {
+          "trait_type": "Square",
+          "value": "White Square"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Blue Dot8"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "4719eda775a241b67650cd790c049d3fecc2d34f2ec996491700c26846f1afc5",
+      "name": "#17",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/17.gif",
+      "imageName": "17.gif",
+      "edition": 17,
+      "date": 1682469640706,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Purple"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Black Square4"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Purple Dot"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "4fd8f5e51c928f1dd7a7748fffd732b161fa0f489edeca2293aecd10adbf4031",
+      "name": "#18",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/18.gif",
+      "imageName": "18.gif",
+      "edition": 18,
+      "date": 1682469641191,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Black Square"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Yellow Dot"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "8b0740c4a205d621e0442c910b8060718e1ac02ddb2ed618201737f6b70b7e2d",
+      "name": "#19",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/19.gif",
+      "imageName": "19.gif",
+      "edition": 19,
+      "date": 1682469641679,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow2"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Lilac Square"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Blue Dot5"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "8c476175f6158bb3518d4b5380421ed3b61fed42d115205adf4dafd484f9e970",
+      "name": "#20",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/20.gif",
+      "imageName": "20.gif",
+      "edition": 20,
+      "date": 1682469642203,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow5"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Black Square7"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Blue Dot"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "41ec4e88c4eb9b3964a043069577649223b8f4c9bc807ea8857ff7a5f5b8b965",
+      "name": "#21",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/21.gif",
+      "imageName": "21.gif",
+      "edition": 21,
+      "date": 1682469642699,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow6"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Black Square3"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Purple Dot"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "f3b5f1c636bec65004f867ede7287ea9b5a1bff143f3d83cfca608b05ea7b57b",
+      "name": "#22",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/22.gif",
+      "imageName": "22.gif",
+      "edition": 22,
+      "date": 1682469643185,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Lilac Square"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Blue Dot1"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "01911b2533761169aac2c6e619bfb9302e3d11ef2ae5bcd04b193ba233060558",
+      "name": "#23",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/23.gif",
+      "imageName": "23.gif",
+      "edition": 23,
+      "date": 1682469643680,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow4"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Orange Square"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Blue Dot8"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    },
+    {
+      "dna": "ef4aba23e49d51cb41200815216e2b898309c02b9fd89fb01324510acb05bf3a",
+      "name": "#24",
+      "description": "Lugos",
+      "image": "ipfs://QmdZY3EuEno6C8oXzortFPv1ikpJkcmEK8yr3YKZauCr8M/24.gif",
+      "imageName": "24.gif",
+      "edition": 24,
+      "date": 1682469644218,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Square",
+          "value": "Black Square3"
+        },
+        {
+          "trait_type": "Dot",
+          "value": "Blue Dot3"
+        }
+      ],
+      "compiler": "Jalagar Animated Art Engine"
+    }
+  ]
+}

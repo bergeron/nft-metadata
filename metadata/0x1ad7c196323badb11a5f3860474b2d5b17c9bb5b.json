@@ -1,0 +1,25 @@
+{
+  "address": "0x1ad7c196323badb11a5f3860474b2d5b17c9bb5b",
+  "type": "ERC721",
+  "name": "CAMI Lock",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x1ad7c196323badb11a5f3860474b2d5b17c9bb5b/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x1aD7c196323BaDB11a5f3860474B2D5B17c9bb5B/icon?id=1",
+    "expiration": 1613865385,
+    "tokenId": "1",
+    "owner": "0x3ca206264762caf81a8f0a843bbb850987b41e16",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1613865385
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x1aD7c196323BaDB11a5f3860474B2D5B17c9bb5B",
+    "network": 1
+  }
+}

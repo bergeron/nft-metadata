@@ -1,0 +1,50 @@
+{
+  "address": "0x2ebf789f6477986375370e973f1243c7b840d755",
+  "type": "ERC721",
+  "name": "María Freire",
+  "tokenCount": "1",
+  "uri": "ipfs://bafkreic7q5vuhabto7zf3v7g2kbwv2khtqbppbdfcqssw7l4xjxgmadose",
+  "metadata": {
+    "name": "Vibrante",
+    "symbol": "MARIAFREIRE",
+    "description": "This is a painting by Uruguayan artist María Freire, executed in 1981. It is an oil on canvas painting with the dimensions of 63 x 84 cm (25 x 33 in).  The painting has been tacked onto a stretcher with one vertical and one horizontal crossbar. The painting is signed “M. FREIRE ‘81” in the bottom proper right (PR) corner. Freire often made her paintings in series, and this work belongs to the series entitled \"Vibrante\", which she developed from 1975 to 1985, where the emphasis was on light and color. While the colors and patterning in “Vibrante” appear to mimic digital screens, this is a pre-digital painting: it is very handmade and depicts all of the chaos and colors of the internet before the internet age. Up close, you can see the wavering of her hand as she tried to make straight lines for the grid.",
+    "image": "ipfs://bafybeihi6ljzaj5xdanmdiytfiiszr36pz7wtvpc6xzaptemba6p7mgbqq",
+    "external_url": "",
+    "collection": {
+      "name": "María Freire",
+      "description": "Artworks by María Freire in the Kanbas Art Collection",
+      "image": "https://i.ibb.co/zQdnTWw/Kanbas-Collection.png"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://i.imgur.com/SrEpWNX.png",
+          "type": "png"
+        }
+      ],
+      "category": "image"
+    },
+    "attributes": [
+      {
+        "trait_type": "Painting",
+        "value": "oil on canvas"
+      },
+      {
+        "trait_type": "Genre",
+        "value": "Contemporary Art"
+      },
+      {
+        "trait_type": "Alt Genre",
+        "value": "Uruguayan Art"
+      },
+      {
+        "trait_type": "Artist Category",
+        "value": "Latin American Artist"
+      },
+      {
+        "trait_type": "Alt Artist Category",
+        "value": "Female Artist"
+      }
+    ]
+  }
+}

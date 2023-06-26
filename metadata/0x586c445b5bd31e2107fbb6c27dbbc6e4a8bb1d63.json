@@ -1,0 +1,42 @@
+{
+  "address": "0x586c445b5bd31e2107fbb6c27dbbc6e4a8bb1d63",
+  "type": "ERC721",
+  "name": "Unordinal Birds",
+  "tokenCount": "999",
+  "uri": "ipfs://bafybeicc65epq6htriq35fh2n4hlmqpizvkglg4wstteczkgalipaolobe/1.json",
+  "metadata": {
+    "name": "Unordinal Bird #1",
+    "description": "The otherside of Moonbirds.",
+    "image": "ipfs://bafybeid2wm7opjwgjsbd6l5pcmccuthnizl2ypityd6ioamfjqatucztma/1.png",
+    "dna": "2a83d5a0c0ebb5b16e02c8a77c1b4c0816516c8e",
+    "edition": 1,
+    "date": 1676154048704,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body",
+        "value": "M1"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Beak 2"
+      },
+      {
+        "trait_type": "Left Eye",
+        "value": "Eye 5"
+      },
+      {
+        "trait_type": "Right Eye",
+        "value": "Eye 3"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "Unordinals"
+  }
+}

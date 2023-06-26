@@ -1,0 +1,28 @@
+{
+  "address": "0x705d6b0c912a33a8643b5f7e42b5c7ca386a3b32",
+  "type": "ERC721",
+  "name": "PRQ Vesting Voucher",
+  "tokenCount": "19",
+  "uri": "data:application/json,{\"name\":\"PRQ Allocation Voucher #1 - 600.00 - OneTime\", \"description\":\"Voucher #1 of PRQ allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade PRQ's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!\",\"image\": \"https://imgurl.solv.finance/meta/images/icPRQ/1.png\",\"external_url\":\"https://app.solv.finance/icPRQ/1\", \"properties\": {\"owner\":\"0x0659671806d17c1e46e19a5875a73c2d20e54172\",\"underlying\":\"0x362bc847a3a9637d3af6624eec853618a43ed7d2\",\"underlyingSymbol\":\"PRQ\",\"vestingAmount\":\"600.000000000000000000\",\"principal\":\"600.000000000000000000\",\"claimType\":\"OneTime\",\"claimableAmount\":\"600.000000000000000000\",\"percentages\":[\"100.00%\"],\"maturities\":[1623456000]}}",
+  "metadata": {
+    "name": "PRQ Allocation Voucher #1 - 600.00 - OneTime",
+    "description": "Voucher #1 of PRQ allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade PRQ's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!",
+    "image": "https://imgurl.solv.finance/meta/images/icPRQ/1.png",
+    "external_url": "https://app.solv.finance/icPRQ/1",
+    "properties": {
+      "owner": "0x0659671806d17c1e46e19a5875a73c2d20e54172",
+      "underlying": "0x362bc847a3a9637d3af6624eec853618a43ed7d2",
+      "underlyingSymbol": "PRQ",
+      "vestingAmount": "600.000000000000000000",
+      "principal": "600.000000000000000000",
+      "claimType": "OneTime",
+      "claimableAmount": "600.000000000000000000",
+      "percentages": [
+        "100.00%"
+      ],
+      "maturities": [
+        1623456000
+      ]
+    }
+  }
+}

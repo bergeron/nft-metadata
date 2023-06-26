@@ -1,0 +1,48 @@
+{
+  "address": "0x6ab59e281f94d8c46e2cf8210ddbb25c0c3cc135",
+  "type": "ERC1155",
+  "name": "Satisfy Digital Collectibles",
+  "tokenCount": "23",
+  "uri": "https://arweave.net/CyJsZpBvuDQ7Eqc-RKbcz0o9v70p8IuU6W7VxeELIbg",
+  "metadata": {
+    "name": "POSSESSED #1 Grey Jasper by Satisfy",
+    "created_by": "Satisfy",
+    "description": "Satisfy digital collectible from the Re-Possessed™ drop.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Satisfy"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Grey Jasper"
+      },
+      {
+        "trait_type": "Drop Date",
+        "value": "November 7th, 2021"
+      }
+    ],
+    "image_details": {
+      "bytes": 231098,
+      "format": "PNG",
+      "sha256": "4b835f17bc55bc35382b7be2d1bc39758d7d45bd94f437ca351412be1af116a5",
+      "width": 1080,
+      "height": 1080
+    },
+    "image": "https://arweave.net/W1TzYn_gSerQN1FwDctR2rnh2IDmffaXhp_Zy7djmHw",
+    "image_url": "https://arweave.net/W1TzYn_gSerQN1FwDctR2rnh2IDmffaXhp_Zy7djmHw",
+    "animation_details": {
+      "bytes": 10413981,
+      "format": "MP4",
+      "duration": 10,
+      "sha256": "250d1e2294c77ccd8600d98461d6b3fd2a3789ab296879db19c368b01584eca0",
+      "width": 1600,
+      "height": 1600,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/uKdwtGVNEDDF1BtEFwRWnWK95vUaI1682f3LRYRQ-O4",
+    "animation_url": "https://arweave.net/uKdwtGVNEDDF1BtEFwRWnWK95vUaI1682f3LRYRQ-O4"
+  }
+}

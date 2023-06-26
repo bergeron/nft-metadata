@@ -1,0 +1,38 @@
+{
+  "address": "0xc6a2bafac9d3b6e947eea95f0143af29927b3fe7",
+  "type": "ERC721",
+  "name": "Gvm",
+  "tokenCount": "4",
+  "uri": "ipfs://QmerWtvJhtftVw6p71DtcCZaEH9oke5Ko2t4GU5kTDqxeL/1.json",
+  "metadata": {
+    "name": "GM Collection #1",
+    "description": "GM collection description",
+    "image": "ipfs://QmNk2mRutJj1MP2e9K6idMoAKUf31RbrtDYge1cRzq6ozD/1.png",
+    "dna": "d36180cbb740eedc9aeb437531c30f926863e9bc",
+    "edition": 1,
+    "date": 1638665327848,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Style9"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Dirt"
+      },
+      {
+        "trait_type": "Lip",
+        "value": "Style1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

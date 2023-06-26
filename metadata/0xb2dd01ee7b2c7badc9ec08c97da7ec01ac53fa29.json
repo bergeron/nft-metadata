@@ -1,0 +1,70 @@
+{
+  "address": "0xb2dd01ee7b2c7badc9ec08c97da7ec01ac53fa29",
+  "type": "ERC721",
+  "name": "DinoX World",
+  "tokenCount": "9000",
+  "uri": "https://api.dinox.io/metadata/1",
+  "metadata": {
+    "description": "Hatched DinoX Dinosaur #DNX",
+    "external_url": "https://dinox.io/",
+    "image": "https://storage.googleapis.com/dinox-static-prod/assets/530692a3af17d5cf1b4606e9271d5bf9.png",
+    "name": "Chialingosaurus #1",
+    "image_width": 1024,
+    "image_height": 1024,
+    "hatched": 1,
+    "attributes": [
+      {
+        "trait_type": "Family",
+        "value": "Chialingosaurus"
+      },
+      {
+        "trait_type": "Size",
+        "value": "medium"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Generation",
+        "value": 0
+      },
+      {
+        "trait_type": "Class",
+        "value": "Herbivore"
+      },
+      {
+        "trait_type": "HP",
+        "value": 96
+      },
+      {
+        "trait_type": "DMG",
+        "value": 7
+      },
+      {
+        "trait_type": "Static Slots",
+        "value": 2
+      },
+      {
+        "trait_type": "Dynamic Slots",
+        "value": 3
+      },
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 1632442244
+      }
+    ],
+    "base_dmg": 7,
+    "base_hp": 96,
+    "ac_static": "36,7",
+    "ac_dynamic": "2",
+    "ac_static_max": 2,
+    "ac_dynamic_max": 3,
+    "energy_cost": 2,
+    "class": 1,
+    "level": 1,
+    "experience": 2,
+    "background_color": "bce7fd"
+  }
+}

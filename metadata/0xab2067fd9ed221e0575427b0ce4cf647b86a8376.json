@@ -1,0 +1,41 @@
+{
+  "address": "0xab2067fd9ed221e0575427b0ce4cf647b86a8376",
+  "type": "ERC721",
+  "name": "AntidoteDAO Genesis Collection",
+  "tokenCount": "41",
+  "uri": "ipfs://bafybeibcbzjdyzehx635rt7ov5wwioitjqpzuagouxxhpowdnchsl75trm/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "1000 Uniquely Generated Pixel Art Themed Antidote NFTs Directly Funding Cancer Research",
+    "external_url": "",
+    "image": "ipfs://bafybeie24d56iqkfu2qq6rm6cwqzp5sgu7bo67pm2foj2sknjawmk5smu4/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "background_lightviolet"
+      },
+      {
+        "trait_type": "Stands",
+        "value": "stand_wooden_stool"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "potion_wings pink"
+      },
+      {
+        "trait_type": "Potions",
+        "value": "yellow_potion"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://bafybeie24d56iqkfu2qq6rm6cwqzp5sgu7bo67pm2foj2sknjawmk5smu4/1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

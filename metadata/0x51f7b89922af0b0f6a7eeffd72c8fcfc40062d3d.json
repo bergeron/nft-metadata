@@ -1,0 +1,19 @@
+{
+  "address": "0x51f7b89922af0b0f6a7eeffd72c8fcfc40062d3d",
+  "type": "ERC721",
+  "name": "PowerFan V2",
+  "tokenCount": "3",
+  "uri": "https://powerfan.io/nft_metadata/1",
+  "metadata": {
+    "error": {
+      "stringValue": "\"1\"",
+      "valueType": "string",
+      "kind": "ObjectId",
+      "value": "1",
+      "path": "_id",
+      "reason": {},
+      "name": "CastError",
+      "message": "Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"nft_token\""
+    }
+  }
+}

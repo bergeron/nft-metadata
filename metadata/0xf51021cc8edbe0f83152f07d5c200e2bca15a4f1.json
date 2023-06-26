@@ -1,0 +1,58 @@
+{
+  "address": "0xf51021cc8edbe0f83152f07d5c200e2bca15a4f1",
+  "type": "ERC721",
+  "name": "KeskinsNFT",
+  "tokenCount": "2",
+  "uri": "ipfs://QmW1eeS2tHcfkQp8tQ34UCixTD6CqFLrjNtwvoxY46UM9j/1.json",
+  "metadata": {
+    "dna": "090eb2e351d7f583296912337bd7232b6e8b4894",
+    "name": "Keskin #1",
+    "description": "Keskins are 10000 unique, jetpack lovers. They living in the metaverse.",
+    "image": "ipfs://QmajhYFHLVwiruh8jQvyBoMw9jFtY7Nz25tgArn1adMmqY/1.gif",
+    "edition": 1,
+    "date": 1651316069268,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "Flower"
+      },
+      {
+        "trait_type": "Jetpack",
+        "value": "Orange With Lamp"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Human"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Orange Bandana"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "Blue Shorts"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Red & Blue"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Pink Singlet"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Short White"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Green Beanie"
+      }
+    ],
+    "compiler": "KeskinLabs"
+  }
+}

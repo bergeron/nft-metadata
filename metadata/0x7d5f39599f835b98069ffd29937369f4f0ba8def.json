@@ -1,0 +1,41 @@
+{
+  "address": "0x7d5f39599f835b98069ffd29937369f4f0ba8def",
+  "type": "ERC721",
+  "name": "Bobs Territory",
+  "tokenCount": "544",
+  "uri": "ipfs://QmaMvJiqQ7cN9j9pt13bnLU7YwsmNWh1LSi1h36gwGL72T/1",
+  "metadata": {
+    "name": "Bob #1",
+    "description": "Bob #1 - collection of 4444 generated bobs living in ethereum blockchain",
+    "image": "ipfs://QmP2N3MzcwUWLssjEnTmrpSffrTT1yzxS9sVC274F4D6jt/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Rock"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Pink Hat"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 2848,
+        "display_type": "number"
+      }
+    ],
+    "fee_recipient": "0x5B727AB0eCc2F02B14aa26b7B029C4FB3AE51153",
+    "seller_fee_basis_points": 500
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "address": "0xf047fc49435e986c574db8bc0227b396ad361499",
+  "type": "ERC721",
+  "name": "Franken_Punks",
+  "tokenCount": "3602",
+  "uri": "https://ipfs.io/ipfs/QmXThdergfWCSGuDPdFkyBjxwsJfv49TMz7tcpRsDLYcFU/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "We're a community-based collectibles project featuring art by 3D Punks. 3D FrankenPunks come in an evil array of shapes, traits, and sizes with a few surprises along the way. The collection size is 10,000. Each FrankenPunk allows its owner to vote on creating experiences and influencing project developments which are paid for by the Punksville Community Treasury.",
+    "image": "ipfs://QmbZNgsdX4sgzitoxdWuf46RnbXPTgwb1BcS9uPsqe4WUM/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Female Light"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Snarl Mouth"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Worm Pigtails"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Regular Shades"
+      },
+      {
+        "trait_type": "Necklace",
+        "value": "Silver Chain"
+      }
+    ],
+    "compiler": "FrankenPunks Generator"
+  }
+}

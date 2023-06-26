@@ -1,0 +1,35 @@
+{
+  "address": "0xd21c5d701557928cc3458d41180f33f55bbf7409",
+  "type": "ERC721",
+  "name": "HAKIMANGA",
+  "tokenCount": "164",
+  "uri": "https://api.w3bmint.xyz/api/tokens/homestead/639abc9824864acb0a386b2f/1",
+  "metadata": {
+    "name": "HAKI #1",
+    "description": "MANGA",
+    "attributes": [
+      {
+        "trait_type": "COLLECTION",
+        "value": "HAKI MANGA",
+        "percentage": 100
+      },
+      {
+        "trait_type": "CHAPTER",
+        "value": 1.1,
+        "percentage": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "CHARACTER",
+        "value": "SHOTARO",
+        "percentage": 100
+      },
+      {
+        "trait_type": "TYPE",
+        "value": "MANGA COVER",
+        "percentage": 100
+      }
+    ],
+    "image": "https://ipfs.w3bmint.xyz/ipfs/QmPRR31ZwPk58dr5dUQ31YYaFMiEBwZqMS98LrMARi5gN9"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "address": "0x33080668b230da3f183c936236ec70363322b8d2",
+  "type": "ERC721",
+  "name": "Digital Worlds NFT",
+  "tokenCount": "1",
+  "uri": "ipfs://Qmd6SD9d2Ec5uTpuejaKPLSrqED3LXQkd2KR9PKQf7xxCm/1.json",
+  "metadata": {
+    "name": "Digital Worlds NFT #1",
+    "description": "Digital Worlds NFT #1 - Randomly generated Digital Worlds and Backgrounds.",
+    "fee_recipient": "0xf3c5d0FE87435d047D6fd09F99F1633537D45fef",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://QmSfkqmcprRmEbxWTpW4VDdvtAC4H6KVLrn7WUZehikiH3/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "One World Yellow"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "Mari"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 626,
+        "display_type": "number"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "0xa99926c48c2f7140f51cd0cbc105a120ec2f5027",
+  "type": "ERC721",
+  "name": "Founder Pass",
+  "tokenCount": "3250",
+  "uri": "https://storage.googleapis.com/fractal-launchpad-public-assets/metaops-assets/founders/meta/1.json",
+  "metadata": {
+    "name": "Common Founders Pass #2856",
+    "symbol": "FOUNDER",
+    "description": "MetaOps Founders Pass NFTs are a collection of premium NFTs that will provide players with top tier utilities",
+    "seller_fee_basis_points": 800,
+    "image": "https://storage.googleapis.com/fractal-launchpad-public-assets/metaops-assets/founders/common.jpg",
+    "animation_url": "https://storage.googleapis.com/fractal-launchpad-public-assets/metaops-assets/founders/common.mp4",
+    "external_url": "https://metaopsgaming.com/",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://storage.googleapis.com/fractal-launchpad-public-assets/metaops-assets/founders/common.jpg",
+          "type": "image/jpg"
+        },
+        {
+          "uri": "https://storage.googleapis.com/fractal-launchpad-public-assets/metaops-assets/founders/common.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "creators": [
+        {
+          "address": "8CWFS9nzXtLd3LGE3GaSLYTAEUzkAoUPwmtq32nJFkSZ",
+          "share": 90
+        },
+        {
+          "address": "HMduKVo3A19U5EpQdEhPjo9hq9zfZXn8aGVYZp7Vc7fX",
+          "share": 10
+        }
+      ]
+    },
+    "collection": {
+      "name": "Founders Pass",
+      "family": "MetaOps Gaming"
+    },
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      }
+    ]
+  }
+}

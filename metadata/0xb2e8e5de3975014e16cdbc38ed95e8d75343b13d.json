@@ -1,0 +1,27 @@
+{
+  "address": "0xb2e8e5de3975014e16cdbc38ed95e8d75343b13d",
+  "type": "ERC721",
+  "name": "Crypto Stamp Golden Whale",
+  "tokenCount": "1000",
+  "uri": "https://cryptostampcsgw.s3.eu-central-1.amazonaws.com/meta/1.json",
+  "metadata": {
+    "name": "Crypto stamp Golden Whale 2vFK1R",
+    "description": "Crypto stamp Golden Whale (CSGW), ID 2vFK1R",
+    "image": "https://cryptostampcsgw.s3.eu-central-1.amazonaws.com/media/whale-active.png",
+    "external_url": "https://cstp.io/CSGW/2vFK1R",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "animal",
+        "value": "Whale"
+      },
+      {
+        "trait_type": "sales_source",
+        "value": "Physical Sale"
+      }
+    ]
+  }
+}

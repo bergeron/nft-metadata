@@ -1,0 +1,25 @@
+{
+  "address": "0xdc2523e8bb1a6ab29fabe44e04c74e3a351c368a",
+  "type": "ERC1155",
+  "name": "Unreal Kingdoms Space Station",
+  "tokenCount": "30",
+  "uri": "ipfs://QmZp3ks3YydeqDKFSm618hsMUg6RmTWoUKt2ENBKKarjna/0",
+  "metadata": {
+    "name": "Space Station Mall Pass Building 1",
+    "description": "Space Station Mall for Building 1 initial supply is 20",
+    "image": "ipfs://Qme8mQz2gEzkG1ra3GM6MUkAJbW23tAkBstZet58Mq18aY/Space%20station%20mall_pass.png",
+    "external_url": "",
+    "background_color": "",
+    "attributes": [
+      {
+        "trait_type": "Mall",
+        "value": "1"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Space Station"
+      }
+    ],
+    "supply": "20"
+  }
+}

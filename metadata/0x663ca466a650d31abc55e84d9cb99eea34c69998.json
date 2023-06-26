@@ -1,0 +1,55 @@
+{
+  "address": "0x663ca466a650d31abc55e84d9cb99eea34c69998",
+  "type": "ERC721",
+  "name": "Math Club V2",
+  "tokenCount": "10",
+  "uri": "https://nftstorage.link/ipfs/bafybeianvcd6ovhw72hchsqbvdzeb56vxnoel6faqalrs2y7n4oyweuwea/1.json",
+  "metadata": {
+    "name": "OG Female #1",
+    "description": "NFT Asset Detailed Description #1",
+    "image": "https://nftstorage.link/ipfs/bafybeiapvcjkaxvm7jci4ew7tixt26xffxhch2wra6xpdiklv5j7tgixvm/1.png",
+    "attributes": [
+      {
+        "trait_type": "Traits #Backgroung",
+        "value": "7"
+      },
+      {
+        "trait_type": "Traits #Skin",
+        "value": "dark brown"
+      },
+      {
+        "trait_type": "Traits #Hair",
+        "value": "hair"
+      },
+      {
+        "trait_type": "Traits #Head",
+        "value": "bronz helmet"
+      },
+      {
+        "trait_type": "Traits #Armor",
+        "value": "silver"
+      },
+      {
+        "trait_type": "Traits #Weapon",
+        "value": "bow"
+      },
+      {
+        "trait_type": "Traits #Tatto",
+        "value": "1 arabian tatto"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x38015Cf8d6Dd125d9423df516147f719B778c03a",
+        "share": 100
+      }
+    ],
+    "collection": {
+      "name": "Collection Name",
+      "family": "Unique Family Name"
+    },
+    "symbol": "NFT",
+    "seller_fee_basis_points": 0,
+    "compiler": "Genfty.com"
+  }
+}

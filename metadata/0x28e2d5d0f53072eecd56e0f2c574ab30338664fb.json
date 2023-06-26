@@ -1,0 +1,32 @@
+{
+  "address": "0x28e2d5d0f53072eecd56e0f2c574ab30338664fb",
+  "type": "ERC721",
+  "name": "Biffys Stamps",
+  "tokenCount": "24",
+  "uri": "https://infiNFT.azurewebsites.net/api/HttpTrigger?artContract=0x28e2d5d0f53072eecd56e0f2c574ab30338664fb&id=1",
+  "metadata": {
+    "image": "https://gateway.pinata.cloud/ipfs/QmWCiqMmSecoA1gxUsG1rYLJwNy23pCANXBU7REX6ukygx",
+    "description": "The Audit Stamps raised 30 ETH to pay for the Love Farm audit by QuillHash.",
+    "animation_url": "",
+    "external_url": "https://www.infinft.com/view.html?artistcontract=0x28e2d5d0f53072eecd56e0f2c574ab30338664fb&token=1",
+    "name": "Audit Stamp A",
+    "attributes": [
+      {
+        "trait_type": "artist name",
+        "value": "Ethereal"
+      },
+      {
+        "trait_type": "edition number",
+        "value": "1 of 2"
+      },
+      {
+        "trait_type": "exhibition",
+        "value": "Audit Stamp"
+      },
+      {
+        "trait_type": "file type",
+        "value": "png"
+      }
+    ]
+  }
+}

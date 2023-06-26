@@ -1,0 +1,45 @@
+{
+  "address": "0x0678d88d008b57dfb0734702d16a2a958503858d",
+  "type": "ERC721",
+  "name": "Sounds Of Aiphoria",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/jHMjcC1L4xXD26yuu9hryJA_l6g8OY8yc43f6_ggNCE",
+  "metadata": {
+    "name": "Hypnosound Lesson",
+    "created_by": "Pixelord",
+    "description": "Music and AI animation by Pixelord, 2022",
+    "attributes": [
+      {
+        "trait_type": "music",
+        "value": "Hypnosound"
+      },
+      {
+        "trait_type": "visual",
+        "value": "synth dream"
+      }
+    ],
+    "image_details": {
+      "bytes": 2972533,
+      "format": "GIF",
+      "sha256": "9a5f42de49a7ec395fb58dee74806c1103324eb8dc42b480a2cea7145b38ee1d",
+      "width": 500,
+      "height": 500
+    },
+    "image": "https://arweave.net/NMcrLKE87hz0UhUl6ndG0CTkhxF15SPd3JSWFpgWJZQ",
+    "image_url": "https://arweave.net/NMcrLKE87hz0UhUl6ndG0CTkhxF15SPd3JSWFpgWJZQ",
+    "animation_details": {
+      "bytes": 36020113,
+      "format": "MOV",
+      "duration": 47,
+      "sha256": "3abd613bd6241db5f663f15f4813f5dcaa743e0593ddc04fa888b5a0128b1c50",
+      "width": 640,
+      "height": 640,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/ffMPLBB-TSpjLfkvXW9oj1I8XE-GDiC7FRnV7GvmrLw",
+    "animation_url": "https://arweave.net/ffMPLBB-TSpjLfkvXW9oj1I8XE-GDiC7FRnV7GvmrLw"
+  }
+}

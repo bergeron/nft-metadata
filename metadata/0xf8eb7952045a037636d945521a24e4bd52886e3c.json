@@ -1,0 +1,57 @@
+{
+  "address": "0xf8eb7952045a037636d945521a24e4bd52886e3c",
+  "type": "ERC721",
+  "name": "123132d3saf23",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/280000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "280000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Window #1",
+    "minted": true,
+    "artist": "Jan Robert Leegte",
+    "description": "The mid grey chiseled computer interfaces of 1997 have always reminded me of sculptures created in bas-relief, a technique going back to the stone carved petroglyphs that is as ancient as humankind's first steps in making art. The combination of illusion and tactility found in these interfaces shows our longing to have the computer experience to be part of the material world. Therefore it comes as no surprise that the programming language of Ethereum is named 'Solidity'. The blockchain is software, yet it behaves and feels like hardware.\n\n🪨\n\nWindow pays tribute to interface culture, and as such, the work is responsive and not scaling. When the work is viewed on a smaller scale, details will disappear, yet the composition stays recognisable. It is like stepping back to see a work from a distance. The work can also increasingly reveal more details when made larger. As a result Window will keep unfolding in the future as resolutions will grow.\n\nThe work follows standard window interactions. Double clicking or tapping the title bar will toggle between full browser and windowed view. On a laptop or desktop in windowed view, you can drag and resize your Window as you please. When made tiny, it makes for a nice profile pic. Clicking or tapping the background will cycle through three different background colours.\n\nWindow comes in seven latent colours and both in Windows Classic or Mac Classic style.\nWith the feature ‘Latent colour’ I look at the invisible steps within the procedure of a generative artwork. I love the idea that the script has chosen to feature a colour, but in a later step could fail to make it to the composition. By showing the colour as a feature, I try to extend the visual work with deeper invisible layers of the generative process.\nCheck the features to see what colour is seeded.\n\nIn honour of the blockchain and the web, the work is written in vanilla JavaScript, using no dependancies, and generates standard HTML DOM aiming for a closer feel of the user interface.",
+    "script_type": "js@na",
+    "project_id": "280",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/280000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/280000001.png",
+    "generator_url": "https://generator.artblocks.io/280000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/280000001",
+    "royaltyInfo": {
+      "artistAddress": "0xe8e01e71d18f838b13e8f6fa250ee0e4bed6b877",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Window by Jan Robert Leegte",
+    "website": "https://window.leegte.org",
+    "token_hash": "0x2a43fc351f0892dc7ec96f545ca8848f3a94464ec9e612fd84894c158bd091ab",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/280/tokens/280000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/280000001",
+    "features": {
+      "Interface": "Windows Classic",
+      "Latent colour": "Interface Silver"
+    },
+    "traits": [
+      {
+        "trait_type": "Window",
+        "value": "All Windows"
+      },
+      {
+        "trait_type": "Window",
+        "value": "Interface: Windows Classic"
+      },
+      {
+        "trait_type": "Window",
+        "value": "Latent colour: Interface Silver"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

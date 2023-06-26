@@ -1,0 +1,50 @@
+{
+  "address": "0x5b11bc0865b89d7f4c343573d81695c0a51b697e",
+  "type": "ERC721",
+  "name": "Adventurer Bag with Loot",
+  "tokenCount": "2546",
+  "uri": "ipfs://bafybeifhym74pz3zxkou3jkjk2kvsmqrrqb5sxhmid7dzqxm2nmuxjige4/1.json",
+  "metadata": {
+    "name": "The Adventurer Bag #1",
+    "description": "Use this loot wisely on your adventures.",
+    "image": "ipfs://bafybeic7k22p4luiqxuh5vi4eiq7pytbjzdzf3wprz6qrpcc3c46zkglbu/1.png",
+    "dna": "4e988b55e7cfc3c93cf45ed27a24628ce49ed570",
+    "edition": 1,
+    "date": 1642381297157,
+    "attributes": [
+      {
+        "trait_type": "CardBasic",
+        "value": "Basic"
+      },
+      {
+        "trait_type": "1AdventurerGear",
+        "value": "Staff of Fire"
+      },
+      {
+        "trait_type": "2AdventurerGear",
+        "value": "Staff of the Woodlands"
+      },
+      {
+        "trait_type": "3AdventurerGear",
+        "value": "Cloak of Arachnida"
+      },
+      {
+        "trait_type": "4Shield",
+        "value": "Spellguard Shield "
+      },
+      {
+        "trait_type": "5Rings",
+        "value": "Ring of Evasion "
+      },
+      {
+        "trait_type": "6Weapon",
+        "value": "Heavy Crossbow plus 2 "
+      },
+      {
+        "trait_type": "7Armor",
+        "value": "Demon Armor "
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

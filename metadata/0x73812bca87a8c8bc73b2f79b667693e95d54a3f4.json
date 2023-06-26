@@ -1,0 +1,28 @@
+{
+  "address": "0x73812bca87a8c8bc73b2f79b667693e95d54a3f4",
+  "type": "ERC721",
+  "name": "Aaron Avatar",
+  "tokenCount": "1",
+  "uri": "https://aaronchen.me/resources/nft/aa/1.json",
+  "metadata": {
+    "name": "Aaron Chen's twitter avatar",
+    "description": "This is Aaron chen's twitter avatar on 2022-04-21",
+    "image": "https://aaronchen.me/assets/img/favicons/avatar-ac-2.png",
+    "external_url": "https://twitter.com/aaron1sme",
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "Date",
+        "value": 1650623075
+      },
+      {
+        "trait_type": "Platform",
+        "value": "Twitter"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Cartoon"
+      }
+    ]
+  }
+}

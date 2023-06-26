@@ -1,0 +1,42 @@
+{
+  "address": "0xa8ae66c4ff74de6b63cd3e29d1e5af8706bab9c9",
+  "type": "ERC721",
+  "name": "Boo Town XYZ",
+  "tokenCount": "61",
+  "uri": "ipfs://bafybeih26znz5mng5zxiw7mm2feneql33j3b6tuhbnammnm5ug3jafb3za/1.json",
+  "metadata": {
+    "name": "Boo Town XYZ #1",
+    "description": "Fun Project for Community",
+    "image": "ipfs://bafybeiapvz6vtebcnawc5uqn7ynomnhvixjf5ipyku6uswyvec7ajlr23q/1.png",
+    "dna": "0a3bc50a6947fbbfc4b8948f4e0b56e6fdce1223",
+    "edition": 1,
+    "date": 1664429813883,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Short_White_Single"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Long"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Straight"
+      },
+      {
+        "trait_type": "Bats",
+        "value": "1_Bat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

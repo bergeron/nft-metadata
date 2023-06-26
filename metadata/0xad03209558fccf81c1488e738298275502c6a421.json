@@ -1,0 +1,44 @@
+{
+  "address": "0xad03209558fccf81c1488e738298275502c6a421",
+  "type": "ERC721",
+  "name": "Crypto Maze Origin Items",
+  "tokenCount": "386",
+  "uri": "https://cryptomazeapp.fra1.digitaloceanspaces.com/origin/items/metadata/1.json",
+  "metadata": {
+    "external_url": "https://cryptomaze.app",
+    "name": "Skateboard",
+    "animation_url": "https://cryptomazeapp.fra1.digitaloceanspaces.com/origin/items/mp4/156.mp4",
+    "image": "https://cryptomazeapp.fra1.digitaloceanspaces.com/origin/items/webp/156.webp",
+    "description": "Origin Crypto Maze item collection. Never to be minted again! Be a true OG, flexing a rare Origin item, which also enhances the in-game stats of your hero!",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Origin Item Collection",
+        "value": 1
+      },
+      {
+        "trait_type": "Name",
+        "value": "Skateboard"
+      },
+      {
+        "trait_type": "Resistance",
+        "value": "5"
+      },
+      {
+        "trait_type": "Vitality",
+        "value": "3"
+      },
+      {
+        "trait_type": "Total Power",
+        "value": 8
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Origin Item",
+        "value": 1
+      }
+    ],
+    "id": 156,
+    "power": 8
+  }
+}

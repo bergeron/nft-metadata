@@ -1,0 +1,62 @@
+{
+  "address": "0x6ae006bae8dfd37c834f63ef77d94cbc223ec6f3",
+  "type": "ERC721",
+  "name": "Larry's Genesis Collection",
+  "tokenCount": "2420",
+  "uri": "https://buidler.it/minters/json_mint/1",
+  "metadata": {
+    "name": "Creepy World #1",
+    "description": "Creepy World",
+    "image": "http://buidler.it/minters/images_cw/1.png",
+    "dna": "eb8a118f21d2441e69d549f0e80d571fa25fab2f",
+    "edition": 1,
+    "date": 1663239797241,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "larry",
+        "value": "Larry"
+      },
+      {
+        "trait_type": "Tattoo",
+        "value": "Happiness"
+      },
+      {
+        "trait_type": "Costume",
+        "value": "Fur and Tripple Ice Cream"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Green Clown"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "5pm"
+      },
+      {
+        "trait_type": "Detail",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyebrow",
+        "value": "Extra Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Piercing",
+        "value": "None"
+      },
+      {
+        "trait_type": "Smoke",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

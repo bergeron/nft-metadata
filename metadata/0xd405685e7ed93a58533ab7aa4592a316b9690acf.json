@@ -1,0 +1,80 @@
+{
+  "address": "0xd405685e7ed93a58533ab7aa4592a316b9690acf",
+  "type": "ERC721",
+  "name": "LuckyTickat NFT",
+  "tokenCount": "875",
+  "uri": "https://ipfs.io/ipfs/QmPPK4MnzcWEyjGVy4LmxFom1EuApCwZMAY8Lkg8srZgHH/1.json",
+  "metadata": {
+    "name": "Lucky Tickat #1",
+    "description": "The first weekly raffle NFT project",
+    "external_url": "www.luckytickat.io",
+    "image": "https://ipfs.io/ipfs/QmbeMqsiGMuBXgt2vJdZb7rqPZSNcdBxB73X84kbA47YBd/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "7"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "None"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "tattoo"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "None"
+      },
+      {
+        "trait_type": "Necklace",
+        "value": "japanese necklace"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "ticket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "None"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes ",
+        "value": "bitcoin"
+      },
+      {
+        "trait_type": "Eyes accessories",
+        "value": "None"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "bublegum"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://the-nft-generator.com",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "symbol": "",
+    "collection": {
+      "name": "Lucky Tickat",
+      "family": "Lucky Tickat"
+    }
+  }
+}

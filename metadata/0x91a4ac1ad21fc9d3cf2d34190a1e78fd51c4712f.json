@@ -1,0 +1,42 @@
+{
+  "address": "0x91a4ac1ad21fc9d3cf2d34190a1e78fd51c4712f",
+  "type": "ERC721",
+  "name": "hyaliko particle forge",
+  "tokenCount": "2001",
+  "uri": "https://api.hyaliko.com/hyaliko/tokens/1",
+  "metadata": {
+    "name": "1",
+    "description": "this is a hyaliko.\n\nview the owner's hyaliko space here: https://www.hyaliko.com/beandog.eth",
+    "image": "https://api.hyaliko.com/hyaliko/images/1",
+    "traits": [
+      23,
+      27,
+      9,
+      3,
+      5,
+      86
+    ],
+    "attributes": [
+      {
+        "trait_type": "body",
+        "value": "u"
+      },
+      {
+        "trait_type": "face",
+        "value": "pretty"
+      },
+      {
+        "trait_type": "color",
+        "value": "amber"
+      },
+      {
+        "trait_type": "size",
+        "value": "normal"
+      },
+      {
+        "trait_type": "ephemerality",
+        "value": "quantum"
+      }
+    ]
+  }
+}

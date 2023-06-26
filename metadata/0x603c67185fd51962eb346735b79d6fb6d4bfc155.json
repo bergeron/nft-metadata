@@ -1,0 +1,44 @@
+{
+  "address": "0x603c67185fd51962eb346735b79d6fb6d4bfc155",
+  "type": "ERC1155",
+  "name": "Jan Krocak ERC1155",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/mD6MGzJNs7sWpH4DSxsYQ5Idq0BCuT2AswmOjKdMU3E",
+  "metadata": {
+    "name": "Harvesters",
+    "created_by": "JanKrocak",
+    "description": "2000x2000px / 25fps",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "JanKrocak"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Viñetas"
+      }
+    ],
+    "animation_details": {
+      "bytes": 40302419,
+      "format": "MP4",
+      "duration": 10,
+      "sha256": "62069fab9b6cd147e6b200c6e9eb1a8e9a430035769eabfb45f2c188e90390c3",
+      "width": 2000,
+      "height": 2000,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/54E6kcp8uPtNkKot9iV93q3aIRhn_MEYooTZjNNf2fY",
+    "animation_url": "https://arweave.net/54E6kcp8uPtNkKot9iV93q3aIRhn_MEYooTZjNNf2fY",
+    "image_details": {
+      "bytes": 5702195,
+      "format": "PNG",
+      "sha256": "16f8190e31a05144a1396a66c9ac8a68b52a403e3ebc9fc51f1c7f0d3f36ba95",
+      "width": 2000,
+      "height": 2000
+    },
+    "image": "https://arweave.net/U2-0SAXRbLgstl8DjxsWOUH3UlJ6hfjtoQYaSSFfAN0",
+    "image_url": "https://arweave.net/U2-0SAXRbLgstl8DjxsWOUH3UlJ6hfjtoQYaSSFfAN0"
+  }
+}

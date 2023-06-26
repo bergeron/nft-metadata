@@ -1,0 +1,72 @@
+{
+  "address": "0x9a56fed7ecc137ac39b7e50157bf0e17cb763d91",
+  "type": "ERC721",
+  "name": "Alien_in_the_void - old",
+  "tokenCount": "5",
+  "uri": "ipfs://QmZdQ8dRXrRdiosPVDgnQ7zrFdgsGFBkNupS9RSWVvaCvY/1.json",
+  "metadata": {
+    "dna": "9961bb4ab71f9abc74d697e9dc41a9ea673ddb42",
+    "name": "Alien_Skin #1",
+    "description": "Help me. I'm stuck here!!!",
+    "image": "ipfs://QmUWLyUqYiXkznWTSkhTFw9GsZV4oDUR52YAD2enqNjWP3/1.png",
+    "edition": 1,
+    "date": 1667041912670,
+    "symbol": "ALSK",
+    "seller_fee_basis_points": 250,
+    "external_url": "",
+    "collection": {
+      "name": "Lost_in_the_void",
+      "family": ""
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x7177F678bbf051E66D1962c260073Fcc4e8496F1",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Blue_Alien (9)"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Hair (14)"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Pilot's_glasses"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Assistants",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "by compiler"
+  }
+}

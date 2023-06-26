@@ -1,0 +1,38 @@
+{
+  "address": "0x145f1b306a190e0aa02469cd4277a53b0f7fe9b2",
+  "type": "ERC721",
+  "name": "Just A Naka Picture",
+  "tokenCount": "2295",
+  "uri": "ipfs://bafybeicirrizffnc3p2ud552u2mkzygvqnlzpzucifrwyieturh2ponpuy/1.json",
+  "metadata": {
+    "name": "Just a Naka #1",
+    "description": "p5js built from the nakamigos community.",
+    "image": "ipfs://bafybeiczfmeoq5nmkda6s3wz56dn7vipzqskssqrowxorfwhlk6kqqkmnu/1.png",
+    "dna": "1f53c3d6f1f1202ceb5b163d658325e6c1f233bc",
+    "edition": 1,
+    "date": 1680998987366,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Human",
+        "value": "Human Boba"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Dress shirt pink"
+      },
+      {
+        "trait_type": "Hat or Helmet",
+        "value": "Bucket Hat White"
+      },
+      {
+        "trait_type": "JS",
+        "value": "Effect"
+      }
+    ],
+    "compiler": "p5js"
+  }
+}

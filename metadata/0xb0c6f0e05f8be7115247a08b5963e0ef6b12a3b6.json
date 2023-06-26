@@ -1,0 +1,42 @@
+{
+  "address": "0xb0c6f0e05f8be7115247a08b5963e0ef6b12a3b6",
+  "type": "ERC721",
+  "name": "Alpha Fox Gang",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmUcFiiUXtNMaWs4byvbSUanMgYKPzdZKMkcqDTEzhcXJi/1",
+  "metadata": {
+    "dna": "f47136b220dffee3d8ae240dc0041bf65584f6f04a7c79b6012524998ddfa8a6",
+    "name": "Alpha Fox Gang #2",
+    "image": "ipfs://QmWNZmqZTenqcdHSziYuJEAsYQmSTYjpC6iYat2sX2fX83/2.png",
+    "imageHash": "f60218ea21c2eeeb5cf6610004e4efb1f2cf186c5ac86028e0f134e9326d728a",
+    "edition": 2,
+    "date": 1653770950050,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Teen"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Snout",
+        "value": "Gang"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Toddler"
+      }
+    ],
+    "compiler": "Alpha Fox"
+  }
+}

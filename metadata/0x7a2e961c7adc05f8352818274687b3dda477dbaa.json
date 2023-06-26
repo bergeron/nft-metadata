@@ -1,0 +1,42 @@
+{
+  "address": "0x7a2e961c7adc05f8352818274687b3dda477dbaa",
+  "type": "ERC721",
+  "name": "Spectral Skellies",
+  "tokenCount": "3333",
+  "uri": "https://skeleton-psi.vercel.app/api/nft/1",
+  "metadata": {
+    "dna": "492d5b656a55767e4b7519df89b7e13605a884b2",
+    "name": "Spectral Skellie #1",
+    "description": "Spectral Skellies is a collection of 3,333 re-animated skeletons who have randomly generated traits. They are destined to roam the earth for the rest of eternity... we think.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYx4sKSAtte39y2JUs98pWxk2vkxf3fZJjTLF5Y3A8hsD/1.png",
+    "edition": 1,
+    "date": 1633441240356,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Bone Composition",
+        "value": "Bone"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "None"
+      },
+      {
+        "trait_type": "Neck Accessory",
+        "value": "None"
+      },
+      {
+        "trait_type": "Mouth Accessory",
+        "value": "None"
+      },
+      {
+        "trait_type": "Head Accessory",
+        "value": "None"
+      }
+    ],
+    "compiler": "Necromancy Art Engine"
+  }
+}

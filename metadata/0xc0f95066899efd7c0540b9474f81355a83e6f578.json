@@ -1,0 +1,33 @@
+{
+  "address": "0xc0f95066899efd7c0540b9474f81355a83e6f578",
+  "type": "ERC721",
+  "name": "Project Venkman Pass",
+  "tokenCount": "61",
+  "uri": "https://api.hypermint.com/metadata/0b15f415-974c-432e-8610-07291827e50a/1",
+  "metadata": {
+    "name": "Project Venkman Pass",
+    "description": "The Project Venkman Pass (PVP) is an all-access pass to anything and everything Project Venkman. The PVP will provide exclusive access to information and events.",
+    "image": "https://metadata.hypermint.com/contracts/0b15f415-974c-432e-8610-07291827e50a/1.jpg",
+    "external_url": null,
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "attributes": [
+      {
+        "trait_type": "Pass",
+        "value": "Membership",
+        "display_type": null
+      },
+      {
+        "trait_type": "Entry",
+        "value": "Events",
+        "display_type": null
+      },
+      {
+        "trait_type": "Brand",
+        "value": "Loyalty",
+        "display_type": null
+      }
+    ]
+  }
+}

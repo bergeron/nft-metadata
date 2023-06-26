@@ -1,0 +1,35 @@
+{
+  "address": "0x5f98b31a502def5bc94732a5734a9088df847dc2",
+  "type": "ERC721",
+  "name": "Alpha Duck",
+  "tokenCount": "4014",
+  "uri": "https://odyc.s3.amazonaws.com/public/metadata/1.json",
+  "metadata": {
+    "name": "Alpha Duck #1",
+    "description": "A Very Special Custom Alpha Duck",
+    "image": "https://odyc.s3.amazonaws.com/public/assets/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Fishtank"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Worm"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Flower"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Robotic"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "address": "0x0bcc509282a5fb44c32c59e2fa1ce613f51c86a2",
+  "type": "ERC721",
+  "name": "Kandyland",
+  "tokenCount": "7777",
+  "uri": "https://www.kandyland.io/api/metadata/1",
+  "metadata": {
+    "name": "Mouse Man #1",
+    "image": "https://kandyland.s3.amazonaws.com/metadata/r2/mythic_mouseman.gif",
+    "animation_url": "https://kandyland.s3.amazonaws.com/metadata/r2/mythic_mouseman.mp4",
+    "description": "Kandyland is a collection of 7,777 fully animated 3D NFTs based on the four characters of the Kandyland universe. Powered by Goldenlane Studio, this multimedia franchise aims to captivate audiences from both Web2 and Web3 worlds.",
+    "external_url": "https://www.kandyland.io/",
+    "attributes": [
+      {
+        "trait_type": "Character",
+        "value": "Mouse Man"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "Mythic"
+      }
+    ]
+  }
+}

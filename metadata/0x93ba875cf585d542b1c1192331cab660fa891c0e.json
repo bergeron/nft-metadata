@@ -1,0 +1,22 @@
+{
+  "address": "0x93ba875cf585d542b1c1192331cab660fa891c0e",
+  "type": "ERC721",
+  "name": "Eggverse Test Collection",
+  "tokenCount": "1",
+  "uri": "ipfs://QmUNNcXA4arbrvqsbTYz4PdcaDF4rkb7T8Py8JgWkFXk3Q",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Test Trait 1",
+        "value": "Test Value 1"
+      },
+      {
+        "trait_type": "Test Trait 2",
+        "value": "Test Value 2"
+      }
+    ],
+    "description": "This is a test description.",
+    "image": "ipfs://QmQT89CpLtx6nKUtZzFj59GRLfTL6UPLRwXBd5HDg7ryC6",
+    "name": "EGGVERSE Logo"
+  }
+}

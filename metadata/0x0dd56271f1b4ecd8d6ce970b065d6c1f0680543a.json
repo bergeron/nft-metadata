@@ -1,0 +1,44 @@
+{
+  "address": "0x0dd56271f1b4ecd8d6ce970b065d6c1f0680543a",
+  "type": "ERC721",
+  "name": "MrStick",
+  "tokenCount": "2014",
+  "uri": "ipfs://QmTnjJPtiqgeCB6CS5wTiXe75KM55SHXkQanXXtCGwoyE4/1.json",
+  "metadata": {
+    "name": "Mr.Stick #1",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://QmbAT1PvcJRwPCa4AnbMvta5F4KTrmoUceJtfy3nMtNb8c/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sand"
+      },
+      {
+        "trait_type": "Offhand",
+        "value": "sword"
+      },
+      {
+        "trait_type": "Body",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "swimtrunks"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "none"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    }
+  }
+}

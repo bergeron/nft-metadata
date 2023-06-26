@@ -1,0 +1,42 @@
+{
+  "address": "0x505debdde33613d5f05141415a4388719a76d98e",
+  "type": "ERC721",
+  "name": "Tiny Sketches by Shunsuke Takawo",
+  "tokenCount": "240",
+  "uri": "https://neort.mypinata.cloud/ipfs/Qmajdh95fu3ACZJRny6pTfARvPBcnjFqdvEW3ZHCdFgJPM/1.json",
+  "metadata": {
+    "name": "Blocks #1",
+    "description": "\"Blocks\" is one of the NFT Art \"Tiny Sketches\" series derived from Shunsuke Takawo’s daily coding. The rhythm of the stacked boxes and rolling balls is delightful to see.\n\nArtwork: [QmTchwjgKAEmXQVCEdxvDVc759Upj5WWRtHsJzFydSVtXm](https://neort.mypinata.cloud/ipfs/QmTchwjgKAEmXQVCEdxvDVc759Upj5WWRtHsJzFydSVtXm?seed=1)\n\nWebsite: [https://tinysketches.neort.io](https://tinysketches.neort.io)\n\nArtist: Shunsuke Takawo\n\nArtist Website: [https://twitter.com/takawo](https://twitter.com/takawo)\n\nLicense: [Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)](https://creativecommons.org/licenses/by-nc-sa/3.0/)",
+    "image": "https://neort.mypinata.cloud/ipfs/QmbJ8HRh3LpbaaWt4myNB4XiPzV5GvKbWJn7maxNf7RrYw/1.png",
+    "animation_url": "https://neort.mypinata.cloud/ipfs/QmTchwjgKAEmXQVCEdxvDVc759Upj5WWRtHsJzFydSVtXm/?seed=1",
+    "external_url": "https://tinysketches.neort.io",
+    "background_color": "222222",
+    "artist": "Shunsuke Takawo",
+    "exhibition": {
+      "title": "Tiny Sketches",
+      "terms": "2022.05.13 - 2022.06.12"
+    },
+    "license": "Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attributes": [
+      {
+        "trait_type": "sketch",
+        "value": "Blocks"
+      },
+      {
+        "trait_type": "color",
+        "value": "Cross"
+      },
+      {
+        "trait_type": "minStairs",
+        "display_type": "number",
+        "value": 2
+      },
+      {
+        "trait_type": "maxStairs",
+        "display_type": "number",
+        "value": 6
+      }
+    ]
+  }
+}

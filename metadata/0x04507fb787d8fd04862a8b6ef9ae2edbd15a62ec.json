@@ -1,0 +1,27 @@
+{
+  "address": "0x04507fb787d8fd04862a8b6ef9ae2edbd15a62ec",
+  "type": "ERC721",
+  "name": "Men Shen",
+  "tokenCount": "666",
+  "uri": "ipfs://bafybeiduqnurri47nomgqtzw5i7z5wblpnpbotxtoqnzkfclkvmfrv7chy/1.json",
+  "metadata": {
+    "name": "Men Shen #1",
+    "description": "Men Shen - divine guardians of doors and gates in Chinese folk religions, to protect against evil influences or to encourage the entrance of positive ones.",
+    "image": "ipfs://bafybeicmbb22omupdydigesnen4punu5hxqozwgdqtk3ycti5qxyf3krpi/Men_Shen_1.png",
+    "properties": [
+      {
+        "trait_type": "Door",
+        "value": "Right Men Shen"
+      },
+      {
+        "trait_type": "Bo Bi",
+        "value": "祈福"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "address": "0xf513ecff499e748f09d0d36f4ec95974ff47d802",
+  "type": "ERC721",
+  "name": "Blur Habibiz",
+  "tokenCount": "665",
+  "uri": "ipfs://QmbhmJtpr8bLh5X7it4J138A1795AJrLbbHa2MPattXBdH/1",
+  "metadata": {
+    "name": "Blur Habibiz #611",
+    "description": "Keep calm, It's Blur Time.",
+    "image": "ipfs://QmS5i7a6ki2Z9dC3pUEPxNNKDJhiFQubRMRbJKPQoLKdsb/1.gif",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "/611.gif",
+          "type": "gif/gif"
+        }
+      ],
+      "category": "gif",
+      "creators": [
+        {
+          "address": "0xcB87FeD55B77772700dC436CaC560bCba9C85F62",
+          "share": "100"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Mouth",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Desert Pyramids"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Sparkles"
+      },
+      {
+        "trait_type": "Facial Hair",
+        "value": "None"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Ear Accessory",
+        "value": "Silver Earring"
+      },
+      {
+        "trait_type": "Mouth Accessory",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bleeding"
+      },
+      {
+        "trait_type": "Blurred",
+        "value": "No"
+      },
+      {
+        "trait_type": "Head Accessory",
+        "value": "Tiger Hat"
+      }
+    ],
+    "symbol": "Blur Habibiz ",
+    "seller_fee_basis_points": "500",
+    "collection": {
+      "name": "Blur Habibiz",
+      "family": "Blur"
+    }
+  }
+}

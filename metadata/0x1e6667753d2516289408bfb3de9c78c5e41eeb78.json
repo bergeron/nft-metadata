@@ -1,0 +1,91 @@
+{
+  "address": "0x1e6667753d2516289408bfb3de9c78c5e41eeb78",
+  "type": "ERC721",
+  "name": "Cosmic Meta Molecules",
+  "tokenCount": "612",
+  "uri": "https://api.cosmicmeta.io/molecules/1",
+  "metadata": {
+    "date": 1643233806229,
+    "image": "https://media.cosmicmeta.io/molecules/btPLOM4ZUtolD8Eb.png",
+    "animation_url": "https://generator.cosmicmeta.io/molecules/?tokenId=btPLOM4ZUtolD8Eb",
+    "website": "https://cosmicmeta.io",
+    "tokenID": "btPLOM4ZUtolD8Eb",
+    "description": "Part of the generative art series \"**Cosmic Meta**\" which is 100% stored on the Ethereum blockchain. Each molecule is generated via pure Javascript and each molecule is entirely unique. Molecules are an experiential piece of art, with a static image for printing, an animation - all generated and stored on the blockchain.  \n  \n**Tip**: You can zoom in/out and rotate the animation with your mouse!",
+    "edition": 1,
+    "platform": "Cosmic Meta Platform",
+    "external_url": "https://cosmicmeta.io",
+    "generation_url": "https://generator.cosmicmeta.io/molecules/?tokenId=btPLOM4ZUtolD8Eb",
+    "project_id": 1,
+    "dna": "8cb09b2a83cf9925896636590ed908aa",
+    "series": 1,
+    "name": "Cosmic Meta Molecules #1",
+    "attributes": [
+      {
+        "value": "Element",
+        "trait_type": "Scheme"
+      },
+      {
+        "value": "Purple",
+        "trait_type": "Color"
+      },
+      {
+        "display_type": "number",
+        "value": 42,
+        "trait_type": "Atom Count",
+        "max_value": 200
+      },
+      {
+        "value": "Phafaris",
+        "trait_type": "Discovered By"
+      },
+      {
+        "value": "Albiolite",
+        "trait_type": "Mineral"
+      },
+      {
+        "value": "Life",
+        "trait_type": "Category"
+      },
+      {
+        "value": 8,
+        "trait_type": "Alchemy Rate",
+        "max_value": 100
+      },
+      {
+        "value": "None",
+        "trait_type": "Transmutation"
+      },
+      {
+        "value": "Covalent",
+        "trait_type": "Bonding"
+      },
+      {
+        "value": "Phiqoris",
+        "trait_type": "Location"
+      },
+      {
+        "value": "TRAPPIST-1 f",
+        "trait_type": "Planet of Origin"
+      },
+      {
+        "value": "Eceurs",
+        "trait_type": "Star of Origin"
+      },
+      {
+        "value": 15,
+        "trait_type": "Radioactivity",
+        "max_value": 100
+      },
+      {
+        "value": "Common",
+        "trait_type": "Cosmic Rarity"
+      },
+      {
+        "value": "Blue",
+        "trait_type": "Background"
+      }
+    ],
+    "compiler": "Cosmic Meta Compiler",
+    "collection_name": "Cosmic Meta Molecules"
+  }
+}

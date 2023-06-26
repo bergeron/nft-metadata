@@ -1,0 +1,48 @@
+{
+  "address": "0xc2fded8f914332e4a3de38e336ec943c74c5cc89",
+  "type": "ERC721",
+  "name": "Watch and See NFT",
+  "tokenCount": "150",
+  "uri": "https://api-mint.watchandseenft.com/token/1",
+  "metadata": {
+    "name": "Watch and See #1",
+    "description": "A new curated destination to experience luxury. Fashion, fine jewelry, culinary and groundbreaking experiences, we are rewriting the rules and re-defining the future of luxury. Just Watch and See.",
+    "dna": "0399_Chrome Flower_Greencamo_Diamond_Burgundy_Diamond_Diamond_N/A_Diamond",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Chrome Flower"
+      },
+      {
+        "trait_type": "Band",
+        "value": "Greencamo"
+      },
+      {
+        "trait_type": "Dial",
+        "value": "Diamond"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Burgundy"
+      },
+      {
+        "trait_type": "Back Flower",
+        "value": "Diamond"
+      },
+      {
+        "trait_type": "Face Numbers",
+        "value": "Diamond"
+      },
+      {
+        "trait_type": "Dial Numbers",
+        "value": "N/A"
+      },
+      {
+        "trait_type": "Flowers",
+        "value": "Diamond"
+      }
+    ],
+    "image": "https://assets.wenmint.com/images/watchandseenft/1.jpg",
+    "animation_url": "https://assets.wenmint.com/models/watchandseenft/1.glb"
+  }
+}

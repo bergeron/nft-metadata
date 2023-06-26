@@ -1,0 +1,42 @@
+{
+  "address": "0x47234bd3160dd6c6c27cbe91d97f419fb331fa8b",
+  "type": "ERC721",
+  "name": "Habitat For Humanity Collection",
+  "tokenCount": "8",
+  "uri": "ipfs://QmP8bBacxSPL2w75aVAy45FvyzxKvpCWGBMgcuemuoQF8h/1.json",
+  "metadata": {
+    "name": "Habitat for Humanity NFT #1",
+    "description": "Habitat for Humanity's generative collection of 10,000 Homes on the Ethereum Network.",
+    "image": "ipfs://QmQaytG89PfvgKD31uFgs1pVryN9d493aykCVcKbdYJUDY/1.png",
+    "dna": "42f283e3f764ae0309403461e0ad045abad1d7d0",
+    "edition": 1,
+    "date": 1649236605393,
+    "attributes": [
+      {
+        "trait_type": "Settings",
+        "value": "Gated "
+      },
+      {
+        "trait_type": "Homes",
+        "value": "Desert Home "
+      },
+      {
+        "trait_type": "Humanity",
+        "value": "Humanity v2 "
+      },
+      {
+        "trait_type": "Habitat",
+        "value": "Habitat White "
+      },
+      {
+        "trait_type": "Sun",
+        "value": "Sun 3 "
+      },
+      {
+        "trait_type": "Saguaro",
+        "value": "Saguaro 12 "
+      }
+    ],
+    "compiler": "saif, Rose Law Group"
+  }
+}

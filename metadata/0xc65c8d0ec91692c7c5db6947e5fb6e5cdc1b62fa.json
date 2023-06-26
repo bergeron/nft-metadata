@@ -1,0 +1,32 @@
+{
+  "address": "0xc65c8d0ec91692c7c5db6947e5fb6e5cdc1b62fa",
+  "type": "ERC721",
+  "name": "Rick Head Ticket & Certificate",
+  "tokenCount": "106",
+  "uri": "https://nft.dopedudes.xyz/api/metadata/ticket/1",
+  "metadata": {
+    "name": "RickHead Art Toy #1",
+    "description": "Rick head ticked for Art Toy delivery",
+    "id": "1",
+    "attributes": [
+      {
+        "value": "Ticket",
+        "trait_type": "Type"
+      },
+      {
+        "value": "Original",
+        "trait_type": "Model"
+      },
+      {
+        "value": "Original - 1/400",
+        "trait_type": "Serie"
+      },
+      {
+        "value": "Ordered",
+        "trait_type": "Delivery Status"
+      }
+    ],
+    "image": "https://nft.dopedudes.xyz/ticket/p/ticket-original-order.png",
+    "animation_url": "https://nft.dopedudes.xyz/ticket/p/ticket-original-order.mp4"
+  }
+}

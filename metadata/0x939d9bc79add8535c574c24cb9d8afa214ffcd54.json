@@ -1,0 +1,32 @@
+{
+  "address": "0x939d9bc79add8535c574c24cb9d8afa214ffcd54",
+  "type": "ERC1155",
+  "name": "MyCodeOE",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/N9dLoAw_4jXIs_PQC0wxOzK4e5s-sfw3QpDHRVvjr2Y",
+  "metadata": {
+    "name": "Cool Cat",
+    "created_by": "BP",
+    "description": "BP is testing Manifold",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Black"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Rank",
+        "value": 3
+      }
+    ],
+    "image_details": {
+      "bytes": 27597,
+      "format": "JPEG",
+      "sha256": "e740ff103f0f6d435f4c5bd6ef7c94fbb059925a436ad9d8d4b47b399d53f894",
+      "width": 400,
+      "height": 400
+    },
+    "image": "https://arweave.net/rrsI6X323YIPVM7Pm4Emb9X8ocnu10Qsqf0ogmeq_4Q",
+    "image_url": "https://arweave.net/rrsI6X323YIPVM7Pm4Emb9X8ocnu10Qsqf0ogmeq_4Q"
+  }
+}

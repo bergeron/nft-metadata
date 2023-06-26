@@ -1,0 +1,47 @@
+{
+  "address": "0x1170e878df82052cdb786c5df3c8ae3a432bdf27",
+  "type": "ERC721",
+  "name": "Glamorous Undead",
+  "tokenCount": "5000",
+  "uri": "https://storageapi.fleek.co/256e1077-3ba4-4f13-9298-2a063e646bf9-bucket/UndeadJson/1.json",
+  "metadata": {
+    "dna": "c689358a1bfd3fabaf093a12088fea1ec85ae7af8884cc992512aee05ae806f6",
+    "name": "Glamorous Undead # 1",
+    "description": "Glamorous Undead",
+    "image": "https://storageapi.fleek.co/256e1077-3ba4-4f13-9298-2a063e646bf9-bucket/UndeadImg//1.png",
+    "imageHash": "6127b47b1fab076c187dd7c3d165f332b4efcafc6b71431588fb41127ce4cee8",
+    "edition": 1,
+    "date": 1663589552535,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "red body"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "classic gold"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue head"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "yellow eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "open red"
+      },
+      {
+        "trait_type": "Top",
+        "value": "yellow bun"
+      }
+    ],
+    "compiler": "Custom Compiler"
+  }
+}

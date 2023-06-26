@@ -1,0 +1,39 @@
+{
+  "address": "0xd4174697a0e17501e334a901af58492322e78ea0",
+  "type": "ERC721",
+  "name": "NFT Advent",
+  "tokenCount": "19",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=Zz0hZT7zpGasWlIALE9U",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1574159670944?alt=media&token=4155c397-94ac-4335-8068-b7fccf08dec0",
+    "isForSale": true,
+    "contractAddress": "0xd4174697a0E17501E334A901aF58492322e78ea0",
+    "description": "This is the beginning of a neat new world of interoperable assets were all sorts of companies can get together and make things useful in the digital and virtual world. Join us every day in our cryptovoxels virtual headquartes where each company will give away one NFT a day tat gets you something neat. ",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xd4174697a0E17501E334A901aF58492322e78ea0/Zz0hZT7zpGasWlIALE9U",
+    "minter": "0x66268791B55e1F5fA585D990326519F101407257",
+    "mintedOn": {
+      "_seconds": 1574159734,
+      "_nanoseconds": 603000000
+    },
+    "price": "0.1",
+    "name": "Genesis Token",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Genesis Token"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "id": null
+  }
+}

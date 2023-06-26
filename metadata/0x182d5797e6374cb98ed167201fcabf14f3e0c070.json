@@ -1,0 +1,63 @@
+{
+  "address": "0x182d5797e6374cb98ed167201fcabf14f3e0c070",
+  "type": "ERC721",
+  "name": "Chronicle Protocol",
+  "tokenCount": "10",
+  "uri": "https://ipfs.strategichappiness.xyz/ipfs/QmYzMErnsYde33GqpsKxFpDvPxBAAqNqRzuwCDCkHR1My3",
+  "metadata": {
+    "name": "Chronicle: The First Decentralized Community-Powered Oracle",
+    "description": "What the future looks like 👀",
+    "external_url": "https://twitter.com/chroniclelabs",
+    "image": "https://ipfs.strategichappiness.xyz/ipfs/QmPCquXZEQv2R3gAsc7VH2rzuew1EvPL1FZHwB1h1mzH5H",
+    "animation_url": "https://ipfs.strategichappiness.xyz/ipfs/QmaTjRJqFkQCuDsBwA6bwCwKJGMz1rbcRwEibGyUShbNbb",
+    "background_color": "000000",
+    "attributes": [
+      {
+        "trait_type": "Protocol",
+        "value": "Oracle"
+      },
+      {
+        "trait_type": "Happiness",
+        "value": "🙃"
+      },
+      {
+        "trait_type": "Level",
+        "value": "Legend"
+      },
+      {
+        "trait_type": "Brooooo",
+        "value": "Swagalicious 🤤"
+      },
+      {
+        "trait_type": "Superpower",
+        "value": "Resiliency"
+      },
+      {
+        "trait_type": "Allegiance",
+        "value": "Maker Mafia 🌹"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Decentralization",
+        "max_value": 85,
+        "value": 100
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Stability",
+        "value": 100
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Drama",
+        "max_value": 100,
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "value": 1
+      }
+    ]
+  }
+}

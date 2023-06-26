@@ -1,0 +1,19 @@
+{
+  "address": "0xfe000a266cf5f37782268823664d5ae83f1740b0",
+  "type": "ERC721",
+  "name": "WizScore",
+  "tokenCount": "1000",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIlBhcGVyIEZvcnR1bmUgVGVsbGVyICMxIiwgImRlc2NyaXB0aW9uIjogIlRvIHBsYXkgdGhlIENvb3RpZSBDYXRjaGVyLCBzZWxlY3QgYSBjb2xvciBhbmQgbnVtYmVyIHRvIHJldmVhbCB5b3VyIGZvcnR1bmUuIElmIHlvdSB3YW50IHRvIGdvIG9uIHRoZSB3aXphcmQgYWR2ZW50dXJlLCBnbyB0byB0aGUgc21hcnQgY29udHJhY3QsIGNvbm5lY3Qgd2FsbGV0IGFuZCB1c2UgY2xhaW1XaXpTY29yZSB3aXRoIDAuMDEgZXRoLiBUaGlzIHdpbGwgbG9jayB5b3UgYSBXaXpTY29yZS4gQ29tcGxldGUgdGhpcyB0YXNrIGFuZCB5b3Ugd2lsbCBiZSByZXdhcmRlZCB3aXRoIHNvbWUgd2l6YXJkIG1hZ2ljLiBFYWNoIENvb3RpZSBDYXRjaGVyIGNhbiBvbmx5IGJlIGxvY2tlZCBvbmNlLiBTYWZlIHRyYXZlbHMgbXkgZnJpZW5kLiIsICJhbmltYXRpb25fdXJsIjogImlwZnM6Ly9RbVhpaEVpbUFjOG90eFVLNVpVNFc0VUg2Vm1zUE5TUEZ6ZnNweGpmRkIxOE53LzEiLCAiaW1hZ2UiOiAiaXBmczovL1FtU2VHaVRhUXJoaWF6dmhtbkV2M1RkYW1nM2ZSdUtLNHNIUFJheUtmYzQ2NHgiLCAiYXR0cmlidXRlcyI6W3sgInRyYWl0X3R5cGUiOiAiV2l6U2NvcmUiLCAidmFsdWUiOiAxNzggfV0gfQ==",
+  "metadata": {
+    "name": "Paper Fortune Teller #1",
+    "description": "To play the Cootie Catcher, select a color and number to reveal your fortune. If you want to go on the wizard adventure, go to the smart contract, connect wallet and use claimWizScore with 0.01 eth. This will lock you a WizScore. Complete this task and you will be rewarded with some wizard magic. Each Cootie Catcher can only be locked once. Safe travels my friend.",
+    "animation_url": "ipfs://QmXihEimAc8otxUK5ZU4W4UH6VmsPNSPFzfspxjfFB18Nw/1",
+    "image": "ipfs://QmSeGiTaQrhiazvhmnEv3Tdamg3fRuKK4sHPRayKfc464x",
+    "attributes": [
+      {
+        "trait_type": "WizScore",
+        "value": 178
+      }
+    ]
+  }
+}

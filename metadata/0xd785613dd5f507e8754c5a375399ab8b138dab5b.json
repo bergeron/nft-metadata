@@ -1,0 +1,33 @@
+{
+  "address": "0xd785613dd5f507e8754c5a375399ab8b138dab5b",
+  "type": "ERC721",
+  "name": "Wandering Cats Collection",
+  "tokenCount": "1001",
+  "uri": "ipfs://QmRr6csDG2X9E1aQ6YgVH4uxRdphJRamL5XV2VB1eg56UB/1.json",
+  "metadata": {
+    "name": "Wandering Cats #1",
+    "description": "A collection of 1,000 wandering cats ready to be adopted.",
+    "image": "ipfs://Qmc9XSqtG4hCuUf2Q1Md6MR7zwz9BzUbRsNexFeLUdgqJD/1.png",
+    "dna": "b3f39e8a02de523a97f2dd5a8df770ab030abf87",
+    "edition": 1,
+    "date": 1641407818882,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel Army Green"
+      },
+      {
+        "trait_type": "Hiding Spot",
+        "value": "Mail Box Red"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "S Tail Yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Graby Crown"
+      }
+    ]
+  }
+}

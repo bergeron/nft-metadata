@@ -1,0 +1,40 @@
+{
+  "address": "0xe7f5d5b279d4a63f78c7a892716186939c059d26",
+  "type": "ERC721",
+  "name": "Fawntastic Pixels",
+  "tokenCount": "106",
+  "uri": "ipfs://QmPHmZ1QKNcttTNQ77ULj5rd1SpHykLD4ejp2GaCxM5otC/1.json",
+  "metadata": {
+    "name": "Fawntastic Pixels #1",
+    "image": "ipfs://QmPc7z1rTVCHMyphrhhhbKwGgRXkULKCVhjxFW1NXgg9VA/1.png",
+    "description": "Fawntastic Pixel #1 is part of a family of fawns chilling on the blockchain",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Black Beanie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Silver Chain"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Fighting Gi"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White Fur"
+      },
+      {
+        "trait_type": "Back Accessory",
+        "value": "Wings"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Deep Blue"
+      }
+    ],
+    "seller_fee_basis_points": 500
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "address": "0x1c49c6b68aa41a72731d43040080e6722cf46685",
+  "type": "ERC721",
+  "name": "Quest3 Test V2",
+  "tokenCount": "1",
+  "uri": "https://api.quest3.xyz/nft/meta/reward/658970249250459913/1/1",
+  "metadata": {
+    "name": "POW_ETH_WETH",
+    "description": "Quest3 reward NFTs is designed and distributed by communities. When users completes a Quest, they will get a reward NFT, that should be claimed by users. Not every quest will issue reward NFTs. Whether there is a rewarded NFT is determined when the quest is initially set up. Quest3 is a Web3 quest and event platform. Users can earn tokens and NFT badges by participating in quests and events. You can see more details of the Quest3 reward NFTs from [app.quest3.xyz](https://app.quest3.xyz)\n\nLearn more: [quest3.xyz](https://quest3.xyz)",
+    "image": "https://s3.ap-northeast-1.amazonaws.com/quest3.xyz/quest/658970183009816849.jpg",
+    "community_info": {
+      "name": "Quest3 Test",
+      "logo": "https://s3.ap-northeast-1.amazonaws.com/quest3.xyz/community/658190457743987116.png",
+      "url": "quest3_test"
+    },
+    "attributes": [
+      {
+        "trait_type": "category",
+        "value": "Quest"
+      },
+      {
+        "trait_type": "number",
+        "value": 19
+      },
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 1657175872
+      }
+    ]
+  }
+}

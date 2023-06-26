@@ -1,0 +1,62 @@
+{
+  "address": "0x797e109478a4fa75bbd2070ee4eb6f9d4918a993",
+  "type": "ERC721",
+  "name": "Stoned Rabbits",
+  "tokenCount": "504",
+  "uri": "https://ipfs.io/ipfs/bafybeibazxtkf2qsfmkeo4hd4awcgtk2wqxmftcbb4hxckbwrucowxpibe/1.json",
+  "metadata": {
+    "name": "Stoned Rabbits #1",
+    "symbol": "StonedRabbit",
+    "description": "Stoned Rabbits is a collection of 888 unique NFTs on a journey to Build the best Web3 Tools.",
+    "seller_fee_basis_points": 0,
+    "image": "https://nftstorage.link/ipfs/bafybeifqurf3lfrjesjvr6bzbpq6f5q4h2h6ynkfduiudztbu6zonimo6m/1.png",
+    "external_url": "",
+    "collection": {
+      "name": "Stoned Rabbits",
+      "family": "LaunchMyNFT"
+    },
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "Lily"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Rabbit"
+      },
+      {
+        "trait_type": "SKIN",
+        "value": "Pale Salmon"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "Glowing Pink"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "Doodle Sweatshirt"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 796,
+        "display_type": "number",
+        "max_value": 888
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://nftstorage.link/ipfs/bafybeifqurf3lfrjesjvr6bzbpq6f5q4h2h6ynkfduiudztbu6zonimo6m/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "3Jb47uvoL7MBmyFtiK389xqdiVyr3uVX2DELLQerXHEf",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

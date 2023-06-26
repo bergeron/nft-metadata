@@ -1,0 +1,41 @@
+{
+  "address": "0x11ed7bdacae4cc381809feb5544ddb8e7bda4c82",
+  "type": "ERC721",
+  "name": "Primitive Town",
+  "tokenCount": "7",
+  "uri": "ipfs://bafybeickegbje7sy5uavksmskxgcwojvezd66ugaeilqjsri5efyjhdwdm/1.json",
+  "metadata": {
+    "name": "King Pleasure #723",
+    "description": "King Pleasure is 1177 supply collection inspired by Jean-Michael Basquiat. When art meets Degen, it's to be a King Pleasure",
+    "fee_recipient": "0xE324707f7d177d811cBCe7A4902BFA3aD9bFE69a",
+    "seller_fee_basis_points": 770,
+    "image": "ipfs://bafybeigqfax7eglpxswrl6s2hi2mhdguue2tq34cmdqooaqcce5bdrdrce/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Squid"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fake King"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "4"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "10"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 7,
+        "display_type": "number"
+      }
+    ]
+  }
+}

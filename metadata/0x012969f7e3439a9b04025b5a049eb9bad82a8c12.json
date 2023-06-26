@@ -1,0 +1,28 @@
+{
+  "address": "0x012969f7e3439a9b04025b5a049eb9bad82a8c12",
+  "type": "ERC721",
+  "name": "Tableland Tables",
+  "tokenCount": "22",
+  "uri": "https://tableland.network/api/v1/tables/1/1",
+  "metadata": {
+    "name": "healthbot_1_1",
+    "external_url": "https://tableland.network/api/v1/tables/1/1",
+    "animation_url": "https://tables.tableland.xyz/1/1.html",
+    "image": "https://tables.tableland.xyz/1/1.svg",
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "created",
+        "value": 1674047325
+      }
+    ],
+    "schema": {
+      "columns": [
+        {
+          "name": "counter",
+          "type": "integer"
+        }
+      ]
+    }
+  }
+}

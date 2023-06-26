@@ -1,0 +1,103 @@
+{
+  "address": "0xf4ded30b6ca5a6a40f56d9fe066a9951571c6e3c",
+  "type": "ERC721",
+  "name": "$WRLD Horses",
+  "tokenCount": "2439",
+  "uri": "ipfs://bafybeic66oa474umvd7uwttkb4kqybmkrnicxjhnqi3vpuhg4qkf5vleha/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "$WRLD Horses: Genesis Horse Collection.",
+    "image": "ipfs://bafybeieylmn47mhvm4xxjhpqyeazg6i7b2zuiraa76dmeteenkojtbolfm/1.jpg",
+    "dna": "40ed7da7ae640456c315159079c9cf27f5a9c229",
+    "edition": 1,
+    "date": 1655926567628,
+    "attributes": [
+      {
+        "trait_type": "saddle",
+        "value": "standard"
+      },
+      {
+        "trait_type": "base",
+        "value": "blush"
+      },
+      {
+        "trait_type": "mane",
+        "value": "night"
+      },
+      {
+        "trait_type": "nose",
+        "value": "mark_4"
+      },
+      {
+        "trait_type": "spots",
+        "value": "spots_1"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "lime"
+      },
+      {
+        "trait_type": "socks",
+        "value": "ash_short"
+      },
+      {
+        "trait_type": "hooves",
+        "value": "lapis"
+      },
+      {
+        "trait_type": "gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "health",
+        "value": 2
+      },
+      {
+        "trait_type": "jump_strength",
+        "value": 5
+      },
+      {
+        "trait_type": "handling",
+        "value": 5
+      },
+      {
+        "trait_type": "speed",
+        "value": 8
+      },
+      {
+        "trait_type": "acceleration",
+        "value": 10
+      },
+      {
+        "trait_type": "background",
+        "value": "forest_edge"
+      },
+      {
+        "trait_type": "animation",
+        "value": "sit"
+      },
+      {
+        "trait_type": "attack",
+        "value": 10
+      },
+      {
+        "trait_type": "defence",
+        "value": 9
+      },
+      {
+        "trait_type": "endurance",
+        "value": 1
+      },
+      {
+        "trait_type": "mage",
+        "value": 1
+      },
+      {
+        "trait_type": "special",
+        "value": 7
+      }
+    ],
+    "compiler": "$WRLD Horses Compiler",
+    "animation_url": "ipfs://bafybeie5mzamvqlnxmd4wnrmta3lk3b6o7siodtdkxnoywmkxida3l3s6u/1.mp4"
+  }
+}

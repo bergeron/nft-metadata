@@ -1,0 +1,42 @@
+{
+  "address": "0x83a8a859aee9d2ebde0ec13de137006633ad1e04",
+  "type": "ERC721",
+  "name": "Degen Ape Club NFT",
+  "tokenCount": "100",
+  "uri": "https://ipfs.io/ipfs/QmVLxVGYKKg5wiRGPWmykEXbLn4C9mdqjnfqrGVQdGQZvJ/1",
+  "metadata": {
+    "name": "Degen Ape Club - #2",
+    "description": "Degen Ape Club - Common",
+    "image": "https://ipfs.io/ipfs/QmfXEtU7LxnUzyHR7YfR6hhaBgpKdTtGyxWAwMkjeBJZwu/2.png",
+    "dna": "2c791b1376daa648a40d795a75e370951fb6b47c",
+    "edition": 2,
+    "date": 1637377274711,
+    "attributes": [
+      {
+        "trait_type": "bg_common",
+        "value": "pink"
+      },
+      {
+        "trait_type": "fur_common",
+        "value": "gray"
+      },
+      {
+        "trait_type": "eyes_common",
+        "value": "normal"
+      },
+      {
+        "trait_type": "mouth_common",
+        "value": "brown"
+      },
+      {
+        "trait_type": "clothes_common",
+        "value": "clothes"
+      },
+      {
+        "trait_type": "hat_common",
+        "value": "blank"
+      }
+    ],
+    "compiler": "DAC"
+  }
+}

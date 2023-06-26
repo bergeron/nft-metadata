@@ -1,0 +1,33 @@
+{
+  "address": "0xeb7c9fd7fd10245def618ae8a414ef63cc6e7bd4",
+  "type": "ERC721",
+  "name": "Jolly Test",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/l-cdcXQeco8QsIIX3PoDkblSksrPK75QgQ1OAKD4x70/1",
+  "metadata": {
+    "name": "Jolly Test",
+    "created_by": "Jolly",
+    "description": "First",
+    "attributes": [
+      {
+        "trait_type": "Jolly",
+        "value": "Jolly Test"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "1",
+        "value": "1",
+        "max_value": "1"
+      }
+    ],
+    "image_details": {
+      "bytes": 858485,
+      "format": "PNG",
+      "sha256": "29db4a7f7b508429917c951840f0117f1386456d160f474c2c4311555cf59be3",
+      "width": 3000,
+      "height": 3000
+    },
+    "image": "https://arweave.net/OxuS2J9Qbw2J3tJDrF_msL_VPjNZs_Koj9uIWuPA1WE",
+    "image_url": "https://arweave.net/OxuS2J9Qbw2J3tJDrF_msL_VPjNZs_Koj9uIWuPA1WE"
+  }
+}

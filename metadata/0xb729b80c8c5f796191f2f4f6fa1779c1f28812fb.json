@@ -1,0 +1,157 @@
+{
+  "address": "0xb729b80c8c5f796191f2f4f6fa1779c1f28812fb",
+  "type": "ERC721",
+  "name": "Mech Game",
+  "tokenCount": "10000",
+  "uri": "https://mech-game-metadata.byt-marketplace.workers.dev/1",
+  "metadata": {
+    "name": "Mech 1",
+    "description": "This is a 3D Genesis Mech game character for use in the Mech.Game blockchain gaming ecosystem. Genesis mechs are the rarest and most sought after characters in the game due to their unique attributes, game stats and genesis only perks. Find out more at https://Mech.Game",
+    "image": "https://mechgame.mypinata.cloud/ipfs/QmZdjHJxs6md1nrX4X2dC9EyJCC56mZ45Vsr9f9D1fzRDL/1.jpg",
+    "video": "",
+    "glb": "",
+    "attributes": [
+      {
+        "trait_type": "Model",
+        "value": "Pathfinder"
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Generative"
+      },
+      {
+        "trait_type": "Design",
+        "value": "Biped"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Desert Camo"
+      },
+      {
+        "trait_type": "Decal",
+        "value": null
+      },
+      {
+        "trait_type": "Badge",
+        "value": null
+      },
+      {
+        "trait_type": "Jetpack",
+        "value": "Jetpack"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": null
+      },
+      {
+        "trait_type": "Weapon Slot #1",
+        "value": "Laser Blade"
+      },
+      {
+        "trait_type": "Weapon Slot #2",
+        "value": "Heavy Machine Gun"
+      },
+      {
+        "trait_type": "Weapon Slot #3",
+        "value": "Mini-Grenade Launcher"
+      },
+      {
+        "trait_type": "Weapon Slot #4",
+        "value": "none"
+      },
+      {
+        "trait_type": "Weapon Slot #5",
+        "value": "none"
+      },
+      {
+        "trait_type": "Weapon Slot #6",
+        "value": "none"
+      },
+      {
+        "trait_type": "Level",
+        "value": 0,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Experience Points",
+        "value": 0,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Upgrade Investment",
+        "value": 0,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Damage Meter",
+        "value": 100,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Laser Blade Damage",
+        "value": "",
+        "max_value": ""
+      },
+      {
+        "trait_type": "Heavy Machine Gun Damage",
+        "value": "67",
+        "max_value": "92"
+      },
+      {
+        "trait_type": "Mini-Grenade Launcher Damage",
+        "value": "125",
+        "max_value": "150"
+      },
+      {
+        "trait_type": "Accuracy",
+        "value": 36,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Max Range",
+        "value": 100
+      },
+      {
+        "trait_type": "Armor",
+        "value": 76,
+        "max_value": 200
+      },
+      {
+        "trait_type": "Attack",
+        "value": 44,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Defense",
+        "value": 30,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Energy",
+        "value": 60,
+        "max_value": 150
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 32,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Shielding",
+        "value": 0,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Speed",
+        "value": 22,
+        "max_value": 75
+      }
+    ],
+    "animation_url": "https://mech.game/genesis/viewer/1"
+  }
+}

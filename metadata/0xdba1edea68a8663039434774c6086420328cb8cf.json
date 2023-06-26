@@ -1,0 +1,38 @@
+{
+  "address": "0xdba1edea68a8663039434774c6086420328cb8cf",
+  "type": "ERC721",
+  "name": "Alright Apes",
+  "tokenCount": "3000",
+  "uri": "ipfs://QmQ26JhesYr7XfWPmktDJjRTocYmMuGryttAjTwU5hco8h/1.json",
+  "metadata": {
+    "name": "Alright Ape #1",
+    "description": "3000 free to mint alright apes, aping out of this world. Alright apes already went to the moon, let's take them beyond.",
+    "image": "ipfs://QmfDBx6hU3ZnEudyMszUAy381F6Myv5N4nxcUUhqjSn7qN/1.png",
+    "dna": "bd3a219f2a76df5ce6ec059ddb5cabf3ed2a154f",
+    "edition": 1,
+    "date": 1653273098789,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Robosuit"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blunt"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Antenna"
+      }
+    ],
+    "compiler": "Alright Apes Engine"
+  }
+}

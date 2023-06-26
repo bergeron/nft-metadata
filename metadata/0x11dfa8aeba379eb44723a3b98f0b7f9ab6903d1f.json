@@ -1,0 +1,23 @@
+{
+  "address": "0x11dfa8aeba379eb44723a3b98f0b7f9ab6903d1f",
+  "type": "ERC721",
+  "name": "Passengers Gear",
+  "tokenCount": "14406",
+  "uri": "https://storage.googleapis.com/media_passengers/gear/metadata/1",
+  "metadata": {
+    "name": "Gear #1",
+    "description": "Suit of type Skyway Aircrew Suit Venesian belonging to the Passengers project. Use this asset inside the Armory and dynamically swap traits on your Passenger character to enhance its capabilities.",
+    "image": "https://storage.googleapis.com/media_passengers/gear/images/1.png",
+    "background_color": "BFBFBF",
+    "attributes": [
+      {
+        "trait_type": "Gear Type",
+        "value": "Suit"
+      },
+      {
+        "value": "Skyway Aircrew Suit Venesian",
+        "trait_type": "Name"
+      }
+    ]
+  }
+}

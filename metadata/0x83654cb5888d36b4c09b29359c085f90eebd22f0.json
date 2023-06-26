@@ -1,0 +1,32 @@
+{
+  "address": "0x83654cb5888d36b4c09b29359c085f90eebd22f0",
+  "type": "ERC721",
+  "name": "Fractured by Manic",
+  "tokenCount": "55",
+  "uri": "ipfs://QmVpTG31WkcmtWvYPh8X7s98xYC8hXNrKcb2qPw5BaPTnJ/1.json",
+  "metadata": {
+    "name": "Fractured #1",
+    "edition": 1,
+    "description": "3500 minimal generative fractals on-chain created by Manic Distopia.",
+    "image": "ipfs://QmVQtveTzB4f6t9imc74Q56isM3VkUh5roVm7GqHoRp5iX/1.png",
+    "external_url": "https://manic.art/",
+    "attributes": [
+      {
+        "trait_type": "Poly",
+        "value": "Hexagon"
+      },
+      {
+        "trait_type": "Angle",
+        "value": 720
+      },
+      {
+        "trait_type": "Skewangle",
+        "value": 715
+      },
+      {
+        "trait_type": "Segments",
+        "value": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0xc97f60c991d26c0ac85a3380e9415226b2d26fb2",
+  "type": "ERC1155",
+  "name": "NFTim V2",
+  "tokenCount": "28",
+  "uri": "ipfs://QmRv13ndHD2EMRBtcVft2sJJXzD4PpjzNmfhYyBD9nhaMe",
+  "metadata": {
+    "title": "Cherkasy Region",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Cherkasy Region"
+      },
+      "description": {
+        "type": "string",
+        "description": "The situation in Cherkasy region remains largely under control thanks to our victorious armed forces and a timely response from the local community. The region is ready to host immigrants. Help them! Food, warm clothes, medicine, anything counts and is able to make a difference."
+      },
+      "image": {
+        "type": "string",
+        "description": "ipfs://QmR3sK1ioDpcnDV3d2yppYdLrgxZ1VikfBwU7DCyybvLBs"
+      }
+    },
+    "name": "Cherkasy Region",
+    "description": "The situation in Cherkasy region remains largely under control thanks to our victorious armed forces and a timely response from the local community. The region is ready to host immigrants. Help them! Food, warm clothes, medicine, anything counts and is able to make a difference.",
+    "image": "ipfs://QmR3sK1ioDpcnDV3d2yppYdLrgxZ1VikfBwU7DCyybvLBs"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0x6f05e9a5c003a97c918457d0e409d67c535f0918",
+  "type": "ERC721",
+  "name": "Some Claw Long Jose NFT To Check",
+  "tokenCount": "1",
+  "uri": "https://www.justdemo.io/nft/meta/placeholder-metadata-v3.json",
+  "metadata": {
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      },
+      "description": {
+        "type": "string",
+        "description": "Viverra vitae congue eu consequat ac felis donec et odio. Ac tincidunt vitae semper quis lectus nulla at"
+      },
+      "image": {
+        "type": "string",
+        "description": "https://www.justdemo.io/nft/media/placeholder-2000.png"
+      },
+      "external_url": {
+        "type": "string",
+        "description": "https://www.justdemo.io"
+      },
+      "animation_url": {
+        "type": "string",
+        "description": "https://www.justdemo.io/nft/media/placeholder-2000.mp4"
+      }
+    },
+    "name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "description": "Viverra vitae congue eu consequat ac felis donec et odio. Ac tincidunt vitae semper quis lectus nulla at",
+    "image": "https://www.justdemo.io/nft/media/placeholder-2000.png",
+    "external_url": "https://www.justdemo.io",
+    "animation_url": "https://www.justdemo.io/nft/media/placeholder-2000.mp4"
+  }
+}

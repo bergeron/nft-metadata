@@ -1,0 +1,90 @@
+{
+  "address": "0xf409194f51c2706005bd5f14e9ea9ce412a53e2f",
+  "type": "ERC1155",
+  "name": "TAMA Common NFTs",
+  "tokenCount": "20",
+  "uri": "https://metadata.tamadoge.io/common/metadata/json/1",
+  "metadata": {
+    "name": "Tamadoge Common Edition #1",
+    "description": "Tamadoge Common NFT ",
+    "image": "https://metadata.tamadoge.io/common/metadata/images/1.png",
+    "dna": "404e9e1a13e01de92db5d64b20bff0b0467fdb01",
+    "edition": 1,
+    "date": 1665495150597,
+    "attributes": [
+      {
+        "trait_type": "Game Level",
+        "value": "Tamahome"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Woods"
+      },
+      {
+        "trait_type": "Vision",
+        "value": "36"
+      },
+      {
+        "trait_type": "Agility",
+        "value": "29"
+      },
+      {
+        "trait_type": "Luck",
+        "value": "31"
+      },
+      {
+        "trait_type": "Strength",
+        "value": "33"
+      },
+      {
+        "trait_type": "Speed",
+        "value": "27"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": "29"
+      },
+      {
+        "trait_type": "Platform",
+        "value": "Grass"
+      },
+      {
+        "trait_type": "Colour",
+        "value": "Fur_Orange"
+      },
+      {
+        "trait_type": "Tongue",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "None"
+      },
+      {
+        "trait_type": "Sock-Legwarmers",
+        "value": "None"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "None"
+      },
+      {
+        "trait_type": "Bowl",
+        "value": "None"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "None"
+      },
+      {
+        "trait_type": "Card",
+        "value": "Common"
+      }
+    ],
+    "compiler": "BlockMediaLabs Compiler"
+  }
+}

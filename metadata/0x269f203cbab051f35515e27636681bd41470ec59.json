@@ -1,0 +1,81 @@
+{
+  "address": "0x269f203cbab051f35515e27636681bd41470ec59",
+  "type": "ERC1155",
+  "name": "FraktalNFTArt Blocks V3",
+  "tokenCount": "2",
+  "uri": "https://api.artblocks.io/token/206000868",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "206000868",
+    "series": 5,
+    "aspect_ratio": 0.8,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Asemica #868",
+    "minted": true,
+    "artist": "Emily Edelman - Dima Ofman - Andrew Badr",
+    "description": "Abstract typographic elements slide together to create new characters. In some compositions, a single character is featured. In others, characters string together to form words and sentences, which the algorithm shapes into often-familiar layouts.\n\nThe type designer Gerard Unger said “it is almost impossible to look and read at the same time”. Asemica invites you to look without the burden of legibility.\n\nCreated by Emily Edelman, Dima Ofman, and Andrew Badr. Command-S to download a vector file. Live token best viewed in Chrome.",
+    "script_type": "js@na",
+    "project_id": "206",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 5",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/206000868.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/206000868.png",
+    "generator_url": "https://generator.artblocks.io/206000868",
+    "royaltyInfo": {
+      "artistAddress": "0x0e83a8526ed1c674fa7c340e58aa79c7a4dc94df",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": "0"
+    },
+    "collection_name": "Asemica by Emily Edelman - Dima Ofman - Andrew Badr",
+    "website": "https://asemi.ca/",
+    "token_hash": "0x099f86d2b25441eebafb92a48cb87dfe158bf7d2c0bd6de880a7f66617f9b1ba",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/206/tokens/206000868",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/206000868.png",
+    "features": {
+      "Grid": "1",
+      "Paper": "Grain",
+      "Margin": "Small",
+      "Color By": "Article",
+      "Baselines": "False",
+      "Composition": "Article",
+      "Background Color": "Pinkprint"
+    },
+    "traits": [
+      {
+        "trait_type": "Asemica",
+        "value": "All Asemicas"
+      },
+      {
+        "trait_type": "Asemica",
+        "value": "Grid: 1"
+      },
+      {
+        "trait_type": "Asemica",
+        "value": "Paper: Grain"
+      },
+      {
+        "trait_type": "Asemica",
+        "value": "Margin: Small"
+      },
+      {
+        "trait_type": "Asemica",
+        "value": "Color By: Article"
+      },
+      {
+        "trait_type": "Asemica",
+        "value": "Baselines: False"
+      },
+      {
+        "trait_type": "Asemica",
+        "value": "Composition: Article"
+      },
+      {
+        "trait_type": "Asemica",
+        "value": "Background Color: Pinkprint"
+      }
+    ],
+    "is_static": true,
+    "license": "Copyright 2021"
+  }
+}

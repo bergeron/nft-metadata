@@ -1,0 +1,34 @@
+{
+  "address": "0xcd5c7ce94d3316d94a91e2b711e919583be7c86b",
+  "type": "ERC721",
+  "name": "Catalyze",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xcd5c7ce94d3316d94a91e2b711e919583be7c86b/1",
+  "metadata": {
+    "name": "SpiritDAO Catalyze Membership",
+    "description": "SpiritDAO Catalyze Tier Membership",
+    "image": "https://storage.unlock-protocol.com/2fa3b1e3-6db3-412c-8e2e-f32d8fb9c490",
+    "slug": "spiritdao-catalyze",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1716139980
+      },
+      {
+        "value": "Catalyze",
+        "trait_type": "Membership Tier"
+      }
+    ],
+    "background_color": "000000",
+    "expiration": 1716139980,
+    "tokenId": "1",
+    "owner": "0x62e9d933c4753e3e82d7dbb5411e928aeaf5c98d",
+    "userMetadata": {
+      "public": {}
+    },
+    "keyId": "1",
+    "lockAddress": "0xcd5c7Ce94d3316d94a91E2b711e919583Be7C86b",
+    "network": 1
+  }
+}

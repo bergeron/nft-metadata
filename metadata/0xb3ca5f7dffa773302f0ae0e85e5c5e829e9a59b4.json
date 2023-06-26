@@ -1,0 +1,30 @@
+{
+  "address": "0xb3ca5f7dffa773302f0ae0e85e5c5e829e9a59b4",
+  "type": "ERC721",
+  "name": "256ONE",
+  "tokenCount": "12",
+  "uri": "ipfs://QmY4NsGCipvi75huYapVCAyMTMwdnBTxz2GwhrXtK7aCd5/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "Edition 1 of 12 generative art works. It contains 1 block and has a black background.",
+    "date": 1634397284790,
+    "image": "ipfs://QmWmeubkA3qD1gVfVQQVjyT3Vukarvfcix2jsh6SxMcRCe",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "TotalBlocks",
+        "value": 1
+      },
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "block-color",
+        "value": {
+          "block-color": "#9e3845"
+        }
+      }
+    ]
+  }
+}

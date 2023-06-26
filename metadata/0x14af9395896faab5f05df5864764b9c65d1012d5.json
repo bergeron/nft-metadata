@@ -1,0 +1,46 @@
+{
+  "address": "0x14af9395896faab5f05df5864764b9c65d1012d5",
+  "type": "ERC721",
+  "name": "Proximavein - old",
+  "tokenCount": "1",
+  "uri": "ipfs://QmQob7XphwVBYi3E3bAmMagkmVHvr6ryypFAbnL6nakFSi/1.json",
+  "metadata": {
+    "dna": "d2fe8e65238018982b1e0b49b66d3e975be8d5c3",
+    "name": "#1",
+    "description": "Proximavein",
+    "image": "ipfs://QmSrgV3mPQW9oq9pg6tuWmEKTEGq1MbHArAwRXe7e2kGwK/1.png",
+    "edition": 1,
+    "date": 1635000833664,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "gray"
+      },
+      {
+        "trait_type": "base",
+        "value": "green"
+      },
+      {
+        "trait_type": "helmet",
+        "value": "tank"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "esther"
+      },
+      {
+        "trait_type": "goggle",
+        "value": "hawk"
+      },
+      {
+        "trait_type": "clothing",
+        "value": "orange"
+      },
+      {
+        "trait_type": "backpack",
+        "value": "samurai"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

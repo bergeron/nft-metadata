@@ -1,0 +1,31 @@
+{
+  "address": "0x55bc4069217797fa68f98b09faa89405bbff844e",
+  "type": "ERC721",
+  "name": "Draper Heroes - Collection 2 Test",
+  "tokenCount": "1",
+  "uri": "ipfs://QmaZ7D48TYRSxj2EXXFjVdGCgXZTd56R1bK3iTdHdmmnkd/1.json",
+  "metadata": {
+    "name": "Draper Heroes 1",
+    "description": "Draper Heroes Drop 2",
+    "image": "ipfs://Qma58jvYVFt93FzQVAB4gPFXxPWphL7hCMkfmJwkvfdDMf/1.png",
+    "edition": "1",
+    "attributes": [
+      {
+        "trait_type": "Accessory",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Spacesuit Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Tim"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Green Jet 2"
+      }
+    ]
+  }
+}

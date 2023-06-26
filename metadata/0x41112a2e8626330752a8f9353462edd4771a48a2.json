@@ -1,0 +1,34 @@
+{
+  "address": "0x41112a2e8626330752a8f9353462edd4771a48a2",
+  "type": "ERC721",
+  "name": "Poison Pog",
+  "tokenCount": "68",
+  "uri": "https://api.poisonpog.org/metadata/1",
+  "metadata": {
+    "name": "Poison Pog #1",
+    "description": "Poison Pog is the genesis project of Rip Bull Networks demonstrating ETH Sign-In with messenger apps.",
+    "image": "https://api.poisonpog.org/ipfs/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Skull",
+        "value": "white"
+      },
+      {
+        "trait_type": "Piercing",
+        "value": "cheekbones"
+      },
+      {
+        "trait_type": "Head",
+        "value": "horns_brown"
+      },
+      {
+        "trait_type": "Mouth Prop",
+        "value": "toothpick"
+      }
+    ]
+  }
+}

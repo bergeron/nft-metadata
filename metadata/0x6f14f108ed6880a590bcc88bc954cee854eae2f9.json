@@ -1,0 +1,36 @@
+{
+  "address": "0x6f14f108ed6880a590bcc88bc954cee854eae2f9",
+  "type": "ERC721",
+  "name": "ETH Doomsday Raffle Ticket",
+  "tokenCount": "5006",
+  "uri": "ipfs://QmeMduP42uKQsvAWYUVsT43SmtRd71ukoktQpckr77Ujv4/1",
+  "metadata": {
+    "image": "ipfs://QmXmQQfmmm3wmZEdLhFGedkdAADsAfX9iPgz24bmEnRJiD/1.png",
+    "name": "ETH Doomsday Raffle Ticket #1",
+    "description": "Let's raffle some worthless ETH.\n\nEvery Ticket is an entry to the raffle!",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Doomsdayticket",
+        "value": "2022 06 18"
+      },
+      {
+        "trait_type": "Fourth Lucky Number",
+        "value": "1"
+      },
+      {
+        "trait_type": "Third Lucky Number",
+        "value": "2"
+      },
+      {
+        "trait_type": "Second Lucky Number",
+        "value": "9"
+      },
+      {
+        "trait_type": "First Lucky Number",
+        "value": "5"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

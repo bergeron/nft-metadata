@@ -1,0 +1,46 @@
+{
+  "address": "0x7a1e98c559ff6676ec2aae3a821fe6e601d8b75b",
+  "type": "ERC721",
+  "name": "Friday Beers NFT Official",
+  "tokenCount": "5555",
+  "uri": "ipfs://QmbrSTFdWLwULyV6LGY87vvSt3wfpavicZCFHUtQs91XUK/1",
+  "metadata": {
+    "symbol": "FB",
+    "name": "Friday Beers #0001",
+    "tokenId": 1,
+    "description": "The Big Fella once drank 34 Keystone Lights in an hour. A solid D3 left tackle, he turned down D1 offers so he could party more. Physical stature only matched by the size of his heart, he can be an enforcer if needed, but is usually a gentle giant.",
+    "image": "ipfs://QmPcyV6UP9q67ppU4TwDyFUUf2YPPicAc96JbXGvb2gQ3m",
+    "attributes": [
+      {
+        "trait_type": "Character",
+        "value": "Big Fella"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Chest",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Gesture",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Common"
+      }
+    ],
+    "external_url": "https://fridaybeers.io",
+    "seller_fee_basis_points": 750
+  }
+}

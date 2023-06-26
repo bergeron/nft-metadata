@@ -1,0 +1,88 @@
+{
+  "address": "0xc4e3013bba64cba8d83ee8be6ae2b108f9199946",
+  "type": "ERC721",
+  "name": "Ugo Dossi  -  Segni di luce",
+  "tokenCount": "10",
+  "uri": "ipfs://QmWtPgSkW6zLfqZFUaSw7tXx8VCTvd5AfMTJK9mPqZMT36",
+  "metadata": {
+    "name": "Portraits (Nicola Tesla)",
+    "image": "https://ipfs.pinsl.com/ipfs/QmdnXKAiCneLEpRsNDvYeTuAW6tTBenm8YveVeGFXGd1VZ/246d59f9-03c2-4c3f-a5c3-366f892e0197.gif",
+    "title": "Portraits (Nicola Tesla)",
+    "createdAt": "2022-09-08T14:50:04.707Z",
+    "updatedAt": "2022-09-08T14:50:04.707Z",
+    "attributes": [
+      {
+        "trait_type": "Title",
+        "description": "Portraits (Nicola Tesla)"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Ugo Dossi"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Digital Art"
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Video"
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Animation"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Portraits (Nicola Tesla)"
+      },
+      "type": {
+        "type": "string",
+        "description": "digitalArtNFT"
+      },
+      "category": {
+        "type": "string",
+        "description": "video"
+      },
+      "copyright": {
+        "type": "string",
+        "description": ""
+      },
+      "created_at": {
+        "type": "datetime",
+        "description": "2022-09-08T14:50:04.707Z"
+      },
+      "description": {
+        "type": "string",
+        "description": "Ugo Dossi, Tesla, 2022 - The Portraits - based on figure-ground perception as seen in such optical illusions described by the Danish psychologist Edgar J. Rubin in 1921, where the profile of the portrayed faces itself in eternal self-contemplation. Nikola Tesla (1856 - 1943) was an inventor, physicist and electrical engineer. His life's work is characterised by numerous innovations in the field of electrical engineering, especially electrical power engineering, such as the development of what is now known as the two-phase alternating current system for electrical power transmission."
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 1
+      },
+      "raw_media_file": {
+        "type": "string",
+        "description": "https://ipfs.pinsl.com/ipfs/QmdnXKAiCneLEpRsNDvYeTuAW6tTBenm8YveVeGFXGd1VZ/246d59f9-03c2-4c3f-a5c3-366f892e0197.gif?preview=1"
+      },
+      "yearOfCreation": {
+        "type": "string",
+        "description": "2022"
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://ipfs.pinsl.com/ipfs/QmdnXKAiCneLEpRsNDvYeTuAW6tTBenm8YveVeGFXGd1VZ/246d59f9-03c2-4c3f-a5c3-366f892e0197.gif"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "gif"
+      }
+    },
+    "description": "Ugo Dossi, Tesla, 2022 - The Portraits - based on figure-ground perception as seen in such optical illusions described by the Danish psychologist Edgar J. Rubin in 1921, where the profile of the portrayed faces itself in eternal self-contemplation. Nikola Tesla (1856 - 1943) was an inventor, physicist and electrical engineer. His life's work is characterised by numerous innovations in the field of electrical engineering, especially electrical power engineering, such as the development of what is now known as the two-phase alternating current system for electrical power transmission.",
+    "externalLink": ""
+  }
+}

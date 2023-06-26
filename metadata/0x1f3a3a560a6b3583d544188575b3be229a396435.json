@@ -1,0 +1,38 @@
+{
+  "address": "0x1f3a3a560a6b3583d544188575b3be229a396435",
+  "type": "ERC721",
+  "name": "Ian Super Epic Test",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/6q_dHoRWk8RXhsuYDcRdt2Ksvcb9Y_MDMtNQdwCwikk",
+  "metadata": {
+    "name": "Potato",
+    "created_by": "ian",
+    "external_url": "https://en.wikipedia.org/wiki/Potato",
+    "description": "This is a wonderful starchy tuber that has a multitude of purposes, mostly gastronomic.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Someone"
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Round"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Edibility",
+        "value": "5",
+        "max_value": "5"
+      }
+    ],
+    "image_details": {
+      "bytes": 78325,
+      "format": "JPEG",
+      "sha256": "08331e94b1b70668ef212376bef8e3fbaee95132d81cbea35a588af7818450ee",
+      "width": 800,
+      "height": 645
+    },
+    "image": "https://arweave.net/xrivyRTj_VQMV8-NA_Qpsvs0vhmPU_mmihoCTz6wNTw",
+    "image_url": "https://arweave.net/xrivyRTj_VQMV8-NA_Qpsvs0vhmPU_mmihoCTz6wNTw"
+  }
+}

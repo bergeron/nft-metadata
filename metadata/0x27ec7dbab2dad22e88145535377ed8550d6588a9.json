@@ -1,0 +1,37 @@
+{
+  "address": "0x27ec7dbab2dad22e88145535377ed8550d6588a9",
+  "type": "ERC721",
+  "name": "trolls",
+  "tokenCount": "106",
+  "uri": "https://ipfs.io/ipfs/bafybeidg4s6zsdnqowjsvadf2bjpnzokgpi2skkd3m75zgwirsqwud3oca/1.json",
+  "metadata": {
+    "name": "troll #1",
+    "image": "ipfs://bafybeieux2i5kjpstxjyqpdgq7nluy3ywhydpp7srrl5lyjwrg3nvc5esy/1.png",
+    "description": "5,000,000 $TRLL can be claimed for each troll nft on the wallet",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Did There"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Suit"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Biceps"
+      },
+      {
+        "trait_type": "Phrase",
+        "value": "5"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Stickman"
+      }
+    ],
+    "seller_fee_basis_points": 0,
+    "compiler": "Ytosko"
+  }
+}

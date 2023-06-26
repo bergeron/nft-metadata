@@ -1,0 +1,26 @@
+{
+  "address": "0x9b1aa69fe9fca10aa41250bba054aabd92aba5b6",
+  "type": "ERC721",
+  "name": "Ethernal",
+  "tokenCount": "380",
+  "uri": "ipfs://QmbcLcjjQ5U9uUGMwQfBYJX8mwBDE82Rc5ydELrFbL2mc6/1",
+  "metadata": {
+    "description": "Hello from the Ethernal. This is the first of our limited edition art series. For our upcoming Alpha 2.0 release, we have worked with artist Komiyama Takashi on a pixel art token 「the entrance」. “There’s a reason they have stayed away, but the reason you’ve come is stronger still.” \n\nThis token comes with: High resolution .jpeg and animated .gif files in portrait and landscape views + Original sketch + Desktop & mobile wallpapers\n\nAfter you purchase the art token, email enter@ethernal.world with the address that owns the token to receive the bundle. \n\nLimited to 20.",
+    "external_url": "https://ethernal.world/?art=1",
+    "name": "「the entrance」 1/20",
+    "image": "ipfs://QmaeUYhA59CxTvhfAvcheqmsavudHGWdtjXZJWTWvEwfK5",
+    "background_color": "000000",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "max_value": 20,
+        "value": 1
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Komiyama Takashi"
+      }
+    ]
+  }
+}

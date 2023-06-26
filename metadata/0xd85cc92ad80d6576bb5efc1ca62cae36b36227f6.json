@@ -1,0 +1,34 @@
+{
+  "address": "0xd85cc92ad80d6576bb5efc1ca62cae36b36227f6",
+  "type": "ERC721",
+  "name": "GoodLuckPug NFT",
+  "tokenCount": "3",
+  "uri": "ipfs://QmVHVmr4mHysEcx8g2sweKR6Y4qb2mz5wx3bdVYKci2bEK/1.json",
+  "metadata": {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmTkmecGBKsY8Ujat5hngmvGP3unWwEqmTLjmyfsNDzbYw/1.png",
+    "dna": "76af9295814fa96397804117f0a3e6e60f80271d",
+    "edition": 1,
+    "date": 1650027336300,
+    "attributes": [
+      {
+        "trait_type": "1-bg",
+        "value": "Albania"
+      },
+      {
+        "trait_type": "2-bod",
+        "value": "pug dog"
+      },
+      {
+        "trait_type": "3-dress",
+        "value": "Albania"
+      },
+      {
+        "trait_type": "5-charm",
+        "value": "Blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

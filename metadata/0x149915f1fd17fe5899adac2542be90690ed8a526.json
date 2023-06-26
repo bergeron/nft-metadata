@@ -1,0 +1,34 @@
+{
+  "address": "0x149915f1fd17fe5899adac2542be90690ed8a526",
+  "type": "ERC721",
+  "name": "The BirdHouse",
+  "tokenCount": "6000",
+  "uri": "ipfs://QmQHLbheBHbCbb6Es1rsGWBMxkRyqWALp8WoUJes62YDoT/1",
+  "metadata": {
+    "name": "#1 Parrot",
+    "image": "ipfs://QmdpRuttemE3AKgi8JeLvdwYPNdVYXztu4tDUZCkbrjbD8/1",
+    "description": "The Birdhouse is a collection of 6000 birds, each with it's own unique traits & personality. See them all at TheBirdHouse.app",
+    "attributes": [
+      {
+        "trait_type": "Species",
+        "value": "Parrot"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Beret"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Mask"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Snake"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Bow Tie"
+      }
+    ]
+  }
+}

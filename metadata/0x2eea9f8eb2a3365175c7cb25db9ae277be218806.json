@@ -1,0 +1,92 @@
+{
+  "address": "0x2eea9f8eb2a3365175c7cb25db9ae277be218806",
+  "type": "ERC721",
+  "name": "Mathare Memories",
+  "tokenCount": "68",
+  "uri": "https://api.substratum.art/project/mathare-memories/token/1",
+  "metadata": {
+    "token_id": 1,
+    "name": "Mathare Memories 1",
+    "project_id": 2,
+    "project_name": "Mathare Memories",
+    "project_slug": "mathare-memories",
+    "artist": "Matto",
+    "artist_address": "0xA6a4Fe416F8Bf46bc3bCA068aC8b1fC4DF760653",
+    "description": "Even though Mathare was filled with garbage, struggle, and danger; happiness could be found in the very young. This is one of the first photographs I took in the slum, on December 11, 2007.\n\nInteractivity:\n\nPress 'P' or long press/click and release on an image to play a short audio recording of Matto reading the token's description. Press 'N' or double-click to display the next token in the collection, and press 'R' to return to the token's starting content. Use the greater-than and less-than keys to change the brightness of the matte displayed behind the image.",
+    "collection_name": "Mathare Memories",
+    "aspect_ratio": 1,
+    "script_type": "p5.js",
+    "script_inputs": {
+      "token_id": 1,
+      "transfer_count": 1,
+      "imageURI_base": "https://arweave.net/dtEayxAD2Aknd8g8WWyErEX37kesMRsJhbopwDYPhdo/",
+      "audioURI_base": "https://arweave.net/CUfbbFNY1tBfEP73wthtXOokfaKFGqDvnn83Bk9ZSig/"
+    },
+    "image": "https://arweave.net/dtEayxAD2Aknd8g8WWyErEX37kesMRsJhbopwDYPhdo/1.png",
+    "image_mid": "https://mattoapi.blob.core.windows.net/mathare-images/mid-1.png",
+    "thumbnail_url": "https://mattoapi.blob.core.windows.net/mathare-images/thumb-1.png",
+    "animation_url": "https://api.substratum.art/project/mathare-memories/generator/1",
+    "generator_url": "https://api.substratum.art/project/mathare-memories/generator/1",
+    "website": "https://substratum.art/project/mathare-memories",
+    "external_url": "https://substratum.art/project/mathare-memories/token/1",
+    "license": "All Rights Reserved",
+    "royalty_info": {
+      "royalty_fee_by_id": 10,
+      "charity_address": "0x2eEa9f8eb2a3365175c7cb25Db9ae277bE218806"
+    },
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Matto"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Mathare Slum, Nairobi Kenya"
+      },
+      {
+        "trait_type": "Photograph Taken",
+        "value": "December 2007"
+      },
+      {
+        "trait_type": "Token Minted",
+        "value": "December 2022"
+      },
+      {
+        "trait_type": "Charitable Donation",
+        "value": "100% Primary Sales & Secondary Fees"
+      },
+      {
+        "trait_type": "Accessibility",
+        "value": "ARIA Description"
+      },
+      {
+        "trait_type": "Media Storage",
+        "value": "Arweave"
+      },
+      {
+        "trait_type": "Image Filetype",
+        "value": "PNG"
+      },
+      {
+        "trait_type": "Audio Filetype",
+        "value": "MP4"
+      },
+      {
+        "trait_type": "Image URI Base",
+        "value": "https://arweave.net/dtEayxAD2Aknd8g8WWyErEX37kesMRsJhbopwDYPhdo/"
+      },
+      {
+        "trait_type": "Audio URI Base",
+        "value": "https://arweave.net/CUfbbFNY1tBfEP73wthtXOokfaKFGqDvnn83Bk9ZSig/"
+      },
+      {
+        "trait_type": "Transfer Count",
+        "value": 0
+      },
+      {
+        "trait_type": "Copyright",
+        "value": "All Rights Reserved"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "address": "0xaf2f174620556ee80a6e11e3ebb2003c75bc568b",
+  "type": "ERC721",
+  "name": "Only Fun Lab",
+  "tokenCount": "193",
+  "uri": "ipfs://bafybeih564ksixvnjrp4uon57canorf4litxb4hf54dnmhypdnaulo2cya/1",
+  "metadata": {
+    "name": "Only Fun Lab #1",
+    "image": "ipfs://bafybeif2447gypqctobvf4yin7ukooz5cy42g775ych7jhqp5d4diexl4a",
+    "animation_url": "https://fact.onlyfunlab.com/1",
+    "iframe_url": "https://fact.onlyfunlab.com/1",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      },
+      {
+        "trait_type": "Base",
+        "value": "Art"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Meme"
+      },
+      {
+        "trait_type": "Block",
+        "value": "Code"
+      },
+      {
+        "trait_type": "?",
+        "value": 100
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "FUN",
+        "value": 100
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "UTILITY",
+        "value": 0
+      }
+    ]
+  }
+}

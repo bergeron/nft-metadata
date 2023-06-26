@@ -1,0 +1,32 @@
+{
+  "address": "0x582070d61e9996e047016000f97b3773003ba034",
+  "type": "ERC721",
+  "name": "InkPass by MattyLaBoosh",
+  "tokenCount": "15",
+  "uri": "https://www.inkpass.io/api/metadata/editions/0",
+  "metadata": {
+    "name": "InkPass by MattyLaBoosh - Gold Edition",
+    "description": "Redeemable for 1 Full Day Tattoo Session with @MattyLaBoosh",
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "value": "Gold (Full Day)"
+      },
+      {
+        "trait_type": "Edition Size",
+        "value": "69"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "MattyLaBoosh"
+      },
+      {
+        "trait_type": "Expiry",
+        "value": 1709164799,
+        "display_type": "date"
+      }
+    ],
+    "image": "https://www.inkpass.io/images/InkPass_MattyLaBoosh_Gold.png",
+    "external_url": "https://www.inkpass.io/mattylaboosh"
+  }
+}

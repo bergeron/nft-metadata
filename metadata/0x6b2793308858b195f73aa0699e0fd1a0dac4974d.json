@@ -1,0 +1,58 @@
+{
+  "address": "0x6b2793308858b195f73aa0699e0fd1a0dac4974d",
+  "type": "ERC721",
+  "name": "Crypto Badger Clan",
+  "tokenCount": "241",
+  "uri": "ipfs://QmdQrvg4XK9viuFpu7nQGNRPqFk72WfmQC8yiT7qft3Xk2/1.json",
+  "metadata": {
+    "name": "Crypto Badger Clan #1",
+    "description": "The most fearless NFT collection on Earth. Built for aspiring NFT creators, collectors, and investors that call the honey badger their spirit animal.",
+    "external_url": "",
+    "image": "ipfs://QmXo73Wf26CyXTuS6hCKhaVzgEPvrppftpGLuGGKEpUned/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "neon diagonal"
+      },
+      {
+        "trait_type": "Body",
+        "value": "blurry"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "empty layer"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "regular eyes"
+      },
+      {
+        "trait_type": "Costume",
+        "value": "spikes"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "empty layer"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "badmouth"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "empty layer copy 10"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.jpeg",
+          "type": "image/jpeg"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

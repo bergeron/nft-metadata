@@ -1,0 +1,64 @@
+{
+  "address": "0x6950f7ec392911de504a79f5334d39f4933faf25",
+  "type": "ERC721",
+  "name": "Chimera King",
+  "tokenCount": "2751",
+  "uri": "ipfs://bafybeifuxilpasmgowrvlq4bashxdetzrqn5xk5g5zaz5sxwtgojgjndne/1.json",
+  "metadata": {
+    "name": "Marlance #1",
+    "description": "Chimera King is a social and competitive monster collection game where players catch, train, evolve and battle cute and fearsome creatures called Chimeras, all via Discord.",
+    "image": "ipfs://bafybeifv4ny5td575stgjkqzlvbuojuvkzh6ycyltpnfanph6dmhkz7bo4/marlance.png",
+    "attributes": [
+      {
+        "trait_type": "Species",
+        "value": "Marlance"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Water"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Strange",
+        "value": "False"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "HP",
+        "value": 80
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Physical Attack",
+        "value": 0
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Armor",
+        "value": 40
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Magic Attack",
+        "value": 20
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Magic Resist",
+        "value": 40
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Speed",
+        "value": 0
+      }
+    ]
+  }
+}

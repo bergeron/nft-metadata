@@ -1,0 +1,50 @@
+{
+  "address": "0xddc16354f49afda684ce6d0a0cba31aad166a8a3",
+  "type": "ERC721",
+  "name": "Pepetoshis",
+  "tokenCount": "9999",
+  "uri": "ipfs://QmQnAhRY8qsCFPefUC9H6aYUuTx2ErH7BEa2mvg5hKAkom/1.json",
+  "metadata": {
+    "name": "Pepetoshi #1",
+    "description": "",
+    "image": "ipfs://QmbNijhDdHnRk2YGRjuXg4vXVJCsRmccQhmpeFtc3qrmF8/1.png",
+    "imageHash": "46b1f40436819878003c31715b3012f01284be603ac4d1bd7360c85f87e447c1",
+    "edition": 1,
+    "date": 1684569950180,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Simple Pepe"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black Sport Jacket"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Neutral"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Blue Scanner"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cornrows"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Gray Scarf"
+      }
+    ],
+    "compiler": "PepeCompiler"
+  }
+}

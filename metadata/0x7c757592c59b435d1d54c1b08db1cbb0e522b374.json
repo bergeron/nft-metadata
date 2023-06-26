@@ -1,0 +1,42 @@
+{
+  "address": "0x7c757592c59b435d1d54c1b08db1cbb0e522b374",
+  "type": "ERC721",
+  "name": "AIN DAO Lv5",
+  "tokenCount": "3",
+  "uri": "https://storage.googleapis.com/membership-nft/1.json",
+  "metadata": {
+    "name": "AIN DAO Member #1",
+    "description": "",
+    "attributes": [
+      {
+        "trait_type": "Level",
+        "value": 5
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Scholar"
+      },
+      {
+        "trait_type": "Transparency",
+        "value": "TRUE"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Universe"
+      },
+      {
+        "trait_type": "Body Shape",
+        "value": "Round"
+      },
+      {
+        "trait_type": "Body Color",
+        "value": "3-Color Gradient"
+      },
+      {
+        "trait_type": "Glow",
+        "value": "TRUE"
+      }
+    ],
+    "image": "https://storage.googleapis.com/membership-nft/ain_dao_nft_1.png"
+  }
+}

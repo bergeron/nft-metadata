@@ -1,0 +1,73 @@
+{
+  "address": "0xa9132d23886b63d29858fe541214fead5815d64a",
+  "type": "ERC721",
+  "name": "Negative Carbon NFT",
+  "tokenCount": "12",
+  "uri": "https://api.substratum.art/project/negative-carbon/token/1",
+  "metadata": {
+    "token_id": 1,
+    "name": "Negative Carbon 1",
+    "project_id": 3,
+    "project_name": "Negative Carbon",
+    "project_slug": "negative-carbon",
+    "artist": "Immutable Computer",
+    "artist_address": "0x18120f6064de06afb42bc89a980c4d80267683ac",
+    "description": "Each Negative Carbon NFT (NCNFT) offsets more than its carbon footprint using rigorously validated, third-party audited, retired, carbon offsets. Each token is assigned an offset certificate and mint, and that certificate's serial number becomes the token's generative art's entropy. For more information, visit http://immutablecomputer.com/carbon.html.",
+    "collection_name": "Negative Carbon NFT",
+    "aspect_ratio": 1.77,
+    "script_type": "p5.js",
+    "script_inputs": {
+      "token_id": 1,
+      "transfer_count": 0,
+      "token_entropy": "UGUCAWNE-509446",
+      "current_owner": "0x18120f6064de06afb42bc89a980c4d80267683ac",
+      "custom_data": "[]"
+    },
+    "image": "https://mattoapi.blob.core.windows.net/images/negative-carbon_1.png",
+    "image_mid": "https://mattoapi.blob.core.windows.net/images-mid/negative-carbon_1.png",
+    "image_small": "https://mattoapi.blob.core.windows.net/thumbnails/negative-carbon_1.png",
+    "animation_url": "https://api.substratum.art/project/negative-carbon/generator/1",
+    "generator_url": "https://api.substratum.art/project/negative-carbon/generator/1",
+    "website": "http://immutablecomputer.com/carbon.html",
+    "external_url": "https://substratum.art/project/negative-carbon/token/1",
+    "license": "All Rights Reserved",
+    "royalty_info": {
+      "royalty_fee_by_id": 7,
+      "artist_address": "0xa9132D23886b63D29858Fe541214fEad5815d64A"
+    },
+    "attributes": [
+      {
+        "trait_type": "Transfer Count",
+        "value": 0
+      },
+      {
+        "trait_type": "Base Certificate (entropy)",
+        "value": "UGUCAWNE-509446"
+      },
+      {
+        "trait_type": "Additional Certificates",
+        "value": "0"
+      },
+      {
+        "trait_type": "Background Type",
+        "value": "Single Color"
+      },
+      {
+        "trait_type": "Stars",
+        "value": "true"
+      },
+      {
+        "trait_type": "Trees",
+        "value": "28"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "0"
+      },
+      {
+        "trait_type": "Transactions Offset",
+        "value": 22678
+      }
+    ]
+  }
+}

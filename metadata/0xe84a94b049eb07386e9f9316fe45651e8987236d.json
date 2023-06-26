@@ -1,0 +1,82 @@
+{
+  "address": "0xe84a94b049eb07386e9f9316fe45651e8987236d",
+  "type": "ERC721",
+  "name": "Axis of Apes",
+  "tokenCount": "5555",
+  "uri": "https://axisofapes.s3.amazonaws.com/json/1.json",
+  "metadata": {
+    "dna": "0b6c14694f031fa47a73b1411f5ea2776afd2859d906802e1118b2fb88ae295d",
+    "name": "AoA #1",
+    "description": "There's no staking, chambers or airdrops.. just death. By enrolling you're signing your soul away to the axis. And we'll take care of it.. we promise.",
+    "image": "ipfs://bafybeifisaou2pwi2cdzdddqsyj6ufxfyjahiwa7o2ckv2o6mrvt6qjeba/1.png",
+    "imageHash": "9df946bb5a3c8472c364db418bfe633cb36c60147ce040c6fca13961955e4372",
+    "edition": 1,
+    "date": 1661512390875,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red Blend"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gold Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bloodshot"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Soviet Leader Coat"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Soviet Cap Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Phoneme vuh"
+      },
+      {
+        "trait_type": "Faction",
+        "value": "Soviet"
+      },
+      {
+        "trait_type": "Offense",
+        "value": "341",
+        "max_value": "400",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Defense",
+        "value": "197",
+        "max_value": "200",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Health",
+        "value": "175",
+        "max_value": "300",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Offense",
+        "value": "385",
+        "max_value": "400",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Defense",
+        "value": "53",
+        "max_value": "400",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Health",
+        "value": "164",
+        "max_value": "400",
+        "display_type": "number"
+      }
+    ]
+  }
+}

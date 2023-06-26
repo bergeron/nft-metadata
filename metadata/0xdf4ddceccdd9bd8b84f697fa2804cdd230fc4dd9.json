@@ -1,0 +1,46 @@
+{
+  "address": "0xdf4ddceccdd9bd8b84f697fa2804cdd230fc4dd9",
+  "type": "ERC721",
+  "name": "QUBYT",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/2M1Wzt84M6ARzzFQ4-szIgQaGpyzo23tanPgrwBrh3U",
+  "metadata": {
+    "name": "LongQube#2 The Block",
+    "created_by": "QUBYT",
+    "external_url": "https://twitter.com/qUBYt2",
+    "description": "2048x2048 MP4 looped animation + soundtrack.\n\nMetaretrofuturistic qubes.\n\nAseprite, Magicavoxel, Blender, Mixamo.  \nPixel graphic + voxel + low poly 3D.\n\nSoundtrack by Fricat\n\nby QUBYT",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "QUBYT"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "LongQubes"
+      }
+    ],
+    "animation_details": {
+      "bytes": 69373707,
+      "format": "MP4",
+      "duration": 33,
+      "sha256": "0c8ffe6fec31e1e78e1614f6a2ceff728ef232b0a28f6f408c9639cdc76aa7e5",
+      "width": 2048,
+      "height": 2048,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/f7QL5uo7wjl5ceKkQCsFpOVj80w6WzY8Emg6P2VDPIU",
+    "animation_url": "https://arweave.net/f7QL5uo7wjl5ceKkQCsFpOVj80w6WzY8Emg6P2VDPIU",
+    "image_details": {
+      "bytes": 16806734,
+      "format": "PNG",
+      "sha256": "a63af8b52a3c5ff08957e024de485c67bdc5d9abcbb38d40eacc61a93cc448d4",
+      "width": 2048,
+      "height": 2048
+    },
+    "image": "https://arweave.net/gSup-QyX2a6yeezL2PY4_4Xc8DQd_oweMOlOOL6jUuc",
+    "image_url": "https://arweave.net/gSup-QyX2a6yeezL2PY4_4Xc8DQd_oweMOlOOL6jUuc"
+  }
+}

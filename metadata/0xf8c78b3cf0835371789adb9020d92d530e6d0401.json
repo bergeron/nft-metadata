@@ -1,0 +1,61 @@
+{
+  "address": "0xf8c78b3cf0835371789adb9020d92d530e6d0401",
+  "type": "ERC721",
+  "name": "Mekabird Genesis",
+  "tokenCount": "7",
+  "uri": "https://arweave.net/mtL1lSqpg8vo2McNap31mTtmNp1QfVtNxiK0xx52Lv8",
+  "metadata": {
+    "name": "Mekabird #001",
+    "created_by": "Mekabird.eth",
+    "description": "The first Mekabird ever minted. This artwork is representing how the project started, with a few simple sketches on a paper.\n\nMint hash : 0x411e90012fc94d959b3ea3b2aef2d646018c8da6e1fc83a323bc2cb8368f1e76\n\nThis mint hash has been used to generate the whistle and the moves of the bird.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Mekabird.eth"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Sketch"
+      },
+      {
+        "trait_type": "Whistle",
+        "value": "Mint hash"
+      },
+      {
+        "trait_type": "Body move",
+        "value": "17"
+      },
+      {
+        "trait_type": "Head move",
+        "value": "11"
+      },
+      {
+        "trait_type": "Wings move",
+        "value": "3"
+      }
+    ],
+    "animation_details": {
+      "bytes": 20754477,
+      "format": "MP4",
+      "duration": 16,
+      "sha256": "666e8330163da9d04f8d023872611ece0523837a6f0e078eed3678af37e5b6e1",
+      "width": 2000,
+      "height": 2000,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/gQuV4t3H3QI7Sa4_9uP_ndBpnHnF9BqBjN6wBRkiZ6w",
+    "animation_url": "https://arweave.net/gQuV4t3H3QI7Sa4_9uP_ndBpnHnF9BqBjN6wBRkiZ6w",
+    "image_details": {
+      "bytes": 3915858,
+      "format": "PNG",
+      "sha256": "4907dea6306712b8c1b9092eab7c6712889ae99d0a617da903b9da242d47a97f",
+      "width": 2000,
+      "height": 2000
+    },
+    "image": "https://arweave.net/_5gbLjHSN3kFpSChLWbteusSKdRYjXrVwnbWIznONBM",
+    "image_url": "https://arweave.net/_5gbLjHSN3kFpSChLWbteusSKdRYjXrVwnbWIznONBM"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "address": "0x1eff5ed809c994ee2f500f076cef22ef3fd9c25d",
+  "type": "ERC721",
+  "name": "PEGZ",
+  "tokenCount": "103",
+  "uri": "https://ipfs.io/ipfs/QmWtaJcW2VWjCDcasJCVXAdpE3f9z5hbEtg4QLkdvGwbnf/1.json",
+  "metadata": {
+    "name": "Peg 001",
+    "description": "Peg 001 by Matt Furie, 'Creeper' family",
+    "image": "https://ipfs.io/ipfs/QmcjQPGcAQa5fFEN7LfhdzdvNtQUEx8zLiL5zF18HdsjaN/peg001.gif",
+    "animation_url": "https://ipfs.io/ipfs/QmdCe9yVwSbj48SiDsCPJrhGU9ECyGZBdb7AiNgNht2VFo/peg001.glb",
+    "avatar_url": "https://ipfs.io/ipfs/QmXRNZh19ZbPG9AH3o2DRfDPn7swmiKUeNJsqi1K6pb8mR/PEGZ001.png",
+    "tokenId": "1",
+    "mediaType": "model/gltf-binary",
+    "media": {
+      "uri": "https://ipfs.io/ipfs/QmdCe9yVwSbj48SiDsCPJrhGU9ECyGZBdb7AiNgNht2VFo/peg001.glb",
+      "dimensions": null,
+      "size": 416.35,
+      "mimeType": "model/gltf-binary"
+    },
+    "attributes": [
+      {
+        "trait_type": "Creature",
+        "value": "☠️  creeper"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Matt Furie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "address": "0xe60b8baf1b5bfe262d7f1263eef87cf4173d7330",
+  "type": "ERC721",
+  "name": "Protico x Web3 Chatting Chip - Wave 1",
+  "tokenCount": "15",
+  "uri": "ipfs://QmWn9Lcv4PhFq1FEXXQjphkQyVaY4ewv1g1cxdYd4fTzBr",
+  "metadata": {
+    "description": "The chatting chip is hidden at secret places on the Internet as a Web3 Easter Egg.\n\nGame Time!\n\n\n\n--\nPowered by Protico.",
+    "image": "https://protico-easter-eggs.s3.amazonaws.com/Protico-Chatting-Chip.gif",
+    "name": "Protico - Chatting Chip",
+    "external_url": "https://protico.io",
+    "attributes": [
+      {
+        "trait_type": "Wave",
+        "value": "1"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Chip"
+      },
+      {
+        "trait_type": "Code",
+        "value": "P"
+      },
+      {
+        "trait_type": "Msg",
+        "value": "Hello World!"
+      }
+    ]
+  }
+}

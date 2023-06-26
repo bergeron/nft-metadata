@@ -1,0 +1,34 @@
+{
+  "address": "0x20ef330947f30f98841a25bc8e563755d32cf48c",
+  "type": "ERC721",
+  "name": "Fifty: Edition 1",
+  "tokenCount": "999",
+  "uri": "https://art-sandbox.sunflower.industries/token/0x20ef330947F30f98841A25bc8E563755d32cF48C/1",
+  "metadata": {
+    "description": "We are a close-knit team of 50 passionate NFT-artists born and raised in the metaverse. Though we each bring unique expertise to the team, all big design decisions are made collectively, to ensure we get it right first time. Edition 1.",
+    "dependencies": "[{\"name\":\"p5@1.4.0\",\"keccak256\":\"0xcef1df742d5237151854b6ccd3d7769c7bcb2cf987e4f8f6ca1ad69afdac3dcc\"}]",
+    "artist": "0x1D315084b4c635709D820b3a06b962B11e8E343C",
+    "external_url": "https://art.sunflower.industries/token/0x20ef330947F30f98841A25bc8E563755d32cF48C/1",
+    "image": "https://art-sandbox.sunflower.industries/render/tokenImage/0x20ef330947F30f98841A25bc8E563755d32cF48C/1",
+    "name": "Fifty - Edition 1 #1",
+    "attributes": [
+      {
+        "trait_type": "Color Palette",
+        "value": "#db4f54,#b8d9ce,#f7b1a1,#315f8c,#29a691,#fcbc19,#fcd265,#e67d32"
+      },
+      {
+        "trait_type": "Background",
+        "value": "253"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Kraig Keeble"
+      },
+      {
+        "trait_type": "ID",
+        "value": "ID.01-08"
+      }
+    ],
+    "animation_url": "https://art-sandbox.sunflower.industries/tokenFrame/0x20ef330947F30f98841A25bc8E563755d32cF48C/1"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0xa57e2e36328c2d1818011de3266aecdc32c149c4",
+  "type": "ERC721",
+  "name": "Gratitude Tokens",
+  "tokenCount": "35",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=YWcNyVpIffAYHtiyAkuw",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1573398350641?alt=media&token=ca383ff9-9e03-422a-b414-30ceb4d861cf",
+    "isForSale": false,
+    "contractAddress": "0xa57e2e36328C2d1818011dE3266aecDC32C149C4",
+    "description": "A glass of refreshing beer",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xa57e2e36328C2d1818011dE3266aecDC32C149C4/YWcNyVpIffAYHtiyAkuw",
+    "minter": "0xC9F03deb105EF7Bd43A9Ab2c7e285A9afE0fa065",
+    "mintedOn": {
+      "_seconds": 1573398396,
+      "_nanoseconds": 328000000
+    },
+    "price": "0",
+    "name": "Beer",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Beer"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

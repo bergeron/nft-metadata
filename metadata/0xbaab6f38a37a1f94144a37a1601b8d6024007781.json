@@ -1,0 +1,59 @@
+{
+  "address": "0xbaab6f38a37a1f94144a37a1601b8d6024007781",
+  "type": "ERC721",
+  "name": "NEXUS XSULLO",
+  "tokenCount": "477",
+  "uri": "data:application/json;utf8,{\"name\":\"Lucent #1/261\", \"created_by\":\"xsullo\", \"description\":\"This open edition unlocks the next collectors drop here on Nifty.\\nVisuals & Audio by xsullo.\\n2022.  Minted with Manifold.\", \"image\":\"https://arweave.net/ChIZsolEBXJOnHifDA7WZGWJ6D80brpjWi_f7vZ1P3k\",\"image_url\":\"https://arweave.net/ChIZsolEBXJOnHifDA7WZGWJ6D80brpjWi_f7vZ1P3k\",\"image_details\":{\"sha256\":\"0c5d776abf58e21fb872d7fddd335d336fcd7b3870edc9a8d8f6b3b8b667511d\",\"bytes\":5740212,\"width\":2120,\"height\":2400,\"format\":\"JPEG\"},\"animation\":\"https://arweave.net/KQCkbUMPznFcZFw0CHKvKZZWVibuyo1-kQJND6BFZYs\",\"animation_url\":\"https://arweave.net/KQCkbUMPznFcZFw0CHKvKZZWVibuyo1-kQJND6BFZYs\",\"animation_details\":{\"sha256\":\"00922ced9a955e906f07670e97c6b39b061e20af42a306f4d0366def74332ed3\",\"bytes\":103590484,\"width\":1808,\"height\":2048,\"duration\":30,\"format\":\"MP4\",\"codecs\":[\"H.264\",\"AAC\"]},\"attributes\":[{\"trait_type\":\"Artist\",\"value\":\"xsullo\"},{\"trait_type\":\"Auctioneer\",\"value\":\"Nifty Gateway\"},{\"trait_type\":\"Collection\",\"value\":\"Nexus\"},{\"trait_type\":\"Year\",\"value\":\"2022\"},{\"display_type\":\"number\",\"trait_type\":\"Edition\",\"value\":1,\"max_value\":261}]}",
+  "metadata": {
+    "name": "Lucent #1/261",
+    "created_by": "xsullo",
+    "description": "This open edition unlocks the next collectors drop here on Nifty.\nVisuals & Audio by xsullo.\n2022.  Minted with Manifold.",
+    "image": "https://arweave.net/ChIZsolEBXJOnHifDA7WZGWJ6D80brpjWi_f7vZ1P3k",
+    "image_url": "https://arweave.net/ChIZsolEBXJOnHifDA7WZGWJ6D80brpjWi_f7vZ1P3k",
+    "image_details": {
+      "sha256": "0c5d776abf58e21fb872d7fddd335d336fcd7b3870edc9a8d8f6b3b8b667511d",
+      "bytes": 5740212,
+      "width": 2120,
+      "height": 2400,
+      "format": "JPEG"
+    },
+    "animation": "https://arweave.net/KQCkbUMPznFcZFw0CHKvKZZWVibuyo1-kQJND6BFZYs",
+    "animation_url": "https://arweave.net/KQCkbUMPznFcZFw0CHKvKZZWVibuyo1-kQJND6BFZYs",
+    "animation_details": {
+      "sha256": "00922ced9a955e906f07670e97c6b39b061e20af42a306f4d0366def74332ed3",
+      "bytes": 103590484,
+      "width": 1808,
+      "height": 2048,
+      "duration": 30,
+      "format": "MP4",
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "xsullo"
+      },
+      {
+        "trait_type": "Auctioneer",
+        "value": "Nifty Gateway"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Nexus"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2022"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "value": 1,
+        "max_value": 261
+      }
+    ]
+  }
+}

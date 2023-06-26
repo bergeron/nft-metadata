@@ -1,0 +1,87 @@
+{
+  "address": "0xd49dac2d8bfe29bcd91535e3d180a88fafdd60e3",
+  "type": "ERC721",
+  "name": "113dasfdasfsaf",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/261000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "261000001",
+    "series": 6,
+    "aspect_ratio": 0.83333333333,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Para Bellum  #1",
+    "minted": true,
+    "artist": "Matty Mariansky",
+    "description": "Para Bellum(*) is about the conflict of emotion and gut instinct versus logic and reason. \nEmotions are portrayed by color fields; logic is illustrated by words.\nThese two forces are fighting for dominance over the canvas.\n\nUnder the hood, ​​Para Bellum utilizes a thin language engine that was trained by reading dozens of books about rebellion and anarchy to generate (mostly) non-existent English phrases. An on-chain embedded font is used to render the familiar, readable letter shapes against the abstract fuzzy color fields.\n\n(*) Para Bellum is half of the Latin phrase “Si vis pacem, para bellum”. If you want peace, prepare for war.",
+    "script_type": "p5@1.0.0",
+    "project_id": "261",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 6",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/261000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/261000001.png",
+    "generator_url": "https://generator.artblocks.io/261000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/261000001",
+    "royaltyInfo": {
+      "artistAddress": "0x12c0a19094a79feb81ee74501e67e3215b53b7dc",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Para Bellum  by Matty Mariansky",
+    "website": "https://supersize.co.il/portfolio/para-bellum/",
+    "token_hash": "0x12d5e3f63f18d17436c165421f04e8552db3da3944aa44f145895371906a1528",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/261/tokens/261000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/261000001",
+    "features": {
+      "Punch": "False",
+      "Layout": "Paragraph",
+      "Rotate": "True",
+      "Palette": "Red List",
+      "Stagger": "False",
+      "Texture": "True",
+      "Draw Mode": "Grow",
+      "Composition": "Whole Canvas"
+    },
+    "traits": [
+      {
+        "trait_type": "Para Bellum ",
+        "value": "All Para Bellum s"
+      },
+      {
+        "trait_type": "Para Bellum ",
+        "value": "Punch: False"
+      },
+      {
+        "trait_type": "Para Bellum ",
+        "value": "Layout: Paragraph"
+      },
+      {
+        "trait_type": "Para Bellum ",
+        "value": "Rotate: True"
+      },
+      {
+        "trait_type": "Para Bellum ",
+        "value": "Palette: Red List"
+      },
+      {
+        "trait_type": "Para Bellum ",
+        "value": "Stagger: False"
+      },
+      {
+        "trait_type": "Para Bellum ",
+        "value": "Texture: True"
+      },
+      {
+        "trait_type": "Para Bellum ",
+        "value": "Draw Mode: Grow"
+      },
+      {
+        "trait_type": "Para Bellum ",
+        "value": "Composition: Whole Canvas"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0, Inter Font under Open Font License"
+  }
+}

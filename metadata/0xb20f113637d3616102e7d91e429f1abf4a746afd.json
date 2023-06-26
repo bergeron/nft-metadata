@@ -1,0 +1,34 @@
+{
+  "address": "0xb20f113637d3616102e7d91e429f1abf4a746afd",
+  "type": "ERC721",
+  "name": "GoodBoy Coin",
+  "tokenCount": "19",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=j7jQweifnaf9svEOqnZk",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1565200584578?alt=media&token=25e74837-2d82-48b7-8c0d-e5a6243eacc1",
+    "isForSale": false,
+    "minter": "0xc746708e27c5A8013fe8a9c62aF17f64610aCDFc",
+    "price": "0",
+    "name": "GoodBoy Coin",
+    "contractAddress": "0xb20F113637D3616102E7d91e429f1aBF4a746AfD",
+    "description": "Possession of GBC indicates you're a good boy in real life",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "value": "GoodBoy Coin",
+        "trait_type": "item"
+      },
+      {
+        "value": 2,
+        "trait_type": "level"
+      },
+      {
+        "display_type": "number",
+        "value": 1,
+        "trait_type": "generation"
+      }
+    ],
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xb20F113637D3616102E7d91e429f1aBF4a746AfD/j7jQweifnaf9svEOqnZk"
+  }
+}

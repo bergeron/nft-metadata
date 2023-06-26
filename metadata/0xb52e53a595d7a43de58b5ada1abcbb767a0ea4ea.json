@@ -1,0 +1,25 @@
+{
+  "address": "0xb52e53a595d7a43de58b5ada1abcbb767a0ea4ea",
+  "type": "ERC721",
+  "name": "Trist Wolff Collections",
+  "tokenCount": "3",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmSiUcgTvE3et5mw7YKpTTLPL5qqeFeZMFeJhenWcRp4ir/1",
+  "metadata": {
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Identifies the asset to which this NFT represents"
+      },
+      "description": {
+        "type": "string",
+        "description": "Describes the asset to which this NFT represents"
+      },
+      "image": {
+        "type": "string",
+        "description": "A URI pointing to a resource with mime type image/* representing the asset to which this NFT represents. Consider making any images at a width between 320 and 1080 pixels and aspect ratio between 1.91:1 and 4:5 inclusive."
+      }
+    }
+  }
+}

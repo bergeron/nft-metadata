@@ -1,0 +1,30 @@
+{
+  "address": "0x76d970fad7fe75b3021475658f5f79ebdf61994d",
+  "type": "ERC721",
+  "name": "Eggheads Unleashed",
+  "tokenCount": "149",
+  "uri": "ipfs://bafybeigbalzne2aobydcjlpdncxdokznxrqqkezvoeik54lgddbsrllaau/1.json",
+  "metadata": {
+    "name": "Eggheads Unleashed #1",
+    "description": "What's cracking!? Welcome to the Egghead world where 2500 devilish little creatures roam. An interactive experience awaits as you follow your egg through the phases and watch them grow.",
+    "image": "ipfs://bafybeigzjqa4mytucin3lfireroktuph26my3mytqox5tqpcd3zrgioc7a/1.png",
+    "edition": 1,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(127,120,104)"
+        },
+        {
+          "trait_type": "Cracked status.",
+          "value": "Uncracked"
+        },
+        {
+          "trait_type": "date",
+          "value": 1874
+        }
+      ]
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

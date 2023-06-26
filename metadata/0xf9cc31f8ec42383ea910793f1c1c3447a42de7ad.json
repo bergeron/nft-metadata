@@ -1,0 +1,28 @@
+{
+  "address": "0xf9cc31f8ec42383ea910793f1c1c3447a42de7ad",
+  "type": "ERC1155",
+  "name": "Warriors Of Ukraine (WoU)",
+  "tokenCount": "25",
+  "uri": "ipfs://QmbZvhhxXDDm9BqRfGqM4bFS8htGnQSBFWaUGWmxTkkjCo/1.json",
+  "metadata": {
+    "name": "The Florist",
+    "description": "Mariya and her lovely cat Viktor used to sell flowers before the war. She wants to go back to selling flowers.",
+    "image": "ipfs://QmRLDMmTtDkGv6wAfAjW13ihuqwHRpTVvUTJanu6hdQffZ/1.png",
+    "website": "https://warriorsofukraine.com",
+    "attributes": [
+      {
+        "trait_type": "Profession",
+        "value": "Florist"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "M61 Vulcan"
+      },
+      {
+        "trait_type": "Pet",
+        "value": "Viktor the cat"
+      }
+    ],
+    "compiler": "MierGen"
+  }
+}

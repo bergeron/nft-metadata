@@ -1,0 +1,68 @@
+{
+  "address": "0x5c3eff21ca14c6b741f5bc3893c1dc21eef8dd59",
+  "type": "ERC721",
+  "name": "QUANTUM LEAP by J&K McCoy",
+  "tokenCount": "1",
+  "uri": "https://quantumleap.mccoyspace.com/A-3-primordial.json",
+  "metadata": {
+    "name": "Quantum Leap (Primordial Star 1)",
+    "description": "Quantum Leap is a generative, code-based NFT series inspired by Kevin McCoy’s 2014 work Quantum, the first artwork tokenized on a blockchain. The word 'quantum' alludes to the attempt in theoretical physics to develop a theory of the universe. This approach to physics generally also strives to answer questions about the first phases of the universe. This generative, iterative process is emulated in the structure of Quantum Leap which evolves to become more complex, changing states, and spinning off new versions of itself over time. The Quantum Leap series consists of eight unique tokens, the Primordial Stars. Quantum Leap (Primordial Star 1) is the first. For this project, several levels of code-based systems interact. Visually, each token from Quantum Leap produces a mandala that changes and evolves, inspired by the life cycle of the stars, which shift colors as they age. These stars also change form as they become more circular as the code-generated images mature, evolving from three to twenty sides over the span of their lifetimes.The code-execution environment that drives the animation exists both on a dedicated website, and eventually, as a downloadable stand alone application. This website allows collectors who have Quantum Leap tokens to visit the site quantumleap.mccoyspace.com , connect their wallets (or download the .exe) and see the artwork that corresponds to their token. The software will read the specific tokens and derive operational parameters from on-chain data belonging to each token.",
+    "image": "https://ipfs.io/ipfs/QmQfJ7xVHhv4KYMWtgADByzso2k7Rkhq3PtThBrnp4Zvmi",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Jennifer and Kevin McCoy"
+      },
+      {
+        "trait_type": "Rights Agreement",
+        "value": "https://ipfs.io/ipfs/QmZjujH18DggUGw6HLUvhE7U8fKWzx5kyPvGLbBeBCNmFz"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Quantum Leap (Primordial Star 1)"
+      },
+      "description": {
+        "type": "string",
+        "description": "Quantum Leap is a generative, code-based NFT series inspired by Kevin McCoy’s 2014 work Quantum, the first artwork tokenized on a blockchain. The word 'quantum' alludes to the attempt in theoretical physics to develop a theory of the universe. This approach to physics generally also strives to answer questions about the first phases of the universe. This generative, iterative process is emulated in the structure of Quantum Leap which evolves to become more complex, changing states, and spinning off new versions of itself over time. The Quantum Leap series consists of eight unique tokens, the Primordial Stars. Quantum Leap (Primordial Star 1) is the first. For this project, several levels of code-based systems interact. Visually, each token from Quantum Leap produces a mandala that changes and evolves, inspired by the life cycle of the stars, which shift colors as they age. These stars also change form as they become more circular as the code-generated images mature, evolving from three to twenty sides over the span of their lifetimes.The code-execution environment that drives the animation exists both on a dedicated website, and eventually, as a downloadable stand alone application. This website allows collectors who have Quantum Leap tokens to visit the site quantumleap.mccoyspace.com , connect their wallets (or download the .exe) and see the artwork that corresponds to their token. The software will read the specific tokens and derive operational parameters from on-chain data belonging to each token."
+      },
+      "image": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/QmQfJ7xVHhv4KYMWtgADByzso2k7Rkhq3PtThBrnp4Zvmi"
+      },
+      "image_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "image_signature": {
+        "type": "string",
+        "description": "65453ec41a4f7307db52950face7540456b511c2b2deca21ac9accaaa9d81582"
+      },
+      "rights_agreement": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/QmZjujH18DggUGw6HLUvhE7U8fKWzx5kyPvGLbBeBCNmFz"
+      },
+      "rights_agreement_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "rights_agreement_signature": {
+        "type": "string",
+        "description": "34e78ccc699c0eec781b91797ca57c53953739a3dac5ccaf68bb570c254e021e"
+      },
+      "rights_agreement_values": {
+        "$ARTIST": "Jennifer and Kevin McCoy",
+        "$SHAHASH": "65453ec41a4f7307db52950face7540456b511c2b2deca21ac9accaaa9d81582",
+        "$CONTRACTSHAHASH": "34e78ccc699c0eec781b91797ca57c53953739a3dac5ccaf68bb570c254e021e",
+        "$URL": "https://ipfs.io/ipfs/QmQfJ7xVHhv4KYMWtgADByzso2k7Rkhq3PtThBrnp4Zvmi",
+        "$TITLE": "Quantum Leap (Primordial Star 1)",
+        "$YEAR": "2021",
+        "$ROYALTYRATE": "10",
+        "$TOKEN": "eth",
+        "$ADDRESS": "0xA57fB5A5aD51beb3854D801ea3Ad6AC2845CD082",
+        "$LICENSE": "PA.06.19.21., Patent No. US 10,380,702"
+      }
+    }
+  }
+}

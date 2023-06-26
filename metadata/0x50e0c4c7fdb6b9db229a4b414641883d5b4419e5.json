@@ -1,0 +1,39 @@
+{
+  "address": "0x50e0c4c7fdb6b9db229a4b414641883d5b4419e5",
+  "type": "ERC721",
+  "name": "LovelyBonz",
+  "tokenCount": "74",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=8mAiumorPZ3DJhzHuuqj",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1574383574768?alt=media&token=ab34f767-4433-40b4-98c1-3170f04ab6d3",
+    "isForSale": true,
+    "description": "",
+    "contractAddress": "0x50E0C4C7FdB6B9db229a4B414641883d5B4419E5",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x50E0C4C7FdB6B9db229a4B414641883d5B4419E5/8mAiumorPZ3DJhzHuuqj",
+    "minter": "0x5140A2e4b1e8f39a3D06fBF135803Acc75b65955",
+    "mintedOn": {
+      "_seconds": 1574383611,
+      "_nanoseconds": 57000000
+    },
+    "price": "0",
+    "name": "LovelyBonz",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "LovelyBonz"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "id": null
+  }
+}

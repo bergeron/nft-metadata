@@ -1,0 +1,46 @@
+{
+  "address": "0x74e9e8d1365358f0ec416e24f723e36181b79a7b",
+  "type": "ERC721",
+  "name": "KUMA Bonds",
+  "tokenCount": "28",
+  "uri": "https://kuma.mypinata.cloud/ipfs/QmaayBf8SrhyrXDLpLZTizrtL22MBvgsD4U8YfVkWpz6rd/1",
+  "metadata": {
+    "image": "https://kuma.mypinata.cloud/ipfs/QmYtgXUkgdYWZGYeP4LJ7TB6cWgzJyeLz7kSomcdoaCuXf/1.PNG",
+    "attributes": [
+      {
+        "trait_type": "Currency",
+        "value": "USD"
+      },
+      {
+        "trait_type": "Issuer",
+        "value": "United States Treasury Bills"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Issuance",
+        "value": "1677124800"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Maturity",
+        "value": "1708574400"
+      },
+      {
+        "trait_type": "Coupon",
+        "value": "4.545%"
+      },
+      {
+        "trait_type": "Principal",
+        "value": "$100,000"
+      },
+      {
+        "trait_type": "CUSIP",
+        "value": "912796Z28"
+      },
+      {
+        "trait_type": "ISIN",
+        "value": "US912796Z285"
+      }
+    ]
+  }
+}

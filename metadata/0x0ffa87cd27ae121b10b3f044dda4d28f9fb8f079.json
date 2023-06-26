@@ -1,0 +1,168 @@
+{
+  "address": "0x0ffa87cd27ae121b10b3f044dda4d28f9fb8f079",
+  "type": "ERC721",
+  "name": "Sidus NFT Heroes",
+  "tokenCount": "6000",
+  "uri": "https://dev.nftstars.app/backend/api/v1/nfts/metadata/0x0ffa87cd27ae121b10b3f044dda4d28f9fb8f079/1",
+  "metadata": {
+    "categories": [],
+    "tags": [],
+    "exclusive": false,
+    "drop": false,
+    "openSale": false,
+    "publish": true,
+    "comingSoon": false,
+    "adultContent": false,
+    "statusMint": "minted",
+    "typeContract": "erc721",
+    "typeSale": "fixed",
+    "authorRoyalty": 10,
+    "attributes": [
+      {
+        "trait_type": "Sign",
+        "value": "S0",
+        "description": null
+      },
+      {
+        "trait_type": "Backpack",
+        "value": "B0",
+        "description": null
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "CA104",
+        "description": "man"
+      },
+      {
+        "trait_type": "Pads",
+        "value": "PA104",
+        "description": "shoulder pads with lowered left hand"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "SB12",
+        "description": "male / grip B"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "G80",
+        "description": null
+      },
+      {
+        "trait_type": "Mask",
+        "value": "M0",
+        "description": null
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "H128",
+        "description": null
+      },
+      {
+        "trait_type": "Watch",
+        "value": "W82",
+        "description": null
+      },
+      {
+        "trait_type": "Object",
+        "value": "OB151",
+        "description": "object for grip B"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "PL45",
+        "description": null
+      },
+      {
+        "trait_type": "Background",
+        "value": "RA25",
+        "description": "the background is normal"
+      }
+    ],
+    "name": "NFT Hero #1",
+    "description": "The SIDUS NFT Heroes is the Genesis NFT collection of the SIDUS HEROES game, which opens the doors to the metaverse eco-system. Release your NFT and get your own in-game GENESIS character! Experience the advantages of the GENESIS collection! #S0B0CA104PA104SB12G80M0H128W82OB151PL45RA25",
+    "countInit": 1,
+    "blockchain": "ethereum",
+    "contentType": "image",
+    "nonce": 1,
+    "nonceTimestamp": 1630365830308,
+    "hash": "0xbe4ca3eaf35dcf777c2dc13c80fcb24b50c479225cfbedefc32aed55db402936",
+    "image": "https://ipfs.nftstars.app/ipfs/QmPS5Ce5T6fntfzw4WWh9BbGjf6JbAg1Fp47DBN1VWvKbj",
+    "seoImage": "https://drxl8aekdws16.cloudfront.net/nfts/2u8cafrj8g.png",
+    "thumbnail": "https://drxl8aekdws16.cloudfront.net/nfts/q7pc3qubzv.webp",
+    "isHiddenPlatform": true,
+    "author": {
+      "links": [],
+      "verificationForm": false,
+      "specialization": [],
+      "verification": true,
+      "publish": true,
+      "address": "0x3edbbdba009ec508cef44129be98105e2d0a1aa3",
+      "userPicture": "https://drxl8aekdws16.cloudfront.net/default/wqdgbx9edp.png",
+      "type": "simple",
+      "nonce": 564156211,
+      "seoImage": "60ca06954eb8d12b883695e8"
+    },
+    "owners": [],
+    "nftsHistory": [
+      {
+        "action": "mint",
+        "amount": 1,
+        "hash": "https://etherscan.io/tx/0xbe4ca3eaf35dcf777c2dc13c80fcb24b50c479225cfbedefc32aed55db402936",
+        "status": "success",
+        "createdAt": "2021-08-30T23:23:50.413Z",
+        "user": {
+          "links": [],
+          "verificationForm": false,
+          "specialization": [],
+          "verification": true,
+          "publish": true,
+          "address": "0x3edbbdba009ec508cef44129be98105e2d0a1aa3",
+          "userPicture": "https://drxl8aekdws16.cloudfront.net/default/wqdgbx9edp.png",
+          "nonce": 564156211,
+          "seoImage": "60ca06954eb8d12b883695e8"
+        },
+        "owner": {
+          "links": [],
+          "verificationForm": false,
+          "specialization": [],
+          "verification": true,
+          "publish": true,
+          "address": "0x3edbbdba009ec508cef44129be98105e2d0a1aa3",
+          "userPicture": "https://drxl8aekdws16.cloudfront.net/default/wqdgbx9edp.png",
+          "nonce": 564156211,
+          "seoImage": "60ca06954eb8d12b883695e8"
+        }
+      },
+      {
+        "action": "create",
+        "createdAt": "2021-08-30T23:23:50.338Z",
+        "user": {},
+        "owner": {
+          "links": [],
+          "verificationForm": false,
+          "specialization": [],
+          "verification": true,
+          "publish": true,
+          "address": "0x3edbbdba009ec508cef44129be98105e2d0a1aa3",
+          "userPicture": "https://drxl8aekdws16.cloudfront.net/default/wqdgbx9edp.png",
+          "nonce": 564156211,
+          "seoImage": "60ca06954eb8d12b883695e8"
+        }
+      }
+    ],
+    "nftAddress": {
+      "default": false,
+      "address": "0x0ffa87cd27ae121b10b3f044dda4d28f9fb8f079",
+      "statusMint": "success",
+      "blockchain": "ethereum",
+      "image": "https://drxl8aekdws16.cloudfront.net/default/glddoiqxlt.png",
+      "name": "Sidus NFT Heroes",
+      "symbol": "Sidus",
+      "typeContract": "erc721",
+      "createdAt": "2021-06-28T11:37:07.792Z",
+      "updatedAt": "2021-06-28T11:37:07.792Z"
+    },
+    "external_url": ""
+  }
+}

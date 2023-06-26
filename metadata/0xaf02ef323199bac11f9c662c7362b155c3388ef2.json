@@ -1,0 +1,36 @@
+{
+  "address": "0xaf02ef323199bac11f9c662c7362b155c3388ef2",
+  "type": "ERC721",
+  "name": "TakeThePill",
+  "tokenCount": "13",
+  "uri": "ipfs://bafybeibkkgpnz6wa4dypnnopvzuh4dwt7nzpurbrvkzu7vgmbx6rglund4/1.json",
+  "metadata": {
+    "name": "Pill #1",
+    "description": "Which pill would you take?",
+    "external_url": "",
+    "image": "ipfs://QmUNDPk9jrxY1v2DAneyAURrbk5GRMm4XPvapyNzgr9tkG/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Prediction A",
+        "value": "Blue Pill C"
+      },
+      {
+        "trait_type": "Prediction B",
+        "value": "Blue Pill A"
+      },
+      {
+        "trait_type": "Prediction C",
+        "value": "Blue Pill D"
+      },
+      {
+        "trait_type": "Prediction D",
+        "value": "Red Pill A"
+      },
+      {
+        "trait_type": "Prediction E",
+        "value": "Blue Pill A"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

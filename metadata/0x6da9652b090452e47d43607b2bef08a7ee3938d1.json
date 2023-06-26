@@ -1,0 +1,65 @@
+{
+  "address": "0x6da9652b090452e47d43607b2bef08a7ee3938d1",
+  "type": "ERC721",
+  "name": "Jailhouse Collection V2 - old",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/oLRMhb_mbTJY-GUJMoTQyWD9zz5mMh0syf-xUNoH4sE",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "animation_url": "https://arweave.net/pFpLTimA-duaOexvEtesigRrsJn-4fT2jFNkOaFZW6Q",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1644352386
+      },
+      {
+        "trait_type": "Creator",
+        "value": "ALBEKRY"
+      }
+    ],
+    "description": "This was given to me as a child while my father was incarcerated for trying to shoot my mom.  He drew this from his jail cell.",
+    "external_url": "https://cxip.io/nft/0x6da9652b090452e47d43607b2bef08a7ee3938d1/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/x9T88dhjxVBKUR8VBQ92oieqzeH_eJkYgkz2MinqhSc",
+    "imageUrl": "https://arweave.net/x9T88dhjxVBKUR8VBQ92oieqzeH_eJkYgkz2MinqhSc",
+    "name": "JAILHOUSE CLOWN",
+    "properties": {
+      "animation_url": "https://arweave.net/pFpLTimA-duaOexvEtesigRrsJn-4fT2jFNkOaFZW6Q",
+      "created_at": "2022-02-08T20:33:06.000000Z",
+      "creator_wallet": "0x2e522479ebb890240a4cb722a6ed5600bfbd80a8",
+      "description": "This was given to me as a child while my father was incarcerated for trying to shoot my mom.  He drew this from his jail cell.",
+      "image": "https://arweave.net/x9T88dhjxVBKUR8VBQ92oieqzeH_eJkYgkz2MinqhSc",
+      "imageUrl": "https://arweave.net/x9T88dhjxVBKUR8VBQ92oieqzeH_eJkYgkz2MinqhSc",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "8 February 2022",
+      "name": "JAILHOUSE CLOWN",
+      "nft_type": "non-fungible video token (video/mp4)",
+      "preview_media_file": "https://arweave.net/BFw_vJJ7FSfLU_HeqZXlPIE1iBnvwFaN0S7Eysr1Qjg",
+      "preview_media_file_dimensions": "360x480",
+      "preview_media_file_size": 911065,
+      "preview_media_file_type": "video/mp4",
+      "raw_media_dimensions": "1080x1440",
+      "raw_media_file": "https://arweave.net/d3SdvJBgLbQG-dQGcsPYpO5j4Rtpc-FBxyYBEe7uKFg",
+      "raw_media_file_size": 8036118,
+      "raw_media_file_spec": "Duration: 00:00:07.33, start: 0.000000, bitrate: 8766 kb/s\nVideo: h264 (Main) (avc1 / 0x31637661), yuv420p, 1080x1440, 8762 kb/s, 30 fps, 30 tbr, 600 tbn, 1200 tbc (default)",
+      "raw_media_file_type": "video/mp4",
+      "raw_media_format": "portrait",
+      "raw_media_signature": "0xf60358791e8ac76487099efb6ecb888fa692ccd342159003242a9f5f09ce491f",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/jZJj0abdw72ZBbvv39UyneOtYKOOhqoPy4sXN3Dj_ts",
+      "thumb_media_file_type": "image/jpg",
+      "title": "JAILHOUSE CLOWN",
+      "total_supply": 1
+    },
+    "title": "JAILHOUSE CLOWN"
+  }
+}

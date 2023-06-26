@@ -1,0 +1,32 @@
+{
+  "address": "0x7c7fc6d9f2c2e45f12657dab3581ead2bd53bdf1",
+  "type": "ERC1155",
+  "name": "Cryptomancy",
+  "tokenCount": "481",
+  "uri": "https://cryptomancy.net/mock-api/1",
+  "metadata": {
+    "name": "1 - Five of Swords",
+    "description": "Five of Swords tarot card with rune ᚾ and sigil 5 with intention: A life of comfort and luxury awaits you",
+    "external_url": "https://cryptomancy.net/view/1",
+    "image": "https://cryptomancy.net/nft-img/1.png",
+    "background_color": "FFFFFF",
+    "attributes": [
+      {
+        "trait_type": "Card",
+        "value": "Five of Swords"
+      },
+      {
+        "trait_type": "Border",
+        "value": "White"
+      },
+      {
+        "trait_type": "Sigil",
+        "value": "5"
+      },
+      {
+        "trait_type": "Rune",
+        "value": "ᚾ"
+      }
+    ]
+  }
+}

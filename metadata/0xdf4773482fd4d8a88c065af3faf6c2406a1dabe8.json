@@ -1,0 +1,36 @@
+{
+  "address": "0xdf4773482fd4d8a88c065af3faf6c2406a1dabe8",
+  "type": "ERC721",
+  "name": "Art Only",
+  "tokenCount": "1",
+  "uri": "https://ipfs.pixura.io/ipfs/QmWYxTdHbRuT8ezgAzporLq9wprAZUgTDtktaHfXWrbPWG/metadata.json",
+  "metadata": {
+    "name": "CHILL",
+    "createdBy": "Luis Simo",
+    "yearCreated": "2023",
+    "description": "CHILL, oil on canvas, 2023.\n\nFirst owner of the NFT acquires the physical painting. \nWorldwide shipping.",
+    "image": "https://ipfs.pixura.io/ipfs/QmYx6nriDWtBYwQBLdrfCiAxGJxV1VEetDgSUmjZhURQLm/IMG_9208.jpg",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmYx6nriDWtBYwQBLdrfCiAxGJxV1VEetDgSUmjZhURQLm/IMG_9208.jpg",
+      "dimensions": "2257x2804",
+      "size": "3856207",
+      "mimeType": "image/jpeg"
+    },
+    "tags": [
+      "oil",
+      "painting",
+      "art",
+      "only"
+    ],
+    "attributes": [
+      {
+        "trait_type": "rare",
+        "value": "af"
+      },
+      {
+        "trait_type": "chill",
+        "value": "mood"
+      }
+    ]
+  }
+}

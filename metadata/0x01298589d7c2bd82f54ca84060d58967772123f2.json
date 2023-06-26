@@ -1,0 +1,85 @@
+{
+  "address": "0x01298589d7c2bd82f54ca84060d58967772123f2",
+  "type": "ERC721",
+  "name": "Good Morning Cafe: Keekusaurs",
+  "tokenCount": "3333",
+  "uri": "https://api.gmcafe.io/metadata/keek/1.json",
+  "metadata": {
+    "id": 1,
+    "name": "🔒Keekusaur #1",
+    "image": "https://gmcafe.s3.us-east-2.amazonaws.com/keek/original/1.png",
+    "external_url": "https://gmcafe.io/keek/1",
+    "artist": "Ben Colefax",
+    "description": "The ‘Good Morning Café: Keekusaurs’ is a collection with artistic expression at its core - made up of 3333 chubby little dinosaurs, all recklessly chugging down coffees on the Ethereum blockchain. Keekusaurs were discovered by the Moos, frozen in a cave under Kawa Valley. Now they’re free to RAWR! in the pastures with their cow companions.",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple Gradient",
+        "style": "Reverse"
+      },
+      {
+        "trait_type": "Spike Color",
+        "value": "Bone"
+      },
+      {
+        "trait_type": "Spike Type",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Face",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "None"
+      },
+      {
+        "trait_type": "Head",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Body",
+        "value": "None"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Keeku"
+      },
+      {
+        "trait_type": "Object",
+        "value": "None"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Locked 🔒"
+      }
+    ],
+    "info": {
+      "domain": "keek1.gmcafe.art",
+      "fg": {
+        "color": "#ffbdd6",
+        "fill": "solid",
+        "value": "Pink"
+      },
+      "bg": {
+        "color": "#c6a6e0",
+        "fill": "custom",
+        "value": "Purple Gradient",
+        "style": "Reverse"
+      },
+      "can_title": true
+    }
+  }
+}

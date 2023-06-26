@@ -1,0 +1,64 @@
+{
+  "address": "0x1a0563346492b8091c7bcdb74788ac0ab3c427d8",
+  "type": "ERC1155",
+  "name": "The Stan Lee Legacy Collection: Portraits by Rob Prior",
+  "tokenCount": "10",
+  "uri": "ipfs://Qmezp2NNuHoxbTPnJ6RaugwKP5JydpPF3wjmjZh186kHbG",
+  "metadata": {
+    "name": "The Amazing Life of Stan Lee – Amazing Spider-Man No. 135 (1974)",
+    "title": "The Amazing Life of Stan Lee – Amazing Spider-Man No. 135 (1974)",
+    "description": "“I wanted to show the faces of Stan throughout time. I considered leaving the punisher in this cover, but it just didn’t fit. In the end, this is one of my favorites in the series.”\n\nComic cover parody featuring Stan Lee; 60x41 gouache on aquavilla. Original cover by John Romita Sr.",
+    "type": "object",
+    "image": "ipfs://QmRwWXX3z7Acp5r6ZA84Huu7hUEePQGPwXE7VJPvvULyY3",
+    "background_color": "000000",
+    "external_url": "https://v1.mglnft.com/0x1a0563346492B8091c7bCdB74788ac0ab3C427D8/1",
+    "properties": {
+      "contract_address": {
+        "type": "string",
+        "description": "0x1a0563346492B8091c7bCdB74788ac0ab3C427D8"
+      },
+      "title": {
+        "type": "string",
+        "description": "The Amazing Life of Stan Lee – Amazing Spider-Man No. 135 (1974)"
+      },
+      "description": {
+        "type": "string",
+        "description": "“I wanted to show the faces of Stan throughout time. I considered leaving the punisher in this cover, but it just didn’t fit. In the end, this is one of my favorites in the series.”\n\nComic cover parody featuring Stan Lee; 60x41 gouache on aquavilla. Original cover by John Romita Sr."
+      },
+      "issuer": {
+        "type": "string",
+        "description": "Rob Prior"
+      },
+      "external_url": {
+        "type": "string",
+        "description": "https://v1.mglnft.com/0x1a0563346492B8091c7bCdB74788ac0ab3C427D8/1"
+      },
+      "image_url": {
+        "type": "string",
+        "description": "ipfs://QmRwWXX3z7Acp5r6ZA84Huu7hUEePQGPwXE7VJPvvULyY3"
+      },
+      "image_original_url": {
+        "type": "string",
+        "description": "ipfs://QmRwWXX3z7Acp5r6ZA84Huu7hUEePQGPwXE7VJPvvULyY3"
+      },
+      "background_color": {
+        "type": "string",
+        "description": "000000"
+      },
+      "collection_label": {
+        "type": "string",
+        "description": "The Legacy Collection: Portraits of Stan Lee"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 1
+      }
+    },
+    "attributes": [
+      {
+        "trait_type": "Issuer",
+        "value": "Rob Prior"
+      }
+    ]
+  }
+}

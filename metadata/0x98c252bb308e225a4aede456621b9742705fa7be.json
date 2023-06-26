@@ -1,0 +1,46 @@
+{
+  "address": "0x98c252bb308e225a4aede456621b9742705fa7be",
+  "type": "ERC1155",
+  "name": "FraktalNFT0x3landers",
+  "tokenCount": "2",
+  "uri": "ipfs://QmRXV2H2yhXGP3gr2z7wW2E4XD11S5NauHkQ6YwjPHDmjV/487.json",
+  "metadata": {
+    "dna": "b7f3191824728b99d4ab6c91150da09f689fe7d1",
+    "name": "#487",
+    "description": "An expansion collection of 5555 unique landers. 0x3Landers is not affiliated with 3Landers.",
+    "image": "ipfs://QmYiYXX9W2xKHyjp5xhkqaACHyyScajLet42aqjoC7UQy6/487.png",
+    "edition": 487,
+    "date": 1645594759874,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "0x"
+      },
+      {
+        "trait_type": "Base",
+        "value": "human dark"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "cracked"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "goldtooth"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "hoodie"
+      },
+      {
+        "trait_type": "Head",
+        "value": "alien"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "minion"
+      }
+    ],
+    "compiler": "0xFactory Deployer"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "0x119608699519d97d48c7d462749b93e55a482f37",
+  "type": "ERC721",
+  "name": "Mandelbrot Trilogy Collection",
+  "tokenCount": "73",
+  "uri": "https://trilogy.fractalnft.art/item?token_id=1",
+  "metadata": {
+    "description": "Fractal trilogy based on [Mandelbrot #4](https://opensea.io/assets/0x6e96fb1f6d8cb1463e018a2cc6e09c64ed474dea/4): Space Fabric in a neighbourhood of the point *c* = (0.31147969, -0.02715992), on the surface of the Mandelbrot set. The trilogy is formed by (i) the Mandelbrot centered on the above point, (ii) the Julia based on *c*, and (iii) the Julia based on the complex conjugate of *c*. [This video by Maths Town and Abramo](https://opensea.io/assets/0x6e845be4ea601b4dbe98ed1f52b371dca1dbb2b6/4019) shows the first Julia morphing into the second, i.e., a sequence of Julia sets arising from the linear interpolation between *c* and its conjugate passing through the real line.",
+    "external_url": "https://mandelbrot.fractalnft.art",
+    "image": "https://trilogy.fractalnft.art/items/4_c8a98dd7e4d278516f12.png",
+    "name": "#4 - Surface Space Fabric",
+    "attributes": [
+      {
+        "trait_type": "Point",
+        "value": "Fabric"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Space"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Surface"
+      },
+      {
+        "trait_type": "Zoom",
+        "value": "800"
+      },
+      {
+        "trait_type": "Cycles",
+        "value": "1"
+      },
+      {
+        "trait_type": "Shrinkage",
+        "value": "1 bps"
+      }
+    ]
+  }
+}

@@ -1,0 +1,819 @@
+{
+  "address": "0xf9a3224c0d10b651f6a7829f498ac6efb437f8d7",
+  "type": "ERC721",
+  "name": "SeedNFT - Q3aKRtTj0g",
+  "tokenCount": "26",
+  "uri": "https://ipfs.io/ipfs/QmWRLPM7mevfSAP3BeRcJ9bhfFJvLKF6hFZYREjhWGXvRi",
+  "metadata": {
+    "type": "image",
+    "name": "DEV NewGeneration ETH.1",
+    "description": "DEV NewGeneration ETH.1",
+    "image": "ipfs://QmcjMoiMHup8f8giMZ7zhw4DtZUbofxigrTSbBJQYJTV3C",
+    "raw": "ipfs://QmNQKU2mve57d2GLwH1H6ip2Lc8wsTZRaxZzGNad9t8fPZ",
+    "raw_metadatas": {
+      "Exif IFD0": [
+        {
+          "TagId": 254,
+          "TagName": "New Subfile Type",
+          "TagDescription": "Reduced-resolution image"
+        },
+        {
+          "TagId": 256,
+          "TagName": "Image Width",
+          "TagDescription": "160 pixels"
+        },
+        {
+          "TagId": 257,
+          "TagName": "Image Height",
+          "TagDescription": "120 pixels"
+        },
+        {
+          "TagId": 258,
+          "TagName": "Bits Per Sample",
+          "TagDescription": "8 8 8 bits/component/pixel"
+        },
+        {
+          "TagId": 259,
+          "TagName": "Compression",
+          "TagDescription": "Uncompressed"
+        },
+        {
+          "TagId": 262,
+          "TagName": "Photometric Interpretation",
+          "TagDescription": "RGB"
+        },
+        {
+          "TagId": 271,
+          "TagName": "Make",
+          "TagDescription": "NIKON CORPORATION"
+        },
+        {
+          "TagId": 272,
+          "TagName": "Model",
+          "TagDescription": "NIKON D810"
+        },
+        {
+          "TagId": 273,
+          "TagName": "Strip Offsets",
+          "TagDescription": "135984"
+        },
+        {
+          "TagId": 274,
+          "TagName": "Orientation",
+          "TagDescription": "Top, left side (Horizontal / normal)"
+        },
+        {
+          "TagId": 277,
+          "TagName": "Samples Per Pixel",
+          "TagDescription": "3 samples/pixel"
+        },
+        {
+          "TagId": 278,
+          "TagName": "Rows Per Strip",
+          "TagDescription": "120 rows/strip"
+        },
+        {
+          "TagId": 279,
+          "TagName": "Strip Byte Counts",
+          "TagDescription": "57600 bytes"
+        },
+        {
+          "TagId": 282,
+          "TagName": "X Resolution",
+          "TagDescription": "300 dots per inch"
+        },
+        {
+          "TagId": 283,
+          "TagName": "Y Resolution",
+          "TagDescription": "300 dots per inch"
+        },
+        {
+          "TagId": 284,
+          "TagName": "Planar Configuration",
+          "TagDescription": "Chunky (contiguous for each subsampling pixel)"
+        },
+        {
+          "TagId": 296,
+          "TagName": "Resolution Unit",
+          "TagDescription": "Inch"
+        },
+        {
+          "TagId": 305,
+          "TagName": "Software",
+          "TagDescription": "Ver.1.01 "
+        },
+        {
+          "TagId": 306,
+          "TagName": "Date/Time",
+          "TagDescription": "2019:06:16 19:57:19"
+        },
+        {
+          "TagId": 315,
+          "TagName": "Artist",
+          "TagDescription": "                                    "
+        },
+        {
+          "TagId": 532,
+          "TagName": "Reference Black/White",
+          "TagDescription": "[0,0,0] [255,255,255]"
+        },
+        {
+          "TagId": 33432,
+          "TagName": "Copyright",
+          "TagDescription": "                                                      "
+        },
+        {
+          "TagId": 36867,
+          "TagName": "Date/Time Original",
+          "TagDescription": "2019:06:16 19:57:19"
+        },
+        {
+          "TagId": 37398,
+          "TagName": "TIFF/EP Standard ID",
+          "TagDescription": "1 0 0 0"
+        }
+      ],
+      "Exif SubIFD": [
+        {
+          "TagId": 254,
+          "TagName": "New Subfile Type",
+          "TagDescription": "Reduced-resolution image"
+        },
+        {
+          "TagId": 259,
+          "TagName": "Compression",
+          "TagDescription": "JPEG (old-style)"
+        },
+        {
+          "TagId": 282,
+          "TagName": "X Resolution",
+          "TagDescription": "300 dots per inch"
+        },
+        {
+          "TagId": 283,
+          "TagName": "Y Resolution",
+          "TagDescription": "300 dots per inch"
+        },
+        {
+          "TagId": 296,
+          "TagName": "Resolution Unit",
+          "TagDescription": "Inch"
+        },
+        {
+          "TagId": 513,
+          "TagName": "Unknown tag (0x0201)",
+          "TagDescription": "749056"
+        },
+        {
+          "TagId": 514,
+          "TagName": "Unknown tag (0x0202)",
+          "TagDescription": "1270471"
+        },
+        {
+          "TagId": 531,
+          "TagName": "YCbCr Positioning",
+          "TagDescription": "Datum point"
+        },
+        {
+          "TagId": 254,
+          "TagName": "New Subfile Type",
+          "TagDescription": "Full-resolution image"
+        },
+        {
+          "TagId": 256,
+          "TagName": "Image Width",
+          "TagDescription": "7380 pixels"
+        },
+        {
+          "TagId": 257,
+          "TagName": "Image Height",
+          "TagDescription": "4928 pixels"
+        },
+        {
+          "TagId": 258,
+          "TagName": "Bits Per Sample",
+          "TagDescription": "14 bits/component/pixel"
+        },
+        {
+          "TagId": 259,
+          "TagName": "Compression",
+          "TagDescription": "Uncompressed"
+        },
+        {
+          "TagId": 262,
+          "TagName": "Photometric Interpretation",
+          "TagDescription": "Color Filter Array"
+        },
+        {
+          "TagId": 273,
+          "TagName": "Strip Offsets",
+          "TagDescription": "2019840"
+        },
+        {
+          "TagId": 277,
+          "TagName": "Samples Per Pixel",
+          "TagDescription": "1 samples/pixel"
+        },
+        {
+          "TagId": 278,
+          "TagName": "Rows Per Strip",
+          "TagDescription": "4928 rows/strip"
+        },
+        {
+          "TagId": 279,
+          "TagName": "Strip Byte Counts",
+          "TagDescription": "72737280 bytes"
+        },
+        {
+          "TagId": 282,
+          "TagName": "X Resolution",
+          "TagDescription": "300 dots per inch"
+        },
+        {
+          "TagId": 283,
+          "TagName": "Y Resolution",
+          "TagDescription": "300 dots per inch"
+        },
+        {
+          "TagId": 284,
+          "TagName": "Planar Configuration",
+          "TagDescription": "Chunky (contiguous for each subsampling pixel)"
+        },
+        {
+          "TagId": 296,
+          "TagName": "Resolution Unit",
+          "TagDescription": "Inch"
+        },
+        {
+          "TagId": 33421,
+          "TagName": "CFA Repeat Pattern Dim",
+          "TagDescription": "2 2"
+        },
+        {
+          "TagId": 33422,
+          "TagName": "CFA Pattern",
+          "TagDescription": "[Red,Green][Green,Blue]"
+        },
+        {
+          "TagId": 37399,
+          "TagName": "Unknown tag (0x9217)",
+          "TagDescription": "2"
+        },
+        {
+          "TagId": 254,
+          "TagName": "New Subfile Type",
+          "TagDescription": "Reduced-resolution image"
+        },
+        {
+          "TagId": 259,
+          "TagName": "Compression",
+          "TagDescription": "JPEG (old-style)"
+        },
+        {
+          "TagId": 282,
+          "TagName": "X Resolution",
+          "TagDescription": "300 dots per inch"
+        },
+        {
+          "TagId": 283,
+          "TagName": "Y Resolution",
+          "TagDescription": "300 dots per inch"
+        },
+        {
+          "TagId": 296,
+          "TagName": "Resolution Unit",
+          "TagDescription": "Inch"
+        },
+        {
+          "TagId": 513,
+          "TagName": "Unknown tag (0x0201)",
+          "TagDescription": "194560"
+        },
+        {
+          "TagId": 514,
+          "TagName": "Unknown tag (0x0202)",
+          "TagDescription": "554003"
+        },
+        {
+          "TagId": 531,
+          "TagName": "YCbCr Positioning",
+          "TagDescription": "Datum point"
+        },
+        {
+          "TagId": 33434,
+          "TagName": "Exposure Time",
+          "TagDescription": "1/250 sec"
+        },
+        {
+          "TagId": 33437,
+          "TagName": "F-Number",
+          "TagDescription": "f/7.1"
+        },
+        {
+          "TagId": 34850,
+          "TagName": "Exposure Program",
+          "TagDescription": "Manual control"
+        },
+        {
+          "TagId": 34855,
+          "TagName": "ISO Speed Ratings",
+          "TagDescription": "80"
+        },
+        {
+          "TagId": 34864,
+          "TagName": "Sensitivity Type",
+          "TagDescription": "Recommended Exposure Index"
+        },
+        {
+          "TagId": 36867,
+          "TagName": "Date/Time Original",
+          "TagDescription": "2019:06:16 19:57:19"
+        },
+        {
+          "TagId": 36868,
+          "TagName": "Date/Time Digitized",
+          "TagDescription": "2019:06:16 19:57:19"
+        },
+        {
+          "TagId": 37380,
+          "TagName": "Exposure Bias Value",
+          "TagDescription": "0 EV"
+        },
+        {
+          "TagId": 37381,
+          "TagName": "Max Aperture Value",
+          "TagDescription": "f/2.8"
+        },
+        {
+          "TagId": 37383,
+          "TagName": "Metering Mode",
+          "TagDescription": "Center weighted average"
+        },
+        {
+          "TagId": 37384,
+          "TagName": "White Balance",
+          "TagDescription": "Unknown"
+        },
+        {
+          "TagId": 37385,
+          "TagName": "Flash",
+          "TagDescription": "Flash did not fire"
+        },
+        {
+          "TagId": 37386,
+          "TagName": "Focal Length",
+          "TagDescription": "24 mm"
+        },
+        {
+          "TagId": 37510,
+          "TagName": "User Comment",
+          "TagDescription": ""
+        },
+        {
+          "TagId": 37520,
+          "TagName": "Sub-Sec Time",
+          "TagDescription": "74"
+        },
+        {
+          "TagId": 37521,
+          "TagName": "Sub-Sec Time Original",
+          "TagDescription": "74"
+        },
+        {
+          "TagId": 37522,
+          "TagName": "Sub-Sec Time Digitized",
+          "TagDescription": "74"
+        },
+        {
+          "TagId": 41495,
+          "TagName": "Sensing Method",
+          "TagDescription": "One-chip color area sensor"
+        },
+        {
+          "TagId": 41728,
+          "TagName": "File Source",
+          "TagDescription": "Digital Still Camera (DSC)"
+        },
+        {
+          "TagId": 41729,
+          "TagName": "Scene Type",
+          "TagDescription": "Directly photographed image"
+        },
+        {
+          "TagId": 41730,
+          "TagName": "CFA Pattern",
+          "TagDescription": "[Red,Green][Green,Blue]"
+        },
+        {
+          "TagId": 41985,
+          "TagName": "Custom Rendered",
+          "TagDescription": "Normal process"
+        },
+        {
+          "TagId": 41986,
+          "TagName": "Exposure Mode",
+          "TagDescription": "Manual exposure"
+        },
+        {
+          "TagId": 41987,
+          "TagName": "White Balance Mode",
+          "TagDescription": "Auto white balance"
+        },
+        {
+          "TagId": 41988,
+          "TagName": "Digital Zoom Ratio",
+          "TagDescription": "1"
+        },
+        {
+          "TagId": 41989,
+          "TagName": "Focal Length 35",
+          "TagDescription": "24 mm"
+        },
+        {
+          "TagId": 41990,
+          "TagName": "Scene Capture Type",
+          "TagDescription": "Standard"
+        },
+        {
+          "TagId": 41991,
+          "TagName": "Gain Control",
+          "TagDescription": "None"
+        },
+        {
+          "TagId": 41992,
+          "TagName": "Contrast",
+          "TagDescription": "None"
+        },
+        {
+          "TagId": 41993,
+          "TagName": "Saturation",
+          "TagDescription": "None"
+        },
+        {
+          "TagId": 41994,
+          "TagName": "Sharpness",
+          "TagDescription": "None"
+        },
+        {
+          "TagId": 41996,
+          "TagName": "Subject Distance Range",
+          "TagDescription": "Unknown"
+        }
+      ],
+      "XMP": [
+        {
+          "TagId": 65535,
+          "TagName": "XMP Value Count",
+          "TagDescription": "2"
+        }
+      ],
+      "Nikon Makernote": [
+        {
+          "TagId": 1,
+          "TagName": "Firmware Version",
+          "TagDescription": "2.11"
+        },
+        {
+          "TagId": 4,
+          "TagName": "Quality & File Format",
+          "TagDescription": "RAW    "
+        },
+        {
+          "TagId": 5,
+          "TagName": "White Balance",
+          "TagDescription": "AUTO1       "
+        },
+        {
+          "TagId": 7,
+          "TagName": "AF Type",
+          "TagDescription": "AF-S  "
+        },
+        {
+          "TagId": 8,
+          "TagName": "Flash Sync Mode",
+          "TagDescription": "            "
+        },
+        {
+          "TagId": 9,
+          "TagName": "Auto Flash Mode",
+          "TagDescription": "                   "
+        },
+        {
+          "TagId": 11,
+          "TagName": "White Balance Fine",
+          "TagDescription": "0 0"
+        },
+        {
+          "TagId": 12,
+          "TagName": "White Balance RB Coefficients",
+          "TagDescription": "483/256 361/256 256/256 256/256"
+        },
+        {
+          "TagId": 13,
+          "TagName": "Program Shift",
+          "TagDescription": "0 EV"
+        },
+        {
+          "TagId": 14,
+          "TagName": "Exposure Difference",
+          "TagDescription": "-1.17 EV"
+        },
+        {
+          "TagId": 17,
+          "TagName": "Preview IFD",
+          "TagDescription": "30182"
+        },
+        {
+          "TagId": 18,
+          "TagName": "Auto Flash Compensation",
+          "TagDescription": "0 EV"
+        },
+        {
+          "TagId": 23,
+          "TagName": "Flash Exposure Compensation",
+          "TagDescription": "0 EV"
+        },
+        {
+          "TagId": 24,
+          "TagName": "Flash Bracket Compensation",
+          "TagDescription": "0 EV"
+        },
+        {
+          "TagId": 25,
+          "TagName": "AE Bracket Compensation",
+          "TagDescription": "0"
+        },
+        {
+          "TagId": 27,
+          "TagName": "Crop High Speed",
+          "TagDescription": "11 7384 4928 7380 4928 0 0"
+        },
+        {
+          "TagId": 28,
+          "TagName": "Exposure Tuning",
+          "TagDescription": "0 EV"
+        },
+        {
+          "TagId": 29,
+          "TagName": "Camera Serial Number",
+          "TagDescription": "8802462"
+        },
+        {
+          "TagId": 30,
+          "TagName": "Color Space",
+          "TagDescription": "sRGB"
+        },
+        {
+          "TagId": 31,
+          "TagName": "VR Info",
+          "TagDescription": "48 49 48 48 2 2 0 0"
+        },
+        {
+          "TagId": 34,
+          "TagName": "Active D-Lighting",
+          "TagDescription": "Extra High"
+        },
+        {
+          "TagId": 35,
+          "TagName": "Picture Control",
+          "TagDescription": "[68 values]"
+        },
+        {
+          "TagId": 36,
+          "TagName": "World Time",
+          "TagDescription": "210 0 1 2"
+        },
+        {
+          "TagId": 37,
+          "TagName": "ISO Info",
+          "TagDescription": "56 1 12 0 0 0 56 1 12 0 0 0 0 0"
+        },
+        {
+          "TagId": 42,
+          "TagName": "Vignette Control",
+          "TagDescription": "High"
+        },
+        {
+          "TagId": 43,
+          "TagName": "Unknown 40",
+          "TagDescription": "48 49 48 48 0 0 2 5 0 0 0 0 0 0 0 0"
+        },
+        {
+          "TagId": 44,
+          "TagName": "Unknown 41",
+          "TagDescription": "[574 values]"
+        },
+        {
+          "TagId": 59,
+          "TagName": "Unknown tag (0x003b)",
+          "TagDescription": "256/256 256/256 256/256 256/256"
+        },
+        {
+          "TagId": 60,
+          "TagName": "Unknown tag (0x003c)",
+          "TagDescription": "1"
+        },
+        {
+          "TagId": 61,
+          "TagName": "Unknown tag (0x003d)",
+          "TagDescription": "600 600 600 600"
+        },
+        {
+          "TagId": 62,
+          "TagName": "Unknown tag (0x003e)",
+          "TagDescription": "1"
+        },
+        {
+          "TagId": 63,
+          "TagName": "Unknown tag (0x003f)",
+          "TagDescription": "0/4 0/4"
+        },
+        {
+          "TagId": 64,
+          "TagName": "Unknown tag (0x0040)",
+          "TagDescription": "48 49 48 48 1 0 67 0 48 49 48 49"
+        },
+        {
+          "TagId": 65,
+          "TagName": "Unknown tag (0x0041)",
+          "TagDescription": "48 49 48 48 0 1"
+        },
+        {
+          "TagId": 66,
+          "TagName": "Unknown tag (0x0042)",
+          "TagDescription": "48 49 48 48 1 0"
+        },
+        {
+          "TagId": 131,
+          "TagName": "Lens Type",
+          "TagDescription": "AF, D, G"
+        },
+        {
+          "TagId": 132,
+          "TagName": "Lens",
+          "TagDescription": "24-70mm f/2.8"
+        },
+        {
+          "TagId": 135,
+          "TagName": "Flash Used",
+          "TagDescription": "Flash Not Used"
+        },
+        {
+          "TagId": 137,
+          "TagName": "Shooting Mode",
+          "TagDescription": "Single Frame"
+        },
+        {
+          "TagId": 138,
+          "TagName": "Unknown 20",
+          "TagDescription": "1"
+        },
+        {
+          "TagId": 139,
+          "TagName": "Lens Stops",
+          "TagDescription": "6 EV"
+        },
+        {
+          "TagId": 140,
+          "TagName": "Contrast Curve",
+          "TagDescription": "[578 values]"
+        },
+        {
+          "TagId": 145,
+          "TagName": "Shot Info",
+          "TagDescription": "[15392 values]"
+        },
+        {
+          "TagId": 149,
+          "TagName": "Noise Reduction",
+          "TagDescription": "OFF "
+        },
+        {
+          "TagId": 151,
+          "TagName": "Color Balance",
+          "TagDescription": "[1224 values]"
+        },
+        {
+          "TagId": 152,
+          "TagName": "Lens Data",
+          "TagDescription": "[33 values]"
+        },
+        {
+          "TagId": 153,
+          "TagName": "NEF Thumbnail Size",
+          "TagDescription": "3692 2464"
+        },
+        {
+          "TagId": 158,
+          "TagName": "Retouch History",
+          "TagDescription": "0 0 0 0 0 0 0 0 0 0"
+        },
+        {
+          "TagId": 163,
+          "TagName": "Unknown 27",
+          "TagDescription": "0"
+        },
+        {
+          "TagId": 164,
+          "TagName": "Unknown 28",
+          "TagDescription": "48 51 48 48"
+        },
+        {
+          "TagId": 167,
+          "TagName": "Exposure Sequence Number",
+          "TagDescription": "15220"
+        },
+        {
+          "TagId": 168,
+          "TagName": "Flash Info",
+          "TagDescription": "[51 values]"
+        },
+        {
+          "TagId": 176,
+          "TagName": "Multi Exposure",
+          "TagDescription": "48 49 48 48 0 0 0 0 0 0 0 0 0 0 0 0"
+        },
+        {
+          "TagId": 177,
+          "TagName": "High ISO Noise Reduction",
+          "TagDescription": "High"
+        },
+        {
+          "TagId": 182,
+          "TagName": "Power Up Time",
+          "TagDescription": "57863:09:29 23:46:35"
+        },
+        {
+          "TagId": 183,
+          "TagName": "AF Info 2",
+          "TagDescription": "[30 values]"
+        },
+        {
+          "TagId": 184,
+          "TagName": "File Info",
+          "TagDescription": "[172 values]"
+        },
+        {
+          "TagId": 185,
+          "TagName": "AF Tune",
+          "TagDescription": "2 255 0 0"
+        },
+        {
+          "TagId": 186,
+          "TagName": "Unknown tag (0x00ba)",
+          "TagDescription": "[3088 values]"
+        },
+        {
+          "TagId": 187,
+          "TagName": "Unknown 49",
+          "TagDescription": "48 50 48 48 255 255 255 0"
+        },
+        {
+          "TagId": 188,
+          "TagName": "Unknown tag (0x00bc)",
+          "TagDescription": "[7834 values]"
+        },
+        {
+          "TagId": 191,
+          "TagName": "Unknown tag (0x00bf)",
+          "TagDescription": "0"
+        },
+        {
+          "TagId": 192,
+          "TagName": "Unknown tag (0x00c0)",
+          "TagDescription": "52 1 12 0 144 1 12 0"
+        }
+      ],
+      "GPS": [
+        {
+          "TagId": 0,
+          "TagName": "GPS Version ID",
+          "TagDescription": "2.300"
+        }
+      ],
+      "File Type": [
+        {
+          "TagId": 1,
+          "TagName": "Detected File Type Name",
+          "TagDescription": "ARW"
+        },
+        {
+          "TagId": 2,
+          "TagName": "Detected File Type Long Name",
+          "TagDescription": "Sony Camera Raw"
+        },
+        {
+          "TagId": 4,
+          "TagName": "Expected File Name Extension",
+          "TagDescription": "arw"
+        }
+      ]
+    },
+    "creators": [
+      {
+        "0x835da29f42ebc6e511297b6f26cd8beab4b249ae": 10000
+      }
+    ],
+    "referal": "0xb2040d87a0561c248a759cdfa1c999269eec8782"
+  }
+}

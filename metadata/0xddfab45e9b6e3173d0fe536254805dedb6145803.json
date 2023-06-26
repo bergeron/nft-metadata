@@ -1,0 +1,35 @@
+{
+  "address": "0xddfab45e9b6e3173d0fe536254805dedb6145803",
+  "type": "ERC721",
+  "name": "Immutacord",
+  "tokenCount": "9",
+  "uri": "ipfs://QmX8qXMHB5avgYY9rr88fUKkdst2KVHs53QoSwZ4YqsVnU",
+  "metadata": {
+    "name": "Discord message from serpin taxt#0666",
+    "description": "This token represents a message a user sent in Discord, made immutable on the blockchain forever!",
+    "image": "ipfs://QmYY1LPGF8rWLyGpVipx5YWdF9YYex3uRXpoNn9JwXjQSW",
+    "attributes": [
+      {
+        "trait_type": "Discord server ID",
+        "value": "768811405712687105"
+      },
+      {
+        "trait_type": "Discord server name",
+        "value": "PokéStonks"
+      },
+      {
+        "trait_type": "Message author ID",
+        "value": "271050816222265364"
+      },
+      {
+        "trait_type": "Message author name",
+        "value": "serpin taxt#0666"
+      },
+      {
+        "trait_type": "Created",
+        "value": 1666892031,
+        "display_type": "date"
+      }
+    ]
+  }
+}

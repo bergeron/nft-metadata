@@ -1,0 +1,20 @@
+{
+  "address": "0x03ea2e423458c6958d97c3ae9a4eaf63160eda61",
+  "type": "ERC721",
+  "name": "ArtCorner",
+  "tokenCount": "49",
+  "uri": "https://crypto.salzburg.company/api/art/detail/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "type",
+        "value": "Series A"
+      }
+    ],
+    "name": "ArtCorner #1",
+    "description": "ArtCorner is a Web3 based Art Gallery where users can visualize their NFTs with Augmented Reality in real-world places.",
+    "image": "https://crypto.salzburg.company/artImages/artcorner_poster.jpg",
+    "animation_url": "https://crypto.salzburg.company/artImages/artcorner_miniworld.mp4",
+    "external_url": "https://crypto.salzburg.company/api/art/show/1"
+  }
+}

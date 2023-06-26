@@ -1,0 +1,23 @@
+{
+  "address": "0x259140e95185b65815072661122115cb79cc567e",
+  "type": "ERC721",
+  "name": "Burn Ghost Games",
+  "tokenCount": "50",
+  "uri": "https://metadata.burnghost.com/genesis/metadata/1",
+  "metadata": {
+    "description": "The Burn Ghost Genesis Pass will entitle a lucky 777 holders to a growing number of special privileges within the Burn Ghost platform and community.",
+    "external_url": "https://burnghost.com/",
+    "image": "https://metadata.burnghost.com/genesis/assets/genesis.mp4",
+    "name": "Burn Ghost Genesis Pass",
+    "attributes": [
+      {
+        "trait_type": "Pass Type",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "1"
+      }
+    ]
+  }
+}

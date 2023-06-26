@@ -1,0 +1,46 @@
+{
+  "address": "0xa300b2e02cb855faa01b8d559c3ffd28ae9f1840",
+  "type": "ERC721",
+  "name": "PetZuki Official",
+  "tokenCount": "120",
+  "uri": "ipfs://QmdTinj8eNWrejKfcQHEjrqEcyY34vrZYnjPhD1Q7hwDvC/1.json",
+  "metadata": {
+    "name": "PetZuki #1",
+    "description": "A cute companion for every Zuki in the MetaVerse",
+    "image": "ipfs://QmU8MBdFopYgDrqyi5G7HuH1aJFjYg7aW3kbaKgmo55Tva/1.png",
+    "dna": "ae5674f07e0a753d45dbd36add6e2ea54db5e739",
+    "edition": 1,
+    "date": 1648984870982,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off_White_A"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Tattoo",
+        "value": "Red_Tribal"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Yellow_Fan"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Cultural"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Demon"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Mask"
+      }
+    ],
+    "compiler": "PetZuki Official"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "address": "0xf0f998b6b406f53d62fe6cbd4f607dbd55140aef",
+  "type": "ERC721",
+  "name": "DeadPunks Official",
+  "tokenCount": "10000",
+  "uri": "https://ipfs.io/ipfs/QmQikp2dV4ZVgaPfGqDv8d41HnxeBzsV6qiNGEjciGK1kR/1",
+  "metadata": {
+    "name": "DeadPunks #1",
+    "description": "DeadPunks are rising up against Evil Labs to rescue Betty, striving to survive in an ever changing metaverse. ",
+    "external_url": "",
+    "image": "ipfs://QmQabhbtjfP7yqU8v9MWXBsceyxHGkjFNrL2iVsakzkGRh/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Gray"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Curly Front"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Snarl"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "None"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Jacket Black"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "ipfs://QmQabhbtjfP7yqU8v9MWXBsceyxHGkjFNrL2iVsakzkGRh/1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0xf288d0ce4ff910589e1edc87b67d47da19353d32",
+  "type": "ERC1155",
+  "name": "Bored Stick Figures",
+  "tokenCount": "192",
+  "uri": "ipfs://QmRwGS3nbaUX4jxwYZh18x8XWdovfeJmS2uMovcNQMUGgi",
+  "metadata": {
+    "name": "Stick Figure #1",
+    "description": "A poorly drawn generative stick figure.",
+    "image": "ipfs://QmSCQ7Q9TEU2io3c6heW7SCZn8roM9vMbQwyMoKQqubBT9",
+    "external_url": "ipfs://",
+    "dna": "23b5216dba8e33bdd33345d87679ccef8a5538af844b38a13eb4b260a8c401f2",
+    "date": 1646773691897,
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "base_default"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eyes_questioning"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "mouths_open"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

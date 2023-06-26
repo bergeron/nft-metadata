@@ -1,0 +1,286 @@
+{
+  "address": "0xea7c74254dcdb338a36b8d88f02b8951901a0f30",
+  "type": "ERC721",
+  "name": "Ephere Football Player (Deprecated)",
+  "tokenCount": "9",
+  "uri": "https://ipfs.ephere.io/ipfs/QmeFLsNqR1f45vkfLf2ZdyjngCnNKEKcTq9qkVyt7Bj8in",
+  "metadata": {
+    "name": "Agu",
+    "image": "https://ipfs.ephere.io/ipfs/QmVvMzoKPAFTp3DG95BJuUEwxL2GTJE9BgvQdZkoMSK986",
+    "image_full_body": "https://ipfs.ephere.io/ipfs/QmU6Qf62sn6VBX7UXcztUxQwZGsSXYacovVnFenS3uXRry",
+    "external_url": "https://erc721.ephere.io/lPAevP",
+    "description": "\n# Agu\n\nOVR: 92\n\nFull body image: https://ipfs.ephere.io/ipfs/QmU6Qf62sn6VBX7UXcztUxQwZGsSXYacovVnFenS3uXRry\n",
+    "background_color": "#454bbf",
+    "attributes": [
+      {
+        "trait_type": "appearance",
+        "value": "Unique"
+      },
+      {
+        "trait_type": "OVR",
+        "value": 92,
+        "max_value": 100
+      },
+      {
+        "trait_type": "energy_recovery_factor",
+        "value": 100,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "injury_resilience",
+        "value": 100,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "is_goalkeeper",
+        "value": "No"
+      },
+      {
+        "trait_type": "preferred_foot",
+        "value": "Left"
+      },
+      {
+        "trait_type": "aggression",
+        "value": 96,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "composure",
+        "value": 98,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "creativity",
+        "value": 96,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "determination",
+        "value": 98,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "leadership",
+        "value": 96,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "positioning",
+        "value": 96,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "reflexes",
+        "value": 98,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "teamwork",
+        "value": 97,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "vision",
+        "value": 96,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "work_rate",
+        "value": 98,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "acceleration",
+        "value": 99,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "agility",
+        "value": 97,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "balance",
+        "value": 96,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "jumping",
+        "value": 99,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "reactions",
+        "value": 96,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "shot_power",
+        "value": 98,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "speed",
+        "value": 98,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "stamina",
+        "value": 97,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "strength",
+        "value": 97,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "ball_control",
+        "value": 97,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "crossing",
+        "value": 96,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "curve",
+        "value": 98,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "dribbling",
+        "value": 96,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "finishing",
+        "value": 96,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "free_kick",
+        "value": 99,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "gk_diving",
+        "value": 28,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "gk_handling",
+        "value": 43,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "gk_kicking",
+        "value": 43,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "gk_positioning",
+        "value": 39,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "heading",
+        "value": 96,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "interceptions",
+        "value": 44,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "long_passing",
+        "value": 97,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "long_shots",
+        "value": 98,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "marking",
+        "value": 46,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "penalties",
+        "value": 99,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "short_passing",
+        "value": 98,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "siding_tackle",
+        "value": 49,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "standing_tackle",
+        "value": 55,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "volleys",
+        "value": 98,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "weak_foot",
+        "value": 98,
+        "max_value": 100,
+        "display_type": "number"
+      }
+    ]
+  }
+}

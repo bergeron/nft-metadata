@@ -1,0 +1,32 @@
+{
+  "address": "0x0ae35abf45222cee697695a70457efc2622fbe5d",
+  "type": "ERC1155",
+  "name": "Daria Skotina Creatures",
+  "tokenCount": "17",
+  "uri": "https://raw.githubusercontent.com/AnkyDu77/nft_attributes/master/ds/1.json",
+  "metadata": {
+    "name": "Creature 1",
+    "external_url": "https://raw.githubusercontent.com/AnkyDu77/nft_attributes/master/ds/1.json",
+    "external_link": "https://raw.githubusercontent.com/AnkyDu77/nft_attributes/master/ds/1.json",
+    "image": "https://raw.githubusercontent.com/AnkyDu77/nft_attributes/master/ds/img/1.jpg",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Editions",
+        "value": 750
+      },
+      {
+        "trait_type": "Body",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Turquoise"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      }
+    ]
+  }
+}

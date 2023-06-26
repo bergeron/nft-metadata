@@ -1,0 +1,82 @@
+{
+  "address": "0x837704ec8dfec198789baf061d6e93b0e1555da6",
+  "type": "ERC721",
+  "name": "Evaverse",
+  "tokenCount": "9305",
+  "uri": "https://evaverse.com/api/creatures.php?id=1",
+  "metadata": {
+    "name": "Gamora",
+    "description": "Evaverse NFT Collection is a 10,000 1/1 unique ERC-721 set of beautifully animated 3D avatars. Each avatar is created from up to 19 possible unique traits, creating 430 million total unique variations possible. Certain avatars will possess incredibly rare traits.\r\n\r\n\r\nEach NFT is a rigged and animated playable game character inside the Evaverse video game.  Evaverse is a multiplayer social game built for the NFT Community.  The game will be launched on Steam following the reveal of the NFTs.\r\n\r\nThe EVAVERSE video game can be played on [Steam](https://store.steampowered.com/app/1628750/Evaverse).\r\n\r\nVisit [evaverse.com](https://evaverse.com) for more information\r\n\r\n[Evaverse Turtle Troop](https://opensea.io/assets/eva-turtle)\r\n\r\n[Download profile avatar](https://evaverse.com/api/pfp.php?id=1)",
+    "image": "https://evaverse.s3.amazonaws.com/CreatureImg/AAMAAAsAAAAAAgADAAAGAAQAAAAAAAcAAgAAAA.png",
+    "pfp": "https://evaverse.s3.amazonaws.com/EvaPFP/AAMAAAsAAAAAAgADAAAGAAQAAAAAAAcAAgAAAA.png",
+    "animation_url": "https://evaverse.s3.amazonaws.com/Video/AAMAAAsAAAAAAgADAAAGAAQAAAAAAAcAAgAAAA.mp4",
+    "external_url": "https://www.evaverse.com",
+    "prestige": 68.8,
+    "owner": "0x18C6A47AcA1c6a237e53eD2fc3a8fB392c97169b",
+    "borrow": null,
+    "attributes": [
+      {
+        "trait_type": "Arrival Date",
+        "value": 1626285600,
+        "display_type": "date"
+      },
+      {
+        "trait_type": "Prestige",
+        "value": 68.8
+      },
+      {
+        "trait_type": "Collar",
+        "value": 100,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Hairstyle",
+        "value": "Bob"
+      },
+      {
+        "trait_type": "Lower Garb",
+        "value": "Stylish"
+      },
+      {
+        "trait_type": "Upper Garb",
+        "value": "Flexible"
+      },
+      {
+        "trait_type": "Skin Tone",
+        "value": "Sage"
+      },
+      {
+        "trait_type": "Hair Color",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "Armor Type",
+        "value": "Bronze"
+      },
+      {
+        "trait_type": "Thread Dye",
+        "value": "Night"
+      },
+      {
+        "trait_type": "Thread Tint",
+        "value": "Navy"
+      },
+      {
+        "trait_type": "Vision",
+        "value": "Enlightened"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Arrival"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Slender"
+      }
+    ]
+  }
+}

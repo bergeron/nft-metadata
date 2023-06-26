@@ -1,0 +1,45 @@
+{
+  "address": "0x970d3e8a0f16cb91f4a5386c9e4e0781e60c8fc8",
+  "type": "ERC721",
+  "name": "SK Telecom T-Universe NFT",
+  "tokenCount": "10",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmWsCUQ5r248DMinCsobgfk6C9yn5oJq5jsqTL11AcCffQ",
+  "metadata": {
+    "name": "T우주 NFT Gold #1",
+    "description": "SK텔레콤의 첫번째 NFT 프로젝트 'Galaxy S22 X T우주'\n\nSK텔레콤의 대표 브랜드인 T우주를 모티브로 한 우주인 NFT입니다.\n\n2022년 2월, 삼성 갤럭시S22 시리즈 출시를 기념하여 발행되었으며,\nSK텔레콤에서 갤럭시S22 시리즈를 개통하고 프로모션에 응모한 고객 중 2,000명을 추첨하여 드립니다.\n\nT우주. NFT는 Gold/ Silver/ Bronze/ White 4개 등급으로 이루어져 있고,\n등급별로 우주만큼 특별한 사은품과 모두의 구독 유니버스 우주패스 이용권이 제공됩니다.\n\nT우주호를 타고 은하계 22에 방문한 4명의 안드로이드들. 다음 행선지는 어디일까요?\n\n--------\n\n©SKT, All Rights Reserved.",
+    "image": "ipfs://ipfs/QmVo2eg1ax9NH9mBdW7DzTnMjd4czmhK7ihvsEmjjEN8rY/T-Universe_Gold_1.jpg",
+    "animation_url": "ipfs://ipfs/QmVo2eg1ax9NH9mBdW7DzTnMjd4czmhK7ihvsEmjjEN8rY/T-Universe_Gold_1.mp4",
+    "external_url": "https://www.sktelecom.com",
+    "seller_fee_basis_points": 0,
+    "fee_recipient": "",
+    "attributes": [
+      {
+        "trait_type": "edition",
+        "value": "SKT X GalaxyS22"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "supply",
+        "value": "1"
+      },
+      {
+        "trait_type": "season",
+        "value": "2022/02"
+      },
+      {
+        "trait_type": "serial_number",
+        "value": 1,
+        "max_value": 10,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "birthday",
+        "value": 1645488000,
+        "display_type": "date"
+      }
+    ]
+  }
+}

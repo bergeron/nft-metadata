@@ -1,0 +1,30 @@
+{
+  "address": "0x23815b747cb9693c05794f206234d96e3cff5ad9",
+  "type": "ERC721",
+  "name": "Kanpeki Box",
+  "tokenCount": "24",
+  "uri": "ipfs://QmNg6fM3nY4mbPxyoz9WstE3gjUN7XUcW3nHfdEF4MXKm9/1.json",
+  "metadata": {
+    "name": "Toybox PlantPot",
+    "image": "ipfs://QmSGaLwNm54VtmMSWUydXXt9dNkCJkAVrU28NsMiqD1CXo/6590190dafaeb508a29a24c54fcdc241",
+    "attributes": [
+      {
+        "value": "PlantPot",
+        "trait_type": "Character"
+      },
+      {
+        "value": "Mini-Me",
+        "trait_type": "Companion"
+      },
+      {
+        "value": "Toy Store",
+        "trait_type": "Environment"
+      },
+      {
+        "value": "Vinyl",
+        "trait_type": "Texture"
+      }
+    ],
+    "description": "A toy version of PlantPot fresh out of the box with a mini-me companion figurine."
+  }
+}

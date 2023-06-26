@@ -1,0 +1,63 @@
+{
+  "address": "0x90b4670c85c46e7e019ca78db2d0a532484ee2b2",
+  "type": "ERC721",
+  "name": "EJK NFTs",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/YVJ93nDE9dVGBisiiv30CIrR9Rv0lseZ6-Q2AAojxh4",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1650771346
+      },
+      {
+        "trait_type": "Creator",
+        "value": "E. J. Keay"
+      }
+    ],
+    "description": "EJ's Unicorn Creation",
+    "external_url": "https://cxip.io/nft/0x90b4670c85c46e7e019ca78db2d0a532484ee2b2/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/e9Nwdwm9Qa5pJDEgJnREW7z8PfgSzgnsI4O5d5PgeHY",
+    "imageUrl": "https://arweave.net/e9Nwdwm9Qa5pJDEgJnREW7z8PfgSzgnsI4O5d5PgeHY",
+    "name": "The Uni",
+    "properties": {
+      "created_at": "2022-04-24T03:35:46.000000Z",
+      "creator_wallet": "0x32347254dca4dfb15c0802f42e8b6efc5e1302a5",
+      "description": "EJ's Unicorn Creation",
+      "image": "https://arweave.net/e9Nwdwm9Qa5pJDEgJnREW7z8PfgSzgnsI4O5d5PgeHY",
+      "imageUrl": "https://arweave.net/e9Nwdwm9Qa5pJDEgJnREW7z8PfgSzgnsI4O5d5PgeHY",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "24 April 2022",
+      "name": "The Uni",
+      "nft_type": "non-fungible image token (image/jpeg)",
+      "preview_media_file": "https://arweave.net/WliFYikqk7P0cV1GpaiFLSRvphQiNxKKxTdv2gTIa5w",
+      "preview_media_file_dimensions": "466x360",
+      "preview_media_file_size": 104559,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "2048x1583",
+      "raw_media_file": "https://arweave.net/8uj25zYJSbQKBenTNCmZuRx3q4rH6F9aNGxTeAkvFsk",
+      "raw_media_file_size": 288285,
+      "raw_media_file_spec": "JPEG 2048x1583 2048x1583+0+0 8-bit sRGB 288285B 0.000u 0:00.000",
+      "raw_media_file_type": "image/jpeg",
+      "raw_media_format": "landscape",
+      "raw_media_signature": "0x3314dfcc6e9f0b43155e924c00fb0050116420ed8fb36288fdc96414ab967dbe",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/WliFYikqk7P0cV1GpaiFLSRvphQiNxKKxTdv2gTIa5w",
+      "thumb_media_file_type": "image/jpg",
+      "title": "The Uni",
+      "total_supply": 1
+    },
+    "title": "The Uni"
+  }
+}

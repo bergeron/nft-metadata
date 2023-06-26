@@ -1,0 +1,48 @@
+{
+  "address": "0xc49a9ab342b6ea66792d4110e9ca0ab36e3a5674",
+  "type": "ERC721",
+  "name": "Chibi Apes",
+  "tokenCount": "3000",
+  "uri": "https://api.chibilabs.dev/token/apes/1",
+  "metadata": {
+    "name": "Chibi Ape #1",
+    "description": "3000 randomly generated 3D characters aping around the Ethereum blockchain. Every ape is created from 119 possible traits, where no 3 traits are equal, ensuring that each ape is highly unique! \n[View your Chibi Ape in 3D/AR.](https://chibilabs.io/collection/apes/1) \n\n [Download your Chibi Ape as a PFP ready avatar.](https://cdn.chibilabs.dev/apes/avatars/1.jpg)",
+    "image": "https://cdn.chibilabs.dev/apes/images/1.png",
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Abstract"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Punk"
+      },
+      {
+        "trait_type": "Back",
+        "value": "Wings"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Double Gold Hoops"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Biker Helmet"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Punk Half Gloves"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Rapper"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      }
+    ],
+    "external_url": "https://chibilabs.io/collection/apes/1",
+    "glb": "https://cdn.chibilabs.dev/apes/GLBs/1.glb"
+  }
+}

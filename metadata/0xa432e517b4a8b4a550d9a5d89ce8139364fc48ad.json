@@ -1,0 +1,39 @@
+{
+  "address": "0xa432e517b4a8b4a550d9a5d89ce8139364fc48ad",
+  "type": "ERC721",
+  "name": "MOTION NFT",
+  "tokenCount": "10",
+  "uri": "ipfs://QmScsZ14uKbUmqixQ4kNCESpDuBs6vkdtc51SUnJvyL7EQ/1.json",
+  "metadata": {
+    "name": "BoredApe #1",
+    "description": "Tutorial boredape collection which is cool",
+    "image": "ipfs://QmPHavEKZwgwG5BK3nC5srg1dtM1rYLikSPHgmCMjWH5vK/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Head Accessories",
+        "value": "Hair"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Glasses"
+      },
+      {
+        "trait_type": "Mouth Accessories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Dress Shirt"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      }
+    ]
+  }
+}

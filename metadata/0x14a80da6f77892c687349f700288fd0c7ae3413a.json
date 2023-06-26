@@ -1,0 +1,25 @@
+{
+  "address": "0x14a80da6f77892c687349f700288fd0c7ae3413a",
+  "type": "ERC721",
+  "name": "Banksy Art Supporters",
+  "tokenCount": "13",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x14a80da6f77892c687349f700288fd0c7ae3413a/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x14A80dA6F77892c687349F700288FD0C7aE3413A/icon?id=1",
+    "expiration": 1587518998,
+    "tokenId": "1",
+    "owner": "0x9fa90a2b11fa8918fd5d503c84fa6b0213dca593",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1587518998
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x14A80dA6F77892c687349F700288FD0C7aE3413A",
+    "network": 1
+  }
+}

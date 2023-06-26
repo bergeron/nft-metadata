@@ -1,0 +1,35 @@
+{
+  "address": "0x29b46b17af2a4b79296550c918c6803742cccd5e",
+  "type": "ERC721",
+  "name": "Madalia Pioneers",
+  "tokenCount": "3",
+  "uri": "https://metadata.exclusible.com/madalia/1",
+  "metadata": {
+    "name": "EXCLUSIBLE PIONEERS COLLECTION - BRONZE TIER",
+    "description": "This NFT represents a BRONZE Tier plot of land in Madalia.world located in the main island and measuring aproximatedly 2000m2 of size. The Pioneers Collection is the first ever Sale of Virtual Real Estate recognised by a Government. It includes 500 parcels of land in Madalia, a Virtual World that includes a Digital Twin of Madeira Island and therefore can be explored and built upon remotely using your devices or locally by using Augmented Reality as you visit the island. Because of that connection this NFT represents a virtual copy of an actual parcel of land in Madeira Island and through a government partnership with Madalia World you'll receive along with this NFT a 'Permit for Virtual Construction' recognised by the local governement giving you exclusive rights to build virtually on that parcel of Land.",
+    "attributes": [
+      {
+        "trait_type": "tier",
+        "value": "Bronze"
+      },
+      {
+        "trait_type": "edition",
+        "value": "Pioneers Collection"
+      },
+      {
+        "trait_type": "size",
+        "value": "2000"
+      },
+      {
+        "trait_type": "location",
+        "value": "tbd"
+      },
+      {
+        "trait_type": "island",
+        "value": "Madeira"
+      }
+    ],
+    "image": "ipfs://QmSz2HD755iuCWFuPZyS9jjPYZu6VrDMTf32heuhjhdXmy/BronzeTier.png",
+    "animation_url": "ipfs://QmXgU7bZtH1ry6Ktha7UnySdM6eGtCy6kbgniKU1q4KybV/BRONZE.mp4"
+  }
+}

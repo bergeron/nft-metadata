@@ -1,0 +1,59 @@
+{
+  "address": "0xcc19a2e54b8366adc47a13df6d6042a53a0f207e",
+  "type": "ERC721",
+  "name": "Grifters by XCOPY V2",
+  "tokenCount": "666",
+  "uri": "https://bafybeia4dxqch4o2xvsjpnxeyff7i7bqk4tppxaa3cqjqf2beu4x7ans3u.ipfs.dweb.link/1/token.json",
+  "metadata": {
+    "name": "Grifter #001",
+    "description": "Grifters gonna grift!",
+    "external_url": "https://async.art/blueprints/61b6c374bd2df4be86ef7aa5/editions/0xc143bbfcdbdbed6d454803804752a064a622c1f3-1",
+    "attributes": [
+      {
+        "trait_type": "Asset Type",
+        "value": "Edition"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "XCOPY"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Flimflam"
+      },
+      {
+        "trait_type": "Flimflam",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Vision",
+        "value": "Deep"
+      },
+      {
+        "trait_type": "Noise",
+        "value": "Sweaty"
+      },
+      {
+        "trait_type": "Surface",
+        "value": "Flies"
+      },
+      {
+        "trait_type": "Atmosphere",
+        "value": "Probably"
+      }
+    ],
+    "async-attributes": {
+      "prefixHash": "0277fe89bd12fd67b604229f3212c184abfd17376d02e0a0a0ef800a641e40ef",
+      "txHash": "0xa9593f0b3b1cb7e1015ac195ddd14bdc1595d359f67ca93042efbe5409d834b3",
+      "signatures": [
+        {
+          "message": "I, XCOPY have issued an Async Art Blueprint \"Grifters\" on contract address 0xc143bbfcdbdbed6d454803804752a064a622c1f3 with an edition count of 666.",
+          "signature": "0x6a38857d1088796476425933d9da110deaa024370373d9fcfa3af3fd350f683a3846b6669856151faa78c6c4606717acbd5e861ba226c9ba4befecc970fa138800",
+          "address": "0x39cc9c86e67baf2129b80fe3414c397492ea8026",
+          "version": 2
+        }
+      ]
+    },
+    "image": "QmQvv2QNtdwqFA5jFVQvSgiMBpyeZyWiQvmqoCr4dJbxeY"
+  }
+}

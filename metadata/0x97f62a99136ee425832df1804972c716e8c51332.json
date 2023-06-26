@@ -1,0 +1,42 @@
+{
+  "address": "0x97f62a99136ee425832df1804972c716e8c51332",
+  "type": "ERC721",
+  "name": "Meka Punks",
+  "tokenCount": "5555",
+  "uri": "ipfs://QmVYbpVCMdrrf65vCSeTKC4HGrHpuyZThVeCv6KN99M9jp/1.json",
+  "metadata": {
+    "name": "Meka Punk #1",
+    "description": "5555 Meka Punks on the run.",
+    "image": "ipfs://QmdsHeCHSeDn6qCwnqVZ4wLyDZ4tHwJbaE6qGjQWCdAkvp/1.png",
+    "dna": "1afd18f1067ac47ef44b11c2c2a5b06fe3c40cb2",
+    "edition": 1,
+    "date": 1658126079429,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "SkullishGreen"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Meka"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Rainbow Visor"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cyborg Teeth"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Red Digi Hood"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Diamond Earring"
+      }
+    ],
+    "compiler": "Art Engine"
+  }
+}

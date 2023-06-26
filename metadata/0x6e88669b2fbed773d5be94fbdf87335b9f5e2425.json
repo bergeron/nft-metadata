@@ -1,0 +1,40 @@
+{
+  "address": "0x6e88669b2fbed773d5be94fbdf87335b9f5e2425",
+  "type": "ERC1155",
+  "name": "AwesomeDave Dog",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/v81ul29CNeze7I9SnJ5sYvAwg95aiR8ghfIpeh8oiMY",
+  "metadata": {
+    "name": "Awesome Dog",
+    "created_by": "AwesomeDave",
+    "description": "An awesome artwork of awesome dave's awesome dog",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "AwesomeDave"
+      }
+    ],
+    "animation_details": {
+      "bytes": 2604657,
+      "format": "MP4",
+      "duration": 13,
+      "sha256": "691033b18b1abc3497dccdd42930df9c085fc3cdccded7d3c58ae5639de95c55",
+      "width": 1920,
+      "height": 3038,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/L-qIJLhkC-rGPBw86lBaDjbpAvSMNHX1oJGHoE1NW5s",
+    "animation_url": "https://arweave.net/L-qIJLhkC-rGPBw86lBaDjbpAvSMNHX1oJGHoE1NW5s",
+    "image_details": {
+      "bytes": 69611,
+      "format": "PNG",
+      "sha256": "8e07bf7a364f6f9a8cfc7b336bf089b47b05e6db986857df9e3a375ba8f5019d",
+      "width": 500,
+      "height": 791
+    },
+    "image": "https://arweave.net/Iv2IkFO3gIQJ7jBM8gTqlJFzooQ0zIg0Ur1qwgzT3XI",
+    "image_url": "https://arweave.net/Iv2IkFO3gIQJ7jBM8gTqlJFzooQ0zIg0Ur1qwgzT3XI"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "address": "0x14a2672207e93af87c3864af3e70cff638d5ab58",
+  "type": "ERC721",
+  "name": "Official Armando Bacot NFT Collection",
+  "tokenCount": "42",
+  "uri": "ipfs://bafybeid2jtkmqtvzyrheihd4jibjmzqjfniojy5uawohqdv5kutaou77wq/1.json",
+  "metadata": {
+    "name": "DigiMando #1",
+    "description": "Armando's First NFT Drop",
+    "external_url": "https://armandobacotnft.com",
+    "image": "ipfs://bafybeif5pjwa4oguqf4gdgwdzx43jdzixr75lhezfjfeqeohiq7s6h42ra/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "skipper"
+      },
+      {
+        "trait_type": "Cards",
+        "value": "defiant"
+      },
+      {
+        "trait_type": "Official Seal",
+        "value": "senior"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Official Armando Bacot NFT Collection",
+      "family": "Official Armando Bacot NFT Collection"
+    },
+    "symbol": ""
+  }
+}

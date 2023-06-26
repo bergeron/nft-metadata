@@ -1,0 +1,65 @@
+{
+  "address": "0xa0ea12639160879973ffc79570dcbdf28cc8f247",
+  "type": "ERC721",
+  "name": "cyclops-hulk-smash",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/Th7TYIiIo9Sy6_uUw2L9rBVVCbgJNGOzXN-wXd6O2po",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "animation_url": "https://arweave.net/a1QkEikOmtc2wtZmD11KgTs8-PaQZ_jwrwZ_rOrwwX4",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1640918027
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Brandon Nam"
+      }
+    ],
+    "description": "Cyclops is doing a Hulk Smash",
+    "external_url": "https://cxip.io/nft/0xa0ea12639160879973ffc79570dcbdf28cc8f247/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/MAlPyoMLbbourdOUN0HlUALwg36vpuujhx0n1CNprU0",
+    "imageUrl": "https://arweave.net/MAlPyoMLbbourdOUN0HlUALwg36vpuujhx0n1CNprU0",
+    "name": "Cyclops Hulk Smash",
+    "properties": {
+      "animation_url": "https://arweave.net/a1QkEikOmtc2wtZmD11KgTs8-PaQZ_jwrwZ_rOrwwX4",
+      "created_at": "2021-12-31T02:33:47.000000Z",
+      "creator_wallet": "0xa2472cb24ca0bc370ac83b611947e6599ada1ac3",
+      "description": "Cyclops is doing a Hulk Smash",
+      "image": "https://arweave.net/MAlPyoMLbbourdOUN0HlUALwg36vpuujhx0n1CNprU0",
+      "imageUrl": "https://arweave.net/MAlPyoMLbbourdOUN0HlUALwg36vpuujhx0n1CNprU0",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "31 December 2021",
+      "name": "Cyclops Hulk Smash",
+      "nft_type": "non-fungible video token (video/mp4)",
+      "preview_media_file": "https://arweave.net/RZPloULiDiqysh9Ee22UeuB-qu_zGkKPfYJn9G07GWM",
+      "preview_media_file_dimensions": "360x360",
+      "preview_media_file_size": 395480,
+      "preview_media_file_type": "video/mp4",
+      "raw_media_dimensions": "720x720",
+      "raw_media_file": "https://arweave.net/zTmZxRHAp8sfuUt-3hSq8rLe02xoTPs9OFOwrHXqU5A",
+      "raw_media_file_size": 771953,
+      "raw_media_file_spec": "Duration: 00:00:13.83, start: 0.000000, bitrate: 446 kb/s\nVideo: h264 (High) (avc1 / 0x31637661), yuv420p, 720x720, 444 kb/s, 18 fps, 18 tbr, 18432 tbn, 36 tbc (default)",
+      "raw_media_file_type": "video/mp4",
+      "raw_media_format": "square",
+      "raw_media_signature": "0xc777d1c7fefe79c547d7786ba62c47279bd4c5c939b5305156579191f56a1804",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/Jqo7OsJlvMpYJs6_i9ZQxEwy4ppAOMbLUsL4sw2WiOg",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Cyclops Hulk Smash",
+      "total_supply": 1
+    },
+    "title": "Cyclops Hulk Smash"
+  }
+}

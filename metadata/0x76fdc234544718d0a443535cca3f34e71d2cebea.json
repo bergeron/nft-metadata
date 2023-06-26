@@ -1,0 +1,62 @@
+{
+  "address": "0x76fdc234544718d0a443535cca3f34e71d2cebea",
+  "type": "ERC721",
+  "name": "adsfqewrqewr21",
+  "tokenCount": "150",
+  "uri": "https://api.artblocks.io/token/32000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "32000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Light Beams #1",
+    "minted": true,
+    "artist": "Jason Ting",
+    "description": "A study of color in motion. Beams of light ebb and flow like ocean waves, their colors softly blending to form dreamy gradients.",
+    "script_type": "regl@2.1.0",
+    "project_id": "32",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/32000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/32000001.mp4",
+    "generator_url": "https://generator.artblocks.io/32000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/32000001",
+    "royaltyInfo": {
+      "artistAddress": "0x87f669c0ee22c42be261dd74143e716748ba11ba",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Light Beams by Jason Ting",
+    "website": "https://www.instagram.com/jzlabs/",
+    "token_hash": "0x5ecf8b5377383d5e8e29d05a08c24b36cb81167927a7b6d088cbca38cbc05dc4",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/32/tokens/32000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/32000001",
+    "features": {
+      "Style": "Dual",
+      "Density": "Normal",
+      "Palette": "Tranquility"
+    },
+    "traits": [
+      {
+        "trait_type": "Light Beams",
+        "value": "All Light Beams"
+      },
+      {
+        "trait_type": "Light Beams",
+        "value": "Style: Dual"
+      },
+      {
+        "trait_type": "Light Beams",
+        "value": "Density: Normal"
+      },
+      {
+        "trait_type": "Light Beams",
+        "value": "Palette: Tranquility"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

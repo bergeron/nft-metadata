@@ -1,0 +1,53 @@
+{
+  "address": "0x90384e76b6b3ddb47396ff85144819ded148900d",
+  "type": "ERC721",
+  "name": "CityDAO Parcel-0",
+  "tokenCount": "5453",
+  "uri": "ipfs://bafybeia3lejponr2skhobnhbcoauf4ldvwylpwcqmwgocqx2ustsqx6bby/1",
+  "metadata": {
+    "name": "CityDAO Parcel-0 #1",
+    "description": "Traits from the pictured plot of land within CityDAO's Parcel Zero was used to generate the metadata for this NFT: ipfs://bafybeieypckzw36w2zolhyttkef6oa2zhuldutljccse66jbakvdxkfyym/1.kml. This NFT does not represent any land ownership.  This Parcel 0 NFT represents a license agreement between the Holder and Parcel Zero, LLC (a wholly-owned subsidiary of CityDAO, LLC), which grants the Holder certain use and governance rights over the property. View Parcel 0 License Agreement. : https://ipfs.io/ipfs/QmVorF3YxN6KT4RSqBUHDNM3ti1bSPrdZdQHLaEvQfmNNs ",
+    "external_url": "http://parcel-0.citydao.io/",
+    "image": "ipfs://bafybeihyqxva6t4lrsrarkjqptksa6jvaerrynd4nouwh66zqszqzgbeni/1.png",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Rock",
+        "value": 1,
+        "max_value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Veg",
+        "value": 26,
+        "max_value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Other",
+        "value": 73,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Slope",
+        "value": "Very Steep"
+      },
+      {
+        "trait_type": "Aspect",
+        "value": "E"
+      },
+      {
+        "trait_type": "District",
+        "value": "LFG Heights"
+      },
+      {
+        "trait_type": "Elevation",
+        "value": "Upper"
+      },
+      {
+        "trait_type": "Feature",
+        "value": "Badlands"
+      }
+    ]
+  }
+}

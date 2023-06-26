@@ -1,0 +1,46 @@
+{
+  "address": "0xdcacbdfeebfe6d7023615d0041bb342e8713cff3",
+  "type": "ERC721",
+  "name": "Paraskeet",
+  "tokenCount": "999",
+  "uri": "ipfs://QmVFZWP7Lv9kyhbwBtasVnAbYS93FTzWk9HsMo6gp14afb/1.json",
+  "metadata": {
+    "name": "Paraskeet #1",
+    "description": "Skeeting along the lines.",
+    "image": "ipfs://QmVff6nAyV5Azw1qDtKJX5NSrgXWHR2PQqg2Si2Bi7orSW/1.png",
+    "dna": "f1d68bec013d8ae87530538b831fabc3c0bf760c",
+    "edition": 1,
+    "date": 1661183347758,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Distorted_V24"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Distorted_V28"
+      },
+      {
+        "trait_type": "Top Wing Pattern",
+        "value": "Distorted_V10"
+      },
+      {
+        "trait_type": "Middle Wing Pattern",
+        "value": "Magenta"
+      },
+      {
+        "trait_type": "Bottom Wing Pattern",
+        "value": "Distorted_V10"
+      },
+      {
+        "trait_type": "Facial",
+        "value": "Distorted_V6"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Pink"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

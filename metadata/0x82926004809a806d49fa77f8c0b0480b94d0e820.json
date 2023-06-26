@@ -1,0 +1,33 @@
+{
+  "address": "0x82926004809a806d49fa77f8c0b0480b94d0e820",
+  "type": "ERC721",
+  "name": "Monday Madness V2",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/tH640bTk0COs2Pqbg0Gla1n-v-svGXZu0QIlUsn3IF8",
+  "metadata": {
+    "name": "Burger NFT Demo",
+    "created_by": "Jacky",
+    "description": "Burger demo - this is a test demo NFT :)",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Jacky"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "value": "1",
+        "max_value": "1"
+      }
+    ],
+    "image_details": {
+      "bytes": 260666,
+      "format": "JPEG",
+      "sha256": "88d35b53925db3f6401a9f92a3ac756b080390a3b663e8b6c40d611b4b5e6d29",
+      "width": 1080,
+      "height": 1920
+    },
+    "image": "https://arweave.net/FuzR5ZhdcdKZHYCI8ihqRk8VKpxZk-qs-gs5IkMWW10",
+    "image_url": "https://arweave.net/FuzR5ZhdcdKZHYCI8ihqRk8VKpxZk-qs-gs5IkMWW10"
+  }
+}

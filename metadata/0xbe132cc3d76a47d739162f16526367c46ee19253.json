@@ -1,0 +1,39 @@
+{
+  "address": "0xbe132cc3d76a47d739162f16526367c46ee19253",
+  "type": "ERC721",
+  "name": "Test Artist V2",
+  "tokenCount": "1",
+  "uri": "ipfs://QmUU2BWCMALU3qAvqCX7x5UVzoCmeKXejzzJxsJmfspP9c",
+  "metadata": {
+    "name": "Construction #1",
+    "description": "All-over composition constructed out of a limited number of shapes inspired by modular typography and calligraphic gestures.\n\n\nThis NFT has been certified by Verisart https://verisart.com/works/e3f25d17-1793-4b7a-ad99-e279fc09be57",
+    "image": "https://ipfs.verisart.com/ipfs/QmWHBTCxuWN3dLXhwtwW1QZQq7HJkqHD1moTsLLgbQt3wv",
+    "properties": {
+      "verisart": {
+        "productionYear": 2018,
+        "dimensions": {
+          "width": 4763,
+          "height": 3368,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": null,
+        "frameRate": null,
+        "tags": [
+          "art",
+          "modular",
+          "construction"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0x25cbb9709f68d12350dd7114e4f3c0b28be1f5e1",
+            "bps": 1000
+          }
+        ]
+      }
+    },
+    "animation_url": null,
+    "external_url": "https://verisart.com/works/e3f25d17-1793-4b7a-ad99-e279fc09be57"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "address": "0xcde055937831851b88721a3711fd5033fd3c6f1e",
+  "type": "ERC721",
+  "name": "NounPepes Official",
+  "tokenCount": "5674",
+  "uri": "ipfs://bafybeihqzcjcw457ewajqf6v2igkbydoc2n5bpao647o2dkryypwudrwsi/1.json",
+  "metadata": {
+    "name": "Nounpepe #1",
+    "description": "A dedicated pepe collection to celebrate the 1st anniversary of NounDAO. Building the PepeDAO.",
+    "image": "ipfs://bafybeif7xclgtdgrhcxwd5y6kw3jflekobmpoqx26va4vw3ayjrrmbroxq/1.png",
+    "dna": "36afbcec64173b490003a9fe8305f8d1d9bb6401",
+    "edition": 1,
+    "date": 1665430866696,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Noun"
+      },
+      {
+        "trait_type": "Pepe",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Brown Nouns"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cheeky"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Beanie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Evil"
+      },
+      {
+        "trait_type": "Rare",
+        "value": "Burger"
+      }
+    ],
+    "compiler": "Nouns"
+  }
+}

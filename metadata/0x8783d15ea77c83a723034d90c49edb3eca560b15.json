@@ -1,0 +1,61 @@
+{
+  "address": "0x8783d15ea77c83a723034d90c49edb3eca560b15",
+  "type": "ERC721",
+  "name": "Mandel Simulation",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/gog5m5pnltE7U0BbGX3nS81l8jEjxFb6uNnqFg5zndw",
+  "metadata": {
+    "name": "Prologue Desert",
+    "created_by": "MandelSim",
+    "description": "One of the first four recordings I was able to capture of these t̷̡͇̓̏ȟ̵̖̉i̴̼̊ṇ̸̟̔g̶͎̐s̵̺̠̄. I'll keep trying to document what's been happening and post updates here. If you can see this, I need to know you are there. I need your help! - MNDL",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "MandelSim"
+      },
+      {
+        "value": "Desert",
+        "trait_type": "Environment"
+      },
+      {
+        "trait_type": "Organism",
+        "value": "White Nylander"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Max Recursions",
+        "value": "12",
+        "max_value": "24"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Min Recursions",
+        "value": "3",
+        "max_value": "24"
+      }
+    ],
+    "animation_details": {
+      "bytes": 16448203,
+      "format": "MP4",
+      "duration": 12,
+      "sha256": "0dc02d45acff0ed47382eadc9a7c987a561f09e839a0c319671d46663d64704d",
+      "width": 2560,
+      "height": 1440,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/NZOeTSHMn7z2oeEtw8LTJUWq2cA_BCGIlTl_z_NnkOk",
+    "animation_url": "https://arweave.net/NZOeTSHMn7z2oeEtw8LTJUWq2cA_BCGIlTl_z_NnkOk",
+    "image_details": {
+      "bytes": 195090,
+      "format": "JPEG",
+      "sha256": "97556b81efdd23e4b687377978b4f5ac702866808869eee5cce1c324b3d7f224",
+      "width": 640,
+      "height": 360
+    },
+    "image": "https://arweave.net/_Psjo9F5HvDidqP3S_DTPhytaDE50VK10qxvdFhiXYU",
+    "image_url": "https://arweave.net/_Psjo9F5HvDidqP3S_DTPhytaDE50VK10qxvdFhiXYU"
+  }
+}

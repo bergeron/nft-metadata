@@ -1,0 +1,39 @@
+{
+  "address": "0xe082605a7c6813a4ab584d83c0e0bf7e50270752",
+  "type": "ERC721",
+  "name": "DIVO_TVURCE",
+  "tokenCount": "12",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=KA62iea1TJG4K8KQro0i",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1575067926243?alt=media&token=971f05bb-26a3-445f-bc36-28355f3982f9",
+    "isForSale": true,
+    "description": "Original painting on the old school PC monitor.",
+    "contractAddress": "",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted//KA62iea1TJG4K8KQro0i",
+    "minter": "0xF8a431E7E12def0EC1E9e1a3D592Fcfbc5531791",
+    "mintedOn": {
+      "_seconds": 1575068179,
+      "_nanoseconds": 637000000
+    },
+    "price": "0.03",
+    "name": "HODL_MY_HAND",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "HODL_MY_HAND"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "id": null
+  }
+}

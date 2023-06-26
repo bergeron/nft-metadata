@@ -1,0 +1,58 @@
+{
+  "address": "0x6e4c6d9b0930073e958abd2aba516b885260b8ff",
+  "type": "ERC721",
+  "name": "Influence Asteroids",
+  "tokenCount": "11469",
+  "uri": "https://api.influenceth.io/v1/metadata/asteroids/1",
+  "metadata": {
+    "name": "TG-29980 'Adalia Prime'",
+    "image": "https://images.influenceth.io/v1/asteroids/1/image.svg",
+    "description": "A huge, common, C-type asteroid",
+    "external_url": "https://game.influenceth.io/asteroids/1",
+    "background_color": "000000",
+    "attributes": [
+      {
+        "trait_type": "Claimable SWAY",
+        "display_type": "number",
+        "value": 0
+      },
+      {
+        "trait_type": "Spectral Type",
+        "value": "C"
+      },
+      {
+        "trait_type": "Diameter (m)",
+        "display_type": "number",
+        "value": 750284
+      },
+      {
+        "trait_type": "Lots",
+        "display_type": "number",
+        "value": 1768484
+      },
+      {
+        "trait_type": "Orbital Period (days)",
+        "display_type": "number",
+        "value": 1185
+      },
+      {
+        "trait_type": "Eccentricity",
+        "display_type": "number",
+        "value": 0.325
+      },
+      {
+        "trait_type": "Inclination (deg)",
+        "display_type": "number",
+        "value": 0.14
+      },
+      {
+        "trait_type": "Scanned",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      }
+    ]
+  }
+}

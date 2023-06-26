@@ -1,0 +1,50 @@
+{
+  "address": "0xe52cfdf5d5585c524764449fda2543d8130dd72d",
+  "type": "ERC721",
+  "name": "Crypto Aquatics",
+  "tokenCount": "7",
+  "uri": "ipfs://QmWSpVur9DgUfRm9M9L4uH6HrLcSoTd3mrgLo2FnbNH8UY/1.json",
+  "metadata": {
+    "dna": "326ca03d0d8db803616aac6c58ee01b454c65402",
+    "name": "Octopus #1",
+    "description": "Cryto Aquatics NFTs",
+    "image": "ipfs://QmbhQMHMWkWkEgfUjgdxk97HoAtrV9Mz5yozZzGD9gVLSd/1.png",
+    "edition": 1,
+    "date": 1633426849464,
+    "attributes": [
+      {
+        "trait_type": "BackgroundOctopus",
+        "value": "Sand"
+      },
+      {
+        "trait_type": "SkinOctopus",
+        "value": "Gold Fish"
+      },
+      {
+        "trait_type": "EyesOctopus",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "HatOctopus",
+        "value": "Pirate"
+      },
+      {
+        "trait_type": "CoralOctopus",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "NeckOctopus",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "MouthOctopus",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "CharmOctopus",
+        "value": "None"
+      }
+    ],
+    "compiler": "Crypto Aquatics Engine"
+  }
+}

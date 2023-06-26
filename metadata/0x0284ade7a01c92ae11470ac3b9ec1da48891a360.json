@@ -1,0 +1,43 @@
+{
+  "address": "0x0284ade7a01c92ae11470ac3b9ec1da48891a360",
+  "type": "ERC721",
+  "name": "ELFGame",
+  "tokenCount": "1000",
+  "uri": "https://raw.githubusercontent.com/ELF-GAMES/assets/main/json/1.json",
+  "metadata": {
+    "name": "ELF #1",
+    "description": "Welcome here, warriors, will you fight bloody battles to defend the elves? Do you want to explore that bloody land? Then let the future be full of light, and let the whole forest be filled with blood. Weak elves, that's really delicious.",
+    "image": "https://raw.githubusercontent.com/ELF-GAMES/assets/main/images/1.png",
+    "id": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Greenery"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Base"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red eye"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Punishment"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Angel"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "Shock"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "Phoenix Feather Golden Spear"
+      }
+    ]
+  }
+}

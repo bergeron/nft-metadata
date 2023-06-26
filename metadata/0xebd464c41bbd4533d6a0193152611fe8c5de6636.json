@@ -1,0 +1,27 @@
+{
+  "address": "0xebd464c41bbd4533d6a0193152611fe8c5de6636",
+  "type": "ERC721",
+  "name": "Super Tasty Test Token",
+  "tokenCount": "5",
+  "uri": "http://dev.pomp.com/rewards/meta.json",
+  "metadata": {
+    "name": "Super Tasty Test Token",
+    "description": "A Super Tasty Test for you to enjoy.",
+    "image": "http://dev.pomp.com/rewards/soda.png",
+    "attributes": [
+      {
+        "trait_type": "Burn On Transfer",
+        "value": "True"
+      },
+      {
+        "trait_type": "Revocable",
+        "value": "True"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Awesomeness",
+        "value": 100
+      }
+    ]
+  }
+}

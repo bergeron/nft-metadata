@@ -1,0 +1,29 @@
+{
+  "address": "0x96ea447446e67be4ee9a0cc5610b5c570780aed3",
+  "type": "ERC721",
+  "name": "Solos | Pulpies",
+  "tokenCount": "6",
+  "uri": "ipfs://QmatDCyCfhJn9YBt45XCA7wViRdgdh7BUCFk8Kjgxw6vio/1",
+  "metadata": {
+    "image": "https://pulpies-nft.s3.amazonaws.com/nut_blue_leg.png",
+    "animation": "https://pulpies-nft.s3.amazonaws.com/nut_blue_leg.mp4",
+    "animation_url": "https://pulpies-nft.s3.amazonaws.com/nut_blue_leg.mp4",
+    "external_url": "https://pulpies.solos.so",
+    "description": "Pulpies A multi-medium NFT project brought to you by SOLOS. Audio is matched to visual traits.",
+    "name": "Nut Blue Leg",
+    "attributes": [
+      {
+        "trait_type": "base",
+        "value": "nut"
+      },
+      {
+        "trait_type": "feature",
+        "value": "blue"
+      },
+      {
+        "trait_type": "feature",
+        "value": "leg"
+      }
+    ]
+  }
+}

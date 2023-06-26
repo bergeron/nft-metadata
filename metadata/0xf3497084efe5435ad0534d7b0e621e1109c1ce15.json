@@ -1,0 +1,41 @@
+{
+  "address": "0xf3497084efe5435ad0534d7b0e621e1109c1ce15",
+  "type": "ERC721",
+  "name": "Book of Fresus, Vol 1.",
+  "tokenCount": "78",
+  "uri": "https://aa8dbvnync.execute-api.us-east-2.amazonaws.com/prod/getmetadata?tokenId=2&typeId=0",
+  "metadata": {
+    "name": "Fresus #2",
+    "image": "https://fresus-images.s3.us-east-2.amazonaws.com/2.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yin YELLOW HOUSE"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pink Spotlite"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "Tutu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Acid Tab"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Brown Eyes"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Dbai Sign"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Fro Rasta"
+      }
+    ]
+  }
+}

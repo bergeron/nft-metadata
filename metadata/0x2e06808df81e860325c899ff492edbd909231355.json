@@ -1,0 +1,45 @@
+{
+  "address": "0x2e06808df81e860325c899ff492edbd909231355",
+  "type": "ERC721",
+  "name": "BLVD",
+  "tokenCount": "43",
+  "uri": "https://raw.githubusercontent.com/BULVRD-Tech/BULVRD.ERC721-Maps/master/season_1/red_devil/red_devil.json",
+  "metadata": {
+    "name": "BLVD Map Red Devil",
+    "image": "https://raw.githubusercontent.com/BULVRD-Tech/BULVRD.ERC721-Maps/master/season_1/red_devil/red_devil.jpg",
+    "description": "Limited all red map style",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "season",
+        "value": 1
+      },
+      {
+        "trait_type": "name",
+        "value": "Red Devil"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Day"
+      },
+      {
+        "trait_type": "level",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "supply",
+        "value": 250
+      },
+      {
+        "display_type": "number",
+        "trait_type": "map_id",
+        "value": 0
+      }
+    ],
+    "external_url": "https://bulvrdapp.com/map_styles",
+    "background_color": "3d0101",
+    "styleUrl": "mapbox://styles/bulvrdapp/cjxuufajw0ar31co78ccdmg4t",
+    "buildingHex": "#3d0101"
+  }
+}

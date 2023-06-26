@@ -1,0 +1,50 @@
+{
+  "address": "0xe6e51d00fc2e4f817ea26fc8aa7ec93f2f61270d",
+  "type": "ERC1155",
+  "name": "The place where love disappeared",
+  "tokenCount": "6",
+  "uri": "ipfs://QmZfH1KNnzz5zCx4entogSzWYwDg2Us8vWS9h6zmT2uf6S/1/token.json",
+  "metadata": {
+    "name": "zero",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/image/upload/w_1200/v1678537686/0xf8fd6a5fa90940432e5c7921e332f0c5d33f2d38/640c72c0e1c0162fc378045a/stateCovers/rqtilt9gica5xruxevpg.png",
+    "description": "Outside\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Haru Komoda"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "The place where love disappeared"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0xf8fd6a5fa90940432e5c7921e332f0c5d33f2d38"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Outside",
+              "state": {
+                "label": "zero",
+                "uri": "QmP3Ligfa2DYVSZS5rnrbsAnw7W9MrxvLk4CaMtjv7CMHs"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

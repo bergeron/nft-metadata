@@ -1,0 +1,41 @@
+{
+  "address": "0x9539bb3162860b380d3349ea0d015c4fb4178a2f",
+  "type": "ERC721",
+  "name": "Louvre Studies V2",
+  "tokenCount": "5",
+  "uri": "https://arweave.net/m3p-j-_oX8mC8OwmJvrunuF4zBUU1_SGUjlc2H7Djm4",
+  "metadata": {
+    "name": "Marcus",
+    "created_by": "Palesa",
+    "description": "Marcus Aurelius study, 2018\n\nFormat : 2160 x 2160 video",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Palesa"
+      }
+    ],
+    "animation_details": {
+      "bytes": 43774522,
+      "format": "MP4",
+      "duration": 7,
+      "sha256": "c6e14f572393b8f6957686ffd764498936116fd2b37d53ba6c7115101359c651",
+      "width": 2160,
+      "height": 2160,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/QHZaEl5J5wlPYuqdJ4NSERMqx-Ml01wbZmYZImqFSb8",
+    "animation_url": "https://arweave.net/QHZaEl5J5wlPYuqdJ4NSERMqx-Ml01wbZmYZImqFSb8",
+    "image_details": {
+      "bytes": 5998449,
+      "format": "GIF",
+      "sha256": "778a3853f9daae5afda63c6a9e6b9948c97f7dd47865dcdd22dbd8676696c491",
+      "width": 2160,
+      "height": 2160
+    },
+    "image": "https://arweave.net/KVe8oosIt79RVJxJCU3a4qRSK9O3oPbv9yKv5BWEGXQ",
+    "image_url": "https://arweave.net/KVe8oosIt79RVJxJCU3a4qRSK9O3oPbv9yKv5BWEGXQ"
+  }
+}

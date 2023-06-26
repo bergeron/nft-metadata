@@ -1,0 +1,22 @@
+{
+  "address": "0xd650ad015e481618eee921f08ee524d8c2cf0b9b",
+  "type": "ERC1155",
+  "name": "BitcoinPhunks CLAIM",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/6u8OvAlULUH66XDb9cDcYHFLKupF7e9iq7U1880E42s",
+  "metadata": {
+    "name": "Bitcoin Phunks",
+    "created_by": "NotEthLabs",
+    "external_url": "https://twitter.com/TheSimpsonzPunk",
+    "description": "Bitcoin Phunks are the first byte-perfect uploads of the original Ethereum CryptoPunks but simply FLIPPED onto the Bitcoin Blockchain using Ordinals.\n\nTo make this site, we are checking the hash of every image uploaded to Ordinals and comparing it against the original 10k punk images. The links to Bitcoin Phunks are the first-seen inscriptions (lowest ID) that contain these hashes on Ordinals.",
+    "image_details": {
+      "bytes": 51170,
+      "format": "JPEG",
+      "sha256": "dc2bbbbcb0accf1437f0881970c7f15a88afcee4f03bc7dc73f9e66cca2b2c65",
+      "width": 1000,
+      "height": 1000
+    },
+    "image": "https://arweave.net/wuA6xZK157B-NTM_A8BrglxtVzc3F8wcnml1OrVWK48",
+    "image_url": "https://arweave.net/wuA6xZK157B-NTM_A8BrglxtVzc3F8wcnml1OrVWK48"
+  }
+}

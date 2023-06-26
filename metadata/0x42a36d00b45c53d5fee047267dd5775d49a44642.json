@@ -1,0 +1,38 @@
+{
+  "address": "0x42a36d00b45c53d5fee047267dd5775d49a44642",
+  "type": "ERC721",
+  "name": "3LandBirds",
+  "tokenCount": "2222",
+  "uri": "ipfs://QmTsVBSipNaAth8NjZQvmFX5UchjHNPefgVdXJPdszXna2/1.json",
+  "metadata": {
+    "name": "LandBird #2",
+    "description": "One exclusive collection of 2222 3LandBirds. Brace for impact.",
+    "image": "ipfs://QmPzeUiuF7njvBMhWeLTk6L71UsnruvzUqejQaaq2P9s1t/2.png",
+    "dna": "c034bb76ff28fda7afda2ce7890b00ea3c88e525",
+    "edition": 2,
+    "date": 1653732618165,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Body",
+        "value": "King"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "High"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Carrot"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Wizard_Hat"
+      }
+    ],
+    "compiler": "3LandBirds Engine"
+  }
+}

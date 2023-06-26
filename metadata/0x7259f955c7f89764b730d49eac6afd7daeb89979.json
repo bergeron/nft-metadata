@@ -1,0 +1,45 @@
+{
+  "address": "0x7259f955c7f89764b730d49eac6afd7daeb89979",
+  "type": "ERC721",
+  "name": "AI in bloom",
+  "tokenCount": "3",
+  "uri": "https://ipfs.pixura.io/ipfs/QmQLoBfYqtVtEVcZLxVKqAVuBMuxPVeVcvY2VZeJztVdfG/metadata.json",
+  "metadata": {
+    "name": "Golden Hibiscus ",
+    "createdBy": "Linda Dounia Rebeiz",
+    "yearCreated": "2022",
+    "description": "Abstract explorations of flora in 3 stages.  First, outputs are generated from a GAN trained on 2,000 abstract acrylic pieces I hand-painted. Then, these outputs are assembled in a grid by hue and composition. Finally, the resulting grid is colour treated in Photoshop. ",
+    "image": "https://ipfs.pixura.io/ipfs/QmRPpcNgTermw9Nin3KJn7fkAFMBqwXrZf4RUrs2H9vKG4/GoldenHibiscusAIFlowers.png",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmRPpcNgTermw9Nin3KJn7fkAFMBqwXrZf4RUrs2H9vKG4/GoldenHibiscusAIFlowers.png",
+      "dimensions": "5760x3240",
+      "size": "32202638",
+      "mimeType": "image/png"
+    },
+    "tags": [
+      "ai",
+      "gan",
+      "grid",
+      "flowers",
+      "abstract",
+      "acrylic",
+      "painting",
+      "flora",
+      "nature"
+    ],
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "234-56-45"
+      },
+      {
+        "trait_type": "Senescence",
+        "value": "Half bloom"
+      },
+      {
+        "trait_type": "Family",
+        "value": "Malvaceae"
+      }
+    ]
+  }
+}

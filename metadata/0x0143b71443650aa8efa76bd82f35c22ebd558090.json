@@ -1,0 +1,35 @@
+{
+  "address": "0x0143b71443650aa8efa76bd82f35c22ebd558090",
+  "type": "ERC1155",
+  "name": "Meeds DAO",
+  "tokenCount": "64",
+  "uri": "https://wom.meeds.io/metadata/1",
+  "metadata": {
+    "name": "Tanit - Common",
+    "description": "Deed NFT : Tanit - Common",
+    "image": "https://wom.meeds.io/static/images/nft/tanit-common.png",
+    "background_color": "#ffffff",
+    "attributes": [
+      {
+        "value": 100,
+        "trait_type": "Max users",
+        "display_type": "number"
+      },
+      {
+        "value": 1,
+        "trait_type": "Minting Power",
+        "display_type": "boost_number",
+        "max_value": 2
+      },
+      {
+        "value": 1,
+        "trait_type": "City voting rights",
+        "display_type": "number"
+      },
+      {
+        "value": "~ 90%",
+        "trait_type": "Scarcity"
+      }
+    ]
+  }
+}

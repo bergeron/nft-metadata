@@ -1,0 +1,29 @@
+{
+  "address": "0x91509d5518f4118dc829f3270b9c2333e5018f5b",
+  "type": "ERC721",
+  "name": "Ape Feels AI",
+  "tokenCount": "157",
+  "uri": "ipfs://QmevrgPcYwrRq43FMerYCCeEN4pGYDAQnnpQ1eTgT4idG7/1.json",
+  "metadata": {
+    "name": "Ape Feels Angry ",
+    "description": "Ape Feels AI are a collection of 5000 Apes generated with AI technology. They were generated from 3 data points: mood, color and persona. Their traits will show you the model values used to generate them. There's an ape in all of us... how do you feel?",
+    "image": "https://cf-ipfs.com/ipfs/QmePNGHQshPFXDEj36awbvEzSK1ScGYYvSEQ7zDg8uGNbN/1.jpg",
+    "edition": 1,
+    "date": 1678958688045,
+    "attributes": [
+      {
+        "trait_type": "Feels",
+        "value": "angry"
+      },
+      {
+        "trait_type": "Color",
+        "value": "red"
+      },
+      {
+        "trait_type": "Entity",
+        "value": "king"
+      }
+    ],
+    "compiler": "AI Ape Factory"
+  }
+}

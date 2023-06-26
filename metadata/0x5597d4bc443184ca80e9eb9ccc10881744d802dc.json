@@ -1,0 +1,45 @@
+{
+  "address": "0x5597d4bc443184ca80e9eb9ccc10881744d802dc",
+  "type": "ERC721",
+  "name": "Shadowy Super Monkeys",
+  "tokenCount": "720",
+  "uri": "ipfs://QmdtGbACJrW64ZShuvgtxymDYvToL7H8benMbXLKp3Sazq/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "SSM",
+    "external_url": "https://shadowysupermonkeys.io",
+    "image": "ar://pwP017b6MMe3unmV_XT7cvUTotUbn7pYIR-en2FpimQ",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dusk"
+      },
+      {
+        "trait_type": "Monkey",
+        "value": "Monkey"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Surgical Mask"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hoodie"
+      },
+      {
+        "trait_type": "Wearable",
+        "value": "Baseball Cap"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "NFT"
+  }
+}

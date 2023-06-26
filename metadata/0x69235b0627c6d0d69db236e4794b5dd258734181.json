@@ -1,0 +1,68 @@
+{
+  "address": "0x69235b0627c6d0d69db236e4794b5dd258734181",
+  "type": "ERC721",
+  "name": "Link TOADs",
+  "tokenCount": "7777",
+  "uri": "https://ltoads-metadata.galaxis.xyz/api/metadata/15/215",
+  "metadata": {
+    "tokenId": 1,
+    "name": "LTOAD #1",
+    "collection_type": "galaxis",
+    "collection_name": "LTOAD",
+    "dna": [
+      "08",
+      "20",
+      "20",
+      "28",
+      "42",
+      "43",
+      "21"
+    ],
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmZTpvPFD6mhUyEkcjKs8wJvYqPH7zW1eppvEPXXRfjrLw/images/15/215.jpeg",
+    "sides": [
+      {
+        "id": "1",
+        "dna": [
+          "08",
+          "20",
+          "20",
+          "28",
+          "42",
+          "43",
+          "21"
+        ],
+        "image": "https://ether-cards.mypinata.cloud/ipfs/QmZTpvPFD6mhUyEkcjKs8wJvYqPH7zW1eppvEPXXRfjrLw/images/15/215.jpeg"
+      }
+    ],
+    "attributes": [
+      {
+        "value": "Fake PNG",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Pink Wojak",
+        "trait_type": "Skin"
+      },
+      {
+        "value": "Braces",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": "Military Black Shades",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "Big Brain",
+        "trait_type": "Head"
+      },
+      {
+        "value": "Hazmat Suit",
+        "trait_type": "Body"
+      },
+      {
+        "value": "Stun Grenade",
+        "trait_type": "Hand"
+      }
+    ]
+  }
+}

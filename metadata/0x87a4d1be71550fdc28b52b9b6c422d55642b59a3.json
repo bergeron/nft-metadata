@@ -1,0 +1,66 @@
+{
+  "address": "0x87a4d1be71550fdc28b52b9b6c422d55642b59a3",
+  "type": "ERC721",
+  "name": "AzuBears",
+  "tokenCount": "2",
+  "uri": "ipfs://QmP6gHzJ41WWe1RhnwtAq5QgEDorYCTnSiHq7AyyX8xTGs/1.json",
+  "metadata": {
+    "name": "AzuBear  #1",
+    "description": "5,555 AzuBears Generated from 150+ Clean & Unique Traits. Living on Ethereum Blockchain. Inspired by two Greatest projects Azuki & Okay Bears. Not Affiliated with any projects.",
+    "image": "ipfs://QmXDhWTx5FB6GgHgzRpzZkeNaifJYpppogLHH4CEqbU99S/1.png",
+    "dna": "8d4e17c5f6a8c3e4ba8da35c269caa728930ceda",
+    "edition": 1,
+    "date": 1653770294158,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "background sea light gray  01"
+      },
+      {
+        "trait_type": "azuki",
+        "value": "umbrella gold"
+      },
+      {
+        "trait_type": "base",
+        "value": "light pink base"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "angry"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blank png (1)"
+      },
+      {
+        "trait_type": "head",
+        "value": "bandana"
+      },
+      {
+        "trait_type": "outfits",
+        "value": "gray outfit"
+      },
+      {
+        "trait_type": "fire",
+        "value": "fire"
+      }
+    ],
+    "compiler": "https://nft-generator.art/",
+    "external_url": "http://azubears.xyz/",
+    "animation_url": "",
+    "seller_fee_basis_points": 500,
+    "properties": {
+      "creators": [
+        {
+          "address": "0xf71240eCeeF6d8FB3Bfb094399c0488C74c91984",
+          "share": 5
+        }
+      ]
+    },
+    "collection": {
+      "name": "AzuBears",
+      "family": "AzuBears"
+    },
+    "symbol": "AzB"
+  }
+}

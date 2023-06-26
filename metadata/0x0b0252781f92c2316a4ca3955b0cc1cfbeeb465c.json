@@ -1,0 +1,79 @@
+{
+  "address": "0x0b0252781f92c2316a4ca3955b0cc1cfbeeb465c",
+  "type": "ERC721",
+  "name": "Ninja KITTI",
+  "tokenCount": "220",
+  "uri": "ipfs://QmZ7WbXjUsazrPT5Q4dPf5me1e2rxWaPNnQ7eyBoXaaoUH/1",
+  "metadata": {
+    "dna": "6c86f2c0b08a89afb7d7e066bca20bee68668e5c",
+    "name": "Verda",
+    "description": "1 of 10,000 strong Legion of Ninja KITTI, biogenetically engineered assassins that have survived WW3 and now roam the deserted towns and cities of the old world.",
+    "image": "ipfs://QmdTqVjauh8ABwRgLZJoGzSiEJLeJM9mj3JaPse4Qy8cAi/1.jpg",
+    "stats": "https://api.ninjakitti.com/v1/KITTI/6c86f2c0b08a89afb7d7e066bca20bee68668e5c",
+    "edition": 1,
+    "date": 1633638837607,
+    "attributes": [
+      {
+        "trait_type": "Scene",
+        "value": "Mutt_Club"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "none"
+      },
+      {
+        "trait_type": "Skin Tone",
+        "value": "Tanned"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Battle_Cry"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry_Blue"
+      },
+      {
+        "trait_type": "Accessory Under",
+        "value": "Blue_Bow"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "BMF_Ball_And_Chain"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Blue_Battle_Robe"
+      },
+      {
+        "trait_type": "Hairstyle",
+        "value": "Medium_Red"
+      },
+      {
+        "trait_type": "Accessory Over",
+        "value": "Blue_Rose"
+      },
+      {
+        "trait_type": "Base_Strength",
+        "value": 14
+      },
+      {
+        "trait_type": "Base_Speed",
+        "value": 10
+      },
+      {
+        "trait_type": "Base_Agility",
+        "value": 17
+      },
+      {
+        "trait_type": "Base_Brains",
+        "value": 14
+      },
+      {
+        "trait_type": "Base_Intuition",
+        "value": 12
+      }
+    ],
+    "compiler": "Moocharoo Ninja"
+  }
+}

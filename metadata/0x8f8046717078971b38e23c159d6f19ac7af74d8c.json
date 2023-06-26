@@ -1,0 +1,28 @@
+{
+  "address": "0x8f8046717078971b38e23c159d6f19ac7af74d8c",
+  "type": "ERC1155",
+  "name": "Moonopoly",
+  "tokenCount": "33",
+  "uri": "https://ipfs.io/ipfs/QmQ4PpA92tRvLpzQ1WpNt59ND8WWZLEV8WDB1TQBPz787g/1.json",
+  "metadata": {
+    "id": 1,
+    "name": "Card #1 | Lagos Miner",
+    "description": "Welcome to Moonopoly, this card represents Nigeria Lagos City Miner Card in the NFT game Moonopoly.",
+    "external_url": "https://moonopolynft.io/",
+    "image": "https://ipfs.io/ipfs/QmSvjT44JLJZ1eDBXjwWrDSf3ogXU2gYRTJudJLfTePWoE/1.png",
+    "attributes": [
+      {
+        "trait_type": "Country",
+        "value": "Nigeria"
+      },
+      {
+        "trait_type": "City",
+        "value": "Lagos"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Miner"
+      }
+    ]
+  }
+}

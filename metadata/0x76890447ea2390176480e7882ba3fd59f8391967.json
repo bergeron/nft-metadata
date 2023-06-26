@@ -1,0 +1,67 @@
+{
+  "address": "0x76890447ea2390176480e7882ba3fd59f8391967",
+  "type": "ERC721",
+  "name": "Episode",
+  "tokenCount": "1",
+  "uri": "https://ipfs.amplicu.be/podcasts/1/episodes/1/metadata.json",
+  "metadata": {
+    "name": "Worlds Beyond the RSS Feed",
+    "description": "Welcome! My name’s Teevio and you are listening to Audiocube. Audiocube is the first podcast on the decentralized web to be consumable on all modern podcast listening apps. What that means and my journey with building the next generation of podcast technology is what Audiocube is all about.\r\n\r\nFor well over 15 years I have been working in the world of startups. I have been creating simple tools for creators to help them succeed at what they love doing. These tools have ranged from music discovery, website creation and most recently, podcast distribution and analytics. If you have heard of PureVolume, Virb or Simplecast, you’ll have an idea of some of the things I’ve been a part of over the years.\r\n\r\nWhen I first started rebuilding Simplecast 5+ years ago I was struck by the pureness of the podcast medium. Podcasting had not been taken over by any of the monoliths, RSS feeds were critical to the openness of the ecosystem and were arguably the main reason that podcasting is still as open today as the day it was born. Recent acquisitions over the past couple years (including Simplecast to SiriusXM with whom I’m currently employed) have shown that the monoliths are wanting to own a piece of the pie. Despite these acquisitions the RSS feed still remains podcasting’s greatest technological success. Even though the feed has been critical to ushering in the future of podcasting, it has also become its biggest weakness.\r\n\r\nThe tech community has been rallying around finding solutions and improvements to existing technology, but new ideas are inevitably limited by what I call the Adoption Implementation Conundrum. This conundrum goes something like this… New ideas cannot be adopted unless the industry as a whole adopts the idea, and the industry won’t adopt the idea unless they have incentive to implement it. Or to apply this to podcasting, in order for a podcast listening app to source data from something other than an RSS feed, the podcasting industry as a whole needs to implement a new way to surface that data, but there is zero incentive for either party to do so.\r\n\r\nOn the surface it appears like we’re stuck with RSS feeds forever, which is why the tech community has been rallying around finding solutions and improvements to existing technology under the moniker Podcasting 2.0. Lots of great work is being done to unlock new, innovative features that podcast apps can use to enhance their current listener experiences. Unfortunately, we’re still stuck with both positives and negatives of the RSS feed.\r\n\r\nDespite the hurdles of new ideas, I’m not satisfied with just keeping the status quo afloat. I want to explore a new era of podcasting. One that embodies the ethos of the RSS feed, while unlocking new potential with cutting edge technology. This is why I’m embarking on a quest for something new. I have spent my free time over the past year building a prototype for moving forward. I personally think it is the solution, or possibly a stepping stone to the solution for the future of podcasting. You might disagree and think I’m crazy, but I encourage you to join me in upcoming episodes as I dig deeper into the project I call Amplicube.\r\n",
+    "external_url": "https://shows.amplicu.be/1/episodes/1",
+    "image": "",
+    "properties": {
+      "audio": {
+        "name": "Audio",
+        "type": "object",
+        "value": {
+          "duration": "274.991062",
+          "filesize": 4403953,
+          "ipns": "ipfs.amplicu.be/podcasts/1/episodes/1/audio.mp3",
+          "type": "audio/mpeg"
+        }
+      },
+      "episode": {
+        "name": "Episode #",
+        "type": "integer",
+        "value": "1"
+      },
+      "episodeType": {
+        "name": "Episode Type",
+        "type": "string",
+        "value": "trailer"
+      },
+      "explicit": {
+        "name": "Explicit",
+        "type": "boolean",
+        "value": "false"
+      },
+      "guid": {
+        "name": "GUID",
+        "type": "guid",
+        "value": "audiocube-episode-1"
+      },
+      "image": {
+        "name": "Image",
+        "type": "object",
+        "value": {
+          "ipns": ""
+        }
+      },
+      "publishedAt": {
+        "name": "Published At",
+        "type": "datetime",
+        "value": ""
+      },
+      "season": {
+        "name": "Season #",
+        "type": "integer",
+        "value": "1"
+      },
+      "tokenID": {
+        "name": "Token ID",
+        "type": "numeric",
+        "value": "1"
+      }
+    }
+  }
+}

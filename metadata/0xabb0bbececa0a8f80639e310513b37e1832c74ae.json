@@ -1,0 +1,39 @@
+{
+  "address": "0xabb0bbececa0a8f80639e310513b37e1832c74ae",
+  "type": "ERC721",
+  "name": "ChainFormers",
+  "tokenCount": "337",
+  "uri": "https://api.chainformers.world/1",
+  "metadata": {
+    "name": "ChainFormer #1",
+    "description": "888 unique collectible characters with proof of ownership working on the Ethereum blockchain. ChainFormer grants you community voting rights.",
+    "image": "https://api.chainformers.world/1.png",
+    "attributes": [
+      {
+        "trait_type": "Model",
+        "value": "0x720a4f"
+      },
+      {
+        "trait_type": "Body",
+        "value": "0x51e9a"
+      },
+      {
+        "trait_type": "Head",
+        "value": "0x922f01"
+      },
+      {
+        "trait_type": "Reactor",
+        "value": "0xa4"
+      },
+      {
+        "trait_type": "Shield",
+        "value": "0xbb26"
+      },
+      {
+        "trait_type": "Weapons",
+        "value": "0x5e12c24d"
+      }
+    ],
+    "compiler": "https://startnft.app"
+  }
+}

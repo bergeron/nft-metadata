@@ -1,0 +1,49 @@
+{
+  "address": "0x2fc46fff628f8a3fcf0a062441023ad1542a5344",
+  "type": "ERC721",
+  "name": "Floating Skulls Official",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeigtwyghgmsa6nqdl5yg2bni6uj2ujyxvmah4vrkyqoj6oirvuslwa/1.json",
+  "metadata": {
+    "name": "Skull1",
+    "description": "Skull1 - 1 of 1200 Skulls minted in First Phase of Floating Skulls NFTs",
+    "fee_recipient": "0xE7C5e86ab3e87f8F9FD18984e61B785c33f6D8bA",
+    "seller_fee_basis_points": 1000,
+    "image": "ipfs://bafybeihutxtcxnmawiusv27u5q4st74gonyppsgietabt3lgop7alhjnui/1.png",
+    "attributes": [
+      {
+        "trait_type": "Bg",
+        "value": "Parrot Green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Sky Blue"
+      },
+      {
+        "trait_type": "Skulls",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Outfits",
+        "value": "Military Coat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "LFG Scarf"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Glowing"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Cap"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 799,
+        "display_type": "number"
+      }
+    ]
+  }
+}

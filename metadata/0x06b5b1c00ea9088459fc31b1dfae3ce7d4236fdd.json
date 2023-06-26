@@ -1,0 +1,36 @@
+{
+  "address": "0x06b5b1c00ea9088459fc31b1dfae3ce7d4236fdd",
+  "type": "ERC721",
+  "name": "Dreadful Pumpkinz NFT",
+  "tokenCount": "100",
+  "uri": "ipfs://bafybeifkxntjohml6kg4rsgvsf6tdzlsmdwxkrfzjked6sc2m7ixqnrpbm/1",
+  "metadata": {
+    "name": "Pumpkin #1",
+    "image": "ipfs://bafybeibwjrzrf4hermndopsjt7heslzab5efmyth27lusx73tj2wbgitzq/1.png",
+    "description": "Dreadful, Scary, Funny and Iconic Halloween Pumpkinz.",
+    "external_url": "https://www.dreadfulpumpkinz.com/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Pumpkin",
+        "value": "Mummy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Yawning"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Dog"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Mad"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "address": "0x69f29b4943b3efefc970459afdebf40e58390c1e",
+  "type": "ERC721",
+  "name": "Leegs",
+  "tokenCount": "1500",
+  "uri": "ipfs://QmQs9ZAwsGAVt6TrESYCuWte8HWd6kYfKUVNeYEZiekX8o/1.json",
+  "metadata": {
+    "name": "Yurimaguas Cavemen",
+    "description": "Ownership pass for the Leegs gaming ecosystem.",
+    "website": "https://www.leegs.io",
+    "image": "ipfs://QmUSrX7cVTMcUAEQS62EmUpiUx36GKAFovezvMy9K7g3Xo/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "City",
+        "value": "Yurimaguas"
+      },
+      {
+        "trait_type": "State",
+        "value": "N/A"
+      },
+      {
+        "trait_type": "Country",
+        "value": "Peru"
+      },
+      {
+        "trait_type": "Team Mascot",
+        "value": "Cavemen"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "UpperLevel"
+      }
+    ]
+  }
+}

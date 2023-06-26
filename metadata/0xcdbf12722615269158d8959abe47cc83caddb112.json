@@ -1,0 +1,73 @@
+{
+  "address": "0xcdbf12722615269158d8959abe47cc83caddb112",
+  "type": "ERC721",
+  "name": "DreamWorldNFTs",
+  "tokenCount": "3315",
+  "uri": "https://dreamworldnfts.com/api/nft/1.json",
+  "metadata": {
+    "dna": "d4325e2129308a217e6d0fdef4931f4a8016abed5d18555d9aff0c8d0956db8f",
+    "name": "Dream World #1",
+    "description": "Dream World: a dream come true",
+    "image": "ipfs://QmZhnFNjMmxEetS4VWbCLdFYtatDpANktscvduPdxA2hoH/1.png",
+    "imageHash": "9b2a4e048bad40cc77c9b1a576a817a7300f9eec76ada9132e99b259556b871f",
+    "edition": 1,
+    "date": 1659233320678,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Crystals"
+      },
+      {
+        "trait_type": "Backpack",
+        "value": "Angel Wings"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Body Zombie"
+      },
+      {
+        "trait_type": "Costume",
+        "value": "Samurai"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Scar"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Ear Z"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Derp"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose Z"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Man Bun"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Shy"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Dreamer",
+        "value": 39
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Health",
+        "value": 83
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Mana",
+        "value": 7
+      }
+    ]
+  }
+}

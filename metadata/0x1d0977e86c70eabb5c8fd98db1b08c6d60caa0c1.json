@@ -1,0 +1,66 @@
+{
+  "address": "0x1d0977e86c70eabb5c8fd98db1b08c6d60caa0c1",
+  "type": "ERC721",
+  "name": "Craft Nouveau: Navette by Alexis Andre",
+  "tokenCount": "200",
+  "uri": "https://token.artblocks.io/0x1D0977e86c70EAbb5c8fD98DB1B08C6d60caa0C1/1",
+  "metadata": {
+    "platform": "TRAME x CPG",
+    "tokenID": "1",
+    "series": "N/A",
+    "aspect_ratio": 0.679969496695475,
+    "payout_address": "0x536b3abcc334bb84cb494fc4a39e6ebb3d396d67",
+    "name": "Navette #1",
+    "minted": true,
+    "artist": "Alexis André",
+    "description": "*Navette* explores a juxtaposition of the virtual and reality by fusing a digital generative process and a physical loom. This collection offers a voyage between the worlds, a shuttle weaving between the two. Using a combination of digital techniques adapted for the physical world, *Navette* plays with the notions of series and unique pieces, but also of the inherent randomness of the digital realm—featuring the infamous “glitch.” Generative art thus becomes a way of taking a shuttle to the edge of a new universe…",
+    "script_type": "js@na",
+    "project_id": "0",
+    "engine_type": "flex",
+    "image": "https://media-proxy.artblocks.io/0x1d0977e86c70eabb5c8fd98db1b08c6d60caa0c1/1.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x1d0977e86c70eabb5c8fd98db1b08c6d60caa0c1/1.png",
+    "generator_url": "https://generator.artblocks.io/0x1d0977e86c70eabb5c8fd98db1b08c6d60caa0c1/1",
+    "animation_url": "https://generator.artblocks.io/0x1d0977e86c70eabb5c8fd98db1b08c6d60caa0c1/1",
+    "royaltyInfo": {
+      "artistAddress": "0x2776621ff536af829919ab6cba8db434aeba43f9",
+      "additionalPayee": "0x7142077a9f1ceaa737ceb54941c45a76a06c715c",
+      "additionalPayeePercentage": 100,
+      "royaltyFeeByID": "0"
+    },
+    "collection_name": "Navette by Alexis André",
+    "website": "https://collectibles.trameparis.com/auctions/navette",
+    "token_hash": "0x585fbd71ba2fde0f7fb762377e2017bde9e0bd64c3772a0f0d16f41cec8947aa",
+    "external_url": "",
+    "primary_asset_url": "https://generator.artblocks.io/0x1d0977e86c70eabb5c8fd98db1b08c6d60caa0c1/1",
+    "features": {
+      "Focus": "Single",
+      "Palette": "Bloody Reds",
+      "Diversity": "Full",
+      "Reception": "Clean"
+    },
+    "traits": [
+      {
+        "trait_type": "Navette",
+        "value": "All Navettes"
+      },
+      {
+        "trait_type": "Navette",
+        "value": "Focus: Single"
+      },
+      {
+        "trait_type": "Navette",
+        "value": "Palette: Bloody Reds"
+      },
+      {
+        "trait_type": "Navette",
+        "value": "Diversity: Full"
+      },
+      {
+        "trait_type": "Navette",
+        "value": "Reception: Clean"
+      }
+    ],
+    "is_static": false,
+    "license": " CC BY-NC 4.0"
+  }
+}

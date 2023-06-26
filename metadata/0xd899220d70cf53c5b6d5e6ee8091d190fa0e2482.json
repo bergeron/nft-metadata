@@ -1,0 +1,31 @@
+{
+  "address": "0xd899220d70cf53c5b6d5e6ee8091d190fa0e2482",
+  "type": "ERC721",
+  "name": "Seattle Kraken",
+  "tokenCount": "500",
+  "uri": "https://api.orangecomet.io/collectible-metadata/kraken-anchor-doubloon/1",
+  "metadata": {
+    "name": "Kraken Anchor Doubloon #1",
+    "description": "The fabled Kraken Anchor Doubloon - these mythical doubloons were thought to be lost to time after they disappeared during a horrific storm. A few were recently found by divers exploring a shipwreck, deep underwater. These rare, small mint numbered doubloons feature the Anchor symbol of the Seattle Kraken. They are a gift of the Kraken and are rarely bestowed.",
+    "image": "ipfs://bafybeibt2bvehnujwv2gy6cg76f4smsvhzch47mge6y3uutsmytkmqs3xy/KRAKEN-ANCHOR-DOUBLOON.jpg",
+    "animation_url": "ipfs://bafybeibt2bvehnujwv2gy6cg76f4smsvhzch47mge6y3uutsmytkmqs3xy/KRAKEN-ANCHOR-DOUBLOON.mp4",
+    "attributes": [
+      {
+        "trait_type": "Team Name",
+        "value": "Seattle Kraken"
+      },
+      {
+        "trait_type": "Team Tri-Code",
+        "value": "SEA"
+      },
+      {
+        "trait_type": "Featured Image",
+        "value": "Anchor"
+      },
+      {
+        "trait_type": "Featuring",
+        "value": "Gold Doubloon"
+      }
+    ]
+  }
+}

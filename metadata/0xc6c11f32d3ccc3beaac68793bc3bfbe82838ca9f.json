@@ -1,0 +1,53 @@
+{
+  "address": "0xc6c11f32d3ccc3beaac68793bc3bfbe82838ca9f",
+  "type": "ERC721",
+  "name": "CryptoBonds",
+  "tokenCount": "2061",
+  "uri": "https://api.syncbond.com/?tokenId=1&lAddr=fb2f545a9ad62f38fe600e24f75ecd790d30a7ba&syncPrice=122937028987287&syncAmount=454270451086465209128&mPayout=542671480867891338824&lPrice=24677928081293080&lAmount=2263020600000000000&startTime=1606799905&isDivs=false&termLength=31104000&divsNow=265203089344278389088",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "GEN 1"
+      },
+      {
+        "trait_type": "Term",
+        "value": "1 year"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Simple Bond"
+      },
+      {
+        "trait_type": "Liquidity Pair",
+        "value": "ETH/SYNC"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Percentage Yield",
+        "value": 19.46
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Date created",
+        "value": 1606799905
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Date of Maturity",
+        "value": 1637903905
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Completion",
+        "value": 259
+      }
+    ],
+    "description": "Each CryptoBond features a randomly generated set of traits, with some being more rare and entertaining than others.     ≋L≋E≋T≋ ≋T≋H≋A≋T≋ ≋S≋Y≋N≋C≋ ≋I≋N≋!≋",
+    "external_url": "https://view.syncbond.com?id=1",
+    "image": "https://img.syncbond.com/bond/1.png",
+    "image_file_array": [],
+    "name": "SYNC CryptoBond",
+    "thumbnail": "https://img.syncbond.com/bond/1_sm.png"
+  }
+}

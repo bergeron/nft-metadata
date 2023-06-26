@@ -1,0 +1,42 @@
+{
+  "address": "0x829fe0b0d2918b433a4d64821284ae0b8430a36f",
+  "type": "ERC721",
+  "name": "CryptoCaffeine V2",
+  "tokenCount": "4",
+  "uri": "ipfs://QmSQhaB1CzTCpTSMEGuiv86bzZYFTUo28enaaCDgmEcCRz/1.json",
+  "metadata": {
+    "name": "Crypto & Caffeine #1",
+    "description": "This collection is dedicated to all crypto lovers who burned the midnight oil alongside their favorite caffeinated beverage",
+    "image": "ipfs://QmZqa9z7tuNFEabVBWQtskkVMCLHyzLmsiFDhtWYzmCnhk/1.png",
+    "dna": "0ff7340ffacf1317a4144ce4446dd860ae3f67e1",
+    "edition": 1,
+    "date": 1647118305409,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "plate",
+        "value": "plate"
+      },
+      {
+        "trait_type": "items on plate",
+        "value": "none"
+      },
+      {
+        "trait_type": "cup",
+        "value": "cup"
+      },
+      {
+        "trait_type": "beverage",
+        "value": "chai tea"
+      },
+      {
+        "trait_type": "beverage topping",
+        "value": "none"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

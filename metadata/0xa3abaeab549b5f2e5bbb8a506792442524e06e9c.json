@@ -1,0 +1,34 @@
+{
+  "address": "0xa3abaeab549b5f2e5bbb8a506792442524e06e9c",
+  "type": "ERC721",
+  "name": "CryptoBahamas",
+  "tokenCount": "75",
+  "uri": "ipfs://QmRmSkBU1iadh4LNksjMnxERET8XQYiQqwLh78ciogp2FL",
+  "metadata": {
+    "title": "Crypto Bahamas Wrap up Party!",
+    "name": "Crypto Bahamas Wrap up Party!",
+    "description": "NFT invitation to a private Crypto Bahamas wrap-up party at The Cove at Atlantis on April 29th at 7pm Eastern Standard Time. The NFT includes food and drinks. There will also be a fire show for attendees!",
+    "attributes": [],
+    "properties": {
+      "image_url": "ipfs://QmSadPvfoEe9hNyutAjVP9PhaBFEMLbiM1S9cuwZLbGyVK",
+      "title": {
+        "type": "string",
+        "description": "Crypto Bahamas Wrap up Party!"
+      },
+      "name": {
+        "type": "string",
+        "description": "Crypto Bahamas Wrap up Party!"
+      },
+      "description": {
+        "type": "string",
+        "description": "NFT invitation to a private Crypto Bahamas wrap-up party at The Cove at Atlantis on April 29th at 7pm Eastern Standard Time. The NFT includes food and drinks. There will also be a fire show for attendees!"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 75
+      },
+      "image_original_url": "ipfs://QmSadPvfoEe9hNyutAjVP9PhaBFEMLbiM1S9cuwZLbGyVK"
+    },
+    "image": "ipfs://QmSadPvfoEe9hNyutAjVP9PhaBFEMLbiM1S9cuwZLbGyVK"
+  }
+}

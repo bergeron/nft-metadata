@@ -1,0 +1,61 @@
+{
+  "address": "0xf8e319164d03dd57dc137ad42c6bbc71d4ea7e4c",
+  "type": "ERC721",
+  "name": "Yeah Tigers Eth",
+  "tokenCount": "245",
+  "uri": "https://bafybeia737e3bpzusnxxn36alotv2fwviezjm44e5rx4fnuvmpfgcfh3ha.ipfs.nftstorage.link/1.json",
+  "metadata": {
+    "name": "Yeah Tigers #1",
+    "symbol": "YT",
+    "description": "Yeah, Tigers is a brand. A beautiful brand built on the love of tigers, with a collection of 10,000 unique Yeah Tigers. By the community, for Solana lovers.",
+    "seller_fee_basis_points": 800,
+    "image": "https://bafybeia3fnbev3z32xjpw7p4wo6vqdphlc5igpgcbjbskiey3h5npnjpma.ipfs.nftstorage.link/1.png?ext=png",
+    "external_url": "yeahtigers.com",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gold with Spirited eyes"
+      },
+      {
+        "trait_type": "Mustache",
+        "value": "Class"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "None"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Green cap"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Greedy"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://bafybeia3fnbev3z32xjpw7p4wo6vqdphlc5igpgcbjbskiey3h5npnjpma.ipfs.nftstorage.link/1.png?ext=png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "FMym8t9hMpv3tk8CHQjqU82CkHt2dS7AxerNehZYPCGQ",
+          "share": 85
+        },
+        {
+          "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+          "share": 15
+        }
+      ]
+    }
+  }
+}

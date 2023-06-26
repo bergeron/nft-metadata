@@ -1,0 +1,50 @@
+{
+  "address": "0xac11b32a2aae7aa91f3e854ce9595c3749fa39a9",
+  "type": "ERC721",
+  "name": "SP1D3RS",
+  "tokenCount": "300",
+  "uri": "https://art-sandbox.sunflower.industries/token/0xac11B32a2aAe7AA91F3E854ce9595C3749fA39a9/1",
+  "metadata": {
+    "description": "SP1D3RS by 0x0v0 — 300 generative spiders crawling their way through the Ethereum blockchain",
+    "dependencies": "[{\"name\":\"p5@1.4.0\",\"keccak256\":\"0xcef1df742d5237151854b6ccd3d7769c7bcb2cf987e4f8f6ca1ad69afdac3dcc\"}]",
+    "artist": "0xA6CAC41de27B32233e05789B7Ae2B1E083ada12B",
+    "external_url": "https://art.sunflower.industries/token/0xac11B32a2aAe7AA91F3E854ce9595C3749fA39a9/1",
+    "image": "https://art-sandbox.sunflower.industries/render/tokenImage/0xac11B32a2aAe7AA91F3E854ce9595C3749fA39a9/1",
+    "name": "SP1D3RS #1",
+    "attributes": [
+      {
+        "trait_type": "Position",
+        "value": "83, 54"
+      },
+      {
+        "trait_type": "Maximum Speed",
+        "value": "8"
+      },
+      {
+        "trait_type": "Color Count",
+        "value": "3"
+      },
+      {
+        "trait_type": "Color #1",
+        "value": "#ffffff"
+      },
+      {
+        "trait_type": "Color #2",
+        "value": "#b60f61"
+      },
+      {
+        "trait_type": "Color #3",
+        "value": "#aafaa9"
+      },
+      {
+        "trait_type": "Wave #1",
+        "value": "sin() x sin()"
+      },
+      {
+        "trait_type": "Wave #2",
+        "value": "sin() x cos()"
+      }
+    ],
+    "animation_url": "https://art-sandbox.sunflower.industries/tokenFrame/0xac11B32a2aAe7AA91F3E854ce9595C3749fA39a9/1"
+  }
+}

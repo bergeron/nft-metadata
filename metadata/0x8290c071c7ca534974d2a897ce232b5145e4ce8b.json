@@ -1,0 +1,49 @@
+{
+  "address": "0x8290c071c7ca534974d2a897ce232b5145e4ce8b",
+  "type": "ERC721",
+  "name": "Crash Archipelago",
+  "tokenCount": "25",
+  "uri": "https://arweave.net/k_jMX4zT3kPbmakB6KmslO-UkFdV0e8hTzvsPV-QXjs",
+  "metadata": {
+    "name": "Crash Archipelago 1",
+    "created_by": "mmmatto.eth",
+    "description": "Crash Archipelago is a generative visual and music project created by mmmatto.eth. \nThe images are procedurally generated realtime 3D renderings and the audio is a probabality driven synthesizer composition. Each final piece is hand-selected by the artist. This is a human in the loop process, not raw algorithmic output. Each token contains an xSeed value which may be used in the generation of future contract based works.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "mmmatto.eth"
+      },
+      {
+        "trait_type": "xSeed",
+        "value": "7743"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Crash Archipelago"
+      }
+    ],
+    "animation_details": {
+      "bytes": 60241953,
+      "format": "MP4",
+      "duration": 59,
+      "sha256": "df15bae7724f3ef3508ee385159838d4c030c21a88b4a47dcb889b4ea8d49fec",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/xLWlL74W3-xeLer23RES-fUcjn67m4p75FN3DaFJGv0",
+    "animation_url": "https://arweave.net/xLWlL74W3-xeLer23RES-fUcjn67m4p75FN3DaFJGv0",
+    "image_details": {
+      "bytes": 1141970,
+      "format": "PNG",
+      "sha256": "db9b295838bb54bcc16cf7934af7855b934119bfb3614235b6f6635ea5d48e0f",
+      "width": 1920,
+      "height": 1080
+    },
+    "image": "https://arweave.net/4Es4OxZFyerfOdWv8GsfCH-SDblFtT7iBM5VpZKcQ-U",
+    "image_url": "https://arweave.net/4Es4OxZFyerfOdWv8GsfCH-SDblFtT7iBM5VpZKcQ-U"
+  }
+}

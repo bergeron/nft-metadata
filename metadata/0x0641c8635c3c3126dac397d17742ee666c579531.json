@@ -1,0 +1,41 @@
+{
+  "address": "0x0641c8635c3c3126dac397d17742ee666c579531",
+  "type": "ERC721",
+  "name": "Pepe3D",
+  "tokenCount": "520",
+  "uri": "ipfs://QmZUjTTia7w1YWz9wfx44VnceTw4GcvZrt9BkwpJTe1hgx/1.json",
+  "metadata": {
+    "name": "Pepe 3D #1",
+    "description": "Just Pepe but 3D",
+    "image": "ipfs://QmU88cjfAexVBmEZaF7r7U3LKhkhoFd6nvTzCmTpFAVbK9/1.png",
+    "edition": 1,
+    "date": 1673678252584,
+    "attributes": [
+      {
+        "trait_type": "Expression",
+        "value": "Appearance"
+      },
+      {
+        "trait_type": "Focal Range",
+        "value": "40mm"
+      },
+      {
+        "trait_type": "Form",
+        "value": "Healthy"
+      },
+      {
+        "trait_type": "Lab",
+        "value": "02"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Saddened"
+      },
+      {
+        "trait_type": "Shade",
+        "value": "Overexpose"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "address": "0xfe82c554abdee9ec7b9a0a1807620b6583e3bfe8",
+  "type": "ERC1155",
+  "name": "Renegade Comics",
+  "tokenCount": "4",
+  "uri": "https://bafybeib5y5svywhygouc6b6nzyuux4bdjdsqbnkbwz2kotpsixyv3sf2bu.ipfs.dweb.link/1.json",
+  "metadata": {
+    "id": 1,
+    "name": "Issue 1: Rare",
+    "description": "This is a Rare cover variant of Special Edition First Issue of The Renegade Runners: The Chip Factory Heist; Part 1. You must hold this token to access the comic book pages.",
+    "image": "https://bafybeiga4abkr6dtabao7s6xi34464qznyc76rknwjgrowkyzhv3g3amxq.ipfs.dweb.link/One_Rare.png",
+    "attributes": [
+      {
+        "trait_type": "Year",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Cover Variant",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Month",
+        "value": "March"
+      },
+      {
+        "trait_type": "Issue",
+        "value": "1"
+      },
+      {
+        "trait_type": "Series",
+        "value": "The Renegade Runners"
+      },
+      {
+        "trait_type": "Cover Artist",
+        "value": "William Black"
+      },
+      {
+        "trait_type": "Publisher",
+        "value": "Renegade Comics"
+      },
+      {
+        "trait_type": "Writer",
+        "value": "Steve Rex"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "William Black"
+      },
+      {
+        "trait_type": "darkblock-id",
+        "value": "0m7XxDC8nk_FkZ82ih6JhKKEUWUt41rrsdhDGk0kcdo",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null
+      },
+      {
+        "trait_type": "darkblock-enabled",
+        "value": "true",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 1,
+        "order": null
+      }
+    ]
+  }
+}

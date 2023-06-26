@@ -1,0 +1,46 @@
+{
+  "address": "0xe9f3037c7e035ab4ad286ccb6ce0be60836446cf",
+  "type": "ERC721",
+  "name": "Toucan Gang",
+  "tokenCount": "7810",
+  "uri": "https://apegang-metadata.herokuapp.com/api/toucans/token/1",
+  "metadata": {
+    "name": "Toucan Gang #1",
+    "image": "https://toucangang.s3.us-east-2.amazonaws.com/ToucanGang-1.png",
+    "attributes": [
+      {
+        "trait_type": "Plumage",
+        "value": "Regular"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Parakeet Open"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Punk"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "STRENGTH",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "CRIT",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "HEALTH",
+        "value": 52
+      },
+      {
+        "display_type": "number",
+        "trait_type": "FAIL REDUCTION",
+        "value": 2
+      }
+    ],
+    "description": "Every Toucan Gang NFT is uniquely generated from 148 traits with different rarities. Besides great digital art, this is also your entry ticket to a soon-to-be global decentralised brand with an amazing community and full commercial usage rights of NFTs."
+  }
+}

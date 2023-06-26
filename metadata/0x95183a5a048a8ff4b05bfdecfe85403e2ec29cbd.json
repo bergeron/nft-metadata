@@ -1,0 +1,57 @@
+{
+  "address": "0x95183a5a048a8ff4b05bfdecfe85403e2ec29cbd",
+  "type": "ERC721",
+  "name": "MNRZ",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/F3MxxK68FUlOwh1vh1G-Oo6A48Dg5M4T2mKBdEi0-Fc/1",
+  "metadata": {
+    "name": "Dancing Manta #1/25",
+    "created_by": "Michael Submerged",
+    "description": "Dancing Manta Ray - Captured at Maldives 2016",
+    "attributes": [
+      {
+        "trait_type": "Animal",
+        "value": "Manta Ray"
+      },
+      {
+        "trait_type": "Device",
+        "value": "Go Pro Hero 7"
+      },
+      {
+        "trait_type": "Biotope",
+        "value": "Ocean"
+      },
+      {
+        "trait_type": "Height in meters",
+        "value": "-10 "
+      },
+      {
+        "trait_type": "Type",
+        "value": "Video"
+      }
+    ],
+    "animation_details": {
+      "bytes": 57666957,
+      "format": "MP4",
+      "duration": 15,
+      "sha256": "206cdbfad622bda89bb122fd581bdb67445e8761bcd98b9a342490fce9d4805f",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/vT8Gxj7NsF1Z8aeiAQ_pZ469vLnSEf2Q4RaGYXGdY_I",
+    "animation_url": "https://arweave.net/vT8Gxj7NsF1Z8aeiAQ_pZ469vLnSEf2Q4RaGYXGdY_I",
+    "image_details": {
+      "bytes": 244163,
+      "format": "PNG",
+      "sha256": "0aa672dba620395809c105d205493a6a1ef7a02aa7f13318429c205ea41ff893",
+      "width": 778,
+      "height": 350
+    },
+    "image": "https://arweave.net/c-yBQBE8veOK8VvzWCQmSO-qE49iUcLzbsdTyxsoDYc",
+    "image_url": "https://arweave.net/c-yBQBE8veOK8VvzWCQmSO-qE49iUcLzbsdTyxsoDYc"
+  }
+}

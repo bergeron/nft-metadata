@@ -1,0 +1,40 @@
+{
+  "address": "0x740af0742ead695dc26a159f8a4dac331b7b3d1e",
+  "type": "ERC721",
+  "name": "BakeryNFTv2",
+  "tokenCount": "112",
+  "uri": "ipfs://QmZo9NZqQbEafu4KPofLhRiPW2wFtQduYHrvrcDkQcDpjM/1",
+  "metadata": {
+    "name": "PASTRY #1",
+    "description": "The BakeryDAO NFT is an NFT just like any other ERC-721 token, but with a slight twist. With a bit of \"Web 3.0\" magic, the BakeryNFT acts as a platform-less membership on the blockchain. Holders are granted access to special research pages on our website, secret discord channels, community-powered forums, benefits on Shopify, the Chef’s newsletter, exclusive videos, airdrops, and much more! Do you think you have what it takes? Join the BakeryDAO and become a pastry now!",
+    "external_url": "https://bakery.fyi",
+    "image": "ipfs://QmPdTnNzLCxhxLmyXvjrtisuymh5YG5itLEkPV9qS1dFWr/1.gif",
+    "attributes": [
+      {
+        "trait_type": "BakeryNFT",
+        "value": "30-Day Membership"
+      },
+      {
+        "trait_type": "Bread Type",
+        "value": "croissant"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "BakeryNFTv2",
+      "family": "BakeryNFTv2"
+    },
+    "symbol": ""
+  }
+}

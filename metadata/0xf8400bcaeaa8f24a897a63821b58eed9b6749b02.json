@@ -1,0 +1,52 @@
+{
+  "address": "0xf8400bcaeaa8f24a897a63821b58eed9b6749b02",
+  "type": "ERC1155",
+  "name": "Unidentified contract - JfOieuoVbU",
+  "tokenCount": "7993",
+  "uri": "https://nft1.projz.com/zuserproductions/1.json",
+  "metadata": {
+    "name": "Likelihood",
+    "image": "http://ccm1.projz.com/3139/1593151273000833024-v2-r343x480-s343x480.webp",
+    "token_id": "1",
+    "type": "Collectibles",
+    "entity_url": "https://nft1.projz.com/1593151219791589376_likelihood.zpk",
+    "entity_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "contract_address": "0xf8400bcaEAA8F24a897a63821B58EEd9B6749B02",
+    "minter_address": "0x819BD349B4ac98066F473129b0337CD76Be9fe83",
+    "credits": [
+      {
+        "name": "Z User @Yiy9g",
+        "certificate_url": "https://nft1.projz.com/certificates/1593154425267752960.pem",
+        "certificate_sha256": "7197a8c3fa5c8ceaa614a66b61b0e942d9d5fd2a8ff1c50934612787b6b2fc7f",
+        "type": "Author"
+      },
+      {
+        "name": "Z User Productions",
+        "certificate_url": "https://nft1.projz.com/certificates/103.pem",
+        "certificate_sha256": "f7c78b7a52fb0217a6cd763bf3a640a0784de1dad3e021daaaf1fd0d19165b8a",
+        "type": "Publisher",
+        "addresses": [
+          "0x819BD349B4ac98066F473129b0337CD76Be9fe83",
+          "0xf8400bcaEAA8F24a897a63821B58EEd9B6749B02",
+          "0x2318f349A75678Fe53eB8f8F4980F4258419B8D2"
+        ]
+      }
+    ],
+    "signatures_url": "https://nft1.projz.com//signatures/1593151219791589376.sig",
+    "capabilities": [
+      {
+        "type": 3,
+        "name": "Readable",
+        "contents": [
+          {
+            "id": 1593151219791589400,
+            "name": "Likelihood",
+            "preview_url": "http://cm1.projz.com/3139/1593151333514051584-v2-r720x480-s720x480.webp",
+            "resource_url": "https://nft1.projz.com/1593151219791589377.zsb",
+            "resource_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        ]
+      }
+    ]
+  }
+}

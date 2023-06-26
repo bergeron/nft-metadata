@@ -1,0 +1,42 @@
+{
+  "address": "0xa3392939bc11a1c4bc6a155b2f6cca760baa850e",
+  "type": "ERC721",
+  "name": "Dirty Kids",
+  "tokenCount": "1",
+  "uri": "ipfs://QmdvjWMdQH8zK3TuK1Cd66KcYAtYZqRLiY4hvgsioSaUZq/1.json",
+  "metadata": {
+    "name": "Dirty Kids #1",
+    "description": "The dirtiest kids in the world are popping up around the world",
+    "image": "ipfs://QmbZoM7wN8WtcYGTkC2sacubUi9KmUzDgW7VqCc6cKHKUs/1.png",
+    "dna": "65996026c2a666b3e88bda347d4e5a73f8274f10",
+    "edition": 1,
+    "date": 1650879904875,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "BGDarkBlue"
+      },
+      {
+        "trait_type": "base",
+        "value": "Boy"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "ClothesOrange"
+      },
+      {
+        "trait_type": "face",
+        "value": "FaceFish"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Hat50s"
+      },
+      {
+        "trait_type": "neck",
+        "value": "bowtie"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

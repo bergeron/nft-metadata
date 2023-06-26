@@ -1,0 +1,88 @@
+{
+  "address": "0x943e488654db6058ff4bba77565682f408b4dc28",
+  "type": "ERC721",
+  "name": "RAREDRAM V3",
+  "tokenCount": "67",
+  "uri": "https://backend.raredram.io/wp-json/wpsc/v2/nft/1860",
+  "metadata": {
+    "id": "1860",
+    "name": "RAREDRAM x TheDRIVER Grand Launch #002",
+    "description": "",
+    "attributes": [
+      {
+        "trait_type": "creator",
+        "value": "@RAREDRAM"
+      },
+      {
+        "trait_type": "last_modified_gmt",
+        "value": "2023-02-02 09:12:30"
+      },
+      {
+        "trait_type": "Distillery",
+        "current_id": 114,
+        "value": "BEN NEVIS",
+        "link": "https://backend.raredram.io/nft-taxonomy/ben-nevis/?id=1858",
+        "parent_id": 29,
+        "parent_value": "Distillery"
+      },
+      {
+        "trait_type": "Cask Type",
+        "current_id": 37,
+        "value": "Red Wine Cask",
+        "link": "https://backend.raredram.io/nft-taxonomy/wine/?id=1858",
+        "parent_id": 34,
+        "parent_value": "Cask Type"
+      },
+      {
+        "trait_type": "Country",
+        "current_id": 113,
+        "value": "SCOTLAND",
+        "link": "https://backend.raredram.io/nft-taxonomy/scotland/?id=1858",
+        "parent_id": 23,
+        "parent_value": "Country"
+      },
+      {
+        "trait_type": "Age",
+        "value": "2012",
+        "parent_value": "Age"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Single Malt Scotch Whisky",
+        "parent_value": "Type"
+      },
+      {
+        "trait_type": "Size",
+        "value": "700",
+        "parent_value": "Size"
+      },
+      {
+        "trait_type": "ABV",
+        "value": "60.5",
+        "parent_value": "ABV"
+      },
+      {
+        "trait_type": "Region",
+        "value": "Highland, Scotland",
+        "parent_value": "Region"
+      },
+      {
+        "trait_type": "Redeem Date",
+        "value": "20280101",
+        "parent_value": "Redeem Date"
+      }
+    ],
+    "media-type": "image",
+    "external_url": "https://backend.raredram.io/nft-product/?id=1860",
+    "author_id": "1",
+    "author_external_url": "https://backend.raredram.io/nft-authors-6/?a=1&id=1858",
+    "author_avatar": "https://backend.raredram.io/wp-content/uploads/ultimatemember/1/profile_photo-190x190.jpg?1687521329",
+    "author_account": "0x0f92e5981286e631086b3B9b7610b1f78425F4a0",
+    "nft_id": "1",
+    "network": "Main Network",
+    "network_url": "https://etherscan.io/token/0x943E488654db6058fF4bBa77565682F408B4dc28?a=1",
+    "contract": "0x943E488654db6058fF4bBa77565682F408B4dc28",
+    "image": "https://backend.raredram.io/wp-content/uploads/2022/11/thedriver_raredram_cover_sq_v01-1.jpg",
+    "animation_url": "https://backend.raredram.io/wp-content/uploads/2022/06/TheDRIVER_8sec__1__low_res.mp4"
+  }
+}

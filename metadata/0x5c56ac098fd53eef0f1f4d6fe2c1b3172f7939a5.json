@@ -1,0 +1,36 @@
+{
+  "address": "0x5c56ac098fd53eef0f1f4d6fe2c1b3172f7939a5",
+  "type": "ERC721",
+  "name": "12tribes.IO",
+  "tokenCount": "2",
+  "uri": "https://cdn-api.niftykit.com/reveal/dklNzeotNBgtTMvu2uef/1",
+  "metadata": {
+    "name": "Asher #1",
+    "description": "12 Tribes NFT",
+    "attributes": [
+      {
+        "trait_type": "BACK",
+        "value": "AMETHYST"
+      },
+      {
+        "trait_type": "FACE",
+        "value": "WITH BEARD"
+      },
+      {
+        "trait_type": "HAIR",
+        "value": "WITH HAIR"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "RED"
+      },
+      {
+        "trait_type": "SANDALS",
+        "value": "SILVER"
+      }
+    ],
+    "image": "ipfs://Qmd58jmiXiHyQVEsnqXUCbzX2rLSq2WGWbpbr5LZK3PLdR/Asher%20%281%29.gif",
+    "seller_fee_basis_points": 700,
+    "fee_recipient": "0x735E5684451a2C1F9f9193c47bAB2911a2d98b55"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "address": "0x9261b6239a85348e066867c366d3942648e24511",
+  "type": "ERC721",
+  "name": "Monkey Bet DAO",
+  "tokenCount": "10000",
+  "uri": "https://api.monkeybet.co/token/1",
+  "metadata": {
+    "name": "Monkey #1",
+    "image": "https://invariantlabs.mypinata.cloud/ipfs/QmfGvH3HQBgMoAQkhr8expSzR3AwcLLBebbDMvwpVNyyoJ/58348a40554f6c844a580462228ce268.png",
+    "attributes": [
+      {
+        "value": "purple",
+        "trait_type": "Background"
+      },
+      {
+        "value": "scars",
+        "trait_type": "Body"
+      },
+      {
+        "value": 5,
+        "trait_type": "FS"
+      },
+      {
+        "value": 92.8,
+        "trait_type": "RTP"
+      },
+      {
+        "value": "lucky",
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "fez",
+        "trait_type": "Head"
+      },
+      {
+        "value": "muerto",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "regular",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": "male",
+        "trait_type": "Gender"
+      }
+    ],
+    "description": "Monkey Bet is the first NFT casino in the world.",
+    "external_url": "https://monkeybet.co"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "address": "0xd389927d33ac5a4c437ce27dda0b1f17cb9ec8d9",
+  "type": "ERC721",
+  "name": "OpenStars",
+  "tokenCount": "121",
+  "uri": "https://raw.githubusercontent.com/openstars-org/stars-database/main/jsons/1.json",
+  "metadata": {
+    "id": 70666,
+    "hip": "70890",
+    "hd": null,
+    "hr": null,
+    "gl": "Gl 551",
+    "bf": null,
+    "proper": "Proxima Centauri",
+    "ra": 14.495985,
+    "dec": -62.679485,
+    "dist": 1.2959,
+    "pmra": -3775.64,
+    "pmdec": 768.16,
+    "rv": -16,
+    "mag": 11.01,
+    "absmag": 15.447,
+    "spect": "M5Ve",
+    "ci": 1.807,
+    "x": -0.472264,
+    "y": -0.361451,
+    "z": -1.151219,
+    "vx": -0.00001186,
+    "vy": 0.00002079,
+    "vz": 0.00001675,
+    "rarad": 3.7950399168,
+    "decrad": -1.0939633847,
+    "pmrarad": -0.0000183048,
+    "pmdecrad": 0.0000037241,
+    "bayer": null,
+    "flam": null,
+    "con": "Cen",
+    "comp": 1,
+    "comp_primary": 70666,
+    "base": null,
+    "lum": 0.0000577032,
+    "var": "V645",
+    "var_min": 11.079,
+    "var_max": 10.939,
+    "spectral_type": "M",
+    "token_id": 1,
+    "temperature": 3304.1824278605,
+    "radius": 0.0234993981,
+    "name": "HIP70890 - Proxima Centauri",
+    "description": "HIP70890 - Proxima Centauri belongs to the Cen constellation. For more information, visit https://explorer.openstars.org/#view/hip-70890",
+    "image": "https://raw.githubusercontent.com/openstars-org/stars-database/main/images/hip70890.png",
+    "external_url": "https://explorer.openstars.org/#view/hip-70890",
+    "animation_url": "https://explorer.openstars.org/#/preview/hip-70890",
+    "attributes": [
+      {
+        "trait_type": "Absolute Magnitude",
+        "value": 15.447
+      },
+      {
+        "trait_type": "Constellation",
+        "value": "Cen"
+      },
+      {
+        "trait_type": "Distance to the Sun",
+        "value": 1.2959
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "address": "0x9640c1a69eadd073d273d75028a1d233cd63016c",
+  "type": "ERC721",
+  "name": "Secret NFT Club",
+  "tokenCount": "1000",
+  "uri": "https://nftclub.vercel.app/api/1",
+  "metadata": {
+    "name": "Membership #1",
+    "description": "Secret NFT Club Membership",
+    "tokenId": 1,
+    "image": "https://gateway.pinata.cloud/ipfs/QmZdEy8xpYbb33khgL8uhs3NMwydREYpgz6NiaUGFSKyaG",
+    "external_url": "https://www.secretnftclub.co",
+    "attributes": [
+      {
+        "trait_type": "Membership",
+        "value": "Secret"
+      }
+    ]
+  }
+}

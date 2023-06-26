@@ -1,0 +1,36 @@
+{
+  "address": "0x799cccb6d0c57345c4dab303c81a5cdffbcdea76",
+  "type": "ERC721",
+  "name": "Walter Ego",
+  "tokenCount": "10000",
+  "uri": "ipfs://bafybeieps7x6k6kzrwllvy2x3gtbpnze7d2rxg6k25e55gic55kg425ceu/1",
+  "metadata": {
+    "name": "Walter Ego #1",
+    "description": "Walter Ego is a human of many faces. Walter Ego likes to dress up. Walter Ego has many different alter egos. Walter Ego doesn't understand tags, he simply is. We are all Walter Ego. We are WE.",
+    "image": "ipfs://bafybeib3b4mia2mbncgc45heepnidc344cn7q646mi4m6lo6fdcvxfld2a/1.jpg",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Blue Turtle Tee"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Blue Mad Matter"
+      },
+      {
+        "trait_type": "Jewelry",
+        "value": "Punk"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Purple Librarian"
+      }
+    ],
+    "compiler": "Open3"
+  }
+}

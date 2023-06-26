@@ -1,0 +1,21 @@
+{
+  "address": "0xf17dce6438e18bdbe51117cf4318b9b3f8b04513",
+  "type": "ERC721",
+  "name": "EarthOnChain",
+  "tokenCount": "10000",
+  "uri": "data:application/json;base64,eyJpbWFnZSI6ImRhdGE6aW1hZ2Uvc3ZnK3htbDtiYXNlNjQsUEhOMlp5QjRiV3h1Y3owaWFIUjBjRG92TDNkM2R5NTNNeTV2Y21jdk1qQXdNQzl6ZG1jaUlIQnlaWE5sY25abFFYTndaV04wVW1GMGFXODlJbmhOYVc1WlRXbHVJRzFsWlhRaUlIWnBaWGRDYjNnOUlqQWdNQ0F6TlRBZ016VXdJajQ4YzNSNWJHVStMbUpoYzJVZ2V5Qm1hV3hzT2lCM2FHbDBaVHNnWm05dWRDMW1ZVzFwYkhrNklITmxjbWxtT3lCbWIyNTBMWE5wZW1VNklESXdjSGc3SUgwOEwzTjBlV3hsUGp4eVpXTjBJSGRwWkhSb1BTSXhNREFsSWlCb1pXbG5hSFE5SWpFd01DVWlJR1pwYkd3OUltSnNZV05ySWk4K1BIUmxlSFFnZUQwaU1UQWlJSGs5SWpFNE55SWdZMnhoYzNNOUltSmhjMlVpUGt4aGRHbDBkV1JsT2lBdE5ESXVOelF4TVNBbUl6RTNOanM4TDNSbGVIUStQSFJsZUhRZ2VEMGlNVEFpSUhrOUlqSXhNQ0lnWTJ4aGMzTTlJbUpoYzJVaVBreHZibWRwZEhWa1pUb2dMVFUzTGpRM05UZzFJQ1lqTVRjMk96d3ZkR1Y0ZEQ0OEwzTjJaejQ9IiwiZGVzY3JpcHRpb24iOiAiWW91ciBsYXRpdHVkZSBhbmQgbG9uZ2l0dWRlIHN0b3JlZCBvbiBjaGFpbiIsImF0dHJpYnV0ZXMiOlt7InRyYWl0X3R5cGUiOiAiTGF0aXR1ZGUiLCJ2YWx1ZSI6ICItNDIuNzQxMSJ9LHsidHJhaXRfdHlwZSI6ICJMb25naXR1ZGUiLCJ2YWx1ZSI6ICItNTcuNDc1ODUifV19",
+  "metadata": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaW5ZTWluIG1lZXQiIHZpZXdCb3g9IjAgMCAzNTAgMzUwIj48c3R5bGU+LmJhc2UgeyBmaWxsOiB3aGl0ZTsgZm9udC1mYW1pbHk6IHNlcmlmOyBmb250LXNpemU6IDIwcHg7IH08L3N0eWxlPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9ImJsYWNrIi8+PHRleHQgeD0iMTAiIHk9IjE4NyIgY2xhc3M9ImJhc2UiPkxhdGl0dWRlOiAtNDIuNzQxMSAmIzE3Njs8L3RleHQ+PHRleHQgeD0iMTAiIHk9IjIxMCIgY2xhc3M9ImJhc2UiPkxvbmdpdHVkZTogLTU3LjQ3NTg1ICYjMTc2OzwvdGV4dD48L3N2Zz4=",
+    "description": "Your latitude and longitude stored on chain",
+    "attributes": [
+      {
+        "trait_type": "Latitude",
+        "value": "-42.7411"
+      },
+      {
+        "trait_type": "Longitude",
+        "value": "-57.47585"
+      }
+    ]
+  }
+}

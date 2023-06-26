@@ -1,0 +1,39 @@
+{
+  "address": "0xcca90ddc76c9e3db6fd436eca1d425128b9483ab",
+  "type": "ERC721",
+  "name": "Buzzlightning Art Store",
+  "tokenCount": "22",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=OgrMdjxpCyDNH7Y7pamu",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1574965637406?alt=media&token=cc6d0e3a-4564-43af-ada1-05f4794a6386",
+    "isForSale": true,
+    "description": "This work of art contains a 3D model of a christmas tree created with Magicavoxel. After you have purchased this artwork  copy the downloaded GIF and change the filename extension of the copy to .zip - to decompress the VOX model please use WinRar. It's limited to 21 pieces ",
+    "contractAddress": "",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted//OgrMdjxpCyDNH7Y7pamu",
+    "minter": "0x2be4AAa52893219eC124c8afc8168b7A6103811A",
+    "mintedOn": {
+      "_seconds": 1574965683,
+      "_nanoseconds": 957000000
+    },
+    "price": "0.02",
+    "name": "Xmas tree",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Xmas tree"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "id": null
+  }
+}

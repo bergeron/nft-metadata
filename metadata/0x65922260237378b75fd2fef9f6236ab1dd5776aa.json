@@ -1,0 +1,35 @@
+{
+  "address": "0x65922260237378b75fd2fef9f6236ab1dd5776aa",
+  "type": "ERC721",
+  "name": "Chibi Frens",
+  "tokenCount": "8165",
+  "uri": "https://api.chibilabs.dev/token/frens/1",
+  "metadata": {
+    "name": "Fabs",
+    "image": "https://cdn.chibilabs.dev/frens/3/images/1.jpg",
+    "animation_url": "https://cdn.chibilabs.dev/frens/3/videos/1.mp4",
+    "glb": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Mystic"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Police"
+      },
+      {
+        "trait_type": "Level",
+        "value": 3
+      }
+    ],
+    "id": 1,
+    "level": 3,
+    "xp": 40973,
+    "external_url": "https://chibilabs.io/collection/frens/1"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0x846c1aa18f83321b94febc08e4c5738052d8573c",
+  "type": "ERC721",
+  "name": "radarboy3000",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/tQqY4ySrbkaqslJUHCEvT0uc13pMrhGe4eH3mCjQDdE",
+  "metadata": {
+    "name": "From darkness to light",
+    "created_by": "radarboy3000",
+    "external_url": "https://twitter.com/radarboy3000",
+    "description": "A live ambient data sculpture that visualises the colour of Ethereum block hashes from the past 256 days.\n\nThe number 256 is a nod to the 256 bit (ie. 32 byte) output from the Keccak256 cryptographic hash function ethereum uses, while the eight rings symblolize the eight bits in computing that make up a byte. \n\nThough a new block is created around every 12-14 seconds, the perceptual visual changes are gradual, as ETH slowly makes it's way through the 16,777,216 (or 256^3) color combinations available on the hex spectrum. \n\nMoving from darkness to light. From the blackness of the genesis block 0x0 in July of 2015, seven years previous to this artwork's mint, to the pureness of white - which should take around another 12 years, and which is also the lifespan of this artwork.  \n\n*radarboy3000 (Singapore, July 2022).\n\nData coutesy of Etherscan.\n\n\n*Double click to toggle fullscreen* \n*Press 1 to toggle block details*",
+    "animation_url": "https://ipfs.io/ipfs/QmPoCKgdcDcHyj3H5EFzwNiLHLYrx7ye4gMpBYn7vGhqbS",
+    "animation_details": "\"format\": \"HTML\"",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "radarboy3000"
+      }
+    ],
+    "image_details": {
+      "bytes": 261765,
+      "format": "PNG",
+      "sha256": "1e43da1a30d59e069a0c7fbbb9047a13c9e8288c50d24097ac656a4ab9e63888",
+      "width": 1776,
+      "height": 1660
+    },
+    "image": "https://arweave.net/zDVULbWi9VcBO5ok2Kh6zKx92_MubJ95oO2aZW9FwKc",
+    "image_url": "https://arweave.net/zDVULbWi9VcBO5ok2Kh6zKx92_MubJ95oO2aZW9FwKc"
+  }
+}

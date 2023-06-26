@@ -1,0 +1,39 @@
+{
+  "address": "0xea22aab8745172c69baf68db127371169744b5e5",
+  "type": "ERC721",
+  "name": "douglies genesis",
+  "tokenCount": "3500",
+  "uri": "ipfs://QmdbsF6AKMwDqyyanRBW8fCV2rSJmaSPZpX4HwbHu8Pa9u/1.json",
+  "metadata": {
+    "dna": "d1553118542c609c9d42b88996c02dcdf0f7f52c4cdb62998f571a1dbb7849f9",
+    "name": "douglie #1",
+    "description": "douglies is an nft project consisting of 3,500 penguin friends focused on fun art, community and positivity. 50% of mint sales donated to organizations that support individuals with autism.",
+    "image": "ipfs://QmagKScRagm7sRbduQMao7H1SWPb3mBxpfPXJ138KeV5sD/1.png",
+    "imageHash": "a006a1ab93164bf3a25bd9202b5d7c3a933c43c1b2cfb467125afb7dde81e76f",
+    "edition": 1,
+    "date": 1655836441626,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Hot Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Bucket"
+      },
+      {
+        "trait_type": "Item",
+        "value": "Game Controller"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  }
+}

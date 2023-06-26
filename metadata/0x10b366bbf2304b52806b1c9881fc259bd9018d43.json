@@ -1,0 +1,32 @@
+{
+  "address": "0x10b366bbf2304b52806b1c9881fc259bd9018d43",
+  "type": "ERC721",
+  "name": "Eggz By Soakverse",
+  "tokenCount": "5000",
+  "uri": "https://nft-api.soakmont.com/nft/eggz/1.json",
+  "metadata": {
+    "id": 5002,
+    "tokenId": 1,
+    "evolution": 2,
+    "name": "Eggz #1",
+    "description": "The Hatchening Happened!!",
+    "image": "https://soakverse-eggz.s3.amazonaws.com/2/images/1.jpg",
+    "webImage": "https://soakverse-eggz.s3.amazonaws.com/2/thumbnails/1.jpg",
+    "attributes": [
+      {
+        "value": "Nature",
+        "trait_type": "Element"
+      },
+      {
+        "value": "Soakmont",
+        "trait_type": "Mutation"
+      },
+      {
+        "value": "The Hatchening",
+        "trait_type": "Evolution"
+      }
+    ],
+    "staked": true,
+    "stakedAt": "2022-11-06T20:02:11.000Z"
+  }
+}

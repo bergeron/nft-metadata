@@ -1,0 +1,38 @@
+{
+  "address": "0xe987fad9c1a8eed4191df5afcd83032af4e37976",
+  "type": "ERC721",
+  "name": "Doodle Slimes",
+  "tokenCount": "45",
+  "uri": "ipfs://QmaNszAGPDoCdVZPqXUpCfDa3TxWwMF7RLv2V5TgNC2P9i/1.json",
+  "metadata": {
+    "name": "Doodle Slimes #1",
+    "description": "3333 16 bit slimes inspired by Doodles!",
+    "image": "ipfs://QmSau9UVJnZAnYwnfmMj8JjXf8Mstg3vyEhEzQRGpV2CrA/1.png",
+    "dna": "33dfd86dfa6aa0c38468c77576934cb876242486",
+    "edition": 1,
+    "date": 1642046882206,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Body",
+        "value": "green"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "outline"
+      },
+      {
+        "trait_type": "Head",
+        "value": "purple long hair"
+      },
+      {
+        "trait_type": "Face",
+        "value": "purple sunglasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

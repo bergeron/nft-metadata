@@ -1,0 +1,40 @@
+{
+  "address": "0xe91852c1c7fd57e3b11a51f2904584e3d5bdd279",
+  "type": "ERC721",
+  "name": "HypnoDuckz Genesis",
+  "tokenCount": "555",
+  "uri": "ipfs://QmcmR1QLuX1SNtHxEysw5VcXzg2QoXb8SERs2rNbKMpkWB/1",
+  "metadata": {
+    "dna": "e99fae16b2344cfb59aa06097284d4c6d60d0e3d",
+    "name": "Duck #1",
+    "description": "HypnoDuckz Genesis",
+    "image": "ipfs://QmVxUXzSEd8CU5Gb6WLFhWbyUE5Kgo85uMxTsqpd7EEN4R/1.png",
+    "edition": 1,
+    "date": 1644104403343,
+    "artist": "Steven Truong",
+    "type": "Genesis",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Guerilla"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Guerilla Suit",
+        "value": "Unlucky"
+      }
+    ],
+    "compiler": "HypnoDuckz"
+  }
+}

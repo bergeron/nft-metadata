@@ -1,0 +1,160 @@
+{
+  "address": "0x8fa8e6cce19f973566f97661d13e40d3b179727b",
+  "type": "ERC721",
+  "name": "MARNOTAUR NFT COLLECTION",
+  "tokenCount": "2329",
+  "uri": "https://nftstars.app/backend/api/v1/nfts/metadata/0x8fa8e6cce19f973566f97661d13e40d3b179727b/1",
+  "metadata": {
+    "categories": [],
+    "tags": [],
+    "exclusive": false,
+    "drop": false,
+    "openSale": false,
+    "publish": true,
+    "comingSoon": false,
+    "adultContent": false,
+    "isHiddenPlatform": true,
+    "statusMint": "minted",
+    "typeContract": "erc721",
+    "typeSale": "fixed",
+    "authorRoyalty": 10,
+    "attributes": [
+      {
+        "trait_type": "REAR",
+        "value": "Bloody War"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "Aviators"
+      },
+      {
+        "trait_type": "PADS",
+        "value": "Squadron 1"
+      },
+      {
+        "trait_type": "HORNS",
+        "value": "Crooked"
+      },
+      {
+        "trait_type": "BRACELET",
+        "value": "Minimalistic"
+      },
+      {
+        "trait_type": "SKIN_А",
+        "value": "Joy"
+      },
+      {
+        "trait_type": "BODY",
+        "value": "Over Pumped"
+      },
+      {
+        "trait_type": "OBJECT",
+        "value": "Pet"
+      },
+      {
+        "trait_type": "HAIRS",
+        "value": "Iroquois"
+      },
+      {
+        "trait_type": "CLOTH",
+        "value": "Torn Shirt"
+      },
+      {
+        "trait_type": "BACKPACK",
+        "value": "Axe"
+      },
+      {
+        "trait_type": "FAME",
+        "value": "FAME 0"
+      },
+      {
+        "trait_type": "GLORY",
+        "value": "GLORY 0"
+      }
+    ],
+    "countInit": 1,
+    "name": "Marnotaur #1",
+    "description": "Marnotaurs are representatives of a mighty ancient race that have been created as the main characters of the Marnotaur NFT Collection.\n\nLegend has it that these brutal creatures were pioneers in the thorny labyrinth that is the crypto industry. It was all about survival at the time, which is why the Marnotaurs developed a bunch of unique superpowers that can be used by token owners. For instance, Marnotaur NFTs provide holders with regular rewards, increased leverage on the platform and other beneficial features.",
+    "contentType": "image",
+    "nonce": 1,
+    "blockchain": "ethereum",
+    "nonceTimestamp": 1634724502711,
+    "image": "https://drxl8aekdws16.cloudfront.net/nfts/9f75iufc4u.webp",
+    "seoImage": "https://drxl8aekdws16.cloudfront.net/nfts/szcszpiuh8.png",
+    "thumbnail": "https://drxl8aekdws16.cloudfront.net/nfts/sd2z3in2s2.webp",
+    "hash": "0x25747693100b049807ede707ba0d4053cdce03d4c61b669be4bd6ed0bee48760",
+    "author": {
+      "links": [],
+      "verificationForm": false,
+      "specialization": [],
+      "verification": false,
+      "publish": true,
+      "address": "0x19308b90080ed48b2617db0943cc33482497c937",
+      "userPicture": "https://drxl8aekdws16.cloudfront.net/default/m4cjbmnsid.png",
+      "type": "simple",
+      "nonce": 376127308,
+      "seoImage": "60ca08144eb8d12b883695eb"
+    },
+    "owners": [],
+    "nftsHistory": [
+      {
+        "action": "mint",
+        "status": "success",
+        "amount": 1,
+        "hash": "https://etherscan.io/tx/0x25747693100b049807ede707ba0d4053cdce03d4c61b669be4bd6ed0bee48760",
+        "createdAt": "2021-10-20T10:08:22.827Z",
+        "user": {
+          "links": [],
+          "verificationForm": false,
+          "specialization": [],
+          "verification": false,
+          "publish": true,
+          "address": "0x19308b90080ed48b2617db0943cc33482497c937",
+          "userPicture": "https://drxl8aekdws16.cloudfront.net/default/m4cjbmnsid.png",
+          "nonce": 376127308,
+          "seoImage": "60ca08144eb8d12b883695eb"
+        },
+        "owner": {
+          "links": [],
+          "verificationForm": false,
+          "specialization": [],
+          "verification": false,
+          "publish": true,
+          "address": "0x19308b90080ed48b2617db0943cc33482497c937",
+          "userPicture": "https://drxl8aekdws16.cloudfront.net/default/m4cjbmnsid.png",
+          "nonce": 376127308,
+          "seoImage": "60ca08144eb8d12b883695eb"
+        }
+      },
+      {
+        "action": "create",
+        "createdAt": "2021-10-20T10:08:22.778Z",
+        "user": {},
+        "owner": {
+          "links": [],
+          "verificationForm": false,
+          "specialization": [],
+          "verification": false,
+          "publish": true,
+          "address": "0x19308b90080ed48b2617db0943cc33482497c937",
+          "userPicture": "https://drxl8aekdws16.cloudfront.net/default/m4cjbmnsid.png",
+          "nonce": 376127308,
+          "seoImage": "60ca08144eb8d12b883695eb"
+        }
+      }
+    ],
+    "nftAddress": {
+      "default": false,
+      "statusMint": "success",
+      "blockchain": "ethereum",
+      "name": "MARNOTAUR NFT COLLECTION",
+      "typeContract": "erc721",
+      "address": "0x8fa8e6cce19f973566f97661d13e40d3b179727b",
+      "symbol": "MARNOTAUR",
+      "image": "https://drxl8aekdws16.cloudfront.net/default/glddoiqxlt.png",
+      "createdAt": "2021-10-20T09:30:38.297Z",
+      "updatedAt": "2021-10-20T09:30:38.297Z"
+    },
+    "external_url": ""
+  }
+}

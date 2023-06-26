@@ -1,0 +1,38 @@
+{
+  "address": "0x6c54be8cc946a216d37543bdc9de64a81491eb72",
+  "type": "ERC721",
+  "name": "Zen Skulls",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=1lYZTUggpabNQsP1JaSA",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1577115326889?alt=media&token=4bb138e7-cb37-4d36-adf7-39f59e204e11",
+    "isForSale": true,
+    "contractAddress": "0x6c54be8cc946a216d37543bdc9de64a81491eb72",
+    "description": "Colorful reminder of one's mortality",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x6c54be8cc946a216d37543bdc9de64a81491eb72/1lYZTUggpabNQsP1JaSA",
+    "minter": "0x58f373cc4390705ff89ff15b2116f0047f0207f3",
+    "mintedOn": {
+      "_seconds": 1577115362,
+      "_nanoseconds": 661000000
+    },
+    "price": "1",
+    "name": "Zen Skull 1",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Zen Skull 1"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

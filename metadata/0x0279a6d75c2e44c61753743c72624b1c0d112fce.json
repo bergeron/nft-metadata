@@ -1,0 +1,34 @@
+{
+  "address": "0x0279a6d75c2e44c61753743c72624b1c0d112fce",
+  "type": "ERC721",
+  "name": "createOGorilla",
+  "tokenCount": "500",
+  "uri": "ipfs://QmZKtdN21bNzFfmxsHnCXTeTnBQaHnTzsYc7eSWnboiyyH/1.json",
+  "metadata": {
+    "name": "createO.Gorillla #1",
+    "image": "ipfs://Qmd7opmkBquqMXxKrKYZ6ZD7XHcCXXtwzxHTmX2PiEFKtQ/1.png",
+    "description": null,
+    "external_url": null,
+    "seller_fee_basis_points": 200,
+    "collection": {
+      "name": "createO.Gorillla",
+      "family": "createOG"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "share": 100,
+          "address": "AVvM2gJHEHEYg19Lteso3F7BzQ9s8owwWcvMiMG27Wn6"
+        }
+      ]
+    },
+    "attributes": [],
+    "compiler": "nft-inator.com"
+  }
+}

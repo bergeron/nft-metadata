@@ -1,0 +1,23 @@
+{
+  "address": "0xaa2aae8045e0dce6364c7c52bf9c7aca2b5ae443",
+  "type": "ERC721",
+  "name": "BookClubNFT",
+  "tokenCount": "3",
+  "uri": "https://ipfs.io/ipfs/QmRJfBDfV6EuMcc3STcd6V66nfiKy8MJPvVJK8hkiimsKZ/1.json",
+  "metadata": {
+    "name": "BookClub #1",
+    "symbol": "BookClub",
+    "description": "BookClub is the first NFT project turning literature into tradable fragments. Each unique fragment lets you join the BookClub community, take part in community games, and gives you a say in which books launch next.",
+    "image": "https://ipfs.io/ipfs/QmaR2NzA82Jy4nua3oGRu26LPWN3Ey5viMsdpxiE1fTcRH/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Source",
+        "value": "Book Title"
+      },
+      {
+        "trait_type": "Content",
+        "value": "A Christmas Carol"
+      }
+    ]
+  }
+}

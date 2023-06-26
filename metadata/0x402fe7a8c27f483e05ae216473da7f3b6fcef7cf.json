@@ -1,0 +1,64 @@
+{
+  "address": "0x402fe7a8c27f483e05ae216473da7f3b6fcef7cf",
+  "type": "ERC721",
+  "name": "GUARDIANS OF UKRAINE - old V3",
+  "tokenCount": "10",
+  "uri": "ipfs://QmVUvGdQddTc4mvfEic8GghaU5kcDCzyfwZpgD2BpknSY4/1.json",
+  "metadata": {
+    "dna": "f3e8acd159b1c48608f9a111391facd38ff927ac",
+    "name": "Guardian #1155",
+    "description": "5 000 brave Ukrainian soldiers who stand for life and peace of our people",
+    "image": "ipfs://QmPyiXHpnhv2msQihCArorHqWyKKfLs1QrQ8jvrwh2WZbw/1155.png",
+    "edition": 1155,
+    "date": 1646602437642,
+    "symbol": "TG",
+    "seller_fee_basis_points": 500,
+    "external_url": "https://guardiansofukraine.com/",
+    "collection": {
+      "name": "Guardians OF Ukraine",
+      "family": "Guardians OF Ukraine"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x23A4090B0544507167B9FBec02386477a263D861",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green Eyed"
+      },
+      {
+        "trait_type": "Uniform",
+        "value": "Black Shirt Green Vest "
+      },
+      {
+        "trait_type": "Face",
+        "value": "Cossack Mustache"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Olive Hat"
+      },
+      {
+        "trait_type": "Extra",
+        "value": "Walkie Talkie"
+      }
+    ],
+    "compiler": "inst:Crypto_valentin"
+  }
+}

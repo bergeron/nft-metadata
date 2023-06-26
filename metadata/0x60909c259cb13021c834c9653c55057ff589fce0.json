@@ -1,0 +1,37 @@
+{
+  "address": "0x60909c259cb13021c834c9653c55057ff589fce0",
+  "type": "ERC721",
+  "name": "Mona 100",
+  "tokenCount": "101",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=nf4mBBEGBAISW2689LSU",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1588710099049?alt=media&token=acdd7d6e-59c0-409e-bd3f-a693dba92e76",
+    "forSale": true,
+    "contractAddress": "0x60909c259cb13021c834c9653c55057ff589fce0",
+    "description": "Mona 1",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1588710258,
+      "_nanoseconds": 24000000
+    },
+    "price": ".1",
+    "name": "Mona",
+    "fiatPrice": "$20.60",
+    "attributes": [
+      {
+        "trait_type": "Mona",
+        "value": "1"
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x60909c259cb13021c834c9653c55057ff589fce0",
+    "type": "ERC721"
+  }
+}

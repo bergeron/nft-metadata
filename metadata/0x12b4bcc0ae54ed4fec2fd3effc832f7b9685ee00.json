@@ -1,0 +1,42 @@
+{
+  "address": "0x12b4bcc0ae54ed4fec2fd3effc832f7b9685ee00",
+  "type": "ERC721",
+  "name": "LegendsTownNFT",
+  "tokenCount": "3636",
+  "uri": "ipfs://bafybeibkvqpu7ks4lbjkbctabvsm7kqqmrrba2h3imqk6bo5n4ndzwxpy4/1.json",
+  "metadata": {
+    "name": "LegendsTown #1",
+    "description": "5555 Warriors fighting in Legend Town.",
+    "image": "ipfs://QmQkDy1NVfGW5buqGLMuPJkeXRTssAh9Q1cNcRKmMUCRSN/1.png",
+    "dna": "a9e2843bbbf1e6d27d04091b2c59570fb68ee70b",
+    "edition": 1,
+    "date": 1655032411984,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Spear"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Base"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Golden Armor"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "Shield",
+        "value": "Templar Shield"
+      }
+    ],
+    "compiler": "Legends Town Art"
+  }
+}

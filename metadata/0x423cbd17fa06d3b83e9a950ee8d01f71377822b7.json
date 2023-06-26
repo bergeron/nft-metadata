@@ -1,0 +1,25 @@
+{
+  "address": "0x423cbd17fa06d3b83e9a950ee8d01f71377822b7",
+  "type": "ERC721",
+  "name": "DeStar Token",
+  "tokenCount": "11",
+  "uri": "https://ipfs.io/ipfs/QmVJzz8v27ZNYaSw1VxVrHmjenRZa8cpRQYzoVHTuADFJo",
+  "metadata": {
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Star Name Token (Micheal Jackson)"
+      },
+      "description": {
+        "type": "string",
+        "description": "NFT to represent StarRA 17h 47m 53s  DEC 2° 42' 25\" Named : Micheal Jackson"
+      },
+      "image": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/QmUtMDXNytGubNzBQ4sa7PyPGXmJUgZ97tjYbK6n6cgAVR/certificate.png"
+      }
+    }
+  }
+}

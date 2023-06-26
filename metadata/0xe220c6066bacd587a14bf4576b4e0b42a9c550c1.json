@@ -1,0 +1,38 @@
+{
+  "address": "0xe220c6066bacd587a14bf4576b4e0b42a9c550c1",
+  "type": "ERC721",
+  "name": "Rokyboy",
+  "tokenCount": "15",
+  "uri": "https://bafybeidzutbfptqjxhkyvgkholymbn4rnvjpweu4xqzttja6uvmkktdori.ipfs.w3s.link/1.json",
+  "metadata": {
+    "name": "RokyBoy #1",
+    "description": "NFT Asset Detailed Description #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sfondo20"
+      },
+      {
+        "trait_type": "Body",
+        "value": "1667280249648"
+      },
+      {
+        "trait_type": "Face",
+        "value": "1667280260549"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x6E0866957D5c45C13E9687C7f7F2711547E736A2",
+        "share": 100
+      }
+    ],
+    "collection": {
+      "name": "Rokyboy",
+      "family": "Unique Family Name"
+    },
+    "symbol": "NFT",
+    "seller_fee_basis_points": 2,
+    "image": "https://bafybeiead7betfee5gyi5nh3ydvflwp6epv3dhj6rwizokqxfvtgl6josi.ipfs.w3s.link/1.png"
+  }
+}

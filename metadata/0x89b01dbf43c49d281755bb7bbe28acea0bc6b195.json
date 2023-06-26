@@ -1,0 +1,50 @@
+{
+  "address": "0x89b01dbf43c49d281755bb7bbe28acea0bc6b195",
+  "type": "ERC721",
+  "name": "Rental Raccoons - old V2",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeig2buuui6fwu7jghntcogd4xskrbxwmjz7yrn53ktwjkoify52usy/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "",
+    "external_url": "",
+    "image": "1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Raccoon",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sleepy"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Horns"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Bolo Tie"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

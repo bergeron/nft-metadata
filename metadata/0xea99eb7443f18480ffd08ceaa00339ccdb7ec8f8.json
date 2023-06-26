@@ -1,0 +1,29 @@
+{
+  "address": "0xea99eb7443f18480ffd08ceaa00339ccdb7ec8f8",
+  "type": "ERC721",
+  "name": "ETH Burn V2",
+  "tokenCount": "9",
+  "uri": "https://d1dylvi7fqxatl.cloudfront.net/metadata/1",
+  "metadata": {
+    "description": "ETH Burned NFT estimates the amount of Ether currently disappearing from circulation since EIP-1559 London hard fork. Each token regenerates unique animation every minute representing transactions at that specific moment in time. Only upto 1000 tokens will ever be minted. Each token also offers shares in Ventura Protocol DAO of 0.01% per token (To join DAO find us on DAOHaus and follow instructions). All funds go to supporting Ventura Protocol DAO.",
+    "external_url": "https://app.daohaus.club/dao/0x89/0x9f22cc433206ae1ad87c73ea93981913d0e27daf",
+    "image": "https://d1dylvi7fqxatl.cloudfront.net/visual/1",
+    "name": "ETH Burned #2",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 2,
+        "max_value": 1000
+      },
+      {
+        "trait_type": "Appearance",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "Ventura Protocol DAO Membership",
+        "value": "Unclaimed"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0xfc5725b65526706b748c0c9c60b807a1557dff4b",
+  "type": "ERC721",
+  "name": "BitDoods",
+  "tokenCount": "2",
+  "uri": "ipfs://QmfTUxqHYGH5JnLxy64rGa3Qn1Wfv7Rkpijbcr9cbcjSVJ/1.json",
+  "metadata": {
+    "dna": "f4c05eb29ac1d36de0f63519bd0ef7d5771a5713",
+    "name": "#1",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://QmdGQ4MjBRycYTRG4favCVXyG5XMzyRdywAHbuvrmpqU7F/1.png",
+    "edition": 1,
+    "date": 1643113089497,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "gradient fall"
+      },
+      {
+        "trait_type": "2 body",
+        "value": "green hoodie"
+      },
+      {
+        "trait_type": "3 head",
+        "value": "tan"
+      },
+      {
+        "trait_type": "4 hair",
+        "value": "green puffballs"
+      },
+      {
+        "trait_type": "5 piercing",
+        "value": "none"
+      },
+      {
+        "trait_type": "6 face",
+        "value": "surprised"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "address": "0xadf9b34b82de3ef70bb943db659791f44e65af4a",
+  "type": "ERC721",
+  "name": "ART HAUS",
+  "tokenCount": "1000",
+  "uri": "ipfs://bafkreieq7hqvdka3shjednygevqhb26lqit6uvtpxnynm6wllit7x6luyu?tokenId=1",
+  "metadata": {
+    "title": "Metadata",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "HAUS KEY"
+      },
+      "image": {
+        "type": "string",
+        "description": "ipfs://bafybeifrighiesouvpljw7kmr47hhgy6dzrxvr3ugzgtw7zxnqd3bi2l5y/?tokenID="
+      },
+      "imageUrl": {
+        "type": "string",
+        "description": "ipfs://bafybeifrighiesouvpljw7kmr47hhgy6dzrxvr3ugzgtw7zxnqd3bi2l5y/?tokenID="
+      },
+      "description": {
+        "type": "string",
+        "description": "Welcome to ART HAUS, the premier residence for tokenised works, digital and physical, where we offer members-only exclusives from established and emerging artists. Keyholders have the opportunity to RSVP and unlock an annual HAUS GUEST membership by visiting [art.haus/rsvp](https://art.haus/rsvp)."
+      },
+      "animation_url": {
+        "type": "string",
+        "description": "ipfs://bafybeifrighiesouvpljw7kmr47hhgy6dzrxvr3ugzgtw7zxnqd3bi2l5y/?tokenID="
+      },
+      "external_url": {
+        "type": "string",
+        "description": "https://art.haus/rsvp"
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "ipfs://bafybeifrighiesouvpljw7kmr47hhgy6dzrxvr3ugzgtw7zxnqd3bi2l5y/?tokenID="
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "mp4"
+      },
+      "preview_media_file2": {
+        "type": "string",
+        "description": "ipfs://bafybeifrighiesouvpljw7kmr47hhgy6dzrxvr3ugzgtw7zxnqd3bi2l5y/?tokenID="
+      },
+      "preview_media_file2_type": {
+        "type": "string",
+        "description": "mp4"
+      },
+      "background_color": {
+        "type": "string",
+        "description": "ffffff"
+      }
+    }
+  }
+}

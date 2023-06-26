@@ -1,0 +1,42 @@
+{
+  "address": "0x9d09df7143ed764baa9427c05ca504d4241e2dba",
+  "type": "ERC721",
+  "name": "Bloomer's Garden",
+  "tokenCount": "501",
+  "uri": "https://www.bloomers.life/api/bloomer/1.json",
+  "metadata": {
+    "name": "Bloomer #1",
+    "description": "Decentralized gardens for a bloomy world wide web",
+    "image": "https://bloomers.life/api/bloomerImage/1.png",
+    "dna": "9c2facbbd7a1a7762ae6e923c305f7e8988a9728",
+    "edition": 1,
+    "date": 1646575121526,
+    "attributes": [
+      {
+        "trait_type": "Pot",
+        "value": "Golden Draco Crystal"
+      },
+      {
+        "trait_type": "Stem",
+        "value": "Crimson Heart Thorn"
+      },
+      {
+        "trait_type": "Fruit",
+        "value": "Dove Pear"
+      },
+      {
+        "trait_type": "Flower",
+        "value": "Awakened Vespertine Frill"
+      },
+      {
+        "trait_type": "Fluttering",
+        "value": "Butter Scotch Butterfly"
+      },
+      {
+        "trait_type": "Lucky Number",
+        "value": "8"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

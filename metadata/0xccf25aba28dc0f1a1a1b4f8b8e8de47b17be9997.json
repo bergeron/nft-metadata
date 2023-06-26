@@ -1,0 +1,25 @@
+{
+  "address": "0xccf25aba28dc0f1a1a1b4f8b8e8de47b17be9997",
+  "type": "ERC1155",
+  "name": "FraktalNFTTheLandDAO Official",
+  "tokenCount": "2",
+  "uri": "ipfs://QmQqa5AkCQGr5AwNzKTxz2WyXXE3wiWyaKLPAbaKu6d6bp/6145.json",
+  "metadata": {
+    "dna": "fe138d4b43c469d107905d5e52b5a09d1eca0c86",
+    "name": "TheLandDAO Tier 3 NFT",
+    "description": "TheLandDao NFT",
+    "image": "ipfs://Qmcw5MyHSwuCWbw1huNHyTob1JsEPjstfSA3d2ckQZc3GS/6145.mp4",
+    "edition": 6660,
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Tier Three"
+      },
+      {
+        "trait_type": "Building",
+        "value": "Crypto Mining"
+      }
+    ],
+    "compiler": "TheLandDAO Engine"
+  }
+}

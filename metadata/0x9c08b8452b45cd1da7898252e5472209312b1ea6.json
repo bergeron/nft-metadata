@@ -1,0 +1,18 @@
+{
+  "address": "0x9c08b8452b45cd1da7898252e5472209312b1ea6",
+  "type": "ERC721",
+  "name": "rand nft V3",
+  "tokenCount": "11",
+  "uri": "ipfs://QmSo8pHAXfoZGge7MGRWRM5jpYuAfCnXMy5yebFvC4gQD5/1",
+  "metadata": {
+    "name": "rand nft 2",
+    "description": "another random nft",
+    "image": "https://randnft.vercel.app/api/rand",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "second"
+      }
+    ]
+  }
+}

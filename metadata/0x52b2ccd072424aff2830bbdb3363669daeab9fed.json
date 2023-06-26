@@ -1,0 +1,70 @@
+{
+  "address": "0x52b2ccd072424aff2830bbdb3363669daeab9fed",
+  "type": "ERC721",
+  "name": "111asdf54ewqr",
+  "tokenCount": "75",
+  "uri": "https://api.artblocks.io/token/396000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "396000001",
+    "series": "N/A",
+    "aspect_ratio": 0.708,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Good, Computer #1",
+    "minted": true,
+    "artist": "Dean Blacc",
+    "description": "### Good job, Computer. Do that some more.\n\nTo what degree can we teach a computer to make a painting? One that resembles creation from the imperfect hand of a human. Here, the computer attempts to hide itself from the viewer in the details, such as inconsistent borders or uneven layers of paint. Intentional flaws that a human might make unintentionally.\nGood, Computer is an exploration of not only how small cumulative inaccuracies create complete images, but also the forms and harmonies that those images evoke.\n\nConsider the following:\n\n***A set of 4 colors is to be considered -- singly as \"actors,\" together as \"cast.\" They are to be presented in 4 different arrangements -- as \"performances.\"***\n***Although they remain unchanged in hue and light, in \"character\", and appear in an unchanging outer frame, the \"stage\", they are to produce 4 different \"scenes\" or \"plays,\" each to be so different that one and the same set of colors will be seen as 4 different sets, presented by 4 different casts.***\n***And all this can be achieved mainly through changes in quantity which result in shifts of dominance, of recurrence, and consequently of placement.***\n***The essential question: which group of colors is ready to lose its identity as a cast?*** \n***-- Josef Albers***\n\nWe can answer this question simply by asking ourselves why we're drawn to some arrangements more than others. In doing so, we consider not just tone, but also quantity, intensity and weight in order to form new relationships between the colours. And as such the viewer gives each image their own subjective personality.\n\n---\n\nPress `s` to save image.",
+    "script_type": "p5@1.0.0",
+    "project_id": "396",
+    "curation_status": "presents",
+    "image": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/396000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/396000001.png",
+    "generator_url": "https://generator.artblocks.io/396000001",
+    "royaltyInfo": {
+      "artistAddress": "0xe6336dd96c9420469313ec6256aa6598f62187c2",
+      "additionalPayee": "0x9e84425ae5e0656f06b2283fdd07ddef30d06bfa",
+      "additionalPayeePercentage": 10,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Good, Computer by Dean Blacc",
+    "website": "https://deanbla.cc/good-computer",
+    "token_hash": "0x3d5ae850f3efc36033edf4cf1c2953a864269552cb7dde5bba0d381ec4e2d445",
+    "external_url": "https://artblocks.io/collections/presents/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/396/tokens/396000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/396000001.png",
+    "features": {
+      "stroke": "Natural",
+      "density": "93%",
+      "palette": "Oaxaca",
+      "blockCount": 4,
+      "composition": "2-way partition"
+    },
+    "traits": [
+      {
+        "trait_type": "Good, Computer",
+        "value": "All Good, Computers"
+      },
+      {
+        "trait_type": "Good, Computer",
+        "value": "stroke: Natural"
+      },
+      {
+        "trait_type": "Good, Computer",
+        "value": "density: 93%"
+      },
+      {
+        "trait_type": "Good, Computer",
+        "value": "palette: Oaxaca"
+      },
+      {
+        "trait_type": "Good, Computer",
+        "value": "blockCount: 4"
+      },
+      {
+        "trait_type": "Good, Computer",
+        "value": "composition: 2-way partition"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC 4.0"
+  }
+}

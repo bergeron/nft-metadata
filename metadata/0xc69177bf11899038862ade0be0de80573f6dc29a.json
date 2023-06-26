@@ -1,0 +1,31 @@
+{
+  "address": "0xc69177bf11899038862ade0be0de80573f6dc29a",
+  "type": "ERC721",
+  "name": "The Greens NFT Club",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeid3pxatfwwfencxggpa5wdoh5hgddnomzzubbyaovqngv7n7754tm/1.json",
+  "metadata": {
+    "name": "Players Card #1",
+    "description": "The Greens NFT Club is an exclusive golf club made up of golf enthusiasts that will be rewarded with a ton of utility benefits. The Players Card gets you access to the most exclusive group from the start; known as The Greens NFT Club.",
+    "image": "ipfs://bafybeidrevrfew3ho2hdvpo74i3dpyij563ntnh4t5wjlmduz5ikibrxiu/1.png",
+    "external_url": "1.png",
+    "dna": "958735cca159efede554ffb0d797bd390fa76068",
+    "edition": 1,
+    "date": 1662064253,
+    "attributes": [
+      {
+        "trait_type": "Card Design",
+        "value": "G-Unit"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Founding Member"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Players Card"
+      }
+    ],
+    "compiler": "generate-nft.online"
+  }
+}

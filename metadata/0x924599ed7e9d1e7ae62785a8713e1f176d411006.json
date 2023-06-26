@@ -1,0 +1,31 @@
+{
+  "address": "0x924599ed7e9d1e7ae62785a8713e1f176d411006",
+  "type": "ERC721",
+  "name": "Seattle Kraken",
+  "tokenCount": "700",
+  "uri": "https://api.orangecomet.io/collectible-metadata/kraken-doubloon/1",
+  "metadata": {
+    "name": "Kraken Doubloon #1",
+    "description": "These coins are the reward for those who go with honor, courage, and determination; that strive for unity with full hearts and open minds. This gateway piece to the Kraken collectible series features the Kraken “S” logo. The spirit of the Kraken is within you.",
+    "image": "ipfs://bafybeih4gr3bb6l4syawpsdqpdpq7r5f6e5u53mkludp5pidyilpewjqay/KRAKEN-DOUBLOON.jpg",
+    "animation_url": "ipfs://bafybeih4gr3bb6l4syawpsdqpdpq7r5f6e5u53mkludp5pidyilpewjqay/KRAKEN-DOUBLOON.mp4",
+    "attributes": [
+      {
+        "trait_type": "Team Name",
+        "value": "Seattle Kraken"
+      },
+      {
+        "trait_type": "Team Tri-Code",
+        "value": "SEA"
+      },
+      {
+        "trait_type": "Featured Image",
+        "value": "Kraken S Logo"
+      },
+      {
+        "trait_type": "Featuring",
+        "value": "Gold Doubloon"
+      }
+    ]
+  }
+}

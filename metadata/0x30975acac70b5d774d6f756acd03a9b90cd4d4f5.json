@@ -1,0 +1,35 @@
+{
+  "address": "0x30975acac70b5d774d6f756acd03a9b90cd4d4f5",
+  "type": "ERC721",
+  "name": "Mutant Punks NFT",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmarGa1VhkFSAuNbEhHUd8HtdveqkASCn1zGhA85S1Ff1r/1.json",
+  "metadata": {
+    "name": "MutantPunk #1",
+    "description": "The punks have turned mutant into Vampire, Frankenstein, Robot, Orc, Ape Zombie, Mummy and Demon",
+    "image": "ipfs://Qmei5geZ3FfGKdqRpaP4A8Wv2RarPqAgX7rzh5BeREqz5F/1.png",
+    "traits": [
+      {
+        "trait_type": "type",
+        "value": "Female Vampire"
+      },
+      {
+        "trait_type": "attribute",
+        "value": "Hot Lipstick"
+      },
+      {
+        "trait_type": "attribute",
+        "value": "Earring"
+      },
+      {
+        "trait_type": "attribute",
+        "value": "Mohawk Dark"
+      },
+      {
+        "trait_type": "attribute",
+        "value": "Clown Eyes Blue"
+      }
+    ],
+    "background_color": "8E6FB6"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "address": "0xe3d234267efea9fd5150cb6d630ab3123fa49f55",
+  "type": "ERC721",
+  "name": "pixelparrots.wtf",
+  "tokenCount": "1558",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmagZfeQQiXv8Su4vv2u2J7GER46ueu2if3aQwTmpC4Rog/1.json",
+  "metadata": {
+    "name": "parrot #1",
+    "symbol": "PPRT",
+    "description": "Pixel Parrots are the most degen of degen mints SWOOOOOPING into the NFT Space. No twitter. No Roadmap. Just pure crazy mf degens. WTF",
+    "seller_fee_basis_points": 690,
+    "image": "https://testlaunchmynft.mypinata.cloud/ipfs/Qmbczc7WAfMNVREnLqHfigQm3pVVYeaS37yhgfrDmKSQG7/1.png",
+    "external_url": "",
+    "collection": {
+      "name": "pixelparrots.wtf",
+      "family": "pixelparrotswtf"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cherry"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Dark Purple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normie"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Hat"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 4459,
+        "display_type": "number",
+        "max_value": 5555
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/Qmbczc7WAfMNVREnLqHfigQm3pVVYeaS37yhgfrDmKSQG7/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x2fEd03A05ce1CdEf3F35AA92A546f174A4b9E51C",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

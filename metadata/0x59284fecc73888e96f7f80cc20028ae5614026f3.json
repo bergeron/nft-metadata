@@ -1,0 +1,38 @@
+{
+  "address": "0x59284fecc73888e96f7f80cc20028ae5614026f3",
+  "type": "ERC1155",
+  "name": "The Good Doctors Ghosts",
+  "tokenCount": "205",
+  "uri": "ipfs://bafybeifnhxftsvqnpf6lbfxbbiotjwyauyi45owgcw4e2mscr7dotggu44/1.json",
+  "metadata": {
+    "name": "TGDG #1",
+    "description": "The Good Doctor's Ghosts, or T.G.D.Gs for short (pronounced tee-jee-dee-jees), a collection of 1000 unique little scamps floating in the aether of the Ethereum blockchain. All T.G.D.Gs are algorithmically generated, sporting unique attributes that give each it's own character and charm. Adopt your's today, and gain access to future events and a stake in community governance.",
+    "external_url": "https://thegooddoctorsghosts.io/",
+    "image": "ipfs://bafybeieqwyvd24655jw4wfhbk74awchk74fxkqoyu55i5hhb3pmspq5wea/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Red Hood"
+      }
+    ],
+    "compiler": "https://nft-generator.art",
+    "fee_recipient": "0xB3cF2b90c8070144A5480308106738f2377C6c6e",
+    "seller_fee_basis_points": 1000
+  }
+}

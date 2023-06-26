@@ -1,0 +1,32 @@
+{
+  "address": "0x9359702f81af4ce9293520ec409c01693e2baaab",
+  "type": "ERC721",
+  "name": "infiNFT alpha poster",
+  "tokenCount": "10",
+  "uri": "https://infiNFTalphaposter.azurewebsites.net/api/HttpTrigger?id=1",
+  "metadata": {
+    "image": "https://gateway.pinata.cloud/ipfs/QmNbJP8Rgte99H9qVgH7zPKL7hmh8iSiAPUNMu4RSmcRh1",
+    "description": "This piece was created by roganx. \n\nArtist Note: This is a limited edition poster created for the InfiNFT Launch Party.\n\nAll InfiNFT art pieces have their metadata stored directly on chain. The file is stored on the Arweave blockchain as well as IPFS, and the hashes from both platforms are written to the token upon minting. \n\n Arweave Reference Link: https://arweave.rocks/ahFVjnghCaKazGsyDBNuDg73s_W0HnPp9JOg-KLvNms\n\n IPFS Reference Link: https://gateway.pinata.cloud/ipfs/QmPJT3dtMjRpKoxQbYRJGzjrNRhCRDkjRrSKWWKLRK75an",
+    "animation_url": "https://gateway.pinata.cloud/ipfs/QmPJT3dtMjRpKoxQbYRJGzjrNRhCRDkjRrSKWWKLRK75an",
+    "external_url": "https://www.infinft.com",
+    "name": "InfiNFT Alpha Launch Poster",
+    "attributes": [
+      {
+        "trait_type": "artist name",
+        "value": "roganx"
+      },
+      {
+        "trait_type": "edition number",
+        "value": "1 of 10"
+      },
+      {
+        "trait_type": "file type",
+        "value": "mp4"
+      },
+      {
+        "trait_type": "royalty fee",
+        "value": "0"
+      }
+    ]
+  }
+}

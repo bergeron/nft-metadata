@@ -1,0 +1,36 @@
+{
+  "address": "0x7930ba2c94f63b090ab6e4c5d804676264790bce",
+  "type": "ERC721",
+  "name": "Twelve Days of CryptoArt Mint Pass",
+  "tokenCount": "520",
+  "uri": "ipfs://bafybeidga6o3yc6nmbrt6oag2exver4bfj5anksdll47jay6bkbksa3f2q/1",
+  "metadata": {
+    "name": "12D Memento #1",
+    "description": "This is a memento from the Twelve Days of CryptoArt season one by UltraDAO. All unminted passes are now simply art for art's sake.",
+    "image": "ipfs://bafybeicuwhl2nxexcicr62ipxffnzso6vycytwb5u5drtw7warbowppqia/gen-7.png",
+    "animation_url": null,
+    "background_color": "#29A691",
+    "youtube_url": null,
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "One"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Chris Wallace"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "G"
+      }
+    ],
+    "seller_fee_basis_points": 750,
+    "fee_recipient": "0x886C772AA5d8383A1C62bdeC8A89fc381F1d5a2d"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0x68f6da67bf6600440723010237c95c27d2b8f763",
+  "type": "ERC721",
+  "name": "Dummie Heads",
+  "tokenCount": "2",
+  "uri": "https://6bba27m936.execute-api.us-east-2.amazonaws.com/prod/1",
+  "metadata": {
+    "image": "https://dummieheads.s3.us-east-2.amazonaws.com/6-35-0-32-12-51-56.png",
+    "description": "Dummie Heads is a collection of 10,000 unique Dummies - each created with quality at the forefront.",
+    "name": "Dummie Head #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Carbon Fiber"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Mohawk"
+      },
+      {
+        "trait_type": "Ring",
+        "value": "Fire Extinguisher"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Thermometer"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "No Ragrets"
+      }
+    ]
+  }
+}

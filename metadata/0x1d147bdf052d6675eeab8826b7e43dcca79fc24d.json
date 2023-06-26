@@ -1,0 +1,33 @@
+{
+  "address": "0x1d147bdf052d6675eeab8826b7e43dcca79fc24d",
+  "type": "ERC1155",
+  "name": "PathofLight",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/L66MVpVVfJw4wl5J2w6JHxeTPHj2IgFa-xe98GQ1T8I",
+  "metadata": {
+    "name": "Start of the Path",
+    "created_by": "zer",
+    "description": "The path just started.\n\nYou will need the start to reach the end.",
+    "attributes": [
+      {
+        "trait_type": "Light Source",
+        "value": "efzer"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Number of Photons",
+        "value": "1",
+        "max_value": "250"
+      }
+    ],
+    "image_details": {
+      "bytes": 1179992,
+      "format": "PNG",
+      "sha256": "abced7116490ec94566650e8752519b97c7a9617702d358a4915f82839539765",
+      "width": 1024,
+      "height": 1024
+    },
+    "image": "https://arweave.net/BuhgJAvpOfMra_l8wNEZE9Z9drOREfJuJkQoQ0OSWCU",
+    "image_url": "https://arweave.net/BuhgJAvpOfMra_l8wNEZE9Z9drOREfJuJkQoQ0OSWCU"
+  }
+}

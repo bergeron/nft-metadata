@@ -1,0 +1,46 @@
+{
+  "address": "0xf52cedc3a0639e67c1db1df8c742d8ff8d66ecf9",
+  "type": "ERC721",
+  "name": "Test feesn mainnet",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/UY_UrA7HM7UNuiQkZ-CINIlzP0JcRyOq6MGFtDRxwAA",
+  "metadata": {
+    "name": "Test Mainnet",
+    "created_by": "PabloFM",
+    "description": "Fees",
+    "Ni": "NIIIIIIII",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "PabloFM"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Peso",
+        "value": "10",
+        "max_value": "16"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Exp",
+        "value": "5000",
+        "max_value": "9999"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "tamaño",
+        "value": "10",
+        "max_value": "100"
+      }
+    ],
+    "image_details": {
+      "bytes": 320865,
+      "format": "PNG",
+      "sha256": "da6195a3a88954887e8fd1e54b049e64841ff672e5308adf08f786c3b4663ad5",
+      "width": 512,
+      "height": 512
+    },
+    "image": "https://arweave.net/kjDx1AIjSItlfBQ0QqrtH91qZMEyck4s4koBEstaN0w",
+    "image_url": "https://arweave.net/kjDx1AIjSItlfBQ0QqrtH91qZMEyck4s4koBEstaN0w"
+  }
+}

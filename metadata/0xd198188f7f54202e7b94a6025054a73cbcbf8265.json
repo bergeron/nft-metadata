@@ -1,0 +1,40 @@
+{
+  "address": "0xd198188f7f54202e7b94a6025054a73cbcbf8265",
+  "type": "ERC721",
+  "name": "California Gem Jockey Club - Omnihorse",
+  "tokenCount": "100",
+  "uri": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/nftjson/0xD198188f7F54202E7B94a6025054a73CBCBf8265/1.json",
+  "metadata": {
+    "name": "California Gem Jockey Club #1",
+    "description": "California Gem Jockey Club membership NFTs",
+    "animation_url": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/California Gem/1.mp4",
+    "image": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/California Gem/1.gif",
+    "external_link": "https://www.omnihorse.io/",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0xfa93360A5bf0B9e012B771577Db71B85792ab4e9",
+    "edition": 1,
+    "date": 1661980295086,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Storm Blue"
+      },
+      {
+        "trait_type": "Frame Background",
+        "value": "Clouds"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "Purple Blue"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Purple Helmet"
+      },
+      {
+        "trait_type": "Level",
+        "value": "Lv1"
+      }
+    ]
+  }
+}

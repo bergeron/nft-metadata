@@ -1,0 +1,48 @@
+{
+  "address": "0x5bb3d01f32687f92f8636799687e55cba0627704",
+  "type": "ERC721",
+  "name": "MurAll",
+  "tokenCount": "235",
+  "uri": "https://api.murall.art/v1/ethereum/tokens/1",
+  "metadata": {
+    "name": "",
+    "description": "By Artist 0xc20122E283E1FFeB56fF6d77e739637D5eB03193, Number 0 from Series 0 ",
+    "image": "https://images.murall.art/ethereum/tokens/1/token.png",
+    "external_url": "https://murall.art/history?atTokenId=1",
+    "background_color": "26262B",
+    "attributes": [
+      {
+        "trait_type": "Name",
+        "value": ""
+      },
+      {
+        "trait_type": "Artist",
+        "value": "0xc20122E283E1FFeB56fF6d77e739637D5eB03193"
+      },
+      {
+        "trait_type": "Filled",
+        "value": "Not filled"
+      },
+      {
+        "trait_type": "Number",
+        "value": "0",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Series ID",
+        "value": "0",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Pixels",
+        "value": 350,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "$PAINT burned",
+        "value": 175,
+        "display_type": "number"
+      }
+    ]
+  }
+}

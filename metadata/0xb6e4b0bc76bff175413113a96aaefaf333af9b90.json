@@ -1,0 +1,72 @@
+{
+  "address": "0xb6e4b0bc76bff175413113a96aaefaf333af9b90",
+  "type": "ERC721",
+  "name": "Podcast",
+  "tokenCount": "1",
+  "uri": "https://ipfs.amplicu.be/podcasts/1/metadata.json",
+  "metadata": {
+    "name": "Audiocube",
+    "description": "RSS feeds, the core of the open podcasting ecosystem, have served audiophiles since the dawn of podcasting. Unfortunately, meaningful innovation around feeds has stagnated as the industry doubles down on its outdated technology. Long-term solutions to core problems need to be created and discussed. Audiocube seeks to explore alternatives to the RSS feed, while maintaining the ethos of creator ownership and the open ecosystem of podcasting. This show will challenge everything you know about the future of the podcasting ecosystem and might create more questions than answers.",
+    "external_url": "https://shows.amplicu.be/1",
+    "image": "https://ipfs.amplicu.be/podcasts/1/artwork.jpg",
+    "properties": {
+      "author": {
+        "name": "Author",
+        "type": "string",
+        "value": "Stephen Hallgren"
+      },
+      "category": {
+        "name": "Category",
+        "type": "string",
+        "value": "Technology"
+      },
+      "copyright": {
+        "name": "Copyright",
+        "type": "string",
+        "value": "© 2023"
+      },
+      "country": {
+        "name": "Country",
+        "type": "string",
+        "value": "en"
+      },
+      "explicit": {
+        "name": "Explicit",
+        "type": "boolean",
+        "value": "false"
+      },
+      "feed": {
+        "name": "Feed",
+        "type": "object",
+        "value": {
+          "ipns": "ipfs.amplicu.be/podcasts/1/feed.xml"
+        }
+      },
+      "image": {
+        "name": "Image",
+        "type": "object",
+        "value": {
+          "ipns": "ipfs.amplicu.be/podcasts/1/artwork.jpg"
+        }
+      },
+      "ordering": {
+        "name": "Ordering",
+        "type": "string",
+        "value": "episodic"
+      },
+      "subcategory": {
+        "name": "Sub-Category",
+        "type": "string",
+        "value": ""
+      },
+      "tokenID": {
+        "name": "Token ID",
+        "type": "numeric",
+        "value": "1"
+      },
+      "email": {
+        "value": ""
+      }
+    }
+  }
+}

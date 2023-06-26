@@ -1,0 +1,33 @@
+{
+  "address": "0xf8d3f40ad3003bd7dc55f13bf217b6747b20932f",
+  "type": "ERC721",
+  "name": "Collectible Trumps",
+  "tokenCount": "222",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmUKaEHio871V4REin4buuaWz5qXHKF99WbeHVxwL5n5Xh/1.json",
+  "metadata": {
+    "name": "Collectible Trumps #1",
+    "description": "This is a collection about Donald Trump...",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQPe1KVFn13LG4dNrigBVy2GCVUZXczug4bXSr7jPSeMd//1.png",
+    "edition": 1,
+    "date": 1671225499161,
+    "attributes": [
+      {
+        "trait_type": "Government",
+        "value": "6"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "4"
+      },
+      {
+        "trait_type": "Religion",
+        "value": "5"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

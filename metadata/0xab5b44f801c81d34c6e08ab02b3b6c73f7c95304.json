@@ -1,0 +1,25 @@
+{
+  "address": "0xab5b44f801c81d34c6e08ab02b3b6c73f7c95304",
+  "type": "ERC1155",
+  "name": "FraktalNFTTheLandDAO Official V2",
+  "tokenCount": "2",
+  "uri": "ipfs://QmQqa5AkCQGr5AwNzKTxz2WyXXE3wiWyaKLPAbaKu6d6bp/7366.json",
+  "metadata": {
+    "dna": "1437c20c70ad82f1250999a16603940aa935b30b",
+    "name": "TheLandDAO Tier 1 NFT",
+    "description": "TheLandDao NFT",
+    "image": "ipfs://Qmcw5MyHSwuCWbw1huNHyTob1JsEPjstfSA3d2ckQZc3GS/7366.mp4",
+    "edition": 2624,
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Tier One"
+      },
+      {
+        "trait_type": "Building",
+        "value": "Staggered Tower"
+      }
+    ],
+    "compiler": "TheLandDAO Engine"
+  }
+}

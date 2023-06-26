@@ -1,0 +1,55 @@
+{
+  "address": "0xb7f56ab4180a06164a1c25714bf3c2fec5ab103e",
+  "type": "ERC721",
+  "name": "Daniel Busser's On A Wave",
+  "tokenCount": "24",
+  "uri": "ipfs://bafybeigefvmnyseklqhjzpr2d5h3xra6y3c3zot3g4vm4oidr2yinyrl5q/1.json",
+  "metadata": {
+    "token_id": 1,
+    "name": "'Op een Wave' ROYAL NFT",
+    "token_type": "Royal NFT",
+    "royalty_amount": 20,
+    "description": "This token gives the token holder 20% of streaming royalties of the song 'Op een wave' by Daniël Busser each month, which will be paid to the wallet ID of the token holder after verification on the website. Additionally, the Royal NFT token holder gets 1x2 tickets to selected shows of Daniël Busser, early access to merch drops and access to exclusive NFT events organized by Daniël Busser. Please note that we use Blockscan to communicate with token holders: https://chat.blockscan.com/start. Be sure to check the Blockscan chat regularly.",
+    "conditions": "The 20% royalties will be paid to the token holder on a monthly basis after walled ID verification on the website. For more information about the terms and conditions, please visit https://danielbusser.com.",
+    "image": "ipfs://bafkreibm4cxak5sbnrpb4t5bpjq6pwib4pwdmnaijf7pkj2ol5xit35vne",
+    "creator": "Peanut Panda",
+    "attributes": [
+      {
+        "trait_type": "Token",
+        "value": "Royal NFT"
+      },
+      {
+        "trait_type": "Value",
+        "value": "20% streaming royalties"
+      },
+      {
+        "trait_type": "Additional value",
+        "value": "1x2 show tickets"
+      },
+      {
+        "trait_type": "Additional value",
+        "value": "Early access merch"
+      },
+      {
+        "trait_type": "Additional value",
+        "value": "Exclusive NFT events"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Daniël Busser"
+      },
+      {
+        "trait_type": "Total supply",
+        "value": 1
+      },
+      {
+        "trait_type": "Song title",
+        "value": "Op een Wave"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "'On a Wave' by Daniël Busser"
+      }
+    ]
+  }
+}

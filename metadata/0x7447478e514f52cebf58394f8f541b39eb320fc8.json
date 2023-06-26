@@ -1,0 +1,50 @@
+{
+  "address": "0x7447478e514f52cebf58394f8f541b39eb320fc8",
+  "type": "ERC1155",
+  "name": "DAILLY's Metamorphic: Deconstructed",
+  "tokenCount": "21",
+  "uri": "ipfs://QmWyaAhz3GujKFo4xCeMjUnu6AxsDuyvFKYMS3U7gZLtM7/1/token.json",
+  "metadata": {
+    "async-attributes": {
+      "artists": [
+        "0x0d6ee52fdd8567a0aff68da63eab29ed934d4c42"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "state": {
+                "label": "Burning Sky",
+                "uri": "QmVWj18CdtcSPMshPxVf8mogB6tfGwXeKdEuwX4xxxbS6N"
+              },
+              "id": "Outside"
+            }
+          ]
+        }
+      ]
+    },
+    "name": "Burning Sky",
+    "image": "ipfs://QmcY3jEcSccSWSti9TPeWdo8BQyXZHNRaxhmvXbBQo9pbC",
+    "description": "A sky on fire.\n\nhttps://www.metamorphic.gg/album\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "DAILLY"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "DAILLY's Metamorphic: Deconstructed"
+      }
+    ]
+  }
+}

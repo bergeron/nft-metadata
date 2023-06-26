@@ -1,0 +1,51 @@
+{
+  "address": "0x5a184e5bdebb165cbbf0760598742e7526250404",
+  "type": "ERC721",
+  "name": "The USAPE NFT",
+  "tokenCount": "387",
+  "uri": "https://api.monkeybet.co/token/1",
+  "metadata": {
+    "name": "Monkey #1",
+    "image": "https://invariantlabs.mypinata.cloud/ipfs/QmfGvH3HQBgMoAQkhr8expSzR3AwcLLBebbDMvwpVNyyoJ/58348a40554f6c844a580462228ce268.png",
+    "attributes": [
+      {
+        "value": "purple",
+        "trait_type": "Background"
+      },
+      {
+        "value": "scars",
+        "trait_type": "Body"
+      },
+      {
+        "value": 5,
+        "trait_type": "FS"
+      },
+      {
+        "value": 92.8,
+        "trait_type": "RTP"
+      },
+      {
+        "value": "lucky",
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "fez",
+        "trait_type": "Head"
+      },
+      {
+        "value": "muerto",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "regular",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": "male",
+        "trait_type": "Gender"
+      }
+    ],
+    "description": "Monkey Bet is the first NFT casino in the world.",
+    "external_url": "https://monkeybet.co"
+  }
+}

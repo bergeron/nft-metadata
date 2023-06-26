@@ -1,0 +1,81 @@
+{
+  "address": "0x2569a34275d2d48f83f300d940f4b58ef22361ae",
+  "type": "ERC721",
+  "name": "qewrasdf55",
+  "tokenCount": "50",
+  "uri": "https://api.artblocks.io/token/63000001 ",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "63000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Ode to Roy #1",
+    "minted": true,
+    "artist": "artplusbrad",
+    "description": "An ode to Roy Lichtenstein, incorporating his iconic version of Ben-Day dots, halftone dots, angled stripes, and solid color patches. Inspired by Roy's sea and landscape paintings, each artwork generates a unique combination of patterns, shapes, and colors.",
+    "script_type": "p5@1.0.0",
+    "project_id": "63",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/63000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/63000001.png",
+    "generator_url": "https://generator.artblocks.io/63000001",
+    "royaltyInfo": {
+      "artistAddress": "0xd7e1bc51cd3f30e21b17bab33d77078e3fb7cc26",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 10
+    },
+    "collection_name": "Ode to Roy by artplusbrad",
+    "website": "https://artplusbrad.com/roy",
+    "token_hash": "0x896c38ea025fa7d3fc79faeebef6153aa9f1e373f81001c695170b345da8c606",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/63/tokens/63000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/63000001.png",
+    "features": {
+      "Noise": "Small",
+      "Letters": "n/a",
+      "Dot Size": "Small",
+      "Layer Count": "Two",
+      "Orientation": "Vertical",
+      "Color Palette": "Other",
+      "Alternate Color": "Black"
+    },
+    "traits": [
+      {
+        "trait_type": "Ode to Roy",
+        "value": "All Ode to Roys"
+      },
+      {
+        "trait_type": "Ode to Roy",
+        "value": "Noise: Small"
+      },
+      {
+        "trait_type": "Ode to Roy",
+        "value": "Letters: n/a"
+      },
+      {
+        "trait_type": "Ode to Roy",
+        "value": "Dot Size: Small"
+      },
+      {
+        "trait_type": "Ode to Roy",
+        "value": "Layer Count: Two"
+      },
+      {
+        "trait_type": "Ode to Roy",
+        "value": "Orientation: Vertical"
+      },
+      {
+        "trait_type": "Ode to Roy",
+        "value": "Color Palette: Other"
+      },
+      {
+        "trait_type": "Ode to Roy",
+        "value": "Alternate Color: Black"
+      }
+    ],
+    "is_static": true,
+    "license": "NFT License"
+  }
+}

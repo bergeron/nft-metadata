@@ -1,0 +1,39 @@
+{
+  "address": "0xa8fd8b77a47f13ca2a4daf53d23b96b852bbe854",
+  "type": "ERC721",
+  "name": "JagerNFT",
+  "tokenCount": "56",
+  "uri": "ipfs://QmfUymAg6cXDeFMzZqyWuiorsyP63y4NxXhgiXWFRy3tF7/0.json",
+  "metadata": {
+    "name": "Jäger Banana #1",
+    "symbol": "JGR",
+    "description": "A collection of 56 Jäger Bananas on the blockchain. This is Jäger Banana number 1/56",
+    "image": "ipfs://QmW9cCDS2VMrWiNKCEhh8h4YHJQeS5p8MyKqjjys3JZM3j/0.png",
+    "attributes": [
+      {
+        "trait_type": "fondo",
+        "value": "Manzana"
+      },
+      {
+        "trait_type": "cuerpo",
+        "value": "Banano"
+      },
+      {
+        "trait_type": "boca",
+        "value": "The Mask"
+      },
+      {
+        "trait_type": "cabeza",
+        "value": "Jager Antler"
+      },
+      {
+        "trait_type": "ojos",
+        "value": "Eva"
+      }
+    ],
+    "collection": {
+      "name": "Jäger Banana",
+      "family": "Jäger Banana"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "address": "0xb964a9b9e6ba798f92ad437cb6af7e28c01514f0",
+  "type": "ERC721",
+  "name": "MafiaBot",
+  "tokenCount": "3912",
+  "uri": "https://bafybeib7oeoydkigdivmzwlbjr4lo6va4lryad3aurw4xwhexr6y2n6sfu.ipfs.dweb.link/1.json",
+  "metadata": {
+    "name": "Robot Mafia Club #1",
+    "symbol": "RMC",
+    "description": "Robot Mafia Club runs the undergrounds of the Solana Blockchain. A circle of 777 lawless mobsters.",
+    "seller_fee_basis_points": 880,
+    "image": "https://bafybeih7iswferb6ljpfd5o7f34dq7c33odehuzazelbuvsz65ddsgfcsu.ipfs.dweb.link/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Solana"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Gum"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Blue red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Light Glasses"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Mafia King"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://bafybeih7iswferb6ljpfd5o7f34dq7c33odehuzazelbuvsz65ddsgfcsu.ipfs.dweb.link/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+          "share": 10
+        },
+        {
+          "address": "85jKFg15AJHRUsk5nYhTwBg1kkscWfjaqUhtmhaH1dtQ ",
+          "share": 90
+        }
+      ]
+    }
+  }
+}

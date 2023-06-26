@@ -1,0 +1,60 @@
+{
+  "address": "0x7112abf02533c91ff679065409e45357b7b2e7ad",
+  "type": "ERC721",
+  "name": "Bosque de Chapultepec by Daniel Calderon Arenas",
+  "tokenCount": "100",
+  "uri": "http://token.artblocks.io/0x0A1BBD57033F57E7B6743621b79fCB9Eb2CE3676/22000001",
+  "metadata": {
+    "platform": "MOMENT",
+    "tokenID": "22000001",
+    "series": "N/A",
+    "aspect_ratio": 0.5625,
+    "payout_address": "0x43a7d26a271f5801b8092d94dfd5b36ea5d01f5f",
+    "name": "Bosque de Chapultepec #1",
+    "minted": true,
+    "artist": "Daniel Calderon Arenas",
+    "description": "# NFT ART CDMX\n\n## Something beautiful\nBosque de Chapultepec is all about how computers can be used as a form of expression. It explores how a generative art algorithm can be used to make something beautiful that is unique to a particular place and time. Bosque de Chapultepec debuted at NFT ART CDMX in 2022, a four day celebration of generative art in Mexico City.\n## Central Park of Mexico\nChapultepec is a park in the middle of Mexico City that is known all over the world for its green space. It is a historic place dating back to the Toltec culture in 1000 CE and has also been the site of many battles. Artists have been drawn to the park for a long time. My grandfather, for example, painted the scenery there. Even now, the park is a tropical escape for city dwellers who walk the park's many winding paths surrounded by old trees.\n## Chochitos\nThe look of the project was based on the Garibaldi from El Globo, a famous bakery in the Mexican Republic. Garibaldi pastries are pound cakes dipped in apricot jam and coated with little round sprinkles called \"chochitos\". A visit to CDMX is not complete without tasting one of these delicious pastries.\n## Behind the code:\nThe algorithm is made up of a system that uses a mix of circle-packing and quadtrees to fill areas of closed shapes with dots of different sizes and colors (like the chochitos). The underlying form of the composition is generated algorithmically using shapes constructed on the fly using points and lines. The shapes are lined up in a queue and then swept for possible areas where dots can be deposited so long as the dots do not overlap.  \n# An SVG is available! \nThe SVG is a fully scalable resolution agnostic version of the image. To access the SVG - View the output in **Live View**. When the output has *completed rendering*, press the \"p\" key and the SVG will automatically download. * Note rendering time may take up to 5 minutes.",
+    "script_type": "p5@1.0.0",
+    "project_id": "22",
+    "engine_type": "fullyonchain",
+    "image": "https://media-proxy.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/22000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/22000001.png",
+    "generator_url": "https://generator.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/22000001",
+    "royaltyInfo": {
+      "artistAddress": "0xa94160d1ceee6a141cb3c156f38ae2d3a8c27350",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Bosque de Chapultepec by Daniel Calderon Arenas",
+    "website": "https://gentrilogy.art/bosque",
+    "token_hash": "0xa37776fb072d569adc98849b768db4ea0c5b7fb84971bbdc2859132c15b69da6",
+    "external_url": "https://generator.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/22000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/22000001.png",
+    "features": {
+      "path": "none",
+      "foliage": "green",
+      "undertone": "purple"
+    },
+    "traits": [
+      {
+        "trait_type": "Bosque de Chapultepec",
+        "value": "All Bosque de Chapultepecs"
+      },
+      {
+        "trait_type": "Bosque de Chapultepec",
+        "value": "path: none"
+      },
+      {
+        "trait_type": "Bosque de Chapultepec",
+        "value": "foliage: green"
+      },
+      {
+        "trait_type": "Bosque de Chapultepec",
+        "value": "undertone: purple"
+      }
+    ],
+    "is_static": true,
+    "license": "\"Can't Be Evil\" NFT License - CBE-NECR-HS"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0xe372c0922305acec60172307c924c6fefe4db874",
+  "type": "ERC721",
+  "name": "ETHRank Season Two Dynamic Badges",
+  "tokenCount": "573",
+  "uri": "https://ethrank-badges.s3.amazonaws.com/2/1.json",
+  "metadata": {
+    "name": "ETHRank Season Two Badge #1 by hacker.crypto",
+    "description": "hacker.crypto is ranked #1490, with a score of 840. ETHRank is the Ethereum Leaderboard. Check your rank at ETHRank.io.",
+    "image": "https://ethrank-badges.s3.amazonaws.com/2/1.svg",
+    "attributes": [
+      {
+        "trait_type": "Score",
+        "value": 840
+      },
+      {
+        "trait_type": "Rank",
+        "value": 1490
+      },
+      {
+        "trait_type": "Season",
+        "value": "2"
+      },
+      {
+        "trait_type": "Version",
+        "value": "2022.3.0"
+      }
+    ]
+  }
+}

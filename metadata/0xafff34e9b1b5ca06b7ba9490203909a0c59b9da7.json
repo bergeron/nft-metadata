@@ -1,0 +1,54 @@
+{
+  "address": "0xafff34e9b1b5ca06b7ba9490203909a0c59b9da7",
+  "type": "ERC721",
+  "name": "Bottled!",
+  "tokenCount": "1",
+  "uri": "https://bafybeidk5m4bhsktmo4n3rhetttlvcmj27imbejbdfku4fcsmo6ovn3p4a.ipfs.w3s.link/1.json",
+  "metadata": {
+    "name": "Bottled in Blockchain #1",
+    "description": "Whiskey from the Bottled in Blockchain Distillery! Collect them all. #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Distillery"
+      },
+      {
+        "trait_type": "Base Layer",
+        "value": "Base Layer"
+      },
+      {
+        "trait_type": "Whiskey Style",
+        "value": "Sherry Cask"
+      },
+      {
+        "trait_type": "Label",
+        "value": "Rye Batch"
+      },
+      {
+        "trait_type": "Cap",
+        "value": "15 yr"
+      },
+      {
+        "trait_type": "Coaster",
+        "value": "Felt"
+      },
+      {
+        "trait_type": "Pour",
+        "value": "Rocks"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0xc5759bE3e281DBD16a044524DbD4C49289170bDc",
+        "share": 100
+      }
+    ],
+    "collection": {
+      "name": "Bottled in Blockchain",
+      "family": "Whiskey"
+    },
+    "symbol": "BOT",
+    "seller_fee_basis_points": 5,
+    "image": "https://bafybeifpa7tdyqpyfwc5zvtig7nebttu245o2wjlbvcbjwqmgk2dfqos6y.ipfs.w3s.link/1.png"
+  }
+}

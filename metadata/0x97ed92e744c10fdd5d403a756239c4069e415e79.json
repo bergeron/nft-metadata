@@ -1,0 +1,45 @@
+{
+  "address": "0x97ed92e744c10fdd5d403a756239c4069e415e79",
+  "type": "ERC1155",
+  "name": "White Rabbit Producer Pass",
+  "tokenCount": "3",
+  "uri": "https://shibuya.mypinata.cloud/ipfs/QmWMJvpUbsX7uayFy9mgESrwATbqhdpvKVVjEY5PPbx2ht/1.json",
+  "metadata": {
+    "name": "White Rabbit Producer Pass Chapter 1",
+    "collection": "White Rabbit",
+    "description": "These are utility NFTs for voting on shibuya.xyz at the end of each chapter to earn $WRAB, which represents fractionalized NFT ownership of the final film.",
+    "animation_url": "https://shibuya.mypinata.cloud/ipfs/QmPEUpgn5K4NvD2NAT2fEzmsSANQoFfvSFuXCtPLRdwE3E/1.mp4",
+    "image": "https://shibuya.mypinata.cloud/ipfs/QmTNaL2EjtUoB7XAzpLYZNYZX2M4cUyypQCzPMmjLw5pHZ/1.gif",
+    "external_url": "www.shibuya.xyz",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Maciej Kuciara"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Pplpleasr"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "1"
+      },
+      {
+        "trait_type": "Film Name",
+        "value": "White Rabbit"
+      },
+      {
+        "trait_type": "Fractionalized Token",
+        "value": "$WRAB"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Shibuya.xyz"
+      },
+      {
+        "trait_type": "Devs",
+        "value": "PleasrDevs"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "0xdd0c66a056cc951fdbee190c84aa722173de9710",
+  "type": "ERC721",
+  "name": "Mendables",
+  "tokenCount": "1",
+  "uri": "data:application/json;base64,eyJleHRlcm5hbF91cmwiOiJodHRwczovL21lbmRhYmxlcy5tZS9tZW5kIzEiLCJuYW1lIjoiTWVuZGFibGVzICMxIiwiYXR0cmlidXRlcyI6IFt7InRyYWl0X3R5cGUiOiJDYXRlZ29yeSIsInZhbHVlIjoiR2VuZXNpcyJ9LHsidHJhaXRfdHlwZSI6IkV4cHJlc3Npb25zIiwidmFsdWUiOjAsIm1heF92YWx1ZSI6MTMzN31dLCAiZGVzY3JpcHRpb24iOiJBbiBORlQgRXhwZXJpbWVudCBjZW50ZXJlZCBhcm91bmQgUGVyc29uYWxpemF0aW9uLCBFeHByZXNzaW9uICYgSW50ZXJhY3Rpb24uIEZvciBtb3JlIGluZm8gdmlzaXQgaHR0cHM6Ly9tZW5kYWJsZXMubWUiLCJpbWFnZSI6Imh0dHBzOi8vbWVuZGFibGVzLm1lL2ltYWdlcy9tZW5kYWJsZXMucG5nIiwgImFuaW1hdGlvbl91cmwiOiJodHRwczovL21lbmRhYmxlcy5tZS92aWV3P21lbmQ9JkhlbGxvLCBXb3JsZCEmR2VuZXNpcyYwJmh0dHBzOi8vbWVuZGFibGVzLm1lL2ltYWdlcy9tZW5kYWJsZXMucG5nJiJ9",
+  "metadata": {
+    "external_url": "https://mendables.me/mend#1",
+    "name": "Mendables #1",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Expressions",
+        "value": 0,
+        "max_value": 1337
+      }
+    ],
+    "description": "An NFT Experiment centered around Personalization, Expression & Interaction. For more info visit https://mendables.me",
+    "image": "https://mendables.me/images/mendables.png",
+    "animation_url": "https://mendables.me/view?mend=&Hello, World!&Genesis&0&https://mendables.me/images/mendables.png&"
+  }
+}

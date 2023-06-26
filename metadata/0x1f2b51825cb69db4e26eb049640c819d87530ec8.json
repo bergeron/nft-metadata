@@ -1,0 +1,50 @@
+{
+  "address": "0x1f2b51825cb69db4e26eb049640c819d87530ec8",
+  "type": "ERC721",
+  "name": "My Pudgies",
+  "tokenCount": "181",
+  "uri": "ipfs://bafybeihtge52pd3kny7foh7iy7lpg3grxdcrsc4qy5v22yla7oqgr3rfhe/1.json",
+  "metadata": {
+    "name": "Pudgy #1",
+    "description": "Everyone likes a little Pudge",
+    "image": "ipfs://bafybeiczp2euk7fknkgvtzf426lmp37jjcu6zfn3t5sa5c76fayntdoihi/1.png",
+    "dna": "c509dca69f6fe14fd4897c1482360e7431b2427c",
+    "edition": 1,
+    "date": 1662607864361,
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Back",
+        "value": "None"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "TShirt",
+        "value": "Lime  VNeck"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "Aquamarine Puffer Vest"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Triggered"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Black Mohawk"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Tattoo"
+      }
+    ],
+    "compiler": "HashLips Art Engine - datboi's fork"
+  }
+}

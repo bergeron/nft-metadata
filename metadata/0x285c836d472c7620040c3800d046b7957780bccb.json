@@ -1,0 +1,47 @@
+{
+  "address": "0x285c836d472c7620040c3800d046b7957780bccb",
+  "type": "ERC721",
+  "name": "AI Imagined Nature",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/4Cyo4tljwdpr108D-PZ1isgHe1SJnU9FEyVR6_kjEXw",
+  "metadata": {
+    "name": "Starlings in Flight - March 2023",
+    "created_by": "BillyBob Burrito",
+    "description": "Starlings' Murmuration in nature is mesmerizing. Enjoy a reproduction using p5.js. Let it run to see the randomness unfold on 225 fully independent little starlings.\n\nSome notes:  \nMarketplaces may not display well. To view in Fullscreen:  \nhttps://3gnqm3r4ybcxgagynpjsa3o3ipf7g6gmpeg24wzb25352reatczq.arweave.net/2ZsGbjzARXMA2GvTIG3bQ8vzeMx5Da5bIdd33USAmLM/\n\nThe color of the sky will change depending on the hour of the day.\n\nThe birds are fully random and every run will be different.\n\nThe piece will cycle between the birds flocking together and dispersing, so watch for a while and see their interaction.\n\nDouble clicking will flip the state from flocking or dispersing immediately until the next cycle.\n\nA single click can nudge the birds to congregate at the location you clicked. Birds won't always respond to this.\n\nThe scripting can require higher processing power, so if the birds seem slow, try a different browser or plug in your laptop.\n\nThis piece was built with the assistance of OpenAI's ChatGPT. AI has come a long way in helping people build the code to make imagination into something tangible.\n\nThe components are saved in Arweave so they can exist forever.",
+    "animation_url": "https://3gnqm3r4ybcxgagynpjsa3o3ipf7g6gmpeg24wzb25352reatczq.arweave.net/2ZsGbjzARXMA2GvTIG3bQ8vzeMx5Da5bIdd33USAmLM/",
+    "animation_details": {
+      "format": "HTML"
+    },
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "BillyBob Burrito"
+      },
+      {
+        "trait_type": "Genus",
+        "value": "Sturnus"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Aves"
+      },
+      {
+        "trait_type": "AI",
+        "value": "ChatGPT 4"
+      },
+      {
+        "trait_type": "Tool",
+        "value": "p5.js"
+      }
+    ],
+    "image_details": {
+      "bytes": 488495,
+      "format": "PNG",
+      "sha256": "9d06376ff32bccdadb5b21911baa6429e699cf78d9ef6fe458ccc90547f38381",
+      "width": 3185,
+      "height": 1782
+    },
+    "image": "https://arweave.net/yRrDMqKL7aroe8LPEGzDNJ8EvI8WJxtGmxWLfTc8eU4",
+    "image_url": "https://arweave.net/yRrDMqKL7aroe8LPEGzDNJ8EvI8WJxtGmxWLfTc8eU4"
+  }
+}

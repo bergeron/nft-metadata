@@ -1,0 +1,52 @@
+{
+  "address": "0x11c7704157db1a8ee09fdde9ae0bda0ad60dc0a9",
+  "type": "ERC721",
+  "name": "Scrubby Ape Artwork",
+  "tokenCount": "3761",
+  "uri": "http://ipfs.io/ipfs/bafybeifnci3rdfbj3oy65kgvmsfe57efrd4qusiirnzkic6vol7z2cafsq/1.json",
+  "metadata": {
+    "name": "Scrubby Ape Artwork #1",
+    "symbol": "SASM",
+    "description": "Scrubby Ape Artwork is part of the Shiba Mask NFTs, which is a collection of various Scrubby Artworks.",
+    "image": "ipfs://bafybeiacumc2sy4j6yskmlhxuethock7ewkj7hslojmkqgt4dc66noatuu/1354.png",
+    "external_link": "https://shibamask.org/",
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x07a15e071c36c9d677ed073a8fee7aaa55c99333",
+    "id": "1354",
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Wool Turtleneck"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bored Kazoo"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Crazy"
+      }
+    ],
+    "collection": {
+      "name": "Scrubby BAYC",
+      "family": "Shiba Mask NFT collection"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://bafybeiacumc2sy4j6yskmlhxuethock7ewkj7hslojmkqgt4dc66noatuu/1354.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
+}

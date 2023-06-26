@@ -1,0 +1,45 @@
+{
+  "address": "0x32e3ae01eab5d5d5e95aad5d4936a8bf6421a61d",
+  "type": "ERC721",
+  "name": "The Cowboy NFT",
+  "tokenCount": "5000",
+  "uri": "ipfs://bafybeicckltlrnlbtlbkvx3ipt2bvulatnocdfon2xxrg3k63cfgdgjowi/1.json",
+  "metadata": {
+    "name": "Cowboy #1",
+    "description": "The Cowboy NFTs Collection",
+    "fee_recipient": "0xe769AaDe8e7185b9de9f01e14Ed844E284DF79CA",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://bafybeiapf7ehcx64ribktyx2yef5y4joepyaveac6y3wgbb7nuflvt33eq/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Bisque"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Blues"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry Left"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Startled"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 3463,
+        "display_type": "number"
+      }
+    ]
+  }
+}

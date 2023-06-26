@@ -1,0 +1,12 @@
+{
+  "address": "0x09a6d9ae95f07f5eceb663a92da636f30fb61b0b",
+  "type": "ERC721",
+  "name": "Crypto Flags V2",
+  "tokenCount": "1",
+  "uri": "ipfs://QmSmSv6bvRwRJWtue6cPc4kZSf4JXoYfwgvt2GnqxWVzJG/metadata.json",
+  "metadata": {
+    "name": "Fantom flag",
+    "description": "At first glance, it appears that these are just random black and white squares. But the squares are arranged in a specific order.\n\nEach white square represents a zero, and each black square represents a one. If you take the first column, you get 0110011, which is the binary representation of the ASCII character \"f\". If you convert the rest of the columns from binary into characters, you get the word \"fantom\".\n\nThe blue accent hints at the connection with fantom from the very beginning.",
+    "image": "ipfs://QmTgzFo7JbvwLPqMVvsySxfetoKqt6HPoxGTzQL3NhEfhE/nft.png"
+  }
+}

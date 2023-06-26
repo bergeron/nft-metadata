@@ -1,0 +1,53 @@
+{
+  "address": "0x69482222c23c0caae6c1d434502392fda2a2dc0c",
+  "type": "ERC721",
+  "name": "Bounty Thug",
+  "tokenCount": "2015",
+  "uri": "ipfs://QmaemJRKCsB2cr1P4bMB9BsoSmFmDQvFP1WLozTEoBzu4j/1",
+  "metadata": {
+    "name": "BountyThug #1",
+    "description": "Bounty Thug NFT is a collection of 8000 PFPs created on the Ethereum blockchain using the ERC721A standard, and programically generated from 200 different features, each one is unique.",
+    "external_url": "",
+    "image": "https://bountythug.mypinata.cloud/ipfs/QmSNuxrDyyfQdXgMKi5QbUGBupbL6eecLvhc3gAQQ4taAa/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple_lightning"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Golf_purple"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Body"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bright_shirt_and_tattoos_on_hands"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Tough_look"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Open_smile"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Long_dark_hair_and_bandana"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://the-nft-generator.com"
+  }
+}

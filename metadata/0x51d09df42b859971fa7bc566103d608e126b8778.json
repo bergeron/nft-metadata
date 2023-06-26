@@ -1,0 +1,35 @@
+{
+  "address": "0x51d09df42b859971fa7bc566103d608e126b8778",
+  "type": "ERC721",
+  "name": "Bad Cats Gang",
+  "tokenCount": "4444",
+  "uri": "https://opensea.badcatsgang.club/1",
+  "metadata": {
+    "name": "Bad Cat #1",
+    "description": "A cool collection of 4444 Bad Cats NFTs, known as Gang. Your Bad Cat will grant you access to future benefits exclusively for members only.",
+    "image": "https://opensea.badcatsgang.club/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Mandarin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Purple Mountain Majesty"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Storm Dust"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Tired Green"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Happy"
+      }
+    ],
+    "compiler": "https://startnft.app"
+  }
+}

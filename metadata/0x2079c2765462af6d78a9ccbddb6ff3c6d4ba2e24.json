@@ -1,0 +1,65 @@
+{
+  "address": "0x2079c2765462af6d78a9ccbddb6ff3c6d4ba2e24",
+  "type": "ERC721",
+  "name": "Zorb Viz",
+  "tokenCount": "643",
+  "uri": "https://zorbz.vercel.app/api/metadata/1",
+  "metadata": {
+    "name": "zorbz #1",
+    "description": "zorbz\n\nfull visualization here: https://zorbz.vercel.app/1 \n\nuses data from the Zora API (events).\n\nzorbz",
+    "version": "0.1",
+    "title": "zorbz #1 - 2022-01-01",
+    "artist": "zorbz",
+    "mimeType": null,
+    "sourceCode": "https://github.com/SweetmanTech/zorbz",
+    "tags": [
+      "zorb",
+      "zora",
+      "Zora API Hackathon"
+    ],
+    "license": "cc0",
+    "locationCreated": "Zora API Hackathon",
+    "external_url": "https://zorbz.vercel.app/1",
+    "animation_url": "ipfs://QmedC1ufEG9L1erNzrUmUwtNHAStwpbJ7FY5TEA8EcgM6k",
+    "project": {
+      "title": "zorbz #1",
+      "artwork": {
+        "uri": "https://zorbz.vercel.app/1",
+        "mimeType": null,
+        "nft": null
+      },
+      "description": "zorbz\n\nzorbs\n\nzorbz",
+      "type": "Hackathon",
+      "originalReleaseDate": "2022-01-01"
+    },
+    "artwork": {
+      "uri": "https://zorbz.vercel.app/1",
+      "mimeType": null,
+      "nft": null
+    },
+    "visualizer": {
+      "uri": "https://zorbz.vercel.app/1",
+      "mimeType": null,
+      "nft": null
+    },
+    "originalReleaseDate": "2022-01-01",
+    "credits": [
+      {
+        "name": "valcaholics.eth",
+        "collaboratorType": "designer"
+      },
+      {
+        "name": "wayneh.eth",
+        "collaboratorType": "engineer"
+      },
+      {
+        "name": "sweetman.eth",
+        "collaboratorType": "engineer"
+      }
+    ],
+    "attributes": {
+      "project": "zorbz",
+      "zora-events-date": "2022-01-01"
+    }
+  }
+}

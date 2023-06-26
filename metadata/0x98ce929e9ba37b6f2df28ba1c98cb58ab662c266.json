@@ -1,0 +1,44 @@
+{
+  "address": "0x98ce929e9ba37b6f2df28ba1c98cb58ab662c266",
+  "type": "ERC721",
+  "name": "Pet Pigs",
+  "tokenCount": "77",
+  "uri": "https://cdn-api.niftykit.com/reveal/F1KrDE6NJQjQItfJZxJj/1",
+  "metadata": {
+    "name": "Pet Pigs #1",
+    "description": "Pet Pigs landing on Ethereum",
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "BG4"
+      },
+      {
+        "trait_type": "BODY",
+        "value": "Body1"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "Cry"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "Laugh"
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Party Hat"
+      },
+      {
+        "trait_type": "OUTFIT",
+        "value": "None"
+      }
+    ],
+    "image": "ipfs://bafybeiesyb2dmgzjugfeb7twc7x5mbd7mqyrwhg6jfo4amvt5zm5iimtyy/1.png",
+    "animation_url": "",
+    "background_color": "",
+    "youtube_url": "",
+    "external_url": "",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0x11b963036D98f3b51170a7f445bEbDc44A1C1Cf5"
+  }
+}

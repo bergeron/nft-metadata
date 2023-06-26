@@ -1,0 +1,64 @@
+{
+  "address": "0xa01dad77eb6acd716388932d7791e4da9f8b6465",
+  "type": "ERC1155",
+  "name": "Meta Driver",
+  "tokenCount": "111",
+  "uri": "ipfs://QmWzwRiUnHjSeJaqHtNmByLP1fSD7dUYo85xNnBdfBpthw/1.json",
+  "metadata": {
+    "fileID": "1",
+    "description": "At Meta Driver, we believe that we are at the forefront of an emerging and exciting market, and we are committed to providing our players with the most engaging and personalized experience possible. We invite you to join us on this exciting journey and experience the thrill of owning, trading, and improving your own digital race cars, drivers, and pit crews.",
+    "external_url": "https://www.metadrivers.net/",
+    "image": "ipfs://QmWTm4gGXQNrP36HBr3ycWSHpnT85RhsiVBEF3ekisZQ5b/1.png",
+    "name": "Meta Driver #1",
+    "background_color": "E0E0E0",
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "SPLIT",
+    "attributes": [
+      {
+        "trait_type": "Top Speed",
+        "value": 350
+      },
+      {
+        "trait_type": "Range",
+        "value": 2.5
+      },
+      {
+        "trait_type": "HP",
+        "value": 650
+      },
+      {
+        "trait_type": "Downforce",
+        "value": 60
+      },
+      {
+        "trait_type": "Acceleration",
+        "value": 2.7
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Old Red White And Blue"
+      },
+      {
+        "trait_type": "Tires",
+        "value": "All Seasons"
+      },
+      {
+        "trait_type": "Wheels",
+        "value": "White OG"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Green On Black"
+      },
+      {
+        "trait_type": "Spoiler",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Boost",
+        "value": "8"
+      }
+    ],
+    "animation_url": "ipfs://QmempJ6MtCH2yF5xvZzMstdDyFAcDnBM9eGYrc3MRYyZEn/1.gltf"
+  }
+}

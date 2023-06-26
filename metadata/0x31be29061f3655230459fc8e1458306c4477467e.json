@@ -1,0 +1,53 @@
+{
+  "address": "0x31be29061f3655230459fc8e1458306c4477467e",
+  "type": "ERC721",
+  "name": "Anneliworlds",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/Knm5F33saw3PVmOkxWuAZiFCUgkjN1VVAq6hZr_Dyro",
+  "metadata": {
+    "name": "Being (Part 1)",
+    "created_by": "Anneli",
+    "description": "Being (Part 1) Digital drawing and animation, August 3, 2022",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Anneli"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Free-range Eggs"
+      },
+      {
+        "trait_type": "Scene",
+        "value": "Volcano"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Acceptance"
+      }
+    ],
+    "animation_details": {
+      "bytes": 23550633,
+      "format": "MP4",
+      "duration": 35,
+      "sha256": "31062ed068b0c0c805c3afd8a81d42120346b37495e0ac0561a8c29db0106eb1",
+      "width": 1600,
+      "height": 1200,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/YQc1uPXOjxUIwr4_UozBCh0ajudk5t4R6fCQP2QYgYU",
+    "animation_url": "https://arweave.net/YQc1uPXOjxUIwr4_UozBCh0ajudk5t4R6fCQP2QYgYU",
+    "image_details": {
+      "bytes": 2054943,
+      "format": "PNG",
+      "sha256": "594c7da77de67bb08a88ac64c420772d51cd3a4cc3019899c197e30d2d47f425",
+      "width": 2414,
+      "height": 1806
+    },
+    "image": "https://arweave.net/GP35hDN3ddgWfkCY2YF48jjhMh-UxYzrauCWKCBvE2s",
+    "image_url": "https://arweave.net/GP35hDN3ddgWfkCY2YF48jjhMh-UxYzrauCWKCBvE2s"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "address": "0x256328d02aabb581faf93351af837e8fc923fe26",
+  "type": "ERC721",
+  "name": "taaken",
+  "tokenCount": "25",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=48mdZME2SMJr75g5I664",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1581410112026?alt=media&token=245c1399-0547-453a-ab49-7df6d9410d77",
+    "forSale": true,
+    "description": "nemのロゴを昔もんじゃ焼きで作ったもの。",
+    "contractAddress": "0x256328d02aabb581faf93351af837e8fc923fe26",
+    "tags": [],
+    "amountToMint": 25,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1581410343,
+      "_nanoseconds": 34000000
+    },
+    "price": "0.01",
+    "name": "NEMmonja",
+    "fiatPrice": "$2.19",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": ""
+      },
+      {
+        "trait_type": "location",
+        "value": "1634 N Lewis Ave, Tulsa, OK 74110, USA"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJn1RAnUDstocRh7a688BvRLo"
+      }
+    ],
+    "external_url": "https://mintbase.io/my-market/0x256328d02aabb581faf93351af837e8fc923fe26",
+    "type": "ERC721"
+  }
+}

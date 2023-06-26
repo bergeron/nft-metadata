@@ -1,0 +1,41 @@
+{
+  "address": "0xd071745151c77f57dd427e3e04acc774c127ed68",
+  "type": "ERC721",
+  "name": "Hound Yacht Club",
+  "tokenCount": "5000",
+  "uri": "ipfs://bafybeibhfqegratpypzkpzd5jdrg5ks4zlnrttgzeqnccobkrwe4ciq2em/2.json",
+  "metadata": {
+    "name": "Bored Hounds #2",
+    "description": "Collection of 5000 unique Bored Hounds.",
+    "image": "ipfs://bafybeihymif2tfuv6hh3xjuxk6eantuccucij3c4tr2wu5ylhhbppzgjci/2.png",
+    "edition": 2,
+    "date": 1671457345228,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "PURPLE"
+      },
+      {
+        "trait_type": "BASE",
+        "value": "RED"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "BIKERVEST"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "ZOMBIE"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "HORN"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "TIRED"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

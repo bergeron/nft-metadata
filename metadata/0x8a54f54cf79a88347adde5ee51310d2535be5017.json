@@ -1,0 +1,31 @@
+{
+  "address": "0x8a54f54cf79a88347adde5ee51310d2535be5017",
+  "type": "ERC721",
+  "name": "VSP Black Card",
+  "tokenCount": "70",
+  "uri": "https://blackcard.mypinata.cloud/ipfs/QmTA6VyguwKkWW3WokHu9LLQKjh1SKqkUVsfq5bCEUdYCM/1",
+  "metadata": {
+    "name": "Black Card #01",
+    "description": "The Black Card is the newest pass in the VSP ecosystem and this is Black Card #01",
+    "image": "https://ipfs.io/ipfs/QmZRzv63agaowxabqz1CUAftYsJ9RsCn4w2aAX2W1zXda9/1",
+    "external_url": "https://blackcard.vaynersportspass.com/black-card",
+    "attributes": [
+      {
+        "trait_type": " Year 1 IRL Event Status",
+        "value": "CLAIMED"
+      },
+      {
+        "trait_type": "Year 2 IRL Event Status",
+        "value": "unclaimed"
+      },
+      {
+        "trait_type": "Year 3 IRL Event Status",
+        "value": "unclaimed"
+      },
+      {
+        "trait_type": "Black Card #",
+        "value": "01"
+      }
+    ]
+  }
+}

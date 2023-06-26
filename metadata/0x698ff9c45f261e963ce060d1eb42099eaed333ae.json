@@ -1,0 +1,45 @@
+{
+  "address": "0x698ff9c45f261e963ce060d1eb42099eaed333ae",
+  "type": "ERC721",
+  "name": "Genesis LANDs",
+  "tokenCount": "664",
+  "uri": "https://api.gamium.world/general/lands/1/metadata.json",
+  "metadata": {
+    "name": "LAND (-75, 75)",
+    "description": "A LAND is a digital piece of real estate in the Gamium metaverse. Users can use the Gamium SDK to build social experiences, and populate LANDs with ASSETs",
+    "image": "https://images.gamium.world/nfts/lands/1.jpg",
+    "properties": [
+      {
+        "trait_type": "Land X",
+        "value": -75,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Land Y",
+        "value": 75,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Neighborhood",
+        "value": "Sat"
+      },
+      {
+        "trait_type": "Island",
+        "value": "Mau"
+      },
+      {
+        "trait_type": "District",
+        "value": "Caracola"
+      },
+      {
+        "trait_type": "Size",
+        "value": "1x1"
+      },
+      {
+        "trait_type": "Area",
+        "value": 1,
+        "display_type": "number"
+      }
+    ]
+  }
+}

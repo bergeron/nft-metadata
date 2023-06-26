@@ -1,0 +1,41 @@
+{
+  "address": "0x554962fded0b9ba5f566ddf3361cafbb8980160d",
+  "type": "ERC1155",
+  "name": "Random Universe Editions",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/F8vtsbsnRlzc0U0oKkifzsOgYZ3PmKgKRw0mHl6Qe0Q",
+  "metadata": {
+    "name": "Random Universe Genesis",
+    "created_by": "Random Universe",
+    "external_url": "https://twitter.com/Rndm_Universe",
+    "description": "Welcome to Random Universe.",
+    "attributes": [
+      {
+        "trait_type": "Edition Type",
+        "value": "Art"
+      }
+    ],
+    "animation_details": {
+      "bytes": 4267352,
+      "format": "MP4",
+      "duration": 4,
+      "sha256": "a7b5d6815351cb0aac701b1dbc554b037b90f4313d79367e741855bce8b4def9",
+      "width": 1536,
+      "height": 1536,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/4-b1Xj_ZjmOEvr7iBAf2zRrQnGBKFYEgaeXo0dzaM0E",
+    "animation_url": "https://arweave.net/4-b1Xj_ZjmOEvr7iBAf2zRrQnGBKFYEgaeXo0dzaM0E",
+    "image_details": {
+      "bytes": 1665170,
+      "format": "PNG",
+      "sha256": "9daff8385df730a54421f10d4527f4842cd2fd46d3974f96e8421c8e84799afe",
+      "width": 1024,
+      "height": 1024
+    },
+    "image": "https://arweave.net/wrK4m7bM0nTgUpyyK4ErCaBMIMFFukm5rgAdrXy_58g",
+    "image_url": "https://arweave.net/wrK4m7bM0nTgUpyyK4ErCaBMIMFFukm5rgAdrXy_58g"
+  }
+}

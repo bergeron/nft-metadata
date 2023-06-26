@@ -1,0 +1,34 @@
+{
+  "address": "0x7229600b699dd90b8e7be0575d02db58f409d2cb",
+  "type": "ERC1155",
+  "name": "ETHJETS",
+  "tokenCount": "3",
+  "uri": "ipfs://QmUzMZR93BDHdLqwdfvN7sJcRMuP8HLydVjEW6AsMRy2bY/1",
+  "metadata": {
+    "name": "Global Pass",
+    "description": "Enjoy your entry into the world of private jet travel. The Global Pass is perfect for those who fly occasionally but still want to enjoy a taste of the perks of a frequent flyer.",
+    "image": "ipfs://Qme8f4b86AG6VcWLRDxcR29SKWKoLGwGeaYCW27QmdSrJY",
+    "attributes": [
+      {
+        "trait_type": "Generation",
+        "value": "Gulfstream"
+      },
+      {
+        "trait_type": "Membership",
+        "value": "Global"
+      },
+      {
+        "trait_type": "Chartering",
+        "value": "Discount Pricing"
+      },
+      {
+        "trait_type": "Empty Legs",
+        "value": "90% Off"
+      },
+      {
+        "trait_type": "Promotional Rewards",
+        "value": "1X"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "address": "0x439e507553e01024c4dd5532dc3ad371a6d3e4e6",
+  "type": "ERC721",
+  "name": "friendlyfish NFT",
+  "tokenCount": "12",
+  "uri": "ipfs://QmPod5EwbZDrP9rEH2gkUBKYbXPP68S91VuXKWvy1L4joM/1",
+  "metadata": {
+    "name": "Friendly Fish #1",
+    "description": "Friendly Fish",
+    "image": "ipfs://QmeUTXngsiEPisheVkoCBrbfq6v7nXdKF4RYqMHbmWqHf8",
+    "sha1": "6e82cc01981d4680b95892bfeb6bc52fee438a93",
+    "edition": 0,
+    "date": 1654509623769,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "blue_dark"
+      },
+      {
+        "trait_type": "ground",
+        "value": "treasure"
+      },
+      {
+        "trait_type": "bubble",
+        "value": "huge_and_three_small"
+      },
+      {
+        "trait_type": "logo",
+        "value": "coin"
+      },
+      {
+        "trait_type": "hook",
+        "value": "worm"
+      },
+      {
+        "trait_type": "body",
+        "value": "btc_orange"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "pipe_green"
+      },
+      {
+        "trait_type": "eyebrow",
+        "value": "mad"
+      },
+      {
+        "trait_type": "hat",
+        "value": "cap_white"
+      },
+      {
+        "trait_type": "eye",
+        "value": "medici_glasses_blue"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 1634625199
+      }
+    ],
+    "compiler": "FriendlyFish Generator"
+  }
+}

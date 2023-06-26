@@ -1,0 +1,41 @@
+{
+  "address": "0xb57eb2c440002d5f53d89c379a313c0ca9601d8b",
+  "type": "ERC721",
+  "name": "LF Guy NFT1 V3",
+  "tokenCount": "6",
+  "uri": "ipfs://QmUcEJy7KSQM4Dj7xubSAF7J3d4oCQr6LCwaRdkCAqgFSm/1.json",
+  "metadata": {
+    "name": "LF Guy NFT1",
+    "description": "description LF Guy NFT",
+    "image": "https://ipfs.io/ipfs/QmbkSCnjwMyUTAL9xroyXZ3U3EGMMZPxvSoqCHrPRL8KUD/1.png",
+    "external_link": "external-link-url https://www.opensea.io/",
+    "seller_fee_basis_points": 250,
+    "fee_recipient": "0xde975E4a5C4820Fa4C323E1520dCBAfaC8a42ef8",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "red"
+      },
+      {
+        "trait_type": "Sofa",
+        "value": "sofa2"
+      },
+      {
+        "trait_type": "People",
+        "value": "one"
+      },
+      {
+        "trait_type": "Clothes1",
+        "value": "two"
+      },
+      {
+        "trait_type": "Clothes2",
+        "value": "three"
+      },
+      {
+        "trait_type": "Coin",
+        "value": "coin2"
+      }
+    ]
+  }
+}

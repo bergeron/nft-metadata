@@ -1,0 +1,31 @@
+{
+  "address": "0x23bf47898037c9a8d55add7826012b9ec2249b04",
+  "type": "ERC721",
+  "name": "NFCards",
+  "tokenCount": "17",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmYAz612Wac8TWytRLhoydG6Pgc6o5SbQeuWY4VxRYwEEV/1.json",
+  "metadata": {
+    "edition": 450,
+    "name": "3 of Clubs + Jack of Hearts",
+    "description": "2652 playing card pairs on the blockchain",
+    "image": "https://gateway.pinata.cloud/ipfs/QmSBeJi3uXkX5qKr8CJUvSkm9RX2dDf83JJopR3LaKRk54/450.png",
+    "attributes": [
+      {
+        "trait_type": "Left Card Value",
+        "value": "3"
+      },
+      {
+        "trait_type": "Left Card Suit",
+        "value": "Clubs"
+      },
+      {
+        "trait_type": "Right Card Value",
+        "value": "Jack"
+      },
+      {
+        "trait_type": "Right Card Suit",
+        "value": "Hearts"
+      }
+    ]
+  }
+}

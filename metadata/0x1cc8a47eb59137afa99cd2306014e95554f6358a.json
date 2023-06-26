@@ -1,0 +1,46 @@
+{
+  "address": "0x1cc8a47eb59137afa99cd2306014e95554f6358a",
+  "type": "ERC721",
+  "name": "Pepe Phunks",
+  "tokenCount": "5",
+  "uri": "ipfs://QmXVBnc2K3iog85a6wct2pnsfqaGUAb2xidpvybbBLb2Ci/1.json",
+  "metadata": {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://Qmetkbh7NyhGF7Ej99FxDRx5Gdt9atZjWZnhTyJJYgA1hs/1.png",
+    "dna": "81fba954a7ecb1d7496275183d50ceec69dcb724",
+    "edition": 1,
+    "date": 1647906570518,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light brown"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pepe Face"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Killer beard"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Cowboy hat"
+      },
+      {
+        "trait_type": "Lips",
+        "value": "Poker face"
+      },
+      {
+        "trait_type": "Cigs",
+        "value": "Grey cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blindfolded"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

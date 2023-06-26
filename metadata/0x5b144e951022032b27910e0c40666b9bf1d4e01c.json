@@ -1,0 +1,19 @@
+{
+  "address": "0x5b144e951022032b27910e0c40666b9bf1d4e01c",
+  "type": "ERC1155",
+  "name": "Beach Hut Passes",
+  "tokenCount": "2",
+  "uri": "https://s3.eu-west-2.amazonaws.com/malibubeachhut.info/collections_metadata/beach_hut_passes/json/1.json",
+  "metadata": {
+    "name": "COMMISSION PASS",
+    "description": "Malibu Beach Hut Commission Pass.",
+    "image": "https://s3.eu-west-2.amazonaws.com/malibubeachhut.info/collections_metadata/beach_hut_passes/images/LEBRON.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Pass Type",
+        "value": "Commission"
+      }
+    ]
+  }
+}

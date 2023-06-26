@@ -1,0 +1,43 @@
+{
+  "address": "0x2ea0d46d78cf57e1288cf8582fecd89cf3f078f6",
+  "type": "ERC721",
+  "name": "Nimrodz",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmaWXrqu8hWmTzrjgabjUnzftm5hbdZQ2dTuTGkMYGpLuB/1.json",
+  "metadata": {
+    "name": "Nimrod #1",
+    "description": "The official NFT collection of the Nimrodz! Nim nim nim nim nim!",
+    "image": "ipfs://QmU8QbvyebBiAt2GyfSbZTZz6EvxYkAJCWvbMu9JK7DPbE/1.png",
+    "dna": "1414118c15d2d500946cc094e2eb2154d9c48be8",
+    "edition": 1,
+    "date": 1654064008185,
+    "artist": "@0xLizzerd",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "magenta"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "beautiful"
+      },
+      {
+        "trait_type": "Body",
+        "value": "nimmie tee"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "lil smile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "patch hat"
+      }
+    ],
+    "compiler": "Nimrodz Generator"
+  }
+}

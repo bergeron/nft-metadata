@@ -1,0 +1,38 @@
+{
+  "address": "0xc6426937d6ef8db8ea49e3c0fda3bf0f24ebd561",
+  "type": "ERC721",
+  "name": "Nonconformist Upside Ducks",
+  "tokenCount": "709",
+  "uri": "https://upside.nonconformistducks.com/metadata/1",
+  "metadata": {
+    "id": "#1",
+    "image": "https://upside.nonconformistducks.com/images/1.jpg",
+    "name": "King Adan",
+    "description": "Welcome to the Upside Duck, a collection about the underground world behind the portal.",
+    "animation_url": "https://upside.nonconformistducks.com/videos/1.mp4",
+    "attributes": [
+      {
+        "trait_type": "1-1",
+        "value": "King Adan"
+      },
+      {
+        "max_value": 100,
+        "trait_type": "Defense",
+        "value": 81
+      },
+      {
+        "max_value": 100,
+        "trait_type": "Attack",
+        "value": 87
+      },
+      {
+        "trait_type": "Power",
+        "value": "Shield"
+      },
+      {
+        "trait_type": "Type",
+        "value": "A"
+      }
+    ]
+  }
+}

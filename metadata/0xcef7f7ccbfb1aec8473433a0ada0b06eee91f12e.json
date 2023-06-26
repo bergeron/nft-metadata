@@ -1,0 +1,23 @@
+{
+  "address": "0xcef7f7ccbfb1aec8473433a0ada0b06eee91f12e",
+  "type": "ERC1155",
+  "name": "NFT Rehab",
+  "tokenCount": "5",
+  "uri": "https://gateway.ipfs.io/ipfs/Qmd1fvGbXE4nExn3SxSXRtQjHUg4Aud2LXE276yzWJ9Mzk",
+  "metadata": {
+    "name": "Ice cold can of rehab",
+    "description": "Test NFT with rarity trait ",
+    "image": "https://gateway.ipfs.io/ipfs/QmW49YbMb1wJRjFbWpCQ3ypHzVdXUeq2Q66KvqedZFNthY",
+    "animation_url": "",
+    "audio_url": "",
+    "interactive_url": "",
+    "external_link": "",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "10",
+        "display_type": "number"
+      }
+    ]
+  }
+}

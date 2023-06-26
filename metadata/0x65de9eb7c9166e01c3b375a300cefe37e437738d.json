@@ -1,0 +1,78 @@
+{
+  "address": "0x65de9eb7c9166e01c3b375a300cefe37e437738d",
+  "type": "ERC721",
+  "name": "processed (art): manifest",
+  "tokenCount": "213",
+  "uri": "https://api.processed.art/manifest/1",
+  "metadata": {
+    "small": "ipfs://Qmbng96HkbuQgL8iHMEsNd4JbmCczdL8GtrAJESnvfoSQ2",
+    "image": "ipfs://QmXS7cByxi6HhxLiH72hUySLGTyBYNXD1oxX5NoQXhjaqm",
+    "website": "https://processed.art",
+    "web_cid": "QmPRz67SxMfenWuNyVi86QJ2cL5G2vpDFV52ovhXT1zxrt",
+    "tokenId": "1",
+    "artist": "quaekr",
+    "description": "manifest: \n verb: to become apparent; to demonstrate; appear. \n adjective: clear or obvious to the mind or eye. \n noun: a document giving comprehensive details of cargo. \n origin: latin 'manifestus', meaning \"palpable, handled, tangible\".",
+    "mid": "ipfs://QmbdZjRSBzh51ZfwXaaeDhcjhhToXuisEBh1yZs3k5U5xr",
+    "platform": "processed (art)",
+    "interactive_nft": {
+      "ipfs_uri": "https://cloudflare-ipfs.com/ipfs/QmbjXDPZSVp2yVWFp8MnkxnLT9Ab8BY7QbsSjamyMgfxV6?tokenHash=0x54e0bce062a9b288615545c7b851729d0d3f64541b940db25aad90c42288bbfa&mirageHash=0x8071ff8b991a8b93c15896e84356edae94f928740b93bb5ff444ae07164f722f",
+      "arweave_uri": "https://ppserlz6xv2n6qwmwzkgwcibz2zr5k5kcdnjzzfo74i7mp3doida.arweave.net/e-RIrz69dN9CzLZUawkBzrMeq6oQ2pzkrv8R9j9jcgY?tokenHash=0x54e0bce062a9b288615545c7b851729d0d3f64541b940db25aad90c42288bbfa&mirageHash=0x8071ff8b991a8b93c15896e84356edae94f928740b93bb5ff444ae07164f722f",
+      "version": "1.0.0",
+      "code_uri": "https://api.processed.art/generate/manifest/1"
+    },
+    "license": "NFT License v2.0",
+    "external_url": "https://manifest.processed.art/manifest/1",
+    "library": "p5js",
+    "web_url": "ipfs://QmPRz67SxMfenWuNyVi86QJ2cL5G2vpDFV52ovhXT1zxrt",
+    "name": "manifest #1",
+    "attributes": [
+      {
+        "trait_type": "Token Hash",
+        "value": "0x54e0bce062a9b288615545c7b851729d0d3f64541b940db25aad90c42288bbfa"
+      },
+      {
+        "trait_type": "Mirage Hash",
+        "value": "0x8071ff8b991a8b93c15896e84356edae94f928740b93bb5ff444ae07164f722f"
+      },
+      {
+        "trait_type": "Background",
+        "value": "pearl"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "violet"
+      },
+      {
+        "trait_type": "Primary Drip",
+        "value": "violet"
+      },
+      {
+        "trait_type": "Secondary Drip",
+        "value": "tangerine"
+      },
+      {
+        "trait_type": "Tertiary Drip",
+        "value": "sky"
+      },
+      {
+        "trait_type": "Spacing",
+        "value": 625
+      },
+      {
+        "trait_type": "Inverted",
+        "value": false
+      },
+      {
+        "trait_type": "Birthday",
+        "display_type": "date",
+        "value": 1633031494043
+      },
+      {
+        "trait_type": "Series",
+        "display_type": "number",
+        "value": 2
+      }
+    ],
+    "cid": "QmfLTmdC9TSna4qq1v3peLLoUJ9f99TJaY47VkSo5iFRLp"
+  }
+}

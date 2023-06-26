@@ -1,0 +1,41 @@
+{
+  "address": "0xcb4db2c2264a3a5ef57a92cd4dd89076a88e2af5",
+  "type": "ERC721",
+  "name": "cruel V2",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/uJaaVrsKxTbCA6SAEZctjp1MnUVT7FuTF6bUnNFjguc",
+  "metadata": {
+    "name": "Can you see now?",
+    "created_by": "Cruel",
+    "description": "1500 x 1500 - 30 FPS - MP4 - 39 Secs",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Cruel"
+      }
+    ],
+    "animation_details": {
+      "bytes": 154819641,
+      "format": "MP4",
+      "duration": 39,
+      "sha256": "2b1e6797bea9661ac4a831ad7054b8323068eb5526a17790de678f07c46ddb1a",
+      "width": 1500,
+      "height": 1500,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/_lQ6AHBVsg0nmrkxvUKOTcVbGGByCZoFAOmN4S1k2lA",
+    "animation_url": "https://arweave.net/_lQ6AHBVsg0nmrkxvUKOTcVbGGByCZoFAOmN4S1k2lA",
+    "image_details": {
+      "bytes": 2807816,
+      "format": "PNG",
+      "sha256": "bf96bba5953234f09652cef77d125092b10a3fe1f22b681253f0634f21c82bb6",
+      "width": 1500,
+      "height": 1500
+    },
+    "image": "https://arweave.net/c3Y_nYONrDAo_h-D1RlICN4rF7kjDi5Alr9vRFe-DEY",
+    "image_url": "https://arweave.net/c3Y_nYONrDAo_h-D1RlICN4rF7kjDi5Alr9vRFe-DEY"
+  }
+}

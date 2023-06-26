@@ -1,0 +1,43 @@
+{
+  "address": "0xb407400abf8d3587e7355ebddff7ea40d6cd8ea5",
+  "type": "ERC721",
+  "name": "masia V2",
+  "tokenCount": "2",
+  "uri": "ipfs://QmWhbXbwwWKjdcByCmmMPRWuYZ18yzjvUdLMcGkfqfeKPm/1.json",
+  "metadata": {
+    "name": "masia #1",
+    "description": "ENS Avatar Project for the Open Metaverse",
+    "image": "ipfs://QmVEnmpT3w2n6KwLtx17WL7XEPazmqkeUvAF5DQxbR7qrE/1.png",
+    "animation_url": "ipfs://QmVEnmpT3w2n6KwLtx17WL7XEPazmqkeUvAF5DQxbR7qrE/1.glb",
+    "external_url": "https://masia02.eth.link",
+    "attributes": [
+      {
+        "trait_type": "Skin",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Feet",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Lowerbody",
+        "value": "White"
+      },
+      {
+        "trait_type": "Upperbody",
+        "value": "longcoat"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Blue"
+      }
+    ],
+    "model_url": "ipfs://QmVEnmpT3w2n6KwLtx17WL7XEPazmqkeUvAF5DQxbR7qrE/1.vrm",
+    "audio_url": "ipfs://QmVEnmpT3w2n6KwLtx17WL7XEPazmqkeUvAF5DQxbR7qrE/1.mp3",
+    "compiler": "dWebXRlab"
+  }
+}

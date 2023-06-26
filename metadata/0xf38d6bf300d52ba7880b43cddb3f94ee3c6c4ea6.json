@@ -1,0 +1,96 @@
+{
+  "address": "0xf38d6bf300d52ba7880b43cddb3f94ee3c6c4ea6",
+  "type": "ERC721",
+  "name": "Pixelglyphs",
+  "tokenCount": "10000",
+  "uri": "https://pxg-prod.herokuapp.com/metadata/1",
+  "metadata": {
+    "matrix": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "colors": [
+      "rgb(141,1,8)",
+      "rgb(244,53,124)",
+      "rgb(236,231,173)"
+    ],
+    "attributes": [
+      {
+        "trait_type": "PXG",
+        "value": "claimed"
+      }
+    ],
+    "name": "Genesis",
+    "description": "10,000 unique on-chain avatar NFTs generated using a cellular automaton.",
+    "image": "ipfs://QmV83ZGg7s9Yi55qC53r7RRp3YpymQQ8HHh6LthTRs1v2J",
+    "tokenId": 1
+  }
+}

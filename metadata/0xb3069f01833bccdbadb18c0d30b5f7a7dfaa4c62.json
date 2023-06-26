@@ -1,0 +1,48 @@
+{
+  "address": "0xb3069f01833bccdbadb18c0d30b5f7a7dfaa4c62",
+  "type": "ERC721",
+  "name": "test name",
+  "tokenCount": "1",
+  "uri": "https://cdn-api.niftykit.com/reveal/AYx9PatcGRh5M831m7tj/1",
+  "metadata": {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "3ec3f91d2f49ef6b0ab061c4873f812a017c3e85",
+    "edition": 1,
+    "date": 1676805589138,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine",
+    "seller_fee_basis_points": 700,
+    "fee_recipient": "0xE7EC7dE11e27bb7591aA66393a5C4dc4374d4289"
+  }
+}

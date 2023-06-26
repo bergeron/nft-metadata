@@ -1,0 +1,41 @@
+{
+  "address": "0x01fbe039dcdd1bf9ac82ab0c8eaf22b34abd314a",
+  "type": "ERC721",
+  "name": "Non-Fungible Neckass",
+  "tokenCount": "6",
+  "uri": "ipfs://Qmf9Ghg6G4PJ9KMdw3SbFVcYydPe8KUctyvXm7enCiXpJY/1.json",
+  "metadata": {
+    "name": "Neckass #1",
+    "description": "Neckass #1 - A generative collection of freethinkers thriving on the Ethereum blockchain. They have no established roadmap, only endless potential...",
+    "fee_recipient": "0x0f762865cfE9856F16194c1a64397b5F67C7e0C3",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://QmNiiLMMFZrKnyqHD6iWghvL942AThRf9aubD7iAvUPMFb/1.png",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Base22"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "Sassy"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Yellow Bow Tie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Neutral"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 5136,
+        "display_type": "number"
+      }
+    ]
+  }
+}

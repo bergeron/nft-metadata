@@ -1,0 +1,43 @@
+{
+  "address": "0x7b330e64afbb0da9b65eaff94afd575611adc5c3",
+  "type": "ERC721",
+  "name": "Impostors VX",
+  "tokenCount": "3139",
+  "uri": "https://impostors-voxel-metadata.s3.amazonaws.com/1",
+  "metadata": {
+    "description": "",
+    "name": "Impostor Voxel 1",
+    "image": "https://impostors-voxel.s3.amazonaws.com/1.png",
+    "attributes": [
+      {
+        "trait_type": "Emote",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Whiskers"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Midnight Black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Tribal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hypnotize"
+      },
+      {
+        "trait_type": "Backpack",
+        "value": "Fairy Wings"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3D Glasses"
+      }
+    ],
+    "animation_url": "https://impostors-voxel-viewer.pages.dev/viewer?id=1"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "address": "0x4759692895503afad661aef75eea7830aac33051",
+  "type": "ERC721",
+  "name": "PixelClouds",
+  "tokenCount": "1200",
+  "uri": "https://geneticchain.io/api/project/10/token/1/meta",
+  "metadata": {
+    "project": "Pixel Clouds",
+    "projectLogo": "https://geneticchain.io/api/project/10/logo",
+    "name": "Pixel Clouds #1",
+    "artDesc": "Pixel Clouds aim to create a new form of culture based on a shared aesthetic utilizing decentralized ownership of clouds with the option to control rain.",
+    "description": "A **[Genetic Chain](https://geneticchain.io)** Project.\n\n**Project #10**: [Pixel Clouds](https://geneticchain.io/project/10) by Cano\n\nPixel Clouds aim to create a new form of culture based on a shared aesthetic utilizing decentralized ownership of clouds with the option to control rain.",
+    "artist": "Cano",
+    "tokenId": "1",
+    "website": "http://www.canturedi.com/pixel-clouds",
+    "dapp": null,
+    "license": "BYAC License",
+    "attributes": [
+      {
+        "trait_type": "Cloud",
+        "value": "thyrse"
+      },
+      {
+        "trait_type": "Sky",
+        "value": "day10"
+      },
+      {
+        "trait_type": "Form",
+        "value": "12"
+      },
+      {
+        "trait_type": "Rain",
+        "value": "alabaster"
+      },
+      {
+        "trait_type": "Sky Lucidity",
+        "value": "high"
+      },
+      {
+        "trait_type": "Cloud Purity",
+        "value": "med"
+      },
+      {
+        "trait_type": "Weather",
+        "value": 13
+      },
+      {
+        "trait_type": "Line Type",
+        "value": "funky"
+      }
+    ],
+    "tokenHash": "0x5a7aa35044adcc7937d643d100b348ba1de4215d444546f266e20fa51393ae02",
+    "maxTokens": 1200,
+    "state": {
+      "rainMeter": "0",
+      "rain": false
+    },
+    "dynamic": true,
+    "image": "https://geneticchain.io/api/project/10/token/1/image",
+    "external_url": "https://geneticchain.io/project/10/token/1",
+    "animation_url": "https://geneticchain.io/project/10/token/1/anim"
+  }
+}

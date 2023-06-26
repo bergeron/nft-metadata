@@ -1,0 +1,41 @@
+{
+  "address": "0xb71efa3e73f61bcbcd6e5d5b66097145f3aa99a4",
+  "type": "ERC721",
+  "name": "Metro by Gener8tive",
+  "tokenCount": "554",
+  "uri": "https://api.gener8tive.io/metro/metadata/1",
+  "metadata": {
+    "external_url": "https://gener8tive.io/metro",
+    "tokenId": 1,
+    "image": "https://assets.gener8tive.io/metro/1.png",
+    "attributes": [
+      {
+        "value": "Downtown NYC",
+        "trait_type": "Series"
+      },
+      {
+        "display_type": "number",
+        "value": 1142725,
+        "trait_type": "Lot Area"
+      },
+      {
+        "value": "4",
+        "trait_type": "Buildings"
+      },
+      {
+        "value": "3",
+        "trait_type": "Max Floors"
+      },
+      {
+        "value": "Battery Park City Lower Manhattan",
+        "trait_type": "Neighbourhood"
+      },
+      {
+        "value": "3",
+        "trait_type": "Landuse Block #"
+      }
+    ],
+    "description": "A series of generative axonometric building collections derived from real-world city data. \n\n\n\nNeighbourhood:\n Battery Park City Lower Manhattan. \n\n\n\nCivic Addresses:\n Peter Minuit Plaza, 1 South Street, 10 Battery Park",
+    "name": "Dtwn NYC #1"
+  }
+}

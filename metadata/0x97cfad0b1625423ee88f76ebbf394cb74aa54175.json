@@ -1,0 +1,51 @@
+{
+  "address": "0x97cfad0b1625423ee88f76ebbf394cb74aa54175",
+  "type": "ERC721",
+  "name": "PropyNFT V3",
+  "tokenCount": "3",
+  "uri": "ipfs://QmSnHvmFLvpEHmEe9AiJEN3YbLUzbk1DzFRVdjocPZ7qLW",
+  "metadata": {
+    "description": "This US home NFT provides ownership rights for a legal entity that owns a property. The property subject to the ownership rights is located at 11038 Great Rock St, Horizon West, FL 34787, USA.\n\nThis NFT is minted by Propy.",
+    "external_url": "https://propy.com/nft",
+    "image": "ipfs://QmT89LYtRF9aM534npgKnX8grMJ29AUGqVzrDuPKi2KvrD",
+    "name": "PropyNFT-0001r",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Townhouse"
+      },
+      {
+        "trait_type": "Address",
+        "value": "11038 Great Rock St, Horizon West, FL 34787, USA"
+      },
+      {
+        "trait_type": "Country",
+        "value": "USA"
+      },
+      {
+        "trait_type": "City",
+        "value": "Horizon West"
+      },
+      {
+        "trait_type": "ZIP",
+        "value": "34787"
+      },
+      {
+        "trait_type": "Sqft",
+        "value": "1626"
+      },
+      {
+        "trait_type": "Bedrooms",
+        "value": "3"
+      },
+      {
+        "trait_type": "Bathrooms",
+        "value": "3"
+      },
+      {
+        "trait_type": "Royalties",
+        "value": "Yes"
+      }
+    ]
+  }
+}

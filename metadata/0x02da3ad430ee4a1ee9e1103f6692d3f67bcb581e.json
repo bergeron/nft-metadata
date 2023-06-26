@@ -1,0 +1,39 @@
+{
+  "address": "0x02da3ad430ee4a1ee9e1103f6692d3f67bcb581e",
+  "type": "ERC721",
+  "name": "The Knoids by Shade",
+  "tokenCount": "1789",
+  "uri": "https://assets.knoids.com/knoids/1",
+  "metadata": {
+    "name": "Knoid #1",
+    "image": "https://assets.knoids.com/knoids/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Eyes"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Ice Collar"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Beanie"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Etched Plates"
+      }
+    ],
+    "description": "The Knoids are a collection of robotic dogs who live on the Ethereum blockchain.",
+    "external_url": "https://knoids.com"
+  }
+}

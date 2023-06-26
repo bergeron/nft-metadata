@@ -1,0 +1,50 @@
+{
+  "address": "0xb29fa4a15550d12f042bb8d16dea6c2231b82b59",
+  "type": "ERC1155",
+  "name": "FAMILY DINNER",
+  "tokenCount": "13",
+  "uri": "ipfs://Qmdwq5tZ9mTn8ZXu61HMS7FU3ACeUeK99Tqz82PRrZWRjQ/1/token.json",
+  "metadata": {
+    "name": "STARRY SUNSET",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/image/upload/w_1200/v1680618750/0x78b2de47fe499e0a6f7a67dbf965b8ec765d2d9d/642c2fcb3d1d5525e61ea073/stateCovers/kev5hjgl1nplxlplbv7b.png",
+    "description": "Everyday wonderful gradient.\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "y☮nfrula"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "FAMILY DINNER"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0x78b2de47fe499e0a6f7a67dbf965b8ec765d2d9d"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Outside",
+              "state": {
+                "label": "STARRY SUNSET",
+                "uri": "QmWduVVRZCaRoo5u4eEXkKKu14SAWz1LnQdim5eGuJUMjc"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

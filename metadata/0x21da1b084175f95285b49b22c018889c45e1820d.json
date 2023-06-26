@@ -1,0 +1,47 @@
+{
+  "address": "0x21da1b084175f95285b49b22c018889c45e1820d",
+  "type": "ERC1155",
+  "name": "Slice Protocol",
+  "tokenCount": "36",
+  "uri": "https://slice.so/api/slicer/1",
+  "metadata": {
+    "id": 1,
+    "name": "Slice Genesis NFT 🍰",
+    "description": "Welcome to the slicer of the Slice Genesis NFT collection, made to celebrate the launch of Slice protocol 🍰\n\nProducts in d-stores can be used in [many ways](https://slice.so/#sold), from selling tickets / merch to distribute NFTs among allowlisted users.\n\nHere eligible users can claim Slice Genesis NFTs by interacting with the product store below, with a different mechanism depending on the product:\n\n1. **Allowlist**: Only allowlisted users can claim;\n2. **Token-gating**: Only users who possess at least 25k SLX tokens can claim.\n\n**Claim the NFTs by getting the products below!** 🍕\n\n---\n\nHolders may receive benefits and early access to new Slice features 🥧\n\nSee the collection on [OpenSea](https://opensea.io/collection/slice-genesis), [LooksRare](https://looksrare.org/collections/0x4AA8C47fE6bfD03F3D219802233E6728FB6BdC86) or [Etherscan](https://etherscan.io/token/0x4aa8c47fe6bfd03f3d219802233e6728fb6bdc86)",
+    "external_url": "http://localhost:3000/slicer/1",
+    "address": "0xB5B5C74Ef7CFDd60Dc503C1DfBf488bdDB56C590",
+    "image": "https://nksshskhnfrdtnoipbgi.supabase.co/storage/v1/object/public/slicer-images/1/main_m7ede7bdn.jpg",
+    "tags": "Project",
+    "isImmutable": false,
+    "config": {
+      "sponsors": true
+    },
+    "sponsors": {},
+    "attributes": [
+      {
+        "value": "1000000",
+        "trait_type": "Total slices",
+        "display_type": "number"
+      },
+      {
+        "value": "200000",
+        "trait_type": "Superowner slices",
+        "display_type": "number"
+      },
+      {
+        "value": "0xae009d532328ff09e09e5d506ab5bbec3c25c0ff",
+        "trait_type": "Creator"
+      },
+      {
+        "value": "1650414570",
+        "trait_type": "Sliced on",
+        "display_type": "date"
+      }
+    ],
+    "slicerConfig": {
+      "id": 5,
+      "customPath": "slice-genesis",
+      "slicerId": 1
+    }
+  }
+}

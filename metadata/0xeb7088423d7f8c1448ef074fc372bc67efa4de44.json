@@ -1,0 +1,25 @@
+{
+  "address": "0xeb7088423d7f8c1448ef074fc372bc67efa4de44",
+  "type": "ERC721",
+  "name": "Toys by 0xTechno",
+  "tokenCount": "576",
+  "uri": "https://toys.0xtechno.art/api/toys/meta-v1/1",
+  "metadata": {
+    "name": "Toys #1",
+    "description": "Toys is the genesis generative art collection by 0xTechno. Toys is inspired by the endless shapes, designs and art that children create through play. The Toys algorithm explores this concept by following a generative system of rules that produces colorful toy pieces and interactions.",
+    "image": "https://toys-by-0xtechno.grailers.io/1.png",
+    "animation_url": "https://toys.0xtechno.art/api/toys/live-v1/1",
+    "external_url": "https://toys.0xtechno.art/api/toys/live-v1/1",
+    "attributes": {
+      "Colors": "Marble Run",
+      "Toy Mode": "Solid",
+      "Toy Size": "Regular",
+      "Order": "Circle",
+      "Paper": "Color",
+      "Grid": "false",
+      "X-Ray": "true",
+      "Toy Pieces:": "4"
+    },
+    "library": "p5js@1.0.0"
+  }
+}

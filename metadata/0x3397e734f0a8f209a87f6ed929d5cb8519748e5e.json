@@ -1,0 +1,18 @@
+{
+  "address": "0x3397e734f0a8f209a87f6ed929d5cb8519748e5e",
+  "type": "ERC1155",
+  "name": "Faucet1155",
+  "tokenCount": "1",
+  "uri": "data:application/json;utf8,{\"name\": \"Test #1\", \"description\": \"This is a test description\", \"image_data\": \"<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 350 350'><style>.base { fill: white; font-family: serif; font-size: 24px; }   .roll { fill: yellow; font-family: serif; font-size: 48px; text-decoration: underline} .block { fill: red; font-family: serif; font-size: 24px;}</style><rect width='100%' height='100%' fill='black' /><text x='10' y='40' class='base'>Test #1</text></svg>\", \"attributes\": [ {\"trait_type\": \"Test Number\", \"value\": \"1\"}]}",
+  "metadata": {
+    "name": "Test #1",
+    "description": "This is a test description",
+    "image_data": "<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 350 350'><style>.base { fill: white; font-family: serif; font-size: 24px; }   .roll { fill: yellow; font-family: serif; font-size: 48px; text-decoration: underline} .block { fill: red; font-family: serif; font-size: 24px;}</style><rect width='100%' height='100%' fill='black' /><text x='10' y='40' class='base'>Test #1</text></svg>",
+    "attributes": [
+      {
+        "trait_type": "Test Number",
+        "value": "1"
+      }
+    ]
+  }
+}

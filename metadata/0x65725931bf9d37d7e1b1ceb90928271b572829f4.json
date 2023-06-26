@@ -1,0 +1,54 @@
+{
+  "address": "0x65725931bf9d37d7e1b1ceb90928271b572829f4",
+  "type": "ERC1155",
+  "name": "MetaFactory Wearables - Official",
+  "tokenCount": "26",
+  "uri": "https://mf-services.vercel.app/api/nftMetadata/1",
+  "metadata": {
+    "name": "YFI Hoodie",
+    "image": "https://os.mf.app/assets/4cce323d-bed2-4255-ae04-0be773fdbd6b/119_hoodie_a.png",
+    "description": "Premium agricultural workwear for the hardest working farmers.",
+    "animation_url": "https://os.mf.app/assets/10c896b2-00df-4e43-bd46-4f5a70d51da8/yfi-hoodie.glb",
+    "external_url": "https://shop.metafactory.ai/products/4624482598958",
+    "properties": {
+      "brand": "YFI",
+      "composition": "",
+      "designer": "MetaDreamer",
+      "technician": "",
+      "creators": [
+        {
+          "name": "MetaDreamer",
+          "role": "Designer",
+          "share": 100
+        }
+      ],
+      "images": [
+        "https://os.mf.app/assets/fcf241e6-8e2c-455b-bf04-98488f861f90/YFI Hoodie Front copy.jpg",
+        "https://os.mf.app/assets/fcf241e6-8e2c-455b-bf04-98488f861f90/YFI Hoodie Front copy.jpg",
+        "https://os.mf.app/assets/4e0c1b80-401d-468b-8f6e-0562053cedb8/YFI Hoodie Back.jpg"
+      ]
+    },
+    "files": [
+      {
+        "name": "119_hoodie_a.glb",
+        "mimeType": "model/gltf-binary",
+        "uri": "https://os.mf.app/assets/10c896b2-00df-4e43-bd46-4f5a70d51da8/yfi-hoodie.glb"
+      },
+      {
+        "name": "119_hoodie_t.glb",
+        "mimeType": "model/gltf-binary",
+        "uri": "https://os.mf.app/assets/17d331e9-272b-4ff3-9168-f0b3b51720c2/yfi-hoodie.glb"
+      },
+      {
+        "name": "119_hoodie_t.png",
+        "mimeType": "image/png",
+        "uri": "https://os.mf.app/assets/837fb202-18ac-465e-976c-4378c70e1a11/yfi-hoodie.png"
+      },
+      {
+        "name": "yfi_hoodie.png",
+        "mimeType": "image/png",
+        "uri": "https://os.mf.app/assets/96880d9f-19d4-4762-86f5-b92702e22437/yfi-hoodie.png"
+      }
+    ]
+  }
+}

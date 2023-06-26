@@ -1,0 +1,25 @@
+{
+  "address": "0x312d732b4e37c237dff73a3a52833af366b6afe4",
+  "type": "ERC721",
+  "name": "ETH Test Lock",
+  "tokenCount": "2",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x312d732b4e37c237dff73a3a52833af366b6afe4/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x312D732b4E37c237dFF73A3A52833AF366b6afE4/icon?id=1",
+    "expiration": 1590445207,
+    "tokenId": "1",
+    "owner": "0xde97a096757bc86ff7b6d65e003c391944840447",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1590445207
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x312D732b4E37c237dFF73A3A52833AF366b6afE4",
+    "network": 1
+  }
+}

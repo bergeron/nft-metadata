@@ -1,0 +1,19 @@
+{
+  "address": "0xe70828118b91d3c2e06cafab2e3b60cbb985a72d",
+  "type": "ERC721",
+  "name": "Test Rats",
+  "tokenCount": "33",
+  "uri": "https://ipfs.io/ipfs/QmVsVCoTBpMU8tqSR6ujn4aEmRfPTHnGqPFd6gc1nicm5S/hidden.json",
+  "metadata": {
+    "name": "Hidden Rat",
+    "description": "This Rat exists withing a collection of 1,111 utility-enabled PFP characters, and will be revealed once the entire collection has minted out!",
+    "image": "ipfs://QmeDxrbty91dBhMiV7WJ3KUWHtc13HrAmhNAzW1F2ah6sc/hidden.svg",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Revealed?",
+        "value": "No"
+      }
+    ]
+  }
+}

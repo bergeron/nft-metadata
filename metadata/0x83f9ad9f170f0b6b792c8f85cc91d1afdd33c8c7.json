@@ -1,0 +1,56 @@
+{
+  "address": "0x83f9ad9f170f0b6b792c8f85cc91d1afdd33c8c7",
+  "type": "ERC721",
+  "name": "Ancient Warriors Empire",
+  "tokenCount": "2859",
+  "uri": "https://ancientwarriors.nftapi.art/meta/1",
+  "metadata": {
+    "token_id": 1,
+    "dna": "15ce53fffd20f418aba237d874f54dfe40040392",
+    "name": "Ancient Warriors #1",
+    "description": "Ancient Warriors (AW) is a collection of 4,444 warriors hailing from some of the greatest African and Latin American empires in history. We are building a decentralized empire that represents the might of the Aztecs, Zulus, Inkas, and Benin Kingdoms.",
+    "image": "https://ipfs.io/ipfs/QmYbZTboP3payy3cxq7VVyQ4NLx1SpZzJwoewobXVQw88T",
+    "animation_url": null,
+    "media": null,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0xF4617b57ad853f4Bc2Ce3f06C0D74958c240633c",
+    "attributes": [
+      {
+        "value": "Benin",
+        "trait_type": "Empire"
+      },
+      {
+        "value": "Male",
+        "trait_type": "Gender"
+      },
+      {
+        "value": "SkyBlue",
+        "trait_type": "Backgrounds"
+      },
+      {
+        "value": "UmberSkinScars",
+        "trait_type": "SkinFacial"
+      },
+      {
+        "value": "GoldPlateVest",
+        "trait_type": "Clothing"
+      },
+      {
+        "value": "HeadBeadLight",
+        "trait_type": "Headpieces"
+      },
+      {
+        "value": "AllBeadsIndigo",
+        "trait_type": "Jewelry"
+      },
+      {
+        "value": "GoldenShield",
+        "trait_type": "Shields"
+      },
+      {
+        "value": "BronzeSpear",
+        "trait_type": "Weapons"
+      }
+    ]
+  }
+}

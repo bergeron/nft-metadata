@@ -1,0 +1,69 @@
+{
+  "address": "0x317cb9eb5e2fdbfe4a58a3750a34136729b11280",
+  "type": "ERC721",
+  "name": "Matthew Giblin Music",
+  "tokenCount": "23",
+  "uri": "https://arweave.net/ZlSgj42G6SU7aN36RDI4LkiInUBYXZ0eumr2pzrwqJE",
+  "metadata": {
+    "name": "Dark Side of the Pineapple",
+    "created_by": "Matthew Giblin",
+    "description": "Day and Night collide at the Pineapple water fountain. Enter the portal to find yourself in an unknown land where physical and digital realities meet.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Matthew Giblin "
+      },
+      {
+        "trait_type": "Music Genre ",
+        "value": "Synthwave "
+      },
+      {
+        "trait_type": "BPM",
+        "value": "105"
+      },
+      {
+        "trait_type": "Location ",
+        "value": "Charleston "
+      },
+      {
+        "trait_type": "Visual Type",
+        "value": "Photo Animation "
+      },
+      {
+        "trait_type": "Collab ",
+        "value": "No"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "vibey"
+      },
+      {
+        "trait_type": "Water Fountain",
+        "value": "Pineapple"
+      }
+    ],
+    "animation_details": {
+      "bytes": 129524766,
+      "format": "MP4",
+      "duration": 37,
+      "sha256": "ee190ee1705ab0a9e9a82ddab96aa615134e354e6657a156f4608c08d105abc5",
+      "width": 2000,
+      "height": 1332,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/4xOq4zN5ZRKMQ_hKK3OinCA8ut5s8H8HnK1H69uE58Y",
+    "animation_url": "https://arweave.net/4xOq4zN5ZRKMQ_hKK3OinCA8ut5s8H8HnK1H69uE58Y",
+    "image_details": {
+      "bytes": 4981243,
+      "format": "PNG",
+      "sha256": "9b398e3562170960c8282fbcc8e0a2ed262f49f0b6092c92b0288f6e0cc2c205",
+      "width": 2000,
+      "height": 1333
+    },
+    "image": "https://arweave.net/1fRgkipCoqkmwuB8NCBnMHMEE5EGjKSyOzXhi3TbcYY",
+    "image_url": "https://arweave.net/1fRgkipCoqkmwuB8NCBnMHMEE5EGjKSyOzXhi3TbcYY"
+  }
+}

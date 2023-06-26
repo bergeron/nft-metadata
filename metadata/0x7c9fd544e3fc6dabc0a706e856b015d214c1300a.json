@@ -1,0 +1,22 @@
+{
+  "address": "0x7c9fd544e3fc6dabc0a706e856b015d214c1300a",
+  "type": "ERC721",
+  "name": "TenLevels",
+  "tokenCount": "8",
+  "uri": "https://server.tenlevels.xyz/tenlevels/nft/tokenUrl/1",
+  "metadata": {
+    "image": "https://res.tenlevels.xyz/nft1/c4bcaf24c3b19017b052c25ba63a3c58e582f02a55d0202022cafa5f8d175a34.png",
+    "name": "Level-1",
+    "description": "",
+    "attributes": [
+      {
+        "value": "Yes",
+        "trait_type": "Usable"
+      },
+      {
+        "value": 1,
+        "trait_type": "Level"
+      }
+    ]
+  }
+}

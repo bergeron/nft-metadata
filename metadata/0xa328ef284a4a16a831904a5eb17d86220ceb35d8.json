@@ -1,0 +1,42 @@
+{
+  "address": "0xa328ef284a4a16a831904a5eb17d86220ceb35d8",
+  "type": "ERC721",
+  "name": "A Present for you",
+  "tokenCount": "2191",
+  "uri": "https://a-present-for-you.nyc3.digitaloceanspaces.com/json/1.json",
+  "metadata": {
+    "name": "A present for you - by Kupido #1",
+    "description": "Owning a Kupido will give you access to the next collection.",
+    "image": "https://a-present-for-you.nyc3.digitaloceanspaces.com/images/1.png",
+    "dna": "92a52c248156a9aa02c3246af98ac9e649b44101",
+    "edition": 1,
+    "date": 1671586567219,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "7a6bab"
+      },
+      {
+        "trait_type": "BURN",
+        "value": "none"
+      },
+      {
+        "trait_type": "SKIN",
+        "value": "fucsia"
+      },
+      {
+        "trait_type": "LINE",
+        "value": "sunny"
+      },
+      {
+        "trait_type": "ACCESSORIES",
+        "value": "aureole"
+      },
+      {
+        "trait_type": "HAND ACCESSORIES",
+        "value": "Potter"
+      }
+    ],
+    "compiler": "Kupido"
+  }
+}

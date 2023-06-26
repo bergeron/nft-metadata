@@ -1,0 +1,20 @@
+{
+  "address": "0x065615f80bc621f916eaa6e0a5c6b2d9733cc0ba",
+  "type": "ERC721",
+  "name": "Test Ticket NFT",
+  "tokenCount": "5",
+  "uri": "ipfs://QmfZcEzYQ4f5xtNmGmYFasQnNRxjAhc1Yto5SszJ9NAZtZ/1.json",
+  "metadata": {
+    "name": "Ticket Test #1",
+    "id": 1,
+    "image": "ipfs://QmcYKKgWsqQq5Gwxv8bSudnB9wukPETbfLTpHKmFPhXArt",
+    "external_url": "",
+    "description": "This is a test",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      }
+    ]
+  }
+}

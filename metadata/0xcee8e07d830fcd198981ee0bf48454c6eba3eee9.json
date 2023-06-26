@@ -1,0 +1,45 @@
+{
+  "address": "0xcee8e07d830fcd198981ee0bf48454c6eba3eee9",
+  "type": "ERC1155",
+  "name": "4th Perspective - Special Editions",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/aUy4hrsyDBZP2EB4Oh2XHtmtd7nJUy9BDDv_9E0_IZw",
+  "metadata": {
+    "name": "The Dress",
+    "created_by": "4th Perspective",
+    "description": "A special edition of \"The Dress\" by 4th Perspective as a free claim on Halloween 2022",
+    "attributes": [
+      {
+        "trait_type": "Special Edition",
+        "value": "Halloween"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2022"
+      }
+    ],
+    "animation_details": {
+      "bytes": 39416488,
+      "format": "MP4",
+      "duration": 15,
+      "sha256": "2d2d1a39c12b960f62e796bc29933e571841be711e7fc78543a9fd91ee08d576",
+      "width": 2000,
+      "height": 2500,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/ZMiaTrSlzTB2hU5BuljqRMrXAafGKnx_Y-iGf8fIpTY",
+    "animation_url": "https://arweave.net/ZMiaTrSlzTB2hU5BuljqRMrXAafGKnx_Y-iGf8fIpTY",
+    "image_details": {
+      "bytes": 588364,
+      "format": "JPEG",
+      "sha256": "10f4f894c383f46fc930363e68bbd610c6e13b4ec5b33a46739ab3088355b397",
+      "width": 1709,
+      "height": 2160
+    },
+    "image": "https://arweave.net/ZBiJqD0xGHI3IaUJQz_wfq3b7MHN2N0OjBT_qlYgSiY",
+    "image_url": "https://arweave.net/ZBiJqD0xGHI3IaUJQz_wfq3b7MHN2N0OjBT_qlYgSiY"
+  }
+}

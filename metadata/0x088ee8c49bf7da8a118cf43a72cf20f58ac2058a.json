@@ -1,0 +1,34 @@
+{
+  "address": "0x088ee8c49bf7da8a118cf43a72cf20f58ac2058a",
+  "type": "ERC721",
+  "name": "US store",
+  "tokenCount": "38",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=i0pC5HOlTTH4vEXChiD4",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1589974815989?alt=media&token=6da5b74b-84a0-4a02-a865-99ac53ed3daf",
+    "forSale": true,
+    "description": "3",
+    "contractAddress": "0x088ee8c49bf7da8a118cf43a72cf20f58ac2058a",
+    "ethPrice": "0",
+    "amountToMint": "1",
+    "minter": "0x24d4ddaba54dd3f428222394bf5f5cbddc2df590",
+    "mintedOn": {
+      "_seconds": 1589974935,
+      "_nanoseconds": 328000000
+    },
+    "price": "$0.00",
+    "name": "Don't be fooled",
+    "fiatPrice": "$0.00",
+    "minted": "Minted on Mintbase.io",
+    "category": "alJuInV4dezvHTNU8Dp1",
+    "youtube_url": "https://www.youtube.com/watch?v=uRjf07-Wz3I",
+    "external_url": "https://mintbase.io/my-market/0x088ee8c49bf7da8a118cf43a72cf20f58ac2058a",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "i0pC5HOlTTH4vEXChiD4"
+      }
+    ],
+    "type": "ERC721"
+  }
+}

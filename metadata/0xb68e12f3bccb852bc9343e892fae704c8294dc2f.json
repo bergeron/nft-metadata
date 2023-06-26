@@ -1,0 +1,32 @@
+{
+  "address": "0xb68e12f3bccb852bc9343e892fae704c8294dc2f",
+  "type": "ERC721",
+  "name": "PYRAMYD",
+  "tokenCount": "500",
+  "uri": "https://api.samot.club/token/pyramyd/1",
+  "metadata": {
+    "name": "PYRAMYD #1",
+    "description": "PYRAMYD x Samot Club",
+    "image": "https://assets.samot.club/pyramyd/images/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Urban"
+      },
+      {
+        "trait_type": "Fill",
+        "value": "Slate"
+      },
+      {
+        "trait_type": "Edge",
+        "value": "Shade"
+      },
+      {
+        "trait_type": "Face",
+        "value": "The Mark"
+      }
+    ],
+    "compiler": "SAMOT ART"
+  }
+}

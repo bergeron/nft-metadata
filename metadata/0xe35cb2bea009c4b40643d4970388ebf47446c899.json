@@ -1,0 +1,31 @@
+{
+  "address": "0xe35cb2bea009c4b40643d4970388ebf47446c899",
+  "type": "ERC721",
+  "name": "MintPass for MintFacePlace",
+  "tokenCount": "100",
+  "uri": "https://arweave.net/kMxJ5wzr3QwowslD9OJ-Nvaw9OdkShHbV9t2C9oZ1Fs/1",
+  "metadata": {
+    "name": "Purple MintPass #1/100",
+    "created_by": "MintFace",
+    "description": "The Purple MintPass provide the holder access to all artist studios on the purple floor of MintFacePlace.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "MintFace"
+      },
+      {
+        "trait_type": "MintPass",
+        "value": "Purple"
+      }
+    ],
+    "image_details": {
+      "bytes": 18246704,
+      "format": "GIF",
+      "sha256": "3515d564e38312550ee8523af3fac53b8e1c57005a4690c36d8ded83ceb61a72",
+      "width": 20000,
+      "height": 20000
+    },
+    "image": "https://arweave.net/_G8ZzxQt8nT5Ybkbyo8lhtp22AlDWCcz1aqGau84p6M",
+    "image_url": "https://arweave.net/_G8ZzxQt8nT5Ybkbyo8lhtp22AlDWCcz1aqGau84p6M"
+  }
+}

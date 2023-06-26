@@ -1,0 +1,57 @@
+{
+  "address": "0x101ec4fe96629e478da1f16f4dbf5fd6bd8e009d",
+  "type": "ERC721",
+  "name": "Dodgy Dingos",
+  "tokenCount": "21",
+  "uri": "ipfs://QmXAdrsJqBqb8Ji13CaCCcAN6VK48VVzkyyjfHsmxLo9Mk/1.json",
+  "metadata": {
+    "name": "DodgyDingo #1",
+    "description": "All Australian Dodgy Dingos highlighting Australia's love for Sport.",
+    "external_url": "https://dodgydingos.com",
+    "image": "ipfs://QmcSigEkoVXjEn69itmJXirANwCtbT3nphusFWdVq8ECRf/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background2"
+      },
+      {
+        "trait_type": "Base",
+        "value": "DodgyDingo"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Face7"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Accessory6"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Head7"
+      },
+      {
+        "trait_type": "Jumper",
+        "value": "Soccer6"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Dodgy Dingos",
+      "family": "Dodgy Dingos"
+    },
+    "symbol": ""
+  }
+}

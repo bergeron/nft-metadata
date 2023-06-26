@@ -1,0 +1,32 @@
+{
+  "address": "0xfc046c71db6266f9f17b31a74e5efd5ecf906e0b",
+  "type": "ERC721",
+  "name": "Mintbase",
+  "tokenCount": "58",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=lYN6fCkiHM2LiR4kQVse",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fepic-road.jpg?alt=media&token=b18faecb-4a94-43da-913e-ffbb81eaf19f",
+    "isForSale": true,
+    "minter": "0x66268791B55e1F5fA585D990326519F101407257",
+    "price": "0.1",
+    "name": "First Ever Mintbase Token",
+    "contractAddress": "0xFC046c71db6266f9f17b31a74E5eFD5ECF906e0b",
+    "description": "This is a very rare token, I will only mint one. I need to test the gas of one, but it is also just neat to have my first mainnet token be of this cool road I found in Mallorca with Caro. Let the adventures begin!",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "value": "First Ever Mintbase Token",
+        "trait_type": "item"
+      },
+      {
+        "value": 2,
+        "trait_type": "level"
+      },
+      {
+        "display_type": "number",
+        "value": 1,
+        "trait_type": "generation"
+      }
+    ]
+  }
+}

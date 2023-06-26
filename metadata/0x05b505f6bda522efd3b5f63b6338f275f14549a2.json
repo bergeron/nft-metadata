@@ -1,0 +1,27 @@
+{
+  "address": "0x05b505f6bda522efd3b5f63b6338f275f14549a2",
+  "type": "ERC721",
+  "name": "MatrixWorld LandVoucher",
+  "tokenCount": "1836",
+  "uri": "https://api.matrixworld.org/land/api/v1/land/metadata/estate/1",
+  "metadata": {
+    "image": "https://d2pxuh46u909kx.cloudfront.net/metadata/2x2.png",
+    "name": "Matrix Land (26, 14)",
+    "description": "The voucher of a 2x2 Land of Matrix World located at (26, 14)",
+    "attributes": [
+      {
+        "value": "(26, 14)",
+        "trait_type": "Position"
+      },
+      {
+        "value": "2x2",
+        "trait_type": "Size"
+      },
+      {
+        "value": 4,
+        "trait_type": "Area"
+      }
+    ],
+    "animation_url": "https://d2pxuh46u909kx.cloudfront.net/metadata/2x2.mp4"
+  }
+}

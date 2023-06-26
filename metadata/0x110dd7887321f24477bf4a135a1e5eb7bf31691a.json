@@ -1,0 +1,49 @@
+{
+  "address": "0x110dd7887321f24477bf4a135a1e5eb7bf31691a",
+  "type": "ERC721",
+  "name": "HedgeyTimeLockedBound",
+  "tokenCount": "1",
+  "uri": "https://dynamic-nft.hedgey.finance/ethereum/0x110dd7887321f24477bf4a135a1e5eb7bf31691a/1",
+  "metadata": {
+    "name": "HedgeyTimeLockedBound #1",
+    "description": "This NFT represents a stream of BigCatsToken tokens",
+    "edition": 1,
+    "external_url": "https://hedgey.finance",
+    "asset_currency": {
+      "address": "0xceCFbfbEd09bB3f06211A841d939223E093368A2",
+      "symbol": "BIGCAT",
+      "decimals": 18,
+      "amount": "45000"
+    },
+    "network": "ethereum",
+    "cliff_date": 1690905600,
+    "image": "https://hedgey-dynamic-nft-production.s3.amazonaws.com/ethereum/0x110dd7887321f24477bf4a135a1e5eb7bf31691a/1/texture.png",
+    "animation_url": "https://hedgey-dynamic-nft-production.s3.amazonaws.com/index.html?type=disk&network=ethereum&contractAddress=0x110dd7887321f24477bf4a135a1e5eb7bf31691a&index=1",
+    "start": 1675209600,
+    "end": 1706745601,
+    "rate": "1426940639269406",
+    "label_colour": "Purple",
+    "revokable": false,
+    "transferable": false,
+    "original_owner": "0x98457E13DDFFD3DbA645688EDBf3a159359b730d",
+    "attributes": [
+      {
+        "trait_type": "Label Colour",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Token_Collateral",
+        "value": "BigCatsToken: 0xceCFbfbEd09bB3f06211A841d939223E093368A2"
+      },
+      {
+        "trait_type": "Number_Of_Locked_Tokens",
+        "value": "45000",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Tokens_Locked",
+        "value": "45000 BIGCAT"
+      }
+    ]
+  }
+}

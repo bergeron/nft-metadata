@@ -1,0 +1,25 @@
+{
+  "address": "0x87467bb73af08a64cfc29eed69a879c338879778",
+  "type": "ERC721",
+  "name": "Portland Dinner DAO Season 1",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x87467bb73af08a64cfc29eed69a879c338879778/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x87467Bb73AF08A64cfc29Eed69A879c338879778/icon?id=1",
+    "expiration": 1641670911,
+    "tokenId": "1",
+    "owner": "0x7d5d3554d3aa450e6c65ac4fda376aee13e1293e",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1641670911
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x87467Bb73AF08A64cfc29Eed69A879c338879778",
+    "network": 1
+  }
+}

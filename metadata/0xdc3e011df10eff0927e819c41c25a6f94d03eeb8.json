@@ -1,0 +1,39 @@
+{
+  "address": "0xdc3e011df10eff0927e819c41c25a6f94d03eeb8",
+  "type": "ERC721",
+  "name": "Skull a Day",
+  "tokenCount": "19",
+  "uri": "ipfs://bafybeielyggl4daqz2ex42thnsai7boorbicr5p5vcxmgxe6fttieiasxy/1",
+  "metadata": {
+    "image": "ipfs://bafybeibw74dzz7zlijsr3a5z6lp6nyiiths4idww23klr5ai3urkqskssa/1",
+    "name": "Orange Paper Skull",
+    "description": "Cut freehand with large scissors.",
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attributes": [
+      {
+        "trait_type": "Day Number",
+        "value": 1
+      },
+      {
+        "trait_type": "Skull Material",
+        "value": "Paper"
+      },
+      {
+        "trait_type": "Time of Day",
+        "value": "11:50 PM"
+      },
+      {
+        "trait_type": "Skill",
+        "value": "Easy"
+      },
+      {
+        "trait_type": "Time",
+        "value": "Short"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Home"
+      }
+    ]
+  }
+}

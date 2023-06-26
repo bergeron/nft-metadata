@@ -1,0 +1,42 @@
+{
+  "address": "0xb157e6e482c19abac3745087664b7bd2afe951f2",
+  "type": "ERC1155",
+  "name": "Dynamic Checks",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/5LIrpstQW0JKha0vXtc6w6ChFb8MPO6iQ0HXqcY1To4",
+  "metadata": {
+    "name": "Genesis Check",
+    "created_by": "Alex Arenas",
+    "description": "\"This artwork may or may not be notable.\" - Jack Butcher\n\nDynamic Checks is a blockchain experiment that explores the iconic aesthetic of Jack Butcher's Checks VV through dynamic 3D animations and an interactive burning mechanisms.",
+    "external_url": "https://www.dynamic-checks.xyz/",
+    "attributes": [
+      {
+        "trait_type": "Checks",
+        "value": "Genesis"
+      }
+    ],
+    "animation_details": {
+      "bytes": 5598590,
+      "format": "MP4",
+      "duration": 6,
+      "sha256": "19b1284ba53a4da3dc23b43be4ffa0bc7378e953e94f128cc4a9f7aed54da804",
+      "width": 2048,
+      "height": 2048,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/8XUsQmhBmGv6I5tZISvBFPahSDchYAvB6t_L5zs8vmA",
+    "animation_url": "https://arweave.net/8XUsQmhBmGv6I5tZISvBFPahSDchYAvB6t_L5zs8vmA",
+    "image_details": {
+      "bytes": 4994087,
+      "format": "PNG",
+      "sha256": "6cd242aaeced3ff2ed5c789915a106fd797df4c48b8c9bdc29cf4f7861729316",
+      "width": 2048,
+      "height": 2048
+    },
+    "image": "https://arweave.net/Y-uCC8YfZOi-t6aZnmlOa2H1InIB6Agankumf29QncU",
+    "image_url": "https://arweave.net/Y-uCC8YfZOi-t6aZnmlOa2H1InIB6Agankumf29QncU"
+  }
+}

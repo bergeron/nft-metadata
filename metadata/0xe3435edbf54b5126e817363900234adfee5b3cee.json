@@ -1,0 +1,20 @@
+{
+  "address": "0xe3435edbf54b5126e817363900234adfee5b3cee",
+  "type": "ERC721",
+  "name": "Voxies Legacy",
+  "tokenCount": "10000",
+  "uri": "https://prod.voxiesapi.com/voxies/legacy/contract/1",
+  "metadata": {
+    "voxie_id": "1",
+    "name": "Voxie #1",
+    "description": "This Voxie has transitioned to the POLYGON blockchain and can no longer be used in Voxie Tactics. Please DO NOT buy, sell or transfer this asset. To see the new Voxie asset that can be used on the POLYGON network and playable in Voxie Tactics, please see the following: https://opensea.io/assets/matic/0xfbe3ab0cbfbd17d06bdd73aa3f55aaf038720f59/1",
+    "external_url": "https://voxies.io",
+    "image": "https://voxies-data-final.s3.us-east-2.amazonaws.com/polygon_transition.png",
+    "attributes": [
+      {
+        "trait_type": "Transition",
+        "value": "POLYGON"
+      }
+    ]
+  }
+}

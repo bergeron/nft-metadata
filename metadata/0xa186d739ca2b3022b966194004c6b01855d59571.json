@@ -1,0 +1,30 @@
+{
+  "address": "0xa186d739ca2b3022b966194004c6b01855d59571",
+  "type": "ERC721",
+  "name": "Atticc Early Adopter Pass",
+  "tokenCount": "5555",
+  "uri": "https://metadata.atticc.xyz/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Name",
+        "value": "Atticc Early Adopter Pass"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Early Adopter Pass"
+      },
+      {
+        "trait_type": "Number of Seats",
+        "value": "5555",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Royalty",
+        "value": "0",
+        "display_type": "number"
+      }
+    ],
+    "image": "https://media.atticc.xyz/Pass1.png"
+  }
+}

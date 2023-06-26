@@ -1,0 +1,26 @@
+{
+  "address": "0xe5b16563a38342a2c64eebb436bc2da4ec83a531",
+  "type": "ERC721",
+  "name": "EthCC 4 Regular Ticket",
+  "tokenCount": "100",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xe5b16563a38342a2c64eebb436bc2da4ec83a531/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xe5B16563a38342A2C64EeBb436bc2Da4eC83a531/icon?id=1",
+    "expiration": 1701813342,
+    "tokenId": "1",
+    "owner": "0x7bd4cbc0ae691b43af02b4676c66c1ab50fab117",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1701813342
+      }
+    ],
+    "userMetadata": {},
+    "keyId": "1",
+    "lockAddress": "0xe5B16563a38342A2C64EeBb436bc2Da4eC83a531",
+    "network": 1
+  }
+}

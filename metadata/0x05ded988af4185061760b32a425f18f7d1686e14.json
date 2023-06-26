@@ -1,0 +1,28 @@
+{
+  "address": "0x05ded988af4185061760b32a425f18f7d1686e14",
+  "type": "ERC721",
+  "name": "We all goats",
+  "tokenCount": "23",
+  "uri": "ipfs://QmNrYCAWu3NWavLMLVCw3DAbn5X35knvWGrH5jsa4fpojh/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "We're a community-based collectibles project featuring art by 3D Punks. 3D FrankenPunks come in an evil array of shapes, traits, and sizes with a few surprises along the way. The collection size is 10,000. Each FrankenPunk allows its owner to vote on creating experiences and influencing project developments which are paid for by the Punksville Community Treasury.",
+    "image": "ipfs://QmQHK4qqKunoZfMBAhDcHBpdYPs78TFnzN9R5GnyhZyfKk/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Male Zombie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Closed Mouth"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Stitched Beanie"
+      }
+    ],
+    "compiler": "FrankenPunks Generator"
+  }
+}

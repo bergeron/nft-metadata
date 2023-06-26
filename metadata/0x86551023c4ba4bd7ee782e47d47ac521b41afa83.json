@@ -1,0 +1,100 @@
+{
+  "address": "0x86551023c4ba4bd7ee782e47d47ac521b41afa83",
+  "type": "ERC721",
+  "name": "DaxToken V3",
+  "tokenCount": "20",
+  "uri": "https://api.daxchain.io/tokens?token=1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "author",
+        "value": "DaxToken"
+      },
+      {
+        "trait_type": "contract/coin",
+        "value": "0x09B492e0012FfEF7875C080bEEd922004A976d3a"
+      },
+      {
+        "trait_type": "contract/map",
+        "value": "0xA02a34940a4f54C087800D679b5E34AD4D6FC5b4"
+      },
+      {
+        "trait_type": "contract/mining",
+        "value": "0x3C1C9DE0b0CF802C9c6F3164a98fCe85768B74F2"
+      },
+      {
+        "trait_type": "contract/token",
+        "value": "0x86551023C4ba4BD7EE782e47D47aC521b41afa83"
+      },
+      {
+        "trait_type": "id",
+        "value": "1"
+      },
+      {
+        "trait_type": "map/destination/x",
+        "value": "100000000027"
+      },
+      {
+        "trait_type": "map/destination/y",
+        "value": "100000000042"
+      },
+      {
+        "trait_type": "map/destination/z",
+        "value": "100000000069"
+      },
+      {
+        "trait_type": "map/in-motion",
+        "value": "false"
+      },
+      {
+        "trait_type": "map/location/x",
+        "value": "100000000027"
+      },
+      {
+        "trait_type": "map/location/y",
+        "value": "100000000042"
+      },
+      {
+        "trait_type": "map/location/z",
+        "value": "100000000069"
+      },
+      {
+        "trait_type": "mining/block-reward",
+        "display_type": "boost_number",
+        "value": "0.000000"
+      },
+      {
+        "trait_type": "mining/current",
+        "display_type": "boost_number",
+        "value": "0.795076"
+      },
+      {
+        "trait_type": "mining/improvements",
+        "display_type": "boost_number",
+        "value": "0.000000"
+      },
+      {
+        "trait_type": "mining/is-mining",
+        "value": "true"
+      },
+      {
+        "trait_type": "mining/total",
+        "display_type": "boost_number",
+        "value": "0.000000"
+      },
+      {
+        "trait_type": "token/creator",
+        "value": "0x58fE1E13C97377A602D7dA9D8cf3267d268a6E7a"
+      },
+      {
+        "trait_type": "token/owner",
+        "value": "0x58fE1E13C97377A602D7dA9D8cf3267d268a6E7a"
+      }
+    ],
+    "background_color": "000000",
+    "description": "The open non-fungible token used for fun, education, experimentation, and utility.",
+    "external_url": "https://daxchain.io/daxtoken/1",
+    "image": "ipfs://QmcifXX4WU5kUyVcLePo3LAM3UYHKZbGUbHpQCX6pgHvh2",
+    "name": "DaxToken"
+  }
+}

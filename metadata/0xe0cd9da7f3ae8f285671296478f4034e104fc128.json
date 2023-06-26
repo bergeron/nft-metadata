@@ -1,0 +1,44 @@
+{
+  "address": "0xe0cd9da7f3ae8f285671296478f4034e104fc128",
+  "type": "ERC721",
+  "name": "Future Memories V3",
+  "tokenCount": "5",
+  "uri": "https://arweave.net/hbc8jylxvx1kKR3G79QjmT9o9Ihk3dpdVqplBNlgnMI",
+  "metadata": {
+    "name": "Skyfall",
+    "created_by": "awhurst",
+    "description": "Everybody needs somebody sometime.\n\nCreated by awhurst.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "awhurst"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "1/1"
+      }
+    ],
+    "animation_details": {
+      "bytes": 58048425,
+      "format": "MOV",
+      "duration": 18,
+      "sha256": "5acf4fb0a501e05a44fb40a9f8724d9e29af33a5602e9fecd919c1a9b2e92508",
+      "width": 2160,
+      "height": 2160,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/Vxzm-m6jIvv7TjXxb6qhXNDUSLop6vwRYUAFCB4lpyk",
+    "animation_url": "https://arweave.net/Vxzm-m6jIvv7TjXxb6qhXNDUSLop6vwRYUAFCB4lpyk",
+    "image_details": {
+      "bytes": 2151380,
+      "format": "GIF",
+      "sha256": "e1cbad18093c29e1324f2f469201f1162d8702b46eaefda43938314f88db22b4",
+      "width": 480,
+      "height": 480
+    },
+    "image": "https://arweave.net/hGwjQJi0Jrp3LUg2D5dQKqQKWCIjcZxnFygYb4IR6r4",
+    "image_url": "https://arweave.net/hGwjQJi0Jrp3LUg2D5dQKqQKWCIjcZxnFygYb4IR6r4"
+  }
+}

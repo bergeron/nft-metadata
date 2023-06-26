@@ -1,0 +1,25 @@
+{
+  "address": "0xa7318311c6a363d339c444a603683dd94c05cd19",
+  "type": "ERC721",
+  "name": "USDc Lock",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xa7318311c6a363d339c444a603683dd94c05cd19/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xA7318311C6A363D339C444a603683dD94c05CD19/icon?id=1",
+    "expiration": 1578696469,
+    "tokenId": "1",
+    "owner": "0xe5cd62ac8d2ca2a62a04958f07dd239c1ffe1a9e",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1578696469
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xA7318311C6A363D339C444a603683dD94c05CD19",
+    "network": 1
+  }
+}

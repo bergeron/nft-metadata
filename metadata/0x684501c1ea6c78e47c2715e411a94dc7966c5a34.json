@@ -1,0 +1,44 @@
+{
+  "address": "0x684501c1ea6c78e47c2715e411a94dc7966c5a34",
+  "type": "ERC721",
+  "name": "Satoshi Doggomoto",
+  "tokenCount": "10",
+  "uri": "ipfs://QmVozgrrRshcNtdQE4LSVERmj53TCXdVR63K1WgBUdnTtp/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "A Satoshi Doggomoto Original Project",
+    "image": "ipfs://QmTK3tpsaeTBQoiSzPUaMCHivhS3WrGysvpDZfc4kKhNiR/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "solid_red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "standard_doggo"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "satoshi_suit"
+      },
+      {
+        "trait_type": "Head",
+        "value": "wizard_hat"
+      },
+      {
+        "trait_type": "Left_Paw",
+        "value": "leftpaw_wrench"
+      },
+      {
+        "trait_type": "Right_Paw",
+        "value": "rightpaw_wrench"
+      },
+      {
+        "trait_type": "Face",
+        "value": "3d_glasses"
+      }
+    ],
+    "compiler": "Simon B. Art"
+  }
+}

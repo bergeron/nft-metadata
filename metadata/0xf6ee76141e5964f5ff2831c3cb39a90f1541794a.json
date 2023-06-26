@@ -1,0 +1,28 @@
+{
+  "address": "0xf6ee76141e5964f5ff2831c3cb39a90f1541794a",
+  "type": "ERC721",
+  "name": "WETH V2",
+  "tokenCount": "9",
+  "uri": "data:application/json,{\"name\":\"WETH Allocation Voucher #1 - 0.00 - OneTime\", \"description\":\"Voucher #1 of WETH allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade WETH's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!\",\"image\": \"https://imgurl.solv.finance/meta/images/vvWETH/1.png\",\"external_url\":\"https://app.solv.finance/vvWETH/1\", \"properties\": {\"owner\":\"0x2493da1b4ea660ceedbfe4bef5f3ca8b24fecf10\",\"underlying\":\"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2\",\"underlyingSymbol\":\"WETH\",\"vestingAmount\":\"5.000000000000000000\",\"principal\":\"0.000000000000000000\",\"claimType\":\"OneTime\",\"claimableAmount\":\"0.000000000000000000\",\"percentages\":[\"100.00%\"],\"maturities\":[1643068800]}}",
+  "metadata": {
+    "name": "WETH Allocation Voucher #1 - 0.00 - OneTime",
+    "description": "Voucher #1 of WETH allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade WETH's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!",
+    "image": "https://imgurl.solv.finance/meta/images/vvWETH/1.png",
+    "external_url": "https://app.solv.finance/vvWETH/1",
+    "properties": {
+      "owner": "0x2493da1b4ea660ceedbfe4bef5f3ca8b24fecf10",
+      "underlying": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "underlyingSymbol": "WETH",
+      "vestingAmount": "5.000000000000000000",
+      "principal": "0.000000000000000000",
+      "claimType": "OneTime",
+      "claimableAmount": "0.000000000000000000",
+      "percentages": [
+        "100.00%"
+      ],
+      "maturities": [
+        1643068800
+      ]
+    }
+  }
+}

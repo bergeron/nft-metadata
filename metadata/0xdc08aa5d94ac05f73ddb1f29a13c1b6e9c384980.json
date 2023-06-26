@@ -1,0 +1,41 @@
+{
+  "address": "0xdc08aa5d94ac05f73ddb1f29a13c1b6e9c384980",
+  "type": "ERC1155",
+  "name": "Unidentified contract - j49EOhcEJx",
+  "tokenCount": "32",
+  "uri": "https://alignlabs.io/metadata/v0/1.json",
+  "metadata": {
+    "name": "Entangled Meme #1",
+    "description": "Entangled memes bridge ideas (memes) between the information/idea realm (metaverse) and the physical world (universe)",
+    "image": "https://alignlabs.io/metadata/v0/1/particleCloud.png",
+    "attributes": [
+      {
+        "trait_type": "PEOPLE",
+        "value": "189"
+      },
+      {
+        "trait_type": "ATMOSPHERE",
+        "value": "110"
+      },
+      {
+        "trait_type": "EARTH",
+        "value": "180"
+      },
+      {
+        "trait_type": "WATER",
+        "value": "248"
+      },
+      {
+        "trait_type": "TVR",
+        "value": "0.88"
+      }
+    ],
+    "royalty_derivation": {
+      "description": "The royalties for each nft in the EM0 batch are determined by combining important information about the circumstances that led to the creation of that particular nft. This information consists of the id of the nft, the address that minted the nft, the hash of the ethereum block that came after the block in which the nft was minted and the 10.7cm wavelength solar flux at the time of minting. This data is combined (in the order listed earlier) using solidiy abi.encodePacked method and then hashed using sha3. Each of the last four bytes of the hash are interpreted as a base 10 number between 0-255. This number is then divided by 1.7 so that it falls within the range of 0-150. Each nft's royalties have a base value of 100 to which the value between 0-150 is added to reach the final royalty values for the nft.",
+      "tokenId": "1",
+      "minter": "0x78D8B235bC4c2853f0313Dc74A26e2306FB723F2",
+      "subsequentBlockHash": "0xc49cc42cb27a4d82cf055f1231227997d6e74ccde036550eaf1e5e161da9db04",
+      "solarFlux": "1152 (The solar flux data is multiplied by ten to make it an integer instead of a floating point value. We only update our solar flux data once an hour, so it may vary slightly from the most up-to-date measurements at the time of mint)"
+    }
+  }
+}

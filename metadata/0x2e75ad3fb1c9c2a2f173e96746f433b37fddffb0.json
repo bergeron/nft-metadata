@@ -1,0 +1,54 @@
+{
+  "address": "0x2e75ad3fb1c9c2a2f173e96746f433b37fddffb0",
+  "type": "ERC721",
+  "name": "Komorizone",
+  "tokenCount": "5",
+  "uri": "https://arweave.net/jwC7CZ0OZBRjj5AN38RMa_qAckdh8Tg2OBjmVfHsAmY",
+  "metadata": {
+    "minter": "0x40158e1d5eaa2dc589552464010fe81b1b3a23f5",
+    "mintedOn": "2020-12-17T04:06:35.133Z",
+    "contractAddress": "0x2e75ad3fb1c9c2a2f173e96746f433b37fddffb0",
+    "minted": "Minted on Mintbase.io",
+    "fiatPrice": "$25.44",
+    "name": "Tetris concert",
+    "description": "bricks after bricks another note in the graphic wall",
+    "youtube_url": "",
+    "price": 0,
+    "ethPrice": "0.04",
+    "amountToMint": "5",
+    "visibility": "safe",
+    "forSale": true,
+    "image": "https://arweave.net/MQjfUq_CZtr2BWVx2Jk5iMIGNbV5rGt5Bi_A5_TUg84",
+    "attributes": [
+      {
+        "trait_type": "Start Date",
+        "value": 1608159600,
+        "display_type": "date"
+      },
+      {
+        "trait_type": "End Date",
+        "value": 1608159600,
+        "display_type": "date"
+      },
+      {
+        "trait_type": "location",
+        "value": "Paris, France"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJD7fiBh9u5kcRYJSMaMOCCwQ"
+      },
+      {
+        "trait_type": "zoom",
+        "value": 9
+      },
+      {
+        "trait_type": "website",
+        "value": "https://audius.co/maxkomori"
+      }
+    ],
+    "category": "alJuInV4dezvHTNU8Dp1",
+    "external_url": "https://mintbase.io/my-market/0x2e75ad3fb1c9c2a2f173e96746f433b37fddffb0",
+    "type": "ERC721"
+  }
+}

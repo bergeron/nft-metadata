@@ -1,0 +1,65 @@
+{
+  "address": "0xe33248b560729b62302c036b14d477419635d900",
+  "type": "ERC721",
+  "name": "Roe Ethridge",
+  "tokenCount": "3",
+  "uri": "ipfs://Qmd2fFVsLCtb9A6aiCacVfnxeQwDGTsfFskkgmPhmC3KdW",
+  "metadata": {
+    "name": "Pic n Clip Glitch",
+    "description": "Pic n Clip Glitch NFT was a by-product of a crash that happened during an edit session. I have made Pic n Clips for the last 4 years, they usually are 72\" x 48\" prints that contain multiple images that I cull from a folder called “Pic n Clip” (named after the coupon drawer in the kitchen of the house I grew up in suburban Atlanta). I was trying to animate the Pic n Clip as an mp4 and this flashed on the screen. I took a screenshot of it and then it disappeared. Presented in collaboration with Andrew Kreps Gallery.\n\n\nThis NFT has been certified by Verisart https://verisart.com/works/941dad84-7703-406a-89e0-a935e8db9f1c",
+    "image": "https://ipfs.verisart.com/ipfs/QmUPdpVLhv52w2JtQ4gbZCvGmmAXxAEHFBXmrLgUHXtZ1R",
+    "properties": {
+      "verisart": {
+        "productionYear": 2021,
+        "dimensions": {
+          "width": 2978,
+          "height": 4200,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": null,
+        "frameRate": null,
+        "tags": [
+          "glitch",
+          "photography",
+          "PicnClip",
+          "verisartcertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0x1b4740fade33c9cd2f30394b6f85b77aa0e359a0",
+            "bps": 1000
+          }
+        ]
+      }
+    },
+    "external_url": "https://verisart.com/works/941dad84-7703-406a-89e0-a935e8db9f1c",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "glitch"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "photography"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "PicnClip"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "verisartcertified"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Roe Ethridge"
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2021"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "address": "0xb55d8cfc73d44857b880e8d6381f97aa2fbdcde2",
+  "type": "ERC721",
+  "name": "ValhallaHipsters",
+  "tokenCount": "18",
+  "uri": "https://ipfs.xonalabs.com/ipfs/QmUzqJhKPzSviZoDA9ytxV7uiqbuFBMXaVEsYX9oEwTM7B/1.json",
+  "metadata": {
+    "name": "Haley the Bartender #1",
+    "description": "Valhalla Hipsters are 10 000 unique digital warriors resurrected straight from Valhalla. After Ragnarök you can use them to fight Giants.",
+    "image": "https://ipfs.xonalabs.com/ipfs/QmP5CrXC7GNBkcRh2Gv4KpFNWLzcgwxYn4vYGcjXkTniTq/1.png",
+    "image2": "https://ipfs.xonalabs.com/ipfs/QmXErixQUbwxJVb7hUsbY4zUC1HTG9UFeGD44QjF4hBzp5/1.png",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Warrior number",
+        "max_value": 10000,
+        "value": 1
+      },
+      {
+        "trait_type": "Kills",
+        "max_value": 1412,
+        "value": 606
+      },
+      {
+        "trait_type": "Years spent in Valhalla",
+        "max_value": 3087,
+        "value": 2941
+      },
+      {
+        "trait_type": "Mental power",
+        "max_value": 32,
+        "value": 7
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Resurrected",
+        "value": 1635698124
+      },
+      {
+        "trait_type": "Sex",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Divine protection",
+        "value": "Heimdall"
+      },
+      {
+        "trait_type": "Modern skill",
+        "value": "Media literacy"
+      },
+      {
+        "trait_type": "Favourite drink",
+        "value": "Mead"
+      },
+      {
+        "trait_type": "Social status before Valhalla",
+        "value": "Thralls"
+      },
+      {
+        "trait_type": "Hierarchy",
+        "value": "Vassal"
+      }
+    ]
+  }
+}

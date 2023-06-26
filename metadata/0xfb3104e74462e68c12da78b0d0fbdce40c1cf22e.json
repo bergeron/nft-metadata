@@ -1,0 +1,64 @@
+{
+  "address": "0xfb3104e74462e68c12da78b0d0fbdce40c1cf22e",
+  "type": "ERC721",
+  "name": "CryptoStixNFT",
+  "tokenCount": "103",
+  "uri": "ipfs://QmeWTK6h9YgJdTKZLZwVjvyVb4iJTeT6uudbFtFhUCSgcy/1.json",
+  "metadata": {
+    "name": "Cryptostix 1",
+    "description": "Generative stick figure art",
+    "external_url": "https://cryptostix.io",
+    "image": "ipfs://QmRkTgkNnMTTawzMrj5W4TTB6qDRBmKzgoE4TrSXYPVY8R/1.png",
+    "edition": "1",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "offWhite"
+      },
+      {
+        "trait_type": "body",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "pants",
+        "value": "navy"
+      },
+      {
+        "trait_type": "shoes",
+        "value": "black"
+      },
+      {
+        "trait_type": "beard",
+        "value": "none"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "cigar"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "lightBlue"
+      },
+      {
+        "trait_type": "nose",
+        "value": "lightBlue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "elvis"
+      },
+      {
+        "trait_type": "right",
+        "value": "fishingPole"
+      },
+      {
+        "trait_type": "left",
+        "value": "pinkBoombox"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "address": "0x01f61f3c7f27893b30e8abdafd4a84ca8bd24b96",
+  "type": "ERC721",
+  "name": "robo frens",
+  "tokenCount": "777",
+  "uri": "ipfs://QmZVTrLDEZSBEwBM1hTz8gDc5cLiJ4usMNDGYG3NHvrn9T/metadata/1.json",
+  "metadata": {
+    "name": "robo fren #1",
+    "description": "robo frens taking over the metaverse together.",
+    "external_url": "",
+    "image": "ipfs://QmPrNs9n3NnuA9Pg3MZuhRHT8MHbiab7zHf8UDJvxNj9zD/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Construction Vest"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Lolipop"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Wires"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "robo frens"
+  }
+}

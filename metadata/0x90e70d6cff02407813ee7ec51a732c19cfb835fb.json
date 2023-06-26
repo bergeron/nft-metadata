@@ -1,0 +1,41 @@
+{
+  "address": "0x90e70d6cff02407813ee7ec51a732c19cfb835fb",
+  "type": "ERC721",
+  "name": "Art Never Dies",
+  "tokenCount": "333",
+  "uri": "ipfs://QmW6vD19j8FcEndcxM1yo7hcDFPGkjzD1bua7CF53HZ2xi/1.json",
+  "metadata": {
+    "name": "Art Never Dies #1",
+    "description": "Art Never Dies is my ode to the artists before me as we transcend into a decentralized future. Thanks to my friends who pushed me to make “AND.” Holding an AND makes you eligible to enter a raffle for a physical painting plus access to future benefits.",
+    "image": "ipfs://QmV3ggZxZSen48SwGCh64i2ZZPFjZdbjsvSMTUmaJqqZkf/1.png",
+    "edition": 1,
+    "date": 1680144002454,
+    "attributes": [
+      {
+        "trait_type": "Expression",
+        "value": "Range"
+      },
+      {
+        "trait_type": "Focal Range",
+        "value": "20mm"
+      },
+      {
+        "trait_type": "Form",
+        "value": "Healthy"
+      },
+      {
+        "trait_type": "Lab",
+        "value": "05"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Cheerful"
+      },
+      {
+        "trait_type": "Shade",
+        "value": "Luminosity"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

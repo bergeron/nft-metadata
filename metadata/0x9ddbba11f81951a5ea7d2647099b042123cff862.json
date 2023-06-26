@@ -1,0 +1,57 @@
+{
+  "address": "0x9ddbba11f81951a5ea7d2647099b042123cff862",
+  "type": "ERC721",
+  "name": "Bichon by Clavell",
+  "tokenCount": "27",
+  "uri": "https://bafybeibd73dg6eqan6kgxkqhxgqcchpguv5nxvntvrwhbnfaznsjwk6rru.ipfs.nftstorage.link/metadata/1",
+  "metadata": {
+    "name": "Bichon #1",
+    "description": "Bichons by clavellinu.com",
+    "image": "ipfs://bafybeibrjag6noczgm3l4pyg3bbwnefdwasx3f2uyawqwpuxgbxeveikcq/images/1.png",
+    "attributes": [
+      {
+        "trait_type": "Amimal",
+        "value": "Dog"
+      },
+      {
+        "trait_type": "Breed",
+        "value": "Bichon"
+      },
+      {
+        "trait_type": "Friendliness",
+        "value": 10,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Playfulness",
+        "value": 8,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Curiousity",
+        "value": 9,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 8,
+        "max_value": 10
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Happiness",
+        "value": 30
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Love",
+        "value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "address": "0x6ad02dcdd8f7c61c0dc7b9100c78c3a5d3270452",
+  "type": "ERC721",
+  "name": "BornToDie Alpha",
+  "tokenCount": "119",
+  "uri": "https://btdg.s3.amazonaws.com/alpha-nft/json/1.json",
+  "metadata": {
+    "name": "BTDG Alpha #001",
+    "description": "Alpha NFTs are the limited edition OG collection of Born To Die Game.",
+    "image": "https://btdg.s3.amazonaws.com/alpha-nft/thumb/btdg_alpha_clip_003_thumb.jpg",
+    "animation_url": "https://btdg.s3.amazonaws.com/alpha-nft/clips/btdg_alpha_clip_003_square.mp4",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "red"
+      },
+      {
+        "trait_type": "hero",
+        "value": "John"
+      },
+      {
+        "trait_type": "type",
+        "value": "Gameplay"
+      }
+    ]
+  }
+}

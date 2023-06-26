@@ -1,0 +1,50 @@
+{
+  "address": "0x40531473e136baa30273558ca42f69beb1f41040",
+  "type": "ERC1155",
+  "name": "Standard Colors Starter Pack",
+  "tokenCount": "22",
+  "uri": "ipfs://QmWzKh3rTKcp9UsA4VWCqTeDvTjeh8norvoXAnWAh2Cxtc/1/token.json",
+  "metadata": {
+    "name": "Strawberry",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/image/upload/w_1200/v1681174834/0x9671a3fbbfb13d68e5770afed424f8915ea0ada3/64347ebc689ffb0ee7de9242/stateCovers/vgpllwjgrpd0zzhmu7d9.png",
+    "description": "Look outside, what do I see? Bunches of strawberries looking at me  🍓\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Async"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "Standard Colors Starter Pack"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0x60874f721a66a2b9018c7cacc46151708864f52d"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Outside",
+              "state": {
+                "label": "Strawberry",
+                "uri": "QmSZhjrQvW3Bu1vhsbRypJ6vV5Dki3GF9ZAADo2w2vw9yA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

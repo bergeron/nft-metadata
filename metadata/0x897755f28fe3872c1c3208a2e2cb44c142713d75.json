@@ -1,0 +1,38 @@
+{
+  "address": "0x897755f28fe3872c1c3208a2e2cb44c142713d75",
+  "type": "ERC721",
+  "name": "TestCrissCross",
+  "tokenCount": "15",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=lLl2h1r8cf5tT3Ly7rxX",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1581624283474?alt=media&token=afaed827-21d1-4f91-ab21-4fa66c913155",
+    "forSale": false,
+    "contractAddress": "0x897755f28fe3872c1c3208a2e2cb44c142713d75",
+    "description": "LONG DESCRIPTION",
+    "tags": [],
+    "amountToMint": 15,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1581624383,
+      "_nanoseconds": 594000000
+    },
+    "price": "1",
+    "name": "WHATEVER NAME",
+    "fiatPrice": "$270.55",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "youtube_url": "https://www.youtube.com/watch?v=vpBwKOORCi0",
+    "external_url": "https://mintbase.io/my-market/0x897755f28fe3872c1c3208a2e2cb44c142713d75",
+    "type": "ERC721"
+  }
+}

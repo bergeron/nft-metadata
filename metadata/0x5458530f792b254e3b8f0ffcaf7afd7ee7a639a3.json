@@ -1,0 +1,90 @@
+{
+  "address": "0x5458530f792b254e3b8f0ffcaf7afd7ee7a639a3",
+  "type": "ERC721",
+  "name": "FryFatWorkers",
+  "tokenCount": "11",
+  "uri": "ipfs://QmUczZxpL71xZmpqXgU7tpavPHeuxQxprbNnSXTZg6EbDi/1.json",
+  "metadata": {
+    "name": "FryFatWorkers #1",
+    "description": "We are FryFatWorkers if you dont like it try healthy food instead and fuck off",
+    "image": "ipfs://QmSWHWQg6ndRgYT8QiNPPA2nzPMBN7ceShSwf4VUCfpAMo/1.png",
+    "dna": "ba8c123fa2af7f4dd57a471bd274e4524df75672",
+    "edition": 1,
+    "date": 1658351518017,
+    "seller_fee_basis_points": 650,
+    "collection": {
+      "name": "FryFatWorkers",
+      "family": "FryFatWorkers"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x4Afd661CF2C558A4D7E6fC659Dad5b303a832771",
+          "share": 650
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Background Extra",
+        "value": "No Background Extra"
+      },
+      {
+        "trait_type": "NFT",
+        "value": "Moonbirds"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Interior",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyes Extra",
+        "value": "No Extra"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Cap White"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Sad"
+      },
+      {
+        "trait_type": "Facts",
+        "value": "Position"
+      },
+      {
+        "trait_type": "Fast Food",
+        "value": "Hot Dog"
+      },
+      {
+        "trait_type": "Cooking",
+        "value": "Pan"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

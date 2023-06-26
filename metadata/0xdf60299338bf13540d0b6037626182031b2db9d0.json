@@ -1,0 +1,57 @@
+{
+  "address": "0xdf60299338bf13540d0b6037626182031b2db9d0",
+  "type": "ERC721",
+  "name": "RussyPussy2.0",
+  "tokenCount": "263",
+  "uri": "ipfs://QmcY78Si1FcrHacVsSitmM37wHZLHnX8iDVTNPSrzuq4fH/1.json",
+  "metadata": {
+    "name": "RussyPussy2.0 #1",
+    "description": "RussyPussy2.0",
+    "image": "ipfs://QmSj2V56wGpQojGP7SyxLLpY8Pc2oqvDmUPr5B2eGpq8A3/1.png",
+    "dna": "75a207bc4eb75fdaecac3f7586ceef60faa04fbc",
+    "edition": 1,
+    "date": 1663245395880,
+    "seller_fee_basis_points": 1000,
+    "collection": {
+      "name": "RussyPussy2.0",
+      "family": "RussyPussy2.0"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xe2B0C67a8f5518D15127532D3ea174f9cbf9eef8",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FlowersPurple"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SadBl"
+      },
+      {
+        "trait_type": "Hairstyle",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "BunnyPurple"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Sushki"
+      }
+    ]
+  }
+}

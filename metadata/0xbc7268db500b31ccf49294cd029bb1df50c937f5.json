@@ -1,0 +1,57 @@
+{
+  "address": "0xbc7268db500b31ccf49294cd029bb1df50c937f5",
+  "type": "ERC721",
+  "name": "CryptoHeadies NFT",
+  "tokenCount": "14",
+  "uri": "ipfs://QmRdGVSvKqssjXir1DHrTWWc4b4Z2mQiZTk1qaTbcpxeGq/1",
+  "metadata": {
+    "name": "Podgy #00001",
+    "external_link": "https://cryptoheadies.com/h/1",
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Podgy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Triangle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Round"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Transmitter"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Mad"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Antenna"
+      },
+      {
+        "trait_type": "Addon",
+        "value": null
+      }
+    ],
+    "parts": {
+      "Head": "3",
+      "Mouth": "2",
+      "Nose": "4",
+      "Eyes": "1",
+      "Ears": "4",
+      "Eyebrows": "3",
+      "Hair": "8",
+      "Addon": "0"
+    },
+    "image": "ipfs://QmY27hB7LSWAkVtoQ3yjr5nE4Sg91CYVd8B26Q7ybcjaeF/1.png",
+    "image_gateway": "https://ipfs.io/ipfs/QmY27hB7LSWAkVtoQ3yjr5nE4Sg91CYVd8B26Q7ybcjaeF/1.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "address": "0x11d4d492b77b59bb35127a36ed6a1bac74d0509b",
+  "type": "ERC721",
+  "name": "Lendal Pro TSK",
+  "tokenCount": "782",
+  "uri": "https://meta.lendalpro.trade/api/meta/1",
+  "metadata": {
+    "Name": "Lendalorian #1",
+    "description": "Lendal Pro Technologies transferable software key (TSK).",
+    "image": "https://lpt-genesis-nft.s3.amazonaws.com/lendalorians/1.png",
+    "attributes": [
+      {
+        "trait_type": "Faction",
+        "value": "Lendalorian"
+      },
+      {
+        "trait_type": "One of One",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Delegate",
+        "value": "multi"
+      }
+    ]
+  }
+}

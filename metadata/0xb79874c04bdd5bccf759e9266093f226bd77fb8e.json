@@ -1,0 +1,20 @@
+{
+  "address": "0xb79874c04bdd5bccf759e9266093f226bd77fb8e",
+  "type": "ERC721",
+  "name": "DAS Media Art",
+  "tokenCount": "636",
+  "uri": "https://dasplace.s3.ap-northeast-2.amazonaws.com/dasart/1.json",
+  "metadata": {
+    "name": "Nature × The Starrynight #1",
+    "description": "Daily Art Story Art",
+    "image": "https://dasplace.s3.ap-northeast-2.amazonaws.com/dasart/thumb/starrynight.png",
+    "external_url": "https://www.dasplace.com",
+    "animation_url": "https://s3.ap-northeast-2.amazonaws.com/das.ipfs/dasart/ori/starrynight_ori.mp4",
+    "attributes": [
+      {
+        "trait_type": "dasart",
+        "value": "1"
+      }
+    ]
+  }
+}

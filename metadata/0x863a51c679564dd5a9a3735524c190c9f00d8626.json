@@ -1,0 +1,47 @@
+{
+  "address": "0x863a51c679564dd5a9a3735524c190c9f00d8626",
+  "type": "ERC721",
+  "name": "Lil Imposters Shhh",
+  "tokenCount": "51",
+  "uri": "ipfs://bafybeibmypvxdjdd6ycimxxjjx3n6rtwurx2k6xxib6pvxvqkpcbzvdmeu/1",
+  "metadata": {
+    "dna": "f35a006863f2a1f8379aa441ba4ab48a4373509acd261e712f20577d511fcfb9",
+    "name": "Imposter #1",
+    "description": "Lil Imposters are pixel astronauts trying to find the imposter among the collection.",
+    "image": "ipfs://bafybeibpwaodnuvbslvs3dwcb7nkte7yiyia6e6c5iy5lykw7rsbifsybu/1.gif",
+    "imageName": "1.gif",
+    "edition": 1,
+    "date": 1673748705126,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Backpack",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Visor",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Backpack Accessory",
+        "value": "Double Antena"
+      },
+      {
+        "trait_type": "Head Accessory",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Offhand",
+        "value": "Pistol"
+      }
+    ],
+    "compiler": "Imposters"
+  }
+}

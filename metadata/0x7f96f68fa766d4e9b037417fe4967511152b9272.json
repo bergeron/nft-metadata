@@ -1,0 +1,87 @@
+{
+  "address": "0x7f96f68fa766d4e9b037417fe4967511152b9272",
+  "type": "ERC721",
+  "name": "SOLOS",
+  "tokenCount": "2747",
+  "uri": "http://tokens.solos.so/1",
+  "metadata": {
+    "tokenId": 1,
+    "description": "Solos Edition One: Saturnalia.",
+    "external_url": "https://www.solos.so/",
+    "image": "https://s3.amazonaws.com/tokens.solos.so/1.png",
+    "small_image": "https://s3.amazonaws.com/tokens.solos.so/small-1.png",
+    "medium_image": "https://s3.amazonaws.com/tokens.solos.so/medium-1.png",
+    "imageIpfs": "bafybeicq5mngzo2akedh647cmgmvxfplbojhpsirpukntikwlixayt2yq4",
+    "imageArweave": "kwmMv2SkWf1D29TrxFSLaNAIvhgRLZVRh7VDl_AQ3Oo",
+    "name": "Autumn Disk",
+    "attributes": [
+      {
+        "_id": "6060beb2913d768426df0d1a",
+        "trait_type": "BACKGROUND",
+        "value": "ĉion ĉesu"
+      },
+      {
+        "_id": "6060c48a913d768426df0f8e",
+        "trait_type": "MIDDLEGROUND",
+        "value": "rigardas bone"
+      },
+      {
+        "_id": "6060c4af913d768426df0f9a",
+        "trait_type": "MIDDLEGROUND",
+        "value": "pardonu okazas"
+      },
+      {
+        "_id": "6060c25d913d768426df0ec2",
+        "trait_type": "FOREGROUND",
+        "value": "eĉ momenton"
+      },
+      {
+        "_id": "6060c290913d768426df0ed6",
+        "trait_type": "FOREGROUND",
+        "value": "jaro homoj"
+      },
+      {
+        "_id": "6060c50c913d768426df0fba",
+        "trait_type": "PORTRAIT",
+        "value": "okazos mej"
+      },
+      {
+        "_id": "6060c1f4913d768426df0e8c",
+        "trait_type": "EYE",
+        "value": "monon princo"
+      },
+      {
+        "_id": "6060c203913d768426df0e96",
+        "trait_type": "EYE",
+        "value": "metu gravas"
+      },
+      {
+        "_id": "6060c1dc913d768426df0e78",
+        "trait_type": "BLOB",
+        "value": "kaĉjo tiajn"
+      },
+      {
+        "_id": "6060c140913d768426df0e06",
+        "trait_type": "BLOB",
+        "value": "pro prave"
+      },
+      {
+        "_id": "6060c1a3913d768426df0e50",
+        "trait_type": "BLOB",
+        "value": "onklo havos"
+      },
+      {
+        "_id": "6060c92e913d768426df1150",
+        "trait_type": "SPECIAL",
+        "value": "amiko mortinta"
+      }
+    ],
+    "txHash": "0x6a311d14787b2736463eef5119dc6b15e86342fd7b1a08a4ec388e0ffe70cbb7",
+    "verificationBundle": {
+      "tokenId": 1,
+      "arweaveHash": "P_JK8fXzA19gewHVIp7kl0Cxo_gsZSJQxQDMg2_BO1U"
+    },
+    "verificationHash": "0xfc8d2acae447e46fefe0ff3509d537610134c4e099fd8dc07e2f0d64716f5938",
+    "verificationSignature": "0xefac258da7e1405a1cae2d4171a6d817fbf0d774377f86a3bd8b863f4b7fd3b025a4b9c97fadba3e10ba4e1102bdcd3bea9f8aef6ebbd31cbe45916d588f00751c"
+  }
+}

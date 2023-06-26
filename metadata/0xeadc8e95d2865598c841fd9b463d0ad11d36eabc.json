@@ -1,0 +1,57 @@
+{
+  "address": "0xeadc8e95d2865598c841fd9b463d0ad11d36eabc",
+  "type": "ERC721",
+  "name": "MoonFriendz",
+  "tokenCount": "200",
+  "uri": "ipfs://QmcVMHjrFWSiHLYXEfmxk4KyT9PsCLGm14T7Sfn47iY1en/1",
+  "metadata": {
+    "name": "Astronauts #89",
+    "description": "Astronauts",
+    "image": "image.png",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "cyan"
+      },
+      {
+        "trait_type": "base",
+        "value": "purple"
+      },
+      {
+        "trait_type": "boots",
+        "value": "none"
+      },
+      {
+        "trait_type": "hat",
+        "value": "stars"
+      },
+      {
+        "trait_type": "accessory",
+        "value": "none"
+      },
+      {
+        "trait_type": "visor",
+        "value": "crack"
+      }
+    ],
+    "symbol": "",
+    "seller_fee_basis_points": 1000,
+    "edition": 89
+  }
+}

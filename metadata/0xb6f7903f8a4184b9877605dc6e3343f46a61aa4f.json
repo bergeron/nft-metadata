@@ -1,0 +1,25 @@
+{
+  "address": "0xb6f7903f8a4184b9877605dc6e3343f46a61aa4f",
+  "type": "ERC721",
+  "name": "Ancient-ape-club.wtf",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmV7puYpyxcQCiuvWH2ZVWbLrGxTTmtzZGsBB3F6cQAdMb/1.json",
+  "metadata": {
+    "name": "Ancient Ape Club #1",
+    "description": "Very ancient Apes gonna have party on Ethereum blockchain",
+    "image": "ipfs://QmY6CdW5UGJPu76qm6SkBBiWPBcnH7sr4JMBcA9mjuaNSU/1.png",
+    "edition": 1,
+    "attributes": [
+      [
+        {
+          "trait_type": "Ape",
+          "value": "Ancient"
+        },
+        {
+          "trait_type": "Blockchain",
+          "value": "Ethereum"
+        }
+      ]
+    ]
+  }
+}

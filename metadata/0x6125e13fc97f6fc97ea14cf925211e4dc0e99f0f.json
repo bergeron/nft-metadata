@@ -1,0 +1,32 @@
+{
+  "address": "0x6125e13fc97f6fc97ea14cf925211e4dc0e99f0f",
+  "type": "ERC721",
+  "name": "Coalesce Collection",
+  "tokenCount": "40",
+  "uri": "https://arweave.net/DRu62qK2RZDW_wROwt-qOiYA7wCRSJXOgREu3EJAL0k",
+  "metadata": {
+    "name": "Coalesce 1",
+    "created_by": "isohedron",
+    "external_url": "https://app.ardrive.io/#/file/69a3b1b0-f588-4f0f-ab12-e8f0c2041d06/view",
+    "description": "Coalesce is a collection of systems based on circle packing, arrangements of non-overlapping circles that cover a plane. The concept began as a response to the prompt “Draw 10,000 of something” and gradually grew into a larger project.\n\nIn a simple application of circle packing, circles are added one at a time and the only constraints for a new circle are the previously placed circles occupying the surface. By tuning the upper and lower bounds of the diameter, the number of circles that fit into a given area may be controlled. \n\nBy implementing boundaries, fields, and additional constraints, complex forms may be drawn using only circles. This collection features different styles, each of which uses a unique combination of constraints to achieve the effect. Each work contains one million circles.\n\nSize: 4000 x 4000px\n\nCreated: May 2022\n\nLicense: CC BY-NC 4.0\n\nPNG (Large): https://app.ardrive.io/#/file/69a3b1b0-f588-4f0f-ab12-e8f0c2041d06/view\n\nPNG (Small): https://app.ardrive.io/#/file/edc824e5-4b2a-4685-ae32-4d418c7869c4/view\n\nSVG: https://app.ardrive.io/#/file/d3cd100e-028b-4cad-a5e5-3a0117c1ee4f/view",
+    "attributes": [
+      {
+        "trait_type": "Palette",
+        "value": "Halcyon"
+      },
+      {
+        "trait_type": "Scalar",
+        "value": "225"
+      }
+    ],
+    "image_details": {
+      "bytes": 24101393,
+      "format": "PNG",
+      "sha256": "a59f7dccec7e3670b5d88db647596b9775d8b175d50c80fa4835aef14fc95f27",
+      "width": 4000,
+      "height": 4000
+    },
+    "image": "https://arweave.net/d64q0fDVeNSSVI8tJ64yvwc9xHMAk32lx9RAVPLAJZg",
+    "image_url": "https://arweave.net/d64q0fDVeNSSVI8tJ64yvwc9xHMAk32lx9RAVPLAJZg"
+  }
+}

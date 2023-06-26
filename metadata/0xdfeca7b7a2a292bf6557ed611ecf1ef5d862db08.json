@@ -1,0 +1,27 @@
+{
+  "address": "0xdfeca7b7a2a292bf6557ed611ecf1ef5d862db08",
+  "type": "ERC721",
+  "name": "RFOX VALT SHOPs",
+  "tokenCount": "60",
+  "uri": "https://rfox.mypinata.cloud/ipfs/QmYUmrbBVH8b29qT83eAL2nKGrroekPudxoJiZX83yGuWy/1",
+  "metadata": {
+    "image": "ipfs://QmSgGjB5nXvZZEndWmP9TNor6dAgDtf11rDYS3zW3NW6ix/C1.png",
+    "name": "RFOX VALT District C1",
+    "description": "This NFT represents ownership of 1 District in the Callinova quarter of the RFOX VALT Genesis.",
+    "external_url": "https://rfoxvalt.com",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Quarter",
+        "value": "Callinova"
+      },
+      {
+        "trait_type": "District ID",
+        "value": "C1"
+      }
+    ]
+  }
+}

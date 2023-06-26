@@ -1,0 +1,69 @@
+{
+  "address": "0xf7f98cb7e8e94d4aeb00e5f71e3c685eee90082b",
+  "type": "ERC721",
+  "name": "Lucky Cat NFT V2",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeieihoeupc5ravi6sm7alcicichvkia3hirmvaf5r6wqemefaevdoe/1.json",
+  "metadata": {
+    "name": "Lucky Cat #1",
+    "description": "8.888 Lucky Cats brining you infinite good luck and abundance",
+    "external_url": "https://www.luckycatnft.io",
+    "image": "ipfs://CID_FROM_PREVIOUS_STEP/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "B8"
+      },
+      {
+        "trait_type": "Fur Colour",
+        "value": "C7"
+      },
+      {
+        "trait_type": "Lucky Cat Outline",
+        "value": "OUTLINE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "E8"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "F5"
+      },
+      {
+        "trait_type": "Necklace",
+        "value": "N5"
+      },
+      {
+        "trait_type": "Gold Crypto Coin",
+        "value": "J3"
+      },
+      {
+        "trait_type": "Object",
+        "value": "O4"
+      },
+      {
+        "trait_type": "Tattoo",
+        "value": "T2"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Lucky Cat NFT",
+      "family": "Lucky Cat NFT"
+    },
+    "symbol": ""
+  }
+}

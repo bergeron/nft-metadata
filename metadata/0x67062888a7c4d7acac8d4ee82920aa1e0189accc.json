@@ -1,0 +1,43 @@
+{
+  "address": "0x67062888a7c4d7acac8d4ee82920aa1e0189accc",
+  "type": "ERC721",
+  "name": "Swampverse: Creatures",
+  "tokenCount": "1289",
+  "uri": "https://api.swamps.io/nft/creatures/1",
+  "metadata": {
+    "id": 1,
+    "name": "Creature #1",
+    "description": "Spawned from the fusing of 2 Swampverse NFTs together, Creatures are now lurking in the swamp.",
+    "image": "https://api.swamps.io/creatures/1/image",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "skin",
+        "value": "Cyber_Ghost"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Super_Stoned"
+      },
+      {
+        "trait_type": "torso",
+        "value": "none"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "head",
+        "value": "Ninja_Bandana"
+      },
+      {
+        "trait_type": "hands",
+        "value": "none"
+      }
+    ]
+  }
+}

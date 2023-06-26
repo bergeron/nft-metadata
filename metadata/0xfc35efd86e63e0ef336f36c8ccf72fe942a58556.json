@@ -1,0 +1,22 @@
+{
+  "address": "0xfc35efd86e63e0ef336f36c8ccf72fe942a58556",
+  "type": "ERC1155",
+  "name": "Cabinet of Curiosities (SotH)",
+  "tokenCount": "61",
+  "uri": "https://storage.hashku.com/api/soth/cabinet/1.json",
+  "metadata": {
+    "name": "Pocket Spectroscope",
+    "description": "Redeemable for 4 (four) NFTs from the main SotH collection",
+    "image": "https://cdn.hashku.com/storage/soth/cabinet/01.jpg",
+    "attributes": [
+      {
+        "trait_type": "Redeems",
+        "value": "4 SotH Tokens"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Pocket Spectroscope"
+      }
+    ]
+  }
+}

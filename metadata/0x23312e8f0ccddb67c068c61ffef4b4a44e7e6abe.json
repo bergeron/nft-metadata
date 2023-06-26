@@ -1,0 +1,49 @@
+{
+  "address": "0x23312e8f0ccddb67c068c61ffef4b4a44e7e6abe",
+  "type": "ERC721",
+  "name": "YOUNG & SICK 721s",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/Cxljkqil2PxqxE6umu51XwRA-lNytq9lMPp23plDEOA",
+  "metadata": {
+    "name": "The Kidnapping",
+    "created_by": "YOUNG & SICK",
+    "description": "YOUNG & SICK kidnaps DotPigeon",
+    "attributes": [
+      {
+        "trait_type": "Kidnapper",
+        "value": "YOUNG & SICK"
+      },
+      {
+        "trait_type": "Hostage",
+        "value": "DotPigeon"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "YOUNG & SICK"
+      }
+    ],
+    "image": "https://arweave.net/lBS66tbl-lXzj4zSHJqA6Fv57NqC7ketyOsMxYUV2C8",
+    "image_url": "https://arweave.net/lBS66tbl-lXzj4zSHJqA6Fv57NqC7ketyOsMxYUV2C8",
+    "image_details": {
+      "bytes": 2649639,
+      "format": "PNG",
+      "sha256": "c8708451e38ab75df689bdf2ebafbb93e638e4dc4caadc84f7ad7948780b3fce",
+      "width": 3000,
+      "height": 3000
+    },
+    "animation": "https://arweave.net/dbYNo8q81eiRe557UkiYzCDu44ZVZ9P2BlYigDOkhlQ",
+    "animation_url": "https://arweave.net/dbYNo8q81eiRe557UkiYzCDu44ZVZ9P2BlYigDOkhlQ",
+    "animation_details": {
+      "bytes": 65955468,
+      "format": "MP4",
+      "duration": 20,
+      "sha256": "dce56c8754f2ee87983ff191f2992760b5069f2e4869f17db135a80bab80d442",
+      "width": 3000,
+      "height": 3000,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    }
+  }
+}

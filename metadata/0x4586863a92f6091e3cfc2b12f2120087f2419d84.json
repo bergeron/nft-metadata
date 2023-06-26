@@ -1,0 +1,41 @@
+{
+  "address": "0x4586863a92f6091e3cfc2b12f2120087f2419d84",
+  "type": "ERC721",
+  "name": "Happy Place by Alyse",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/D-11OSkFTcScnSHebvQ34kckxkJJvwTxwFWHxRHOWiE",
+  "metadata": {
+    "name": "Happy Place",
+    "created_by": "Alyse Gamson",
+    "description": "Happy Place is an original 3d model, animation loop that was inspired by a waking dream through a jungle. \n\nBy alyse @ang_gallery",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "alyse"
+      }
+    ],
+    "image_details": {
+      "bytes": 5597345,
+      "format": "PNG",
+      "sha256": "140f16c01d12e007e37aece49f46f59e4c7491e7bb17f76fdb51614c2fd96c3a",
+      "width": 2160,
+      "height": 2160
+    },
+    "image": "https://arweave.net/ES_UzypU8gI1XwoR1MMa0JbNpbNuY4kVSYQ1LmK-NJg",
+    "image_url": "https://arweave.net/ES_UzypU8gI1XwoR1MMa0JbNpbNuY4kVSYQ1LmK-NJg",
+    "animation_details": {
+      "bytes": 10515254,
+      "format": "MP4",
+      "duration": 8,
+      "sha256": "8479474e2dfb76d29e9316f03addde53fc5f44ae8026daa81c3717f397732e1d",
+      "width": 2160,
+      "height": 2160,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/HRxHXGD9KU9d80oeoIZZHRipIDDUIHaWSAncVZlsuFw",
+    "animation_url": "https://arweave.net/HRxHXGD9KU9d80oeoIZZHRipIDDUIHaWSAncVZlsuFw"
+  }
+}

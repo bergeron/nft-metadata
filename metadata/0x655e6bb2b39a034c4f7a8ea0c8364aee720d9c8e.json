@@ -1,0 +1,65 @@
+{
+  "address": "0x655e6bb2b39a034c4f7a8ea0c8364aee720d9c8e",
+  "type": "ERC721",
+  "name": "FurryCoffeeParty",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeiabeqo6if5cbyzhraqwmckfgpkmizqabupvvszdwkbgkvvjpw5xl4/1.json",
+  "metadata": {
+    "name": " #1",
+    "symbol": "FCP",
+    "description": "3000 furry creatures ready to party",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://bafybeigcpnucf6qcd54fqkpdeq4em5kgy2eqldp7k45eyidlfob3nrrffa/1.png",
+    "external_url": "https://www.furrycoffeeparty.com",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "diagonal_turquoise"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "sunflower"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "tail_short"
+      },
+      {
+        "trait_type": "Body",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "popcorn"
+      },
+      {
+        "trait_type": "Face",
+        "value": "five"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "headband"
+      },
+      {
+        "trait_type": "Other",
+        "value": "nothing"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x3985D50a9A38A93d968F213d5ddc0A9e1f3824f7",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

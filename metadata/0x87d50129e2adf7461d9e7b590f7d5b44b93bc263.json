@@ -1,0 +1,49 @@
+{
+  "address": "0x87d50129e2adf7461d9e7b590f7d5b44b93bc263",
+  "type": "ERC721",
+  "name": "SAPIENS_EXHIBITION",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/Om3E91awNGHuQFluNB9dmS21yhXubYGivnpeLmNS_eQ",
+  "metadata": {
+    "name": "feedbackcell_001",
+    "created_by": "livefdbck",
+    "description": "콘웨이의 게임 오브 라이프라는 생성과 소멸의 알고리즘을 이용하여, 생성된 이미지들을 컴퓨터 비전을 통해 데이터화 시키고 이를 다시 사운드화 시킨 오디오 비주얼 작업이다. \n\nIt is an audiovisual work that creating images by using Conway's Game of Life algorithm of creation and destruction, and converts them into sound by converts the created images into data through computer vision.",
+    "attributes": [
+      {
+        "trait_type": "generative",
+        "value": "art"
+      },
+      {
+        "trait_type": "conway",
+        "value": "game of life"
+      },
+      {
+        "trait_type": "sound art",
+        "value": "sound scape"
+      }
+    ],
+    "animation_details": {
+      "bytes": 730163,
+      "format": "MP4",
+      "duration": 10,
+      "sha256": "e0e700f65957eaabb083a5e01cf4619a87f8adb02e3340d736b1628ddcc60738",
+      "width": 2882,
+      "height": 1794,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/YXoPk43rJnaW18DnaJty2-PKu3GsQ-vGa4aldYhg5sw",
+    "animation_url": "https://arweave.net/YXoPk43rJnaW18DnaJty2-PKu3GsQ-vGa4aldYhg5sw",
+    "image_details": {
+      "bytes": 207369,
+      "format": "PNG",
+      "sha256": "acccd6b17f2de87a5a43c4606cf9d9038eab076c3fcd945a7908ecadd01b599b",
+      "width": 3840,
+      "height": 2400
+    },
+    "image": "https://arweave.net/noVJc-LoLhl6StD7lVS235JMUZ2J6m-NdMzNiTOXjvo",
+    "image_url": "https://arweave.net/noVJc-LoLhl6StD7lVS235JMUZ2J6m-NdMzNiTOXjvo"
+  }
+}

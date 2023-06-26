@@ -1,0 +1,29 @@
+{
+  "address": "0xac0589a2c39fe62a8fa1c480e3de7822d5b1c780",
+  "type": "ERC721",
+  "name": "Experiments",
+  "tokenCount": "250",
+  "uri": "ipfs://QmfZrMBePyb3Hsnnz97BycDgEUd5BtkdkyKSPdSdYMsUDf/1.json",
+  "metadata": {
+    "name": "Experiment #1",
+    "description": "Experiments is a layer-by-layer generative art project. It explores five different approaches to creating generative art, each with its own unique set of assets. This is Other World’s first project of this kind and magnitude.",
+    "image": "ipfs://QmadkJrFLshUDGf6S3bh3ZuBNnyvHKFStoodTXjmmp5pE6/Guernica-62.jpg",
+    "tags": null,
+    "media": {
+      "dimensions": "6000 x 6000",
+      "size": 8119614,
+      "uri": "ipfs://QmadkJrFLshUDGf6S3bh3ZuBNnyvHKFStoodTXjmmp5pE6/Guernica-62.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Chess"
+      },
+      {
+        "trait_type": "Experiment",
+        "value": "Guernica"
+      }
+    ]
+  }
+}

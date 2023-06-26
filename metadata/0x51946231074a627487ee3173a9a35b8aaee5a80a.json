@@ -1,0 +1,35 @@
+{
+  "address": "0x51946231074a627487ee3173a9a35b8aaee5a80a",
+  "type": "ERC721",
+  "name": "Castaways - The Islands",
+  "tokenCount": "500",
+  "uri": "https://4ow9dltbi2.execute-api.us-west-2.amazonaws.com/prod/metadata/castaways/islandg1/1",
+  "metadata": {
+    "name": "Island #1",
+    "description": "A small remote island where you must work with others to survive and build a thriving new civilization.",
+    "image": "https://d15mxdqbde1aqo.cloudfront.net/island.jpg",
+    "external_url": "https://castaways.com",
+    "attributes": [
+      {
+        "trait_type": "Coal Mine",
+        "value": "true"
+      },
+      {
+        "trait_type": "Volcano",
+        "value": "true"
+      },
+      {
+        "trait_type": "Soil Quality",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Soil Type",
+        "value": "Clay"
+      },
+      {
+        "trait_type": "Port",
+        "value": "Port of Bee Harbor"
+      }
+    ]
+  }
+}

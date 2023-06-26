@@ -1,0 +1,52 @@
+{
+  "address": "0x0ccfe8f5af0bf697b71bb2e7ce340b31a9b62025",
+  "type": "ERC721",
+  "name": "HUNTERz - HOLOBADGE",
+  "tokenCount": "29",
+  "uri": "ipfs://QmQENWCirHP25EtPxcFp6LEGKK3veS4A3i97vJWeVoxuyf/metadata.json",
+  "metadata": {
+    "name": "HoloBadge",
+    "description": "BADGE #1 — WAAVΞ DIGITAL x HOLOBEASTS — HOLOBADGE COLLABORATION — JOIN THE FIGHT, \nThis Badge entitles owner/hodler with a mighty title of Lucky O.G, membership to WAAVΞDAO ! With great titles come great rewards.. \nWill you be worthy, HUNTΞRz?!",
+    "external_url": "https://badges.waave.digital",
+    "image": "ipfs://QmQdeUcjzukcPFpAE2JvFYu3gV7wwWpHnueWhn7jGfM2Qj/holobadge.gif",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0x1624e856995A45574EEBfa4a1443dC256cF5Cf73",
+    "attributes": [
+      {
+        "trait_type": "COLLAB",
+        "value": "HOLOBEASTS"
+      },
+      {
+        "trait_type": "DAO",
+        "value": "TRUE"
+      },
+      {
+        "trait_type": "RARITY",
+        "value": "🦄"
+      },
+      {
+        "trait_type": "TYPE",
+        "value": "🪆"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "🍀",
+        "value": 3
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "⚙️",
+        "value": 1
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "⚖️",
+        "value": 3
+      },
+      {
+        "trait_type": "👑",
+        "value": "OG"
+      }
+    ]
+  }
+}

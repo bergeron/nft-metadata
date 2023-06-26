@@ -1,0 +1,42 @@
+{
+  "address": "0xbaf3a0186d406f82f164aee978399df6a9d90c70",
+  "type": "ERC721",
+  "name": "Dustmons",
+  "tokenCount": "10000",
+  "uri": "https://dustmon-9328-meta-test.s3.amazonaws.com/1",
+  "metadata": {
+    "image": "https://dustmon-test-9328.s3.amazonaws.com/1",
+    "tokenId": 1,
+    "name": "Dustmon 1",
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "gainsboro"
+      },
+      {
+        "trait_type": "tail",
+        "value": "light pink rabbit"
+      },
+      {
+        "trait_type": "hair",
+        "value": "hunter"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "e23"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "tongue"
+      },
+      {
+        "trait_type": "decoration",
+        "value": "candy stons"
+      },
+      {
+        "trait_type": "horn",
+        "value": "sheep horn"
+      }
+    ]
+  }
+}

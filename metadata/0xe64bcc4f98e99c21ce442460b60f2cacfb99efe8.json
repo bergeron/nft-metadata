@@ -1,0 +1,26 @@
+{
+  "address": "0xe64bcc4f98e99c21ce442460b60f2cacfb99efe8",
+  "type": "ERC721",
+  "name": "NFT COLLECTION NAME TEST",
+  "tokenCount": "1",
+  "uri": "https://factory.chocomint.app/metadata/1/0xe64bcc4f98e99c21ce442460b60f2cacfb99efe8/1",
+  "metadata": {
+    "image": "https://ipfs.io/ipfs/QmVbCdJeYLgqUrSJJMadRYttaRDCpa57Gw7mestyZ2zStK/nft.png",
+    "chainId": "1",
+    "name": "COLLECTION NFT TEST#1",
+    "description": "COLLECTION NFT TEST#1COLLECTION NFT TEST#1COLLECTION NFT TEST#1",
+    "attributes": [
+      {
+        "value": "おしゃれ",
+        "trait_type": "テストテスト"
+      },
+      {
+        "value": "cool",
+        "trait_type": "テスト"
+      }
+    ],
+    "animation_url": "",
+    "nft_contract_address": "0xe64bcc4f98e99c21ce442460b60f2cacfb99efe8",
+    "token_id": 1
+  }
+}

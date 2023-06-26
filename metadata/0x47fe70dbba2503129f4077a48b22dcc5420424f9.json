@@ -1,0 +1,63 @@
+{
+  "address": "0x47fe70dbba2503129f4077a48b22dcc5420424f9",
+  "type": "ERC721",
+  "name": "Digitals NFT's",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/RdLP5ol6IhCvJ--dGwTaIgOnCHCR3Rmo1KQGNq3LBRs",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1643673602
+      },
+      {
+        "trait_type": "Creator",
+        "value": "carolinacoto"
+      }
+    ],
+    "description": "Digitals #1. Self is a close portrait of model Carolina Coto by photographer Messi Schneider shot during Art Basel 2021, a historic intro for NFT IRL.  \r\nSelf is the core and essence of the creator, omniscient observant of the human experience. Awareness of the self awakens the intuition and releases judgement of dynamics in duality, nurturing a higher consciousness. The camera is closest to the eyes becoming the mirror to the soul and gateway to the unknown. Digital #1. Self celebrates the cosmic dance between the model and the photographer honoring the creation of oneness. ",
+    "external_url": "https://cxip.io/nft/0x47fe70dbba2503129f4077a48b22dcc5420424f9/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/_9GP6BhE4pxdfDBt_iyLNHwtmYRWAaYzNAgVuQzu2D0",
+    "imageUrl": "https://arweave.net/_9GP6BhE4pxdfDBt_iyLNHwtmYRWAaYzNAgVuQzu2D0",
+    "name": "Digitals #1. Self",
+    "properties": {
+      "created_at": "2022-02-01T00:00:02.000000Z",
+      "creator_wallet": "0xa31abf770e71be96f0730631f1b80465badd7567",
+      "description": "Digitals #1. Self is a close portrait of model Carolina Coto by photographer Messi Schneider shot during Art Basel 2021, a historic intro for NFT IRL.  \r\nSelf is the core and essence of the creator, omniscient observant of the human experience. Awareness of the self awakens the intuition and releases judgement of dynamics in duality, nurturing a higher consciousness. The camera is closest to the eyes becoming the mirror to the soul and gateway to the unknown. Digital #1. Self celebrates the cosmic dance between the model and the photographer honoring the creation of oneness. ",
+      "image": "https://arweave.net/_9GP6BhE4pxdfDBt_iyLNHwtmYRWAaYzNAgVuQzu2D0",
+      "imageUrl": "https://arweave.net/_9GP6BhE4pxdfDBt_iyLNHwtmYRWAaYzNAgVuQzu2D0",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "1 February 2022",
+      "name": "Digitals #1. Self",
+      "nft_type": "non-fungible image token (image/png)",
+      "preview_media_file": "https://arweave.net/2GtVn_zmkFMjgSpzeZHLeVU-HJZskcF_5dC801PVKMM",
+      "preview_media_file_dimensions": "360x360",
+      "preview_media_file_size": 75415,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "3211x3211",
+      "raw_media_file": "https://arweave.net/rEI4p3uxQrC6Yn777dWDXQBW_MKIgA6k7x0S0g5vmpU",
+      "raw_media_file_size": 15044931,
+      "raw_media_file_spec": "PNG 3211x3211 3211x3211+0+0 8-bit sRGB 14.348MiB 0.000u 0:00.000",
+      "raw_media_file_type": "image/png",
+      "raw_media_format": "square",
+      "raw_media_signature": "0xfd9c5d86a62a70517a6602dc6c58e5102fcb51da9016a21a03fb28980fc49bac",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/2GtVn_zmkFMjgSpzeZHLeVU-HJZskcF_5dC801PVKMM",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Digitals #1. Self",
+      "total_supply": 1
+    },
+    "title": "Digitals #1. Self"
+  }
+}

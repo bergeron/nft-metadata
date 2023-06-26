@@ -1,0 +1,48 @@
+{
+  "address": "0xd368d5d8770655b716246c62b97c6ce9c995a7f8",
+  "type": "ERC1155",
+  "name": "BEDU NFT Showcase ERC-1155",
+  "tokenCount": "2",
+  "uri": "ipfs://QmemP71mpL4it8dvRr35yjhw32Xnbz14KucF7HWCGFrHYT/1.json",
+  "metadata": {
+    "name": "BEDU NFT Showcase ERC-1155 dog #1",
+    "description": "BEDU NFT Showcase ERC-1155 (dogs)",
+    "image": "ipfs://QmTdhnhsStAcTvxmWnYTBQcYkGLnpEqGvZEJod8K4WzbDF/1.jpg",
+    "animation_url": "ipfs://QmTdhnhsStAcTvxmWnYTBQcYkGLnpEqGvZEJod8K4WzbDF/1.mp4",
+    "external_url": "https://www.google.com/",
+    "background_color": "bebebe",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Big"
+      },
+      {
+        "trait_type": "Level",
+        "value": 8
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 4.2
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Aqua Power",
+        "value": 70
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Stamina Increase",
+        "value": 12
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 5
+      }
+    ]
+  }
+}

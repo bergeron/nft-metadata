@@ -1,0 +1,43 @@
+{
+  "address": "0xfd1076d80fff9dc702ae9fdfea0073467b9b3fb7",
+  "type": "ERC721",
+  "name": "Spooky Boys Country Club",
+  "tokenCount": "13000",
+  "uri": "https://s3.amazonaws.com/spookyboys.io/1",
+  "metadata": {
+    "description": "A collection of 13,000 spooky boys that haunt the spookiest country club on the blockchain.",
+    "external_url": "https://spookyboys.io",
+    "image": "https://s3.amazonaws.com/spookyboys.io/1.png",
+    "name": "Spooky Boy 1",
+    "attributes": [
+      {
+        "trait_type": "spookiness",
+        "value": 0
+      },
+      {
+        "trait_type": "Background",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Sheet",
+        "value": "tan"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "hall monitor"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bunny ears"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "lip kit"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "faint"
+      }
+    ]
+  }
+}

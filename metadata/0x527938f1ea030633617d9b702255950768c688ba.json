@@ -1,0 +1,60 @@
+{
+  "address": "0x527938f1ea030633617d9b702255950768c688ba",
+  "type": "ERC721",
+  "name": "LEICA V2",
+  "tokenCount": "1",
+  "uri": "https://ipfs.pixura.io/ipfs/QmfRyXUQFkxYxV6pgG3LBjfspvvHFYsZjd1YojidwrSnsg/metadata.json",
+  "metadata": {
+    "name": "Sunset Sessions",
+    "createdBy": "Pete Halvorsen",
+    "yearCreated": "2022",
+    "description": "In December of 2017, I shot a story for Leica Camera on which they launched a new camera system, the Leica CL. This was one of the signature images I captured for the assignment. Sunset at Ocean Beach in San Francisco, two surfers make their way home during a winter low-tide.  The image was on display at the gallery in SoHo, NYC in 2018.  A signature piece which blends my love of the beach...with my love of the Leica System. ",
+    "image": "https://ipfs.pixura.io/ipfs/QmUU4Y82G9op8kjwTxJYyWGxW5gJKE53jgUDLzGUC5bMRy/LEICACL_HALVORSEN.jpg",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmUU4Y82G9op8kjwTxJYyWGxW5gJKE53jgUDLzGUC5bMRy/LEICACL_HALVORSEN.jpg",
+      "dimensions": "2331x1554",
+      "size": "1296064",
+      "mimeType": "image/jpeg"
+    },
+    "tags": [
+      "sunset",
+      "petehalvorsen",
+      "leica",
+      "leicacl",
+      "sanfrancisco",
+      "california",
+      "surfer",
+      "surf",
+      "lowtide",
+      "ocean",
+      "leicacamera",
+      "strideby"
+    ],
+    "attributes": [
+      {
+        "trait_type": "camera",
+        "value": "leica cl"
+      },
+      {
+        "trait_type": "time of day",
+        "value": "sunset"
+      },
+      {
+        "trait_type": "tide",
+        "value": "low"
+      },
+      {
+        "trait_type": "city",
+        "value": "san francisco"
+      },
+      {
+        "trait_type": "state",
+        "value": "california"
+      },
+      {
+        "trait_type": "country",
+        "value": "usa"
+      }
+    ]
+  }
+}

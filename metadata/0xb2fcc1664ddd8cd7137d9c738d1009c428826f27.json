@@ -1,0 +1,50 @@
+{
+  "address": "0xb2fcc1664ddd8cd7137d9c738d1009c428826f27",
+  "type": "ERC721",
+  "name": "Stranger Alien Club",
+  "tokenCount": "30",
+  "uri": "https://bafybeif532ez5xa3hx2szrakbvf7l7s4hlze4nxuwiffi4hbkz7pgyahny.ipfs.w3s.link/1.json",
+  "metadata": {
+    "name": "Stranger Alien #1",
+    "description": "Stranger Alien #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Blue Alien"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Cross Necklace"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Party Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cigarette"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0xf1f9cD74f8Ad32ca302A4Ce52F72127bd218963D",
+        "share": 100
+      }
+    ],
+    "collection": {
+      "name": "Stranger Alien Club",
+      "family": "Stranger Alien Club"
+    },
+    "symbol": "ALIEN",
+    "seller_fee_basis_points": 5,
+    "image": "https://bafybeiaojx32sefin5twzdziowhj2fxoku763kbyu7ymsefxwecmvv32ru.ipfs.w3s.link/1.png"
+  }
+}

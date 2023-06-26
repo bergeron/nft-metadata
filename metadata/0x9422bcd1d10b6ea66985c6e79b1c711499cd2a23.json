@@ -1,0 +1,58 @@
+{
+  "address": "0x9422bcd1d10b6ea66985c6e79b1c711499cd2a23",
+  "type": "ERC721",
+  "name": "Survive NFT Winter",
+  "tokenCount": "555",
+  "uri": "https://ptc-api.herokuapp.com/api/metadata/main/survive/1.json",
+  "metadata": {
+    "name": "Survive #1",
+    "description": "Survive The NFT Winter is a gamified social experience, where you’ll battle the deep winter by working together with your frens, preparing yourself for what comes next. Watch as your NFT dynamically adjusts based on the decisions you make and the overall market conditions. Do you have what it takes to survive?",
+    "token_id": 1,
+    "artist": null,
+    "image": "https://survivenftwinter.s3.amazonaws.com/survive_main/img/1.png",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Top Element",
+        "value": "random element top_glow"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "beak_bowling"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "hat_hardcop"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eyes_cartonbot"
+      },
+      {
+        "trait_type": "Egg",
+        "value": "egg_regular"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "clothes_hardcop"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "skin_glow"
+      },
+      {
+        "trait_type": "Base",
+        "value": "base_regular"
+      },
+      {
+        "trait_type": "Background Element",
+        "value": "background random element_shadow"
+      },
+      {
+        "trait_type": "Background",
+        "value": "background_clothes"
+      }
+    ],
+    "hash": "0xB8C52EB9C970ECF8177FF4C98A7AEF92BD389705F35453F7891D817B1D23AA2B"
+  }
+}

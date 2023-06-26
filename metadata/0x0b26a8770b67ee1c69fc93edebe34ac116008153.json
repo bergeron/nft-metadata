@@ -1,0 +1,21 @@
+{
+  "address": "0x0b26a8770b67ee1c69fc93edebe34ac116008153",
+  "type": "ERC1155",
+  "name": "OUTDOORIA: The US Parx Collection",
+  "tokenCount": "1",
+  "uri": "ipfs://QmW6MzzdRdPGjub52xvqg6B5q1WN199QTKYHZkMRGyDwnm/1.json",
+  "metadata": {
+    "name": "Crackle-Island",
+    "image": "ipfs://QmWECYEk5T9hYZLDXCLn9xnyVbpZBpe1c1EEf1u6528Tnq",
+    "properties": {
+      "display": {
+        "layout": "interactive:grid",
+        "action": "click",
+        "transition": "flip",
+        "rows": "1",
+        "columns": "2"
+      },
+      "Content-Type": "multipart/image"
+    }
+  }
+}

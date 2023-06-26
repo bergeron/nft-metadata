@@ -1,0 +1,39 @@
+{
+  "address": "0x0fd4c917eeca6fa2dc2cc9010da28900d98c77de",
+  "type": "ERC721",
+  "name": "Advent Calendar Token CGC Day 16",
+  "tokenCount": "51",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=gs1P775NjNPDZAYTBb7p",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1576440171724?alt=media&token=5b27dbf3-5cc3-4f7c-8b93-567d0eda7eb0",
+    "isForSale": false,
+    "description": "\n\nThis ticket will allow you:\n\n-Access to the exhibition\n-Access to all conference\n sessions\n-Coffee Breaks\n-Access to the meeting System\n-Access to the Business Area\n-Invite to the CGC 5 Party\n\nAbout\nCGC is the largest and definitive B2B event about innovative technologies in gaming. The fifth edition of the conference will bring together hundreds of experts in blockchain, VR, AR games for two days of networking, doing business and sharing of knowledge. Speakers and exhibitors from over 50 countries will meet to discuss the synergy between disruptive technologies and games, and how it's set to change the industry. Please note that time and date for the 2020 event is currently being organized and TBC.",
+    "contractAddress": "",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted//gs1P775NjNPDZAYTBb7p",
+    "minter": "0xd55Da2bF21a2131Ece7C50FBF979644eb7df1C21",
+    "mintedOn": {
+      "_seconds": 1576440190,
+      "_nanoseconds": 307000000
+    },
+    "price": "0",
+    "name": "All access pass CGC Gaming convention",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "All access pass CGC Gaming convention"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "id": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0x22941e207cf32c2fc835d93f9336bab820d07b66",
+  "type": "ERC721",
+  "name": "Angela",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=BIxlfl2X38tUcz3OjJcY",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1571104300724?alt=media&token=5e61923f-0d02-4899-a27e-622030cecbc2",
+    "isForSale": false,
+    "contractAddress": "0x22941E207cF32c2fc835D93F9336bAb820d07b66",
+    "description": "Me",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x22941E207cF32c2fc835D93F9336bAb820d07b66/BIxlfl2X38tUcz3OjJcY",
+    "minter": "0xd0ADD1001719aDB9418d5fc078C353f7Fe45C703",
+    "mintedOn": {
+      "_seconds": 1571104353,
+      "_nanoseconds": 376000000
+    },
+    "price": "0.0001",
+    "name": "My First Token",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "My First Token"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

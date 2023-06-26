@@ -1,0 +1,54 @@
+{
+  "address": "0x5402a629b406fe221e2153ee35935b247d464114",
+  "type": "ERC721",
+  "name": "WAGMI Baby Buds",
+  "tokenCount": "12",
+  "uri": "ipfs://QmTLFQRijLcHW8Z3R5w848QaJQEGw143SocLWXxGK4ZXM2/1",
+  "metadata": {
+    "name": "Baby Bud #1",
+    "description": "The Baby Buds collection from WAGMI Grow House project is made of 420 unique art items. Baby Buds are grown from Seeds.",
+    "image": "ipfs://QmYvRFSyPjnVMUiBTCGUWk3D6cCPHSCu4bxxoc2N5yLUZT/1.png",
+    "dna": "7429ea24652089780e43636750bef88059876987",
+    "edition": 1,
+    "date": 1654110164060,
+    "attributes": [
+      {
+        "trait_type": "Room",
+        "value": "Garden"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Pearl Green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "White"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Animals"
+      },
+      {
+        "trait_type": "Body Item",
+        "value": "Ice Cristals"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Furious"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Cry Blue"
+      },
+      {
+        "trait_type": "Hand Item",
+        "value": "Bone"
+      }
+    ],
+    "compiler": "WAGMI Grow House Baby Buds generator"
+  }
+}

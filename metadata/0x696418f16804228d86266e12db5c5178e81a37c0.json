@@ -1,0 +1,44 @@
+{
+  "address": "0x696418f16804228d86266e12db5c5178e81a37c0",
+  "type": "ERC721",
+  "name": "CasaDeLuna",
+  "tokenCount": "1402",
+  "uri": "https://api.wenmint.com/casadeluna/1",
+  "metadata": {
+    "name": "Casa De Luna #1",
+    "description": "Casa De Luna",
+    "attributes": [
+      {
+        "trait_type": "Patch",
+        "value": "Skull patch"
+      },
+      {
+        "trait_type": "Left Hand",
+        "value": "Money"
+      },
+      {
+        "trait_type": "Right Hand",
+        "value": "Ray Gun"
+      },
+      {
+        "trait_type": "Visor",
+        "value": "Galaxy 1"
+      },
+      {
+        "trait_type": "Vest",
+        "value": "Light Blue Vest"
+      },
+      {
+        "trait_type": "Suit",
+        "value": "Casa Main Suit"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Texture green"
+      }
+    ],
+    "seller_fee_basis_points": 0,
+    "compiler": "nft-inator.com",
+    "image": "https://assets.wenmint.com/images/casadeluna/1.png"
+  }
+}

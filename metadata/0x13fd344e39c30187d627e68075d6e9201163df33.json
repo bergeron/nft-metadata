@@ -1,0 +1,58 @@
+{
+  "address": "0x13fd344e39c30187d627e68075d6e9201163df33",
+  "type": "ERC721",
+  "name": "Rarity Garden Genesis Unicorns",
+  "tokenCount": "10000",
+  "uri": "ipfs://bafybeibehy3evev6bggdgnx5vueng5snkfvxiqwvfjq3e3ycrfr2nh7sfi/1.json",
+  "metadata": {
+    "name": "Unicorn #1",
+    "description": "10,000 beautiful 3-in-1 unicorns: collectibles, pass and utilities on https://rarity.garden",
+    "image": "ipfs://bafybeic7zmhyfujpbeerbrtd4vvdgmvjuizdy2u5yseg5eqsz32flo4gne/1.png",
+    "dna": "ea547d2026db9dc68aa603c0435ab14713b9f065",
+    "edition": 1,
+    "date": 1650030865466,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Crystal"
+      },
+      {
+        "trait_type": "Horn",
+        "value": "Ruby"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Joe Cool"
+      },
+      {
+        "trait_type": "Hooves",
+        "value": "Sniper"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "None"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "None"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Growling"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

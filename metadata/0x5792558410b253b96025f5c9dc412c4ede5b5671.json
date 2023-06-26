@@ -1,0 +1,50 @@
+{
+  "address": "0x5792558410b253b96025f5c9dc412c4ede5b5671",
+  "type": "ERC721",
+  "name": "WeblinItem - weblin.io items",
+  "tokenCount": "14",
+  "uri": "https://item.weblin.com/Metadata/1?d=3lau.com&s=1000000&t=CryptoClaim",
+  "metadata": {
+    "name": "3lau.com",
+    "description": "This item certifies the ownership of the social layer associated with the domain, sub-domain or path. \n\nThe certificate comes with a flag item to be used by the social layer client weblin.io. In short: install the weblin.io browser extension, acquire your flag, go to your domain, and plant the flag to show your ownership. \n\nAbout weblin.io: \n\nYou have an avatar on every web page and you meet other people who are on the same page at the same time. It's anonymous. It's everywhere. It's real-time.\n\nThe avatar can move around. It lets you meet friends and strangers. You can talk in chat balloons, chat windows, and in a videoconference. The perfect tool for ad-hoc online meetings. No other tools required.\n\nNeed a quick videoconference: just use it. Want to make an online event: tell your guests to install weblin.io and meet on your web site. Need a better tool for meetups: see your participants on the meetup page, do the talk, and socialize. Want to have a community-feeling for your YouTube stream: offer weblin.io to your viewers and see them engage.",
+    "external_url": "https://energija.s3.eu-central-1.amazonaws.com/3lau.com/c1000.png",
+    "image": "https://energija.s3.eu-central-1.amazonaws.com/3lau.com/c350.png",
+    "attributes": [
+      {
+        "trait_type": "Domain",
+        "value": "3lau.com"
+      },
+      {
+        "trait_type": "Strength",
+        "value": "1000000"
+      }
+    ],
+    "properties": {
+      "type": {
+        "type": "string",
+        "description": "CryptoClaim"
+      },
+      "name": {
+        "type": "string",
+        "description": "3lau.com"
+      },
+      "description": {
+        "type": "string",
+        "description": "This item certifies the ownership of the social layer associated with the domain, sub-domain or path. \n\nThe certificate comes with a flag item to be used by the social layer client weblin.io. In short: install the weblin.io browser extension, acquire your flag, go to your domain, and plant the flag to show your ownership. \n\nAbout weblin.io: \n\nYou have an avatar on every web page and you meet other people who are on the same page at the same time. It's anonymous. It's everywhere. It's real-time.\n\nThe avatar can move around. It lets you meet friends and strangers. You can talk in chat balloons, chat windows, and in a videoconference. The perfect tool for ad-hoc online meetings. No other tools required.\n\nNeed a quick videoconference: just use it. Want to make an online event: tell your guests to install weblin.io and meet on your web site. Need a better tool for meetups: see your participants on the meetup page, do the talk, and socialize. Want to have a community-feeling for your YouTube stream: offer weblin.io to your viewers and see them engage."
+      },
+      "total_supply": {
+        "type": "int",
+        "description": "1"
+      }
+    },
+    "data": {
+      "Reference": "0x5792558410B253b96025f5C9dC412c4EDe5b5671-1",
+      "Template": "CryptoClaim",
+      "ClaimUrl": "3lau.com",
+      "ClaimStrength": "1000000",
+      "ImageUrl": "https://energija.s3.eu-central-1.amazonaws.com/3lau.com/flag.png",
+      "LargeImageUrl": "https://energija.s3.eu-central-1.amazonaws.com/3lau.com/c1000.png",
+      "ShopImageUrl": "https://energija.s3.eu-central-1.amazonaws.com/3lau.com/c350.png"
+    }
+  }
+}

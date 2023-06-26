@@ -1,0 +1,35 @@
+{
+  "address": "0xfe8366f0ecfe9f4451d97b983b278ce0432bb446",
+  "type": "ERC721",
+  "name": "Anyside Web3 Names",
+  "tokenCount": "1887",
+  "uri": "https://anyside.com/metadata/evm/1/25039426670171245115040973486592197913594601645070739398366098884713566369229",
+  "metadata": {
+    "name": "whatthefuck.any",
+    "symbol": "ANY",
+    "description": "whatthefuck.any, an Anyside name.",
+    "image": "https://api.anyside.com/metadata/image/whatthefuck",
+    "image_url": "https://api.anyside.com/metadata/image/whatthefuck",
+    "external_url": "https://whatthefuck.anyside.com",
+    "collection": {
+      "name": "Anyside",
+      "family": "Anyside"
+    },
+    "attributes": [
+      {
+        "trait_type": "Name Type",
+        "value": "Standard Word"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Domain Length",
+        "value": 11
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Expiration Date",
+        "value": 1701982815
+      }
+    ]
+  }
+}

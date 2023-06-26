@@ -1,0 +1,48 @@
+{
+  "address": "0x21af545fb1851dfaa85fda512a415b7596ab1b57",
+  "type": "ERC721",
+  "name": "Ethernaal eNFT Collection",
+  "tokenCount": "13",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmPpHDfYB1UkEuXLhQMgdYGjH95ZrYHTQqinFJzM6x3eyR",
+  "metadata": {
+    "title": "Ethernaal Genesis #001",
+    "name": "Ethernaal Genesis #001",
+    "description": "Ethernaal Collection - Marketplace's Launch Edition 2021",
+    "category": "eNFT",
+    "image": "https://gateway.pinata.cloud/ipfs/QmX9zHxvSQtpUyhzapyPgw1ZT42ZvKMQRT7uxVWzGc6sVP",
+    "creator": {
+      "username": "Ethernaal",
+      "ethereumAddress": "0x585511695eb36bc7eee59019f4c52f4a70f2ee77"
+    },
+    "nftImage": {
+      "imageSmall": "https://gateway.pinata.cloud/ipfs/QmYvLaLM3omj8MbTKf9W2noebZZEMV99kzERMKgz5BX34F",
+      "imageLarge": "https://gateway.pinata.cloud/ipfs/QmcfnmvUcVWQJM1iD6J1VqhdhbNFuzwzG8pJZAiyMZYNfu"
+    },
+    "attributes": [
+      {
+        "value": "genesis",
+        "trait_type": "Collection"
+      },
+      {
+        "value": 2021,
+        "trait_type": "YearCreated"
+      },
+      {
+        "value": "Ethernaal",
+        "trait_type": "Artist"
+      },
+      {
+        "value": "black_white",
+        "trait_type": "Tag"
+      },
+      {
+        "value": "conceptual",
+        "trait_type": "Tag"
+      },
+      {
+        "value": "illustrative",
+        "trait_type": "Tag"
+      }
+    ]
+  }
+}

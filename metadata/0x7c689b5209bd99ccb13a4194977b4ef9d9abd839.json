@@ -1,0 +1,40 @@
+{
+  "address": "0x7c689b5209bd99ccb13a4194977b4ef9d9abd839",
+  "type": "ERC721",
+  "name": "Robo Piano Loops",
+  "tokenCount": "5",
+  "uri": "https://robo-piano-loops.s3.us-east-1.amazonaws.com/token/1",
+  "metadata": {
+    "image": "https://robo-piano-loops.s3.us-east-1.amazonaws.com/assets/1.png",
+    "animation_url": "https://robo-piano-loops.s3.us-east-1.amazonaws.com/assets/1.mp3",
+    "tokenId": 1,
+    "name": "Robo Piano Loops 1",
+    "description": "The SHA-256 hash for the mp3 is: bae4a4cbdfa7165e9be90cac48f1a927223441a5bbc174c11df12269a1213493",
+    "attributes": [
+      {
+        "trait_type": "Loop Length",
+        "value": "4"
+      },
+      {
+        "trait_type": "Key",
+        "value": "Ab"
+      },
+      {
+        "trait_type": "Chord 1",
+        "value": "Ab minor"
+      },
+      {
+        "trait_type": "Chord 2",
+        "value": "Cb major"
+      },
+      {
+        "trait_type": "Chord 3",
+        "value": "Fb major"
+      },
+      {
+        "trait_type": "Chord 4",
+        "value": "Ab minor"
+      }
+    ]
+  }
+}

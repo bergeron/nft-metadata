@@ -1,0 +1,41 @@
+{
+  "address": "0x1e166f45a80feed029af42e3280e92e213070624",
+  "type": "ERC1155",
+  "name": "State of mind",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/057RSTpAbU2V31gYGKhOf3x7aEj4GnVLKr824bKEYhI",
+  "metadata": {
+    "created_by": "Sveta UFOx",
+    "name": "Rave party",
+    "description": "Animated art 1080х1080",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Sveta UFOx"
+      }
+    ],
+    "animation_details": {
+      "bytes": 23317670,
+      "format": "MP4",
+      "duration": 16,
+      "sha256": "c82c15dd3b454e39fa6f105880b036e9dc2dbcd15a7bf08b2425716e817720e1",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/jRYxtwtDvnfU50z77ZWTQ-oFdx-B_ruWiZIKDLhzeE8",
+    "animation_url": "https://arweave.net/jRYxtwtDvnfU50z77ZWTQ-oFdx-B_ruWiZIKDLhzeE8",
+    "image_details": {
+      "bytes": 9754616,
+      "format": "JPEG",
+      "sha256": "19d9ecba2d59fa6dc2720b474b7451bfb7c863da60b4a27f091d0000b8af20ca",
+      "width": 3000,
+      "height": 3000
+    },
+    "image": "https://arweave.net/5p5rRIEVAyQ0B-uavJ64UvyydlwBcrGTqSNJnOoZC1M",
+    "image_url": "https://arweave.net/5p5rRIEVAyQ0B-uavJ64UvyydlwBcrGTqSNJnOoZC1M"
+  }
+}

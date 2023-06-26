@@ -1,0 +1,44 @@
+{
+  "address": "0x64ae47c0efb5bb151f3d00dece917fbbd6db2ebe",
+  "type": "ERC721",
+  "name": "Feature IP Licensing",
+  "tokenCount": "26",
+  "uri": "https://tokens.feature.io/1",
+  "metadata": {
+    "image": "https://tokens.feature.io/0x64Ae47C0EFb5BB151F3d00deCE917Fbbd6db2ebE_1.png",
+    "name": "Bored Ape Yacht Club #9369",
+    "description": "This NFT represents a legally enforceable licensing agreement.  The license agreement can be found in the token metadata or by connecting your wallet at thefeature.io/licensing.  Each licensing transaction creates two NFT's, one for the licensee and one for the licensor.  The licensor NFT is connected to the underlying NFT (ie BAYC #1234) and follows the NFT if it is transferred or sold. The licensor NFT may not be transferred except in connection with the sale or transfer of the licensor NFT.  The licensee NFT can be sold or transferred and the new licensee would be under the same terms as highlighted in the agreement.  To see what other transactions the underlying NFT has completed, check the collection associated with this NFT. For more info, go to thefeature.io/licensing.",
+    "external_url": "https://feature.io/bayc/9369",
+    "ip_license_agreement": "https://tokens.feature.io/01e81b38-f49e-4f41-8485-3e1e6ce2e391.pdf",
+    "attributes": [
+      {
+        "trait_type": "License Type",
+        "value": "Film"
+      },
+      {
+        "trait_type": "Token Type",
+        "value": "Licensee"
+      },
+      {
+        "trait_type": "Exclusive",
+        "value": "false"
+      },
+      {
+        "trait_type": "Start Date",
+        "value": "Fri Jun 03 2022"
+      },
+      {
+        "trait_type": "Expiration Date",
+        "value": "Sun Jul 03 2022"
+      },
+      {
+        "trait_type": "Licensed NFT Contract",
+        "value": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D"
+      },
+      {
+        "trait_type": "Licensed Token Id",
+        "value": "9369"
+      }
+    ]
+  }
+}

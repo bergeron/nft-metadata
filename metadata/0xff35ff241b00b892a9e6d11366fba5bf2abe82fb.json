@@ -1,0 +1,39 @@
+{
+  "address": "0xff35ff241b00b892a9e6d11366fba5bf2abe82fb",
+  "type": "ERC721",
+  "name": "lilflowers",
+  "tokenCount": "225",
+  "uri": "ipfs://QmZuZQ7ebESHikwjX4UVpCtdvv2bSUa5QQRMViG2wPK7b6/1",
+  "metadata": {
+    "name": "#1",
+    "description": "the first piece of your metaverse garden.",
+    "image": "ipfs://QmQnGprfzpx25uzUaYLrMX5KqzRQLjbH7MRj1qQrjjBbEe/1.png",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "#fffed7"
+      },
+      {
+        "trait_type": "stem",
+        "value": "#58fd87"
+      },
+      {
+        "trait_type": "petal",
+        "value": "#01008a"
+      },
+      {
+        "trait_type": "outline",
+        "value": "#ec0014"
+      },
+      {
+        "trait_type": "center",
+        "value": "#6e80be"
+      },
+      {
+        "trait_type": "theme",
+        "value": "Waka Waka Waka"
+      }
+    ],
+    "external_url": "https://lilflowers.wtf/"
+  }
+}

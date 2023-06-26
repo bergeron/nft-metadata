@@ -1,0 +1,33 @@
+{
+  "address": "0x83a4958cb9ba1961fbf385cc652ab74bfcc7a284",
+  "type": "ERC1155",
+  "name": "Salient Yachts Club Membership",
+  "tokenCount": "6",
+  "uri": "ipfs://QmPGqDznJV5joZwKXChaHH76ZDGM6BYryzpvuLX2HwvPFm/1",
+  "metadata": {
+    "name": "Golden Membership",
+    "description": "##### Membership Rewards include: \n\n- 4000 SYP Token Airdrop at Launch \n- 5x Common NFT Share Airdropped per Yacht Built \n\n##### Broker / Affiliate Rank \nGolden Broker",
+    "image": "ipfs://QmQtNRLJptrUbDvEpUzUvRfCQFkeJWATZt4finYczwDa3X/0.jpg",
+    "external_url": "https://salientyachts.com/",
+    "animation_url": "ipfs://QmQtNRLJptrUbDvEpUzUvRfCQFkeJWATZt4finYczwDa3X/1.mp4",
+    "background_color": "7346d7",
+    "attributes": [
+      {
+        "trait_type": "Membership",
+        "value": "Golden"
+      },
+      {
+        "trait_type": "Qty",
+        "value": "1 of 100"
+      },
+      {
+        "trait_type": "NFT Yacht shares",
+        "value": "5x Common per build"
+      },
+      {
+        "trait_type": "Broker - Affiliate Rank",
+        "value": "Goldern Broker"
+      }
+    ]
+  }
+}

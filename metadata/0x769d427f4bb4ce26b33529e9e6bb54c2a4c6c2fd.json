@@ -1,0 +1,41 @@
+{
+  "address": "0x769d427f4bb4ce26b33529e9e6bb54c2a4c6c2fd",
+  "type": "ERC721",
+  "name": "Mike Daley Music",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/gFX1R6U3hQ65QJ_eeU-R2we2CWB5Abu7S-Yjfw2heLU",
+  "metadata": {
+    "name": "Mile High",
+    "created_by": "ChiMike",
+    "description": "Cheers.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "ChiMike"
+      }
+    ],
+    "animation_details": {
+      "bytes": 19272794,
+      "format": "MOV",
+      "duration": 6,
+      "sha256": "55db1673e58a6de1da7c32aaa8c023ca962576062e366ae8f5ce8a7d7ddd4094",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/ypHAr945hv7D9vVR9SloF_QSLwzpDuh3JKKFu3TaTqw",
+    "animation_url": "https://arweave.net/ypHAr945hv7D9vVR9SloF_QSLwzpDuh3JKKFu3TaTqw",
+    "image_details": {
+      "bytes": 264825,
+      "format": "JPEG",
+      "sha256": "bd00bad91a34ddff69d6847082f2818ecd6dfdb56beaae290e800ea594e1897d",
+      "width": 1290,
+      "height": 1290
+    },
+    "image": "https://arweave.net/ocC9KGtScsxIhBMpuBDnsVYUyKNupU7OJfgnbMH7xzQ",
+    "image_url": "https://arweave.net/ocC9KGtScsxIhBMpuBDnsVYUyKNupU7OJfgnbMH7xzQ"
+  }
+}

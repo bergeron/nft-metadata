@@ -1,0 +1,22 @@
+{
+  "address": "0x7aef9e55ba7914d72f1a59c3c72fb5cca4e707ef",
+  "type": "ERC721",
+  "name": "A Test Token V2",
+  "tokenCount": "59",
+  "uri": "ipfs://QmQf4duuvqymBm7XGuhDP7LvuPEiBCqsC8JjvW28AKr6Kd/1",
+  "metadata": {
+    "name": "Test Token Cool Color #1",
+    "description": "This is an unrevealed test token, for trying out cool things related to NFTs! Please note that this token has no value or warranty of any kind.\n\n\"The future belongs to those who believe in the beauty of their dreams.\"\n-Eleanor Roosevelt",
+    "image_data": "<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 350 350'><rect width='100%' height='100%' fill='grey' /><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle'>Pre Reveal!</text></svg>",
+    "attributes": [
+      {
+        "trait_type": "Token ID",
+        "value": "1"
+      },
+      {
+        "trait_type": "Cool Color",
+        "value": "Unrevealed"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "address": "0xd5e42aea4b93c32b14c56db79dc177662a6d553b",
+  "type": "ERC721",
+  "name": "Favorite Fictional Characters - old V2",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/CCyW8h4kHjyR3QpQiK41RJdwOu0YeV7Y8cXLBhe2TQM",
+  "metadata": {
+    "name": "#001 FFC Leon",
+    "created_by": "favficchars",
+    "description": "FavFicChars Collection - #001 FFC Leon April,2022",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Yiğit Ayyıldız"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Favorite Fictional Characters"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Value of the Character",
+        "value": "1",
+        "max_value": "1"
+      }
+    ],
+    "animation_details": {
+      "bytes": 10419658,
+      "format": "MP4",
+      "duration": 11,
+      "sha256": "a6022c5061f22c044f1e5f543ae2a834fb2afdd8a33aad9f0a8e5bc8d9a68697",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/HmuGGhvH3HGxzX_gWzPBz_TJ_8YHi6OAzqD7_B13gH8",
+    "animation_url": "https://arweave.net/HmuGGhvH3HGxzX_gWzPBz_TJ_8YHi6OAzqD7_B13gH8",
+    "image_details": {
+      "bytes": 932095,
+      "format": "PNG",
+      "sha256": "5ae5798af14f49979e4e5823eb2089a7cc120d16da4fe698f219d3ff49ebe030",
+      "width": 1080,
+      "height": 1080
+    },
+    "image": "https://arweave.net/tLqD5yIt3ijodwmabQ9fBr5NlfcSXH97OCYo64Q1nYs",
+    "image_url": "https://arweave.net/tLqD5yIt3ijodwmabQ9fBr5NlfcSXH97OCYo64Q1nYs"
+  }
+}

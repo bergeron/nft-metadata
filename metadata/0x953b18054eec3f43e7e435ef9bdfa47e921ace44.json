@@ -1,0 +1,68 @@
+{
+  "address": "0x953b18054eec3f43e7e435ef9bdfa47e921ace44",
+  "type": "ERC721",
+  "name": "Art SNFT Season 2",
+  "tokenCount": "30",
+  "uri": "https://database.ncf.foundation/ares/duo/1",
+  "metadata": {
+    "name": "Jesus Candy",
+    "description": "The very first big format painting produced by the artist Niclas Castello. The elements in the picture point the way for his subsequent works. the painting was acquired directly from the artist's studio.",
+    "preview": "https://database.ncf.foundation/ares/duo/1/preview.png",
+    "image": "https://database.ncf.foundation/ares/duo/1/qr.png",
+    "external_link": "https://snft.ae/?/2:1",
+    "external_url": "https://snft.ae/?/2:1",
+    "properties": {
+      "art": {
+        "artist": "Niclas Castello",
+        "artist_birthyear": 1978,
+        "title": "Jesus Candy",
+        "year": 2007,
+        "type": "Painting",
+        "location": "Germany",
+        "region": "West-Europe",
+        "description": "",
+        "edition": {
+          "exists": false,
+          "special": false,
+          "title": "",
+          "index": 0,
+          "total": 0,
+          "stamped": false,
+          "stamped_text": ""
+        },
+        "signature": {
+          "handsigned": true,
+          "position": "right/bottom",
+          "side": "front",
+          "text": "2007 N. Castello"
+        }
+      },
+      "material": {
+        "width": 240,
+        "height": 200,
+        "depth": 3,
+        "weight": 0,
+        "type": [
+          "Canvas",
+          "Acrylic-Colour",
+          "Oilstick"
+        ],
+        "description": ""
+      },
+      "history": {
+        "exhibition": [],
+        "auction": [],
+        "owner": []
+      },
+      "storage": {
+        "type": "foundation",
+        "title": "Niclas Castello Foundation",
+        "web": "https://ncf.foundation/"
+      },
+      "notes": {
+        "price": 300000,
+        "storage": "0.001"
+      }
+    }
+  }
+}

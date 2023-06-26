@@ -1,0 +1,33 @@
+{
+  "address": "0xc631164b6cb1340b5123c9162f8558c866de1926",
+  "type": "ERC721",
+  "name": "Divine Anarchy",
+  "tokenCount": "10011",
+  "uri": "ipfs://QmW9rJ4PJD4VSoK2VCrUET3sRDZKvP5mqgMnRuQEs68hdG/1",
+  "metadata": {
+    "id": 1,
+    "name": "#1 - Kupala",
+    "description": "[Divine Anarchy](https://www.divineanarchy.com)",
+    "attributes": [
+      {
+        "trait_type": "Unique",
+        "value": "Kupala"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Voting power",
+        "value": 2000
+      },
+      {
+        "trait_type": "Bloodline",
+        "value": "Agarthian",
+        "background_color": "white"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Male"
+      }
+    ],
+    "image": "ipfs://QmZAYFAnHus5XVhTPmanhAyx7HZXpisi5VWkvLa1Xt1Smo/1.jpg"
+  }
+}

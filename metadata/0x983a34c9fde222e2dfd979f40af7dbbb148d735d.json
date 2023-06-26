@@ -1,0 +1,23 @@
+{
+  "address": "0x983a34c9fde222e2dfd979f40af7dbbb148d735d",
+  "type": "ERC721",
+  "name": "Experiment: Random",
+  "tokenCount": "9",
+  "uri": "ipfs://QmWGoGjqAGroN4naM7rNHe7Q1ra6SQJnS392zdAw5QAT1n/0",
+  "metadata": {
+    "name": "Test #2",
+    "image": "ipfs://QmUMffG1dpLmsrvXfN2TsUQZ3bArTSsji6Q2Wq4P868rra/0",
+    "background_color": "000000",
+    "properties": {
+      "id": 2,
+      "level": 0
+    },
+    "attributes": [
+      {
+        "value": "0 CO2 Tonnes",
+        "trait_type": "Carbon"
+      }
+    ],
+    "externalUrl": "http://localhost:3500/collection/2?level=0"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0x55321a9983fbac71bfe7cb17d7be3e7dc610007d",
+  "type": "ERC721",
+  "name": "PLAYZ Token",
+  "tokenCount": "1260",
+  "uri": "https://presale-eth.playdapp.com/meta/v1/data/1",
+  "metadata": {
+    "image": "https://presale-asset.playdapp.com/token_thumb/playz_mikey_ssr.png",
+    "external_url": "https://presale.playdapp.com",
+    "description": "PlayDapp Town PLAYZ Token",
+    "name": "MIKEY SSR",
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "MIKEY"
+      },
+      {
+        "trait_type": "Grade",
+        "value": "SSR"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Location X",
+        "value": 248
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Location Y",
+        "value": 263
+      },
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 1620760561
+      }
+    ]
+  }
+}

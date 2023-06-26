@@ -1,0 +1,31 @@
+{
+  "address": "0xcf1c64b2b174c47bbb67c0fd0f4205f5e3baf94e",
+  "type": "ERC1155",
+  "name": "PolkaPets TCG",
+  "tokenCount": "1",
+  "uri": "https://api.forjnft.com/nft/metadata/ppw-gold-bondswap/1",
+  "metadata": {
+    "name": "Gold BondSwap",
+    "description": "BondSwap Inferno Loop:\n\nAn inferno circles around BondSwap and strikes at any surrounded opponents as well as protecting the area around BondSwap.",
+    "image": "https://forj-nft-assets.s3.amazonaws.com/polkapets/rev1.png",
+    "animation_url": "",
+    "attributes": [
+      {
+        "trait_type": "BondSwap",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special Edition"
+      },
+      {
+        "trait_type": "Card Type",
+        "value": "PolkaPet"
+      },
+      {
+        "trait_type": "Art By",
+        "value": "El & Thadeus"
+      }
+    ]
+  }
+}

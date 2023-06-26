@@ -1,0 +1,34 @@
+{
+  "address": "0x9aede54445ccf900413c7d0cae3b588b831b0098",
+  "type": "ERC721",
+  "name": "Kitty Cones Collection",
+  "tokenCount": "5555",
+  "uri": "https://rckcprj.s3.us-east-1.amazonaws.com/kc/json/1.json",
+  "metadata": {
+    "name": "Kitty Cone #1",
+    "description": "Kitty Cones is a collection of 5,555 kitties that love ice cream! Through art and storytelling, their fun-filled universe embodies kindness, empathy, and accepting others for who they are because we're better together!",
+    "image": "https://rckcprj.s3.us-east-1.amazonaws.com/kc/img/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Kitty",
+        "value": "Miyu"
+      },
+      {
+        "trait_type": "Cone",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Sprinkles - Mixed"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Sad Eyes"
+      }
+    ]
+  }
+}

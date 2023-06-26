@@ -1,0 +1,40 @@
+{
+  "address": "0xad8d6ad7e25c5c4bfbf21a818de9cd708e69226b",
+  "type": "ERC721",
+  "name": "Metahorse Jockey Club - Omnihorse",
+  "tokenCount": "100",
+  "uri": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/nftjson/0xad8D6aD7E25c5c4bFbf21a818DE9cd708E69226b/1.json",
+  "metadata": {
+    "name": "Metahorse Jockey Club #1",
+    "description": "Metahorse Jockey Club Membership NFTs",
+    "animation_url": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/Metahorse/1.mp4",
+    "image": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/Metahorse/1.gif",
+    "external_link": "https://www.omnihorse.io/",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0x1D17E1B49d6e8660279cf736f30114501840A341",
+    "edition": 1,
+    "date": 1660676218205,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Wine"
+      },
+      {
+        "trait_type": "Frame Background",
+        "value": "Tiny Grid"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "Pink Blue"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Purple Whip"
+      },
+      {
+        "trait_type": "Level",
+        "value": "Lv1"
+      }
+    ]
+  }
+}

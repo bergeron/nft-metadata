@@ -1,0 +1,33 @@
+{
+  "address": "0xadffee170075271ee6b2a6665fda80560d6931a0",
+  "type": "ERC721",
+  "name": "InvisibleCuties",
+  "tokenCount": "97",
+  "uri": "ipfs://QmXxwtWrfSoNxPBNbq4fgjcmVhRo6w6XVEh7XNwKod17nu/1.json",
+  "metadata": {
+    "name": "InvisibleCuties1",
+    "description": "InvisibleCuties",
+    "fee_recipient": "0xd3CD53688B227fc96d5810a30B6EA5dE4a2caf2d",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://QmS18wniKx9w1GY57Ec4TdBYnHYyYpbYgbrWaFpfh1MFMh/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Expressions",
+        "value": "Very Happy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Hen"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 15,
+        "display_type": "number"
+      }
+    ]
+  }
+}

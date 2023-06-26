@@ -1,0 +1,25 @@
+{
+  "address": "0xc42e29be8afcd1ba7b18c26beddbcc835886d9c0",
+  "type": "ERC721",
+  "name": "Crypto Winter Art",
+  "tokenCount": "16",
+  "uri": "https://mint-cripto-winter-production-assets.s3.amazonaws.com/v1/metadata/1554",
+  "metadata": {
+    "image": "https://mint-cripto-winter-production-assets.s3.amazonaws.com/v1/assets/1554.png",
+    "name": "Crypto Winter #1554",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Winter 4"
+      },
+      {
+        "trait_type": "Snow",
+        "value": "Snow 80%"
+      },
+      {
+        "trait_type": "Coin",
+        "value": "Loopring"
+      }
+    ]
+  }
+}

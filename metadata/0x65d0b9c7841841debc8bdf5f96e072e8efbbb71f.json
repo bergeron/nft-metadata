@@ -1,0 +1,65 @@
+{
+  "address": "0x65d0b9c7841841debc8bdf5f96e072e8efbbb71f",
+  "type": "ERC721",
+  "name": "Non-Fungible CDs",
+  "tokenCount": "10",
+  "uri": "https://arweave.net/K1XigmVRyx-xZxwJZjullzMuhQHosNxkxsyN5GnGeC8",
+  "metadata": {
+    "name": "01 - Endless",
+    "created_by": "Non-Fungible Albums",
+    "description": "The album \"Endless\" by Noir Ghost was released in 1991 by ETH Records in the world of Non-Fungible Albums.",
+    "attributes": [
+      {
+        "trait_type": "Artist / Band",
+        "value": "Noir Ghost"
+      },
+      {
+        "trait_type": "Primary Genre",
+        "value": "Synth Funk"
+      },
+      {
+        "trait_type": "Record Label",
+        "value": "ETH Records"
+      },
+      {
+        "trait_type": "Key",
+        "value": "A Minor"
+      },
+      {
+        "trait_type": "Release Year",
+        "value": "1991"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Tempo",
+        "value": "Andante moderato"
+      }
+    ],
+    "animation_details": {
+      "bytes": 47659439,
+      "format": "MP4",
+      "duration": 32,
+      "sha256": "ae1bceb3cecae64bbc1861f44a72bc584c681c89743e07e92a223846a6d53692",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/4UaIbWWqrLdPRiplX15jZcyLEXJP-ZvpsjdMw7XCLFo",
+    "animation_url": "https://arweave.net/4UaIbWWqrLdPRiplX15jZcyLEXJP-ZvpsjdMw7XCLFo",
+    "image_details": {
+      "bytes": 4105357,
+      "format": "PNG",
+      "sha256": "0e780da5aaacd59c9f298520f785c380f745f2e9bcd7f69f7e62693b3fb68d94",
+      "width": 1440,
+      "height": 1440
+    },
+    "image": "https://arweave.net/4lOX67MNnAbQC9vTqdx7rOVoDpTi6oiWn3USm7RGcps",
+    "image_url": "https://arweave.net/4lOX67MNnAbQC9vTqdx7rOVoDpTi6oiWn3USm7RGcps"
+  }
+}

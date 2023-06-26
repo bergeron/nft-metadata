@@ -1,0 +1,60 @@
+{
+  "address": "0x6d139304d5996bc005a5c95137f94f77a72a9be9",
+  "type": "ERC721",
+  "name": "Astro Apes Bbaby | FREE MINT",
+  "tokenCount": "3271",
+  "uri": "https://astrobabies.s3.amazonaws.com/apes/jsons/1.json",
+  "metadata": {
+    "name": "Astro Baby Ape #2",
+    "symbol": "ABA",
+    "description": "Astro Baby Apes are an NFT Collection of Degen Companions building the Astro Club Metaverse on Planet Solana. In a fight to lower gas fees and take the power back from the Evil Crypto Whales, Astro Baby Apes strive to help fight alongside the OG Astro Babies in launching the Greatest Metaverse on Solana",
+    "seller_fee_basis_points": 800,
+    "image": "https://astrobabies.s3.amazonaws.com/assets/1.png",
+    "external_url": "https://www.astrobabies.io/",
+    "attributes": [
+      {
+        "trait_type": "On Eyes",
+        "value": "Earring"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Angry Grille"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed Eyes"
+      },
+      {
+        "trait_type": "Suit",
+        "value": "B W Suit"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Green Skin"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Sky Blue BG"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://astrobabies.s3.amazonaws.com/assets/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "4EwCWdxHVWwBRxDDNPCanRCEmPxTFfRDjrjG94o2JkMV",
+          "share": 100
+        }
+      ]
+    },
+    "collection": {
+      "name": "Astro Baby Apes",
+      "family": "Astro Baby Apes"
+    }
+  }
+}

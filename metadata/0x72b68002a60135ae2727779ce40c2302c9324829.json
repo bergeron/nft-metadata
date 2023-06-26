@@ -1,0 +1,64 @@
+{
+  "address": "0x72b68002a60135ae2727779ce40c2302c9324829",
+  "type": "ERC1155",
+  "name": "Phanta Bear License NFT",
+  "tokenCount": "1",
+  "uri": "https://ori-static.particle.network/1/collection/0x72b68002a60135ae2727779ce40c2302c9324829/1.json",
+  "metadata": {
+    "name": "PHANTA BEAR #5045 - LIC #1",
+    "image": "https://ori-static.particle.network/images/4e583be1-7b66-488c-b07c-4be172d229a2.png",
+    "originToken": "0x67D9417C9C3c250f61A83C7e8658daC487B56B09",
+    "originTokenId": "5045",
+    "description": "This NFT is a License NFT, which provides copyright to the Derivative NFT. You can create Derivative NFTs in ORI.",
+    "external_url": "https://orinft.xyz",
+    "nftType": "license",
+    "attributes": [
+      {
+        "value": "GLOW GREEN",
+        "trait_type": "Background"
+      },
+      {
+        "value": "YELLOW",
+        "trait_type": "Skin"
+      },
+      {
+        "value": "ARTIST JAY ZIP THROUGH",
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "LOGO NECKLACE",
+        "trait_type": "Necklace"
+      },
+      {
+        "value": "SPLICE MESH SHOULDER BAG",
+        "trait_type": "Bag"
+      },
+      {
+        "value": "ALL PHC BUCKET HAT KH",
+        "trait_type": "Head"
+      },
+      {
+        "value": "WHITE GLASSES",
+        "trait_type": "Glasses"
+      },
+      {
+        "value": "CASH",
+        "trait_type": "Accessories"
+      },
+      {
+        "trait_type": "ExpirationDate",
+        "value": "11/03/2022"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "earning",
+        "value": 1,
+        "max_value": 10
+      },
+      {
+        "trait_type": "ONFT",
+        "value": "#5045"
+      }
+    ]
+  }
+}

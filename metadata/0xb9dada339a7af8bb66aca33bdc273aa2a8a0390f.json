@@ -1,0 +1,38 @@
+{
+  "address": "0xb9dada339a7af8bb66aca33bdc273aa2a8a0390f",
+  "type": "ERC721",
+  "name": "Banana",
+  "tokenCount": "10",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=Uib7C9I7PjORc4yu9kDI",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1572017165759?alt=media&token=cf450302-de9d-4759-979a-6d1f86505658",
+    "isForSale": true,
+    "contractAddress": "0xB9DaDa339A7AF8BB66Aca33BDC273aA2A8A0390f",
+    "description": "Each token makes its owner eligible for one free drink when they meet me (Anna George) at the next conference. ",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xB9DaDa339A7AF8BB66Aca33BDC273aA2A8A0390f/Uib7C9I7PjORc4yu9kDI",
+    "minter": "0x2b129bD5121DC6623c0f71552f52ea39444e22a5",
+    "mintedOn": {
+      "_seconds": 1572017469,
+      "_nanoseconds": 371000000
+    },
+    "price": "0",
+    "name": "Banana",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Banana"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

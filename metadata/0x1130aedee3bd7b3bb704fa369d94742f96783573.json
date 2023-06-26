@@ -1,0 +1,44 @@
+{
+  "address": "0x1130aedee3bd7b3bb704fa369d94742f96783573",
+  "type": "ERC721",
+  "name": "tewa",
+  "tokenCount": "4",
+  "uri": "ipfs://QmUQnZ4P8iA9EfyrvfH5mYrVwx8cqwTf8hoWFSFwmRAvKg/1",
+  "metadata": {
+    "name": "Space Snek #2",
+    "description": "My first demo using a small collection of Space Sneks layers",
+    "image": "ipfs://QmfGzqXA9i26xpv5vs7ndWnBVtkrYEnWqfjrgngCKBQnAX/2.png",
+    "external_url": "https://diamondhandshotel.com?ref=nft-inator-demo",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Gray"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Regular"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Neutral"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Mage"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Hardhat"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Mace"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

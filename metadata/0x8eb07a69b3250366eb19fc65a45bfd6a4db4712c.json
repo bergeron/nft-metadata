@@ -1,0 +1,37 @@
+{
+  "address": "0x8eb07a69b3250366eb19fc65a45bfd6a4db4712c",
+  "type": "ERC721",
+  "name": "Roboto Kitty",
+  "tokenCount": "888",
+  "uri": "ipfs://QmSGnTY929ycTCGYAnQYVAXnnVmqJSX5EGRYw3wkhZ5W7S/1.json",
+  "metadata": {
+    "name": "Roboto Kitty #1",
+    "description": "In the dystopian future where punks run wild and cybers aren't tired is a small collective lurking in the shadows known as Roboto Kitty",
+    "image": "ipfs://QmTm9LcNxY6T1UPJzEC3x2bTshQRjAVA5WkYGA632qjTA7/1.png",
+    "edition": 1,
+    "date": 1671614067082,
+    "attributes": [
+      {
+        "trait_type": "Bonus",
+        "value": "Stealth"
+      },
+      {
+        "trait_type": "Faction",
+        "value": "Mini Kuzas"
+      },
+      {
+        "trait_type": "Heritage",
+        "value": "Cyborg"
+      },
+      {
+        "trait_type": "Lives",
+        "value": "5 Lives"
+      },
+      {
+        "trait_type": "Rank",
+        "value": "Private"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "address": "0x244fc4178fa685af909c88b4d4cd7eb9127edb0b",
+  "type": "ERC721",
+  "name": "Netvrk Land",
+  "tokenCount": "10444",
+  "uri": "https://api.netvrk.co/api/items/1",
+  "metadata": {
+    "name": "Parcel #1",
+    "description": "Virtual Land enables users in the Netvrk Metaverse to deploy assets, monetize their land, as well as receive Netvrk Reserve distributions.",
+    "image": "https://images.netvrk.co/land/mega_land_1.png",
+    "attributes": [
+      {
+        "trait_type": "Size",
+        "value": "Mega"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Land"
+      },
+      {
+        "trait_type": "District",
+        "value": "Entertainment"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "X",
+        "value": 3181
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Y",
+        "value": 2327
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "address": "0x9fc10d45a7c392a8ef7780942ba22408fc89d8ef",
+  "type": "ERC721",
+  "name": "CryptoFluids",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/gFfBbJycrReWv8PRBIEAhKbvf2FoIMtVpeJ4iMqLs8c",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1641560634
+      },
+      {
+        "trait_type": "Creator",
+        "value": "MaraRey"
+      }
+    ],
+    "description": "Over the ocean, but under the sun, I created \"The Morning Dance\" using a process called digital fluid painting. A process that creates unique one-of-a-kind digital works of fine art. I channeled my mind during this process to a relaxed state, sitting on a hilltop overlooking the ocean. In this relaxation, I officially did my first \"morning dance\".",
+    "external_url": "https://cxip.io/nft/0x9fc10d45a7c392a8ef7780942ba22408fc89d8ef/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/XfqjzPB9N7O163gDvfA9QhiZ5INWywOBXagg5Lo7L6I",
+    "imageUrl": "https://arweave.net/XfqjzPB9N7O163gDvfA9QhiZ5INWywOBXagg5Lo7L6I",
+    "name": "The Morning Dance",
+    "properties": {
+      "created_at": "2022-01-07T13:03:54.000000Z",
+      "creator_wallet": "0x26c4eca611b3ef07276665da62f062a7b34230f3",
+      "description": "Over the ocean, but under the sun, I created \"The Morning Dance\" using a process called digital fluid painting. A process that creates unique one-of-a-kind digital works of fine art. I channeled my mind during this process to a relaxed state, sitting on a hilltop overlooking the ocean. In this relaxation, I officially did my first \"morning dance\".",
+      "image": "https://arweave.net/XfqjzPB9N7O163gDvfA9QhiZ5INWywOBXagg5Lo7L6I",
+      "imageUrl": "https://arweave.net/XfqjzPB9N7O163gDvfA9QhiZ5INWywOBXagg5Lo7L6I",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "7 January 2022",
+      "name": "The Morning Dance",
+      "nft_type": "non-fungible image token (image/jpeg)",
+      "preview_media_file": "https://arweave.net/EuXS-Twj1pq47MP6nISi64yDG5qBKMRP7Cb7ZOzyRSw",
+      "preview_media_file_dimensions": "360x540",
+      "preview_media_file_size": 216645,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "4000x6000",
+      "raw_media_file": "https://arweave.net/-OBBmgXq7ShCjjopJi4kbiNTDPXqFbZAAC_-7oDflxA",
+      "raw_media_file_size": 11261075,
+      "raw_media_file_spec": "JPEG 4000x6000 4000x6000+0+0 8-bit sRGB 10.7394MiB 0.000u 0:00.000",
+      "raw_media_file_type": "image/jpeg",
+      "raw_media_format": "portrait",
+      "raw_media_signature": "0x801613a0e523b011c2fa649549d4d41fb5b507aee4a17cb74f2c27881a347ecf",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/EuXS-Twj1pq47MP6nISi64yDG5qBKMRP7Cb7ZOzyRSw",
+      "thumb_media_file_type": "image/jpg",
+      "title": "The Morning Dance",
+      "total_supply": 1
+    },
+    "title": "The Morning Dance"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "0xc3184c6d93a6c17427aa173217b14fe76094784a",
+  "type": "ERC721",
+  "name": "SoMiNFT",
+  "tokenCount": "5",
+  "uri": "https://somi.mypinata.cloud/ipfs/QmRhsJmpgZ2PHmhwrfr8UiX98zSsKvRstexPracq54Gw1S/1.json",
+  "metadata": {
+    "name": "Tiger Club NFT 1",
+    "description": "Cool NFT collection created by SoMi - socialminting.com",
+    "image": "https://somi.mypinata.cloud/ipfs/QmUDdvUZJsyePPfE7U3mW3tVz4tZpUpsS3sYsTMYPUG6iy/1.jpg",
+    "seller_fee_basis_points": 500,
+    "attributes": [
+      {
+        "trait_type": "Body",
+        "value": "White Tiger"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Shirt Black"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Natural"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Natural"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "No Hat"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "Natural"
+      }
+    ]
+  }
+}

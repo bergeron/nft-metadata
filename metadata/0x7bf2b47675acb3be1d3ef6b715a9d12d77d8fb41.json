@@ -1,0 +1,53 @@
+{
+  "address": "0x7bf2b47675acb3be1d3ef6b715a9d12d77d8fb41",
+  "type": "ERC721",
+  "name": "Frames of Lifes",
+  "tokenCount": "12",
+  "uri": "https://arweave.net/VKvzO6shtdF0DVMys1GzEb7fNnV4lNg8E8ays23Uzeg",
+  "metadata": {
+    "name": "Frame of Life #1 - Leaving home",
+    "created_by": "Christophe Tritz",
+    "description": "Frames of Life No. 1 of 100\n\nFrames of Life is a 1/1 collection of animated digital frames, sky views from different places, made by Christophe Tritz. The NFTs are minted on a custom Manifold smart contract. Maximum supply of Frames will be 100, separated into different drops.\n\n\"Leaving home\" is the first frame of Season No.1, \"Road Trip\"",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Christophe Tritz"
+      },
+      {
+        "trait_type": "Season",
+        "value": "1"
+      },
+      {
+        "trait_type": "Season theme",
+        "value": "Road Trip"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Forest"
+      }
+    ],
+    "animation_details": {
+      "bytes": 44091986,
+      "format": "MP4",
+      "duration": 19,
+      "sha256": "c29f0336acdc36c18e24a9c19c2f17d6ea8cd60a34300e8847386cf5f2724a40",
+      "width": 1438,
+      "height": 1438,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/5JPj2EIzvJXEAv_3EcXb6JRzAoHcHodOu2SNl-eBp1w",
+    "animation_url": "https://arweave.net/5JPj2EIzvJXEAv_3EcXb6JRzAoHcHodOu2SNl-eBp1w",
+    "image_details": {
+      "bytes": 3302382,
+      "format": "JPEG",
+      "sha256": "a1d7f9393dd75f28f84a4349a66826eae6492b3c962100e57ec00b73cf7d79c8",
+      "width": 1438,
+      "height": 1438
+    },
+    "image": "https://arweave.net/boMi_za9HcaP6UMbj0iETQk9UJObs-iEneGiMxeWMvg",
+    "image_url": "https://arweave.net/boMi_za9HcaP6UMbj0iETQk9UJObs-iEneGiMxeWMvg"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "address": "0x97e764ce354a25802e6b004910135a717d223ff2",
+  "type": "ERC721",
+  "name": "PAYPHONE by 0xDEAFBEEF",
+  "tokenCount": "12",
+  "uri": "https://payphone.deafbeef.com/1",
+  "metadata": {
+    "description": "Payphone",
+    "external_url": "https://payphone.deafbeef.com/1",
+    "image": "https://payphone.deafbeef.com/media/still1.png",
+    "animation_url": "https://payphone.deafbeef.com/media/1_withreceipt.mp4",
+    "name": "Payphone 1: Speculative Piano",
+    "attributes": [
+      {
+        "trait_type": "TokenID",
+        "value": "1"
+      },
+      {
+        "trait_type": "DialID",
+        "value": "133"
+      },
+      {
+        "trait_type": "Message",
+        "value": "Speculative Piano"
+      },
+      {
+        "trait_type": "Session",
+        "value": "0:Desk"
+      }
+    ]
+  }
+}

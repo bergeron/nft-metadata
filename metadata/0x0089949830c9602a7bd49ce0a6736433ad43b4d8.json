@@ -1,0 +1,39 @@
+{
+  "address": "0x0089949830c9602a7bd49ce0a6736433ad43b4d8",
+  "type": "ERC721",
+  "name": "Castaways - Genesis V2",
+  "tokenCount": "100",
+  "uri": "https://api.big-fish.cloud/metadata/castaways/genesis-character/1",
+  "metadata": {
+    "name": "Castaway #1",
+    "description": "The genesis characters collection for Castaways by Branch. One thousand travelers aboard four shady airlines mysteriously disappeared and became stranded at sea. Those who were lucky, constructed Rafts and found Islands. Now, these castaways must work together to create a thriving new civilization. Learn more about the Castaways game and this collection at [https://castaways.com](https://castaways.com).",
+    "image": "https://d2o6xbrcub6pwj.cloudfront.net/passport/1.jpg",
+    "external_url": "https://castaways.com",
+    "attributes": [
+      {
+        "trait_type": "Airline",
+        "value": "Puffair"
+      },
+      {
+        "trait_type": "Profession",
+        "value": "Pilot"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Brown Beard"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bucket Green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pilot Uniform"
+      },
+      {
+        "trait_type": "Luggage",
+        "value": "Trunk"
+      }
+    ]
+  }
+}

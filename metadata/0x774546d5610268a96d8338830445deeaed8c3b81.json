@@ -1,0 +1,40 @@
+{
+  "address": "0x774546d5610268a96d8338830445deeaed8c3b81",
+  "type": "ERC721",
+  "name": "The Workshop",
+  "tokenCount": "143",
+  "uri": "https://workshop-service.herokuapp.com/metadata/1.json",
+  "metadata": {
+    "animation_url": "https://cryptomanga.mypinata.cloud/ipfs/QmSVfdVrhAGVmZKo8R8eG7imEPCeFWnVYxbULZgwpXBNAc/aureum-yukaya.gif",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Utility",
+        "value": "Wearable"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Attack EXP",
+        "value": 135
+      }
+    ],
+    "description": "Forged from the discarded hoards of Aureum left by the Cipher, the Yukata is a signal to the New World to deter from repeating the mistakes of the Old. Adorned by the First Nomads and enshrined by those to come, the Yukata serves as a sigil of our cause.",
+    "external_url": "https://cryptomanga.club/",
+    "gif": "https://cryptomanga.mypinata.cloud/ipfs/QmSVfdVrhAGVmZKo8R8eG7imEPCeFWnVYxbULZgwpXBNAc/aureum-yukaya.gif",
+    "group": 7,
+    "image": "https://cryptomanga.mypinata.cloud/ipfs/QmSVfdVrhAGVmZKo8R8eG7imEPCeFWnVYxbULZgwpXBNAc/aureum-yukaya.gif",
+    "long_description": "Forged from the discarded hoards of Aureum left by the Cipher, the Yukata is a signal to the New World to deter from repeating the mistakes of the Old. Adorned by the First Nomads and enshrined by those to come, the Yukata serves as a sigil of our cause.",
+    "max_item": 135,
+    "name": "Aureum Yukata - The Workshop",
+    "requirements": [
+      {
+        "loot_count": 50,
+        "mad_count": 200,
+        "nft_group": 8
+      }
+    ]
+  }
+}

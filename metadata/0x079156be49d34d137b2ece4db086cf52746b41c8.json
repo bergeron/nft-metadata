@@ -1,0 +1,45 @@
+{
+  "address": "0x079156be49d34d137b2ece4db086cf52746b41c8",
+  "type": "ERC721",
+  "name": "Ugly Masterpieces",
+  "tokenCount": "5",
+  "uri": "https://arweave.net/snLavrP_Hz6CvptL7TAKujBSPZb7BwfYl06aKfrS3ls",
+  "metadata": {
+    "name": "Mona Lisa",
+    "created_by": "o139",
+    "description": "Mona Lisa. 1/1.  \nThis artwork is an ugly animated copy of Leonardo da Vinci masterpiece called \"Ritratto di Monna Lisa del Giocondo\".  \nUgly Masterpieces collection by o139.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "o139"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Ugly Masterpieces"
+      }
+    ],
+    "animation_details": {
+      "bytes": 1765304,
+      "format": "MP4",
+      "duration": 3,
+      "sha256": "556ea7c5da7cc9d5b7c9892908dff6b5cef6276f8cc3b348450ef893c6648d0a",
+      "width": 1528,
+      "height": 2160,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/jc105BZKuKzVLfeKr716oHnGkjpAboVbTtd6ARokNd8",
+    "animation_url": "https://arweave.net/jc105BZKuKzVLfeKr716oHnGkjpAboVbTtd6ARokNd8",
+    "image_details": {
+      "bytes": 2173152,
+      "format": "PNG",
+      "sha256": "55d81a8d37271fbcb673c78e90beb54bae4ec943a789523a352e98cf869d2d34",
+      "width": 3508,
+      "height": 4961
+    },
+    "image": "https://arweave.net/5DH4czDR7tW4H7CPfZsCmWPOpKIJ1qJrT5HkdsATnug",
+    "image_url": "https://arweave.net/5DH4czDR7tW4H7CPfZsCmWPOpKIJ1qJrT5HkdsATnug"
+  }
+}

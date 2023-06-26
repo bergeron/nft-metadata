@@ -1,0 +1,46 @@
+{
+  "address": "0x2bdc536ce434bf6c012f49db90b726042368b6eb",
+  "type": "ERC721",
+  "name": "Fish Tank Genesis Collection",
+  "tokenCount": "1184",
+  "uri": "https://thefishtanknft.s3.amazonaws.com/meta/1",
+  "metadata": {
+    "name": "The Fish Tank 0001",
+    "description": "The Fish Tank NFT. Look after and customize your virtual fish tank, while enjoying exclusive holder rewards.",
+    "image": "https://thefishtanknft.s3.amazonaws.com/img/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "2"
+      },
+      {
+        "trait_type": "Ground",
+        "value": "2"
+      },
+      {
+        "trait_type": "Structure",
+        "value": "1.7"
+      },
+      {
+        "trait_type": "Prop",
+        "value": "1.8"
+      },
+      {
+        "trait_type": "FishOne",
+        "value": "14.1"
+      },
+      {
+        "trait_type": "FishTwo",
+        "value": "16.2"
+      },
+      {
+        "trait_type": "PlantRight",
+        "value": "3.2"
+      },
+      {
+        "trait_type": "PlantLeft",
+        "value": "1.2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0xec516efecd8276efc608ecd958a4eab8618c61e8",
+  "type": "ERC721",
+  "name": "Slacker Duck Pond",
+  "tokenCount": "6000",
+  "uri": "https://www.slackerduckpond.com/api/assets/1",
+  "metadata": {
+    "name": "Slacker Duck #1",
+    "description": "Each Slacker Duck is unique and programmatically generated from over 125 possible assets, such as expression, clothing, and more.",
+    "image": "https://www.slackerduckpond.com/assets/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Little Boy Blue"
+      },
+      {
+        "trait_type": "Plumage",
+        "value": "Pois"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Dog Medal"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Alien Thermometer"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bandana"
+      }
+    ]
+  }
+}

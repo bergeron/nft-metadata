@@ -1,0 +1,43 @@
+{
+  "address": "0x441245d179669795bcbe49d5c36241a1d3f9b762",
+  "type": "ERC721",
+  "name": "PokePunkz",
+  "tokenCount": "100",
+  "uri": "https://pokepunkz.io/data/1",
+  "metadata": {
+    "description": "A wild Bulbasaur has attached itself onto a PokePunkz head",
+    "external_url": "https://pokepunkz.io/NFTimages/40654d1b-b36f-4eeb-89b4-e0512a13d1f1.png",
+    "image": "https://pokepunkz.io/NFTimages/40654d1b-b36f-4eeb-89b4-e0512a13d1f1.png",
+    "name": "PokePunk #1",
+    "attributes": [
+      {
+        "trait_type": "HAT",
+        "value": "BULBASAUR"
+      },
+      {
+        "trait_type": "HP",
+        "max_value": 345,
+        "value": 333
+      },
+      {
+        "trait_type": "ATT",
+        "max_value": 365,
+        "value": 288
+      },
+      {
+        "trait_type": "DEF",
+        "max_value": 365,
+        "value": 284
+      },
+      {
+        "trait_type": "SPE",
+        "max_value": 345,
+        "value": 332
+      },
+      {
+        "trait_type": "EDITION",
+        "value": "1st"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "0xe876219777bee2abd949ad123ce3654f2d040895",
+  "type": "ERC721",
+  "name": "ARJUN BACHELOR NFT",
+  "tokenCount": "12",
+  "uri": "ipfs://QmSRiSGDayjCbqexhsXMLjT1zj68urpnUjRxMJgxj6cPxR/BIGGEST_RUG.json",
+  "metadata": {
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "BIGGEST RUG"
+      },
+      "description": {
+        "type": "string",
+        "description": "ONE OF TWELVE OFFICIAL ARJUN BACHELOR PARTY NFTS"
+      },
+      "image": {
+        "type": "string",
+        "description": "ipfs://QmVPWJHcoao2mwssbYQKcZUXJh3cdtcBZWq3zY9qUty3Ho"
+      }
+    }
+  }
+}

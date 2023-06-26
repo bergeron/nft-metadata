@@ -1,0 +1,50 @@
+{
+  "address": "0xfa82806e74c02c9dd21636dae9a6048bdde7dbee",
+  "type": "ERC721",
+  "name": "Doockles",
+  "tokenCount": "9999",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmRTEd9zQ1yg25AjdkLMmgXcfUwn5sr2UPrKEqJ3LD9j46/1",
+  "metadata": {
+    "name": "Doockle #1",
+    "description": "Doockles is a fan art project that pays tribute to The Indifferent Duck and Doodles. Hand-drawn characteristics are all designed to be a blend of the artistic styles and use colors to compliment each other.",
+    "external_url": "",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZ7e9qgfGztBcCD39J3XjDGgsvYcMkjC2ftEczQ9eTCpD/1.png",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "yellowgradient"
+      },
+      {
+        "trait_type": "Body",
+        "value": "tan"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "greenhoodie"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "purplenormal"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "none"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "grumpy"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

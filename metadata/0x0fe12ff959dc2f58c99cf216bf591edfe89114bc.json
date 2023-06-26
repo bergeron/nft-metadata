@@ -1,0 +1,78 @@
+{
+  "address": "0x0fe12ff959dc2f58c99cf216bf591edfe89114bc",
+  "type": "ERC721",
+  "name": "eqwrqwerewqr55",
+  "tokenCount": "299",
+  "uri": "https://api.artblocks.io/token/340000001 ",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "340000001",
+    "series": "N/A",
+    "aspect_ratio": 0.75,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Vahria #1",
+    "minted": true,
+    "artist": "Darien Brito",
+    "description": "***Vahria*** is an inquiry into the breaking points between two and three dimensions. Using spheres I attempt to create a tension between flatness and depth. Regular bodies become distorted blobs and circles. Occasionally, triangles are revealed, which are fundamental units in computer graphics.\n\nThe project is also a playful comment on constructivism and its dominance as a visual style in current generative art NFTs. In Vahria, I take the deconstructivist approach, favouring fragmented volumes, asymmetries and skewness, over linear forms, straight lines and right angles.\n\nIt is strongly encouraged to see the pieces on **full screen**. Otherwise, details of the renders are missed. You can export high-resolution images of the mints to disk by clicking on the artwork and pressing one of the following keys:\n\n[1] : Full HD resolution (1440x1920)\n[2]: 4K resolution (2880x3840)\n[3]: 6k Resolution (4320x5760)",
+    "script_type": "three@0.124.0",
+    "project_id": "340",
+    "curation_status": "presents",
+    "heritage_curation_status": "playground",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/340000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/340000001.png",
+    "generator_url": "https://generator.artblocks.io/340000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/340000001",
+    "royaltyInfo": {
+      "artistAddress": "0x4f597b3940d2786dea9c7abb08785c18472960c8",
+      "additionalPayee": "0xdeff7d8bd413c95b3768bf78b5a40d78496af89c",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Vahria by Darien Brito",
+    "website": "https://www.instagram.com/darien.brito/",
+    "token_hash": "0x26a2ddd7ed87cba43a39622e080c6171ffa8fe8c18ff57ecc808676c02db60c0",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/340/tokens/340000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/340000001",
+    "features": {
+      "pivot": "xy",
+      "scale": "continuum",
+      "finish": "sliced",
+      "palette": 1,
+      "inverted": "false",
+      "material": "rough",
+      "direction": "vertical offset"
+    },
+    "traits": [
+      {
+        "trait_type": "Vahria",
+        "value": "All Vahrias"
+      },
+      {
+        "trait_type": "Vahria",
+        "value": "pivot: xy"
+      },
+      {
+        "trait_type": "Vahria",
+        "value": "scale: continuum"
+      },
+      {
+        "trait_type": "Vahria",
+        "value": "finish: sliced"
+      },
+      {
+        "trait_type": "Vahria",
+        "value": "inverted: false"
+      },
+      {
+        "trait_type": "Vahria",
+        "value": "material: rough"
+      },
+      {
+        "trait_type": "Vahria",
+        "value": "direction: vertical offset"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

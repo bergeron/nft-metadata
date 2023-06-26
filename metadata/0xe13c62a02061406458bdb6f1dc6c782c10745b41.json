@@ -1,0 +1,31 @@
+{
+  "address": "0xe13c62a02061406458bdb6f1dc6c782c10745b41",
+  "type": "ERC721",
+  "name": "Meta Vault Keys",
+  "tokenCount": "3",
+  "uri": "ipfs://QmRSXV4CB77RxtXcAnjFzhQ8WriH3NrRyewwiJEASkocdr/0.json",
+  "metadata": {
+    "name": "Blue Key",
+    "description": "MetaVaultKeys",
+    "external_url": "https://metavaultkeys.io/",
+    "image": "ipfs://QmdQv12FnUfj3TArjwV58aVEVzoZ1NbCGMQpeFxMDwmJPU/0.svg",
+    "attributes": [
+      {
+        "level": "Level of MetaVault Key",
+        "value": "1"
+      },
+      {
+        "name": "Name of MetaVault Key",
+        "value": "Blue Key"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://QmdQv12FnUfj3TArjwV58aVEVzoZ1NbCGMQpeFxMDwmJPU/0.svg",
+          "type": "image/svg"
+        }
+      ]
+    }
+  }
+}

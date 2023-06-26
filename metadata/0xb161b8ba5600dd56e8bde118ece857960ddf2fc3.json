@@ -1,0 +1,29 @@
+{
+  "address": "0xb161b8ba5600dd56e8bde118ece857960ddf2fc3",
+  "type": "ERC721",
+  "name": "ethBurNFT",
+  "tokenCount": "100",
+  "uri": "https://www.burnft.dev/api/json/1",
+  "metadata": {
+    "image": "https://www.burnft.dev/api/image/1",
+    "name": "BurNft #1",
+    "attributes": [
+      {
+        "trait_type": "Burned ETH",
+        "value": 0.002252116030638276
+      },
+      {
+        "trait_type": "Fire Texture",
+        "value": 6
+      },
+      {
+        "trait_type": "Overlay Texture",
+        "value": 42
+      },
+      {
+        "trait_type": "Font",
+        "value": 1
+      }
+    ]
+  }
+}

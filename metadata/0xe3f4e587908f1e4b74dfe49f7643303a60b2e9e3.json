@@ -1,0 +1,32 @@
+{
+  "address": "0xe3f4e587908f1e4b74dfe49f7643303a60b2e9e3",
+  "type": "ERC721",
+  "name": "Cloudz Pass",
+  "tokenCount": "222",
+  "uri": "ipfs://bafybeifjbpqrdskhvqjghcmhwin6udl6cmem6iizagkbtl6a7lqnnakhde/1.json",
+  "metadata": {
+    "name": "Cloudz Pass #1",
+    "image": "ipfs://bafybeignn3kblrsprthlx3b3okjpgtkbshkagbpzdwsvkeiuzh76owz5dy/1.mp4",
+    "description": "The Cloudz Pass is a membership and mint pass for the Metacloudz NFT collection.",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Pitcure3",
+        "value": "8"
+      },
+      {
+        "trait_type": "Pitcure2",
+        "value": "6"
+      },
+      {
+        "trait_type": "Picture1",
+        "value": "21"
+      },
+      {
+        "trait_type": "Normal",
+        "value": "Gold #22"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

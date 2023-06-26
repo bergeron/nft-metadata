@@ -1,0 +1,30 @@
+{
+  "address": "0x45a25f5f09963724deefd570d408ef39126deb4b",
+  "type": "ERC721",
+  "name": "KurokedarumarsNFT",
+  "tokenCount": "1",
+  "uri": "https://factory.chocomint.app/metadata/1/0x45a25f5f09963724deefd570d408ef39126deb4b/1",
+  "metadata": {
+    "image": "https://ipfs.io/ipfs/QmeSAhT9YuBZViUzabiDZu5d7sp4FWfHSEzpdbVBxYGnn5/nft.png",
+    "chainId": "1",
+    "name": "Kurokedaruma",
+    "description": "Beast with black fur",
+    "attributes": [
+      {
+        "value": "Cat",
+        "trait_type": "TYPE"
+      },
+      {
+        "value": "Black",
+        "trait_type": "COLOR"
+      },
+      {
+        "value": "Long",
+        "trait_type": "HAIR LENGTH"
+      }
+    ],
+    "animation_url": "",
+    "nft_contract_address": "0x45a25f5f09963724deefd570d408ef39126deb4b",
+    "token_id": 1
+  }
+}

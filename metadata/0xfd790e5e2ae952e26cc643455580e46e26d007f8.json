@@ -1,0 +1,22 @@
+{
+  "address": "0xfd790e5e2ae952e26cc643455580e46e26d007f8",
+  "type": "ERC721",
+  "name": "PLACEHOLDER",
+  "tokenCount": "2",
+  "uri": "https://tonic.xyz/nfts/0xFd790e5e2aE952e26Cc643455580E46e26d007f8/1",
+  "metadata": {
+    "image": "ipfs://QmbQ9gETyo7pDydBJtEb5hbDMR7TbapLLY1VutjVjLUifn",
+    "name": "Test Collection #1",
+    "attributes": [
+      {
+        "display_type": "string",
+        "value": "blue",
+        "trait_type": "color"
+      },
+      {
+        "value": 100,
+        "trait_type": "power"
+      }
+    ]
+  }
+}

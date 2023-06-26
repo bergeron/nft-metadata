@@ -1,0 +1,48 @@
+{
+  "address": "0xfca47415d5450bd1eb91aa84f41310c25f21d1eb",
+  "type": "ERC721",
+  "name": "Gorgonzocats",
+  "tokenCount": "3333",
+  "uri": "ipfs://bafybeifm4idmss4ns2i2zsu2ckqiv2zzpn5is7lxfr4x3v7ho74l7mrxtq/1.json",
+  "metadata": {
+    "name": "Gorgonzocat #1",
+    "description": "Cats that love cheese.",
+    "image": "ipfs://bafybeic6lxhdjxufmdwfcjampgssstgo5thz73ecjctvqtmnl2yacdopfq/1.png",
+    "dna": "e728417f2f9786a6af8580c7c872c63d7d2e6d40",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cheese_paradise"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Coat",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Meow"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Green_cap"
+      },
+      {
+        "trait_type": "Cheese",
+        "value": "Goat_cheese"
+      },
+      {
+        "trait_type": "Smoke",
+        "value": "Non_smoker"
+      }
+    ]
+  }
+}

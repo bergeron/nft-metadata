@@ -1,0 +1,28 @@
+{
+  "address": "0x26f9e26af19add3dd85086ea2a8dc95100d8d77e",
+  "type": "ERC721",
+  "name": "BALLER DNA Jerseys",
+  "tokenCount": "34",
+  "uri": "https://baller-jsons.herokuapp.com/token/1.json",
+  "metadata": {
+    "name": "Robot Jersey 🧬",
+    "description": "B4//3R DNA Collection 🧬⚒️\n\nGot game?\n\nReal Ballers have it in their DNA 👨‍⚖️",
+    "image": "ipfs://QmPqQ6acpUDU4mvEYszx5N31uGeT9bFcLSGsFzPBw3Lu6F/Robot.mp4",
+    "animation_url": "ipfs://QmPqQ6acpUDU4mvEYszx5N31uGeT9bFcLSGsFzPBw3Lu6F/Robot.mp4",
+    "external_url": "https://BallerDNA.com",
+    "attributes": [
+      {
+        "trait_type": "Artefact",
+        "value": "Jersey"
+      },
+      {
+        "trait_type": "DNA",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "B4//3R DNA"
+      }
+    ]
+  }
+}

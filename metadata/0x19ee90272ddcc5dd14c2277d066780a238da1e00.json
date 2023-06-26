@@ -1,0 +1,34 @@
+{
+  "address": "0x19ee90272ddcc5dd14c2277d066780a238da1e00",
+  "type": "ERC721",
+  "name": "FFP CLUB PASS",
+  "tokenCount": "1",
+  "uri": "https://ffpapi.vercel.app/api/nft/1",
+  "metadata": {
+    "dna": "0b132b841db76c2c0546b1415d46523ddf7255d3",
+    "name": "FFP Membership Pass # 1",
+    "description": "FFP CLUB is a membership NFT that grants you early access to future FFP NFT sets, exclusive discounts to FFP technology projects, and early access to partner NFT projects and more.",
+    "image": "ipfs://QmYUECmg5x3g2cVuFGW8UxU5CVQrudA2wEDtQdZrSEguEZ/1.png",
+    "edition": 1,
+    "date": 1646201902057,
+    "attributes": [
+      {
+        "trait_type": "Frame",
+        "value": "PlatinumFrame"
+      },
+      {
+        "trait_type": "Background",
+        "value": "BlackBG"
+      },
+      {
+        "trait_type": "Text",
+        "value": "PlatinumText"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "Logo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0xd0b687c789575b6327c059f976355ca540ccdca4",
+  "type": "ERC721",
+  "name": "International Art Machine",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/zTsgUQ63xPJmZX0g-UHs44JRKmKYQHMft1AyhUUh3qY",
+  "metadata": {
+    "name": "Hello World",
+    "created_by": "Roy Price & Joe Horne",
+    "external_url": "https://twitter.com/RoyPrice",
+    "description": "An origin story of NFTs. Or, through a Merkle Damgard collision-resistant hash function they go.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Roy Price & Joe Horne"
+      }
+    ],
+    "animation_details": {
+      "bytes": 44308172,
+      "format": "MP4",
+      "duration": 499,
+      "sha256": "cbb37bf07244a53d55b36384fb2de4977068a26f0e2839002de97ca06a0c6363",
+      "width": 480,
+      "height": 320,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/VpSo77IHzqrg9vJIZzYcM7hKPd7krO6zCIHzi_xrjps",
+    "animation_url": "https://arweave.net/VpSo77IHzqrg9vJIZzYcM7hKPd7krO6zCIHzi_xrjps",
+    "image_details": {
+      "bytes": 49617,
+      "format": "JPEG",
+      "sha256": "56322b5c157010405adb535695e28a7e2a6d76a76bb332a3dd704363807c1ebb",
+      "width": 1280,
+      "height": 720
+    },
+    "image": "https://arweave.net/XexOaNP8W_3bqUwypIs3HkqTxtCiLG1byGu7WD4SPBQ",
+    "image_url": "https://arweave.net/XexOaNP8W_3bqUwypIs3HkqTxtCiLG1byGu7WD4SPBQ"
+  }
+}

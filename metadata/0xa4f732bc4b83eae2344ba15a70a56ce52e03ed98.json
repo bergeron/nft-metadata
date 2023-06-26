@@ -1,0 +1,86 @@
+{
+  "address": "0xa4f732bc4b83eae2344ba15a70a56ce52e03ed98",
+  "type": "ERC721",
+  "name": "Cosmic Meta Pixel Art",
+  "tokenCount": "551",
+  "uri": "https://api.cosmicmeta.io/pixel-art/1",
+  "metadata": {
+    "date": 1643234184690,
+    "image": "https://media.cosmicmeta.io/pixel-art/WBBclPGVEFa3BKoy.jpg",
+    "website": "https://cosmicmeta.io",
+    "tokenID": "WBBclPGVEFa3BKoy",
+    "description": "Part of the generative art series \"**Cosmic Meta**\" which is 100% stored on the Ethereum blockchain. Each artwork consists of millions of unique pixels generated through a complex&hard process by Artificial Intelligence. Not to mention that it is a very long process as well...  \n  \n**Dimensions**: 4096 x 4096 (16,777,216 pixels).",
+    "edition": 1,
+    "platform": "Cosmic Meta Platform",
+    "external_url": "https://cosmicmeta.io",
+    "project_id": 1,
+    "dna": "9d9b2e22b069f6970df3787bf6d802db",
+    "series": 1,
+    "name": "Cosmic Meta Pixel Art #1",
+    "attributes": [
+      {
+        "value": "Gray",
+        "trait_type": "Tone"
+      },
+      {
+        "value": "Desert Sand",
+        "trait_type": "Primary Color"
+      },
+      {
+        "value": "Fern Green",
+        "trait_type": "Secondary Color"
+      },
+      {
+        "display_type": "number",
+        "value": 87,
+        "trait_type": "Color Count",
+        "max_value": 403
+      },
+      {
+        "value": 161,
+        "trait_type": "Red",
+        "max_value": 255
+      },
+      {
+        "value": 171,
+        "trait_type": "Green",
+        "max_value": 255
+      },
+      {
+        "value": 130,
+        "trait_type": "Blue",
+        "max_value": 255
+      },
+      {
+        "value": "Helna",
+        "trait_type": "Artist"
+      },
+      {
+        "value": "Dynamic",
+        "trait_type": "Type"
+      },
+      {
+        "value": "Afa",
+        "trait_type": "Category"
+      },
+      {
+        "value": "Estagor",
+        "trait_type": "Dimension "
+      },
+      {
+        "value": "Eawrush",
+        "trait_type": "Location"
+      },
+      {
+        "value": "TRAPPIST-1 g",
+        "trait_type": "Planet of Origin"
+      },
+      {
+        "value": "Uncommon",
+        "trait_type": "Cosmic Rarity"
+      }
+    ],
+    "compiler": "Cosmic Meta Compiler",
+    "collection_name": "Cosmic Meta Pixel Art"
+  }
+}

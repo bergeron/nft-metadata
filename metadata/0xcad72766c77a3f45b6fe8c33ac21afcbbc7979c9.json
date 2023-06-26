@@ -1,0 +1,20 @@
+{
+  "address": "0xcad72766c77a3f45b6fe8c33ac21afcbbc7979c9",
+  "type": "ERC721",
+  "name": "N-Standard Passport",
+  "tokenCount": "268",
+  "uri": "https://server.n-kyoku.com/metadata/standard/1.json",
+  "metadata": {
+    "tokenId": "1",
+    "name": "N-PASS standard #1 (~2023/07/13)",
+    "description": "日本NFT情報局のユーティリティを使用するためのパスポートNFTです",
+    "image": "https://storage.googleapis.com/n-passport/images/standard.png",
+    "animation_url": "https://storage.googleapis.com/n-passport/animations/STANDARD-3D.glb",
+    "attributes": [
+      {
+        "trait_type": "status",
+        "value": "valid"
+      }
+    ]
+  }
+}

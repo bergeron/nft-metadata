@@ -1,0 +1,40 @@
+{
+  "address": "0x518f0c4a832b998ee793d87f0e934467b8b6e587",
+  "type": "ERC721",
+  "name": "Markov's Dream",
+  "tokenCount": "27",
+  "uri": "https://markovs-dream.harm.work/api/tokens/metadata/1",
+  "metadata": {
+    "name": "Markov's Dream",
+    "description": "A remake of the 2004 work Markov's Window, with identical palette.\n\nBy Harm van den Dorpel, 2022",
+    "image": "https://markovs-dream.harm.work/images/1.png",
+    "animation_url": "https://markovs-dream.harm.work/artwork/1",
+    "attributes": [
+      {
+        "trait_type": "Colours",
+        "value": "hand picked"
+      },
+      {
+        "trait_type": "Fill",
+        "value": "linear gradients"
+      },
+      {
+        "trait_type": "Behaviour",
+        "value": "sliding"
+      },
+      {
+        "trait_type": "Max. nesting depth",
+        "value": "4"
+      },
+      {
+        "trait_type": "Breathing",
+        "value": "volume"
+      },
+      {
+        "trait_type": "Outlines",
+        "value": "never"
+      }
+    ],
+    "external_url": "https://markovs-dream.harm.work/token/1"
+  }
+}

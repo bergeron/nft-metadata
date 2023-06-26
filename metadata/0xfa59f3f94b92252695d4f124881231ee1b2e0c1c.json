@@ -1,0 +1,35 @@
+{
+  "address": "0xfa59f3f94b92252695d4f124881231ee1b2e0c1c",
+  "type": "ERC721",
+  "name": "Dragon Breeder Card",
+  "tokenCount": "80",
+  "uri": "https://arweave.net/uHGWJeQAGDmEZ436bryaJL_Y9yrJ6d10MXfGvFSvMLM/1",
+  "metadata": {
+    "name": "Dragon Breeder Card #1",
+    "created_by": "Myth of Dragons",
+    "description": "The Dragon Breeder Card keeps track of the Dragon Tamers' breeding history.",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": "0",
+        "max_value": "10"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Experience",
+        "value": "0",
+        "max_value": "100"
+      }
+    ],
+    "image_details": {
+      "bytes": 26670762,
+      "format": "GIF",
+      "sha256": "e419059c81c2cfbc07425bc18016995d94694a852efdd5c273d53614116ba964",
+      "width": 600,
+      "height": 600
+    },
+    "image": "https://arweave.net/Do2z3UjMDYEGYiC8NFkX7tUVPAwz3LeCVhFu46RlU5M",
+    "image_url": "https://arweave.net/Do2z3UjMDYEGYiC8NFkX7tUVPAwz3LeCVhFu46RlU5M"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0x96c3d315fb212d395232853a53dedcbaf7be5ced",
+  "type": "ERC721",
+  "name": "Metropolis",
+  "tokenCount": "5",
+  "uri": "https://ipfs.pixura.io/ipfs/Qmf81Spc4sYnUb4reYeUWQ3d1rsZhVDbZvqaTDucLtddUX/metadata.json",
+  "metadata": {
+    "name": "Metropolis Night",
+    "createdBy": "Murat Atimtay",
+    "yearCreated": "2023",
+    "description": "We divide spaces into smaller spaces which we conquer and live in our solitude. We call that Metropolis.\n\nThis  artwork is created with code using custom subdivison algorithm which divides a rectangle into 9 pieces recursively. It is made up of 531441 rectangles forming a hazy cityscape at night, making it the most complex and detailed Metropolis piece that ever exists. \n\n6000 x  8000 px PNG\n\nMurat Atimtay 2023 \n",
+    "image": "https://ipfs.pixura.io/ipfs/Qmc4ffT2npJRg3JDtAbKKiY5MCnTKsCRx4HGUADyWTHx5E/metropolis8000px3.png",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/Qmc4ffT2npJRg3JDtAbKKiY5MCnTKsCRx4HGUADyWTHx5E/metropolis8000px3.png",
+      "dimensions": "6000x8000",
+      "size": "12293134",
+      "mimeType": "image/png"
+    },
+    "tags": [
+      "generative",
+      "codeart",
+      "cityscape",
+      "algorithmic",
+      "generativeart",
+      "p5js"
+    ]
+  }
+}

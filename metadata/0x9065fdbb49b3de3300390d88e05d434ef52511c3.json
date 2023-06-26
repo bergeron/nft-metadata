@@ -1,0 +1,44 @@
+{
+  "address": "0x9065fdbb49b3de3300390d88e05d434ef52511c3",
+  "type": "ERC721",
+  "name": "Test Kingdomverse Mint",
+  "tokenCount": "12",
+  "uri": "ipfs://QmTS3h4XYc1w6g6QUour4cqHhhCu71ybi3bUNbrax6jvLH/1",
+  "metadata": {
+    "name": "DTK #9",
+    "description": "Lead your Heroes into the arena to Defend the Kingdom from an invasion of emerging enemies and random bosses while facing off with another player from around the world!",
+    "image": "https://meta.dtk.farm/Raikou_0N.png",
+    "external_url": "https://dtk.farm/hero/9",
+    "attributes": [
+      {
+        "trait_type": "Hero",
+        "value": "Raikou"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Thunderclap"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Magic"
+      },
+      {
+        "trait_type": "Attack",
+        "value": 5
+      },
+      {
+        "trait_type": "AttackSpeed",
+        "value": 2
+      },
+      {
+        "trait_type": "Chain Damage",
+        "value": 4
+      },
+      {
+        "trait_type": "Thun-S. Dmg",
+        "value": 5
+      }
+    ],
+    "tokenId": 9
+  }
+}

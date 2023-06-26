@@ -1,0 +1,64 @@
+{
+  "address": "0x465391cca76268124068443e29bf43206296fbec",
+  "type": "ERC1155",
+  "name": "netidx",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/x5w8uPd0nmtq1Pt3Bvi9Uv76ZKpD2opQNYxbd5CgEvI",
+  "metadata": {
+    "created_by": "netidx",
+    "name": "lssh.png",
+    "external_url": "http://www.hash.lu/lssh.png",
+    "description": "2015-09-20 at 20:26 i initially embedded the sha256 hash of lssh.png in the bitcoin blockchain,  \ncreating a proof of existence of the artwork.\n\na901300c9a5517f4277591fedbb715f048b77ec91d3323db78d91f155b378c59\n\nThe image uses a glitch in the file’s metadata, resulting in a static .png file that shows either of 2 images depending on the renderer used.\n\nIn 2017, i used the same technique to create my first Rare Pepe (SCHROEPEPE, based on the thought experiment “Schrödingers cat” by Erwin Schrödinger).\n\n\nlssh.png (let's share some hoax), 2015  \nDigital image file  \nDimensions 5120px x 2880px @72dpi  \nSize 14.338.689 bytes",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "netidx"
+      },
+      {
+        "trait_type": "File name",
+        "value": "lssh.png"
+      },
+      {
+        "trait_type": "File checksum",
+        "value": "f03a4e5e097a41bea13e800ce03be26d"
+      },
+      {
+        "trait_type": "Proof of Existence",
+        "value": "a901300c9a5517f4277591fedbb715f048b77ec91d3323db78d91f155b378c59"
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "5120px x 2880px @72dpi"
+      },
+      {
+        "trait_type": "File size",
+        "value": "14.338.689 bytes"
+      },
+      {
+        "trait_type": "Block height",
+        "value": "375365"
+      },
+      {
+        "trait_type": "Tx",
+        "value": "f1c43ecfcfdbded37f32d0ed4329f51214c6a93e0510805bf299f142bf95a219"
+      },
+      {
+        "trait_type": "Date",
+        "value": "2015-09-20 20:26 "
+      },
+      {
+        "trait_type": "State",
+        "value": "Both dead and alive"
+      }
+    ],
+    "image_details": {
+      "bytes": 14338689,
+      "format": "PNG",
+      "sha256": "a901300c9a5517f4277591fedbb715f048b77ec91d3323db78d91f155b378c59",
+      "width": 5120,
+      "height": 2880
+    },
+    "image": "https://arweave.net/B-wu9-WD5Og0tQYgmiUFsucZHGhGePZdM0AwRyH9Bi0",
+    "image_url": "https://arweave.net/B-wu9-WD5Og0tQYgmiUFsucZHGhGePZdM0AwRyH9Bi0"
+  }
+}

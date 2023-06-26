@@ -1,0 +1,44 @@
+{
+  "address": "0xaf31805e63473fd8985eb631dd1092a03b234bea",
+  "type": "ERC721",
+  "name": "VMountain",
+  "tokenCount": "700",
+  "uri": "https://nand.fr/assets/vmountain/metadata/1",
+  "metadata": {
+    "image": "https://nand.fr/assets/vmountain/preview/1_preview.png",
+    "external_url": "https://nand.fr/vmountains/1",
+    "name": "Nand VMountain #1",
+    "attributes": [
+      {
+        "trait_type": "Mountain range",
+        "value": "Alps"
+      },
+      {
+        "trait_type": "Latitude",
+        "value": "45.293620328853"
+      },
+      {
+        "trait_type": "Longitude",
+        "value": "5.78729803166546"
+      },
+      {
+        "trait_type": "Width (meters)",
+        "value": "10543.86"
+      },
+      {
+        "trait_type": "Height (meters)",
+        "value": "12365.07"
+      },
+      {
+        "trait_type": "Template",
+        "value": "topomap-2.2mm"
+      },
+      {
+        "trait_type": "Altitude multiplier",
+        "value": "1.25"
+      }
+    ],
+    "animation_url": "https://nand.fr/viewer/vmountains/1",
+    "iframe_url": "https://nand.fr/viewer/vmountains/1"
+  }
+}

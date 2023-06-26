@@ -1,0 +1,76 @@
+{
+  "address": "0xd91c55961b17279681a2af0853f04738661867ac",
+  "type": "ERC721",
+  "name": "Don-keys",
+  "tokenCount": "33",
+  "uri": "https://raw.githubusercontent.com/DonkeyFinanceNFT/Don-key-NFT-metadata/main/Don-key-NFT-metadata/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "Special Donkeys with a Lottery utility. The higher the Lottery value the better the chances of winning, so good luck!",
+    "external_url": "http://www.nft.don-key.finance/",
+    "image": "https://don-keynft.mypinata.cloud/ipfs/QmQRz4aDhLgTdrqhGaLoGGsUzutjaFRtJZteJK2LBB1Wcx/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Copper"
+      },
+      {
+        "trait_type": "Tools",
+        "value": "None"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Striped Sleeve"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Surprised"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Glowing"
+      },
+      {
+        "trait_type": "Eye Accessories",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None"
+      },
+      {
+        "trait_type": "Ear Type",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Base Lottery Value",
+        "value": 2170
+      },
+      {
+        "trait_type": "Lottery Value",
+        "value": 2170
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Don-key Farmer Collective",
+      "family": "Don-key Farmer Collective"
+    },
+    "symbol": ""
+  }
+}

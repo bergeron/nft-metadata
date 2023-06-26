@@ -1,0 +1,36 @@
+{
+  "address": "0x8ccac3713afa63bd7b9c14cb79810f3c01c022e8",
+  "type": "ERC721",
+  "name": "MonsterArmy NFT",
+  "tokenCount": "40",
+  "uri": "ipfs://QmViGW3RvXDyHBGxULiEYfSGNBk5cbbG7CiC1VJPmYopqD/1.json",
+  "metadata": {
+    "name": "MonsterArmy #1",
+    "description": "MonsterArmy is a collection of 10000 Sports athletes",
+    "external_url": "https://www.monsterarmy.io",
+    "image": "ipfs://QmcpgEYHiL2kNG2nMovxbBV39rfQA5wnUbHy1MPKY66KQY/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MonsterArmy_background_blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "MonsterArmy_body_darkblue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "MonsterArmy_eyes_think"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "MonsterArmy_mouth_tongue"
+      },
+      {
+        "trait_type": "Sport",
+        "value": "MonsterArmy_sport_hockey"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

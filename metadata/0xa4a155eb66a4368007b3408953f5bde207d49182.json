@@ -1,0 +1,44 @@
+{
+  "address": "0xa4a155eb66a4368007b3408953f5bde207d49182",
+  "type": "ERC721",
+  "name": "NFT NYC After Hours",
+  "tokenCount": "50",
+  "uri": "ipfs://bafyreibeqc66mflhnygqu7jdvh5jtixl5n66ulpr3kvavbd7c2am675whu/metadata.json",
+  "metadata": {
+    "description": "A showcase of the Capsule Protocol holding Lumerin and Vesper tokens.\nAn exclusive collection for VIPs. ",
+    "external_url": "capsulenft.com",
+    "name": "Bloq in a Box",
+    "attributes": [
+      {
+        "trait_type": "Capsule Type",
+        "value": "ERC-20 Capsule NFT"
+      },
+      {
+        "trait_type": "Creator",
+        "value": "0xb2C46b3123f4D40f268DCa4572E507bf0e002978"
+      },
+      {
+        "trait_type": "Chain Id",
+        "value": "1"
+      },
+      {
+        "trait_type": "Token 1 Address",
+        "value": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421"
+      },
+      {
+        "trait_type": "Token 1 Amount",
+        "value": "10"
+      },
+      {
+        "trait_type": "Token 2 Address",
+        "value": "0x4b1d0b9f081468d780ca1d5d79132b64301085d1"
+      },
+      {
+        "trait_type": "Token 2 Amount",
+        "value": "100"
+      }
+    ],
+    "animation_url": "ipfs://bafybeicldrsusethyp2kmai3xblm5mfwg5ybf5heq2lvpvxz23rfaywlvy/Capsule_AIR_Bloq-in-a-box.mp4",
+    "image": "ipfs://bafybeigtgfcca2cinbo2ohtfr7mc3kwnk62juuvepyamugv4pd4rwb5vai/blob"
+  }
+}

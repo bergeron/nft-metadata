@@ -1,0 +1,60 @@
+{
+  "address": "0xe17827609ac34443b3987661f4e037642f6bd9ba",
+  "type": "ERC721",
+  "name": "Shellz Orb",
+  "tokenCount": "9000",
+  "uri": "https://shellzorb.nftapi.art/meta/1",
+  "metadata": {
+    "token_id": 1,
+    "dna": null,
+    "name": "Shellz #1",
+    "description": null,
+    "image": "https://ipfs.io/ipfs/bafybeia24kk4qzu6jcs5zqfu7r4of2fbourka3ynps4yvr5gq4l27ssnda",
+    "animation_url": null,
+    "media": null,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0xF4617b57ad853f4Bc2Ce3f06C0D74958c240633c",
+    "attributes": [
+      {
+        "value": "Scavenger",
+        "trait_type": "Faction"
+      },
+      {
+        "value": "Knox",
+        "trait_type": "Character"
+      },
+      {
+        "value": "Fading Skullz",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Belted Pants",
+        "trait_type": "Legs"
+      },
+      {
+        "value": "Knox Juiced",
+        "trait_type": "Head"
+      },
+      {
+        "value": "Knox Serum Jersey",
+        "trait_type": "Body"
+      },
+      {
+        "value": "Super Mutant ",
+        "trait_type": "Shell"
+      },
+      {
+        "value": "Serum Injection",
+        "trait_type": "Arm"
+      },
+      {
+        "value": "Hawk",
+        "trait_type": "Shell Accessory"
+      },
+      {
+        "value": "Dotted ",
+        "trait_type": "Foreground"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "address": "0xd472118b0c333da1cb5e9357570f61a9f373c49f",
+  "type": "ERC721",
+  "name": "Misha Vladimirskiy",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/-qRzDfnkaeWaRzLOxPmLoTAoDGSnLpL9FOAI64evW48",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "animation_url": "https://arweave.net/L1ZiUIwYJFdvJmQpj2wWF7WFlx_LqFI2fnm1mq9gPqs",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1638157720
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Misha Vladimirskiy"
+      }
+    ],
+    "description": "I created the image to get people to always choose love. Its a Light painting.\n\nThe Choose Love Collection - dropping December 16th on KnownOrigin - benefits Choose Love, an incredible organization that works with people fleeing war, persecution & climate change, and are enormously effective for boots on the ground support for refugees through their creation of a movement of people putting love into action all over the world. \n\n*This NFT also comes with 2 tickets to the Choose Love Benefit Concert with James Blake on 12/15 at the Ace Theatre DTLA. Tickets may be transferred to anyone of your choosing.",
+    "external_url": "https://cxip.io/nft/0xd472118b0c333da1cb5e9357570f61a9f373c49f/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/agvryYNKoImd37NPW9wPZ9jtmWR1GdVvXH3v1LXIlP8",
+    "imageUrl": "https://arweave.net/agvryYNKoImd37NPW9wPZ9jtmWR1GdVvXH3v1LXIlP8",
+    "name": "LOVE",
+    "properties": {
+      "animation_url": "https://arweave.net/L1ZiUIwYJFdvJmQpj2wWF7WFlx_LqFI2fnm1mq9gPqs",
+      "created_at": "2021-11-29T03:48:40.000000Z",
+      "creator_wallet": "0xbb70e2a3cc7c35b94ef9de9677dbcdb3da3999a0",
+      "description": "I created the image to get people to always choose love. Its a Light painting.\n\nThe Choose Love Collection - dropping December 16th on KnownOrigin - benefits Choose Love, an incredible organization that works with people fleeing war, persecution & climate change, and are enormously effective for boots on the ground support for refugees through their creation of a movement of people putting love into action all over the world. \n\n*This NFT also comes with 2 tickets to the Choose Love Benefit Concert with James Blake on 12/15 at the Ace Theatre DTLA. Tickets may be transferred to anyone of your choosing.",
+      "image": "https://arweave.net/agvryYNKoImd37NPW9wPZ9jtmWR1GdVvXH3v1LXIlP8",
+      "imageUrl": "https://arweave.net/agvryYNKoImd37NPW9wPZ9jtmWR1GdVvXH3v1LXIlP8",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "29 November 2021",
+      "name": "LOVE",
+      "nft_type": "non-fungible video token (video/quicktime)",
+      "preview_media_file": "https://arweave.net/yRfnZw5oOFaZGDFdSWeTJd1luK14Hhwb1NGw2X_i9Rw",
+      "preview_media_file_dimensions": "472x360",
+      "preview_media_file_size": 2627708,
+      "preview_media_file_type": "video/mp4",
+      "raw_media_dimensions": "2832x2160",
+      "raw_media_file": "https://arweave.net/WFCnhHAjbHHXuWypfHB9N5HSjWKOyt8VhBFeExVfp-U",
+      "raw_media_file_size": 103616070,
+      "raw_media_file_spec": "Duration: 00:00:18.03, start: 0.000000, bitrate: 45966 kb/s\nVideo: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 2832x2160, 45836 kb/s, 30 fps, 30 tbr, 600 tbn, 1200 tbc (default)\nAudio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)",
+      "raw_media_file_type": "video/quicktime",
+      "raw_media_format": "landscape",
+      "raw_media_signature": "0xb7cf26d8c20964e20c01a82303b959e0e5183b362288718d237f959c423f590a",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/s170CFMMkbYsHPi-c8SSUXh8gv3v3IYxMsqhCu9jSPk",
+      "thumb_media_file_type": "image/jpg",
+      "title": "LOVE",
+      "total_supply": 1
+    },
+    "title": "LOVE"
+  }
+}

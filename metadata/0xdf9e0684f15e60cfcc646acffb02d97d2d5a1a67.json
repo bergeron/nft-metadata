@@ -1,0 +1,34 @@
+{
+  "address": "0xdf9e0684f15e60cfcc646acffb02d97d2d5a1a67",
+  "type": "ERC721",
+  "name": "Mutagen",
+  "tokenCount": "4428",
+  "uri": "https://europe-west3-turnkey-triumph-320605.cloudfunctions.net/mutagenMetadata?contractAddress=0xdf9e0684f15e60cfcc646acffb02d97d2d5a1a67&tokenId=1",
+  "metadata": {
+    "name": "Print #0 of Golden",
+    "image": "https://mutagen-assets.storage.googleapis.com/print/0/0000.png",
+    "description": "Prints are static snapshots that capture the state of a Genesis. Prints have a programmed guaranteed floor - you can burn your Print for ETH at any time. The price of Prints runs on a bonding curve where 90% of the mint fee gets locked for instant liquidity for Print holders. To create/burn a Print, head over to https://mutagen.xyz/",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Print"
+      },
+      {
+        "trait_type": "Genesis",
+        "value": "Genesis #0"
+      },
+      {
+        "trait_type": "Generation",
+        "value": "Generation #0"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Tommy Cash"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Golden"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "address": "0xd154912f539b6a060ff111ea9fd5bc507b3ae366",
+  "type": "ERC721",
+  "name": "Kingdom by Pawtocol - Pet Collection",
+  "tokenCount": "50",
+  "uri": "https://ipfs.io/ipfs/QmUMr75aoAwv2qec5iJFioncy1AKebbX541TNT8BswjQ8o",
+  "metadata": {
+    "name": "Angel on action",
+    "description": "This is angel. she is very cute.",
+    "image": "https://paw-marketplace-test.s3-us-east-2.amazonaws.com/1667343043970.jpeg",
+    "external_url": "https://enterkingdom.io/nfts/1",
+    "attributes": [
+      {
+        "trait_type": "Profile name",
+        "value": "Juniper"
+      },
+      {
+        "trait_type": "Profile Url",
+        "value": "https://enterkingdom.io/pets/juniper"
+      },
+      {
+        "trait_type": "Pet type",
+        "value": "Cat"
+      },
+      {
+        "trait_type": "Breed",
+        "value": "Cymric"
+      },
+      {
+        "trait_type": "Tags",
+        "value": "MyCat, CatLover"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0x400f3c85d2b50ac0acced459d75b27ce51b620ef",
+  "type": "ERC721",
+  "name": "Animal Photo Hunter",
+  "tokenCount": "100",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=b6r26TaRcvWiGWmPzp8M",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1581321265143?alt=media&token=d7a8e787-6e73-43eb-9e92-f87ddc68bf33",
+    "forSale": true,
+    "description": "This is the first token for Animal Photo Hunter to show just a taste of what the future tokens might be like, are you lucky enough to get one of the first tokens of this series",
+    "contractAddress": "0x400f3c85d2b50ac0acced459d75b27ce51b620ef",
+    "tags": [],
+    "amountToMint": 25,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1581321714,
+      "_nanoseconds": 49000000
+    },
+    "price": "0.01",
+    "name": "Animal Photo Hunter",
+    "fiatPrice": "$2.25",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x400f3c85d2b50ac0acced459d75b27ce51b620ef",
+    "type": "ERC721"
+  }
+}

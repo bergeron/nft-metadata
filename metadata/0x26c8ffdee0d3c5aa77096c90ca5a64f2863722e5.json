@@ -1,0 +1,68 @@
+{
+  "address": "0x26c8ffdee0d3c5aa77096c90ca5a64f2863722e5",
+  "type": "ERC721",
+  "name": "DEVA NFT Official",
+  "tokenCount": "3",
+  "uri": "ipfs://Qmahz7HuN1te6X6HkgkSkjm3vuu2QjMy4XXDqkrU5m4kDo/1",
+  "metadata": {
+    "name": "Rrokvitanech #1215",
+    "description": "World's first P2E and L2E Space Simulator Web3 project",
+    "image": "ipfs://QmSfaXiPzNgZaV592uoTWkxx39K1NpLtBYZzZ1f4yzicYR/1.png",
+    "external_url": "https://devanft.com/",
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "2 "
+      },
+      {
+        "trait_type": "Pet",
+        "value": "None"
+      },
+      {
+        "trait_type": "Body",
+        "value": "1 "
+      },
+      {
+        "trait_type": "clothes",
+        "value": "2"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "2 "
+      },
+      {
+        "trait_type": "Mask",
+        "value": "None "
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "1 "
+      }
+    ],
+    "dna": "cc4ad5dca2ecfe8327714a73b360f9ac6f320e04",
+    "edition": 1215,
+    "date": 1670854204307,
+    "symbol": "DEVA",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "DEVA",
+      "family": ""
+    },
+    "compiler": "by compiler"
+  }
+}

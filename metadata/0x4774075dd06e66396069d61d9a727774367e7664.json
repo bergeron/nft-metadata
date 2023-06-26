@@ -1,0 +1,35 @@
+{
+  "address": "0x4774075dd06e66396069d61d9a727774367e7664",
+  "type": "ERC1155",
+  "name": "Folk Artefacts",
+  "tokenCount": "5",
+  "uri": "https://arweave.net/qRVCv_NgFHGsW3jito3w6Fy19GMNwF9CiXDIOsv7q5A",
+  "metadata": {
+    "name": "Potion of Speed",
+    "created_by": "Swixel",
+    "description": "The party may move +1 space during the current round (normal movement and vision rules still apply).",
+    "attributes": [
+      {
+        "trait_type": "Boost - Movement",
+        "value": "+1"
+      },
+      {
+        "trait_type": "Charges",
+        "value": "3"
+      },
+      {
+        "trait_type": "Grade",
+        "value": "Uncommon"
+      }
+    ],
+    "image_details": {
+      "bytes": 133761,
+      "format": "PNG",
+      "sha256": "46e92d49f6d73f1397a3e72d42ef28e9adbff332570e9fc1f8c28498973b7e98",
+      "width": 2048,
+      "height": 2048
+    },
+    "image": "https://arweave.net/bpi4i7ZvZvuAc9d_Ah5h0ZzzNmmSLWAoyvQJqNbYckc",
+    "image_url": "https://arweave.net/bpi4i7ZvZvuAc9d_Ah5h0ZzzNmmSLWAoyvQJqNbYckc"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "address": "0x5407a892147f6ee615b569dc4a86b2006ee4a56e",
+  "type": "ERC721",
+  "name": "Dice of Good Fortune",
+  "tokenCount": "491",
+  "uri": "data:application/json;base64,eyJuYW1lIjoiRGljZSBvZiBHb29kIEZvcnR1bmUiLCJpbWFnZSI6ImlwZnM6Ly9RbWVVYzFRQ2VLTW9RYnhTenIxNmszdlRSeGlCWW9EZjN3MTVZZXFvUjF6Mlh3LzE2MS5qcGciLCJhbmltYXRpb25fdXJsIjoiaXBmczovL1FtZVVjMVFDZUtNb1FieFN6cjE2azN2VFJ4aUJZb0RmM3cxNVllcW9SMXoyWHcvMTYxLm1wNCIsImF0dHJpYnV0ZXMiOlt7InRyYWl0X3R5cGUiOiJkaWNlIDEgdHlwZSIsInZhbHVlIjoiRDIwIn0seyJ0cmFpdF90eXBlIjoiZGljZSAxIG1hdGVyaWFsIiwidmFsdWUiOiJTYXBwaGlyZSJ9LHsidHJhaXRfdHlwZSI6ImRpY2UgMiB0eXBlIiwidmFsdWUiOiJENCJ9LHsidHJhaXRfdHlwZSI6ImRpY2UgMiBtYXRlcmlhbCIsInZhbHVlIjoiU3BpbmVsIn0seyJ0cmFpdF90eXBlIjoiZGljZSAzIHR5cGUiLCJ2YWx1ZSI6IkQxMiJ9LHsidHJhaXRfdHlwZSI6ImRpY2UgMyBtYXRlcmlhbCIsInZhbHVlIjoiU2FwcGhpcmUifSx7InRyYWl0X3R5cGUiOiJkaWNlIDQgdHlwZSIsInZhbHVlIjoiRDEwIn0seyJ0cmFpdF90eXBlIjoiZGljZSA0IG1hdGVyaWFsIiwidmFsdWUiOiJSdWJ5In0seyJ0cmFpdF90eXBlIjoiUG93ZXIiLCJ2YWx1ZSI6NDZ9LHsidHJhaXRfdHlwZSI6IkJvb3N0cyIsInZhbHVlIjoxfSx7InRyYWl0X3R5cGUiOiJFbGVtZW50IFR5cGUiLCJ2YWx1ZSI6IlNwYWNlIn1dfQ==",
+  "metadata": {
+    "name": "Dice of Good Fortune",
+    "image": "ipfs://QmeUc1QCeKMoQbxSzr16k3vTRxiBYoDf3w15YeqoR1z2Xw/161.jpg",
+    "animation_url": "ipfs://QmeUc1QCeKMoQbxSzr16k3vTRxiBYoDf3w15YeqoR1z2Xw/161.mp4",
+    "attributes": [
+      {
+        "trait_type": "dice 1 type",
+        "value": "D20"
+      },
+      {
+        "trait_type": "dice 1 material",
+        "value": "Sapphire"
+      },
+      {
+        "trait_type": "dice 2 type",
+        "value": "D4"
+      },
+      {
+        "trait_type": "dice 2 material",
+        "value": "Spinel"
+      },
+      {
+        "trait_type": "dice 3 type",
+        "value": "D12"
+      },
+      {
+        "trait_type": "dice 3 material",
+        "value": "Sapphire"
+      },
+      {
+        "trait_type": "dice 4 type",
+        "value": "D10"
+      },
+      {
+        "trait_type": "dice 4 material",
+        "value": "Ruby"
+      },
+      {
+        "trait_type": "Power",
+        "value": 46
+      },
+      {
+        "trait_type": "Boosts",
+        "value": 1
+      },
+      {
+        "trait_type": "Element Type",
+        "value": "Space"
+      }
+    ]
+  }
+}

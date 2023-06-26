@@ -1,0 +1,42 @@
+{
+  "address": "0x18c2b197d77b14d84c0f87d2058ba66df455e197",
+  "type": "ERC721",
+  "name": "Wild Pepe",
+  "tokenCount": "5555",
+  "uri": "ipfs://QmXHTtuTJaPhAm2ZgnxFcmqkRUTfRDrKDZUgzwGaEn6koK/1.json",
+  "metadata": {
+    "name": "Wild Pepe #1",
+    "description": "5555 unique wild pepe NFT.Barbaric growth.To the moon!!!",
+    "image": "ipfs://Qmc7YP721HcUMGrAbWLF7yGvWvsZDdsK4Yh5dLYzVz5MS2/1.png",
+    "dna": "88c54ab601ae644afb808664c2d10a9b65efdc2e",
+    "edition": 1,
+    "date": 1685657603894,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Honey"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pepe"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Yellow shirt"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Innocent"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tension"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Reggae hair"
+      }
+    ],
+    "compiler": "Wild Pepe Engine"
+  }
+}

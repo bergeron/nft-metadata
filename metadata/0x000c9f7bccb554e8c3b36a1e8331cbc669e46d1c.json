@@ -1,0 +1,45 @@
+{
+  "address": "0x000c9f7bccb554e8c3b36a1e8331cbc669e46d1c",
+  "type": "ERC721",
+  "name": "KryptoKiddos",
+  "tokenCount": "10000",
+  "uri": "https://ipfs.io/ipfs/Qmapnp1bZSpuZu5BTXZNWQs2RcTZaHnDAte1vRFZs7WiiA/2.json",
+  "metadata": {
+    "name": "KryptoKiddos #2",
+    "description": "A collection of 10,000 first graders on picture day using 800 different traits",
+    "external_url": "",
+    "image": "https://ipfs.io/ipfs/QmPmNtUywTx4dSXKw3Uc3GLcV7kG4ZS9WetwJAX2Fcq7bH/2.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Layer-1-Background"
+      },
+      {
+        "trait_type": "Body",
+        "value": "body3"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Face_16b"
+      },
+      {
+        "trait_type": "Girls Hair",
+        "value": "HairsGirl_40a"
+      },
+      {
+        "trait_type": "Girls Shirts",
+        "value": "T-Shirt_19"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "2.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

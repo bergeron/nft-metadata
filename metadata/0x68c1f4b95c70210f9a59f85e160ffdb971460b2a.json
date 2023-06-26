@@ -1,0 +1,42 @@
+{
+  "address": "0x68c1f4b95c70210f9a59f85e160ffdb971460b2a",
+  "type": "ERC721",
+  "name": "Funky Fungi Mushroom Club",
+  "tokenCount": "45",
+  "uri": "ipfs://QmXnCvgaSZSfgtqkJkuyjzXZc3PmEwy49YFeeTVbxDGtxa/1.json",
+  "metadata": {
+    "name": "Funky Fungi #1",
+    "description": "Funky Fungi Mushroom Club a collection of 45 Fungi Characters available on the Ethereum blockchain.",
+    "image": "ipfs://QmdDThTkhfvmAcjMgWjVZifYewm8JbbE7qfXPhSxZqUKNV/1.png",
+    "dna": "5ad7fe6ca608f7464f93e8de58c07dd2bfa4951b",
+    "edition": 1,
+    "date": 1644512920897,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Porcini"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Mint"
+      },
+      {
+        "trait_type": "Colour",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Spots",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Narrow White Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Two Teeth Smile"
+      }
+    ],
+    "compiler": "Funky Fungi Art Engine"
+  }
+}

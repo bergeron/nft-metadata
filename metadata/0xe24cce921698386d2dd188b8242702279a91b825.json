@@ -1,0 +1,70 @@
+{
+  "address": "0xe24cce921698386d2dd188b8242702279a91b825",
+  "type": "ERC721",
+  "name": "Shaolin Soccer game",
+  "tokenCount": "5",
+  "uri": "https://metadata.shaolin.soccer/1.json",
+  "metadata": {
+    "name": "Common player #2",
+    "image": "https://metadata.shaolin.soccer/new-generation1.v2/common1/1st_generation_common-02.png",
+    "description": "The first generation of football players. You can raise any player from it by improving him in the game or intercrossing him with other players.",
+    "attributes": [
+      {
+        "trait_type": "Player type",
+        "value": "goalkeeper"
+      },
+      {
+        "trait_type": "Impact force",
+        "value": 10
+      },
+      {
+        "trait_type": "Speed",
+        "value": 5
+      },
+      {
+        "trait_type": "Physical force",
+        "value": 1
+      },
+      {
+        "trait_type": "Player level",
+        "value": 1
+      },
+      {
+        "trait_type": "T-shirt color",
+        "value": "red"
+      },
+      {
+        "trait_type": "Shorts color",
+        "value": "red"
+      },
+      {
+        "trait_type": "Boots color",
+        "value": "redBlueSaffron gRedBlue"
+      },
+      {
+        "trait_type": "Skin color",
+        "value": "darkBlack"
+      },
+      {
+        "trait_type": "Head type",
+        "value": "darkBlack hBlack nAngleHook mLittle"
+      },
+      {
+        "trait_type": "Upgrading game characteristics when crossing, %",
+        "value": "0,01"
+      },
+      {
+        "trait_type": "Upgrading external characteristics when crossing, %",
+        "value": 5
+      },
+      {
+        "trait_type": "Super attack or super strike when crossing, %",
+        "value": 0
+      },
+      {
+        "trait_type": "Captain role and captain characteristics when crossing, %",
+        "value": "0,01"
+      }
+    ]
+  }
+}

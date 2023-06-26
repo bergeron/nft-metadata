@@ -1,0 +1,60 @@
+{
+  "address": "0xe597ab9221c485b0780a8cf8392b87f448f43a73",
+  "type": "ERC721",
+  "name": "This is Not a Photo",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/56yCPAz_n68ykiGaXWWzGk2ln53N8k7U0vWcYVw6Qro",
+  "metadata": {
+    "name": "Haceta",
+    "created_by": "Scobel",
+    "external_url": "https://haceta.scobel.xyz",
+    "description": "[44.13755347152173, -124.1281480087527]\n\n\"This is Not a Photo\"\n\nHaceta is the genesis piece of the new series by digital artist Scobel. This image is the world's first 3D rendered virtual landscape photo created with real world scientific data.\n\nThe scene is initially built using a combination of radar and satellite images from space, LiDAR scans from a fixed wing airplane, and both photogrammetry and texture scans taken on-location at the Haceta Head Lighthouse on the Oregon Coast in February 2022.\n\nThis real world data is used to create a complete 2KM by 2KM 3D reconstruction of the scene allowing the artist to place a virtual camera (with real world focal length, aperture, shutter speed, and ISO) and then compose and capture this iconic landscape image.\n\nThis is the first in a series of \"virtual landscapes\" that will be created using real data from iconic locations around the world under this smart contract.\n\nFinal render is 8823x5146 (60.1 mp)",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Scobel"
+      },
+      {
+        "trait_type": "ISO",
+        "value": "100"
+      },
+      {
+        "trait_type": "F-Stop",
+        "value": "f/2.8"
+      },
+      {
+        "trait_type": "Exposure",
+        "value": "1/500"
+      },
+      {
+        "trait_type": "Focal Length",
+        "value": "16.0"
+      },
+      {
+        "trait_type": "Date",
+        "value": "2022-02-04"
+      },
+      {
+        "trait_type": "Country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "Region",
+        "value": "Oregon"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Haceta Head"
+      }
+    ],
+    "image_details": {
+      "bytes": 3707344,
+      "format": "JPEG",
+      "sha256": "dc48d37e6e6fde95add23d68309abde90cf830fbaa19dd50c6ac43c40bc54e0d",
+      "width": 2840,
+      "height": 1656
+    },
+    "image": "https://arweave.net/t0XmKoyPhN5WizQPGDZ1AYOX4dFotbNjeSWmeBedWI8",
+    "image_url": "https://arweave.net/t0XmKoyPhN5WizQPGDZ1AYOX4dFotbNjeSWmeBedWI8"
+  }
+}

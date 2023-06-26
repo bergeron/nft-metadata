@@ -1,0 +1,24 @@
+{
+  "address": "0xac61b9156f556c5be7d56a199515592c0550d5d1",
+  "type": "ERC721",
+  "name": "McPepe's Golden Ticket",
+  "tokenCount": "3092",
+  "uri": "https://meta.mcpepes.com/golden-ticket/1.json",
+  "metadata": {
+    "name": "Golden Ticket #1",
+    "description": "The McPepe's Golden Ticket. Minting for a limited time, starting on April 7th, 2023. Rarity and utility to be revealed upon announcement.",
+    "external_link": "",
+    "image": "https://images.mcpepes.com/golden-ticket/pepe_ticket_ruby.gif",
+    "animation_url": "https://images.mcpepes.com/golden-ticket/pepe_ticket_ruby.mp4",
+    "attributes": [
+      {
+        "value": "Golden",
+        "trait_type": "Ticket"
+      },
+      {
+        "value": "Ruby",
+        "trait_type": "Aura"
+      }
+    ]
+  }
+}

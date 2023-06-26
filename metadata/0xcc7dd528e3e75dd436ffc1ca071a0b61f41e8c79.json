@@ -1,0 +1,38 @@
+{
+  "address": "0xcc7dd528e3e75dd436ffc1ca071a0b61f41e8c79",
+  "type": "ERC721",
+  "name": "GOAT NFT V2",
+  "tokenCount": "8",
+  "uri": "https://ipfs.moralis.io:2053/ipfs/QmUPTTSgnLDKBwWb1rwHnDHa6i1sRmLeZgF8APasZp37tE",
+  "metadata": {
+    "name": "bruce lee",
+    "description": "Bruce Lee, born Lee Jun-fan, was a Hong Kong and American martial artist, martial arts instructor, actor, director and philosopher. He was the founder of Jeet Kune Do, a hybrid martial arts philosophy drawing from different combat disciplines that is often credited with paving the way for modern mixed martial arts",
+    "category": 2,
+    "image": "https://ipfs.moralis.io:2053/ipfs/QmYxAwhsTCmcdBteUBTS8Dk43pqBXKRqoXgLqcP2HKtLrC",
+    "user": {
+      "username": "abushi",
+      "authData": {
+        "moralisEth": {
+          "id": "0xd0dfa1211603e94727e9d1fc290e1d2086b91c09",
+          "signature": "0x6cc821c9f3bfff4672d09edc0f8606b8b7f122adb92f2e0135ddc39b15f6771d04dbd71c001d42dfb8f6a194687766eb87a6029ec31deb967231389c614132e71b",
+          "data": "GOAT NFT AUTHENTICATION\n\nId: pSZsQsiYycDT0xhIHeBy6lrpeJyWva7zhv4A2syy:1640437687154"
+        }
+      },
+      "createdAt": "2021-12-23T08:27:01.629Z",
+      "updatedAt": "2021-12-27T11:06:13.333Z",
+      "accounts": [
+        "0xd0dfa1211603e94727e9d1fc290e1d2086b91c09"
+      ],
+      "ethAddress": "0xd0dfa1211603e94727e9d1fc290e1d2086b91c09",
+      "ACL": {
+        "vB16eBZlUZliwfsw0LwuAVMj": {
+          "read": true,
+          "write": true
+        }
+      },
+      "sessionToken": "r:e3d19f5d367b2f9c9514a7b06925102d",
+      "email": "hayflamzy456@gmail.com",
+      "bio": ""
+    }
+  }
+}

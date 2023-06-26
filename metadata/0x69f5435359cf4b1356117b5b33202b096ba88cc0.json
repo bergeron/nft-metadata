@@ -1,0 +1,53 @@
+{
+  "address": "0x69f5435359cf4b1356117b5b33202b096ba88cc0",
+  "type": "ERC721",
+  "name": "The Hands of Creation",
+  "tokenCount": "36",
+  "uri": "https://hoc-metadata-api.herokuapp.com/api/hands/1",
+  "metadata": {
+    "name": "Hand No. 1",
+    "no": 1,
+    "description": "A hand of unknown origins. To whom does it belong?",
+    "attributes": [
+      {
+        "trait_type": "Skin",
+        "value": "Human"
+      },
+      {
+        "trait_type": "Palm",
+        "value": "None"
+      },
+      {
+        "trait_type": "Thumb",
+        "value": "Extended"
+      },
+      {
+        "trait_type": "Index",
+        "value": "Extended"
+      },
+      {
+        "trait_type": "Index Special",
+        "value": "None"
+      },
+      {
+        "trait_type": "Middle",
+        "value": "Extended"
+      },
+      {
+        "trait_type": "Ring",
+        "value": "Extended"
+      },
+      {
+        "trait_type": "Pinky",
+        "value": "Extended"
+      }
+    ],
+    "images": [
+      "ipfs://ipfs/QmeHFftv6BYpKChVvFwJQbBw2hp4kbGvRVAAwqiPCuRzmk",
+      "ipfs://ipfs/QmcjpzZRuVCV3SDed8kJnNDiJAb3YX4gG9nYJE6hJGAoJP"
+    ],
+    "background_color": "000000",
+    "image": "ipfs://ipfs/QmeHFftv6BYpKChVvFwJQbBw2hp4kbGvRVAAwqiPCuRzmk",
+    "animation_url": "https://hoc-metadata-api.herokuapp.com/demos.mp3"
+  }
+}

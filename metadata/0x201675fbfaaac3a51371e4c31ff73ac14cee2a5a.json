@@ -1,0 +1,43 @@
+{
+  "address": "0x201675fbfaaac3a51371e4c31ff73ac14cee2a5a",
+  "type": "ERC721",
+  "name": "Genzee",
+  "tokenCount": "10000",
+  "uri": "https://api.oddworx.com/genzee?id=1",
+  "metadata": {
+    "name": "Genzee #1",
+    "image": "https://b2.oddworx.com/file/genzee/genzee/media/1",
+    "description": "Genzee is a collection of 10,001 unique collectibles living in the Ethereum blockchain. Genzee are from an alternate reality highlighting the effects of our current society and culture trends.",
+    "external_link": "https://genzeenft.com",
+    "attributes": [
+      {
+        "value": "Power",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Walking-Dead",
+        "trait_type": "Base"
+      },
+      {
+        "value": "Sunshine",
+        "trait_type": "Gear"
+      },
+      {
+        "value": "Snake",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": "Game Over",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "Beanie",
+        "trait_type": "Top"
+      },
+      {
+        "value": "none",
+        "trait_type": "Special"
+      }
+    ]
+  }
+}

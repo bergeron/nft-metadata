@@ -1,0 +1,41 @@
+{
+  "address": "0x284d436573f92ff5bb52c27e503f26dde14ee357",
+  "type": "ERC721",
+  "name": "Loliverse V2",
+  "tokenCount": "10",
+  "uri": "https://loliverse.s3.us-east-2.amazonaws.com/metadata/1",
+  "metadata": {
+    "image": "https://loliverse.s3.us-east-2.amazonaws.com/images/1.png",
+    "name": "Loliverse #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Dairy Cow"
+      },
+      {
+        "trait_type": "Cup",
+        "value": "Blue Ramen Bowl"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Short Pink"
+      }
+    ]
+  }
+}

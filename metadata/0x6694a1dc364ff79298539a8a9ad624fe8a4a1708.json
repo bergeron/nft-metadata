@@ -1,0 +1,24 @@
+{
+  "address": "0x6694a1dc364ff79298539a8a9ad624fe8a4a1708",
+  "type": "ERC1155",
+  "name": "2112.run rootPasses",
+  "tokenCount": "7",
+  "uri": "https://mint.2112.run/tokens/1.json",
+  "metadata": {
+    "description": "This rootPass will be used in order to claim a Cryptorunner from the [2112.run](http://2112.run) Genesis Cryptorunners collection once it is released. \n\nCryptorunners are talented hackers that run against the Corporations of the [2112.run](http://2112.run) Universe. \n\nThese are the key to the entire project ecosystem, and the playable characters of the Game.",
+    "external_url": "https://2112.run",
+    "image": "https://mint.2112.run/tokens/1.jpeg",
+    "animation_url": "https://mint.2112.run/assets/videos/01_character_yellow_final.mp4",
+    "name": "Cryptorunner rootPass",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Cryporunner"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Standard"
+      }
+    ]
+  }
+}

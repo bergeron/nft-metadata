@@ -1,0 +1,34 @@
+{
+  "address": "0x60593b3060743493438da4a267613ac06bc0365b",
+  "type": "ERC721",
+  "name": "Block Dates",
+  "tokenCount": "26",
+  "uri": "https://block-dates.s3.us-east-1.amazonaws.com/api/uri/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Commemordate"
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Exclusive"
+      },
+      {
+        "trait_type": "Occasion",
+        "value": "Birthday"
+      },
+      {
+        "trait_type": "Theme",
+        "value": "CryptoKitties 2nd"
+      },
+      {
+        "trait_type": "Variation",
+        "value": "#1740334"
+      }
+    ],
+    "description": "Block Dates celebrates the 2nd birthday of CryptoKitties with our preview release. Happy Birthday CryptoKitties!",
+    "image": "https://block-dates.s3.amazonaws.com/api/images/1740334.png",
+    "name": "Happy Birthday CryptoKitties!"
+  }
+}

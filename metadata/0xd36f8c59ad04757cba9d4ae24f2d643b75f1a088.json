@@ -1,0 +1,59 @@
+{
+  "address": "0xd36f8c59ad04757cba9d4ae24f2d643b75f1a088",
+  "type": "ERC721",
+  "name": "Not a bootyful NFT Project",
+  "tokenCount": "325",
+  "uri": "ipfs://QmeuwSzjqpCcHkoZcihXwCfMF96mvdj7yNEcf8qHxbyLRr/1",
+  "metadata": {
+    "name": "Not a bootyful NFT Project",
+    "description": "Some truly bootyful designs that are sure to crack you up!",
+    "image": "ipfs://QmNZLM2EWWF6xBYtsJmoekgCwTSvrHUe7RNAM3iz1P2z8P/1.png",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "/3150.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "share": 100,
+          "address": "0xE4E371EB530Cc2EE92fe82Bb3c87EbA122Ad1Fd4"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gradient 1"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blue Purple"
+      },
+      {
+        "trait_type": "Tattoo",
+        "value": "Heart"
+      },
+      {
+        "trait_type": "Socks",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Rainbow",
+        "value": "None"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Skirt Red"
+      }
+    ],
+    "Power": "2032",
+    "seller_fee_basis_points": 750,
+    "collection": {
+      "name": "Not a bootyful NFT Project"
+    },
+    "compiler": "nft-inator.com"
+  }
+}

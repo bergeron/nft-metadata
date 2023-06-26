@@ -1,0 +1,42 @@
+{
+  "address": "0xe38c6de3f70d7a2d1b9c4ca22332630df615b545",
+  "type": "ERC721",
+  "name": "NinjaMaidens",
+  "tokenCount": "4",
+  "uri": "ipfs://QmWps8FC3MXbqtQ962DPpf6HKhHNj1pCf8rfLR7GNZY6bG/1.json",
+  "metadata": {
+    "dna": "3c03fb3a37324c3e56fd29fb5c161564cb9be3b7",
+    "name": "#1",
+    "description": "The ultimate collection of ninja heroines & villains",
+    "image": "ipfs://QmSZFf2uuWyLBFqo8bDxLmgcGDR7A3GhjGutx6ypTFrGqk/1.png",
+    "edition": 1,
+    "date": 1645653198785,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Halftone_Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Smile_Brown"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Slanted_Blue"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Torn_White"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Windy_Black"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Arrow_Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

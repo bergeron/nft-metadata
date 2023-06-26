@@ -1,0 +1,39 @@
+{
+  "address": "0xae08ce51567792dbe5b77accc86e49fe89846e14",
+  "type": "ERC721",
+  "name": "Crypto Giftcard Origin",
+  "tokenCount": "1",
+  "uri": "https://cryptogiftcards.club/api/token/0/1",
+  "metadata": {
+    "name": "Crypto Giftcard Origin: No.1",
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "Issue Time",
+        "value": 1651840936
+      },
+      {
+        "trait_type": "Issuer",
+        "value": "0x32aEDE281Ddb2E28e0953B413eAdD107B98F50C2"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Balance",
+        "value": "0.1"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Unlock Time",
+        "value": 1651852800
+      }
+    ],
+    "image": "https://cryptogiftcards.club/tokens/0_1.png",
+    "optionId": 0,
+    "tokenId": 1,
+    "issueAt": 1651840936,
+    "issuer": "0x32aEDE281Ddb2E28e0953B413eAdD107B98F50C2",
+    "unlockAt": 1651852800,
+    "balance": "0.1",
+    "description": "Crypto Giftcard - A new way to send crypto gifts. A fully decentralized gift for the one you love."
+  }
+}

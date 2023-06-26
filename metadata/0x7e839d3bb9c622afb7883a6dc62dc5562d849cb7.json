@@ -1,0 +1,24 @@
+{
+  "address": "0x7e839d3bb9c622afb7883a6dc62dc5562d849cb7",
+  "type": "ERC721",
+  "name": "Gloop Cube",
+  "tokenCount": "49",
+  "uri": "ipfs://bafybeiajd3nex5agy5q3w3ws5a5pe7spwy33m45yipik5o37aafpl4kn6a/6/1",
+  "metadata": {
+    "name": "Gloop Cube [0001]",
+    "description": "Grab your Gloop Cube! There are eleven yummy flavors to choose from, so you can collect them all! Get ready for a wild adventure!",
+    "image": "ipfs://bafybeicro5mfuwt7pl2ixnm2vg7iyop7o672kwxsxfnxjcdhtaavskb7oa/6/lemon-mint.jpg",
+    "animation_url": "ipfs://bafybeia6jumzii6qdfb6n4dpmalm5fwzxebxpsmm52kbdhrxm7qc5hoe4i/6/lemon-mint.mp4",
+    "attributes": [
+      {
+        "trait_type": "flavor",
+        "value": "Lemon Mint"
+      },
+      {
+        "trait_type": "fill level",
+        "value": 6,
+        "max_value": 6
+      }
+    ]
+  }
+}

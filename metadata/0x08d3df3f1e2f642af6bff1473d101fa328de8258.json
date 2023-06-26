@@ -1,0 +1,28 @@
+{
+  "address": "0x08d3df3f1e2f642af6bff1473d101fa328de8258",
+  "type": "ERC721",
+  "name": "Meta Gold Miners Club OG",
+  "tokenCount": "7",
+  "uri": "https://prod-api.metagoldminersclub.io/og_metadata/sample",
+  "metadata": {
+    "name": "Meta Gold Miners Club OG Access Pass",
+    "description": "",
+    "image": "https://prod-api.metagoldminersclub.io/og_image/sample",
+    "goldAmount": 0.025,
+    "daoVotes": 2,
+    "attributes": [
+      {
+        "trait_type": "GOLD BACKING",
+        "value": "0.025 oz"
+      },
+      {
+        "trait_type": "Pass Type",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "DAO Votes",
+        "value": "X2"
+      }
+    ]
+  }
+}

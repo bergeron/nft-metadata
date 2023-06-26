@@ -1,0 +1,38 @@
+{
+  "address": "0xd350257ce6e48d1da21f9d4224bce2350b976ba1",
+  "type": "ERC721",
+  "name": "Max Osiris Cryptoart",
+  "tokenCount": "81",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=fPetPfgSQLzRQu2im43R",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1571426474690?alt=media&token=6f8dbac9-2b1f-4359-8e3e-cd37317c5894",
+    "isForSale": true,
+    "description": "Crypto crowdfunding experiment to help me get to the ETHWaterloo hackathon",
+    "contractAddress": "0xD350257Ce6E48D1Da21F9d4224bCe2350b976ba1",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xD350257Ce6E48D1Da21F9d4224bCe2350b976ba1/fPetPfgSQLzRQu2im43R",
+    "minter": "0x2e0B873d26f6d90f347757ed0d041bC65E02a89f",
+    "mintedOn": {
+      "_seconds": 1571426726,
+      "_nanoseconds": 637000000
+    },
+    "price": "0.25",
+    "name": "ETHWaterloo Hackathon 2019",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "ETHWaterloo Hackathon 2019"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "minted": "Minted on Mintbase.io"
+  }
+}

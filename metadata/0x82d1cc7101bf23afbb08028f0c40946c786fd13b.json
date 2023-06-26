@@ -1,0 +1,41 @@
+{
+  "address": "0x82d1cc7101bf23afbb08028f0c40946c786fd13b",
+  "type": "ERC1155",
+  "name": "Gacha Mecha",
+  "tokenCount": "10",
+  "uri": "https://arweave.net/YBByoGjGcfdel51ZjM9gGJEH5CjfJHdSIiUPozovnY0",
+  "metadata": {
+    "created_by": "Gacha Mecha",
+    "name": "Gacha Mecha Token",
+    "description": "Gacha Mecha is an expansion of the Kibastu Mecha universe.\n\nThe Gacha Mecha Token animations are inspired by beloved Gashapon Machines and the gamification, joy, and wonder they bring. They serve as burnable/redeemable tokens for DORMANT Gacha Mecha Balls.\n\nDormant balls can then later be burned/redeemed for ACTIVATED Gacha Mechas, which will be fully animated vignettes with immersive sound design.\n\nThese tokens are free for all Kibatsu Mecha, Kibatsu Mecha Specials, and Kibatsu Bot holders as of our snapshot date of 05/19/23. There is no public mint - this is a special reward for holders only and our thanks to you for all of your kind words and support.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Gacha Mecha"
+      }
+    ],
+    "animation_details": {
+      "bytes": 10334771,
+      "format": "MP4",
+      "duration": 8,
+      "sha256": "8e34446af673095a37c10b59d588e78cd62a5e576fc938fcff9d4a540da8a0e4",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/yJIXlcyEb8FKcDhNz4tBICLq6MYklK9K9QXFNPAj_5w",
+    "animation_url": "https://arweave.net/yJIXlcyEb8FKcDhNz4tBICLq6MYklK9K9QXFNPAj_5w",
+    "image_details": {
+      "bytes": 1033773,
+      "format": "JPEG",
+      "sha256": "3a20a5bc27e47f5888123080061b2733f897c48d1fc48ab636414ec8fa6f59c5",
+      "width": 1080,
+      "height": 1080
+    },
+    "image": "https://arweave.net/RmRarIQxb33kLg0_vnr-NkW7RxMEePApsSkM_KpDD2Y",
+    "image_url": "https://arweave.net/RmRarIQxb33kLg0_vnr-NkW7RxMEePApsSkM_KpDD2Y"
+  }
+}

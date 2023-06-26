@@ -1,0 +1,25 @@
+{
+  "address": "0xad5af06894d699a272eaeff003289f0197a92ce3",
+  "type": "ERC721",
+  "name": "New Lock - Ufx77Q5tue",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xad5af06894d699a272eaeff003289f0197a92ce3/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xAD5af06894d699a272eAEFf003289f0197a92Ce3/icon?id=1",
+    "expiration": 1625894859,
+    "tokenId": "1",
+    "owner": "0xe29aab691015a02d925aeed92e7ecf567dbc0f05",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1625894859
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xAD5af06894d699a272eAEFf003289f0197a92Ce3",
+    "network": 1
+  }
+}

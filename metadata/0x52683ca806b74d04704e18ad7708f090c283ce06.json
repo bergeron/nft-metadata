@@ -1,0 +1,42 @@
+{
+  "address": "0x52683ca806b74d04704e18ad7708f090c283ce06",
+  "type": "ERC721",
+  "name": "Graffiti Girl",
+  "tokenCount": "2222",
+  "uri": "ipfs://QmPHKg1NS9kSf7xJcoUnQW8RLwQgr5Pv3ea4Q77ALq4tmC/1.json",
+  "metadata": {
+    "name": "Graffiti Girl #1",
+    "description": "Graffiti Girl",
+    "image": "ipfs://QmQyopmMekjeB7MRCYM55o4c8At85RhC53ro9kP4DiZ3xn/1.png",
+    "dna": "bc73c8ff8334bca66d4872cd6c9e256983080405",
+    "edition": 1,
+    "date": 1677235522005,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Doodle Planet"
+      },
+      {
+        "trait_type": "YBody",
+        "value": "Brown skin"
+      },
+      {
+        "trait_type": "YClothes",
+        "value": "Sportswear"
+      },
+      {
+        "trait_type": "YEye",
+        "value": "Eye U"
+      },
+      {
+        "trait_type": "YHead",
+        "value": "Head B"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Shut up"
+      }
+    ],
+    "compiler": " TopOne Art Engine"
+  }
+}

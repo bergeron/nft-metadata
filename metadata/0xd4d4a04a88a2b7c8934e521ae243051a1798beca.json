@@ -1,0 +1,26 @@
+{
+  "address": "0xd4d4a04a88a2b7c8934e521ae243051a1798beca",
+  "type": "ERC721",
+  "name": "Antimatter Locker V3",
+  "tokenCount": "1",
+  "uri": "https://nftapi.antimatter.finance/app/getMetadata?nftId=1&chainId=56",
+  "metadata": {
+    "msg": "success",
+    "code": 200,
+    "data": {
+      "image": "https://nftapi.antimatter.finance/profile/avatar/b69df48d-4a8e-4275-8c16-9e051dddc06d.png",
+      "name": "BSC one",
+      "title": "antimatter index nft",
+      "type": "Object",
+      "properties": [
+        {
+          "symbol": "Cake",
+          "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+          "chainId": 56,
+          "decimals": 18,
+          "name": "PancakeSwap Token"
+        }
+      ]
+    }
+  }
+}

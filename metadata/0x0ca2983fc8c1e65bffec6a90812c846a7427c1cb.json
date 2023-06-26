@@ -1,0 +1,42 @@
+{
+  "address": "0x0ca2983fc8c1e65bffec6a90812c846a7427c1cb",
+  "type": "ERC721",
+  "name": "NFT ACADEMY V4",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/4TZZlAdVkZ_BiwjDHsh9w-MoEL3cY5vD6vKIfn6u4W0",
+  "metadata": {
+    "name": "How To NFT",
+    "created_by": "NFT ACADEMY",
+    "description": "my perfect video",
+    "attributes": [
+      {
+        "trait_type": "NFT ACADEMY",
+        "value": "100"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Violet ",
+        "value": "1"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "10%",
+        "value": "100"
+      }
+    ],
+    "animation_details": {
+      "bytes": 1099002,
+      "format": "MP4",
+      "duration": 8,
+      "sha256": "4fd28ac9a816bdeeb33a6f87413f8fa5799f1721ee4806873f3cc2424fc9e4ad",
+      "width": 848,
+      "height": 848,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/lvcfqTvzE-imh8I3752tx50uZ-g1b9sqqJ_AiywhNNE",
+    "animation_url": "https://arweave.net/lvcfqTvzE-imh8I3752tx50uZ-g1b9sqqJ_AiywhNNE"
+  }
+}

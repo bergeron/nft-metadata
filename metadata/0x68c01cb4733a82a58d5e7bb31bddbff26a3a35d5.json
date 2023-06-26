@@ -1,0 +1,56 @@
+{
+  "address": "0x68c01cb4733a82a58d5e7bb31bddbff26a3a35d5",
+  "type": "ERC721",
+  "name": "newrafael.work",
+  "tokenCount": "144",
+  "uri": "https://token.artblocks.io/0x68C01Cb4733a82A58D5e7bB31BdDBFF26A3A35d5/1",
+  "metadata": {
+    "platform": "newrafael.work",
+    "tokenID": "1",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x55140312954f43c724b2064914f12c9a8bf27ea9",
+    "name": "Sinking #1",
+    "minted": true,
+    "artist": "Rafaël Rozendaal",
+    "description": "Sinking (2023) by Rafaël Rozendaal 🌹 The work is responsive, it adjusts to any screen size 🌹 Code by Reinier Feijen 🌹 The code of this work is stored on the Ethereum blockchain 🌹 License: CC BY-NC-ND 4.0",
+    "script_type": "js@na",
+    "project_id": "0",
+    "engine_type": "fullyonchain",
+    "image": "https://media-proxy.artblocks.io/0x68c01cb4733a82a58d5e7bb31bddbff26a3a35d5/1.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x68c01cb4733a82a58d5e7bb31bddbff26a3a35d5/1.png",
+    "generator_url": "https://generator.artblocks.io/0x68c01cb4733a82a58d5e7bb31bddbff26a3a35d5/1",
+    "animation_url": "https://generator.artblocks.io/0x68c01cb4733a82a58d5e7bb31bddbff26a3a35d5/1",
+    "royaltyInfo": {
+      "artistAddress": "0x0f441cfad93287109f5ef834bf52f4aaaa8d8ffa",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Sinking by Rafaël Rozendaal",
+    "website": null,
+    "token_hash": "0x69157793253a6ab064c54aeadd3eceee44e893eb3d2e7d19a6f3a0920614f875",
+    "external_url": "https://newrafael.work/token/1",
+    "primary_asset_url": "https://generator.artblocks.io/0x68c01cb4733a82a58d5e7bb31bddbff26a3a35d5/1",
+    "features": {
+      "Year": "2023",
+      "Project": "Sinking"
+    },
+    "traits": [
+      {
+        "trait_type": "Sinking",
+        "value": "All Sinkings"
+      },
+      {
+        "trait_type": "Sinking",
+        "value": "Year: 2023"
+      },
+      {
+        "trait_type": "Sinking",
+        "value": "Project: Sinking"
+      }
+    ],
+    "is_static": false,
+    "license": null
+  }
+}

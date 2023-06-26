@@ -1,0 +1,45 @@
+{
+  "address": "0x9029ea9358a8a8069ab09e53dfcafe12c9d7a5da",
+  "type": "ERC721",
+  "name": "MetaBird-Collection",
+  "tokenCount": "2446",
+  "uri": "ipfs://QmQ4LnEyEjitHJ8TUSDfMGvxVmoyGpzX7gp53SjA4L2rgm/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "Each MetaBird NFT is a playable character in the MetaBirds Mobile Multiplayer Game. MetaBirds is a multiplayer bird racing game that allows you to earn as you compete against others online! Players can tap to fly, and aim for the top of a worldwide leader-board.",
+    "external_url": "",
+    "image": "https://metabirds.mypinata.cloud/ipfs/bafybeidnoo3jstfpeanfp4qp4tpqa7w2lmophgozeakep4yd4oyvmgguh4/1.png",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "gradient-purple"
+      },
+      {
+        "trait_type": "bodies",
+        "value": "gaurdsman-red"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "midnight-black"
+      },
+      {
+        "trait_type": "beaks",
+        "value": "seance"
+      },
+      {
+        "trait_type": "head-accessory",
+        "value": "green-birthday-hat"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "MetaBirds Inc. Compiler"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0xa9dcc2049632b1eb5e7bf13e05b93888ccd20633",
+  "type": "ERC721",
+  "name": "1337 Toadzgotchi",
+  "tokenCount": "1337",
+  "uri": "ipfs://bafybeibnazuhaqqx3ujtetnj3qs43hf4xvfp7jl52tbl7ty5elyh6zd7uy/1.json",
+  "metadata": {
+    "name": "Toadzgotchi #1",
+    "description": "Take care of your Toad.",
+    "image": "ipfs://bafybeib2yjaoragvynmqv4ljkzzdk5wsnijgittnlsxkeq3kvu4cgaolnm/1.png",
+    "dna": "9c5db2ae8cb4b63ab808096345446ce2db3e6d3f",
+    "edition": 1,
+    "date": 1670115964251,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Toadz",
+        "value": "Toadz"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eyes 6"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth 2"
+      },
+      {
+        "trait_type": "Vibe",
+        "value": "Vibe 14"
+      }
+    ],
+    "compiler": "Toadz"
+  }
+}

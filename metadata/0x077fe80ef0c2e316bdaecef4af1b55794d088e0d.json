@@ -1,0 +1,87 @@
+{
+  "address": "0x077fe80ef0c2e316bdaecef4af1b55794d088e0d",
+  "type": "ERC721",
+  "name": "Ether Legends",
+  "tokenCount": "50",
+  "uri": "https://www.etherlegends.com/metadata/specialedition/NOM_Forost_Dirk.json",
+  "metadata": {
+    "name": "Forost and Dirk",
+    "image": "https://www.etherlegends.com/tradingcards/specialedition/NOM_Forost_Dirk.png",
+    "description": "Cryptonom and Ether Legends Collab!",
+    "external_url": "https://www.etherlegends.com",
+    "attributes": [
+      {
+        "trait_type": "game",
+        "value": "Ether Legends"
+      },
+      {
+        "trait_type": "set",
+        "value": "Special Edition"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "type",
+        "value": "Character"
+      },
+      {
+        "trait_type": "element_1",
+        "value": "Earth"
+      },
+      {
+        "trait_type": "strength_1",
+        "value": "Defense"
+      },
+      {
+        "trait_type": "element_2",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "strength_2",
+        "value": "Attack"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "number",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "elementeum",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "attack",
+        "value": 6
+      },
+      {
+        "display_type": "number",
+        "trait_type": "defense",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heal",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "disrupt",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heart",
+        "value": 15
+      }
+    ]
+  }
+}

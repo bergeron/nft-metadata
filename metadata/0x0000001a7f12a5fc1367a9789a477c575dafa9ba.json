@@ -1,0 +1,23 @@
+{
+  "address": "0x0000001a7f12a5fc1367a9789a477c575dafa9ba",
+  "type": "ERC721",
+  "name": "Open Prompts",
+  "tokenCount": "85",
+  "uri": "https://openprompts.art/api/metadata/1",
+  "metadata": {
+    "name": "OpenPrompts #1",
+    "animation_url": "https://openprompts.art/api/html/1",
+    "description": "\nGenerate the art yourself.\n\nPrompt: Spooky and haunted cemetary, with misty air and shadowy grave markers, with ghosts appearing and disappearing, and the sounds of creaking trees and owls hooting, blackmagic pocket cinema camera 6k pro.\n\nYou are given a prompt, it's your job to generate and update this metadata. OpenPrompts allows the owner of each token to update the metadata once using AI image diffusion.\n\nThis NFT can only be updated once per owner. You get 4 choices to choose from when using this prompt. When you sell the piece, the art resets, the prompt becomes whole again, and the new owner can recreate the vision for themselves.\n\nJoin the Discord Server to generate the art once you own one of the NFTs: https://discord.gg/eh7dYZeS3f\n",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "white"
+      },
+      {
+        "trait_type": "foreground",
+        "value": "pink"
+      }
+    ],
+    "image": "https://mbcdn.sfo2.cdn.digitaloceanspaces.com/OpenPrompts.gif"
+  }
+}

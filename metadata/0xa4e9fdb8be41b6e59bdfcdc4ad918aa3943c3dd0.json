@@ -1,0 +1,36 @@
+{
+  "address": "0xa4e9fdb8be41b6e59bdfcdc4ad918aa3943c3dd0",
+  "type": "ERC721",
+  "name": "Socios.com",
+  "tokenCount": "1365",
+  "uri": "https://nft.chiliz.com/api/token/metadata/4172e859-3a49-4eab-887e-262528323ac4",
+  "metadata": {
+    "name": "First Socios.com Collectible",
+    "image": "https://nft.chiliz.com/assets/token/default/61ff0682-af24-47a6-99aa-4dd101a993a7.png",
+    "description": "Very first Socios.com Collectible",
+    "attributes": [
+      {
+        "trait_type": "city",
+        "value": "Valletta"
+      },
+      {
+        "trait_type": "country",
+        "value": "Malta"
+      },
+      {
+        "trait_type": "scarcity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "tournament",
+        "value": "European Championship"
+      },
+      {
+        "trait_type": "supply_position",
+        "value": 1,
+        "display_type": "number",
+        "max_value": 20
+      }
+    ]
+  }
+}

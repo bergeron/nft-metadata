@@ -1,0 +1,23 @@
+{
+  "address": "0xd1fcc5c7f4b76400902fb12fd46a75560ed7d17b",
+  "type": "ERC1155",
+  "name": "LYNC Network NFT Rewards",
+  "tokenCount": "4",
+  "uri": "https://api.lync.network/api/token/0x1",
+  "metadata": {
+    "name": "ETH Lotto Common",
+    "description": "The original ETH Lotto participation card. 10 of these cards will craft into a Classic Reward Card: 28 Day Timer / 400 Tokens / 4% of LYNC Staked.",
+    "external_url": "https://lync.network/card-wallet",
+    "attributes": [
+      {
+        "trait_type": "CARD TYPE",
+        "value": "Destructable"
+      },
+      {
+        "trait_type": "CARD QUALITY",
+        "value": "Common"
+      }
+    ],
+    "image": "https://api.lync.network/images/1.gif"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "address": "0xabdfb5eb2ac4d43dc18d8253494a6002a363effd",
+  "type": "ERC721",
+  "name": "0xJPEGs",
+  "tokenCount": "29",
+  "uri": "https://arweave.net/6kiDRkg2OxIL2k2FSelw5yB2rcfGYEasWVaS27Y45Sc",
+  "metadata": {
+    "name": "tryit.jpg",
+    "description": "0xJPEGs are a celebration of decentralized and credibly-neutral assets on Ethereum Mainnet.  0xBTC is the faithful implementation of the bitcoin protocol as a trustless, immutable Ethereum smart contract. It has credible neutrality due to proof-of-work issuance and a 21 million coin cap within the Ethereum EVM. This enables dapp composability and decentralized-exchange trading.\n\n\n0xBitcoin is an open community project with decentralized development. No person or organization has special authority or control over 0xbtc. The 0xJPEGs artworks honor the decentralized, composable, and permissionless nature of the technology as non-upgradeable non-fungible tokens built in a custom smart contract.\n\n\nFind more at https://0xbitcoin.org\n\n\nImage: https://arweave.net/Ke2EJexbnHHF52D4YIm1K3qfpbLaaIbZF9MX6XxZcO4",
+    "external_url": "https://0xjpegs.com",
+    "image": "https://arweave.net/Ke2EJexbnHHF52D4YIm1K3qfpbLaaIbZF9MX6XxZcO4",
+    "properties": [
+      [
+        {
+          "key": "decimals",
+          "value": 8,
+          "type": "integer"
+        },
+        {
+          "key": "mining_algorithm",
+          "value": "Keccak256",
+          "type": "string"
+        }
+      ]
+    ],
+    "attributes": [
+      {
+        "trait_type": "token_number",
+        "value": "1"
+      },
+      {
+        "trait_type": "0xbtc_birthday",
+        "value": "Feb-06-2018"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "decentralized",
+        "value": 100
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "mined",
+        "value": 100
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "airdropped",
+        "value": 0
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "ICO",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "0xbtc_max_supply",
+        "value": 21000000
+      }
+    ]
+  }
+}

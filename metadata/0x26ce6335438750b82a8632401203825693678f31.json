@@ -1,0 +1,35 @@
+{
+  "address": "0x26ce6335438750b82a8632401203825693678f31",
+  "type": "ERC721",
+  "name": "SepSauce Collection",
+  "tokenCount": "1001",
+  "uri": "https://arweave.net/D0lY5CG1MTL5ycgXmINGhJvj1VXwodqbV-KdoCDKW0k",
+  "metadata": {
+    "name": "SepSauce",
+    "created_by": "SepSauce",
+    "description": "Test",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "SepSauce"
+      },
+      {
+        "trait_type": "TYPE",
+        "value": "Manifold"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "1"
+      }
+    ],
+    "image_details": {
+      "bytes": 3180628,
+      "format": "PNG",
+      "sha256": "6f5b0c8e2fe92620926f35476ca3b09d4480dd6f3621a494df9e61b5c7bbbad8",
+      "width": 1288,
+      "height": 1246
+    },
+    "image": "https://arweave.net/h4lbG5wTNE0CG6EOYSUbDFk_kJTkmWwjjEl05oAkNMI",
+    "image_url": "https://arweave.net/h4lbG5wTNE0CG6EOYSUbDFk_kJTkmWwjjEl05oAkNMI"
+  }
+}

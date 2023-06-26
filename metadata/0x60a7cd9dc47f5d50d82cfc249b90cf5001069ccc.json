@@ -1,0 +1,35 @@
+{
+  "address": "0x60a7cd9dc47f5d50d82cfc249b90cf5001069ccc",
+  "type": "ERC721",
+  "name": "Voyager Panda",
+  "tokenCount": "108",
+  "uri": "https://raw.githubusercontent.com/Voyagerpanda/panda-metadata/main/data/1.json",
+  "metadata": {
+    "image": "https://raw.githubusercontent.com/Voyagerpanda/panda-metadata/main/images/1.png",
+    "name": "Voyager Panda #1",
+    "tokenId": 1,
+    "external_url": "https://voyagerpanda.com",
+    "attributes": [
+      {
+        "trait_type": "Health",
+        "value": 66
+      },
+      {
+        "trait_type": "Magic",
+        "value": 33
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 48
+      },
+      {
+        "trait_type": "Evaluation",
+        "value": "N"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Ordinary Panda"
+      }
+    ]
+  }
+}

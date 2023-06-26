@@ -1,0 +1,67 @@
+{
+  "address": "0x1b1b6a4e29061b9fc5e442425e1fc7e069a47690",
+  "type": "ERC721",
+  "name": "Warriors NFT: Bear Warriors",
+  "tokenCount": "67",
+  "uri": "https://api.warriorsnft.io/contract/bear/tokens/1",
+  "metadata": {
+    "name": "Samoe Smdumbage",
+    "description": "One Bear Warrior battling against extinction.",
+    "image": "https://warriors-nft.s3.amazonaws.com/bear/images/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Backpack",
+        "value": "PowerPack"
+      },
+      {
+        "trait_type": "Body Armor",
+        "value": "Power Armor"
+      },
+      {
+        "trait_type": "Eye Visor",
+        "value": "Infrared"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "None"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "AntiGravity Gun"
+      },
+      {
+        "trait_type": "Cyborg Foot",
+        "value": "Vide Foot"
+      },
+      {
+        "trait_type": "Cyborg Hand",
+        "value": "Antiradar"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Battle Pack",
+        "value": 1
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Strength",
+        "value": 4
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Agility",
+        "value": 8
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Intelligence",
+        "value": 4
+      }
+    ]
+  }
+}

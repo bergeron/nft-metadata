@@ -1,0 +1,27 @@
+{
+  "address": "0x33099ad5c536d9d7bf3be4c62110d076dab5bc01",
+  "type": "ERC721",
+  "name": "Gotchis NFT",
+  "tokenCount": "23",
+  "uri": "https://api.gotchisnft.com/metadata/1",
+  "metadata": {
+    "image": "https://gateway.pinata.cloud/ipfs/QmZMsWsYkdyUyBqERQ2tbRTTodnRcYi9aJz7xockWi8GRz",
+    "ipfs_image": "https://gateway.pinata.cloud/ipfs/QmZMsWsYkdyUyBqERQ2tbRTTodnRcYi9aJz7xockWi8GRz",
+    "name": "Gotchi #1",
+    "description": "Gotchis are electronic pets on the blockchain. Visit [www.gotchisnft.com](https://www.gotchisnft.com/) to learn more!",
+    "attributes": [
+      {
+        "trait_type": "Gotchi",
+        "value": "Cacto"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "Color",
+        "value": "White"
+      }
+    ]
+  }
+}

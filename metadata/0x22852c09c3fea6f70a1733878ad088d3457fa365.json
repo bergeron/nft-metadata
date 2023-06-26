@@ -1,0 +1,35 @@
+{
+  "address": "0x22852c09c3fea6f70a1733878ad088d3457fa365",
+  "type": "ERC721",
+  "name": "Threads Official",
+  "tokenCount": "2222",
+  "uri": "https://api.threadschained.xyz/1",
+  "metadata": {
+    "name": "Threads #1",
+    "description": "Threads is all around you. Look in your closet or dresser, even you are full of sewn threads.",
+    "image": "https://api.threadschained.xyz/1.png",
+    "attributes": [
+      {
+        "trait_type": "Types of Yarn",
+        "value": "Bouclé"
+      },
+      {
+        "trait_type": "Weight",
+        "value": "27 wpi"
+      },
+      {
+        "trait_type": "Family",
+        "value": "BERROCO"
+      },
+      {
+        "trait_type": "Origin",
+        "value": "India"
+      },
+      {
+        "trait_type": "Emotion",
+        "value": "Joy"
+      }
+    ],
+    "compiler": "https://startnft.app"
+  }
+}

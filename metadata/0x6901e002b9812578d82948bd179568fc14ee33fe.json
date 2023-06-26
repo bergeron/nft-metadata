@@ -1,0 +1,41 @@
+{
+  "address": "0x6901e002b9812578d82948bd179568fc14ee33fe",
+  "type": "ERC721",
+  "name": "Upcoming NFT",
+  "tokenCount": "10",
+  "uri": "https://globalindiatech.com/cityifhope/1.json",
+  "metadata": {
+    "hash": "16227",
+    "decodedHash": [
+      {
+        "1": 6
+      },
+      {
+        "2": 27
+      }
+    ],
+    "image": "https://globalindiatech.com/cityifhope/1.png",
+    "name": "#1",
+    "description": "This is created bt nft_creator for testing.",
+    "edition": 1,
+    "date": 1631876879383,
+    "attributes": [
+      {
+        "id": 6,
+        "layer": "background",
+        "name": "bg_14",
+        "rarity": "original",
+        "trait_type": "background",
+        "value": "bg_14"
+      },
+      {
+        "id": 27,
+        "layer": "city",
+        "name": "34",
+        "rarity": "original",
+        "trait_type": "city",
+        "value": "34"
+      }
+    ]
+  }
+}

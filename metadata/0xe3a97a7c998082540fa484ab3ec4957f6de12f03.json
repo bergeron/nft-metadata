@@ -1,0 +1,46 @@
+{
+  "address": "0xe3a97a7c998082540fa484ab3ec4957f6de12f03",
+  "type": "ERC721",
+  "name": "Ukraine Pixel (50% fund to Ukraine Charity)",
+  "tokenCount": "3",
+  "uri": "ipfs://QmZEAQXkfA131VnWdx5PP6Xb6MWfa4HpybypVTukinmhiU/1.json",
+  "metadata": {
+    "name": "UKRAINE Peace #1",
+    "symbol": "NO WAR",
+    "description": "About Ukraine Pixel NFT - NFT project to raise fund to support Ukraine. 50% of mint fund will be giving to Ukraine Charity",
+    "seller_fee_basis_points": 1000,
+    "image": "ipfs://QmarExXLXyp2zLc9m9gWQLcbZRd16vdw3zyfoGS7N34ZMd/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Stopthewar Background "
+      },
+      {
+        "trait_type": "Emoji",
+        "value": "Wish "
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "No Killing"
+      },
+      {
+        "trait_type": "Flag",
+        "value": "Wave Flag with Stick "
+      },
+      {
+        "trait_type": "star",
+        "value": "Start Two"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
+}

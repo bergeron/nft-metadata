@@ -1,0 +1,68 @@
+{
+  "address": "0xd2c4718a9b158d76e5571f0ec92a253845263ee0",
+  "type": "ERC721",
+  "name": "Castle Of Allegiance",
+  "tokenCount": "9830",
+  "uri": "ipfs://QmfA4jTHFXPdYzaJMcff7UCJw9zTKM3auLtY6Xrc1JWwWF/2.json",
+  "metadata": {
+    "name": "Knight #2",
+    "symbol": "COA",
+    "description": "Dark forces are coming. Protect the castle at all costs. No website. No discord. CCO 🏰🎠",
+    "seller_fee_basis_points": 500,
+    "image": "https://f002.backblazeb2.com/file/pixelknight/9997.png",
+    "external_url": "https://www.pixelknights.art",
+    "attributes": [
+      {
+        "trait_type": "race",
+        "value": "human"
+      },
+      {
+        "trait_type": "weapon_type",
+        "value": "polearm"
+      },
+      {
+        "trait_type": "mount_type",
+        "value": "horse"
+      },
+      {
+        "trait_type": "mount",
+        "value": "horse#7"
+      },
+      {
+        "trait_type": "head",
+        "value": "head#32"
+      },
+      {
+        "trait_type": "weapon",
+        "value": "polearm#20"
+      },
+      {
+        "trait_type": "color",
+        "value": "metal"
+      },
+      {
+        "trait_type": "saddle",
+        "value": "saddle#27"
+      },
+      {
+        "trait_type": "hat",
+        "value": "hat#40"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://f002.backblazeb2.com/file/pixelknight/9997.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "9SYDr7v7RozSqCk82zgBruhVS13MjfSTdztvJmDP3WXh",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

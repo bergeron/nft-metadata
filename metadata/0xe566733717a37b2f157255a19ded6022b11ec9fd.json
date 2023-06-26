@@ -1,0 +1,46 @@
+{
+  "address": "0xe566733717a37b2f157255a19ded6022b11ec9fd",
+  "type": "ERC721",
+  "name": "Cool Crocs NFT",
+  "tokenCount": "90",
+  "uri": "https://coolcrocsnft.com/api/token/1",
+  "metadata": {
+    "name": "CoolCrocs #1",
+    "description": "CoolCrocs NFT",
+    "image": "https://coolcrocsnft.com/images/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Aqua"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Body"
+      },
+      {
+        "trait_type": "Jewelry",
+        "value": "SilverNecklace"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "TongueOut"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Croculus"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Beanie"
+      },
+      {
+        "trait_type": "Tattoo",
+        "value": "SwampLife"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "WallaceRocker"
+      }
+    ]
+  }
+}

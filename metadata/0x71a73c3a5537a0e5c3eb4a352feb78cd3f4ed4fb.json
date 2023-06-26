@@ -1,0 +1,42 @@
+{
+  "address": "0x71a73c3a5537a0e5c3eb4a352feb78cd3f4ed4fb",
+  "type": "ERC721",
+  "name": "Cyber Kronos",
+  "tokenCount": "3",
+  "uri": "ipfs://QmVBQgfF9qTLYaAHPnUx8YemhPVMWkFi1vMvqo29kAHn6f/1.json",
+  "metadata": {
+    "name": "CyberKronos #1",
+    "description": "One of the citizens of Cyber Kronos",
+    "image": "ipfs://QmbuCTJbTf9EZF7nJRueLEMsF8r5Mw3iXzWezcsfyos83m/1.png",
+    "dna": "91b8689b5523e5028c9a16c976b34942c34de151",
+    "edition": 1,
+    "date": 1647650243381,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "BodyM",
+        "value": "Male"
+      },
+      {
+        "trait_type": "ExpressionM",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "HairM",
+        "value": "Yellow Spikes"
+      },
+      {
+        "trait_type": "AccesoriesM",
+        "value": "Visor"
+      },
+      {
+        "trait_type": "ClothesM",
+        "value": "Dapper"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

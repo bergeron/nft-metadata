@@ -1,0 +1,59 @@
+{
+  "address": "0xf8d5b226457f5f6ad51035f75511a0624c091078",
+  "type": "ERC721",
+  "name": "ERA Hero",
+  "tokenCount": "1000",
+  "uri": "https://api.era.game/tokens/hero/1",
+  "metadata": {
+    "token_id": "1",
+    "name": "Dwarven Smith #1",
+    "image": "https://api.era.game/images/hero/1.png",
+    "attributes": [
+      {
+        "trait_type": "Name",
+        "value": "Dwarven Smith"
+      },
+      {
+        "trait_type": "Nation",
+        "value": "The Aesir"
+      },
+      {
+        "trait_type": "Hit Points",
+        "value": "9"
+      },
+      {
+        "trait_type": "Strength",
+        "value": "9"
+      },
+      {
+        "trait_type": "Size",
+        "value": "1"
+      },
+      {
+        "trait_type": "Attack skill",
+        "value": "10"
+      },
+      {
+        "trait_type": "Protection",
+        "value": "10"
+      },
+      {
+        "trait_type": "Defence skill",
+        "value": "12"
+      },
+      {
+        "trait_type": "Combat Speed",
+        "value": "12"
+      },
+      {
+        "trait_type": "Encumbrance",
+        "value": "3"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "common"
+      }
+    ],
+    "description": "The ERA world is built around the Hero NFTs, including combat, equipment building and research magic. Further utilities include staking and mining which also revolves around the Hero NFTs."
+  }
+}

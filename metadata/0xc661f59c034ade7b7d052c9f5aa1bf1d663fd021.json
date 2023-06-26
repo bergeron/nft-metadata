@@ -1,0 +1,25 @@
+{
+  "address": "0xc661f59c034ade7b7d052c9f5aa1bf1d663fd021",
+  "type": "ERC721",
+  "name": "blockbase-sandbox-unlock",
+  "tokenCount": "4",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xc661f59c034ade7b7d052c9f5aa1bf1d663fd021/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xc661f59c034aDe7b7D052c9f5aa1BF1d663fD021/icon?id=1",
+    "expiration": 1579276974,
+    "tokenId": "1",
+    "owner": "0xb1a25d6e37ad12579801ebb6787636fd63ba87cc",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1579276974
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xc661f59c034aDe7b7D052c9f5aa1BF1d663fD021",
+    "network": 1
+  }
+}

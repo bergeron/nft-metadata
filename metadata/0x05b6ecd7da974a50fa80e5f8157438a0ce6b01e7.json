@@ -1,0 +1,38 @@
+{
+  "address": "0x05b6ecd7da974a50fa80e5f8157438a0ce6b01e7",
+  "type": "ERC721",
+  "name": "Cryptospells",
+  "tokenCount": "19",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=9BXpJfKQodITqVpHEi7C",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1577304934045?alt=media&token=5d3d6152-1f15-4982-be40-57e2920c234c",
+    "isForSale": true,
+    "description": "La ronde des farfadets",
+    "contractAddress": "0x05b6ecd7da974a50fa80e5f8157438a0ce6b01e7",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x05b6ecd7da974a50fa80e5f8157438a0ce6b01e7/9BXpJfKQodITqVpHEi7C",
+    "minter": "0xc12df5f402a8b8beaea49ed9bad9c95fccbfe907",
+    "mintedOn": {
+      "_seconds": 1577304952,
+      "_nanoseconds": 85000000
+    },
+    "price": "6.66",
+    "name": "Clavicula Salomonis",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Clavicula Salomonis"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "minted": "Minted on Mintbase.io"
+  }
+}

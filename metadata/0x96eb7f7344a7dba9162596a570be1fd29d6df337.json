@@ -1,0 +1,46 @@
+{
+  "address": "0x96eb7f7344a7dba9162596a570be1fd29d6df337",
+  "type": "ERC721",
+  "name": "Alpha Pass Hub",
+  "tokenCount": "80",
+  "uri": "ipfs://QmXzm5MP61KeFKCgDPGpUnktmJsC66Zja7iZZvrZGbdU5f/1.json",
+  "metadata": {
+    "name": "Alpha Pass Hub #1",
+    "description": "Our mission is to put together the best Alpha Calls from the most prolific projects, all in one place and at an accessible price for everyone",
+    "image": "ipfs://QmeyoNRJ9e1YyfbhW9ZUovfQM1XMrkNvY1keSAipabvukS/1.png",
+    "dna": "b30ece226e77ceb9147dadf2940f70c070bcf551",
+    "edition": 1,
+    "date": 1651133422287,
+    "attributes": [
+      {
+        "trait_type": "AlphaCARD1",
+        "value": "4"
+      },
+      {
+        "trait_type": "AlphaCARD2",
+        "value": "2"
+      },
+      {
+        "trait_type": "AlphaCARD3",
+        "value": "5"
+      },
+      {
+        "trait_type": "AlphaCARD4",
+        "value": "3"
+      },
+      {
+        "trait_type": "AlphaCARD5",
+        "value": "4"
+      },
+      {
+        "trait_type": "AlphaCARD6",
+        "value": "2"
+      },
+      {
+        "trait_type": "AlphaCARD7",
+        "value": "5"
+      }
+    ],
+    "compiler": "Alpha Pass Compiler"
+  }
+}

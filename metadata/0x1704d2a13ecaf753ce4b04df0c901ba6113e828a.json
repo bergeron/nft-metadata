@@ -1,0 +1,30 @@
+{
+  "address": "0x1704d2a13ecaf753ce4b04df0c901ba6113e828a",
+  "type": "ERC721",
+  "name": "RED by BasicFactoryCo.",
+  "tokenCount": "8",
+  "uri": "https://api.basicfactory.co/1/json/1.json",
+  "metadata": {
+    "name": "Basic Factory RED #1",
+    "tokenId": 1,
+    "image": "https://raw.githubusercontent.com/basicfactory/-BFco-api-ONE/main/1/img/1/0001-0250.jpg",
+    "attributes": [
+      {
+        "trait_type": "Bonus",
+        "value": "256 USDT"
+      },
+      {
+        "trait_type": "Batch",
+        "value": "0001"
+      },
+      {
+        "trait_type": "Sequence",
+        "value": "0250"
+      },
+      {
+        "trait_type": "Group",
+        "value": "A"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "address": "0x40932be4fb34bbcaa7f15ffbd6ef0d3ed5ecf6b1",
+  "type": "ERC1155",
+  "name": "Genesis Time Capsule",
+  "tokenCount": "1",
+  "uri": "https://studio.api.manifoldxyz.dev/asset_uploader/asset/2550708420/metadata/full",
+  "metadata": {
+    "name": "Time Capsule - Genesis",
+    "created_by": "Timekeeper",
+    "external_url": "https://www.whatistime.art/",
+    "description": "Buried on March 12th, 2022.\n\nPlacard reads:  \nThe Contributors have acquired their Time.  \nThe Capsule has been closed.  \nTime now awaits.",
+    "attributes": [
+      {
+        "trait_type": "Guardian",
+        "value": "Timekeeper"
+      },
+      {
+        "trait_type": "Time",
+        "value": "6:30"
+      }
+    ],
+    "image_details": {
+      "bytes": 74639,
+      "format": "PNG",
+      "sha256": "025c4a76a7d1538f682a68712f00cb46d6d411f0b6a4cc5cc4bc362d0e0ccc23",
+      "width": 1280,
+      "height": 1024
+    },
+    "image": "https://arweave.net/xjpYwTn308eheJbpRBfBjL_iTk7josXrOPmXLG076sM",
+    "image_url": "https://arweave.net/xjpYwTn308eheJbpRBfBjL_iTk7josXrOPmXLG076sM"
+  }
+}

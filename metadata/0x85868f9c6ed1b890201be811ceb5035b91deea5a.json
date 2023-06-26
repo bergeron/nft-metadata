@@ -1,0 +1,42 @@
+{
+  "address": "0x85868f9c6ed1b890201be811ceb5035b91deea5a",
+  "type": "ERC721",
+  "name": "DinoPunksNFT",
+  "tokenCount": "400",
+  "uri": "https://dinopunks.mypinata.cloud/ipfs/QmQ25dHhhEQedLDDaP9ujqkMhUvoNm9w1eoFCkrTVKPaih/1.json",
+  "metadata": {
+    "name": "DinoPunks #1",
+    "description": "DinoPunks is an NFT project made up of 400 unique dinos on the Ethereum blockchain where they will live forever.",
+    "image": "https://dinopunks.mypinata.cloud/ipfs/QmRYTbEJPcjKHBwYU5E4kTDqMQasZBjGjsC7iV9eatqEVs/1.png",
+    "dna": "36af54ed5d51bf0ce4e55843109f320870678500",
+    "edition": 1,
+    "date": 1636780634558,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Brick Wall"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Skin Color",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Tummy Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Robo"
+      }
+    ],
+    "compiler": "Custom Engine"
+  }
+}

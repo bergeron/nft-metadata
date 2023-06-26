@@ -1,0 +1,44 @@
+{
+  "address": "0xbd77e7ab82869a66d3f6582e55f3b1e3ad7f8fe5",
+  "type": "ERC721",
+  "name": "Kpopbasketball",
+  "tokenCount": "20",
+  "uri": "ipfs://bafybeig3tgu3tvs6ynl7jsbfzbvq7wdrjq7iyyn27pwmyiysoqruiyeveq/1.json",
+  "metadata": {
+    "image": "ipfs://bafybeib7yfqanzu2xampbl5jti6yupvdja3fg53rpl7ym3c2jwa6dw5p2e/1.png",
+    "external_url": "https://kpopbasketball.com/static/Cards/chueningkai3.png",
+    "description": "HueningKai's player card from the 2022 Mixed League season",
+    "name": "HueningKai [2022 ML]",
+    "background_color": "f0fff1",
+    "attributes": [
+      {
+        "trait_type": "Team",
+        "value": "Idols"
+      },
+      {
+        "trait_type": "Season",
+        "value": "2022 ML"
+      },
+      {
+        "trait_type": "Position",
+        "value": "C"
+      },
+      {
+        "trait_type": "Athleticism",
+        "value": 23
+      },
+      {
+        "trait_type": "BBall IQ",
+        "value": 10
+      },
+      {
+        "trait_type": "Shooting",
+        "value": 91
+      },
+      {
+        "trait_type": "Defense",
+        "value": 59
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "address": "0x5d22e01b101b23ac0fae078841e609fac30d47f9",
+  "type": "ERC721",
+  "name": "223asdfqwerqwer",
+  "tokenCount": "420",
+  "uri": "https://token.artblocks.io/0x145789247973c5d612bf121e9e4eef84b63eb707/1",
+  "metadata": {
+    "platform": "Art Blocks × Bright Moments",
+    "tokenID": "1",
+    "series": "N/A",
+    "aspect_ratio": 0.666666,
+    "payout_address": "0xa08cdc0c66900157d2f7c7d65f4c89bc7dc12d74",
+    "name": "Metropolis #1",
+    "minted": true,
+    "artist": "mpkoz",
+    "description": "Metropolis is a long-form generative art collection exploring the node-based systems that enable and possess modern society. These literal and theoretical systems are critical to computing, blockchains, logistics, and most apparently, the formation and function of cities. \n\nThe project will be extended beyond online distribution via individual exhibitions at the five Bright Moments gallery locations around the world. The five primary traits – New York City, Berlin, London, Mexico City, and Los Angeles  – stylistically represent their respective city. \n\nMECHANIC INFORMATION:\n- While Metropolis has a total count of up to 1000 mints, only the first 500 will be made available for sale.  \n- These first 500 editions will come with the ability to mint a second piece for free. \n- This second mint will be unique, but visually related to the first—creating a diptych between the two. \n- To claim a second mint, the owner must generate a QR code via the Bright Moments portal and take it to the Bright Moments gallery in the city dictated by its respective city trait on the date of the city's exhibition. \n- Delegate minting of the second piece is possible. If the owner is unable to attend a show physically, they can arrange for another person to redeem. \n- Redeeming after the city's exhibition will not be allowed.\n\nADDITIONAL INFORMATION:\n\n- The style of Metropolis is heavily influence by cubism and abstract expressionism. \n- Technically, the project is an attempt to emulate painting photorealistically within an on-chain algorithm. \n- Metropolis is a demanding program and modern hardware is necessary to view the live generator. Viewing the project on mobile and low-power computers will result in a lower resolution image. \n\nCONTROLS:\n- Pressing the \"C\" key within the live generator will capture an image.\n- Pressing the \"4\" key within the live generator will reload the piece in 4K resolution (HARDWARE INTENSIVE).",
+    "script_type": "three@0.124.0",
+    "project_id": "0",
+    "image": "https://media-proxy.artblocks.io/0x145789247973c5d612bf121e9e4eef84b63eb707/1.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x145789247973c5d612bf121e9e4eef84b63eb707/1.png",
+    "generator_url": "https://generator.artblocks.io/0x145789247973c5d612bf121e9e4eef84b63eb707/1",
+    "royaltyInfo": {
+      "artistAddress": "0x51664b043cecd86527a93c95d163888bec348e63",
+      "additionalPayee": "0x0bc56e3c1397e4570069e89c07936a5c6020e3be",
+      "additionalPayeePercentage": 30,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Metropolis by mpkoz",
+    "website": "https://www.brightmoments.io/metropolis",
+    "token_hash": "0x16a9fa0f04727c9437b1c8c15318bc573577ac5573a8ca10bc369948bacfc080",
+    "external_url": "https://artblocks.io/collaborations/artblocksxbrightmoments/projects/0x145789247973c5d612bf121e9e4eef84b63eb707/0/tokens/1",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0x145789247973c5d612bf121e9e4eef84b63eb707/1.png",
+    "features": {
+      "City": "Los Angeles",
+      "Paper": "White",
+      "Signed": "No",
+      "Palette": "Vermeer",
+      "Brush Style": "Oil",
+      "Diptych IDs": "1 | 939",
+      "Has Diptych": "True",
+      "IRL Mint Date": "03/11/23"
+    },
+    "traits": [
+      {
+        "trait_type": "Metropolis",
+        "value": "All Metropolis"
+      },
+      {
+        "trait_type": "Metropolis",
+        "value": "City: Los Angeles"
+      },
+      {
+        "trait_type": "Metropolis",
+        "value": "Paper: White"
+      },
+      {
+        "trait_type": "Metropolis",
+        "value": "Signed: No"
+      },
+      {
+        "trait_type": "Metropolis",
+        "value": "Palette: Vermeer"
+      },
+      {
+        "trait_type": "Metropolis",
+        "value": "Brush Style: Oil"
+      },
+      {
+        "trait_type": "Metropolis",
+        "value": "Has Diptych: True"
+      },
+      {
+        "trait_type": "Metropolis",
+        "value": "IRL Mint Date: 03/11/23"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC 4.0"
+  }
+}

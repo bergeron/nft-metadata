@@ -1,0 +1,75 @@
+{
+  "address": "0x42a114af905d7f383bb05dcfdb21d7add5d6fa83",
+  "type": "ERC721",
+  "name": "Galaxy Citizens",
+  "tokenCount": "1847",
+  "uri": "ipfs://QmSHrQGJvkXWEEbeftWQjGizbmAAJ9HiWqcoLfAvfsEtnD/2.json",
+  "metadata": {
+    "name": "Citizen #2",
+    "description": "The universe is controlled by Malicious artificial intelligence. Galaxy Citizens are the last hope.",
+    "external_url": "",
+    "image": "https://www.arweave.net/aSrcj-8XRWkzW8usbO_llUxGAVNC1Fa-DuGPM258gTE?ext=gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lab 2"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Legs_up",
+        "value": "Militarist"
+      },
+      {
+        "trait_type": "Legs_down",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Lazer Fighter"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Lazer Fighter"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://www.arweave.net/aSrcj-8XRWkzW8usbO_llUxGAVNC1Fa-DuGPM258gTE?ext=gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": [
+        {
+          "address": "AsYs8J8JfSj4sbU8SMmuzV8kMTd8AKRQU84uaQTWA3Ym",
+          "share": 28
+        },
+        {
+          "address": "robuq4m4Anst7nws316FPdeDZnjyVMjnMe9q16v7ue2",
+          "share": 28
+        },
+        {
+          "address": "kane9mEXhwAaK63MwDHPPEuafpwKcdL2WTwk8Dcsry8",
+          "share": 28
+        },
+        {
+          "address": "HVs3bDDFu4tyuiQ7TVhd3ZH95JHQXW4ahi4MNGVkoFFv",
+          "share": 16
+        }
+      ]
+    },
+    "collection": {
+      "name": "Galaxy Robots",
+      "family": "Galaxy Robots"
+    },
+    "symbol": "GC",
+    "seller_fee_basis_points": 700
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "address": "0x254d14b57914e2e01ba88fe156a020d773030fce",
+  "type": "ERC721",
+  "name": "TokenhouseNFT",
+  "tokenCount": "1",
+  "uri": "ipfs://bafkreicldjwcgvp7nmvqpxj6la2jxpb7zeyjlidnkm3mtixjnozxv2aeru",
+  "metadata": {
+    "name": "273 One Blackfriars",
+    "description": "This TNFT give you a right to access title to Apartment 273, One Blackfriars, London SE1 9GQ",
+    "image": "ipfs://QmadjL1GSgJ578c8QcpbogU1w9sRVXVHXnPN3sgoS7hZFg/00001.jpg",
+    "animation_url": "ipfs://QmadjL1GSgJ578c8QcpbogU1w9sRVXVHXnPN3sgoS7hZFg/00001.gif",
+    "attributes": {
+      "Location": "London",
+      "Tenture": "Leasehold",
+      "Property Type": "Flat",
+      "Has Valuation": "Yes"
+    },
+    "nft-id": 1,
+    "documents": {
+      "valuation-report": {
+        "url": "ipfs://QmcmJP5ewptkPxWqZUoBCjTrhV64mVz9wBggkFfypdmXgX",
+        "hash": "560b6bac05e6aec04ce52c4e1a8591e1a1cac1bf",
+        "published-time": "2022-11-20T18:56:27",
+        "encrypted": true,
+        "content-type": "application/pdf"
+      },
+      "floor-plan": {
+        "url": "ipfs://QmXMW1XapPZdTPHjLer6RvfMhSFWXgyq35AqRKb7rJNEU8",
+        "hash": "a4c8ec8067dc8d906c416d5efa1abffa858c0c5e",
+        "published-time": "2022-11-20T18:56:48",
+        "encrypted": false,
+        "content-type": "application/pdf"
+      },
+      "title-plan": {
+        "url": "ipfs://QmXrCA6HoGXRu6V84R592rsngVNjjtLkPZZHibgqAjDxJx",
+        "hash": "6381660457362ece280d2a5bc1b30fcea308de6e",
+        "published-time": "2022-11-20T18:57:00",
+        "encrypted": false,
+        "content-type": "application/pdf"
+      },
+      "title-summary": {
+        "url": "ipfs://QmeXz5VmgsPczaRgrDT5qSrngsomVc8HMvSV4VkRAXL1zv",
+        "hash": "264ef234f5eadab54f593b17a9acb2d332dec2a8",
+        "published-time": "2022-11-20T18:57:12",
+        "encrypted": false,
+        "content-type": "application/pdf"
+      }
+    },
+    "data": {
+      "address": "273 One Blackfriars",
+      "city": "London",
+      "postcode": "SE1 9GQ",
+      "country": "England",
+      "title-number": "TGL525299",
+      "tenture": "Leasehold",
+      "no-bedrooms": 3,
+      "no-bathrooms": 3,
+      "property-type": "Flat",
+      "longitude": 51.5079645,
+      "latitude": -0.1069779,
+      "valuation": {
+        "amount": 6500000,
+        "date": "2022-06-23",
+        "type": "Desktop"
+      },
+      "leasehold-period": {
+        "start": "2019-05-01",
+        "end": "3018-04-30"
+      },
+      "floor-area": [
+        {
+          "value": 239,
+          "unit": "sqm"
+        },
+        {
+          "value": 2571,
+          "unit": "sqft"
+        }
+      ],
+      "energy-performance-certificate": {
+        "rating": "B",
+        "expiry": "2027-12-14"
+      },
+      "ground-rent": {
+        "amount": 750,
+        "currency": "GBP",
+        "period": "annual"
+      },
+      "service-charge": {
+        "amount": 22375.9,
+        "currency": "GBP",
+        "period": "annual"
+      },
+      "council-tax": {
+        "band": "H"
+      }
+    }
+  }
+}

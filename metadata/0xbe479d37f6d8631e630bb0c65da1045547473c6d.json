@@ -1,0 +1,60 @@
+{
+  "address": "0xbe479d37f6d8631e630bb0c65da1045547473c6d",
+  "type": "ERC721",
+  "name": "WeirdCock",
+  "tokenCount": "2",
+  "uri": "ipfs://QmRhYfMS3EDYCBBCVMMC5Yn2tyc54myqujA5Ndtqo2KVXx/1.json",
+  "metadata": {
+    "name": "WeirdCock #1",
+    "description": "WeirdCock is a collection of 10,000 randomly generated, hand-drawn, and unique NFTs.",
+    "external_url": "http://weirdcocknft.art",
+    "image": "ipfs://QmdB3LhUVM8RtB2UEVyi4StSN5b42EAZUv7Q2njiFY6nQ9/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Dark Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Open Mouth"
+      },
+      {
+        "trait_type": "Special Items",
+        "value": "Green Diamond Earring"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Yellow Tee"
+      },
+      {
+        "trait_type": "Eyes and Eyewear",
+        "value": "Tired"
+      },
+      {
+        "trait_type": "Hat and Hair",
+        "value": "Frog Hat"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 500,
+    "collection": {
+      "name": "WeirdCock",
+      "family": "WeirdCock"
+    },
+    "symbol": "WC"
+  }
+}

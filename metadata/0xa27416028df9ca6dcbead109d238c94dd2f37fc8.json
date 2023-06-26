@@ -1,0 +1,51 @@
+{
+  "address": "0xa27416028df9ca6dcbead109d238c94dd2f37fc8",
+  "type": "ERC721",
+  "name": "Doji x Ethereum",
+  "tokenCount": "1500",
+  "uri": "https://api.doji.dev/metadata/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Card Type",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Astral"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Diamonds"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Fill"
+      },
+      {
+        "trait_type": "Range of change",
+        "value": "-10% to -5%"
+      },
+      {
+        "trait_type": "Day",
+        "value": "22"
+      },
+      {
+        "trait_type": "Month",
+        "value": "May"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2018"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Date",
+        "value": 1526947200
+      }
+    ],
+    "name": "22-May-2018",
+    "description": "Doji NFT is a collection of 2112 pieces of unique animated cards generated based on the historical Price data of Ethereum.\nEach card uses hourly candlestick chart to displays the high, low, open, and closing prices of the day, from 21 Mar 2016 to 31 Dec 2021, a total of 2112 days.",
+    "image": "https://cdn.doji.dev/artwork/22-May-2018.gif"
+  }
+}

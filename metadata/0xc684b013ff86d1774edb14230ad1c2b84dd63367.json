@@ -1,0 +1,49 @@
+{
+  "address": "0xc684b013ff86d1774edb14230ad1c2b84dd63367",
+  "type": "ERC721",
+  "name": "DARK",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/OhsDKUTttNi9ykbZ3ZjLe_nr7CdpruMd99441HoYyRg",
+  "metadata": {
+    "name": "Stairs",
+    "created_by": "Sn1pe",
+    "description": "Just random footage found in a computer, inside abandoned house.  \nbelieve it or not?  \nor maybe its made in blender \nor edited using after effects \n#whoknows?  \n#DARK",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Sn1pe"
+      },
+      {
+        "trait_type": "series",
+        "value": "DARK"
+      },
+      {
+        "value": "stairs.mp4",
+        "trait_type": "title "
+      }
+    ],
+    "animation_details": {
+      "bytes": 38944600,
+      "format": "MP4",
+      "duration": 10,
+      "sha256": "fe97257277cb044e2aee8ffb2ce75867df600e85b925157c2faac5650f707ff3",
+      "width": 2000,
+      "height": 2000,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/vab9y2PZIF23tgneXk5CNK1KvKQ8M7sb-Z_O2RUKWLk",
+    "animation_url": "https://arweave.net/vab9y2PZIF23tgneXk5CNK1KvKQ8M7sb-Z_O2RUKWLk",
+    "image_details": {
+      "bytes": 2489255,
+      "format": "GIF",
+      "sha256": "2120ae9c23e3f62945e095b5f324392d917767743cf41eb154e2041fce7b3255",
+      "width": 800,
+      "height": 800
+    },
+    "image": "https://arweave.net/WVrvagxi4wB0550rWYoihOSty5xYlPpnt_zhKAsBTYM",
+    "image_url": "https://arweave.net/WVrvagxi4wB0550rWYoihOSty5xYlPpnt_zhKAsBTYM"
+  }
+}

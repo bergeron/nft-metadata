@@ -1,0 +1,23 @@
+{
+  "address": "0x14e6acd9a726db4210d5773d759d7bd9c7ff4b51",
+  "type": "ERC1155",
+  "name": "Zoku Home By ChainZoku",
+  "tokenCount": "29",
+  "uri": "https://api.chainzoku.io/metadata/home/1",
+  "metadata": {
+    "name": "Koruki's Bust",
+    "description": "Behold the majestic Koruki's bust, a timeless masterpiece that captures the essence of one of the ChainZoku founders, rumored to have magical powers to give your Zoku avatar an instant upgrade, or at least some serious aesthetic appeal.",
+    "image": "https://delivery.chainzoku.io/ZokuHomeByChainZoku/pictures/statue_korky.jpg",
+    "attributes": [
+      {
+        "trait_type": "Position",
+        "value": "Flexible"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Statue"
+      }
+    ],
+    "animation_url": "https://delivery.chainzoku.io/ZokuHomeByChainZoku/glb/statue_korky.glb"
+  }
+}

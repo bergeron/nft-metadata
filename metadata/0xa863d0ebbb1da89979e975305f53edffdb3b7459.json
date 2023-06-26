@@ -1,0 +1,23 @@
+{
+  "address": "0xa863d0ebbb1da89979e975305f53edffdb3b7459",
+  "type": "ERC721",
+  "name": "Rockbunn",
+  "tokenCount": "3333",
+  "uri": "http://rockbunn.com/api/1",
+  "metadata": {
+    "id": 1,
+    "image": "https://storage.googleapis.com/rockbunn/public/00001.gif",
+    "name": "Rockbunn x Simplecat",
+    "description": "Artist collaboration project : Simplecat",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Artist collaboration"
+      },
+      {
+        "trait_type": "Position",
+        "value": "Guitarist"
+      }
+    ]
+  }
+}

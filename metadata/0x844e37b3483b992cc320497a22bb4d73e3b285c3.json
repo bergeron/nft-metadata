@@ -1,0 +1,42 @@
+{
+  "address": "0x844e37b3483b992cc320497a22bb4d73e3b285c3",
+  "type": "ERC721",
+  "name": "Camp Greendale",
+  "tokenCount": "2",
+  "uri": "https://batter-api.herokuapp.com/v1/collection/648ab0585ebcaa62841de00f/tokens/1",
+  "metadata": {
+    "_id": "648d6b5867781afb1eeb8876",
+    "tokenId": "1",
+    "collectionId": "648ab0585ebcaa62841de00f",
+    "attributes": [
+      {
+        "value": "Electric Forest",
+        "display_type": "",
+        "trait_type": "Festival"
+      },
+      {
+        "value": "Group Camping",
+        "display_type": "",
+        "trait_type": "Area"
+      },
+      {
+        "value": "Old Troll Road",
+        "display_type": "",
+        "trait_type": "Location"
+      },
+      {
+        "value": "Carl!",
+        "display_type": "",
+        "trait_type": "Carl?"
+      },
+      {
+        "value": "2023",
+        "display_type": "",
+        "trait_type": "Year"
+      }
+    ],
+    "name": "Camp Greendale #1",
+    "image": "https://cakeapp-clients.s3.us-west-2.amazonaws.com/prod_camp-greendale/tokens/artworks/Camp%20Greendale.png",
+    "isMetadataValid": true
+  }
+}

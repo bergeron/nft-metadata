@@ -1,0 +1,55 @@
+{
+  "address": "0x0ec6d3d71eee20a6ef731f9c9ac5ab6210187a30",
+  "type": "ERC721",
+  "name": "My Mage (is better than your mage)",
+  "tokenCount": "23",
+  "uri": "https://mymagemetadata.s3.eu-west-2.amazonaws.com/1.json",
+  "metadata": {
+    "name": "My Mage #1",
+    "description": "My Mage (is better than your Mage) is an NFT collection of 9999 randomised stat cards living on the Blockchain. Inspired by classic RPGs and collectable card games from the 1990s.",
+    "image": "https://mymagemetadata.s3.eu-west-2.amazonaws.com/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "School of Magic",
+        "value": "Necromancy"
+      },
+      {
+        "trait_type": "Source of Power",
+        "value": "Staff"
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 9
+      },
+      {
+        "trait_type": "Perception",
+        "value": 9
+      },
+      {
+        "trait_type": "Willpower",
+        "value": 2
+      },
+      {
+        "trait_type": "AvgDamage",
+        "value": 6.67
+      },
+      {
+        "trait_type": "Wisdom",
+        "value": 2
+      },
+      {
+        "trait_type": "Charisma",
+        "value": 1
+      },
+      {
+        "trait_type": "Luck",
+        "value": 2
+      },
+      {
+        "trait_type": "AvgUtility",
+        "value": 1.67
+      }
+    ]
+  }
+}

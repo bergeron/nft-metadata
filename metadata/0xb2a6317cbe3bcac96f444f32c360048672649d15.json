@@ -1,0 +1,49 @@
+{
+  "address": "0xb2a6317cbe3bcac96f444f32c360048672649d15",
+  "type": "ERC721",
+  "name": "The MetaPortal: OG1500",
+  "tokenCount": "1500",
+  "uri": "https://metadata.metamundo.co/0xb2a6317cbe3bcac96f444f32c360048672649d15/1",
+  "metadata": {
+    "name": "The MetaPortal: OG1500 #1",
+    "description": "The MetaPortal: OG1500 is a beautifully crafted, metaverse-ready virtual portal full of wonder and adventure. The first 3D NFT asset of its kind, The MetaPortal: OG1500 is ready for use across the open metaverse, including Decentraland and Cryptovoxels.\n\nDownload your metaverse-ready 3D files at: [metamundo.co](https://metamundo.co)",
+    "image": "https://metamundo-metadata.s3.eu-central-1.amazonaws.com/metaportal/metaportal.png",
+    "animation_url": "https://metamundo-metadata.s3.eu-central-1.amazonaws.com/metaportal/metaportal.mp4",
+    "audio_url": "",
+    "external_url": "https://metamundo.co/metaportal",
+    "metaverse_models": [
+      {
+        "metaverse_name": "Original Format",
+        "file_url": "https://metaportal-files.s3.eu-central-1.amazonaws.com/MetaMundo_MetaPortal-DCL.glb",
+        "image": "",
+        "animation_url": ""
+      },
+      {
+        "metaverse_name": "Decentraland optimised",
+        "file_url": "https://metaportal-files.s3.eu-central-1.amazonaws.com/metaportal-glb.zip",
+        "image": "",
+        "animation_url": ""
+      },
+      {
+        "metaverse_name": "Spatial optimised",
+        "file_url": "https://metaportal-files.s3.eu-central-1.amazonaws.com/MetaMundoPortal-SPATIAL.glb",
+        "image": "",
+        "animation_url": ""
+      },
+      {
+        "metaverse_name": "Cryptovoxels optimised",
+        "file_url": "https://metaportal-files.s3.eu-central-1.amazonaws.com/MetaMundo_MetaPortal-CryptoVoxels.vox",
+        "image": "",
+        "animation_url": ""
+      }
+    ],
+    "attributes": {
+      "trait_type": "",
+      "value": "",
+      "display_type": "",
+      "model_type": "Device"
+    },
+    "additional_files": [],
+    "metafield": "© 2023 MetaMundo, All Rights Reserved."
+  }
+}

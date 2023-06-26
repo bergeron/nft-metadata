@@ -1,0 +1,27 @@
+{
+  "address": "0xf7af6dd6c36fc42eb802b33d48ea3d395803c8ea",
+  "type": "ERC721",
+  "name": "CheckPunks",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmNc2SrLQ3HAFHei2kYSAX32GCJdm4eLZPjiC3jDt1EgXN/1",
+  "metadata": {
+    "name": "CheckPunks #1",
+    "description": "CheckPunks is a collection of CryptoPunks created using Jack Butcher's Checks.",
+    "image": "ipfs://QmSvdVDenmgDMb8tfLSunARciJ6rPndeZK72LTzzfrNgeq/1.png",
+    "animation_url": "https://checkpunks.s3.us-west-1.amazonaws.com/1.html",
+    "attributes": [
+      {
+        "trait_type": "Notable",
+        "value": "jckbtchr"
+      },
+      {
+        "trait_type": "Set",
+        "value": "Homage"
+      },
+      {
+        "trait_type": "Carbon Copy",
+        "value": "#6307"
+      }
+    ]
+  }
+}

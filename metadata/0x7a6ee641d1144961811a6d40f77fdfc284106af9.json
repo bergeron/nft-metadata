@@ -1,0 +1,35 @@
+{
+  "address": "0x7a6ee641d1144961811a6d40f77fdfc284106af9",
+  "type": "ERC721",
+  "name": "This is Only For Test",
+  "tokenCount": "1000",
+  "uri": "https://bafybeie2cgsrew27idc2o73d5slbl6vjvpv7a2khpkiq4j3k6rk5qmlzla.ipfs.dweb.link/1.json",
+  "metadata": {
+    "name": "NFT Collection Title #1",
+    "description": "NFT Collection Description Genfty.com Demo Project #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Babe"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Teeth"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None"
+      }
+    ],
+    "image": "https://bafybeigtnmpcwn6ue7xureqka35xsb7ivovmks4jm2epmjrwlcu5p7pzxq.ipfs.dweb.link/1.png",
+    "compiler": "genfty.com"
+  }
+}

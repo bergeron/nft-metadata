@@ -1,0 +1,42 @@
+{
+  "address": "0xdd2696308d3a9e53cc55d7c2fa42acddb364181f",
+  "type": "ERC721",
+  "name": "Hashed City",
+  "tokenCount": "6000",
+  "uri": "ipfs://QmasWCfMiyDk5ZAxAoCdDLkZhqCS6dTvWWSjYWPa9yoReC/1.json",
+  "metadata": {
+    "name": "#1 Guntakal Junction",
+    "description": "Hashed City it's a digital representation of cities around the world. We manually select some of the bests cities to be part of this collection.",
+    "edition": "Earth",
+    "date": 1651936196,
+    "image": "ipfs://QmSZdLikMUWTJwncbnRE3cNW3DyRaCsqfPyfyFpoi7vfCB/1.png",
+    "external_url": "https://hashed.city",
+    "background_color": "#FFFFFF",
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "value": "Earth"
+      },
+      {
+        "trait_type": "Country",
+        "value": "India"
+      },
+      {
+        "trait_type": "Country Code",
+        "value": "IN"
+      },
+      {
+        "trait_type": "Coordinates",
+        "value": "15.17112, 77.36244"
+      },
+      {
+        "trait_type": "Timezone",
+        "value": "Asia/Kolkata"
+      },
+      {
+        "trait_type": "Tier",
+        "value": 1
+      }
+    ]
+  }
+}

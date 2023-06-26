@@ -1,0 +1,25 @@
+{
+  "address": "0xffa516354638b2c9083d1dc90f5482984cdd33c5",
+  "type": "ERC721",
+  "name": "dpunk-item",
+  "tokenCount": "5",
+  "uri": "https://api.mypunks.xyz/v1/metadata/item/1",
+  "metadata": {
+    "name": "Kyoo Pal",
+    "code": "TSJFDY",
+    "description": "Kyoo Pal that can be equipped on MyPunks PFP NFT",
+    "image": "https://storage.googleapis.com/mypunks/TSJFDY.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gradient"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Default"
+      }
+    ],
+    "external_url": "https://mypunks.xyz/items/TSJFDY",
+    "ipfs": "https://ipfs.infura.io/ipfs/QmYkmG9f5VLEfEePnMXmM9xCAMYVoSo81Wbp8CuE4vnzjC"
+  }
+}

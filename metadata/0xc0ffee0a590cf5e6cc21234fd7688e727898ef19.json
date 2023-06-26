@@ -1,0 +1,96 @@
+{
+  "address": "0xc0ffee0a590cf5e6cc21234fd7688e727898ef19",
+  "type": "ERC721",
+  "name": "WittyPixels.art",
+  "tokenCount": "1",
+  "uri": "https://api.wittypixels.art/metadata/1",
+  "metadata": {
+    "name": "ETHDenver 2023",
+    "description": "WittyPixelsTM collaborative art canvas #1 drawn by 1921 attendees during <b>ETHDenver 2023</b> in National Western $SPORK Castle. This token was fractionalized and secured by the [Witnet multichain oracle](https://witnet.io). Historical WittyPixelsTM game info and authors' root can be audited with [Witnet's block explorer](https://witnet.network/search/b9d56f8e178fab41f0d497ac3d2cd6c943d33977f92ca8adfb602512a4eb6975). See actual donations in [Etherscan](https://etherscan.io/address/0x07a286be56d1a769cabf4f47882c9ea1383a5544?fromaddress=0x462b572089d3176c1b916aabe24bc23de459f5e1). Up to 50% of the $ETH from the first auction sale is to be donated to the [TheGivingBlock's Ukraine Emergency Response Fund](https://thegivingblock.com/campaigns/ukraine-emergency-response-fund/). The rest will be distributed to players proportionally to the $WPX fractions they hold on the [WittyPixelsTM official dapp](https://wittypixels.art). ",
+    "external_url": "https://witnet.io",
+    "image": "https://api.wittypixels.art/image/1",
+    "attributes": [
+      {
+        "trait_type": "Event Name",
+        "value": "ETHDenver 2023"
+      },
+      {
+        "trait_type": "Event Venue",
+        "value": "National Western $SPORK Castle"
+      },
+      {
+        "trait_type": "Event Whereabouts",
+        "value": "Colorado, USA"
+      },
+      {
+        "trait_type": "Kick-off Date",
+        "display_type": "date",
+        "value": 1677222000
+      },
+      {
+        "trait_type": "Charity Wallet",
+        "value": "0x07a286be56d1a769cabf4f47882c9ea1383a5544"
+      },
+      {
+        "trait_type": "Charity Donations",
+        "value": "2.258 ETH"
+      },
+      {
+        "trait_type": "Charitable Cause Percentage",
+        "display_type": "boost_number",
+        "value": 50,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Authors' Root",
+        "value": "32dd7c993e678c"
+      },
+      {
+        "trait_type": "Minting Date",
+        "display_type": "date",
+        "value": 1677986519
+      },
+      {
+        "trait_type": "Canvas Digest",
+        "value": "WrKm7RqIPWolwWwIkG2spSsvjpxXyOTkv3dLy+M+CN8="
+      },
+      {
+        "trait_type": "Canvas Height",
+        "display_type": "number",
+        "value": 250
+      },
+      {
+        "trait_type": "Canvas Width",
+        "display_type": "number",
+        "value": 250
+      },
+      {
+        "trait_type": "Canvas Pixels",
+        "value": 41468
+      },
+      {
+        "trait_type": "Canvas Rivalry Index",
+        "display_type": "boost_percentage",
+        "value": 18
+      },
+      {
+        "trait_type": "Canvas Interactivity Index",
+        "display_type": "boost_percentage",
+        "value": 66
+      },
+      {
+        "trait_type": "$WPX Redemption Ratio",
+        "display_type": "boost_percentage",
+        "value": 31
+      },
+      {
+        "trait_type": "Total Players",
+        "value": 1921
+      },
+      {
+        "trait_type": "Total Scans",
+        "value": 5797
+      }
+    ]
+  }
+}

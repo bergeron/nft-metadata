@@ -1,0 +1,18 @@
+{
+  "address": "0x649247fc33915f89b0ea4c3dc6d3d3e3c5cea6c8",
+  "type": "ERC1155",
+  "name": "Uniblocks by PleasrDAO",
+  "tokenCount": "2",
+  "uri": "https://pleasr.house/api/uniblocks/r",
+  "metadata": {
+    "name": "Uniblocks Receipt",
+    "description": "Redeemed, Coward no more.\n\nThis digital receipt is proof of redemption of one Uniblocks™ NFT for a wearable cube, forged from the ashes of three pairs of flame throwered Unisocks and hung on a lovely chain. Somewhere, someone is enjoying Unisocks, on-chain.",
+    "image": "https://pleasr.house/uniblocks/r.png",
+    "attributes": [
+      {
+        "trait_type": "Redeemed",
+        "value": "True"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "address": "0xb21c1a6d48112afd02296806bae89a0a7ab03c02",
+  "type": "ERC721",
+  "name": "AbstractKoFiArt",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/V1HhjWZA5BbumFChyj0BNOcy8tASWHQWDRLCL4r13xQ",
+  "metadata": {
+    "name": "AKA 1",
+    "created_by": "cooldeep.eth",
+    "description": "Strokes soaked in the cup of coffee.  \nSprayed Abstractly kissing the canvas.  \nSpreading the aromatic fragnance of coffee.  \nSynchronised with the tunes of lofi music.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "cooldeep.eth"
+      }
+    ],
+    "animation_details": {
+      "bytes": 140821347,
+      "format": "MP4",
+      "duration": 60,
+      "sha256": "4d01fba8d124836302fee2f2ebe471741aad1a2c157245e2185181449f4c2ff5",
+      "width": 2160,
+      "height": 2800,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/kL2ukQnT5fs0nNHu5pVgSSrNqofsnEkkuwggpojuXn0",
+    "animation_url": "https://arweave.net/kL2ukQnT5fs0nNHu5pVgSSrNqofsnEkkuwggpojuXn0",
+    "image_details": {
+      "bytes": 33687306,
+      "format": "JPEG",
+      "sha256": "afe01a4da7dcb601df69ab852493f531846eaf77de67e512a561cec8afe04263",
+      "width": 17000,
+      "height": 22000
+    },
+    "image": "https://arweave.net/57kNKrSOv4sNmY7dkuPGUBz8RJ67AGq6B7lqNwQO688",
+    "image_url": "https://arweave.net/57kNKrSOv4sNmY7dkuPGUBz8RJ67AGq6B7lqNwQO688"
+  }
+}

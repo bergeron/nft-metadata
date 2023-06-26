@@ -1,0 +1,36 @@
+{
+  "address": "0x18c7e747e7605f6c1b577130c1a33fa5beea6d55",
+  "type": "ERC721",
+  "name": "Pixeltown Online - old",
+  "tokenCount": "1",
+  "uri": "ipfs://QmTJ3JC4z2pjGoNmKPeFVRNkR3VsmPjdFbvgqsAjuDjyis/1.json",
+  "metadata": {
+    "name": "Pixeltown #1",
+    "description": "this is not a pfp project. this is an NFT skirmish. wager your land. wager your nfts. wager your soul. winner takes all. each tile is a deed of land ownership which allows you to battle against your neighbours. all outcomes are completely random. the winner is determined after 3 battles, each of which comprises of a best-of-five skirmish, with an increasing number of units after every round. good luck. come get some!",
+    "image": "ipfs://QmZocaAGq8vYDVuJ6LHbyTmXRTGxL2ceYpaASHmuC59hbd/1.png",
+    "attributes": [
+      {
+        "trait_type": "Tile type",
+        "value": "Rainforest"
+      },
+      {
+        "trait_type": "Total neighbours",
+        "value": "5"
+      },
+      {
+        "trait_type": "Attackable neighbours",
+        "value": "5"
+      },
+      {
+        "trait_type": "Extended neighbours",
+        "value": "31"
+      },
+      {
+        "trait_type": "Net worth",
+        "value": "775"
+      }
+    ],
+    "traitCount": 5,
+    "external_url": "https://pixeltown.online"
+  }
+}

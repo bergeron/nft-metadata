@@ -1,0 +1,65 @@
+{
+  "address": "0x5f7444c89f70afa9ed8ea21060d29935e72d73d1",
+  "type": "ERC721",
+  "name": "AZGA Genesis",
+  "tokenCount": "1111",
+  "uri": "https://azga-metadata.s3.amazonaws.com/data/1",
+  "metadata": {
+    "name": "AZGA #1",
+    "description": "Step into the realm of AZGA. Lead the way with 4,444 assassins forging next-gen apparels x story-telling x gaming.",
+    "external_url": "https://www.azga.co/",
+    "image": "https://azga-metadata.s3.amazonaws.com/images/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Viridescent Celest"
+      },
+      {
+        "trait_type": "Assassin",
+        "value": "Myra"
+      },
+      {
+        "trait_type": "Stance",
+        "value": "Battle"
+      },
+      {
+        "trait_type": "Spirit : Demon",
+        "value": "Skin : Scarlet"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Katana : Amethyst"
+      },
+      {
+        "trait_type": "Sight",
+        "value": "Demon : Canary"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Dreads : Black"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "Overt"
+      },
+      {
+        "trait_type": "Threads : LVL 2",
+        "value": "Shadow Wraith : Azure"
+      },
+      {
+        "trait_type": "Mask & Helm",
+        "value": "Plague Doctor : Silver"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

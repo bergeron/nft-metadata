@@ -1,0 +1,31 @@
+{
+  "address": "0xe774a95551f9a9271b85d4e4718b6dd1ffb1ae89",
+  "type": "ERC721",
+  "name": "Mint Yourself - Your Web3 Profile",
+  "tokenCount": "3",
+  "uri": "https://www.mintyourself.xyz/api/metadata/1/1",
+  "metadata": {
+    "description": "Image of CuriouslyCory's face",
+    "external_url": "https://comingsoon",
+    "image": "https://curiouslycory.com/images/headshot.jpg",
+    "name": "CuriouslyCory",
+    "attributes": [
+      {
+        "trait_type": "Name",
+        "value": "CuriouslyCory"
+      },
+      {
+        "trait_type": "Age",
+        "value": "39"
+      },
+      {
+        "trait_type": "Sex",
+        "value": "Developer"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Deep between the lines of code."
+      }
+    ]
+  }
+}

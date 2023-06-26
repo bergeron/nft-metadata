@@ -1,0 +1,32 @@
+{
+  "address": "0x2ba1135813b9de5a5202723466c35eabcc02b591",
+  "type": "ERC721",
+  "name": "My Pet Ghosts",
+  "tokenCount": "888",
+  "uri": "ipfs://QmV3uFrJrvEPrK1x2w1qUz8Ffk3XDn1CreGZeR1Qd5J4PF/1.json",
+  "metadata": {
+    "name": "My Pet Ghosts #1",
+    "description": "Watch your corpse turn into a ghost over the course of the next few hours... All unique, all hand drawn.. Be ready for the blockchain haunting.",
+    "image": "ipfs://QmfK1z19ZcDA1Gz4erG7QTxE1X6BkGtuXd6yM55pRDJWBJ/1.png",
+    "edition": 1,
+    "date": 1649859699391,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "grey"
+      },
+      {
+        "trait_type": "body",
+        "value": "ectoplazma classic"
+      },
+      {
+        "trait_type": "face",
+        "value": "cyclop"
+      },
+      {
+        "trait_type": "hat",
+        "value": "halo"
+      }
+    ]
+  }
+}

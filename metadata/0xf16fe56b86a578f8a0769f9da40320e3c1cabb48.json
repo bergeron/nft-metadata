@@ -1,0 +1,74 @@
+{
+  "address": "0xf16fe56b86a578f8a0769f9da40320e3c1cabb48",
+  "type": "ERC721",
+  "name": "Tank Dogs",
+  "tokenCount": "777",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmaUBnW1LXyuw2xVvRePZFaxwgjze2xsnQzy1ocZaC8gZ8/1",
+  "metadata": {
+    "name": "Baby Scoot #1",
+    "description": "Minted at the First TankDogs NFT launch. One of the first good boys.",
+    "external_url": "https://panzerdogs.io/",
+    "image": "https://www.panzerdogs.io/nft/0398f6db47fecf63.gif",
+    "attributes": [
+      {
+        "trait_type": "Dog",
+        "value": "Schemer",
+        "trait_count": 419
+      },
+      {
+        "trait_type": "Background",
+        "value": "Cyan",
+        "trait_count": 848
+      },
+      {
+        "trait_type": "Colour",
+        "value": "Salt N Pepper",
+        "trait_count": 579
+      },
+      {
+        "trait_type": "Body",
+        "value": "Yellow Tracksuit",
+        "trait_count": 444
+      },
+      {
+        "trait_type": "Body Accessory",
+        "value": "None",
+        "trait_count": 3568
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "None",
+        "trait_count": 3823
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Samurai Helmet",
+        "trait_count": 21
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "None",
+        "trait_count": 3312
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "https://www.panzerdogs.io/nft/0398f6db47fecf63.png",
+          "type": "image/png"
+        },
+        {
+          "uri": "https://www.panzerdogs.io/nft/0398f6db47fecf63.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": [
+        {
+          "address": "EpNvM4gf2TYzyNX4GYCfF5FnNijhP39U8Pru31M1REVo",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

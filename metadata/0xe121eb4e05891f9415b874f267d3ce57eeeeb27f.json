@@ -1,0 +1,42 @@
+{
+  "address": "0xe121eb4e05891f9415b874f267d3ce57eeeeb27f",
+  "type": "ERC721",
+  "name": "Royal Bully Millionaires Club",
+  "tokenCount": "10",
+  "uri": "https://ipfs.io/ipfs/QmepGNSpKkvjsvkgY1kWDao4An5AxAqRf1BWaGMBtDHSXJ/1.json",
+  "metadata": {
+    "name": "RBMC #1",
+    "description": "",
+    "image": "ipfs://QmeZuU7GKMxpxgWQ8KLKE8kbJkxdrE5KYjKNjPVyB6UJVu/1.png",
+    "dna": "cf1513e65fd909ccb0a4d6146651b16aad2130f0",
+    "edition": 1,
+    "date": 1651288942265,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Seafoam"
+      },
+      {
+        "trait_type": "Bully Color",
+        "value": "Fawn"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Polo Shirt"
+      },
+      {
+        "trait_type": "Emotion",
+        "value": "Greedy"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Lion Cane"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Breton"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

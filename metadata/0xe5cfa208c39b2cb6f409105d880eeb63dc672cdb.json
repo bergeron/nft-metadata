@@ -1,0 +1,104 @@
+{
+  "address": "0xe5cfa208c39b2cb6f409105d880eeb63dc672cdb",
+  "type": "ERC1155",
+  "name": "RAREDRAM",
+  "tokenCount": "1",
+  "uri": "https://backend.raredram.io/wp-json/wpsc/v1/nft1155/1",
+  "metadata": {
+    "id": 1943,
+    "name": "RAREDRAM x BOWMORE 2000 Sherry #RAREDRAM NFT #2 Bowmore 2000 Refill Sherry Hogshead",
+    "description": "",
+    "attributes": [
+      {
+        "trait_type": "creator",
+        "value": "@RAREDRAM"
+      },
+      {
+        "trait_type": "last_modified_gmt",
+        "value": "2023-05-13 03:07:41"
+      },
+      {
+        "trait_type": "Distillery",
+        "current_id": 115,
+        "value": "BOWMORE",
+        "link": "https://backend.raredram.io/nft-taxonomy/bowmore/?id=1938",
+        "parent_id": 29,
+        "parent_value": "Distillery"
+      },
+      {
+        "trait_type": null,
+        "current_id": 34,
+        "value": "Cask Type",
+        "link": "https://backend.raredram.io/nft-taxonomy/cask-type/?id=1938",
+        "parent_id": null,
+        "parent_value": null
+      },
+      {
+        "trait_type": null,
+        "current_id": 23,
+        "value": "Country",
+        "link": "https://backend.raredram.io/nft-taxonomy/country/?id=1938",
+        "parent_id": null,
+        "parent_value": null
+      },
+      {
+        "trait_type": "Cask Type",
+        "current_id": 77,
+        "value": "Refill Sherry Hogshead",
+        "link": "https://backend.raredram.io/nft-taxonomy/refill-sherry-hogshead/?id=1938",
+        "parent_id": 34,
+        "parent_value": "Cask Type"
+      },
+      {
+        "trait_type": "Country",
+        "current_id": 113,
+        "value": "SCOTLAND",
+        "link": "https://backend.raredram.io/nft-taxonomy/scotland/?id=1938",
+        "parent_id": 23,
+        "parent_value": "Country"
+      },
+      {
+        "trait_type": "Age",
+        "value": "2000",
+        "parent_value": "Age"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Single Malt Scotch Whisky",
+        "parent_value": "Type"
+      },
+      {
+        "trait_type": "Size",
+        "value": "700",
+        "parent_value": "Size"
+      },
+      {
+        "trait_type": "ABV",
+        "value": "58.9",
+        "parent_value": "ABV"
+      },
+      {
+        "trait_type": "Region",
+        "value": "Islay, Scotland",
+        "parent_value": "Region"
+      },
+      {
+        "trait_type": "Redeem Date",
+        "value": "20291010",
+        "parent_value": "Redeem Date"
+      }
+    ],
+    "media-type": "image",
+    "external_url": "https://backend.raredram.io/nft-product/?id=1943",
+    "author_id": "1",
+    "author_external_url": "https://backend.raredram.io/nft-authors-6/?a=1&id=1938",
+    "author_avatar": "https://backend.raredram.io/wp-content/uploads/ultimatemember/1/profile_photo-190x190.jpg?1687522527",
+    "author_account": "0x0f92e5981286e631086b3b9b7610b1f78425f4a0",
+    "nft_id": "1",
+    "network": "Main Network",
+    "network_url": "https://etherscan.io/token/0xe5CFa208C39b2cB6f409105D880eEb63dC672Cdb?a=1",
+    "contract": "0xe5CFa208C39b2cB6f409105D880eEb63dC672Cdb",
+    "image": "https://backend.raredram.io/wp-content/uploads/2023/05/Screenshot_bowmore.png",
+    "animation_url": "https://storage.googleapis.com/raredram-36521.appspot.com/casks%2F1941%2Fmedia%2Fecbf9277-dbdf-4047-8e7f-06a24aa95c54.mp4"
+  }
+}

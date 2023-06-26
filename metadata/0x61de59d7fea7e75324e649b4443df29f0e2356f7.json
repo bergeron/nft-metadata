@@ -1,0 +1,23 @@
+{
+  "address": "0x61de59d7fea7e75324e649b4443df29f0e2356f7",
+  "type": "ERC1155",
+  "name": "Nomad Blvd | Collectibles",
+  "tokenCount": "1",
+  "uri": "https://nomad-blvd.kingtide.dev/v1/reward/metadata/1.json",
+  "metadata": {
+    "name": "Nomad Blvd - Founder Token",
+    "description": "The Nomad Blvd Founder Token is your premium pass to the Boulevard. The utility includes access to merch drops, events, and voting rights in the Nomad DAO. Other benefits will be announced soon, but trust us, you'll want to hold on to your Founder Token.",
+    "image": "https://nomad.mypinata.cloud/ipfs/QmVPQdbzCdekag411ZJrKHJDX1t18VsCLyQRk2sD3H7Nja",
+    "external_url": "https://nomadblvd.io",
+    "attributes": [
+      {
+        "trait_type": "Redeems",
+        "value": "1 Founder coin"
+      },
+      {
+        "trait_type": "Finish",
+        "value": "Founder"
+      }
+    ]
+  }
+}

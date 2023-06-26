@@ -1,0 +1,85 @@
+{
+  "address": "0xe376d598bf704bd9313de77857df1e133be5de4c",
+  "type": "ERC721",
+  "name": "1228sad4f5ewqr",
+  "tokenCount": "500",
+  "uri": "https://token.artblocks.io/0x64780ce53f6e966e18a22af13a2f97369580ec11/2000001",
+  "metadata": {
+    "platform": "Art Blocks x Pace",
+    "tokenID": "2000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0xe0182ddf53e7ceb6e350beba879f03f17a1d0809",
+    "name": "QWERTY #1",
+    "minted": true,
+    "artist": "Tara Donovan",
+    "description": "Tara Donovan’s first-ever NFT project, titled QWERTY, comprises 500 unique, generative works that meditate on the ways that type can function as a building block for creating pattern. Donovan, whose practice spans sculpture, installation, drawing, and printmaking, often explores the talismanic qualities of everyday materials and objects. The artist’s new NFT series is deeply engaged with her screen drawings, in which she moves, pinches, and cuts the wires of woven aluminum insect screen to extract patterns from existing grids, using a mathematical methodology to draw out the phenomenological potential of the material.\n\nEach NFT in Donovan’s QWERTY series depicts rhythmic, mesmeric arrangements of a single, repeating letter or symbol represented on computer keyboards. The 26 letters and 30 symbols that make up the layered, gridded compositions of the QWERTY NFTs are rendered in varying degrees of legibility, striking a balance between recognizability and obscurity. These screen-based images take on the qualities of woven textiles, and they are the result of the artist’s meticulous pattern development, organization, and refinement, which she executed through algorithmic processes.\n\nThe first 56 individuals to mint QWERTY NFTs will each receive an archival pigment print of their NFT from the artist and Pace Verso. These works will be signed by Donovan. Complete terms and conditions will be available on Pace’s website before the project’s release on October 10.\n\nDonovan’s QWERTY NFT project can be understood as an extension of the eponymous book she published in 2018, which features patterns the artist forged using characters from a 1930s typewriter. Both the digital and physical iterations of QWERTY reflect Donovan’s interest in surface depth and perspectival mutability. Her QWERTY NFTs shapeshift and transform depending on viewers’ position relative to their screens, bringing ghostly shapes and figurative elements into relief in the compositions’ interstitial spaces. The wide range of patterns in the QWERTY NFTs includes subtle, minimalist grids; architectural forms; psychedelic motifs; and optical illusions.",
+    "script_type": "js@na",
+    "project_id": "2",
+    "image": "https://media-proxy.artblocks.io/0x64780ce53f6e966e18a22af13a2f97369580ec11/2000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x64780ce53f6e966e18a22af13a2f97369580ec11/2000001.png",
+    "generator_url": "https://generator.artblocks.io/0x64780ce53f6e966e18a22af13a2f97369580ec11/2000001",
+    "animation_url": "https://generator.artblocks.io/0x64780ce53f6e966e18a22af13a2f97369580ec11/2000001",
+    "royaltyInfo": {
+      "artistAddress": "0xcaa608ddb85f0896e4d4aae8a2b0c35656d92d1f",
+      "additionalPayee": "0xc21418a93e942ecc8e5c03c74e0723bf5f6ac5e3",
+      "additionalPayeePercentage": 27,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "QWERTY by Tara Donovan",
+    "website": "https://www.pacegallery.com/journal/tara-donovan-qwerty",
+    "token_hash": "0x35f1a126182dbc7018e154386b3c305218b33a816466d8b614a25be78de8e14f",
+    "external_url": "https://artblocks.io/collaborations/artblocksxpace/projects/0x64780ce53f6e966e18a22af13a2f97369580ec11/2/tokens/2000001",
+    "primary_asset_url": "https://generator.artblocks.io/0x64780ce53f6e966e18a22af13a2f97369580ec11/2000001",
+    "features": {
+      "Size": 26,
+      "Type": "Alpha",
+      "Character": "G",
+      "Row Density": 76,
+      "Column Density": 76,
+      "Character Quantity": 5776,
+      "Vertical Wave Phase": "0 Degrees",
+      "Horizontal Wave Phase": "0 Degrees",
+      "Vertical Wave Amplitude": 7,
+      "Vertical Wave Frequency": 1,
+      "Horizontal Wave Amplitude": 2,
+      "Horizontal Wave Frequency": 4
+    },
+    "traits": [
+      {
+        "trait_type": "QWERTY",
+        "value": "All QWERTYs"
+      },
+      {
+        "trait_type": "QWERTY",
+        "value": "Type: Alpha"
+      },
+      {
+        "trait_type": "QWERTY",
+        "value": "Vertical Wave Phase: 0 Degrees"
+      },
+      {
+        "trait_type": "QWERTY",
+        "value": "Horizontal Wave Phase: 0 Degrees"
+      },
+      {
+        "trait_type": "QWERTY",
+        "value": "Vertical Wave Amplitude: 7"
+      },
+      {
+        "trait_type": "QWERTY",
+        "value": "Vertical Wave Frequency: 1"
+      },
+      {
+        "trait_type": "QWERTY",
+        "value": "Horizontal Wave Amplitude: 2"
+      },
+      {
+        "trait_type": "QWERTY",
+        "value": "Horizontal Wave Frequency: 4"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

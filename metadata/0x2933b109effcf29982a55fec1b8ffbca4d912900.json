@@ -1,0 +1,41 @@
+{
+  "address": "0x2933b109effcf29982a55fec1b8ffbca4d912900",
+  "type": "ERC721",
+  "name": "Grillz Gang Gallery",
+  "tokenCount": "25",
+  "uri": "https://arweave.net/Fr5uhqY1zbByuDdLPQU4eekSjRTh2gO7Jny66lsWXug/1",
+  "metadata": {
+    "name": "Lasso #1/5",
+    "created_by": "Jason Seife",
+    "description": "Lasso by Jason Seife. \nCustom Sound Design by Simon Oscroft.\n\nAn exclusive limited edition only available for Grillz Gang.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Jason Seife"
+      }
+    ],
+    "image_details": {
+      "bytes": 16503370,
+      "format": "PNG",
+      "sha256": "449b9ad2ee498eec6d3d41ed2c9271ba80288a605d5e6b522d5a75c26a0c550e",
+      "width": 3840,
+      "height": 2160
+    },
+    "image": "https://arweave.net/wCqp3jcwNRo3Srht8LEyiz6sBDF4wQG4PPCGpGlJEgE",
+    "image_url": "https://arweave.net/wCqp3jcwNRo3Srht8LEyiz6sBDF4wQG4PPCGpGlJEgE",
+    "animation_details": {
+      "bytes": 474346090,
+      "format": "MP4",
+      "duration": 74,
+      "sha256": "ff22453c94a2613f6c2b5864c6b96d0db2b272ff662500485567cdad3705b4bc",
+      "width": 3840,
+      "height": 2160,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/TKIaRN3qI6R9hfP16AZGu2P3eJmFfpQXkVY9KNPkElU",
+    "animation_url": "https://arweave.net/TKIaRN3qI6R9hfP16AZGu2P3eJmFfpQXkVY9KNPkElU"
+  }
+}

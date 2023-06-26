@@ -1,0 +1,51 @@
+{
+  "address": "0x43183eb09642e2787c0831f9739f2dd98c46bbc7",
+  "type": "ERC721",
+  "name": "Mission Lancio",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeifq2m5gqoseankejexu3uhwryvqz23b5bakziiu2j3eyxjn6zkrgm/1.json",
+  "metadata": {
+    "dna": "d61004408d1932e3adc3078abdfb2344a26f5afe36059775fba69fdf80e6a503",
+    "name": "LANCIO #1",
+    "description": "Astronauts",
+    "image": "ipfs://bafybeihawqpvghvu6povakheob3bejacliutn4r4z4r4cnmrdxu2llo6ha/1.jpg",
+    "imageHash": "62223886c7374cf414e87f042eb123aa2c5ec9061fdaa271f401f00307ad8931",
+    "edition": 1,
+    "date": 1682445987777,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "9 Background"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "3D printed screwdriver Accesories"
+      },
+      {
+        "trait_type": "Suit",
+        "value": "1 Suit"
+      },
+      {
+        "trait_type": "Head",
+        "value": "CrewI"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wink Eyes CrewI"
+      },
+      {
+        "trait_type": "Mouth CrewI",
+        "value": "smirk Mouth CrewI"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "3 Nose CrewI"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "1 Helmet"
+      }
+    ],
+    "compiler": "minteeble.com"
+  }
+}

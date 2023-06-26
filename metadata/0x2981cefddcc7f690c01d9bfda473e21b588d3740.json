@@ -1,0 +1,34 @@
+{
+  "address": "0x2981cefddcc7f690c01d9bfda473e21b588d3740",
+  "type": "ERC721",
+  "name": "Pepe Rocks",
+  "tokenCount": "500",
+  "uri": "ipfs://QmSALHb6X5qn2kMZRJ8Rvii9n7tNwhXDW926jbVXWvZmxL/1.json",
+  "metadata": {
+    "name": "Pepe Rocks #1",
+    "description": "Stand.",
+    "image": "ipfs://QmQysA7gA2MEzZTzkEfWBz1LARhyrV8Y8LAtfvy4sB86cB/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Peper"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bandana"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tongue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Classic"
+      }
+    ]
+  }
+}

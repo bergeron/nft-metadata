@@ -1,0 +1,33 @@
+{
+  "address": "0xaa1955cab6df3575ce4bd2854c7adf9ce075905e",
+  "type": "ERC721",
+  "name": "Suppa Punks",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/mqNPrph0aABSBphyi4rHYpXFWhnxUQCWuQz10UGBHzk",
+  "metadata": {
+    "name": "Suppa Punks",
+    "created_by": "SuppaPumpa",
+    "description": "Suppa Punks is a limited edition NFT collection that lives on the Ethereum Blockchain. A max supply of 100 Suppa Punks NFT's will be minted in this collection making them extremely rare!",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "SuppaPumpa"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Punk Number",
+        "value": "1",
+        "max_value": "100"
+      }
+    ],
+    "image_details": {
+      "bytes": 16230,
+      "format": "PNG",
+      "sha256": "6112df55599428921b316af8abb43c0fb7987e934d74907e30cde2501f8822d3",
+      "width": 600,
+      "height": 600
+    },
+    "image": "https://arweave.net/86Q-gtAG2VPzbJitmEywRNY4y9KUX-y8l8wWla7hi3A",
+    "image_url": "https://arweave.net/86Q-gtAG2VPzbJitmEywRNY4y9KUX-y8l8wWla7hi3A"
+  }
+}

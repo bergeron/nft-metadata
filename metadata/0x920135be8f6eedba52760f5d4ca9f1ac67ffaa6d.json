@@ -1,0 +1,47 @@
+{
+  "address": "0x920135be8f6eedba52760f5d4ca9f1ac67ffaa6d",
+  "type": "ERC1155",
+  "name": "auru_test_man_contract_name_001",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/0clbq3qFuei4kp_yAxWuMCyxZLfk2WkbylG53m9rEQs",
+  "metadata": {
+    "name": "auru_test_man_artworktitle_001",
+    "created_by": "auru_test_man_001",
+    "external_url": "http://auru_test_man_001",
+    "description": "auru_test_man_description_001",
+    "auru_test_man_hidden_001": "auru_test_man_hidden_001",
+    "attributes": [
+      {
+        "value": "auru_test_man_text_001",
+        "trait_type": "auru_test_man_text_001"
+      },
+      {
+        "display_type": "number",
+        "max_value": "5",
+        "value": "10",
+        "trait_type": "auru_test_man_number_001"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "auru_test_man_bn_001",
+        "value": "20",
+        "max_value": "100"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "auru_test_man_bp_001",
+        "value": "30",
+        "max_value": "150"
+      }
+    ],
+    "image_details": {
+      "bytes": 82186,
+      "format": "JPEG",
+      "sha256": "8caee9b28ba514ac86a94e12768cadd4fee70a446b82250abf658565fa027a80",
+      "width": 1080,
+      "height": 1596
+    },
+    "image": "https://arweave.net/ngUdwossE0sEjnSYBbdIJXb41rU9-MaY4DyyWEpMXWE",
+    "image_url": "https://arweave.net/ngUdwossE0sEjnSYBbdIJXb41rU9-MaY4DyyWEpMXWE"
+  }
+}

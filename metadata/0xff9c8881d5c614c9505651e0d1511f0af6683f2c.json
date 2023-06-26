@@ -1,0 +1,40 @@
+{
+  "address": "0xff9c8881d5c614c9505651e0d1511f0af6683f2c",
+  "type": "ERC721",
+  "name": "Crypto Cool Cats",
+  "tokenCount": "5",
+  "uri": "http://www.cryptocoolcat.info/api/cats/1",
+  "metadata": {
+    "description": "Cool Cats are cool, but we, lovers of Cool Cats, want to make them even cooler. We give each cool cat a pixel style crypto twin called Crypto Cool Cat, which is programatically, randomly generated via algorithm on the Ethereum blockchain. As Crypto Cool Cats got inspiration from Cool Cats, if you ever hold Cool Cats, you could get awesome Crypto Cool Cats for free.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbrJpanBz6DUK5B78eUPQ9swigS8byMbbgKULatheGNjp",
+    "name": "Crypto Cool Cat #1",
+    "attributes": [
+      {
+        "trait_type": "body",
+        "value": "blue cat skin"
+      },
+      {
+        "trait_type": "hats",
+        "value": "hat black"
+      },
+      {
+        "trait_type": "shirt",
+        "value": "winter red"
+      },
+      {
+        "trait_type": "face",
+        "value": "sunglasses blue"
+      },
+      {
+        "trait_type": "tier",
+        "value": "wild_1"
+      }
+    ],
+    "points": {
+      "Body": 0,
+      "Shirt": 2,
+      "Hats": 2,
+      "Face": 1
+    }
+  }
+}

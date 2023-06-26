@@ -1,0 +1,30 @@
+{
+  "address": "0x2421a0af8badfae12e1c1700e369747d3db47b09",
+  "type": "ERC721",
+  "name": "SenseiStake Ethereum Validator",
+  "tokenCount": "7",
+  "uri": "data:application/json;base64,eyJuYW1lIjoiRVRIIFZhbGlkYXRvciAjMSIsImRlc2NyaXB0aW9uIjoiU2Vuc2VpIFN0YWtlIGlzIGEgbm9uLWN1c3RvZGlhbCBzdGFraW5nIHBsYXRmb3JtIGZvciBFdGhlcmV1bSAyLjAsIHRoYXQgdXNlcyBhIHRvcC1wZXJmb3JtYW5jZSBub2RlIGluZnJhc3RydWN0dXJlIHByb3ZpZGVkIGJ5IFNlbnNlaSBOb2RlLiBFYWNoIE5GVCBvZiB0aGlzIGNvbGxlY3Rpb24gY2VydGlmaWVzIHRoZSBvd25lcnNoaXAgcmVjZWlwdCBmb3Igb25lIGFjdGl2ZSBFVEgyIFZhbGlkYXRvciBhbmQgaXRzIGFjY3J1ZWQgcHJvY2VlZHMgZnJvbSBwcm90b2NvbCBpc3N1YW5jZSBhbmQgdHJhbnNhY3Rpb24gcHJvY2Vzc2luZyBmZWVzLiBUaGVzZSBub2RlcyBhcmUgZGlzdHJpYnV0ZWQgYWNyb3NzIHRoZSBMYXRpbiBBbWVyaWNhbiByZWdpb24sIG9uIGxvY2FsIG9yIHJlZ2lvbmFsIGhvc3Rpbmcgc2VydmljZSBwcm92aWRlcnMsIG91dHNpZGUgY2VudHJhbGl6ZWQgZ2xvYmFsIGNsb3VkIHZlbmRvcnMuIFRvZ2V0aGVyIHdlIGFyZSBmb3N0ZXJpbmcgZGVjZW50cmFsaXphdGlvbiBhbmQgc3RyZW5ndGhlbmluZyB0aGUgRXRoZXJldW0gZWNvc3lzdGVtLiBPbmUgbm9kZSBhdCBhIHRpbWUuIERlY2VudHJhbGl6YXRpb24gbWF0dGVycy4iLCJleHRlcm5hbF91cmwiOiJodHRwczovL2Rhc2hib2FyZC5zZW5zZWlub2RlLmNvbS9yZWRpcnNlbnNlaXN0YWtlP3Y9MHhiMjczNDIzNDg3MDk2ODQwM2U5Y2JhZjViZTlkZDM1ZTllZWFmY2VhZGZlZmViY2M5MmI1MTg3NTcxYjZhOWM0NGVjMzk5MjA3NDBlM2U3ODU4NTBhNTliNDI3YTFmNjciLCJtaW50ZWRfYXQiOjE2ODc0OTEyODcsImltYWdlIjoiaXBmczovL2JhZnliZWlmZ2g2NTcyajJlNmlveHJydHl4YW16Y2lhZGQ3YW5tbnB5eHE0YjMzd2FmcWhwbm5jZzdtIiwiYXR0cmlidXRlcyI6IFt7InRyYWl0X3R5cGUiOiAiVmFsaWRhdG9yIEFkZHJlc3MiLCJ2YWx1ZSI6IjB4YjI3MzQyMzQ4NzA5Njg0MDNlOWNiYWY1YmU5ZGQzNWU5ZWVhZmNlYWRmZWZlYmNjOTJiNTE4NzU3MWI2YTljNDRlYzM5OTIwNzQwZTNlNzg1ODUwYTU5YjQyN2ExZjY3In0seyJ0cmFpdF90eXBlIjoiRXhpdCBEYXRlIiwiZGlzcGxheV90eXBlIjoiZGF0ZSIsInZhbHVlIjoiMTY4MTMxMTEzMSJ9LHsidHJhaXRfdHlwZSI6ICJDb21taXNzaW9uIFJhdGUiLCJkaXNwbGF5X3R5cGUiOiJzdHJpbmciLCJ2YWx1ZSI6IjEwJSJ9XX0=",
+  "metadata": {
+    "name": "ETH Validator #1",
+    "description": "Sensei Stake is a non-custodial staking platform for Ethereum 2.0, that uses a top-performance node infrastructure provided by Sensei Node. Each NFT of this collection certifies the ownership receipt for one active ETH2 Validator and its accrued proceeds from protocol issuance and transaction processing fees. These nodes are distributed across the Latin American region, on local or regional hosting service providers, outside centralized global cloud vendors. Together we are fostering decentralization and strengthening the Ethereum ecosystem. One node at a time. Decentralization matters.",
+    "external_url": "https://dashboard.senseinode.com/redirsenseistake?v=0xb2734234870968403e9cbaf5be9dd35e9eeafceadfefebcc92b5187571b6a9c44ec39920740e3e785850a59b427a1f67",
+    "minted_at": 1687491287,
+    "image": "ipfs://bafybeifgh6572j2e6ioxrrtyxamzciadd7anmnpyxq4b33wafqhpnncg7m",
+    "attributes": [
+      {
+        "trait_type": "Validator Address",
+        "value": "0xb2734234870968403e9cbaf5be9dd35e9eeafceadfefebcc92b5187571b6a9c44ec39920740e3e785850a59b427a1f67"
+      },
+      {
+        "trait_type": "Exit Date",
+        "display_type": "date",
+        "value": "1681311131"
+      },
+      {
+        "trait_type": "Commission Rate",
+        "display_type": "string",
+        "value": "10%"
+      }
+    ]
+  }
+}

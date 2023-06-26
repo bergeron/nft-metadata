@@ -1,0 +1,42 @@
+{
+  "address": "0x47775a6a19164dbec4e898f8079547af0853d495",
+  "type": "ERC721",
+  "name": "GoFruit",
+  "tokenCount": "300",
+  "uri": "ipfs://QmbcpYHvUhGLfiwwqZ3zZXKZ5EDn2kEiMNg2qLvpxMeNh4/1.json",
+  "metadata": {
+    "name": "fruit go #1",
+    "description": "Fruit is really good for you",
+    "image": "ipfs://QmNumDVZ7xHb1GacdgTfAgKoUk8LujuJZp98kna6zu7WGQ/1.png",
+    "attributes": [
+      {
+        "trait_type": "Blueberry Color",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Blueberry Taste",
+        "value": "acidic sweet"
+      },
+      {
+        "trait_type": "Blueberry Size",
+        "value": "small"
+      },
+      {
+        "trait_type": "Blueberry Origin",
+        "value": "north america"
+      },
+      {
+        "trait_type": "Blueberry Calories",
+        "value": "23"
+      },
+      {
+        "trait_type": "Blueberry Rarity",
+        "value": "common"
+      }
+    ],
+    "dna": "a33aa7cbf259e694dee0536aaa226e36d46271db",
+    "edition": 1,
+    "date": 1654000845577,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  }
+}

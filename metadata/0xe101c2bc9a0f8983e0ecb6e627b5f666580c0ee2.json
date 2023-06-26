@@ -1,0 +1,22 @@
+{
+  "address": "0xe101c2bc9a0f8983e0ecb6e627b5f666580c0ee2",
+  "type": "ERC721",
+  "name": "AIRx HERO",
+  "tokenCount": "281",
+  "uri": "https://airxhero-ef0c6a1ca185.herokuapp.com/api/token/general/1",
+  "metadata": {
+    "name": "HERO #1",
+    "description": "AIRx HERO is the next generation of Blockchain Avatars using Artificial Intelligence. AI has found it way into the metaverse and HEROs were created! Own unique 1 of 5050 Avatars that will bring you new adventures in the Metaverse. Each HERO is unique with different Power levels. Collect HERO, CYBER HERO and EPIC HEROs.",
+    "image": "https://ipfs.moralis.io:2053/ipfs/QmUhKGFNhErDMAn4kWe15CDBwPYGhTmyFLuVT72sA9imgt/hero_4k.png",
+    "attributes": [
+      {
+        "trait_type": "Power",
+        "value": 30
+      },
+      {
+        "trait_type": "Type",
+        "value": "Hero"
+      }
+    ]
+  }
+}

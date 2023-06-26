@@ -1,0 +1,74 @@
+{
+  "address": "0x46a9e5b490175724699d09f0f6104c95defd447a",
+  "type": "ERC721",
+  "name": "CREW Coins",
+  "tokenCount": "34",
+  "uri": "https://dojicrew.s3.amazonaws.com/crew/metadata/current/1",
+  "metadata": {
+    "name": "CREW #1",
+    "token": 1,
+    "description": "Crew Coins commemorate the collection of all ranks (1-9) in an X/DOJI faction.\n\nMint XCREW: https://dojicrew.com/\n\nBuy DOJICREW: https://opensea.io/collection/dojicrew",
+    "image": "https://dojicrew.s3.amazonaws.com/crew/2000/current/1.png",
+    "animation_url": "https://i.quantum.tech/crewcoin/1",
+    "external_url": "https://dojicrew.com/crewcoin",
+    "attributes": [
+      {
+        "trait_type": "Faction",
+        "value": "DOJICREW"
+      },
+      {
+        "trait_type": "Rank 1",
+        "value": 4571
+      },
+      {
+        "trait_type": "Rank 2",
+        "value": 4583
+      },
+      {
+        "trait_type": "Rank 3",
+        "value": 2716
+      },
+      {
+        "trait_type": "Rank 4",
+        "value": 4753
+      },
+      {
+        "trait_type": "Rank 5",
+        "value": 125
+      },
+      {
+        "trait_type": "Rank 6",
+        "value": 197
+      },
+      {
+        "trait_type": "Rank 7",
+        "value": 1980
+      },
+      {
+        "trait_type": "Rank 8",
+        "value": 4755
+      },
+      {
+        "trait_type": "Rank 9",
+        "value": 4576
+      },
+      {
+        "trait_type": "Type",
+        "value": "Black"
+      }
+    ],
+    "coin_type": 2,
+    "coin_faction": "DOJICREW",
+    "crew_list": [
+      4571,
+      4583,
+      2716,
+      4753,
+      125,
+      197,
+      1980,
+      4755,
+      4576
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0xc679834212889a70c41869da436bdfe8a3e41156",
+  "type": "ERC721",
+  "name": "SmolBirbs Official",
+  "tokenCount": "3333",
+  "uri": "ipfs://bafybeiery4ksso2wozfyqrfzn4g6qthj7dj6ketbv4ynperp5rkaiubwzi/1.json",
+  "metadata": {
+    "name": "SmolBirb #1",
+    "description": "CryptoBirbs but Small. Tamagotchi integration.",
+    "image": "ipfs://bafybeib3neruojjk3lnvw6dvgt4c7s5zmnryfe3ti6ykfqmijgn4dnsxhu/1.png",
+    "dna": "d7466447fa0dcad312bb8883a63ad84ee2187e11",
+    "edition": 1,
+    "date": 1669930056740,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Paint"
+      },
+      {
+        "trait_type": "Shadow",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Bits",
+        "value": "Feet"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Checker"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Green Cap"
+      }
+    ],
+    "compiler": "Birbs"
+  }
+}

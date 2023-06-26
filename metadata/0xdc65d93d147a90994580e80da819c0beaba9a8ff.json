@@ -1,0 +1,54 @@
+{
+  "address": "0xdc65d93d147a90994580e80da819c0beaba9a8ff",
+  "type": "ERC1155",
+  "name": "NuestraHistoria",
+  "tokenCount": "1",
+  "uri": "ipfs://QmUHytPnKSFMwpfZJ46DbZFWMR8RcFiRUjnEYDcHFQCmde/metadata.json",
+  "metadata": {
+    "description": "Democracia Quisqueyana is ERC-1155 tokens from the Nuestra Historia collection that captures recent immigrants from The Dominican Republic, among others, in protest for free elections during the Dominican Civil War.",
+    "image": "ipfs://QmSRtdrkDWs2QBKXfgvUr1VVDBUcEso5wbCnquuYHJrkW9/1.png",
+    "name": "Democracia Quisqueyana",
+    "attributes": [
+      {
+        "trait_type": "Collection",
+        "value": "Nuestra Historia"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Washington, USA"
+      },
+      {
+        "trait_type": "Uniqueness",
+        "value": "Extreamly"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Taken",
+        "value": -147769840
+      },
+      {
+        "trait_type": "Type",
+        "value": "Restoration"
+      },
+      {
+        "trait_type": "Cause",
+        "value": "Dominican Civil War Protest"
+      },
+      {
+        "trait_type": "Where",
+        "value": "The Dominican Republic"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "value": 1
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Rarity",
+        "value": 98
+      }
+    ],
+    "creator": "JHarmony Labs"
+  }
+}

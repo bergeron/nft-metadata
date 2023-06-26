@@ -1,0 +1,30 @@
+{
+  "address": "0xd2e53a95facbd47fe3973b913cb91fa3b013bbf5",
+  "type": "ERC721",
+  "name": "CryptoHub Ownership Shares",
+  "tokenCount": "44",
+  "uri": "ipfs://QmbQbZGjixPtmeiPF51c9JCxcZTVB67acTibAozfMP3wch/1.json",
+  "metadata": {
+    "name": "Crypto Hub CTO",
+    "description": "Crypto Hub Ownership Shares are represented as NFTs. Each NFT represents a specific share % of the Crypto Hub Investments Platform. Holders of these NFTs are entitled to receive a proportional share of the Crypto Hub Investment's Platform profits and can vote on the future developments and changes in the platform. This NFT represents the CTO ownership of Crypto Hub Investments.",
+    "image": "ipfs://QmTTQPFp5ydBnZ8avLa1M42cujQcbnGFFc25W4cR3BMvgL/images/CTO.png",
+    "attributes": [
+      {
+        "trait_type": "Role",
+        "value": "CTO"
+      },
+      {
+        "trait_type": "Ownership Share",
+        "value": 5,
+        "max_value": 100,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Vote Power",
+        "value": 5,
+        "max_value": 100,
+        "display_type": "number"
+      }
+    ]
+  }
+}

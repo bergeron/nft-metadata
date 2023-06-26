@@ -1,0 +1,42 @@
+{
+  "address": "0xb061e0ae53fce8bb62a827af1314421ff33fb921",
+  "type": "ERC721",
+  "name": "SeaCreatures Genesis",
+  "tokenCount": "66",
+  "uri": "ipfs://QmeX2D5JZ68TZa4sz7RgZnQRPiuzEWZvka2zy5dzfq5xE5/1.json",
+  "metadata": {
+    "name": "Genesis SeaCreatures #1",
+    "description": "Genesis SeaCreatures ready to dive into the Metaverse",
+    "image": "ipfs://QmaHgj5AieN3Cs2csFVshNC4kbjgJXrHeWg7qJYh8L1gfa/1.png",
+    "dna": "27ff44f74fedd1e5f640178bb280db7e3aad77ca",
+    "edition": 1,
+    "date": 1647636686940,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Violet Fade"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Shell",
+        "value": "Red with spikes"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Cyber"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Gold Grillz"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Plastic Straw"
+      }
+    ],
+    "compiler": "SeaVerse"
+  }
+}

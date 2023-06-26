@@ -1,0 +1,86 @@
+{
+  "address": "0x7c38c5db69868e27644b86910b4b6d7899b487b2",
+  "type": "ERC721",
+  "name": "1213kjadsfdasf",
+  "tokenCount": "256",
+  "uri": "https://api.artblocks.io/token/389000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "389000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Miragem #1",
+    "minted": true,
+    "artist": "Third Vision",
+    "description": "Computation is one of the most powerful tools for our age. It opens up a whole world of possibilities. Some people use its power to solve the mysteries of our universe through science. I’m using it to explore our relationship with beauty and perception.\n\n“Miragem” *(Mirage in Portuguese)* is a generative project that requires your slow attention. It’s an exploration of rhythm, balance, and texture. Just simple elements in a coordinated dance, ruled by math and randomness.\n\n**It’s an invitation for the eyes and mind to wander.**\n\n\n >>  ‎  \n>> ## “Beauty is the mystery of life. It is not in the eye, it is in my mind. In our minds there is awareness of perfection.”\n>> Agnes Martin\n\n ‎\n*Please check the project website to know more about the composition and features.*",
+    "script_type": "p5@1.0.0",
+    "project_id": "389",
+    "curation_status": "presents",
+    "image": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/389000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/389000001.png",
+    "generator_url": "https://generator.artblocks.io/389000001",
+    "animation_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/389000001",
+    "royaltyInfo": {
+      "artistAddress": "0xcb52055ee66236b2ef0a04ae6083a2a48cdb03ca",
+      "additionalPayee": "0x53be950aef852806bfd81491809324e513c7f2fc",
+      "additionalPayeePercentage": 20,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Miragem by Third Vision",
+    "website": "https://www.thirdvision.xyz/miragem",
+    "token_hash": "0x29f137b5c5caee949565018f1084e9ea0dc4708e392f3afaf515ce740f0389e8",
+    "external_url": "https://artblocks.io/collections/presents/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/389/tokens/389000001",
+    "primary_asset_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/389000001",
+    "features": {
+      "pattern": "#2",
+      "dash type": "mixed",
+      "wavy path": false,
+      "background": "#1",
+      "dash color": "#3",
+      "group type": "horizontal",
+      "nr of groups": 40,
+      "constrained dashes": true
+    },
+    "traits": [
+      {
+        "trait_type": "Miragem",
+        "value": "All Miragems"
+      },
+      {
+        "trait_type": "Miragem",
+        "value": "pattern: #2"
+      },
+      {
+        "trait_type": "Miragem",
+        "value": "dash type: mixed"
+      },
+      {
+        "trait_type": "Miragem",
+        "value": "wavy path: false"
+      },
+      {
+        "trait_type": "Miragem",
+        "value": "background: #1"
+      },
+      {
+        "trait_type": "Miragem",
+        "value": "dash color: #3"
+      },
+      {
+        "trait_type": "Miragem",
+        "value": "group type: horizontal"
+      },
+      {
+        "trait_type": "Miragem",
+        "value": "nr of groups: 40"
+      },
+      {
+        "trait_type": "Miragem",
+        "value": "constrained dashes: true"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "address": "0xb3f020eab7ccbad2a7d42358d80fa1d3f057fbdb",
+  "type": "ERC721",
+  "name": "98asdfweqr",
+  "tokenCount": "50",
+  "uri": "https://api.artblocks.io/token/341000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "341000001",
+    "series": 8,
+    "aspect_ratio": 0.75,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "RASTER #1",
+    "minted": true,
+    "artist": "itsgalo",
+    "description": "```\n░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░\n\n ██▀███   ▄▄▄        ██████ ▄▄▄█████▓▓█████  ██▀███  \n▓██ ▒ ██▒▒████▄    ▒██    ▒ ▓  ██▒ ▓▒▓█   ▀ ▓██ ▒ ██▒\n▓██ ░▄█ ▒▒██  ▀█▄  ░ ▓██▄   ▒ ▓██░ ▒░▒███   ▓██ ░▄█ ▒\n▒██▀▀█▄  ░██▄▄▄▄██   ▒   ██▒░ ▓██▓ ░ ▒▓█  ▄ ▒██▀▀█▄  \n░██▓ ▒██▒ ▓█   ▓██▒▒██████▒▒  ▒██▒ ░ ░▒████▒░██▓ ▒██▒\n░ ▒▓ ░▒▓░ ▒▒   ▓▒█░▒ ▒▓▒ ▒ ░  ▒ ░░   ░░ ▒░ ░░ ▒▓ ░▒▓░\n  ░▒ ░ ▒░  ▒   ▒▒ ░░ ░▒  ░ ░    ░     ░ ░  ░  ░▒ ░ ▒░\n                                              \n░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░\n```\n\n*Screens no longer only frame and display virtual spacetime. Connected together and surrounding us on all sides, their framings and displays have also opened, activated, and added another spatiotemporal dimension to the four in which all of us live.*\n—Vivian Sobchack, *From Screen-Scape to Screen-Sphere: A Meditation in Medias Res*\n\nAn exploration of a technical concept I call \"pixel overpainting.\"\n\nRasterized procedural brush strokes with low transparency slowly layer themselves over each other in a rhythmic loop until they achieve colorful equilibrium. They continue to overpaint themselves endlessly. The resulting color mixtures are then quantized and dithered to separate them into patches of pixels that recall the discrete materiality of the screen: a strictly digital variation on color field painting. The resulting texture is not a skeuomorphic grain but an overt reference to the universe of screens that surround us every day. Electric light arranged in a grid, fluttering and flickering everywhere all the time.\n\nPlease allow a few minutes for the colors to reach equilibrium.\nFor best results use Chrome browser with enabled webGL and hardware acceleration. Though it is encouraged to explore the subtleties in viewing the same pixels on different hardware and software to reflect on the subjectivity of contemporary computer graphics and the materiality of CPUs, GPUs, resolutions, pixel densities, browser APIs, and other medium-specific entropy.\n\nPress '1', '2', '4', '8' to change pixel sizes.\nPress 'p' or click canvas to pause/resume.\nPress 's' to grab a still frame.\nPress 'r' to re-paint.\n\nCollectors will be eligible to receive a signed giclée print of a still frame of their mint as well as high-resolution looping media in GIF or lossless video format.\n```\n░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░\n```",
+    "script_type": "p5@1.0.0",
+    "project_id": "341",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 8",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/341000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/341000001.mp4",
+    "generator_url": "https://generator.artblocks.io/341000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/341000001",
+    "royaltyInfo": {
+      "artistAddress": "0xedc8a7204873071cca464ed3ac68dec4c69afea4",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "RASTER by itsgalo",
+    "website": "https://www.raster.club/",
+    "token_hash": "0xc6f4b5ad0794cf1ecd7d2866df840ace8c6a24a236457bd5fc6cf2fceb27afd5",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/341/tokens/341000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/341000001",
+    "features": {
+      "Margin": true,
+      "Chaos X": "3",
+      "Chaos Y": "32",
+      "Color Palette": "museum",
+      "No. of Brushes": "24",
+      "Saturated Border": false,
+      "Feedback Resolution": "128",
+      "Warped Subdivisions": "2"
+    },
+    "traits": [
+      {
+        "trait_type": "RASTER",
+        "value": "All RASTERs"
+      },
+      {
+        "trait_type": "RASTER",
+        "value": "Margin: true"
+      },
+      {
+        "trait_type": "RASTER",
+        "value": "Chaos X: 3"
+      },
+      {
+        "trait_type": "RASTER",
+        "value": "Chaos Y: 32"
+      },
+      {
+        "trait_type": "RASTER",
+        "value": "Color Palette: museum"
+      },
+      {
+        "trait_type": "RASTER",
+        "value": "No. of Brushes: 24"
+      },
+      {
+        "trait_type": "RASTER",
+        "value": "Saturated Border: false"
+      },
+      {
+        "trait_type": "RASTER",
+        "value": "Feedback Resolution: 128"
+      },
+      {
+        "trait_type": "RASTER",
+        "value": "Warped Subdivisions: 2"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

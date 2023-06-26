@@ -1,0 +1,39 @@
+{
+  "address": "0x9c5bf30a3fad6469c4695a5e74632012bd406a95",
+  "type": "ERC721",
+  "name": "DEEPSPACE Land Deeds",
+  "tokenCount": "5000",
+  "uri": "https://assets.deepspace.game/land/1",
+  "metadata": {
+    "description": "This Land Deed entitles its owner to a 3D plot of terrain within the DEEPSPACE MMO with the represented characteristics. An individual’s ownership and decision-making rights over this ingame real estate persist as long as ownership of this Deed is maintained. This plot may also include or be subject to additional ingame attributes not represented on the NFT Deed itself.",
+    "image": "https://assets.deepspace.game/land/1.png",
+    "name": "DEEPSPACE Land Deed #1",
+    "external_url": "https://app.deepspace.game/",
+    "attributes": [
+      {
+        "trait_type": "Latitude, Longitude",
+        "value": "-68.17, 140.36"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "Vorvoid"
+      },
+      {
+        "trait_type": "Size",
+        "value": "Estate"
+      },
+      {
+        "trait_type": "Resource Concentration",
+        "value": "Scarce"
+      },
+      {
+        "trait_type": "Resource State",
+        "value": "Exotic"
+      },
+      {
+        "trait_type": "Phenomena",
+        "value": "None"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "address": "0x5f75b17a44625f8814fea5b30fecd3d6ab510bb0",
+  "type": "ERC721",
+  "name": "Flappy Boys",
+  "tokenCount": "3333",
+  "uri": "ipfs://QmXHcK3qAR49bS5uPUidBzLDe6GZdJUHobXHAmZEHq4EuX/1",
+  "metadata": {
+    "name": "Flappy Boys #1",
+    "backgroundColor": "000000",
+    "description": "A collection of playable NFTs inspired by the most frustrating game of the century and our favourite pixel art projects. Each collectible is playable directly on both OpenSea and our website, https://play.flappyboys.com/1, play using left-click, spacebar or a tap.",
+    "external_url": "https://play.flappyboys.com/?gameid=1",
+    "collection_name": "Flappy Boys",
+    "image": "ipfs://QmR3xagvr2r3RcS58m92TZXLxtZJk5AWd6JqLUNUDnH1yE/1.png",
+    "animation_url": "https://play.flappyboys.com/?gameid=1",
+    "series": 1,
+    "attributes": [
+      {
+        "trait_type": "Difficulty",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Background music",
+        "value": "Hooded Cardigan"
+      },
+      {
+        "trait_type": "SFX",
+        "value": "Snappy"
+      },
+      {
+        "trait_type": "Level",
+        "value": "Neo Tokyo"
+      },
+      {
+        "trait_type": "Boy",
+        "value": "Lack"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Unique"
+      }
+    ]
+  }
+}

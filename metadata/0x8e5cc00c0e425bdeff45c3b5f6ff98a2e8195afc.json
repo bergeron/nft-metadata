@@ -1,0 +1,27 @@
+{
+  "address": "0x8e5cc00c0e425bdeff45c3b5f6ff98a2e8195afc",
+  "type": "ERC721",
+  "name": "NIFTYBOT.XYZ",
+  "tokenCount": "2",
+  "uri": "https://niftybot.xyz/api/token/twitter/1",
+  "metadata": {
+    "description": "A NiftyBot Activation Pass for the Twitter NFT Sales Bot.",
+    "external_url": "https://niftybot.xyz/bot/twitter",
+    "image": "https://niftybot.xyz/images/full-pass_twitter.png",
+    "name": "Activation Pass - Twitter",
+    "attributes": [
+      {
+        "trait_type": "Plan",
+        "value": "Twitter"
+      },
+      {
+        "trait_type": "Expires",
+        "value": "Dec 8, 2023"
+      },
+      {
+        "trait_type": "Renewable",
+        "value": "True"
+      }
+    ]
+  }
+}

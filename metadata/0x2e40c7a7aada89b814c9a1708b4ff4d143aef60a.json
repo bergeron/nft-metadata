@@ -1,0 +1,44 @@
+{
+  "address": "0x2e40c7a7aada89b814c9a1708b4ff4d143aef60a",
+  "type": "ERC721",
+  "name": "MXJXN Artworks",
+  "tokenCount": "19",
+  "uri": "https://arweave.net/w3tGSSuh1LI1AxPGO6H1Bi9Pf1ZYkTZbDjsJ6zHOyWg",
+  "metadata": {
+    "name": "Simulated Calm",
+    "created_by": "MXJXN",
+    "description": "Calligraphic meditation as a living, breathing form.",
+    "attributes": [
+      {
+        "trait_type": "video",
+        "value": "QmQgy8gTDoPBdXXAeCVWQrUXjwMUBsjFTnu4XdyyThGDb6"
+      },
+      {
+        "trait_type": "thumbnail",
+        "value": "QmNTa4t1E2LfxbyQ5cxDa1VvpCEwyxsNx8GtfvRyEKJ9bm"
+      }
+    ],
+    "animation_details": {
+      "bytes": 11727591,
+      "format": "MP4",
+      "duration": 40,
+      "sha256": "dec6fecb8c4f1d6e60ec7f91c9a19a73a601db707ca5c377e7b964c05b3d013f",
+      "width": 1024,
+      "height": 1024,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/xY-CY0JdkGmYIKU-JHw1kxPLFyo-__FKnHQZUS818vA",
+    "animation_url": "https://arweave.net/xY-CY0JdkGmYIKU-JHw1kxPLFyo-__FKnHQZUS818vA",
+    "image_details": {
+      "bytes": 8069131,
+      "format": "GIF",
+      "sha256": "4ea335cdd2572ce9626adfdb5520d0bbcb674312316dee9656ed40179d448e2c",
+      "width": 512,
+      "height": 512
+    },
+    "image": "https://arweave.net/_Iu3NbXH7fJ974w-lyPTzB7ZDeZ04P_A02L_O7_IG64",
+    "image_url": "https://arweave.net/_Iu3NbXH7fJ974w-lyPTzB7ZDeZ04P_A02L_O7_IG64"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "address": "0xf084452050e55934bc32bc02a1921abf05443325",
+  "type": "ERC721",
+  "name": "NUMR - Unique Art Number",
+  "tokenCount": "11",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIk5VTVIgMSIsICJkZXNjcmlwdGlvbiI6ICJUaGUgVW5pcXVlIE51bWJlciBORlRzIENvbGxlY3Rpb24uIiwgImF0dHJpYnV0ZXMiOlt7InRyYWl0X3R5cGUiOiAiTnVtYmVyIiwgInZhbHVlIjogIjEifSx7InRyYWl0X3R5cGUiOiAiUG93ZXIiLCAidmFsdWUiOiAiNDAwIn0seyJ0cmFpdF90eXBlIjogIlRpZXIiLCAidmFsdWUiOiAiVWx0aW1hdGUifV0sICJpbWFnZSI6ICJodHRwczovL2ltZy5udW1yLmlvLzEifQ==",
+  "metadata": {
+    "name": "NUMR 1",
+    "description": "The Unique Number NFTs Collection.",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "1"
+      },
+      {
+        "trait_type": "Power",
+        "value": "400"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "Ultimate"
+      }
+    ],
+    "image": "https://img.numr.io/1"
+  }
+}

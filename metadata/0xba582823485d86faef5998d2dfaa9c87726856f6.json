@@ -1,0 +1,62 @@
+{
+  "address": "0xba582823485d86faef5998d2dfaa9c87726856f6",
+  "type": "ERC721",
+  "name": "Gangs Of Skate",
+  "tokenCount": "2022",
+  "uri": "https://gangs-of-skate.fra1.digitaloceanspaces.com/json/1.json",
+  "metadata": {
+    "name": "Gangs of Skate #1",
+    "description": "Skateboarding is not a crime...",
+    "image": "https://gangs-of-skate.fra1.digitaloceanspaces.com/img/1.png",
+    "dna": "34878f2e731480ef1f547636aeb25e7c4db3815d",
+    "edition": 1,
+    "date": 1670235616848,
+    "attributes": [
+      {
+        "trait_type": "rage",
+        "value": "nothing"
+      },
+      {
+        "trait_type": "wheels",
+        "value": "power yellow"
+      },
+      {
+        "trait_type": "track",
+        "value": "pump"
+      },
+      {
+        "trait_type": "border",
+        "value": "white"
+      },
+      {
+        "trait_type": "grip tape",
+        "value": "dark grey"
+      },
+      {
+        "trait_type": "special woman",
+        "value": "alien"
+      },
+      {
+        "trait_type": "woman pants",
+        "value": "leggins brown"
+      },
+      {
+        "trait_type": "woman shirt",
+        "value": "bikini blue"
+      },
+      {
+        "trait_type": "shoes",
+        "value": "boot"
+      },
+      {
+        "trait_type": "weapons",
+        "value": "knife"
+      },
+      {
+        "trait_type": "accessories",
+        "value": "band"
+      }
+    ],
+    "compiler": "Lord of Skate"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "0xd606dc3ae564b10687982d5acf58aca7132fa0d3",
+  "type": "ERC1155",
+  "name": "Unidentified contract",
+  "tokenCount": "26",
+  "uri": "data:application/json;utf8,{\"name\": \"Valence Identity\",\"description\": \"Registered identity\",\"attributes\":[{\"trait_type\": \"owner\", \"value\": \"0x4944bebf00a65a9f13eca45a3d3457153d115ed1\"},{\"trait_type\": \"AuthorityId\", \"value\": \"0xff55549a3ceea32fba4794bf1a649a2363fcda53\"},{\"trait_type\": \"Namespace\", \"value\": \"0xacec60c08439d4352983e0577c5c3a9674982da7\"},{\"trait_type\": \"Curve\", \"value\": \"1\"},{\"trait_type\": \"Index\", \"value\": \"0x0000000000000000000000000000000000000000000000000000000000000001\"}]}",
+  "metadata": {
+    "name": "Valence Identity",
+    "description": "Registered identity",
+    "attributes": [
+      {
+        "trait_type": "owner",
+        "value": "0x4944bebf00a65a9f13eca45a3d3457153d115ed1"
+      },
+      {
+        "trait_type": "AuthorityId",
+        "value": "0xff55549a3ceea32fba4794bf1a649a2363fcda53"
+      },
+      {
+        "trait_type": "Namespace",
+        "value": "0xacec60c08439d4352983e0577c5c3a9674982da7"
+      },
+      {
+        "trait_type": "Curve",
+        "value": "1"
+      },
+      {
+        "trait_type": "Index",
+        "value": "0x0000000000000000000000000000000000000000000000000000000000000001"
+      }
+    ]
+  }
+}

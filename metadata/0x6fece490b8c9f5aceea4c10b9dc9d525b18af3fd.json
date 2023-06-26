@@ -1,0 +1,82 @@
+{
+  "address": "0x6fece490b8c9f5aceea4c10b9dc9d525b18af3fd",
+  "type": "ERC721",
+  "name": "92256asdfqwer",
+  "tokenCount": "71445",
+  "uri": "https://api.artblocks.io/token/364000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "364000001",
+    "series": 8,
+    "aspect_ratio": 0.75,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Act of Emotion #1",
+    "minted": true,
+    "artist": "Kelly Milligan",
+    "description": "_Act of Emotion_ investigates digitally-facilitated abstract expressionism: the act of painting itself as a means of expression, extended into mechanical reach.\nA reflection upon the future of automation, machine consciousness, creativity, and humankind’s inevitable consequences. As we await the next leap, we cling desperately to our belief that emotive art is an exclusively human experience. \nInspired by those that came before—pioneering expressionists and contemporaries alike—the system engages in new methods of painting, free from traditionally accepted physical boundaries and artistic expectations. Action painting for the Connected Age; the system is in perpetual concert, recited in real-time and on-demand. \n\nQuestioned by Colin McCahon, and recontextualised here through a generative lens: \n_How to make a painting beat like, and with, a human heart._\nThe machine’s movements are precise by default, grounded in mathematics. Organic expression must be introduced by twisting and destabilising; a process of broadening bounds that probes the subconscious of both artist and audience. \n\nConfrontingly minimal abstract compositions highlight the tension between rigid mechanical precision and fluid human intuition. Striping and stippling, swooping and darting; noisy automatism contrasted with coded instinct. \nGestural abstraction applied with simulation of brush and emulation of media. Presence discovered through colour, texture, light and space; the works emerge as physically-manifested in digital form. \n\nAre these painted works analogous to physical counterparts? \nCan a machine successfully emotionally connect through this practice?\nLet us consider both the intent and the act that realise a painted artwork.\n\n_“Painting is a state of being. Painting is self-discovery.”_ — Jackson Pollock\n\n# Controls:\n- **[spacebar]** Pause/resume exhibit\n- **[escape]** Reset exhibit\n- **[S]** Export a still image at the current render size\n- **_Double Click/Tap_** to provide a human touch\n\n# Automatic:\n- Render resolution upscales with viewport dimensions. Future exhibits will enhance alongside hardware advance. \n- Playback cadence is hardware-dependent and downscales when limited by hardware. \n- \"**Perpetual**\" tokens continue their performance indefinitely\n\n# Printing:\n\nGeneratively signed giclée print renditions available up to 36x48\" / A0.",
+    "script_type": "js@na",
+    "project_id": "364",
+    "curation_status": "curated",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/364000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/364000001.png",
+    "generator_url": "https://generator.artblocks.io/364000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/364000001",
+    "royaltyInfo": {
+      "artistAddress": "0x3b1383e08e7022ad9c12a62902d0fd6a65f350da",
+      "additionalPayee": "0x2d37188561de40c02620038582e4e3ad21c9ae8a",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Act of Emotion by Kelly Milligan",
+    "website": "https://kellymilligan.art/piece/act-of-emotion",
+    "token_hash": "0xff0f1b99f87279c1e14a9c5dc4f99456dd03bff039a1bddc9eb061268884e95e",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/364/tokens/364000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/364000001",
+    "features": {
+      "Form": "Jazz",
+      "Royal": "No",
+      "Backdrop": "Light",
+      "Grayscale": "No",
+      "Brush Gauge": "Small",
+      "Collaborator": "Present",
+      "Light Source": "Above"
+    },
+    "traits": [
+      {
+        "trait_type": "Act of Emotion",
+        "value": "All Act of Emotions"
+      },
+      {
+        "trait_type": "Act of Emotion",
+        "value": "Form: Jazz"
+      },
+      {
+        "trait_type": "Act of Emotion",
+        "value": "Royal: No"
+      },
+      {
+        "trait_type": "Act of Emotion",
+        "value": "Backdrop: Light"
+      },
+      {
+        "trait_type": "Act of Emotion",
+        "value": "Grayscale: No"
+      },
+      {
+        "trait_type": "Act of Emotion",
+        "value": "Brush Gauge: Small"
+      },
+      {
+        "trait_type": "Act of Emotion",
+        "value": "Collaborator: Present"
+      },
+      {
+        "trait_type": "Act of Emotion",
+        "value": "Light Source: Above"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

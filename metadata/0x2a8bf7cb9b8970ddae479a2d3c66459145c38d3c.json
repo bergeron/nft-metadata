@@ -1,0 +1,44 @@
+{
+  "address": "0x2a8bf7cb9b8970ddae479a2d3c66459145c38d3c",
+  "type": "ERC721",
+  "name": "LightOnChain",
+  "tokenCount": "660",
+  "uri": "https://cdn.lightonchain.com/tokens/1",
+  "metadata": {
+    "name": "i#1",
+    "description": "On Chain Light Installation by 404.zero x Han",
+    "image": "https://cdn.lightonchain.com/tokens/1.jpg",
+    "background_color": "000000",
+    "animation_url": "https://cdn.lightonchain.com/tokens/1.html",
+    "external_url": "https://lightonchain.com/i/1",
+    "attributes": [
+      {
+        "trait_type": "brightness",
+        "value": 66
+      },
+      {
+        "trait_type": "frequency",
+        "value": 46
+      },
+      {
+        "trait_type": "amplitude",
+        "value": 64
+      },
+      {
+        "display_type": "string",
+        "trait_type": "latitude",
+        "value": "37.321577°"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "longitude",
+        "value": "27.4087926°"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "altitude",
+        "value": "114.528 m"
+      }
+    ]
+  }
+}

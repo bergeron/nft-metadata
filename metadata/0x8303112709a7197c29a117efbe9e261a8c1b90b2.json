@@ -1,0 +1,84 @@
+{
+  "address": "0x8303112709a7197c29a117efbe9e261a8c1b90b2",
+  "type": "ERC721",
+  "name": "BUKU 2022 Festival Collection Curated by Autograph",
+  "tokenCount": "8",
+  "uri": "https://gateway.autograph.io/ipfs/QmNxKhdbhKQ77D4pMjc9QdB6x2AH5eGwW7eyz9SBWd9ttB",
+  "metadata": {
+    "name": "Under the Bridge",
+    "description": "The Under the Bridge is an official Autograph NFT as part of the BUKU 2022 Festival Collection by Autograph. The artwork in this NFT was created by the artist PAWS. Autograph NFTs are provided subject to Autograph's Terms Of Service (https://go.autograph.io/tos) and the Terms & Conditions for the BUKU 2022 Festival Collection by Autograph (https://terms.autograph.io/buku2022.pdf).",
+    "image": "ipfs://Qma9XYhc4JiyBfdR3peGK1v2Gsg7vUtndtyBcxUtxqTETc",
+    "http_image": "https://media.autograph.io/image/43fd30a2-15f9-4f25-bfe2-ccd9c4381cba_original_.png",
+    "preview_url": "ipfs://QmbbzYZDkXf83uT7YBk3F7MT4mr5sj7jEbWotBSoyGw4v4",
+    "http_preview_url": "https://media.autograph.io/d4d46152-c2ac-442e-913c-2b0c9e730165_original_.mp4",
+    "animation_url": "ipfs://QmbbzYZDkXf83uT7YBk3F7MT4mr5sj7jEbWotBSoyGw4v4",
+    "http_animation_url": "https://media.autograph.io/a7318508-8d4d-4736-9849-182370d9eb3f_original_.mp4",
+    "autograph_id": "62342c8ec62829001078a2a7",
+    "background_color": "#ffffff",
+    "rarity": "premier_signed",
+    "creator": {
+      "name": "DOGSLOBBER",
+      "autograph_id": "622ff2b7323e77000e14cbb3",
+      "external_url": "https://autograph.io/details/622ff2b7323e77000e14cbb3/user"
+    },
+    "co_creators": [
+      {
+        "name": "DOGSLOBBER",
+        "autograph_id": "622ff2b7323e77000e14cbb3",
+        "external_url": "https://autograph.io/details/622ff2b7323e77000e14cbb3/user"
+      }
+    ],
+    "nft_collection": {
+      "autograph_id": "623413c4a337fb0016370e9f",
+      "external_url": "https://autograph.io/details/623413c4a337fb0016370e9f/collection",
+      "name": "BUKU 2022 Festival Collection Curated by Autograph",
+      "description": "A limited edition of collectibles for the 2022 Buku Festival, produced by Autograph."
+    },
+    "edition_count": 1,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Premier Signed"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "BUKU 2022 Festival Collection Curated by Autograph"
+      },
+      {
+        "trait_type": "Collectible",
+        "value": "Under the Bridge"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Paws"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Edition Number",
+        "value": 1
+      },
+      {
+        "trait_type": "Signed",
+        "value": "Yes"
+      }
+    ],
+    "created_at": "Fri Mar 18 2022 06:54:06 GMT+0000 (Coordinated Universal Time)",
+    "media_type": "video",
+    "external_url": "https://autograph.io/details/623b7b0572c26f0014315ffe/edition",
+    "edition_number": 1,
+    "signatures": [
+      {
+        "autograph_id": "62342c8ec62829001078a2b0",
+        "external_url": "https://autograph.io/details/62342c8ec62829001078a2b0/signature",
+        "creator": {
+          "name": "DOGSLOBBER",
+          "autograph_id": "622ff2b7323e77000e14cbb3",
+          "external_url": "https://autograph.io/details/622ff2b7323e77000e14cbb3/user"
+        },
+        "animation_url": "ipfs://QmP2LVpnPVbX17veGio5rEQNjughgMJv7QoVBk13vEjnMu",
+        "http_animation_url": "https://media.autograph.io/image/c78a4bb2-5e2d-46e4-a877-a01bf00fe666_original_file.png",
+        "created_at": "2022-03-18T06:54:06.548Z"
+      }
+    ]
+  }
+}

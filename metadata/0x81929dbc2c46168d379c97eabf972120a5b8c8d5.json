@@ -1,0 +1,38 @@
+{
+  "address": "0x81929dbc2c46168d379c97eabf972120a5b8c8d5",
+  "type": "ERC721",
+  "name": "Pepe and Friends V2",
+  "tokenCount": "10000",
+  "uri": "ipfs://bafybeigjgognfxgwdlza66b77n6xt7esrgpzxruwy7skzulrydt7dbwpfm/1.json",
+  "metadata": {
+    "name": "Pepe and Friends #1",
+    "description": "The most innovative Pepe NFT during ETH Merge. CC0.",
+    "image": "ipfs://bafybeibjqffiogpyzxtlcbwrutds7p6glatmylgx43o35voxymwkbw57xi/1.png",
+    "dna": "560d5e0bf74d12c77cb852ec3f7020969257abc6",
+    "edition": 1,
+    "date": 1662415768064,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Vested Gym Rat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed Crying"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Restrained Anger"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Popes Hat"
+      }
+    ],
+    "compiler": "Pepe"
+  }
+}

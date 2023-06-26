@@ -1,0 +1,44 @@
+{
+  "address": "0x6e6188f803e7a69aff3699c987829da0b7e0d617",
+  "type": "ERC721",
+  "name": "PX Wizards Game",
+  "tokenCount": "1551",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmRku6xDRrmvQVR4yZZh3zdxsmov8YsimYrAcosAFyVXoe/1",
+  "metadata": {
+    "name": "Wizard #1",
+    "description": "PX Wizards is a collection of 2555 powerful wizards and artifacts to quest through the Everland, a world where you will face many challenges and rise to victory!",
+    "symbol": "PXW",
+    "external_url": "https://pxwizardgame.webflow.io/",
+    "image": "https://testlaunchmynft.mypinata.cloud/ipfs/QmV4icLUytxwyGD6g6oTpynMk6ASqRHc1vvnqcpzF5yGhs/1.gif",
+    "seller_fee_basis_points": 1000,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Autumn"
+      },
+      {
+        "trait_type": "characters",
+        "value": "Death Queen"
+      }
+    ],
+    "collection": {
+      "name": "Wizards",
+      "family": "Creatures"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/QmV4icLUytxwyGD6g6oTpynMk6ASqRHc1vvnqcpzF5yGhs/1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xD8c43947633Cf66aFDC9eAeF17905E4eDc8655BC",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

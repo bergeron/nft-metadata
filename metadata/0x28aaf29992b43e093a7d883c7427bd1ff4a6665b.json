@@ -1,0 +1,49 @@
+{
+  "address": "0x28aaf29992b43e093a7d883c7427bd1ff4a6665b",
+  "type": "ERC721",
+  "name": "Spooktaculars - Undeads of Otranto",
+  "tokenCount": "3333",
+  "uri": "https://spooktaculars.mypinata.cloud/ipfs/QmUxkZWd7RUTksjNwpTx9TyrsYGyMgPLpwwpeB3xK7SevE/1.json",
+  "metadata": {
+    "name": "Spooktaculars #1",
+    "description": "Mysterious creatures of the underworld have awakened and they have only one purpose. Built by community.",
+    "external_url": "",
+    "image": "https://spooktaculars.mypinata.cloud/ipfs/QmdB2oNrGEky6t2hnPYHLzqaXqZAgoKT4WubZMgDF6AqiF/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Vibes"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Frozen"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Worker"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Hairless Red"
+      },
+      {
+        "trait_type": "Eye Gear",
+        "value": "Candy Eye"
+      },
+      {
+        "trait_type": "Mouth Gear",
+        "value": "Bubble Gum"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "Spooktaculars Engine"
+  }
+}

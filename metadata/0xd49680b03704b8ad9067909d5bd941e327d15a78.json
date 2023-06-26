@@ -1,0 +1,48 @@
+{
+  "address": "0xd49680b03704b8ad9067909d5bd941e327d15a78",
+  "type": "ERC721",
+  "name": "MARYLAND DRONE GUY",
+  "tokenCount": "5",
+  "uri": "https://arweave.net/ClndtYlUc_2v0v7NZkzq_cv9omsKmUi4In21aEWdZpI",
+  "metadata": {
+    "name": "Lively Baltimore",
+    "created_by": "Kevin Olson",
+    "description": "This aerial hyperlapse was taken in Baltimore, Maryland using a drone. The process to make this hyperlapse required me to capture 500 individual still images taken every 2 seconds and then combining them all into this one video. Each frame in this video represents one single image that was taken, making this cityscape come to life.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Kevin Olson"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Baltimore, Maryland, USA"
+      },
+      {
+        "trait_type": "Drone",
+        "value": "DJI Mavic 3"
+      }
+    ],
+    "animation_details": {
+      "bytes": 49237573,
+      "format": "MP4",
+      "duration": 20,
+      "sha256": "78bbee94a0f6a1b48090da5709fa97dd14be73233ecee88213b427776ac5fb94",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/R9Ql1fZ-g3FE3OdBSAtJXvE3GtdjH768lSi78o3AFV4",
+    "animation_url": "https://arweave.net/R9Ql1fZ-g3FE3OdBSAtJXvE3GtdjH768lSi78o3AFV4",
+    "image_details": {
+      "bytes": 13185444,
+      "format": "JPEG",
+      "sha256": "c1920571a5bda86714ae7cd22666db43447ceb8ef416ae3302bbc8ed94757116",
+      "width": 5272,
+      "height": 3948
+    },
+    "image": "https://arweave.net/nL4DNaDL9RnnPJOFIH4Lc0Qh30lSQOuGY8wlGmwKE6c",
+    "image_url": "https://arweave.net/nL4DNaDL9RnnPJOFIH4Lc0Qh30lSQOuGY8wlGmwKE6c"
+  }
+}

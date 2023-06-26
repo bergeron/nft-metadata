@@ -1,0 +1,41 @@
+{
+  "address": "0x74c2cf5b5edeeffd0b0d5cc06955ef6ba77a268b",
+  "type": "ERC721",
+  "name": "Onogakki",
+  "tokenCount": "777",
+  "uri": "ipfs://bafybeifzdbhfydhm3t4t2e2hsxaffkkm5ddrdrb3qh3mmd6zkop5gljja4/1.json",
+  "metadata": {
+    "name": "Onogakki #1",
+    "description": "Onogakki is a warrior who maintains peace in a Japanese city in 3019.",
+    "image": "ipfs://bafybeicbb525e2wt7itcxj6hnizte2c564y4j67prbg4l62ob4jc3h6saa/1.png",
+    "edition": 1,
+    "date": 1678637715629,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Invasion"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Shuriken"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Blue 2"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Black 2"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "Blue Mask"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

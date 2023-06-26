@@ -1,0 +1,25 @@
+{
+  "address": "0x28fe1273443f3980697cf2fb739e137ce6f01e0f",
+  "type": "ERC721",
+  "name": "Property Deed",
+  "tokenCount": "2",
+  "uri": "https://ipfs.io/ipfs/bafkreigy25nj5cano6jslnmqas2unktc5ja3xu6m65fuhrz4vje2dqheca",
+  "metadata": {
+    "name": "FINCA DE BARCELONA SEC. 05 No: 14003 Número de finca anterior (en su caso): FINCA DE BARCELONA SEC. 02 No: 48679 CÓDIGO REGISTRAL ÚNICO: 08068000050328 [Dirección: Creu Coberta, 49 3º 2º Barcelona 08014 Spain]",
+    "type": "property_right",
+    "type_es": "derecho_de_propiedad",
+    "external_url": "https://sede.registradores.org/site/propiedad",
+    "attributes": [
+      {
+        "trait_type": "property_registry",
+        "trait_type_es": "registro_de_la_propiedad",
+        "value": "REGISTRO DE LA PROPIEDAD DE BARCELONA No 17 PASSEIG DE LA ZONA FRANCA, 109. PLANTA 2 BARCELONA, ESPAÑA"
+      },
+      {
+        "trait_type": "property_registry_link",
+        "trait_type_es": "link_al_registro_de_la_propiedad",
+        "value": "https://sede.registradores.org/site/propiedad"
+      }
+    ]
+  }
+}

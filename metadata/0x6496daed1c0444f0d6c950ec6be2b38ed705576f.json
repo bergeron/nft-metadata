@@ -1,0 +1,41 @@
+{
+  "address": "0x6496daed1c0444f0d6c950ec6be2b38ed705576f",
+  "type": "ERC721",
+  "name": "Soul Genesis V2",
+  "tokenCount": "10",
+  "uri": "ipfs://QmSw2eTmztH1Edv9SvRctuR3X7Vv3NTgKbAxRBW4dHEL5m/1",
+  "metadata": {
+    "name": "Soul #683",
+    "description": "The Soul is an evolving painting. It changes with the story and makes you a part of it.",
+    "image": "https://soulgenesis.art/api/images/683/11cTdjUhh4h477-stage1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Special",
+        "value": "Soul Genesis"
+      },
+      {
+        "trait_type": "Abstract",
+        "value": "Circles"
+      },
+      {
+        "trait_type": "Flora",
+        "value": "Oak Trees"
+      },
+      {
+        "trait_type": "Flora",
+        "value": "Flowerland"
+      },
+      {
+        "trait_type": "Flora",
+        "value": "Daisies"
+      }
+    ],
+    "dna": "563b855f9486591bdcf829d642c0ad6bf5af0008",
+    "edition": 683,
+    "stage": 1,
+    "frozen": false,
+    "gift": false,
+    "seller_fee_basis_points": 700,
+    "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721"
+  }
+}

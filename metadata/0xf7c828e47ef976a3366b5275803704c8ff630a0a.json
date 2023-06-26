@@ -1,0 +1,35 @@
+{
+  "address": "0xf7c828e47ef976a3366b5275803704c8ff630a0a",
+  "type": "ERC721",
+  "name": "Overdog",
+  "tokenCount": "507",
+  "uri": "https://moonkidsnft.xyz/json/1.json",
+  "metadata": {
+    "name": "OVERDOG #1",
+    "description": "OVERDOG - Barking Strong, A second collection from the MOONKIDS team, featuring the guardian partner of the adventure to the moon.",
+    "image": "https://moonkidsnft.xyz/img/OVERDOG_1.png",
+    "attributes": [
+      {
+        "trait_type": "Style",
+        "value": "Masked"
+      },
+      {
+        "trait_type": "Backdrop",
+        "value": "Gradient"
+      },
+      {
+        "trait_type": "Aspect Ratio",
+        "value": "2:3 Portrait"
+      },
+      {
+        "trait_type": "Version",
+        "value": "Genesis"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 2
+      }
+    ]
+  }
+}

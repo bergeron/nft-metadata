@@ -1,0 +1,41 @@
+{
+  "address": "0x5f2ac299040b27b8d7eed58e26d42e0ef346d585",
+  "type": "ERC721",
+  "name": "Merchie NFT",
+  "tokenCount": "95",
+  "uri": "https://bafybeigjfjc3lhul6edcbr7p5muxvxet2awqb4prxbmiiblk2g3xgi5hku.ipfs.nftstorage.link/1",
+  "metadata": {
+    "name": "Merchie #1",
+    "description": "The genesis collection of M3RCH.xyz phygital marketplace.",
+    "image": "ipfs://bafybeibyphiy4akmkyi44ohpwdqmhovbwc5vggxlhguxy6cv4o43twba6q/1.png",
+    "dna": "3ef0bd41638c64847f8e4d802e210c5d04f1788c",
+    "edition": 1,
+    "date": 1664509985456,
+    "creator": "M3RCH.XYZ | XXCORP INC",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0xF77E68bAD99fb64477e48C7A6d775C0c98B21Ea4",
+    "attributes": [
+      {
+        "trait_type": "Ring",
+        "value": "multi_yellow"
+      },
+      {
+        "trait_type": "Background",
+        "value": "linen"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "diamond"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "brick_red"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "coat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

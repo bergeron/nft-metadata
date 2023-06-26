@@ -1,0 +1,46 @@
+{
+  "address": "0xf1b2b855817cbfff5359e0f69a7e8a21a7c9d4ac",
+  "type": "ERC721",
+  "name": "The Nemesis Lands S1",
+  "tokenCount": "3957",
+  "uri": "https://api.thenemesis.io/v6/lands/assets/1/1",
+  "metadata": {
+    "_id": "62471bdaf581fb397386b6ba",
+    "name": "Land #1",
+    "seed": 17938840,
+    "ownerAddress": "0x0ce538a6f7ce0473383b15d06a3f2220d51e494a",
+    "attributes": [
+      {
+        "trait_type": "Sector",
+        "value": "#1"
+      },
+      {
+        "trait_type": "Terrain",
+        "value": "11 Plots"
+      },
+      {
+        "trait_type": "Filler",
+        "value": "14 Water"
+      },
+      {
+        "trait_type": "Zone",
+        "value": "zone 5"
+      },
+      {
+        "trait_type": "Miner World",
+        "value": "Pirates"
+      },
+      {
+        "trait_type": "Miner Production",
+        "value": "Rare"
+      }
+    ],
+    "miners": [
+      "6414712aac7449018f30ee01"
+    ],
+    "animation_url": "https://storage.thenemesis.io/nfts/lands_s1/mp4/62471bdaf581fb397386b6ba.mp4",
+    "image": "https://storage.thenemesis.io/nfts/lands_s1/jpg1024/62471bdaf581fb397386b6ba.jpg",
+    "external_url": "https://lands.thenemesis.io/lands",
+    "description": "S1 Genesis: 11.520 Lands with water filler spread over 80 sectors. The closer the Lands are to the Sector Center, the rarer they are: zone 1 is the closest, 5 is the farthest. Each Land has 25 building plots for a unique matrix of terrain and filler. 50% of Lands located in Zones from 1 to 5 have a Miner - to be revealed at public sale. Miners generate COINS periodically and let Land Owners earn up to 1.000 USD per year, depending on several factors. The Nemesis Lands total supply: 200.000, 10 Seasons, 10 Planets."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "address": "0xfd69d43b45c17c50351e07d5a7f0543d9d5350b3",
+  "type": "ERC721",
+  "name": "qwerqewr22",
+  "tokenCount": "256",
+  "uri": "https://api.artblocks.io/token/335000001 ",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "335000001",
+    "series": "N/A",
+    "aspect_ratio": 1.3,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Scribblines #1",
+    "minted": true,
+    "artist": "Orpheusk",
+    "description": "**SCRIBBLINES** are a tribute to countless drawings that are being created every day during monotonous meetings and are forever lost in trash.\n\nAlmost everybody has experienced doodling (or scribbling) at some point in our lives to keep our brains active. The mental state of doodling is between awareness and daydreaming and is known to often inspire creative ideas. Studies have shown that this idle scribbling actually plays a significant part in helping a person concentrate and focus. \n\nThere are many types of idle scribbles - *real world objects (e.g. houses, hearts), people, faces, squiggles, boxes and cubes, ladders and stairs, spider webs, triangles, swirls*, among others. \"Scribblines\" has always been my favorite idle drawing.  At the core of each piece is a pivot line, created by a random algorithm. This pivot line defines the shape of the entire art piece. Every additional line traces around the pivot line. Computer generated lines allow for perfecting what is never possible in the “pen and paper world” and thus make this, somewhat obsessive, exercise compelling to the perfectionist’s eye. All these become the basics for the Scribblines features.\n\n**Precision**. Even with great effort it is hard to follow the outlines precisely. In scribblines, the lines precision varies from inaccurate (to simulate hand shaking micro movements) to robotically perfect precision.\n**Determination**. In a real world environment it is unlikely to find enough time or perseverance to fill in the whole paper surface and finish these drawings. Due to this I chose most of the generated Scribblines to fill the whole screen. However some pieces are set to be finished as a 'bulk' shapes and not fill in the whole piece.\n**Paper**. The backgrounds imitate typical types of paper in lighter or darker colour. There are few special 'sticky note' papers in the algorithm as well.\n**Pen**. The most variability is produced by opening all possible pen options. Pen thickness can vary from \"Rollerball - Ultra Fine\" to \"Marker - Extra Bold\". The most variability is provided by variable line widths in one piece. Random line feature chooses from several line width possibilities for each single line. Thickening or thinning line features creates beautiful shapes with a fade-in or fade-out effect. A similar effect is achieved also by varying line color in some of the pieces.",
+    "script_type": "p5@1.0.0",
+    "project_id": "335",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/335000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/335000001.png",
+    "generator_url": "https://generator.artblocks.io/335000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/335000001",
+    "royaltyInfo": {
+      "artistAddress": "0x725fa3f37aa6ed920d8ecebf308d5ddbe500db91",
+      "additionalPayee": "0xcf34bc8459f815a45fa2c20e5a89ea22666173f4",
+      "additionalPayeePercentage": 20,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Scribblines by Orpheusk",
+    "website": "https://orpheusk.com/scribblines/",
+    "token_hash": "0x52d420f75ae8d4f2062b8fafd2233061596449a2669d0e6497dd617964c9acdc",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/335/tokens/335000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/335000001",
+    "features": {
+      "Density": "Standard",
+      "Pen Width": "Rollerball - Bold",
+      "Line Color": "Dark Blue",
+      "Hand Shaking": "Slight Shaking",
+      "Offset lines": "73",
+      "Variable Pen": "None",
+      "Line Curliness": "Wavy",
+      "Background Color": "White",
+      "Number Of Objects": "Siblings"
+    },
+    "traits": [
+      {
+        "trait_type": "Scribblines",
+        "value": "All Scribblines"
+      },
+      {
+        "trait_type": "Scribblines",
+        "value": "Density: Standard"
+      },
+      {
+        "trait_type": "Scribblines",
+        "value": "Pen Width: Rollerball - Bold"
+      },
+      {
+        "trait_type": "Scribblines",
+        "value": "Line Color: Dark Blue"
+      },
+      {
+        "trait_type": "Scribblines",
+        "value": "Hand Shaking: Slight Shaking"
+      },
+      {
+        "trait_type": "Scribblines",
+        "value": "Variable Pen: None"
+      },
+      {
+        "trait_type": "Scribblines",
+        "value": "Line Curliness: Wavy"
+      },
+      {
+        "trait_type": "Scribblines",
+        "value": "Background Color: White"
+      },
+      {
+        "trait_type": "Scribblines",
+        "value": "Number Of Objects: Siblings"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-SA 4.0"
+  }
+}

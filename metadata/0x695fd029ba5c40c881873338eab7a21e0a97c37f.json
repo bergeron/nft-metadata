@@ -1,0 +1,60 @@
+{
+  "address": "0x695fd029ba5c40c881873338eab7a21e0a97c37f",
+  "type": "ERC721",
+  "name": "Cat People NFT",
+  "tokenCount": "999",
+  "uri": "ipfs://Qma1eeMK3s9jWporSKoUZmz3QuMwybzoxQVuGrV9hNxUbv/1.json",
+  "metadata": {
+    "name": "Cat #1",
+    "description": "9,999 unique 3D Cats inspired by culture, fashion and gaming. Powered by the Ethereum blockchain.",
+    "external_url": "https://www.catpeople.io/",
+    "image": "ipfs://QmTdPjFHtofHKBbFhrSaWSXCHtV4Annu9xRYwia6WZgj2x/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bg"
+      },
+      {
+        "trait_type": "Base",
+        "value": "1_teal"
+      },
+      {
+        "trait_type": "Furr",
+        "value": "2_stripe_pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3_eye_dilated"
+      },
+      {
+        "trait_type": "Head",
+        "value": "rockabilly_hair"
+      },
+      {
+        "trait_type": "Torso",
+        "value": "tux_blue"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "no_facewear"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Cat People",
+      "family": "Cat People"
+    },
+    "symbol": ""
+  }
+}

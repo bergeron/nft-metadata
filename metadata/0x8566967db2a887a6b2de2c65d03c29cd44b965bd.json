@@ -1,0 +1,38 @@
+{
+  "address": "0x8566967db2a887a6b2de2c65d03c29cd44b965bd",
+  "type": "ERC721",
+  "name": "Bad Turtles",
+  "tokenCount": "2",
+  "uri": "ipfs://QmV9V72UXwsWWfJoWRvSmJwnBTUSQ97H89cM81Uv4XrTJP/1.json",
+  "metadata": {
+    "name": "bad turtles collection #1",
+    "description": "collections of 2999 Bad Turtles for people",
+    "image": "ipfs://QmZLpU3sy5NRf8fcs65QwztY38y9Ga1dz5g4y1suzVQf3P/1.png",
+    "dna": "f8030f85e07824b7c745391adc0b622d1de06720",
+    "edition": 1,
+    "date": 1651277601831,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "grey"
+      },
+      {
+        "trait_type": "body",
+        "value": "greenturtle"
+      },
+      {
+        "trait_type": "armor",
+        "value": "sunyellow"
+      },
+      {
+        "trait_type": "shell",
+        "value": "brown"
+      },
+      {
+        "trait_type": "glasses",
+        "value": "black"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

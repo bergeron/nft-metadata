@@ -1,0 +1,39 @@
+{
+  "address": "0x66480d5bd9ff432003f72d7d272836d96430da0a",
+  "type": "ERC721",
+  "name": "Omega Droids",
+  "tokenCount": "10000",
+  "uri": "https://api2.0xd38.xyz/1.json",
+  "metadata": {
+    "name": "Droid #1",
+    "description": "They were created to protect all of humanity. Omega droids will have to confront the Alpha Chimera. They are just as powerful and capable as these mutated creatures. Their code is, first and foremost, human safety. They are sure to win the coming war.",
+    "image": "https://api2.0xd38.xyz/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue hospital"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Green alien"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Orange alien Gorgon"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Blue neon lines"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Titan alien chest"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Iron warrior with yellow eyes"
+      }
+    ],
+    "compiler": "https://startnft.app"
+  }
+}

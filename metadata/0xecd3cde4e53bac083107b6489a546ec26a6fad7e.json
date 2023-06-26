@@ -1,0 +1,56 @@
+{
+  "address": "0xecd3cde4e53bac083107b6489a546ec26a6fad7e",
+  "type": "ERC721",
+  "name": "VaXzine Labs",
+  "tokenCount": "4",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=67qKX7au6jrFsEuhXnV0",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1587202484487?alt=media&token=a3ad081d-3940-40d2-ab43-32280bf035b0",
+    "forSale": true,
+    "contractAddress": "0xecd3cde4e53bac083107b6489a546ec26a6fad7e",
+    "description": "crypto-revelations",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1587202820,
+      "_nanoseconds": 51000000
+    },
+    "price": ".1337",
+    "name": "sp33king w/ @devil",
+    "fiatPrice": "$23.37",
+    "attributes": [
+      {
+        "trait_type": "location",
+        "value": "Drumright, OK 74030, USA"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJ8QxzOzVEsYcRHZWNPxvPMRU"
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "http://1337.photos"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1576735200
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": 1579413600
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "youtube_url": "https://youtube.com/vaxzine",
+    "external_url": "https://mintbase.io/my-market/0xecd3cde4e53bac083107b6489a546ec26a6fad7e",
+    "type": "ERC721"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0xea13abfd40ff9119b847a747061e52ace1061ccf",
+  "type": "ERC721",
+  "name": "SheikhsNFT",
+  "tokenCount": "4",
+  "uri": "ipfs://QmeVsHX3o2CiHhRhJyssnNFrJyR9g15csBA91Wi3aDracn/1.json",
+  "metadata": {
+    "name": "SHK #1",
+    "description": "The Sheikhs NFT collection",
+    "image": "ipfs://QmaGCVMUqEDVFb8txTvPWN55nbPtutXYbEX7akVssVZF9e/1.png",
+    "dna": "06ac86d5df30b00778988925d288959da275878a",
+    "edition": 1,
+    "date": 1663059303460,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Black With Beard"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Diamond Necklace"
+      },
+      {
+        "trait_type": "Head",
+        "value": "White Guthra"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Normal Eyes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

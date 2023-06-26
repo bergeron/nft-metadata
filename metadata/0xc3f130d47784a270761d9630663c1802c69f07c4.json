@@ -1,0 +1,38 @@
+{
+  "address": "0xc3f130d47784a270761d9630663c1802c69f07c4",
+  "type": "ERC721",
+  "name": "Dominik Jalowinski Paintings",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=8TXPedaWA4D8VAnUmJZc",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1577490395805?alt=media&token=84201aba-7357-44ba-93ac-d0ad3726ca50",
+    "isForSale": false,
+    "description": "Oil on cardbord, 100 x 70 cm. This is a register of oil painting made in 2017 by Dominik Jalowinski, who's also a creator of this contract and token. Whoever owns this token, should also own original, real oil painting. In case If real painting will be destroyed by any mean, this token represents the only original artwork.\nDJ",
+    "contractAddress": "0xc3f130d47784a270761d9630663c1802c69f07c4",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xc3f130d47784a270761d9630663c1802c69f07c4/8TXPedaWA4D8VAnUmJZc",
+    "minter": "0xacf78f848d471155fee4a18e75a7b2e7db02dc09",
+    "mintedOn": {
+      "_seconds": 1577491081,
+      "_nanoseconds": 567000000
+    },
+    "price": "0",
+    "name": "autoportret",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "autoportret"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "minted": "Minted on Mintbase.io"
+  }
+}

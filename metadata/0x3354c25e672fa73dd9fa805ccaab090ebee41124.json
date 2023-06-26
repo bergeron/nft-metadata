@@ -1,0 +1,59 @@
+{
+  "address": "0x3354c25e672fa73dd9fa805ccaab090ebee41124",
+  "type": "ERC721",
+  "name": "Zombie Cryptart",
+  "tokenCount": "9999",
+  "uri": "ipfs://bafybeihlutmj6zuzfm2rtzdjsqr6a23kgtgx5lmdah6qywqv7fmqp7srbm/1.json",
+  "metadata": {
+    "name": "Zombie Cryptart #1",
+    "description": "A collection of unique and rare Non-Fungible Tokens (NFTs) inspired by the undead, featuring digital art and collectibles representing the world of zombies. These NFTs showcase the imagination and creativity of artists and collectors alike, capturing the essence of the zombie apocalypse in a one-of-a-kind digital form.",
+    "external_url": "",
+    "image": "ipfs://bafybeidnbzgg2sok3kzmavn5642oouft2y32h6vpa7dajzv2kggy5uflem/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "light-red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "pink-plaid"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "normal"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "red"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "big-teeth"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "wood"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://onemint.io/",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Zombie Cryptart",
+      "family": "Zombie Cryptart"
+    },
+    "symbol": ""
+  }
+}

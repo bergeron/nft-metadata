@@ -1,0 +1,41 @@
+{
+  "address": "0xca62e5e064f980ed39bae1c55732592913825cc8",
+  "type": "ERC1155",
+  "name": "Furbeez",
+  "tokenCount": "100",
+  "uri": "ipfs://bafybeiathbslfrtpv2wj5qxhnqerevkpnzsblk7z7iy3paqrwfnokxy37q/1.json",
+  "metadata": {
+    "name": "Furbeez Collection #1",
+    "description": "Just a fury little character",
+    "image": "ipfs://bafybeid7bwzgirrlv7q3nqkeeurwldp7ronxm36ly2fervebhe4f3xbgcu/1.png",
+    "edition": 1,
+    "date": 1663836859846,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink Paint"
+      },
+      {
+        "trait_type": "Feet",
+        "value": "Vans_Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Bright Blue"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mouth Broken Teeth"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Oakley Dark Blue"
+      },
+      {
+        "trait_type": "Items",
+        "value": "Machine Gun"
+      }
+    ],
+    "compiler": "James Lukensow"
+  }
+}

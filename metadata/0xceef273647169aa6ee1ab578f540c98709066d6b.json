@@ -1,0 +1,30 @@
+{
+  "address": "0xceef273647169aa6ee1ab578f540c98709066d6b",
+  "type": "ERC721",
+  "name": "Coins of Nakamoto",
+  "tokenCount": "26",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=tgiiAnainYp9ALC0Irac",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1578584719494?alt=media&token=f0148cc3-d94d-43d6-841d-c23d3d937a7d",
+    "forSale": false,
+    "editable": true,
+    "contractAddress": "0xceef273647169aa6ee1ab578f540c98709066d6b",
+    "description": "You bought one of the 25 Bitkorn t-shirts!",
+    "type": "ERC721",
+    "tags": [],
+    "external_link": "https://mintbase.io/minted/0xceef273647169aa6ee1ab578f540c98709066d6b/tgiiAnainYp9ALC0Irac",
+    "amountToMint": 25,
+    "numAvailable": 0,
+    "isOpen": true,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1578584744,
+      "_nanoseconds": 979000000
+    },
+    "price": "0",
+    "name": "Bitkorn - Embroidered T-shirt",
+    "fiatPrice": "$0.00",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io"
+  }
+}

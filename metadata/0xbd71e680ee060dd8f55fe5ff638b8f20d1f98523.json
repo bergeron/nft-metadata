@@ -1,0 +1,52 @@
+{
+  "address": "0xbd71e680ee060dd8f55fe5ff638b8f20d1f98523",
+  "type": "ERC721",
+  "name": "Numi NFT",
+  "tokenCount": "1306",
+  "uri": "https://info.numi.one/numi/1",
+  "metadata": {
+    "numi_id": 1,
+    "name": "Numi #1",
+    "description": "A Numi is a 3D coin representation of some of your favorite cyptocurrencies! All Numi's are programmatically and randomly generated using a variety of unique traits. There are tens of thousands of unique combinations, some more rare than others, so each Numi can be uniquely yours. Visit https://numi.one for more info.",
+    "animation_url": "https://numiassets.numi.one/video/QshDY4NzYYWV.mp4",
+    "image": "https://numiassets.numi.one/img/QshDY4NzYYWV.png",
+    "external_url": "https://numi.one",
+    "attributes": [
+      {
+        "trait_type": "Token Name",
+        "value": "Dogecoin"
+      },
+      {
+        "trait_type": "Background Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Coin Color",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Glow Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Mint Mark",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "Star Rating",
+        "value": 1
+      },
+      {
+        "trait_type": "Rarity Points",
+        "value": 4
+      }
+    ],
+    "urls": {
+      "ipfs_video_url": "https://.ipfs.dweb.link",
+      "secondary_video_url": "https://numiassets.numi.one/video/QshDY4NzYYWV.mp4",
+      "video_thumbnail_url": "https://numiassets.numi.one/videothumbnail/QshDY4NzYYWV.mp4",
+      "image_url": "https://numiassets.numi.one/img/QshDY4NzYYWV.png",
+      "image_thumbnail_url": "https://numiassets.numi.one/imgthumbnail/QshDY4NzYYWV.png"
+    }
+  }
+}

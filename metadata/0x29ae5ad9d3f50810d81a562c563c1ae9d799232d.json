@@ -1,0 +1,30 @@
+{
+  "address": "0x29ae5ad9d3f50810d81a562c563c1ae9d799232d",
+  "type": "ERC721",
+  "name": "Wen Sandwich",
+  "tokenCount": "3765",
+  "uri": "https://www.wensandwich.xyz/api/metadata/1",
+  "metadata": {
+    "name": "Wen Sandwich #1",
+    "description": "[Click here to see the tasty insides of your sando.](https://www.wensandwich.xyz/tokens/1_spread.gif)",
+    "image": "https://www.wensandwich.xyz/tokens/1.png",
+    "attributes": [
+      {
+        "trait_type": "Bread",
+        "value": "White Bread"
+      },
+      {
+        "trait_type": "Cheese",
+        "value": "Parmesan Cheese"
+      },
+      {
+        "trait_type": "Toppings",
+        "value": "Sprinkles"
+      },
+      {
+        "trait_type": "Background",
+        "value": "5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "address": "0x629b301c46ad7f07f9c73a84dc1e99d51c52c931",
+  "type": "ERC721",
+  "name": "Only DAO",
+  "tokenCount": "8",
+  "uri": "ipfs://QmSy6Cdpn7Z1vai1dYh7ihzG92BwYFj634YzsfxLesWW34/1",
+  "metadata": {
+    "name": "#1",
+    "description": "We all love baddies! Right?",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Only Blue"
+      },
+      {
+        "trait_type": "Only DAO",
+        "value": "Only Dao"
+      },
+      {
+        "trait_type": "Baddies",
+        "value": "2"
+      },
+      {
+        "trait_type": "Motto",
+        "value": "NGMI"
+      }
+    ],
+    "properties": {
+      "category": "png",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nftdatagen.com",
+    "image": "ipfs://QmRS3p8Grq93pF5z5WYuEKXcantmUVFRwi2bMziFsvw5D1/1.png"
+  }
+}

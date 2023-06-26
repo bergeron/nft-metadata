@@ -1,0 +1,35 @@
+{
+  "address": "0x635223900bb040e62a32e13b48fa615b96a3fee6",
+  "type": "ERC721",
+  "name": "My Pet Squad",
+  "tokenCount": "106",
+  "uri": "ipfs://bafybeied2ba2n7heg7hlkooc244gb5b7jeukkoszi5wkh7z2tt72wibc4q/1.json",
+  "metadata": {
+    "name": "My Pet Squad #1",
+    "image": "ipfs://bafybeig7s4nkpxxi6znxalecobjrjejue62wy35u6o2kgflhzuhrqeh74u/1.png",
+    "description": "My Pet Squad, a digital collection with several types of pets that match our personality.",
+    "compiler": "MPS",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Yawn"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "Bone Collar"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Bull"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Dark Blue Square"
+      }
+    ]
+  }
+}

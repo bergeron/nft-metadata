@@ -1,0 +1,57 @@
+{
+  "address": "0x0cb21a25b9ee7f49521066525cc95515ae117b1f",
+  "type": "ERC721",
+  "name": "Ether Humans",
+  "tokenCount": "3000",
+  "uri": "ipfs://QmNzRQPXbcJxFcFtiGqLB2nKcuJ9rhFdtqNSTS3zxNbYpF/1.json",
+  "metadata": {
+    "name": "Ether Human #1",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://QmVKmhx6qRGcty88ethstUFTsn9i1TZ5ky4PFq4DzW4GDt/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Human"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "Dragon"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Knight"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Bent sword"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Wizard Hat"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

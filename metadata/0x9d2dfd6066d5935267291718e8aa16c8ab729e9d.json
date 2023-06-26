@@ -1,0 +1,25 @@
+{
+  "address": "0x9d2dfd6066d5935267291718e8aa16c8ab729e9d",
+  "type": "ERC1155",
+  "name": "Hats Protocol v1.0",
+  "tokenCount": "6",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIkhhdCIsICJkZXNjcmlwdGlvbiI6ICIiLCAiaW1hZ2UiOiAiaXBmczovL2JhZnliZWlnY2ltYnF3ZmFqc25ob3E3ZnFuYmRsbHo3a3llN2NwZHkzYWRqMnNvYjN3a3UybGx1NWJpIiwicHJvcGVydGllcyI6IHsiZG9tYWluIjogIjAiLCAiaWQiOiAiMSIsICJwcmV0dHkgaWQiOiAiMHgwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxIiwic3RhdHVzIjogImluYWN0aXZlIiwgImN1cnJlbnQgc3VwcGx5IjogIjAiLCAic3VwcGx5IGNhcCI6ICIwIiwgImFkbWluIChpZCkiOiAiMCIsICJhZG1pbiAocHJldHR5IGlkKSI6ICIweDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCAiZWxpZ2liaWxpdHkgbW9kdWxlIjogIjB4MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCIsICJ0b2dnbGUgbW9kdWxlIjogIjB4MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCIsICJtdXRhYmxlIjogImZhbHNlIn19",
+  "metadata": {
+    "name": "Hat",
+    "description": "",
+    "image": "ipfs://bafybeigcimbqwfajsnhoq7fqnbdllz7kye7cpdy3adj2sob3wku2llu5bi",
+    "properties": {
+      "domain": "0",
+      "id": "1",
+      "pretty id": "0x0000000000000000000000000000000000000000000000000000000000000001",
+      "status": "inactive",
+      "current supply": "0",
+      "supply cap": "0",
+      "admin (id)": "0",
+      "admin (pretty id)": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "eligibility module": "0x0000000000000000000000000000000000000000",
+      "toggle module": "0x0000000000000000000000000000000000000000",
+      "mutable": "false"
+    }
+  }
+}

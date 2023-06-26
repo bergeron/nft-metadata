@@ -1,0 +1,30 @@
+{
+  "address": "0xd1ea300ea915c02dd108d1a56ae2cf009e5fdb21",
+  "type": "ERC1155",
+  "name": "Woonkly Mining Power",
+  "tokenCount": "3",
+  "uri": "ipfs://QmbeewpwZ29RoNtN4ewK9BB3AGQ27X4oWSRrUyDJnKsyPo/legendary_ETH.json",
+  "metadata": {
+    "name": "WMP: Legendary",
+    "description": "This Power Cards are used to mine ETH on the Ethereum Network by staking it on https://woonkly.com",
+    "image": "ipfs://QmYFsGDRdpd9QJnvXvNTYex64XZg46FbrwGU6p6mZBYc2J",
+    "attributes": [
+      {
+        "trait_type": "EDITION",
+        "value": "LEGENDARY"
+      },
+      {
+        "trait_type": "POWER",
+        "value": "25% SALES FEE"
+      },
+      {
+        "trait_type": "POWER",
+        "value": "40% AD REVENUE"
+      },
+      {
+        "trait_type": "POWER",
+        "value": "POWER AIRDROPS"
+      }
+    ]
+  }
+}

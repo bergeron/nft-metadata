@@ -1,0 +1,46 @@
+{
+  "address": "0x180e8598a0160492cffdc82a5a301a99565e824a",
+  "type": "ERC721",
+  "name": "Pirates",
+  "tokenCount": "3000",
+  "uri": "ipfs://bafybeifchmhynll5krzwc7mndpquajtok32vu76to5l4oawb54qogblbqu/1.json",
+  "metadata": {
+    "name": "Pirate #1",
+    "description": "3000 Pirate themed generative art collectibles",
+    "image": "ipfs://bafybeifkulww5wag62hhpgxjnifmxu2bjnltaf3olc56wbrlblnnb3wdre/1.png",
+    "dna": "fd9597659f3abae91f6546403c872cee4e99713d",
+    "edition": 1,
+    "date": 1681788993574,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Emerald Forest"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tan Skin"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Bucaneer Vest Maroon"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Groomed"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Pipe"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Black Bandana"
+      },
+      {
+        "trait_type": "Weaponry",
+        "value": "Hook"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

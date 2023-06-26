@@ -1,0 +1,39 @@
+{
+  "address": "0x8ab279fede9817fb78fe802f80f36ceb560b0057",
+  "type": "ERC721",
+  "name": "I Am Rich Coin",
+  "tokenCount": "26",
+  "uri": "https://gateway.pinata.cloud/ipfs/Qmc99p9eA6d8VUqU1UazyAgBnkRHjSgJ3vmTnpYWuqj5Cc/IAmRichCoin_Alpha/IAmRichCoin_Alpha_01_1m_01.json",
+  "metadata": {
+    "name": "I Am Rich Coin - $1,000,000 - Alpha (1 of 50)",
+    "description": "The single mint, 1-of-1, special edition, Alpha release coin with a starting value of $1,000,000.\n\nThere can be only one. Looks like that's you.\n\nThe Alpha Series coin design is simple, stark, and bold in character to embody the spirit of the early adopter who has the foresight to know what on the horizon.\n\nWhether purchased as part of a larger collection or as a single item, ownership of this NFT Coin conveys value, exclusivity, and accomplishment in its owner.\n\nThis coin was originally listed for sale at $1,000,000 in Eth as of Apr, 2021.\nIt is one-of-a-kind, and part of the I Am Rich - Alpha - Limited Release Set.\nNo new Alpha coins will ever be minted again.\n\nCoin Specs: 1 of 1 minted $1,000,000 Coins - 1 of 50 minted Alpha Set Coins.\n\nThe NFT is hosted on Ethereum, related metadata and image assets have both been stored on IPFS to support both distributed and NFT attributes.",
+    "external_url": "https://www.IAmRichCoin.com/series/alpha",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRgkV5HgMUYegBvr7rrHT4ANzvAbfAJzGMdiE8vu35Wtf/IAmRichCoin_Alpha/IAmRichCoin_Alpha_01_1m_01.png",
+    "attributes": [
+      {
+        "trait_type": "Release Date",
+        "value": "April 2021"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Alpha"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "$1,000,000"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Alpha Set",
+        "value": 1,
+        "max_value": 50
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Alpha $1m Tier Set",
+        "value": 1,
+        "max_value": 1
+      }
+    ]
+  }
+}

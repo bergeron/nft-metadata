@@ -1,0 +1,44 @@
+{
+  "address": "0xbbc80ec0d19fdc609e8c2932f4faf4ebdb7b47dc",
+  "type": "ERC721",
+  "name": "HexPhunks",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmYo5JcS4kDw32esFUdkjbx8PDXBgm6xzWkM4LsuXCyw4i/1",
+  "metadata": {
+    "name": "#2",
+    "description": "Your Collection",
+    "image": "ipfs://QmSjeX1LzRyCLkNGBNFtENj7FsTSeC9y5GipL3NJLbNjLm/1.png",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "HEXGRADIENT"
+      },
+      {
+        "trait_type": "MALE BODY",
+        "value": "HEXICAN"
+      },
+      {
+        "trait_type": "MALE JEWELRY",
+        "value": "GOLD EARRING"
+      },
+      {
+        "trait_type": "MALE HEADPIECE",
+        "value": "BLONDE MOHAWK"
+      },
+      {
+        "trait_type": "MALE MOUTHPIECE",
+        "value": "VAPE"
+      }
+    ]
+  }
+}

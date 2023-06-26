@@ -1,0 +1,350 @@
+{
+  "address": "0xb7f4ebebed994c140f0848e8584473c91fdb6f93",
+  "type": "ERC721",
+  "name": "M3Games",
+  "tokenCount": "60",
+  "uri": "ipfs://QmT1Ub8Uo7wyUdCN22ox1RKvzMwrbX4E6htZiCPF4Si89U/1.json",
+  "metadata": {
+    "name": "Tooflex #1",
+    "description": "This Alpha NFT Edition includes only 7 NFTs for SweetClash Metaverse and was minted on Ethereum Blockchain",
+    "gameVersion": "SweetClash",
+    "image": "ipfs://QmfZZXqhpkQ3cYUt8yN8pzjAHbVAeNtdprgf6GxEMcNn49/1.png",
+    "dna": "52c4a5a40a2ab106a680d0f465c3682a6b86a515634ce70ecf8769f655057e20",
+    "edition": 1,
+    "date": 1668117406812,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "27"
+      },
+      {
+        "trait_type": "Character Id",
+        "value": "28"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Tooflex - L"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Skill1",
+        "value": "10"
+      },
+      {
+        "trait_type": "Level",
+        "value": 1
+      }
+    ],
+    "glb": "ipfs://QmXH576nkN1MFcUEhwXrUVgDCKgu5z7hGYwmDGzewnRoHh/C28-L1.glb",
+    "animation_url": "ipfs://QmVVdweT8QtK44Ly4skAkKNrLxLvZaz3o9btvDhsPs85m6/C28-L1/C28-L1-E.mp4",
+    "licence": "The owner of this n°52c4a5a40a2ab106a680d0f465c3682a6b86a515634ce70ecf8769f655057e20 has a non-exclusive personal and commercial license, including the right to rent, sell, use, distribute and modify any assets included in this NFT, as long this NFT continue to use MultiMetaMultiverse ( M3 ) royalty, deposit box and reflection protection system.",
+    "configuration": {
+      "CardConfigData": {
+        "type": "0",
+        "requireID": "2",
+        "colliderSize": "40",
+        "manaUsage": "5",
+        "chipCountNeedToUnlock": "1",
+        "deployTime": "1",
+        "canAttack": "1",
+        "deadAfterAttack": "0",
+        "deadAfterAttackSpawnSpellID": "-1",
+        "rangeShot": "130",
+        "rangeSeeEnemy": "160",
+        "rushToEnemy": "0",
+        "speedMovement": "25",
+        "canFly": "0",
+        "beforeAttackDelay": "1.38",
+        "afterAttackDelay": "0.32",
+        "isMelee": "0",
+        "isParabolaProjectile": "0",
+        "makeAOEDamageNotShootProjectile": "0",
+        "projectileID": "14",
+        "projectileSpeed": "200",
+        "onlyAttackTower": "0",
+        "firePointOffsetX0": "-5",
+        "firePointOffsetY0": "-60",
+        "firePointOffsetX1": "-10",
+        "firePointOffsetY1": "-30",
+        "firePointOffsetX2": "0",
+        "firePointOffsetY2": "-25",
+        "firePointOffsetX3": "30",
+        "firePointOffsetY3": "15",
+        "firePointOffsetX4": "10",
+        "firePointOffsetY4": "5",
+        "weight": "20",
+        "spellID": "-1",
+        "onSpawnSpellID": "-1",
+        "onDeadSpellID": "-1",
+        "factorySpawnTroopID": "-1",
+        "refreshSkillUseGem": "35",
+        "refreshSkillUseCardCount": "25",
+        "upgradeInfo": [
+          {
+            "spawnCount": "1",
+            "HP": "340",
+            "shield": "0",
+            "damage": "140",
+            "factorySpawnTroopInterval": "0",
+            "factorySpawnTroopCount": "0",
+            "factorySpawnTroopLevel": "0",
+            "factoryLifeTime": "0",
+            "chipCountNeedToUpgrade": "20",
+            "moneyNeedToUpgrade": "200",
+            "AOERange": "40",
+            "chargeInterval": "0",
+            "chargeBounce": "0",
+            "dashInterval": "0",
+            "dashBounce": "0",
+            "exp": "40"
+          },
+          {
+            "spawnCount": "1",
+            "HP": "357",
+            "shield": "0",
+            "damage": "147",
+            "factorySpawnTroopInterval": "0",
+            "factorySpawnTroopCount": "0",
+            "factorySpawnTroopLevel": "0",
+            "factoryLifeTime": "0",
+            "chipCountNeedToUpgrade": "100",
+            "moneyNeedToUpgrade": "600",
+            "AOERange": "40",
+            "chargeInterval": "0",
+            "chargeBounce": "0",
+            "dashInterval": "0",
+            "dashBounce": "0",
+            "exp": "200"
+          },
+          {
+            "spawnCount": "1",
+            "HP": "374",
+            "shield": "0",
+            "damage": "154",
+            "factorySpawnTroopInterval": "0",
+            "factorySpawnTroopCount": "0",
+            "factorySpawnTroopLevel": "0",
+            "factoryLifeTime": "40",
+            "chipCountNeedToUpgrade": "200",
+            "moneyNeedToUpgrade": "1200",
+            "AOERange": "40",
+            "chargeInterval": "0",
+            "chargeBounce": "0",
+            "dashInterval": "0",
+            "dashBounce": "0",
+            "exp": "600"
+          },
+          {
+            "spawnCount": "1",
+            "HP": "391",
+            "shield": "0",
+            "damage": "161",
+            "factorySpawnTroopInterval": "0",
+            "factorySpawnTroopCount": "0",
+            "factorySpawnTroopLevel": "0",
+            "factoryLifeTime": "0",
+            "chipCountNeedToUpgrade": "800",
+            "moneyNeedToUpgrade": "4800",
+            "AOERange": "40",
+            "chargeInterval": "0",
+            "chargeBounce": "0",
+            "dashInterval": "0",
+            "dashBounce": "0",
+            "exp": "2400"
+          },
+          {
+            "spawnCount": "1",
+            "HP": "408",
+            "shield": "0",
+            "damage": "168",
+            "factorySpawnTroopInterval": "0",
+            "factorySpawnTroopCount": "0",
+            "factorySpawnTroopLevel": "0",
+            "factoryLifeTime": "50",
+            "chipCountNeedToUpgrade": "0",
+            "moneyNeedToUpgrade": "0",
+            "AOERange": "40",
+            "chargeInterval": "0",
+            "chargeBounce": "0",
+            "dashInterval": "0",
+            "dashBounce": "0",
+            "exp": "4800"
+          }
+        ]
+      },
+      "Traduction": {
+        "CharacterName": {
+          "en_US": "Tooflex",
+          "fr_FR": "Tooflex",
+          "de_DE": "Tooflex",
+          "cn_CN_S": "Tooflex",
+          "uae_UAE": "Tooflex",
+          "jp_JP": "Tooflex",
+          "pt_PT": "Tooflex",
+          "ru_RU": "Туфлекс",
+          "it_IT": "Tooflex",
+          "bg_BG": "Туфлекс",
+          "sp_SP": "Tooflex",
+          "tu_TU": "Tooflex"
+        },
+        "CharacterDescription": {
+          "en_US": "Ranged unit that attacks all unit types.\nHuge splash area damage and has good amount of hit points",
+          "fr_FR": "Unité à distance pouvant attaquer toutes les unités\nA un bon nombre de points de vie et inflige de très gros dégâts de zone",
+          "de_DE": "Fernkampf Dps, die alle Einheiten angreifen\nRiesige Spritzflächenschäden und gute Schadenspunkte",
+          "cn_CN_S": "攻击所有单位类型的远程单位。\n巨大的飞溅区域伤害，并有良好的命中点量 ",
+          "uae_UAE": "من النوع المهاجم عن بعد، والذي يهاجم جميع الوحدات\n يغطي مساحة كبيرة من الضرر والمقاومة",
+          "jp_JP": "すべてのユニットタイプを攻撃する遠隔ユニット。\n巨大なスプラッシュエリアのダメージとヒットポイントの良い量を持 ",
+          "pt_PT": "DPS a distância, ataca todas as unidades.\nGrande dano de área e boa resitência.",
+          "ru_RU": "Дальник ДПС, атакующий всех юнитов\nБольшая область урона и хорошая долговечность",
+          "it_IT": "Forte attacco a distanza che attacca tutte le unità\nEnorme danno all'area di schizzi e buona durata",
+          "bg_BG": "Нападащ от разстояние герой ,атакуващ всички цели.\n Голям периметър на поражение и добра издръжливост",
+          "sp_SP": "DPS atacando remotamente a todas las unidades\nDaño en zona grande y buena resistencia",
+          "tu_TU": "Uzaktan kumanda edilen DPS tüm ünitelere saldirir\nBölgede genis hasar meydana gelir ve iyi direnç saglarlar"
+        }
+      },
+      "Skills": [
+        {
+          "skillvalue": 163,
+          "skillConfig": {
+            "name": "CardSkillShield",
+            "skillID": "10",
+            "skillType": "1",
+            "showMoveEffect": "0",
+            "moveEffectID": "0",
+            "hitEffectID": "0",
+            "spellRange": "0",
+            "canHitTower": "0",
+            "shield": "100",
+            "chargeInterval": "0",
+            "chargeBounce": "0",
+            "dashInterval": "0",
+            "dashBounce": "0",
+            "cardSkillRefreshProbability": "20",
+            "cardSkillData": {
+              "minValue": "50",
+              "maxValue": "200",
+              "factorySpawnTroopID": "-1",
+              "factorySpawnTroopInterval": "0",
+              "factorySpawnTroopCount": "0",
+              "factorySpawnTroopLevel": "0",
+              "shield": "0"
+            }
+          }
+        }
+      ],
+      "CharacterAnimationConfigData": {
+        "name": "Candyzard",
+        "characterSize": "110",
+        "imageSize": "1100",
+        "underAttackedAnimationAttackerIDArray": "",
+        "customKeyC": "0",
+        "customKeyD": "0",
+        "customKeyE": "0",
+        "animations": [
+          {
+            "name": "StandUp",
+            "frameCount": "1",
+            "speed": "0",
+            "shadowOffsetX": "-10",
+            "shadowOffsetY": "30"
+          },
+          {
+            "name": "StandDown",
+            "frameCount": "1",
+            "speed": "0",
+            "shadowOffsetX": "-10",
+            "shadowOffsetY": "30"
+          },
+          {
+            "name": "WalkUp",
+            "frameCount": "13",
+            "speed": "13",
+            "shadowOffsetX": "-10",
+            "shadowOffsetY": "30"
+          },
+          {
+            "name": "WalkRightUp",
+            "frameCount": "13",
+            "speed": "13",
+            "shadowOffsetX": "-10",
+            "shadowOffsetY": "30"
+          },
+          {
+            "name": "WalkRight",
+            "frameCount": "13",
+            "speed": "13",
+            "shadowOffsetX": "-10",
+            "shadowOffsetY": "30"
+          },
+          {
+            "name": "WalkRightDown",
+            "frameCount": "13",
+            "speed": "13",
+            "shadowOffsetX": "-10",
+            "shadowOffsetY": "30"
+          },
+          {
+            "name": "WalkDown",
+            "frameCount": "13",
+            "speed": "13",
+            "shadowOffsetX": "-10",
+            "shadowOffsetY": "30"
+          },
+          {
+            "name": "AttackUp",
+            "frameCount": "16",
+            "speed": "10",
+            "shadowOffsetX": "-10",
+            "shadowOffsetY": "30"
+          },
+          {
+            "name": "AttackRightUp",
+            "frameCount": "16",
+            "speed": "10",
+            "shadowOffsetX": "-10",
+            "shadowOffsetY": "30"
+          },
+          {
+            "name": "AttackRight",
+            "frameCount": "16",
+            "speed": "10",
+            "shadowOffsetX": "-10",
+            "shadowOffsetY": "30"
+          },
+          {
+            "name": "AttackRightDown",
+            "frameCount": "16",
+            "speed": "10",
+            "shadowOffsetX": "-10",
+            "shadowOffsetY": "30"
+          },
+          {
+            "name": "AttackDown",
+            "frameCount": "16",
+            "speed": "10",
+            "shadowOffsetX": "-10",
+            "shadowOffsetY": "30"
+          }
+        ]
+      },
+      "AnimationImages": {
+        "Attack": "ipfs://QmbU52kWyrfXcczzFyQ2b2P6mAMxiTy68pLTF3E1XEqe2J/C28/Level0/Attack.png",
+        "Walk": "ipfs://QmbU52kWyrfXcczzFyQ2b2P6mAMxiTy68pLTF3E1XEqe2J/C28/Level0/Walk.png"
+      },
+      "projectile": {
+        "name": "Projectile14",
+        "spriteSize": "50",
+        "imageWidth": "255",
+        "imageHeight": "255",
+        "frameCount": "9",
+        "horCount": "3",
+        "verCount": "3",
+        "animationSpeed": "20"
+      },
+      "projectileAnimation": "ipfs://QmQuaxCApybHe761o34vcwkEtKMjxQxKxZnwuPvJAitTzZ/Projectile14.png"
+    }
+  }
+}

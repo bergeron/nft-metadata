@@ -1,0 +1,33 @@
+{
+  "address": "0x877a7d6f16405bfe244a5db94f74cd279ad6c6d3",
+  "type": "ERC1155",
+  "name": "Orso Test NFTs",
+  "tokenCount": "2",
+  "uri": "https://ipfs.rarity.garden/ipfs/QmNgj1m368aq26HUyd727zqmCsamWSP5PirthcHmN2RPFk",
+  "metadata": {
+    "name": "THIS IS THE WAY",
+    "description": "This is the way intensifies",
+    "image": "https://rarity.infura-ipfs.io/ipfs/QmNPQ5A391g6nbz1NN4MJid5pGse98uAW7fe6MHewfrXDu",
+    "animation_url": "",
+    "audio_url": "",
+    "interactive_url": "",
+    "external_link": "https://www.orsotoken.com/",
+    "attributes": [
+      {
+        "trait_type": "Health",
+        "value": "45",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Attack",
+        "value": "20",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Defense",
+        "value": "300",
+        "display_type": "number"
+      }
+    ]
+  }
+}

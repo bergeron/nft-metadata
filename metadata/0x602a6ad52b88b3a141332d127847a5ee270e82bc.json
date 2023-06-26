@@ -1,0 +1,27 @@
+{
+  "address": "0x602a6ad52b88b3a141332d127847a5ee270e82bc",
+  "type": "ERC721",
+  "name": "MAYC Name Service",
+  "tokenCount": "1",
+  "uri": "https://us-central1-matic-services.cloudfunctions.net/mayc?ens=steve",
+  "metadata": {
+    "is_normalized": true,
+    "name": "steve.mayc.eth",
+    "image": "https://storage.googleapis.com/ensimage/stevemayc.png",
+    "description": "The MAYC Domain steve, which is also the ENS subdomain steve.mayc.eth.",
+    "attributes": [
+      {
+        "trait_type": "Length",
+        "display_type": "number",
+        "value": 5
+      },
+      {
+        "trait_type": "Data Type",
+        "value": "Alphabets"
+      }
+    ],
+    "name_length": 5,
+    "url": "https://app.ens.domains/name/steve.mayc.eth",
+    "version": 0
+  }
+}

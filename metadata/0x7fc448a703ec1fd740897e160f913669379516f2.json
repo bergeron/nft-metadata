@@ -1,0 +1,20 @@
+{
+  "address": "0x7fc448a703ec1fd740897e160f913669379516f2",
+  "type": "ERC721",
+  "name": "Qrystals",
+  "tokenCount": "3",
+  "uri": "https://qrystals.github.io/metadata/1.json",
+  "metadata": {
+    "name": "Qrystal #1",
+    "description": "A virtual gemstone that can store a retrievable and owner-editable memory.",
+    "image": "https://qrystals.github.io/images/1.png",
+    "external_url": "https://qrystals.github.io/view?id=1",
+    "background_color": "000000",
+    "attributes": [
+      {
+        "trait_type": "Purity",
+        "value": "18k"
+      }
+    ]
+  }
+}

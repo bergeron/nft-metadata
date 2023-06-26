@@ -1,0 +1,19 @@
+{
+  "address": "0x19635538b2b1a3a69edf310fce2ca14750681936",
+  "type": "ERC1155",
+  "name": "AdKeys by AdWorld",
+  "tokenCount": "4",
+  "uri": "https://keys.adworld.game/api/keys-metadata/1",
+  "metadata": {
+    "description": "description",
+    "name": "Drippy Key",
+    "image": "https://adw-gem-mint-git-keys-swellgarfo.vercel.app/video/drippy_key.gif",
+    "animation_url": "https://storage.googleapis.com/keys_videos/drippy_key.mp4",
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Drippy"
+      }
+    ]
+  }
+}

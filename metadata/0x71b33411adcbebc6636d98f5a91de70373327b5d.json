@@ -1,0 +1,63 @@
+{
+  "address": "0x71b33411adcbebc6636d98f5a91de70373327b5d",
+  "type": "ERC721",
+  "name": "CL - UwsDeaEPAh",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/BfwaalVdoEJuNe7qDaAIriE6s-fah3hLwRou1Tg5fAs",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1641402062
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Lukita"
+      }
+    ],
+    "description": "\"If you can't find the road, BE THE ROAD\"!",
+    "external_url": "https://cxip.io/nft/0x71b33411adcbebc6636d98f5a91de70373327b5d/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/w-BhDXQQdVhYEGx0DxXyRVgjg-j5NC6p8Qf1tsCl180",
+    "imageUrl": "https://arweave.net/w-BhDXQQdVhYEGx0DxXyRVgjg-j5NC6p8Qf1tsCl180",
+    "name": "ElCamino NFT",
+    "properties": {
+      "created_at": "2022-01-05T17:01:02.000000Z",
+      "creator_wallet": "0x5cbbadf33b078c45676341cb922a6aee3749eb1f",
+      "description": "\"If you can't find the road, BE THE ROAD\"!",
+      "image": "https://arweave.net/w-BhDXQQdVhYEGx0DxXyRVgjg-j5NC6p8Qf1tsCl180",
+      "imageUrl": "https://arweave.net/w-BhDXQQdVhYEGx0DxXyRVgjg-j5NC6p8Qf1tsCl180",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "5 January 2022",
+      "name": "ElCamino NFT",
+      "nft_type": "non-fungible image token (image/png)",
+      "preview_media_file": "https://arweave.net/V8DwDq3wIluhxw_gGep8GJzLZckyoasErwa9dTLDA8g",
+      "preview_media_file_dimensions": "360x360",
+      "preview_media_file_size": 16572,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "1500x1500",
+      "raw_media_file": "https://arweave.net/XbYX6TMTPAc9tFzUex8kEVl6JnKF1DGP3HkBJ9yTFcY",
+      "raw_media_file_size": 154248,
+      "raw_media_file_spec": "PNG 1500x1500 1500x1500+0+0 8-bit sRGB 154248B 0.000u 0:00.010",
+      "raw_media_file_type": "image/png",
+      "raw_media_format": "square",
+      "raw_media_signature": "0x5fadbed0ac796d236d99c5a4d0c8ab72123bf3387d41bb3381164403d570fef1",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/V8DwDq3wIluhxw_gGep8GJzLZckyoasErwa9dTLDA8g",
+      "thumb_media_file_type": "image/jpg",
+      "title": "ElCamino NFT",
+      "total_supply": 1
+    },
+    "title": "ElCamino NFT"
+  }
+}

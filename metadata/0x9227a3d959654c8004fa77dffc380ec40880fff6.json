@@ -1,0 +1,37 @@
+{
+  "address": "0x9227a3d959654c8004fa77dffc380ec40880fff6",
+  "type": "ERC721",
+  "name": "Spells of Genesis",
+  "tokenCount": "1305",
+  "uri": "https://metadata.spellsofgenesis.com/sog-eth-askian/1",
+  "metadata": {
+    "description": "Spells of Genesis card",
+    "external_url": "https://www.spellsofgenesis.com/1",
+    "image": "https://metadata.spellsofgenesis.com/asset/image/320/FOOTSOLDIER.png",
+    "name": "Reckless Footsoldier",
+    "cannon_assetId": "eSog-FOOTSOLDIER",
+    "vintageImage": "https://img.spellsofgenesis.com/vintageCards/en/1471.jpg",
+    "attributes": [
+      {
+        "trait_type": "Name",
+        "value": "Reckless Footsoldier"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Not Assigned"
+      },
+      {
+        "trait_type": "Attack",
+        "value": 4
+      },
+      {
+        "trait_type": "Health",
+        "value": 8
+      },
+      {
+        "trait_type": "Speed",
+        "value": 3
+      }
+    ]
+  }
+}

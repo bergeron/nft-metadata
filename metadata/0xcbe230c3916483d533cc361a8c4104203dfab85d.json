@@ -1,0 +1,59 @@
+{
+  "address": "0xcbe230c3916483d533cc361a8c4104203dfab85d",
+  "type": "ERC721",
+  "name": "Woman War Power",
+  "tokenCount": "1",
+  "uri": "ipfs://QmYfLZX4SAXgaE81huGrfAiR6xrbtp8dv9ihm6Pc9wMehN",
+  "metadata": {
+    "name": "Masha Reva - Woman laying",
+    "description": "The artwork “Woman laying” was created by Masha for the exhibition \"UNDER THE OPEN SKY” which presented Masha’s and Ivan Grabko’s works which were created during their stay in Uzhgorod, Ukraine, after being displaced from their hometown Kyiv, in a temporary shelter-studio collectively arranged by artists and architects.\n\nVerisart Certified: https://verisart.com/works/a7c12dfd-e40d-4f6e-b37e-d42ae1cb9b9a",
+    "image": "ipfs://QmeSLuVdiF96sJrJJnpVxeZUG1jN6s1ris92DEpKYeqnia",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 3796,
+          "height": 4178,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": null,
+        "frameRate": null,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xe61355c96e77712d1e4efe7ff2404aa15be05557",
+            "bps": 800
+          }
+        ],
+        "editionInfo": null
+      }
+    },
+    "external_url": "https://verisart.com/works/a7c12dfd-e40d-4f6e-b37e-d42ae1cb9b9a",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Masha Reva"
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Title",
+        "value": "Masha Reva - Woman laying"
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "4178x3796 px"
+      }
+    ]
+  }
+}

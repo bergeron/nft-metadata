@@ -1,0 +1,80 @@
+{
+  "address": "0x0abc96474c7b00ef114ad561610a20388749fd9c",
+  "type": "ERC721",
+  "name": "SIDXO - BLOCKSTAR x ROCKSTAR",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/GFlM2EXCl8xxrqxpozE7U1my0LfTRh5Q0aHvur1UWbY",
+  "metadata": {
+    "name": "SonicScape - Delhi",
+    "created_by": "SidXO",
+    "external_url": "https://sidxo.com",
+    "description": "Experience the captivating fusion of music and visuals with SidXO's original generative works. Each unique animation is accompanied by a distinctive backing track, written and produced by SidXO himself. \nUsing a bespoke algorithm, SidXO combines audio, lyrical, and demographical data to create a mesmerizing mashup inspired by urban culture and music. The resulting artwork is a stunning blend of the Billboard Top 100 GOAT chart and the top 100 cities by population and area. This particular animated sequence draws inspiration from the enchanting combination of Delhi and The Chainsmokers Ft Halsey's 'Closer'. \nAnd for an added touch of magic, there's an ExyOzy hidden deep within the artwork's core.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "SidXO"
+      },
+      {
+        "trait_type": "BlockStar",
+        "value": "Delhi"
+      },
+      {
+        "trait_type": "Population",
+        "value": "29M"
+      },
+      {
+        "trait_type": "CityLimits",
+        "value": "1484 km²"
+      },
+      {
+        "trait_type": "Nation",
+        "value": "🇮🇳 India"
+      },
+      {
+        "trait_type": "RockStar",
+        "value": "Chainsmokers Ft Halsey"
+      },
+      {
+        "trait_type": "RockStarTrack",
+        "value": "Closer"
+      },
+      {
+        "trait_type": "ReleaseDate",
+        "value": "October 24, 2016"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "BillboardGOATPosition",
+        "value": "14",
+        "max_value": "100"
+      },
+      {
+        "trait_type": "SidXOTrackTitle",
+        "value": "We Want More"
+      }
+    ],
+    "animation_details": {
+      "bytes": 127174798,
+      "format": "MP4",
+      "duration": 21,
+      "sha256": "b5f30b9467972ceada6a610b4adcc90568cf822448f843c252bba8472e2de174",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/zxShg_XF6LmgZZXSrAl-fGNGSx2TPM-zQCyA6Q9HFMw",
+    "animation_url": "https://arweave.net/zxShg_XF6LmgZZXSrAl-fGNGSx2TPM-zQCyA6Q9HFMw",
+    "image_details": {
+      "bytes": 5835635,
+      "format": "GIF",
+      "sha256": "b1f6ddf27e6b151f2f7306fef07fee9e0f853575e6e88b4a2f7049bd262542c7",
+      "width": 960,
+      "height": 540
+    },
+    "image": "https://arweave.net/DfpniIV9xxH41VMqvbzsAh5JDVULza5Ri0b3Gl12CYY",
+    "image_url": "https://arweave.net/DfpniIV9xxH41VMqvbzsAh5JDVULza5Ri0b3Gl12CYY"
+  }
+}

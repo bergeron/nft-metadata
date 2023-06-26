@@ -1,0 +1,49 @@
+{
+  "address": "0xf91d03b07904c48759ca2ce4875f12016f7ce57c",
+  "type": "ERC721",
+  "name": "Bestie Bots",
+  "tokenCount": "4444",
+  "uri": "https://ipfs.io/ipfs/QmZih4hnxYbZ6NLQJBpLJ33uCVmk2uKrkJRp3JwpajMmsW/1.json",
+  "metadata": {
+    "dna": "b5563e372937bb77b0c5421805062dd6f733fda16a30d09216c2618623c39e0f",
+    "name": "Bestie Bot #1",
+    "description": "Can't go to the moon without your bestie.",
+    "image": "ipfs://QmPkSySHSB77ceCMKFPUNqcMwGsD5BUv4v8bs4HkPvz6Nj/1.png",
+    "imageHash": "0df6c5d75ae1bb8feaa8a8cf024f573b87af85bee5cabf8fbfd51c7b29a95e2e",
+    "edition": 1,
+    "date": 1648794014789,
+    "external_url": "https://twitter.com/BESTIEBOTS",
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "AQUA"
+      },
+      {
+        "trait_type": "BODY",
+        "value": "FLOWERS"
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "ALIEN"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "CARTOON"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "CROWN"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "CIG"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "BIRTHDAY",
+        "value": 866161321
+      }
+    ],
+    "compiler": "Bestie Bot #00110000"
+  }
+}

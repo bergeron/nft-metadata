@@ -1,0 +1,38 @@
+{
+  "address": "0xcc2fc10c8212ea88b92177766942ed79ca204625",
+  "type": "ERC721",
+  "name": "The CryptoPablos",
+  "tokenCount": "6969",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmWWKQiEcXHvqmuGedCqyvFNbEDkeENh5jLQVSz96uyRy4/1.json",
+  "metadata": {
+    "name": "CryptoPablo #1",
+    "description": "The CryptoPablos is a collection of 6969 unique CryptoPablo NFTs— unique digital collectibles living on the Ethereum blockchain.",
+    "external_url": "https://twitter.com/thecryptopablos",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUf36A995SJ5urnYTwTXz2vtmmiypdfyqch6hpuuoYHDg/1.png",
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "BACKGROUND"
+      },
+      {
+        "trait_type": "TYPE",
+        "value": "HUMAN"
+      },
+      {
+        "trait_type": "HEAD ACCESSORY",
+        "value": "CAP"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://gateway.pinata.cloud/ipfs/QmUf36A995SJ5urnYTwTXz2vtmmiypdfyqch6hpuuoYHDg/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": []
+    },
+    "compiler": "NFTexport.io"
+  }
+}

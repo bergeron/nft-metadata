@@ -1,0 +1,38 @@
+{
+  "address": "0x21833abc8362dfc81da157914988a1a92a4500e1",
+  "type": "ERC721",
+  "name": "The Underworld NFT",
+  "tokenCount": "2500",
+  "uri": "ipfs://QmdaAmyLv8fY6aWfsbi7gbMU8YFqrdXMYTvQcoRHje4Q8G/1.json",
+  "metadata": {
+    "name": "The Underworld #1",
+    "description": "The rise of the evil Underworld on the Ethereum blockchain",
+    "image": "ipfs://QmRZ1NFw85yhqYTT4GRtEL626CeX6Ph4LfvP28VRt1Bh5q/1.png",
+    "dna": "9824437bff9f2e290592c3580af294f0c203bdbd",
+    "edition": 1,
+    "date": 1659779473987,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Ceres Mechanical Sword"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Alien Skin"
+      },
+      {
+        "trait_type": "Suit",
+        "value": "Quaoares Soldier Armor"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fighter Head"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

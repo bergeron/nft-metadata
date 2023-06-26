@@ -1,0 +1,54 @@
+{
+  "address": "0x91e3c3bd386c0e57865a6d07826160991e259586",
+  "type": "ERC721",
+  "name": "Nakakiddos",
+  "tokenCount": "3",
+  "uri": "ipfs://bafybeifqqpjca4ncxmq4a22dazvgynk2ypivwb5zpabsmoz2yhhxbt5tru/1.json",
+  "metadata": {
+    "name": "1",
+    "description": "5000 unique Nakakiddos on the blockchain.",
+    "external_url": "",
+    "image": "ipfs://bafybeia5g3us6sembygtm2xsvn4uvthcry772x7oihkbau777f7fs6ufqu/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bakcground"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Tone 1"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Camo"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Smoke"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Nerd"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Afro"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": []
+    },
+    "compiler": "NFTexport.io"
+  }
+}

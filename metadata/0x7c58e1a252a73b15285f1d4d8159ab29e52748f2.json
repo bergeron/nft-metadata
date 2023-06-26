@@ -1,0 +1,35 @@
+{
+  "address": "0x7c58e1a252a73b15285f1d4d8159ab29e52748f2",
+  "type": "ERC721",
+  "name": "Chasms by xObj.com",
+  "tokenCount": "7",
+  "uri": "https://xobj.com/p3/meta/1",
+  "metadata": {
+    "name": "Chasms #1",
+    "description": "xObjects Project #3",
+    "image": "https://s3.amazonaws.com/cdn.xobj.com/ch/i/1.png",
+    "animation_url": "https://s3.amazonaws.com/cdn.xobj.com/ch/h/1.html",
+    "external_url": "https://xobj.com/p3/info/1",
+    "attributes": [
+      {
+        "trait_type": "palette",
+        "value": "Palette 17"
+      },
+      {
+        "trait_type": "speed",
+        "value": 3,
+        "max_value": 3
+      },
+      {
+        "trait_type": "aperture",
+        "value": 2,
+        "max_value": 5
+      },
+      {
+        "trait_type": "layers",
+        "value": 20,
+        "max_value": 20
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "address": "0xcfe9f6c375d1bb541ab571e12714dd2c29f082b5",
+  "type": "ERC721",
+  "name": "Cargo Test Token",
+  "tokenCount": "2",
+  "uri": "https://assets.cargo.build/171d090bd6aa420081430d9ce53e941b_pub.json",
+  "metadata": {
+    "$schema": "https://assets.cargo.build/cargo_public_asset_schema_v1.json",
+    "$evidence": "https://assets.cargo.build/171d090bd6aa420081430d9ce53e941b_evidence.json",
+    "name": "Bob's",
+    "description": "This is  a test",
+    "image": "https://assets.cargo.build/171d090bd6aa420081430d9ce53e941b_preview.jpeg",
+    "metadata": {
+      "test": "test"
+    }
+  }
+}

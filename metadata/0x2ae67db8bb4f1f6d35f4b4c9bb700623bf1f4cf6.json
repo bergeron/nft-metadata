@@ -1,0 +1,41 @@
+{
+  "address": "0x2ae67db8bb4f1f6d35f4b4c9bb700623bf1f4cf6",
+  "type": "ERC721",
+  "name": "The Bonkers NFT",
+  "tokenCount": "721",
+  "uri": "ipfs://bafybeiea2q5nqwpgp4ln5p7lhpne3tmcxkmlvw7ebat3pmje2n57zc2ery/1.json",
+  "metadata": {
+    "name": "Bonker #1",
+    "description": "Much Wow, Bonk! LOL Get Bonked!",
+    "image": "ipfs://bafybeiebzjmeq5srn3jqhiqyh7llfxyzgwce4ggwxyekwnr564t3qnbdca/1.png",
+    "edition": 1,
+    "date": 1672865860695,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Doge",
+        "value": "Doge"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bonk Shirt"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Simple Face"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Black Headphones"
+      },
+      {
+        "trait_type": "Bonker",
+        "value": "Bat"
+      }
+    ],
+    "compiler": "Bonk-lord.eth"
+  }
+}

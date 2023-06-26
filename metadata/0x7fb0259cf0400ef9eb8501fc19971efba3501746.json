@@ -1,0 +1,23 @@
+{
+  "address": "0x7fb0259cf0400ef9eb8501fc19971efba3501746",
+  "type": "ERC721",
+  "name": "Royalty Fun",
+  "tokenCount": "2",
+  "uri": "ipfs://QmR8ZSZvo9mjm3fSAgW6XRt78yCKJpLufxcFZhKtVUaZ5B/1",
+  "metadata": {
+    "name": "Wizard #2",
+    "description": "Wizard of the castle",
+    "image": "ipfs://QmS9jCGH6Fnc8rQLcA6kZK5i2CCukyN4DSXhZGcDg5xpQd/1.png",
+    "external_url": "www.thirdweb.com",
+    "attributes": [
+      {
+        "trait_type": "magic",
+        "value": "invisible"
+      },
+      {
+        "trait_type": "world",
+        "value": "The Matrix"
+      }
+    ]
+  }
+}

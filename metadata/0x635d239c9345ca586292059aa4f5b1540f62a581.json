@@ -1,0 +1,47 @@
+{
+  "address": "0x635d239c9345ca586292059aa4f5b1540f62a581",
+  "type": "ERC721",
+  "name": "Retro Bandicoots by Armen Tamzarian",
+  "tokenCount": "4570",
+  "uri": "ipfs://bafybeic5zydzklajtasters7wtdsvxftttxsednxrq2ohpqa2pyjup5c6a/1.json",
+  "metadata": {
+    "name": "Retro Bandicoot #1",
+    "description": "The Official Retro Bandicoot NFT Collection",
+    "external_url": "",
+    "image": "ipfs://bafybeigqwmgz3q2wrv3h2mxoqatov3sjzoelfomvo4lgpwofoh6dq5cqsy/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green-Apple"
+      },
+      {
+        "trait_type": "Elements",
+        "value": "Water"
+      },
+      {
+        "trait_type": "Colour",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bronze Spartan Helmet"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://onemint.io/",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Retro Bandicoots",
+      "family": "Retro Bandicoots"
+    },
+    "symbol": ""
+  }
+}

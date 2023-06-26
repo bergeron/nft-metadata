@@ -1,0 +1,25 @@
+{
+  "address": "0x6245de304468ef7c82d11ff6864112f23208dc11",
+  "type": "ERC721",
+  "name": "Bronze Member Key",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x6245de304468ef7c82d11ff6864112f23208dc11/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x6245de304468Ef7C82d11ff6864112f23208DC11/icon?id=1",
+    "expiration": 1622580582,
+    "tokenId": "1",
+    "owner": "0x4d608fb6d4dd6b70023432274a37e4f1d3a8f62b",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1622580582
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x6245de304468Ef7C82d11ff6864112f23208DC11",
+    "network": 1
+  }
+}

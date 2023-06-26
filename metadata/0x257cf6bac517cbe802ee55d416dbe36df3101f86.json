@@ -1,0 +1,25 @@
+{
+  "address": "0x257cf6bac517cbe802ee55d416dbe36df3101f86",
+  "type": "ERC721",
+  "name": "New Lock - ELtMv3uLTK",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x257cf6bac517cbe802ee55d416dbe36df3101f86/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x257CF6baC517CbE802EE55d416dbE36Df3101f86/icon?id=1",
+    "expiration": 1637301116,
+    "tokenId": "1",
+    "owner": "0xd7faa749957fc7d0dd3ffa7c810dbc62f631f772",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1637301116
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x257CF6baC517CbE802EE55d416dbE36Df3101f86",
+    "network": 1
+  }
+}

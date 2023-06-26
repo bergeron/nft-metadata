@@ -1,0 +1,80 @@
+{
+  "address": "0xd3b353421fc5048ad38f7581097951bb9d6c52ff",
+  "type": "ERC721",
+  "name": "Ether Legends",
+  "tokenCount": "203",
+  "uri": "https://www.etherlegends.com/metadata/menandbeasts/015_Pig.json",
+  "metadata": {
+    "name": "'Pig' The Coyfoot Klawfer",
+    "image": "https://www.etherlegends.com/tradingcards/menandbeasts/015_Pig.png",
+    "description": "Don't make it angry...",
+    "external_url": "https://www.etherlegends.com",
+    "attributes": [
+      {
+        "trait_type": "game",
+        "value": "Ether Legends"
+      },
+      {
+        "trait_type": "set",
+        "value": "Men and Beasts"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "type",
+        "value": "Character"
+      },
+      {
+        "trait_type": "element_1",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "strength_1",
+        "value": "Attack"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "number",
+        "value": 15,
+        "max_value": 39
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "elementeum",
+        "value": 4
+      },
+      {
+        "display_type": "number",
+        "trait_type": "attack",
+        "value": 6
+      },
+      {
+        "display_type": "number",
+        "trait_type": "defense",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heal",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "disrupt",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heart",
+        "value": 13
+      }
+    ]
+  }
+}

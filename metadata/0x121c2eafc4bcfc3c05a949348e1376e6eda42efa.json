@@ -1,0 +1,21 @@
+{
+  "address": "0x121c2eafc4bcfc3c05a949348e1376e6eda42efa",
+  "type": "ERC721",
+  "name": "OWNYKYC",
+  "tokenCount": "3",
+  "uri": "ipfs://QmWmBc9wqKzeLsE5L6XjT1L1iXKYvUE2MDbXfcNkeMs6q5",
+  "metadata": {
+    "image": "https://ipfs.io/ipfs/QmPiKwWYcVeALZ74MYS5rSDMssHhneY9qAxQvygfWajgJK",
+    "description": "OWNY's Soulbound NFT awarded to KYC'ed OWNY users",
+    "attributes": [
+      {
+        "trait_type": "KYC level",
+        "value": "passed"
+      },
+      {
+        "train_type": "KYC type",
+        "value": "Stripe"
+      }
+    ]
+  }
+}

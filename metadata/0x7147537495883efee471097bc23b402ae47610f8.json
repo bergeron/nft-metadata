@@ -1,0 +1,40 @@
+{
+  "address": "0x7147537495883efee471097bc23b402ae47610f8",
+  "type": "ERC721",
+  "name": "Nifty Autograph",
+  "tokenCount": "33",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmNg4TirnUB8Vkq4mnviMhrBeCyYwQvqiNyea9sBAVWUA2",
+  "metadata": {
+    "name": "Autograph",
+    "description": "Signature derived from the seed phrase 0xE8050bb4811D73ce52141d8fc9306A2c17636b36",
+    "attributes": [
+      {
+        "trait_type": "Vertices",
+        "value": "9"
+      },
+      {
+        "trait_type": "Background",
+        "value": "#0000003B"
+      },
+      {
+        "trait_type": "Stroke",
+        "value": "#00000003"
+      },
+      {
+        "trait_type": "Trail",
+        "value": "#e21111FF"
+      },
+      {
+        "trait_type": "Weight",
+        "value": "1"
+      },
+      {
+        "trait_type": "Speed",
+        "value": "38"
+      }
+    ],
+    "image": "https://autograph-nft.s3.us-west-2.amazonaws.com/0xE8050bb4811D73ce52141d8fc9306A2c17636b36-1633376207249.png",
+    "id": "0xE8050bb4811D73ce52141d8fc9306A2c17636b36-1633376209193",
+    "animation_url": "https://view.niftyautograph.io/viewer/0xE8050bb4811D73ce52141d8fc9306A2c17636b36-1633376209193"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "address": "0xd58dd7575a7603ee9a5a929d45025c25bb1de304",
+  "type": "ERC721",
+  "name": "3NS Domain",
+  "tokenCount": "14",
+  "uri": "https://3ns-domains.s3.amazonaws.com/mainnet/metadata/1",
+  "metadata": {
+    "name": "abe.one",
+    "description": "3NS Domains",
+    "image": "https://3ns-domains.s3.amazonaws.com/mainnet/images/1.png",
+    "attributes": [
+      {
+        "trait_type": "domain",
+        "value": "abe.one"
+      },
+      {
+        "trait_type": "network",
+        "value": "mainnet"
+      }
+    ]
+  }
+}

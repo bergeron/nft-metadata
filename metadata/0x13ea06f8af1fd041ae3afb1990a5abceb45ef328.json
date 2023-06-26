@@ -1,0 +1,38 @@
+{
+  "address": "0x13ea06f8af1fd041ae3afb1990a5abceb45ef328",
+  "type": "ERC721",
+  "name": "Mystic Motors",
+  "tokenCount": "500",
+  "uri": "ipfs://bafybeiahekcekq7zqnft2wcbknbk6ysfms6dj57uskiltgbva4cfidemcq/1.json",
+  "metadata": {
+    "name": "MM Car #1",
+    "description": "",
+    "image": "ipfs://bafybeiculcjgv335ginl3wv2fgxvsmf4s6ifie3nzdvmr32i3vwjcmdj4u/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Master"
+      },
+      {
+        "trait_type": "Rating",
+        "value": "53"
+      },
+      {
+        "trait_type": "Car",
+        "value": "Zelus"
+      },
+      {
+        "trait_type": "Body Colour",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Rim Type",
+        "value": "Delta"
+      },
+      {
+        "trait_type": "Rim Colour",
+        "value": "Silver"
+      }
+    ]
+  }
+}

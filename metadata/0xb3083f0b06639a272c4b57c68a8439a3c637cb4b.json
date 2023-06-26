@@ -1,0 +1,59 @@
+{
+  "address": "0xb3083f0b06639a272c4b57c68a8439a3c637cb4b",
+  "type": "ERC721",
+  "name": "cs_devCoins",
+  "tokenCount": "32",
+  "uri": "ipfs://QmSxYtapMTzEQzw3UHQDAmgpxt4pfoxCP4DnBiCZkzYrZM/1.json",
+  "metadata": {
+    "name": "Mu",
+    "description": "cs_devCoin Set.001 Series ALPHA",
+    "image": "ipfs://QmTPGDBJEWD14Vy7CTc2SvZbRVwG9Gd9Y9BkQ4bvJA2B9h",
+    "date": 1664650410454,
+    "attributes": [
+      {
+        "trait_type": "Phase",
+        "value": "Liminal"
+      },
+      {
+        "trait_type": "Space",
+        "value": "Meso"
+      },
+      {
+        "trait_type": "Essence",
+        "value": "Radiant"
+      },
+      {
+        "trait_type": "Form",
+        "value": "Glyphic"
+      },
+      {
+        "trait_type": "Synchronicity",
+        "display_type": "number",
+        "value": 10
+      },
+      {
+        "trait_type": "Kinesthesis",
+        "display_type": "boost_number",
+        "value": 3
+      },
+      {
+        "trait_type": "Luminosity",
+        "display_type": "boost_percentage",
+        "value": 50
+      },
+      {
+        "trait_type": "Stage",
+        "value": "Alpha"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Temporal Origin",
+        "value": 1685602800
+      },
+      {
+        "trait_type": "Alpha Sequence",
+        "value": "1/32"
+      }
+    ]
+  }
+}

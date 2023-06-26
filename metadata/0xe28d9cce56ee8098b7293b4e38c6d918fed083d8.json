@@ -1,0 +1,36 @@
+{
+  "address": "0xe28d9cce56ee8098b7293b4e38c6d918fed083d8",
+  "type": "ERC721",
+  "name": "MonsterArmy Baby",
+  "tokenCount": "1000",
+  "uri": "ipfs://bafybeidypouusk36wusp226joqowxk76qolp67kud6zhkkaoumlqjq3b2y/1.json",
+  "metadata": {
+    "name": "MonsterArmy Baby #1",
+    "description": "MonsterArmy Baby is the genesis collection of the MonsterArmy NFT project",
+    "external_url": "https://www.monsterarmy.io/",
+    "image": "ipfs://QmTnt2w45WLcnjb2Lvkstu53h8Uxq1E6JgJwGUPHxr6UkN/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MonsterArmyBaby_background_blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "MonsterArmyBaby_body_blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "MonsterArmyBaby_eyes_think"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "MonsterArmyBaby_mouth_laugh"
+      },
+      {
+        "trait_type": "Sport",
+        "value": "MonsterArmyBaby_sport_swimming"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "address": "0x26a1a6223fd9d9e120446aa8c1cc156ae932e014",
+  "type": "ERC721",
+  "name": "Ninja Warz",
+  "tokenCount": "686",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmSwnxw1Mgzemx7WNPW7iAV5Q3ocytYbVQ6RhPakduKSRG/1",
+  "metadata": {
+    "name": "Ninja #1",
+    "description": "A popular online game from 2012 that is being revived and introducing its very first NFT collection on the Ethereum Blockchain.",
+    "external_url": "",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQp62JkjANMvKnDsXDGzLcNgahpWvjH7VnnYRF9piTpCW/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "House"
+      },
+      {
+        "trait_type": "Skin Color",
+        "value": "Light"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Kimono Grey With Highlights"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Eyes Black"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Yelling"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Hair Manbun"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

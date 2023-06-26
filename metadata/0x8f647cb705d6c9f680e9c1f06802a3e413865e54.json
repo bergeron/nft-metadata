@@ -1,0 +1,41 @@
+{
+  "address": "0x8f647cb705d6c9f680e9c1f06802a3e413865e54",
+  "type": "ERC721",
+  "name": "Monster Academy Art",
+  "tokenCount": "13",
+  "uri": "ipfs://QmZQF5VnfhBDzzgUeFKqjq7yUH1TEXQj5qefKg9gDo9JVy/1",
+  "metadata": {
+    "name": "Killer Of Kindel",
+    "image": "ipfs://QmdHKUqtyWzcyv8G2Qt5tXpgG2WdDhJH71vCWzoZH4xZ26/1.png",
+    "attributes": [
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Stamina",
+        "value": 75
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Parry",
+        "value": 32
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Damage",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Health",
+        "value": 349
+      },
+      {
+        "trait_type": "Rank",
+        "value": "C Class"
+      },
+      {
+        "trait_type": "Behavior",
+        "value": "Evil"
+      }
+    ]
+  }
+}

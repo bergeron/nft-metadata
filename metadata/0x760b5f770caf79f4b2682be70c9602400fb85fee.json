@@ -1,0 +1,54 @@
+{
+  "address": "0x760b5f770caf79f4b2682be70c9602400fb85fee",
+  "type": "ERC721",
+  "name": "Bezogi V2 - Legends of Bezogia by Zogi Labs",
+  "tokenCount": "3873",
+  "uri": "https://api.zogilabs.io/collectibles/bezogi/1",
+  "metadata": {
+    "animation_url": "https://bezogi-3d.zogilabs.io/webGL/?id=1",
+    "gif": "https://collectibles.zogilabs.io/bezogi/child_mint_dark_dark_mint.gif",
+    "imageUrl": "https://collectibles.zogilabs.io/bezogi/child_mint_dark_dark_mint.gif",
+    "name": "Bezogi #1",
+    "description": null,
+    "attributes": [
+      {
+        "value": "child",
+        "trait_type": "AGE"
+      },
+      {
+        "value": "MINT/DARK",
+        "trait_type": "BREED"
+      },
+      {
+        "value": "MINT",
+        "trait_type": "NOSE"
+      },
+      {
+        "value": "DARK",
+        "trait_type": "EYES"
+      },
+      {
+        "value": "DARK",
+        "trait_type": "FUR HIGHLIGHT"
+      },
+      {
+        "value": "MINT",
+        "trait_type": "FUR"
+      },
+      {
+        "value": "Mixed Breed",
+        "trait_type": "RARITY"
+      },
+      {
+        "value": 0,
+        "trait_type": "Summon Count"
+      },
+      {
+        "value": 0,
+        "trait_type": "Generation"
+      }
+    ],
+    "type": "object",
+    "title": "Bezogi #1"
+  }
+}

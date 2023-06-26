@@ -1,0 +1,34 @@
+{
+  "address": "0x0f6cb988b8e0f24cf4ac9742cf245bcdd4ea7244",
+  "type": "ERC721",
+  "name": "Torque Drift V2 - old",
+  "tokenCount": "3",
+  "uri": "ipfs://QmWmhPsqrWNXtPpN9DuUugjyFH77D8vtKWtyG3PggsZvso/1",
+  "metadata": {
+    "name": "Torque Drift #2",
+    "description": "Multiplayer blockchain game where you can earn cryptocurrency. Each NFT is a car with unique characteristics",
+    "image": "ipfs://QmXcLxKsQuQWpiRKgLAMQGnBKPdBpmYhU3uGkd95F6wDmN/1.png",
+    "attributes": [
+      {
+        "trait_type": "SteerAngle",
+        "value": "base"
+      },
+      {
+        "trait_type": "DriftAngle",
+        "value": "base"
+      },
+      {
+        "trait_type": "Speed",
+        "value": "s14"
+      },
+      {
+        "trait_type": "Friction",
+        "value": "base"
+      }
+    ],
+    "dna": "a67a7b4fe6a512b0286604e559232a0155b31ae9",
+    "edition": 2,
+    "date": 1662452553452,
+    "carName": "PG86_Mk2"
+  }
+}

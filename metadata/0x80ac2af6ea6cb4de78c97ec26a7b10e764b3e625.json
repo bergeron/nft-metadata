@@ -1,0 +1,30 @@
+{
+  "address": "0x80ac2af6ea6cb4de78c97ec26a7b10e764b3e625",
+  "type": "ERC721",
+  "name": "Freight Punks",
+  "tokenCount": "3463",
+  "uri": "https://api.worldoffreight.xyz/fpunks/metadata/1",
+  "metadata": {
+    "description": "Freight Punks is a generative collection of 10000 NFT characters living within the World of Freight ecosystem. Every Freight Punk in this NFT collection is quite unique and features over 161 possible traits and some hidden utilities for the future. Made with love by Wof Labs.",
+    "name": "FreightPunk #1",
+    "image": "https://api.worldoffreight.xyz/fpunks/image/1.png",
+    "attributes": [
+      {
+        "trait_type": "Character",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Grown Beard"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Hoodie with Ears"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "Mandalorian Helmet - Red"
+      }
+    ]
+  }
+}

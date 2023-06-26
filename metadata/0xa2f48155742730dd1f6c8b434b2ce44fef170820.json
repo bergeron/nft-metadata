@@ -1,0 +1,34 @@
+{
+  "address": "0xa2f48155742730dd1f6c8b434b2ce44fef170820",
+  "type": "ERC721",
+  "name": "Golden Age Comics NFTs",
+  "tokenCount": "50",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=9yL7plExUPGT9IJebXOQ",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1590284138354?alt=media&token=bbbc4d70-a423-494b-a212-eb617b3a7812",
+    "forSale": true,
+    "description": "Billy the Kid #13 - September 1958 -  \tPencils: Rocco \"Rocke\" Masteroserio| Inks: Pat Masulli",
+    "contractAddress": "0xa2f48155742730dd1f6c8b434b2ce44fef170820",
+    "ethPrice": ".1",
+    "amountToMint": "10",
+    "minter": "0x0ee5cdbec0665d31ee00ee35b46e85edcb9ceb31",
+    "mintedOn": {
+      "_seconds": 1590284516,
+      "_nanoseconds": 400000000
+    },
+    "price": "$0.00",
+    "name": "GAC - Billy The Kid - 1st Edition",
+    "fiatPrice": "$20.90",
+    "minted": "Minted on Mintbase.io",
+    "category": "alJuInV4dezvHTNU8Dp1",
+    "youtube_url": "",
+    "external_url": "https://mintbase.io/my-market/0xa2f48155742730dd1f6c8b434b2ce44fef170820",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "9yL7plExUPGT9IJebXOQ"
+      }
+    ],
+    "type": "ERC721"
+  }
+}

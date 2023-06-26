@@ -1,0 +1,30 @@
+{
+  "address": "0x26adbb495c1a66238e4155e407e0702ffec03df2",
+  "type": "ERC721",
+  "name": "ETHRank Season One Dynamic Badges",
+  "tokenCount": "2035",
+  "uri": "https://ethrank-badges.s3.amazonaws.com/1/1.json",
+  "metadata": {
+    "name": "ETHRank Season One Badge #1 by hax.crypto",
+    "description": "hax.crypto is ranked #1588, with a score of 610. ETHRank is the Ethereum Leaderboard. Check your rank at ETHRank.io.",
+    "image": "https://ethrank-badges.s3.amazonaws.com/1/1.svg",
+    "attributes": [
+      {
+        "trait_type": "Score",
+        "value": 610
+      },
+      {
+        "trait_type": "Rank",
+        "value": 1588
+      },
+      {
+        "trait_type": "Season",
+        "value": "1"
+      },
+      {
+        "trait_type": "Version",
+        "value": "2022.2.3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "address": "0x95bae2bc5f59df9f531c1a7c8732dbd0368c2d06",
+  "type": "ERC1155",
+  "name": "NFT MASHUP",
+  "tokenCount": "1",
+  "uri": "https://gateway.ipfs.io/ipfs/QmZTpWbXbohtbJcAgLurxhEYvCHRPiGPvxPeKdwdZc3vTQ",
+  "metadata": {
+    "name": "Tom Bradshaw",
+    "description": "This is the first card in our series.  It is our genesis card and will remain a 1/1 promo.  It is usable in-games and it is the ultimate G.O.A.T card. \n\n***\n\nABOUT US\n\nOur first ​NFT product will be a fantasy sports mashup based on American football.  We are creating a brand new way to play the same old fantasy sports game - by collecting fantasy mashup cards of two different players, mashed-up into one great card.  Each week, you use the stats of both players and divide your point totals by 2. \n\nThese cards are unique, collectible based on rarity and can be a mixture of new and old players - like the HOF card example shown.  Tom Brady and Terry Bradshaw.  Terry gets you +15 points each week to divide against Tom's performance.  The 15 points are based on the player's historical play.  HOF cards are the rarest in the sets.\n\nOur cards can be enjoyed on their own.  However, our bigger goal is to create a fully digital fantasy league with drafts, stats and promotions.  Imagine a draft where you open digital packs to create your teams and you get to keep your cards at the end of the season to trade or use in various mini-games.",
+    "image": "https://gateway.ipfs.io/ipfs/QmamVf8BzV19whyybVBn2aeL1MBgM3fhBDEPp3BSfDAePb",
+    "animation_url": "",
+    "audio_url": "",
+    "interactive_url": "",
+    "external_link": "https://www.nftmashup.com/",
+    "attributes": [
+      {
+        "trait_type": "Position",
+        "value": "Quarterback"
+      },
+      {
+        "trait_type": "Player A",
+        "value": "Tom Brady"
+      },
+      {
+        "trait_type": "Player B",
+        "value": "Terry Bradshaw"
+      },
+      {
+        "trait_type": "FFVA",
+        "value": "TBB12",
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "FFVB",
+        "value": "HOFTB",
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Card No.",
+        "value": "003",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Card Type",
+        "value": "Promo"
+      },
+      {
+        "trait_type": "Card Rarity",
+        "value": "HOF"
+      },
+      {
+        "trait_type": "SET",
+        "value": "2021",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Fantasy Sport",
+        "value": "Football"
+      }
+    ]
+  }
+}

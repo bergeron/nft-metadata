@@ -1,0 +1,39 @@
+{
+  "address": "0x478784cb19d300c412d2774858eba1d072e2ed17",
+  "type": "ERC721",
+  "name": "Limited Edition Mogies",
+  "tokenCount": "37",
+  "uri": "ipfs://Qmet7S3kAsBwqKdhHKeGEnBMgzTLd5HUhvaH9jvYggpZXH",
+  "metadata": {
+    "title": "Limited Mogie #1",
+    "name": "Limited Mogie #1",
+    "description": "Limited edition collection of NFT spin-offs from the original Mogies collection",
+    "attributes": [
+      {
+        "value": "Gold",
+        "trait_type": "Skin"
+      }
+    ],
+    "properties": {
+      "image_url": "ipfs://QmZu36PTJcB6XTYkb1TyBCbF6CwCmFY5hgpQk4qVLv69ju",
+      "title": {
+        "type": "string",
+        "description": "Limited Mogie #1"
+      },
+      "name": {
+        "type": "string",
+        "description": "Limited Mogie #1"
+      },
+      "description": {
+        "type": "string",
+        "description": "Limited edition collection of NFT spin-offs from the original Mogies collection"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": null
+      },
+      "image_original_url": "ipfs://QmZu36PTJcB6XTYkb1TyBCbF6CwCmFY5hgpQk4qVLv69ju"
+    },
+    "image": "ipfs://QmZu36PTJcB6XTYkb1TyBCbF6CwCmFY5hgpQk4qVLv69ju"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": "0x189d7888802dac487e3d3630285e1980c6302445",
+  "type": "ERC1155",
+  "name": "Rocketpool Validator by Blockscape",
+  "tokenCount": "4",
+  "uri": "https://ipfs.apps.blockscape.network/ipns/k51qzi5uqu5dhnfa4f97n7u9gq678o4dg3nfj2bg4u2yh1yzm9izzw3qdg2m0h/1.json",
+  "metadata": {
+    "description": "This is your unique Blockscape Validator NFT. It represents your staked ETH, rewards, and validator in the Blockscape infrastructure on Ethereum Mainnet. You can trade it on the open market or reedem it for your ETH stake and rewards at https://stake.blockscape.network/dashboard .",
+    "external_url": "https://stake.blockscape.network",
+    "image": "https://ipfs.apps.blockscape.network/ipfs/QmeqpxF19UzL6CBSBaXPw1XTcT3ZrU1qtVc7DdZ3jPjVKf",
+    "name": "Blockscape Validator #1",
+    "website_image": "https://ipfs.apps.blockscape.network/ipfs/QmccFzgxvHBPjHurXjWiid9rn3XxC9AWTPrTw4P2TNGrmM",
+    "attributes": [
+      {
+        "trait_type": "Consensus Client",
+        "value": "Lighthouse"
+      },
+      {
+        "trait_type": "Execution Client",
+        "value": "Geth"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Stake Timestamp",
+        "value": "4/24/2023, 3:32:35 PM"
+      },
+      {
+        "trait_type": "Staked ETH",
+        "value": "8.0"
+      },
+      {
+        "trait_type": "Validator",
+        "value": "0xb4b00c081029d9273c9986222d6ed93eb1621ebfaa80521ad99c193f5789ce2e214a9af175156faab9885cbeb5b1d492"
+      },
+      {
+        "trait_type": "Minipool",
+        "value": "0xca8c7247D570579027e7D8e9B6b7D903d8899B22"
+      },
+      {
+        "trait_type": "Staking Type",
+        "value": "Rocketpool"
+      },
+      {
+        "trait_type": "MEV Boost",
+        "value": "Enabled"
+      }
+    ]
+  }
+}

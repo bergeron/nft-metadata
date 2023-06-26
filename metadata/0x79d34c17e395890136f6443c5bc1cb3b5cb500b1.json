@@ -1,0 +1,49 @@
+{
+  "address": "0x79d34c17e395890136f6443c5bc1cb3b5cb500b1",
+  "type": "ERC721",
+  "name": "WhaleWarriors",
+  "tokenCount": "94",
+  "uri": "https://ipfs.io/ipfs/QmZkGQoz8z8jxP5dbxQEE6E8PQtKViE4ZgK8PZJk9he6pX/1",
+  "metadata": {
+    "name": "Whale Warriors #1",
+    "description": "Whale Warriors NFT",
+    "external_url": "",
+    "image": "https://ipfs.io/ipfs/Qme8qAH6KRPh2i1ASzsofzPWkL64jYqBgWcudTE4QjjtgW/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MORNING"
+      },
+      {
+        "trait_type": "BODY",
+        "value": "ELECTRIC-"
+      },
+      {
+        "trait_type": "SUIT",
+        "value": "GREEN SHEEL"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "BIT-COIN"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "ANGRY"
+      },
+      {
+        "trait_type": "GEAR",
+        "value": "PINK SCANNER"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

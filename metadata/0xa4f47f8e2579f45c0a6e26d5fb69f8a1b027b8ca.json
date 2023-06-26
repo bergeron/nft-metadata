@@ -1,0 +1,33 @@
+{
+  "address": "0xa4f47f8e2579f45c0a6e26d5fb69f8a1b027b8ca",
+  "type": "ERC721",
+  "name": "testNNFT V2",
+  "tokenCount": "50",
+  "uri": "https://bsc-api.seascape.network/nft/metadata/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "QUALITY",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Generation",
+        "value": 0
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Power",
+        "value": 600
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "forum_point",
+        "value": 100
+      }
+    ],
+    "description": "I reckon we ought to make ourselves acquainted. I'm Edmund Mildenhall III, but my friend's call me Thump. Now you just gonna just stand there, or come over here and wrestle me like a man!",
+    "external_url": "https://api.seascape.network/nft/metadata/1",
+    "image": "https://cdn.seascape.network/nfts/1.gif",
+    "name": "Thump - Common"
+  }
+}

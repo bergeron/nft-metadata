@@ -1,0 +1,42 @@
+{
+  "address": "0xd710ac03c2edda83b5691ef25ead7ac1b0eccc10",
+  "type": "ERC721",
+  "name": "Milliner",
+  "tokenCount": "69",
+  "uri": "ipfs://QmWh41DFq3vmYt9paR4TzCuBLb35UyXKEpL9BqEWbSTttP/1.json",
+  "metadata": {
+    "name": "Milliner Collection #1",
+    "description": "Hats made from the Wonderland.",
+    "image": "ipfs://bafybeiftoxqino5h2w3sp7gz3242nkd77qgjeiq2ilbeludfvlag2cc4pu/1.png",
+    "dna": "77f1163d03f0bd4592cf0562acee2da12ae75e4a",
+    "edition": 1,
+    "date": 1640199433188,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Golden Brown"
+      },
+      {
+        "trait_type": "Cap",
+        "value": "Mushroom Blue Cap"
+      },
+      {
+        "trait_type": "Brim",
+        "value": "Base Brim Purple"
+      },
+      {
+        "trait_type": "Front",
+        "value": "Anime Eyes Green"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Bones"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Dragon Scale"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

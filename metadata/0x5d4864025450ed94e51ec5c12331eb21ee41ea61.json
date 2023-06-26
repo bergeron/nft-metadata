@@ -1,0 +1,78 @@
+{
+  "address": "0x5d4864025450ed94e51ec5c12331eb21ee41ea61",
+  "type": "ERC721",
+  "name": "Alessandro Giann",
+  "tokenCount": "2",
+  "uri": "https://monegraph.mypinata.cloud/ipfs/QmVM6LfuyrrVwjqJoALs7ggXQq1wJGHnAtoAuef7eKvuvp",
+  "metadata": {
+    "name": "Due to the Image (Genesis)",
+    "description": "This digital art NFT was produced by PostmastersBLOCKCHAIN.com, 2021, Postmasters Gallery.",
+    "external_url": "",
+    "animation_url": "",
+    "image": "https://monegraph.mypinata.cloud/ipfs/QmTAZygYbfoqLNEaLzYJfXTsxDwQ4MWZKHiLurraDuregd/DueToTheImage-Genesis-digital.jpg",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Alessandro Giannì"
+      },
+      {
+        "trait_type": "Rights Agreement",
+        "value": "https://ipfs.io/ipfs/Qmbf5Q2ivkECewuasvQKUYsJCjbQ3sPyAsMS2YpcPgfVUt"
+      },
+      {
+        "trait_type": "Archive Link",
+        "value": "https://monegraph.mypinata.cloud/ipfs/QmTAZygYbfoqLNEaLzYJfXTsxDwQ4MWZKHiLurraDuregd/DueToTheImage-Genesis-digital.jpg"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Due to the Image (Genesis)"
+      },
+      "description": {
+        "type": "string",
+        "description": "This digital art NFT was produced by PostmastersBLOCKCHAIN.com, 2021, Postmasters Gallery."
+      },
+      "image": {
+        "type": "string",
+        "description": "https://monegraph.mypinata.cloud/ipfs/QmTAZygYbfoqLNEaLzYJfXTsxDwQ4MWZKHiLurraDuregd/DueToTheImage-Genesis-digital.jpg"
+      },
+      "rights_agreement": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/Qmbf5Q2ivkECewuasvQKUYsJCjbQ3sPyAsMS2YpcPgfVUt"
+      },
+      "rights_agreement_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "rights_agreement_signature": {
+        "type": "string",
+        "description": "f4e38f7db04f03924adaa2f26d11835a251545988e02e7a2829559eba1682bc2"
+      },
+      "archive_link": {
+        "type": "string",
+        "description": "https://monegraph.mypinata.cloud/ipfs/QmTAZygYbfoqLNEaLzYJfXTsxDwQ4MWZKHiLurraDuregd/DueToTheImage-Genesis-digital.jpg"
+      },
+      "archive_link_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "archive_link_signature": {
+        "type": "string",
+        "description": "c3c458121b57ec1f6fc81016d0b6a4eef64b01a67e11b007e586f08d5ea8ebc5"
+      },
+      "rights_agreement_values": {
+        "$ARTIST": "Alessandro Giannì",
+        "$SHAHASH": "c3c458121b57ec1f6fc81016d0b6a4eef64b01a67e11b007e586f08d5ea8ebc5",
+        "$CONTRACTSHAHASH": "f4e38f7db04f03924adaa2f26d11835a251545988e02e7a2829559eba1682bc2",
+        "$URL": "https://monegraph.mypinata.cloud/ipfs/QmTAZygYbfoqLNEaLzYJfXTsxDwQ4MWZKHiLurraDuregd/DueToTheImage-Genesis-digital.jpg",
+        "$TITLE": "Due to the Image (Genesis)",
+        "$YEAR": "2020",
+        "$ROYALTYRATE": "10",
+        "$TOKEN": "eth",
+        "$ADDRESS": "0x1e7391B64742f29a14F2c3aB1D73d028994Dd757",
+        "$LICENSE": "CA.05.19.21., Patent No. US 10,380,702"
+      }
+    }
+  }
+}

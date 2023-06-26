@@ -1,0 +1,50 @@
+{
+  "address": "0xa11e6e8c80a6f3432c24bcfeb209eb649110ba96",
+  "type": "ERC721",
+  "name": "Puffy Planet  NFT",
+  "tokenCount": "983",
+  "uri": "https://puffy-nc.mypinata.cloud/ipfs/QmVDcKCEzJ25C8rAa78vssHvCc9AkoTYrxCYJMsqYt5quj/1.json",
+  "metadata": {
+    "name": "PUF #1",
+    "description": "Puffy Planet",
+    "image": "https://puffy-planet.s3.eu-west-1.amazonaws.com/puffy/1.png",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Red",
+        "count": 885,
+        "frequency": "12.643%"
+      },
+      {
+        "trait_type": "body",
+        "value": "Mixed Blue",
+        "count": 377,
+        "frequency": "5.386%"
+      },
+      {
+        "trait_type": "shows",
+        "value": "sneakers#67",
+        "count": 50,
+        "frequency": "0.714%"
+      },
+      {
+        "trait_type": "shirt",
+        "value": "hoodie#41",
+        "count": 92,
+        "frequency": "1.314%"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Green cap #2",
+        "count": 134,
+        "frequency": "1.914%"
+      },
+      {
+        "trait_type": "glasses",
+        "value": "glasses#19",
+        "count": 433,
+        "frequency": "6.186%"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "0x774e500eecdd692a90b9e6559d0e86f3f8414981",
+  "type": "ERC721",
+  "name": "shopify",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x774e500eecdd692a90b9e6559d0e86f3f8414981/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x774E500eeCdd692A90B9E6559D0E86f3F8414981/icon?id=1",
+    "expiration": 1666913253,
+    "tokenId": "1",
+    "owner": "0x03db815a4fb988755d7c369ae9ac3b187b42679f",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1666913253
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x774E500eeCdd692A90B9E6559D0E86f3F8414981",
+    "network": 1
+  }
+}

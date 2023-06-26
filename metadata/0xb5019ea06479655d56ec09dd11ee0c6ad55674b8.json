@@ -1,0 +1,54 @@
+{
+  "address": "0xb5019ea06479655d56ec09dd11ee0c6ad55674b8",
+  "type": "ERC721",
+  "name": "Chibitos",
+  "tokenCount": "75",
+  "uri": "https://chibitos.s3.us-east-2.amazonaws.com/output/1.json",
+  "metadata": {
+    "name": "Chibito #1",
+    "description": "4,444 animated Crypto Warriors adventuring in the metaverse.",
+    "image": "https://chibitos.s3.us-east-2.amazonaws.com/images/1.png",
+    "dna": "e242244803ea56364696d7ad34e7aa1da481e950",
+    "edition": 1,
+    "date": 1654901115595,
+    "attributes": [
+      {
+        "trait_type": "Body",
+        "value": "Bitcoin"
+      },
+      {
+        "trait_type": "BTC_Purity",
+        "value": "24K_Rose_Gold"
+      },
+      {
+        "trait_type": "Animation",
+        "value": "Thriller_Dance"
+      },
+      {
+        "trait_type": "Background",
+        "value": "WAGMI_Woods"
+      },
+      {
+        "trait_type": "Antenna_Level",
+        "value": "2"
+      },
+      {
+        "trait_type": "Shoulder_Level",
+        "value": "1"
+      },
+      {
+        "trait_type": "Helmet_Level",
+        "value": "2"
+      },
+      {
+        "trait_type": "Mask_Level",
+        "value": "3"
+      },
+      {
+        "trait_type": "Total_Level",
+        "value": "8"
+      }
+    ],
+    "animation_url": "https://main--clever-yeot-08fd8c.netlify.app/nfts/1"
+  }
+}

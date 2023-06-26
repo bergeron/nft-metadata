@@ -1,0 +1,64 @@
+{
+  "address": "0xc09a217748347eee10a86ca632328212a042415a",
+  "type": "ERC721",
+  "name": "MemoryNFT",
+  "tokenCount": "5000",
+  "uri": "ipfs://bafybeihsr5igumhev4azud7zmixbechkfyd2fpuns2cmuwq5s2fsyixwga/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "I am a combination of the \"blue chip NFT\" you hold and the NFT of your dreams. I am the king of blue chips.",
+    "external_url": "https://memorymy.com",
+    "image": "ipfs://bafybeiejcrwbsae5jpj2kdkgvmsvn5nh2taczivsjgmtaf4y3k4c76rkma/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "light color"
+      },
+      {
+        "trait_type": "ontology",
+        "value": "flesh color"
+      },
+      {
+        "trait_type": "clothing",
+        "value": "trend"
+      },
+      {
+        "trait_type": "Face",
+        "value": "ordinary"
+      },
+      {
+        "trait_type": "beard",
+        "value": "blonde curly hair"
+      },
+      {
+        "trait_type": "headdress",
+        "value": "cowboy"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "melancholy"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "fierce white teeth"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "memory NFT",
+      "family": "memory NFT"
+    },
+    "symbol": ""
+  }
+}

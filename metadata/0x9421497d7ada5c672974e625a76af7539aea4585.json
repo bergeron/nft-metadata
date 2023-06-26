@@ -1,0 +1,30 @@
+{
+  "address": "0x9421497d7ada5c672974e625a76af7539aea4585",
+  "type": "ERC1155",
+  "name": "Danger Islands",
+  "tokenCount": "10",
+  "uri": "https://www.danger-islands-assets.com/json/1",
+  "metadata": {
+    "name": "Danger Islands Rare Land",
+    "description": "Danger Islands Rare Land",
+    "image": "https://www.danger-islands-assets.com/images/rare-genesis-land.png",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      },
+      {
+        "trait_type": "generation",
+        "value": "0"
+      },
+      {
+        "trait_type": "object-type",
+        "value": "island"
+      },
+      {
+        "trait_type": "game-object-id",
+        "value": "1"
+      }
+    ]
+  }
+}

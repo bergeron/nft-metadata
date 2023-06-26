@@ -1,0 +1,26 @@
+{
+  "address": "0xa06995ad9487ad2c19a9d00d979ec806d475dab6",
+  "type": "ERC721",
+  "name": "Never-Fungible Pasta Plates",
+  "tokenCount": "100",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIlBsYXRlICMxIiwgImRlc2NyaXB0aW9uIjogIkEgZGVsaWNpb3VzIG5ldmVyLWZ1bmdpYmxlIHBhc3RhIHBsYXRlIGZyb20gTkZPRy4iLCAiaW1hZ2UiOiAiaXBmczovL1FtYkV0OFcyN1F3OWJzMnkyNVE5dHZkUHlncUR3VHpzSk4xZXRtTDFiREw2dFAvNC5wbmciLCAiYXR0cmlidXRlcyI6IFt7InRyYWl0X3R5cGUiOiAiUGFzdGEiLCJ2YWx1ZSI6ICJTcGFnaGV0dGkgd2l0aCBNZWF0YmFsbHMifSwgeyJ0cmFpdF90eXBlIjogIlJlZmlsbHMiLCJ2YWx1ZSI6ICIwIn0sIHsidHJhaXRfdHlwZSI6ICJQYXJtIExldmVsIiwidmFsdWUiOiAiQ29hdGluZyJ9XX0=",
+  "metadata": {
+    "name": "Plate #1",
+    "description": "A delicious never-fungible pasta plate from NFOG.",
+    "image": "ipfs://QmbEt8W27Qw9bs2y25Q9tvdPygqDwTzsJN1etmL1bDL6tP/4.png",
+    "attributes": [
+      {
+        "trait_type": "Pasta",
+        "value": "Spaghetti with Meatballs"
+      },
+      {
+        "trait_type": "Refills",
+        "value": "0"
+      },
+      {
+        "trait_type": "Parm Level",
+        "value": "Coating"
+      }
+    ]
+  }
+}

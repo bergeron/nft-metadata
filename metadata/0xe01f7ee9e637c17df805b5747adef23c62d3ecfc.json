@@ -1,0 +1,39 @@
+{
+  "address": "0xe01f7ee9e637c17df805b5747adef23c62d3ecfc",
+  "type": "ERC721",
+  "name": "JEFFWORLD: LAND",
+  "tokenCount": "3500",
+  "uri": "https://z9rdv6img1.execute-api.ap-northeast-2.amazonaws.com/prod/nft/land/locked/1.json",
+  "metadata": {
+    "description": "JEFF WORLD LAND",
+    "external_url": "https://jeffworld.io",
+    "image": "https://d1l0c6fn875fby.cloudfront.net/land1/starroad_2_1.png",
+    "name": "JEFF WORLD LAND #1",
+    "attributes": [
+      {
+        "trait_type": "ASSET",
+        "value": "LAND"
+      },
+      {
+        "trait_type": "LAND GRADE",
+        "value": "Grade1"
+      },
+      {
+        "trait_type": "HOUSE TYPE",
+        "value": "Star Road"
+      },
+      {
+        "trait_type": "ISLAND",
+        "value": "Smeade"
+      },
+      {
+        "trait_type": "BLOCK",
+        "value": "10B"
+      },
+      {
+        "trait_type": "HOUSE NUMBER",
+        "value": "#045"
+      }
+    ]
+  }
+}

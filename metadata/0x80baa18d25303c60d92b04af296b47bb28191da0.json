@@ -1,0 +1,79 @@
+{
+  "address": "0x80baa18d25303c60d92b04af296b47bb28191da0",
+  "type": "ERC721",
+  "name": "CryptoCrusades",
+  "tokenCount": "88",
+  "uri": "https://cryptocrusades.herokuapp.com/api/token/00000000000001",
+  "metadata": {
+    "name": "Yirrkala",
+    "description": "A maritime community that thrived by trading Australia’s abundant sea cucumbers to merchants from Southeast Asia.\n\nGenesis Cities have a set location on a model of Earth in the game CryptoCrusades. The Genesis Cities, 88 in total, will be the seats of 88 empires on iOS and Android when the game is launched.",
+    "attributes": [
+      {
+        "trait_type": "Architecture",
+        "value": "genesis_thatch"
+      },
+      {
+        "trait_type": "Continent",
+        "value": "Oceania"
+      },
+      {
+        "trait_type": "Wood Generation",
+        "value": 7
+      },
+      {
+        "trait_type": "Stone Generation",
+        "value": 3
+      },
+      {
+        "trait_type": "Food Generation",
+        "value": 8
+      },
+      {
+        "trait_type": "Inspiration Generation",
+        "value": 1
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Daily Airdrops",
+        "value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Forest Tiles",
+        "max_value": 6,
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Water Tiles",
+        "max_value": 6,
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Desert Tiles",
+        "max_value": 6,
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Hill Tiles",
+        "max_value": 6,
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Mountain Tiles",
+        "max_value": 6,
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Grass Tiles",
+        "max_value": 6,
+        "value": 0
+      }
+    ],
+    "image": "https://cryptocrusades.herokuapp.com/images/1.png"
+  }
+}

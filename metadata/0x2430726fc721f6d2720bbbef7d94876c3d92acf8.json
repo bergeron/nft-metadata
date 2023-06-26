@@ -1,0 +1,25 @@
+{
+  "address": "0x2430726fc721f6d2720bbbef7d94876c3d92acf8",
+  "type": "ERC721",
+  "name": "Legal Advice",
+  "tokenCount": "2",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x2430726fc721f6d2720bbbef7d94876c3d92acf8/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x2430726fC721f6d2720bbBeF7d94876c3d92ACF8/icon?id=1",
+    "expiration": 1685219219,
+    "tokenId": "1",
+    "owner": "0x37f1fe0c626ab737db7b816bba4be91c838f88c2",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1685219219
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x2430726fC721f6d2720bbBeF7d94876c3d92ACF8",
+    "network": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "address": "0xbe33bc4aa349a40d84464ecf7e65f7b100bb46f7",
+  "type": "ERC721",
+  "name": "Atticc Guardian SBT",
+  "tokenCount": "3234",
+  "uri": "https://metadata.atticc.xyz/staking/sbt-token.json",
+  "metadata": {
+    "name": "Atticc Guardian SBT",
+    "description": "This NFT can only be obtained by staking the Atticc Early Adopter Pass.",
+    "external_url": "https://atticc.xyz/",
+    "image": "ipfs://bafybeihy7sbpcl6vckmzdyvanpmv2qvnq5lwqmy352qsag663mqnux64aa",
+    "animation_url": "ipfs://bafybeihy7sbpcl6vckmzdyvanpmv2qvnq5lwqmy352qsag663mqnux64aa",
+    "attributes": [
+      {
+        "trait_type": "Utility",
+        "value": "Early Adopter Airdrop"
+      },
+      {
+        "trait_type": "Transferability",
+        "value": "Non-Transferable"
+      }
+    ]
+  }
+}

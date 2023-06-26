@@ -1,0 +1,38 @@
+{
+  "address": "0x56e87eafe1f68afae52aafaf978e0774f89e1758",
+  "type": "ERC721",
+  "name": "XOXO Architecture Studios",
+  "tokenCount": "15",
+  "uri": "ipfs://QmNuwcSGTUFLb2JJtoinjc64uUfFS1jwTUuEJAVHjNjmFC/1.json",
+  "metadata": {
+    "dna": "38d2f536713039d5e8b231712531e5d3adb33ec0",
+    "name": "#1",
+    "description": "XOXO architecture is a modular floor plan randomizer that will generate and store the unique floor plan combinations on chain. Sections, elevations, materials and details are intentionally excluded so that anyone can take these plans, customize to their preference and make it their own.",
+    "image": "ipfs://QmXpojZm3UFepmY5aLwYnfRupY9fjcQB664mcFMtUKxyGm/1.png",
+    "edition": 1,
+    "date": 1633243549542,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Main Wall",
+        "value": "Amethyst"
+      },
+      {
+        "trait_type": "Bathroom",
+        "value": "Amethyst Type1"
+      },
+      {
+        "trait_type": "Kitchen",
+        "value": "Ruby Type2"
+      },
+      {
+        "trait_type": "Furniture",
+        "value": "Ruby Type1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

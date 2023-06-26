@@ -1,0 +1,48 @@
+{
+  "address": "0x333700c270b669e6c9c559d2d3de8c56c984228a",
+  "type": "ERC721",
+  "name": "Citadel Of The Machines",
+  "tokenCount": "10054",
+  "uri": "https://www.citadelofthemachines.com/token/1",
+  "metadata": {
+    "name": "Hexadroid #0001",
+    "image": "https://nft.citadelofthemachines.com/screenshot/6761b8b7-14c2-4ee1-9f0c-4dce92126a7e.jpg",
+    "external_url": "https://www.citadelofthemachines.com/machine/0001",
+    "description": "Machine #0001",
+    "attributes": [
+      {
+        "trait_type": "Decal",
+        "value": "#0"
+      },
+      {
+        "trait_type": "Decal Palette",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Round"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Elm"
+      },
+      {
+        "trait_type": "Speed",
+        "value": 28
+      },
+      {
+        "trait_type": "Power",
+        "value": 48
+      },
+      {
+        "trait_type": "Class",
+        "value": "Operator"
+      }
+    ],
+    "model": {
+      "type": "string",
+      "description": "https://nft.citadelofthemachines.com/gltf/6761b8b7-14c2-4ee1-9f0c-4dce92126a7e.gltf"
+    },
+    "animation_url": "https://nft.citadelofthemachines.com/gltf/6761b8b7-14c2-4ee1-9f0c-4dce92126a7e.gltf"
+  }
+}

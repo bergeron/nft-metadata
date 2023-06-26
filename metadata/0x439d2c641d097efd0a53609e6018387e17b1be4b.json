@@ -1,0 +1,40 @@
+{
+  "address": "0x439d2c641d097efd0a53609e6018387e17b1be4b",
+  "type": "ERC721",
+  "name": "SlicedNFT",
+  "tokenCount": "3333",
+  "uri": "https://md.onemint.io/0x439D2C641D097efD0A53609e6018387e17b1Be4b/1.json",
+  "metadata": {
+    "name": "Sliced #1",
+    "description": "Sliced is a dynamic NFT collection that offers to each owner the possibility of changing traits and increasing the rarity depending on his own choices. ",
+    "image": "ipfs://bafybeiecgthsv6byzjtuee4jdrmbntww2tuxm6rns4peazd324pozjolvy/1.webp",
+    "external_url": "https://www.getsliced.io/",
+    "attributes": [
+      {
+        "value": "Turquoise",
+        "trait_type": "BACKGROUND"
+      },
+      {
+        "value": "Brown Sailor Coat",
+        "trait_type": "BOTTOM"
+      },
+      {
+        "value": "Grey Sailor",
+        "trait_type": "BODY"
+      },
+      {
+        "value": "Brown Big Teeth",
+        "trait_type": "MOUTH"
+      },
+      {
+        "value": "Calm",
+        "trait_type": "EYES"
+      },
+      {
+        "value": "Blue Bandana",
+        "trait_type": "HEAD"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

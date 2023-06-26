@@ -1,0 +1,53 @@
+{
+  "address": "0xa0e8a9941d1e1bc2ed25f138be6b0b51c059b298",
+  "type": "ERC721",
+  "name": "FEWOCiOUS x FewoWorld: Canvas",
+  "tokenCount": "1372",
+  "uri": "https://collectible.api.manifoldxyz.dev/collectible/0xa0E8A9941D1E1Bc2Ed25f138Be6B0B51C059b298/1",
+  "metadata": {
+    "name": "Canvas #1",
+    "created_by": "FewoWorld",
+    "description": "Canvas is a digital representation of a section of a real painted canvas from a Paint Party, given as a collectible reward to Paint Party attendees and Top Paint Holders. Each Canvas NFT is distinguishable by Paint Party and no two NFTs display the same fragment of canvas, making them all fully unique. The full physical canvases and an allocation of Canvas NFTs as reserves, will remain in the FewoWorld vault.",
+    "image": "https://arweave.net/_1KN7sEooQ7qRdbzFhfbiGXh-E9HAtfiDE-KuUDTMP0",
+    "image_url": "https://arweave.net/_1KN7sEooQ7qRdbzFhfbiGXh-E9HAtfiDE-KuUDTMP0",
+    "image_details": {
+      "bytes": 289747,
+      "format": "JPEG",
+      "sha256": "5821fbdbf3d03fbd1f370949ebc08af62d6b7ea9995a65802c4084b80f39354b",
+      "width": 1080,
+      "height": 1440
+    },
+    "animation": "https://arweave.net/bCSfuPL2pqFyNJIolKxPL5nSANJWp5zfzOteZawqBSk",
+    "animation_url": "https://arweave.net/bCSfuPL2pqFyNJIolKxPL5nSANJWp5zfzOteZawqBSk",
+    "animation_details": {
+      "bytes": 25284093,
+      "format": "MP4",
+      "duration": 13,
+      "sha256": "b6293f48a38c93166efc6731a3b8f8283cf47842dfbe311d2cfe52e41964fccd",
+      "width": 1080,
+      "height": 1440,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Event",
+        "value": "NYC 21"
+      },
+      {
+        "trait_type": "Physical Canvas #",
+        "value": 1
+      },
+      {
+        "trait_type": "X Coordinate",
+        "value": 1
+      },
+      {
+        "trait_type": "Y Coordinate",
+        "value": 1
+      }
+    ]
+  }
+}

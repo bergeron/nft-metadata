@@ -1,0 +1,35 @@
+{
+  "address": "0x23afb8a706119d8aaf1051ba61bad8671d5ae274",
+  "type": "ERC721",
+  "name": "Spin Is Art",
+  "tokenCount": "33",
+  "uri": "ipfs://bafybeiglcutshtt5gaayyhgwvkqvrbxvx4ie22i3m2atzmuuki3d4rs4ti/1.json",
+  "metadata": {
+    "name": "Spin #1",
+    "description": "Spin is art. Art is spin.",
+    "attributes": [
+      {
+        "value": "Spark",
+        "trait_type": "Palette Type"
+      },
+      {
+        "value": "Medium",
+        "trait_type": "Palette Complexity"
+      },
+      {
+        "value": "Major Right",
+        "trait_type": "Horizontal Tilt"
+      },
+      {
+        "value": "Minor Down",
+        "trait_type": "Vetical Tilt"
+      },
+      {
+        "value": "Max",
+        "trait_type": "Rotation type"
+      }
+    ],
+    "animation_url": "ipfs://QmSA1DjFisUrwxLeGmGNFpCvZhSW17y3hwpBnPmNYTQuBw?fxhash=ooapQTw39JwHSP71robjGwXAAhKmmoAueCe2wUYiFFfouz15C4J",
+    "image": "ipfs://QmSfbgXGoevDx9WUpYmiX2wfQSfsDJhA7BEi34aT4x7CUP"
+  }
+}

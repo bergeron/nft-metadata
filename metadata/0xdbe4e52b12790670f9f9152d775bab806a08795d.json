@@ -1,0 +1,47 @@
+{
+  "address": "0xdbe4e52b12790670f9f9152d775bab806a08795d",
+  "type": "ERC721",
+  "name": "WhitehatHallOfFame",
+  "tokenCount": "4",
+  "uri": "ipfs://bafkreibb6kegrqe3ikcr4imhb2weo2pd5netpeigkn2yrjleyczon75hra",
+  "metadata": {
+    "image": "ipfs://bafybeifnlgpu4bcygre6nyndnnpbksidmnwl4bwejayoud5kqah6jx3e6m",
+    "description": "The Satya0x card is part of Immunefi’s Whitehat Hall of Fame NFT collection to celebrate and honor the world’s most legendary whitehat hackers.",
+    "name": "The Satya0x Card",
+    "attributes": [
+      {
+        "trait_type": "Project Saved",
+        "value": "Wormhole"
+      },
+      {
+        "trait_type": "Whitehat",
+        "value": "Satya0x"
+      },
+      {
+        "trait_type": "Bug Type",
+        "value": "Uninitialized Proxy"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Date Bug Submitted",
+        "value": "1645687312"
+      },
+      {
+        "trait_type": "Summoner",
+        "value": "Well-written bug report"
+      },
+      {
+        "trait_type": "Skull",
+        "value": "Project could have been devastated by this bug"
+      },
+      {
+        "trait_type": "Impact of Attack",
+        "value": 9
+      },
+      {
+        "trait_type": "Ease of Defense",
+        "value": 2
+      }
+    ]
+  }
+}

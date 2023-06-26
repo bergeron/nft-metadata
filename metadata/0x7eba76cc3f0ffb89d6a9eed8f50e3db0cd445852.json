@@ -1,0 +1,38 @@
+{
+  "address": "0x7eba76cc3f0ffb89d6a9eed8f50e3db0cd445852",
+  "type": "ERC721",
+  "name": "Mad Banana Union",
+  "tokenCount": "6969",
+  "uri": "https://madbananaapi.vercel.app/api/1",
+  "metadata": {
+    "name": "Mad Banana #584",
+    "image": "https://gateway.pinata.cloud/ipfs/QmP5rhLUAeUAVqsPuvq9NZfRQw1JT5JCB954WEnhETZXj1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Rinnegan"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Chopped banana truck hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Sour"
+      },
+      {
+        "trait_type": "Madness",
+        "value": 69,
+        "max_value": 100
+      }
+    ]
+  }
+}

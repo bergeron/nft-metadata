@@ -1,0 +1,57 @@
+{
+  "address": "0xe1058c875b07fd9a940a409f2aabb05af7599acc",
+  "type": "ERC721",
+  "name": "Alpha Pals",
+  "tokenCount": "309",
+  "uri": "ipfs://QmXAb7Q5CZwZBD2f2gft4npNGigTo4UEwS1VFrD2x6KU96/1.json",
+  "metadata": {
+    "name": "Alpha Pal #1",
+    "description": "",
+    "external_url": "https://alphapals.com",
+    "image": "ipfs://QmZ3ENemnWE8syv6g81JuqJ4cWp1Qq3yCNNwLYQs1L3Bnk/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "winkle"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Gucci"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Navy Static Tee"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Mint Perm"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Basquiat's Crown"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Alpha Pals",
+      "family": "Alpha Pals"
+    },
+    "symbol": ""
+  }
+}

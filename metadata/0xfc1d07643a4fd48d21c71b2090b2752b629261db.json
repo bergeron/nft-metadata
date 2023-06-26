@@ -1,0 +1,41 @@
+{
+  "address": "0xfc1d07643a4fd48d21c71b2090b2752b629261db",
+  "type": "ERC721",
+  "name": "Wonder Bird",
+  "tokenCount": "1997",
+  "uri": "ipfs://bafybeifzgi3xj3usfeq453ghhy5dwavepmf4gg5s4afi37ikvp6k5cimei/1.json",
+  "metadata": {
+    "name": "Wonder Bird #1",
+    "description": "There are no superheroes besides ourselves and Wonder Bird.",
+    "image": "ipfs://bafybeifzrqbkccvuvwo4dzexri5lbg3oi5ymyupcyuxvuuimxzexxm3ziy/1.png",
+    "edition": 1,
+    "date": 1680252979865,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "RED"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "Suit Blue"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Winking"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Rice Hat"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Monocle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

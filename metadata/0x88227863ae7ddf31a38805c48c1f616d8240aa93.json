@@ -1,0 +1,38 @@
+{
+  "address": "0x88227863ae7ddf31a38805c48c1f616d8240aa93",
+  "type": "ERC721",
+  "name": "NatureKid(NK)",
+  "tokenCount": "3333",
+  "uri": "ipfs://QmRaUVzUP3sdc1hHPyNiihsVkKT8gMH96FhWaTRNoKeQ1Z/1.json",
+  "metadata": {
+    "name": "NatureKid #1",
+    "description": "NatureKid",
+    "image": "ipfs://QmWPMj8wKSJ87oo7zrzzXefqHqEtfi2Lt5xybHfoKmmw7J/1.gif",
+    "dna": "b07c33e64b3275908fc489001859e37af0eebc53",
+    "edition": 1,
+    "date": 1661760996329,
+    "attributes": [
+      {
+        "trait_type": "Clothes",
+        "value": "Yellow Casual Wear"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "CoffeeCup"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Hail"
+      },
+      {
+        "trait_type": "BottleHat",
+        "value": "Brown Beret"
+      },
+      {
+        "trait_type": "Face",
+        "value": "lukewarm"
+      }
+    ],
+    "compiler": "NK"
+  }
+}

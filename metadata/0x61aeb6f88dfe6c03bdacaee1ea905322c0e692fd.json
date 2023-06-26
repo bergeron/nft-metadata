@@ -1,0 +1,66 @@
+{
+  "address": "0x61aeb6f88dfe6c03bdacaee1ea905322c0e692fd",
+  "type": "ERC721",
+  "name": "Let's Go Brandon NFTs- - old",
+  "tokenCount": "21",
+  "uri": "ipfs://Qmd1MRTTpi36rwHcFQDga5UeiQuYDcgT3fChXVpjbx6QY5/1.json",
+  "metadata": {
+    "name": "Let's Go Brandon #1",
+    "description": "This is the Let's Go Brandon Set of the Everything Simpsons NFT Collectibles. This is the first collection of the Everything Simpsons NFTs. Collect all of the Sets in this Everything Simpsons NFT Series.",
+    "image": "ipfs://QmVFDDxZgv54iULWgiyuC1Y4UtkrjQp9aniBbvCxy8roVB/1.png",
+    "dna": "d20ed3061a7eddd73559648b6be76953a69d3bd1",
+    "edition": 1,
+    "date": 1639338189391,
+    "seller_fee_basis_points": 1000,
+    "collection": {
+      "name": "Let's Go Brandon",
+      "family": "Everything Simpsons"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xF1eb1a78eDf3B789BE40ff610425b34e1C7AFe3a",
+          "share": 64
+        },
+        {
+          "address": "0x0780D8F0Fa3D4969b630413943fD622ffE893198",
+          "share": 20
+        },
+        {
+          "address": "0x50f3C322Bd10accBAf17f743C56912BbB3Cdb820",
+          "share": 15
+        },
+        {
+          "address": "0xE8dB308B871753e9E7234f39E981D9ccD2223515",
+          "share": 1
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Beach"
+      },
+      {
+        "trait_type": "Base",
+        "value": "LGB"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Pimp with Chains"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Pimp Hat and Glasses Purple"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

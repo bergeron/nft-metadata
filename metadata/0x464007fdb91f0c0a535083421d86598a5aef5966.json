@@ -1,0 +1,48 @@
+{
+  "address": "0x464007fdb91f0c0a535083421d86598a5aef5966",
+  "type": "ERC721",
+  "name": "DinoDoods Genesis",
+  "tokenCount": "99",
+  "uri": "https://dinodoods-genesis.sfo3.digitaloceanspaces.com/metadata/1",
+  "metadata": {
+    "name": "DinoDoods Genesis #1",
+    "description": "DinoDoods Genesis! If you hold one, you have access to perks within our DinoDoods 5,555 main collection. You also get a free plushie for holding for a certain time period!",
+    "image": "ipfs://QmZKFYPGc9ZA3ePYFgzq4ByGxbhhTRAt9p6BoaL58sx8Uy",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Nurse"
+      },
+      {
+        "trait_type": "Incubator",
+        "value": "Functional_Incubator_Pink"
+      },
+      {
+        "trait_type": "Label",
+        "value": "DDHQ_Label"
+      },
+      {
+        "trait_type": "Sign",
+        "value": "Buddie"
+      },
+      {
+        "trait_type": "Animation",
+        "value": "Pose_Purple"
+      },
+      {
+        "trait_type": "Screen",
+        "value": "Screen_Pink"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

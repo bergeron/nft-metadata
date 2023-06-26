@@ -1,0 +1,21 @@
+{
+  "address": "0x77ba3ea51fd1e50a4c6ad9b121e64ceda5e4d7ae",
+  "type": "ERC721",
+  "name": "Racer Club Fan Pass",
+  "tokenCount": "500",
+  "uri": "https://racerclub.game/fanpass/1.json",
+  "metadata": {
+    "name": "Racer Club VIP Fan Pass #1",
+    "edition": 1,
+    "date": 1683242229,
+    "description": "The Racer Club VIP Fan Pass is a limited supply of 500 passes used to gain access into exclusive areas of the RC Game Server as well as to unlock the highest level of future perks and utilities within the Racer Club ecosystem.",
+    "attributes": [
+      {
+        "trait_type": "Fan Pass",
+        "value": "VIP"
+      }
+    ],
+    "image": "ipfs://QmQFhNzHB2T3P57BcfGQ5Dt5ZS2A8rE8EYFEn8hu3YgYWF/vip_fan_pass.png",
+    "animation_url": "ipfs://QmQFhNzHB2T3P57BcfGQ5Dt5ZS2A8rE8EYFEn8hu3YgYWF/vip_fan_pass_video.mp4"
+  }
+}

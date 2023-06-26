@@ -1,0 +1,45 @@
+{
+  "address": "0xf1ebb89b124894210bd33c3aa10d5585f32eb1a6",
+  "type": "ERC1155",
+  "name": "The Nostalgia Zone by memrex.eth",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/p-YpTsVRG5yLokbNQiLZRIm7evUCzT5OQLL0ozE-Ce0",
+  "metadata": {
+    "name": "80s Kitchen Nostalgia",
+    "created_by": "memrex.eth",
+    "description": "It's Saturday morning in the 80s, time to grab your favorite cereal and turn on some cartoons!",
+    "attributes": [
+      {
+        "trait_type": "DECADE",
+        "value": "1980s"
+      },
+      {
+        "trait_type": "ROOM",
+        "value": "Kitchen"
+      }
+    ],
+    "animation_details": {
+      "bytes": 33660039,
+      "format": "MP4",
+      "duration": 11,
+      "sha256": "6a4b2b99971cd0cb6d3815e3fbf3744f472691b04bbcf2b35c02a984d230d679",
+      "width": 2048,
+      "height": 2048,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/_RlTbZLGKmeL6_wxRuUGX8McSJpL2xXuE2YL8_L36I4",
+    "animation_url": "https://arweave.net/_RlTbZLGKmeL6_wxRuUGX8McSJpL2xXuE2YL8_L36I4",
+    "image_details": {
+      "bytes": 5203036,
+      "format": "PNG",
+      "sha256": "9a6c1456d2247add5db45752a6cc2a873857f768e46eb9faa8d78c3b5475a25c",
+      "width": 2048,
+      "height": 2048
+    },
+    "image": "https://arweave.net/_7j7AO6oX-GTftdfroM-16EfGLJTQ0NqYWv6BIpPCQo",
+    "image_url": "https://arweave.net/_7j7AO6oX-GTftdfroM-16EfGLJTQ0NqYWv6BIpPCQo"
+  }
+}

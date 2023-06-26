@@ -1,0 +1,57 @@
+{
+  "address": "0xfaf3a361da4ce7266e7bf79ccd1188cfcfcd8998",
+  "type": "ERC721",
+  "name": "CryptoSectors",
+  "tokenCount": "806",
+  "uri": "https://cryptosectors-token-data.s3.amazonaws.com/metadata/1",
+  "metadata": {
+    "image": "https://cryptosectors-token-data.s3.amazonaws.com/images/1.png",
+    "attributes": [
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "forest",
+        "value": 0.40943182717523835
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "shrubland",
+        "value": 0
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "grassland",
+        "value": 0.4886069815389189
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "cropland",
+        "value": 0.07965659228155413
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "sparse",
+        "value": 0.0016047930595785213
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "wetland",
+        "value": 0.000004234282479099001
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "water",
+        "value": 0.020695571662231012
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "snow_and_ice",
+        "value": 0
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "area",
+        "value": 19792.174260138192
+      }
+    ]
+  }
+}

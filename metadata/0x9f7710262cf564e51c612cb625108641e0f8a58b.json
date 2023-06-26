@@ -1,0 +1,30 @@
+{
+  "address": "0x9f7710262cf564e51c612cb625108641e0f8a58b",
+  "type": "ERC721",
+  "name": "Just Plain Numbers",
+  "tokenCount": "333",
+  "uri": "ipfs://bafybeicqsfeediedhwcqvguuc72nlmx5dp7cg5vt2nhsodvt2hltagxupq/1.json",
+  "metadata": {
+    "name": "Numbers #1",
+    "description": "Just numbers",
+    "image": "ipfs://bafybeiapmvrvsbjivpmvtdy7yi7dnmtwhkfc3ymenyxyze4ksjt3zold5q/1.png",
+    "edition": 1,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(250,250,250)"
+        },
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Hot Dog"
+        },
+        {
+          "trait_type": "date",
+          "value": 1717
+        }
+      ]
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

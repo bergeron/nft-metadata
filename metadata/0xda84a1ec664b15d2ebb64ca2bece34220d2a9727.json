@@ -1,0 +1,45 @@
+{
+  "address": "0xda84a1ec664b15d2ebb64ca2bece34220d2a9727",
+  "type": "ERC721",
+  "name": "Bored Giraffes Yacht Club",
+  "tokenCount": "3333",
+  "uri": "ipfs://QmXJUSYiVKYxQUnHMAg7NqJ1S3WKDHTSKnGqY4cn7ksEqc/1.json",
+  "metadata": {
+    "name": "Bored Giraffe #1",
+    "description": "Bored Giraffe #1 - This giraffe is really bored, so join our yacht club for more fun!",
+    "fee_recipient": "0x1B7B77DeA44F522c2d5695E526638eBE7c62a797",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://QmdjvD7FQDaTwSTA81N6M3r5BFzzFQ31Yno3SVfG5BcbVo/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gradient 1"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Orange Body"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored Green Eyes"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Blue Cap"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth 3"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Red Balloon Jacket"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 3311,
+        "display_type": "number"
+      }
+    ]
+  }
+}

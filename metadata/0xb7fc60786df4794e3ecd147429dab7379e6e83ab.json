@@ -1,0 +1,61 @@
+{
+  "address": "0xb7fc60786df4794e3ecd147429dab7379e6e83ab",
+  "type": "ERC721",
+  "name": "OnlyPhunks - old",
+  "tokenCount": "1",
+  "uri": "ipfs://QmZ4tUFAa9BYBoQ3X5n5wTrp8urtMRmH97jA5k5AXxdgBF/1",
+  "metadata": {
+    "name": "Punk Babe #2959",
+    "description": "A collection representing powerful women in Web3.",
+    "image": "ipfs://QmSJ4ybaFYPZz9DJ7xMuzkD13XUR1u3pdZEtQF96f9D1Zf/1.png",
+    "external_url": "https://punkbabes.xyz",
+    "properties": {
+      "files": [
+        {
+          "uri": "2959.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xaAC1783b81d0249D5B22558A4A0B8114ba3EDC48",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel Pink"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Skin 4"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Purple Hair 2"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Eyes"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Big White Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Drink 2"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Choker 1"
+      }
+    ],
+    "symbol": "PPB",
+    "seller_fee_basis_points": 100,
+    "edition": 2959
+  }
+}

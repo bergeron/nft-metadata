@@ -1,0 +1,42 @@
+{
+  "address": "0xa888ab7a6b537da337a8e340348ef1bb1f041935",
+  "type": "ERC721",
+  "name": "Axolotl Bunchies",
+  "tokenCount": "732",
+  "uri": "https://bafybeicd7jviy4ys7gvvvf72r4wgaqfrw7g3odabya66bzzkftm7awunyq.ipfs.dweb.link/1.json",
+  "metadata": {
+    "name": "Axolotl #1",
+    "description": "Axolotl Bunchies #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue swoosh"
+      },
+      {
+        "trait_type": "Traits #2",
+        "value": "Hot pink"
+      },
+      {
+        "trait_type": "Traits #3",
+        "value": "Blue galaxy"
+      },
+      {
+        "trait_type": "Traits #4",
+        "value": "Wheat"
+      }
+    ],
+    "creators": [
+      {
+        "address": "",
+        "share": 100
+      }
+    ],
+    "collection": {
+      "name": "Axolotl Bunchies",
+      "family": "Axolotl Bunchies"
+    },
+    "symbol": "AB",
+    "seller_fee_basis_points": 6.5,
+    "image": "https://bafybeiawnatlkhnpht6je3d3kqaktwiv66ug3qrxjjl4hkwrt6x2kwbyn4.ipfs.dweb.link/1.png"
+  }
+}

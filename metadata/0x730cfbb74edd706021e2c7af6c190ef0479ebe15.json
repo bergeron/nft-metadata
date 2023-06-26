@@ -1,0 +1,42 @@
+{
+  "address": "0x730cfbb74edd706021e2c7af6c190ef0479ebe15",
+  "type": "ERC721",
+  "name": "Aliens Clubhouse",
+  "tokenCount": "3",
+  "uri": "ipfs://QmbQsauJ4x3CCGDpnWXe7NK958dsQaDNQiXx4dnBsKwsuC/1.json",
+  "metadata": {
+    "name": "ACH #1",
+    "description": "10,000 unique digital collectables chilling in the Ethereum blockchain. Owning an ACH NFT grants you access to our club and unlocks special club member utility.",
+    "image": "ipfs://QmeSzYnXjNArCAiAPNeqJrpvUoyxb2SRaZeaMrpviAUXPi/1.png",
+    "dna": "ce38ffd7a8b229c396428dc65b66a4e6a022221b",
+    "edition": 1,
+    "date": 1646460006446,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Alien",
+        "value": "Slime"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black Alien Shirt"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eth"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Gold Huggie"
+      },
+      {
+        "trait_type": "Shades",
+        "value": "MJ"
+      }
+    ],
+    "compiler": "Otdalien"
+  }
+}

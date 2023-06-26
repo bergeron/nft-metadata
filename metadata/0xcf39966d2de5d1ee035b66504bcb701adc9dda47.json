@@ -1,0 +1,20 @@
+{
+  "address": "0xcf39966d2de5d1ee035b66504bcb701adc9dda47",
+  "type": "ERC721",
+  "name": "Portrait Beta Pass",
+  "tokenCount": "6212",
+  "uri": "https://portrait-beta-nft-metadata.herokuapp.com/nft/metadata?version=2&address=0xd606296ae3ee28f80a8c235a9ff110b29cf87dbe",
+  "metadata": {
+    "name": "Portrait Beta Pass",
+    "description": "An access pass for the private beta programme of Portrait. At Portrait you can turn your blockchain address into a beautiful website.",
+    "external_url": "https://portrait.gg",
+    "animation_url": "https://portrait-beta-nft-metadata.herokuapp.com/nft/animation?version=2&address=0xd606296ae3ee28f80a8c235a9ff110b29cf87dbe",
+    "image": "https://portrait-beta-nft-metadata.herokuapp.com/nft/image?version=2&address=0xd606296ae3ee28f80a8c235a9ff110b29cf87dbe",
+    "attributes": [
+      {
+        "trait_type": "Version",
+        "value": "Upgraded"
+      }
+    ]
+  }
+}

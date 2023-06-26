@@ -1,0 +1,42 @@
+{
+  "address": "0x8fc6980a8e5cfd55981a81e210666c5c6a52d502",
+  "type": "ERC721",
+  "name": "Meta Elite ClubNFT",
+  "tokenCount": "44",
+  "uri": "ipfs://Qme1LHNBbedKQFiuiDhjYxYPScQjHf1mSqJFVLMEEQrMVf/1.json",
+  "metadata": {
+    "name": "Meta Elite Club #1",
+    "description": "A unique collection of elite NFT avatars that are directly connected to the metaverse.",
+    "image": "ipfs://QmPec6oJ77reL1xdwkxuHzaUGmmvizyuefE14myWxL14gv/1.png",
+    "dna": "9cc76fbc8afc01ffa5449c32369052ada4349367",
+    "edition": 1,
+    "date": 1647099623444,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue Logo"
+      },
+      {
+        "trait_type": "Zoe",
+        "value": "Elite"
+      },
+      {
+        "trait_type": "Zoe's Sunglasses",
+        "value": "None"
+      },
+      {
+        "trait_type": "Zoe's Outfit",
+        "value": "Green Blazer"
+      },
+      {
+        "trait_type": "Zoe's Necklace",
+        "value": "Gold Chain"
+      },
+      {
+        "trait_type": "Zoe's Earrings",
+        "value": "Star Teardrops"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

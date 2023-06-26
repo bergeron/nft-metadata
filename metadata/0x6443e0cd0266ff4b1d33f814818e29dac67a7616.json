@@ -1,0 +1,23 @@
+{
+  "address": "0x6443e0cd0266ff4b1d33f814818e29dac67a7616",
+  "type": "ERC1155",
+  "name": "ChrisUniverse Raffle",
+  "tokenCount": "2",
+  "uri": "https://ipfs.io/ipfs/QmfNKsEpwcLmRnVb1wKZQRoGJSdFvwnQeqhFBT8XJ5au5q/1.json",
+  "metadata": {
+    "name": "Raffle Ticket: Raffle #1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut lacinia enim et elit tincidunt volutpat.",
+    "image": "https://ipfs.io/ipfs/Qmb71NGds1djAF1vmzAppbVzfraLby9x7tyGR6js7LSojv/1.png",
+    "attributes": [
+      {
+        "trait_type": "Value",
+        "value": 1,
+        "max_value": 1000000
+      },
+      {
+        "trait_type": "Test",
+        "value": true
+      }
+    ]
+  }
+}

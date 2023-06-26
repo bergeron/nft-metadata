@@ -1,0 +1,57 @@
+{
+  "address": "0x0d94a46d909fb2ce5c9edce2105efa007610382d",
+  "type": "ERC721",
+  "name": "Test ETH V2 - old",
+  "tokenCount": "2",
+  "uri": "ipfs://QmTRfdZNL37SenmhsBBWtAggDnAJ6gf4U5HWYeY1app4tb/1",
+  "metadata": {
+    "name": "DubaiDudes #1",
+    "description": "DubaiDudes",
+    "image": "ipfs://QmQrDAYGn6TXwqVf3A558mobUBp2nXBscEv8sxP9HTC2jV/1.png",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "backgrounds",
+        "value": "License Plate"
+      },
+      {
+        "trait_type": "bases",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Slick White Hair"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Shades"
+      },
+      {
+        "trait_type": "accessories",
+        "value": "none"
+      },
+      {
+        "trait_type": "mouths",
+        "value": "Cigarette"
+      }
+    ],
+    "symbol": "",
+    "seller_fee_basis_points": 1000,
+    "edition": 1
+  }
+}

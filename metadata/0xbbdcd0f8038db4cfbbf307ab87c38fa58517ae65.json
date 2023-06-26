@@ -1,0 +1,59 @@
+{
+  "address": "0xbbdcd0f8038db4cfbbf307ab87c38fa58517ae65",
+  "type": "ERC721",
+  "name": "Planet Seekers",
+  "tokenCount": "10471",
+  "uri": "https://api.planetseekers.space/1.json",
+  "metadata": {
+    "image": "https://api.planetseekers.world/1.png",
+    "name": "Planet #1",
+    "description": "Go to your own Planet. Can you survive there? Because their inhabitants are not always friendly.",
+    "external_url": "",
+    "seller_fee_basis_points": 7,
+    "collection": {
+      "name": "Planet",
+      "family": ""
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "share": 100,
+          "address": "0xefB69F7081e6D5eE65D22e7ef77008CeF9Bd89A0"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Arc Orange"
+      },
+      {
+        "trait_type": "Water",
+        "value": "Sahara"
+      },
+      {
+        "trait_type": "Top",
+        "value": "White Kingdom"
+      },
+      {
+        "trait_type": "Bottom",
+        "value": "Berries Red"
+      },
+      {
+        "trait_type": "Top Monsters",
+        "value": "Dino Turquoise"
+      },
+      {
+        "trait_type": "Bottom Monsters",
+        "value": "Item Green"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

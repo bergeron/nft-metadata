@@ -1,0 +1,39 @@
+{
+  "address": "0x17914823d599f89df674a9a020bd15d7f4836ee3",
+  "type": "ERC721",
+  "name": "Skelly Cats",
+  "tokenCount": "7777",
+  "uri": "https://us-central1-doodories.cloudfunctions.net/app/token/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Pink Hoodie"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Green Sweatband"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Sunglasses"
+      }
+    ],
+    "compiler": "Skelecats",
+    "date": 1642889876433,
+    "description": "Skelecats is a collection of 7777 unique collectible avatars.",
+    "dna": "58b05bcf5e42c99b2aa8cce70a6cff9b11a87aa5aef248773b3fdbc70f8aac5a",
+    "edition": 1,
+    "image": "ipfs://QmWqVxwBjfh4prUK7oQTcxPkvaRhm3FrJmS6UCx3Jy1Vh9/1.png",
+    "imageHash": "69fec1ee44f56676735b38abb69ba1932eca1df1f755502e3ef7e8cadae54d67",
+    "name": "Skelecat #1"
+  }
+}

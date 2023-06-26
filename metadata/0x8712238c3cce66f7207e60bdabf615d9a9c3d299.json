@@ -1,0 +1,82 @@
+{
+  "address": "0x8712238c3cce66f7207e60bdabf615d9a9c3d299",
+  "type": "ERC721",
+  "name": "Monegraph",
+  "tokenCount": "4",
+  "uri": "https://ipfs.io/ipfs/QmXmAfR5oCACVtX8GWXSYwxMQru3Qw4qwX5UHUwhzN5SB2",
+  "metadata": {
+    "name": "Standing Floors NFT",
+    "description": "\"Standing Floors\" was written for the Warriors of this world. The outcasts, the dreamers, the ones who do not take no for an answer…the ones that are never afraid of failing in order to grow! ",
+    "external_url": "https://ipfs.io/ipfs/QmUFTRqrbzzWFqrjqTwYtTXfu2ftUPN3a1RBarxF474k6u",
+    "animation_url": "https://ipfs.io/ipfs/QmUFTRqrbzzWFqrjqTwYtTXfu2ftUPN3a1RBarxF474k6u",
+    "image": "https://ipfs.io/ipfs/QmfXawcpgkM9zLrN9Z3cWwzV39QuDNaqaYUWPe8RxRAgpQ",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Wilsonn"
+      },
+      {
+        "trait_type": "Rights Agreement",
+        "value": "https://ipfs.io/ipfs/QmT5bcXpg7y3fczGDzKFwMpAFMUifyLMuoSJJSVkTkefuw"
+      },
+      {
+        "trait_type": "Archive Link",
+        "value": "https://ipfs.io/ipfs/QmUFTRqrbzzWFqrjqTwYtTXfu2ftUPN3a1RBarxF474k6u"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Standing Floors NFT"
+      },
+      "description": {
+        "type": "string",
+        "description": "\"Standing Floors\" was written for the Warriors of this world. The outcasts, the dreamers, the ones who do not take no for an answer…the ones that are never afraid of failing in order to grow! "
+      },
+      "image": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/QmfXawcpgkM9zLrN9Z3cWwzV39QuDNaqaYUWPe8RxRAgpQ"
+      },
+      "rights_agreement": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/QmT5bcXpg7y3fczGDzKFwMpAFMUifyLMuoSJJSVkTkefuw"
+      },
+      "rights_agreement_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "rights_agreement_signature": {
+        "type": "string",
+        "description": "529e9a503e669cb8ad5a999948733eb977010ca471edf31909035991af942242"
+      },
+      "archive_link": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/QmUFTRqrbzzWFqrjqTwYtTXfu2ftUPN3a1RBarxF474k6u"
+      },
+      "archive_link_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "archive_link_signature": {
+        "type": "string",
+        "description": "622d601c1cba7272bcdcd3c645f96c6d7a83046546aec255a4c1c0b64b95f853"
+      },
+      "rights_agreement_values": {
+        "$ARTIST": "Wilsonn",
+        "$SHAHASH": "622d601c1cba7272bcdcd3c645f96c6d7a83046546aec255a4c1c0b64b95f853",
+        "$CONTRACTSHAHASH": "529e9a503e669cb8ad5a999948733eb977010ca471edf31909035991af942242",
+        "$URL": "https://ipfs.io/ipfs/QmfXawcpgkM9zLrN9Z3cWwzV39QuDNaqaYUWPe8RxRAgpQ",
+        "$TITLE": "Standing Floors NFT",
+        "$YEAR": "2021",
+        "$ROYALTYRATE": "10",
+        "$TOKEN": "eth",
+        "$ADDRESS": "0xcfb001becb68d60ed33964db57574ca88a5167fd",
+        "$LICENSE": "CA.05.19.21., Patent No. US 10,380,702"
+      },
+      "additional_info": {
+        "type": "string",
+        "description": ""
+      }
+    }
+  }
+}

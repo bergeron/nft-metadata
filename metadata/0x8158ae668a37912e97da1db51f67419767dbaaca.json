@@ -1,0 +1,38 @@
+{
+  "address": "0x8158ae668a37912e97da1db51f67419767dbaaca",
+  "type": "ERC721",
+  "name": "Small Mats",
+  "tokenCount": "4",
+  "uri": "ipfs://bafybeieqn35myefjfg7re4z3pnnrxcg7q6mn4zt726aglbevzxe6napljy/1",
+  "metadata": {
+    "name": "Small Mat #1",
+    "description": "It's Small Mats, made of yarn, knitted by hand.",
+    "created_by": "WWDTDN",
+    "collection_name": "Small Mats",
+    "image": "ipfs://bafybeibth7cowkcj73z67pgklr32ehvfz2pnyuomlib27dttflph3cxqqi/1.jpg",
+    "image_url": "ipfs://bafybeibth7cowkcj73z67pgklr32ehvfz2pnyuomlib27dttflph3cxqqi/1.jpg",
+    "image_details": {
+      "width": 3024,
+      "height": 4032
+    },
+    "external_url": "https://wwdtdn.com",
+    "animation": "ipfs://bafybeibth7cowkcj73z67pgklr32ehvfz2pnyuomlib27dttflph3cxqqi/1.mp4",
+    "animation_url": "ipfs://bafybeibth7cowkcj73z67pgklr32ehvfz2pnyuomlib27dttflph3cxqqi/1.mp4",
+    "animation_details": {
+      "width": 1306,
+      "height": 1740,
+      "format": "MP4",
+      "codec": "H.264"
+    },
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Secret",
+        "value": "Plane"
+      }
+    ]
+  }
+}

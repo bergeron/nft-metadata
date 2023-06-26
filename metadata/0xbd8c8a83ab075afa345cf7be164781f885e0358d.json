@@ -1,0 +1,33 @@
+{
+  "address": "0xbd8c8a83ab075afa345cf7be164781f885e0358d",
+  "type": "ERC721",
+  "name": "Classic Pencils",
+  "tokenCount": "23",
+  "uri": "ipfs://bafybeifbqipuhp7igfp7w5rsrnhaoodob3j234nsszxpqyqn5wipwp5mle/1.json",
+  "metadata": {
+    "name": "Classic Pencils #1",
+    "description": "The Fun way to Present the Pencil a 3D art the amazing Expressions.",
+    "fee_recipient": "0xdfD83a2887001aCa5eAeB6f7C6b0B03738D1625B",
+    "seller_fee_basis_points": 750,
+    "image": "ipfs://bafybeidtgx5na6szocwav4daqizblxco4uf6np6ur756fx75smmwbb7ade/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "1658131548070"
+      },
+      {
+        "trait_type": "Body",
+        "value": "NftDesignTool NFTTemplate Classic Pencil 1658131556978"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "1658131567953"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 8639,
+        "display_type": "number"
+      }
+    ]
+  }
+}

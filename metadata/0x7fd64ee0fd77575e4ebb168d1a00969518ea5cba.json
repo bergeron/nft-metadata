@@ -1,0 +1,53 @@
+{
+  "address": "0x7fd64ee0fd77575e4ebb168d1a00969518ea5cba",
+  "type": "ERC721",
+  "name": "Sonnets V2",
+  "tokenCount": "10",
+  "uri": "https://arweave.net/I0_2f1d7_1lu2kGBS6GrmWyPJxFyeE2sI3cIETwMO2Q",
+  "metadata": {
+    "name": "Enormous Creatures (Poem 001a)",
+    "created_by": "ZenMaterialist",
+    "description": "A poem (after Shakespeare’s Sonnet I) told in potential sculpture.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "ZenMaterialist"
+      },
+      {
+        "trait_type": "Material",
+        "value": "Granite"
+      },
+      {
+        "trait_type": "Medium",
+        "value": "Outdoor sculpture"
+      },
+      {
+        "trait_type": "Book Part",
+        "value": "Not Knowing"
+      }
+    ],
+    "animation_details": {
+      "bytes": 46619008,
+      "format": "MP4",
+      "duration": 89,
+      "sha256": "0b3cc511f232cbba2aaa8659581d52d8b97945ba96ab45ad1d9314e0dff256da",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/gXCxM9rJ1Vl1zPWDXFIceve3p2i5Sm5ZVitUe0GwNgw",
+    "animation_url": "https://arweave.net/gXCxM9rJ1Vl1zPWDXFIceve3p2i5Sm5ZVitUe0GwNgw",
+    "image_details": {
+      "bytes": 814671,
+      "format": "PNG",
+      "sha256": "9d60adf7a156115e9130c7c4e5faff75e5ae10217f106eaaa2bfb8aefc9b25fb",
+      "width": 768,
+      "height": 512
+    },
+    "image": "https://arweave.net/rb68omfE6XhFe2bJr2WxfMNFBay6dkRPhikvR8domZA",
+    "image_url": "https://arweave.net/rb68omfE6XhFe2bJr2WxfMNFBay6dkRPhikvR8domZA"
+  }
+}

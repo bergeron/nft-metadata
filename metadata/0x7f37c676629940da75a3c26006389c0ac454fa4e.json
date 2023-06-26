@@ -1,0 +1,32 @@
+{
+  "address": "0x7f37c676629940da75a3c26006389c0ac454fa4e",
+  "type": "ERC721",
+  "name": "Royal Fox Chamber Official Collection",
+  "tokenCount": "222",
+  "uri": "https://nft.royalfoxchamber.com/api/v1/nft/1/1",
+  "metadata": {
+    "name": "Royal Fox #1",
+    "description": "A collection of 7,777 Foxes NFT with Exclusive Limited Build-A-Fox Feature, where you can pick your own personalised traits and make it truly one of a kind.",
+    "external_url": "https://royalfoxchamber.com/nft/s1/1",
+    "image": "https://nft.royalfoxchamber.com/nft/1/1.jpg",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Season",
+        "value": 1
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Season 1 Tournament Reward"
+      },
+      {
+        "trait_type": "Royal Element",
+        "value": "Diamond"
+      }
+    ]
+  }
+}

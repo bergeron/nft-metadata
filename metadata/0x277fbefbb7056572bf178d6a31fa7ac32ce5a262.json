@@ -1,0 +1,77 @@
+{
+  "address": "0x277fbefbb7056572bf178d6a31fa7ac32ce5a262",
+  "type": "ERC1155",
+  "name": "LosFakePepes",
+  "tokenCount": "6",
+  "uri": "https://arweave.net/abIlQOD2zzi4FfufCtgQmfRSoVgzSRWC6UsBkMiIz5Y",
+  "metadata": {
+    "name": "El Pepe Tóxico",
+    "created_by": "sailorpepe.eth",
+    "description": "The \"El Pepe Tóxico\" card gives holders protection from all virtuous incoherent rants. \nLimited Edition: 420 supply  \nMint Price: .00420",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "sailorpepe.eth"
+      },
+      {
+        "trait_type": "Tolerance",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Game",
+        "value": "Lotería"
+      },
+      {
+        "trait_type": "Intemperance",
+        "value": "Legendary"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Resilience",
+        "value": 88,
+        "max_value": 100
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Power",
+        "value": 69,
+        "max_value": 100
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Speed",
+        "value": 51,
+        "max_value": 100
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Wisdom",
+        "value": 92,
+        "max_value": 100
+      }
+    ],
+    "animation_details": {
+      "bytes": 14655232,
+      "format": "MP4",
+      "duration": 5,
+      "sha256": "88d787a66a0a08a93bbc250f3c59de0d264c9a2dcbabe9e51a803fd0985fdbbb",
+      "width": 1520,
+      "height": 2000,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/-4S-zuDVe9re3kS8-yYQHhmFsF7zNIUplFFIWBb9N9A",
+    "animation_url": "https://arweave.net/-4S-zuDVe9re3kS8-yYQHhmFsF7zNIUplFFIWBb9N9A",
+    "image_details": {
+      "bytes": 1993475,
+      "format": "JPEG",
+      "sha256": "f3ef7f5adc273155a95314febd32c2c8e95b66a07d29ef4a8c3f62ff885589ca",
+      "width": 1520,
+      "height": 2000
+    },
+    "image": "https://arweave.net/0-HOuWdajInnEfq0dmCW6xC0UDFfgazunteW9YETZ6I",
+    "image_url": "https://arweave.net/0-HOuWdajInnEfq0dmCW6xC0UDFfgazunteW9YETZ6I"
+  }
+}

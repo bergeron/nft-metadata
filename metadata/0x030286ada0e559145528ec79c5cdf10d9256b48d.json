@@ -1,0 +1,21 @@
+{
+  "address": "0x030286ada0e559145528ec79c5cdf10d9256b48d",
+  "type": "ERC721",
+  "name": "888 Genesis Animated Spaceships",
+  "tokenCount": "888",
+  "uri": "http://spacecraftmetadata.s3-website-us-west-2.amazonaws.com/1.json",
+  "metadata": {
+    "name": "Spacecraft #1",
+    "image": "ipfs://QmYsH2XxgK16ibfG8GZZDkiPnQDTorxSVK38nLDY7t8HUS/Wasp.gif",
+    "attributes": [
+      {
+        "trait_type": "Vessel",
+        "value": "Dropship"
+      },
+      {
+        "trait_type": "Craft Type",
+        "value": "Wasp"
+      }
+    ]
+  }
+}

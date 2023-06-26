@@ -1,0 +1,19 @@
+{
+  "address": "0xf220db48f0d3ca8a9833e0353e7497dbceae7ac6",
+  "type": "ERC721",
+  "name": "Karafuru Gachapon",
+  "tokenCount": "15555",
+  "uri": "https://api-v2.karafuru.io/api/v1/metadatas/1",
+  "metadata": {
+    "id": "1",
+    "name": "Karafuru Gachapon #1",
+    "image": "https://karafuru-3d-bucket.s3.ap-southeast-1.amazonaws.com/opened.gif",
+    "description": "The Karafuru Gachapon is your access ticket to the 3D Karafuru Collection. 1 Karafuru Gachapon = 1 random Karafuru x HYPEBEAST x atmos avatar (3D Karafuru).",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "Opened"
+      }
+    ]
+  }
+}

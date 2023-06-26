@@ -1,0 +1,71 @@
+{
+  "address": "0xa319c382a702682129fcbf55d514e61a16f97f9c",
+  "type": "ERC721",
+  "name": "Petri Dish by James Dalessandro",
+  "tokenCount": "37",
+  "uri": "https://token.artblocks.io/0xa319C382a702682129fcbF55d514E61a16f97f9c/1",
+  "metadata": {
+    "platform": "Plottables",
+    "tokenID": "1",
+    "series": "N/A",
+    "aspect_ratio": 0.773,
+    "payout_address": "0x497702b81ffc3aa3535c84af86cfb5a8b367e1b2",
+    "name": "Streamlines #1",
+    "minted": true,
+    "artist": "NumbersInMotion",
+    "description": "In mathematics, streamlines are a family of curves that are instantaneously tangent to the velocity vector of a flow. These show the direction in which a massless fluid element will travel at any point in time. This project is an abstract exploration of these formal ideas. Best plotted on Legion Stonehenge Aqua Black Watercolor Paper Pads with with Sakura Gelly Roll Metallic Pens.",
+    "script_type": "p5@1.0.0",
+    "project_id": "0",
+    "engine_type": "fullyonchain",
+    "image": "https://media-proxy.artblocks.io/0xa319c382a702682129fcbf55d514e61a16f97f9c/1.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa319c382a702682129fcbf55d514e61a16f97f9c/1.png",
+    "generator_url": "https://generator.artblocks.io/0xa319c382a702682129fcbf55d514e61a16f97f9c/1",
+    "animation_url": "https://generator.artblocks.io/0xa319c382a702682129fcbf55d514e61a16f97f9c/1",
+    "royaltyInfo": {
+      "artistAddress": "0xf565d79c35758c752d3debfdd380d4eb16a3c6e3",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Streamlines by NumbersInMotion",
+    "website": "https://www.instagram.com/numbersinmotion",
+    "token_hash": "0x51e58f0f63f50c80738de53f9f7726dfdec106e045016c3025f0b62027b58cfc",
+    "external_url": "https://www.plottables.io/token/1",
+    "primary_asset_url": "https://generator.artblocks.io/0xa319c382a702682129fcbf55d514e61a16f97f9c/1",
+    "features": {
+      "Palette": "The Bathing Cabins",
+      "Mirrored": "True",
+      "Seperation": "Normal",
+      "Unification": "Friendly",
+      "Vector Field": "Pinched"
+    },
+    "traits": [
+      {
+        "trait_type": "Streamlines",
+        "value": "All Streamlines"
+      },
+      {
+        "trait_type": "Streamlines",
+        "value": "Palette: The Bathing Cabins"
+      },
+      {
+        "trait_type": "Streamlines",
+        "value": "Mirrored: True"
+      },
+      {
+        "trait_type": "Streamlines",
+        "value": "Seperation: Normal"
+      },
+      {
+        "trait_type": "Streamlines",
+        "value": "Unification: Friendly"
+      },
+      {
+        "trait_type": "Streamlines",
+        "value": "Vector Field: Pinched"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "address": "0x331a8f7cfa8737433602f611f504033e180b1fc6",
+  "type": "ERC721",
+  "name": "PunksVersusApes2022",
+  "tokenCount": "82",
+  "uri": "ipfs://QmTMuFUN6YqvsD9MJet7FCspRAAZAnihFmQnLDHheQmmSU",
+  "metadata": {
+    "name": "GA Event Pass",
+    "description": "Includes: - Entry to Friday Night Party - Entry to Saturday Brunch & Competitions - Open Bar (Beer & Wine) - Ape/Punk Displayed during event\n\nVerisart Certified: https://verisart.com/works/571eed7d-d084-4f27-a27f-758b810bbe8b",
+    "image": "ipfs://QmXmLSbppHC4ssme7RWdZxpjg4fzZLGCEgNzQSxvjZDU3H",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 1080,
+          "height": 1080,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 9
+        },
+        "frameRate": 30,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0x3443d68ced92fe63edfb2777eb235fbb77dca7d2",
+            "bps": 600
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "animation_url": "ipfs://QmStq1t3t4rL19V7XXHmtYnwzeAu6wtCF692yYfxy3m5xa",
+    "external_url": "https://verisart.com/works/571eed7d-d084-4f27-a27f-758b810bbe8b",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Magic Eden",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "GA Event Pass",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "1080x1080 px",
+        "display_type": null
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:09",
+        "display_type": null
+      }
+    ]
+  }
+}

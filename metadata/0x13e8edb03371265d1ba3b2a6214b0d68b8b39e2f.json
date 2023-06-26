@@ -1,0 +1,39 @@
+{
+  "address": "0x13e8edb03371265d1ba3b2a6214b0d68b8b39e2f",
+  "type": "ERC721",
+  "name": "Old-Parkland-Bell-Tower",
+  "tokenCount": "10",
+  "uri": "https://nft.zelus.io/Old-Parkland-Bell-Tower/1",
+  "metadata": {
+    "name": "Old Parkland Bell Tower",
+    "description": "The Bell Tower on Old Parkland campus stands 220 feet tall. Perched at the top is 'Horatio' - a 15 ton bronze bell constructed in the Netherlands by Real Eijsbouts.",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Old Parkland Bell Tower"
+      },
+      "description": {
+        "type": "string",
+        "description": "The bell tower on Old Parkland campus stands 220 feet tall. Perched at the top is 'Horatio' - a 15 ton bronze bell constructed in the Netherlands by Real Eijsbouts."
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://zelus-nft-assets-public.s3.us-east-1.amazonaws.com/Old-Parkland-Bell-Tower/belltower.png"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "png"
+      },
+      "preview_media_file2": {
+        "type": "string",
+        "description": "https://zelus-nft-assets-public.s3.amazonaws.com/Old-Parkland-Bell-Tower/1/OldParklandBelltower.mp4"
+      },
+      "preview_media_file2_type": {
+        "type": "string",
+        "description": "mp4"
+      }
+    },
+    "animation_url": "https://zelus-nft-assets-public.s3.amazonaws.com/Old-Parkland-Bell-Tower/1/OldParklandBelltower.mp4",
+    "image": "https://zelus-nft-assets-public.s3.us-east-1.amazonaws.com/Old-Parkland-Bell-Tower/belltower.png"
+  }
+}

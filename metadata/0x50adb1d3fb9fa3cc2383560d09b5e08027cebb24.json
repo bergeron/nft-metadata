@@ -1,0 +1,21 @@
+{
+  "address": "0x50adb1d3fb9fa3cc2383560d09b5e08027cebb24",
+  "type": "ERC721",
+  "name": "bitcoin bars",
+  "tokenCount": "33",
+  "uri": "ipfs://QmPazLUH6dL8G47JCqePz75CWZNfD2EWmHYA17ucCdT6gN/1",
+  "metadata": {
+    "name": "bitcoin bar",
+    "description": "a wrapped bitcoin bar",
+    "attributes": [
+      {
+        "trait_type": "Redeemed?",
+        "value": "No"
+      }
+    ],
+    "image": "https://ipfs.bitcoinbars.xyz/ipfs/QmTXTUuLpz2EUX3RQwpHiNw6pjuN64JZHsDtQaixxFC7fP",
+    "animation_url": "https://ipfs.bitcoinbars.xyz/ipfs/QmetXGpHJUkhkkfur2oeaNFy8khbWkixhq8SuFACtDTYLb",
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x5e079B2f1D98E07B4D53A5D0f6Ef5843235e8E15"
+  }
+}

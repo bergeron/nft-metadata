@@ -1,0 +1,38 @@
+{
+  "address": "0x9202f3486d39898e306348173d218eede0627f94",
+  "type": "ERC721",
+  "name": "TiffPepe HD",
+  "tokenCount": "4444",
+  "uri": "ipfs://bafybeicamevtdgehdbul5jyem56nspgwcqnt24l7gyrqhikdyyjon47qhq/1.json",
+  "metadata": {
+    "name": "TiffPepe HD #1",
+    "description": "High resolution Tiffany Pepe chain. CC0. You own it.",
+    "image": "ipfs://bafybeid4vbrqsqiqs2ffcau7no7kaavevon4usn67tlpwiohesfbepzhka/1.png",
+    "dna": "b2c771c6c8f258dab7e2965f01c681b2cbdad79e",
+    "edition": 1,
+    "date": 1662079094951,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tiffany"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pepe"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Knight Armor"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Cute Green"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Clown"
+      }
+    ],
+    "compiler": "Tiffany"
+  }
+}

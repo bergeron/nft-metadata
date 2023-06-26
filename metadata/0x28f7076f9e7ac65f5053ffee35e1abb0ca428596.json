@@ -1,0 +1,33 @@
+{
+  "address": "0x28f7076f9e7ac65f5053ffee35e1abb0ca428596",
+  "type": "ERC721",
+  "name": "CPF V2",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/3y2oJM0gHtG2jP3mOWtaL4eZQXUwNS1NE2Tq6u_2JTg",
+  "metadata": {
+    "name": "Fibonacci",
+    "created_by": "CPF",
+    "description": "Plasticity",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "CPF"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "value": "1",
+        "max_value": "1"
+      }
+    ],
+    "image_details": {
+      "bytes": 61291,
+      "format": "JPEG",
+      "sha256": "1f092563a1bcfc34cf783f9433714fd9876fc52fa66fc6e22f1a7baffb73944b",
+      "width": 530,
+      "height": 680
+    },
+    "image": "https://arweave.net/MumuJvpqaeUxbBcJRDZFxIs7_-JIqaYcrzy7xivIQOg",
+    "image_url": "https://arweave.net/MumuJvpqaeUxbBcJRDZFxIs7_-JIqaYcrzy7xivIQOg"
+  }
+}

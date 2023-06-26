@@ -1,0 +1,45 @@
+{
+  "address": "0x1bb85dfe63f30eec973af8597a9e19c1352b2cca",
+  "type": "ERC721",
+  "name": "Gladiator Wolves",
+  "tokenCount": "204",
+  "uri": "ipfs://bafybeidwiesqyvghgc2bsbrlnr4r2y4bfq5gowvpctlkg4qmonzokgfeii/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "2222 Gladiator Wolves fighting for their glory.",
+    "external_url": "",
+    "image": "ipfs://bafybeih5fbdnnbrwoqo4jkj6agysz75t3oluuuwhwkjm4jyosogo3ucoqq/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Helmets",
+        "value": "Galea"
+      },
+      {
+        "trait_type": "Weapons",
+        "value": "Bow"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Armor Pads"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://the-nft-generator.com"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "address": "0x618951345638caa062259cdbed445d4fb661b774",
+  "type": "ERC721",
+  "name": "MisfitPIXELS",
+  "tokenCount": "651",
+  "uri": "ipfs://QmarCNTJJYahzZKFjFfZVcpLAhMNV5VwWN8bsqiKsCVAc7/1",
+  "metadata": {
+    "name": "MisfitPIXELS #2",
+    "description": "1k unique pixel misfits & 3d avatars to rule the blockchain & metaverse! owning a misfit grants you access to interoperable 3d avatars, exclusive drops, gated community experiences, metaverse events, games & more! each misfit token comes with non-exclusive IP rights to the likeness of the artwork. IP ownership details & addition project information can be found on https://misfitpixels.xyz",
+    "image": "https://misfitpixels.xyz/assets/misfits/01_100/02/MisfitPixels.png",
+    "external_url": "https://misfitpixels.xyz/misfits/2",
+    "animation_url": "https://misfitpixels.xyz/misfits/2",
+    "attributes": [
+      {
+        "trait_type": "Misfit Type",
+        "value": "alien"
+      },
+      {
+        "trait_type": "Background",
+        "value": "solid"
+      },
+      {
+        "trait_type": "Head Accessories",
+        "value": "hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "basic"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "solid"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "turquoise"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "6"
+      }
+    ],
+    "assets": [
+      {
+        "media_type": "model",
+        "asset_type": "default",
+        "files": [
+          {
+            "url": "https://misfitpixels.xyz/assets/misfits/01_100/02/MisfitPixels.vrm",
+            "file_type": "model/vrm"
+          },
+          {
+            "url": "https://misfitpixels.xyz/assets/misfits/01_100/02/MisfitPixels.fbx",
+            "file_type": "model/fbx"
+          },
+          {
+            "url": "https://misfitpixels.xyz/assets/misfits/01_100/02/MisfitPixels.glb",
+            "file_type": "model/glb"
+          },
+          {
+            "url": "https://misfitpixels.xyz/assets/misfits/01_100/02/MisfitPixels.gltf",
+            "file_type": "model/gltf"
+          }
+        ]
+      }
+    ]
+  }
+}

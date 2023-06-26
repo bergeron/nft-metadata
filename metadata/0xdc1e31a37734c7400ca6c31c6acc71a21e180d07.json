@@ -1,0 +1,42 @@
+{
+  "address": "0xdc1e31a37734c7400ca6c31c6acc71a21e180d07",
+  "type": "ERC721",
+  "name": "OctoLab",
+  "tokenCount": "3000",
+  "uri": "https://raw.githubusercontent.com/MetaaOW/octolab-meta/main/1",
+  "metadata": {
+    "dna": "d68a3851eef15b2616ba7a6fc04c9e953d5462fe",
+    "name": "OctoLab #1",
+    "description": "Made with love",
+    "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1.png",
+    "edition": 1,
+    "date": 1655630244233,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Snow"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Underwater"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Anime"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Sniffle"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Trendy"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bruise"
+      }
+    ],
+    "compiler": "OctoLab Engine"
+  }
+}

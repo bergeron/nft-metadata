@@ -1,0 +1,30 @@
+{
+  "address": "0x2bacf6ce23a306f22c3759d6c900e7571db3eb3d",
+  "type": "ERC721",
+  "name": "AstroSprites",
+  "tokenCount": "4",
+  "uri": "https://ipfs.io/ipfs/QmTYmrWWuAg6XcWfYe6YZKss6bY7x3Yd1cAWJgzSSP3BPw?filename=9798.json",
+  "metadata": {
+    "name": "9798",
+    "description": "Unique sprite based on your astrological birth chart.",
+    "image": "https://ipfs.io/ipfs/QmPTWCNdo5U5n9yhF5w5eYQBweeWNm8LYreGxnY3rHBbKn?filename=9798.png",
+    "attributes": [
+      {
+        "trait_type": "sun sign",
+        "value": "Capricorn"
+      },
+      {
+        "trait_type": "moon sign",
+        "value": "Virgo"
+      },
+      {
+        "trait_type": "rising sign",
+        "value": "Libra"
+      },
+      {
+        "trait_type": "midheaven sign",
+        "value": "Leo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "address": "0xc16f903ff1f05cf9a59b118f4a47d2fc98c2e01f",
+  "type": "ERC721",
+  "name": "Secret Giraffe Party",
+  "tokenCount": "16",
+  "uri": "ipfs://QmTyxnb4guS8xoPYN4FL93TutBpBLZB4gnoiLDU39CwAts/1.json",
+  "metadata": {
+    "name": "Giraffe #1",
+    "description": "{Giraffe} - Welcome to the Secret Giraffe Party. A collection of 10,000 hand drawn images generated and deployed to the Ethereum Blockchain. Come and join the Party!",
+    "fee_recipient": "0x342B1cdA8fc26bF7984Fa2C16a0fB456C85cf057",
+    "seller_fee_basis_points": 400,
+    "image": "ipfs://QmecK4MfH1UQufJSedjWLkXpsF2pJvSJ1jjdrVyNCQgu29/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Giraffe",
+        "value": "Geppeto"
+      },
+      {
+        "trait_type": "Glasses&Rings",
+        "value": "Nose Rings"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Mohawk"
+      },
+      {
+        "trait_type": "Outfits",
+        "value": "Navy Jumper"
+      },
+      {
+        "trait_type": "Smile&Mouth",
+        "value": "Whistle"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 3394,
+        "display_type": "number"
+      }
+    ]
+  }
+}

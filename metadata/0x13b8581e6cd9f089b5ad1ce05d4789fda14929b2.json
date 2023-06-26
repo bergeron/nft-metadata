@@ -1,0 +1,35 @@
+{
+  "address": "0x13b8581e6cd9f089b5ad1ce05d4789fda14929b2",
+  "type": "ERC721",
+  "name": "JustBirdz",
+  "tokenCount": "23",
+  "uri": "ipfs://bafybeidzanler5cxyaet7hxaizznvnjckk3kyvj5cd3tie7yl3daxwv2su/1.json",
+  "metadata": {
+    "name": "JustBirdz #1",
+    "description": "testing",
+    "image": "ipfs://bafybeigzo3j3sqhparomb735us552qtpxakngkpzayzklddqivb5r2hdky/1.png",
+    "dna": "6e886ebf04741688a414b5c6493df3f347fb9ba7",
+    "edition": 1,
+    "date": 1657293420457,
+    "external_url": "https://www.goblin-land.wtf/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Skin Colour",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eye Colour",
+        "value": "White"
+      },
+      {
+        "trait_type": "HeadGear",
+        "value": "Cowboy_Hat"
+      }
+    ],
+    "compiler": "Elfoly Engine"
+  }
+}

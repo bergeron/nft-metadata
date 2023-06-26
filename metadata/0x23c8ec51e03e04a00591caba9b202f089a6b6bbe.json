@@ -1,0 +1,39 @@
+{
+  "address": "0x23c8ec51e03e04a00591caba9b202f089a6b6bbe",
+  "type": "ERC721",
+  "name": "SpaceMonkeys NFT",
+  "tokenCount": "7000",
+  "uri": "ipfs://QmW2skLdSsXxfwQjKYf7RN9pnp9DB171Gryz9HraJrLquQ/1.json",
+  "metadata": {
+    "name": "Space Monkeys #1",
+    "description": "Ooh Ooh Ahh Ahh the Space Monkeys have landed.",
+    "image": "ipfs://QmdF6e3Niemuoxjd9jsEZmHyeXgdUoADe4aut6DbKrLkTh/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Knight"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Holoshades"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Royal"
+      },
+      {
+        "trait_type": "Monkey",
+        "value": "Tiger"
+      },
+      {
+        "trait_type": "Specialty",
+        "value": "Katana"
+      },
+      {
+        "trait_type": "Backgrounds",
+        "value": "Purple"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "address": "0x664ac4c09adc67bee68d7cffbdff453b6a791ef8",
+  "type": "ERC721",
+  "name": "Art of Water By Ben-Kovach",
+  "tokenCount": "453",
+  "uri": "https://token.artblocks.io/59000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "59000001",
+    "series": 3,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Watercolor Dreams #1",
+    "minted": true,
+    "artist": "NumbersInMotion",
+    "description": "Watercolor Dreams is an exploration in simulation, a meditation on traditional techniques in watercolor, and an ode to serendipity. Where will this curve end? When will this shade fade? How will the movement come alive? Sit back, relax, and watch the colors wash over the canvas.",
+    "script_type": "p5@1.0.0",
+    "project_id": "59",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 3",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/59000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/59000001.png",
+    "generator_url": "https://generator.artblocks.io/59000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/59000001",
+    "royaltyInfo": {
+      "artistAddress": "0xf565d79c35758c752d3debfdd380d4eb16a3c6e3",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Watercolor Dreams by NumbersInMotion",
+    "website": "https://www.instagram.com/numbersinmotion/",
+    "token_hash": "0x5799f90d77d12d96f87eba0ba324133a6bafaec14421c8ea06609cecb02c6238",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/59/tokens/59000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/59000001",
+    "features": {
+      "isBent": "false",
+      "isWavey": "false",
+      "palette": "playful",
+      "isStriped": "true",
+      "noiseScale": 35,
+      "composition": "cornerSquares",
+      "isSymmetric": "true",
+      "paletteType": "varigatedWash",
+      "angleAmplitude": 40,
+      "isColorInverted": "false"
+    },
+    "traits": [
+      {
+        "trait_type": "Watercolor Dreams",
+        "value": "All Watercolor Dreams"
+      },
+      {
+        "trait_type": "Watercolor Dreams",
+        "value": "isBent: false"
+      },
+      {
+        "trait_type": "Watercolor Dreams",
+        "value": "isWavey: false"
+      },
+      {
+        "trait_type": "Watercolor Dreams",
+        "value": "palette: playful"
+      },
+      {
+        "trait_type": "Watercolor Dreams",
+        "value": "isStriped: true"
+      },
+      {
+        "trait_type": "Watercolor Dreams",
+        "value": "noiseScale: 35"
+      },
+      {
+        "trait_type": "Watercolor Dreams",
+        "value": "composition: cornerSquares"
+      },
+      {
+        "trait_type": "Watercolor Dreams",
+        "value": "isSymmetric: true"
+      },
+      {
+        "trait_type": "Watercolor Dreams",
+        "value": "paletteType: varigatedWash"
+      },
+      {
+        "trait_type": "Watercolor Dreams",
+        "value": "angleAmplitude: 40"
+      },
+      {
+        "trait_type": "Watercolor Dreams",
+        "value": "isColorInverted: false"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

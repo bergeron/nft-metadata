@@ -1,0 +1,44 @@
+{
+  "address": "0xa65c3c146844f17407c318e49c0cb33af64ff0f6",
+  "type": "ERC721",
+  "name": "Shami Crystals",
+  "tokenCount": "577",
+  "uri": "https://www.shamicrystal.io/api/1",
+  "metadata": {
+    "name": "Shami Crystals #1",
+    "description": "Sham'i Crystals-An energy infused crystal that projects a predetermined false appearance for the bearer, most can only project one appearance and must be on the person at all times.",
+    "external_url": "https://www.shamicrystal.io/nft/1",
+    "animation_url": "https://www.shamicrystal.io/nft/1",
+    "image": "https://www.shamicrystal.io/image/1",
+    "interactive_nft": {
+      "code_uri": "https://www.shamicrystal.io/nft/1",
+      "version": "1.0"
+    },
+    "attributes": [
+      {
+        "value": "MAGENTA",
+        "trait_type": "BACKGROUND"
+      },
+      {
+        "value": "MATRIX",
+        "trait_type": "BACKGROUND STYLE"
+      },
+      {
+        "value": "FALCHION ORANGE FALCHION HANDLE BLUE ",
+        "trait_type": "SWORD"
+      },
+      {
+        "value": "SWORD",
+        "trait_type": "WEAPON"
+      },
+      {
+        "value": "CRYSTAL E BLUE",
+        "trait_type": "CRYSTALS"
+      },
+      {
+        "value": "GLYPH E",
+        "trait_type": "GLYPHS"
+      }
+    ]
+  }
+}

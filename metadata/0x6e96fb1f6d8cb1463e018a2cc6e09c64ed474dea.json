@@ -1,0 +1,39 @@
+{
+  "address": "0x6e96fb1f6d8cb1463e018a2cc6e09c64ed474dea",
+  "type": "ERC721",
+  "name": "Mandelbrot Set Collection",
+  "tokenCount": "1978",
+  "uri": "https://mandelbrot.fractalnft.art/item?token_id=1",
+  "metadata": {
+    "description": "Jamaica Snake in a neighbourhood of the point (-1.25135214, -0.02905973), in the profound of the Mandelbrot set",
+    "external_url": "https://mandelbrot.fractalnft.art",
+    "image": "https://mandelbrot.fractalnft.art/items/1_363e30013e8d9db03f72.png",
+    "name": "#1 - Profound Jamaica Snake",
+    "attributes": [
+      {
+        "trait_type": "Point",
+        "value": "Snake"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Jamaica"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Profound"
+      },
+      {
+        "trait_type": "Zoom",
+        "value": "10000"
+      },
+      {
+        "trait_type": "Cycles",
+        "value": "1"
+      },
+      {
+        "trait_type": "Shrinkage",
+        "value": "10 bps"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "address": "0xc3c123438f4068cbaf4eb7eadb1762ce8464f36e",
+  "type": "ERC721",
+  "name": "WittyCreatures by Witnet -- EthCC[5] Edition",
+  "tokenCount": "30",
+  "uri": "https://api-ethcc5.wittycreatures.com/metadata/1/1",
+  "metadata": {
+    "name": "religious-rat",
+    "description": "Witty Creature #291 at EthCC[5] Paris, July 19-21, 2022. The [Witnet multi-chain decentralized oracle](https://witnet.io) was used for both generating randomness and retrieving the last known [USD price at the moment this token got minted](https://witnet.network/search/c872375fc612472ec2a957219f4cfabd1159defb22063f1dfa50e61c9c1ab5c8).",
+    "image": "https://api-ethcc5.wittycreatures.com/image/1/1",
+    "external_url": "https://api-ethcc5.wittycreatures.com/metadata/1/1",
+    "attributes": [
+      {
+        "trait_type": "Witnet Randomness",
+        "value": "0x6f6348b529df623c4b8e2507abf0e7421b3e2122be24d128381096512fab92b"
+      },
+      {
+        "trait_type": "Birth date",
+        "value": 1658910579,
+        "display_type": "date"
+      },
+      {
+        "trait_type": "Egg color",
+        "value": "Emerald"
+      },
+      {
+        "trait_type": "Egg rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Egg score",
+        "value": 144430
+      },
+      {
+        "trait_type": "Global ranking",
+        "value": 1,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Guild",
+        "value": "Ethereum"
+      },
+      {
+        "trait_type": "Guild ranking",
+        "value": 1,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Mint gas price (gwei)",
+        "value": 7.29
+      },
+      {
+        "trait_type": "Mint cost (USD)",
+        "value": 4.58
+      },
+      {
+        "trait_type": "Background",
+        "value": "Hell"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Default"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Default"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Moustache"
+      },
+      {
+        "trait_type": "Object",
+        "value": "Bitcoin"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Default"
+      }
+    ]
+  }
+}

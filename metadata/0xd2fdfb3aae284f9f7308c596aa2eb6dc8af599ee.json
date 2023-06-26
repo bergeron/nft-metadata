@@ -1,0 +1,72 @@
+{
+  "address": "0xd2fdfb3aae284f9f7308c596aa2eb6dc8af599ee",
+  "type": "ERC721",
+  "name": "Undeads Zombies",
+  "tokenCount": "2403",
+  "uri": "ipfs://QmSFuZadvbswH9Hi3qFy2fR2oCFZDQ9RQawSoLBwZdUtVX",
+  "metadata": {
+    "image": "https://assets.undeads.com/nfts-health/zombies/immaculate/4/health.jpg",
+    "name": "Richard the Rotten Heart",
+    "description": "Richard Milton was a high school history teacher. Richard hated children and his job. Become a zombie, he occupied the New Arc History Museum and proclaimed his own zombie kingdom. He gave himself the King title, of course - Richard The Rotten Heart.",
+    "images": {
+      "original_ipfs": "ipfs://QmTmUztFebYJJhLMitDJ3CeRhMmzMGiBeEgTJtm2vEcHqP/immaculate/4/original.jpg",
+      "original_aws": "https://assets.undeads.com/nfts/zombies/immaculate/4/original.jpg",
+      "original_800x800_aws": "https://assets.undeads.com/nfts/zombies/immaculate/4/original_800x800.jpg",
+      "original_400x400_aws": "https://assets.undeads.com/nfts/zombies/immaculate/4/original_400x400.jpg",
+      "health_aws": "https://assets.undeads.com/nfts-health/zombies/immaculate/4/health.jpg"
+    },
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": 5
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Fraction",
+        "value": "Zombie"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Sex",
+        "value": "Male"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Weapon",
+        "value": "Ex-Calibur"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Background",
+        "value": "Castle"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Clothing",
+        "value": "King's cape"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Mouth",
+        "value": "Golden teeth"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Neck",
+        "value": "Neck protector"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Eyes",
+        "value": "Yellow"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Head",
+        "value": "Crown"
+      }
+    ],
+    "layers": []
+  }
+}

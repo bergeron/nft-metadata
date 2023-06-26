@@ -1,0 +1,50 @@
+{
+  "address": "0x2b977c887776012b957cf2e505095c3ba52d32c6",
+  "type": "ERC1155",
+  "name": "The Art Factory by Jonathan Wolfe",
+  "tokenCount": "11",
+  "uri": "ipfs://QmQ6UUoVRcBehRMCwwh9nservDRL6goi3uWZJGGujCiXrc/1/token.json",
+  "metadata": {
+    "name": "Blue Skies",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/image/upload/w_1200/v1682669128/0xa5e982ea48576ba81b3d6da10ae7435c15cacdd1/644b7c9c06b15dca6cde84c6/stateCovers/drctr8iknniisutzsxgu.png",
+    "description": ":)\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Jonathan Wolfe"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "The Art Factory by Jonathan Wolfe"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0xa5e982ea48576ba81b3d6da10ae7435c15cacdd1"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Outside",
+              "state": {
+                "label": "Blue Skies",
+                "uri": "QmWofEgn6YKS2dP7zxQqgiHmsV7AwoBt2SG5Vtzivm2LZe"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "address": "0xe43ba80679491f2280e1afb3396f9f87818498cb",
+  "type": "ERC721",
+  "name": "Disrupted Expressions",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/3pdAwFVqquwsx-Fb-exOhGFw8ovNhyvNliMA_Vls3CQ",
+  "metadata": {
+    "name": "I Am Sad But I Will Be Fine",
+    "created_by": "Seungdo Hyun",
+    "external_url": "https://linktr.ee/seungdohyun",
+    "description": "I will be fine.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Seungdo Hyun"
+      },
+      {
+        "trait_type": "Art Type",
+        "value": "2d, Glitch"
+      },
+      {
+        "trait_type": "Animated",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Artwork Size",
+        "value": "1930 x 2200 px"
+      },
+      {
+        "trait_type": "Resolution",
+        "value": "300 dpi"
+      },
+      {
+        "trait_type": "File format",
+        "value": "mp4"
+      }
+    ],
+    "animation_details": {
+      "bytes": 19709321,
+      "format": "MP4",
+      "duration": 15,
+      "sha256": "5133570307e2144fc17a0234d627dbd5a662cbfc83c89d42299875026ed6b1fe",
+      "width": 1930,
+      "height": 2200,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/62pfOTxxJF9ehToVoHJ3ubDKb8ZJls2n46xGWHczGxw",
+    "animation_url": "https://arweave.net/62pfOTxxJF9ehToVoHJ3ubDKb8ZJls2n46xGWHczGxw",
+    "image_details": {
+      "bytes": 306328,
+      "format": "JPEG",
+      "sha256": "3d530d89404223e56701e7ec776d002e700a5e5bd29ae4e07208aac5fb8a5575",
+      "width": 483,
+      "height": 550
+    },
+    "image": "https://arweave.net/1TeosZjTKxIK6xBlr3TyHVosK2jFywMNE6n4G7CH8io",
+    "image_url": "https://arweave.net/1TeosZjTKxIK6xBlr3TyHVosK2jFywMNE6n4G7CH8io"
+  }
+}

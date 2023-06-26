@@ -1,0 +1,41 @@
+{
+  "address": "0xd6e0e91121bb5a8f173b06256f30453900c1b756",
+  "type": "ERC721",
+  "name": "0x Society Space",
+  "tokenCount": "13",
+  "uri": "https://ipfs.pixura.io/ipfs/QmcDxtsZeCp7iq1iU39TvagrEgGQfZ3REZWZxfxQePHTQf/metadata.json",
+  "metadata": {
+    "name": "Five Penguins × Audrey Heyman",
+    "createdBy": "Gavin Shapiro",
+    "yearCreated": "2023",
+    "description": "An animated painting based on the Five Penguins collection, created in collaboration with Audrey Heyman and AI (Stable Diffusion). First, a 3D animation was created in Cinema 4D, designed using elements and themes found in Audrey’s New Mexico-inspired painting style. A frame from the animation was used as a reference for her to paint using acrylic on a 48” x 16” canvas. Next, photos of her painting were used to train Stable Diffusion to build an “Audrey style” using Textual Inversion. The 3D animation was then fed frame-by-frame through the custom “Audrey style” AI model so that all frames of the animation could be rendered in Audrey’s painted style. Finally, the resulting output was further composited in After Effects to give the impression that the animation was truly created from 120 individual paintings on canvas.",
+    "image": "https://ipfs.pixura.io/ipfs/QmQzoPbZv3EBS6A3rLuFJMU6kZ6doFLxwUxHGVJnTUUbFd/audrey_5p_fullscan_sm.jpg",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/Qmdi1dHHYWSngKh3BPqz9GQ2vP3fmHvMv7z8QbkCxPtQAL/fivepenguins_audrey_loop_painted_comped_v07.mp4",
+      "dimensions": "3840x1280",
+      "size": "51365569",
+      "mimeType": "video/mp4"
+    },
+    "tags": [
+      "penguins",
+      "painting",
+      "3d",
+      "ai",
+      "render",
+      "surreal",
+      "desert",
+      "mountain",
+      "water",
+      "hot",
+      "air",
+      "balloon",
+      "road",
+      "new",
+      "mexico",
+      "albuquerque",
+      "cute",
+      "panorama",
+      "landscape"
+    ]
+  }
+}

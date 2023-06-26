@@ -1,0 +1,61 @@
+{
+  "address": "0xdfc018f948112a82f9be564ada1e557c88c9f8aa",
+  "type": "ERC721",
+  "name": "NewFrontierPresents_3D_Assets",
+  "tokenCount": "14",
+  "uri": "ipfs://QmQVPKAubZmRKHNmmbAZEMiohiPVdWXY29cz93pyU4Hhpu",
+  "metadata": {
+    "name": "cintiki",
+    "description": "Founders Edition\n\nVerisart Certified: https://verisart.com/works/e9dea6e0-bc10-4549-8586-12578e1f60ae",
+    "image": "ipfs://QmfM38182eHXfJFAE7ykWtntMhM5WAt2J2jf7tWHUxrHxA",
+    "properties": {
+      "verisart": {
+        "productionYear": null,
+        "dimensions": null,
+        "duration": null,
+        "frameRate": null,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xb79d7555a5b192af844056a77a22010bef3aeb7d",
+            "bps": 1000
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "animation_url": "ipfs://QmPTyuzvZknL6Yjb5WqCBnhyma4c6Bm7wqexLCo3jk72Ly",
+    "external_url": "https://verisart.com/works/e9dea6e0-bc10-4549-8586-12578e1f60ae",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "New Frontier Presents",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "cintiki",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "Collector Reward",
+        "value": "True",
+        "display_type": null
+      }
+    ]
+  }
+}

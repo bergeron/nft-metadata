@@ -1,0 +1,68 @@
+{
+  "address": "0x6d1b09ae12adeaa3aa5d6b574dbcfaf7343a0b04",
+  "type": "ERC721",
+  "name": "Space Eggs Official",
+  "tokenCount": "1110",
+  "uri": "ipfs://bafybeiakyhkm6yc2t4pjlp7anafxvly6dlyhrxdc5brcufxhej4qn7jyj4/1.json",
+  "metadata": {
+    "dna": "7a87bf2068fd94b3446edb9d488612682ba8fdc3",
+    "name": "SPACE EGG #1",
+    "description": "10,000 eggs have been sent into space. They will be hatch in space... Space Eggs by Elon Ducks",
+    "image": "ipfs://bafybeigahwgs6lbbldpqwtuokqhg6ymcshsw5ypswqyu5s4dcezcb2ngpy/1.png",
+    "edition": 1,
+    "date": 1662712064602,
+    "symbol": "SPACE EGGS",
+    "seller_fee_basis_points": 1000,
+    "external_url": "https://t.me/spaceeggs",
+    "collection": {
+      "name": "SPACE EGGS",
+      "family": ""
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x7793FCc1D5c0AC070cA8ac2073b16A8E94C40c97",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Race",
+        "value": "Egg"
+      },
+      {
+        "trait_type": "Europe",
+        "value": "Greece"
+      },
+      {
+        "trait_type": "Asia",
+        "value": "Thailand"
+      },
+      {
+        "trait_type": "Australia",
+        "value": "Australia"
+      },
+      {
+        "trait_type": "North America",
+        "value": "USA"
+      },
+      {
+        "trait_type": "South America",
+        "value": "Colombia"
+      },
+      {
+        "trait_type": "Africa",
+        "value": "Gambia"
+      }
+    ],
+    "compiler": "by compiler"
+  }
+}

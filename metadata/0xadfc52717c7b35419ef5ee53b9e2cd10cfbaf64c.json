@@ -1,0 +1,41 @@
+{
+  "address": "0xadfc52717c7b35419ef5ee53b9e2cd10cfbaf64c",
+  "type": "ERC721",
+  "name": "Broken Robot 1st collection",
+  "tokenCount": "10",
+  "uri": "ipfs://bafybeie2rizgfsu6ihr2jyevjnmriezvgsdvutqkfn4lscejh7wzvf5bfe/1.json",
+  "metadata": {
+    "name": "JNKBOT1",
+    "description": "JNKBOT1 - Generated and deployed on LaunchMyNFT.",
+    "fee_recipient": "0xFAF75426e19d1449ca9fC2CA98616A693EBb97c7",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://bafybeienqdsbxbmu2chgigewaepil6pw6kv7xputzdawiub2gbsiwqrfpe/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Backround",
+        "value": "Murder"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blue Bod"
+      },
+      {
+        "trait_type": "Antenena",
+        "value": "Red Eye"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wht Big"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Wavy"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 175,
+        "display_type": "number"
+      }
+    ]
+  }
+}

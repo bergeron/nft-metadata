@@ -1,0 +1,42 @@
+{
+  "address": "0x41669ab9240dba0a394326e6599113d3909e0217",
+  "type": "ERC1155",
+  "name": "Neal Bones",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/aVpoOO--ZcFmKOc6SXHjWet1o6uXcOXwwTiN-oAcEn0",
+  "metadata": {
+    "name": "Noises",
+    "created_by": "neal_bones",
+    "external_url": "https://twitter.com/neal_bones",
+    "description": "the noises in my head, while waiting for the sunshine.\n\nOriginal audio produced by myself, layered over a digitized/animated version of one of my physical artworks",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "neal_bones"
+      }
+    ],
+    "animation_details": {
+      "bytes": 151180117,
+      "format": "MP4",
+      "duration": 35,
+      "sha256": "7ddd28024e2ff14a43007c948e0817d1aeca64486b7b3aa3e46be54329859cdb",
+      "width": 3840,
+      "height": 2160,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/7TfQjfGMjmo6l6dk3ljo0y0OAcXyAF0pM5WhTFRfxrs",
+    "animation_url": "https://arweave.net/7TfQjfGMjmo6l6dk3ljo0y0OAcXyAF0pM5WhTFRfxrs",
+    "image_details": {
+      "bytes": 8590979,
+      "format": "PNG",
+      "sha256": "5e421fa7cdde026e2028281bd5faaad9555958bba2845623e446721760a91342",
+      "width": 1841,
+      "height": 3798
+    },
+    "image": "https://arweave.net/kZLzdg_9_Nra3qhYQUc3HNC-in8Hw5ydaq8-Dn1qd3c",
+    "image_url": "https://arweave.net/kZLzdg_9_Nra3qhYQUc3HNC-in8Hw5ydaq8-Dn1qd3c"
+  }
+}

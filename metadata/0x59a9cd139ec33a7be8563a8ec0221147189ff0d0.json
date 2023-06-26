@@ -1,0 +1,87 @@
+{
+  "address": "0x59a9cd139ec33a7be8563a8ec0221147189ff0d0",
+  "type": "ERC721",
+  "name": "1231dsafqwer0",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/147000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "147000001",
+    "series": 4,
+    "aspect_ratio": 1.7,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Trossets #1",
+    "minted": true,
+    "artist": "Anna Carreras",
+    "description": "Trossets explores the emergence of diversity. Combining twelve construction blocks the system generates endless patterns with a unique result each iteration. Trossets /trusɛts/ means parts, blocks, pieces and it's my particular homage to a classical generative system, the multiscale Truchet tiles. The systems plays an interlocking blocks game creating unexpected drawings with colors borrowed from the Mediterranean. To keep this colors alive 10% of the profits will be donated to Marilles Foundation, an NGO for marine conservation (https://marilles.org/en). And 15% of the minting profits will go to OpenArms, an NGO that helps refugees that try to cross the Mediterranean (https://www.openarms.es/en).",
+    "script_type": "p5@1.0.0",
+    "project_id": "147",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 4",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/147000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/147000001.png",
+    "generator_url": "https://generator.artblocks.io/147000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/147000001",
+    "royaltyInfo": {
+      "artistAddress": "0x32f848b9436f6400e5fa1fd46e9b96f4541c0966",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Trossets by Anna Carreras",
+    "website": "https://www.annacarreras.com",
+    "token_hash": "0x95ecb90f81a2913a217dbe074a3151ef3d144d333a9a85933e5b4ae02c3da3ce",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/147/tokens/147000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/147000001",
+    "features": {
+      "aro": "no",
+      "arcs": "no",
+      "buit": "no",
+      "creu": "no",
+      "blocs": "tenalles",
+      "color": "Mar",
+      "graella": "12x7",
+      "divideix": "poc"
+    },
+    "traits": [
+      {
+        "trait_type": "Trossets",
+        "value": "All Trossets"
+      },
+      {
+        "trait_type": "Trossets",
+        "value": "aro: no"
+      },
+      {
+        "trait_type": "Trossets",
+        "value": "arcs: no"
+      },
+      {
+        "trait_type": "Trossets",
+        "value": "buit: no"
+      },
+      {
+        "trait_type": "Trossets",
+        "value": "creu: no"
+      },
+      {
+        "trait_type": "Trossets",
+        "value": "blocs: tenalles"
+      },
+      {
+        "trait_type": "Trossets",
+        "value": "color: Mar"
+      },
+      {
+        "trait_type": "Trossets",
+        "value": "graella: 12x7"
+      },
+      {
+        "trait_type": "Trossets",
+        "value": "divideix: poc"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-SA 4.0"
+  }
+}

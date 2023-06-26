@@ -1,0 +1,132 @@
+{
+  "address": "0x109510f0c32f8e6ee0f46f786f5da05fd3cc3776",
+  "type": "ERC721",
+  "name": "qewradsfdsaf00",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/267000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "267000001",
+    "series": 6,
+    "aspect_ratio": 0.76923,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "entretiempos #1",
+    "minted": true,
+    "artist": "Marcelo Soria-Rodríguez",
+    "description": "Our lives are scattered across several time scales, and the meaning of every event that takes place depends on the time scale that we choose to define & observe them from. Yet we fail to fully comprehend this in our daily errands. Entretiempos is an artwork that reflects on this, based on an aesthetic that pays a tribute to the works of Sonia Delaunay, František Kupka and other painters from their era, recreated by the usage of intersecting rings that create a varied and rich space.\n\nThe work plays with the time scales by painting dynamically and letting the viewer pause the work, restart, set it to loop indefinitely, painting and vanishing in an endless cycle. And it can be set to be done at varying speeds, to appreciate what happens in between the time scales (\"entre tiempos\", in Spanish).\n\nAlso, there is a broader theme that I find of interest to explore from every work that I engage with. It has to do with the concept of what I call total cognitive space, or the total range of possibilities that can be expressed / achieved with a given scenario and set of conditions. In this case, I was interested in expanding my rendition of the works of Delaunay into a broader space. How does this approach scale with varying parameter ranges? Is the painting still interesting? Can it express something new? Connected to this, I am also interested in thinking about what emotions would mean for an artificial sentient being. We talk about artificial intelligence, but leave aside artificial emotions all too often. While artificial intelligences are indeed interesting, we fail to recognize the paramount importance of emotions in human behaviour. To this end, this work explores also the result of painting with machine-like precision vs. performing the artwork with a range of possible imprecisions. The perfection of the machine vs. the imperfection of the human, does it trigger different emotions in us humans? What will the reaction of a machine be whenever they develop a taste?\n\nThis work exposes features that deal with its time and space scales, background colour, background elements, the palettes used, certain colour accents that may happen (golden accents, b&w tones), the style used to draw the geometric shapes (fill, lines, outline), the degree of paint precision and other features that influence the final result. The user may download a PNG file at any arbitrary resolution at any step of the paint process using the commands provided for that. A brief list of commands is as follows. Please note that you need to click on the artwork first to make sure it will receive the typed commands:\n\np to pause/resume the work\nr followed by y to enter the looping mode\nd followed by +/- or any number from 1 to 9 to increase resolution\ns followed by c to save current image\ns+f to automatically save the final image when the system finishes painting\ns+m to restart and save a sequence of images of the process\nr+0 (zero) to reset all parameters and resolutions and restart\nk at any time to define keyframes, then r+0 to restart the work and it will automatically pause at defined steps, or s+i and the work will restart and automatically save an image at every keyframe defined with k. Reload browser to reset.\n\nThere is an Easter egg hidden in every work.\n\nFor the full project description, inspiration and rationale, as well as the full list of features and controls plus a hint at the Easter Egg, please visit the project homepage at https://www.iillucid.com/entretiempos",
+    "script_type": "p5@1.0.0",
+    "project_id": "267",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 6",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/267000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/267000001.png",
+    "generator_url": "https://generator.artblocks.io/267000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/267000001",
+    "royaltyInfo": {
+      "artistAddress": "0x865e06473466cb94514c4003ece2c78ee62b43a7",
+      "additionalPayee": "0x9d5025b327e6b863e5050141c987d988c07fd8b2",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "entretiempos by Marcelo Soria-Rodríguez",
+    "website": "https://www.iillucid.com/entretiempos/",
+    "token_hash": "0x1700c69221cf843adf77b8c156047cbe59245d2fe988b35a1e640781221d0c3c",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/267/tokens/267000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/267000001",
+    "features": {
+      "rings": "normal rings",
+      "grayscale": "no",
+      "rings fabric": "thick lines",
+      "spatial scale": "large",
+      "spatial tempo": "rubato: some spatial noise",
+      "temporal form": "passage: a short piece",
+      "color strategy": "random",
+      "background colour": "yellow",
+      "colour experience": "wide",
+      "background context": "triangles",
+      "spatial scale range": "medium",
+      "intersections fabric": "solid colours - schema",
+      "rings paint precision": "imprecise",
+      "spatial base structure": "grid",
+      "additional colour notes": "gold accents - pure b&w notes",
+      "intersections paint precision": "precise",
+      "uses a Sonia Delaunay palette": "yes"
+    },
+    "traits": [
+      {
+        "trait_type": "entretiempos",
+        "value": "All entretiempos"
+      },
+      {
+        "trait_type": "entretiempos",
+        "value": "rings: normal rings"
+      },
+      {
+        "trait_type": "entretiempos",
+        "value": "grayscale: no"
+      },
+      {
+        "trait_type": "entretiempos",
+        "value": "rings fabric: thick lines"
+      },
+      {
+        "trait_type": "entretiempos",
+        "value": "spatial scale: large"
+      },
+      {
+        "trait_type": "entretiempos",
+        "value": "spatial tempo: rubato: some spatial noise"
+      },
+      {
+        "trait_type": "entretiempos",
+        "value": "temporal form: passage: a short piece"
+      },
+      {
+        "trait_type": "entretiempos",
+        "value": "color strategy: random"
+      },
+      {
+        "trait_type": "entretiempos",
+        "value": "background colour: yellow"
+      },
+      {
+        "trait_type": "entretiempos",
+        "value": "colour experience: wide"
+      },
+      {
+        "trait_type": "entretiempos",
+        "value": "background context: triangles"
+      },
+      {
+        "trait_type": "entretiempos",
+        "value": "spatial scale range: medium"
+      },
+      {
+        "trait_type": "entretiempos",
+        "value": "intersections fabric: solid colours - schema"
+      },
+      {
+        "trait_type": "entretiempos",
+        "value": "rings paint precision: imprecise"
+      },
+      {
+        "trait_type": "entretiempos",
+        "value": "spatial base structure: grid"
+      },
+      {
+        "trait_type": "entretiempos",
+        "value": "additional colour notes: gold accents - pure b&w notes"
+      },
+      {
+        "trait_type": "entretiempos",
+        "value": "intersections paint precision: precise"
+      },
+      {
+        "trait_type": "entretiempos",
+        "value": "uses a Sonia Delaunay palette: yes"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

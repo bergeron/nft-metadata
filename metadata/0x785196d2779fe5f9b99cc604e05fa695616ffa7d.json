@@ -1,0 +1,34 @@
+{
+  "address": "0x785196d2779fe5f9b99cc604e05fa695616ffa7d",
+  "type": "ERC721",
+  "name": "Cubes",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=iFKlZ4fGPR0qXrPGlUrk",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2F1024px-Rubik's_cube_scrambled.svg.png?alt=media&token=08cd0052-c749-4863-981f-3cadc7aa1108",
+    "isForSale": true,
+    "minter": "0xcdB14c2AF4D11458eF5694bF00e5Ba02C4e16A5e",
+    "price": "0.075",
+    "name": "Genesis Cube",
+    "description": "It's just an imaginary six sided square prism.",
+    "contractAddress": "0x785196d2779FE5f9B99cc604e05fa695616FFA7D",
+    "attributes": [
+      {
+        "value": "Genesis Cube",
+        "trait_type": "item"
+      },
+      {
+        "value": 2,
+        "trait_type": "level"
+      },
+      {
+        "display_type": "number",
+        "value": 1,
+        "trait_type": "generation"
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x785196d2779FE5f9B99cc604e05fa695616FFA7D/iFKlZ4fGPR0qXrPGlUrk"
+  }
+}

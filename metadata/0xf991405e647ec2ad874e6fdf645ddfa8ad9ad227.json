@@ -1,0 +1,163 @@
+{
+  "address": "0xf991405e647ec2ad874e6fdf645ddfa8ad9ad227",
+  "type": "ERC721",
+  "name": "War Riders Garage Property Title",
+  "tokenCount": "854",
+  "uri": "https://vault.warriders.com/garageTitles/1/1.json",
+  "metadata": {
+    "_id": "63924986dd741c568cf6683b",
+    "id": "1",
+    "garageId": 3,
+    "home_url": "https://app.warriders.com/garageTitle/1/1",
+    "external_url": "https://app.warriders.com/garageTitle/1/1",
+    "background_color": "0b0c22",
+    "tags": [
+      "warriders",
+      "garage",
+      "garages",
+      "bzn",
+      "cars",
+      "car",
+      "suv",
+      "game",
+      "mmo",
+      "gaming",
+      "war",
+      "rider"
+    ],
+    "titleTypeId": 1,
+    "name": "Premium Gentlemen's Club NFT Property Title #1",
+    "image": "https://storage.googleapis.com/warriders/gent-prem.png",
+    "image_url": "https://storage.googleapis.com/warriders/gent-prem.png",
+    "description": "A place to relax and reduce stress after the battle. 10% entrance fee for all vehicles. This title has to be renewed periodically to continue earning passive income.",
+    "meta": {
+      "tokens": 98,
+      "renewTermDays": 93,
+      "entranceFee": 10,
+      "entrances": 4,
+      "discountRate": 7,
+      "luckIndex": 8,
+      "rarityIndex": 9,
+      "location": "Genesis Map",
+      "coordinates": "[767; -3083]",
+      "spawnAllowed": "1 token required",
+      "freeEntry": "1000 tokens required",
+      "titleType": "Premium"
+    },
+    "attributes": [
+      {
+        "trait_type": "Tokens",
+        "value": 98
+      },
+      {
+        "trait_type": "Renew Term Days",
+        "value": 93
+      },
+      {
+        "trait_type": "Entrance Fee",
+        "value": 10
+      },
+      {
+        "trait_type": "Entrances",
+        "value": 4
+      },
+      {
+        "trait_type": "Discount Rate",
+        "value": 7,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Luck Index",
+        "value": 8,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Rarity Index",
+        "value": 9,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Genesis Map"
+      },
+      {
+        "trait_type": "Coordinates",
+        "value": "[767; -3083]"
+      },
+      {
+        "trait_type": "Spawn Allowed",
+        "value": "1 token required"
+      },
+      {
+        "trait_type": "Free Entry",
+        "value": "1000 tokens required"
+      },
+      {
+        "trait_type": "Title Type",
+        "value": "Premium"
+      }
+    ],
+    "properties": [
+      {
+        "key": "Tokens",
+        "value": 98,
+        "type": "integer"
+      },
+      {
+        "key": "Renew Term Days",
+        "value": 93,
+        "type": "integer"
+      },
+      {
+        "key": "Entrance Fee",
+        "value": 10,
+        "type": "integer"
+      },
+      {
+        "key": "Entrances",
+        "value": 4,
+        "type": "integer"
+      },
+      {
+        "key": "Discount Rate",
+        "value": 7,
+        "type": "integer"
+      },
+      {
+        "key": "Luck Index",
+        "value": 8,
+        "type": "integer"
+      },
+      {
+        "key": "Rarity Index",
+        "value": 9,
+        "type": "integer"
+      },
+      {
+        "key": "Location",
+        "value": "Genesis Map",
+        "type": "string"
+      },
+      {
+        "key": "Coordinates",
+        "value": "[767; -3083]",
+        "type": "string"
+      },
+      {
+        "key": "Spawn Allowed",
+        "value": "1 token required",
+        "type": "string"
+      },
+      {
+        "key": "Free Entry",
+        "value": "1000 tokens required",
+        "type": "string"
+      },
+      {
+        "key": "Title Type",
+        "value": "Premium",
+        "type": "string"
+      }
+    ]
+  }
+}

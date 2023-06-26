@@ -1,0 +1,42 @@
+{
+  "address": "0x71200966bfce84e78078e0f3217c9a15c0c249f7",
+  "type": "ERC721",
+  "name": "The Santa NFT",
+  "tokenCount": "6",
+  "uri": "ipfs://bafybeihcty2rscdn32fsholzmjxnvzmbghlgf4gmmps5zrdtlgui3aohwi/1.json",
+  "metadata": {
+    "name": "The Santa NFT #1",
+    "description": "Santa's coming to town",
+    "image": "ipfs://bafybeihtrryjkc3bawayktvp32zvcm47b6xb7npubzi2rbusygrhayc6se/1.png",
+    "dna": "2d5712c6667c51e4ed5142c29bd99a9a99e96a9e",
+    "edition": 1,
+    "date": 1672008720215,
+    "attributes": [
+      {
+        "trait_type": "Chakra",
+        "value": "ChakraHigh"
+      },
+      {
+        "trait_type": "HP",
+        "value": "HP3"
+      },
+      {
+        "trait_type": "Strength",
+        "value": "Strenght2"
+      },
+      {
+        "trait_type": "Telepathy",
+        "value": "Telepathy4"
+      },
+      {
+        "trait_type": "Luck",
+        "value": "Luck2"
+      },
+      {
+        "trait_type": "Forge",
+        "value": "Forge1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

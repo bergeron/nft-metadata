@@ -1,0 +1,52 @@
+{
+  "address": "0x820a4aeeda79fd49b82da730cda9b952fb649d39",
+  "type": "ERC721",
+  "name": "FreakerFortress",
+  "tokenCount": "70",
+  "uri": "https://ether.freakers.art/m/1",
+  "metadata": {
+    "description": "A wild EtherFreaker.",
+    "external_url": "https://ether.freakers.art/v/1",
+    "image": "https://ether.freakers.art/a/1",
+    "name": "EtherFreaker #1",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Immortal Creator"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "Mercury"
+      },
+      {
+        "trait_type": "Species",
+        "value": "Mercurial Strider"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 30,
+        "max_value": 9
+      },
+      {
+        "trait_type": "Fortune",
+        "value": 30,
+        "max_value": 30
+      },
+      {
+        "trait_type": "Agility",
+        "value": 30,
+        "max_value": 30
+      },
+      {
+        "trait_type": "Offense",
+        "value": 30,
+        "max_value": 30
+      },
+      {
+        "trait_type": "Defense",
+        "value": 30,
+        "max_value": 30
+      }
+    ]
+  }
+}

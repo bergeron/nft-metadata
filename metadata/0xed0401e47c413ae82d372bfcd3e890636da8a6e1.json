@@ -1,0 +1,72 @@
+{
+  "address": "0xed0401e47c413ae82d372bfcd3e890636da8a6e1",
+  "type": "ERC721",
+  "name": "Thoughts of Meadow by Eric Davidson V2",
+  "tokenCount": "150",
+  "uri": "https://api.artblocks.io/token/355000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "355000001",
+    "series": "N/A",
+    "aspect_ratio": 0.70833333333,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Thoughts of Meadow #1",
+    "minted": true,
+    "artist": "Eric Davidson",
+    "description": "These shapes are nothing more than rectangles and lines.\n\nAnd yet...\n\nThere is a concept in painting called 'pentimento', the presence of earlier forms or images that have been painted over. These could be changes that the artist made deliberately, or mistakes that they were able to cover. Sometimes as the paint fades, the pentimenti will be revealed, but often they will remain unseen.\n\nThe challenge is to recognize the pentimenti that influence the canvas, but cannot be found there even at the base layer. These are scattered throughout the years of the artist's life.\n\n'Thoughts of Meadow' is a generative system that distorts a chess-like grid into complex shapes. Many of the outputs give the illusion of immense three-dimensional structures using simple geometric principles. It is an attempt to represent the concept of 'pentimento' through the rendering process. Each layer builds upon the complexity of the previous one but also covers it. If you look closely through the gaps in the grid, you can see the incremental changes that took place.\n\nIn that sense, this project is a reminder for myself of where I'm from, an incredibly small town called Meadow, and the gratitude I feel for the years I spent there. The first layer of my life's pentimento.\n\nAs always, I doubt this project would exist without the work and observations of Vera Molnár. Squares were certainly made for her, I just appreciate being able to borrow them once in a while.",
+    "script_type": "p5@1.0.0",
+    "project_id": "355",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/355000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/355000001.png",
+    "generator_url": "https://generator.artblocks.io/355000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/355000001",
+    "royaltyInfo": {
+      "artistAddress": "0xc0f11179732cb1c7fde61201588506249de21dc1",
+      "additionalPayee": "0x92ee2370b56dc32794a6cd72585dc01d4288d314",
+      "additionalPayeePercentage": 25,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Thoughts of Meadow by Eric Davidson",
+    "website": "https://thoughtsofmeadow.com/",
+    "token_hash": "0x97968ef5e240a423c60784c574832105dcf51a2f2448d307381189adec1255a0",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/355/tokens/355000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/355000001",
+    "features": {
+      "Border": "Yes",
+      "Palette": "Remember Me Last",
+      "Cell Size": "Small",
+      "Outline Drift": "Subtle",
+      "Alternating Colors": "Yes"
+    },
+    "traits": [
+      {
+        "trait_type": "Thoughts of Meadow",
+        "value": "All Thoughts of Meadows"
+      },
+      {
+        "trait_type": "Thoughts of Meadow",
+        "value": "Border: Yes"
+      },
+      {
+        "trait_type": "Thoughts of Meadow",
+        "value": "Palette: Remember Me Last"
+      },
+      {
+        "trait_type": "Thoughts of Meadow",
+        "value": "Cell Size: Small"
+      },
+      {
+        "trait_type": "Thoughts of Meadow",
+        "value": "Outline Drift: Subtle"
+      },
+      {
+        "trait_type": "Thoughts of Meadow",
+        "value": "Alternating Colors: Yes"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY 4.0"
+  }
+}

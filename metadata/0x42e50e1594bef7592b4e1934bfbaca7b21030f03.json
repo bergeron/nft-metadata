@@ -1,0 +1,38 @@
+{
+  "address": "0x42e50e1594bef7592b4e1934bfbaca7b21030f03",
+  "type": "ERC721",
+  "name": "Alpha Proxima Invoice Contract: 0% Insured",
+  "tokenCount": "18",
+  "uri": "ipfs://QmQt3DFivhxZAvSoC57CzCj5JQni5pkLDXBwRRCxnqTpab/0",
+  "metadata": {
+    "name": "Alpha Proxima 30-Day Bronze Invoice",
+    "description": "Owning a Alpha Proxima Invoice allows holders to get exposure to the performance of the Alpha Proxima fund for a 1 month term.",
+    "image": "https://i.imgur.com/QgZ0H9X.png",
+    "properties": [
+      {
+        "trait_type": "ap_units",
+        "value": 1.2303149606299213
+      },
+      {
+        "trait_type": "insurance_rate",
+        "value": 0
+      },
+      {
+        "trait_type": "invoice_type",
+        "value": "bronze"
+      },
+      {
+        "trait_type": "term_start_date",
+        "value": 1667088000000
+      },
+      {
+        "trait_type": "term_end_date",
+        "value": 1669766400000
+      },
+      {
+        "trait_type": "previous_invoice",
+        "value": null
+      }
+    ]
+  }
+}

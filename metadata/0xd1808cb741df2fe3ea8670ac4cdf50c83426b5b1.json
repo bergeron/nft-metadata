@@ -1,0 +1,25 @@
+{
+  "address": "0xd1808cb741df2fe3ea8670ac4cdf50c83426b5b1",
+  "type": "ERC721",
+  "name": "ETHSafari - Early Bird Tickets",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xd1808cb741df2fe3ea8670ac4cdf50c83426b5b1/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xD1808cB741df2fE3Ea8670AC4cdf50c83426B5B1/icon?id=1",
+    "expiration": 1664648979,
+    "tokenId": "1",
+    "owner": "0xfd191064fada386fd25abb09ee4d1feaff7d425c",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1664648979
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xD1808cB741df2fE3Ea8670AC4cdf50c83426B5B1",
+    "network": 1
+  }
+}

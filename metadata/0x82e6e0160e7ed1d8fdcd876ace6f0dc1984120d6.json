@@ -1,0 +1,28 @@
+{
+  "address": "0x82e6e0160e7ed1d8fdcd876ace6f0dc1984120d6",
+  "type": "ERC1155",
+  "name": "The ReVerse",
+  "tokenCount": "12",
+  "uri": "https://thereverse-nfts.s3.amazonaws.com/1.json",
+  "metadata": {
+    "name": "Passport — Komet",
+    "description": "We will stop them at all costs.  Look to the skies.",
+    "external_url": "https://thereverse.io/cards/passport-komet",
+    "image": "https://thereverse-nfts.s3.amazonaws.com/1.jpg",
+    "animation_url": "https://thereverse.io/cards/passport-komet?opensea=true",
+    "attributes": [
+      {
+        "trait_type": "ReVerse Faction",
+        "value": "Komet"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Ultra"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Passport"
+      }
+    ]
+  }
+}

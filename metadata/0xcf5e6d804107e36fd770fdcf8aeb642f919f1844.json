@@ -1,0 +1,67 @@
+{
+  "address": "0xcf5e6d804107e36fd770fdcf8aeb642f919f1844",
+  "type": "ERC721",
+  "name": "128asdfjkadsfeqwr",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/120000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "120000001",
+    "series": 4,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Endless Nameless #1",
+    "minted": true,
+    "artist": "Rafaël Rozendaal",
+    "description": "Endless Nameless is an exploration of composition. We start with a square. The square is divided into sections. The sections are filled with color pairs. Sometimes all colors are used. Sometimes fewer colors are used.",
+    "script_type": "js@na",
+    "project_id": "120",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 4",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/120000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/120000001.png",
+    "generator_url": "https://generator.artblocks.io/120000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/120000001",
+    "royaltyInfo": {
+      "artistAddress": "0x0f441cfad93287109f5ef834bf52f4aaaa8d8ffa",
+      "additionalPayee": "0x58ee3f321dfe104256b1832dec608892c4e98800",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Endless Nameless by Rafaël Rozendaal",
+    "website": "https://www.newrafael.com/",
+    "token_hash": "0x1fc2e2a63380a0e6f99cd3531f17ba984ae4255776642591838b87f1803392e7",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/120/tokens/120000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/120000001",
+    "features": {
+      "Black": "No",
+      "White": "Yes",
+      "Colors": 2,
+      "Rectangles": "2"
+    },
+    "traits": [
+      {
+        "trait_type": "Endless Nameless",
+        "value": "All Endless Nameless"
+      },
+      {
+        "trait_type": "Endless Nameless",
+        "value": "Black: No"
+      },
+      {
+        "trait_type": "Endless Nameless",
+        "value": "White: Yes"
+      },
+      {
+        "trait_type": "Endless Nameless",
+        "value": "Colors: 2"
+      },
+      {
+        "trait_type": "Endless Nameless",
+        "value": "Rectangles: 2"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

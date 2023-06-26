@@ -1,0 +1,21 @@
+{
+  "address": "0x89fa5089f5618530a0dbffc1dccddebb9dd8d6c3",
+  "type": "ERC1155",
+  "name": "KCorp ID Card",
+  "tokenCount": "1",
+  "uri": "https://kira-nft-data.s3.amazonaws.com/card/jsons/0",
+  "metadata": {
+    "name": "KiraCorp ID Card",
+    "symbol": "CARD",
+    "description": "<> Users who successfully Bid or mint in any of the phases will earn a SBT Kira Corp ID card, granting benefits within the Corp ecosystem.</>",
+    "image": "https://kira-nft-data.s3.amazonaws.com/card/card-animation.gif",
+    "animation_url": "https://kira-nft-data.s3.amazonaws.com/card/card-animation.gif",
+    "external_url": "https://kiracorp.io",
+    "attributes": [
+      {
+        "trait_type": "KiraCorp ID Card",
+        "value": "KiraCorp ID Card"
+      }
+    ]
+  }
+}

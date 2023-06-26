@@ -1,0 +1,54 @@
+{
+  "address": "0x67aa234d343165a72e6d6fe31db9c8599a0bec6e",
+  "type": "ERC721",
+  "name": "The Goreys",
+  "tokenCount": "4000",
+  "uri": "ipfs://bafybeibnheb2y4ecud3mh3iln3obkek35gqadb5sdyo367idvfwin6dmly/1.json",
+  "metadata": {
+    "name": "The Gorey #1",
+    "description": "Not Tricks or Treats. Only Goreys. An ancient Celtic family who lived 2000 years ago in Ireland, devoted to Samhain.",
+    "image": "ipfs://bafybeihczxmwq4jo6hquybgv5xjub6v2ogyq7olmorvn6gn4eoxqb7dzom/1.png",
+    "dna": "d9486ae853ff194309d8cb81f18edae05d7d6e38",
+    "edition": 1,
+    "date": 1666877304293,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "15grey"
+      },
+      {
+        "trait_type": "Wallpaper",
+        "value": "stripes"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "simple"
+      },
+      {
+        "trait_type": "Body",
+        "value": "buttons"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "bald"
+      },
+      {
+        "trait_type": "Face",
+        "value": "regular"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "scream"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eyelash"
+      },
+      {
+        "trait_type": "Friend",
+        "value": "Timothy"
+      }
+    ],
+    "compiler": "E.Gorey"
+  }
+}

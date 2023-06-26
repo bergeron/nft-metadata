@@ -1,0 +1,50 @@
+{
+  "address": "0xce50b33576482cdb7956b7d89562a80392ee3118",
+  "type": "ERC1155",
+  "name": "Starry Oddities",
+  "tokenCount": "17",
+  "uri": "ipfs://QmRSjArrnya8NJBuTMdMeSgzkdqn1ZQGuyaGxgh2adhNPT/1/token.json",
+  "metadata": {
+    "name": "Analog & Digital Realms",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/video/upload/w_1200/v1679638652/0xfcad2eb79692c2aa0bcbaf3d3e29615dda94fe6d/641c094dd3a348fae911f44b/stateCovers/cazhq3vds4ugrfoycs9k.mp4",
+    "description": "The abstract forever galaxy...\n \nThe center planet texture was created from a scanned image of an acrylic pouring painted by sturec in 2020, aiming to add a contrast to the overall piece.\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "sturec"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "Starry Oddities"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0xfcad2eb79692c2aa0bcbaf3d3e29615dda94fe6d"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Outside",
+              "state": {
+                "label": "Analog & Digital Realms",
+                "uri": "QmcrrkMpG76CoC3hzoyaZmAWiqNDMyBLiKPNDVYJ3AFnaH"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

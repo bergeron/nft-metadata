@@ -1,0 +1,45 @@
+{
+  "address": "0x244619608807a114490a27b228195da9a17292bc",
+  "type": "ERC1155",
+  "name": "OGTest",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/6S63lwi-Nd_ZCINJboeMugF70UkSP0AC_nfi6tOl2kk",
+  "metadata": {
+    "created_by": "Chris Williams",
+    "name": "OG.TEST.KEY",
+    "description": "Look Ma - I made a key",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Kinessisk"
+      },
+      {
+        "trait_type": "Item",
+        "value": "Gold Key"
+      }
+    ],
+    "animation_details": {
+      "bytes": 10687685,
+      "format": "MP4",
+      "duration": 8,
+      "sha256": "7a7a6311ea3c93f8cb5eaebd4da4f8362a4827adc746ae97c18cb1e3db640f11",
+      "width": 1600,
+      "height": 1900,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/V6xGzgXqqa7hdVwvb6uay1wpBCZ4jWhpf4k1KLfDcUs",
+    "animation_url": "https://arweave.net/V6xGzgXqqa7hdVwvb6uay1wpBCZ4jWhpf4k1KLfDcUs",
+    "image_details": {
+      "bytes": 3568472,
+      "format": "PNG",
+      "sha256": "dfdc9589db8aa03c60136f2420da8385ea141d34d2e81405e6ce717cdc2122b7",
+      "width": 1600,
+      "height": 1900
+    },
+    "image": "https://arweave.net/V9bIBoboK0kb-sEc9QkbvF2rdadjMRklLeZ8xA5yVk0",
+    "image_url": "https://arweave.net/V9bIBoboK0kb-sEc9QkbvF2rdadjMRklLeZ8xA5yVk0"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "0x1f63796fd993c0ade182ec018f60ae6b74e6966c",
+  "type": "ERC1155",
+  "name": "truePengu",
+  "tokenCount": "3",
+  "uri": "https://nft.pudgypenguins.com/truePengu/1.json",
+  "metadata": {
+    "name": "truePengu Iridescent",
+    "symbol": "TPENG",
+    "description": "A Soulbound NFT to commemorate the 1 year Pudgy Penguins anniversary and mark the beginning of Web3 identity innovation. This token was given to truePengu's who owned a Pudgy Penguin and Lil Pudgy during the snapshot.",
+    "image": "https://nft.pudgypenguins.com/truePengu/truePengu-iridescent.gif",
+    "animation_url": "https://nft.pudgypenguins.com/truePengu/truePengu-iridescent.mp4",
+    "external_url": "https://pudgypenguins.com",
+    "attributes": [
+      {
+        "trait_type": "PUDGY",
+        "value": "PENGUIN"
+      },
+      {
+        "trait_type": "HOLDER",
+        "value": "IRIDESCENT"
+      }
+    ]
+  }
+}

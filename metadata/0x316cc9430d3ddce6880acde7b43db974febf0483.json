@@ -1,0 +1,38 @@
+{
+  "address": "0x316cc9430d3ddce6880acde7b43db974febf0483",
+  "type": "ERC721",
+  "name": "Hamburger",
+  "tokenCount": "5",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=KOvaKATfKGHjG16VnIgJ",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1573661780472?alt=media&token=14ea0080-e2cb-4939-990f-d44930af56ed",
+    "isForSale": true,
+    "contractAddress": "0x316cC9430d3DDCE6880aCDE7B43Db974FEbF0483",
+    "description": "Kontakt wktlz@t-online.de\n",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x316cC9430d3DDCE6880aCDE7B43Db974FEbF0483/KOvaKATfKGHjG16VnIgJ",
+    "minter": "0xC43E6dF265C305CeD6477C7A2C946f12247906e1",
+    "mintedOn": {
+      "_seconds": 1573661790,
+      "_nanoseconds": 4000000
+    },
+    "price": "0",
+    "name": "Hamburger",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Hamburger"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

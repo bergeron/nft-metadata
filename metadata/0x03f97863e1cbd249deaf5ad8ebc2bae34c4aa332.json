@@ -1,0 +1,41 @@
+{
+  "address": "0x03f97863e1cbd249deaf5ad8ebc2bae34c4aa332",
+  "type": "ERC721",
+  "name": "ColorBunnys",
+  "tokenCount": "8",
+  "uri": "https://arweave.net/TwAYNIziuuc0LyMs8Xu4WaBkVVMROMRlMWw_WSm-aKg",
+  "metadata": {
+    "name": "Pink Bunny No. 1",
+    "created_by": "Lichtwerke Photography",
+    "description": "This is the pink bunny.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Lichtwerke Photography"
+      },
+      {
+        "trait_type": "Camera",
+        "value": "Canon EOS 6D"
+      },
+      {
+        "trait_type": "Lens",
+        "value": "85mm F1.4 DG HSM | Art 016"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Number",
+        "value": "1",
+        "max_value": "1"
+      }
+    ],
+    "image_details": {
+      "bytes": 5545939,
+      "format": "JPEG",
+      "sha256": "222db577f459e74a1d2483dc3c59f976cbbd3402eacbefa0de612d52d3f7c3b8",
+      "width": 5472,
+      "height": 3648
+    },
+    "image": "https://arweave.net/USr-y5hk0RdPDTdI1uDgRQ-FLGYLT3R9DxARIcdo_Ec",
+    "image_url": "https://arweave.net/USr-y5hk0RdPDTdI1uDgRQ-FLGYLT3R9DxARIcdo_Ec"
+  }
+}

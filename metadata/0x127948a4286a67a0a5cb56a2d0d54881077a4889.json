@@ -1,0 +1,22 @@
+{
+  "address": "0x127948a4286a67a0a5cb56a2d0d54881077a4889",
+  "type": "ERC721",
+  "name": "BullaClaim721 V4",
+  "tokenCount": "30",
+  "uri": "https://ipfs.io/ipfs/QmXQvbqBhb1Eg61LfUDDPWSvccCGLxRhpbFoEE3i5gzKM6",
+  "metadata": {
+    "name": "Bulla Claim on the Mainnet network",
+    "image": "QmSPwTThv5TiuLnwKJoxkA2rMrrTxgfA9B3w7Xq8RgwvQ9",
+    "description": "Claim between 0xe2B28b58cc5d34872794E861fd1ba1982122B907 as a original creditor, and 0xf0e0d3dafbb10a6e622a2985482c4c1df793cb73 as a debtor for .777 WBTC.\n\nDue by 05 May 2023.\nPay claim at https://banker.bulla.network/#/",
+    "attributes": [
+      {
+        "trait_type": "Currency",
+        "value": "WBTC"
+      },
+      {
+        "trait_type": "Amount",
+        "value": ".777"
+      }
+    ]
+  }
+}

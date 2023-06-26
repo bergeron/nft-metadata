@@ -1,0 +1,41 @@
+{
+  "address": "0xd581fe0a525799b6f4d4ac29d0da5a484cac1581",
+  "type": "ERC721",
+  "name": "Medicine Skulls",
+  "tokenCount": "16",
+  "uri": "ipfs://QmXkL3uMJjnxovN8wRUBHnR9rjt7gndBd7ZZhh1n3y55h6/1",
+  "metadata": {
+    "name": "Medicine Skulls #16",
+    "description": "Medicine Skulls is an original collection of 1000 tokens available on the Ethereum block chain. These tokens were inspired by a collection of authentic hand-painted skulls - created by the artist Phillip E. Brothers - from 1991-2021.",
+    "image": "ipfs://QmeqH17BFBjsgVMR664QVMeg8Ez6sfSxgTRg1RTaBzur4K/1.png",
+    "properties": {
+      "medicine power": "horse",
+      "tier": "gold",
+      "symbol 1": "sun symbol",
+      "symbol 2": "shamans eye",
+      "symbol 3": "lightning arrows"
+    },
+    "attributes": [
+      {
+        "trait_type": "medicine power",
+        "value": "horse"
+      },
+      {
+        "trait_type": "tier",
+        "value": "gold"
+      },
+      {
+        "trait_type": "symbol 1",
+        "value": "sun symbol"
+      },
+      {
+        "trait_type": "symbol 2",
+        "value": "shamans eye"
+      },
+      {
+        "trait_type": "symbol 3",
+        "value": "lightning arrows"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "0x5592e2022691a9850d8acbf243416099e6fb34dd",
+  "type": "ERC721",
+  "name": "BOOK.io The Wizard of Oz (Eth)",
+  "tokenCount": "200",
+  "uri": "ipfs://QmXYhXLvxTjjxJoiPgQjtCghiEG2LvHskNiBLfiYudZCXC/1",
+  "metadata": {
+    "name": "The Wizard of Oz #099",
+    "description": "The true courage is in facing danger when you are afraid, and that kind of courage you have in plenty.",
+    "image": "ipfs://QmcFxmuV3CTV9LebRBrfp7LF1vvW8cHGVzMbBCPd1Fvfs3",
+    "attributes": {
+      "Cover Theme": "The Great Oz",
+      "Variation": "5"
+    },
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "entrypoint": "ipfs://QmdeL5kBxktxLuDGJ65be6stx8JxxJvsM77LqNe4LnbABi",
+    "extraAttributes": {
+      "Book Title": "The Wizard of Oz"
+    },
+    "files": [
+      {
+        "mediaType": "image/png",
+        "name": "High-Res Cover Image",
+        "src": "ipfs://Qmc2wu5BEHG8GLz5fradbTKcLmG9gWJWQVVhxNzArDWJzL"
+      }
+    ],
+    "id": "a298a24a-68e1-4e15-b171-2a3a0b337ec9",
+    "sha256": "8e7f101179b6ca1bf769d6a23078c296397d486ef4b2d022b1210274dd3811d5",
+    "website": "https://book.io"
+  }
+}

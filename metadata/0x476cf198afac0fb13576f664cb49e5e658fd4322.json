@@ -1,0 +1,51 @@
+{
+  "address": "0x476cf198afac0fb13576f664cb49e5e658fd4322",
+  "type": "ERC721",
+  "name": "HedgeyVesting",
+  "tokenCount": "24",
+  "uri": "https://dynamic-nft.hedgey.finance/ethereum/0x476cf198afac0fb13576f664cb49e5e658fd4322/1",
+  "metadata": {
+    "name": "HedgeyVesting #1",
+    "description": "This NFT represents a stream of BigCatsToken tokens",
+    "edition": 1,
+    "external_url": "https://hedgey.finance",
+    "asset_currency": {
+      "address": "0xceCFbfbEd09bB3f06211A841d939223E093368A2",
+      "symbol": "BIGCAT",
+      "decimals": 18,
+      "amount": "100000"
+    },
+    "network": "ethereum",
+    "cliff_date": 1690905600,
+    "image": "https://hedgey-dynamic-nft-production.s3.amazonaws.com/ethereum/0x476cf198afac0fb13576f664cb49e5e658fd4322/1/texture.png",
+    "animation_url": "https://hedgey-dynamic-nft-production.s3.amazonaws.com/index.html?type=disk&network=ethereum&contractAddress=0x476cf198afac0fb13576f664cb49e5e658fd4322&index=1",
+    "start": 1675209600,
+    "end": 1738368001,
+    "rate": "1583320666767999",
+    "vesting_admin": "0xF2AdF7Bc3D0e1DFDE310BF967a3E21493B22ea98",
+    "transferable_nft_locker": false,
+    "label_colour": "Blue",
+    "revokable": true,
+    "transferable": false,
+    "original_owner": "0xde06fEee4c4e3A0B9eEA4f0Ed7a9b21F80a65C58",
+    "attributes": [
+      {
+        "trait_type": "Label Colour",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Token_Collateral",
+        "value": "BigCatsToken: 0xceCFbfbEd09bB3f06211A841d939223E093368A2"
+      },
+      {
+        "trait_type": "Number_Of_Locked_Tokens",
+        "value": "100000",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Tokens_Locked",
+        "value": "100000 BIGCAT"
+      }
+    ]
+  }
+}

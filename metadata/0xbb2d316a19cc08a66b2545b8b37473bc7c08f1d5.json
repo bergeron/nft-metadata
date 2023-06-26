@@ -1,0 +1,39 @@
+{
+  "address": "0xbb2d316a19cc08a66b2545b8b37473bc7c08f1d5",
+  "type": "ERC721",
+  "name": "Star Chamber DAO",
+  "tokenCount": "100",
+  "uri": "ipfs://Qmd9jh4M87mPyDsNXQGukK5u8TNb9hsPr8c2iFk6DtcdAU/contract.json",
+  "metadata": {
+    "name": "Star Chamber DAO",
+    "description": "Welcome to the Star Chamber friend 🤝.",
+    "image": "ipfs://QmTTkxMmoKVrt1Vo7ZiSgsePmUpuQYNYdDmmo2dsF9z8Gs/0.gif",
+    "external_link": "https://www.starchamber.io",
+    "attributes": [
+      {
+        "trait_type": "Membership",
+        "value": "Valid"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Unrevealed"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "Pending..."
+      },
+      {
+        "trait_type": "DAO",
+        "value": "Loading..."
+      },
+      {
+        "trait_type": "Something?",
+        "value": "Probably nothing..."
+      },
+      {
+        "trait_type": "Purple Heart",
+        "value": "Earned"
+      }
+    ]
+  }
+}

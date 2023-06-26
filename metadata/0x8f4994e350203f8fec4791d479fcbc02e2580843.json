@@ -1,0 +1,70 @@
+{
+  "address": "0x8f4994e350203f8fec4791d479fcbc02e2580843",
+  "type": "ERC721",
+  "name": "Doodle y00t Gods",
+  "tokenCount": "2",
+  "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/Qma9eKAxXqj2VE5dsTv9rg6599dLECj8wCiKojmazvWtQ4/1.json",
+  "metadata": {
+    "name": "DoodleGod1",
+    "symbol": "DG",
+    "description": "{DoodleGods} - DeGods derivate by SolanaDoodle Studio!",
+    "seller_fee_basis_points": 800,
+    "image": "https://testlaunchmynft.mypinata.cloud/ipfs/QmVF8bJG1v2e6y91Ms8g9xijJ4xe9RTeoGbqfqRJ1PRTpr/1.png",
+    "external_url": "",
+    "collection": {
+      "name": "DoodleGods",
+      "family": "LaunchMyNFT"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Ripped Shirt"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Afro"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Daily Sunglasses"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 138,
+        "display_type": "number",
+        "max_value": 1444
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/QmVF8bJG1v2e6y91Ms8g9xijJ4xe9RTeoGbqfqRJ1PRTpr/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "EH8cCuN5Wk6Mvb6TyzvqRiRqCGoaFR1xtNC4rxG7i2T3",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

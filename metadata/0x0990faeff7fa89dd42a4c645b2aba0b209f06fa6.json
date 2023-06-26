@@ -1,0 +1,58 @@
+{
+  "address": "0x0990faeff7fa89dd42a4c645b2aba0b209f06fa6",
+  "type": "ERC721",
+  "name": "Retro Cats",
+  "tokenCount": "295",
+  "uri": "https://us-central1-retro-cats.cloudfunctions.net/retro-cats-function?token_id=1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "6"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "10"
+      },
+      {
+        "trait_type": "Breed",
+        "value": "5"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "5"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "9"
+      },
+      {
+        "trait_type": "Bling",
+        "value": "0"
+      },
+      {
+        "trait_type": "Head",
+        "value": "14"
+      },
+      {
+        "trait_type": "Item",
+        "value": "3"
+      },
+      {
+        "trait_type": "Ring",
+        "value": "1"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "17"
+      },
+      {
+        "trait_type": "Vice",
+        "value": "9"
+      }
+    ],
+    "description": "A groovy Lucky Cat transported by Time Crystal to the 1970s.",
+    "image": "https://us-central1-retro-cats.cloudfunctions.net/retro-cats-image?token_id=1",
+    "name": "Retro Cat #1"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "0x51ae5e2533854495f6c587865af64119db8f59b4",
+  "type": "ERC721",
+  "name": "PunkScapes",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmaukL8zdkRZmaYzaYTRTRDgd2Hm4H5eKEi4LxCEGKktUy/1/metadata.json",
+  "metadata": {
+    "name": "PunkScape Relic",
+    "description": "PunkScape Relics are remnants of a bygone era.\n\nScapes have moved fully onchain, and live on a new contract.\n\n→ collect at scapes.xyz",
+    "image": "ipfs://QmVUjWMyorXnbVu2AtM7ux82BnTZgFtPtsUKcmwQBoRPTu",
+    "attributes": [
+      {
+        "trait_type": "Minted",
+        "value": "2021"
+      },
+      {
+        "trait_type": "Destroyed",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Atmosphere",
+        "value": "Dark Night"
+      },
+      {
+        "trait_type": "Sky",
+        "value": "Simmering Light"
+      },
+      {
+        "trait_type": "Celestial",
+        "value": "Happy Clouds"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "date",
+        "value": 2499221535
+      }
+    ]
+  }
+}

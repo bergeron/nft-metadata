@@ -1,0 +1,43 @@
+{
+  "address": "0xb3a51695d12079c3a7f0cb4dcb89be7b766b83a3",
+  "type": "ERC721",
+  "name": "Cats & Bones Official",
+  "tokenCount": "6666",
+  "uri": "https://api.catsandbones.club/1",
+  "metadata": {
+    "name": "C&B #1",
+    "description": "Cats have 9 lives. But no one says they also have 9 more lives after they die.",
+    "image": "https://api.catsandbones.club/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Oracle"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hell",
+        "value": "Fallen Angel"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Copper Penny"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Rosso Corsa"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Cerulean blue"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Suva Gray"
+      }
+    ],
+    "compiler": "https://startnft.app"
+  }
+}

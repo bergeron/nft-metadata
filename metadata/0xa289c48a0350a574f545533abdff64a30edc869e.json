@@ -1,0 +1,35 @@
+{
+  "address": "0xa289c48a0350a574f545533abdff64a30edc869e",
+  "type": "ERC721",
+  "name": "OthenticPacMan",
+  "tokenCount": "1",
+  "uri": "https://api.othentic.xyz/metadata/3/edition/1.json",
+  "metadata": {
+    "edition": 1,
+    "name": "OthenticPacMan #1",
+    "description": null,
+    "external_url": "https://viewer.othentic.xyz?id=1&client-id=3",
+    "animation_url": "https://viewer.othentic.xyz?id=1&client-id=3",
+    "image": "https://greenfarmfactory.mypinata.cloud/ipfs/QmeZ6w3PftGig8dUgx5339HjbS8YDNTR6U23EzL4HNw3Pf",
+    "os_image": "https://i.seadn.io/gcs/files/dcdac52d596af8479443f098b3876b54.png?w=500&auto=format",
+    "owner": null,
+    "attributes": [
+      {
+        "trait_type": "score",
+        "value": "7",
+        "display_type": "string",
+        "image": null,
+        "field_id": null,
+        "update_time": "2023-06-01T17:00:00"
+      },
+      {
+        "trait_type": "Cathie Wood Fan",
+        "value": "Following on twitter",
+        "display_type": "string",
+        "image": null,
+        "field_id": null,
+        "update_time": "2023-06-01T17:00:00"
+      }
+    ]
+  }
+}

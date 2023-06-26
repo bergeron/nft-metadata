@@ -1,0 +1,34 @@
+{
+  "address": "0x9fd04ec3cd2d748ecab51ba29f1b8424350de01b",
+  "type": "ERC721",
+  "name": "TestOFLToken",
+  "tokenCount": "1",
+  "uri": "https://zorn96.github.io/test-meta/1",
+  "metadata": {
+    "name": "Test NFT #1",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Flan"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fire Halo"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Retro Shades"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Puffer Jacket"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gradient 1"
+      }
+    ],
+    "image": "https://zorn96.github.io/test-meta/1.jpeg",
+    "description": "Test NFT please ignore"
+  }
+}

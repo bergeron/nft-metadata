@@ -1,0 +1,22 @@
+{
+  "address": "0x713963fc10c73e40bbfe84ef638d9d79cac0495b",
+  "type": "ERC721",
+  "name": "Stars The collection",
+  "tokenCount": "7",
+  "uri": "ipfs://QmbKMhXpUN2cj4Dq6J9rVyV8GsTJc2NPAGJSmCUo545nvF/1.json",
+  "metadata": {
+    "name": "Star #1",
+    "description": "A collection of stars",
+    "image": "ipfs://QmdXxBRrRigfC6uxqCDX78aZ2fy6sQ6S85xLNFnM1fzzhR/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Number of stars",
+        "value": "One"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Plain"
+      }
+    ]
+  }
+}

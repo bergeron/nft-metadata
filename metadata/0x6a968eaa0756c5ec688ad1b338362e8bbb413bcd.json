@@ -1,0 +1,33 @@
+{
+  "address": "0x6a968eaa0756c5ec688ad1b338362e8bbb413bcd",
+  "type": "ERC721",
+  "name": "Alliance NFT Demi-Human NFT",
+  "tokenCount": "95",
+  "uri": "https://alliance-nft-demi-human-api.vercel.app/api/metadata/1.json",
+  "metadata": {
+    "name": "Alliance NFT: Demi-Human NFT #1",
+    "description": "This collection is a derivative of Demi-Human NFT. The collection, which was developed by Demiverse Studio and the InvestNFT team, aims to enhance multiple empowerments, such as NFT-insurance, NFT-forging, lottery, and CeFi offer while exploring the new form of NFT in Web3.",
+    "fee_recipient": "0xEc0b83e36090989A35a9b7A7316e55c404716eB5",
+    "seller_fee_basis_points": 500,
+    "image": "https://investnft.mypinata.cloud/ipfs/QmRuYaFrQzDzoNsha8K6WjaoBF3wPfaorAzjc9xQvhZcvK",
+    "external_url": "https://www.investnft.finance/collection/eth/alliance-nft-demi-human",
+    "attributes": [
+      {
+        "trait_type": "Race",
+        "value": "Human"
+      },
+      {
+        "trait_type": "Name",
+        "value": "Alliance NFT: Demi-Human NFT #1"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Invest NFT"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "1/250"
+      }
+    ]
+  }
+}

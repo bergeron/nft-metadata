@@ -1,0 +1,40 @@
+{
+  "address": "0xc0dd50cf92cb7f4a18dd14345f84d895f81f5355",
+  "type": "ERC721",
+  "name": "Phool Cats",
+  "tokenCount": "59",
+  "uri": "https://ipfs.io/ipfs/bafybeigearnrgkohbshj53kysz3hyfdkzjip5ucx27o7lewpr4feiufxce/1",
+  "metadata": {
+    "description": "Phool Cats is a collection of 9,999 randomly generated and stylistically curated NFTs that exist on the Ethereum Blockchain. Remember, all cats are cool, but some are cooler than others",
+    "image": "https://ipfs.io/ipfs/bafkreifz5dsvqrncphglisrv73zxsdz65ipfddssr5kyo5i4eshvxlcm44",
+    "name": "Phool Cats #1",
+    "attributes": [
+      {
+        "trait_type": "body",
+        "value": "blue cat skin"
+      },
+      {
+        "trait_type": "hats",
+        "value": "hat black"
+      },
+      {
+        "trait_type": "shirt",
+        "value": "winter red"
+      },
+      {
+        "trait_type": "face",
+        "value": "sunglasses blue"
+      },
+      {
+        "trait_type": "tier",
+        "value": "wild_1"
+      }
+    ],
+    "points": {
+      "Body": 0,
+      "Shirt": 2,
+      "Hats": 2,
+      "Face": 1
+    }
+  }
+}

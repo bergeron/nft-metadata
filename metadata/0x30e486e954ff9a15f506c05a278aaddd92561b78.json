@@ -1,0 +1,38 @@
+{
+  "address": "0x30e486e954ff9a15f506c05a278aaddd92561b78",
+  "type": "ERC721",
+  "name": "Boring-Panda",
+  "tokenCount": "3",
+  "uri": "ipfs://QmYh5dbojTN7nPkp8pdUcGxHgx7UqXZb5BLxD2nXkpEuxp/1.json",
+  "metadata": {
+    "name": "Boring Panda #1",
+    "description": "Boring Panda",
+    "image": "ipfs://QmY2WE7fSLNW8EwiLKuCi5WejZassHGLLmVt9YFEmqAtLq/1.png",
+    "dna": "70518d1868f9d3991c7fe872e380a41688d718e9",
+    "edition": 1,
+    "date": 1664467110516,
+    "attributes": [
+      {
+        "trait_type": "body",
+        "value": "body1"
+      },
+      {
+        "trait_type": "expression",
+        "value": "shy"
+      },
+      {
+        "trait_type": "wear",
+        "value": "null"
+      },
+      {
+        "trait_type": "action",
+        "value": "good"
+      },
+      {
+        "trait_type": "words",
+        "value": "LFG"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

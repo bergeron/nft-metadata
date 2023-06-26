@@ -1,0 +1,52 @@
+{
+  "address": "0xcaf5f6ecae5f840501a9b1412dcf229793147492",
+  "type": "ERC721",
+  "name": "ASCIImigos",
+  "tokenCount": "255",
+  "uri": "ipfs://QmQymeP3ELNZEz6GqR7sd9W7XAZorG6ibvdKSmNsrgAkDK/1",
+  "metadata": {
+    "name": "ASCIIMigos#1399",
+    "description": "3333 ASCIImigos combining the art of ASCII with the uniqueness of the blockchain.",
+    "image": "ipfs://QmPpyrVc87ENxLGfEV4QWPcpLm9jXnkSM14ydyZP5Urk8i/1.gif",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "/1399.gif",
+          "Gen": "image/gif"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x8773Ae356E62B8Eeec521A389C7c4a98CC4944f3",
+          "share": "100"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Mouths",
+        "value": "Flat"
+      },
+      {
+        "trait_type": "Hairstyle",
+        "value": "Dread Long"
+      },
+      {
+        "trait_type": "Shirt/Jacket",
+        "value": "Bathrobe"
+      },
+      {
+        "trait_type": "Gen",
+        "value": "Human Latte"
+      }
+    ],
+    "symbol": "ASCIIMigos",
+    "seller_fee_basis_points": "250",
+    "collection": {
+      "name": "ASCIIMigos",
+      "family": "ASCII"
+    }
+  }
+}

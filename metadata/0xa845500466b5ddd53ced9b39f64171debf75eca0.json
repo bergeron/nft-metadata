@@ -1,0 +1,62 @@
+{
+  "address": "0xa845500466b5ddd53ced9b39f64171debf75eca0",
+  "type": "ERC721",
+  "name": "Dummified Ghosts",
+  "tokenCount": "209",
+  "uri": "https://ipfs.io/ipfs/bafybeign2yypvcxaxscssp4tr32o66losh625cr5npkzktbmalkt5xkboa/1.json",
+  "metadata": {
+    "name": "DG#1",
+    "symbol": "DG",
+    "description": "A remarkable collab between the art of GhostKidDAO and Degen Dummies. Creating a unique subDAO of Dummified Ghosts  ",
+    "seller_fee_basis_points": 1000,
+    "image": "https://nftstorage.link/ipfs/bafybeihbup2muqoni6fvb53x64jipp6bfq4cp6wdzs2oiu76eoh6qrn7aa/1.jpeg",
+    "external_url": "",
+    "collection": {
+      "name": "Dummified Ghosts ",
+      "family": "LaunchMyNFT"
+    },
+    "attributes": [
+      {
+        "trait_type": "Bckg",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Back",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Black And White"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "White Puffer"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Sun Hat"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 412,
+        "display_type": "number",
+        "max_value": 600
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://nftstorage.link/ipfs/bafybeihbup2muqoni6fvb53x64jipp6bfq4cp6wdzs2oiu76eoh6qrn7aa/1.jpeg",
+          "type": "image/jpeg"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "Ay7EckbbPkDrk1o9D3UjTLfs3Fiz1NFXcMYG5FUKyTyT",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

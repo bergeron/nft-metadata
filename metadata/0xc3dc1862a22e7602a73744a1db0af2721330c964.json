@@ -1,0 +1,27 @@
+{
+  "address": "0xc3dc1862a22e7602a73744a1db0af2721330c964",
+  "type": "ERC1155",
+  "name": "ENSart by BBoyBlockchain",
+  "tokenCount": "6",
+  "uri": "https://arweave.net/HRzCFhHSBuLwEWrbAbt-Cxr31MjK8FWX6CY-O7jTOJc",
+  "metadata": {
+    "name": "ENSart",
+    "created_by": "BBoyBlockchain",
+    "description": "A collection of art based on ENS domains. After minting is closed a snapshot is taken, and a random winner is selected and sent the corresponding ENS domain.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "BBoyBlockchain"
+      }
+    ],
+    "image_details": {
+      "bytes": 5582998,
+      "format": "PNG",
+      "sha256": "21920096e51593c7966b1c57fba76eda55ada3542943f0b28bc7d0b5ef74f370",
+      "width": 2048,
+      "height": 2048
+    },
+    "image": "https://arweave.net/KohIr3ffuTBUi1PglnIwPzq5YeJRwNOpHD5HhGGjBT4",
+    "image_url": "https://arweave.net/KohIr3ffuTBUi1PglnIwPzq5YeJRwNOpHD5HhGGjBT4"
+  }
+}

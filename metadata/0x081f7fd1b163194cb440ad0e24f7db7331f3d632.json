@@ -1,0 +1,33 @@
+{
+  "address": "0x081f7fd1b163194cb440ad0e24f7db7331f3d632",
+  "type": "ERC721",
+  "name": "GM by Nilus Dantes",
+  "tokenCount": "50",
+  "uri": "https://chaincards-be.herokuapp.com/get-metaData/0x081f7FD1b163194cB440AD0e24F7DB7331f3D632/1",
+  "metadata": {
+    "name": "GM - Nilus Dantes",
+    "description": "ChainCards reimagines greeting cards through NFT technology, offering limited edition, seasonally themed collections created by talented artists. Our platform supports artists in the digital economy and fosters connections across the globe. For the best viewing experience, explore your NFT cards at chaincards.io.",
+    "imageUrl": "https://chaincards-imgs.s3.us-west-2.amazonaws.com/ChainCards-Nilus-GM.jpg",
+    "animation_url": "https://chaincards-be.herokuapp.com/get-htmlContentForNft/0x081f7FD1b163194cB440AD0e24F7DB7331f3D632/1",
+    "tokenId": "1",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Nilus Dantes"
+      },
+      {
+        "trait_type": "Edition size",
+        "value": 1000
+      },
+      {
+        "trait_type": "Series",
+        "value": "GM"
+      },
+      {
+        "trait_type": "Category",
+        "value": "AI"
+      }
+    ],
+    "status": "purchased"
+  }
+}

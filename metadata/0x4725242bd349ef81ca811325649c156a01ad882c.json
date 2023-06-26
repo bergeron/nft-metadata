@@ -1,0 +1,40 @@
+{
+  "address": "0x4725242bd349ef81ca811325649c156a01ad882c",
+  "type": "ERC1155",
+  "name": "OneOfOne.sol",
+  "tokenCount": "1",
+  "uri": "ipfs://QmQvqd72mCzW1xXgbTsQ5emwZSgNFLGUrB5HGHMxswwwx1",
+  "metadata": {
+    "name": "OneOfOne.sol",
+    "description": "A 1 file Solidity implementation of ERC1155 for a 1/1 NFT (in 1:1 aspect ratio).",
+    "image": "ipfs://Qmcv8xxiD1RNGtdt1L1qyWJkcYqDTBXQBm9ScxeyC4Mcu7",
+    "solcInput": {
+      "language": "Solidity",
+      "sources": {
+        "contracts/OneOfOne.sol": {
+          "content": "// SPDX-License-Identifier: MIT\n// Francisco Giordano (2022-01-01)\n\npragma solidity 0.8.11;\n\ncontract OneOfOne {\n    address internal owner;\n    mapping (uint => string) public uri;\n    mapping (address => mapping (address => bool)) public isApprovedForAll;\n\n    event TransferSingle(address indexed _operator, address indexed _from, address indexed _to, uint _id, uint _value);\n    event ApprovalForAll(address indexed _owner, address indexed _operator, bool _approved);\n    event URI(string _value, uint indexed _id);\n\n    constructor(address _owner, string memory _uri) { initialize(_owner, _uri); }\n\n    function initialize(address _owner, string memory _uri) public {\n        require(owner == address(0) && _owner != address(0));\n        emit TransferSingle(msg.sender, address(0), _owner, 1, 1);\n        emit URI(_uri, 1);\n        uri[1] = _uri;\n        owner = _owner;\n    }\n\n    function contractURI() public view returns (string memory) { return uri[1]; }\n\n    function supportsInterface(bytes4 _id) public pure returns (bool) { return _id == 0x01ffc9a7 || _id == 0xd9b67a26 || _id == 0x0e89341c; }\n\n    function balanceOf(address _owner, uint _id) public view returns (uint) { return _owner == owner && _id == 1 ? 1 : 0; }\n\n    function balanceOfBatch(address[] calldata _owners, uint[] calldata _ids) public view returns (uint[] memory res) {\n        require(_owners.length == _ids.length);\n        res = new uint[](_ids.length);\n        for (uint i = 0; i < _ids.length; i++) res[i] = balanceOf(_owners[i], _ids[i]);\n    }\n\n    function safeTransferFrom(address _from, address _to, uint _id, uint _value, bytes calldata _data) public {\n        require(_id == 1 && _value <= 1 && _from == owner && _to != address(0));\n        require(_from == msg.sender || isApprovedForAll[_from][msg.sender]);\n        emit TransferSingle(msg.sender, _from, _to, _id, _value);\n        if (_value == 1) owner = _to;\n        if (_to.code.length > 0) {\n            (bool ok, bytes memory retdata) = _to.call(abi.encodeWithSelector(0xf23a6e61, msg.sender, _from, _id, _value, _data));\n            require(ok && abi.decode(retdata, (bytes4)) == 0xf23a6e61);\n        }\n    }\n\n    function safeBatchTransferFrom(address _from, address _to, uint[] calldata _ids, uint[] calldata _values, bytes calldata _data) public {\n        require(_ids.length == _values.length);\n        for (uint i = 0; i < _ids.length; i++) safeTransferFrom(_from, _to, _ids[i], _values[i], _data);\n    }\n\n    function setApprovalForAll(address _operator, bool _approved) public {\n        isApprovedForAll[msg.sender][_operator] = _approved;\n        emit ApprovalForAll(msg.sender, _operator, _approved);\n    }\n}\n"
+        }
+      },
+      "settings": {
+        "optimizer": {
+          "enabled": true,
+          "runs": 200
+        },
+        "outputSelection": {
+          "*": {
+            "*": [
+              "abi",
+              "evm.bytecode",
+              "evm.deployedBytecode",
+              "evm.methodIdentifiers",
+              "metadata"
+            ],
+            "": [
+              "ast"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "address": "0x07925fbd9a9bad7f7ccad02353d0fe24b99aabb2",
+  "type": "ERC721",
+  "name": "Blocktime Buddies",
+  "tokenCount": "1243",
+  "uri": "https://raw.githubusercontent.com/icinsight/buddies/main/json/1",
+  "metadata": {
+    "description": "This token is the number one (1) in the series.\n\n\n\n",
+    "external_url": "https://blocktimebuddies.com/",
+    "image": "https://raw.githubusercontent.com/icinsight/buddies/main/images/1.png",
+    "name": "Penguins 1/00",
+    "properties": [
+      [
+        {
+          "key": "edition",
+          "value": 1,
+          "type": "string"
+        },
+        {
+          "key": "is_rare",
+          "value": false,
+          "type": "string"
+        },
+        {
+          "key": "rarity_class",
+          "value": "Unlimited",
+          "type": "string"
+        },
+        {
+          "key": "hard_cap",
+          "value": 1000000,
+          "type": "integer"
+        },
+        {
+          "key": "tokens_minted",
+          "value": 71,
+          "type": "integer"
+        }
+      ]
+    ],
+    "attributes": [
+      {
+        "trait_type": "edition",
+        "value": 1
+      },
+      {
+        "trait_type": "is_rare",
+        "value": false
+      },
+      {
+        "trait_type": "rarity_class",
+        "value": "Unlimited"
+      },
+      {
+        "trait_type": "hard_cap",
+        "value": 1000000
+      },
+      {
+        "trait_type": "token_number",
+        "value": 1
+      },
+      {
+        "trait_type": "status",
+        "value": "First"
+      },
+      {
+        "trait_type": "type",
+        "value": "Penguins"
+      },
+      {
+        "trait_type": "birthday",
+        "value": "Oct-27-2019"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "rarity_%",
+        "value": 0
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "odds_boost_%",
+        "value": 100
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "budding",
+        "value": 31
+      },
+      {
+        "display_type": "number",
+        "trait_type": "supply_minted_%",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 1
+      }
+    ],
+    "token_metadata": [
+      {
+        "token_id": 1
+      },
+      {
+        "mint_price": 0
+      },
+      {
+        "mint_unixtime": 1572211701
+      },
+      {
+        "mint_datetime": "2019-10-27 21:28:21"
+      },
+      {
+        "token_text": "Delightful conscience, inviting dark colours, beautiful awareness."
+      },
+      {
+        "token_hash": "0x1d2f73fc9725645313cd9eeaead560647be231f83ebe793e0b143fd9c2ab6900"
+      },
+      {
+        "token_rand": 1130988675754240
+      },
+      {
+        "token_first_owner": "0x478F2101CB714AD0eeCc4D4dbcc4C1b07a9C6d93"
+      },
+      {
+        "token_birthday": "Oct-27-2019"
+      },
+      {
+        "type_id": 6
+      },
+      {
+        "type_name": "Penguins"
+      },
+      {
+        "type_rare": false
+      },
+      {
+        "type_cap": 1000000
+      },
+      {
+        "type_minted": 71
+      },
+      {
+        "budding": 31
+      }
+    ]
+  }
+}

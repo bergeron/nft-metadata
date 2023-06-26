@@ -1,0 +1,51 @@
+{
+  "address": "0x108bcffe13059ea9f148d6395badc05abf3c0a1a",
+  "type": "ERC721",
+  "name": "robotstown.wtf",
+  "tokenCount": "4444",
+  "uri": "https://api.robotstown.wtf/1.json",
+  "metadata": {
+    "name": "Robot #1",
+    "description": "0101011101100101001000000110000101110010011001010010000001010010011011110110001001101111011101000101010001101111011101110110111000100000",
+    "image": "https://api.robotstown.wtf/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "earth back"
+      },
+      {
+        "trait_type": "Body",
+        "value": "body gray white"
+      },
+      {
+        "trait_type": "Shadow",
+        "value": "shadow blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "gold eyes"
+      },
+      {
+        "trait_type": "Head",
+        "value": "palp dark"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "neon"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "empty"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "gray blue hand"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "ears gray"
+      }
+    ],
+    "compiler": "https://startnft.app"
+  }
+}

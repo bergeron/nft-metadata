@@ -1,0 +1,30 @@
+{
+  "address": "0x8a41ded90481367fbf1323f75c88328256ef1f68",
+  "type": "ERC721",
+  "name": "NPCs for Adventurers",
+  "tokenCount": "2",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIk5QQyAjMSIsICJkZXNjcmlwdGlvbiI6ICJOUENzIGFyZSByYW5kb20gb25jaGFpbiBjaGFyYWN0ZXJzIHdpdGggc3RvcmllcyB0byB0ZWxsIGZvciBMb290ICYgeExvb3QgQWR2ZW50dXJlcnMiLCAiYXR0cmlidXRlcyI6IFt7InRyYWl0X3R5cGUiOiAiTG9jYXRpb24iLCJ2YWx1ZSI6ICJSb3lhbCBWYWxlIn0sIHsidHJhaXRfdHlwZSI6ICJPdXRmaXQiLCJ2YWx1ZSI6ICJTb21lb25lJ3MgZmF2b3JpdGUgc2xpcHBlcnMifSwgeyJ0cmFpdF90eXBlIjogIkF0dGl0dWRlIiwidmFsdWUiOiAiQmxpc3NmdWwifSwgeyJ0cmFpdF90eXBlIjogIlNlY3JldCIsInZhbHVlIjogIkluIGxvdmUgd2l0aCB0aGUgcXVlZW4ifV0sICJpbWFnZSI6ICJkYXRhOmltYWdlL3N2Zyt4bWw7YmFzZTY0LFBITjJaeUI0Yld4dWN6MGlhSFIwY0RvdkwzZDNkeTUzTXk1dmNtY3ZNakF3TUM5emRtY2lJSEJ5WlhObGNuWmxRWE53WldOMFVtRjBhVzg5SW5oTmFXNVpUV2x1SUcxbFpYUWlJSFpwWlhkQ2IzZzlJakFnTUNBek5UQWdNelV3SWo0OGMzUjViR1UrTG1KaGMyVWdleUJtYVd4c09pQjNhR2wwWlRzZ1ptOXVkQzFtWVcxcGJIazZJSE5sY21sbU95Qm1iMjUwTFhOcGVtVTZJREUwY0hnN0lIMDhMM04wZVd4bFBqeHlaV04wSUhkcFpIUm9QU0l4TURBbElpQm9aV2xuYUhROUlqRXdNQ1VpSUdacGJHdzlJbUpzWVdOcklpQXZQangwWlhoMElIZzlJakV3SWlCNVBTSXlNQ0lnWTJ4aGMzTTlJbUpoYzJVaVBsSnZlV0ZzSUZaaGJHVThMM1JsZUhRK1BIUmxlSFFnZUQwaU1UQWlJSGs5SWpRd0lpQmpiR0Z6Y3owaVltRnpaU0krVTI5dFpXOXVaU2R6SUdaaGRtOXlhWFJsSUhOc2FYQndaWEp6UEM5MFpYaDBQangwWlhoMElIZzlJakV3SWlCNVBTSTJNQ0lnWTJ4aGMzTTlJbUpoYzJVaVBrSnNhWE56Wm5Wc1BDOTBaWGgwUGp4MFpYaDBJSGc5SWpFd0lpQjVQU0k0TUNJZ1kyeGhjM005SW1KaGMyVWlQa2xqWldacGNtVWdRM0psWVcwZ2IyWWdRV05vWlMxeVpXUjFZM1JwYjI0OEwzUmxlSFErUEhSbGVIUWdlRDBpTVRBaUlIazlJakV3TUNJZ1kyeGhjM005SW1KaGMyVWlQa1ZuWnlBb2NtRjNLVHd2ZEdWNGRENDhkR1Y0ZENCNFBTSXhNQ0lnZVQwaU1USXdJaUJqYkdGemN6MGlZbUZ6WlNJK1EyRjBjend2ZEdWNGRENDhkR1Y0ZENCNFBTSXhNQ0lnZVQwaU1UUXdJaUJqYkdGemN6MGlZbUZ6WlNJK1NXNGdiRzkyWlNCM2FYUm9JSFJvWlNCeGRXVmxiand2ZEdWNGRENDhkR1Y0ZENCNFBTSXhNQ0lnZVQwaU1UWXdJaUJqYkdGemN6MGlZbUZ6WlNJK1MyNWhkbWx6YUR3dmRHVjRkRDQ4TDNOMlp6ND0ifQ==",
+  "metadata": {
+    "name": "NPC #1",
+    "description": "NPCs are random onchain characters with stories to tell for Loot & xLoot Adventurers",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Royal Vale"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Someone's favorite slippers"
+      },
+      {
+        "trait_type": "Attitude",
+        "value": "Blissful"
+      },
+      {
+        "trait_type": "Secret",
+        "value": "In love with the queen"
+      }
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaW5ZTWluIG1lZXQiIHZpZXdCb3g9IjAgMCAzNTAgMzUwIj48c3R5bGU+LmJhc2UgeyBmaWxsOiB3aGl0ZTsgZm9udC1mYW1pbHk6IHNlcmlmOyBmb250LXNpemU6IDE0cHg7IH08L3N0eWxlPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9ImJsYWNrIiAvPjx0ZXh0IHg9IjEwIiB5PSIyMCIgY2xhc3M9ImJhc2UiPlJveWFsIFZhbGU8L3RleHQ+PHRleHQgeD0iMTAiIHk9IjQwIiBjbGFzcz0iYmFzZSI+U29tZW9uZSdzIGZhdm9yaXRlIHNsaXBwZXJzPC90ZXh0Pjx0ZXh0IHg9IjEwIiB5PSI2MCIgY2xhc3M9ImJhc2UiPkJsaXNzZnVsPC90ZXh0Pjx0ZXh0IHg9IjEwIiB5PSI4MCIgY2xhc3M9ImJhc2UiPkljZWZpcmUgQ3JlYW0gb2YgQWNoZS1yZWR1Y3Rpb248L3RleHQ+PHRleHQgeD0iMTAiIHk9IjEwMCIgY2xhc3M9ImJhc2UiPkVnZyAocmF3KTwvdGV4dD48dGV4dCB4PSIxMCIgeT0iMTIwIiBjbGFzcz0iYmFzZSI+Q2F0czwvdGV4dD48dGV4dCB4PSIxMCIgeT0iMTQwIiBjbGFzcz0iYmFzZSI+SW4gbG92ZSB3aXRoIHRoZSBxdWVlbjwvdGV4dD48dGV4dCB4PSIxMCIgeT0iMTYwIiBjbGFzcz0iYmFzZSI+S25hdmlzaDwvdGV4dD48L3N2Zz4="
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "address": "0xd2897a406a83d92eb84284ceb121968ccf629ff0",
+  "type": "ERC1155",
+  "name": "KOTEGAWA CARDS",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/TYluvlbS8vdDitqZ5KRGbzXnbIDcOfVvlNRDVFLwMqk",
+  "metadata": {
+    "name": "CARD #1",
+    "created_by": "HIROJI KOTEGAWA",
+    "external_url": "https://kotegawa.cards/",
+    "description": "KOTEGAWA CARDS\n\ncards from a [dystopian] future",
+    "attributes": [
+      {
+        "trait_type": "artist",
+        "value": "hiroji kotegawa"
+      },
+      {
+        "trait_type": "card",
+        "value": "1"
+      },
+      {
+        "trait_type": "type",
+        "value": "advertisement"
+      }
+    ],
+    "animation_details": {
+      "bytes": 12280056,
+      "format": "MP4",
+      "duration": 9,
+      "sha256": "33b5d8eb71b3d83315c1441815e4ad5115f50660af009ec99f11d04559ac74ec",
+      "width": 1080,
+      "height": 1440,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/m3an_wN6G6GABfUtE0Dyyg7bDSAZspEaq9jv7dNwkzw",
+    "animation_url": "https://arweave.net/m3an_wN6G6GABfUtE0Dyyg7bDSAZspEaq9jv7dNwkzw",
+    "image_details": {
+      "bytes": 6921810,
+      "format": "GIF",
+      "sha256": "7c24de265e3c9bbd2570567f5ff2b73ceb5ccbf8ad461bf5cbc330e2eedc2523",
+      "width": 600,
+      "height": 800
+    },
+    "image": "https://arweave.net/77Bbik22y2IloYxEr7e5ewfFEKIyMUBgwR_9LNOZku0",
+    "image_url": "https://arweave.net/77Bbik22y2IloYxEr7e5ewfFEKIyMUBgwR_9LNOZku0"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "address": "0x6c5a6f6ea11c6db6331ad3874b3c931cb3047e29",
+  "type": "ERC721",
+  "name": "BurgerBurger",
+  "tokenCount": "2074",
+  "uri": "ipfs://bafybeihll7ynwl53jkn2qkzbhovke4thqb6vni2rsm4u46brjyhmyni3hy/1.json",
+  "metadata": {
+    "name": "Burger #1",
+    "description": "5,000 burgers living on the ethereum blockchain.",
+    "external_url": "",
+    "image": "ipfs://bafybeie7ybijk42w5d6yfj6vup4gor6fpw2rog3llgg7anoruq7znrcc54/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Arcturus"
+      },
+      {
+        "trait_type": "Burger Body",
+        "value": "Regular burger"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Purple Hawk"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "red 3d glasses "
+      },
+      {
+        "trait_type": "Left Hand",
+        "value": "foodie taco"
+      },
+      {
+        "trait_type": "Right Hand",
+        "value": "foodie sushi"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

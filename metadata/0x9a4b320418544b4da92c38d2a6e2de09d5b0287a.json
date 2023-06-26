@@ -1,0 +1,49 @@
+{
+  "address": "0x9a4b320418544b4da92c38d2a6e2de09d5b0287a",
+  "type": "ERC721",
+  "name": "Babbys",
+  "tokenCount": "6666",
+  "uri": "https://api.babby.xyz/metadata/1",
+  "metadata": {
+    "name": "Babby #1",
+    "description": "From deep within the bowels of the Disco Dungeon, here he comes. It's Babby! He *loves* to dance. The world is burning. Why don't you hold me closer? Eternal sculpture.",
+    "image": "https://api.babby.xyz/image/1",
+    "video": "",
+    "glb": "https://api.babby.xyz/file/1",
+    "attributes": [
+      {
+        "trait_type": "Body",
+        "value": "Original"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Striped Sweater"
+      },
+      {
+        "trait_type": "Bottom",
+        "value": "Wide Jeans"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Pooch"
+      },
+      {
+        "trait_type": "Feet",
+        "value": "Sheepskin"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Tambourine"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Speedy"
+      },
+      {
+        "trait_type": "Face",
+        "value": null
+      }
+    ],
+    "animation_url": "https://babby.xyz/viewer/#model=1"
+  }
+}

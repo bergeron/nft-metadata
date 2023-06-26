@@ -1,0 +1,42 @@
+{
+  "address": "0x89219d99bf26f89d507e26a230180b8bddce5aaf",
+  "type": "ERC721",
+  "name": "DUBEMA NFT - old V2",
+  "tokenCount": "20",
+  "uri": "ipfs://QmQ2oXh4LgBfG4uUJ463erud6mkELXeKERAbrK6G4GiHer/1.json",
+  "metadata": {
+    "name": "Dubema #1",
+    "description": "Dubema is a character who has had part of his soul taken away and filled with artificial needs.",
+    "image": "ipfs://QmZxXcQvMyWuS1VVbnMs8Y8cCaEUvNrmyUydmrVspT43n7/1.png",
+    "dna": "249607d464accd5fe5b9d92ec8097c51c98aa540",
+    "edition": 1,
+    "date": 1659777165198,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Camouflage"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Dubema jacket"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Indifferent"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cookies with milk"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Chamomile in the teeth"
+      }
+    ],
+    "compiler": "https://twitter.com/CartoonDubema"
+  }
+}

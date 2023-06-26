@@ -1,0 +1,53 @@
+{
+  "address": "0xfff46beea0dca55cc6bf39ec48e559160191093e",
+  "type": "ERC721",
+  "name": "Derpy Apes",
+  "tokenCount": "3710",
+  "uri": "ipfs://QmVEXVBMFoZ19AsaSj8zW1bfQyjhyj5VtAbG4VZ2YzA3jk/1.json",
+  "metadata": {
+    "name": "Derpy Ape #1",
+    "description": "A creative collection of 7777 apes, derping out on the Ethereum blockchain. Each Derpy Ape boasts a unique combination of hand-drawn traits, and grants access to a host of utilities. Our project was envision and built by NYC natives, and is ran by our community of dedicated holders. Holding a Derpy Ape gives you access to exclusive events, merch and contests, and places you into a one-of-a-kind community.",
+    "external_url": "",
+    "image": "ipfs://QmczGhk8GKwSqw8fjQSLswdJDH33cSHpz46cAwDGcwwjgq/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Ape",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Abstract Tee"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Piggy"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smiley Eyes"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Derpy Apes",
+      "family": "Derpy Apes"
+    },
+    "symbol": ""
+  }
+}

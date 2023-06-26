@@ -1,0 +1,53 @@
+{
+  "address": "0xe4e36d8560936c0e878e8f9b30d18e559ba9a0c0",
+  "type": "ERC721",
+  "name": "Tetrahedra",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/Umr_ZdGgbHHPU0IrY0U7Gd4l5jHcs9WvaYS4PN0CTfk",
+  "metadata": {
+    "name": "Mycelium Network",
+    "created_by": "Tetrahedra",
+    "description": "\"Mycelium Network\" - Procedural Art Piece\n\n(1/1)",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Tetrahedra"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Elements"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Earth"
+      },
+      {
+        "trait_type": "Artwork Name",
+        "value": "'Mycelium Network'"
+      }
+    ],
+    "animation_details": {
+      "bytes": 149339602,
+      "format": "MP4",
+      "duration": 20,
+      "sha256": "a1e1b118c0c3e0c193516b356c6b900efa0b165dccbb8e6965ac0db0741e76b2",
+      "width": 2160,
+      "height": 2160,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/s8I8CMrA6BKtJp7JtG5dNkqpdfF7bJhnkVCuDio_vWA",
+    "animation_url": "https://arweave.net/s8I8CMrA6BKtJp7JtG5dNkqpdfF7bJhnkVCuDio_vWA",
+    "image_details": {
+      "bytes": 18718168,
+      "format": "PNG",
+      "sha256": "cb9afef87ad32300e2606ad971ac3fa6681043388e92bf033fd99bb68ef85dbf",
+      "width": 4000,
+      "height": 4000
+    },
+    "image": "https://arweave.net/3husBn15dwVSr64ZgW13gP6mRYA4oSK9DYFpDS1ggtY",
+    "image_url": "https://arweave.net/3husBn15dwVSr64ZgW13gP6mRYA4oSK9DYFpDS1ggtY"
+  }
+}

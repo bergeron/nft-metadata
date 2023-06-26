@@ -1,0 +1,20 @@
+{
+  "address": "0x74cab08cdebf88d400f3c3b46c0bcaa7b2e8ca27",
+  "type": "ERC721",
+  "name": "Zodiac Talismans",
+  "tokenCount": "70",
+  "uri": "https://zodiactalismans.com/api/metadata/talismans/1",
+  "metadata": {
+    "name": "Rat Talisman",
+    "description": "Humble Beginning",
+    "image": "https://zodiactalismans.com/images/Chinese-Rat-Shale-Grey-640.png",
+    "attributes": {
+      "animal": "Rat",
+      "talisman_style_id": 1010,
+      "talisman_style": "Shale Grey",
+      "saga": "Chapter 0",
+      "rarity": "Common",
+      "max_quantity": 4096
+    }
+  }
+}

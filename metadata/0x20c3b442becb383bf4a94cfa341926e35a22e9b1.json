@@ -1,0 +1,42 @@
+{
+  "address": "0x20c3b442becb383bf4a94cfa341926e35a22e9b1",
+  "type": "ERC721",
+  "name": "Etherball",
+  "tokenCount": "2015",
+  "uri": "ipfs://QmVRFMVdhBZMxapNXuto8rKAL4HqeSa7Qez8Mfj7vNkzUA/2.json",
+  "metadata": {
+    "name": "Ether Ball #2",
+    "description": "Etherball Ticket",
+    "image": "ipfs://QmVyLF67S8UJdarVDEFRvAjKsE5s1xM5GEF19TmUEBkDMi/2.png",
+    "dna": "d950f8b932d3fb2a527c2bee0870ad877c0cdbf4",
+    "edition": 2,
+    "date": 1655063077935,
+    "attributes": [
+      {
+        "trait_type": "Ticket",
+        "value": "IMG_0147"
+      },
+      {
+        "trait_type": "Slot 1",
+        "value": "9"
+      },
+      {
+        "trait_type": "Slot 2",
+        "value": "4"
+      },
+      {
+        "trait_type": "Slot 3",
+        "value": "2"
+      },
+      {
+        "trait_type": "Slot 4",
+        "value": "8"
+      },
+      {
+        "trait_type": "Slot 5",
+        "value": "9"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

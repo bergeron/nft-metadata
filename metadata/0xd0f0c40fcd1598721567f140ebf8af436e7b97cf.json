@@ -1,0 +1,28 @@
+{
+  "address": "0xd0f0c40fcd1598721567f140ebf8af436e7b97cf",
+  "type": "ERC721",
+  "name": "Jadu Jetpack",
+  "tokenCount": "1111",
+  "uri": "https://us-east1-jadu-e23c4.cloudfunctions.net/getJetPack?tokenId=1",
+  "metadata": {
+    "description": "Fly in Augmented Reality & Wear in Virtual Worlds with Dark Mode.",
+    "name": "Jetpack 1",
+    "attributes": [
+      {
+        "value": "Pro",
+        "trait_type": "TYPE"
+      },
+      {
+        "value": "Black",
+        "trait_type": "COLOR"
+      },
+      {
+        "value": "Original",
+        "trait_type": "MODIFICATION"
+      }
+    ],
+    "background_color": "#000000",
+    "image": "https://gateway.pinata.cloud/ipfs/QmXZB6z8Hsc6nqAhgUAAdB1RkXtaZp3WKvabWeUDadLFfR/Jetpack_Pro.png",
+    "animation_url": "https://gateway.pinata.cloud/ipfs/QmXZB6z8Hsc6nqAhgUAAdB1RkXtaZp3WKvabWeUDadLFfR/Jetpack_Pro.glb"
+  }
+}

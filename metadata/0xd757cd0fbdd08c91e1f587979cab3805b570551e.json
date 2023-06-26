@@ -1,0 +1,207 @@
+{
+  "address": "0xd757cd0fbdd08c91e1f587979cab3805b570551e",
+  "type": "ERC721",
+  "name": "VOIDED - Gero in Training",
+  "tokenCount": "88",
+  "uri": "ipfs://QmapaXAFiRXhX7cj8yGa82VRfpu2dzkUpSYKm4sJyG8sja\n",
+  "metadata": {
+    "name": "Gero in Training No. 2",
+    "description": "For his first-ever NFT collection, music industry heavyweight James Fauntleroy chose to go about it much the same way he does with his songs: by building complete worlds in his mind. In this particular instance, a three-eyed frog named Gero is the main character, supported by his motley cast of amphibians. In training for what? You'll have to wait and see.",
+    "image": "ipfs://QmXBJn8ow64v6Kea8TjvMfnL3sf9MkPHd1PEx9spqpfQbL",
+    "external_url": "https://collectible.sweet.io/series/1235/2",
+    "uri": "https://collectible.sweet.io/series/1235/2",
+    "uri_sha256": "OUufrv98OcWMKmvuf07UE9HIZCca_rHT-iOed4G4rXc=",
+    "extended_metadata": {
+      "creator": {
+        "name": "SocialSweet Inc.",
+        "uri": "https://sweet.io"
+      },
+      "rights_info": {
+        "copyright_holder": "SocialSweet Inc.",
+        "copyright_notice": "(c) Copyright 2022 SocialSweet Inc., all rights reserved",
+        "terms_and_conditions": {
+          "url": "https://collectible.sweet.io/static/terms-and-conditions-mar2021.txt",
+          "sha256": "an7cc_0l4AOoHzgqFA_n5irW8PKRVrDaHXRsxTguNQE="
+        }
+      },
+      "name": "Gero in Training No. 2",
+      "issued": "2022-02-13T21:58:20.763118",
+      "series": {
+        "display_meta": {
+          "genre": "music",
+          "name": "Gero in Training",
+          "color": "#D0BC86",
+          "metalness": 0.5,
+          "roughness": 0.5,
+          "description": "For his first-ever NFT collection, music industry heavyweight James Fauntleroy chose to go about it much the same way he does with his songs: by building complete worlds in his mind. In this particular instance, a three-eyed frog named Gero is the main character, supported by his motley cast of amphibians. In training for what? You'll have to wait and see.",
+          "type": "video",
+          "print_sequence_number_on_image": false,
+          "creator_campaign_id": 811,
+          "rarity": {
+            "name": "Tier 5",
+            "rank": 5
+          },
+          "creator_campaign": {
+            "campaign_id": 811,
+            "name": "Red NVLPE",
+            "description": "Red NVLPE",
+            "client": {
+              "name": "Red NVLPE",
+              "company": "Red NVLPE"
+            }
+          }
+        },
+        "total_number": 88,
+        "uri": "https://collectible.sweet.io/series/1235"
+      },
+      "fees": [
+        {
+          "basis_points": 1000,
+          "recipient_address": "0xE360fA650165Ad9a18Efb9E43965980EcBb21322",
+          "type": "seller-fee"
+        }
+      ],
+      "type": "erc721",
+      "network": "ethereum",
+      "uri": "https://collectible.sweet.io/series/1235/2",
+      "assets": {
+        "front_image": {
+          "url": "https://collectible.sweet.io/series/1235/image-front.jpg",
+          "sha256": "tCy8_7Vs1bReN5A_zdnHkl_I6hhdYfxUE4nSk6EEvs8=",
+          "altloc": {
+            "ipfs": "ipfs://QmVQFFm2Wzwpv4jZ1datAzQirX5tH6T7u7wqDj3GJ9Grgo"
+          },
+          "content-type": "image/jpeg"
+        },
+        "reverse_image": null,
+        "media": [
+          {
+            "uri": "https://mediagateway.sweet.io/media/token/aKR95aRd/24/media.mp4",
+            "sha256": "TAfux_udPCKnbuQkPZvp8Fph1LfXh3Fj2XPrvv3x6ws=",
+            "altloc": {
+              "ipfs": "ipfs://QmRFdXesUESv9ZGkCRJYeSWFmqkZU5rVEeVCYPy7s7N2h6"
+            },
+            "content-type": "video/mp4",
+            "gateway": "https://mediagateway.sweet.io/gateway/token/aKR95aRd/24/media.mp4",
+            "purpose": "primary-asset"
+          }
+        ]
+      },
+      "images": {
+        "front": {
+          "url": "https://collectible.sweet.io/series/1235/images/front.png",
+          "width": 1024,
+          "height": 1024,
+          "sha256": "CMTNfApkNRrED4NpcBSPNlWYFSL8JTyW4tWt1hTvXfM=",
+          "altloc": {
+            "ipfs": "ipfs://QmdmbmdD8L9RQVPYsjkD3DzTZuKQYGJ7DoQZxtzjZt4Kbi"
+          },
+          "content-type": "image/png"
+        }
+      },
+      "sequence_number": 2,
+      "image": {
+        "url": "https://collectible.sweet.io/series/1235/images/front.png",
+        "width": 1024,
+        "height": 1024,
+        "sha256": "CMTNfApkNRrED4NpcBSPNlWYFSL8JTyW4tWt1hTvXfM=",
+        "altloc": {
+          "ipfs": "ipfs://QmdmbmdD8L9RQVPYsjkD3DzTZuKQYGJ7DoQZxtzjZt4Kbi"
+        },
+        "content-type": "image/png",
+        "thumbnail": {
+          "350": {
+            "url": "https://collectible.sweet.io/series/1235/images/front-350x.png",
+            "width": 350,
+            "height": 350,
+            "sha256": "svkT6IIdSa7cR-wHh3bJrxcOJFknrYIYGfmEUju5LEk=",
+            "altloc": {
+              "ipfs": "ipfs://QmPQyt5DoN6BAvhaoyzdcMUdPMsDf2S3g6f7tUy3WyxHff"
+            },
+            "content-type": "image/png"
+          },
+          "500": {
+            "url": "https://collectible.sweet.io/series/1235/images/front-500x.png",
+            "width": 500,
+            "height": 499,
+            "sha256": "Yrgm1DeWDIRT6Tp96L7ckbABtAKosP5E1yLSZkmd_-I=",
+            "altloc": {
+              "ipfs": "ipfs://QmcMwiVxzxsWrV9AmZh7rPhzd4kM9NjabfRysUWE3wceYj"
+            },
+            "content-type": "image/png"
+          }
+        }
+      },
+      "attributes": [
+        {
+          "name": "Background",
+          "value": "White"
+        },
+        {
+          "name": "Body Color",
+          "value": "Heather Gray"
+        },
+        {
+          "name": "Body Print",
+          "value": "Filled"
+        },
+        {
+          "name": "Eye Color",
+          "value": "Standard"
+        },
+        {
+          "name": "Figure",
+          "value": "Gero"
+        },
+        {
+          "name": "Gate",
+          "value": "Heather Gray"
+        },
+        {
+          "name": "Music",
+          "value": "Drums"
+        },
+        {
+          "name": "Water",
+          "value": "Heather Gray"
+        }
+      ]
+    },
+    "sequence_number": 2,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Body Color",
+        "value": "Heather Gray"
+      },
+      {
+        "trait_type": "Body Print",
+        "value": "Filled"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Figure",
+        "value": "Gero"
+      },
+      {
+        "trait_type": "Gate",
+        "value": "Heather Gray"
+      },
+      {
+        "trait_type": "Music",
+        "value": "Drums"
+      },
+      {
+        "trait_type": "Water",
+        "value": "Heather Gray"
+      }
+    ],
+    "animation_url": "ipfs://QmRFdXesUESv9ZGkCRJYeSWFmqkZU5rVEeVCYPy7s7N2h6"
+  }
+}

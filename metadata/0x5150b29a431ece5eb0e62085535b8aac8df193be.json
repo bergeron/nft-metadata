@@ -1,0 +1,22 @@
+{
+  "address": "0x5150b29a431ece5eb0e62085535b8aac8df193be",
+  "type": "ERC1155",
+  "name": "Delicious chocolate cake",
+  "tokenCount": "22",
+  "uri": "ipfs://bafybeihln3yupfydqazoi24pcuipjdowvyiams4qyv2olq3m5i7mp227fa/1.json",
+  "metadata": {
+    "name": "Slice of cake",
+    "description": "A slice of cake on its side.",
+    "image": "ipfs://bafybeigsvuiybv4wn6cgmg7e7f65hcse3cpeqymflzw76dpgjr67mld4iu/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Chocolate"
+      },
+      {
+        "trait_type": "Position",
+        "value": "On the side"
+      }
+    ]
+  }
+}

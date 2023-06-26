@@ -1,0 +1,38 @@
+{
+  "address": "0x307849b04c1edde559ba9880a592fd3981cb3b10",
+  "type": "ERC1155",
+  "name": "MADZ PASS",
+  "tokenCount": "1",
+  "uri": "https://nft-cdn.madz.wtf/metadata/pass/1.json",
+  "metadata": {
+    "name": "MADZ PASS",
+    "created_by": "MADZ",
+    "external_url": "https://madz.wtf",
+    "description": "MAD PASS Collection - The key to redeem the MADZ Avatar.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "MADZ"
+      }
+    ],
+    "image_details": {
+      "format": "PNG",
+      "width": 326,
+      "height": 490
+    },
+    "image": "https://nft-cdn.madz.wtf/media/mint_helmet.png",
+    "image_url": "https://nft-cdn.madz.wtf/media/mint_helmet.png",
+    "animation_details": {
+      "format": "MP4",
+      "duration": 19,
+      "width": 720,
+      "height": 1280,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://nft-cdn.madz.wtf/media/madpass.mp4",
+    "animation_url": "https://nft-cdn.madz.wtf/media/madpass.mp4"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "address": "0x78b1d16dba0bd415fd8a9649171a1975642b380a",
+  "type": "ERC721",
+  "name": "Eloms",
+  "tokenCount": "4420",
+  "uri": "https://elomsmetadata.s3.us-east-2.amazonaws.com/json/1",
+  "metadata": {
+    "name": "Eloms #1",
+    "description": "Welcome to the world of the Eloms. Looks a little bit like someone else you may know. Maybe.",
+    "image": "https://s3.us-east-2.amazonaws.com/elomsmetadata/img/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BG17"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "C23"
+      },
+      {
+        "trait_type": "Head",
+        "value": "H24"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M6"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "E16"
+      }
+    ]
+  }
+}

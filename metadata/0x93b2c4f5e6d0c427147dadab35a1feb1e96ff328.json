@@ -1,0 +1,32 @@
+{
+  "address": "0x93b2c4f5e6d0c427147dadab35a1feb1e96ff328",
+  "type": "ERC721",
+  "name": "Arbor Fusion Project Dragon Collection",
+  "tokenCount": "1200",
+  "uri": "ipfs://QmViwnU5Xtw8uaeM6NZyaMqHV6GbZDakLfyoyvutzrYzMS/1.json",
+  "metadata": {
+    "name": "Arbor Fusion Project - Dragon Collection #1",
+    "description": "Various trees fused with different types of dragons.",
+    "image": "ipfs://QmfG4SLf3nHv7peQt8sd7iepT2exmXWtoPctj25Ch65ZyB/1.png",
+    "attributes": [
+      {
+        "trait_type": "Dragon Type",
+        "value": "Standard Western"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Dragon Collection"
+      },
+      {
+        "trait_type": "Tree",
+        "value": "American Beech Tree"
+      }
+    ],
+    "custom_fields": {
+      "dna": "29e2dcfbb16f63bb0254df7585a15bb6fb5e927d",
+      "edition": 1,
+      "date": 1654947733998
+    },
+    "external_url": "https://arborfusionproject.com"
+  }
+}

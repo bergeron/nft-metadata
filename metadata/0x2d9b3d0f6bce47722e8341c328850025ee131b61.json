@@ -1,0 +1,82 @@
+{
+  "address": "0x2d9b3d0f6bce47722e8341c328850025ee131b61",
+  "type": "ERC721",
+  "name": "1210lksajdfweqr",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/108000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "108000001",
+    "series": "N/A",
+    "aspect_ratio": 0.714286,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Divisions #1",
+    "minted": true,
+    "artist": "Michael Connolly",
+    "description": "Divisions creates playful abstract compositions that can go all the way up to eleven.",
+    "script_type": "p5@1.0.0",
+    "project_id": "108",
+    "curation_status": "presents",
+    "heritage_curation_status": "playground",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/108000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/108000001.png",
+    "generator_url": "https://generator.artblocks.io/108000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/108000001",
+    "royaltyInfo": {
+      "artistAddress": "0xf92bb2215684c353b4009395061ee7652883c365",
+      "additionalPayee": "0xa7f65175cb6c300eef56416e2189b138c67247bb",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Divisions by Michael Connolly",
+    "website": "https://linktr.ee/_mconnolly_",
+    "token_hash": "0x1879377500a484966e3d0c2541cfac6bed4575836e612653916d1446729ad8eb",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/108/tokens/108000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/108000001",
+    "features": {
+      "Slice": "Random",
+      "Style": "Macro",
+      "Border": "No",
+      "Palette": "Toucan",
+      "Divisions": "50%",
+      "Recursion": "Mid",
+      "Decoration": "Auguste"
+    },
+    "traits": [
+      {
+        "trait_type": "Divisions",
+        "value": "All Divisions"
+      },
+      {
+        "trait_type": "Divisions",
+        "value": "Slice: Random"
+      },
+      {
+        "trait_type": "Divisions",
+        "value": "Style: Macro"
+      },
+      {
+        "trait_type": "Divisions",
+        "value": "Border: No"
+      },
+      {
+        "trait_type": "Divisions",
+        "value": "Palette: Toucan"
+      },
+      {
+        "trait_type": "Divisions",
+        "value": "Divisions: 50%"
+      },
+      {
+        "trait_type": "Divisions",
+        "value": "Recursion: Mid"
+      },
+      {
+        "trait_type": "Divisions",
+        "value": "Decoration: Auguste"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

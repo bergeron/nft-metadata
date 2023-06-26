@@ -1,0 +1,44 @@
+{
+  "address": "0x64a68e9d4a22cbc65b50ce05de65e86e91088380",
+  "type": "ERC721",
+  "name": "Sassy Succulents",
+  "tokenCount": "30",
+  "uri": "https://sassy-succulents-co.vercel.app/api/1",
+  "metadata": {
+    "name": "#1",
+    "description": "SassySucculentsCo is a charity oriented project focussed on giving to those who need it most",
+    "tokenId": 1,
+    "image": "https://gateway.pinata.cloud/ipfs/QmUmPJYr2qWPMS6Noxa6dnQAGSfaukoharJvq5VK4eFihP",
+    "external_url": "https://www.sassysucculents.co",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Shooting Star"
+      },
+      {
+        "trait_type": "Plant",
+        "value": "Parodia"
+      },
+      {
+        "trait_type": "Pot",
+        "value": "Blues"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pretty"
+      },
+      {
+        "trait_type": "Pet",
+        "value": "Worm"
+      },
+      {
+        "trait_type": "Statue",
+        "value": "Dinosaur"
+      },
+      {
+        "trait_type": "Buddy",
+        "value": "String of Pearls"
+      }
+    ]
+  }
+}

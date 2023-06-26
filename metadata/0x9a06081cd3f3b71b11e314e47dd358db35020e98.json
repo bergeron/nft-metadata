@@ -1,0 +1,35 @@
+{
+  "address": "0x9a06081cd3f3b71b11e314e47dd358db35020e98",
+  "type": "ERC1155",
+  "name": "Phyzm",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/XMsXiSEVKoVkvSJKwEMGXHp_kzjLKhCgX70b1wY0ToY",
+  "metadata": {
+    "name": "Unbound",
+    "created_by": "Phyzm",
+    "description": "Phase 1",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "value": 1,
+        "max_value": 10
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Bonus Level",
+        "value": 100,
+        "max_value": 100
+      }
+    ],
+    "image_details": {
+      "bytes": 1171615,
+      "format": "JPEG",
+      "sha256": "fd81672ed86452d537844c1a44f38a0df3c98ed86a1e7931c2893cc507d32338",
+      "width": 1920,
+      "height": 1080
+    },
+    "image": "https://arweave.net/2G1HDFlNf2XZ80_0qFbnetIXAQRXX1o5FYxdmuZGHvE",
+    "image_url": "https://arweave.net/2G1HDFlNf2XZ80_0qFbnetIXAQRXX1o5FYxdmuZGHvE"
+  }
+}

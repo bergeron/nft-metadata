@@ -1,0 +1,50 @@
+{
+  "address": "0xa606517e836f690abebe1164abf2768290dd98fe",
+  "type": "ERC1155",
+  "name": "Gremplin's Mystery Guests",
+  "tokenCount": "21",
+  "uri": "ipfs://QmXxyoskPB3GoN7UzDFVnvPs932fQhmMxDuCzFfXRugpwB/1/token.json",
+  "metadata": {
+    "async-attributes": {
+      "artists": [
+        "0x4298e663517593284ad4fe199b21815bd48a9969"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "state": {
+                "label": "Jerry",
+                "uri": "QmQvKRm4truchy1cvA8LidfJ4NZjoEqqR4uYQG7GNEYPww"
+              },
+              "id": "Right Seat 3"
+            }
+          ]
+        }
+      ]
+    },
+    "name": "Jerry",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/image/upload/w_1200/v1678057360/0x4298e663517593284ad4fe199b21815bd48a9969/64051a90008d64b0b3d15d60/stateCovers/jtzq1da5uzdvqwi99b6p.png",
+    "description": "Awkward!\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "gremplin"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Right Seat 3"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "Gremplin's Mystery Guests"
+      }
+    ]
+  }
+}

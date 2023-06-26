@@ -1,0 +1,107 @@
+{
+  "address": "0x52a22e11cb6e2599d177fec046a9655682a02b14",
+  "type": "ERC721",
+  "name": "Procedural Space",
+  "tokenCount": "10000",
+  "uri": "https://procedural-space-api-no5soiptxq-km.a.run.app/metadata/1",
+  "metadata": {
+    "id": 1,
+    "name": "P-0001",
+    "description": "This planet is one of 10,000 procedurally generated assets. Discovered by the Genesis Probe, A vessel designed as a way to explore the procedural space and document all it passes on the Genesis Voyage.",
+    "external_url": "https://www.proceduralspace.net",
+    "image": "https://procedural-space-api-no5soiptxq-km.a.run.app/imagesUpgrade/1",
+    "attributes": [
+      {
+        "trait_type": "planet type",
+        "value": "Nominal"
+      },
+      {
+        "trait_type": "Craters",
+        "value": "DETECTED"
+      },
+      {
+        "trait_type": "Ravines",
+        "value": "DETECTED"
+      },
+      {
+        "trait_type": "Atmosphere",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "Clouds",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "Water",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "Rings",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "Moon",
+        "value": "NONE"
+      }
+    ],
+    "seed": "5662547527326857034",
+    "planetType": "nominal",
+    "craters": {
+      "location": "1.166",
+      "system_density_one": "0.674",
+      "system_density_two": "0.589"
+    },
+    "ravines": {
+      "location": "0.783",
+      "random": "5.984",
+      "depth": "0.200"
+    },
+    "landmass": {
+      "geology": "70.053",
+      "lower": {
+        "color_rgb": [
+          "0.043",
+          "0.024",
+          "0.036"
+        ],
+        "color_name_experimental": "black"
+      },
+      "middle": {
+        "color_rgb": [
+          "0.034",
+          "0.049",
+          "0.225"
+        ],
+        "color_name_experimental": "midnightblue"
+      },
+      "high": {
+        "color_rgb": [
+          "0.633",
+          "0.650",
+          "0.875"
+        ],
+        "color_name_experimental": "lightsteelblue"
+      },
+      "position": [
+        "0.054",
+        "0.472",
+        "0.708"
+      ],
+      "temperature": "615",
+      "gravity": "18.6"
+    },
+    "atmosphere": false,
+    "clouds": false,
+    "water": false,
+    "lava": false,
+    "civilization": false,
+    "rings": false,
+    "kessler": false,
+    "moon": false,
+    "binary": false,
+    "main_sequence": false,
+    "extreme_terrain": false,
+    "allegiance": "Allied Independence",
+    "animation_url": "https://procedural-space-api-no5soiptxq-km.a.run.app/videos/1"
+  }
+}

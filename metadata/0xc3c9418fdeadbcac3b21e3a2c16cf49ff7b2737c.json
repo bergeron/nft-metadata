@@ -1,0 +1,30 @@
+{
+  "address": "0xc3c9418fdeadbcac3b21e3a2c16cf49ff7b2737c",
+  "type": "ERC721",
+  "name": "The Legendary Masks Club",
+  "tokenCount": "1000",
+  "uri": "https://www.legendarymasksclub.com/legendary_obelus_metadata/1.json",
+  "metadata": {
+    "name": "The Legendary Masks Club - Obelus #1",
+    "description": "The Legendary Masks Club - Obelus Collection",
+    "image": "https://www.legendarymasksclub.com/legendary_obelus_images/1.png",
+    "dna": "13c279466a4a642e3e2d9ab912697e362e9ddf19",
+    "edition": 1,
+    "date": 1652632971113,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Darkness"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Imxa"
+      },
+      {
+        "trait_type": "Elements",
+        "value": "Shargcaror"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

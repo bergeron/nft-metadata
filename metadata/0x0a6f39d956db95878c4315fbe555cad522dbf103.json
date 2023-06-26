@@ -1,0 +1,49 @@
+{
+  "address": "0x0a6f39d956db95878c4315fbe555cad522dbf103",
+  "type": "ERC721",
+  "name": "MISTER POTATOHEAD",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeigoa2mv4h4pxeqinrbtocjxkdtix5lwtcjdlstnkzgmj7yo55ipxa/1.json",
+  "metadata": {
+    "name": "MISTER POTATOHEAD #5015",
+    "description": "MISTER POTATOHEAD #5015 - Enjoy your MISTER POTATOHEAD",
+    "fee_recipient": "0x96c06D3a122a758650Cc56Ef333Ea04D556e6367",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://bafybeibcsmusgl4nbxljirubiretkro2fpd374faivakgksimpywtspl7q/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "11"
+      },
+      {
+        "trait_type": "Face",
+        "value": "7"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "6"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "6"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "5"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "3"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 6667,
+        "display_type": "number"
+      }
+    ]
+  }
+}

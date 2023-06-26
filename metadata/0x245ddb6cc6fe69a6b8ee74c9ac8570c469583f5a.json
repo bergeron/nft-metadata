@@ -1,0 +1,36 @@
+{
+  "address": "0x245ddb6cc6fe69a6b8ee74c9ac8570c469583f5a",
+  "type": "ERC1155",
+  "name": "Avatar Master V2",
+  "tokenCount": "4",
+  "uri": "https://ori-static.particle.network/1/collection/0x245ddb6cc6fe69a6b8ee74c9ac8570c469583f5a/1.json",
+  "metadata": {
+    "name": "3D - LIC #1",
+    "image": "https://ori-static.particle.network/images/e549f6ce-12c5-45db-9f97-534117930dc9.png",
+    "originToken": "0x9cCcCF945Bfc4587203C66A5261Ee3A23176843B",
+    "originTokenId": "13",
+    "description": "This NFT is a License NFT, which provides copyright to the Derivative NFT. You can create Derivative NFTs in ORI.",
+    "external_url": "https://orinft.xyz",
+    "nftType": "license",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "triple"
+      },
+      {
+        "trait_type": "ExpirationDate",
+        "value": "12/01/2022"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "earning",
+        "value": 0.0133,
+        "max_value": 10
+      },
+      {
+        "trait_type": "ONFT",
+        "value": "#13"
+      }
+    ]
+  }
+}

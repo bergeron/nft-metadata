@@ -1,0 +1,40 @@
+{
+  "address": "0xd99ecb996459270108eeaf91090380d65d26e299",
+  "type": "ERC721",
+  "name": "Lady Hollywood Jockey Club - Omnihorse",
+  "tokenCount": "100",
+  "uri": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/nftjson/0xd99EcB996459270108EeAf91090380d65d26e299/1.json",
+  "metadata": {
+    "name": "Lady Hollywood Jockey Club #1",
+    "description": "Lady Hollywood Jockey Club membership NFTs",
+    "animation_url": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/Lady Hollywood/1.mp4",
+    "image": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/Lady Hollywood/1.gif",
+    "external_link": "https://www.omnihorse.io/",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0xfa93360A5bf0B9e012B771577Db71B85792ab4e9",
+    "edition": 1,
+    "date": 1660180318512,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Eggplant"
+      },
+      {
+        "trait_type": "Frame Background",
+        "value": "Purple Web"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "Neon Blue"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Purple Helmet"
+      },
+      {
+        "trait_type": "Level",
+        "value": "Lv1"
+      }
+    ]
+  }
+}

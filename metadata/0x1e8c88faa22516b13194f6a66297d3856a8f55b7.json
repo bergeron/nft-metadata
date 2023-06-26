@@ -1,0 +1,49 @@
+{
+  "address": "0x1e8c88faa22516b13194f6a66297d3856a8f55b7",
+  "type": "ERC721",
+  "name": "Mike Dausend 1/1's",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/mR3nLRDRYXgVO1lCCrWgSVYg4MGf03oeJOiXqboQEQ4",
+  "metadata": {
+    "name": "crows landing",
+    "created_by": "Mike Dausend",
+    "description": "my genesis 1/1 gifted to the winner of the October burn event\n\ncaptured in Downtown Los Angeles on an eerie October night",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Mike Dausend"
+      },
+      {
+        "trait_type": "Title",
+        "value": "crows landing"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Los Angeles"
+      }
+    ],
+    "image_details": {
+      "bytes": 8288721,
+      "format": "JPEG",
+      "sha256": "19d71c6ff69d8a567a0a56739f61d54ce52f484dc9a4b90d1d36d4da263daa94",
+      "width": 5472,
+      "height": 3648
+    },
+    "image": "https://arweave.net/6MhGJd1a3bpecjI4c0RdCdA9MLLjhUxGOKAcZKUZSSE",
+    "image_url": "https://arweave.net/6MhGJd1a3bpecjI4c0RdCdA9MLLjhUxGOKAcZKUZSSE",
+    "animation_details": {
+      "bytes": 67515267,
+      "format": "MP4",
+      "duration": 24,
+      "sha256": "127a0aa0e0efc691a4120616a1f2d651c84db4b3888eb80390d492d07db1c995",
+      "width": 5472,
+      "height": 3648,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/ReXfNMiKtvhh54vEEsJTg8Wujz0o39BIeFaQKYfzsPw",
+    "animation_url": "https://arweave.net/ReXfNMiKtvhh54vEEsJTg8Wujz0o39BIeFaQKYfzsPw"
+  }
+}

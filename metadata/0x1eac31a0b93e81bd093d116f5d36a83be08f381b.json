@@ -1,0 +1,80 @@
+{
+  "address": "0x1eac31a0b93e81bd093d116f5d36a83be08f381b",
+  "type": "ERC721",
+  "name": "SneakrCred Drop 1: EthAIReum",
+  "tokenCount": "326",
+  "uri": "https://sneakrcred.herokuapp.com/api/factory/sneakr/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "sole",
+        "value": "white"
+      },
+      {
+        "trait_type": "logo",
+        "value": "white"
+      },
+      {
+        "trait_type": "heel",
+        "value": "white"
+      },
+      {
+        "trait_type": "panels",
+        "value": "white"
+      },
+      {
+        "trait_type": "upper",
+        "value": "white"
+      },
+      {
+        "trait_type": "vamp",
+        "value": "white"
+      },
+      {
+        "trait_type": "laces",
+        "value": "white"
+      },
+      {
+        "trait_type": "Serial Number",
+        "value": "1"
+      },
+      {
+        "trait_type": "Sneakr Series",
+        "value": "1"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Pass",
+        "value": 1720
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "enchanted",
+        "value": 100
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "speed_boost",
+        "value": 100
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "jump_boost",
+        "value": 100
+      }
+    ],
+    "boost": "Pass",
+    "description": "EthAIReum One - Rare Colorway",
+    "external_url": "https://www.sneakrcred.com",
+    "heel": "white",
+    "image": "http://sneakrcred.com/static/output/ethaireum/1.png",
+    "logo": "white",
+    "name": "EthAIReum One Rare Colorway",
+    "panels": "white",
+    "series_number": "1",
+    "sneakr_series": 2,
+    "sole": "white",
+    "upper": "white",
+    "vamp": "white"
+  }
+}

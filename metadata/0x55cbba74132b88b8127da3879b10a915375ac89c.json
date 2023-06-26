@@ -1,0 +1,42 @@
+{
+  "address": "0x55cbba74132b88b8127da3879b10a915375ac89c",
+  "type": "ERC721",
+  "name": "DoodBirds",
+  "tokenCount": "228",
+  "uri": "ipfs://QmXnj2REcPYoMfpfXfwaMT2tA9rNE4kkRKMYj88YcwzR1E/1.json",
+  "metadata": {
+    "name": "DoodBirds #1",
+    "description": "Doodbirds is a collection of 3333 randomly generated NFTs on the Ethereum blockchain. ",
+    "image": "ipfs://QmXbrYHjqzfKJ4cycVqesnLHCXowHHWHcwbMoFK3ajYqPA/1.png",
+    "dna": "a4104d89bd4b76ce8db268da76ff974559ecca2d",
+    "edition": 1,
+    "date": 1650548769438,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink "
+      },
+      {
+        "trait_type": "Body",
+        "value": "Type 3 (Yellow) "
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Ghost Rider Jacket (Black) "
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Bangs (Yellow) "
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Worm Holding (Ligth Blue) "
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Fire (Pink) "
+      }
+    ],
+    "compiler": "DoodBirds Art Engine"
+  }
+}

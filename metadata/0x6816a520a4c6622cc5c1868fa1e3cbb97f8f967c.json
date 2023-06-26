@@ -1,0 +1,30 @@
+{
+  "address": "0x6816a520a4c6622cc5c1868fa1e3cbb97f8f967c",
+  "type": "ERC721",
+  "name": "My Starlord NFTs1",
+  "tokenCount": "5",
+  "uri": "ipfs://QmPVJsK2Puk4UQfLhAtPWJqPKGdTNp31UKMgiaLgSm3Dbr/1.json",
+  "metadata": {
+    "name": "Proklarush #1",
+    "description": "This is cool Proklarush collection",
+    "image": "ipfs://QmUFcRYGV3eCnMsq4GKRq4kirZT6UZVoGdLCfmUaJC2yzx/1.png",
+    "dna": "059806000ce8738520a37e034af8a42378b45d06",
+    "edition": 1,
+    "date": 1659786073881,
+    "attributes": [
+      {
+        "trait_type": "Background2",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Violet Left",
+        "value": "3 violet left"
+      },
+      {
+        "trait_type": "Violet right",
+        "value": "4 violet right"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

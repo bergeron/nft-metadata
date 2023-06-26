@@ -1,0 +1,25 @@
+{
+  "address": "0x327f25b05a291817fd10bab26053f0eb66c16158",
+  "type": "ERC721",
+  "name": "MyPunks Face",
+  "tokenCount": "3339",
+  "uri": "https://api.mypunks.xyz/v1/metadata/face/1",
+  "metadata": {
+    "name": "Limestone Skin",
+    "code": "AUPZM",
+    "description": "Limestone Skin - A Customizable MyPunks Face",
+    "image": "https://storage.googleapis.com/mypunks/AUPZM.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Limestone Skin"
+      },
+      {
+        "trait_type": "Combination",
+        "value": "No"
+      }
+    ],
+    "external_url": "https://mypunks.xyz/face/AUPZM",
+    "ipfs": "https://ipfs.infura.io/ipfs/QmNcE1Kt8vzeUhXBBo6yumGwz63Ej8UMRiXriPE6KxcHGQ"
+  }
+}

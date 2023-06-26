@@ -1,0 +1,42 @@
+{
+  "address": "0xa2e7142e97380c312fe7599f722c752ec10cd4fe",
+  "type": "ERC721",
+  "name": "ArmamentsNFT",
+  "tokenCount": "2500",
+  "uri": "ipfs://QmTcdXgNzjtUfB7XfitYUBBvhxeicqGWxqfgUEnqBhdQF4/1.json",
+  "metadata": {
+    "dna": "74c5ec32c0d47d1c683c83182be40d0f1ae5ecd2b42f3ca44fb28723186d0499",
+    "name": "ArmamentsNFT #1",
+    "description": "The weapons are awaken , will it pick you",
+    "image": "ipfs://QmRXcn38vA79KGxsZGgqQq51rzq7XtmRanVQtwEPtGXBPs/1.png",
+    "imageName": "1.png",
+    "edition": 1,
+    "date": 1678616536205,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "Grass-Land"
+      },
+      {
+        "trait_type": "Shortsword Pommel",
+        "value": "Shinogi"
+      },
+      {
+        "trait_type": "Shortsword Guard",
+        "value": "Shinogi"
+      },
+      {
+        "trait_type": "Shortsword Grip",
+        "value": "Shinogi"
+      },
+      {
+        "trait_type": "Shortsword Gladius blade",
+        "value": "Titanium"
+      },
+      {
+        "trait_type": "Shortsword Gladius special",
+        "value": "Poison"
+      }
+    ]
+  }
+}

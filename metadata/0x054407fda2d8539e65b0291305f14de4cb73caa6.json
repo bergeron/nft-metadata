@@ -1,0 +1,33 @@
+{
+  "address": "0x054407fda2d8539e65b0291305f14de4cb73caa6",
+  "type": "ERC721",
+  "name": "City - Dapgm1wHwt",
+  "tokenCount": "2",
+  "uri": "https://nftstorage.link/ipfs/bafybeifquqe3iiod2ltvamrqvmipu2fne7m2uay4qmikksfuu33crldo2i/1",
+  "metadata": {
+    "id": 5,
+    "image": "https://nftstorage.link/ipfs/bafybeidweyzwoaad5xirzjsjw6wbwiijghk7b733cspqccz6r2dvsllxda",
+    "description": "desert",
+    "name": "Desert",
+    "collectionId": 5,
+    "attributes": [
+      {
+        "display_type": "string",
+        "trait_type": "desert",
+        "value": "sand"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "rarity",
+        "value": 1,
+        "total": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "rarity",
+        "value": 1,
+        "total": 1
+      }
+    ]
+  }
+}

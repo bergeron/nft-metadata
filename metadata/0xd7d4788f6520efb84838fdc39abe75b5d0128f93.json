@@ -1,0 +1,40 @@
+{
+  "address": "0xd7d4788f6520efb84838fdc39abe75b5d0128f93",
+  "type": "ERC1155",
+  "name": "Toys Special Edition",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/6RGLgve_Kv4iDjQyItvdtizpbEDOXPLxJ-iucFXbCkk",
+  "metadata": {
+    "name": "Toy Special Edition",
+    "created_by": "Toyinvades",
+    "description": "love you <3",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Toyinvades"
+      }
+    ],
+    "animation_details": {
+      "bytes": 10469419,
+      "format": "MOV",
+      "duration": 12,
+      "sha256": "f4b017582eeb1ea9a99317e6ae7b1f3e7d3f40e233559356ad7bc97ea530fcaa",
+      "width": 1072,
+      "height": 1440,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/pBHmeyr3C0XHhnRdwvq2v1Gu2MR4TRFIjq_O1TXAtGg",
+    "animation_url": "https://arweave.net/pBHmeyr3C0XHhnRdwvq2v1Gu2MR4TRFIjq_O1TXAtGg",
+    "image_details": {
+      "bytes": 613090,
+      "format": "JPEG",
+      "sha256": "47af25e86b8368408882c089c74150d6adb94bb1151d20c3e9ca5f045c7b6554",
+      "width": 1668,
+      "height": 2224
+    },
+    "image": "https://arweave.net/vRI12yfR050eH2mT826pNRQxXmFn6z_6cpoJjTr_dho",
+    "image_url": "https://arweave.net/vRI12yfR050eH2mT826pNRQxXmFn6z_6cpoJjTr_dho"
+  }
+}

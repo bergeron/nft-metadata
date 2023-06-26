@@ -1,0 +1,42 @@
+{
+  "address": "0x796b3efa9518e8512aa388ec5bf7aad29c0f26ad",
+  "type": "ERC721",
+  "name": "Pepe Outlaws",
+  "tokenCount": "1319",
+  "uri": "ipfs://bafybeig4ajpaazezniawpst52tmkhsllamu3iwdqmuc6wkstm6bvlnectq/1.json",
+  "metadata": {
+    "name": "Pepe Outlaw #1",
+    "description": "Western Pepe Outlaws styled generative art collectibles.",
+    "image": "ipfs://bafybeibytdsmrca63jfeoxq7ymzqrnn2wpcb2rzmpdo3vwg7zknktaw3ue/1.png",
+    "dna": "ed3e21b5e0989610ae5b51519ef33d10d11cc6bc",
+    "edition": 1,
+    "date": 1681601244452,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Pearly Shop"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Western Whirl"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Colt Navy"
+      }
+    ],
+    "compiler": "Pepe"
+  }
+}

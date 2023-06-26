@@ -1,0 +1,42 @@
+{
+  "address": "0xb1d105f3f38b6808b07c0ffba488f2db88f28143",
+  "type": "ERC721",
+  "name": "MyRedPanda NFT Collection",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmZyaEqFRKvMBpJLjdFJRqRnXd9zFxfUAV21th453APAqS/1.json",
+  "metadata": {
+    "name": "MyRedPanda NFT #1",
+    "description": "MyRedPanda is a collection of 10,000 randomly generated NFTs that exist on the Ethereum Blockchain. MyRedPanda owners can participate in exclusive events such as NFT. Remember, all red pandas are cool and unique, like every person.",
+    "image": "ipfs://QmeouFS9pjC6KfD1gdSrtHkfWJXawWud8RjP25cNAQMfSA/1.png",
+    "dna": "98a1d087ab89b8fb8fd322888a33eb8e2f3a511e",
+    "edition": 1,
+    "date": 1659803707122,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue_BG "
+      },
+      {
+        "trait_type": "Base",
+        "value": "Base_Character "
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Dessert_Cloth "
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth_Normal "
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Dessert_Hat "
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pirate "
+      }
+    ],
+    "compiler": "Redecalabs"
+  }
+}

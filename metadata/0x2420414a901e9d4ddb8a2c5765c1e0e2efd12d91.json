@@ -1,0 +1,61 @@
+{
+  "address": "0x2420414a901e9d4ddb8a2c5765c1e0e2efd12d91",
+  "type": "ERC721",
+  "name": "Deadkicks",
+  "tokenCount": "375",
+  "uri": "ipfs://QmQtmdooWQsTpJJVpB4ZozzfmZZQNijFSmzyW3VLnKwpEX/1",
+  "metadata": {
+    "name": "Deadkicks #333",
+    "description": "Deadkicks is a multi-chain collection on Ethereum and Cardano. Deadkicks is made by sneakerheads for sneakerheads. ",
+    "image": "ipfs://QmT9ZxVXWVardcVZZKyL9PRiaVY76r775TPYcxwuRskumu/1.png",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "333.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Northern Lights"
+      },
+      {
+        "trait_type": "Leg",
+        "value": "Human 2"
+      },
+      {
+        "trait_type": "Model",
+        "value": "Deadkicks 3"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Off White"
+      },
+      {
+        "trait_type": "Accent 2",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Accent 3",
+        "value": "White"
+      },
+      {
+        "trait_type": "Laces",
+        "value": "White"
+      },
+      {
+        "trait_type": "Accent 1",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Sole",
+        "value": "Brown"
+      }
+    ],
+    "compiler": "https://the-nft-generator.com"
+  }
+}

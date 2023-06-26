@@ -1,0 +1,34 @@
+{
+  "address": "0x72420b94cb54d9237023e887f590b95551b6595a",
+  "type": "ERC721",
+  "name": "THEM Hatters",
+  "tokenCount": "2073",
+  "uri": "https://api.them.af/api/hatters/1",
+  "metadata": {
+    "image": "https://api.them.af/media/hatters/1.png",
+    "tokenId": 1,
+    "name": "Hatter #1 - Notsofast",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Notsofast"
+      },
+      {
+        "trait_type": "Original Hat",
+        "value": "343"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "Notsofast"
+      },
+      {
+        "trait_type": "Cut",
+        "value": "Uncut"
+      },
+      {
+        "trait_type": "Luxury",
+        "value": "None"
+      }
+    ]
+  }
+}

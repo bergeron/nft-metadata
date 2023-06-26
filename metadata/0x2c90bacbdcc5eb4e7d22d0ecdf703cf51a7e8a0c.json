@@ -1,0 +1,34 @@
+{
+  "address": "0x2c90bacbdcc5eb4e7d22d0ecdf703cf51a7e8a0c",
+  "type": "ERC721",
+  "name": "Twisty Tubes by xObj.com",
+  "tokenCount": "10",
+  "uri": "https://xobj.com/p2/meta/1",
+  "metadata": {
+    "name": "Twisty Tubes #1",
+    "description": "xObjects Project #2",
+    "image": "https://s3.amazonaws.com/cdn.xobj.com/tt/i/1.png",
+    "animation_url": "https://s3.amazonaws.com/cdn.xobj.com/tt/h/1.html",
+    "external_url": "https://xobj.com/p2/info/1",
+    "attributes": [
+      {
+        "trait_type": "palette",
+        "value": "Retro"
+      },
+      {
+        "trait_type": "twistiness",
+        "value": 2,
+        "max_value": 3
+      },
+      {
+        "trait_type": "tube_size",
+        "value": 5,
+        "max_value": 9
+      },
+      {
+        "trait_type": "background",
+        "value": "Solid"
+      }
+    ]
+  }
+}

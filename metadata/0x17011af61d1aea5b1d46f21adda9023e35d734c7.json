@@ -1,0 +1,42 @@
+{
+  "address": "0x17011af61d1aea5b1d46f21adda9023e35d734c7",
+  "type": "ERC721",
+  "name": "NFT Masks",
+  "tokenCount": "160",
+  "uri": "ipfs://Qmbr3q4Y7BfLsoZH55G65L5T6bWiMCXnrv3NSowLTW6gCB/1.json",
+  "metadata": {
+    "name": "Mask #1",
+    "description": "NFT Masks is a collection of limited 1,111 Masks.",
+    "image": "ipfs://QmQnViecwQU13QSGJq2jNUwK7pn1tnpanXKTrsdzyvwbgj/1.png",
+    "dna": "c8043f40f26e2261cb24d0c5847b927d30e32b30",
+    "edition": 1,
+    "date": 1651149066045,
+    "attributes": [
+      {
+        "trait_type": "Basic Mask Background",
+        "value": "Tosca Green"
+      },
+      {
+        "trait_type": "Basic Mask Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Basic Mask Ear Loop",
+        "value": "Electric Wire"
+      },
+      {
+        "trait_type": "Basic Mask Edge",
+        "value": "Old Bricks"
+      },
+      {
+        "trait_type": "Basic Mask Filter",
+        "value": "NFT Masks Filter"
+      },
+      {
+        "trait_type": "Basic Mask Accessory",
+        "value": "Dumbbell"
+      }
+    ],
+    "compiler": "Biasaurs"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "address": "0x92aea89ab89b99dbc62e82f5cdee1ef07bdfedcd",
+  "type": "ERC721",
+  "name": "Hashcards",
+  "tokenCount": "2100",
+  "uri": "https://nft.round.xyz/1",
+  "metadata": {
+    "name": "Duck",
+    "description": "White Lightening",
+    "external_url": "https://hashcards.round.xyz/NFTDetails/1",
+    "image": "https://hashcards.s3.amazonaws.com/NFT/Rare+Final/compressed/1_Duck_rare_3.webp",
+    "attributes": [
+      {
+        "trait_type": "Elixir",
+        "value": "10"
+      },
+      {
+        "trait_type": "Ranking",
+        "value": "10/32"
+      },
+      {
+        "trait_type": "Boost",
+        "value": "20%"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Rare"
+      }
+    ],
+    "type": "Legendary",
+    "category": "rare",
+    "thumbnail_url": "https://hashcards.s3.amazonaws.com/thumbnails_compressed/Duck.webp",
+    "ipfs_url": "https://gateway.pinata.cloud/ipfs/QmdZahoSBDfFLhzUz5DKzKpSwwTePYJSs4cJcnrzdm86Uj/1_Duck_rare_3.png",
+    "id": "1"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "address": "0x2136fa4c9e8fd4acd7f5ab7a196a4f59d374243e",
+  "type": "ERC721",
+  "name": "10556asd5f65adsf",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/209000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "209000001",
+    "series": 5,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Autology #1",
+    "minted": true,
+    "artist": "steganon",
+    "description": "Is code art? Autology is a study of not only how we interpret art, but also how art can interpret itself. Each piece has its source code embedded imperceptibly within the image itself. Hence the source code is literally part of the artwork. With a little sleuthing, one can derive the source code from the image and vice versa in infinite recursion. Click 's' to save the image and then visit https://steganon.com/autology.html to decode it. Or if you are feeling technologically adventurous, try to develop your own tool to do the same.",
+    "script_type": "js@na",
+    "project_id": "209",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 5",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/209000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/209000001.png",
+    "generator_url": "https://generator.artblocks.io/209000001",
+    "royaltyInfo": {
+      "artistAddress": "0x54f2a5733f8fe57ed90fb944c29ac0f4906836d5",
+      "additionalPayee": "0x84199e17fc74c99d734b58d9335896511532600b",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Autology by steganon",
+    "website": "https://steganon.com/autology.html",
+    "token_hash": "0x3c96333cbf7386248275d30c774333e5ec4a81c5992d8370e79460cfcdfec2f7",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/209/tokens/209000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/209000001.png",
+    "features": {
+      "Glitch": "none",
+      "Margin": "false",
+      "Palette": "Kitchen Sink",
+      "Symmetry": "mirror",
+      "Background": "palette",
+      "Grid Width": 4,
+      "Rocky Road": "false",
+      "Grid Height": 3
+    },
+    "traits": [
+      {
+        "trait_type": "Autology",
+        "value": "All Autologys"
+      },
+      {
+        "trait_type": "Autology",
+        "value": "Glitch: none"
+      },
+      {
+        "trait_type": "Autology",
+        "value": "Margin: false"
+      },
+      {
+        "trait_type": "Autology",
+        "value": "Palette: Kitchen Sink"
+      },
+      {
+        "trait_type": "Autology",
+        "value": "Symmetry: mirror"
+      },
+      {
+        "trait_type": "Autology",
+        "value": "Background: palette"
+      },
+      {
+        "trait_type": "Autology",
+        "value": "Grid Width: 4"
+      },
+      {
+        "trait_type": "Autology",
+        "value": "Rocky Road: false"
+      },
+      {
+        "trait_type": "Autology",
+        "value": "Grid Height: 3"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

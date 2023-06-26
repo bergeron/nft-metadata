@@ -1,0 +1,63 @@
+{
+  "address": "0xf89e4bc3bd82326fe4b48d1e7ca4d6e634ee6475",
+  "type": "ERC721",
+  "name": "SunshinePuppies",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/N1d0nzAUBm6u68BJIxT4wXT3yf7f_qCms5Qg5VIeW3Q",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1639936958
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Nichohlas"
+      }
+    ],
+    "description": "Faithful enjoys some sunshine on the couch.",
+    "external_url": "https://cxip.io/nft/0xf89e4bc3bd82326fe4b48d1e7ca4d6e634ee6475/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/tIkVd9VcvfwxW1XtT2FVY3RAqC6Giw8RHqJPsBzbOoE",
+    "imageUrl": "https://arweave.net/tIkVd9VcvfwxW1XtT2FVY3RAqC6Giw8RHqJPsBzbOoE",
+    "name": "Faithful in the Sun NFT",
+    "properties": {
+      "created_at": "2021-12-19T18:02:38.000000Z",
+      "creator_wallet": "0x2e089e8a7a9ac1ffd582c446d936380f45f69930",
+      "description": "Faithful enjoys some sunshine on the couch.",
+      "image": "https://arweave.net/tIkVd9VcvfwxW1XtT2FVY3RAqC6Giw8RHqJPsBzbOoE",
+      "imageUrl": "https://arweave.net/tIkVd9VcvfwxW1XtT2FVY3RAqC6Giw8RHqJPsBzbOoE",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "19 December 2021",
+      "name": "Faithful in the Sun NFT",
+      "nft_type": "non-fungible image token (image/jpeg)",
+      "preview_media_file": "https://arweave.net/AuXocifepWU1SzNS8WP_Atn75uGxkPGLRib2i5I8TdA",
+      "preview_media_file_dimensions": "480x360",
+      "preview_media_file_size": 157745,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "4032x3024",
+      "raw_media_file": "https://arweave.net/NlXMzk3pwm5ZXJGwAvyLuXUz7fqUww29wSIhDt_gkqY",
+      "raw_media_file_size": 2584741,
+      "raw_media_file_spec": "JPEG 4032x3024 4032x3024+0+0 8-bit sRGB 2.465MiB 0.000u 0:00.000",
+      "raw_media_file_type": "image/jpeg",
+      "raw_media_format": "landscape",
+      "raw_media_signature": "0x5ca2940a80601bad63ed2db8f478ef343fbf71cf3c8821b51b78a9aa58e897e8",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/AuXocifepWU1SzNS8WP_Atn75uGxkPGLRib2i5I8TdA",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Faithful in the Sun NFT",
+      "total_supply": 1
+    },
+    "title": "Faithful in the Sun NFT"
+  }
+}

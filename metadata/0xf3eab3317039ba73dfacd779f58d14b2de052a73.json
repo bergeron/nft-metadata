@@ -1,0 +1,39 @@
+{
+  "address": "0xf3eab3317039ba73dfacd779f58d14b2de052a73",
+  "type": "ERC721",
+  "name": "Rare Designer",
+  "tokenCount": "85",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=xUkd54TtXG3mU43Yosow",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1576771120876?alt=media&token=8a233709-60e8-4972-9b69-3742f632de62",
+    "isForSale": true,
+    "description": "For the liberation of the yoke and the regime imposed by the dictator, PEPE joins the battle of liberation of the nation that has been called to be free.",
+    "contractAddress": "0xf3eab3317039ba73dfacd779f58d14b2de052a73",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xf3eab3317039ba73dfacd779f58d14b2de052a73/xUkd54TtXG3mU43Yosow",
+    "minter": "0x43a7634Eb14C12B59bE599487c1d7898A3d864c1",
+    "mintedOn": {
+      "_seconds": 1576771148,
+      "_nanoseconds": 513000000
+    },
+    "price": "0.15",
+    "name": "PEPE VENEZUELA",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "PEPE VENEZUELA"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "id": null
+  }
+}

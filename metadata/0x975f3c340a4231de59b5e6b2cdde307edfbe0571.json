@@ -1,0 +1,41 @@
+{
+  "address": "0x975f3c340a4231de59b5e6b2cdde307edfbe0571",
+  "type": "ERC721",
+  "name": "Military Cats V2 - old",
+  "tokenCount": "1",
+  "uri": "ipfs://QmQtW2TqmEGmEc9e1mXD7aP2LyTmLf6fa5i1VfXgFDEHgu/1.json",
+  "metadata": {
+    "name": "MilitaryCats #1",
+    "description": "MilitaryCats #1 - Military Cats save Ukraina.",
+    "fee_recipient": "0x420a14a43bDB8Da166Fd5a43Ad2f63FFC866a53d",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://QmYxEeDSSSiHH5iRcevazi2Ai8R49vKjKqccrGZu8DrifH/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bg 8"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Kot Jeltiy"
+      },
+      {
+        "trait_type": "Hairs",
+        "value": "Kudri R"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Sumka"
+      },
+      {
+        "trait_type": "Bang",
+        "value": "Molotovi Blue"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 7050,
+        "display_type": "number"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "address": "0x03f30df8bbdcfc4df7046a8c327c99b34f9be009",
+  "type": "ERC721",
+  "name": "WEIRDO'S with Open3",
+  "tokenCount": "20",
+  "uri": "ipfs://bafybeifywvzoh7t5kan2s3pfxs2rc7n4tqvzpceaybqodas3effrax257a/1",
+  "metadata": {
+    "name": "WEIRDO #1",
+    "description": "This is a Weirdo.",
+    "image": "ipfs://bafybeibapoezrvelk67fgvpa2x3k4u6igmuisqvm6cwfswhja55d6k433e/1.jpeg",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Collide"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Apple"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Smaysh"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Tada"
+      },
+      {
+        "trait_type": "Feet",
+        "value": "Footmouth"
+      },
+      {
+        "trait_type": "Lips",
+        "value": "Drip"
+      }
+    ],
+    "compiler": "Open3"
+  }
+}

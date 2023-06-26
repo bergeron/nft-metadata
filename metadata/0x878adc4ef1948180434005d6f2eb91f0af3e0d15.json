@@ -1,0 +1,44 @@
+{
+  "address": "0x878adc4ef1948180434005d6f2eb91f0af3e0d15",
+  "type": "ERC721",
+  "name": "Regular Jobs",
+  "tokenCount": "6610",
+  "uri": "https://jobs.regular.world/cards/id/1",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/regulars-55c54.appspot.com/o/mainnet%2Femployee-id-cards%2F1.png?alt=media",
+    "seller_fee_basis_points": 100,
+    "salaryWei": "17500000000000000000",
+    "level": "0",
+    "fee_recipient": "0x2fccf88a13a8c4048244fbe9960320b73212e496",
+    "salary": 17.5,
+    "regularId": 5763,
+    "external_url": "https://regulars.world",
+    "companyId": 0,
+    "background_color": "2e505c",
+    "name": "17.5 Ⓡ / week, RNN News",
+    "attributes": [
+      {
+        "trait_type": "Salary",
+        "value": 17.5
+      },
+      {
+        "trait_type": "Job Title",
+        "value": "Asst. Custodial Auditor"
+      },
+      {
+        "trait_type": "Company",
+        "value": "RNN News"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Seniority Bonus",
+        "value": 0
+      }
+    ],
+    "id": "1",
+    "updatedAt": {
+      "_seconds": 1683913830,
+      "_nanoseconds": 802000000
+    }
+  }
+}

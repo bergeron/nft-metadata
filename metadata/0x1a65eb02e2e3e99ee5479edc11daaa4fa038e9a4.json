@@ -1,0 +1,28 @@
+{
+  "address": "0x1a65eb02e2e3e99ee5479edc11daaa4fa038e9a4",
+  "type": "ERC721",
+  "name": "dev.intergate.io - premium",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x1a65eb02e2e3e99ee5479edc11daaa4fa038e9a4/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x1a65EB02e2e3E99eE5479EDC11DaAA4fA038e9A4/icon?id=1",
+    "expiration": 1591308509,
+    "tokenId": "1",
+    "owner": "0xbec5039654b754002e65cdaa216f06f7f9f3f360",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1591308509
+      }
+    ],
+    "userMetadata": {
+      "public": {}
+    },
+    "keyId": "1",
+    "lockAddress": "0x1a65EB02e2e3E99eE5479EDC11DaAA4fA038e9A4",
+    "network": 1
+  }
+}

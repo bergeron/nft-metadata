@@ -1,0 +1,49 @@
+{
+  "address": "0xac3045857384fbd9d9c780275e82650fa84b1009",
+  "type": "ERC721",
+  "name": "Little Undead",
+  "tokenCount": "1111",
+  "uri": "ipfs://QmezvPrXtAFeoQC2zqMmKcgoEdzaV4eDTewSUNgXbm1e2T/1",
+  "metadata": {
+    "name": "Little Undead #1080",
+    "description": "1111 Little Undead beings created by a mad web3 scientist",
+    "image": "ipfs://QmZZfeGxdHw8yxwc6RMtDZoR3xWXojwiBmxNLnnTLAX3M3/1.png",
+    "external_url": "https://littleundead.com",
+    "properties": {
+      "files": [
+        {
+          "uri": "1080.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xD0471b84b53F9AcfC44b5F6EB8872f5095855867",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Lab Coat"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Damaged"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Purple Hair"
+      }
+    ],
+    "symbol": "LILUNDEAD",
+    "seller_fee_basis_points": 100,
+    "edition": 1080
+  }
+}

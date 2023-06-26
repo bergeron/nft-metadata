@@ -1,0 +1,43 @@
+{
+  "address": "0x8edab87f1e63e4266e4e17c5f5dba243aab2294a",
+  "type": "ERC721",
+  "name": "The Mystic Ents (Genesis)",
+  "tokenCount": "100",
+  "uri": "https://themysticents.com/nft-genesis/metadata/json/1.json",
+  "metadata": {
+    "name": "Ent #1",
+    "description": "Ent from The Mystic Ents - A collection of 3,333 unique generative Ents that play cards and protect the Amazon rainforest.",
+    "image": "https://themysticents.com/nft-genesis/metadata/images/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Desert"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Cool Ent"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Unbearded"
+      },
+      {
+        "trait_type": "Healing Pack",
+        "value": "Fire Mushrooms"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Macaw Couple"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Red Mushrooms"
+      }
+    ]
+  }
+}

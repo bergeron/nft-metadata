@@ -1,0 +1,45 @@
+{
+  "address": "0x0226a6f528005a3429a8dd4a694cc36993941ed8",
+  "type": "ERC721",
+  "name": "Swanky Shibas",
+  "tokenCount": "4",
+  "uri": "ipfs://QmRHyJWpTxznxYxgtictpT8FGkWrKCFUSPSveDUWkpKT9X/1.json",
+  "metadata": {
+    "name": "Swanky Shibas #1",
+    "description": "Swanky Shibas #1 - Swanky Shibas living the good life when Shiba Coin hits $.01",
+    "fee_recipient": "0xb95c10138d0C2c6e6bA7f03FAF9A20E42E778542",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://QmaRED7U6paK3ppTaJGTMHLhqm1Lcg7DxLUqeqtUMJ6QJh/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Moon Suit #00"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Swanky Shiba Head"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tough Talk"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Beanie #2"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Cheerful"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 7826,
+        "display_type": "number"
+      }
+    ]
+  }
+}

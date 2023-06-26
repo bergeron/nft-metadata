@@ -1,0 +1,71 @@
+{
+  "address": "0x42026c4dbf2ead2ba951ccb3c321c49b7738cab4",
+  "type": "ERC721",
+  "name": "Hyakki-Official",
+  "tokenCount": "6666",
+  "uri": "https://nftstorage.link/ipfs/QmT3aEvev194CghScTfJ7WB67hFmavv1EMJjix2atGtA3G/1",
+  "metadata": {
+    "name": "Hyakki #1",
+    "symbol": "HYA",
+    "seller_fee_basis_points": 750,
+    "image": "https://nftstorage.link/ipfs/QmbMjp1FZyByYp3rX7GB9j5Vy1ns1KucNCGGZW1npxpJDK/1.png",
+    "external_url": "https://www.hyakki.com/",
+    "collection": {
+      "family": "Hyakki",
+      "name": "Hyakki"
+    },
+    "attributes": [
+      {
+        "trait_type": "Basic Character",
+        "value": "Tourouki"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Dusty orange"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Purple Lantern hat"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Deep Gray Long and wavy"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Up to no good"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Cyan Crew neck sweater"
+      },
+      {
+        "trait_type": "Holdings",
+        "value": "White Rabbit bomb"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://nftstorage.link/ipfs/QmbMjp1FZyByYp3rX7GB9j5Vy1ns1KucNCGGZW1npxpJDK/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "BGXiAiszBwHgAqqkp7NDt1rWZHEmfDseRcHyDpi7wGDa",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

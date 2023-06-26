@@ -1,0 +1,220 @@
+{
+  "address": "0x912f8a729166720b7fb7fb00aba7c89c432b160c",
+  "type": "ERC721",
+  "name": "PSS Silverbacks",
+  "tokenCount": "541",
+  "uri": "https://pss-silverback-go-nft-api.herokuapp.com/token/1",
+  "metadata": {
+    "TokenID": 1,
+    "description": "Primate Social Society Silverback: The leader of the troop!\n\nClassified by the contract as an endangered species; only 2,000 Silverbacks can ever be summoned.\n\nEach Silverback currently earns 1 SILVER token per day and generates another 10% of that for the OG Summoner. It will soon be able to breed with other Silverbacks to make PSS Babies.\n\nApes sacrificed: [#742](https://opensea.io/assets/0x76e51bc8fa0beebcf3e45de408fa43c9dc5ffb27/742), [#2067](https://opensea.io/assets/0x76e51bc8fa0beebcf3e45de408fa43c9dc5ffb27/2067), [#7698](https://opensea.io/assets/0x76e51bc8fa0beebcf3e45de408fa43c9dc5ffb27/7698), [#751](https://opensea.io/assets/0x76e51bc8fa0beebcf3e45de408fa43c9dc5ffb27/751), [#747](https://opensea.io/assets/0x76e51bc8fa0beebcf3e45de408fa43c9dc5ffb27/747)\n",
+    "image": "https://8wt0f3kpyb.execute-api.us-west-2.amazonaws.com/dev/images/1.png",
+    "name": "Silverback #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Whoops Glitch"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Punk Jacket"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Frowny"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Golden"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "Body: Raglan Tee",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Body: Punk Jacket",
+        "display_type": "number",
+        "value": 2,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Body: Pirate Clothes",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Body: Outline",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Mouth: Frowny",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Mouth: Lip Bite",
+        "display_type": "number",
+        "value": 2,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Mouth: Blaaah",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Mouth: Lolipop",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Eyes: Brown",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Eyes: Golden",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Eyes: Surprised",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Eyes: Green",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Eyes: Alien",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Ears: Devil Horns",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Ears: Bunny",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Ears: Crown",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Ears: Captain Hat",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Ears: Warm Shades",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Background: Pink Aura",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Background: Whoops Glitch",
+        "display_type": "number",
+        "value": 2,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Background: Rainbow",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Background: Snow",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Skin Color: Rainbow",
+        "display_type": "number",
+        "value": 2,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Skin Color: Green",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Skin Color: White",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Skin Color: Fake Tan",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Hair Color: Brown",
+        "display_type": "number",
+        "value": 2,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Hair Color: Gold",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Hair Color: Black",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "Hair Color: Blue",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "trait_type": "birthday",
+        "display_type": "date",
+        "value": 1637039879
+      }
+    ]
+  }
+}

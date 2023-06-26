@@ -1,0 +1,27 @@
+{
+  "address": "0x32a103840d535ef6c8e7144d0a37d93869ca06b2",
+  "type": "ERC721",
+  "name": "NOCXXUM",
+  "tokenCount": "2",
+  "uri": "https://api.nocxxum.com/blockchain/metadata/ether/NOXMTF23/1",
+  "metadata": {
+    "dropId": 10000061,
+    "paletteId": 1010,
+    "slotDataList": [
+      100003,
+      0
+    ],
+    "name": "S02 Pants(Dark Blue) #1",
+    "image": "https://nocxxum-resource.s3.ap-northeast-1.amazonaws.com/web3/NOXMTF23/10000061.jpg",
+    "external_url": "https://nocxxum-resource.s3.ap-northeast-1.amazonaws.com/web3/NOXMTF23/10000061.jpg",
+    "description": null,
+    "attributes": [
+      {
+        "trait_type": "Slot 0",
+        "value": "S02 LOGO_WHITE",
+        "optionType": "base",
+        "display_type": null
+      }
+    ]
+  }
+}

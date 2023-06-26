@@ -1,0 +1,53 @@
+{
+  "address": "0xaafffa00cd329442f2e85eb3afe67e146cd4ee16",
+  "type": "ERC721",
+  "name": "VeryFairy",
+  "tokenCount": "8",
+  "uri": "ipfs://QmdgH7MbDo8vFWxXTQgjx2HCrFB53QVLFpb97Bf98ZpvLy/1.json",
+  "metadata": {
+    "name": "VeryFairy #1",
+    "description": "VeryFairy #1 - Very Fairy - Generated and deployed on LaunchMyNFT.",
+    "fee_recipient": "0x12Dd21Bd02B867706f333661bDA774c9EB769d3D",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://QmRvRAQ4tr7okwcfjLvsSMD68NXDaDzyr6x5sCL5kDQjm8/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FBG31"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "FWING14"
+      },
+      {
+        "trait_type": "Base",
+        "value": "FBASE9"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "FDRESS8"
+      },
+      {
+        "trait_type": "Face",
+        "value": "FFACE9"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "FSHOE14"
+      },
+      {
+        "trait_type": "Wand",
+        "value": "FWAND6"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "FHAIR4"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 274,
+        "display_type": "number"
+      }
+    ]
+  }
+}

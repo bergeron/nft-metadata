@@ -1,0 +1,56 @@
+{
+  "address": "0x5ca8dd7f8e1ee6d0c27a7be6d9f33ef403fbcdd8",
+  "type": "ERC721",
+  "name": "Toxic Skulls Club",
+  "tokenCount": "9999",
+  "uri": "https://tsc.nftapi.art/meta/1",
+  "metadata": {
+    "token_id": 1,
+    "dna": "QmWJ4E2cEthbVdHCPkdbhwsvfbEBCqR68RgJRLQrnGjiar",
+    "name": "Toxic Skulls Club #1",
+    "description": null,
+    "image": "https://ipfs.io/ipfs/QmWJ4E2cEthbVdHCPkdbhwsvfbEBCqR68RgJRLQrnGjiar",
+    "animation_url": null,
+    "media": null,
+    "seller_fee_basis_points": 10,
+    "fee_recipient": "0x1ff63DF1077a40ec7A4f5a85a07eA7aC773EF368",
+    "attributes": [
+      {
+        "value": "Dripped Slime",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Slimed Worms",
+        "trait_type": "Skeleton"
+      },
+      {
+        "value": "Slimed Shirt",
+        "trait_type": "Outfit"
+      },
+      {
+        "value": "Sharp Teeth",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": "None",
+        "trait_type": "Nose"
+      },
+      {
+        "value": "Worm Band",
+        "trait_type": "Hat"
+      },
+      {
+        "value": "Dots Slimed Worms",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "None",
+        "trait_type": "Pet"
+      },
+      {
+        "trait_type": "State",
+        "value": "Toxic"
+      }
+    ]
+  }
+}

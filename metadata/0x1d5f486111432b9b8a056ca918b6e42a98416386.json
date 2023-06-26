@@ -1,0 +1,46 @@
+{
+  "address": "0x1d5f486111432b9b8a056ca918b6e42a98416386",
+  "type": "ERC721",
+  "name": "Omnis by Tiny Blocks",
+  "tokenCount": "140",
+  "uri": "https://api.tinyblocks.art/omnis/token/1",
+  "metadata": {
+    "name": "Omni #1",
+    "tokenId": 1,
+    "external_url": "https://tinyblocks.art/projects/omnis/1",
+    "animation_url": "https://api.tinyblocks.art/omnis/view/1",
+    "token_uri": "https://api.tinyblocks.art/omnis/token/1",
+    "image": "https://ipfs.infura.io/ipfs/QmdD4FdWD4Q89SLzm6QNC3x8nsLVwSBPync113GjUbRv8w",
+    "hash": "0x3c923290a5563acf025275e670cec1af566afd523cf54f604e808dfadf9102c2",
+    "description": "Omnis by Tiny Blocks is a generative art project that explores building an animated 3D space with circles as the main primative shape type.",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Astro"
+      },
+      {
+        "trait_type": "Color Palette",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Shape Size",
+        "value": "Heavy"
+      },
+      {
+        "trait_type": "Shape Count",
+        "value": 323
+      },
+      {
+        "trait_type": "Fogginess",
+        "value": 0
+      },
+      {
+        "trait_type": "No Fog",
+        "value": "True"
+      }
+    ],
+    "aspect_ratio": "1",
+    "script": "zdog.js",
+    "omni_position": "0,0,0"
+  }
+}

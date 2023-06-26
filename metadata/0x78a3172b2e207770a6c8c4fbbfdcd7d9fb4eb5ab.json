@@ -1,0 +1,27 @@
+{
+  "address": "0x78a3172b2e207770a6c8c4fbbfdcd7d9fb4eb5ab",
+  "type": "ERC721",
+  "name": "A (Pi)ece of pi",
+  "tokenCount": "3",
+  "uri": "ipfs://QmUQnCsZf9bPDgWRc8QQ4ygwVQscNT7yCAn9kfqrXqzGT6/1.json",
+  "metadata": {
+    "image": "https://mathinaction.mypinata.cloud/ipfs/QmRadBfg7yuXvtYrmieHjFNsM7CCB27T9tPeK28hvErQcc/piece_1.png",
+    "name": "A (Pi)ece of pi #1",
+    "description": "A (Pi)ece of pi: A fractionalization experience.",
+    "attributes": [
+      {
+        "trait_type": "(Pi)ece Row",
+        "value": "27"
+      },
+      {
+        "trait_type": "(Pi)ece Column",
+        "value": "24"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Correlative (Pi)ece number",
+        "value": "1310"
+      }
+    ]
+  }
+}

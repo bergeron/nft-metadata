@@ -1,0 +1,31 @@
+{
+  "address": "0xd681c8db188901e0455672aef8bc521cea4e9839",
+  "type": "ERC721",
+  "name": "Drops Of Life",
+  "tokenCount": "20",
+  "uri": "https://africarare-nft-dropsoflife.s3.af-south-1.amazonaws.com/Drops+Of+life+Metadata/emerald.json",
+  "metadata": {
+    "description": "The Drops of Life project is a collaboration between Africarare and Innovation: Africa and is a unique collection of time capsule water drop NFT’s that have been developed to bring clean water to people across Africa. There are 5 categories ranging from emerald, tanzanite, silver, gold, diamond each with various utilities based on the type of donation. Each drop is a soulbound NFT and is not transferrable. Each drop cannot be sold and will remain in the wallet of the buyer. All proceeds will go towards saving lives in Africa by providing clean drinking water in support of Innovation: Africa’s mission.",
+    "external_url": "https://africarare.io",
+    "image": "https://africarare-nft-dropsoflife.s3.af-south-1.amazonaws.com/emerald.gif",
+    "name": "Emerald Drop",
+    "attributes": [
+      {
+        "trait_type": "Clean Water",
+        "value": "Save 1 Life"
+      },
+      {
+        "trait_type": "Monitoring App",
+        "value": "Remote Access"
+      },
+      {
+        "trait_type": "Provenance",
+        "value": "Soulbound"
+      },
+      {
+        "trait_type": "Inscription",
+        "value": "Wall of donors in Innovation: Africa village"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0x806138db9a18f06c3c22c18b102b1468dad2bb78",
+  "type": "ERC721",
+  "name": "The NFT League",
+  "tokenCount": "5212",
+  "uri": "https://us-central1-the-nft-league.cloudfunctions.net/playerAPI/1",
+  "metadata": {
+    "name": "NFT Athlete #1",
+    "description": "A unique NFT that grants each holder access to the NFT League Club Membership",
+    "image": "https://thenftleage.imgix.net/updatedPlayerImages/19844_1x3.jpg",
+    "attributes": [
+      {
+        "trait_type": "City",
+        "value": "CAR"
+      },
+      {
+        "trait_type": "Number",
+        "value": "2"
+      },
+      {
+        "trait_type": "Position",
+        "value": "WR"
+      },
+      {
+        "trait_type": "Multiplier",
+        "value": "1.3x"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Active"
+      },
+      {
+        "trait_type": "Season",
+        "value": 1
+      }
+    ]
+  }
+}

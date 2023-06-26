@@ -1,0 +1,43 @@
+{
+  "address": "0xb12c635bb73426a59e21f09f66e75d6aa2972291",
+  "type": "ERC721",
+  "name": "sad n down bad",
+  "tokenCount": "534",
+  "uri": "ipfs://bafybeigx5ql2vi2kvjhkdswstnfuscoj5pbflkyjr53hykxii644aivl4i/1.json",
+  "metadata": {
+    "name": "sad n down bad #1",
+    "description": "we are sad n down bad, dev do something",
+    "image": "ipfs://bafybeifzbgorebdcdd2qkm5fyeiszgthhqym3mey2npd5kajqvmngcm6wu/1.png",
+    "dna": "cee1c3dcfb17d4f6ad22ea5e41154875b4a670bf",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "id",
+        "value": 1
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "sadness meter",
+        "value": 4
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "downbad meter",
+        "value": 99
+      },
+      {
+        "trait_type": "reason",
+        "value": "no engagement"
+      },
+      {
+        "trait_type": "destination",
+        "value": "forest"
+      },
+      {
+        "trait_type": "activity",
+        "value": "mushroom hunting"
+      }
+    ],
+    "compiler": "sad n down bad"
+  }
+}

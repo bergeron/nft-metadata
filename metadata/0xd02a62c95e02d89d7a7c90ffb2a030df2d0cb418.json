@@ -1,0 +1,79 @@
+{
+  "address": "0xd02a62c95e02d89d7a7c90ffb2a030df2d0cb418",
+  "type": "ERC721",
+  "name": "MIJA EDITIONS",
+  "tokenCount": "40",
+  "uri": "https://koop.mypinata.cloud/ipfs/QmRCXATwsxLBYtTqeg3wVNNB9eyi2oXp2A1PSWHBiefLZK/1",
+  "metadata": {
+    "name": "\"Desert Trash\" Full Listening Party Drop #2",
+    "description": "Come join me for the final mint from my album Desert Trash!\n\n We will do a full hangout/ listening party and play thru all the songs on the album before diving into a short renegade DJ set\n\nMinting this drop will give you an NFT of this livestream.  The recording will be attached to the metadata of the token once the event ends!",
+    "external_url": "https://koop.xyz/koop/0xE4c80780CC7fc7047bCcB30e2CbcB67400752a88/",
+    "image_url": "https://koop.mypinata.cloud/ipfs/QmduSBbqZhUHNXPuKVaXi7f7osBNMFUkUHwu4AJAS6k9wP",
+    "image": "https://koop.mypinata.cloud/ipfs/QmduSBbqZhUHNXPuKVaXi7f7osBNMFUkUHwu4AJAS6k9wP",
+    "attributes": [
+      {
+        "trait_type": "Koop Tier Index",
+        "value": "0"
+      },
+      {
+        "trait_type": "Koop",
+        "value": "Mija"
+      },
+      {
+        "trait_type": "Member Tier",
+        "value": "\"Desert Trash\" Full Listening Party Drop"
+      },
+      {
+        "trait_type": "$__parent",
+        "value": {
+          "imageURL": "https://koop.mypinata.cloud/ipfs/QmduSBbqZhUHNXPuKVaXi7f7osBNMFUkUHwu4AJAS6k9wP",
+          "updatedAt": "2022-11-22T22:19:58.792Z",
+          "title": "\"Desert Trash\" Full Listening Party Drop",
+          "supply": "50",
+          "description": "Come join me for the final mint from my album Desert Trash!\n\n We will do a full hangout/ listening party and play thru all the songs on the album before diving into a short renegade DJ set\n\nMinting this drop will give you an NFT of this livestream.  The recording will be attached to the metadata of the token once the event ends!",
+          "benefits": [],
+          "allowlistMerkleRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "tokenType": "drop",
+          "isExternal": false,
+          "state": "published",
+          "metadata": {
+            "livestream_url": "https://stream-recordings-koop-xyz.s3.amazonaws.com/final_streams/mija-stream-11-17-22.mp4"
+          },
+          "endId": "49",
+          "startId": "0",
+          "mintLimit": "50",
+          "_id": "63764ca248af770a69bd60e6",
+          "index": "0",
+          "limit": "50",
+          "tokens": [],
+          "price": "20000000000000000",
+          "allowlist": []
+        }
+      },
+      {
+        "trait_type": "$__path",
+        "value": "metadata"
+      },
+      {
+        "trait_type": "$__schemaType",
+        "value": {
+          "path": "metadata.$*",
+          "instance": "Mixed",
+          "validators": [],
+          "getters": [],
+          "setters": [],
+          "_presplitPath": [
+            "metadata",
+            "$*"
+          ],
+          "options": {
+            "type": {}
+          },
+          "_index": null,
+          "$isUnderneathDocArray": true
+        }
+      }
+    ],
+    "id": "1"
+  }
+}

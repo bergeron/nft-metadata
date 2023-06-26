@@ -1,0 +1,58 @@
+{
+  "address": "0x6572a11ea2dd4e7b6161b531c3fdfd9cb6e9bdc6",
+  "type": "ERC721",
+  "name": "NonTransferrable Hedgeys",
+  "tokenCount": "6",
+  "uri": "https://nft.hedgey.finance/ethereum/0x6572a11ea2dd4e7b6161b531c3fdfd9cb6e9bdc6/1",
+  "metadata": {
+    "name": "Hedgeys #1",
+    "description": "This NFT represents a locked amount of tokens, redeemable after the unlock date.\n\n The token locked is: [₡ABIN](https://etherscan.io/token/0x1934e252f840aa98dfce2b6205b3e45c41aef830)\n\n Tokens Locked: 1\n\n Unlock Date: Jul 21, 2022",
+    "image": "https://nft.hedgey.finance/ethereum/0x6572a11ea2dd4e7b6161b531c3fdfd9cb6e9bdc6/1.png",
+    "dna": "0000000000000000000000000000000000000000",
+    "edition": 1,
+    "date": 1658354263172,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Wheat"
+      },
+      {
+        "trait_type": "Token_Collateral",
+        "value": "₡ABIN: 0x1934e252f840aa98dfce2b6205b3e45c41aef830"
+      },
+      {
+        "trait_type": "Tokens_Locked",
+        "value": "1 ₡ABIN"
+      },
+      {
+        "trait_type": "Unlock_Date",
+        "value": "1658361600",
+        "display_type": "date"
+      },
+      {
+        "trait_type": "Number_Of_Locked_Tokens",
+        "value": 1,
+        "display_type": "number"
+      }
+    ],
+    "series": "1",
+    "external_url": "https://hedgey.finance",
+    "network": "Ethereum",
+    "assetCurrency": {
+      "address": "0x1934e252f840aa98dfce2b6205b3e45c41aef830",
+      "name": "₡ABIN",
+      "ticker": "₡ABIN",
+      "decimals": 18,
+      "amount": "1"
+    },
+    "paymentCurrency": {
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "ticker": "ETH",
+      "name": "Ethereum",
+      "decimals": 18,
+      "amount": "0.01"
+    },
+    "unlockDate": "July 21, 2022 at 12:00:00 AM UTC",
+    "unlockTimestamp": "1658361600"
+  }
+}

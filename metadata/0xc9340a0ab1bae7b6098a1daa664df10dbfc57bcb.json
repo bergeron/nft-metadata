@@ -1,0 +1,45 @@
+{
+  "address": "0xc9340a0ab1bae7b6098a1daa664df10dbfc57bcb",
+  "type": "ERC721",
+  "name": "Toroids By Lip",
+  "tokenCount": "138",
+  "uri": "https://us-central1-toroids-by-lip.cloudfunctions.net/getMetadata?index=1",
+  "metadata": {
+    "description": "Toroids are interactive 3D NFT art on the Ethereum blockchain. Use the arrow keys or WASD to move around. Space to toggle pedestal mode.",
+    "external_url": "https://toroids-by-lip.web.app/viewer.html?index=1",
+    "animation_url": "https://toroids-by-lip.web.app/viewer.html?index=1",
+    "image": "https://us-central1-toroids-by-lip.cloudfunctions.net/getImage?index=1",
+    "name": "Toroid 1",
+    "hash": "0x858d013ce4f2462b0b5b9ee0fbc72e626654f14c9e5efbb3f78cea297fa2d275",
+    "attributes": [
+      {
+        "trait_type": "Displacement #1",
+        "value": "Sine"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Blue Shades"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Flow"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "Simple"
+      },
+      {
+        "trait_type": "Atmosphere",
+        "value": "Smooth"
+      },
+      {
+        "trait_type": "Displacement #2",
+        "value": "Half Flat"
+      },
+      {
+        "trait_type": "Displacement Type",
+        "value": "Normal"
+      }
+    ]
+  }
+}

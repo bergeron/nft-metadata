@@ -1,0 +1,99 @@
+{
+  "address": "0x9d92f4448f649b03bd360de7c25bf369becbfdcc",
+  "type": "ERC721",
+  "name": "adfqewr21",
+  "tokenCount": "50",
+  "uri": "https://api.artblocks.io/token/100000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "100000001",
+    "series": 3,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "CENTURY #1",
+    "minted": true,
+    "artist": "Casey REAS",
+    "description": "CENTURY is my homage to paintings and drawings from the twentieth century and the countless hours I’ve spent looking at them. The references span the origins of concrete and non-objective art to color-field painting and minimalism. The strongest direct reference is a series of pictures created by Ellsworth Kelly in the 1950s where he cut his paintings into pieces and reassembled them in different orders. CENTURY creates a distinct picture for each unique transaction hash, and you can “cut” and “reassemble” it in different ways by pressing ‘1’ on your keyboard. Press ‘2’ to put the slices in the original order. These are landscapes; they look best large and in motion running as live code.",
+    "script_type": "p5@1.0.0",
+    "project_id": "100",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 3",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/100000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/100000001.png",
+    "generator_url": "https://generator.artblocks.io/100000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/100000001",
+    "royaltyInfo": {
+      "artistAddress": "0x457ee5f723c7606c12a7264b52e285906f91eea6",
+      "additionalPayee": "0xa7f65175cb6c300eef56416e2189b138c67247bb",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "CENTURY by Casey REAS",
+    "website": "https://reas.com",
+    "token_hash": "0xff9ad8e65fcbd07492219e78ad12de48d9b4ab220df273ba1826dc39063b0167",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/100/tokens/100000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/100000001",
+    "features": {
+      "Alpha": "True",
+      "Janky": "False",
+      "Oculi": "False",
+      "Palette": "A",
+      "Line Count": 9,
+      "Alpha Value": "237",
+      "Slice Count": 12,
+      "Slice Order": "Chaos",
+      "Line Quantity": "Less",
+      "Line Color Options": 5,
+      "Oculus 1 Major Axis": "N/A",
+      "Oculus 2 Major Axis": "N/A"
+    },
+    "traits": [
+      {
+        "trait_type": "CENTURY",
+        "value": "All CENTURYs"
+      },
+      {
+        "trait_type": "CENTURY",
+        "value": "Alpha: True"
+      },
+      {
+        "trait_type": "CENTURY",
+        "value": "Janky: False"
+      },
+      {
+        "trait_type": "CENTURY",
+        "value": "Oculi: False"
+      },
+      {
+        "trait_type": "CENTURY",
+        "value": "Palette: A"
+      },
+      {
+        "trait_type": "CENTURY",
+        "value": "Line Count: 9"
+      },
+      {
+        "trait_type": "CENTURY",
+        "value": "Alpha Value: 237"
+      },
+      {
+        "trait_type": "CENTURY",
+        "value": "Slice Count: 12"
+      },
+      {
+        "trait_type": "CENTURY",
+        "value": "Slice Order: Chaos"
+      },
+      {
+        "trait_type": "CENTURY",
+        "value": "Line Quantity: Less"
+      },
+      {
+        "trait_type": "CENTURY",
+        "value": "Line Color Options: 5"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0x6cfd161898d7ec946c48746d18cf8d2c77eb7f1a",
+  "type": "ERC1155",
+  "name": "Studio Provenance - Daniel Labrosse - Private Life",
+  "tokenCount": "6",
+  "uri": "https://nft.anothernow.io/provenance-art-gallery/labrosse-daniel/metadata/1.json",
+  "metadata": {
+    "name": "Flower Girl",
+    "description": "The artist’s fiancée and muse of 7 years is interpreted as a lush garden. She comes out of her winter seasonal depression and dormancy into spring full of energy and activeness.",
+    "image": "https://nft.anothernow.io/provenance-art-gallery/labrosse-daniel/images/Flowergirl.mp4",
+    "date": "31/05/2022 13:52:30 CET",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Labrosse Dániel"
+      },
+      {
+        "trait_type": "Technique",
+        "value": "3D art"
+      },
+      {
+        "trait_type": "Gallery",
+        "value": "Provenance Art Gallery"
+      }
+    ],
+    "engine": "Agent FUD Art Engine v0.3.4"
+  }
+}

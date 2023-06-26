@@ -1,0 +1,39 @@
+{
+  "address": "0xf9e631014ce1759d9b76ce074d496c3da633ba12",
+  "type": "ERC721",
+  "name": "Zo World Founders",
+  "tokenCount": "1111",
+  "uri": "https://nft-cdn.zo.xyz/founders/1.json",
+  "metadata": {
+    "name": "Founder #1",
+    "image_url": "https://nft-cdn.zo.xyz/founders/1.gif",
+    "static_image_url": "https://nft-cdn.zo.xyz/founders/1.png",
+    "animation_url": "https://nft-cdn.zo.xyz/founders/1.mp4",
+    "attributes": [
+      {
+        "trait_type": "Destination",
+        "value": "Chile"
+      },
+      {
+        "trait_type": "Culture",
+        "value": "Photography"
+      },
+      {
+        "trait_type": "Time",
+        "value": "October"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Journey",
+        "value": "Bus"
+      },
+      {
+        "trait_type": "Zo",
+        "value": "Green"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "address": "0x5e4b87d0bbdbe0c876ad2700f7683f16557f56b9",
+  "type": "ERC721",
+  "name": "Ukiyo-ai",
+  "tokenCount": "5",
+  "uri": "https://ipfs.pixura.io/ipfs/QmSeDCBngtzbu6oqCBGDPHXbyAJkpm7yne4jxYzfWD77SF/metadata.json",
+  "metadata": {
+    "name": "ニンフ",
+    "createdBy": "grebenshyo",
+    "yearCreated": "2022",
+    "description": "{\n    \"ddim_eta\": 1.0,\n    \"guidance_scale\": 15,\n    \"prompt\": \"young beautiful oriental cyberpunk nymph witch android samurai priestess with long colorful kimono, fluid ink, symmetrical!!!!! detailed, full shot, organic painting, sunny day, matte painting, bold shapes, hard edges, street art, trending on artstation, by huang guangjian, ash thorp, sachin teng and mucha\",\n    \"sampler\": \"klms\",\n    \"seed\": 1002079488,\n    \"steps\": 150,\n    \"width\": 512,\n    \"height\": 768\n}",
+    "image": "https://ipfs.pixura.io/ipfs/QmU1N93gcKEjGXVY5TT8DG2w8MhZhvkaLhCeENiReDVsxi/nymph67_0057_out_out.jpg",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmU1N93gcKEjGXVY5TT8DG2w8MhZhvkaLhCeENiReDVsxi/nymph67_0057_out_out.jpg",
+      "dimensions": "4096x6144",
+      "size": "5418843",
+      "mimeType": "image/jpeg"
+    },
+    "tags": [
+      "stablediffusion",
+      "ai",
+      "raw",
+      "huangguangjian",
+      "ashthorp",
+      "sachinteng",
+      "alphonsemucha",
+      "nymph",
+      "v1_4"
+    ],
+    "attributes": [
+      {
+        "trait_type": "dimensions",
+        "value": "4096 × 6144"
+      },
+      {
+        "trait_type": "date",
+        "value": "2022"
+      }
+    ]
+  }
+}

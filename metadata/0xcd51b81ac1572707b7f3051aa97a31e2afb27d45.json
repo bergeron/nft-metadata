@@ -1,0 +1,63 @@
+{
+  "address": "0xcd51b81ac1572707b7f3051aa97a31e2afb27d45",
+  "type": "ERC721",
+  "name": "MakersPlaceV2",
+  "tokenCount": "5014",
+  "uri": "ipfs://QmTLmCfcHWPJtFm5wQU56wqViEyEBZeV1YSzUmFQjCzKxK",
+  "metadata": {
+    "title": "I LOVE MARK ZUCKERBERG",
+    "name": "I LOVE MARK ZUCKERBERG",
+    "type": "object",
+    "imageUrl": "https://ipfsgateway.makersplace.com/ipfs/QmRzK4GqREEtaBoejptvy3k4P34ZSsh94ZaAfHNn9Z5Lx1",
+    "description": "YOU WILL KEEP YOUR EYES ON THE SCREEN AT ALL TIMES, YOU WILL SCROLL, YOU WILL COMMENT, YOU WILL LIKE, YOU WILL FOLLOW AND YOU WILL POST THAT THRIST PIC FOR DADDY ZUCC ZUCC. YOU WILL NOT DISSENT, YOU WILL NOT QUESTION, YOU WILL TWERK ON REELS.",
+    "attributes": [
+      {
+        "trait_type": "Creator",
+        "value": "lushsux"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "I LOVE MARK ZUCKERBERG"
+      },
+      "description": {
+        "type": "string",
+        "description": "YOU WILL KEEP YOUR EYES ON THE SCREEN AT ALL TIMES, YOU WILL SCROLL, YOU WILL COMMENT, YOU WILL LIKE, YOU WILL FOLLOW AND YOU WILL POST THAT THRIST PIC FOR DADDY ZUCC ZUCC. YOU WILL NOT DISSENT, YOU WILL NOT QUESTION, YOU WILL TWERK ON REELS."
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://ipfsgateway.makersplace.com/ipfs/QmRzK4GqREEtaBoejptvy3k4P34ZSsh94ZaAfHNn9Z5Lx1"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "jpg"
+      },
+      "created_at": {
+        "type": "datetime",
+        "description": "2021-10-19T10:41:21.871968+00:00"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 7
+      },
+      "digital_media_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "digital_media_signature": {
+        "type": "string",
+        "description": "d6b8cb17e9fd4aa01afb3f5826ca7d81ab780743309d093311fab3ea8afdadb2"
+      },
+      "preview_media_file2": {
+        "type": "string",
+        "description": "https://ipfsgateway.makersplace.com/ipfs/QmSdLR54PTnxJjvdnVGyCHafyX9AwXQhiR2fU4KuiD7AqS"
+      },
+      "preview_media_file2_type": {
+        "type": "string",
+        "description": "mp4"
+      }
+    },
+    "available_for_purchase_at": "2021-10-29T10:41:21.871968+00:00"
+  }
+}

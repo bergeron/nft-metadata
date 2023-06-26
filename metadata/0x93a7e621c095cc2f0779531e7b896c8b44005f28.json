@@ -1,0 +1,24 @@
+{
+  "address": "0x93a7e621c095cc2f0779531e7b896c8b44005f28",
+  "type": "ERC1155",
+  "name": "StarkSight Rewards",
+  "tokenCount": "1",
+  "uri": "ipfs://QmcgZ75UGZwe3Hky4a5i15qhHpcuigae8xd4naMCDE95z7/1.json",
+  "metadata": {
+    "name": "Awesome Beta Tester",
+    "description": "In recognition of the help provided for the development of StarkSight.xyz.  \nTradable - Redeemable when SWAY will be launched by Influence and released to Teandy.  \nSee details on starksight.xyz/rewards",
+    "attributes": [
+      {
+        "trait_type": "Redeemable for",
+        "value": "SWAY"
+      },
+      {
+        "trait_type": "Amount",
+        "value": "25000"
+      }
+    ],
+    "image": "ipfs://QmWSeeoqvUq4s33EhxD6bqZ2d5eZSqmZwqrEi51oCzW7V4",
+    "animation_url": "ipfs://QmNoZsiAZFAP4nhLY7JwT9Ddk2zyqkoQc16mNFgdooetjF",
+    "external_url": "https://starksight.xyz/rewards"
+  }
+}

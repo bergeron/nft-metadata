@@ -1,0 +1,69 @@
+{
+  "address": "0xab7974b6336d6a679ee0d6e2a8f00632d5eed995",
+  "type": "ERC721",
+  "name": "Square Cat V2",
+  "tokenCount": "15",
+  "uri": "http://data.squarecats.club.s3-website-us-west-1.amazonaws.com/json/1",
+  "metadata": {
+    "name": "Square Cat #1",
+    "description": "Square Cats Club is a deflationary NFT collection of 9999 Square Cats on the Ethereum blockchain. Owners can combine 3 of their Square Cats to create a Square Cat Warrior! Owners will be able to dictate the destiny of the Square Cats in exclusive Role Playing Experiences, mingle with like-minded owners in owner-verified Discord channels, get access to exclusive Square Cat merch, and much, much more!",
+    "image": "http://data.squarecats.club.s3-website-us-west-1.amazonaws.com/images/ebaf8de5056aa72e23265725b1c6fa0b5b16ed1cdb9106605672fb501e23cf0a.png",
+    "type": "Basic",
+    "attributes": [
+      {
+        "trait_type": "special",
+        "value": "Milk"
+      },
+      {
+        "trait_type": "head",
+        "value": "Sweat Drop"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Round"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "Wise Beard"
+      },
+      {
+        "trait_type": "ears",
+        "value": "Bitten"
+      },
+      {
+        "trait_type": "body",
+        "value": "Cream"
+      },
+      {
+        "trait_type": "tail",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "background",
+        "value": "Mint"
+      }
+    ],
+    "stats": [
+      {
+        "stat": "Strength",
+        "value": 4
+      },
+      {
+        "stat": "Defense",
+        "value": 5
+      },
+      {
+        "stat": "Health",
+        "value": 3
+      },
+      {
+        "stat": "Agility",
+        "value": 3
+      },
+      {
+        "stat": "Intelligence",
+        "value": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0x8b79b97bf6b88ec7d145e44d0fc2cdb37e7a5a72",
+  "type": "ERC1155",
+  "name": "Pickle Editions",
+  "tokenCount": "5",
+  "uri": "https://static.mustardlabs.io/pickles/editions/data/1.json",
+  "metadata": {
+    "name": "Pickle Jam",
+    "description": "A pickle celebration.",
+    "external_url": "https://picklepeople.io",
+    "image": "https://static.mustardlabs.io/pickles/editions/img/1.gif",
+    "price": "69",
+    "attributes": [
+      {
+        "trait_type": "Vibe",
+        "value": "Strong"
+      },
+      {
+        "trait_type": "Dillary",
+        "value": "Maximum"
+      },
+      {
+        "trait_type": "Freshness",
+        "value": "Very Fresh"
+      }
+    ]
+  }
+}

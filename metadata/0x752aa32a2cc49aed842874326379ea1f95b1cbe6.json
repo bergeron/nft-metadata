@@ -1,0 +1,32 @@
+{
+  "address": "0x752aa32a2cc49aed842874326379ea1f95b1cbe6",
+  "type": "ERC721",
+  "name": "DiGiTAL Collectibles",
+  "tokenCount": "39",
+  "uri": "https://infiNFT.azurewebsites.net/api/HttpTrigger?artContract=0x752aa32a2cc49aed842874326379ea1f95b1cbe6&id=1",
+  "metadata": {
+    "image": "https://gateway.pinata.cloud/ipfs/QmWU12Xf1ejYuoQ1wdSDW8w7z3fSmj4ff5vpHLShzBpsgW",
+    "description": "DIGITAL collectible #1. Ultra rare cover art variant for the song \"Don't Be Afraid.\"",
+    "animation_url": "",
+    "external_url": "https://www.infinft.com/view.html?artistcontract=0x752aa32a2cc49aed842874326379ea1f95b1cbe6&token=1",
+    "name": "DON'T BE AFRAID (COVER ART)",
+    "attributes": [
+      {
+        "trait_type": "artist name",
+        "value": "Digital"
+      },
+      {
+        "trait_type": "edition number",
+        "value": "1 of 1"
+      },
+      {
+        "trait_type": "exhibition",
+        "value": "Don't Be Afraid"
+      },
+      {
+        "trait_type": "file type",
+        "value": "png"
+      }
+    ]
+  }
+}

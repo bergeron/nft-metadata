@@ -1,0 +1,63 @@
+{
+  "address": "0x8de57590887da5b2dc467a1d105be727b42e95a8",
+  "type": "ERC721",
+  "name": "interstellar APEs Club",
+  "tokenCount": "4210",
+  "uri": "ipfs://bafybeidhb6nyn755deavyowhsy4gu6b5ntx7muvyi4dcdspskd32fpe4ni/1.json",
+  "metadata": {
+    "name": "Primate #2",
+    "symbol": "PRIM",
+    "description": "Collection of 10,000 Primates facilitating a seamless adoption of the web3 space through community fueled ventures and collaborations.",
+    "image": "https://bafybeiaotzlnjrruljdipdtzfdwf56m7hrjce2ypzyeg3pgkcilf7xtoz4.ipfs.nftstorage.link/1.png?ext=png",
+    "collection": {
+      "name": "Primates",
+      "family": "Primates"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://bafybeiaotzlnjrruljdipdtzfdwf56m7hrjce2ypzyeg3pgkcilf7xtoz4.ipfs.nftstorage.link/1.png?ext=png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "FsSViDSVB1FjxYFki2ouT7NVBgXaeeqjTJhurBAn9uKV",
+          "share": 95
+        },
+        {
+          "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+          "share": 5
+        }
+      ],
+      "category": "image"
+    },
+    "attributes": [
+      {
+        "trait_type": "Body",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Bib"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Thug Life Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Head",
+        "value": "None"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      }
+    ],
+    "seller_fee_basis_points": 750
+  }
+}

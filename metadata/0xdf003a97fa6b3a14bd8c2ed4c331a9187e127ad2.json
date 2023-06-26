@@ -1,0 +1,25 @@
+{
+  "address": "0xdf003a97fa6b3a14bd8c2ed4c331a9187e127ad2",
+  "type": "ERC1155",
+  "name": "Alpaca City",
+  "tokenCount": "5",
+  "uri": "https://api.alpaca.city/wearable/metadata/1",
+  "metadata": {
+    "name": "Brown Scarf",
+    "description": "",
+    "image": "https://d1wo2tfj2enqpq.cloudfront.net/wearables/scarfs/brown.png",
+    "external_url": "https://alpaca.city/wearable/scarf/1",
+    "background_color": "#ECC4D9",
+    "attributes": [
+      {
+        "trait_type": "type",
+        "value": "Scarf"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "energy",
+        "value": 100
+      }
+    ]
+  }
+}

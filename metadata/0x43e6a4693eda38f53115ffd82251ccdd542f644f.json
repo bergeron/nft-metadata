@@ -1,0 +1,51 @@
+{
+  "address": "0x43e6a4693eda38f53115ffd82251ccdd542f644f",
+  "type": "ERC721",
+  "name": "Goblins Hate NFTs",
+  "tokenCount": "3833",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmTepWz6V3BzjpyEaB8DhY23CGEw5CCgJtjV6sHU8Zy4TJ/1.json",
+  "metadata": {
+    "image": "https://gateway.pinata.cloud/ipfs/QmdcsNefDxurPazpqR9o8AvgpJdmFaLwnuNW2UPAahfs9T/1.png",
+    "name": "Goblins Hate NFTs #1",
+    "description": "",
+    "external_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Goblins Hate NFTs",
+      "family": ""
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "share": 100,
+          "address": "0xA6Aea98f48C885Cb03FDC88FCFA5830C47adC726"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Nude Blue"
+      },
+      {
+        "trait_type": "Bodynarm",
+        "value": "Longhanded"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Arrowthrewhed"
+      },
+      {
+        "trait_type": "Sign",
+        "value": "Ethisgoing"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

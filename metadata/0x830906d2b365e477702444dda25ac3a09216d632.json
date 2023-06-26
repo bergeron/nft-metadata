@@ -1,0 +1,48 @@
+{
+  "address": "0x830906d2b365e477702444dda25ac3a09216d632",
+  "type": "ERC721",
+  "name": "METTO CPU [Genesis]",
+  "tokenCount": "33",
+  "uri": "ipfs://bafybeieut27hqbwbtnk3ctf3mj4qk7bpeuhpzigpoavln7a3vkcu6oz2ya/genesis-cpu.json",
+  "metadata": {
+    "name": "METTO Genesis CPU",
+    "description": "The first and foremost gear of the Memory Controller is the CPU. It allows you to push the $AUG mining activities to the next level and opens the ability to create a squad (team, guild of 4 members).",
+    "properties": {
+      "purpose": {
+        "name": "Purpose Of The Item",
+        "value": "memory_controller:cpu",
+        "display_value": "Memory Controller CPU",
+        "class": "emphasis"
+      },
+      "rarity": {
+        "name": "Rarity",
+        "value": "legendary",
+        "display_value": "Legendary",
+        "class": "emphasis",
+        "css": {
+          "color": "#ffd700",
+          "font-weight": "bold"
+        }
+      },
+      "mining_speed": {
+        "name": "Augmentum Mining Speed",
+        "value": "3",
+        "display_value": "3 $AUG/Hr",
+        "class": "emphasis"
+      },
+      "memory_size": {
+        "name": "RAM Size",
+        "value": "150",
+        "display_value": "150 $AUG",
+        "class": "emphasis"
+      },
+      "create_gang_ability": {
+        "name": "Ability To Create A Gang",
+        "value": "4",
+        "display_value": "Max members: 4",
+        "class": "emphasis"
+      }
+    },
+    "image": "ipfs://bafybeibqpmsjgsykmanvt56g2dhvi3jhxr6xxjw4hxxn2nyo2ewwn7zf5u/genesis-cpu.mp4"
+  }
+}

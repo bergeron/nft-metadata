@@ -1,0 +1,37 @@
+{
+  "address": "0x63464e6c6179c769f6327e18b5f6d197e2786c33",
+  "type": "ERC721",
+  "name": "CO Genesis Diamonds",
+  "tokenCount": "45",
+  "uri": "https://nft.courbet.com/api/web3/diamond-metadata?id=1",
+  "metadata": {
+    "image": "https://nft.courbet.com/assets/diamonds/grow_pink.jpeg",
+    "name": "CO Genesis Diamond #1 (Pink)",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Stage",
+        "value": "0"
+      },
+      {
+        "trait_type": "Weight_ct",
+        "value": "0"
+      },
+      {
+        "trait_type": "Next_Stage_Progress",
+        "value": "3.8"
+      },
+      {
+        "trait_type": "Growing",
+        "value": "yes"
+      },
+      {
+        "trait_type": "Growth_Stage",
+        "value": "1"
+      }
+    ]
+  }
+}

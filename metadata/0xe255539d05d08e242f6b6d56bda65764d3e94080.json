@@ -1,0 +1,57 @@
+{
+  "address": "0xe255539d05d08e242f6b6d56bda65764d3e94080",
+  "type": "ERC721",
+  "name": "BeyondNFT Factories",
+  "tokenCount": "154",
+  "uri": "https://api.beyondnft.io/nfts/0xe255539d05d08e242f6b6d56bda65764d3e94080/1",
+  "metadata": {
+    "name": "Mesmerizing Words #2",
+    "description": "Discover how mesmerizing your favorite word(s) can be.\n\n-\nMesmerizing Words is a generative art experiment that lets you manipulate the rendering of your deterministic art.\n\nChoose a word, phrase, poem, or passage to create your own Mesmerizer. Keep the creation for yourself or gift to someone special! Only one instance per seed can exist, so choose your favorite word or phrase carefully, before others beat you to it!\n-\nLicense: NFT License 2.0\n\n\nby @dievardump",
+    "properties": {
+      "process": "generative",
+      "library": "p5js",
+      "type": "user input",
+      "Factory": "Mesmerizing Words",
+      "Factory id": "1",
+      "depth": 6,
+      "repeaters": 0
+    },
+    "interactive_nft": {
+      "version": "0.0.9",
+      "dependencies": [],
+      "properties": [],
+      "factory": {
+        "type": "INPUT_SEED",
+        "allowCustomName": false,
+        "properties": [
+          {
+            "type": "INPUT_SEED",
+            "name": "Seed",
+            "key": "seed",
+            "defaultValue": "seed"
+          }
+        ],
+        "price": 0.01,
+        "maxSupply": 4096,
+        "royalties": 4,
+        "creator": "0xd1eddfcc4596cc8bd0bd7495beab9b979fc50336"
+      },
+      "code_uri": "ipfs://Qmbvc7PDY4yeX38T2zH7oGBP9U1TgyQeHQdZZ6xWxr5dDQ",
+      "code_uri_signature": "0x357adef200d1dc0a40a1612302f6d87871edc763f178c89408462dddc909c3990d789757c7b36eeb65620d2cb22017ca85b9d760350c212dd218554ab286d05d1b"
+    },
+    "license": "NFT License 2.9",
+    "image": "ipfs://Qmcezf4TzuBkMkDXXUX1LAR7jw5SFQpTp5P67mMXvq7i8g",
+    "external_url": "https://beyondnft.io/explore/0xe255539d05d08e242f6b6d56bda65764d3e94080/1",
+    "$factoryData": {
+      "seed": "0xd952fe0740d9d14011fc8ead3ab7de3c739d3aa93ce9254c10b0134d80d26a30",
+      "__openSeed": "love",
+      "__minter": "0x2dcd19b9581c893fdb8668461863e04b679550b6",
+      "__index": "2"
+    },
+    "contract": "0xe255539d05d08e242f6b6d56bda65764d3e94080",
+    "tokenId": "1",
+    "edition": "2 of 4096",
+    "createdAt": "2021-05-18T02:50:59.000+00:00",
+    "animation_url": "https://api.beyondnft.io/render/0xe255539d05d08e242f6b6d56bda65764d3e94080/1"
+  }
+}

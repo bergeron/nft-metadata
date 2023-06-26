@@ -1,0 +1,40 @@
+{
+  "address": "0x9eb7db5c14329ffdd4645f8155afeed728e76874",
+  "type": "ERC1155",
+  "name": "Nifty Island Totems",
+  "tokenCount": "3",
+  "uri": "https://nifty-island-totem-public.s3.us-east-2.amazonaws.com/socrates_totem.json",
+  "metadata": {
+    "name": "Socrates Totem",
+    "description": "The Socrates Totem was granted to the first great DAOs to enter the metaverse.",
+    "image": "https://nifty-island-totem-public.s3.us-east-2.amazonaws.com/socrates_video.mp4",
+    "metadata_standard": "ETM_v1.0.0",
+    "extensions": [
+      "ETM_MULTIASSET_v1.0.0"
+    ],
+    "assets": [
+      {
+        "media_type": "model",
+        "asset_type": "statue",
+        "files": [
+          {
+            "url": "https://nifty-island-totem-public.s3.us-east-2.amazonaws.com/socrates_model.fbx",
+            "file_type": "model/fbx"
+          },
+          {
+            "url": "https://nifty-island-totem-public.s3.us-east-2.amazonaws.com/socrates_video.mp4",
+            "file_type": "video/mp4"
+          },
+          {
+            "url": "https://nifty-island-totem-public.s3.us-east-2.amazonaws.com/socrates_image.png",
+            "file_type": "image/png"
+          },
+          {
+            "url": "https://nifty-island-totem-public.s3.us-east-2.amazonaws.com/socrates_image_transparent.png",
+            "file_type": "image/png"
+          }
+        ]
+      }
+    ]
+  }
+}

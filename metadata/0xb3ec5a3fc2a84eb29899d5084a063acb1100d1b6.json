@@ -1,0 +1,53 @@
+{
+  "address": "0xb3ec5a3fc2a84eb29899d5084a063acb1100d1b6",
+  "type": "ERC721",
+  "name": "Moopetite - Kitten edition",
+  "tokenCount": "1",
+  "uri": "ipfs://QmZRo62fo1XZMxLT7MfRiA2cSMpsDcFRrmvNU9PqKBSbPC/1.json",
+  "metadata": {
+    "name": "Moopetite - Kitten #1",
+    "description": "Moopetite - Kitten #1 - Cute kitty from the Moopetite family.\nEssentially, it's a pet that looks like you.",
+    "fee_recipient": "0x9A338Dce570f83474EB292322fc0cCEbeb2EB1Eb",
+    "seller_fee_basis_points": 800,
+    "image": "ipfs://Qmem9nAiwivFAVkS8P5PhtAB2w6AXjpP3HCEYdF56ZpZHY/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue 3"
+      },
+      {
+        "trait_type": "Breed",
+        "value": "Orange With White Spots"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Astronaut Suit"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "SmallR"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Type 29"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Orange Cap"
+      },
+      {
+        "trait_type": "Moustache",
+        "value": "Basic"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pilot Goggles"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 386,
+        "display_type": "number"
+      }
+    ]
+  }
+}

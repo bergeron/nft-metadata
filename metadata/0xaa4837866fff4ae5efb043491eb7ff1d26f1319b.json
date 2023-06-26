@@ -1,0 +1,28 @@
+{
+  "address": "0xaa4837866fff4ae5efb043491eb7ff1d26f1319b",
+  "type": "ERC721",
+  "name": "HonestWork Genesis",
+  "tokenCount": "15",
+  "uri": "https://api.honestwork.app/metadata/1",
+  "metadata": {
+    "name": "HonestWork #1",
+    "description": "Introducing HonestWork Genesis NFT - the ultimate freelancer membership to our platform. AI-generated visuals and 3 tiers to choose from make your NFT a unique key to unlock access to HonestWork features and benefits. What's more, HonestWork Genesis also records your revenue on the blockchain, enabling you to earn future airdrops based on your performance. Join HonestWork today and take your freelancing career to the next level!",
+    "image": "https://honestwork-userfiles.fra1.cdn.digitaloceanspaces.com/genesis-nft/1.png",
+    "external_url": "https://honestwork.app",
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": 3,
+        "max_value": 3
+      },
+      {
+        "trait_type": "Gross Revenue",
+        "value": 0
+      },
+      {
+        "trait_type": "Revenue Tier",
+        "value": "< $1000"
+      }
+    ]
+  }
+}

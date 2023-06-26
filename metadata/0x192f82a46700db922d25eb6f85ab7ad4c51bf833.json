@@ -1,0 +1,62 @@
+{
+  "address": "0x192f82a46700db922d25eb6f85ab7ad4c51bf833",
+  "type": "ERC721",
+  "name": "No Face Pixel NFT",
+  "tokenCount": "3509",
+  "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/QmP3e5NY545kkskKaMZ8QQPvPmjk926qQYyMNC8T2Hwh9P/1.json",
+  "metadata": {
+    "name": "Faceless Souls #1",
+    "symbol": "FSD",
+    "description": "Faceless Souls is a collection of 3333 lost souls living in the Solana Chain ",
+    "seller_fee_basis_points": 750,
+    "image": "https://testlaunchmynft.mypinata.cloud/ipfs/QmasfXByhPg13LtsdtP2maCeczzpr8Prg3WUBRGSrMSHGY/1.png",
+    "external_url": "",
+    "collection": {
+      "name": "Faceless Souls DAO",
+      "family": "LaunchMyNFT"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Droid"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Red T'Shirt"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 1891,
+        "display_type": "number",
+        "max_value": 3333
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/QmasfXByhPg13LtsdtP2maCeczzpr8Prg3WUBRGSrMSHGY/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "B7m7w8ot5PPE1K219uLbuWekS2xuttQbvRRFTvmDEwnA",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

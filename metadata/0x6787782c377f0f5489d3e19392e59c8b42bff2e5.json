@@ -1,0 +1,75 @@
+{
+  "address": "0x6787782c377f0f5489d3e19392e59c8b42bff2e5",
+  "type": "ERC721",
+  "name": "Unicorn Masters by David Sandberg",
+  "tokenCount": "17",
+  "uri": "https://monegraph.mypinata.cloud/ipfs/QmaqoFYqPrNCzswG1gP8NteVHRtdpJo3xAf4QvAiWg1kQB",
+  "metadata": {
+    "name": "Bandeath",
+    "description": "A MUMMY BANDIT who will steal all your belongings... TO DEATH.",
+    "external_url": "",
+    "animation_url": "",
+    "image": "https://monegraph.mypinata.cloud/ipfs/QmPpSAkAvYPnMp8NfKuRJs4Af5RWitR9p5rzdLNCj1xLct/Bandeath.gif",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "David Sandberg"
+      },
+      {
+        "trait_type": "Rights Agreement",
+        "value": "https://ipfs.io/ipfs/QmSJ3cLSsSwRZKwEC6PjmjZuT8WdAW7xbG9RN3nQJDG7hP"
+      },
+      {
+        "trait_type": "Archive Link",
+        "value": "Not applicable"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Bandeath"
+      },
+      "description": {
+        "type": "string",
+        "description": "A MUMMY BANDIT who will steal all your belongings... TO DEATH."
+      },
+      "image": {
+        "type": "string",
+        "description": "https://monegraph.mypinata.cloud/ipfs/QmPpSAkAvYPnMp8NfKuRJs4Af5RWitR9p5rzdLNCj1xLct/Bandeath.gif"
+      },
+      "rights_agreement": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/QmSJ3cLSsSwRZKwEC6PjmjZuT8WdAW7xbG9RN3nQJDG7hP"
+      },
+      "rights_agreement_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "rights_agreement_signature": {
+        "type": "string",
+        "description": "148fffdc0aec5133a582b8be443c0d33a929c30f5f13f46e5e6d87bbdf617e37"
+      },
+      "archive_link": {
+        "type": "string"
+      },
+      "archive_link_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "archive_link_signature": {
+        "type": "string"
+      },
+      "rights_agreement_values": {
+        "$ARTIST": "David Sandberg",
+        "$URL": "https://monegraph.mypinata.cloud/ipfs/QmPpSAkAvYPnMp8NfKuRJs4Af5RWitR9p5rzdLNCj1xLct/Bandeath.gif",
+        "$TITLE": "Bandeath",
+        "$YEAR": "2021",
+        "$ROYALTYRATE": "10",
+        "$ADDRESS": "0xc26a38066829f3d2ea14114b96131c41ca23b648",
+        "$TOKEN": "eth",
+        "$LICENSE": "CA.05.19.21., Patent No. US 10,380,702",
+        "$CONTRACTSHAHASH": "148fffdc0aec5133a582b8be443c0d33a929c30f5f13f46e5e6d87bbdf617e37"
+      }
+    }
+  }
+}

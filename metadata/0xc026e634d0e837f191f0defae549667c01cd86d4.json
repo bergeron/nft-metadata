@@ -1,0 +1,31 @@
+{
+  "address": "0xc026e634d0e837f191f0defae549667c01cd86d4",
+  "type": "ERC721",
+  "name": "The Stradivarius violin \"Cobbett\"",
+  "tokenCount": "67",
+  "uri": "https://api.nftclassicsociety.ai/stradivarius/metadata/1",
+  "metadata": {
+    "name": "Maestro #1",
+    "image": "https://storage.googleapis.com/nftclassicsociety-prod/stradivarius/metadata/videos/maestro_short.mp4",
+    "animation_url": "https://storage.googleapis.com/nftclassicsociety-prod/stradivarius/metadata/videos/maestro_full.mp4",
+    "description": "Includes digital images of the Stradivarius violin and original audio from violinist Stephen Kim on a real Stradivarius violin.",
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": 1
+      },
+      {
+        "trait_type": "Music",
+        "value": "Chaconne"
+      },
+      {
+        "trait_type": "Musician",
+        "value": "Stephen Kim"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Common Computer"
+      }
+    ]
+  }
+}

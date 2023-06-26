@@ -1,0 +1,36 @@
+{
+  "address": "0xf5d4f16b0ec26dc562279a12eb17c667a4906ba9",
+  "type": "ERC721",
+  "name": "Tronic Racing",
+  "tokenCount": "120",
+  "uri": "ipfs://QmW732fPRRYpBHPV1urDHoN8bH98nsPV3xExco2CZGzm8Z/1/metadata.json",
+  "metadata": {
+    "name": "Tronic Racer #1",
+    "description": "A collection of 5,555 small, toy 3D cars ready to race!",
+    "image": "ipfs://QmPWGw9sn3NsGi23BYAqNt6YB4kueyTv6viapushaey3aw/1.jpg",
+    "animation_url": "https://www.tronicracing.xyz/tronic-racers/3d/1",
+    "external_url": "https://tronicracing.xyz/tronic-racers/1",
+    "attributes": [
+      {
+        "trait_type": "Body",
+        "value": "Wagon"
+      },
+      {
+        "trait_type": "Paint",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Front",
+        "value": "Pulse"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Light Em Up"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0xdb377ecd85719469f0aa7d799ccc8776013d48db",
+  "type": "ERC721",
+  "name": "Ladsdles NFT",
+  "tokenCount": "1",
+  "uri": "ipfs://QmYuooZLrfDFY1P5CSfpr5SCj2UiLejdLpJUtfxsS87L9T/1.json",
+  "metadata": {
+    "name": "Ladsdles NFT #1",
+    "description": "Welcome to Ladsdles NFT",
+    "image": "ipfs://QmaHaZijhk3ovcn4m1bmVWqBBtUemPTuZjpwfoHPycRi5T/1.png",
+    "dna": "29df74b228db3cc0e6c351c935dbae7cf9f35464",
+    "edition": 1,
+    "date": 1641656814329,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Bandana"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Horned Rim Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Vape"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

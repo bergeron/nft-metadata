@@ -1,0 +1,46 @@
+{
+  "address": "0xa36251c995d8376b6fcf9964eed79e62706b4723",
+  "type": "ERC721",
+  "name": "Nano Portrait",
+  "tokenCount": "41",
+  "uri": "ipfs://QmNU7JAvo2DhRrPaagxn7ZbP2VV264D8gnu4nC7MZbtY1t/1",
+  "metadata": {
+    "name": "Nano Portrait 1",
+    "description": "Nano Portrait is PFP (picture-for-proof) collection, base on Nano Paint collection ( https://rarible.com/NanoPaint ).\n\nSo this means if you hold Nano Portrait on you wallet you have chance to win FREE NFT from each of Nano Paint next drops.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNr9o3cyLFenohLwfPiwNkcM4En75CdN9D4CghEAFQA3j/1.png",
+    "external_url": "https://twitter.com/NanoPainter",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue gray"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Lime"
+      },
+      {
+        "trait_type": "Lips",
+        "value": "Active purpur"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red ROSE"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Dark Japan #1"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Winning chance",
+        "max_value ": 25,
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      }
+    ]
+  }
+}

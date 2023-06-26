@@ -1,0 +1,89 @@
+{
+  "address": "0x6110d61dd1133b0f845f1025d6678cd22a11a2fe",
+  "type": "ERC721",
+  "name": "Prologue by Spice",
+  "tokenCount": "555",
+  "uri": "ipfs://QmVYZF6f2mhRC8kRVuLZKXJF4t4ZaFv4dskfc4TnJ99495/1",
+  "metadata": {
+    "name": "Prologue #1",
+    "symbol": "PRLG",
+    "description": "Prologue is the first NFT to represent a position on a Spice vault",
+    "seller_fee_basis_points": 200,
+    "image": "ipfs://QmXxiNVxRLbih9fLerooM9KHRJJusYutivey16hjpwcFgE/1.png",
+    "animation_url": "",
+    "external_url": "https://spicefi.xyz/",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "aura",
+        "value": "Mythic"
+      },
+      {
+        "trait_type": "base",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "face_paint",
+        "value": "None"
+      },
+      {
+        "trait_type": "expression",
+        "value": "Grin"
+      },
+      {
+        "trait_type": "facial_hair",
+        "value": "None"
+      },
+      {
+        "trait_type": "clothing",
+        "value": "Doublet"
+      },
+      {
+        "trait_type": "face",
+        "value": "None"
+      },
+      {
+        "trait_type": "hair",
+        "value": "Side Fringe"
+      },
+      {
+        "trait_type": "head",
+        "value": "None"
+      },
+      {
+        "trait_type": "hand",
+        "value": "Prologue"
+      },
+      {
+        "trait_type": "gender",
+        "value": "Male"
+      },
+      {
+        "trait_type": "faction",
+        "value": "Portal_Traveler"
+      }
+    ],
+    "collection": {
+      "name": "Prologue",
+      "family": "Spice"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://QmXxiNVxRLbih9fLerooM9KHRJJusYutivey16hjpwcFgE/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x7B15f2B26C25e1815Dc4FB8957cE76a0C5319582",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

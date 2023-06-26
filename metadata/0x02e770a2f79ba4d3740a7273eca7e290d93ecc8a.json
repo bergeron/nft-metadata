@@ -1,0 +1,40 @@
+{
+  "address": "0x02e770a2f79ba4d3740a7273eca7e290d93ecc8a",
+  "type": "ERC721",
+  "name": "Vech Founders Edition",
+  "tokenCount": "1255",
+  "uri": "https://vech.s3.us-west-1.amazonaws.com/metadata/5144",
+  "metadata": {
+    "name": "Vech 5144",
+    "description": "Vechs are procedurally generated hovercrafts engineered for utility, performance and style.",
+    "attributes": [
+      {
+        "trait_type": "wing(yuzu)",
+        "value": "Ash II"
+      },
+      {
+        "trait_type": "warpdrive(spectre)",
+        "value": "Shade II"
+      },
+      {
+        "trait_type": "navigationsystems(yuzu)",
+        "value": "X11"
+      },
+      {
+        "trait_type": "sensor",
+        "value": "Ultraviolet"
+      },
+      {
+        "trait_type": "fusion turbine",
+        "value": "Composite"
+      },
+      {
+        "trait_type": "series",
+        "value": "Founders Edition"
+      }
+    ],
+    "image": "https://vech.s3.us-west-1.amazonaws.com/vechs/5144/5144.jpg",
+    "animation_url": "https://vech.s3.us-west-1.amazonaws.com/vechs/5144/5144.glb",
+    "background_color": "000000"
+  }
+}

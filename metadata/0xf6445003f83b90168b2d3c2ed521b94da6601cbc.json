@@ -1,0 +1,34 @@
+{
+  "address": "0xf6445003f83b90168b2d3c2ed521b94da6601cbc",
+  "type": "ERC721",
+  "name": "myfancestry",
+  "tokenCount": "6",
+  "uri": "https://tokenmetadata.bildr.com/v1/myfancestry/1",
+  "metadata": {
+    "name": "My Fancestry",
+    "image": "ipfs://QmP2zVGY1LadwPsMeT39xdnbYY52AXLWhUSdJw5MQEPbmg",
+    "description": "My Fancestry is a collection of true fan heritage.",
+    "attributes": [
+      {
+        "trait_type": "Ally",
+        "value": "Ben Parker"
+      },
+      {
+        "trait_type": "Nemesis",
+        "value": "Jayne Cobb"
+      },
+      {
+        "trait_type": "Inspiration",
+        "value": "K-9"
+      },
+      {
+        "trait_type": "Friend",
+        "value": "Ben Parker"
+      },
+      {
+        "trait_type": "Sidekick",
+        "value": "Maya Hansen"
+      }
+    ]
+  }
+}

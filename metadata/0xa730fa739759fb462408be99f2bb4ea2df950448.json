@@ -1,0 +1,61 @@
+{
+  "address": "0xa730fa739759fb462408be99f2bb4ea2df950448",
+  "type": "ERC721",
+  "name": "No Internet NFT - The Dino Adventures",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeib2sab5vjezvdd7qn5qbqnk2fp2ukqmbyyrh36r3vxjzihltqqfqi/1.json",
+  "metadata": {
+    "name": "DinoAdventureNFT1",
+    "description": "Each unique NFT gives you a peek into what the dinosaur is up to when your internet is back up and running. Have fun!",
+    "fee_recipient": "0xe7ef3124Ba5f8A2aa017a0B27D8758161186dE86",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://bafybeienqelr5qipcm2etj4vv57gy3cstzxzbz3yvqmnj5hbechjzqf6xi/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Meteor Shower R40"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Brown Dino R40"
+      },
+      {
+        "trait_type": "Eyegear",
+        "value": "Red Glasses R40"
+      },
+      {
+        "trait_type": "Socks",
+        "value": "Blacksocks R30"
+      },
+      {
+        "trait_type": "Bottoms",
+        "value": "Green Pant R50"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Green Bandana R60"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Red Sneakers R40"
+      },
+      {
+        "trait_type": "Wrist",
+        "value": "Red Wristband R30"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Police Shirt R70"
+      },
+      {
+        "trait_type": "Rarities",
+        "value": "Rabbit Teeth R80"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 3086,
+        "display_type": "number"
+      }
+    ]
+  }
+}

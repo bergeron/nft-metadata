@@ -1,0 +1,38 @@
+{
+  "address": "0x8a5650cbe39a595cb776b68435a4544800057b23",
+  "type": "ERC721",
+  "name": "Kevin Cats NFT",
+  "tokenCount": "272",
+  "uri": "ipfs://Qmb5zWw8dvxb92jyWeu81LeigKKrGZoA4hcHjB2tE4Jq1t/1.json",
+  "metadata": {
+    "name": "Kevin Cat #1",
+    "description": "Kevin Cat",
+    "image": "ipfs://QmTqwyUJqryJJfS5Qu3d1m1eh5Sq8cLiWihonM9fD1269h/1.png",
+    "dna": "72f882d6098f00061da2a0a7592795d29b7b206f",
+    "edition": 1,
+    "date": 1646350398984,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Flower Sweater"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Kevin"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blocky"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Helmet"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

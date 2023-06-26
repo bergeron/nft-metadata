@@ -1,0 +1,35 @@
+{
+  "address": "0x9ef51447683f799903edcf4bea0cd9946068a68d",
+  "type": "ERC721",
+  "name": "Test 4",
+  "tokenCount": "31",
+  "uri": "ipfs://QmZqA6azyPikcqWfNXQm9zKezzuLvGanr7kMGcxBzDPWno/0",
+  "metadata": {
+    "name": "Ecosapien #1 (Level 1)",
+    "image": "ipfs://QmbB4eZSLYztWGtD15AsgViKQRcfu3ybwwbvR6ZkAhy3gy/0",
+    "background_color": "000000",
+    "properties": {
+      "id": 1,
+      "level": 1
+    },
+    "attributes": [
+      {
+        "value": "16 CO2 Tonnes",
+        "trait_type": "Carbon"
+      },
+      {
+        "value": "Level 1",
+        "trait_type": "Level"
+      },
+      {
+        "value": "Common Dark Grey Green",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Common Grassland Orange",
+        "trait_type": "Environment"
+      }
+    ],
+    "externalUrl": "https://www.ecosapiens.xyz/collection/1?level=1"
+  }
+}

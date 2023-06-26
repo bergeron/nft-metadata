@@ -1,0 +1,51 @@
+{
+  "address": "0x2dbc375b35c5a2b6e36a386c8006168b686b70d3",
+  "type": "ERC721",
+  "name": "PropyNFT",
+  "tokenCount": "3",
+  "uri": "ipfs://QmXBB6qm5vopwJ6ddxb1mEr1Pp87AHd3BUgVbsipCf9hWU",
+  "metadata": {
+    "description": "This is the first NFT that provides ownership rights for a legal entity that owns a property. The property subject to the ownership rights is located at 41 Verkhovinnaya street, Kyiv, Ukraine (registration number of immovable property object: 690571680000).\n\nThe owner of the NFT becomes an owner of the property only if a real name and ID information are provided at https://propy.com/nft and terms and conditions are accepted.\n\nPropy administers the process and operations of this NFT.",
+    "external_url": "https://propy.com/nft",
+    "image": "ipfs://QmYkgvh1DCFjYWRRuqYQ3w8qAwsPfyP2Ekqdt5Gnkd9WUs",
+    "name": "PropyNFT",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Studio"
+      },
+      {
+        "trait_type": "Address",
+        "value": "Verkhovinnaya St, 41"
+      },
+      {
+        "trait_type": "Country",
+        "value": "Ukraine"
+      },
+      {
+        "trait_type": "City",
+        "value": "Kyiv"
+      },
+      {
+        "trait_type": "zip",
+        "value": "03115"
+      },
+      {
+        "trait_type": "RegNum",
+        "value": "690571680000"
+      },
+      {
+        "trait_type": "Sqft",
+        "value": "505.9"
+      },
+      {
+        "trait_type": "bedrooms",
+        "value": "1"
+      },
+      {
+        "trait_type": "bathrooms",
+        "value": "1"
+      }
+    ]
+  }
+}

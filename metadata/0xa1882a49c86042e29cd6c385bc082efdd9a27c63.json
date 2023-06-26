@@ -1,0 +1,32 @@
+{
+  "address": "0xa1882a49c86042e29cd6c385bc082efdd9a27c63",
+  "type": "ERC721",
+  "name": "Beautiful Equations",
+  "tokenCount": "300",
+  "uri": "ipfs://bafybeidt5khlbxpyu3dfy7dfykq3ck5rmws65bvlocpr24gt4rodmeyh3u/1.json",
+  "metadata": {
+    "name": "Beautiful Equation #1",
+    "description": "The universe runs on beautiful equations.\n\nBy @bitcoinski & @props.\n\nView [Full Screen](https://ipfs.io/ipfs/QmQfswch7p4cQUNe3Bnoo87CkiP78UH1GRW6cPn4CJaHmY?id=1)",
+    "image": "ipfs://bafybeihrrf2usptryihnuu7kgm7o6rtwv7dlxhi65u5mpcdgieddyr3l7q",
+    "animation_url": "ipfs://bafybeif2kzhfyei64ghisir66dysatepcum3riifekmuchjxrkqu5tz2mu?id=1",
+    "attributes": [
+      {
+        "trait_type": "Formula",
+        "value": "(x, y) => (Math.floor(Math.tan(Math.PI * (x & y)) * mod) ^ mod) % mod"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Mystic Mauve"
+      },
+      {
+        "trait_type": "Is Prime Number Driven",
+        "value": "No"
+      },
+      {
+        "trait_type": "Modulus",
+        "value": 86
+      }
+    ],
+    "external_url": "https://props.app"
+  }
+}

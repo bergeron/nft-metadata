@@ -1,0 +1,52 @@
+{
+  "address": "0xc64c4fb38ef531488bc1e8a0dcaef2b3ed18a048",
+  "type": "ERC721",
+  "name": "Laurel & Hardy - Way Out West - MovieShots",
+  "tokenCount": "555",
+  "uri": "https://api.movieshots.io/collections/tags/42/1.json",
+  "metadata": {
+    "name": "Way Out West #1",
+    "description": "Way Out West fractionalized into unique digital collectibles.\n\n- Director: James W. Horne\n- Cinematographer: Art Lloyd, Walter Lundin\n- Editor: Bert Jordan\n- Produced by: Stan Laurel & Hal Roach\n- With: Stan Laurel & Oliver Hardy\n\nT&Cs and utilities can be found on the project's website.\n[MovieShots](https://www.movieshots.io)",
+    "image": "https://arweave.net/pW7bB6SKdy7mPZXTJiD5rMUKzlM7ijnSosXjt4uJvQw/1.png",
+    "attributes": [
+      {
+        "trait_type": "TIMECODE (HH:MM:SS:FF)",
+        "value": "00:00:53:16"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "ScreenTime",
+        "value": 9.2,
+        "max_value": 3746.52
+      },
+      {
+        "trait_type": "SPECIAL",
+        "value": "OPENING CREDITS"
+      },
+      {
+        "trait_type": "SPECIAL",
+        "value": "Distribution Company Trademark"
+      },
+      {
+        "trait_type": "SPECIAL",
+        "value": "Black&White"
+      },
+      {
+        "trait_type": "ANIMAL",
+        "value": "Lion"
+      },
+      {
+        "trait_type": "SIGNAGE",
+        "value": "METRO GOLDWYN MAYER"
+      },
+      {
+        "trait_type": "SIGNAGE",
+        "value": "ARS GRATIA ARTIS"
+      },
+      {
+        "trait_type": "SIGNAGE",
+        "value": "TRADE MARK"
+      }
+    ]
+  }
+}

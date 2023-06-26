@@ -1,0 +1,27 @@
+{
+  "address": "0x77b9628d24faac70b3a69cd08f945fb96cfd5dc8",
+  "type": "ERC1155",
+  "name": "DTest Left",
+  "tokenCount": "17",
+  "uri": "https://dx.mypinata.cloud/ipfs/QmceNNVQmcd9x7q4JfhmP5GYgqjufFVjittTB7E3p6QRpR/1.json",
+  "metadata": {
+    "name": "Test One",
+    "description": "This is a collection of First NFTs.",
+    "image": "ipfs://ipfs/bafkreieyyqwq6y3ohpjdrdikczqsliiprzdjlhuvuuhhnlwhhypgxosfqq",
+    "external_url": "https://google.com",
+    "attributes": [
+      {
+        "trait_type": "Power",
+        "value": 5
+      },
+      {
+        "trait_type": "DP",
+        "value": 5
+      },
+      {
+        "trait_type": "Max Supply",
+        "value": 10000
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "0x401a9693225fdc6caab4a1dcb8384be9a668fc36",
+  "type": "ERC721",
+  "name": "funny sqares",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeicmqju4uh7aygdi7yzkyh7cimcsgpwaukflpz7glbt7h27knroro4/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "funny square every where",
+    "external_url": "",
+    "image": "ipfs://REPLACE_WITH_CID_FROM_PREVIOUS_STEP/ 1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "background 2"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "eye 3"
+      },
+      {
+        "trait_type": "noses",
+        "value": "nose 3"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mouth 3"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "funny square",
+      "family": "funny square"
+    },
+    "symbol": ""
+  }
+}

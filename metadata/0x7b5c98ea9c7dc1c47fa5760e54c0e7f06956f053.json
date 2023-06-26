@@ -1,0 +1,51 @@
+{
+  "address": "0x7b5c98ea9c7dc1c47fa5760e54c0e7f06956f053",
+  "type": "ERC721",
+  "name": "GoodTrail",
+  "tokenCount": "3",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=282eehoiqWsBQNc4smNM",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1586984646814?alt=media&token=4384c378-5300-4ccb-8291-ba8cd8141e88",
+    "forSale": false,
+    "contractAddress": "0x7b5c98ea9c7dc1c47fa5760e54c0e7f06956f053",
+    "description": "Habanero Pepper",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1586984730,
+      "_nanoseconds": 783000000
+    },
+    "price": 0,
+    "name": "GoodTrail Habanero",
+    "fiatPrice": "$0.00",
+    "attributes": [
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1586923200
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "GoodTrail.co"
+      },
+      {
+        "trait_type": "location",
+        "value": "416 Boulevard Saint Joseph O, Montréal, QC H2V 2P2, Canada"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJ8eHE7CoayUwRGcTAYO7FXKg"
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x7b5c98ea9c7dc1c47fa5760e54c0e7f06956f053",
+    "type": "ERC721"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0x2534415c415095a657b28a1f4bc1a2477fd8805b",
+  "type": "ERC721",
+  "name": "Space Ape NFT",
+  "tokenCount": "17",
+  "uri": "ipfs://QmWDmusSB28tGMfKz8XwCAy8T77BH8daSzKqCTNYx4sB9Z/1.json",
+  "metadata": {
+    "name": "Space Ape #1",
+    "description": "Space Ape to the Moon!",
+    "image": "ipfs://QmSUmbcYdWsM4LxChM15bdwdjBbTxuaPyo7VW391DcjsvU/1.png",
+    "dna": "f6c6ab62e525c0e3a77b382eb3ed90e9886dd099",
+    "edition": 1,
+    "date": 1646561146777,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Enos_V"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Recon_MIII"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Am_droid"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Satellite_AI"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "address": "0xc5666dd4a435745b38c7a67cf5211a4d918e779f",
+  "type": "ERC721",
+  "name": "Tankies Collection",
+  "tokenCount": "1115",
+  "uri": "ipfs://QmbciL9EJGaGbN1w1dvS9y6VAGJf4c6A1nixMJkoPaUK5V/1.json",
+  "metadata": {
+    "name": "Tankie #1",
+    "description": "Tankies is a fully animated collection of friendly tank heads filled with all different types of liquids!",
+    "external_url": "",
+    "image": "ipfs://QmaQYcoHB9d9UWsNEVnuL3h57MxhWFxWoZz6AAkD6CCMYv/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow purple"
+      },
+      {
+        "trait_type": "body",
+        "value": "black jacket"
+      },
+      {
+        "trait_type": "hats",
+        "value": "orange barrette"
+      },
+      {
+        "trait_type": "heads",
+        "value": "strawberry milkshake"
+      },
+      {
+        "trait_type": "faces",
+        "value": "wiggle mouth fire eyes"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "ipfs://QmYN1XhbEX3CysRQpARDL7DswA8GLdG7MEqE8jNMPsf5AD/1.gif",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Tankies",
+      "family": "Tankies"
+    },
+    "symbol": ""
+  }
+}

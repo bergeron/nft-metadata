@@ -1,0 +1,42 @@
+{
+  "address": "0x444467738cf0c5bcca9c1d6f66670f4c493e53ff",
+  "type": "ERC721",
+  "name": "FoxyFam",
+  "tokenCount": "3333",
+  "uri": "https://api.foxyfam.io/metadata/foxy/1",
+  "metadata": {
+    "name": "Foxy #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Thin Nose"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Sorry"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "PirateCaptain Blue"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Starrfox"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Eyepatch"
+      }
+    ],
+    "image": "https://foxyfam-images.s3.us-west-2.amazonaws.com/1644.png",
+    "description": ""
+  }
+}

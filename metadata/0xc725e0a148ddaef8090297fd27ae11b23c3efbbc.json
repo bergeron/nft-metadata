@@ -1,0 +1,63 @@
+{
+  "address": "0xc725e0a148ddaef8090297fd27ae11b23c3efbbc",
+  "type": "ERC721",
+  "name": "Mellow Eye",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/ssBJHKbDOHmGNngyZQXYBCca75IdTct4_G24pEOJ87M",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1649132433
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Stef 'Sharky' Schultz"
+      }
+    ],
+    "description": "\r\n\r\n\r\nDamb. Genuinely mellow-eyed; an ultra-rare mellow-eye NFT!! Inspired by a friend, I took the photo, and it was expounded upon from there. I am the subject. Do not abuse the image or the law will promptly be involved. Thanks for being respectful.\r\n\r\n\r\nDamb. Genuinely mellow-eyed; an ultra-rare mellow-eye NFT!! Inspired by a friend, I took the photo, and it was expounded upon from there. I am the subject. Do not abuse the image or the law will promptly be involved. Thanks for being respectful.",
+    "external_url": "https://cxip.io/nft/0xc725e0a148ddaef8090297fd27ae11b23c3efbbc/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/p2JVqKNKwgYawrEsK69F8WlF_WPjwuxlerEdfmyf_Vg",
+    "imageUrl": "https://arweave.net/p2JVqKNKwgYawrEsK69F8WlF_WPjwuxlerEdfmyf_Vg",
+    "name": "Mellow Eye",
+    "properties": {
+      "created_at": "2022-04-05T04:20:33.0000000Z",
+      "creator_wallet": "0xc4ad9a20c471408f717d38289f34332319ad6042",
+      "description": "\r\n\r\n\r\nDamb. Genuinely mellow-eyed; an ultra-rare mellow-eye NFT!! Inspired by a friend, I took the photo, and it was expounded upon from there. I am the subject. Do not abuse the image or the law will promptly be involved. Thanks for being respectful.\r\n\r\n\r\nDamb. Genuinely mellow-eyed; an ultra-rare mellow-eye NFT!! Inspired by a friend, I took the photo, and it was expounded upon from there. I am the subject. Do not abuse the image or the law will promptly be involved. Thanks for being respectful.",
+      "image": "https://arweave.net/p2JVqKNKwgYawrEsK69F8WlF_WPjwuxlerEdfmyf_Vg",
+      "imageUrl": "https://arweave.net/p2JVqKNKwgYawrEsK69F8WlF_WPjwuxlerEdfmyf_Vg",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "5 April 2022",
+      "name": "Mellow Eye",
+      "nft_type": "non-fungible image token (image/png)",
+      "preview_media_file": "https://arweave.net/ybqjvzRfNw9gOhCPyVFw31STU5uDXdyOGwPIeN7YcRQ",
+      "preview_media_file_dimensions": "360x428",
+      "preview_media_file_size": 122937,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "2115x2517",
+      "raw_media_file": "https://arweave.net/ZXp5nk0P4i1zWtF0CZIvbtYYV9lvSfp4-RuYPdQc7Mg",
+      "raw_media_file_size": 5956167,
+      "raw_media_file_spec": "PNG 2115x2517 2115x2517+0+0 8-bit sRGB 5.68024MiB 0.000u 0:00.000",
+      "raw_media_file_type": "image/png",
+      "raw_media_format": "portrait",
+      "raw_media_signature": "0x885dce4d141a1d2bd38eecbbe6ee483480860a490274af28d236400fd95fdec2",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/ybqjvzRfNw9gOhCPyVFw31STU5uDXdyOGwPIeN7YcRQ",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Mellow Eye",
+      "total_supply": 1
+    },
+    "title": "Mellow Eye"
+  }
+}

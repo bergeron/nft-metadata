@@ -1,0 +1,24 @@
+{
+  "address": "0x8415854020b99475a2d93adcc5fb7c37732bc7be",
+  "type": "ERC721",
+  "name": "Ed Demo v2",
+  "tokenCount": "10",
+  "uri": "ipfs://Qmb1ZmHeWgHyuXkACf3fC1raCBaRJVEKAiY4yw7ai98Hik/1",
+  "metadata": {
+    "name": "multicoin badge",
+    "description": "Fractal ETH Launch",
+    "image": "ipfs://QmSefvjpHtYCp788xNggC75dLYX8KWJb8xKsQapuU8WDuH/1.png",
+    "external_url": "https://www.fractal.is/",
+    "background_color": "FFFFFF",
+    "attributes": [
+      {
+        "trait_type": "team",
+        "value": "Fractal"
+      },
+      {
+        "trait_type": "cointype",
+        "value": "ETH"
+      }
+    ]
+  }
+}

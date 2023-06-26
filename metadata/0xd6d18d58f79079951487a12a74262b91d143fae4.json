@@ -1,0 +1,53 @@
+{
+  "address": "0xd6d18d58f79079951487a12a74262b91d143fae4",
+  "type": "ERC1155",
+  "name": "Legends of Wondermist",
+  "tokenCount": "46",
+  "uri": "ipfs://QmYTjSNhL1cUd35TD8i46aiepuz8fLC1FQs5Thjy8Nzh8V",
+  "metadata": {
+    "name": "Woodie Toy Face (Common)",
+    "description": "The Legends of Wondermist is a card collection from Woodies that can be used to build and play many different games.\n\nLearn more at https://legends.woodiesnft.com\n\nArtwork by [Amrit Pal Singh](https://opensea.io/accounts/amritpalsingh?tab=created)",
+    "image": "ipfs://QmYxXEdJ7E9KucetYP8zCSw2vUYCKwwjjbPjFnHPS9QZAT/1301-woodie-toy-face.webp",
+    "external_url": "https://legends.woodiesnft.com/",
+    "background_color": "#000000",
+    "attributes": [
+      {
+        "trait_type": "Series",
+        "value": "One"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Magic",
+        "value": 3
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Growth Rate",
+        "value": 3
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Luck",
+        "value": 7
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Shade",
+        "value": 2
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Rings",
+        "value": 9
+      },
+      {
+        "trait_type": "Region",
+        "value": "Embersteppe"
+      }
+    ]
+  }
+}

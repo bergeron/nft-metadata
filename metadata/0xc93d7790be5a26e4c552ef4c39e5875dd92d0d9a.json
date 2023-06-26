@@ -1,0 +1,41 @@
+{
+  "address": "0xc93d7790be5a26e4c552ef4c39e5875dd92d0d9a",
+  "type": "ERC721",
+  "name": "BoredBoys NFT",
+  "tokenCount": "89",
+  "uri": "ipfs://QmUXr6dsjDeagZxNNEPVNcAL6bf96eDFasKxyaMDzH56vf/1.json",
+  "metadata": {
+    "name": "Bored Boy NFT #1",
+    "description": "",
+    "image": "ipfs://bafybeih5dkkwv5ncv57p5iydh7twnqsxtsx6j65svjbmkqeqryjj4tak4i/1156.png",
+    "edition": 1,
+    "date": 1656910051503,
+    "attributes": [
+      {
+        "value": "blue",
+        "trait_type": "Background"
+      },
+      {
+        "value": "green",
+        "trait_type": "Body"
+      },
+      {
+        "value": "yellow",
+        "trait_type": "Eye Color"
+      },
+      {
+        "value": "black",
+        "trait_type": "Hair"
+      },
+      {
+        "value": "Green rocket",
+        "trait_type": "Cloth"
+      },
+      {
+        "value": "bored boy",
+        "trait_type": "Mood"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

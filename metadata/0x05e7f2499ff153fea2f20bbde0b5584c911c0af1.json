@@ -1,0 +1,24 @@
+{
+  "address": "0x05e7f2499ff153fea2f20bbde0b5584c911c0af1",
+  "type": "ERC721",
+  "name": "Something Token",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmaZn8t7VttX3eUSXR8J5NbQFEgQjE5t5H9pLrpKZ5op3v/1",
+  "metadata": {
+    "name": "Something Token 1",
+    "description": "Your token for exclusive access and discounts on the Americana Marketplace.",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      }
+    ],
+    "image": "https://americana.mypinata.cloud/ipfs/QmQeqA4vi1J4bbxuw6Y1Buk5MDmECR3BgpgEBSNSYs7zRQ",
+    "animation_url": "",
+    "background_color": "",
+    "youtube_url": "",
+    "external_url": "",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0x5A1E54F7Dc927Dbfd25B1fDD7f860Cb3B8F733Ee"
+  }
+}

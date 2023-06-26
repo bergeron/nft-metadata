@@ -1,0 +1,67 @@
+{
+  "address": "0xa3b1b119e0dcf362b678d30e893cd378c964d213",
+  "type": "ERC721",
+  "name": "The AlphaINCHAIN Collection",
+  "tokenCount": "7943",
+  "uri": "https://api.alphainchain.io/v1/nft/metadata/1.json",
+  "metadata": {
+    "name": "AlphaINCHAIN#1",
+    "image": "https://public.alphainchain.io/images/1.png",
+    "rarity": 15.461111111111112,
+    "rarityName": "Legendary",
+    "dna": "dd04f8caa0fc8c72571be4b5ef4cde36aa14543d",
+    "edition": 1,
+    "date": 1664321115729,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sunny",
+        "rarity": 15.3
+      },
+      {
+        "trait_type": "Weapons",
+        "value": "Magic Spear",
+        "rarity": 6.93
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Black",
+        "rarity": 18.43
+      },
+      {
+        "trait_type": "Facial Expression",
+        "value": "Angry",
+        "rarity": 10.3
+      },
+      {
+        "trait_type": "Scars",
+        "value": "Eye X",
+        "rarity": 15.3
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "White",
+        "rarity": 42.44
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Double",
+        "rarity": 21.27
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black Hoodie (AlphaINCHAIN logo)",
+        "rarity": 4.11
+      },
+      {
+        "trait_type": "Chain",
+        "value": "INCHAIN",
+        "rarity": 5.07
+      },
+      {
+        "trait_type": "Rarity Tier",
+        "value": "Legendary"
+      }
+    ]
+  }
+}

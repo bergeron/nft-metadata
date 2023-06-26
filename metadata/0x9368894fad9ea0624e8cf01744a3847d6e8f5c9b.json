@@ -1,0 +1,60 @@
+{
+  "address": "0x9368894fad9ea0624e8cf01744a3847d6e8f5c9b",
+  "type": "ERC721",
+  "name": "TeamMHRS",
+  "tokenCount": "152",
+  "uri": "https://six-data-chain-backend-backend-api-sixnet-gateway-3hi29er0.an.gateway.dev/api/nft/metadata/teamMHRSCollection/1?rpc=MHRS",
+  "metadata": {
+    "image": "ipfs://bafybeidkzznkholzivakbzx7eqwdpz5mlh44x3huqzm43m2apulrzkqasq/images/1.jpeg",
+    "name": "TeamMHRS #1",
+    "description": "TeamMHRS is a 625 utility-enabled PFPs build on top of Maho Rasop festival experience.",
+    "attributes": [
+      {
+        "trait_type": "Tribe",
+        "is_origin": true,
+        "value": "TeamMHRS"
+      },
+      {
+        "trait_type": "FREE DRINKS",
+        "is_origin": false,
+        "value": "5"
+      },
+      {
+        "trait_type": "MERCH DISCOUNT",
+        "is_origin": false,
+        "value": "20%"
+      },
+      {
+        "trait_type": "MAHORAMON",
+        "is_origin": false,
+        "value": "None"
+      },
+      {
+        "trait_type": "NFT MERCH",
+        "is_origin": false,
+        "value": "Available"
+      },
+      {
+        "trait_type": "COMPLETE ALL ACTIVITIES ",
+        "is_origin": false,
+        "value": "No"
+      },
+      {
+        "trait_type": "JOIN MAHOLAN STAGE",
+        "is_origin": false,
+        "value": "Unvisited"
+      },
+      {
+        "trait_type": "JOIN SILVER STAGE",
+        "is_origin": false,
+        "value": "Unvisited"
+      },
+      {
+        "trait_type": "JOIN RIM DAENG STAGE",
+        "is_origin": false,
+        "value": "Unvisited"
+      }
+    ],
+    "schema_code": "teamMHRSCollection"
+  }
+}

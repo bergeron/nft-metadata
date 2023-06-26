@@ -1,0 +1,46 @@
+{
+  "address": "0x17e1bd6009702a4c47309d6dc8af0bc847327c46",
+  "type": "ERC1155",
+  "name": "Nifty Island: Ultra Blades",
+  "tokenCount": "2",
+  "uri": "https://nifty-island-sword-drop-public.s3.us-east-2.amazonaws.com/ticket.json",
+  "metadata": {
+    "name": "Blade Ticket",
+    "description": "A blade ticket, which can be burned for a physical blade in the analog world.",
+    "image": "https://nifty-island-sword-drop-public.s3.us-east-2.amazonaws.com/ticket_video.mp4",
+    "metadata_standard": "ETM_v1.0.0",
+    "extensions": [
+      "ETM_MULTIASSET_v1.0.0",
+      "ETM_ATTRIBUTES_v1.0.0"
+    ],
+    "assets": [
+      {
+        "media_type": "model",
+        "files": [
+          {
+            "url": "https://nifty-island-sword-drop-public.s3.us-east-2.amazonaws.com/ticket_model.fbx",
+            "file_type": "model/fbx"
+          },
+          {
+            "url": "https://nifty-island-sword-drop-public.s3.us-east-2.amazonaws.com/ticket_video.mp4",
+            "file_type": "video/mp4"
+          },
+          {
+            "url": "https://nifty-island-sword-drop-public.s3.us-east-2.amazonaws.com/ticket_image.png",
+            "file_type": "image/png"
+          },
+          {
+            "url": "https://nifty-island-sword-drop-public.s3.us-east-2.amazonaws.com/ticket_image_transparent.png",
+            "file_type": "image/png"
+          }
+        ]
+      }
+    ],
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Ultra"
+      }
+    ]
+  }
+}

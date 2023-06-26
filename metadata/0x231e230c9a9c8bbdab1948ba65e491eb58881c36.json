@@ -1,0 +1,25 @@
+{
+  "address": "0x231e230c9a9c8bbdab1948ba65e491eb58881c36",
+  "type": "ERC1155",
+  "name": "Hero Teapots",
+  "tokenCount": "65",
+  "uri": "ipfs://bafybeienkfylgxmrklk5kdce4znus6stoalp6ibi5it7npnseeotus47ny/1.json",
+  "metadata": {
+    "name": "HeroTeapot #1",
+    "description": "Come and get your unique Hero Teapot",
+    "image": "ipfs://bafybeic4dt4vcgxlp34u3aawjm2u62n4x5hqhde3adx75sm4b2bnllsnxe/1.png",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Hero"
+      },
+      {
+        "trait_type": "Brand",
+        "value": "Rooibos"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0xe640745a28402aa47493ed841df09b147cb8da1e",
+  "type": "ERC721",
+  "name": "test_jj_p_3",
+  "tokenCount": "10",
+  "uri": "ipfs://QmYdSoSiaUPrZA4kaibHsYwBqDsrJUZ13uQEDH1HFGPjE2/1.json",
+  "metadata": {
+    "name": "test justin 3 #1",
+    "description": "test justin 3",
+    "image": "ipfs://QmX1MXVBeWS5AiThs4dxT56pb6V5hzyN2txbWXCSFrTxLw/1.jpeg",
+    "edition": 1,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(59,96,144)"
+        },
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Hot Dog"
+        },
+        {
+          "trait_type": "date",
+          "value": 1614
+        }
+      ]
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

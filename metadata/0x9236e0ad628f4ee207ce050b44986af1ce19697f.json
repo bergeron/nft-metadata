@@ -1,0 +1,31 @@
+{
+  "address": "0x9236e0ad628f4ee207ce050b44986af1ce19697f",
+  "type": "ERC721",
+  "name": "ProxyBot : Decentralized NFT Based Delegation",
+  "tokenCount": "2377",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIlByb3h5IFRva2VuICMxIiwgImRlc2NyaXB0aW9uIjogIlRoaXMgdG9rZW4gd2FzIG1pbnRlZCB1c2luZyB0aGUgVHVyZiBQcm94eSBCb3QgZGVsZWdhdGlvbiB0b29sLiBJdCBkZWxlZ2F0ZXMgd2FsbGV0IHV0aWxpdHkvcHJpdmlsZWdlcywgYW5kIGV2ZXJ5dGhpbmcgbmVjZXNzYXJ5IGZvciBpbXBsZW1lbnRhdGlvbiBpcyBlbWJlZGRlZCB3aXRoaW4gdGhlIHRva2VuLiBGb3IgbW9yZSBpbmZvcm1hdGlvbiwgcGxlYXNlIHZpc2l0IFtwcm94eWJvdC50dXJmLmRldl0oaHR0cHM6Ly9wcm94eWJvdC50dXJmbmZ0Lnh5ei8pLiIsICJpbWFnZSI6ICJodHRwczovL3Byb3h5Ym90LWFzc2V0cy5zMy5hbWF6b25hd3MuY29tL3Rva2Vucy9kZWZhdWx0XzEuZ2lmIiwgImF0dHJpYnV0ZXMiOiBbeyJ0cmFpdF90eXBlIjogIlN0YXR1cyIsICJ2YWx1ZSI6ICJDb25uZWN0ZWQifSwgeyJ0cmFpdF90eXBlIjogIlZhdWx0IElEIiwgInZhbHVlIjogIjB4MzdjNzFiOWJlY2ViNWNiZTFiN2YzYmI0Nzg4NTE1NTg5ZjYwZGYzNSJ9LCB7InRyYWl0X3R5cGUiOiAiRWRpdGlvbiIsICJ2YWx1ZSI6ICJCYXNpYyJ9LCB7ImRpc3BsYXlfdHlwZSI6ICJudW1iZXIiLCAidHJhaXRfdHlwZSI6ICJNaW50IEJsb2NrIiwgInZhbHVlIjogIjE2NzQzMDc4In1dfQ==",
+  "metadata": {
+    "name": "Proxy Token #1",
+    "description": "This token was minted using the Turf Proxy Bot delegation tool. It delegates wallet utility/privileges, and everything necessary for implementation is embedded within the token. For more information, please visit [proxybot.turf.dev](https://proxybot.turfnft.xyz/).",
+    "image": "https://proxybot-assets.s3.amazonaws.com/tokens/default_1.gif",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "Connected"
+      },
+      {
+        "trait_type": "Vault ID",
+        "value": "0x37c71b9beceb5cbe1b7f3bb4788515589f60df35"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Basic"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Mint Block",
+        "value": "16743078"
+      }
+    ]
+  }
+}

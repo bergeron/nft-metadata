@@ -1,0 +1,26 @@
+{
+  "address": "0x859d571da7bd096cf2e2d05c56a6a05f5fcdb4f5",
+  "type": "ERC721",
+  "name": "Battle Pass: Dawn of Steel",
+  "tokenCount": "255",
+  "uri": "ipfs://bafybeifhu4r6at2fzcvme4m445jvp7g3o6oz35wc52kqypgabqcbhpp5zu/1",
+  "metadata": {
+    "name": "Free Pass",
+    "description": "The Underground Season 1 Battle Pass: Dawn of Steel",
+    "image": "ipfs://bafybeibg4xohwd7chzy4jlaryqwn55pqxgapwv3ebvikcuym34k67mmzii/free_pass.gif",
+    "attributes": [
+      {
+        "trait_type": "Pass Type",
+        "value": "FREE"
+      },
+      {
+        "trait_type": "Season",
+        "value": 1
+      },
+      {
+        "trait_type": "Code Name",
+        "value": "Dawn of Steel"
+      }
+    ]
+  }
+}

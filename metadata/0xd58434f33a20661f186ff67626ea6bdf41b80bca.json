@@ -1,0 +1,54 @@
+{
+  "address": "0xd58434f33a20661f186ff67626ea6bdf41b80bca",
+  "type": "ERC721",
+  "name": "WALTZ",
+  "tokenCount": "10000",
+  "uri": "https://art-sandbox.sunflower.industries/token/0xd58434f33a20661f186ff67626ea6bdf41b80bca/1",
+  "metadata": {
+    "description": "WALTZ is a collection of 10,000 unique artworks, each consisting of petals dancing in the wind.",
+    "dependencies": "[{\"name\":\"p5@1.4.0\",\"keccak256\":\"0xcef1df742d5237151854b6ccd3d7769c7bcb2cf987e4f8f6ca1ad69afdac3dcc\"}]",
+    "artist": "0xf0bE1F2FB8abfa9aBF7d218a226ef4F046f09a40",
+    "external_url": "https://art.sunflower.industries/token/0xd58434f33a20661f186ff67626ea6bdf41b80bca/1",
+    "image": "https://art-sandbox.sunflower.industries/render/tokenImage/0xd58434f33a20661f186ff67626ea6bdf41b80bca/1",
+    "name": "WALTZ #1",
+    "attributes": [
+      {
+        "trait_type": "loopLength",
+        "value": "20"
+      },
+      {
+        "trait_type": "minDistRequirement",
+        "value": "10"
+      },
+      {
+        "trait_type": "backgroundColor",
+        "value": "white"
+      },
+      {
+        "trait_type": "whiteOrBlackFill",
+        "value": "false"
+      },
+      {
+        "trait_type": "numVanes",
+        "value": "6"
+      },
+      {
+        "trait_type": "varyType",
+        "value": "1"
+      },
+      {
+        "trait_type": "numPoints",
+        "value": "4"
+      },
+      {
+        "trait_type": "useStroke",
+        "value": "false"
+      },
+      {
+        "trait_type": "circlingCamera",
+        "value": "false"
+      }
+    ],
+    "animation_url": "https://art-sandbox.sunflower.industries/tokenFrame/0xd58434f33a20661f186ff67626ea6bdf41b80bca/1"
+  }
+}

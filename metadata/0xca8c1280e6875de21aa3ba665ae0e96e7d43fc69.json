@@ -1,0 +1,52 @@
+{
+  "address": "0xca8c1280e6875de21aa3ba665ae0e96e7d43fc69",
+  "type": "ERC721",
+  "name": "DOPE PEEPS",
+  "tokenCount": "404",
+  "uri": "ipfs://QmNmi1GDwFjGZYuFEYaLnRZUUybZdShXntw7LscAzGonyR/1",
+  "metadata": {
+    "name": "DOPE PEEPS #1",
+    "image": "ipfs://QmW4gHjRBAcxgv8fSuHzeb6K9mTgjTPVPckzjBnbqkFB2c/1.png",
+    "attributes": [
+      {
+        "trait_type": "species",
+        "value": "King"
+      },
+      {
+        "trait_type": "bg color",
+        "value": "Unique"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Pale"
+      },
+      {
+        "trait_type": "cape",
+        "value": "King Cape"
+      },
+      {
+        "trait_type": "hair wear",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "effect",
+        "value": "Unique"
+      }
+    ],
+    "motions": {
+      "idle": [
+        "https://opensea.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/idle/00.png",
+        "https://opensea.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/idle/01.png",
+        "https://opensea.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/idle/02.png",
+        "https://opensea.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/idle/03.png",
+        "https://opensea.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/idle/04.png"
+      ],
+      "running": [
+        "https://opensea.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/running/00.png",
+        "https://opensea.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/running/01.png",
+        "https://opensea.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/running/02.png",
+        "https://opensea.mypinata.cloud/ipfs/QmXrLgA5fgh33kXhnAsLr1f7h9GRg9Q7tnd1A1qSjhQZQ2/1/running/03.png"
+      ]
+    }
+  }
+}

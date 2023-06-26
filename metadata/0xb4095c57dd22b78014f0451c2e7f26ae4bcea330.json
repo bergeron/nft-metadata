@@ -1,0 +1,22 @@
+{
+  "address": "0xb4095c57dd22b78014f0451c2e7f26ae4bcea330",
+  "type": "ERC721",
+  "name": "My Mura Token",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeibpkjeg2gzqt3kjepebzl33ao7pi4ubgjhsfrtete2h5ia3tajzky/1.json",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Test1",
+        "value": "Maltipoo"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Mocha"
+      }
+    ],
+    "description": "The world's most adorable and sensitive pup.",
+    "image": "ipfs://bafybeiasmjvkejgun46s5zghrxyrgny6y72cpn2faihsnx4y7mns7ehdke/1.png",
+    "name": "Test 1"
+  }
+}

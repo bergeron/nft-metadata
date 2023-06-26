@@ -1,0 +1,24 @@
+{
+  "address": "0x528b2d021b61e8bff0969836bac36e81df23ce80",
+  "type": "ERC721",
+  "name": "EMPIRE Access Token",
+  "tokenCount": "100",
+  "uri": "https://fnpnft.sfo3.digitaloceanspaces.com/empire/empiretoken/meta/1.json",
+  "metadata": {
+    "name": "EMPIRE Access Token",
+    "description": "EMPIRE Access Token. This Platinum EMPIRE token is minted with the Golden Gate Bridge on the face and the EMPIRE logo on back.",
+    "image": "https://fnpnft.sfo3.cdn.digitaloceanspaces.com/empire/empiretoken/images/EMPIREAccessToken.png",
+    "animation_url": "https://fnpnft.sfo3.cdn.digitaloceanspaces.com/empire/empiretoken/images/EMPIREAccessToken.mp4",
+    "preview_image": "https://fnpnft.sfo3.cdn.digitaloceanspaces.com/empire/empiretoken/images/EMPIREAccessToken.png",
+    "attributes": [
+      {
+        "trait_type": "Landmark",
+        "value": "Golden Gate Bridge"
+      },
+      {
+        "trait_type": "Coin Material",
+        "value": "Platinum"
+      }
+    ]
+  }
+}

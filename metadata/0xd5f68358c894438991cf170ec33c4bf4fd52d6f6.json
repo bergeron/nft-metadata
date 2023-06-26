@@ -1,0 +1,51 @@
+{
+  "address": "0xd5f68358c894438991cf170ec33c4bf4fd52d6f6",
+  "type": "ERC721",
+  "name": "mfers doin stuff - rollin",
+  "tokenCount": "1000",
+  "uri": "https://cdn-api.niftykit.com/reveal/hr8pUULjjtNmP9mbssSK/1",
+  "metadata": {
+    "name": "mfers doin stuff #1",
+    "description": "mfers doin stuff with a drivers license. the third collection by awerawert.",
+    "external_url": "",
+    "image": "https://kongclub.mypinata.cloud/ipfs/QmXNxZpwmxJSc8EZW14DTj6dEy3fEqzxHorf6EgeiWnahj/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "light"
+      },
+      {
+        "trait_type": "Foreground",
+        "value": "city"
+      },
+      {
+        "trait_type": "Car",
+        "value": "mflaren green"
+      },
+      {
+        "trait_type": "Mfers",
+        "value": "plain mfer"
+      },
+      {
+        "trait_type": "Rims",
+        "value": "neat neon"
+      },
+      {
+        "trait_type": "Badge",
+        "value": "none"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "seller_fee_basis_points": 700,
+    "fee_recipient": "0x63F4c36bD548C3Ad3DD18364C987E9a062a330cE"
+  }
+}

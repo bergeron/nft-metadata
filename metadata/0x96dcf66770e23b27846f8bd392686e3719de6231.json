@@ -1,0 +1,48 @@
+{
+  "address": "0x96dcf66770e23b27846f8bd392686e3719de6231",
+  "type": "ERC721",
+  "name": "Pee Boy NFT",
+  "tokenCount": "5000",
+  "uri": "ipfs://bafybeieeij5his3zvzvkxrrczs46ebio4cbbx4oitj3fegdayhlz2gi6vq/1.json",
+  "metadata": {
+    "name": "Pee Boy #1",
+    "description": "Sometimes you just really have to go",
+    "external_url": "https://twitter.com/PeeBoyNFT",
+    "image": "ipfs://QmZ14KXkiHewnB6AEUakXrbASn59aBiB6xhMGM7rZtURX1/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Troll"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Shirt Fill",
+        "value": "None"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Stream",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Laser Eyes"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None"
+      },
+      {
+        "trait_type": "Subject",
+        "value": "SOL"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

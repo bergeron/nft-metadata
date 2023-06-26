@@ -1,0 +1,44 @@
+{
+  "address": "0xa59952a565fa64e5da51eec67350c7087f086346",
+  "type": "ERC1155",
+  "name": "Squaredealer",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/pPRBZrSQBoaYytY9iws9VsrjgQAmm5TCB7Yr0PF--1k",
+  "metadata": {
+    "name": "Square | White",
+    "created_by": "Squaredealer",
+    "description": "First limited edition of squares. To evolve in future with a burn mechanism.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Squaredealer"
+      },
+      {
+        "trait_type": "Square Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Square Size",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Size Equality",
+        "value": "Equal"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Square Numbers",
+        "value": 2
+      }
+    ],
+    "image_details": {
+      "bytes": 71583,
+      "format": "GIF",
+      "sha256": "5b933e0265c3ce7a3142b7a39fc55423183ed6700589fc5355995184c6093703",
+      "width": 800,
+      "height": 800
+    },
+    "image": "https://arweave.net/V2XtyyulBo7TrL7R6Be0_GAMPe9FJYiZPhsMAlOW9JE",
+    "image_url": "https://arweave.net/V2XtyyulBo7TrL7R6Be0_GAMPe9FJYiZPhsMAlOW9JE"
+  }
+}

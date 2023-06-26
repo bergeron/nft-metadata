@@ -1,0 +1,31 @@
+{
+  "address": "0xff554ea0cc26883d6017f83ea5b2d4253de07516",
+  "type": "ERC721",
+  "name": "Puzzballs",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/UVZWYZoQrWemv6yZ_zSUNPkfaby9iyNnjaSnHzhX8EE",
+  "metadata": {
+    "name": "PUZZBALL #1",
+    "created_by": "PUZZ",
+    "description": "This NFT represents ownership of an original painting. The holder of this NFT has the right to claim the corresponding physical painting by contacting puzzballs@gmail.com and arranging for payment of shipping costs. Please note that the original painting can only be claimed once, and it will no longer be available for future claimants. Paintings that have been claimed will have their metadata trait updated from Unclaimed to Claimed. If you choose to claim the painting, you will be responsible for covering the cost of shipping and handling. Once claimed, returns are not accepted.",
+    "attributes": [
+      {
+        "trait_type": "PAINTING",
+        "value": "UNCLAIMED"
+      },
+      {
+        "trait_type": "BACKGROUND",
+        "value": "YELLOW"
+      }
+    ],
+    "image_details": {
+      "bytes": 16539326,
+      "format": "JPEG",
+      "sha256": "041d617b84d10735b11fb1ecefa3c1a946782dbc74686a8eeb19e09bea63867a",
+      "width": 4800,
+      "height": 4800
+    },
+    "image": "https://arweave.net/-5CBdSlu2Y0tDlZ-o98qnL1zrgWSrinJ5tixxX0e0VE",
+    "image_url": "https://arweave.net/-5CBdSlu2Y0tDlZ-o98qnL1zrgWSrinJ5tixxX0e0VE"
+  }
+}

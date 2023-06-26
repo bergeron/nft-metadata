@@ -1,0 +1,55 @@
+{
+  "address": "0x0e71a85097e77299b71a282321292aae2a3713a2",
+  "type": "ERC1155",
+  "name": "FraktalNFTDungeons for Adventurers",
+  "tokenCount": "2",
+  "uri": "https://lootd.vercel.app/api/10001",
+  "metadata": {
+    "name": "The Yellow Flatlands",
+    "attributes": [
+      {
+        "trait_type": "Levels",
+        "value": 5
+      },
+      {
+        "trait_type": "Location",
+        "value": "Infinity"
+      },
+      {
+        "trait_type": "Dungeon Type",
+        "value": "Desert"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Loot Multiplier",
+        "value": 1.27
+      },
+      {
+        "trait_type": "XP Multiplier",
+        "value": 1.19
+      },
+      {
+        "trait_type": "Base Difficulty",
+        "value": 30
+      },
+      {
+        "trait_type": "Treasure Quality",
+        "value": 56
+      },
+      {
+        "trait_type": "Super Boss Chance",
+        "value": 2.7
+      },
+      {
+        "trait_type": "Super Treasure Chance",
+        "value": 1.46
+      }
+    ],
+    "image": "https://gateway.pinata.cloud/ipfs/QmcX7vSD8MR2tMjPH4FbYXhBidPyQhia8wDgYrq77XKhdR/10001",
+    "levels": "https://gateway.pinata.cloud/ipfs/QmVjvvmPvEFjkxDZ1v2eSPWjwUtUGCL2zA3gPy25VvxBfQ/10001",
+    "description": "Your adventure starts now..."
+  }
+}

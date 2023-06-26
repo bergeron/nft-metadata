@@ -1,0 +1,43 @@
+{
+  "address": "0x00f234f70e94f65653b6a3ed686d9db2f58f74df",
+  "type": "ERC721",
+  "name": "CUE Hungry Bulls",
+  "tokenCount": "10",
+  "uri": "https://cuep.io/nft/hungry-bulls/hungry-bulls.php?id=2&edition=England",
+  "metadata": {
+    "description": "CUE Hungry Bulls are utility based NFTs with unique rarities which give it's holders CUE Launcher benefits.",
+    "external_url": "https://app.cuex.capital/",
+    "image": "https://cuep.io/nft/hungry-bulls/add-issue-number.php?id=2&image=england.png",
+    "name": "Hungry Bull England #2",
+    "attributes": [
+      {
+        "trait_type": "Utility",
+        "value": "Cue Launcher Early Bird"
+      },
+      {
+        "trait_type": "Utility",
+        "value": "Cue Launcher Auto-Whitelisted"
+      },
+      {
+        "trait_type": "Limited Supply",
+        "value": 25
+      },
+      {
+        "trait_type": "Power",
+        "value": "Launch Expert"
+      },
+      {
+        "trait_type": "Country",
+        "value": "England"
+      },
+      {
+        "trait_type": "Food",
+        "value": "Fish & Chips"
+      },
+      {
+        "trait_type": "Issue No.",
+        "value": "2"
+      }
+    ]
+  }
+}

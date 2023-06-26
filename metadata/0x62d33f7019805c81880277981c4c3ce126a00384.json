@@ -1,0 +1,78 @@
+{
+  "address": "0x62d33f7019805c81880277981c4c3ce126a00384",
+  "type": "ERC721",
+  "name": "Meta Gala V2",
+  "tokenCount": "8",
+  "uri": "https://monegraph.mypinata.cloud/ipfs/QmdBqA8byPojKe16gYiSbyA2MDn7HjaPs97htiSas7KRzg",
+  "metadata": {
+    "name": "The Empress of the Metaverse",
+    "description": "Ruby 9100m, Empress of the Metaverse, is one of the first digital influencers and a pioneer in the digital space. Inspired by Empress Wu Zeitian and the Victorian era, Ruby wears a puffer corset decorated with vest details to embody femininity in the metaverse, paired with a bag inspired by the Asian windflower. The crown is designed as an extension of hairstyles in the virtual world and represents the majesty of the Empress.",
+    "external_url": "",
+    "animation_url": "",
+    "image": "https://monegraph.mypinata.cloud/ipfs/QmeSeV8zrtbminPBoHZUA5Wfc55qgNthnnicZbEsvUQzEG/TF_animated.gif",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "The Fabricant X Ruby 9100m"
+      },
+      {
+        "trait_type": "Rights Agreement",
+        "value": "https://ipfs.io/ipfs/QmYfHnQRQnf7MyyBKPQXKi6NviWatwCtTqHWhrWk3LhjNo"
+      },
+      {
+        "trait_type": "Archive Link",
+        "value": "https://monegraph.mypinata.cloud/ipfs/QmT4wq3yC2WHoHVqVAdcXbDiEu5KUyd4Jjm2N3ppxRCVBK"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "The Empress of the Metaverse"
+      },
+      "description": {
+        "type": "string",
+        "description": "Ruby 9100m, Empress of the Metaverse, is one of the first digital influencers and a pioneer in the digital space. Inspired by Empress Wu Zeitian and the Victorian era, Ruby wears a puffer corset decorated with vest details to embody femininity in the metaverse, paired with a bag inspired by the Asian windflower. The crown is designed as an extension of hairstyles in the virtual world and represents the majesty of the Empress."
+      },
+      "image": {
+        "type": "string",
+        "description": "https://monegraph.mypinata.cloud/ipfs/QmeSeV8zrtbminPBoHZUA5Wfc55qgNthnnicZbEsvUQzEG/TF_animated.gif"
+      },
+      "rights_agreement": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/QmYfHnQRQnf7MyyBKPQXKi6NviWatwCtTqHWhrWk3LhjNo"
+      },
+      "rights_agreement_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "rights_agreement_signature": {
+        "type": "string",
+        "description": "ee1ee5a2be60ca323e9d3fe2d65b3b6f37b4de00f178f5d62bd9418bec055eba"
+      },
+      "archive_link": {
+        "type": "string",
+        "description": "https://monegraph.mypinata.cloud/ipfs/QmT4wq3yC2WHoHVqVAdcXbDiEu5KUyd4Jjm2N3ppxRCVBK"
+      },
+      "archive_link_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "archive_link_signature": {
+        "type": "string",
+        "description": "df639a2e8446fa2c3ea7112809a9a2de4e44f2c5754ec3308b7f9923370ad927"
+      },
+      "rights_agreement_values": {
+        "$ARTIST": "The Fabricant X Ruby 9100m",
+        "$SHAHASH": "df639a2e8446fa2c3ea7112809a9a2de4e44f2c5754ec3308b7f9923370ad927",
+        "$CONTRACTSHAHASH": "ee1ee5a2be60ca323e9d3fe2d65b3b6f37b4de00f178f5d62bd9418bec055eba",
+        "$URL": "https://monegraph.mypinata.cloud/ipfs/QmeSeV8zrtbminPBoHZUA5Wfc55qgNthnnicZbEsvUQzEG/TF_animated.gif",
+        "$TITLE": "The Empress of the Metaverse",
+        "$YEAR": "2021",
+        "$ROYALTYRATE": "10",
+        "$TOKEN": "eth",
+        "$ADDRESS": "0xc14Bbd9EECCBBcF0f6342859561693ECb7b7De4d",
+        "$LICENSE": "CA.05.19.21., Patent No. US 10,380,702"
+      }
+    }
+  }
+}

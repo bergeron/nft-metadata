@@ -1,0 +1,57 @@
+{
+  "address": "0xa27bd847a90863ef860d8b57fed604f941285235",
+  "type": "ERC721",
+  "name": "Alpha Punkz NFT",
+  "tokenCount": "1449",
+  "uri": "ipfs://QmRRFgJb2Fv65E4uVM78E1fkMyg4AR9q7gkUvzJRfXbCeG/1.json",
+  "metadata": {
+    "name": "Alpha Punkz #1",
+    "symbol": "AP",
+    "description": "Alpha Punkz is a collection of 4444 pixelated NFTs on the Ethereum blockchain, ready to be your pfp.",
+    "seller_fee_basis_points": 1000,
+    "image": "ipfs://QmP16oEDaUqNjPXxzcQV5co6xT1VHQN8UNxjf1ZuCLNfKo/1.png",
+    "external_url": "https://twitter.com/AlphaPunkzNFT",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Citrus"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Mole"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nouns Red"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Small"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

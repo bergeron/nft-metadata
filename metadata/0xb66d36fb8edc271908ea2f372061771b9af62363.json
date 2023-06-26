@@ -1,0 +1,32 @@
+{
+  "address": "0xb66d36fb8edc271908ea2f372061771b9af62363",
+  "type": "ERC721",
+  "name": "PAW Rangers NFT",
+  "tokenCount": "21",
+  "uri": "ipfs://bafybeig74vhqbmspmlcvmkwduea4xq4ca6bz6bwjyavjd6smkowdubkj3u/1.json",
+  "metadata": {
+    "name": "Paw Ring #1",
+    "description": "Paw Rangers NFT is a one-of-a-kind collection crafted by the community, featuring exclusive background designs, ranger colors, shields, and rank logos, and not affiliated with PAWSWAP Internal Developer.",
+    "image": "ipfs://bafybeie4ve7pmkpm3inb3xmt5v7uhxt7xl3m2mzmil5tmw7dhqq3iaovfa/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "-"
+      },
+      {
+        "trait_type": "Ranger",
+        "value": "-"
+      },
+      {
+        "trait_type": "Shield",
+        "value": "-"
+      },
+      {
+        "trait_type": "Rank",
+        "value": "Main Ring"
+      }
+    ],
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0xcdB19586151C6F4d42Da3443975C4b415556C96a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "address": "0x54e2cb1a7ed33e6994483cad14fe2921a6c8613c",
+  "type": "ERC721",
+  "name": "The Sappy Thespian Club",
+  "tokenCount": "100",
+  "uri": "ipfs://QmVEnwWoigQcnPe525vpEj5vk9DgAF6pkPV7XNR7H1PmG2/1.json",
+  "metadata": {
+    "image": "ipfs://QmeGeV9Qc8kL5FaWnfu4ip5qmWzSovbtfy65rRqTTF4BuX/0001.png",
+    "name": "The Sappy Thespian Club #0001",
+    "description": "The Sappy Thespian Club is an NFT collection based on characters from Greek mythology.",
+    "edition": "0001",
+    "attributes": [
+      {
+        "value": "Red with Pink",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Base",
+        "trait_type": "Base"
+      },
+      {
+        "value": "Frowning Gold",
+        "trait_type": "Mask"
+      },
+      {
+        "value": "Silk Robe",
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "No Headpiece",
+        "trait_type": "Headpiece"
+      }
+    ]
+  }
+}

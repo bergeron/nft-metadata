@@ -1,0 +1,38 @@
+{
+  "address": "0x45103fd6a2d9b8b19504eda7dfee0eba27a49aff",
+  "type": "ERC721",
+  "name": "Nature Picture Shop V3",
+  "tokenCount": "61",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=AC6D90qqHQUPZbwIa2RN",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1578311822862?alt=media&token=cdb565a6-9ea1-458f-b228-b94f79614ec0",
+    "isForSale": true,
+    "description": "By sending your ETH Adress to dezentrale.at@gmail.com, i will send you the fullsize Picture via WeTranfer",
+    "contractAddress": "0x45103fd6a2d9b8b19504eda7dfee0eba27a49aff",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x45103fd6a2d9b8b19504eda7dfee0eba27a49aff/AC6D90qqHQUPZbwIa2RN",
+    "minter": "0x07570f7178f0db61cbf439af248657c1cf57cbd9",
+    "mintedOn": {
+      "_seconds": 1578311874,
+      "_nanoseconds": 285000000
+    },
+    "price": "0.02",
+    "name": "Old Tree",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Old Tree"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "minted": "Minted on Mintbase.io"
+  }
+}

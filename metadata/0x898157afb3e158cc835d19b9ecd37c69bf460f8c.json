@@ -1,0 +1,30 @@
+{
+  "address": "0x898157afb3e158cc835d19b9ecd37c69bf460f8c",
+  "type": "ERC721",
+  "name": "Oasis by Wild",
+  "tokenCount": "480",
+  "uri": "https://static.wild.xyz/tokens/oasis/metadata/1.json",
+  "metadata": {
+    "description": "Oasis is the most legendary collection within the Wild.xyz ecosystem. Each Oasis is meticulously created by hand and is completely unique from all others. The Oasis is our holy grail and its powers are prolific and ongoing.",
+    "name": "Oasis #1",
+    "image": "https://static.wild.xyz/tokens/oasis/8K_JPG/00001.jpg",
+    "attributes": [],
+    "external_url": "https://wild.xyz/wildxyz/wild-oasis/1/",
+    "animation_url": "https://wild.xyz/viewer/1111/1/",
+    "viewer_assets": [
+      {
+        "type": "image",
+        "url": "https://static.wild.xyz/tokens/oasis/8K_JPG/00001.jpg"
+      },
+      {
+        "type": "pureweb",
+        "projectId": "360d66c2-3544-494a-abf2-ec834e10e308",
+        "modelId": "0cdbc670-0c16-424b-a6ed-13eb90eb7b57",
+        "image": "https://static.wild.xyz/tokens/oasis/4K_Jpeg_experience/001.jpg",
+        "params": {
+          "TokenID": 1
+        }
+      }
+    ]
+  }
+}

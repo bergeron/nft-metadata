@@ -1,0 +1,23 @@
+{
+  "address": "0x46122877a1ea7f531b53547ace9246d76b7d7dee",
+  "type": "ERC721",
+  "name": "Moon Ape Lab Loot",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmUbDeEV5ZdXqqzcMDAex4PfAVvKC4c5p6KdWrQr7oC5pP/1.json",
+  "metadata": {
+    "tokenId": 1,
+    "image": "ipfs://QmRfTU3p9hgHumjY6Jy58an6NsCSB6B3JiAPREgYDzG7oF/legendary.png",
+    "name": "Legendary Loot #1",
+    "attributes": [
+      {
+        "trait_type": "Loot Type",
+        "value": "Legendary"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Stake reward boost",
+        "value": 300
+      }
+    ]
+  }
+}

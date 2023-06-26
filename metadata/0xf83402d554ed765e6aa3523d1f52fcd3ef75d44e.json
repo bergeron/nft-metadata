@@ -1,0 +1,40 @@
+{
+  "address": "0xf83402d554ed765e6aa3523d1f52fcd3ef75d44e",
+  "type": "ERC721",
+  "name": "Death Combat",
+  "tokenCount": "51",
+  "uri": "ipfs://QmP2BPQX2QAHpDFDAh7LLKcvM5HaMf76LxuLqPdKez9H6a/1.json",
+  "metadata": {
+    "image": "ipfs://QmZTnHJGgcZCfSMkq9Y42c6Rr5xRGhpcn3xZyZw8ztGLsp/1.png",
+    "attributes": [
+      {
+        "trait_type": "DAMAGE",
+        "value": 83
+      },
+      {
+        "trait_type": "ACCURACY",
+        "value": 10
+      },
+      {
+        "trait_type": "GENERATION",
+        "value": "GEN-2"
+      },
+      {
+        "trait_type": "RARITY",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "BLADE_STYLE",
+        "value": "Spear-Point"
+      },
+      {
+        "trait_type": "UPGRADABLE",
+        "value": "YES"
+      },
+      {
+        "trait_type": "STRENGTHS",
+        "value": "Deadly, Powerful, Western"
+      }
+    ]
+  }
+}

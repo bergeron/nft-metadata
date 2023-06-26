@@ -1,0 +1,50 @@
+{
+  "address": "0xe9983236e1d2f1ae32a5be721c502a2c8bf29eb9",
+  "type": "ERC1155",
+  "name": "The Palace of Electric Dreams",
+  "tokenCount": "8",
+  "uri": "ipfs://QmUsG1X8Nz31vXafPv3Ws7HsYfXAxT9xahhukiUnvKWqCZ/1/token.json",
+  "metadata": {
+    "async-attributes": {
+      "artists": [
+        "0x2918ceda641716fd6bda3ccf691c3b54d4c87b6e"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "state": {
+                "label": "Synecular Dreams",
+                "uri": "QmdQX6HVmwugGKSu9ur5eVEbdQ6GoZEXW4ngENaKPpLp9d"
+              },
+              "id": "Outside"
+            }
+          ]
+        }
+      ]
+    },
+    "name": "Synecular Dreams",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/video/upload/w_1200/v1677763260/0x2918ceda641716fd6bda3ccf691c3b54d4c87b6e/6400a22911f8e7d747aca33d/stateCovers/edbjxpovcjdwent7mltx.mp4",
+    "description": "Emotions are the canvas. The Observer is in the subject. Am I dreaming?\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Jæn"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "The Palace of Electric Dreams"
+      }
+    ]
+  }
+}

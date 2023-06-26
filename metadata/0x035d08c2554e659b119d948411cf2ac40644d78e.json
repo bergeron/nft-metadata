@@ -1,0 +1,31 @@
+{
+  "address": "0x035d08c2554e659b119d948411cf2ac40644d78e",
+  "type": "ERC721",
+  "name": "CryptoDark",
+  "tokenCount": "145",
+  "uri": "https://bafybeif5e7eq6g562ibrgyvaww74ucseaxw2q34e3jjaxgsneqglwlwmgi.ipfs.nftstorage.link/1",
+  "metadata": {
+    "name": "CryptoDark #1",
+    "description": "CryptoDark #1",
+    "image": "http://bafybeicseouufwtnydener77s6uatvr5wyppauaoa2bvtze4mucuimkj6q.ipfs.dweb.link/1.webp",
+    "seller_fee_basis_points": 250,
+    "fee_recipient": "0xB7a310635453760e12B6139e4E0877d8aF4086C7",
+    "attributes": [
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Impressionism",
+        "value": 83
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Realism",
+        "value": 80
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Surrealism",
+        "value": 92
+      }
+    ]
+  }
+}

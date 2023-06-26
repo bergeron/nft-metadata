@@ -1,0 +1,25 @@
+{
+  "address": "0x1e3fe44d224477902f68a0a91ab5d5169294ebf3",
+  "type": "ERC1155",
+  "name": "Unidentified contract - 1sNqdMc8sr",
+  "tokenCount": "1",
+  "uri": "https://nftopenseatest.s3.eu-west-1.amazonaws.com/nft.json",
+  "metadata": {
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Identifies the asset to which this NFT represents"
+      },
+      "description": {
+        "type": "string",
+        "description": "Describes the asset to which this NFT represents"
+      },
+      "image": {
+        "type": "string",
+        "description": "https://upload.wikimedia.org/wikipedia/commons/1/18/Dog_Breeds.jpg"
+      }
+    }
+  }
+}

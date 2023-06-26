@@ -1,0 +1,71 @@
+{
+  "address": "0x1748b24faf9780b74e5a9f3feb41553e712e94aa",
+  "type": "ERC721",
+  "name": "Ape Rides",
+  "tokenCount": "956",
+  "uri": "https://storage.googleapis.com/aperidesnfts/json/1.json",
+  "metadata": {
+    "name": "AR #1",
+    "description": "5,000 Ape Rides made to fit any Ape NFT collection and bring Apes together. Enhanced with full body artwork, Your Ape NFT is your entry ticket to Ape Rides no matter what tribe it belongs to. At launch the first 100,000 Apes from 10 of the leading collections are ready to hop straight on to any Ape Ride. Ape + Ride = Ape on Ride. Are you ready?",
+    "image": "https://storage.googleapis.com/aperidesnfts/images/1.png",
+    "attributes": [
+      {
+        "trait_type": "Ride Type",
+        "value": "Snowmobile"
+      },
+      {
+        "trait_type": "Primary Color",
+        "value": "Cream"
+      },
+      {
+        "trait_type": "Lights",
+        "value": "White"
+      },
+      {
+        "trait_type": "Secondary Color",
+        "value": "Black"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Boost",
+        "max_value": 100,
+        "value": 41
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Range",
+        "max_value": 100,
+        "value": 59
+      },
+      {
+        "trait_type": "Top Speed",
+        "value": 60,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Handling",
+        "value": 33,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Traction",
+        "value": 76,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Comfort",
+        "value": 64,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Co2 Emissions",
+        "value": 45,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Energy Source",
+        "value": "Gasoline"
+      }
+    ]
+  }
+}

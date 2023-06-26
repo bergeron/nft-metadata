@@ -1,0 +1,63 @@
+{
+  "address": "0x281be01d70d09480539143e89f8d428533496490",
+  "type": "ERC721",
+  "name": "Down Bad Chubbi",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/BZrvSDKvdUdR1aVdA8KmKgyy4MmzIEEZIP47ZqT1Bdo",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1638157450
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Levels Dennis"
+      }
+    ],
+    "description": "Poorly drawn illustration of a Chubbicorn that is down bad",
+    "external_url": "https://cxip.io/nft/0x281be01d70d09480539143e89f8d428533496490/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/-GZk7Xte2rIf0X038SdN45egSlP8CGjz4X017G4KvsE",
+    "imageUrl": "https://arweave.net/-GZk7Xte2rIf0X038SdN45egSlP8CGjz4X017G4KvsE",
+    "name": "Down Bad Chubbi",
+    "properties": {
+      "created_at": "2021-11-29T03:44:10.000000Z",
+      "creator_wallet": "0x3010b8ebdffcc76831574d923a1d80d1a203f11c",
+      "description": "Poorly drawn illustration of a Chubbicorn that is down bad",
+      "image": "https://arweave.net/-GZk7Xte2rIf0X038SdN45egSlP8CGjz4X017G4KvsE",
+      "imageUrl": "https://arweave.net/-GZk7Xte2rIf0X038SdN45egSlP8CGjz4X017G4KvsE",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "29 November 2021",
+      "name": "Down Bad Chubbi",
+      "nft_type": "non-fungible image token (image/png)",
+      "preview_media_file": "https://arweave.net/NSVSSYu1HjFRjKe-qFKlEauAQTslvVLPjhbXPKTHqsc",
+      "preview_media_file_dimensions": "365x360",
+      "preview_media_file_size": 54807,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "1000x986",
+      "raw_media_file": "https://arweave.net/MiAiamqo9-3I8nw0V_3OPneFLDIWEzbuw-PIWjHqZMQ",
+      "raw_media_file_size": 397363,
+      "raw_media_file_spec": "PNG 1000x986 1000x986+0+0 8-bit sRGB 397363B 0.000u 0:00.000",
+      "raw_media_file_type": "image/png",
+      "raw_media_format": "landscape",
+      "raw_media_signature": "0x491f8d7fc100590316f4e94e96d946c6522f60f896dbe65603e1867a21acd5c2",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/NSVSSYu1HjFRjKe-qFKlEauAQTslvVLPjhbXPKTHqsc",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Down Bad Chubbi",
+      "total_supply": 1
+    },
+    "title": "Down Bad Chubbi"
+  }
+}

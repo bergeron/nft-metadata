@@ -1,0 +1,39 @@
+{
+  "address": "0xb2dcf463336a7ead5a1f72427a61625d243ca008",
+  "type": "ERC721",
+  "name": "My TzuERC721A Token",
+  "tokenCount": "7",
+  "uri": "ipfs://bafybeihe72ophlldhkhbgfj4rppmxx3ds2f43gxjviyjo6dxxbccpj2s2a/1.json",
+  "metadata": {
+    "name": "TZU #1",
+    "description": "Powered by Tzanca Uraganu",
+    "image": "ipfs://bafybeicdekoiyhpcfmo2mzggqcxuic6ey6eyfqhojwvjgwc3bvfg4sdt6q/1.png",
+    "edition": "1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Main Stage"
+      },
+      {
+        "trait_type": "Pose",
+        "value": "Uraganu"
+      },
+      {
+        "trait_type": "Lower",
+        "value": "Street Joggers Copper (Green)"
+      },
+      {
+        "trait_type": "Upper-Inner",
+        "value": "Sweatshirt Copper (Black)"
+      },
+      {
+        "trait_type": "Upper-Outer",
+        "value": "Leather Jacket Copper (Grey)"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Aviator (Green Silver)"
+      }
+    ]
+  }
+}

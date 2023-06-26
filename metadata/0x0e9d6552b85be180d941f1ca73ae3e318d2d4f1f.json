@@ -1,0 +1,1143 @@
+{
+  "address": "0x0e9d6552b85be180d941f1ca73ae3e318d2d4f1f",
+  "type": "ERC721",
+  "name": "Metroverse Genesis",
+  "tokenCount": "10000",
+  "uri": "https://s3.us-east-2.amazonaws.com/data.metroverse.com/metadata/block/1",
+  "metadata": {
+    "name": "Block #1",
+    "image": "https://s3.us-east-2.amazonaws.com/data.metroverse.com/image/block/4096/1.jpeg",
+    "description": "Metroverse is a land trading NFT strategy game on Ethereum. Collect, trade, and battle.",
+    "external_url": "https://blocks.metroverse.com/1",
+    "attributes": [
+      {
+        "trait_type": "Score: Total",
+        "display_type": "number",
+        "value": 287
+      },
+      {
+        "trait_type": "Score: Residential",
+        "display_type": "number",
+        "value": 64
+      },
+      {
+        "trait_type": "Score: Commercial",
+        "display_type": "number",
+        "value": 114
+      },
+      {
+        "trait_type": "Score: Industrial",
+        "display_type": "number",
+        "value": 109
+      },
+      {
+        "trait_type": "Buildings: Residential",
+        "value": "Cottage Bungalow"
+      },
+      {
+        "trait_type": "Buildings: Residential",
+        "value": "Glasshouse Home"
+      },
+      {
+        "trait_type": "Buildings: Residential",
+        "value": "Hoodville Towers Small"
+      },
+      {
+        "trait_type": "Buildings: Residential",
+        "value": "Lookout Bungalow"
+      },
+      {
+        "trait_type": "Buildings: Residential",
+        "value": "Modern Villa"
+      },
+      {
+        "trait_type": "Buildings: Residential",
+        "value": "Romantic Cabin"
+      },
+      {
+        "trait_type": "Buildings: Residential",
+        "value": "Sauna Cabin"
+      },
+      {
+        "trait_type": "Buildings: Residential",
+        "value": "Simple Cabin"
+      },
+      {
+        "trait_type": "Buildings: Commercial",
+        "value": "Boomb0x Club"
+      },
+      {
+        "trait_type": "Buildings: Commercial",
+        "value": "METPOT CASINO"
+      },
+      {
+        "trait_type": "Buildings: Commercial",
+        "value": "Metcinema"
+      },
+      {
+        "trait_type": "Buildings: Commercial",
+        "value": "Metro Finance Tower Small"
+      },
+      {
+        "trait_type": "Buildings: Commercial",
+        "value": "Metroverse Theatre"
+      },
+      {
+        "trait_type": "Buildings: Commercial",
+        "value": "Metsurance Building Medium"
+      },
+      {
+        "trait_type": "Buildings: Industrial",
+        "value": "Awesome Looking Armor"
+      },
+      {
+        "trait_type": "Buildings: Industrial",
+        "value": "Beer Brewery"
+      },
+      {
+        "trait_type": "Buildings: Industrial",
+        "value": "Bitwork Botanicals"
+      },
+      {
+        "trait_type": "Buildings: Industrial",
+        "value": "Carpenter's Workshop"
+      },
+      {
+        "trait_type": "Buildings: Industrial",
+        "value": "Chocolate Factory"
+      },
+      {
+        "trait_type": "Buildings: Industrial",
+        "value": "Electronic Waste"
+      },
+      {
+        "trait_type": "Buildings: Industrial",
+        "value": "MeDe Studios"
+      },
+      {
+        "trait_type": "Buildings: Industrial",
+        "value": "Mining and Trading Machines"
+      },
+      {
+        "trait_type": "Buildings: Industrial",
+        "value": "Prehistoric Fossils Warehouse"
+      },
+      {
+        "trait_type": "Buildings: Industrial",
+        "value": "Stand Steel"
+      },
+      {
+        "trait_type": "Buildings: Industrial",
+        "value": "Toy Joy"
+      },
+      {
+        "trait_type": "Buildings: Industrial",
+        "value": "Wind Farm"
+      },
+      {
+        "trait_type": "Buildings: Public",
+        "value": "Bus Stop"
+      },
+      {
+        "trait_type": "Buildings: Public",
+        "value": "Metro Bank"
+      },
+      {
+        "trait_type": "Buildings: Public",
+        "value": "Police Station"
+      },
+      {
+        "trait_type": "Buildings: Public",
+        "value": "School"
+      },
+      {
+        "trait_type": "Buildings: Public",
+        "value": "Small Park"
+      },
+      {
+        "trait_type": "Buildings: Public",
+        "value": "Subway Station"
+      },
+      {
+        "trait_type": "Buildings: Public",
+        "value": "University"
+      }
+    ],
+    "metrics": {
+      "total_score": 287,
+      "residential_score": 64,
+      "commercial_score": 114,
+      "industrial_score": 109,
+      "residential_boost": 0.29,
+      "commercial_boost": 0.25,
+      "industrial_boost": 0.2,
+      "residential_buildings": 8,
+      "commercial_buildings": 6,
+      "industrial_buildings": 12,
+      "public_buildings": 7
+    },
+    "background": 46,
+    "entities": [
+      {
+        "entity_type": {
+          "name": "Prehistoric Fossils Warehouse",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 5.5,
+          "image": "warehouse-small-2.png",
+          "zone": "industrial",
+          "weight": 85,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 0,
+        "y": 0,
+        "projected_x": 3988,
+        "projected_y": 416
+      },
+      {
+        "entity_type": {
+          "name": "Cottage Bungalow",
+          "width": 1,
+          "height": 1,
+          "residential_score": 6,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "house-mid-2.png",
+          "zone": "residential",
+          "weight": 80,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 0,
+        "y": 1,
+        "projected_x": 3475,
+        "projected_y": 672
+      },
+      {
+        "entity_type": {
+          "name": "street-v 7",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "street-v-7.png",
+          "zone": "pathway-v",
+          "weight": 0,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 1,
+        "y": 0,
+        "projected_x": 4500,
+        "projected_y": 672
+      },
+      {
+        "entity_type": {
+          "name": "Hoodville Towers Small",
+          "width": 1,
+          "height": 1,
+          "residential_score": 10,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "building-floors-8-3.png",
+          "zone": "residential",
+          "weight": 40,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 0,
+        "y": 2,
+        "projected_x": 2963,
+        "projected_y": 929
+      },
+      {
+        "entity_type": {
+          "name": "street-v 8",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "street-v-8.png",
+          "zone": "pathway-v",
+          "weight": 0,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 1,
+        "y": 1,
+        "projected_x": 3988,
+        "projected_y": 929
+      },
+      {
+        "entity_type": {
+          "name": "Glasshouse Home",
+          "width": 2,
+          "height": 1,
+          "residential_score": 8,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "house-large-1.png",
+          "zone": "residential",
+          "weight": 70,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 2,
+        "y": 0,
+        "projected_x": 5012,
+        "projected_y": 1185
+      },
+      {
+        "entity_type": {
+          "name": "Sauna Cabin",
+          "width": 1,
+          "height": 1,
+          "residential_score": 2,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "house-xsmall-2.png",
+          "zone": "residential",
+          "weight": 100,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 0,
+        "y": 3,
+        "projected_x": 2450,
+        "projected_y": 1185
+      },
+      {
+        "entity_type": {
+          "name": "street-v 11",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "street-v-11.png",
+          "zone": "pathway-v",
+          "weight": 0,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 1,
+        "y": 2,
+        "projected_x": 3475,
+        "projected_y": 1185
+      },
+      {
+        "entity_type": {
+          "name": "Toy Joy",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 7,
+          "image": "factory-mid-3.png",
+          "zone": "industrial",
+          "weight": 78,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 2,
+        "y": 1,
+        "projected_x": 4500,
+        "projected_y": 1185
+      },
+      {
+        "entity_type": {
+          "name": "MeDe Studios",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 5.5,
+          "image": "factory-small-4.png",
+          "zone": "industrial",
+          "weight": 84,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 0,
+        "y": 4,
+        "projected_x": 1937,
+        "projected_y": 1441
+      },
+      {
+        "entity_type": {
+          "name": "street-v 13",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "street-v-13.png",
+          "zone": "pathway-v",
+          "weight": 0,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 1,
+        "y": 3,
+        "projected_x": 2963,
+        "projected_y": 1441
+      },
+      {
+        "entity_type": {
+          "name": "Simple Cabin",
+          "width": 1,
+          "height": 1,
+          "residential_score": 2,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "house-xsmall-4.png",
+          "zone": "residential",
+          "weight": 100,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 2,
+        "y": 2,
+        "projected_x": 3988,
+        "projected_y": 1441
+      },
+      {
+        "entity_type": {
+          "name": "Lookout Bungalow",
+          "width": 1,
+          "height": 1,
+          "residential_score": 6,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "house-mid-4.png",
+          "zone": "residential",
+          "weight": 80,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 3,
+        "y": 1,
+        "projected_x": 5012,
+        "projected_y": 1441
+      },
+      {
+        "entity_type": {
+          "name": "Metro Finance Tower Small",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 10,
+          "industrial_score": 0,
+          "image": "cbuilding-floors-8-2.png",
+          "zone": "commercial",
+          "weight": 40,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 4,
+        "y": 0,
+        "projected_x": 6037,
+        "projected_y": 1441
+      },
+      {
+        "entity_type": {
+          "name": "street-h 11",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "street-h-11.png",
+          "zone": "pathway-h",
+          "weight": 0,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 0,
+        "y": 5,
+        "projected_x": 1425,
+        "projected_y": 1698
+      },
+      {
+        "entity_type": {
+          "name": "street-v 12",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "street-v-12.png",
+          "zone": "pathway-v",
+          "weight": 0,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 1,
+        "y": 4,
+        "projected_x": 2450,
+        "projected_y": 1698
+      },
+      {
+        "entity_type": {
+          "name": "Carpenter's Workshop",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 2.5,
+          "image": "factory-xsmall-2.png",
+          "zone": "industrial",
+          "weight": 98,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 3,
+        "y": 2,
+        "projected_x": 4500,
+        "projected_y": 1698
+      },
+      {
+        "entity_type": {
+          "name": "Bus Stop",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "bus-stop-1.png",
+          "zone": "public",
+          "weight": 100,
+          "residential_boost": 0.03,
+          "commercial_boost": 0.03,
+          "industrial_boost": 0.03
+        },
+        "x": 5,
+        "y": 0,
+        "projected_x": 6550,
+        "projected_y": 1698
+      },
+      {
+        "entity_type": {
+          "name": "Metroverse Theatre",
+          "width": 2,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 20,
+          "industrial_score": 0,
+          "image": "theatre-1.png",
+          "zone": "commercial",
+          "weight": 50,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 4,
+        "y": 1,
+        "projected_x": 5525,
+        "projected_y": 1954
+      },
+      {
+        "entity_type": {
+          "name": "Stand Steel",
+          "width": 2,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 13.5,
+          "image": "factory-ularge-2.png",
+          "zone": "industrial",
+          "weight": 66,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 2,
+        "y": 3,
+        "projected_x": 3475,
+        "projected_y": 1954
+      },
+      {
+        "entity_type": {
+          "name": "street-x-street",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "street-x-street-1.png",
+          "zone": "pathway-x",
+          "weight": 0,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 1,
+        "y": 5,
+        "projected_x": 1937,
+        "projected_y": 1954
+      },
+      {
+        "entity_type": {
+          "name": "Police Station",
+          "width": 1,
+          "height": 2,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "police-station-1.png",
+          "zone": "public",
+          "weight": 30,
+          "residential_boost": 0.05,
+          "commercial_boost": 0.05,
+          "industrial_boost": 0.05
+        },
+        "x": 0,
+        "y": 6,
+        "projected_x": 399,
+        "projected_y": 2210
+      },
+      {
+        "entity_type": {
+          "name": "Metro Bank",
+          "width": 2,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "bank-1.png",
+          "zone": "public",
+          "weight": 50,
+          "residential_boost": 0.04,
+          "commercial_boost": 0.04,
+          "industrial_boost": 0.04
+        },
+        "x": 6,
+        "y": 0,
+        "projected_x": 7063,
+        "projected_y": 2210
+      },
+      {
+        "entity_type": {
+          "name": "METPOT CASINO",
+          "width": 2,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 24,
+          "industrial_score": 0,
+          "image": "casino-1.png",
+          "zone": "commercial",
+          "weight": 45,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 2,
+        "y": 4,
+        "projected_x": 2963,
+        "projected_y": 2210
+      },
+      {
+        "entity_type": {
+          "name": "street-v 3",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "street-v-3.png",
+          "zone": "pathway-v",
+          "weight": 0,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 1,
+        "y": 6,
+        "projected_x": 1425,
+        "projected_y": 2210
+      },
+      {
+        "entity_type": {
+          "name": "street-h 13",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "street-h-13.png",
+          "zone": "pathway-h",
+          "weight": 0,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 2,
+        "y": 5,
+        "projected_x": 2450,
+        "projected_y": 2210
+      },
+      {
+        "entity_type": {
+          "name": "Romantic Cabin",
+          "width": 1,
+          "height": 1,
+          "residential_score": 2,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "house-xsmall-1.png",
+          "zone": "residential",
+          "weight": 100,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 6,
+        "y": 1,
+        "projected_x": 6550,
+        "projected_y": 2210
+      },
+      {
+        "entity_type": {
+          "name": "Wind Farm",
+          "width": 2,
+          "height": 2,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 24,
+          "image": "wind-power-plant-1.png",
+          "zone": "industrial",
+          "weight": 35,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 4,
+        "y": 2,
+        "projected_x": 4500,
+        "projected_y": 2467
+      },
+      {
+        "entity_type": {
+          "name": "street-v 14",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "street-v-14.png",
+          "zone": "pathway-v",
+          "weight": 0,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 1,
+        "y": 7,
+        "projected_x": 912,
+        "projected_y": 2467
+      },
+      {
+        "entity_type": {
+          "name": "street-h 12",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "street-h-12.png",
+          "zone": "pathway-h",
+          "weight": 0,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 3,
+        "y": 5,
+        "projected_x": 2963,
+        "projected_y": 2467
+      },
+      {
+        "entity_type": {
+          "name": "Small Park",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "park-small-1.png",
+          "zone": "public",
+          "weight": 100,
+          "residential_boost": 0.03,
+          "commercial_boost": 0.03,
+          "industrial_boost": 0
+        },
+        "x": 4,
+        "y": 4,
+        "projected_x": 3988,
+        "projected_y": 2467
+      },
+      {
+        "entity_type": {
+          "name": "Chocolate Factory",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 4,
+          "image": "factory-small-1.png",
+          "zone": "industrial",
+          "weight": 90,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 6,
+        "y": 2,
+        "projected_x": 6037,
+        "projected_y": 2467
+      },
+      {
+        "entity_type": {
+          "name": "Metcinema",
+          "width": 1,
+          "height": 2,
+          "residential_score": 0,
+          "commercial_score": 12,
+          "industrial_score": 0,
+          "image": "cinema-1.png",
+          "zone": "commercial",
+          "weight": 70,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 7,
+        "y": 1,
+        "projected_x": 6550,
+        "projected_y": 2723
+      },
+      {
+        "entity_type": {
+          "name": "street-h 4",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "street-h-4.png",
+          "zone": "pathway-h",
+          "weight": 0,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 4,
+        "y": 5,
+        "projected_x": 3475,
+        "projected_y": 2723
+      },
+      {
+        "entity_type": {
+          "name": "Mining and Trading Machines",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 5,
+          "image": "warehouse-small-1.png",
+          "zone": "industrial",
+          "weight": 90,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 5,
+        "y": 4,
+        "projected_x": 4500,
+        "projected_y": 2723
+      },
+      {
+        "entity_type": {
+          "name": "Boomb0x Club",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 10,
+          "industrial_score": 0,
+          "image": "club-1.png",
+          "zone": "commercial",
+          "weight": 60,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 6,
+        "y": 3,
+        "projected_x": 5525,
+        "projected_y": 2723
+      },
+      {
+        "entity_type": {
+          "name": "University",
+          "width": 2,
+          "height": 2,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "university-1.png",
+          "zone": "public",
+          "weight": 30,
+          "residential_boost": 0.06,
+          "commercial_boost": 0.06,
+          "industrial_boost": 0.04
+        },
+        "x": 2,
+        "y": 6,
+        "projected_x": 1425,
+        "projected_y": 2979
+      },
+      {
+        "entity_type": {
+          "name": "street-h 10",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "street-h-10.png",
+          "zone": "pathway-h",
+          "weight": 0,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 5,
+        "y": 5,
+        "projected_x": 3988,
+        "projected_y": 2979
+      },
+      {
+        "entity_type": {
+          "name": "Beer Brewery",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 2,
+          "image": "factory-xsmall-1.png",
+          "zone": "industrial",
+          "weight": 100,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 7,
+        "y": 3,
+        "projected_x": 6037,
+        "projected_y": 2979
+      },
+      {
+        "entity_type": {
+          "name": "Awesome Looking Armor",
+          "width": 2,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 13,
+          "image": "warehouse-xlarge-1.png",
+          "zone": "industrial",
+          "weight": 72,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 6,
+        "y": 4,
+        "projected_x": 5012,
+        "projected_y": 3236
+      },
+      {
+        "entity_type": {
+          "name": "School",
+          "width": 2,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "school-1.png",
+          "zone": "public",
+          "weight": 60,
+          "residential_boost": 0.04,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 4,
+        "y": 6,
+        "projected_x": 2963,
+        "projected_y": 3236
+      },
+      {
+        "entity_type": {
+          "name": "street-h 8",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "street-h-8.png",
+          "zone": "pathway-h",
+          "weight": 0,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 6,
+        "y": 5,
+        "projected_x": 4500,
+        "projected_y": 3236
+      },
+      {
+        "entity_type": {
+          "name": "Modern Villa",
+          "width": 2,
+          "height": 1,
+          "residential_score": 14,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "house-xlarge-3.png",
+          "zone": "residential",
+          "weight": 58,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 4,
+        "y": 7,
+        "projected_x": 2450,
+        "projected_y": 3492
+      },
+      {
+        "entity_type": {
+          "name": "Bitwork Botanicals",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 5,
+          "image": "factory-small-3.png",
+          "zone": "industrial",
+          "weight": 86,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 6,
+        "y": 6,
+        "projected_x": 3988,
+        "projected_y": 3492
+      },
+      {
+        "entity_type": {
+          "name": "street-h 6",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "street-h-6.png",
+          "zone": "pathway-h",
+          "weight": 0,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 7,
+        "y": 5,
+        "projected_x": 5012,
+        "projected_y": 3492
+      },
+      {
+        "entity_type": {
+          "name": "Metsurance Building Medium",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 15,
+          "industrial_score": 0,
+          "image": "cbuilding-floors-12-3.png",
+          "zone": "commercial",
+          "weight": 30,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 6,
+        "y": 7,
+        "projected_x": 3475,
+        "projected_y": 3748
+      },
+      {
+        "entity_type": {
+          "name": "Subway Station",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 0,
+          "image": "subway-station-1.png",
+          "zone": "public",
+          "weight": 90,
+          "residential_boost": 0.04,
+          "commercial_boost": 0.04,
+          "industrial_boost": 0.04
+        },
+        "x": 7,
+        "y": 6,
+        "projected_x": 4500,
+        "projected_y": 3748
+      },
+      {
+        "entity_type": {
+          "name": "Electronic Waste",
+          "width": 1,
+          "height": 1,
+          "residential_score": 0,
+          "commercial_score": 0,
+          "industrial_score": 4,
+          "image": "warehouse-xsmall-1.png",
+          "zone": "industrial",
+          "weight": 100,
+          "residential_boost": 0,
+          "commercial_boost": 0,
+          "industrial_boost": 0
+        },
+        "x": 7,
+        "y": 7,
+        "projected_x": 3988,
+        "projected_y": 4005
+      }
+    ]
+  }
+}

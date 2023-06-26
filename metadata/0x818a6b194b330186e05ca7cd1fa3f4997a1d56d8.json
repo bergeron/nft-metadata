@@ -1,0 +1,85 @@
+{
+  "address": "0x818a6b194b330186e05ca7cd1fa3f4997a1d56d8",
+  "type": "ERC721",
+  "name": "Creatures by T-O-S",
+  "tokenCount": "1293",
+  "uri": "https://creatures-info.t-o-s.io/metadata/1.json",
+  "metadata": {
+    "name": "Creature by T-O-S #1",
+    "description": "T-O-S has just hatched a plan. Every Moonwalker will now get their very own sidekick. A mysterious, curious, \n    (sometimes super weird) Creature. How you feed and interact with them determine their evolution. Their \n    rarity and value. But be warned. They will demand your time and heart. Your undying affection and attention \n    might just be rewarded handsomely",
+    "image": "https://creatures-info.t-o-s.io/images/stage_5/gold/5604.png",
+    "dna": "f18ed18536cc6d045dba772fa775aefa5cc187bb",
+    "attributes": [
+      {
+        "trait_type": "Race Variant",
+        "value": "Golden"
+      },
+      {
+        "trait_type": "Race",
+        "value": "CHIPS"
+      },
+      {
+        "trait_type": "Camera",
+        "value": "Camera"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blush"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Golden"
+      },
+      {
+        "trait_type": "Meep",
+        "value": "Blank Starboy"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Golden"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Golden"
+      }
+    ],
+    "attributes_files": [
+      {
+        "trait_type": "Race",
+        "value": "CHIPS",
+        "file_name": ""
+      },
+      {
+        "trait_type": "Camera",
+        "value": "Camera",
+        "file_name": "CHIPS_CAMERA.C4D"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blush",
+        "file_name": "CHIPS_BG_BLUSH.C4D"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blush",
+        "file_name": "CHIPS_BODY_BLUSH.C4D"
+      },
+      {
+        "trait_type": "Meep",
+        "value": "Blank Starboy",
+        "file_name": "CHIPS_MEEP_SB_BLANK.C4D"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Swirl",
+        "file_name": "CHIPS_HEADGEAR_BLUSH_SWIRL.C4D"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "ETH",
+        "file_name": "CHIPS_ACCESSORIES_ETH.C4D"
+      }
+    ],
+    "compiler": "TOS Team"
+  }
+}

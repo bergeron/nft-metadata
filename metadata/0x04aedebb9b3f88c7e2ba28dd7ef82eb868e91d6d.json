@@ -1,0 +1,40 @@
+{
+  "address": "0x04aedebb9b3f88c7e2ba28dd7ef82eb868e91d6d",
+  "type": "ERC721",
+  "name": "The PiRIS Project",
+  "tokenCount": "5578",
+  "uri": "https://metadata.artgene.xyz/api/g/piris/1",
+  "metadata": {
+    "name": "PiRIS #1",
+    "image": "https://render.artgene.xyz/api/piris/0xe5eaa5cbfb9cb2f0b82566277f22f7eed832569ebe1d858516c2e2bbc2053989/render.png",
+    "description": "The PiRIS Project.\nAn on chain generative art experiment.\nCircular walks of digits of Pi.",
+    "attributes": [
+      {
+        "trait_type": "Inner Radius",
+        "value": "S"
+      },
+      {
+        "trait_type": "Blend Mode",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Pi Sequence Length",
+        "value": "1752"
+      },
+      {
+        "trait_type": "Points Per Digit",
+        "value": "30"
+      },
+      {
+        "trait_type": "Expanse",
+        "value": "Echo"
+      },
+      {
+        "trait_type": "Color Palette",
+        "value": "Cotton Candy"
+      }
+    ],
+    "animation_url": "ipfs://bafybeigpcbok3g4hzx5mbm553yhajae3qwmg4a7euoq5arjw5bwgyb7p7i/?dna=0xe5eaa5cbfb9cb2f0b82566277f22f7eed832569ebe1d858516c2e2bbc2053989",
+    "external_url": null
+  }
+}

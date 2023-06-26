@@ -1,0 +1,37 @@
+{
+  "address": "0x2ed2c16b073f573cedecffd943fd6ae966cdb9ce",
+  "type": "ERC721",
+  "name": "Cypher City Pets",
+  "tokenCount": "556",
+  "uri": "https://api.cyphercity.io/pets/1",
+  "metadata": {
+    "name": "Cypher City Pet #1",
+    "image": "ipfs://QmfMXA5wkL66N7ZeHFBRQhC5eZArY5qqFVXx9NDhqHZMcr/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Animal",
+        "value": "Monkey"
+      },
+      {
+        "trait_type": "Body Color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Cyclops Visor"
+      },
+      {
+        "trait_type": "Handhelds",
+        "value": "Green Collar"
+      }
+    ]
+  }
+}

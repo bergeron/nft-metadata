@@ -1,0 +1,43 @@
+{
+  "address": "0x30078d83898a3c5a055d71f1901e8ee844737150",
+  "type": "ERC721",
+  "name": "Peeps Treats",
+  "tokenCount": "257",
+  "uri": "https://api.peeps.club/treats/1.json",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Witching hour"
+      },
+      {
+        "trait_type": "Sky",
+        "value": "Full moon"
+      },
+      {
+        "trait_type": "Highlight",
+        "value": "Ectoplasm"
+      },
+      {
+        "trait_type": "Shadow",
+        "value": "Graveyard"
+      },
+      {
+        "trait_type": "Candy",
+        "value": "Sugar free hard candy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Wobbly"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Evil"
+      }
+    ],
+    "description": "One haunted Halloween, you went trick or treating and knocked on Peeps Club's door. You found...",
+    "external_url": "https://peeps.club",
+    "image": "https://api.peeps.club/treats/1.png",
+    "name": "Peep Treat #1"
+  }
+}

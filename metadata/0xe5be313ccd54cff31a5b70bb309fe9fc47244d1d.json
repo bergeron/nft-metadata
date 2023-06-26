@@ -1,0 +1,41 @@
+{
+  "address": "0xe5be313ccd54cff31a5b70bb309fe9fc47244d1d",
+  "type": "ERC721",
+  "name": "InvaderZ Official",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmYfVhnq3CDovRFmzCBW1NBTc3AQcr8x661VhG9VxTsSfw/1.json",
+  "metadata": {
+    "name": "InvaderZ #1",
+    "description": "InvaderZ is inspired by Invader Zim the cartoon on nickelodeon but 1000% redrawn and customized to be a very nostalgic collection",
+    "image": "ipfs://QmTyAfGnAAwtTDqkB38xcjFFtGeHAE6Z4EAsSExK4ArJgD/1.png",
+    "edition": 1,
+    "date": 1666312632320,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Wall"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Legs",
+        "value": "Grey Fit"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Laid Back Yellow"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Barely Hairy"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Chewing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

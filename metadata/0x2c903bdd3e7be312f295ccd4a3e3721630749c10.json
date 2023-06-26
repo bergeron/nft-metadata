@@ -1,0 +1,43 @@
+{
+  "address": "0x2c903bdd3e7be312f295ccd4a3e3721630749c10",
+  "type": "ERC721",
+  "name": "entropy dva",
+  "tokenCount": "5",
+  "uri": "https://ipfs.pixura.io/ipfs/QmTDfGcNs8hRMiQTyVCTar9pxqr386HJmDVqfNSG5aBfDV/metadata.json",
+  "metadata": {
+    "name": "poof! n IV",
+    "createdBy": "seva markov",
+    "yearCreated": "2022",
+    "description": "an unstoppable force \nmeets an immovable object",
+    "image": "https://ipfs.pixura.io/ipfs/QmPZsAYTmEYZnLA1ipQ4Tfesduf4NbeP3AZ3c2Q37MycSp/poofnIV.gif",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmU3CgG7VexWgER7ToakZN9rwTwm6PXzXt9nvcf931nJ53/poofnIVnft.mp4",
+      "dimensions": "2000x1500",
+      "size": "40293223",
+      "mimeType": "video/mp4"
+    },
+    "tags": [
+      "3d",
+      "2d",
+      "animation"
+    ],
+    "attributes": [
+      {
+        "trait_type": "artwork",
+        "value": "vsevolod markov"
+      },
+      {
+        "trait_type": "music",
+        "value": "roman chepurnykh"
+      },
+      {
+        "trait_type": "year",
+        "value": "2013-22"
+      },
+      {
+        "trait_type": "size",
+        "value": "2000x1500"
+      }
+    ]
+  }
+}

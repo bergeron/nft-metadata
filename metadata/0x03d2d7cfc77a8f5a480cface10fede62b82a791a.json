@@ -1,0 +1,41 @@
+{
+  "address": "0x03d2d7cfc77a8f5a480cface10fede62b82a791a",
+  "type": "ERC721",
+  "name": "tiny rabbit 2",
+  "tokenCount": "279",
+  "uri": "ipfs://QmTZxj9vS4kAvtvQk3eQom7RBbsoSZ9qchvco76aimU9JJ/1.json",
+  "metadata": {
+    "name": "tiny rabbit #2",
+    "description": "one of tiny rabbit, living on Ethereum",
+    "image": "ipfs://QmZqXgxFpoNmWdZv2p7L23ucuQMHX7R8VDWGkW314D6sfo/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "#d1d1dd"
+      },
+      {
+        "trait_type": "Belly",
+        "value": "B1"
+      },
+      {
+        "trait_type": "Body",
+        "value": "#9ea1a4"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Eye2"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Athlete3"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 49,
+        "display_type": "number"
+      }
+    ],
+    "fee_recipient": "0xf958d630303f899e60a97CF34ee0B6AB5378A308",
+    "seller_fee_basis_points": 750
+  }
+}

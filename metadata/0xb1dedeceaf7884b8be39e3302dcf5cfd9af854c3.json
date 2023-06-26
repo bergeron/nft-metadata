@@ -1,0 +1,54 @@
+{
+  "address": "0xb1dedeceaf7884b8be39e3302dcf5cfd9af854c3",
+  "type": "ERC721",
+  "name": "ThirdBreakfast",
+  "tokenCount": "3333",
+  "uri": "ipfs://QmP8FroHbpckuzo8wJXWZ6gYEebSNXDKVV7p3qayhAHD2R/1.json",
+  "metadata": {
+    "name": "ThirdBreakfast # 1",
+    "external_url": "",
+    "image": "ipfs://QmPzQuTmBMQBxiSehLcg8KcdYbA7jdFzA2nSuEcEn96g1t/1.png",
+    "description": "Moonbird Loops",
+    "seller_fee_basis_points": "200",
+    "fee_recipient": "0x0d66dd415bA734a98b743156589560f24995E3a7",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": 9,
+        "max_value": 9
+      },
+      {
+        "trait_type": "Box",
+        "value": "8"
+      },
+      {
+        "trait_type": "Mascot",
+        "value": "Moonbird"
+      },
+      {
+        "trait_type": "Brand",
+        "value": "Moonbird"
+      },
+      {
+        "trait_type": "Cereal Type",
+        "value": "Loops"
+      },
+      {
+        "trait_type": "Nutrition Labels",
+        "value": "1"
+      }
+    ],
+    "collection": {
+      "name": "ThirdBreakfast",
+      "family": "ThirdBreakfast"
+    },
+    "properties": {
+      "creators": [
+        {
+          "address": "0x0d66dd415bA734a98b743156589560f24995E3a7",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

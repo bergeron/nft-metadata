@@ -1,0 +1,43 @@
+{
+  "address": "0x20d975eb2352f2c26b8869cc99eac00cef2f522b",
+  "type": "ERC721",
+  "name": "Music Avatars",
+  "tokenCount": "2",
+  "uri": "ipfs://QmRwDnQ9zP4eqbWbjkdtPiFeS1t5BBfXmDsVXNNRdK2GeA/1.json",
+  "metadata": {
+    "name": "Music Avatars #1",
+    "description": "Music Avatars is a collection of 10,000 NFTs for artists who embody their instruments. Each NFT is unique and consists of either a string instrument, mic, DJ set, synthesizer, or drum with distinct facial features. When you hold a Music Avatar NFT, you own all commercial and publishing rights associated with the image. Feel free to use it any way you like.",
+    "image": "ipfs://QmTULf4rrxv9Ayp7nncQLkczKyogBCt89iSwfTvZnEQawk/1.png",
+    "dna": "59dc354f151b48820e35fac5757ad34c838b167a",
+    "edition": 1,
+    "date": 1638736458337,
+    "artist": "Kolourr",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Instrument",
+        "value": "Green_Guitar"
+      },
+      {
+        "trait_type": "Eyes Background",
+        "value": "Cream"
+      },
+      {
+        "trait_type": "Eye Brows",
+        "value": "Position_19"
+      },
+      {
+        "trait_type": "Eye Position",
+        "value": "Green_7"
+      },
+      {
+        "trait_type": "Lips and Teeth",
+        "value": "Position_1_-_Blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

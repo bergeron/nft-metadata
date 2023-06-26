@@ -1,0 +1,32 @@
+{
+  "address": "0xc35c2c682d4ee43d947228e3720a51fc3b8733b8",
+  "type": "ERC721",
+  "name": "NFT Machine",
+  "tokenCount": "8",
+  "uri": "https://infiNFT.azurewebsites.net/api/HttpTrigger?artContract=0xc35c2c682d4ee43d947228e3720a51fc3b8733b8&id=1",
+  "metadata": {
+    "image": "https://gateway.pinata.cloud/ipfs/QmSPqaefEQYnq6z6NZD2Z4eAJ9DUBsRzrNVDHUYr7URmWk",
+    "description": "Tranquil Koala with 4k resolution done in the style of Van Gough's \"A pair of Shoes, 1888\".  ",
+    "animation_url": "",
+    "external_url": "https://www.infinft.com/view.html?artistcontract=0xc35c2c682d4ee43d947228e3720a51fc3b8733b8&token=1",
+    "name": "Koala X Van Gough",
+    "attributes": [
+      {
+        "trait_type": "artist name",
+        "value": "NFT Machine"
+      },
+      {
+        "trait_type": "edition number",
+        "value": "1 of 1"
+      },
+      {
+        "trait_type": "exhibition",
+        "value": "Animals"
+      },
+      {
+        "trait_type": "file type",
+        "value": "png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "address": "0x95a243ededbd22a518df361689948c27f7aa1b4e",
+  "type": "ERC721",
+  "name": "Haradashi",
+  "tokenCount": "123",
+  "uri": "ipfs://QmTdGScoMkxTAqJAptu9bXpWuyJ4EjNrEyFyV9tzWWXnw5/1.json",
+  "metadata": {
+    "name": "Haradashi #1",
+    "description": "3535 Perplexed Haradashis helping people feel better on the Ethereum Blockchain",
+    "external_url": "",
+    "image": "ipfs://QmRUFXTmwJTKWFHsquYWgehUo798r1gDxDCp8hf87gSEJJ/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Orange"
+      },
+      {
+        "trait_type": "Body Color",
+        "value": "Greenish"
+      },
+      {
+        "trait_type": "Horn",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Wrinkle"
+      },
+      {
+        "trait_type": "Forehead Wrinkle",
+        "value": "Forehead5"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eyes1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth4"
+      },
+      {
+        "trait_type": "Monogram",
+        "value": "Grey"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Haradashi",
+      "family": "Haradashi"
+    },
+    "symbol": ""
+  }
+}

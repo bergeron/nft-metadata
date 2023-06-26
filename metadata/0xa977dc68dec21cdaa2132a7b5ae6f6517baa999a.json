@@ -1,0 +1,24 @@
+{
+  "address": "0xa977dc68dec21cdaa2132a7b5ae6f6517baa999a",
+  "type": "ERC721",
+  "name": "RealPig",
+  "tokenCount": "516",
+  "uri": "ipfs://QmZLcf16SsGC19NcSaaXCAHLbWeXTcbeR59D3SLVxYP5kL/1.json",
+  "metadata": {
+    "name": "Real Pig #1",
+    "description": "516 Unique Real Pigs on PoS",
+    "image": "ipfs://QmT74j7VZL6hanG4qgFi9fZjjwV66dee8CM5HYhft2N4i6/1.png",
+    "edition": "1",
+    "date": 1234567899,
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "value": "1"
+      },
+      {
+        "trait_type": "Stakeable",
+        "value": "Not yet"
+      }
+    ]
+  }
+}

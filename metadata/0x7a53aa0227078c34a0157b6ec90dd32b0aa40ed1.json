@@ -1,0 +1,39 @@
+{
+  "address": "0x7a53aa0227078c34a0157b6ec90dd32b0aa40ed1",
+  "type": "ERC721",
+  "name": "Downtown by Hideko",
+  "tokenCount": "2222",
+  "uri": "ipfs://bafybeidg7qybkrcuiuwadshlol32mmflac7whwsmotwpbbrpybdqck5lme/1.json",
+  "metadata": {
+    "name": "Downtown #1",
+    "description": "The birds are singing, the streets are quiet and the air is fresh - welcome to Downtown.",
+    "image": "ipfs://bafybeicnyrla762jvopyzhrklavsllm2mq42syd2bcie5z4czmw36ptqe4/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Number of Buildings",
+        "value": 105
+      },
+      {
+        "trait_type": "Number of Trees",
+        "value": 64
+      },
+      {
+        "trait_type": "Season",
+        "value": "Spring"
+      },
+      {
+        "trait_type": "Sun Color",
+        "value": "Sunrise"
+      },
+      {
+        "trait_type": "Birdsong",
+        "value": "Melodic Trill"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0xf18769daa5dd7a3323f8c05a56d9cb571c8870af",
+  "type": "ERC1155",
+  "name": "Wood Token Firewood",
+  "tokenCount": "4",
+  "uri": "https://wood.garten-staudinger.de/1",
+  "metadata": {
+    "name": "Woodtoken #1",
+    "description": "",
+    "image": "https://wood.garten-staudinger.de/1.png",
+    "dna": "f1c4fe7f92d8c0a7a911169f30b2324b90d11f48",
+    "edition": 1,
+    "date": 1668200044179,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Wood",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Moss",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mushroom",
+        "value": "None"
+      },
+      {
+        "trait_type": "Special",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

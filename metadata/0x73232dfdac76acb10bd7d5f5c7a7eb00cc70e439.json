@@ -1,0 +1,46 @@
+{
+  "address": "0x73232dfdac76acb10bd7d5f5c7a7eb00cc70e439",
+  "type": "ERC721",
+  "name": "Spooky Scarecrows Club",
+  "tokenCount": "8275",
+  "uri": "ipfs://bafybeibi76x7qqqpa6em4as2hwe4i5vka7vi2ciobbaftpq4sqi4zlhnj4/1.json",
+  "metadata": {
+    "name": "Spooky Scarecrow #1",
+    "description": "10,000 Spooky Scarecrows hidden in the corn fields. Look away.",
+    "image": "ipfs://bafybeiabkf4yqvr7cnvr56t6ytgdha3hfyqwq67copbhc7yymtxkbr4vom/1.png",
+    "dna": "bf50f4ff1b3ef3ef794e6c4824ab1580d8aacad1",
+    "edition": 1,
+    "date": 1666466201353,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Pumpkin"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Red Shirt"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Carrot"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Dead"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Cap"
+      }
+    ],
+    "compiler": "Spooky"
+  }
+}

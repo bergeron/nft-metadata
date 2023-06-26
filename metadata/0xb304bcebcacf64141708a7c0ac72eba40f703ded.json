@@ -1,0 +1,36 @@
+{
+  "address": "0xb304bcebcacf64141708a7c0ac72eba40f703ded",
+  "type": "ERC721",
+  "name": "HexMountain",
+  "tokenCount": "1200",
+  "uri": "https://nand.fr/assets/hmountain/metadata/1",
+  "metadata": {
+    "name": "HexMountain #1",
+    "image": "https://nand.fr/assets/hmountain/preview/1_preview.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Meadow"
+      },
+      {
+        "trait_type": "Longitude",
+        "value": 6.768006571403222
+      },
+      {
+        "trait_type": "Latitude",
+        "value": 46.058799220720914
+      },
+      {
+        "trait_type": "Width (in meters)",
+        "value": 5293
+      },
+      {
+        "trait_type": "Height (in meters)",
+        "value": 6095
+      }
+    ],
+    "animation_url": "https://nand.fr/viewer/hexmap/1",
+    "iframe_url": "https://nand.fr/viewer/hexmap/1",
+    "external_url": "https://nand.fr/?hexmountain-id=1"
+  }
+}

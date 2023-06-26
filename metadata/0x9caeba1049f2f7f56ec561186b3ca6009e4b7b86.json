@@ -1,0 +1,42 @@
+{
+  "address": "0x9caeba1049f2f7f56ec561186b3ca6009e4b7b86",
+  "type": "ERC721",
+  "name": "Snark.art",
+  "tokenCount": "512",
+  "uri": "ipfs://Qma4zCtuZbiYTizp4eufNFt8ZckbMPpWoSBgJ1PdJJdCY8",
+  "metadata": {
+    "name": "Fled to the jungle with a girl from Hamburg",
+    "artist": "Simon Lee",
+    "description": "Artist Simon Lee. Originally published in BOMB magazine, this piece has recently been specially editioned for Snark.art.",
+    "external_url": "https://stage-covid-api.snark.art//artwork/f1b28738-a017-21ea-a002-0242ac110023",
+    "image": "https://covid-api-v2.snark.art/api/v1//artworks/f1b28738-a017-21ea-a002-0242ac110023/image/1.jpg",
+    "original": "ipfs://QmXWAvueXzsv76QhBEMXDVyp9n1zDtpAvHzt9hftTZPV2Y",
+    "attributes": [
+      {
+        "trait_type": "artist",
+        "value": "Simon Lee"
+      },
+      {
+        "trait_type": "date",
+        "value": "2013"
+      },
+      {
+        "trait_type": "media",
+        "value": "Digital file"
+      },
+      {
+        "trait_type": "cover_image_type",
+        "value": "image/jpg"
+      },
+      {
+        "trait_type": "asset_type",
+        "value": "image"
+      },
+      {
+        "trait_type": "scarcity",
+        "value": "1 of 10"
+      }
+    ],
+    "cover_image_set": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "address": "0xfb00406fbc80fa11a278d0a6418e9d90e45022a9",
+  "type": "ERC721",
+  "name": "SonaAirdropToken",
+  "tokenCount": "8",
+  "uri": "ipfs://bafyreibogqcjof2dbegxlgryzsdxu6tkcnwsjxvsf5ckn734dh2z4a62bi/metadata.json",
+  "metadata": {
+    "name": "Sona Badge",
+    "description": "Sona Battle Winner's Cup",
+    "external_url": "https://www.sonaprotocol.xyz",
+    "attributes": [
+      {
+        "trait_type": "Achievement",
+        "value": "Head to Head Winner"
+      },
+      {
+        "trait_type": "Game Type",
+        "value": "Battle"
+      },
+      {
+        "trait_type": "Smarter Than",
+        "value": "tamimos"
+      }
+    ],
+    "image": "ipfs://bafybeiaq2dogs3ozyxkx3fmwwhdjxta432qrpuvcyb4grgyqjb2ndyvlq4/image.png"
+  }
+}

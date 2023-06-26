@@ -1,0 +1,74 @@
+{
+  "address": "0xca72fecc4bdb993650654a9881f2be15a7875796",
+  "type": "ERC721",
+  "name": "Legend Maps Adventurers",
+  "tokenCount": "8787",
+  "uri": "ipfs://QmWnCThYztquQ2w9uHGTM6sexN3Z1bPP24tnZ6G1wfNtt3/1",
+  "metadata": {
+    "description": "**Honan Ember of Sorrowmoor is Legend Maps Adventurer #1.** \n Legend Maps Adventurer NFTs have a unique combination of traits and attributes, and provide the template for playable characters in the Legend Maps roguelike dungeon crawler game. \n\n **Alternate Formats:** \n [Character Card](https://legendmaps.mypinata.cloud/ipfs/QmWyAMcuqYT9yepfCwt77KywNmm1NHATFGxaXsywdekxyq/char_card_1.png) , [Adventurer with transparent background](https://legendmaps.mypinata.cloud/ipfs/Qmc6PbAZuvQy7rv1hfNMyF1yujakYvBqMEmtPpntyEY2Tb/tp_portrait_1.png) \n\n Learn more at [legendmaps.io](http://legendmaps.io/)",
+    "tokenId": 1,
+    "name": "Honan Ember of Sorrowmoor",
+    "short_name": "Honan Ember",
+    "first_name": "Honan",
+    "last_name": "Ember",
+    "image": "ipfs://QmVCUhrsEEkPFccGax1ZjYuLuHX1wac3LqHx2tkW8QwTah/portrait_1.png",
+    "image_transparent": "ipfs://Qmc6PbAZuvQy7rv1hfNMyF1yujakYvBqMEmtPpntyEY2Tb/tp_portrait_1.png",
+    "image_card": "ipfs://QmWyAMcuqYT9yepfCwt77KywNmm1NHATFGxaXsywdekxyq/char_card_1.png",
+    "attributes": [
+      {
+        "trait_type": "Brawn",
+        "value": "16"
+      },
+      {
+        "trait_type": "Agility",
+        "value": "11"
+      },
+      {
+        "trait_type": "Guile",
+        "value": "14"
+      },
+      {
+        "trait_type": "Spirit",
+        "value": "15"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Trapper"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Northerner"
+      },
+      {
+        "trait_type": "art_background",
+        "value": "blood brick sky runes"
+      },
+      {
+        "trait_type": "art_armor",
+        "value": "naga skin robe"
+      },
+      {
+        "trait_type": "art_head",
+        "value": "leather sprangenhelm"
+      },
+      {
+        "trait_type": "art_weapon",
+        "value": "iron short sword"
+      },
+      {
+        "trait_type": "art_shield",
+        "value": "augur targe"
+      }
+    ],
+    "traits": [
+      {
+        "trait": "Trapper",
+        "description": "Bonus when attempting to disarm traps."
+      },
+      {
+        "trait": "Northerner",
+        "description": "Extra health in maps with ice biome or walls."
+      }
+    ]
+  }
+}

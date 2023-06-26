@@ -1,0 +1,38 @@
+{
+  "address": "0xf18a12c52bfa88a352c1a51f766f7bba10282fa5",
+  "type": "ERC721",
+  "name": "Naughty Birds",
+  "tokenCount": "106",
+  "uri": "ipfs://bafybeifqct2t7nrudfjnkyf5goovkm3ha2trdzjl5fcptssrqtw2rn4kra/1",
+  "metadata": {
+    "name": "Naughty Birds #1",
+    "description": "Meet a collection of 4444 amazing pixel art with different attributes and styles!",
+    "image": "ipfs://bafybeib6ifesuvaakxcomeasfw7oug2yv7bdb67i4jswwvfkktwjg5rbji/1.png",
+    "dna": "f594a19c1f8c8b9e415eaef0b96d15f3da5033ea",
+    "edition": 1,
+    "date": 1685573650470,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Achromatic"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Chainmail"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "StrawHat"
+      },
+      {
+        "trait_type": "Facewear",
+        "value": "Sunglasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

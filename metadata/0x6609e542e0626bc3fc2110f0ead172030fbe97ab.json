@@ -1,0 +1,34 @@
+{
+  "address": "0x6609e542e0626bc3fc2110f0ead172030fbe97ab",
+  "type": "ERC721",
+  "name": "This Artwork Is Subject To Change",
+  "tokenCount": "10987",
+  "uri": "https://api.gasoline.xyz/api/taistc/metadata/1",
+  "metadata": {
+    "name": "This Artwork Is Subject To Change",
+    "created_by": "Gasoline",
+    "external_url": "https://gasoline.xyz",
+    "description": "This artwork is subject to change.",
+    "image": "ipfs://QmRKgLpfarzAZrLJyvbj9iUbg9irPbqik23gBSGG2Bt7vf",
+    "animation_url": "ipfs://QmQYxCbCeQhKShZQ4swoEgeEoNDdjwqKGTHrBdyMiHn9at",
+    "attributes": [
+      {
+        "trait_type": "State",
+        "value": "Unfrozen"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Gasoline"
+      },
+      {
+        "trait_type": "Title",
+        "value": "Gasoline Checks"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Lot",
+        "value": 3
+      }
+    ]
+  }
+}

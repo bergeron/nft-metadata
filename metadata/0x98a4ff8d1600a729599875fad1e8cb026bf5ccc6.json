@@ -1,0 +1,39 @@
+{
+  "address": "0x98a4ff8d1600a729599875fad1e8cb026bf5ccc6",
+  "type": "ERC721",
+  "name": "TaschaPFP",
+  "tokenCount": "1",
+  "uri": "https://taschapfp.s3.amazonaws.com/metadata.json",
+  "metadata": {
+    "name": "Tascha 1.1",
+    "description": "Tascha's profile picture v1.1",
+    "external_url": "https://taschalabs.com",
+    "image": "https://taschapfp.s3.amazonaws.com/Tascha.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Hair",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "White sweater"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Indigo stars"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Mona Lisa"
+      },
+      {
+        "trait_type": "Style",
+        "value": "CG art"
+      }
+    ]
+  }
+}

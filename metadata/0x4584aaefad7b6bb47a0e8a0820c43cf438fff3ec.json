@@ -1,0 +1,57 @@
+{
+  "address": "0x4584aaefad7b6bb47a0e8a0820c43cf438fff3ec",
+  "type": "ERC721",
+  "name": "Metadandies",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmdiN4US8KFtmqWaeHQyjGbokjqm7BCccgBkZNRD8zhfeM/1.json",
+  "metadata": {
+    "name": "Metadandies #1",
+    "description": "A collection of Metadandies - a fashion trendsetters who places a high degree of importance on physical appearance, always staying fashionable, well-groomed and elegantly dressed.",
+    "image": "ipfs://bafybeidetjgq6gzq22hqfxnri6amndj5pd4fxt36vhk3i4vnc2asubdm6i/1.png",
+    "edition": 1,
+    "date": 1665633869995,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Original Self"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Boots"
+      },
+      {
+        "trait_type": "Bottoms",
+        "value": "Red shorts"
+      },
+      {
+        "trait_type": "Top Under Outwear",
+        "value": "HODL hoodie"
+      },
+      {
+        "trait_type": "Outwear",
+        "value": "Classy blazer"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fedora hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "White sunglasses"
+      },
+      {
+        "trait_type": "Bags",
+        "value": "Sports bag"
+      }
+    ],
+    "compiler": "Reevnat Art Engine"
+  }
+}

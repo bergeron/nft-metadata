@@ -1,0 +1,42 @@
+{
+  "address": "0xc18a5f2ded3472a22501ff9caea2a6578f123bdc",
+  "type": "ERC721",
+  "name": "art.json",
+  "tokenCount": "1333",
+  "uri": "ipfs://bafybeidafolnnhwhs2acexpysej4ncdshbj44nuvdago3ve3t5iiis24vq/1.json",
+  "metadata": {
+    "name": "art.json #1",
+    "description": "JSON is not metadata only, anymore. Now it's ART.",
+    "image": "ipfs://bafybeicvjow3mevdjoa6un5qgnav5huhsp7eyinezcszqdlihonzsrhvjy/1.png",
+    "dna": "af8f6a3a09c76e121d127e05e87b4897dec2416a",
+    "edition": 1,
+    "date": 1678843456009,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Morning"
+      },
+      {
+        "trait_type": "Terrain",
+        "value": "Winter"
+      },
+      {
+        "trait_type": "JSON File",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "JSON Name",
+        "value": "Paycheck"
+      },
+      {
+        "trait_type": "JSON Virus",
+        "value": "Clean"
+      },
+      {
+        "trait_type": "Test",
+        "value": "1"
+      }
+    ],
+    "compiler": "Json"
+  }
+}

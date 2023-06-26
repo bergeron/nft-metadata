@@ -1,0 +1,53 @@
+{
+  "address": "0x0fc2c598186a028201109877a61d91b5f1e77566",
+  "type": "ERC721",
+  "name": "Sealz",
+  "tokenCount": "3333",
+  "uri": "https://bafybeifxuhj4tjgozbv2rtjptvzojr5yacoznb3ank4yojdce5m7slj33u.ipfs.w3s.link/1.json",
+  "metadata": {
+    "name": "Sealz #1",
+    "description": "A collection of 3333 Sealz. Generated with handcrafted art, each sealz is unique.  #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "green hoodie"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Head",
+        "value": "yellow bucket hat"
+      }
+    ],
+    "creators": [],
+    "collection": {
+      "name": "Sealz",
+      "family": "Sealz"
+    },
+    "symbol": "SLZ",
+    "seller_fee_basis_points": 0,
+    "image": "https://bafybeieffjqfoaqofgh7zxdyhu5xylb4hfu2rgdj7lmvq2wcfy4tyf7ooa.ipfs.w3s.link/1.png"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "address": "0x70f7958addb3b9ac17a7c0b947b88a5185ca7d38",
+  "type": "ERC721",
+  "name": "Boss Catz NFT",
+  "tokenCount": "37",
+  "uri": "ipfs://bafybeia77zt42mg6vgiihsqt7is5bdbtz5m5hkpeao5uzn76t3oiqstgjm/2.json",
+  "metadata": {
+    "name": "Boss Catz #2",
+    "symbol": "CATZ",
+    "description": "5000 Boss Catz on ETH Chain to rule the World 2",
+    "seller_fee_basis_points": 800,
+    "image": "ipfs://bafybeiezddiciffezfb43uyzm3h7p2dxydnzaiegm3l2nwm5pcz7gh7hb4/2.png",
+    "external_url": "BossCatzNFT",
+    "edition": 10,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Coat",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Angle Wings"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Halo"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Blue Shades"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://nftstorage.link/ipfs/QmYeH2pBRYTAkGayeZ8vD29F7cm86TQaHof8cbHPExG6c6/2.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "2v6nVLCLGHTfbSCeiSeQiAptzMhw6kXLWsWURvb21Rzg",
+          "share": 100
+        }
+      ]
+    },
+    "collection": "Boss Catz",
+    "creators": "K $ G "
+  }
+}

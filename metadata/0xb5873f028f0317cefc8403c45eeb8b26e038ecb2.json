@@ -1,0 +1,38 @@
+{
+  "address": "0xb5873f028f0317cefc8403c45eeb8b26e038ecb2",
+  "type": "ERC721",
+  "name": "Pepe Digital Trading Cards",
+  "tokenCount": "556",
+  "uri": "ipfs://bafybeihufcltrmo7vhvvbr4m6g5kr4qlhkke3luovha2k6eg5qe2d75yx4/1.json",
+  "metadata": {
+    "name": "Pepe Card #1",
+    "description": "Pepe Digital Trading Card.",
+    "image": "ipfs://bafybeic626mot6vy6lk3v6n4x2z2gq6qzqic2ku76bovtymumtcg2qhy2e/1.png",
+    "dna": "06b7e1ebf041ed80524868d27533550199897859",
+    "edition": 1,
+    "date": 1671318895393,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Red Sweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad Crying"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Extremely Happy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "Pepe"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "address": "0x2adfc8600ef96eec9700d6bf372d0f784db99e5f",
+  "type": "ERC721",
+  "name": "remove-dead",
+  "tokenCount": "4",
+  "uri": "https://ipfs.io/ipfs/QmRgaQCh42cjx2Bqfa4xnAXLpfMBGpou45GVGwX4BSSxhq/1.json",
+  "metadata": {
+    "name": "OscarSlap #1",
+    "description": "Just glorious slaps.",
+    "external_url": "",
+    "image": "https://ipfs.io/ipfs/Qmc83sEzA32hH2vz5yVUD2akLxk7FWvvax3NhjwfEckTnx/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Smear"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Left Jacket",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Right Jacket",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Shirts",
+        "value": "Salmon"
+      },
+      {
+        "trait_type": "Bowtie",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Heads",
+        "value": "Original"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Red Ring"
+      },
+      {
+        "trait_type": "Left HeadGear",
+        "value": "Red Cap"
+      },
+      {
+        "trait_type": "Right HeadGear",
+        "value": "Paper Bag"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

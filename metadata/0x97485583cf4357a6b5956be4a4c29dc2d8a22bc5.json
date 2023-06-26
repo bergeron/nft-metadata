@@ -1,0 +1,49 @@
+{
+  "address": "0x97485583cf4357a6b5956be4a4c29dc2d8a22bc5",
+  "type": "ERC721",
+  "name": "blklava oinks",
+  "tokenCount": "4",
+  "uri": "ipfs://QmWHWJ62nzfQSxY3ZoafUH3Y3WSskx4tFvtnvDdxnJ2WeX/1",
+  "metadata": {
+    "name": "blklava oink #1",
+    "description": "666 tiny oinks with balaklavas",
+    "image": "ipfs://QmSrw2ZUuuWwfs2mYGS8RmcE4ZRqk1AbMxcBHVtM6N8jhs/1.png",
+    "external_url": "opensea.io",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xaAC1783b81d0249D5B22558A4A0B8114ba3EDC48",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Mint"
+      },
+      {
+        "trait_type": "Oink",
+        "value": "Oink 7"
+      },
+      {
+        "trait_type": "Blklava",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Extra 26"
+      }
+    ],
+    "symbol": "BLKLVoink",
+    "seller_fee_basis_points": 100,
+    "edition": 1
+  }
+}

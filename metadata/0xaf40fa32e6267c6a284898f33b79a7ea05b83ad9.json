@@ -1,0 +1,50 @@
+{
+  "address": "0xaf40fa32e6267c6a284898f33b79a7ea05b83ad9",
+  "type": "ERC1155",
+  "name": "STAY EATTIN, BANK ON CRYPTO - FREE ANON CHARACTER MINT",
+  "tokenCount": "1",
+  "uri": "ipfs://QmXRAZYnqnw6U22YSnBpC7FhoQWErZnfq8HV1g73Zb2EsE/1/token.json",
+  "metadata": {
+    "name": "ANON GLITCH 3",
+    "image": "ipfs://QmeUAz7R55JUnf3bwXPucvdcZAGD72oyyfQyiFzHer84kx",
+    "description": "ANON GLITCH 3\nFREE MINT\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "CultBitz"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Right Seat 2"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "STAY EATTIN, BANK ON CRYPTO - FREE ANON CHARACTER MINT"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0x99bbae611bc61cd18962bf8bbfacec87d6378d18"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Right Seat 2",
+              "state": {
+                "label": "ANON GLITCH 3",
+                "uri": "QmcBGQ9CvNSwGR7t6kTT6mLdfg87auZPtt432dEJo2nZUG"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

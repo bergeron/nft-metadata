@@ -1,0 +1,35 @@
+{
+  "address": "0x0ab72b8e2cfd4a1adfe5efa8609358e194e979a8",
+  "type": "ERC721",
+  "name": "The Club 300",
+  "tokenCount": "3",
+  "uri": "ipfs://QmQEVHCiERFQEiY83RDRADs1PiKVrhb4Q9n9MvH3gxXvNw/1.json",
+  "metadata": {
+    "dna": "f451731024fc30f177f53bc4365a70ebe12a419ff7be71e88fcd3b40553d1a69",
+    "name": "Club300 #1",
+    "description": "Club300",
+    "image": "ipfs://QmZbASTCZhQNx2YDDWgRGjrMBNUqQifsRR2qmyJZbhN9ke/1.png",
+    "imageHash": "376eaeb27ba30fd062577af51607e7e7e13c0c2e3422f9a048d360a1acd35583",
+    "edition": 1,
+    "date": 1666898246592,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREEN"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Front",
+        "value": "Ticket"
+      },
+      {
+        "trait_type": "Side",
+        "value": "Bug"
+      }
+    ],
+    "compiler": "Club300"
+  }
+}

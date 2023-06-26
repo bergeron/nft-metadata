@@ -1,0 +1,40 @@
+{
+  "address": "0xd256ab19ebf3e9094e6f76598daf598e264abc38",
+  "type": "ERC1155",
+  "name": "LunarWaifus",
+  "tokenCount": "4",
+  "uri": "ipfs://QmayM4Eu24gKrSA5tF7EvT5yAevpGea68Gd9nrtzSDYjPd",
+  "metadata": {
+    "description": "A friendly Narumi-chan. Part of the Sakura collection.",
+    "image": "ipfs://QmYymkgMV4vpVoLymo6moC93YN3Ck2dVqvvNYZGiqPq9nj",
+    "name": "Common Narumi [Sakura]",
+    "animation_url": "ipfs://QmSFjnRQA2roSkK9EFMYkmdhLJpQ6LED2uqN6A8otPRfDC",
+    "attributes": [
+      {
+        "trait_type": "Attitude",
+        "value": "Friendly"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Sakura"
+      },
+      {
+        "trait_type": "Waifu",
+        "value": "Narumi"
+      },
+      {
+        "trait_type": "Affection",
+        "value": 2,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Blood type",
+        "value": "O"
+      }
+    ]
+  }
+}

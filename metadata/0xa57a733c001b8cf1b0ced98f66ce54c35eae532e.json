@@ -1,0 +1,39 @@
+{
+  "address": "0xa57a733c001b8cf1b0ced98f66ce54c35eae532e",
+  "type": "ERC1155",
+  "name": "Meme Ltd. V3",
+  "tokenCount": "6",
+  "uri": "ipfs://bafybeigrsvrh733myx3voucesczygzv5kqwcz4235qzyamiy53jhb34574/1",
+  "metadata": {
+    "name": "Meme Grail Relic",
+    "description": "The Meme Holy Grail. To show our appreciation to all humble farmers",
+    "image": "ipfs://bafybeihzxdzifs4e2cx3tz4i7vl26lyykbmk7satfhv2qhokmbkwk35moe/1",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "MEME Limited"
+      },
+      {
+        "trait_type": "Max Supply",
+        "value": "10000"
+      },
+      {
+        "trait_type": "tag",
+        "value": "Pineapple"
+      },
+      {
+        "trait_type": "type",
+        "value": "Relic"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Relic"
+      },
+      {
+        "trait_type": "created",
+        "value": 1598450400,
+        "display_type": "date"
+      }
+    ]
+  }
+}

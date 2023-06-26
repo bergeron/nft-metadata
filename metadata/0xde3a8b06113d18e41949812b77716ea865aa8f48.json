@@ -1,0 +1,38 @@
+{
+  "address": "0xde3a8b06113d18e41949812b77716ea865aa8f48",
+  "type": "ERC721",
+  "name": "FoxyHounds",
+  "tokenCount": "6666",
+  "uri": "https://api.foxyfam.io/metadata/hound/1",
+  "metadata": {
+    "name": "FoxyHound #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Red 6"
+      },
+      {
+        "trait_type": "Muzzle",
+        "value": "Muzzle Strip"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Yeeah"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Black Shirt"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Leather Hat"
+      }
+    ],
+    "image": "https://foxyhounds-images.s3.us-west-2.amazonaws.com/7806.png",
+    "description": ""
+  }
+}

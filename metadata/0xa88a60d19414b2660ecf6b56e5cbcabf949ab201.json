@@ -1,0 +1,30 @@
+{
+  "address": "0xa88a60d19414b2660ecf6b56e5cbcabf949ab201",
+  "type": "ERC721",
+  "name": "random_1 V2",
+  "tokenCount": "10",
+  "uri": "ipfs://QmNk3RjsmFBSHvdjGUnYRqVExmPA6k7RS6j49TMfX6vdET/1.json",
+  "metadata": {
+    "name": "test random 1 #1",
+    "description": "test random 1",
+    "image": "ipfs://QmYS3T61Fm9VbKnBx5opdZhjqb2YEeLgCELEBybeoQuBRa/1.jpeg",
+    "edition": 1,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(62,156,156)"
+        },
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Hot Dog"
+        },
+        {
+          "trait_type": "date",
+          "value": 1742
+        }
+      ]
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

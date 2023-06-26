@@ -1,0 +1,31 @@
+{
+  "address": "0x932f97a8fd6536d868f209b14e66d0d984fe1606",
+  "type": "ERC721",
+  "name": "XANA:  LAND",
+  "tokenCount": "8776",
+  "uri": "https://prod-backend.xanalia.com/blind-box/get-nft-meta-info?chain=1&collection=0x932f97a8fd6536d868f209b14e66d0d984fe1606&tokenId=1",
+  "metadata": {
+    "name": "XANA: LAND Super Rare 4x4 (25, -29)",
+    "description": "LAND is the 3D Virtual space within the XANA metaverse.",
+    "image": "https://xana-land.s3.eu-west-1.amazonaws.com/land-super-rare-4main.mp4",
+    "totalSupply": 1,
+    "externalLink": "",
+    "thumbnft": "https://xana-land.s3.eu-west-1.amazonaws.com/land-super-rare-4.jpg",
+    "co-ords": "[25,-29]",
+    "size": "[4,4]",
+    "properties": [
+      {
+        "trait_type": "Rarity",
+        "value": "Super Rare"
+      },
+      {
+        "trait_type": "Size",
+        "value": "4x4"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Land"
+      }
+    ]
+  }
+}

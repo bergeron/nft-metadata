@@ -1,0 +1,23 @@
+{
+  "address": "0x8ff1523091c9517bc328223d50b52ef450200339",
+  "type": "ERC721",
+  "name": "Rug Radio - Genesis NFT",
+  "tokenCount": "20000",
+  "uri": "ipfs://QmZsnxhwwcuSMdHccg2Dpkmw41Q1tr23MHQMXzC9UGZ8kQ/408.json",
+  "metadata": {
+    "description": "The Rug Radio NFT is a Utility NFT that yields token based on the scarcity of the rug. The longer you hold the utility NFT, the more tokens you will receive.\n\nTokens yield per day:\n\nRare 1 & 2 = 11, Scarce 1 & 2 = 7, Standard = 5\n\nTo learn more about the RugRadio ecosystem, join our Discord or visit http://rug.fm/",
+    "image": "ipfs://Qmahn44ZJyVeifi542cs2DbjjsSPSqc3QGKQf8vzUoorCm/Standard_banana.png",
+    "name": "Rug Radio: Standard",
+    "external_url": "https://www.rug.fm/",
+    "attributes": [
+      {
+        "trait_type": "Role",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Meme",
+        "value": "Banana"
+      }
+    ]
+  }
+}

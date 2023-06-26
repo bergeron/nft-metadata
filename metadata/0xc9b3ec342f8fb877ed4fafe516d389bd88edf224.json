@@ -1,0 +1,27 @@
+{
+  "address": "0xc9b3ec342f8fb877ed4fafe516d389bd88edf224",
+  "type": "ERC721",
+  "name": "Bricked",
+  "tokenCount": "1111",
+  "uri": "ipfs://bafybeigh3bu46fqlykvhnxidgdd4qxzxuzhktenkpvytpuawim3j722fra/1.json",
+  "metadata": {
+    "name": "Bricked #1",
+    "description": "Collect and combine, how many bricks will you gather?",
+    "image": "ipfs://bafybeidpctrcqypxz7wuvoedu2tg4owflqqofbpirxjn4ci25kdgwav4zi/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Total Bricks",
+        "value": 684
+      },
+      {
+        "trait_type": "Gold Bricks",
+        "value": 73
+      },
+      {
+        "trait_type": "Diamond Bricks",
+        "value": 135
+      }
+    ]
+  }
+}

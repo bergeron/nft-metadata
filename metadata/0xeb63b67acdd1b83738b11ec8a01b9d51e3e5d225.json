@@ -1,0 +1,46 @@
+{
+  "address": "0xeb63b67acdd1b83738b11ec8a01b9d51e3e5d225",
+  "type": "ERC721",
+  "name": "OpenSea Collection Derivative Token",
+  "tokenCount": "1",
+  "uri": "https://ori-static.particle.network/1/collection/0xeb63b67acdd1b83738b11ec8a01b9d51e3e5d225/1.json",
+  "metadata": {
+    "name": "Asuki-crown",
+    "description": "Asuki add a crown",
+    "image": "https://ori-static.particle.network/images/132ac755-7490-4376-92ad-3ff8910024e0.png",
+    "nftType": "derivative",
+    "licenseToken": "0xA288fB2730920F54A8295fc8A235427b0Ed85bB2",
+    "licenseTokenId": "2",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "smoking"
+      },
+      {
+        "trait_type": "style",
+        "value": "Chinese"
+      },
+      {
+        "trait_type": "percent",
+        "value": 1,
+        "max_value": 100
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "earning",
+        "value": 1,
+        "max_value": 10
+      }
+    ],
+    "external_url": "https://orinft.xyz",
+    "external_link": "https://orinft.xyz"
+  }
+}

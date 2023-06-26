@@ -1,0 +1,32 @@
+{
+  "address": "0x846a8894b2d8fdd384afba5204fb0cb4ecbf6d3e",
+  "type": "ERC721",
+  "name": "AomenCity",
+  "tokenCount": "100",
+  "uri": "https://aomencity.s3.ap-southeast-1.amazonaws.com/lands/1.json",
+  "metadata": {
+    "name": "Land (100, 83)",
+    "description": "A LAND is a digital piece of real estate in metaverse that players can buy to build experiences on top of. Once you own a LAND, you will be able to populate it with Games and Assets. Each LAND is a unique (non-fungible) token lying on the public Ethereum blockchain (ERC-721).",
+    "image": "https://aomencity.s3.ap-southeast-1.amazonaws.com/lands/100_83.png",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Arce"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Land X",
+        "value": "100 of 220"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Land Y",
+        "value": "83 of 220"
+      },
+      {
+        "trait_type": "Closest District",
+        "value": "Commune Plaza"
+      }
+    ]
+  }
+}

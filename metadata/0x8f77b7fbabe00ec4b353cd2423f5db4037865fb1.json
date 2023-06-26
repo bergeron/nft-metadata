@@ -1,0 +1,38 @@
+{
+  "address": "0x8f77b7fbabe00ec4b353cd2423f5db4037865fb1",
+  "type": "ERC721",
+  "name": "Temper Rhythm by Tarcosa",
+  "tokenCount": "999",
+  "uri": "ipfs://QmehtkPJRumiCByEKzv4cTYkbJbZqAwhrb3D4DaNoC5SHH/1.json",
+  "metadata": {
+    "name": "Temple Rhythm #1",
+    "image": "ipfs://QmSaww4jfPHsD2qBS7GQqThhMWTvtsg7TxcW5nyMFB1Zit/1.png",
+    "description": "A generative art experiment by Tarcosa. Created with p5.js.",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "#38dbff"
+      },
+      {
+        "trait_type": "Eclipse",
+        "value": "#0bca2f"
+      },
+      {
+        "trait_type": "Points",
+        "value": "1000"
+      },
+      {
+        "trait_type": "Sampling",
+        "value": "3.5"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "10"
+      },
+      {
+        "trait_type": "Time",
+        "value": "5000"
+      }
+    ]
+  }
+}

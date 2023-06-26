@@ -1,0 +1,30 @@
+{
+  "address": "0x82e456e9d883d4a4ed378f643ac166c038c8e818",
+  "type": "ERC721",
+  "name": "Derive chain tokens",
+  "tokenCount": "3",
+  "uri": "https://tokens.blckv2.xyz/DRVE/1",
+  "metadata": {
+    "name": "Derive chain #001",
+    "image": "https://tokens.blckv2.xyz/DRVE/1/assets/cover.png",
+    "description": "Chain token for Derive chain #001. This is a utility token granting the holder the privilege of adding a work to the chain and choosing the next contributor. Learn more at derive.works.",
+    "title": "Derive chain #001",
+    "artist": "Various",
+    "tracks": [
+      {
+        "title": "Endless",
+        "duration": 0,
+        "artists": [
+          "H20P"
+        ]
+      }
+    ],
+    "status": "started",
+    "colors": [
+      "rgba(244, 233, 233, 0.4)",
+      "rgba(37, 242, 220, 0.14)",
+      "rgba(86, 194, 178, 0.22)",
+      "rgba(244, 150, 185, 1)"
+    ]
+  }
+}

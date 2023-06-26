@@ -1,0 +1,78 @@
+{
+  "address": "0x1a2772e59106802749ca09993888258cddbc68a7",
+  "type": "ERC721",
+  "name": "BlockGen by Sun Hammer",
+  "tokenCount": "10",
+  "uri": "https://arweave.net/3XjFZSpbUnox2C_MMSKg9K7gZzYnnDRQ7ZJWZkeX12s",
+  "metadata": {
+    "name": "BlockGen #1",
+    "created_by": "Jay Bodley",
+    "external_url": "jaybodley.com/nft",
+    "description": "The BlockGen NFT is a generated piece of music that follows a specific compositional structure. This means that every time it’s performed, it’s different, but it’s still clearly recognizable as the same piece. This captured performance is edition 1/5.\n\nUnlockable content:  \n- The Ableton Live session files of the piece. Anyone who owns the software can re-perform the composition, remix its parts, create stems, or use its algorithmic properties as jumping-off points for new musical or programming ideas.  \n- The Max/MSP patch that was written to create the accompanying image. Anyone who owns that software will be able to create new images using the same processing (even to make a new NFT), or re-purpose its parts entirely.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Jay Bodley"
+      },
+      {
+        "trait_type": "File Type",
+        "value": "WAV"
+      },
+      {
+        "trait_type": "Unlockable Content",
+        "value": "Ableton Live session"
+      },
+      {
+        "trait_type": "Unlockable Content",
+        "value": "Max/MSP patch"
+      },
+      {
+        "trait_type": "Genre",
+        "value": "Electronic"
+      },
+      {
+        "trait_type": "Generative Elements",
+        "value": "8"
+      },
+      {
+        "trait_type": "Organic/Synthetic",
+        "value": "Synthetic"
+      },
+      {
+        "trait_type": "Synthesis Type",
+        "value": "FM Synthesis"
+      },
+      {
+        "trait_type": "Synthesis Type",
+        "value": "Additive Synthesis"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "value": "1",
+        "max_value": "1"
+      },
+      {
+        "trait_type": "Synthesis Type",
+        "value": "Subtractive Synthesis"
+      }
+    ],
+    "animation_details": {
+      "bytes": 64297724,
+      "format": "WAV",
+      "duration": 223,
+      "sha256": "a819e02019f958686e90d71d4011ed55c4dd8be60ecabb8d2b684306afe0123f"
+    },
+    "animation": "https://arweave.net/smOoYaG2jVw7Ls5mh8J9_SacyOeIhyBSxR5RukzADYw",
+    "animation_url": "https://arweave.net/smOoYaG2jVw7Ls5mh8J9_SacyOeIhyBSxR5RukzADYw",
+    "image_details": {
+      "bytes": 1150204,
+      "format": "PNG",
+      "sha256": "cfaba15cef6d06cb8a7e399ff78eee78b80daeb0552ad2044510edf8bd95d86d",
+      "width": 1600,
+      "height": 1200
+    },
+    "image": "https://arweave.net/PvJcQEdrmjPsu8EczAH9Gd9vbSHaZC_ZAiYyZN2W32A",
+    "image_url": "https://arweave.net/PvJcQEdrmjPsu8EczAH9Gd9vbSHaZC_ZAiYyZN2W32A"
+  }
+}

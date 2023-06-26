@@ -1,0 +1,18 @@
+{
+  "address": "0xe3a56e474892be0778038d53b9945f0f72fec628",
+  "type": "ERC1155",
+  "name": "Abio Mint Pass",
+  "tokenCount": "3",
+  "uri": "https://us-central1-doodories.cloudfunctions.net/app/portions/1",
+  "metadata": {
+    "image": "https://decentralizeddevs.mypinata.cloud/ipfs/QmXxoddpqY3JeVn4arGksv3XdcvoqpL9dqvwUGzcFG2a4n/rare.png",
+    "name": "Rare",
+    "description": "Can claim a Tenth Life of rare rarity.",
+    "attributes": [
+      {
+        "trait_type": "Portion Type",
+        "value": "Rare"
+      }
+    ]
+  }
+}

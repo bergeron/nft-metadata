@@ -1,0 +1,33 @@
+{
+  "address": "0x7b08dbce9003d41d4bfc90d32498fabcd966dcff",
+  "type": "ERC721",
+  "name": "MarineBoysClub",
+  "tokenCount": "42",
+  "uri": "ipfs://QmWe1dtrcm8eiQp9x8JgK5B3ptWqwiVBAvT6P7Pocf3DoK",
+  "metadata": {
+    "number": 1,
+    "name": "Lv.2 Magic Marine Marlin Boy #1",
+    "description": "MRBC-MTVS-NFT-213광채 무늬를 두른 청새치 다이버",
+    "feeRecipient": "0xe83f7F055aeCD7dDc34c5947c771108ed33eAcD9",
+    "image": "ipfs://Qmb9qW21fcA56uAEe1ug7ubFqxox9Y2EFgSK5kFfKZMP9W",
+    "compiler": "Marine Boys Club",
+    "attributes": [
+      {
+        "value": "COLOR",
+        "trait_type": "skinDescription"
+      },
+      {
+        "value": "2",
+        "trait_type": "skinLevel"
+      },
+      {
+        "value": "Magic",
+        "trait_type": "grade"
+      },
+      {
+        "value": "청새치",
+        "trait_type": "type"
+      }
+    ]
+  }
+}

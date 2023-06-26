@@ -1,0 +1,61 @@
+{
+  "address": "0xe11cf20c097ba05654402e4cc09939e4058f1f14",
+  "type": "ERC721",
+  "name": "Pepes - Check Edition",
+  "tokenCount": "5",
+  "uri": "https://arweave.net/u-3EKu8J2Zb9rNt78KMT2CWwGlWrIQ5Gg-ggFO_VDg8",
+  "metadata": {
+    "name": "Pepes",
+    "created_by": "Blu30rgy",
+    "description": "Checks feel good man.",
+    "attributes": [
+      {
+        "trait_type": "animated",
+        "value": "yes"
+      },
+      {
+        "trait_type": "color band",
+        "value": "pepe"
+      },
+      {
+        "trait_type": "looking",
+        "value": "right"
+      },
+      {
+        "trait_type": "pepes",
+        "value": "80"
+      },
+      {
+        "trait_type": "speed",
+        "value": "1x"
+      },
+      {
+        "trait_type": "notable",
+        "value": "maybe"
+      }
+    ],
+    "animation_details": {
+      "bytes": 22524921,
+      "format": "MP4",
+      "duration": 7,
+      "sha256": "6bfb7fc57566b6ba9490e186d664f886a9d641233020d24e003530a8e1f1e114",
+      "width": 1924,
+      "height": 2304,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/-0u_4UFg6XI6Mzge5YnQuQY_pPi0c485v2lO-oVrPdI",
+    "animation_url": "https://arweave.net/-0u_4UFg6XI6Mzge5YnQuQY_pPi0c485v2lO-oVrPdI",
+    "image_details": {
+      "bytes": 799611,
+      "format": "PNG",
+      "sha256": "34196a76eadf01d4df99f568b1b1a1b3edab307e6665d1f7c9d306fd94914a7b",
+      "width": 4000,
+      "height": 4750
+    },
+    "image": "https://arweave.net/DGwLlLGe2Iy8wwTNJt0e5BeCx11e2cKIQSRqZiycE6A",
+    "image_url": "https://arweave.net/DGwLlLGe2Iy8wwTNJt0e5BeCx11e2cKIQSRqZiycE6A"
+  }
+}

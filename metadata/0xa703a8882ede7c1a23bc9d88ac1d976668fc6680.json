@@ -1,0 +1,90 @@
+{
+  "address": "0xa703a8882ede7c1a23bc9d88ac1d976668fc6680",
+  "type": "ERC721",
+  "name": "Alpha Sheep Club",
+  "tokenCount": "52",
+  "uri": "ipfs://QmTks6gwcmegDgYvCnfcoLCPxaRgTJJcrabhbcBwDc58wf/1.json",
+  "metadata": {
+    "name": "Alpha Sheep Club NFT 1",
+    "symbol": "ASC",
+    "description": "Alpha Sheep Club is a collection of 10,000 NFTs unique digital characters of 3D sheep.",
+    "seller_fee_basis_points": 0,
+    "image": "https://gateway.pinata.cloud/ipfs/QmdgAvAWgQQpnHJK2ecBnvduVZfskZRYLZE4qKJG1nDrEt/1.png",
+    "animation_url": "",
+    "external_url": "https://alphasheepclub.xyz",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "chardonnay"
+      },
+      {
+        "trait_type": "fur",
+        "value": "white"
+      },
+      {
+        "trait_type": "skin tone",
+        "value": "white"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "multicolored grins"
+      },
+      {
+        "trait_type": "horns",
+        "value": "null"
+      },
+      {
+        "trait_type": "eyeglasses",
+        "value": "black 1"
+      },
+      {
+        "trait_type": "headwears",
+        "value": "null"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "green"
+      },
+      {
+        "trait_type": "clothing",
+        "value": "polo with orange pullover"
+      },
+      {
+        "trait_type": "necklaces",
+        "value": "null"
+      },
+      {
+        "trait_type": "earrings",
+        "value": "silver stud"
+      }
+    ],
+    "collection": {
+      "name": "Alpha Sheep club",
+      "family": "Alpha Sheep"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "",
+          "type": "image/png"
+        },
+        {
+          "uri": "",
+          "type": "unknown",
+          "cdn": ""
+        },
+        {
+          "uri": "",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video",
+      "creators": [
+        {
+          "address": "",
+          "share": ""
+        }
+      ]
+    }
+  }
+}

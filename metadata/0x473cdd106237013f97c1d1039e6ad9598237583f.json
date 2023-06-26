@@ -1,0 +1,30 @@
+{
+  "address": "0x473cdd106237013f97c1d1039e6ad9598237583f",
+  "type": "ERC1155",
+  "name": "Hupe Merch",
+  "tokenCount": "26",
+  "uri": "https://hunnys-merch.s3.amazonaws.com/classicHat/1",
+  "metadata": {
+    "name": "Hunnys Classic POP Hat #1",
+    "image": "https://hunnys-merch.s3.amazonaws.com/classicHat/0.png",
+    "description": "A product from the Official Hunnys merch shop. This item may be redeemable for physical merchandise without paying gas or shipping fees at https://www.shop.hunnys.net/redeem. To check if this item is valid for redemption, enter the Token ID found below at https://www.shop.hunnys.net/tokenchecker.",
+    "attributes": [
+      {
+        "trait_type": "Collection",
+        "value": "Hunnys Classic"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Hat"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Holder Only",
+        "value": "No"
+      }
+    ]
+  }
+}

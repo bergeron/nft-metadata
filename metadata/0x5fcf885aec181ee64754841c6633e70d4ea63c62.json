@@ -1,0 +1,46 @@
+{
+  "address": "0x5fcf885aec181ee64754841c6633e70d4ea63c62",
+  "type": "ERC721",
+  "name": "Dentaverse Discovery",
+  "tokenCount": "10",
+  "uri": "ipfs://QmQVUn58spB5jSuCrFmJ7anPc5SwTWZ93nFVCKgaVFnVSk/1.json",
+  "metadata": {
+    "name": "Discovery #1",
+    "description": "Dentaverse Discovery is a collection of 6000 unique NFTs. It is a unique 2D art piece and your membership access key to Dentaverse.",
+    "image": "ipfs://QmWMHYAkm74CUe1Nufo6jB4ij6J6rDQAckvVybgyJtmxXB/1.png",
+    "dna": "b32dc27c5c0bdf78eabb4f639721a7e7194400ab",
+    "edition": 1,
+    "date": 1675352733772,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Museum"
+      },
+      {
+        "trait_type": "Interior",
+        "value": "Romain Ruins"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Teeth_Attribute",
+        "value": "None"
+      },
+      {
+        "trait_type": "Lips",
+        "value": "Paint Blue Paradise"
+      },
+      {
+        "trait_type": "Mouth_Attribute",
+        "value": "None"
+      },
+      {
+        "trait_type": "Foreground",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

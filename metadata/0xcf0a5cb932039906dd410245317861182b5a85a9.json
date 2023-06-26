@@ -1,0 +1,42 @@
+{
+  "address": "0xcf0a5cb932039906dd410245317861182b5a85a9",
+  "type": "ERC721",
+  "name": "Loot for Emojis",
+  "tokenCount": "11",
+  "uri": "ipfs://QmPL8ZyLmxA3w23nrFHWiVVQt4u3z56WXa5iBw8xn5MP6S/1.json",
+  "metadata": {
+    "name": "Emoji Loot #1",
+    "description": "Loot (for Emojis)",
+    "image": "ipfs://QmTFA1kaQT46KjFTspVhSe2gEt7pXVuwe53XEiJGm9EfJ4/1.png",
+    "dna": "a739ad844dc5296042d0b34cced35590536aaed4",
+    "edition": 1,
+    "date": 1638388398511,
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Mindblown"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Bathing Suit"
+      },
+      {
+        "trait_type": "Pet",
+        "value": "Cat"
+      },
+      {
+        "trait_type": "Consumables",
+        "value": "Pie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Present"
+      },
+      {
+        "trait_type": "Zodiac",
+        "value": "Gemini"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

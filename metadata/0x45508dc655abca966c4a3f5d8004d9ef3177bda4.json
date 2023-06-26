@@ -1,0 +1,18 @@
+{
+  "address": "0x45508dc655abca966c4a3f5d8004d9ef3177bda4",
+  "type": "ERC721",
+  "name": "DJDAO Membership SBT",
+  "tokenCount": "2",
+  "uri": "https://djdao.s3.amazonaws.com/DJDAOSBT.json",
+  "metadata": {
+    "name": "DJ DAO Membership",
+    "description": "DJ DAO is a spontaneous, self-funded, self-directed DAO of DJs, VJs, Producers, and Promoters. This SBT grants the holder access to our internal documentation and other Web3 enabled services.",
+    "image": "https://djdao.s3.amazonaws.com/DJDAO_DISCORD.jpg",
+    "attributes": [
+      {
+        "trait_type": "Vibes",
+        "value": "Immaculate"
+      }
+    ]
+  }
+}

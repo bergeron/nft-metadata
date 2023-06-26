@@ -1,0 +1,45 @@
+{
+  "address": "0xdad462f89e2013f698dabc9cc7e55a479142d338",
+  "type": "ERC721",
+  "name": "imojiverse",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/WdcSXTsNattYAf4S8UAp9cFk59TidcT1Kkf0D5tethg",
+  "metadata": {
+    "name": "money imoji",
+    "created_by": "imprevade",
+    "description": "imoji by imprevade",
+    "attributes": [
+      {
+        "trait_type": "type",
+        "value": "classic"
+      },
+      {
+        "trait_type": "format",
+        "value": "animated"
+      }
+    ],
+    "image_details": {
+      "bytes": 3442302,
+      "format": "PNG",
+      "sha256": "72e0e6a748d2655944ffb87e8c29d2e55359486d6ca8424832263f1a8181485d",
+      "width": 2000,
+      "height": 2000
+    },
+    "image": "https://arweave.net/s_w8jRWkRp25Etnk2oyH6hzO9cc1wM9wcoviPJUTtXc",
+    "image_url": "https://arweave.net/s_w8jRWkRp25Etnk2oyH6hzO9cc1wM9wcoviPJUTtXc",
+    "animation_details": {
+      "bytes": 8433642,
+      "format": "MP4",
+      "duration": 2,
+      "sha256": "6644ba18e87bc8c823caf6865163c78e23c7ec1b95d10df380122fc959083bc5",
+      "width": 2000,
+      "height": 2000,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/KUf6CuqSP2nKVyJMcjhodqYNR7B7wO-w0wV4HiVOO_k",
+    "animation_url": "https://arweave.net/KUf6CuqSP2nKVyJMcjhodqYNR7B7wO-w0wV4HiVOO_k"
+  }
+}

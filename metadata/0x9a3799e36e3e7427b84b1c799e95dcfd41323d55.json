@@ -1,0 +1,42 @@
+{
+  "address": "0x9a3799e36e3e7427b84b1c799e95dcfd41323d55",
+  "type": "ERC721",
+  "name": "Ragin' Roosters NFT",
+  "tokenCount": "999",
+  "uri": "ipfs://bafybeide3wr7ltviocsv7bl3il6bfwlpa6l7cggngedot6ggr4ezrx2qza/1.json",
+  "metadata": {
+    "name": "Rooster #2",
+    "symbol": "Ragin' Roosters",
+    "description": "999 Ragin' Roosters are coming to Solana to displace those who have gotten comfy, get ready we’re taking over. We are the LMNFT killer",
+    "seller_fee_basis_points": 777,
+    "image": "https://nftstorage.link/ipfs/bafybeibwjivln45gorravvoolntndq6sa7qp4wjh2x67bvpajgxgyxhboq/1.png",
+    "attributes": [
+      {
+        "trait_type": "1/1",
+        "value": "Darth Roosder"
+      }
+    ],
+    "properties": {
+      "creators": [
+        {
+          "address": "GR1Wa9yTqaCSwWyJNrLQyMXyEhbB24CjGFUmyGn8USGm",
+          "share": 55
+        },
+        {
+          "address": "EWGuKearaB6Frihkyow2JeV6Bx3oHoDAHS4CqxnGvQNA",
+          "share": 45
+        }
+      ],
+      "files": [
+        {
+          "uri": "https://nftstorage.link/ipfs/bafybeibwjivln45gorravvoolntndq6sa7qp4wjh2x67bvpajgxgyxhboq/1.png",
+          "type": "image/png"
+        }
+      ]
+    },
+    "collection": {
+      "name": "Ragin' Roosters",
+      "family": "Ragin' Roosters"
+    }
+  }
+}

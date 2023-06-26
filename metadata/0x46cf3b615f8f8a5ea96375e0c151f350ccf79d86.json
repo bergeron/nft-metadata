@@ -1,0 +1,55 @@
+{
+  "address": "0x46cf3b615f8f8a5ea96375e0c151f350ccf79d86",
+  "type": "ERC721",
+  "name": "DeFi Dad",
+  "tokenCount": "20",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=AJT3GSUIQffpfb0JNFsk",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1584734033601?alt=media&token=aca6ef98-6621-4e53-ae1c-aaa627c24c49",
+    "forSale": true,
+    "contractAddress": "0x46cf3b615f8f8a5ea96375e0c151f350ccf79d86",
+    "description": "This is an example of a \"dinner bond\" that a restaurant could sell to customers for a discounted amount to be redeemed when they reopen. You can mint (create) a limit number of unique digital coupons using Mintbase.",
+    "tags": [],
+    "amountToMint": 20,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1584734659,
+      "_nanoseconds": 647000000
+    },
+    "price": "0.56",
+    "name": "Daddy's Girl Restaurant",
+    "fiatPrice": "$75.12",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "twitter.com/defi_dad"
+      },
+      {
+        "trait_type": "location",
+        "value": "123rd St, Queens, NY, USA"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJ2xFtfFT1wokRM3U6ZfNgdSA"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1609401600
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x46cf3b615f8f8a5ea96375e0c151f350ccf79d86",
+    "type": "ERC721"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "address": "0x06b1b815138ff3188ec38a26a13676d5a1069952",
+  "type": "ERC721",
+  "name": "Evaverse Turtle Troop",
+  "tokenCount": "5000",
+  "uri": "https://evaverse.com/api/turtle.php?id=1",
+  "metadata": {
+    "name": "Evaverse Turtle Troop #1",
+    "description": "EVAVERSE Turtle Troop is a collection of 5,000 1/1 unique ERC-721 set of beautifully animated 3D companion avatars for the EVAVERSE video game. Each avatar is created from up to 85 possible unique traits, creating 15,000 total unique variations possible. Certain Turtle Troops will possess incredibly rare traits.\n\nEach NFT is a rigged and animated companion game character inside the Evaverse video game. Evaverse is a multiplayer social game built for the NFT Community. Evaverse NFT holders will be able to claim Turtle Troops for free while supplies last.\n\nThe EVAVERSE video game can be played on [Steam](https://store.steampowered.com/app/1628750/Evaverse).\n\nVisit [evaverse.com](https://evaverse.com) for more information\n\n[Evaverse First Arrivals](https://opensea.io/assets/evaverse)",
+    "image": "https://evaverse.s3.amazonaws.com/CreatureImg/AQ0AAAUAAAYAAAEAAAMCAAAAAAIA.png",
+    "animation_url": "https://evaverse.s3.amazonaws.com/Video/AQ0AAAUAAAYAAAEAAAMCAAAAAAIA.mp4",
+    "external_url": "https://www.evaverse.com",
+    "prestige": 81.1,
+    "owner": "0x12E1631737a8dA97FBC7F02E0b2F5D5d3Cda4d91",
+    "borrow": null,
+    "skin": "AQ0AAAUAAAYAAAEAAAMCAAAAAAIA",
+    "attributes": [
+      {
+        "trait_type": "Arrival Date",
+        "value": 1628276400,
+        "display_type": "date"
+      },
+      {
+        "trait_type": "Prestige",
+        "value": 81.1
+      },
+      {
+        "trait_type": "Skin Tone",
+        "value": "Shiny Cloud"
+      },
+      {
+        "trait_type": "Armor Type",
+        "value": "Shiny Floral"
+      },
+      {
+        "trait_type": "Vision",
+        "value": "Aqua"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Companion"
+      },
+      {
+        "trait_type": "Heart",
+        "value": "Emerald"
+      },
+      {
+        "trait_type": "Species",
+        "value": "Turtle"
+      },
+      {
+        "trait_type": "Track",
+        "value": "Shiny"
+      }
+    ]
+  }
+}

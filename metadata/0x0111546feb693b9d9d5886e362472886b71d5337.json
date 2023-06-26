@@ -1,0 +1,80 @@
+{
+  "address": "0x0111546feb693b9d9d5886e362472886b71d5337",
+  "type": "ERC721",
+  "name": "Baby Combat Bots G1",
+  "tokenCount": "3498",
+  "uri": "http://tokens.battleverse.io/bot/1",
+  "metadata": {
+    "description": "Baby Combat Bots is a collection of cute and deadly procedurally generated robots. Own a Bot. Battle other Bots. Earn Eth.",
+    "image": "https://storage.googleapis.com/battleverse/deprecated/bots/1.jpg",
+    "name": "Baby Combat Bot #1",
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Happy Cylinder",
+        "rarity": 18.17142857142857
+      },
+      {
+        "trait_type": "Arms",
+        "value": "Cylinders"
+      },
+      {
+        "trait_type": "Legs",
+        "value": "Jet"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Drill",
+        "rarity": 14.542857142857143
+      },
+      {
+        "trait_type": "Toy",
+        "value": "Ball",
+        "rarity": 15.114285714285714
+      },
+      {
+        "trait_type": "Platform",
+        "value": "Platform 3",
+        "rarity": 32.6
+      },
+      {
+        "trait_type": "Material",
+        "value": "Triangles tiles"
+      },
+      {
+        "trait_type": "Secondary material",
+        "value": "Dark Purple"
+      },
+      {
+        "trait_type": "Body Icon",
+        "value": "Cup"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Attack",
+        "value": 30
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Defence",
+        "value": 30
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Trick",
+        "value": 30
+      },
+      {
+        "trait_type": "Health",
+        "value": 100
+      }
+    ],
+    "alpha_125": "https://storage.googleapis.com/battleverse/deprecated/bots/1.jpg",
+    "alpha_500": "https://storage.googleapis.com/battleverse/deprecated/bots/1.jpg",
+    "head_link": "https://storage.googleapis.com/battleverse/Items/Bots%2082x82/Heads/heads.0001.png",
+    "weapon_link": "https://storage.googleapis.com/battleverse/Items/Bots%2082x82/Weapons/icons_v02.icons.0002.png",
+    "toys_link": "https://storage.googleapis.com/battleverse/Items/Bots%2082x82/Toys/icons_v03.toys.0001.png",
+    "platform_link": "https://storage.googleapis.com/battleverse/Items/Bots%2082x82/Platforms/platforms.0003.png",
+    "ipfs_image": "https://storage.googleapis.com/battleverse/deprecated/bots/1.jpg"
+  }
+}

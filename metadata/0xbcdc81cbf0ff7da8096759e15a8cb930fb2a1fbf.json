@@ -1,0 +1,28 @@
+{
+  "address": "0xbcdc81cbf0ff7da8096759e15a8cb930fb2a1fbf",
+  "type": "ERC721",
+  "name": "FunWorldCup",
+  "tokenCount": "5",
+  "uri": "ipfs://QmSW4yJVhRe8beFk5qB2ND7Vkr4SLVuPZiWUMzYXTtDRWT/1.json",
+  "metadata": {
+    "name": "Fun World Cup Ticket #1",
+    "description": "Excited for the World Cup? Get your ticket now! Each team has 100 tickets, of which you could use during the bet. Check our whitepaper for details.",
+    "image": "ipfs://QmNyUXRJbjNcVJGaFgk9dZS1vaJA2QeU5MNcy9TxBbjb51/FunWCTicket.png",
+    "edition": 1,
+    "date": 202320232023,
+    "attributes": [
+      {
+        "trait_type": "Stage",
+        "value": "Group"
+      },
+      {
+        "trait_type": "Ready for Qatar2022?",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Team",
+        "value": "Unrevealed"
+      }
+    ]
+  }
+}

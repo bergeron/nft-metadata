@@ -1,0 +1,57 @@
+{
+  "address": "0xcf4f2b9b176c694d68be38613a4ed1a27f55049a",
+  "type": "ERC1155",
+  "name": "SOLNFT1155",
+  "tokenCount": "3",
+  "uri": "https://ipfs.io/ipfs/bafkreihqiy43x6lxvkfzwjqpmb6kxjaish7bjjqlfxp7jkdzx34e2klreu",
+  "metadata": {
+    "name": "Kapital ROCK 1 #3/50 by yooniverse",
+    "description": "\"Referring a Kapital lookbook, artist's favorite clothes brand, artist expressed NFT market as a suiseki exhibition.\n***** The copyrights of the original art piece belongs to the author/creator of the art. ENFTEE.com First Mint / Sold at Sole-X.io\"",
+    "file_url": "https://ipfs.infura.io/ipfs/QmWYctjYZticdc8p733haZtF38itD9SAkhkUZVnsWwu3qq",
+    "type": "object",
+    "image": "https://ipfs.infura.io/ipfs/QmWYctjYZticdc8p733haZtF38itD9SAkhkUZVnsWwu3qq",
+    "properties": {
+      "buyNow": false,
+      "name": {
+        "type": "string",
+        "description": "Kapital ROCK 1 #3/50 by yooniverse"
+      },
+      "description": {
+        "type": "string",
+        "description": "\"Referring a Kapital lookbook, artist's favorite clothes brand, artist expressed NFT market as a suiseki exhibition.\n***** The copyrights of the original art piece belongs to the author/creator of the art. ENFTEE.com First Mint / Sold at Sole-X.io\""
+      },
+      "image": {
+        "type": "string",
+        "description": "https://ipfs.infura.io/ipfs/QmWYctjYZticdc8p733haZtF38itD9SAkhkUZVnsWwu3qq"
+      },
+      "category": {
+        "type": "number",
+        "description": 5
+      },
+      "artist": {
+        "type": "string",
+        "description": "yooniverse"
+      },
+      "website": {
+        "type": "string",
+        "description": ""
+      },
+      "twitter": {
+        "type": "string",
+        "description": ""
+      },
+      "facebook": {
+        "type": "string",
+        "description": ""
+      },
+      "instagram": {
+        "type": "string",
+        "description": "https://www.instagram.com/acrosstheyooniverse/?hl=ko"
+      },
+      "chainId": {
+        "type": "number",
+        "description": 1
+      }
+    }
+  }
+}

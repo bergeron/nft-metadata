@@ -1,0 +1,79 @@
+{
+  "address": "0x5dfeb75abae11b138a16583e03a2be17740eaded",
+  "type": "ERC721",
+  "name": "Hunnys",
+  "tokenCount": "10000",
+  "uri": "https://hunnys.s3.us-east-2.amazonaws.com/data/1",
+  "metadata": {
+    "name": "Hunny 1",
+    "description": "Hunnys are a collection of 10,000 cute cupcakes with 11 unique traits and an innovative color harmony system living on the Ethereum blockchain.",
+    "image": "https://hunnys.s3.us-east-2.amazonaws.com/data/1.png",
+    "id": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "TurquoiseHalftone",
+        "colors": []
+      },
+      {
+        "trait_type": "Skin",
+        "value": "ToastedMarshmellow",
+        "colors": []
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Angry",
+        "colors": []
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Empty",
+        "colors": []
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "DiamondEyes",
+        "colors": []
+      },
+      {
+        "trait_type": "Face Sticker",
+        "value": "ClubMakeup",
+        "colors": []
+      },
+      {
+        "trait_type": "Piercing",
+        "value": "Empty",
+        "colors": []
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cigarette",
+        "colors": [
+          "Grey2"
+        ]
+      },
+      {
+        "trait_type": "Hair Style",
+        "value": "CurlyLong",
+        "colors": [
+          "White"
+        ]
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "DiamondDropPendant",
+        "colors": [
+          "White"
+        ]
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "VarsityJacket",
+        "colors": [
+          "Grey3",
+          "White"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "address": "0xcbe642d1b28caeff5f8377560db29e43ba7ac200",
+  "type": "ERC721",
+  "name": "ManWithNoName",
+  "tokenCount": "10",
+  "uri": "https://infiNFT.azurewebsites.net/api/HttpTrigger?artContract=0xcbe642d1b28caeff5f8377560db29e43ba7ac200&id=1",
+  "metadata": {
+    "image": "https://gateway.pinata.cloud/ipfs/QmTwLSYGDMUc9FmakD7qsJn7zSNy19onHECGAcS7mBT4Kj",
+    "description": "ManWithNoName Edition 2",
+    "animation_url": "",
+    "external_url": "https://www.infinft.com/view.html?artistcontract=0xcbe642d1b28caeff5f8377560db29e43ba7ac200&token=1",
+    "name": "ManWithNoName - E2",
+    "attributes": [
+      {
+        "trait_type": "artist name",
+        "value": "ManWithNoName"
+      },
+      {
+        "trait_type": "edition number",
+        "value": "1 of 1"
+      },
+      {
+        "trait_type": "exhibition",
+        "value": ""
+      },
+      {
+        "trait_type": "file type",
+        "value": "gif"
+      }
+    ]
+  }
+}

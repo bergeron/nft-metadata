@@ -1,0 +1,37 @@
+{
+  "address": "0x8419721412da63076b4556247a028e93ab51f9f4",
+  "type": "ERC721",
+  "name": "Strudels",
+  "tokenCount": "1396",
+  "uri": "ipfs://QmabawcqzWqBh44egDKbeXRNn3N3YJmP46MyeWQHosm49c/1.json",
+  "metadata": {
+    "name": "Strudel #1",
+    "description": "Strudels is a 2,000 piece collection of delicious pastries building on the ETH blockchain! Every Strudel is unique, hand-drawn, and holds the key to various utilities.",
+    "fee_recipient": "0x6079903eFe7D838e21368a5Ea8c89BF26Cbdbb79",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://QmWeXd8V8kix1HrcbautxzP1y12AFjqtMNRQqo7Ds5moGe/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Mystery"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Rainbow Grill"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 1916,
+        "display_type": "number"
+      }
+    ]
+  }
+}

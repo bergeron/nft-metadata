@@ -1,0 +1,59 @@
+{
+  "address": "0xf8e3c44cac70fc926fdf57c71645adf49036dc0e",
+  "type": "ERC721",
+  "name": "The Landz Estates NFT Collection - Official",
+  "tokenCount": "1026",
+  "uri": "https://nft-api.landz.io/metadata/1",
+  "metadata": {
+    "image": "https://medias.landz.io/nft/3420-amfzCI/image.jpg",
+    "animation_url": "https://medias.landz.io/nft/3420-amfzCI/animation.mp4",
+    "name": "Headquarter #1",
+    "description": "Landz estate",
+    "attributes": [
+      {
+        "value": "Dinosaur Skeleton",
+        "trait_type": "Small Amenities"
+      },
+      {
+        "value": "Bowling",
+        "trait_type": "Medium Amenities"
+      },
+      {
+        "value": "Dance Floor",
+        "trait_type": "Medium Amenities"
+      },
+      {
+        "value": "Headquarter",
+        "trait_type": "Type"
+      },
+      {
+        "value": "The Rocket-Fella",
+        "trait_type": "Version"
+      },
+      {
+        "value": "Yellow",
+        "trait_type": "Neons"
+      },
+      {
+        "value": "Island Theater",
+        "trait_type": "Special Amenities"
+      },
+      {
+        "display_type": "number",
+        "value": 124,
+        "max_value": 500,
+        "trait_type": "Headquarter_Number"
+      },
+      {
+        "value": "Genesis",
+        "trait_type": "Edition"
+      }
+    ],
+    "type": "Headquarter",
+    "spatial_space_layout": 11,
+    "spatial_skybox_url": "https://storage.googleapis.com/landz-private-medias/spatial/skyboxes/hong kong 2.glb",
+    "spatial_space_name": "Landz Headquarter #1",
+    "spatial_model_url": "https://storage.googleapis.com/landz-private-medias/spatial/3420-amfzCI/model.glb",
+    "spatial_thumbnail_url": "https://storage.googleapis.com/landz-private-medias/spatial/3420-amfzCI/thumbnail.jpg"
+  }
+}

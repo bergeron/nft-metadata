@@ -1,0 +1,44 @@
+{
+  "address": "0x184762ad150761c2e19e7de153c6ed6c701af9c7",
+  "type": "ERC721",
+  "name": "1123dasfq34w",
+  "tokenCount": "100",
+  "uri": "http://token.artblocks.io/0x0A1BBD57033F57E7B6743621b79fCB9Eb2CE3676/28000001",
+  "metadata": {
+    "platform": "MOMENT",
+    "tokenID": "28000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x43a7d26a271f5801b8092d94dfd5b36ea5d01f5f",
+    "name": "100 Untitled Spaces #1",
+    "minted": true,
+    "artist": "Snowfro",
+    "description": "100 Untitled Spaces is an exploration of color and space juxtaposing a simple artwork within a minimalist architectural setting. \n \nBoth Art and Architecture together can be powerful. By engaging with both one can develop a  meditative space where nearly infinite “moments” can be revealed as one moves around the virtual room. Further enhanced by shadows, this work is in part a reflection of time spent watching shadows cast across artwork on my  walls.\n \nDrawing inspiration from Johannes Itten, Robert Irwin, and Luis Barragán, I worked with my Architect wife Mara to capture various moments inside of an algorithmically generated space. The result is an algorithm inside an algorithm, both generating the central artwork that represents my love and respect for color and the surrounding space as well as an optimal setting to experience that artwork. \n \nIn each of these 100 spaces, the viewer is presented with a generated composition to experience a simple canvas inside of a minimalist space. Each is unique, yet informed by the rest of the set. \n \nThe opportunity to collaborate with Mara has provided aesthetic boundaries for these spaces as I parametrized the configuration of a simple adobe style room with various options for stair types, penetrations, flooring, camera position, and shadows. Everything from the tile on the floor, the Marfa and Mexico City inspired architecture, to the colors and minimalistic environment represents who I am, and the spaces that Mara and I have created in our imaginations, as well as in real life.",
+    "script_type": "three@0.124.0",
+    "project_id": "28",
+    "engine_type": "fullyonchain",
+    "image": "https://media-proxy.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/28000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/28000001.png",
+    "generator_url": "https://generator.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/28000001",
+    "royaltyInfo": {
+      "artistAddress": "0xe4bdadc03116ff721e08a1ad354b20e2aaf0c0ee",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "100 Untitled Spaces by Snowfro",
+    "website": "https://twitter.com/artonblockchain",
+    "token_hash": "0xa37776fb072d569adc98849b768db4ea0c5b7fb84971bbdc2859132c15b69da6",
+    "external_url": "https://generator.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/28000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/28000001.png",
+    "features": {},
+    "traits": [
+      {
+        "trait_type": "100 Untitled Spaces",
+        "value": "All 100 Untitled Spaces"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC 4.0"
+  }
+}

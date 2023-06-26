@@ -1,0 +1,53 @@
+{
+  "address": "0xf75f58de4670994bc8a5a8b60c69c92bc4c902d2",
+  "type": "ERC721",
+  "name": "NFwanTed Posters V2",
+  "tokenCount": "80",
+  "uri": "ipfs://QmUngreb9witCHxPXH2BowcrBUSTxM3SFd5Jgdi3x2pZUW/1.json",
+  "metadata": {
+    "name": "NFwanTed Poster # 1",
+    "external_url": "",
+    "image": "ipfs://QmTZpF1gXKrmjAuNBHemFYUth4g9Ym3uk6RvCnzn6a2yAr/1.png",
+    "description": "Wanted for mooning",
+    "seller_fee_basis_points": "200",
+    "fee_recipient": "0x0d66dd415bA734a98b743156589560f24995E3a7",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "14"
+      },
+      {
+        "trait_type": "Paperstock",
+        "value": "1"
+      },
+      {
+        "trait_type": "Suspect",
+        "value": "Cryptoadz"
+      },
+      {
+        "trait_type": "Wanted Title",
+        "value": "4"
+      },
+      {
+        "trait_type": "Crime(s)",
+        "value": "mooning"
+      },
+      {
+        "trait_type": "Reward",
+        "value": "4 doge"
+      }
+    ],
+    "collection": {
+      "name": "NFwanTed Posters",
+      "family": "NFwanTed Posters"
+    },
+    "properties": {
+      "creators": [
+        {
+          "address": "0x0d66dd415bA734a98b743156589560f24995E3a7",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

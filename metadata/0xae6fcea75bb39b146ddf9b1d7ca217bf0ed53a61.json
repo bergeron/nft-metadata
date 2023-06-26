@@ -1,0 +1,65 @@
+{
+  "address": "0xae6fcea75bb39b146ddf9b1d7ca217bf0ed53a61",
+  "type": "ERC721",
+  "name": "The Maxie Max Collection",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/7fK69SEGeSIg-wonMzUQWFK91WDrvyPhm2F4kJro4a0",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "animation_url": "https://arweave.net/1N9ob339QzVZk0DuOz9cJIRFa35EfT5kQzBuYLIDpSU",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1645687952
+      },
+      {
+        "trait_type": "Creator",
+        "value": "NorthwestLee"
+      }
+    ],
+    "description": "The king NFT doggo",
+    "external_url": "https://cxip.io/nft/0xae6fcea75bb39b146ddf9b1d7ca217bf0ed53a61/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/eHIt8jsdTCcAa52aCXzf2wMgsogKkDytTauDPDH_1Yg",
+    "imageUrl": "https://arweave.net/eHIt8jsdTCcAa52aCXzf2wMgsogKkDytTauDPDH_1Yg",
+    "name": "MaxieMax",
+    "properties": {
+      "animation_url": "https://arweave.net/1N9ob339QzVZk0DuOz9cJIRFa35EfT5kQzBuYLIDpSU",
+      "created_at": "2022-02-24T07:32:32.000000Z",
+      "creator_wallet": "0x0d56979e2785af758bc208d55a0a7fe7dd6902be",
+      "description": "The king NFT doggo",
+      "image": "https://arweave.net/eHIt8jsdTCcAa52aCXzf2wMgsogKkDytTauDPDH_1Yg",
+      "imageUrl": "https://arweave.net/eHIt8jsdTCcAa52aCXzf2wMgsogKkDytTauDPDH_1Yg",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "24 February 2022",
+      "name": "MaxieMax",
+      "nft_type": "non-fungible video token (video/mp4)",
+      "preview_media_file": "https://arweave.net/aLGEhpvvhafn2Y1H7fsDqNRQyJhbG_YBAOqtjeA0l2A",
+      "preview_media_file_dimensions": "360x636",
+      "preview_media_file_size": 2147148,
+      "preview_media_file_type": "video/mp4",
+      "raw_media_dimensions": "480x848",
+      "raw_media_file": "https://arweave.net/Gu5dlf1ML7oDehmOmnh0jruMrEvx1ai7NUXR7mICVao",
+      "raw_media_file_size": 1968802,
+      "raw_media_file_spec": "Duration: 00:00:08.31, start: 0.000000, bitrate: 1895 kb/s\nVideo: h264 (Baseline) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 480x848, 1835 kb/s, 30 fps, 30 tbr, 600 tbn, 1200 tbc (default)\nAudio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 57 kb/s (default)",
+      "raw_media_file_type": "video/mp4",
+      "raw_media_format": "portrait",
+      "raw_media_signature": "0xc7d8c469e647b1bc9805499cb7d2624a3d3beb0a96dbd1a8c51e3279f6c6edd8",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/HLPuG-8Po_sZPw4N7bC6lwrGlQP6w3Mlx38LDYpV9n0",
+      "thumb_media_file_type": "image/jpg",
+      "title": "MaxieMax",
+      "total_supply": 1
+    },
+    "title": "MaxieMax"
+  }
+}

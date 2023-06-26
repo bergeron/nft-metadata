@@ -1,0 +1,31 @@
+{
+  "address": "0x204190340f8f7029becf7c29c8b8eba0bcbf36a5",
+  "type": "ERC721",
+  "name": "Happy Pengu",
+  "tokenCount": "150",
+  "uri": "ipfs://QmYyAZGQaqADMTVpZP4f69ufefG4RCh7S5KZr9xu3rWySX/1.json",
+  "metadata": {
+    "name": "Happy Pengu #1",
+    "description": "Happy Pengu is an interactive NFT. Click around the area to make your pengu happy.",
+    "image": "https://ipfs.io/ipfs/QmV9hFEt6HfjQytCj9BdkntJgrzh4zAxBJH1i1mqcYvxrU/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "red"
+      },
+      {
+        "trait_type": "Speed",
+        "value": "slow"
+      },
+      {
+        "trait_type": "Size",
+        "value": "small"
+      },
+      {
+        "trait_type": "Color",
+        "value": "green"
+      }
+    ],
+    "animation_url": "https://ipfs.io/ipfs/QmeNaGwRJGVF1H2Bz44oGdbZv8XTd3VZozbgYHDvuhXGrL/1.html"
+  }
+}

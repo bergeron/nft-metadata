@@ -1,0 +1,44 @@
+{
+  "address": "0xf9c12bd715df34c7850766a48178648ac0cb200d",
+  "type": "ERC721",
+  "name": "Permies",
+  "tokenCount": "555",
+  "uri": "https://api.permies.xyz/api/metadata/1.json",
+  "metadata": {
+    "name": "Permie #1",
+    "description": "This is Permie #1.",
+    "image": "https://permies-nft.s3.amazonaws.com/images/1.png",
+    "animation_url": "https://permies-nft.s3.amazonaws.com/videos/1.mp4?v=2",
+    "attributes": [
+      {
+        "trait_type": "Skin Type",
+        "value": "Beige Marble"
+      },
+      {
+        "trait_type": "Ear Accessory",
+        "value": "Orange Double Cuff"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "Aqua & Pink Puffer"
+      },
+      {
+        "trait_type": "T-Shirt",
+        "value": "Green Logo"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Beige Mohawk"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Skin Groove",
+        "value": "Plain"
+      }
+    ],
+    "external_link": "https://permies.xyz"
+  }
+}

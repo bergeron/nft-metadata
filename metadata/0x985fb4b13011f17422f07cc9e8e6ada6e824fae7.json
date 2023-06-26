@@ -1,0 +1,79 @@
+{
+  "address": "0x985fb4b13011f17422f07cc9e8e6ada6e824fae7",
+  "type": "ERC721",
+  "name": "Ether Legends",
+  "tokenCount": "51",
+  "uri": "https://www.etherlegends.com/metadata/tribute/004_Koallaki.json",
+  "metadata": {
+    "name": "Koallaki ",
+    "image": "https://www.etherlegends.com/tradingcards/tribute/004_KoaLLaki.png",
+    "description": "The strong shall survive",
+    "external_url": "https://www.etherlegends.com",
+    "attributes": [
+      {
+        "trait_type": "game",
+        "value": "Ether Legends"
+      },
+      {
+        "trait_type": "set",
+        "value": "Tribute"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Tribute"
+      },
+      {
+        "trait_type": "type",
+        "value": "Character"
+      },
+      {
+        "trait_type": "element_1",
+        "value": "Water"
+      },
+      {
+        "trait_type": "strength_1",
+        "value": "Heal"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "number",
+        "value": 4
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "elementeum",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "attack",
+        "value": 4
+      },
+      {
+        "display_type": "number",
+        "trait_type": "defense",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heal",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "disrupt",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heart",
+        "value": 12
+      }
+    ]
+  }
+}

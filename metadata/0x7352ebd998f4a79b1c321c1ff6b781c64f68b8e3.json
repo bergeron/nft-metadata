@@ -1,0 +1,54 @@
+{
+  "address": "0x7352ebd998f4a79b1c321c1ff6b781c64f68b8e3",
+  "type": "ERC721",
+  "name": "IMMORTAL GOD",
+  "tokenCount": "11",
+  "uri": "ipfs://bafybeicbzdgjeqf7dblqext5plumi4wctvrbgjanv7nky76ul3kwwp5q44/1.json",
+  "metadata": {
+    "name": "Immortal Gods 196",
+    "symbol": "IMMORTALS",
+    "description": "THERE IS ONE AND ONLY GOD.",
+    "seller_fee_basis_points": 0,
+    "image": "https://nftstorage.link/ipfs/bafybeiclkbwyngzyxxoijnixbg63kvo76wshgjjzgiklst57azglngt3tu/1.png",
+    "external_url": "",
+    "collection": {
+      "name": "GOD",
+      "family": "GODS"
+    },
+    "attributes": [
+      {
+        "trait_type": "God",
+        "value": "God Compassionate"
+      },
+      {
+        "trait_type": "Land",
+        "value": "Scenery"
+      },
+      {
+        "trait_type": "Sky",
+        "value": "Moon Stars"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 1013,
+        "display_type": "number",
+        "max_value": 1800
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://nftstorage.link/ipfs/bafybeiclkbwyngzyxxoijnixbg63kvo76wshgjjzgiklst57azglngt3tu/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x8589FC4cd89fa9AfebC75915Ba3D871839D9Dc9A",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

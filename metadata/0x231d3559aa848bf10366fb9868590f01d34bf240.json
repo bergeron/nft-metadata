@@ -1,0 +1,53 @@
+{
+  "address": "0x231d3559aa848bf10366fb9868590f01d34bf240",
+  "type": "ERC721",
+  "name": "Valhalla",
+  "tokenCount": "9000",
+  "uri": "https://api.joinvalhalla.com/valhalla/1",
+  "metadata": {
+    "name": "Valhalla #1",
+    "image": "https://valhalla-nft-production.s3.amazonaws.com/1.png",
+    "attributes": [
+      {
+        "trait_type": "Ear",
+        "value": "Silver Cuffs"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Shaved Brow"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Black Ponytail"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Toxic"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Toothpick"
+      },
+      {
+        "trait_type": "Tattoo",
+        "value": "Angel Wing Tattoo"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Red/Camo Hoodie Vest"
+      },
+      {
+        "trait_type": "FaceAcc",
+        "value": "White Bandaid"
+      },
+      {
+        "trait_type": "Primary",
+        "value": "Bone Saw"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Light Gray"
+      }
+    ]
+  }
+}

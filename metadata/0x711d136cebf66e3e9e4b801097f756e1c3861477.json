@@ -1,0 +1,49 @@
+{
+  "address": "0x711d136cebf66e3e9e4b801097f756e1c3861477",
+  "type": "ERC721",
+  "name": "Super Bowl Punks Eagles",
+  "tokenCount": "2023",
+  "uri": "ipfs://bafybeia4qzmig57sjsc6dzofrnknvpbnsv7ahatgquiyc65bu5gwyg77eq/1.json",
+  "metadata": {
+    "name": "Eagles #1",
+    "description": "2023 SB 57 Eagles Team",
+    "image": "ipfs://bafybeidgw623gepotx5dmbuljsxe4knbxra36wl2gprxdoqh5cfgnr7mvq/1.png",
+    "dna": "3f2dc935ed5625ea61ca7bcb473c09cc3e17d5d1",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Eagles"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Diamond Earring"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Monocle"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Purple Vest"
+      },
+      {
+        "trait_type": "Shoulder Pads",
+        "value": "White"
+      },
+      {
+        "trait_type": "Head Gear",
+        "value": "None"
+      }
+    ],
+    "compiler": "Superbowl Punks"
+  }
+}

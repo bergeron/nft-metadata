@@ -1,0 +1,38 @@
+{
+  "address": "0xd9ad307aa79d0b88fe03a9917a7922eb323368b6",
+  "type": "ERC721",
+  "name": "A PiX Story",
+  "tokenCount": "20",
+  "uri": "https://bafybeifx5guehvtawigaheszlhf2vtdmrumy2ledholf7hmhhvbfoqqx4e.ipfs.w3s.link/1.json",
+  "metadata": {
+    "name": "PiX #1",
+    "description": "A PiX Story\n\n3000 PiX on ETH Blockchain #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightGreyBG"
+      },
+      {
+        "trait_type": "Corner",
+        "value": "Corner1"
+      },
+      {
+        "trait_type": "PiX",
+        "value": "PiX8"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0xBdFb8f11C87574Ed324EF65CD7E7bdF332250507",
+        "share": 100
+      }
+    ],
+    "collection": {
+      "name": "A PiX Story",
+      "family": "3000 Art PiX"
+    },
+    "symbol": "PiX",
+    "seller_fee_basis_points": 5,
+    "image": "https://bafybeiemajqa5ochutyy2vdlqey7vv64g27qo54g5iodjidv5lwy3mex5q.ipfs.w3s.link/1.png"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "address": "0x71245385e2cb7064df4bfebb29e982448dfe85e9",
+  "type": "ERC721",
+  "name": "Supreme Pizzas",
+  "tokenCount": "1",
+  "uri": "https://storage.googleapis.com/supremepizzas/Pizza1.json",
+  "metadata": {
+    "description": "Supreme Pizza #1",
+    "image": "https://storage.googleapis.com/supremepizzas/Pizza1.png",
+    "name": "Supreme Pizza #1",
+    "attributes": [
+      {
+        "trait_type": "City",
+        "value": "Los Angeles"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "Floral"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "Colored Floral"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "B Kicks"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Backwards B Hat Orange"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Party Horn"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "B Coin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tomato"
+      }
+    ]
+  }
+}

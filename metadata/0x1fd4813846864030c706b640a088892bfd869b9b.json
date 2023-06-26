@@ -1,0 +1,42 @@
+{
+  "address": "0x1fd4813846864030c706b640a088892bfd869b9b",
+  "type": "ERC721",
+  "name": "Splatters Gen 1",
+  "tokenCount": "1000",
+  "uri": "ipfs://QmWwpYv67WwVJJZYw7jqoiijpTUeTUnsh1k9apd5tNr9Fs/1.json",
+  "metadata": {
+    "dna": "06b542106c8de9a6251540a0e758d58a49e8b41a",
+    "name": "#1",
+    "description": "Splatters",
+    "image": "ipfs://QmXkuhwNwy27t9LVHYxW1ocQKrw6cprsUnc7Zi35TFkS9S/1.png",
+    "edition": 1,
+    "date": 1635539966454,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BG Blue"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Base Yellow"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Gangster Eyes"
+      },
+      {
+        "trait_type": "Mouth Or Body",
+        "value": "Wierd Mouth"
+      },
+      {
+        "trait_type": "Hat Or Hair",
+        "value": "Admirals Hat"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

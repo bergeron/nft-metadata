@@ -1,0 +1,46 @@
+{
+  "address": "0x75bab256fb5479c23eef548a05f6f69b013350c8",
+  "type": "ERC721",
+  "name": "EggHeist.game",
+  "tokenCount": "23",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIkNoaWNrZW4gIzEiLCAiaW1hZ2UiOiAiaHR0cHM6Ly9oZTd1Y2hjZXRsLmV4ZWN1dGUtYXBpLnVzLXdlc3QtMi5hbWF6b25hd3MuY29tL2Rldi9pbWFnZXMvMS5wbmciLCAiZGVzY3JpcHRpb24iOiAiIiwgImF0dHJpYnV0ZXMiOlt7InRyYWl0X3R5cGUiOiJHZW5lcmF0aW9uIiwidmFsdWUiOiJHZW4gMCJ9LHsidHJhaXRfdHlwZSI6IlR5cGUiLCJ2YWx1ZSI6IkNoaWNrZW4ifSx7InRyYWl0X3R5cGUiOiJCYWNrZ3JvdW5kcyIsInZhbHVlIjoiUGluayBXIERpYW1vbmQifSx7InRyYWl0X3R5cGUiOiJTbmFrZSBCb2RpZXMiLCJ2YWx1ZSI6IkJsdWUifSx7InRyYWl0X3R5cGUiOiJNb3V0aCBBY2Nlc3NvcmllcyIsInZhbHVlIjoiU3BsaXQgVG9uZ3VlIn0seyJ0cmFpdF90eXBlIjoiUHVwaWxzIiwidmFsdWUiOiJCbHVlIn0seyJ0cmFpdF90eXBlIjoiQm9keSBBY2Nlc3NvcmllcyIsInZhbHVlIjoiQ2hpY2tlbiBTdWl0In0seyJ0cmFpdF90eXBlIjoiSGF0cyIsInZhbHVlIjoiUHVycGxlIEROIENhcCJ9XX0=",
+  "metadata": {
+    "name": "Chicken #1",
+    "image": "https://he7uchcetl.execute-api.us-west-2.amazonaws.com/dev/images/1.png",
+    "description": "",
+    "attributes": [
+      {
+        "trait_type": "Generation",
+        "value": "Gen 0"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Chicken"
+      },
+      {
+        "trait_type": "Backgrounds",
+        "value": "Pink W Diamond"
+      },
+      {
+        "trait_type": "Snake Bodies",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Mouth Accessories",
+        "value": "Split Tongue"
+      },
+      {
+        "trait_type": "Pupils",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body Accessories",
+        "value": "Chicken Suit"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Purple DN Cap"
+      }
+    ]
+  }
+}

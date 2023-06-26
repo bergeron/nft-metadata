@@ -1,0 +1,38 @@
+{
+  "address": "0x5aef95bfdefe3c667625e4b12269e865de851d25",
+  "type": "ERC721",
+  "name": "Happy Hedgehog V2",
+  "tokenCount": "7",
+  "uri": "ipfs://QmbNMvGUL1s9PV6VMCHsLGFRMZ8rUdnubRFZXqxQMskwDv/1.json",
+  "metadata": {
+    "name": "Happy Hedgehog #1",
+    "description": "Happy Hedgehog Collection by vitl.eth",
+    "image": "ipfs://QmQKAyPJhyUyiRAaf4m4BpuWh5ekLof5tfesR8NJmdjcNW/1.png",
+    "dna": "d1f319b914ff2be26b7239f93b8f5780b029d4bb",
+    "edition": 1,
+    "date": 1651652236221,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "back",
+        "value": "Red"
+      },
+      {
+        "trait_type": "body",
+        "value": "Red"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "Dark Sinister"
+      }
+    ],
+    "compiler": "vitl.eth aka vitlarts"
+  }
+}

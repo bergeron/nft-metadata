@@ -1,0 +1,30 @@
+{
+  "address": "0x70732c08fb6dbb06a64bf619c816c22aed12267a",
+  "type": "ERC721",
+  "name": "NFTBoxes",
+  "tokenCount": "2166",
+  "uri": "https://nftboxesbox0x7073.azurewebsites.net/api/HttpTrigger?id=1",
+  "metadata": {
+    "image": "https://ipfs.infura.io/ipfs/QmRuSxBBd6jdgn6kW8d6EARVvhut1VVDyHRh6YfTL1zyPK",
+    "description": "NFTBoxes are a curated monthly box of NFTs on the newest gold standard of NFT technology.\n\nBox Name: May 2021\n\nBox Series: Main\n\nBox Theme: Reflective",
+    "name": "May 2021 #1",
+    "attributes": [
+      {
+        "trait_type": "box id",
+        "value": "5"
+      },
+      {
+        "trait_type": "box series",
+        "value": "Main"
+      },
+      {
+        "trait_type": "box theme",
+        "value": "Reflective"
+      },
+      {
+        "trait_type": "box edition",
+        "value": "1 of 500"
+      }
+    ]
+  }
+}

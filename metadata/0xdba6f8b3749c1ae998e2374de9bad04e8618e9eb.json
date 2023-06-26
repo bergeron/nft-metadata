@@ -1,0 +1,36 @@
+{
+  "address": "0xdba6f8b3749c1ae998e2374de9bad04e8618e9eb",
+  "type": "ERC721",
+  "name": "KittySupercars",
+  "tokenCount": "1526",
+  "uri": "https://kittysupercars.co/api/1",
+  "metadata": {
+    "name": "Supercar #1",
+    "description": "Let's just chill with our lambos. ‍Relax. You're part of the group. You don't have to do anything anymore.",
+    "tokenId": 1,
+    "image": "https://gateway.pinata.cloud/ipfs/QmYeS4TMZdSUYygqJa7a9iYvMzH6zhc5ycyJLFy76MuYri",
+    "external_url": "https://www.kittysupercars.co",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Black Part"
+      },
+      {
+        "trait_type": "Car",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Tires",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Roof"
+      }
+    ]
+  }
+}

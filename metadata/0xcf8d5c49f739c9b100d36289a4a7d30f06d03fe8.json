@@ -1,0 +1,136 @@
+{
+  "address": "0xcf8d5c49f739c9b100d36289a4a7d30f06d03fe8",
+  "type": "ERC721",
+  "name": "113dsfwqereqwr",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/74000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "74000001",
+    "series": 3,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "The Blocks of Art #1",
+    "minted": true,
+    "artist": "Shvembldr",
+    "description": "This project symbolizes generative artists united by the common idea of Art Blocks. Each panel on the block is a small generative art piece with several random parameters that live their own life while simultaneously being part of the composition. \n\nEach art contains one letter of the words ART BLOCKS. A collector who possesses all nine letters becomes a member of the TBOA club.",
+    "script_type": "p5@1.0.0",
+    "project_id": "74",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 3",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/74000001.gif",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/74000001.gif",
+    "generator_url": "https://generator.artblocks.io/74000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/74000001",
+    "royaltyInfo": {
+      "artistAddress": "0x4666fd1f89576e2d6fb3f2ecec5eefd3e1ba6b59",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "The Blocks of Art by Shvembldr",
+    "website": "https://www.tboa.club/",
+    "token_hash": "0x34f795b71092efceb550116169b828dd963ab8eea34d8259987a54f5dcff6a6d",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/74/tokens/74000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/74000001",
+    "features": {
+      "aim": 8,
+      "rain": 2,
+      "wall": 0,
+      "brick": 3,
+      "cross": 5,
+      "lines": 0,
+      "bouncy": 2,
+      "circle": 2,
+      "letter": "L",
+      "pulses": 3,
+      "scheme": "3-3-3-3-2",
+      "color-1": "#eaac8b",
+      "color-2": "#e56b6f",
+      "color-3": "#355070",
+      "windows": 1,
+      "controls": 4,
+      "pendulum": 1,
+      "billboard": 2,
+      "heartbeat": 0,
+      "centrifuge": 3,
+      "mesmerizer": 5
+    },
+    "traits": [
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "All The Blocks of Arts"
+      },
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "aim: 8"
+      },
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "rain: 2"
+      },
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "wall: 0"
+      },
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "brick: 3"
+      },
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "cross: 5"
+      },
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "lines: 0"
+      },
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "bouncy: 2"
+      },
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "circle: 2"
+      },
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "letter: L"
+      },
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "pulses: 3"
+      },
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "windows: 1"
+      },
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "controls: 4"
+      },
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "pendulum: 1"
+      },
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "billboard: 2"
+      },
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "heartbeat: 0"
+      },
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "centrifuge: 3"
+      },
+      {
+        "trait_type": "The Blocks of Art",
+        "value": "mesmerizer: 5"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

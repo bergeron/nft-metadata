@@ -1,0 +1,36 @@
+{
+  "address": "0xc915cfa99eaa7e3658c575dff33869c244dd09e3",
+  "type": "ERC721",
+  "name": "Bird Rocks",
+  "tokenCount": "71",
+  "uri": "ipfs://bafybeihnxiwec2vp47gkjcvqzze7zmmwu33hf43opeevr5thp2tsptzt6q/1.json",
+  "metadata": {
+    "name": "Bird #1",
+    "description": "I'm BirdRocks, my parents are MoonBirds and EtherRocks! ",
+    "external_url": "",
+    "image": "ipfs://QmcFpCSJSBdroohNhFFu6pkmagyDMRck57ohS6GZZfU8Pp/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Rock Type",
+        "value": "Limestone"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Suspicious Black"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Long Beak Normal"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Chromie"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

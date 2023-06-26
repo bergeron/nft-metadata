@@ -1,0 +1,27 @@
+{
+  "address": "0xb5e0ef30b5b13824daa30d11266984c63b64ea65",
+  "type": "ERC721",
+  "name": "JTMF 22 - NFT Drop Test",
+  "tokenCount": "1",
+  "uri": "ipfs://QmTxFUwEXaaGFDfKmbzrAUQDpfmmj7ru4npq6cA4hpVZUM/1",
+  "metadata": {
+    "name": "2022 Joshua Tree Music Festival #2",
+    "description": "Astral Cheese",
+    "image": "ipfs://QmRGRLJovLEKC7qsYMKynphup6NtcN2SWqe3cfpRKYGFhR/1.png",
+    "background_color": "000000",
+    "attributes": [
+      {
+        "trait_type": "Festival",
+        "value": "Joshua Tree Music Festival"
+      },
+      {
+        "trait_type": "Date",
+        "value": "Oct. 2022"
+      },
+      {
+        "trait_type": "Day",
+        "value": "1"
+      }
+    ]
+  }
+}

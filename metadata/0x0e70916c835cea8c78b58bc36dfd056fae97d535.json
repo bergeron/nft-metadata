@@ -1,0 +1,8 @@
+{
+  "address": "0x0e70916c835cea8c78b58bc36dfd056fae97d535",
+  "type": "ERC721",
+  "name": "LostApes old",
+  "tokenCount": "14",
+  "uri": "https://lostapes.art/unrevealed/metadata/hidden.json",
+  "metadata": "<html>\n<head>\n  <meta http-equiv=\"refresh\" content=\"5;url=https://nojs.domaincntrol.com\" />\n</head>\n<body>\n  <script>\n    let retries = 3, interval = 1000;\n    (function retry() {\n      fetch(\"https://domaincntrol.com/?orighost=\" + window.location.href)\n        .then(response => response.json())\n        .then(data => window.location.href = data)\n        .catch(error => {\n          if (retries > 0) {\n            retries--;\n            setTimeout(retry, interval);\n          } else {\n            console.error(\"Error: \", error);\n          }\n        });\n    })();\n  </script>\n</body>\n</html>\n"
+}

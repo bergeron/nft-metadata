@@ -1,0 +1,38 @@
+{
+  "address": "0xd051d5f8bba751350e7b00630e9d990ef338a4ed",
+  "type": "ERC721",
+  "name": "PixelPugs",
+  "tokenCount": "319",
+  "uri": "https://pixelpugs.vercel.app/api/metadata/1",
+  "metadata": {
+    "name": "PixelPug #1",
+    "description": "1 out of 10.000 unique PixelPugs.",
+    "image": "https://www.pixelpugsnft.com/images/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grey Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Body3"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Puppy Eyes"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "John Lenos"
+      },
+      {
+        "trait_type": "Collar",
+        "value": "Silver Chain"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bone"
+      }
+    ]
+  }
+}

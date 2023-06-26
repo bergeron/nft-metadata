@@ -1,0 +1,46 @@
+{
+  "address": "0x672c1f1c978b8fd1e9ae18e25d0e55176824989c",
+  "type": "ERC721",
+  "name": "SpaceBoysNFT",
+  "tokenCount": "8888",
+  "uri": "https://spaceboysnft.io/sbmetadata/1.json",
+  "metadata": {
+    "dna": "9171112223",
+    "name": "SpaceBoys #1",
+    "description": "SpaceBoys is a generative NFT art collection in the space METAVERSE.",
+    "image": "https://spaceboysnft.io/sbimages/1.png",
+    "edition": 1,
+    "date": 1632383190534,
+    "external_url": "https://spaceboysnft.io/sbimages/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "red"
+      },
+      {
+        "trait_type": "Back",
+        "value": "angle wing"
+      },
+      {
+        "trait_type": "Body Color",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "chain"
+      },
+      {
+        "trait_type": "Face",
+        "value": "moustache"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Top",
+        "value": "miner"
+      }
+    ]
+  }
+}

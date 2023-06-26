@@ -1,0 +1,42 @@
+{
+  "address": "0xf3c5b6bfcab9379dda15c42aa9a5ba1ad1dc1956",
+  "type": "ERC721",
+  "name": "idoloNFT",
+  "tokenCount": "3333",
+  "uri": "ipfs://bafybeiag3p7rbcuwxyzbw3yt2y36lzidiqtjxfy7fecslkjxu25vvusxtu/1.json",
+  "metadata": {
+    "name": "IDOLO #1",
+    "description": "Just a weird guy who is passionate for technology...",
+    "image": "ipfs://bafybeia6t4bpj7wmvuxbf4ayh5ehmigsztcvx4tuzg5r4rrfkpjngzkidi/1.png",
+    "dna": "4fe62822e8272f6841dae2ed36160446b08b021a",
+    "edition": 1,
+    "date": 1674828796326,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Bodies",
+        "value": "red"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "jumpsuit"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "red visor"
+      },
+      {
+        "trait_type": "Heads",
+        "value": "red skull"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "clouds"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

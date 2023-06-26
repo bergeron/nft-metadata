@@ -1,0 +1,43 @@
+{
+  "address": "0xf88648085168ccd891912b0a96cf2db86e170bc8",
+  "type": "ERC721",
+  "name": "BL - GuRj1INPYz",
+  "tokenCount": "1",
+  "uri": "https://ipfs.io/ipfs/bafkreihlwv2cf5uplmwuc5jrj644rmd2qmdusxxngv2joio7lerdpkrsw4",
+  "metadata": {
+    "name": "BILL OF LADING",
+    "description": "Bill of Lading",
+    "image": "https://ipfs.io/ipfs/bafkreiazodrl3latesiv2a6a6yayryoiakheonjy3bdkyim5mq55vdpcii",
+    "attributes": [
+      {
+        "trait_type": "SHIPPER",
+        "value": "XYZ Export company"
+      },
+      {
+        "trait_type": "CONSIGNEE",
+        "value": "TO ORDER"
+      },
+      {
+        "trait_type": "Port of loading",
+        "value": "Random port XYZ"
+      },
+      {
+        "trait_type": "Port of discharge",
+        "value": "Random port AAA"
+      },
+      {
+        "trait_type": "Vessel",
+        "value": "MSC Random"
+      },
+      {
+        "trait_type": "Description of goods",
+        "value": "Random goods"
+      },
+      {
+        "trait_type": "Gross weight cargo (MT)",
+        "display_type": "number",
+        "value": 32000
+      }
+    ]
+  }
+}

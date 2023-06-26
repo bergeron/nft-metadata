@@ -1,0 +1,97 @@
+{
+  "address": "0xcd88cc2d56687e4c43991f71543ad84e0179d0c0",
+  "type": "ERC721",
+  "name": "On Chain Cubes",
+  "tokenCount": "11",
+  "uri": "https://metadata.onchaincubes.com/metadata/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "cubeIndex",
+        "value": 1
+      },
+      {
+        "trait_type": "cubeData",
+        "value": [
+          [
+            1,
+            3,
+            1,
+            1,
+            0,
+            4,
+            3,
+            1,
+            0
+          ],
+          [
+            0,
+            5,
+            2,
+            5,
+            1,
+            4,
+            4,
+            2,
+            3
+          ],
+          [
+            0,
+            1,
+            4,
+            0,
+            2,
+            3,
+            1,
+            2,
+            0
+          ],
+          [
+            5,
+            4,
+            5,
+            3,
+            3,
+            3,
+            4,
+            5,
+            3
+          ],
+          [
+            4,
+            0,
+            2,
+            4,
+            4,
+            2,
+            2,
+            0,
+            2
+          ],
+          [
+            5,
+            2,
+            3,
+            0,
+            5,
+            1,
+            5,
+            5,
+            1
+          ]
+        ]
+      },
+      {
+        "trait_type": "cubeType",
+        "value": "Standard"
+      }
+    ],
+    "description": "This is a standard issue on chain cube",
+    "image": "https://metadata.onchaincubes.com/generate_images/1",
+    "name": "Standard Cube"
+  }
+}

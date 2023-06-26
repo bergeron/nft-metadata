@@ -1,0 +1,61 @@
+{
+  "address": "0x5eb6a73ed9420e3b03daa599088323b4ed9890cd",
+  "type": "ERC721",
+  "name": "Surreels",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/GX4mLbbF62dH0I25uRf7sU806_t8wfpJSYObjsJX5_A",
+  "metadata": {
+    "name": "Keep Going",
+    "created_by": "SurrealSerpentine",
+    "description": "whatever you do, do not give up.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "SurrealSerpentine"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Blue, Orange, Yellow"
+      },
+      {
+        "trait_type": "Size",
+        "value": "3000 x 3000"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Painterly"
+      },
+      {
+        "trait_type": "Tools",
+        "value": "Photoshop, Blender, After Effects"
+      },
+      {
+        "trait_type": "Year Created",
+        "value": "2023"
+      }
+    ],
+    "animation_details": {
+      "bytes": 186027425,
+      "format": "MP4",
+      "duration": 15,
+      "sha256": "aab9f28e54cb96ae711eed63f4ee2ebe874f787a9b539369c365a70758a77542",
+      "width": 3000,
+      "height": 3000,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/eMxk6lqfnhKBm-hI3sXUw2kvBwiZpPwsrO7hKDQ-eqI",
+    "animation_url": "https://arweave.net/eMxk6lqfnhKBm-hI3sXUw2kvBwiZpPwsrO7hKDQ-eqI",
+    "image_details": {
+      "bytes": 4853433,
+      "format": "PNG",
+      "sha256": "53a9b99f159dac3fd689e6ea1bdca5cbbc8fea13c726acb725e904f79dcdaff1",
+      "width": 1792,
+      "height": 1800
+    },
+    "image": "https://arweave.net/RfPOEAJrii97nmSzEo_Lw3IryS9kBIn6zpsCbDrlnN0",
+    "image_url": "https://arweave.net/RfPOEAJrii97nmSzEo_Lw3IryS9kBIn6zpsCbDrlnN0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "address": "0x89f30e219dc6f6ce02b287829bd7c402b14502cc",
+  "type": "ERC1155",
+  "name": "FraktalNFTEpoHeroes",
+  "tokenCount": "2",
+  "uri": "https://art-ai.com/api/hero/metadata/77",
+  "metadata": {
+    "name": "3lau",
+    "description": "AI generated EpoHero, 3lau, Token #77",
+    "image": "ipfs://QmdreyBBYzVXMsCUmLk2PEBSeM1SyzGLn3ADt4KBBp6eg1",
+    "attributes": [
+      {
+        "trait_type": "Class",
+        "value": "Sorcerer"
+      },
+      {
+        "trait_type": "Disposition",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Level",
+        "value": 1
+      },
+      {
+        "trait_type": "Strength",
+        "value": 9
+      },
+      {
+        "trait_type": "Dexterity",
+        "value": 1
+      },
+      {
+        "trait_type": "Energy",
+        "value": 1
+      },
+      {
+        "trait_type": "Vitality",
+        "value": 2
+      },
+      {
+        "trait_type": "Total Stats",
+        "value": 13
+      },
+      {
+        "trait_type": "Hero Power",
+        "value": "Flames"
+      }
+    ]
+  }
+}

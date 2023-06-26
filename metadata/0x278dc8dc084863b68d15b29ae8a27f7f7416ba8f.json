@@ -1,0 +1,25 @@
+{
+  "address": "0x278dc8dc084863b68d15b29ae8a27f7f7416ba8f",
+  "type": "ERC721",
+  "name": "Ben & Julien",
+  "tokenCount": "34",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x278dc8dc084863b68d15b29ae8a27f7f7416ba8f/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x278DC8DC084863b68d15B29AE8A27f7F7416ba8F/icon?id=1",
+    "expiration": 1678496015,
+    "tokenId": "1",
+    "owner": "0x33ab07df7f09e793ddd1e9a25b079989a557119a",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1678496015
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x278DC8DC084863b68d15B29AE8A27f7F7416ba8F",
+    "network": 1
+  }
+}

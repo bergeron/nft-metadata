@@ -1,0 +1,83 @@
+{
+  "address": "0xa3de5a1a6122d277b9eb9002fe23662298561e3f",
+  "type": "ERC721",
+  "name": "Dutchtide - Zen Art Garden",
+  "tokenCount": "1",
+  "uri": "https://metadata.metamundo.co/0xa3de5a1a6122d277b9eb9002fe23662298561e3f/1",
+  "metadata": {
+    "name": "Zen Art Garden",
+    "description": "The first metaverse compatible NFT in the Tide Estates series is the Zen Art Garden, by Dutchtide. It is a carefully crafted intertwining between art, music, and architecture. Experience a true sense of zen through this unique, 1/1 Japanese-inspired gallery-garden. The space allows for relaxation and mediation inside its confines, and its interior includes a gallery area for displaying original artwork and NFTs. The combination of Brutalist-inspired architecture, its koi pond, and rock garden, complete with a pine tree are all accessed by a set of cantilevered stairs leading toward the gallery space. https://www.metamundo.co/Dutchtide/zen-art-garden/",
+    "image": "https://cdn.metamundo.co/metadata/f4dc1878-a416-4c2a-af53-4977576742e3.png",
+    "animation_url": "https://cdn.metamundo.co/metadata/cJVi8NRVhR8A3y7tysjqRxgss.mp4",
+    "audio_url": "",
+    "external_url": "https://metamundo.co/Dutchtide/zen-art-garden",
+    "model_type": [],
+    "attributes": [],
+    "additional_files": [
+      {
+        "file_name": "ZIP Dutchtide Art",
+        "file_url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/dutchtide/zen-art-garden/extra/Dutchtide-zen-art-garden.zip"
+      }
+    ],
+    "metaverse_models": [
+      {
+        "format": "GLB",
+        "models": [
+          {
+            "name": "high fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/dutchtide/zen-art-garden/higher-fidelity/DutchTide_ZenGarden_HigherFidelityGLB.glb",
+            "image": null,
+            "animation_url": null
+          },
+          {
+            "name": "lower fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/dutchtide/zen-art-garden/lower-fidelity/DutchTide_ZenGarden_LowerFidelityGLB.rar",
+            "image": null,
+            "animation_url": null
+          }
+        ]
+      },
+      {
+        "format": "VOX/VXR",
+        "models": [
+          {
+            "name": "high fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/dutchtide/zen-art-garden/higher-fidelity/DutchTide_ZenGarden_HigherFidelityVoxel.rar",
+            "image": null,
+            "animation_url": null
+          },
+          {
+            "name": "lower fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/dutchtide/zen-art-garden/lower-fidelity/DutchTide_ZenGarden_LowerFidelityVoxel.rar",
+            "image": null,
+            "animation_url": null
+          }
+        ]
+      },
+      {
+        "format": "USD",
+        "models": [
+          {
+            "name": "highest fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/dutchtide/zen-art-garden/highest-fidelity/DutchTide_ZenGarden_HighestFidelityFile_USD.rar",
+            "image": null,
+            "animation_url": null
+          }
+        ]
+      },
+      {
+        "format": "FBX",
+        "models": [
+          {
+            "name": "highest fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/dutchtide/zen-art-garden/highest-fidelity/DutchTide_ZenGarden_HighestFidelityFile.fbx",
+            "image": null,
+            "animation_url": null
+          }
+        ]
+      }
+    ],
+    "metafield": "© 2023 Dutchtide, All Rights Reserved.",
+    "End User Licensing Agreement": "https://ipfs.io/ipfs/QmeghRxz3LzZyA5YEJZZQG3NHegW8GX8qEjoryyg1TYAkG"
+  }
+}

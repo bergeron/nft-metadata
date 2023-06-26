@@ -1,0 +1,82 @@
+{
+  "address": "0xe2015f5a7e06d592a938f1d00ff6e70c1b32677e",
+  "type": "ERC721",
+  "name": "Jose Carlos Casado",
+  "tokenCount": "2",
+  "uri": "https://ipfs.io/ipfs/QmYStinrJDxAzDVfmytPoR85SWopp4AWXrHUai3nc8jtTB",
+  "metadata": {
+    "name": "Sacrifice.v01",
+    "description": "this artwork was created by casado during his fellowship residency at anderson ranch center.\nthis video is the first artwork of a series titled sacrifice, inspired by violent political events and the body in movement. created in 3d, rendering human skin as an extreme expression—an ecstasy of the body, an explosion of colors and an exaggeration of shapes—the artworks are a combination of illusion and reality, a violent dance of the mind, and an ironic game with multiple layers of perception. through the video we encounter the character in various states of ecstasy and prostration, pleasure and pain, victory and defeat. the body is not only violent, it is also erotic: “in essence, the domain of eroticism is the domain of violence,” said georges bataille.\ncasado created the texture in the character macro-photographing human skin, and then processing the photos through 3d software.",
+    "external_url": "https://postmastersbc.art/nft/casado/sacrifice.v01/JCCasado-Sacrifice-v01-thumb.mov",
+    "animation_url": "https://postmastersbc.art/nft/casado/sacrifice.v01/JCCasado-Sacrifice-v01-thumb.mov",
+    "image": "https://postmastersbc.art/nft/casado/sacrifice.v01/JC_Casado_Sacrifice-v01-thumb.JPG",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Jose Carlos Casado"
+      },
+      {
+        "trait_type": "Rights Agreement",
+        "value": "https://ipfs.io/ipfs/Qmbf5Q2ivkECewuasvQKUYsJCjbQ3sPyAsMS2YpcPgfVUt"
+      },
+      {
+        "trait_type": "Archive Link",
+        "value": "https://postmastersbc.art/nft/casado/sacrifice.v01/JCCasado-Sacrifice-v01.mov"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Sacrifice.v01"
+      },
+      "description": {
+        "type": "string",
+        "description": "this artwork was created by casado during his fellowship residency at anderson ranch center.\nthis video is the first artwork of a series titled sacrifice, inspired by violent political events and the body in movement. created in 3d, rendering human skin as an extreme expression—an ecstasy of the body, an explosion of colors and an exaggeration of shapes—the artworks are a combination of illusion and reality, a violent dance of the mind, and an ironic game with multiple layers of perception. through the video we encounter the character in various states of ecstasy and prostration, pleasure and pain, victory and defeat. the body is not only violent, it is also erotic: “in essence, the domain of eroticism is the domain of violence,” said georges bataille.\ncasado created the texture in the character macro-photographing human skin, and then processing the photos through 3d software."
+      },
+      "image": {
+        "type": "string",
+        "description": "https://postmastersbc.art/nft/casado/sacrifice.v01/JC_Casado_Sacrifice-v01-thumb.JPG"
+      },
+      "rights_agreement": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/Qmbf5Q2ivkECewuasvQKUYsJCjbQ3sPyAsMS2YpcPgfVUt"
+      },
+      "rights_agreement_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "rights_agreement_signature": {
+        "type": "string",
+        "description": "f4e38f7db04f03924adaa2f26d11835a251545988e02e7a2829559eba1682bc2"
+      },
+      "archive_link": {
+        "type": "string",
+        "description": "https://postmastersbc.art/nft/casado/sacrifice.v01/JCCasado-Sacrifice-v01.mov"
+      },
+      "archive_link_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "archive_link_signature": {
+        "type": "string",
+        "description": "d7f70311bd23d06e73134ed18b01664e91fbd02c43c6f2d1b6944f35f0cba4e9"
+      },
+      "rights_agreement_values": {
+        "$ARTIST": "Jose Carlos Casado",
+        "$SHAHASH": "d7f70311bd23d06e73134ed18b01664e91fbd02c43c6f2d1b6944f35f0cba4e9",
+        "$CONTRACTSHAHASH": "f4e38f7db04f03924adaa2f26d11835a251545988e02e7a2829559eba1682bc2",
+        "$URL": "https://postmastersbc.art/nft/casado/sacrifice.v01/JC_Casado_Sacrifice-v01-thumb.JPG",
+        "$TITLE": "Sacrifice.v01",
+        "$YEAR": "2012",
+        "$ROYALTYRATE": "10",
+        "$TOKEN": "eth",
+        "$ADDRESS": "0x6D611986e2C24519DCCc6Cf26F4702dfd4942BFf",
+        "$LICENSE": "CA.05.19.21., Patent No. US 10,380,702"
+      },
+      "additional_info": {
+        "type": "string",
+        "description": "This digital art NFT was produced by PostmastersBLOCKCHAIN.com, 2021, Postmasters Gallery."
+      }
+    }
+  }
+}

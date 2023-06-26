@@ -1,0 +1,30 @@
+{
+  "address": "0x994f63dcb88d2a5f84aab10a9a73762adb6c2daa",
+  "type": "ERC721",
+  "name": "HotPotatoFryers",
+  "tokenCount": "2",
+  "uri": "ipfs://QmUNHGNrBJP83YobsyeZW2F7ZcGXNKU7NfUtC45wgJp99G/1.json",
+  "metadata": {
+    "name": "Potato Fryers #1",
+    "description": "Fryers built to cook up the perfect Hot-Potato. I wonder what this could be used for?",
+    "image": "ipfs://QmeE4rVKkn4ZosDd3HdDBAdtyPBHYM5KsDjWG8GWtkzvmA",
+    "dna": "ddf1607cb4ecff5fae2758a56bec42674498c86d",
+    "edition": 1,
+    "date": 1661842530579,
+    "attributes": [
+      {
+        "trait_type": "Frier",
+        "value": "Frier"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Heat",
+        "value": "Very Cold"
+      }
+    ],
+    "compiler": "ART ENGINE"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0x199655c5509ca21a2a80403d6f7b1945cf8e1197",
+  "type": "ERC721",
+  "name": "The Crypto Grumpies",
+  "tokenCount": "102",
+  "uri": "ipfs://QmbBJAmkUbfQatu2inXyqzNMTYzvYgj1i7KApQxEotmKUD/1.json",
+  "metadata": {
+    "name": "Crypto Grumpies #1",
+    "description": "3,333 unique grumpy creatures causing chaos on Earth, all programmatically generated from 120+ hand drawn traits.",
+    "image": "ipfs://QmUWkw35LcqGKN9UVUEnv8SZmnPuY58KPub8iRPZnfdpFP/1.png",
+    "dna": "2e6c309bb725e3db24778716f18e06bd31bff101",
+    "edition": 1,
+    "date": 1642112137547,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Dracula"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Biting_Lips"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Cucumber"
+      },
+      {
+        "trait_type": "Head",
+        "value": "JP_Headband"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

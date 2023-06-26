@@ -1,0 +1,68 @@
+{
+  "address": "0x73d7a7a3b831329aeb3f669b0f2fab639ac31e0a",
+  "type": "ERC1155",
+  "name": "Comics & Crypto Podcast",
+  "tokenCount": "1",
+  "uri": "ipfs://QmSCMoAU29fKW4MKcVt6Kc2gtfcP1sFNVR16Bh9XkZuQEU",
+  "metadata": {
+    "name": "Rob Prior Interview - Stan Lee Story",
+    "title": "Rob Prior Interview - Stan Lee Story",
+    "description": "Rob Prior tells one of his favorite stories from his time spent with the legendary Stan Lee. The audio from this NFT was taken from the interview we did with Rob during Episode #6 of the Comics & Crypto Podcast. The original audio was not aired during the podcast episode. Instead, we minted the audio into an NFT and then deleted the original files so that Rob's story lives on forever on the Ethereum blockchain, and nowhere else.",
+    "type": "object",
+    "image": "ipfs://QmTDLS71Ee7hvupWkHDXV61C8mSCL4ThuFyPLzAAakq1b9",
+    "animation_url": "ipfs://QmTUnM8LyCbKvrGWvs7VXrpfxoR9m7BEoMhYT53dKqCjU8",
+    "background_color": "000000",
+    "external_url": "https://v1.mglnft.com/0x73D7A7A3b831329AEb3F669b0f2fAB639ac31E0a/1",
+    "properties": {
+      "contract_address": {
+        "type": "string",
+        "description": "0x73D7A7A3b831329AEb3F669b0f2fAB639ac31E0a"
+      },
+      "title": {
+        "type": "string",
+        "description": "Rob Prior Interview - Stan Lee Story"
+      },
+      "description": {
+        "type": "string",
+        "description": "Rob Prior tells one of his favorite stories from his time spent with the legendary Stan Lee. The audio from this NFT was taken from the interview we did with Rob during Episode #6 of the Comics & Crypto Podcast. The original audio was not aired during the podcast episode. Instead, we minted the audio into an NFT and then deleted the original files so that Rob's story lives on forever on the Ethereum blockchain, and nowhere else."
+      },
+      "issuer": {
+        "type": "string",
+        "description": "Rob Prior"
+      },
+      "external_url": {
+        "type": "string",
+        "description": "https://v1.mglnft.com/0x73D7A7A3b831329AEb3F669b0f2fAB639ac31E0a/1"
+      },
+      "image_url": {
+        "type": "string",
+        "description": "ipfs://QmTDLS71Ee7hvupWkHDXV61C8mSCL4ThuFyPLzAAakq1b9"
+      },
+      "image_original_url": {
+        "type": "string",
+        "description": "ipfs://QmTDLS71Ee7hvupWkHDXV61C8mSCL4ThuFyPLzAAakq1b9"
+      },
+      "animation_url": {
+        "type": "string",
+        "description": "ipfs://QmTUnM8LyCbKvrGWvs7VXrpfxoR9m7BEoMhYT53dKqCjU8"
+      },
+      "animation_original_url": {
+        "type": "string",
+        "description": "ipfs://QmTUnM8LyCbKvrGWvs7VXrpfxoR9m7BEoMhYT53dKqCjU8"
+      },
+      "background_color": {
+        "type": "string",
+        "description": "000000"
+      },
+      "collection_label": {
+        "type": "string",
+        "description": "Comics & Crypto Podcast"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 1
+      }
+    },
+    "attributes": []
+  }
+}

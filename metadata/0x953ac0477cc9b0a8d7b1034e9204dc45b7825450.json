@@ -1,0 +1,49 @@
+{
+  "address": "0x953ac0477cc9b0a8d7b1034e9204dc45b7825450",
+  "type": "ERC1155",
+  "name": "Bad Editions by Jitchy",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/eoKuR1rlbBpUVE3FJPhDVW_ukDD8apt3HMZ-5ishBaI",
+  "metadata": {
+    "name": "Seven Days",
+    "created_by": "jitchy",
+    "description": "Seven Days by jitchy.   \nThis is first piece from Series 1: Pepeditions",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "jitchy"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Pepeditions"
+      },
+      {
+        "trait_type": "Title",
+        "value": "Seven Days"
+      }
+    ],
+    "animation_details": {
+      "bytes": 6339759,
+      "format": "MP4",
+      "duration": 9,
+      "sha256": "3e142b73bb3baf5466a1de6d4f2cc6576cf678c5903fe5358b3ae88c036e6c0d",
+      "width": 1024,
+      "height": 1024,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/6qDaYUb2p6rbSov7r1cWUgAq6Fv1mIBLctQtTZWV4Uo",
+    "animation_url": "https://arweave.net/6qDaYUb2p6rbSov7r1cWUgAq6Fv1mIBLctQtTZWV4Uo",
+    "image_details": {
+      "bytes": 3191609,
+      "format": "PNG",
+      "sha256": "2735add09c47481d8a32793b5ca16faaba5e4560b95508fd2657cfd1b36c865d",
+      "width": 1802,
+      "height": 1738
+    },
+    "image": "https://arweave.net/SdMLQeX8Ubuu6fwVYokx9BWOsMINDQm7eKNhsa7rhHQ",
+    "image_url": "https://arweave.net/SdMLQeX8Ubuu6fwVYokx9BWOsMINDQm7eKNhsa7rhHQ"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0xb326dee89a3b0a2aa948b8dd12ab41e0e56aa25c",
+  "type": "ERC721",
+  "name": "Punkatoo",
+  "tokenCount": "3",
+  "uri": "ipfs://QmQKWxuSkccj7ET9F4xWZJDqxWEn1gtTo8Ma87ivmQvhzp/1.json",
+  "metadata": {
+    "dna": "8162433378a201162e1eb9e15cc6a33b392f5b1d",
+    "name": "#1",
+    "description": "Punk + Cockatoo = Punkatoo!",
+    "image": "ipfs://QmXwMmwtsyusdV8jcNEg2D7cw5tA3bmuMcozvbkEB9JTni/1.png",
+    "edition": 1,
+    "date": 1634824268940,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Starry"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Close"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Helmet"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Shield"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Apron"
+      }
+    ],
+    "compiler": "HAE"
+  }
+}

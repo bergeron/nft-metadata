@@ -1,0 +1,52 @@
+{
+  "address": "0xb4b3988a730cbc999992178b3afe3e807dfc9444",
+  "type": "ERC721",
+  "name": "PFPPunksNFT",
+  "tokenCount": "445",
+  "uri": "ipfs://QmUkYgJND2yifaA6ZJGbNLCjzX4UX6XJZPpuqcTm46JgsE/1.json",
+  "metadata": {
+    "name": "PFPPunks #1",
+    "description": "First 300 free | 700 for 0.0191 | Total 1000 super beautiful NFT's",
+    "external_url": "",
+    "image": "ipfs://QmWpdvuFsaNDEEqoqHRz1VqfyyfTiJjxyvN6Psd6cMbzRe/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Green:White (Red)"
+      },
+      {
+        "trait_type": "Accessoires",
+        "value": "Gold Chain"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Beanie"
+      },
+      {
+        "trait_type": "Accessoires 3",
+        "value": "Medical Mask Blue (Red Laser)"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "PFPPunksNFT",
+      "family": "PFPPunksNFT"
+    },
+    "symbol": ""
+  }
+}

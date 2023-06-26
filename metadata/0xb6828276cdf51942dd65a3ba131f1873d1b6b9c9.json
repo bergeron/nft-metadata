@@ -1,0 +1,37 @@
+{
+  "address": "0xb6828276cdf51942dd65a3ba131f1873d1b6b9c9",
+  "type": "ERC721",
+  "name": "GridPunks",
+  "tokenCount": "4000",
+  "uri": "ipfs://bafybeibr6ilftyj7srs5kz53sbwxpbkqggpmuvbegkt2ndogwgt3heae7m/1.json",
+  "metadata": {
+    "name": "GridPunks #1",
+    "description": "Inspired by GRIDS Tristan Rettich x Punks",
+    "image": "ipfs://bafybeiepmcp7qw2vgpyn4ji6cdnnvwmnlijw5sk6o4px77mf57si7mo2h4/1.png",
+    "edition": 1,
+    "date": 1687325897511,
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "GridPunks"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Tense"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "GridPunks33683"
+  }
+}

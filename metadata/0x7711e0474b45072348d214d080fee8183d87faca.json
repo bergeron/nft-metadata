@@ -1,0 +1,65 @@
+{
+  "address": "0x7711e0474b45072348d214d080fee8183d87faca",
+  "type": "ERC721",
+  "name": "KK Skull Islands",
+  "tokenCount": "1401",
+  "uri": "https://skullisland.s3.amazonaws.com/metadata/1",
+  "metadata": {
+    "name": "Skull Island #1",
+    "description": "Skull Islands is a collection of 3165 islands that are homes to the mighty Kaiju Kongz. Defend them at all cost while raiding others in a novel P2E game that evolves over time.",
+    "external_url": "https://kaijukongz.io/",
+    "image": "https://skullisland.s3.amazonaws.com/images/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Olive"
+      },
+      {
+        "trait_type": "Land",
+        "value": "Mud"
+      },
+      {
+        "trait_type": "Clouds",
+        "value": "Thunder Clouds"
+      },
+      {
+        "trait_type": "Environment",
+        "value": "Snow Mountain"
+      },
+      {
+        "trait_type": "Cottage",
+        "value": "Hut"
+      },
+      {
+        "trait_type": "Monsters",
+        "value": "Gorilla"
+      },
+      {
+        "trait_type": "Artifact 1",
+        "value": "Ice Flame"
+      },
+      {
+        "trait_type": "Artifact 2",
+        "value": "Duck"
+      },
+      {
+        "trait_type": "Artifact 3",
+        "value": "Chicken Roast"
+      },
+      {
+        "trait_type": "Fishing platform",
+        "value": "None"
+      },
+      {
+        "trait_type": "Sky",
+        "value": "None"
+      },
+      {
+        "trait_type": "Resistance",
+        "display_type": "boost_percentage",
+        "value": 90
+      }
+    ]
+  }
+}

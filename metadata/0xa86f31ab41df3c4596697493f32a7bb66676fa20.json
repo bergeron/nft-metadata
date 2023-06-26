@@ -1,0 +1,42 @@
+{
+  "address": "0xa86f31ab41df3c4596697493f32a7bb66676fa20",
+  "type": "ERC721",
+  "name": "On chain Apepes",
+  "tokenCount": "1100",
+  "uri": "ipfs://bafybeib4qaafzxlvzldpogzyfx5qhjsxhxnis3tbfmbgr6lmguowdtmd64/1.json",
+  "metadata": {
+    "name": "On chain Apepe #1",
+    "description": "CC0.",
+    "image": "ipfs://bafybeibgkgoxw5uenpc6vvbvmzjhxnxlrvxqz7pqsznernzdedanfea7oe/1.png",
+    "dna": "cedfe9c43d9b2f3c8f9b15ad808da553d585c3b5",
+    "edition": 1,
+    "date": 1661596356178,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Prom Dress"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wide"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Rage"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Commie Hat"
+      }
+    ],
+    "compiler": "OnChain"
+  }
+}

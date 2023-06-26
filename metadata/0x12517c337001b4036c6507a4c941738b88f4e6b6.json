@@ -1,0 +1,31 @@
+{
+  "address": "0x12517c337001b4036c6507a4c941738b88f4e6b6",
+  "type": "ERC721",
+  "name": "gego.dego",
+  "tokenCount": "1",
+  "uri": "https://api.dego.finance/bsccommon/gego-token/1",
+  "metadata": {
+    "status": 10000,
+    "result": {
+      "data": {
+        "name": "BRONZE",
+        "description": "Ordinary tool found in grocery stores",
+        "i18n_name": "nft_0001",
+        "i18n_description": "nft_0002",
+        "small_image": "https://dego.finance/upload/small/1.png",
+        "big_image": "https://dego.finance/upload/big/1.png",
+        "id": "1",
+        "external_url": "https://api.dego.finance/bsccommon/gego-token/1",
+        "attributes": {
+          "grade": "1",
+          "quality": "340",
+          "degoAmount": "1000000000000000000",
+          "createdTime": "1602854031",
+          "blockNum": "1394083",
+          "resId": "1",
+          "author": "0xd2b2755a4bDCAF415E9a74e3EfE41D23D2F70C53"
+        }
+      }
+    }
+  }
+}

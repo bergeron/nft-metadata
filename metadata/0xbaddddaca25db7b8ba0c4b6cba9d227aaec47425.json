@@ -1,0 +1,13 @@
+{
+  "address": "0xbaddddaca25db7b8ba0c4b6cba9d227aaec47425",
+  "type": "ERC721",
+  "name": "DAO4Art D4A Improvement Proposals Test Round",
+  "tokenCount": "12",
+  "uri": "https://dao4art.s3.ap-southeast-1.amazonaws.com/meta/work/W16747637474528643.json",
+  "metadata": {
+    "image": "https://dao4art.s3.ap-southeast-1.amazonaws.com/work/W16747637474528643.jpg",
+    "name": "D4A@113/Canvas*2/NFT#1",
+    "description": "When setting up a Canvas, if the first-time transaction fails for any reason and one tries to repeat the process, the previous Canvas name used (in the failed attempt) says it is already taken. It would be good to have a message stating how much time until the name becomes available once more. In the event it would not be possible, to have a message stating that as well. ",
+    "mintedAddress": "0xcc725ad74d5dfaa213b090bc2b3a8f8638cb7589"
+  }
+}

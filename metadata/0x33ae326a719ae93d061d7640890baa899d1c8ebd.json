@@ -1,0 +1,40 @@
+{
+  "address": "0x33ae326a719ae93d061d7640890baa899d1c8ebd",
+  "type": "ERC721",
+  "name": "InteractiveFlow",
+  "tokenCount": "203",
+  "uri": "http://interactiveflow.base64.tech/metadata/1",
+  "metadata": {
+    "image": "https://ipfs.infura.io/ipfs/QmZNAEx7TWfpR2UszLXrGkpanMrgYfLmPqmzSYLNZTeHJT",
+    "hash": "3b5910b755602c17a9f439bb5c21620b4efd606df9c2fc9cbb2a65d0a315b5eb",
+    "name": "Interactive Flow #1",
+    "description": "We *highly* recommend interacting with the NFT via the direct link below, it fits to any screen size(including mobile), make your browser full screen for the best experience.\n\nDirect link to animation: http://interactiveflow.base64.tech/animation/1/\n\nThis Interactive NFT is meant to capture our ever changing emotional and physical state. This concept can allow our art to change with us as well.\n\nEach NFT is distinct and uniquely generated based off of an on-chain hash that is produced utilizing your transaction details.\n\nInteracting with the NFT has the ability to change Hue, Saturation and Brightness of its elements. The top half controls the lines being drawn, the bottom half changes the background and resets the pattern.",
+    "attributes": [
+      {
+        "trait_type": "Lines / Background",
+        "value": "Greyscale / Color"
+      },
+      {
+        "trait_type": "Curve Strength",
+        "value": "2X"
+      },
+      {
+        "trait_type": "Grid Spread",
+        "value": "40"
+      },
+      {
+        "trait_type": "Line Thickness",
+        "value": "String"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Quads"
+      }
+    ],
+    "animation_url": "https://ipfs.infura.io/ipfs/QmWjBQZYbxwNukij5AgqYC9ndotr4Mg51nV6KeYmAD4BaK",
+    "external_url": "https://ipfs.infura.io/ipfs/QmWjBQZYbxwNukij5AgqYC9ndotr4Mg51nV6KeYmAD4BaK",
+    "token_uri": "https://interactiveflow.base64.tech/metadata/1",
+    "script_type": "p5js",
+    "aspect_ratio": "1"
+  }
+}

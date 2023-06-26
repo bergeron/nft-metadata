@@ -1,0 +1,38 @@
+{
+  "address": "0x1f14aaf87db9276eab4beb714cd9912631e83b3e",
+  "type": "ERC721",
+  "name": "CornBirds Official",
+  "tokenCount": "6831",
+  "uri": "ipfs://bafybeif7p6d2vszvyk2aawuk3ieyndz3ivq5bust3qee2nkvrj34426vlu/1.json",
+  "metadata": {
+    "name": "Cornbird #1",
+    "description": "A dedicated collection of cornbirds. Can they fly?",
+    "image": "ipfs://bafybeiglvtwabnyhld5ac44upj7gtjk64limzc7onjw4pefjpaqf6ydxcq/1.png",
+    "dna": "982d869a1cebd30dc4d32e2a6fa2b6936acaf3c2",
+    "edition": 1,
+    "date": 1664917429214,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Corn",
+        "value": "Ice"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Side eye"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Gremplin"
+      }
+    ],
+    "compiler": "Corn"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "address": "0x94e816f5acd7a3754fa5515bcc5aacc6a2a71d28",
+  "type": "ERC721",
+  "name": "CirKILL Game",
+  "tokenCount": "2013",
+  "uri": "data:application/json;base64,eyJuYW1lIjoiQ0lSS0lMTCAjMSIsImRlc2NyaXB0aW9uIjoiRmlyc3QgZXZlciAxMDAlIG9uLWNoYWluIGR5bmFtaWMgTkZUIGdhbWUuIE5GVHMgdGhhdCBncm93LCBhdHRhY2ssIGNoYW5nZSBpbiBzaXplIGFuZCB1cGRhdGUgdmlzdWFsbHkuIE5vIEFQSS4gTm8gSVBGUy4gQ29tcGxldGVseSBvbiBjaGFpbi4iLCJhdHRyaWJ1dGVzIjpbeyJ0cmFpdF90eXBlIjoiU2l6ZSIsInZhbHVlIjo2MjUxM30seyJ0cmFpdF90eXBlIjoiQ29sb3IiLCJ2YWx1ZSI6IiM1ZDA3MTcifSx7InRyYWl0X3R5cGUiOiJCYWNrZ3JvdW5kIiwidmFsdWUiOiIjZmZmZmZmIn0seyJ0cmFpdF90eXBlIjoiR3Jvd3RoIFJhdGUiLCJkaXNwbGF5X3R5cGUiOiAiYm9vc3RfbnVtYmVyIiwidmFsdWUiOjV9LHsidHJhaXRfdHlwZSI6IkNpcmNsZXMgQXR0YWNrZWQiLCAiZGlzcGxheV90eXBlIjogIm51bWJlciIsICJ2YWx1ZSI6MH0seyJ0cmFpdF90eXBlIjoiQXR0YWNrZWQgYnkiLCAiZGlzcGxheV90eXBlIjogIm51bWJlciIsICJ2YWx1ZSI6MX0seyJ0cmFpdF90eXBlIjoiU2xlZXAgVGltZSIsInZhbHVlIjoiNzkgbWludXRlcyJ9LHsidHJhaXRfdHlwZSI6IlNoaWVsZCBUaW1lIiwidmFsdWUiOiI3OSBtaW51dGVzIn1dLCJpbWFnZSI6ImRhdGE6aW1hZ2Uvc3ZnK3htbDtiYXNlNjQsUEhOMlp5QjJhV1YzUW05NFBTY3dJREFnTmpJMU1UTWdOakkxTVRNbklIaHRiRzV6UFNkb2RIUndPaTh2ZDNkM0xuY3pMbTl5Wnk4eU1EQXdMM04yWnljZ2RtVnljMmx2Ymowbk1TNHhKeUJ6ZEhsc1pUMG5ZbUZqYTJkeWIzVnVaQzFqYjJ4dmNqb2pabVptWm1abUp6NDhZMmx5WTJ4bElHTjRQU2MxTUNVbklHTjVQU2MxTUNVbklISTlKek14TWpVMkp5Qm1hV3hzUFNjak5XUXdOekUzSno0OFlXNXBiV0YwWlNCaGRIUnlhV0oxZEdWVWVYQmxQU2RZVFV3bklHRjBkSEpwWW5WMFpVNWhiV1U5SjNJbklIWmhiSFZsY3owbk1Ec3pNVEkxTmljZ1pIVnlQU2MwY3ljZ1ltVm5hVzQ5SnpBdU1qVnpKeTgrUEdGdWFXMWhkR1VnWVhSMGNtbGlkWFJsVkhsd1pUMG5XRTFNSnlCaGRIUnlhV0oxZEdWT1lXMWxQU2R5SnlCMllXeDFaWE05SnpNd09UUXpPek14TWpVMk96TXdPVFF6SnlCa2RYSTlKekF1TlhNbklHSmxaMmx1UFNjMExqSTFjeWNnY21Wd1pXRjBRMjkxYm5ROUoybHVaR1ZtYVc1cGRHVW5MejQ4TDJOcGNtTnNaVDQ4TDNOMlp6ND0ifQ==",
+  "metadata": {
+    "name": "CIRKILL #1",
+    "description": "First ever 100% on-chain dynamic NFT game. NFTs that grow, attack, change in size and update visually. No API. No IPFS. Completely on chain.",
+    "attributes": [
+      {
+        "trait_type": "Size",
+        "value": 62513
+      },
+      {
+        "trait_type": "Color",
+        "value": "#5d0717"
+      },
+      {
+        "trait_type": "Background",
+        "value": "#ffffff"
+      },
+      {
+        "trait_type": "Growth Rate",
+        "display_type": "boost_number",
+        "value": 5
+      },
+      {
+        "trait_type": "Circles Attacked",
+        "display_type": "number",
+        "value": 0
+      },
+      {
+        "trait_type": "Attacked by",
+        "display_type": "number",
+        "value": 1
+      },
+      {
+        "trait_type": "Sleep Time",
+        "value": "79 minutes"
+      },
+      {
+        "trait_type": "Shield Time",
+        "value": "79 minutes"
+      }
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgNjI1MTMgNjI1MTMnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZycgdmVyc2lvbj0nMS4xJyBzdHlsZT0nYmFja2dyb3VuZC1jb2xvcjojZmZmZmZmJz48Y2lyY2xlIGN4PSc1MCUnIGN5PSc1MCUnIHI9JzMxMjU2JyBmaWxsPScjNWQwNzE3Jz48YW5pbWF0ZSBhdHRyaWJ1dGVUeXBlPSdYTUwnIGF0dHJpYnV0ZU5hbWU9J3InIHZhbHVlcz0nMDszMTI1NicgZHVyPSc0cycgYmVnaW49JzAuMjVzJy8+PGFuaW1hdGUgYXR0cmlidXRlVHlwZT0nWE1MJyBhdHRyaWJ1dGVOYW1lPSdyJyB2YWx1ZXM9JzMwOTQzOzMxMjU2OzMwOTQzJyBkdXI9JzAuNXMnIGJlZ2luPSc0LjI1cycgcmVwZWF0Q291bnQ9J2luZGVmaW5pdGUnLz48L2NpcmNsZT48L3N2Zz4="
+  }
+}

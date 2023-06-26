@@ -1,0 +1,65 @@
+{
+  "address": "0x97bec39b35341ec23cb6db04224c34bbb4757e50",
+  "type": "ERC721",
+  "name": "Vengeful Beasts",
+  "tokenCount": "152",
+  "uri": "ipfs://QmTwcYqMR7puEUb3jXdczhknXhcH4BDY9juPDps2ykLFoF/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "Vengeful Beasts is a collection of 10'000 randomly-generated 3D warriors fighting for their cause on the Ethereum blockchain.",
+    "external_url": "",
+    "image": "ipfs://QmTahzeLur2JSKvqRCF43NwsGD8taXTWhV7qg2qrr56EJ1/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Light red"
+      },
+      {
+        "trait_type": "Main body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Front body",
+        "value": "Light brown"
+      },
+      {
+        "trait_type": "Eyes and nose",
+        "value": "White eyes"
+      },
+      {
+        "trait_type": "Front gear",
+        "value": "Small blue mustach"
+      },
+      {
+        "trait_type": "Shoulder pads color",
+        "value": "Turquoise"
+      },
+      {
+        "trait_type": "Shoulder pads faction",
+        "value": "4 light grey"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Golden shuriken"
+      },
+      {
+        "trait_type": "Head gear",
+        "value": "Pirat hat"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "2654.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

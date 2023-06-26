@@ -1,0 +1,62 @@
+{
+  "address": "0xcd05e4a887629c9d715f01351b9779deebd20605",
+  "type": "ERC721",
+  "name": "GOLIV",
+  "tokenCount": "425",
+  "uri": "https://api.goliv.io/api/collection/0xcd05E4a887629c9d715F01351B9779dEeBD20605/token/1.json",
+  "metadata": {
+    "name": "GOLIV #1",
+    "description": "",
+    "image": "https://blockchain-service.s3.ap-southeast-1.amazonaws.com/goliv/nft/0/1.png",
+    "attributes": [
+      {
+        "value": "blue.png",
+        "trait_type": "background"
+      },
+      {
+        "value": "gold.png",
+        "trait_type": "base"
+      },
+      {
+        "value": "pink.png",
+        "trait_type": "lights"
+      },
+      {
+        "value": "purpleneon.png",
+        "trait_type": "rim"
+      },
+      {
+        "value": "flowers.png",
+        "trait_type": "sticker"
+      },
+      {
+        "value": "Sedan",
+        "trait_type": "category"
+      },
+      {
+        "trait_type": "Petrol",
+        "value": "50"
+      },
+      {
+        "trait_type": "Mileage",
+        "value": "0"
+      },
+      {
+        "trait_type": "Next Maintenance",
+        "value": "4000.0000"
+      },
+      {
+        "trait_type": "Times Maintained",
+        "value": "0"
+      },
+      {
+        "trait_type": "Time On Road Today",
+        "value": "0"
+      },
+      {
+        "trait_type": "KM On Road Today",
+        "value": "0"
+      }
+    ]
+  }
+}

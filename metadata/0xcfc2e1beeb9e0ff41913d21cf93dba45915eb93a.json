@@ -1,0 +1,32 @@
+{
+  "address": "0xcfc2e1beeb9e0ff41913d21cf93dba45915eb93a",
+  "type": "ERC721",
+  "name": "ECHO",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/7A12QofSSn2cH9tuefI-swnndIFcmNvc12SkngZ2FM0",
+  "metadata": {
+    "name": "ECHO",
+    "created_by": "Max Taquet",
+    "description": "Deep in space, far beyond the known borders... there is an echo.\n\n\n1512x1754  \nLooped contemplative animation with sound.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Max Taquet"
+      }
+    ],
+    "animation_details": {
+      "bytes": 39350403,
+      "format": "MP4",
+      "duration": 20,
+      "sha256": "3cbb1915683e580a99c07c361de97440fdd4120e575483ad924ea0838dd2357d",
+      "width": 1512,
+      "height": 1754,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/NmrN9HO6oQDsVFNSSgboaKzzoGMGN2C7T2NofFhA9jk",
+    "animation_url": "https://arweave.net/NmrN9HO6oQDsVFNSSgboaKzzoGMGN2C7T2NofFhA9jk"
+  }
+}

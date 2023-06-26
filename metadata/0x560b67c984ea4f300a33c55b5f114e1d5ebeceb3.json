@@ -1,0 +1,27 @@
+{
+  "address": "0x560b67c984ea4f300a33c55b5f114e1d5ebeceb3",
+  "type": "ERC721",
+  "name": "VenVuu Dynamic",
+  "tokenCount": "166",
+  "uri": "https://prod-nft-venvuu.s3.amazonaws.com/partner/gen0/metadata/1",
+  "metadata": {
+    "image": "https://prod-nft-venvuu.s3.amazonaws.com/partner/gen0/assets/partner-gen0-placeholder.mp4",
+    "name": "#1",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Partner"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Revenue Boost",
+        "value": 30
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 0
+      }
+    ]
+  }
+}

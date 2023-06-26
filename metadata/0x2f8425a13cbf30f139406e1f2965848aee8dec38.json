@@ -1,0 +1,57 @@
+{
+  "address": "0x2f8425a13cbf30f139406e1f2965848aee8dec38",
+  "type": "ERC721",
+  "name": "CHILLPENGS",
+  "tokenCount": "1600",
+  "uri": "ipfs://bafybeiccf7w7tumoxfcagymb7b6vwx2q23gxzlhndsiylw7pgd2jl3w5oi/1.json",
+  "metadata": {
+    "name": "Chillpeng #2",
+    "symbol": "CB",
+    "description": "",
+    "seller_fee_basis_points": 1000,
+    "image": "ipfs://bafybeiamsk3jvwuto7yy2va34dc7fmqmksr2dljrstcm5ra6t6eunaemte/1.png",
+    "external_url": "",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Penguin NFT Sky"
+      },
+      {
+        "trait_type": "BaseCharacter",
+        "value": "Penguin NFT Base"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Penguin NFT Angry"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Penguin NFT Parka"
+      },
+      {
+        "trait_type": "Accecories",
+        "value": "Penguin NFT Shield Eyeglasses"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Penguin NFT Baker Cap"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

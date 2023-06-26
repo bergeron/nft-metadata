@@ -1,0 +1,40 @@
+{
+  "address": "0xad67b2e5462683fe96e15b208c18e35000dabb80",
+  "type": "ERC721",
+  "name": "AI Network Runo Worker",
+  "tokenCount": "427",
+  "uri": "https://ryn-api-server.ainetwork.ai/v1/getMetadata/worker/1",
+  "metadata": {
+    "description": "Runo is an NFT character. This NFT is connected with AI Network nodes of different types and specifications. Runo has additional features based on the activity history of its nodes, and accordingly grows in different shapes and forms!",
+    "external_url": "",
+    "image": "https://firebasestorage.googleapis.com/v0/b/runo-nft/o/nfts%2Fworker%2Fcpu%2FR1100_running.mp4?alt=media",
+    "name": "CPU Runo #1",
+    "attributes": [
+      {
+        "trait_type": "Level",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 0
+      },
+      {
+        "trait_type": "Running Time",
+        "value": "5 Month"
+      },
+      {
+        "trait_type": "Spec",
+        "value": "cpu"
+      },
+      {
+        "trait_type": "head",
+        "value": "cap"
+      },
+      {
+        "trait_type": "shoes and socks",
+        "value": "basic and neon"
+      }
+    ]
+  }
+}

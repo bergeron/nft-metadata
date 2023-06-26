@@ -1,0 +1,37 @@
+{
+  "address": "0x250e42b1e5c8b78973b712f0fa6227e5e213a2cb",
+  "type": "ERC721",
+  "name": "NFT Crypto Frenchies",
+  "tokenCount": "5",
+  "uri": "ipfs://QmaYJKGL6rWwXkTpqUJ6R3jDXPBrHJ3dbfwAzt1MvHKoSL/1.json",
+  "metadata": {
+    "name": "NFT #3975",
+    "description": "NFT #3975 - Let Frenchies rule the world.",
+    "fee_recipient": "0x84E630Ff869Fb5A55E86f1dA7C064EffB2654c86",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://QmX5w3Y2YiX6gpAdw46qwJ6TfHyjecQX5cXfBeVmnXWCBU/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Beige"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Stubble"
+      },
+      {
+        "trait_type": "Blingbling",
+        "value": "Nosering"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 8935,
+        "display_type": "number"
+      }
+    ]
+  }
+}

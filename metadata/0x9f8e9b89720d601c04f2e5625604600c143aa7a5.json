@@ -1,0 +1,23 @@
+{
+  "address": "0x9f8e9b89720d601c04f2e5625604600c143aa7a5",
+  "type": "ERC721",
+  "name": "Project Memento",
+  "tokenCount": "45",
+  "uri": "https://project-memento.com/metadata/0-1.json",
+  "metadata": {
+    "name": "Project Memento [0,1]",
+    "description": "Leave a trace on the Memento wall. Coordinate: [0,1]",
+    "image": "https://memento.pages.dev/images/0-1.svg",
+    "external_url": "https://project-memento.com",
+    "attributes": [
+      {
+        "trait_type": "Coordinate X",
+        "value": "0"
+      },
+      {
+        "trait_type": "Coordinate Y",
+        "value": "1"
+      }
+    ]
+  }
+}

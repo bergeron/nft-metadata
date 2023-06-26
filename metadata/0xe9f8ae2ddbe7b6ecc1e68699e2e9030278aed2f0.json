@@ -1,0 +1,55 @@
+{
+  "address": "0xe9f8ae2ddbe7b6ecc1e68699e2e9030278aed2f0",
+  "type": "ERC721",
+  "name": "$quidGamesNFT",
+  "tokenCount": "5",
+  "uri": "https://squidgamesnft.s3.us-east-2.amazonaws.com/nft/1.json",
+  "metadata": {
+    "edition": 1,
+    "description": "",
+    "image": "https://squidgamesnft.s3.us-east-2.amazonaws.com/nft/1.png",
+    "name": "$quidGamesNFT #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "One Tree Hill"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green Tracksuit - Neutral"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Curious"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Thick"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Flat"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Frozen Jade"
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "Sapphire"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Forced Smile"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Side Parted (Brown)"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Top"
+      }
+    ]
+  }
+}

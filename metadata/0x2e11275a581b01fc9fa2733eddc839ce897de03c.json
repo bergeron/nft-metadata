@@ -1,0 +1,54 @@
+{
+  "address": "0x2e11275a581b01fc9fa2733eddc839ce897de03c",
+  "type": "ERC721",
+  "name": "The Lokals",
+  "tokenCount": "876",
+  "uri": "https://metadata.thelokals.io/1",
+  "metadata": {
+    "description": "The Lokals is a collection of 5,000 unique NFTs generated on the Ethereum blockchain",
+    "external_url": "http://thelokals.io/",
+    "image": "ipfs://QmUgkd4inS2dwGYAuQqbezfKeUwxmc2HjFKfLhwszUBo5k/1.gif",
+    "animation_url": "ipfs://QmX31p2KTfSSsgqP1nd1f7CLkyZFtWLAudHQectAu2oK1L/1.mp4",
+    "name": "Royko The Lokal Roberts",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glacier Blue"
+      },
+      {
+        "trait_type": "Gear",
+        "value": "Tennis Racket"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Raised Eyebrow"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Plaid Pattern Suit with Tie"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bowl Cut"
+      },
+      {
+        "trait_type": "Face Stuff",
+        "value": "Ear Piercing Big"
+      },
+      {
+        "trait_type": "Mouth Stuff",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Speedo Glasses"
+      },
+      {
+        "trait_type": "Occupation",
+        "value": "Athlete"
+      }
+    ],
+    "fee_recipient": "0xbd6b9a2C910F9bf50D9A6636C30597C58769EbCa",
+    "seller_fee_basis_points": 600
+  }
+}

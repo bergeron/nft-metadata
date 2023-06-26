@@ -1,0 +1,40 @@
+{
+  "address": "0x19d84ea6f2081ee5e120812b2bfeeaee498b4051",
+  "type": "ERC721",
+  "name": "UFish",
+  "tokenCount": "10",
+  "uri": "https://ufish.bione.live/api/tokenURI/1",
+  "metadata": {
+    "name": "Hyperoliidae",
+    "image": "http://qiniu.bione.store/fish/Hyperoliidae_014_07.gif",
+    "description": "Ufish is based on Ethereum's NFT collection!",
+    "external_url": "https://ufish.bione.live/",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "strength",
+        "value": 4
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Mutations",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "combination",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      }
+    ]
+  }
+}

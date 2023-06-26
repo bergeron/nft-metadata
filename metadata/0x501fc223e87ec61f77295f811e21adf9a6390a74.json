@@ -1,0 +1,60 @@
+{
+  "address": "0x501fc223e87ec61f77295f811e21adf9a6390a74",
+  "type": "ERC721",
+  "name": "Pepology",
+  "tokenCount": "115",
+  "uri": "ipfs://QmemtA4b9APJD3Fyj5cEmMa7c1WAFVtehBNnFW9gRGMwCv/1",
+  "metadata": {
+    "name": "Pepology #171",
+    "description": "Pepology brings to life a mesmerizing world filled with creativity, fun, and nostalgia, as Pepe takes on countless new adventures and forms..",
+    "image": "ipfs://QmRUyKFwKRCpJGBTKsuc26i8uSBzAUR6xLPJyCsxBj24Gk/1.gif",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://nftstorage.link/ipfs/bafybeieg37duf3zyrvqcy4mgrd2x7wwaqgzakl2vqqmsaaodo6h246khuu/171.gif",
+          "type": "image/gif"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x807eA7B21eA6369F531e3CB403767Bee3B2fF7ad",
+          "share": "100"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "species",
+        "value": "Pepologist"
+      },
+      {
+        "trait_type": "outfit",
+        "value": "Suit"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Tears"
+      },
+      {
+        "trait_type": "background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Headphones"
+      }
+    ],
+    "symbol": "PPLGY",
+    "seller_fee_basis_points": "500",
+    "collection": {
+      "name": "Pepologists",
+      "family": "Pepology"
+    }
+  }
+}

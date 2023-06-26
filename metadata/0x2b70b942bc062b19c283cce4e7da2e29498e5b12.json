@@ -1,0 +1,18 @@
+{
+  "address": "0x2b70b942bc062b19c283cce4e7da2e29498e5b12",
+  "type": "ERC721",
+  "name": "Spellbook of Genesis",
+  "tokenCount": "1",
+  "uri": "https://www.nannda.xyz/api/metadata/token/spellbook0/1",
+  "metadata": {
+    "name": "Spellbook of Genesis #1",
+    "description": "Holders of the Spellbook NFT can create a prophet NFT by summoning it.\nHolders of multiple prophet NFTs may also mint a new spellbook NFT by spending $NDT.\nSpellbook NFTs have multiple rarities, and the probability of a prophet NFT’s Class appearing varies depending on the rarity.",
+    "image": "https://www.nannda.xyz/resources/spellbook0.png",
+    "traits": [
+      {
+        "trait_type": "Spellbook",
+        "value": "Genesis"
+      }
+    ]
+  }
+}

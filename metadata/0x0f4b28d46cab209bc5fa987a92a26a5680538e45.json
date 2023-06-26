@@ -1,0 +1,39 @@
+{
+  "address": "0x0f4b28d46cab209bc5fa987a92a26a5680538e45",
+  "type": "ERC721",
+  "name": "Nonconformist Ducks",
+  "tokenCount": "10000",
+  "uri": "https://og.nonconformistducks.com/metadata/1",
+  "metadata": {
+    "id": "#1",
+    "image": "https://og.nonconformistducks.com/images/1.jpg",
+    "name": "Duck #1",
+    "description": "A collection of 10000 unique NONCONFORMIST DUCK NFTs living on the Ethereum blockchain.",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black TShirt"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Sad Red"
+      },
+      {
+        "trait_type": "Trait Count",
+        "value": "5"
+      }
+    ]
+  }
+}

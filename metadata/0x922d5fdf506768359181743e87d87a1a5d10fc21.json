@@ -1,0 +1,64 @@
+{
+  "address": "0x922d5fdf506768359181743e87d87a1a5d10fc21",
+  "type": "ERC721",
+  "name": "Your Daytime Fireworks by Cai Guo-Qiang",
+  "tokenCount": "5531",
+  "uri": "https://api.trlab.com/backend-go/api/v1/firework/metadata/1/1",
+  "metadata": {
+    "name": "Day 1 #1",
+    "description": "# *Your Daytime Fireworks* - Chapter 3\n\n*Your Daytime Fireworks* is an immersive NFT art experience from Chinese contemporary artist, Cai Guo-Qiang. The project dives into the Cai's world of daytime fireworks and follows the footsteps of the artist as virtual fireworks are set off across the globe under different weather conditions. The collection is community-driven: community members decide on when to reveal their fireworks, affecting the quantity of Daytime Fireworks minted at the end of each day.",
+    "image": "https://cdn.trlab.com/yourdaytimefireworks/79613dd87b4400c2317e4da17daee526b838ea7dc8d5a2adf95ccf9e94e91a92.png",
+    "animation_url": "https://cdn.trlab.com/yourdaytimefireworks/79613dd87b4400c2317e4da17daee526b838ea7dc8d5a2adf95ccf9e94e91a92.mp4",
+    "web_image": "https://cdn.trlab.com/yourdaytimefireworks/79613dd87b4400c2317e4da17daee526b838ea7dc8d5a2adf95ccf9e94e91a92.png",
+    "web_animation_url": "https://cdn.trlab.com/yourdaytimefireworks/79613dd87b4400c2317e4da17daee526b838ea7dc8d5a2adf95ccf9e94e91a92.mp4",
+    "external_url": "https://yourdaytimefireworks.trlab.com",
+    "revealed": true,
+    "fireDay": 1,
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Cai Guo-Qiang"
+      },
+      {
+        "trait_type": "Project",
+        "value": "Your Daytime Fireworks"
+      },
+      {
+        "trait_type": "Firework Status",
+        "value": "Revealed"
+      },
+      {
+        "trait_type": "Cailendar Day",
+        "value": "Day 1"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Sunny"
+      },
+      {
+        "trait_type": "Wind",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "China"
+      },
+      {
+        "trait_type": "Scale",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Mini Fan"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Event Date",
+        "value": "1/1"
+      }
+    ]
+  }
+}

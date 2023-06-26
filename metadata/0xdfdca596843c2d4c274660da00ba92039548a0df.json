@@ -1,0 +1,45 @@
+{
+  "address": "0xdfdca596843c2d4c274660da00ba92039548a0df",
+  "type": "ERC721",
+  "name": "The FighterHeart Founder's Club <DEFUNCT> - old",
+  "tokenCount": "2",
+  "uri": "https://fighterheart.infura-ipfs.io/ipfs/QmbLfs7vY4YRuywVvaXHEdwYa7D8mB7FwN6SxkuXG6EDw7/1.json",
+  "metadata": {
+    "name": "FighterHeart Founders Club #1",
+    "symbol": "FH",
+    "description": "FighterHeart Founders Club NFT",
+    "seller_fee_basis_points": 1000,
+    "image": "https://ipfs.infura.io/ipfs/QmSme7ix8mJiRyAnt2ihRRmvydcJP58VK9LYigCYV6WPJ2/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Athletes",
+        "value": "LorenzoBlue"
+      },
+      {
+        "trait_type": "Heart",
+        "value": "FighterHeart100"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png",
+          "image": "https://ipfs.infura.io/ipfs/QmSme7ix8mJiRyAnt2ihRRmvydcJP58VK9LYigCYV6WPJ2/1.png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "address": "0xf03116d9611b501e7c5cc0b0706023b94bece747",
+  "type": "ERC721",
+  "name": "Levantine",
+  "tokenCount": "15",
+  "uri": "https://levantine-nft.art/api/token/1",
+  "metadata": {
+    "name": "Levantine: #1",
+    "description": "Beautiful pieces inspired by the Levantine sea",
+    "tokenId": 1,
+    "image": "https://gateway.pinata.cloud/ipfs/QmX8vS6uNCKNmu1HMSstiuppAJskF4JrJPLMbfT7mRL3jd",
+    "external_url": "https://levantine-nft.art",
+    "attributes": [
+      {
+        "trait_type": "trait_base_size",
+        "value": "Size 5"
+      },
+      {
+        "trait_type": "trait_hue_delta",
+        "value": "Delta: 101"
+      },
+      {
+        "trait_type": "axis alignment",
+        "value": "axis_y"
+      },
+      {
+        "trait_type": "trait_constant_angle",
+        "value": "constant"
+      },
+      {
+        "trait_type": "trait_size_changes_with_rows",
+        "value": "no"
+      },
+      {
+        "trait_type": "trait_max_size_distortion",
+        "value": "Size mode 0"
+      },
+      {
+        "trait_type": "trait_equilatteral",
+        "value": "variable"
+      },
+      {
+        "trait_type": "trait_color_changes_with_rows",
+        "value": "no"
+      },
+      {
+        "trait_type": "trait_color_ratio_modulates",
+        "value": "yes"
+      }
+    ]
+  }
+}

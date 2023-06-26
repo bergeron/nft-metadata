@@ -1,0 +1,34 @@
+{
+  "address": "0x20afd338ae17b79f1c8ac36b4d4f16ec61d8647c",
+  "type": "ERC721",
+  "name": "MUSHEEZ",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmPggxZQ7A4R8VRLhUL6Zwoiq3CNK8PB49CeH4R3D3mZGp/1.json",
+  "metadata": {
+    "name": "Musheez #1",
+    "description": "Created by Denavy",
+    "image": "ipfs://QmQR7g61jvS5iiBLjbSmujdWNJMHe7xeCfBz23FYbTb9Nx/1.png",
+    "dna": "e9e326ec70f22d6b1aa47a597449f5ee0e4bf2b9",
+    "edition": 1,
+    "date": 1650901021522,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "sunsetcity"
+      },
+      {
+        "trait_type": "SKINS",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "rainbow"
+      },
+      {
+        "trait_type": "FACE",
+        "value": "sadglasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

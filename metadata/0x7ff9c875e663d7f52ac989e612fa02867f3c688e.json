@@ -1,0 +1,32 @@
+{
+  "address": "0x7ff9c875e663d7f52ac989e612fa02867f3c688e",
+  "type": "ERC721",
+  "name": "StekiBday",
+  "tokenCount": "50",
+  "uri": "ipfs://Qmcot8sBN1oAxGoMTEasETcLr15e4ayYZmwD25gSzHVrvr/1",
+  "metadata": {
+    "name": "StekiBday #1",
+    "description": "A cute collection of stekisteks.",
+    "image": "ipfs://QmUoeDE9RsD8rCX9A1ywDVpGxhiWKuZnFPpAHbqZVKz9sS/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "backgrounds",
+        "value": "Island boy"
+      },
+      {
+        "trait_type": "shorts",
+        "value": "Colobo"
+      },
+      {
+        "trait_type": "tops",
+        "value": "steki"
+      },
+      {
+        "trait_type": "hats",
+        "value": "metadrag"
+      }
+    ],
+    "compiler": "shoeguy.eth"
+  }
+}

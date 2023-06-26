@@ -1,0 +1,46 @@
+{
+  "address": "0xeb39402ef66a9f1668083ab2ca06421d84ac8968",
+  "type": "ERC721",
+  "name": "Lil Brickz",
+  "tokenCount": "47",
+  "uri": "https://bafybeier3co6lm6vjmsp476x63xmdbnver4yl2uv47kujzsojoptx7revq.ipfs.w3s.link/1.json",
+  "metadata": {
+    "name": "Lil Brick #1",
+    "description": "Lil Brickz is a Lil Nouns derivative collection, with traits inspired by, and based on LEGO pieces you know and love. Every trait is equally rare and every bit of artwork is CC0 licensed. Cool pixels are only half of the project — every 5 Lil Brickz sold will fund turning 1 Lil Noun into LEGO form complete with instructions by the amazing builder, TheOrangeBrick! #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cool"
+      },
+      {
+        "trait_type": "Body",
+        "value": "white"
+      },
+      {
+        "trait_type": "Accesory",
+        "value": "vest"
+      },
+      {
+        "trait_type": "Head",
+        "value": "frog-green"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "white-eyes-blue"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x3CEb1AE4796f6A9BcD825841a6C86e1cE17B46A4",
+        "share": 100
+      }
+    ],
+    "collection": {
+      "name": "Lil Brickz",
+      "family": ""
+    },
+    "symbol": "LILBZ",
+    "seller_fee_basis_points": 1.5,
+    "image": "https://bafybeie3t2nvjmlzuqdaamlr75ucttqztpjsv4qztusx5nya24wedbpaoy.ipfs.w3s.link/1.png"
+  }
+}

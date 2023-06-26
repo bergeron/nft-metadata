@@ -1,0 +1,27 @@
+{
+  "address": "0x6bf7835eccb7ea74bbd816aad6ea6215a51e8d35",
+  "type": "ERC721",
+  "name": "Shiny Feathers",
+  "tokenCount": "1000",
+  "uri": "https://storage.shinyobjects.gg/feathers/metadata/1",
+  "metadata": {
+    "name": "Shiny Object - Feather #0001",
+    "description": "Meet Shiny Object #1: The Feather.",
+    "image": "https://storage.shinyobjects.gg/feathers/images/metal.png",
+    "animation_url": "https://storage.shinyobjects.gg/feathers/videos/metal.mp4",
+    "attributes": [
+      {
+        "trait_type": "Object",
+        "value": "Feather"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Material",
+        "value": "Metal"
+      }
+    ]
+  }
+}

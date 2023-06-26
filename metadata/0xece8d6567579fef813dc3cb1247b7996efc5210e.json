@@ -1,0 +1,26 @@
+{
+  "address": "0xece8d6567579fef813dc3cb1247b7996efc5210e",
+  "type": "ERC721",
+  "name": "Lucky Bunny Club",
+  "tokenCount": "3",
+  "uri": "http://18.117.138.57:2000/nft/1",
+  "metadata": {
+    "name": "BunnyAngel",
+    "description": "Lucky Bunny NFTs are hand drawn, unique digital collectibles on the ethereum blockchain",
+    "image": "https://res.cloudinary.com/jazzynft/image/upload/v1636753919/k6lswmri14old0qqiiem.jpg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "FurColour",
+        "value": "White"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Halo"
+      }
+    ]
+  }
+}

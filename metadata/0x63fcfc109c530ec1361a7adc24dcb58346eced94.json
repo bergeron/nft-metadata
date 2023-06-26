@@ -1,0 +1,27 @@
+{
+  "address": "0x63fcfc109c530ec1361a7adc24dcb58346eced94",
+  "type": "ERC721",
+  "name": "NFTvGenesisBox",
+  "tokenCount": "4751",
+  "uri": "https://api.nftv.social/box/metadata/1",
+  "metadata": {
+    "attributes": [
+      {
+        "value": "1",
+        "trait_type": "Phase"
+      },
+      {
+        "trait_type": "Creator",
+        "value": "NFTV.social"
+      },
+      {
+        "trait_type": "Name",
+        "value": "NFTV Genesis Box"
+      }
+    ],
+    "description": "NFTV Genesis Box is the key to NFTV's socialfi platform and beyond. Owning a Genesis Box gives you the rights to burn and reveal a Panda NFT. This Panda NFT is a exclusive membership pass to all NFTV's platform and perks such as phygital airdrops.",
+    "image": "https://nftv-storage.s3.ap-southeast-1.amazonaws.com/NFTvGenesisBox.gif",
+    "tokenId": "1",
+    "name": "NFTV Genesis Box"
+  }
+}

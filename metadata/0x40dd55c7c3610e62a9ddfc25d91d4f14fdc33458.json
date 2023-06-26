@@ -1,0 +1,40 @@
+{
+  "address": "0x40dd55c7c3610e62a9ddfc25d91d4f14fdc33458",
+  "type": "ERC721",
+  "name": "WorldcupChampion - old V4",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeif326ypchbquf4buxxdshg33qvagyrlx2s54oskkzh4cb76zn6jnu/1.json",
+  "metadata": {
+    "name": "Croatia13",
+    "description": "WorldcupChampion is a collection of 7290  jersey NFTs unlocking access to the Worldcup2022 betting game. Holders can carve up bonus pool as the game proceeds.",
+    "external_url": "https://worldcupchampion.xyz/",
+    "image": "ipfs://bafybeifcfejhkcrytr7pj3y6w447rqo4vqoxu6vxmxxgznasg7r3fsvaxi/51.png",
+    "attributes": [
+      {
+        "trait_type": "Country",
+        "value": "Croatia"
+      },
+      {
+        "trait_type": "Number",
+        "value": "13"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "51.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "WorldcupChampion",
+      "family": "WorldCup Jersey"
+    },
+    "symbol": ""
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "address": "0x75476a63e5cd525465a2c9c433be6b143617c521",
+  "type": "ERC721",
+  "name": "Test Contact Card",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=yrnVDEA2NTl8CuDPLijm",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1580950663521?alt=media&token=3808b72c-a6a8-4800-b256-2af313a77ae1",
+    "forSale": true,
+    "contractAddress": "0x75476a63e5cd525465a2c9c433be6b143617c521",
+    "description": "Hello! I would like to buy one of your Axies! Please send me an email brennenjgwilson@gmail.com  and we can make a deal!\n\nThis is a Test Contact Card used to  make a token containing  the contact information of the sender visible  in the wallets of  holding tokens of interest to the sender. Please respond to the senders email if you are interested, thanks!",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1580951921,
+      "_nanoseconds": 571000000
+    },
+    "price": ".001",
+    "name": "Brennen Wilson brennenjgwilson@gmail.com 0xd693340a27908fC73C14739CF36ED2541446275d",
+    "fiatPrice": "$0.20",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "image",
+        "value": "https://brennenwilson.sfo2.digitaloceanspaces.com/BCC.png"
+      },
+      {
+        "trait_type": "imag",
+        "value": "https://brennenwilson.sfo2.digitaloceanspaces.com/BCC.png"
+      },
+      {
+        "trait_type": "ima",
+        "value": "https://brennenwilson.sfo2.digitaloceanspaces.com/BCC.png"
+      },
+      {
+        "trait_type": "im",
+        "value": "https://brennenwilson.sfo2.digitaloceanspaces.com/BCC.png"
+      },
+      {
+        "trait_type": "i",
+        "value": "https://brennenwilson.sfo2.digitaloceanspaces.com/BCC.png"
+      },
+      {
+        "trait_type": "",
+        "value": "https://brennenwilson.sfo2.digitaloceanspaces.com/BCC.png"
+      },
+      {
+        "trait_type": "website",
+        "value": "brennenjgwilson@gmail.com "
+      },
+      {
+        "trait_type": "\"image\"",
+        "value": "\"https://brennenwilson.sfo2.digitaloceanspaces.com/BCC.png\""
+      },
+      {
+        "trait_type": "\"image",
+        "value": ""
+      },
+      {
+        "trait_type": "\"imag",
+        "value": ""
+      },
+      {
+        "trait_type": "\"ima",
+        "value": ""
+      },
+      {
+        "trait_type": "\"im",
+        "value": ""
+      },
+      {
+        "trait_type": "\"i",
+        "value": ""
+      },
+      {
+        "trait_type": "\"",
+        "value": ""
+      }
+    ],
+    "external_url": "https://mintbase.io/my-market/0x75476a63e5cd525465a2c9c433be6b143617c521",
+    "type": "ERC721"
+  }
+}

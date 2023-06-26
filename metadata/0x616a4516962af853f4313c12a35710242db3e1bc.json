@@ -1,0 +1,33 @@
+{
+  "address": "0x616a4516962af853f4313c12a35710242db3e1bc",
+  "type": "ERC721",
+  "name": "ZooWarsNFT",
+  "tokenCount": "11",
+  "uri": "ipfs://QmY4yHxFuWEPfYKgQrNtikka5oj7NqnsyUWd8WyCwkBYk6/1.json",
+  "metadata": {
+    "name": "Zoo Wars #1",
+    "description": "May the force be with you",
+    "image": "ipfs://QmTtqc4LoKHPkDRHVC7u2L1ZEgFb2FRELbs9qPKzUtBPte/1.png",
+    "dna": "3c71cbb4edfba4ead025f34e497324654e82e925",
+    "edition": 1,
+    "date": 1651551144819,
+    "attributes": [
+      {
+        "trait_type": "backgrounds",
+        "value": "forest"
+      },
+      {
+        "trait_type": "animals",
+        "value": "lion"
+      },
+      {
+        "trait_type": "outerwear",
+        "value": "beige cloak"
+      },
+      {
+        "trait_type": "weapons",
+        "value": "gun yellow"
+      }
+    ]
+  }
+}

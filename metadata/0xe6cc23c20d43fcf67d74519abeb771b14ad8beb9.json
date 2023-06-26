@@ -1,0 +1,57 @@
+{
+  "address": "0xe6cc23c20d43fcf67d74519abeb771b14ad8beb9",
+  "type": "ERC721",
+  "name": "DOGGONFT",
+  "tokenCount": "108",
+  "uri": "https://imgcdn.doggo-nfts.com/json/1.json",
+  "metadata": {
+    "name": "Doggo NFT #2",
+    "description": "",
+    "external_url": "https://doggo-nfts.com",
+    "image": "https://imgcdn.doggo-nfts.com/images/2.webp",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "LightBrown"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sienna"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "Chihuahua"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Flame"
+      },
+      {
+        "trait_type": "Eyes Accessories",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body Accessories",
+        "value": "PolkaDot"
+      },
+      {
+        "trait_type": "Head Accessories",
+        "value": "Cowboy"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "Blow"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "2.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

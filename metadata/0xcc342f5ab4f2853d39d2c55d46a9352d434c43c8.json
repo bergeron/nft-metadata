@@ -1,0 +1,33 @@
+{
+  "address": "0xcc342f5ab4f2853d39d2c55d46a9352d434c43c8",
+  "type": "ERC721",
+  "name": "Noodle-Doodles",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeiceh52izspqknlpkt2ssxiz57nqhryysw2uktktxzfde2nuxbbzca/1.json",
+  "metadata": {
+    "name": "Noodle-Doodles #1",
+    "description": "5000 Noodle Doodles invade the Metaverse, depleting all noodle supplies.",
+    "external_url": "",
+    "image": "ipfs://bafybeifnp3zoftdch5p2n4gezmelzra5hfo5pza3v7sk52ebmk4xeezyxe/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "13"
+      },
+      {
+        "trait_type": "Foreground",
+        "value": "101"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://the-nft-generator.com"
+  }
+}

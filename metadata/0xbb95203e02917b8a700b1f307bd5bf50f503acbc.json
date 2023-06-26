@@ -1,0 +1,16 @@
+{
+  "address": "0xbb95203e02917b8a700b1f307bd5bf50f503acbc",
+  "type": "ERC721",
+  "name": "sd_zorb",
+  "tokenCount": "2",
+  "uri": "data:application/json;base64,eyJuYW1lIjogInNkX3pvcmIgMSIsICJkZXNjcmlwdGlvbiI6ICJpbiBjZWxlYnJhdGlvbiBvZiBjby1jcmVhdGl2aXR5XG5cbndpdGggdGhlIGFzc2lzdGFuY2Ugb2YgYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2VcblxudGhpcyBab3JiIHdhcyBnZW5lcmF0ZWQgd2l0aCBhIGN1c3RvbSBidWlsZCBvZiBTdGFibGUgRGlmZnVzaW9uXG5cbmJyb3VnaHQgaW50byBleGlzdGVuY2Ugd2l0aCB0aGUgZm9sbG93aW5nIGluY2FudGF0aW9uOlxuXG5weXRob24gc2NyaXB0cy90eHQyaW1nLnB5IC0tcHJvbXB0IFwiYW4gaW1hZ2Ugb2YgYSBwZXJmZWN0IHNwaGVyZSwgd2hpY2ggcmVwcmVzZW50cyB0aGUgbWF0aGVtYXRpY2FsIGNvbmNlcHQgb2YgcGVyZmVjdGlvbi5cIiAtLW5fc2FtcGxlcyAxIC0tbl9pdGVyIDMgLS1zY2FsZSAyMCAtLXBsbXMiLCAiaW1hZ2UiOiAiaXBmczovL2JhZmtyZWlibGFwZXQzNm5ibjI2YzZzNXMydWNkbnRwdDVqZ2EzcnRqeXc0M29ldmVyeXNtZzY0NGN1P2lkPTEiLCAicHJvcGVydGllcyI6IHsibnVtYmVyIjogMSwgIm5hbWUiOiAic2Rfem9yYiJ9fQ==",
+  "metadata": {
+    "name": "sd_zorb 1",
+    "description": "in celebration of co-creativity\n\nwith the assistance of artificial intelligence\n\nthis Zorb was generated with a custom build of Stable Diffusion\n\nbrought into existence with the following incantation:\n\npython scripts/txt2img.py --prompt \"an image of a perfect sphere, which represents the mathematical concept of perfection.\" --n_samples 1 --n_iter 3 --scale 20 --plms",
+    "image": "ipfs://bafkreiblapet36nbn26c6s5s2ucdntpt5jga3rtjyw43oeverysmg644cu?id=1",
+    "properties": {
+      "number": 1,
+      "name": "sd_zorb"
+    }
+  }
+}

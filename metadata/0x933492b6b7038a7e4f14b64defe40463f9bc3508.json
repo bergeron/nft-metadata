@@ -1,0 +1,45 @@
+{
+  "address": "0x933492b6b7038a7e4f14b64defe40463f9bc3508",
+  "type": "ERC721",
+  "name": "Defi Passport",
+  "tokenCount": "1640",
+  "uri": "https://api.arcx.money/skins/arcx/og/1",
+  "metadata": {
+    "title": "ARCx OG",
+    "type": "object",
+    "properties": {
+      "group": {
+        "type": "string",
+        "description": "arcx"
+      },
+      "description": {
+        "type": "string",
+        "description": "Limited edition NFT given to ARCx early adopters."
+      },
+      "image": {
+        "type": "string",
+        "description": "https://api.arcx.money/skins/image/arcx/og"
+      },
+      "name": {
+        "type": "string",
+        "description": "og"
+      },
+      "contract": {
+        "type": "string",
+        "description": "0x933492b6B7038A7e4f14b64DEFe40463F9bc3508"
+      },
+      "videoUrl": {
+        "type": "string",
+        "description": "https://api.arcx.money/skins/video/arcx/og"
+      },
+      "chainid": {
+        "type": "string",
+        "description": "1"
+      }
+    },
+    "description": "Limited edition NFT given to ARCx early adopters.",
+    "external_url": "https://arcx.money/",
+    "name": "ARCx OG",
+    "animation_url": "https://api.arcx.money/skins/video/arcx/og"
+  }
+}

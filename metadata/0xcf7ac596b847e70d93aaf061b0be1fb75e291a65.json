@@ -1,0 +1,32 @@
+{
+  "address": "0xcf7ac596b847e70d93aaf061b0be1fb75e291a65",
+  "type": "ERC721",
+  "name": "ESTATEs of ShareBlock World",
+  "tokenCount": "5",
+  "uri": "https://openapi.shareblock.world/estates/1",
+  "metadata": {
+    "description": "ESTATE is several blocks that have been merged into a large parcel. There are four types of ESTATEs in ShareBlock NFT metaverse, coming in sizes of 3x3, 6x6, 12x12, 24x24.",
+    "external_url": "https://openapi.shareblock.world/v1/shop/product_detail/estate/1/",
+    "image": "https://shareblock.world/pic/land/-24*36.png",
+    "name": "ESTATE of ShareBlock (-24, 36)",
+    "properties": [
+      {
+        "display_type": "number",
+        "max_value": 432,
+        "trait_type": "Estate X",
+        "value": -24
+      },
+      {
+        "display_type": "number",
+        "max_value": 432,
+        "trait_type": "Estate Y",
+        "value": 36
+      }
+    ],
+    "shareblock": {
+      "description": "Description: This parcel is a estate of ShareBlock located in (-24, 36) in the ShareBlock NFT metaverse. For more details: https://shareblock.world/#/",
+      "image": "https://shareblock.world/land_preview/11b54e5a88a2d28e.jpeg",
+      "name": "-24, 36"
+    }
+  }
+}

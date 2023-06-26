@@ -1,0 +1,31 @@
+{
+  "address": "0xc9d67dd90dbac44e3f0a511d986bcba1155c4631",
+  "type": "ERC721",
+  "name": "Halborn Hall of Fame",
+  "tokenCount": "1",
+  "uri": "https://halborn.mypinata.cloud/ipfs/QmY4gVieZbQY4tfSC3iAxUaiSaqycmC9oHNibh5g3Dt1iA",
+  "metadata": {
+    "description": "Halborn Hall of Fame is a collection of NFTs representing multiple bugs/exploits that were found by Halborn engineers during their assesments. During the ETHCC 2021, the Halborn team sat in a hotel room and started sharing some of the recent vulnerabilities found by the different team members. One of the vulnerabilities found, quickly caught the team attention. This vulnerability was that an attacker could access the mnemonic phrase of a crypto wallet as it was being saved in memory. After a little discussion the team decided to check if this vulnerability was present in other well known wallets. This led to the finding of the CVE-2022-32969 in Metamask.\n\nhttps://nvd.nist.gov/vuln/detail/CVE-2022-32969\n\nhttps://halborn.com/disclosures/demonic-vulnerability/",
+    "external_url": "https://halborn.com/disclosures/demonic-vulnerability/",
+    "image": "https://halborn.mypinata.cloud/ipfs/QmQqge2xfDjJ7waxvYTbUWWXHqZ2bNXj5ae24TqM9N4xrS",
+    "name": "CVE-2022-32969: Metamask Mnemonic Phrase disclosure",
+    "attributes": [
+      {
+        "trait_type": "Technology",
+        "value": "Wallet"
+      },
+      {
+        "trait_type": "Hacker name",
+        "value": "Halborn team"
+      },
+      {
+        "trait_type": "Customer name",
+        "value": "-"
+      },
+      {
+        "trait_type": "Date discovered",
+        "value": "06/29/2022"
+      }
+    ]
+  }
+}

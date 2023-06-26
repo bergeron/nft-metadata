@@ -1,0 +1,67 @@
+{
+  "address": "0x023188bebcf779c0303020e9d339c64a739b0911",
+  "type": "ERC721",
+  "name": "NATURAE V2",
+  "tokenCount": "11",
+  "uri": "https://ipfs.pixura.io/ipfs/QmWGi6xBAfkTcYG6ousYrteasX5dLK8APXFNpR4vhaYsSg/metadata.json",
+  "metadata": {
+    "name": "Tamias striatus",
+    "createdBy": "Keegan Ead",
+    "yearCreated": "2021",
+    "description": "Eastern chipmunk caught trespassing by a cat in my backyard.  Rescued and released after a quick photoshoot.",
+    "image": "https://ipfs.pixura.io/ipfs/QmZ5TG68ZP5RTkbqhUTE1kS2TuwrjsonrUbkFU3EQmtyVr/01-Tamiasstriatus-Chipmunk-2464x2464.png",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmZ5TG68ZP5RTkbqhUTE1kS2TuwrjsonrUbkFU3EQmtyVr/01-Tamiasstriatus-Chipmunk-2464x2464.png",
+      "dimensions": "2464x2464",
+      "size": "10054468",
+      "mimeType": "image/png"
+    },
+    "tags": [
+      "chimpunk",
+      "animal",
+      "nature",
+      "photography",
+      "specimen",
+      "wild",
+      "hand"
+    ],
+    "attributes": [
+      {
+        "trait_type": "Kingdom",
+        "value": "Animalia"
+      },
+      {
+        "trait_type": "Phylum",
+        "value": "Chordata"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Mammalia"
+      },
+      {
+        "trait_type": "Order",
+        "value": "Rodentia"
+      },
+      {
+        "trait_type": "Family",
+        "value": "Sciuridae"
+      },
+      {
+        "trait_type": "Continent",
+        "value": "North America"
+      },
+      {
+        "trait_type": "Region",
+        "value": "Eastern"
+      },
+      {
+        "trait_type": "Conservation Status",
+        "value": "Least Concern"
+      },
+      {
+        "trait_type": "Biome Habitat",
+        "value": "Woodland"
+      }
+    ]
+  }
+}

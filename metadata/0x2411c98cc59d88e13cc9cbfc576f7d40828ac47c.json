@@ -1,0 +1,39 @@
+{
+  "address": "0x2411c98cc59d88e13cc9cbfc576f7d40828ac47c",
+  "type": "ERC1155",
+  "name": "NameWrapper",
+  "tokenCount": "42",
+  "uri": "https://bdns-metadata.space/mainnet/0x2411c98cc59d88e13cc9cbfc576f7d40828ac47c/1",
+  "metadata": {
+    "message": {
+      "is_normalized": true,
+      "name": "unknown.name",
+      "description": "Unknown ENS name",
+      "attributes": [
+        {
+          "trait_type": "Created Date",
+          "display_type": "date",
+          "value": 1580346653000000
+        },
+        {
+          "trait_type": "Length",
+          "display_type": "number",
+          "value": 12
+        },
+        {
+          "trait_type": "Segment Length",
+          "display_type": "number",
+          "value": 12
+        },
+        {
+          "trait_type": "Character Set",
+          "display_type": "string",
+          "value": "mixed"
+        }
+      ],
+      "name_length": 12,
+      "segment_length": 12,
+      "version": 0
+    }
+  }
+}

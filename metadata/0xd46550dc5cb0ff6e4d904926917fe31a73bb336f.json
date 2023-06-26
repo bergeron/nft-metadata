@@ -1,0 +1,23 @@
+{
+  "address": "0xd46550dc5cb0ff6e4d904926917fe31a73bb336f",
+  "type": "ERC721",
+  "name": "Cool Monkes Boosters",
+  "tokenCount": "10000",
+  "uri": "https://www.coolmonkes.io/api/metadata/boost/1",
+  "metadata": {
+    "name": "Cool Monke Boost #1",
+    "description": "🐒 Cool Monke Boost, get your Monke all pumped up! 🐒",
+    "image": "https://coolmonkes.io/api/boosts/1",
+    "external_url": "https://coolmonkes.io/api/boosts/1",
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": 4
+      },
+      {
+        "trait_type": "Name",
+        "value": "Enchanted Forest"
+      }
+    ]
+  }
+}

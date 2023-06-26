@@ -1,0 +1,31 @@
+{
+  "address": "0x0ba0767958e87ae9fd9d6fb72639d8f1798bbf12",
+  "type": "ERC721",
+  "name": "Photographs Collection MB",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/g2RMhQy8IWlcQhhsQTPTRIxdyOqrCiomCxV5gQaEhAc",
+  "metadata": {
+    "name": "New York #1",
+    "created_by": "Michael B",
+    "description": "Central Park 10/22",
+    "attributes": [
+      {
+        "trait_type": "City",
+        "value": "New York"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Central Park"
+      }
+    ],
+    "image_details": {
+      "bytes": 199619,
+      "format": "JPEG",
+      "sha256": "797de09fd67b815cfbf2984fc7f723a3a509e930093ffd6ec545885ec600b042",
+      "width": 1150,
+      "height": 1245
+    },
+    "image": "https://arweave.net/3KbCgfuR48pQrlpjy-GUmAeG6Qj5GvtXPz6OLigMUBo",
+    "image_url": "https://arweave.net/3KbCgfuR48pQrlpjy-GUmAeG6Qj5GvtXPz6OLigMUBo"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "address": "0x60bb1e2aa1c9acafb4d34f71585d7e959f387769",
+  "type": "ERC721",
+  "name": "Art Gobblers",
+  "tokenCount": "3822",
+  "uri": "https://nfts.artgobblers.com/api/gobblers/7650",
+  "metadata": {
+    "minted": true,
+    "revealed": true,
+    "external_url": "https://artgobblers.com/gobbler/7650",
+    "name": "Art Gobbler 7650 – Gooberbop Kwonk-Yip",
+    "description": "Gooberbop Kwonk-Yip gobbles art and squirts Goo.",
+    "image": "https://storage.googleapis.com/gobblers.artgobblers.com/gifs/7650.gif",
+    "background_color": "D10000",
+    "attributes": [
+      {
+        "trait_type": "Multiplier",
+        "value": 8,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Random Id",
+        "value": 7650,
+        "display_type": "number"
+      },
+      {
+        "value": "Sunburst",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Torso",
+        "trait_type": "Torso"
+      },
+      {
+        "value": "Clown",
+        "trait_type": "Hat"
+      },
+      {
+        "value": "Scribble",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "Kodomo",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": "Claw Glove",
+        "trait_type": "Left hand"
+      },
+      {
+        "value": "Circular Saw",
+        "trait_type": "Right hand"
+      },
+      {
+        "value": "Sexy Heel",
+        "trait_type": "Left foot"
+      },
+      {
+        "value": "Base Right Leg",
+        "trait_type": "Right foot"
+      },
+      {
+        "value": "Orange",
+        "trait_type": "Palette"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "address": "0xa956ed355f7bb2df7eb230194a03acbb8dccd0a0",
+  "type": "ERC721",
+  "name": "Dooggies Frens",
+  "tokenCount": "61",
+  "uri": "ipfs://QmTNSoyUv9HVpGErsZAFwM2a58MsCGxF4K13BfsdYMKuzw/1.json",
+  "metadata": {
+    "name": "Dooggies Frens #1",
+    "description": "One of ten Skullified Dooggies within the Dooggies Frens collection",
+    "image": "ipfs://QmfE1dGfK6FCr1JTcgcBesXqkd8FcAsN3eWoTGQQ7AYXUB/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Scar",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Base Collection",
+        "value": "Dooggies"
+      }
+    ],
+    "compiler": "PACK"
+  }
+}

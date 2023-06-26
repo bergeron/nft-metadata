@@ -1,0 +1,50 @@
+{
+  "address": "0x79d2d0eb61bc3c1e85da14187785cfbacc4e5dd7",
+  "type": "ERC721",
+  "name": "The Poopies",
+  "tokenCount": "3318",
+  "uri": "ipfs://bafybeihidfs6pvtiiwk3rdipyxxkfj2ckhwcn3vepqna66yi5wlkiuavle/1.json",
+  "metadata": {
+    "name": "Poopie #1",
+    "description": "Dig it out floor it down",
+    "image": "ipfs://bafybeibj7mp334uqdibjoluc3wq66mgtfdcpxxsozk244for7kbxlkqkgi/1.png",
+    "dna": "147d6c7726d4d4951e6f563b14d7a6a371270a50",
+    "edition": 1,
+    "date": 1679252995569,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "DarkMatterBG"
+      },
+      {
+        "trait_type": "Bodies",
+        "value": "PaleB"
+      },
+      {
+        "trait_type": "Undies",
+        "value": "TheChristmas"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "TacticalP"
+      },
+      {
+        "trait_type": "Pocket",
+        "value": "TheCigarettes"
+      },
+      {
+        "trait_type": "Shirts",
+        "value": "UglyS"
+      },
+      {
+        "trait_type": "Paper",
+        "value": "CheckedBeforeExiting"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Scepter"
+      }
+    ],
+    "compiler": "Poopies"
+  }
+}

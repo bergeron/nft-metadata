@@ -1,0 +1,41 @@
+{
+  "address": "0xaa2c8c47d3e46fb63d57536a08648843c73e7e8d",
+  "type": "ERC721",
+  "name": "POP by WARHOL",
+  "tokenCount": "333",
+  "uri": "ipfs://QmdwwTPoNQDTebjidUhZAy7QrJp2PD6HcvXj6Etked9m3v/1.json",
+  "metadata": {
+    "name": "POP by WARHOL #1",
+    "description": "Pop art built for web3. I am WARHOL. An artist and POP will grant you access to future art drops!",
+    "image": "ipfs://QmfNdrULeiQ8Vb86PmSbB9Mtgj9nxEXnp9esWNAouPsrCk/1.png",
+    "edition": 1,
+    "date": 1670295524536,
+    "attributes": [
+      {
+        "trait_type": "Expression",
+        "value": "Dense"
+      },
+      {
+        "trait_type": "Focal Range",
+        "value": "40mm"
+      },
+      {
+        "trait_type": "Form",
+        "value": "Clarity"
+      },
+      {
+        "trait_type": "Lab",
+        "value": "07"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Shade",
+        "value": "Passive"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

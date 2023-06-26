@@ -1,0 +1,36 @@
+{
+  "address": "0xb43398fbd978d76aadad3c70cc7793ce1b31b879",
+  "type": "ERC1155",
+  "name": "Mis Dergi",
+  "tokenCount": "1",
+  "uri": "https://misdergi.nftapi.art/meta/1",
+  "metadata": {
+    "token_id": 1,
+    "dna": "1",
+    "name": "Mis Dergi #1",
+    "description": "Tam sayfa okumak ve cizer bilgileri icin: \r\nhttps://www.misdergi.com/\r\n\r\nFull page view and artist info:\r\nhttps://www.misdergi.com/",
+    "image": "https://ipfs.io/ipfs/QmT7vCLNQfsDL6wxMhU2raQR1R2f5v4gEboN8QmWxUEv9o",
+    "animation_url": "https://heyzine.com/flip-book/misdergi1.html",
+    "media": [],
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0xF4617b57ad853f4Bc2Ce3f06C0D74958c240633c",
+    "attributes": [
+      {
+        "value": "1",
+        "trait_type": "Edition"
+      },
+      {
+        "value": "2022",
+        "trait_type": "Year"
+      },
+      {
+        "value": "04",
+        "trait_type": "Month"
+      },
+      {
+        "value": "https://heyzine.com/flip-book/ef7def066c.html",
+        "trait_type": "magazine_url"
+      }
+    ]
+  }
+}

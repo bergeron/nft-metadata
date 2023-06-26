@@ -1,0 +1,53 @@
+{
+  "address": "0xbe1eb072c7480eef7992e2ce235f4708f0c98861",
+  "type": "ERC721",
+  "name": "Tiger Does Design",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/XU3-zZat4lQJzSlRcdIF-ypLk9nrCBr0QHjjIgwDQKY",
+  "metadata": {
+    "name": "Contemplation",
+    "created_by": "TigerDoesDesign",
+    "description": "Contemplation is a calming piece based on self-reflection. As you walk from plinth to plinth across the water you're forced to look down to ensure a dry journey, while forcing you to stare down at your own reflection with each step.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "TigerDoesDesign"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "TDD 1/1's"
+      },
+      {
+        "trait_type": "Format",
+        "value": "MP4"
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "2160x3840px"
+      }
+    ],
+    "animation_details": {
+      "bytes": 125912243,
+      "format": "MP4",
+      "duration": 33,
+      "sha256": "a17fd30fc641d0258be15def895fea523a046612270329065d02f221b63f0e2d",
+      "width": 2160,
+      "height": 3840,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/RMyRKT9U-jlxs-GFnTbNVwTmaST8PcyUGkWEnu0Q3dA",
+    "animation_url": "https://arweave.net/RMyRKT9U-jlxs-GFnTbNVwTmaST8PcyUGkWEnu0Q3dA",
+    "image_details": {
+      "bytes": 104786142,
+      "format": "GIF",
+      "sha256": "6c7b27fa9a967c5d87cd8fb1dbb3074b414e4977de1f030b628ae9f524cefef8",
+      "width": 500,
+      "height": 889
+    },
+    "image": "https://arweave.net/VQRp7hRNfx0k7f_3O-1rGI2UxxCSDau53lCWdgVlu-c",
+    "image_url": "https://arweave.net/VQRp7hRNfx0k7f_3O-1rGI2UxxCSDau53lCWdgVlu-c"
+  }
+}

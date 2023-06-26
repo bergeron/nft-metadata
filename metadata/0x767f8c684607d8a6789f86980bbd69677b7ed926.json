@@ -1,0 +1,39 @@
+{
+  "address": "0x767f8c684607d8a6789f86980bbd69677b7ed926",
+  "type": "ERC721",
+  "name": "Number Claims",
+  "tokenCount": "14",
+  "uri": "https://number.claims/api/1",
+  "metadata": {
+    "name": "1",
+    "description": "Universally denotes superiority over and above the rest",
+    "external_url": "https://number.claims/1",
+    "image": "https://number.claims/api/image/1",
+    "attributes": [
+      {
+        "value": "Odd"
+      },
+      {
+        "value": "Fibonacci"
+      },
+      {
+        "value": "Power of two"
+      },
+      {
+        "value": "Harshad"
+      },
+      {
+        "trait_type": "Factors",
+        "value": "1"
+      },
+      {
+        "trait_type": "Binary",
+        "value": "1"
+      },
+      {
+        "trait_type": "Hexadecimal",
+        "value": "1"
+      }
+    ]
+  }
+}

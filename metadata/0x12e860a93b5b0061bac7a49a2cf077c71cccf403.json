@@ -1,0 +1,48 @@
+{
+  "address": "0x12e860a93b5b0061bac7a49a2cf077c71cccf403",
+  "type": "ERC721",
+  "name": "TinyTails",
+  "tokenCount": "5000",
+  "uri": "ipfs://bafybeicqdwajoivymzdi2rvt7wzht4apu7fagz5x247qclbwzjwt7eniye/1.json",
+  "metadata": {
+    "name": "Tiny Tails#1",
+    "description": "A collection of Virtual Pets.",
+    "external_url": "https://www.tinytails.io/",
+    "image": "ipfs://QmY1qg3SUW291HbhWNXm4bnNSqcxNRbvggsDHUAAUAjWu4/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Animal",
+        "value": "Crocodile"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Striped Tee"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Item",
+        "value": "Candyfloss"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

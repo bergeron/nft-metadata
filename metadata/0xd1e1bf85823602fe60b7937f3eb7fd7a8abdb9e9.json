@@ -1,0 +1,35 @@
+{
+  "address": "0xd1e1bf85823602fe60b7937f3eb7fd7a8abdb9e9",
+  "type": "ERC721",
+  "name": "0xAI CryptoMaze",
+  "tokenCount": "1000",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmZQmUHD1MvDJUHrv77RhBEvUuoMuospqGVbQoKkLKJCT5/1",
+  "metadata": {
+    "name": "CryptoMaze #1",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcrCtGwuHS99aeWbsVDRtfxCGko1mYa6rAzH9mj6UewUD/1.png",
+    "description": "1,000 Randomly Generated Mazes JavaScript & AI on Ethereum",
+    "attributes": [
+      {
+        "trait_type": "Spacing",
+        "value": "69"
+      },
+      {
+        "trait_type": "Wall Width",
+        "value": "5"
+      },
+      {
+        "trait_type": "Chance",
+        "value": "8"
+      },
+      {
+        "trait_type": "True Color",
+        "value": "false"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 1
+      }
+    ]
+  }
+}

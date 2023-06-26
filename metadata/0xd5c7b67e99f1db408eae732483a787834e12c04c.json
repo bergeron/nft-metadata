@@ -1,0 +1,64 @@
+{
+  "address": "0xd5c7b67e99f1db408eae732483a787834e12c04c",
+  "type": "ERC721",
+  "name": "Brilliant Yaks - old",
+  "tokenCount": "6",
+  "uri": "ipfs://QmRj7xLdRY85s3uJiVjVuvziFCm1WGiotTC9gb9okURqam/1.json",
+  "metadata": {
+    "name": "Brilliant Yak #1",
+    "description": "The Most Brilliant Yaks On The Blockchain!",
+    "external_url": "https://www.brilliantyaks.com",
+    "image": "https://brilliantyaks.mypinata.cloud/ipfs/QmPTcZqKHihupiV4spX9mGvKGXTvH5pb2EfP37yDZMj3Aw/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Tuxedo"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "None"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Surprised"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Surprised"
+      },
+      {
+        "trait_type": "Horns",
+        "value": "Bronze"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "SafariHat"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://brilliantyaks.mypinata.cloud/ipfs/QmPTcZqKHihupiV4spX9mGvKGXTvH5pb2EfP37yDZMj3Aw/1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://www.brilliantyaks.com",
+    "animation_url": "https://brilliantyaks.mypinata.cloud/ipfs/QmQJ9BRoAH6GwdtxduCJ47yjmHK6wvY7BrCCGfCHSo36Hx/BrilliantYak_Animated.gif",
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "Brilliant Yaks",
+      "family": "Brilliant Yaks"
+    },
+    "symbol": "BY"
+  }
+}

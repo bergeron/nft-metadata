@@ -1,0 +1,38 @@
+{
+  "address": "0x5b86740e6fd7804c8aa2969cd3f590f8c353d8c1",
+  "type": "ERC721",
+  "name": "MoonMoonTest",
+  "tokenCount": "2",
+  "uri": "https://apigateway.bithotel.io/metadata/QmZvwGR11MRcNHNxcKtsC8CBRjpwGUSxPPYMV74La6TKHg",
+  "metadata": {
+    "name": "Moon Moon Painting",
+    "description": "A uncommon painting to hang on the wall of your Bit Hotel room!",
+    "external_link": "https://www.bithotel.io/#/",
+    "seller_fee_basis_points": 500,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Replicas",
+        "value": "1000"
+      },
+      {
+        "trait_type": "Drop",
+        "value": "Season 2"
+      }
+    ],
+    "image": "https://apigateway.bithotel.io/metadata/QmNjZA6E8VroS7DxtR8esbTd4P3VnepEXGKgfvXfghVicG",
+    "creators": [
+      {
+        "address": "0xA140a478aE50b3E769E83608631a14ABdC7c5648",
+        "share": 70
+      },
+      {
+        "address": "0x37C74A157897d199AB971F3eA0B5A74c747532EC",
+        "share": 30
+      }
+    ]
+  }
+}

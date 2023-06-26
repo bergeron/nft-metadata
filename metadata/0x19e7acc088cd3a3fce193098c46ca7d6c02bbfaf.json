@@ -1,0 +1,41 @@
+{
+  "address": "0x19e7acc088cd3a3fce193098c46ca7d6c02bbfaf",
+  "type": "ERC721",
+  "name": "The-JokerX",
+  "tokenCount": "128",
+  "uri": "ipfs://Qmddt6RjtLGw74gAEQBWRxnzqWzWbNhbrogexrpD4qcHD2/1",
+  "metadata": {
+    "name": "The JokerX #1",
+    "description": "The JokerX is a collection of 999 unique jokerx on the Ethereum blockchain",
+    "image": "ipfs://Qmd8V18SgvQDfxHvhmceJF8aEqbUutWJnd5DG4nGgP61ug/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Ceta Blue HUD"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Corn"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Deceiver"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "J Card"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Sailor Cap"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 837,
+        "display_type": "number"
+      }
+    ],
+    "fee_recipient": "0x47A33fb6eafe9FeA55f8648F2a77D23Df6cc7Cc0",
+    "seller_fee_basis_points": 500
+  }
+}

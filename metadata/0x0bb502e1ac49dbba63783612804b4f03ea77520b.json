@@ -1,0 +1,35 @@
+{
+  "address": "0x0bb502e1ac49dbba63783612804b4f03ea77520b",
+  "type": "ERC721",
+  "name": "StickyNFT V2",
+  "tokenCount": "105",
+  "uri": "data:application/json;utf8,{\"name\": \"Sticky NFT\",\"displayName\": \"Sticky NFT\",\"description\": \"This is a Sticky NFT. https://stickynft.com \",\"created_by\": \"0x00812076e9460d60e7f9af956cbda17ac64eeaa2\",\"external_url\": \"https://stickynft.com\",\"image\": \"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='614' height='614' ><rect width='1080' height='1080' fill='#e5d7f4'/><text x='25' y='25' font-family='Verdana' font-size='14' fill='#0b5057' >Owner 0x00812076e9460d60e7f9af956cbda17ac64eeaa2</text></svg>\",\"attributes\": [{\"trait_type\":\"Birthday\",\"value\":1687506323,\"display_type\":\"date\"},{\"trait_type\":\"Background\",\"value\":\"#e5d7f4\"},{\"trait_type\":\"Font\",\"value\":\"#0b5057\"},{\"trait_type\":\"Origin\",\"value\":\"0x00812076e9460d60e7f9af956cbda17ac64eeaa2\"}],\"message\": \"\"}",
+  "metadata": {
+    "name": "Sticky NFT",
+    "displayName": "Sticky NFT",
+    "description": "This is a Sticky NFT. https://stickynft.com ",
+    "created_by": "0x00812076e9460d60e7f9af956cbda17ac64eeaa2",
+    "external_url": "https://stickynft.com",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='614' height='614' ><rect width='1080' height='1080' fill='#e5d7f4'/><text x='25' y='25' font-family='Verdana' font-size='14' fill='#0b5057' >Owner 0x00812076e9460d60e7f9af956cbda17ac64eeaa2</text></svg>",
+    "attributes": [
+      {
+        "trait_type": "Birthday",
+        "value": 1687506323,
+        "display_type": "date"
+      },
+      {
+        "trait_type": "Background",
+        "value": "#e5d7f4"
+      },
+      {
+        "trait_type": "Font",
+        "value": "#0b5057"
+      },
+      {
+        "trait_type": "Origin",
+        "value": "0x00812076e9460d60e7f9af956cbda17ac64eeaa2"
+      }
+    ],
+    "message": ""
+  }
+}

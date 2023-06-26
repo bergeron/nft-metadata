@@ -1,0 +1,38 @@
+{
+  "address": "0xffc000000002607d22478fdd69a05c0d0effc57d",
+  "type": "ERC721",
+  "name": "The Bakery Genesis",
+  "tokenCount": "1111",
+  "uri": "https://cdn.thebakery.gg/mainnet-bakers/1",
+  "metadata": {
+    "name": "Genesis Baker #1",
+    "description": "",
+    "image": "https://cdn.thebakery.gg/mainnet-bakers/1.png",
+    "dna": "aa18e9be3333c1e0c354bdd89e764d58fe85d6ee",
+    "edition": 1,
+    "date": 1681316959092,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gradient Yellow"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Hoodie Grey"
+      },
+      {
+        "trait_type": "Face",
+        "value": "None"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Flower Crown"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "address": "0x6f0a32dc32230bb7ea2cca432ae00afb7922582d",
+  "type": "ERC721",
+  "name": "Silks - Land",
+  "tokenCount": "3682",
+  "uri": "https://nft.silks.io/metadata/c2Land/1",
+  "metadata": {
+    "name": "LAND (75,76)",
+    "image": "https://nft.silks.io/image/c2Land/1",
+    "properties": [
+      {
+        "value": "75",
+        "max_value": 450,
+        "trait_type": "Land X",
+        "display_type": "number"
+      },
+      {
+        "value": "76",
+        "max_value": 450,
+        "trait_type": "Land Y",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Acres",
+        "value": "1"
+      },
+      {
+        "trait_type": "Region",
+        "value": "Sky Falls"
+      },
+      {
+        "trait_type": "Private Farm Zoning",
+        "value": "1 - 9"
+      },
+      {
+        "trait_type": "Public Farm Zoning",
+        "value": "10 - 100"
+      },
+      {
+        "trait_type": "Embedded Structure",
+        "value": "Founders Stable"
+      }
+    ],
+    "description": "Silks Land tokens represent ownership of a specific plot of land in the Game of Silks metaverse. Owning land allows you to place a horse, build a stable and charge other players a share of their rewards by stabling their horses on your land",
+    "external_url": ""
+  }
+}

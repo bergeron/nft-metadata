@@ -1,0 +1,68 @@
+{
+  "address": "0xfe188b83a05f9e8acdf02282f8004710755f31c3",
+  "type": "ERC721",
+  "name": "BZR Report Test",
+  "tokenCount": "2",
+  "uri": "https://balth-report-badge-dev.netlify.app/nft_metadata/1",
+  "metadata": {
+    "animation_url": "https://balth-report-badge-dev.netlify.app/report-nft/123",
+    "attributes": [
+      {
+        "trait_type": "Overall rating",
+        "value": 8,
+        "max_value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Background",
+        "value": 7.5,
+        "max_value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "NFT game assets",
+        "value": 8.5,
+        "max_value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Website",
+        "value": 8,
+        "max_value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Artwork",
+        "value": 9,
+        "max_value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Team",
+        "value": 9,
+        "max_value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Whitepaper",
+        "value": 6,
+        "max_value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Socialnomics",
+        "value": 9,
+        "max_value": 10
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Expires",
+        "value": 1694739808
+      }
+    ],
+    "description": "Illuvium is an invitation to a world with fantastic lore and artwork. Built by an impressive team, we have high confidence in this project which shows touches of brilliance.\n\nhttps://bltzr.gg/balthazar-research-report-explore-the-illuvium-universe/",
+    "external_url": "https://bltzr.gg/balthazar-research-report-explore-the-illuvium-universe/",
+    "image": "https://balth-report-badge-dev.netlify.app/nft_images/illuvium.jpeg",
+    "name": "Illuvium - Balthazar Audit (Test)"
+  }
+}

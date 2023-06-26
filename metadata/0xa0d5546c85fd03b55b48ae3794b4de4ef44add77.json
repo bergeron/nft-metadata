@@ -1,0 +1,38 @@
+{
+  "address": "0xa0d5546c85fd03b55b48ae3794b4de4ef44add77",
+  "type": "ERC721",
+  "name": "The Lucky Numbers NFT",
+  "tokenCount": "6",
+  "uri": "ipfs://QmQGGyp6Vd99z8MjRHmoM9SJAMF8ewkz7qKpLaTMCv3Y3m/1.json",
+  "metadata": {
+    "name": "The Lucky Number #1",
+    "description": "Take Your Lucky Number for Winner #MAXLUCKY",
+    "image": "ipfs://QmaBEwCbjsEArANdHVKoRSsgxhZubSpTpYgjMNcUsnmPhX/1.png",
+    "dna": "3f7ee5325c38e7bd5dd2ed7b0e7e62bd9e3507de",
+    "edition": 1,
+    "date": 1658063047475,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Thousand",
+        "value": "Zero"
+      },
+      {
+        "trait_type": "Hundred",
+        "value": "One"
+      },
+      {
+        "trait_type": "Number",
+        "value": "Nine"
+      },
+      {
+        "trait_type": "Teen",
+        "value": "Five"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

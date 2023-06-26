@@ -1,0 +1,41 @@
+{
+  "address": "0x7ab09052288850cdf2d04b133fa5b0317b44bcf1",
+  "type": "ERC721",
+  "name": "Real Estate NFT Official",
+  "tokenCount": "61",
+  "uri": "https://amber-glad-roundworm-19.mypinata.cloud/ipfs/QmQbWasMwtJtAAQ3frVbFoUoyCLtmQMEgErsLArXGyxTvT/1.json",
+  "metadata": {
+    "name": "RENO Island #1",
+    "description": "Exclusive Blockchain Property from RENO",
+    "external_url": "https://www.realestatenftofficial.com/",
+    "image": "https://amber-glad-roundworm-19.mypinata.cloud/ipfs/QmQhEJdnpezLRykTigdK5vTcmz1NnKwhpXCxyjKU6b7exM/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grey Sky"
+      },
+      {
+        "trait_type": "House",
+        "value": "Abandoned Mansion"
+      },
+      {
+        "trait_type": "Land",
+        "value": "Fun Island"
+      },
+      {
+        "trait_type": "Sky population",
+        "value": "Flying Balloon"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

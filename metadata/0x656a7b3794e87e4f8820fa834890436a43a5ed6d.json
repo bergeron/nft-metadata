@@ -1,0 +1,41 @@
+{
+  "address": "0x656a7b3794e87e4f8820fa834890436a43a5ed6d",
+  "type": "ERC721",
+  "name": "3D Ape Society",
+  "tokenCount": "4",
+  "uri": "ipfs://bafybeiherwajfm5wpeoeilseu4ndqctuplxddcdeqpmuob77dcooxlycue/1.json",
+  "metadata": {
+    "name": "APE #1",
+    "description": "3D Ape Society is a collection of 600 nfts of a three astronauts marooned on a futurist planet where apes rule and humans are slaves",
+    "fee_recipient": "0x284b87D342849690E5949f47f9499d5cC9CD2134",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://bafybeieamy6msym62jtqpt3xbypt2bb5c5ld3dlskdxfae27nx4sph2yq4/1.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black Stars"
+      },
+      {
+        "trait_type": "Sphere",
+        "value": "Deep Green"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Stone Ape"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Golden"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "Snorkeling"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 526,
+        "display_type": "number"
+      }
+    ]
+  }
+}

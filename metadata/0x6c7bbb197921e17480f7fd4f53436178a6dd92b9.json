@@ -1,0 +1,50 @@
+{
+  "address": "0x6c7bbb197921e17480f7fd4f53436178a6dd92b9",
+  "type": "ERC721",
+  "name": "Secret Ninja Clan",
+  "tokenCount": "80",
+  "uri": "ipfs://QmR7HnG7LXF3mQ8voZrEoJ6pdvYLDwi36bSPGzzDDtYbf9/1.json",
+  "metadata": {
+    "name": "Secret Ninja Clan #1",
+    "description": "Secret Ninja Clan is a collection of uniquely crafted artistic representations of Japanese Ninja warriors. These are highly trained covert agents, who specialize in the art of espionage, sabotage, and warfare.  Secret Ninja Clan was created to be found by only those who are worthy.",
+    "image": "ipfs://QmS9MVJaZu1DfjSqKwGTrbqhmh5scjRQ3jDd6a4y6e5g5F/1.png",
+    "dna": "ce5d3496affd59b4ce04acbe50f4de1353a3b892",
+    "edition": 1,
+    "date": 1645021777789,
+    "attributes": [
+      {
+        "trait_type": "Background_Color",
+        "value": "Light_Yellow"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "Pattern_8"
+      },
+      {
+        "trait_type": "Body1",
+        "value": "Fight"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Stealth"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Slant_Cresent"
+      },
+      {
+        "trait_type": "Sash",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Weapon1",
+        "value": "Dual_Tanto"
+      },
+      {
+        "trait_type": "Type1",
+        "value": "Genin"
+      }
+    ],
+    "compiler": "Ninja Art"
+  }
+}

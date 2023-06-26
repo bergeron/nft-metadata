@@ -1,0 +1,38 @@
+{
+  "address": "0xebcc5a41ab0be01dceae1e8b008edba0c603b90b",
+  "type": "ERC721",
+  "name": "Warrior Meta Cat",
+  "tokenCount": "211",
+  "uri": "ipfs://QmNShHfsnM8yKL5YHBaVnMrQnofESZg2TPkFmw2JRRZWBd/1.json",
+  "metadata": {
+    "name": "Meta Cat #1",
+    "description": "Unique, algorithmically generated Meta Cat living on the blockchain.",
+    "image": "ipfs://Qma9LNeyPj2qDWXxL6iP5bShPtGwjfsiLxpbUBgTo4vj7j/1.png",
+    "dna": "6813d0f89dd3d47280562d81598663bc2d0d0a79",
+    "edition": 1,
+    "date": 1661882390526,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Illuminated Stone Wall"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Mirage Swords"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Purple Eye"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Purple Leopard Jacket"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Diamond Earrings"
+      }
+    ],
+    "compiler": "Meta Cat"
+  }
+}

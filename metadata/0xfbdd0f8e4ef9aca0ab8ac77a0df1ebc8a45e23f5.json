@@ -1,0 +1,89 @@
+{
+  "address": "0xfbdd0f8e4ef9aca0ab8ac77a0df1ebc8a45e23f5",
+  "type": "ERC1155",
+  "name": "Unidentified contract - znZoGBEJNg",
+  "tokenCount": "2",
+  "uri": "ipfs://QmYCv6XMEEYMNBf1rJkbrqTECBg8tUWbjfJVX38gVeULEj/",
+  "metadata": {
+    "0x817E4317e50eF0E4721d020bd8b5AB775D207D6D": {
+      "signature": {
+        "r": "0xe15525a99d5b76e620a917119856d92dc2d4ecf04c1e194e2d6094edc57cbbe4",
+        "s": "0x338a0f43a10f6eb09ff05a275403bed278ae7460fed5aa0891db77dd446e5fa7",
+        "_vs": "0xb38a0f43a10f6eb09ff05a275403bed278ae7460fed5aa0891db77dd446e5fa7",
+        "recoveryParam": 1,
+        "v": 28
+      },
+      "amount": 2
+    },
+    "0x27E82Ba6AfEbf3Eee3A8E1613C2Af5987929a546": {
+      "signature": {
+        "r": "0x4cd4445db2d47aa790582126e98a179acfb5dfda3afbb6757690d14d0ec6130d",
+        "s": "0x7d65a068190bef5d917bd1ab64d01ea5437dd7e44a3cf89192afed3b03f5e687",
+        "_vs": "0xfd65a068190bef5d917bd1ab64d01ea5437dd7e44a3cf89192afed3b03f5e687",
+        "recoveryParam": 1,
+        "v": 28
+      },
+      "amount": 3
+    },
+    "0x8531f6D1A8d38dbE5903516c7E313662816c5807": {
+      "signature": {
+        "r": "0x23baf9e88edc717996654222a7fa1308463d8934f81aeb71e52c29f15d8bfe9e",
+        "s": "0x68be66ec25195afa6babeb3c5c4a61501d5dd4528d0a0a790365fd2d430d9a23",
+        "_vs": "0x68be66ec25195afa6babeb3c5c4a61501d5dd4528d0a0a790365fd2d430d9a23",
+        "recoveryParam": 0,
+        "v": 27
+      },
+      "amount": 1
+    },
+    "0xa915fbCFbCE6DD99056f54d80c7789b3402dF671": {
+      "signature": {
+        "r": "0xadc587e4766d094bf5234410b1f3be83957b855ec51b624ff95a831d31a2e476",
+        "s": "0x1a493e784617acfcf1b89b8cdd68018f554f77795a7f7cf203b60afb2a289745",
+        "_vs": "0x9a493e784617acfcf1b89b8cdd68018f554f77795a7f7cf203b60afb2a289745",
+        "recoveryParam": 1,
+        "v": 28
+      },
+      "amount": 1
+    },
+    "0x1445f31fb5F2a858865715CA14CC3A0fa910F07c": {
+      "signature": {
+        "r": "0x5c3a0893f88b3da19ddf74ffd73a21f7dc6f2ac70d2c5acfad645e0f572edd5c",
+        "s": "0x115a5f78b4226b851410cdea78b93bde7070928beecac9c80a1a8da67ab81240",
+        "_vs": "0x915a5f78b4226b851410cdea78b93bde7070928beecac9c80a1a8da67ab81240",
+        "recoveryParam": 1,
+        "v": 28
+      },
+      "amount": 1
+    },
+    "0xF39598EF3e216cf052a45dA5f163D2b4bD21469E": {
+      "signature": {
+        "r": "0x046057e43c9672c8a509ce5928e239592f5415b8e0f07e39bbf7cd879595ed0f",
+        "s": "0x4a59244820de7905615047bb49108c0e06695c152e587ee516a4e4cd80aa865f",
+        "_vs": "0x4a59244820de7905615047bb49108c0e06695c152e587ee516a4e4cd80aa865f",
+        "recoveryParam": 0,
+        "v": 27
+      },
+      "amount": 5
+    },
+    "0x1a5245ea5210C3B57B7Cfdf965990e63534A7b52": {
+      "signature": {
+        "r": "0x196b5a57eda969e2f310da8a2dacf7db007a900cfc97293e540c0c4a4b401fd5",
+        "s": "0x24dbfaf01ff4ad93b7ed7db606c0d269afdcb2c74267468d0b4b830780fafcd9",
+        "_vs": "0x24dbfaf01ff4ad93b7ed7db606c0d269afdcb2c74267468d0b4b830780fafcd9",
+        "recoveryParam": 0,
+        "v": 27
+      },
+      "amount": 1
+    },
+    "0xe79900C684CFD1d997f1a04a1ba516C66fb3791d": {
+      "signature": {
+        "r": "0x7493f166e094d1db9ed5789274bd67837939d912fa26301b4d36bed3e61a68c4",
+        "s": "0x06073573d3004713f8a1038d03d23eebb24b98cce07fe4eeecfa0bec74d4b103",
+        "_vs": "0x86073573d3004713f8a1038d03d23eebb24b98cce07fe4eeecfa0bec74d4b103",
+        "recoveryParam": 1,
+        "v": 28
+      },
+      "amount": 2
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "address": "0x80c02c5821f1be0fce652e68822916dc80c4772a",
+  "type": "ERC721",
+  "name": "CoolMirrorCats",
+  "tokenCount": "7",
+  "uri": "ipfs://QmcfLmGnxQkNmKst5csDLpCh7BxXYUgP3mV9f4FMbkgoFU/1.json",
+  "metadata": {
+    "description": "Like most NFT enthusiasts, we too missed out on the original Cool Cat launch. Since aftermarket prices today are definitely out of reach for the average person, we wanted to provide people another chance at getting their very own Cool Cat to showcase.",
+    "image": "https://ipfs.io/ipfs/QmQDMxqU26BNwPfUuGRhYQn1fhr6rfEHwy8UbF2SasYEsM/1.jpg",
+    "name": "Cool Cat Mirror #1",
+    "points": {
+      "Body": 0,
+      "Shirt": 2,
+      "Hats": 2,
+      "Face": 1
+    },
+    "attributes": [
+      {
+        "trait_type": "body",
+        "value": "blue cat skin"
+      },
+      {
+        "trait_type": "hats",
+        "value": "hat black"
+      },
+      {
+        "trait_type": "shirt",
+        "value": "winter red"
+      },
+      {
+        "trait_type": "face",
+        "value": "sunglasses blue"
+      },
+      {
+        "trait_type": "tier",
+        "value": "wild_1"
+      }
+    ]
+  }
+}

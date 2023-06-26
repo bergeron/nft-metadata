@@ -1,0 +1,25 @@
+{
+  "address": "0x22f6c704a9cb535f90cb26f7035e7bc0a4c42841",
+  "type": "ERC721",
+  "name": "Cook Collection",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x22f6c704a9cb535f90cb26f7035e7bc0a4c42841/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x22f6c704A9Cb535F90cb26f7035E7BC0A4c42841/icon?id=1",
+    "expiration": 1582796659,
+    "tokenId": "1",
+    "owner": "0xffcf6a123ba8723dfae5eb364917d510ff474032",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1582796659
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x22f6c704A9Cb535F90cb26f7035E7BC0A4c42841",
+    "network": 1
+  }
+}

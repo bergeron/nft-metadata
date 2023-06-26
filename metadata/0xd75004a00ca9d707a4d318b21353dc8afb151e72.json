@@ -1,0 +1,243 @@
+{
+  "address": "0xd75004a00ca9d707a4d318b21353dc8afb151e72",
+  "type": "ERC721",
+  "name": "VOIDED - Meow Universe by Xin Yu",
+  "tokenCount": "1568",
+  "uri": "ipfs://QmfW7JdsiQW9N4NM8MCHt4CMNpSJgKtAuy4WTMAw5UFEb5",
+  "metadata": {
+    "name": "Meow Universe No. 2",
+    "description": "Meet Meow Universe, a collection of 1888 mischievous human-like cat characters that deliver blessings and good vibes in celebration of Chinese New Year. Each cat is an artistic expression of the Lucky Cat symbol, which traditionally brings luck and wealth. May these 1,888 Cats bring you joy and anything that you might wish for, holders will also receive perks, community giveaways, and more.",
+    "image": "ipfs://QmVMFfEjw7XZAy4g1NWdcFNvEbcKKy8UHJrqgpq8TSSkBi",
+    "external_url": "https://collectible.sweet.io/series/1234/2",
+    "uri": "https://collectible.sweet.io/series/1234/2",
+    "uri_sha256": "rZ6O0ESxc-upX264uCJDcJXWaqbcJtGTQeMBEpNjacM=",
+    "extended_metadata": {
+      "creator": {
+        "name": "SocialSweet Inc.",
+        "uri": "https://sweet.io"
+      },
+      "rights_info": {
+        "copyright_holder": "SocialSweet Inc.",
+        "copyright_notice": "(c) Copyright 2022 SocialSweet Inc., all rights reserved",
+        "terms_and_conditions": {
+          "url": "https://collectible.sweet.io/static/terms-and-conditions-mar2021.txt",
+          "sha256": "an7cc_0l4AOoHzgqFA_n5irW8PKRVrDaHXRsxTguNQE="
+        }
+      },
+      "name": "Meow Universe No. 2",
+      "issued": "2022-02-14T04:37:27.730353",
+      "series": {
+        "display_meta": {
+          "genre": "music",
+          "name": "Meow Universe",
+          "color": "#D0BC86",
+          "metalness": 0.5,
+          "roughness": 0.5,
+          "description": "Meet Meow Universe, a collection of 1888 mischievous human-like cat characters that deliver blessings and good vibes in celebration of Chinese New Year. Each cat is an artistic expression of the Lucky Cat symbol, which traditionally brings luck and wealth. May these 1,888 Cats bring you joy and anything that you might wish for, holders will also receive perks, community giveaways, and more.",
+          "type": "image",
+          "print_sequence_number_on_image": false,
+          "creator_campaign_id": 811,
+          "rarity": {
+            "name": "Tier 5",
+            "rank": 5
+          },
+          "creator_campaign": {
+            "campaign_id": 811,
+            "name": "Red NVLPE",
+            "description": "Red NVLPE",
+            "client": {
+              "name": "Red NVLPE",
+              "company": "Red NVLPE"
+            }
+          }
+        },
+        "total_number": 1888,
+        "uri": "https://collectible.sweet.io/series/1234"
+      },
+      "fees": [
+        {
+          "basis_points": 1000,
+          "recipient_address": "0xAABE12D0A214150708Cc4A9d64F7c66C5a717D56",
+          "type": "seller-fee"
+        }
+      ],
+      "type": "erc721",
+      "network": "ethereum",
+      "uri": "https://collectible.sweet.io/series/1234/2",
+      "assets": {
+        "front_image": {
+          "uri": "https://mediagateway.sweet.io/media/token/2vbQ2VRZ/502/media.jpg",
+          "sha256": "QPbUbbq3PIvIdUhftyQWP9OOEA6p8xu49XhH_d7Zc9I=",
+          "altloc": {
+            "ipfs": "ipfs://QmUHTkncHSxZ91qWFUzstu4DSovWQ894cTLxbTMUUq9i6e"
+          },
+          "content-type": "image/jpeg",
+          "gateway": "https://mediagateway.sweet.io/gateway/token/2vbQ2VRZ/502/media.jpg",
+          "purpose": "primary-asset",
+          "url": "https://collectible.sweet.io/series/1234/2/images/front.jpg"
+        },
+        "reverse_image": null
+      },
+      "images": {
+        "front": {
+          "sha256": "QPbUbbq3PIvIdUhftyQWP9OOEA6p8xu49XhH_d7Zc9I=",
+          "altloc": {
+            "ipfs": "ipfs://QmUHTkncHSxZ91qWFUzstu4DSovWQ894cTLxbTMUUq9i6e"
+          },
+          "content-type": "image/jpeg",
+          "purpose": "primary-asset",
+          "url": "https://collectible.sweet.io/series/1234/2/images/front.jpg"
+        }
+      },
+      "sequence_number": 2,
+      "image": {
+        "sha256": "QPbUbbq3PIvIdUhftyQWP9OOEA6p8xu49XhH_d7Zc9I=",
+        "altloc": {
+          "ipfs": "ipfs://QmUHTkncHSxZ91qWFUzstu4DSovWQ894cTLxbTMUUq9i6e"
+        },
+        "content-type": "image/jpeg",
+        "purpose": "primary-asset",
+        "url": "https://collectible.sweet.io/series/1234/2/images/front.jpg",
+        "thumbnail": {
+          "350": {
+            "url": "https://collectible.sweet.io/series/1234/2/images/front-350x.png",
+            "width": 350,
+            "height": 466,
+            "sha256": "iz3FaYzGg41sX6JVdqHQNs9NroXsXYcos-Bp-sgHMEw=",
+            "altloc": {
+              "ipfs": "ipfs://QmVMFfEjw7XZAy4g1NWdcFNvEbcKKy8UHJrqgpq8TSSkBi"
+            },
+            "content-type": "image/png"
+          },
+          "500": {
+            "url": "https://collectible.sweet.io/series/1234/2/images/front-500x.png",
+            "width": 500,
+            "height": 666,
+            "sha256": "nF2NntyibTNw7prCcifJJiIBPMQ7lNSY5CdDUdl4OAA=",
+            "altloc": {
+              "ipfs": "ipfs://QmZYHMqjsR6S3HhLrGWq1AoGpKdfEWrp6vgyTt5LarsRX3"
+            },
+            "content-type": "image/png"
+          }
+        }
+      },
+      "attributes": [
+        {
+          "name": "Background",
+          "value": "Dream Moon"
+        },
+        {
+          "name": "Behavior Accessory",
+          "value": "None"
+        },
+        {
+          "name": "Blessing",
+          "value": "Good Fortune"
+        },
+        {
+          "name": "Body Accessory",
+          "value": "Hoodie"
+        },
+        {
+          "name": "Ear Accessory",
+          "value": "None"
+        },
+        {
+          "name": "Extra Accessory",
+          "value": "Diamond Ring Reserved"
+        },
+        {
+          "name": "Eyes",
+          "value": "Heart"
+        },
+        {
+          "name": "Facial Feature",
+          "value": "No Face"
+        },
+        {
+          "name": "Feet Accessory",
+          "value": "None"
+        },
+        {
+          "name": "Fur",
+          "value": "Pink Zebra"
+        },
+        {
+          "name": "Hand Accessory",
+          "value": "Bee"
+        },
+        {
+          "name": "Head Accessory",
+          "value": "Golden Head Ring"
+        },
+        {
+          "name": "Mouth",
+          "value": "Dummy Laugh"
+        },
+        {
+          "name": "Nose",
+          "value": "None"
+        }
+      ]
+    },
+    "sequence_number": 2,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dream Moon"
+      },
+      {
+        "trait_type": "Behavior Accessory",
+        "value": "None"
+      },
+      {
+        "trait_type": "Blessing",
+        "value": "Good Fortune"
+      },
+      {
+        "trait_type": "Body Accessory",
+        "value": "Hoodie"
+      },
+      {
+        "trait_type": "Ear Accessory",
+        "value": "None"
+      },
+      {
+        "trait_type": "Extra Accessory",
+        "value": "Diamond Ring Reserved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Heart"
+      },
+      {
+        "trait_type": "Facial Feature",
+        "value": "No Face"
+      },
+      {
+        "trait_type": "Feet Accessory",
+        "value": "None"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Pink Zebra"
+      },
+      {
+        "trait_type": "Hand Accessory",
+        "value": "Bee"
+      },
+      {
+        "trait_type": "Head Accessory",
+        "value": "Golden Head Ring"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Dummy Laugh"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "None"
+      }
+    ]
+  }
+}

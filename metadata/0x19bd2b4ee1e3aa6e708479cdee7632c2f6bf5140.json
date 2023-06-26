@@ -1,0 +1,86 @@
+{
+  "address": "0x19bd2b4ee1e3aa6e708479cdee7632c2f6bf5140",
+  "type": "ERC721",
+  "name": "1214kjasdfadsf",
+  "tokenCount": "100",
+  "uri": "http://token.artblocks.io/0x0A1BBD57033F57E7B6743621b79fCB9Eb2CE3676/2000001",
+  "metadata": {
+    "platform": "MOMENT",
+    "tokenID": "2000001",
+    "series": "N/A",
+    "aspect_ratio": 0.5625,
+    "payout_address": "0x43a7d26a271f5801b8092d94dfd5b36ea5d01f5f",
+    "name": "Parnassus #1",
+    "minted": true,
+    "artist": "mpkoz",
+    "description": "Parnassus is a generative project inspired by the work of German painter Paul Klee. It is an attempt to bridge Klee's analog practice (often credited as foundational to computer art and pointillism) with the capabilities of generative art.\n\nParnassus is a heavy script and best viewed on a modern device. \n\n10% of proceeds will be donated to Ukraine relief efforts.\n\nINPUT\n\"A\": Toggle animation\n\"P\": Portrait lock\n\"L\": Landscape lock\n\"H\": Download uncompressed screenshot\n\"C\": Download compressed screenshot",
+    "script_type": "p5@1.0.0",
+    "project_id": "2",
+    "engine_type": "fullyonchain",
+    "image": "https://media-proxy.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/2000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/2000001.png",
+    "generator_url": "https://generator.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/2000001",
+    "animation_url": "https://generator.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/2000001",
+    "royaltyInfo": {
+      "artistAddress": "0x51664b043cecd86527a93c95d163888bec348e63",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Parnassus by mpkoz",
+    "website": "https://mpkoz.com",
+    "token_hash": "0x4a1bbe2f43b54ecae911082e60d2f1c3bf6a2c444e7f135fedc2f205f7d0c109",
+    "external_url": "https://generator.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/2000001",
+    "primary_asset_url": "https://generator.artblocks.io/0x0a1bbd57033f57e7b6743621b79fcb9eb2ce3676/2000001",
+    "features": {
+      "Depth": "Mixed",
+      "Ghost": "False",
+      "Mosaic": "8-Bit",
+      "Soften": "False",
+      "Palette": "Honeycomb",
+      "Stipple": "None",
+      "Corruption": "None",
+      "Complications": "5"
+    },
+    "traits": [
+      {
+        "trait_type": "Parnassus",
+        "value": "All Parnassus"
+      },
+      {
+        "trait_type": "Parnassus",
+        "value": "Depth: Mixed"
+      },
+      {
+        "trait_type": "Parnassus",
+        "value": "Ghost: False"
+      },
+      {
+        "trait_type": "Parnassus",
+        "value": "Mosaic: 8-Bit"
+      },
+      {
+        "trait_type": "Parnassus",
+        "value": "Soften: False"
+      },
+      {
+        "trait_type": "Parnassus",
+        "value": "Palette: Honeycomb"
+      },
+      {
+        "trait_type": "Parnassus",
+        "value": "Stipple: None"
+      },
+      {
+        "trait_type": "Parnassus",
+        "value": "Corruption: None"
+      },
+      {
+        "trait_type": "Parnassus",
+        "value": "Complications: 5"
+      }
+    ],
+    "is_static": false,
+    "license": "NFT License 2.0"
+  }
+}

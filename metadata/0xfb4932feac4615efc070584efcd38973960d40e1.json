@@ -1,0 +1,35 @@
+{
+  "address": "0xfb4932feac4615efc070584efcd38973960d40e1",
+  "type": "ERC721",
+  "name": "Concept V Official",
+  "tokenCount": "1111",
+  "uri": "ipfs://bafybeigivpvuev5uwtdktdhyppyp5pqxtfhgrymt3hhvc5garcp276yrui/1",
+  "metadata": {
+    "name": "Concept V",
+    "description": "Concept V is a collection of 1,111 work of Art, here to brighten up your day and take your mind on an artistic journey through 5 major concepts on the Ethereum Blockchain.",
+    "image": "ipfs://bafybeiczbwa42nfq7jz4jq6nuxs55kx4wtkuoauvlkg6jpsilawjf65wbm/1.png",
+    "attributes": [
+      {
+        "trait_type": "Concept",
+        "value": "Immersion"
+      },
+      {
+        "trait_type": "Concept",
+        "value": "Emotion"
+      },
+      {
+        "trait_type": "Concept",
+        "value": "Abstraction"
+      },
+      {
+        "trait_type": "Concept",
+        "value": "Expression"
+      },
+      {
+        "trait_type": "Concept",
+        "value": "Imagination"
+      }
+    ],
+    "compiler": "mintfoundry.xyz"
+  }
+}

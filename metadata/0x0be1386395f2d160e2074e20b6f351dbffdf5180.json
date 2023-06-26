@@ -1,0 +1,25 @@
+{
+  "address": "0x0be1386395f2d160e2074e20b6f351dbffdf5180",
+  "type": "ERC721",
+  "name": "IF 3rd Badge",
+  "tokenCount": "19",
+  "uri": "https://ipfs.io/ipfs/QmNwdarRKeGCF2EgzRaSYcpo8Twb62C5fbceTDgJvhM5w6",
+  "metadata": {
+    "title": "IF 3rd Anniversary Badge",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "IF 3rd Anniversary Badge"
+      },
+      "description": {
+        "type": "string",
+        "description": "In the three years since the establishment of IF, we have never forgotten why we started. Focusing on linking blockchain scenes and users, IF has always provided users with high-quality digital asset services. We are now issuing a 3rd-anniversary commemorative badge to thank loyal users and partners who have been supporting us all the way. We will keep upholding our original intention and continue to make contribution to the blockchain world."
+      },
+      "image": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/QmbLbQz5nciFR8rJ7zcJUzHKQVZwZFhNjgGSGSLcFr6LRm"
+      }
+    }
+  }
+}

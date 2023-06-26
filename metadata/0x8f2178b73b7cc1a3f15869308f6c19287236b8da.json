@@ -1,0 +1,47 @@
+{
+  "address": "0x8f2178b73b7cc1a3f15869308f6c19287236b8da",
+  "type": "ERC721",
+  "name": "Ghost Gang Official",
+  "tokenCount": "3204",
+  "uri": "https://bafybeigla4bxhyxg5gpfxswd54fqtylagc3hetokxh2k54l6j2eylk5m5y.ipfs.dweb.link/1.json",
+  "metadata": {
+    "name": "Ghost Guy #2005",
+    "symbol": "GHOST",
+    "image": "https://bafybeib2aedfg6gyiexhi3rj4emjtylrvha6xctkzk6iovdouesb7yam6m.ipfs.dweb.link/1.png?ext=png",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://bafybeib2aedfg6gyiexhi3rj4emjtylrvha6xctkzk6iovdouesb7yam6m.ipfs.dweb.link/1.png?ext=png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+          "share": 10
+        },
+        {
+          "address": "5FB3RHjBLvxejJrw1KDP123rgUusPeWqdGpzAFU4UQkx",
+          "share": 82
+        },
+        {
+          "address": "EH2xa8LT2abTwwbnw8HL2JgtHP97Si9H32xDtZZhituh",
+          "share": 8
+        }
+      ]
+    },
+    "description": "2000 Ghost Guys haunting Solana, they are the first inhabitants & your pass inside Metaforge.",
+    "seller_fee_basis_points": 600,
+    "attributes": [
+      {
+        "trait_type": "1of1",
+        "value": "Pixel Hunter"
+      }
+    ],
+    "collection": {
+      "name": "Ghost Guys",
+      "family": "Ghost Guys"
+    }
+  }
+}

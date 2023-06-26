@@ -1,0 +1,177 @@
+{
+  "address": "0x29b4d6c1d5ebedb62e5913f1c47b6b0421f1ec38",
+  "type": "ERC721",
+  "name": "Coven Cats",
+  "tokenCount": "1196",
+  "uri": "ipfs://QmRXQw27A9CNgFm23NsGS8ZLNjXPzjKou7cASdSNcdhyWx/1.json",
+  "metadata": {
+    "name": "hera",
+    "description": "You are the CAT of CHARISMA. Dogs and kings bow before your paws. You and your WITCH breathe life into sketches and turn ideas into masterpieces. People from lands over travel to bask in your aura and witness your artistry. THE PENCIL IS MIGHTIER!",
+    "image": "https://covencats.s3.amazonaws.com/3d497d5fe3701efc719c512c8684f38400dd46ddb42228a788ec005324cd97b2.png",
+    "external_url": "https://www.covencats.xyz/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Background Item",
+        "value": "Pillars"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Cubic Stone"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Sacred Scroll"
+      },
+      {
+        "trait_type": "Foreground Item",
+        "value": "Pomegranate"
+      },
+      {
+        "trait_type": "Body Style",
+        "value": "Floofed"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Firmament"
+      },
+      {
+        "trait_type": "Eye Style",
+        "value": "Hera"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Sapphire"
+      },
+      {
+        "trait_type": "Head Topper",
+        "value": "Celestial Crown"
+      },
+      {
+        "trait_type": "Bodywear",
+        "value": "Blue Mantle"
+      },
+      {
+        "trait_type": "Archetype of Power",
+        "value": "Cat of Charisma"
+      },
+      {
+        "trait_type": "Sun Sign",
+        "value": "Virgo"
+      },
+      {
+        "trait_type": "Moon Sign",
+        "value": "Gemini"
+      },
+      {
+        "trait_type": "Rising Sign",
+        "value": "Libra"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Caprice",
+        "value": 9
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Caution",
+        "value": 9
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Catastrophe",
+        "value": 9
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Curiosity",
+        "value": 9
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Charisma",
+        "value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Cunning",
+        "value": 9
+      }
+    ],
+    "coven_cats": {
+      "id": 1,
+      "name": "hera",
+      "type": "cat of charisma",
+      "description": {
+        "summoning": "You are the CAT of CHARISMA.",
+        "magic": "Dogs and kings bow before your paws.",
+        "acts_of_service": "You and your WITCH breathe life into sketches and turn ideas into masterpieces.",
+        "belonging": "People from lands over travel to bask in your aura and witness your artistry.",
+        "meow": "THE PENCIL IS MIGHTIER!"
+      },
+      "skills": {
+        "caprice": 9,
+        "caution": 9,
+        "catastrophe": 9,
+        "curiosity": 9,
+        "charisma": 10,
+        "cunning": 9
+      },
+      "birth_chart": {
+        "sun": "virgo",
+        "moon": "gemini",
+        "rising": "libra"
+      },
+      "styles": [
+        {
+          "trait_type": "Background",
+          "value": "Peach"
+        },
+        {
+          "trait_type": "Background Item",
+          "value": "Pillars"
+        },
+        {
+          "trait_type": "Seat",
+          "value": "Cubic Stone"
+        },
+        {
+          "trait_type": "Foreground Item",
+          "value": "Sacred Scroll"
+        },
+        {
+          "trait_type": "Foreground Item",
+          "value": "Pomegranate"
+        },
+        {
+          "trait_type": "Body Style",
+          "value": "Floofed"
+        },
+        {
+          "trait_type": "Fur Color",
+          "value": "Firmament"
+        },
+        {
+          "trait_type": "Eye Style",
+          "value": "Hera"
+        },
+        {
+          "trait_type": "Eye Color",
+          "value": "Sapphire"
+        },
+        {
+          "trait_type": "Head Topper",
+          "value": "Celestial Crown"
+        },
+        {
+          "trait_type": "Bodywear",
+          "value": "Blue Mantle"
+        }
+      ],
+      "hash": "3d497d5fe3701efc719c512c8684f38400dd46ddb42228a788ec005324cd97b2"
+    }
+  }
+}

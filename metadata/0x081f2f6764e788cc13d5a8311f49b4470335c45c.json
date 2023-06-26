@@ -1,0 +1,56 @@
+{
+  "address": "0x081f2f6764e788cc13d5a8311f49b4470335c45c",
+  "type": "ERC721",
+  "name": "Beyond Earth Characters",
+  "tokenCount": "11000",
+  "uri": "https://us-central1-beyond-earth-online.cloudfunctions.net/api/characters/1",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/beyond-earth-online.appspot.com/o/characters%2F1.png?alt=media",
+    "external_url": "",
+    "name": "BEO Character #1",
+    "description": "BEO Character #1",
+    "attributes": [
+      {
+        "value": "Common",
+        "trait_type": "Rank"
+      },
+      {
+        "value": "None",
+        "trait_type": "Head"
+      },
+      {
+        "value": "T01",
+        "trait_type": "Torso"
+      },
+      {
+        "value": "T04",
+        "trait_type": "Leg"
+      },
+      {
+        "value": "T15",
+        "trait_type": "Boots"
+      },
+      {
+        "value": "T12",
+        "trait_type": "Gloves"
+      },
+      {
+        "value": "Crown",
+        "trait_type": "Accesory"
+      },
+      {
+        "value": "T01",
+        "trait_type": "Shoulder"
+      },
+      {
+        "value": "0C0F17",
+        "trait_type": "Glow Color"
+      },
+      {
+        "value": "Bear",
+        "trait_type": "Race"
+      }
+    ],
+    "uniqueComboId": "Type-Unrevealed"
+  }
+}

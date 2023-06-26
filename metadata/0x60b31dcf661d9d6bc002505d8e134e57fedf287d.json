@@ -1,0 +1,46 @@
+{
+  "address": "0x60b31dcf661d9d6bc002505d8e134e57fedf287d",
+  "type": "ERC721",
+  "name": "AlphaFrens",
+  "tokenCount": "128",
+  "uri": "ipfs://QmR6pPs5QkHR3ZE6XWyURV7RxfqqFTmL6cAgt5p7kKjAc7/1.json",
+  "metadata": {
+    "name": "1",
+    "description": "Alpha Frens | 1,014 供應 | 隱形掉落",
+    "external_url": "",
+    "image": "ipfs://QmWVed6cZpaBKeGmpyg7K85cYEPqBjvA2F7nFMsuQ8pxAy/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Brown Body"
+      },
+      {
+        "trait_type": "Cloths",
+        "value": "White Hoodie"
+      },
+      {
+        "trait_type": "Head",
+        "value": "White Bucket Hat"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Pink Handlebar"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

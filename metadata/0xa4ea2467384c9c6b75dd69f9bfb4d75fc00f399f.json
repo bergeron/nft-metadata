@@ -1,0 +1,57 @@
+{
+  "address": "0xa4ea2467384c9c6b75dd69f9bfb4d75fc00f399f",
+  "type": "ERC721",
+  "name": "RockGodNFT Series 2",
+  "tokenCount": "2500",
+  "uri": "ipfs://bafybeigxxayqvf3aksss5vcj57op2vkymavmojqhpy5sk6n4u7rr3xz44a/1",
+  "metadata": {
+    "name": "RockGodNFT V2 #1",
+    "description": "2500 Unique RockGods living on the Ethereum Blockchain",
+    "external_url": "https://rockgodnft.com",
+    "image": "https://rockgods.mypinata.cloud/ipfs/QmVoeiuCRfSKTb6uFemPio4vGh427BpSnNsxmTFmAejkqX/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background-Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Keyboards"
+      },
+      {
+        "trait_type": "PantStyle",
+        "value": "Green Camo Pants"
+      },
+      {
+        "trait_type": "ShirtStyle",
+        "value": "TieDye Tee"
+      },
+      {
+        "trait_type": "Eye Color",
+        "value": "Blue Eyes"
+      },
+      {
+        "trait_type": "HairStyle",
+        "value": "Mistress of the dark"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 1000,
+    "collection": {
+      "name": "RockGodNFT Series 2",
+      "family": "RockGodNFT Series 2"
+    },
+    "symbol": "",
+    "fee_recipient": "0xe2E90Cc055ba5582524363E56d3FD40c25EDB191"
+  }
+}

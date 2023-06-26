@@ -1,0 +1,41 @@
+{
+  "address": "0x604dbf951850e3a9fe8d8744f1dfe5f1444f7c60",
+  "type": "ERC1155",
+  "name": "FraktalNFTSmol Kevins",
+  "tokenCount": "2",
+  "uri": "ipfs://QmPBRWfj9btiMAxwX9TDrAssVi9urmZodkGZiGnZtFgPmH/1939.json",
+  "metadata": {
+    "name": "Smol Kevins #550",
+    "description": "Smol Kevins #550 - 2000 NFTs for the culture",
+    "fee_recipient": "0xE434B2B771D770F1F9454F0Ddb5bb0E65e1c6C95",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://QmZiFhMLJQsQyTAhZJcg28QASoCgV9AWwEJjovqF2u6khH/1939.png",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "City"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Bear Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Default"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Default"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 1639,
+        "display_type": "number"
+      }
+    ]
+  }
+}

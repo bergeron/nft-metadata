@@ -1,0 +1,38 @@
+{
+  "address": "0x5ce1318b35ae2d3bd792706ff5c043c14de24bfd",
+  "type": "ERC721",
+  "name": "Smugbunny - Genesis",
+  "tokenCount": "500",
+  "uri": "https://www.smugbunny.io/api/metadata/1.json",
+  "metadata": {
+    "image": "http://ipfs.io/ipfs/bafybeihhil5q2oxuwk4ozwnzyzp64xmn5utpah3bsnt5skusyiw2g4ceoa/1.png",
+    "name": "Smugbunny #0001",
+    "description": "Smugbunny is a 3D NFT collection that combines experimental fashion with the excitement of an interdimensional adventure.",
+    "attributes": [
+      {
+        "trait_type": "Textrue",
+        "value": "Basket Weave"
+      },
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "NeckSweater"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Facekini"
+      },
+      {
+        "trait_type": "NeckAccessory",
+        "value": "Gold Necklace"
+      }
+    ]
+  }
+}

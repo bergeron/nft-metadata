@@ -1,0 +1,34 @@
+{
+  "address": "0x7f10f31ce318762513eaafc4e1ad26a6839928f9",
+  "type": "ERC721",
+  "name": "Death Devils",
+  "tokenCount": "3",
+  "uri": "ipfs://QmRrX65BZSk7u1fttAU683THJN4MXJ6hhK2JLgQkLGCsRE/1.json",
+  "metadata": {
+    "dna": "65db7e14ac8f35379e4106d7fab4ee3961490c44",
+    "name": "Death Devils 1",
+    "description": "",
+    "image": "ipfs://QmYZXCxPRuQYWJXujjTd5C4QgQdmgTkGJcDQCXEa4FWPBh/1.png",
+    "edition": 1,
+    "date": 1634100089178,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "15"
+      },
+      {
+        "trait_type": "Horn",
+        "value": "7"
+      },
+      {
+        "trait_type": "Costume",
+        "value": "19"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "21"
+      }
+    ],
+    "compiler": "Death devils Art Engine"
+  }
+}

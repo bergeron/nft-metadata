@@ -1,0 +1,49 @@
+{
+  "address": "0x9fe1d46e638d5d3587dbe593d55faefca04d996a",
+  "type": "ERC721",
+  "name": "Crypto Skins Project",
+  "tokenCount": "160",
+  "uri": "https://crypto-skins.s3.us-east-2.amazonaws.com/1.json",
+  "metadata": {
+    "dna": "02055006",
+    "name": "#1",
+    "description": "Cyrpto Skin V1. The Crypto Skins Project V1 is a collection of 10,000 unique skins. This skin contains 7 characteristics: the type, hair & headwear, eyes & eyewear, facial hair, neck accessories, mouth props, and mouth.",
+    "image": "https://crypto-skins.s3.us-east-2.amazonaws.com/1.png",
+    "edition": 1,
+    "date": 1631764314705,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "background"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Female-Light"
+      },
+      {
+        "trait_type": "Head",
+        "value": "none"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eye Shadow"
+      },
+      {
+        "trait_type": "Facial Hair",
+        "value": "Goatee"
+      },
+      {
+        "trait_type": "Neck Accessory",
+        "value": "none"
+      },
+      {
+        "trait_type": "Mouth Prop",
+        "value": "none"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Lipstick"
+      }
+    ]
+  }
+}

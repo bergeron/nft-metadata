@@ -1,0 +1,34 @@
+{
+  "address": "0x33ac3e95f71643426505b8731ccaf9946168b95a",
+  "type": "ERC721",
+  "name": "Ordinal BTC Owls",
+  "tokenCount": "900",
+  "uri": "ipfs://bafybeicdrndwlstxaqyioruwy3fblttukyut5ajjtxrzawgcdotb7xvuim/1.json",
+  "metadata": {
+    "name": "BTC Owl #1",
+    "description": "Owls made of Bitcoin.",
+    "image": "ipfs://bafybeibujldqlburobovl2qd2fojqzwr4m57icifa7odz6ixqvzhmgcnz4/1.png",
+    "dna": "6374e186bd2d5849334f84b3bf4373650f84e576",
+    "edition": 1,
+    "date": 1678072500817,
+    "attributes": [
+      {
+        "trait_type": "feather",
+        "value": "orange"
+      },
+      {
+        "trait_type": "beak",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Cute"
+      },
+      {
+        "trait_type": "headwear",
+        "value": "Sombrero"
+      }
+    ],
+    "compiler": "BTC"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "address": "0x9c87a5726e98f2f404cdd8ac8968e9b2c80c0967",
+  "type": "ERC721",
+  "name": "LZclub-Lucky tiger",
+  "tokenCount": "1000",
+  "uri": "ipfs://bafybeif5xrnalffykecdumwhxdt4xcdazpwhjcbrqe2p42faeqgxtbfhca/1.json",
+  "metadata": {
+    "name": "Lucky tiger #1",
+    "description": "Lucky tiger is a collection of 1000 NFTs, waddling through Web3. Embodying Fortune, Lucky tiger are a beacon of positivity in the NFT Space. Lucky holders can get rich rewards.",
+    "external_url": "",
+    "image": "ipfs://bafybeic6eyhlnpqyeah2cqqdlydxl6slrzwd2rb25jx6gyzjb5t5rulaeu/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gradient powder"
+      },
+      {
+        "trait_type": "body",
+        "value": "Yellow tiger"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "shirt"
+      },
+      {
+        "trait_type": "eye",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "smile"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "lucky tiger",
+      "family": "lucky tiger"
+    },
+    "symbol": ""
+  }
+}

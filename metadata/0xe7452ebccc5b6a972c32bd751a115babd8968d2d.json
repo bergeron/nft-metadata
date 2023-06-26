@@ -1,0 +1,26 @@
+{
+  "address": "0xe7452ebccc5b6a972c32bd751a115babd8968d2d",
+  "type": "ERC721",
+  "name": "Cancer Ribbons",
+  "tokenCount": "6",
+  "uri": "ipfs://QmRKwSW2BFav93HB63g96CnPP5R8dstZw6QDqUMGkCD6vY/1.json",
+  "metadata": {
+    "name": "Cancer Ribbons #1",
+    "description": "Wearing a ribbon is a simple way of showing your support for people who have cancer. It's a way to spread awareness and send a message of solidarity without having to say a word.",
+    "image": "ipfs://QmTYttdE86pu1vSfNZyWHQDimgAedMPNcbpYe6jXVvJu4N/1.png",
+    "dna": "cc48e031fb957b161b269bc3e0a35118e9c16af1",
+    "edition": 1,
+    "date": 1658520464598,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "37"
+      },
+      {
+        "trait_type": "CancerRibbons",
+        "value": "Prostate Cancer"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

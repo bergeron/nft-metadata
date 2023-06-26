@@ -1,0 +1,42 @@
+{
+  "address": "0x68bf5b45eb1851ed543c757c8dbef352be570cb7",
+  "type": "ERC721",
+  "name": "Coffee Club Official",
+  "tokenCount": "3000",
+  "uri": "ipfs://QmVtU95yB1pysGuyMm5mNosiw7KX9CyD9FtRicf1hj2zLg/1.json",
+  "metadata": {
+    "name": "Cup #1",
+    "description": "Wake up and smell the coffee!",
+    "image": "ipfs://QmbganXrkNooeTNqjLoWSCX8dVTiWt5FaBw6kBS8zoYfvq/1.png",
+    "dna": "87161f1637712086e041714ed1e981616e507e41",
+    "edition": 1,
+    "date": 1647505821032,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Retro Ribbons"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pink Hoodie"
+      },
+      {
+        "trait_type": "Mug",
+        "value": "Light Purple"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Robot Eyes"
+      },
+      {
+        "trait_type": "Fill",
+        "value": "Overflowing Dark Roast "
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

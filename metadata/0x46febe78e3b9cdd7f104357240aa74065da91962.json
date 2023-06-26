@@ -1,0 +1,26 @@
+{
+  "address": "0x46febe78e3b9cdd7f104357240aa74065da91962",
+  "type": "ERC721",
+  "name": "Grungibles",
+  "tokenCount": "25",
+  "uri": "ipfs://QmQXypWRfFiqoWsPfkWVR2nyAPt7cNW5f1CqrGfydufA3n/1.json",
+  "metadata": {
+    "id": 1,
+    "name": "Braceface Betty",
+    "description": "Grungibles By Young Gun Motion & Smearballs",
+    "animation_url": "ipfs://QmbeGRC2Ukc6uDvw21mE3nDvb36x7ahmSXhQ4fDQRqAPEH/GRNG_1.mp4",
+    "image": "ipfs://QmRUMjNp4vawD5kaK48T5FhsLc2pxkCC5uNCt48TNyWGmL/1.gif",
+    "seller_fee_basis_points": 750,
+    "fee_recipient": "0x45C1db3098eA7CAB18C1776eB3B0915a32F04Ad2",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Young Gun Motion"
+      },
+      {
+        "trait_type": "Mint #",
+        "value": "1"
+      }
+    ]
+  }
+}

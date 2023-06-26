@@ -1,0 +1,31 @@
+{
+  "address": "0xecc4a0fa90e81bc72557075d507cd7e0c9a864c2",
+  "type": "ERC721",
+  "name": "Warranty receipt NFTs connected to securely vaulted works of art and antiquities.",
+  "tokenCount": "2",
+  "uri": "ipfs://QmPrcFrHs3XSVDP6QeuxusYkb1JXieUqd9E4yxFt1ykbmE/meta/receipt/erc721/nft.json",
+  "metadata": {
+    "name": "Warranty on Tibetan Gilt Bronze Figurine of Acala",
+    "description": "Possession of this NFT indicates that you have paid for warranty certifiying this copy as signed.\n\n[See this object's Mattereum Asset Passport](https://passport.mattereum.com/mtrm.tg.acala.1819c.m034) for further details.\n\nVault fees are pre-paid on this asset for 12 months from the time this NFT was issued. Subsequent vault fees are the sole responsibility of the asset owner.",
+    "image": "ipfs://QmT8VEFs9r25c8n1U46xH6k9gUj1e1xht8Ko6qPWyfaSSz",
+    "external_url": "https://passport.mattereum.com/mtrm.tg.acala.1819c.m034",
+    "attributes": [
+      {
+        "trait_type": "Warranty Price",
+        "value": "1% of the sale price of the object or its corresponding NFT.\n\nThe Warranty Price is referred to in the Mattereum Certification Contract as the \"Certifier Fee\"."
+      },
+      {
+        "trait_type": "Maximum Consequential Loss Covered",
+        "value": "Up to the sale price of the object or its corresponding NFT."
+      },
+      {
+        "trait_type": "Duration",
+        "value": "1 Year"
+      },
+      {
+        "trait_type": "Issuer",
+        "value": "MTRM Industries Ltd."
+      }
+    ]
+  }
+}

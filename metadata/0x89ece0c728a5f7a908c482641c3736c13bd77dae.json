@@ -1,0 +1,39 @@
+{
+  "address": "0x89ece0c728a5f7a908c482641c3736c13bd77dae",
+  "type": "ERC721",
+  "name": "Tinyfrensnft",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmcDvauQ2cj62Z3fyVs2MU3Ka4UfASxFy2pEKmcgyxqehw/1.json",
+  "metadata": {
+    "name": "TinyFriends #1",
+    "description": "",
+    "image": "ipfs://QmbqWRDAKKJ1n4Y2N4rJgYvNUyH8MqpGymW73LjZS157UR/1.png",
+    "animation_url": "ipfs://QmbqWRDAKKJ1n4Y2N4rJgYvNUyH8MqpGymW73LjZS157UR/1.png",
+    "attributes": [
+      {
+        "value": "WhiteSkin",
+        "trait_type": "skin"
+      },
+      {
+        "value": "NormalFire",
+        "trait_type": "Fire"
+      },
+      {
+        "value": "Blue",
+        "trait_type": "background"
+      },
+      {
+        "value": "BigEye",
+        "trait_type": "eyes"
+      },
+      {
+        "value": "BlueHotHat",
+        "trait_type": "Hat"
+      },
+      {
+        "value": "GrayWings",
+        "trait_type": "Spikes"
+      }
+    ]
+  }
+}

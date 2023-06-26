@@ -1,0 +1,51 @@
+{
+  "address": "0x47fbcb84ef3813ff19e2991d83444bd7bb6c301d",
+  "type": "ERC721",
+  "name": "Propy Deed NFT",
+  "tokenCount": "1",
+  "uri": "ipfs://QmdiULknC3Zh2FMWw1DjFGnEBBLFp2qQbbyChjwuUkZVJx",
+  "metadata": {
+    "description": "DEED NFT, 4625 W Laredo St, Chandler, AZ, 85226",
+    "external_url": "https://propy.com",
+    "image": "ipfs://QmaEzGDwjP5S4UiqLgqwXeoBpHV1iGwnbpMEj9mb4pxNwD",
+    "name": "Propy DEED NFT-0003",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Single Family House"
+      },
+      {
+        "trait_type": "Address",
+        "value": "4625 W Laredo St, Chandler, AZ, 85226"
+      },
+      {
+        "trait_type": "Country",
+        "value": "USA"
+      },
+      {
+        "trait_type": "City",
+        "value": "Chandler"
+      },
+      {
+        "trait_type": "ZIP",
+        "value": "85226"
+      },
+      {
+        "trait_type": "Sqft",
+        "value": "1350"
+      },
+      {
+        "trait_type": "Bedrooms",
+        "value": "3"
+      },
+      {
+        "trait_type": "Bathrooms",
+        "value": "2"
+      },
+      {
+        "trait_type": "Recorded Deed",
+        "value": "ipfs://QmRy59xJ3Roh9fCxgsdMqMjmrLkjrPgTa2g3Gq8qFNE9iN"
+      }
+    ]
+  }
+}

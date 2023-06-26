@@ -1,0 +1,12 @@
+{
+  "address": "0x5c770425aeb064135b5e625d46b12619189b4077",
+  "type": "ERC721",
+  "name": "Non-Fungible Gas V4",
+  "tokenCount": "100",
+  "uri": "https://xmons.herokuapp.com/nfgas/1",
+  "metadata": {
+    "name": "NFGas #1",
+    "description": "An NFT corresponding to the gas price of 1 gwei.",
+    "image_data": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 300'><rect width='280' height='280' x='10' y='10' fill='#eee' ry='10' rx='10'/> <path d='M70 32c-13 0-24 11-24 24v102l-19 4v30h149v-30l-19-4V87h10v37h15V90l2-1 8-8c2-1 2-4 1-5l-4-4-1-1 15-14-2-2-16 15-2 1-8 8c-2 2-2 4-1 6l4 3v31h-6V82h-15V56c0-13-10-24-24-24z' fill='rgb(20, 20, 20)'/><rect width='67' height='34' x='68' y='49' ry='10' rx='10' fill='#fff'/><circle r='5' cx='205' cy='60'><animate attributeName='cy' values='60;100' dur='1s' repeatCount='indefinite' fill='freeze'/></circle><circle r='5' cx='205' cy='100'><animate attributeName='cy' values='100;140' dur='1s' repeatCount='indefinite' fill='freeze'/></circle><circle r='5' cx='205' cy='140'><animate attributeName='cy' values='140;180' dur='1s' repeatCount='indefinite' fill='freeze'/></circle><rect width='20' height='10' x='195' y='180' rx='5'><animate attributeName='width' values='20;30;20' dur='1s' repeatCount='indefinite' fill='freeze' begin='1s'/><animate attributeName='x' values='195;190;195' dur='1s' repeatCount='indefinite' fill='freeze' begin='1s'/></rect><text x='50' y='230' font-size='24' font-weight='bold'>NFGas #1</text><text x='70' y='130' font-size='34' font-weight='bold' fill='#fff'>????</text></svg>"
+  }
+}

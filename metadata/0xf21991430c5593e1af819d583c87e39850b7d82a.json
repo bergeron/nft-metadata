@@ -1,0 +1,42 @@
+{
+  "address": "0xf21991430c5593e1af819d583c87e39850b7d82a",
+  "type": "ERC721",
+  "name": "MetaFunRunNFT",
+  "tokenCount": "2",
+  "uri": "ipfs://QmbVmGd6dQKXipWMEZopxWRuEAdVSAED4DRQod6JfiHrsB/1.json",
+  "metadata": {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmfDrsxHMKUobDCkotEALMFAEicAKJKPT9Sqid3btZPNpV/1.png",
+    "dna": "3b5111951e2e21182e022cdf214e9d1dbbfed89e",
+    "edition": 1,
+    "date": 1647484818551,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bg"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "student"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "hat"
+      },
+      {
+        "trait_type": "Shoe",
+        "value": "shop"
+      },
+      {
+        "trait_type": "Properties",
+        "value": "Dark"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

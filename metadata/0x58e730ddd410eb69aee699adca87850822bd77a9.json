@@ -1,0 +1,54 @@
+{
+  "address": "0x58e730ddd410eb69aee699adca87850822bd77a9",
+  "type": "ERC721",
+  "name": "Surreal Okay Bears",
+  "tokenCount": "4887",
+  "uri": "ipfs://QmUaJ7hH68XUHbyAsPMN3D93TZzbQ1dByYiMtLFFybQt26/1",
+  "metadata": {
+    "name": "Surreal Okay Bear #1",
+    "symbol": "SOB",
+    "description": "Okay Bears have entered the surreal world, resembling a dream, full of magic and strange beauty 🪄🐻💭",
+    "seller_fee_basis_points": 800,
+    "image": "https://testlaunchmynft.mypinata.cloud/ipfs/QmR8hfms4sQjZmZexcamaZfJ4kmaFQwWkxh9CYm4Ns13Ns/4998.png",
+    "external_url": "",
+    "collection": {
+      "name": "Okay Minds ",
+      "family": "LaunchMyNFT"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Happy Polar"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Orange Sweater"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 4591,
+        "display_type": "number",
+        "max_value": 5000
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/QmR8hfms4sQjZmZexcamaZfJ4kmaFQwWkxh9CYm4Ns13Ns/4998.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "2pPr4sg6khhdWQQtb44M7FovKNa38vQyZMW2kJBMC2tA",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

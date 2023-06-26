@@ -1,0 +1,41 @@
+{
+  "address": "0x919bf3d406ff90c17f97cd5887adf8c8c111fa8c",
+  "type": "ERC721",
+  "name": "CapsuleCorp.",
+  "tokenCount": "11",
+  "uri": "https://gateway.pinata.cloud/ipfs/Qmbw4CDKs5exCFrXsmQZX4DrkwEQ6QEjke3unXt5ibC5Ro/1.json",
+  "metadata": {
+    "name": "Capsule #1",
+    "description": "A product of Capsule Corp.",
+    "image": "ipfs://QmdYUEsr48iaDjNdP5xo8F3rTvPcQfX7N3aeNn3ejWEn8Z/1.png",
+    "external_url": "https://www.thecapsulecorporation.com",
+    "hashID": "cc9824428724a4c2b0a77b72ba19afa937609150",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink Yellow"
+      },
+      {
+        "trait_type": "Capsule Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Details",
+        "value": "None"
+      },
+      {
+        "trait_type": "Item",
+        "value": "Hyperbolic Time Chamber"
+      },
+      {
+        "trait_type": "Weight",
+        "value": "0.05KG"
+      },
+      {
+        "trait_type": "Expiration",
+        "value": "None"
+      }
+    ]
+  }
+}

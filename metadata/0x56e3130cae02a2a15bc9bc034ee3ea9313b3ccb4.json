@@ -1,0 +1,30 @@
+{
+  "address": "0x56e3130cae02a2a15bc9bc034ee3ea9313b3ccb4",
+  "type": "ERC721",
+  "name": "NFT Is Dead?",
+  "tokenCount": "999",
+  "uri": "ipfs://bafybeicc7fcsdg4tozcwxspgnnwt2djoxd52drmpbsuxomj525ecbkzzvi/1.json",
+  "metadata": {
+    "name": "NFT is dead #1",
+    "description": "999 NFT’s artworks in Spazialismo style just for the culture. Free mint, CC0.",
+    "image": "ipfs://bafybeidzwo4gqhcrvo4l2v3pgme23dzayfrmzywhhoheiwgwpmxvvhxawi/1.png",
+    "attributes": [
+      {
+        "trait_type": "deadnft",
+        "value": "cryptopunks#0000"
+      },
+      {
+        "trait_type": "scratch",
+        "value": "scratch2"
+      },
+      {
+        "trait_type": "face",
+        "value": "face4"
+      },
+      {
+        "trait_type": "background",
+        "value": "green"
+      }
+    ]
+  }
+}

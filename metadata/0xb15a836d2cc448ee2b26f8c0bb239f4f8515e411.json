@@ -1,0 +1,37 @@
+{
+  "address": "0xb15a836d2cc448ee2b26f8c0bb239f4f8515e411",
+  "type": "ERC721",
+  "name": "Mozaik NFT",
+  "tokenCount": "215",
+  "uri": "https://mozaik-nft.s3.us-east-2.amazonaws.com/collection/1",
+  "metadata": {
+    "name": "Mozaik #1",
+    "description": "Mosaic of https://opensea.io/assets/0x4c41c303cb7892a13acce8ff2837d41fbbd2e0ad/3914 \nExplore the full size version here: https://mozaik-nft.s3.us-east-2.amazonaws.com/collection/1_viewer.html",
+    "external_url": "https://mozaik-nft.s3.us-east-2.amazonaws.com/collection/1_viewer.html",
+    "image": "https://mozaik-nft.s3.us-east-2.amazonaws.com/collection/1.png",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Diversity",
+        "value": 81
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Fidelity",
+        "value": 96
+      },
+      {
+        "trait_type": "Resolution",
+        "value": "HighRes"
+      },
+      {
+        "trait_type": "Inception",
+        "value": "Mozaik"
+      },
+      {
+        "trait_type": "Waldo",
+        "value": "No"
+      }
+    ]
+  }
+}

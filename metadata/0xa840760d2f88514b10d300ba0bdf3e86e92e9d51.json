@@ -1,0 +1,46 @@
+{
+  "address": "0xa840760d2f88514b10d300ba0bdf3e86e92e9d51",
+  "type": "ERC721",
+  "name": "EthQuote_1 - old",
+  "tokenCount": "2",
+  "uri": "https://metadata.risorsa.cz/openseametadata/token1/1",
+  "metadata": {
+    "id": 1,
+    "description": "Charackter 'W' on position No. 1, word No. 1 from Vitalik Buterin quote: When I came up with Ethereum, my first first thought was, 'Okay, this thing is too good to be true.' As it turned out, the core Ethereum idea was good - fundamentally, completely sound.",
+    "external_url": null,
+    "image": "https://metadata.risorsa.cz/token1/001.png",
+    "name": "#1 Charackter 'W'",
+    "attributes": [
+      {
+        "trait_type": "Charackter",
+        "value": "W"
+      },
+      {
+        "trait_type": "Pallete No.",
+        "value": "0"
+      },
+      {
+        "trait_type": "Square size",
+        "value": "25"
+      },
+      {
+        "trait_type": "Background type",
+        "value": "Eroding"
+      },
+      {
+        "trait_type": "Lenght",
+        "value": "1"
+      },
+      {
+        "trait_type": "Position",
+        "value": 1,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Word No.",
+        "value": 1,
+        "display_type": "number"
+      }
+    ]
+  }
+}

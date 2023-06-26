@@ -1,0 +1,42 @@
+{
+  "address": "0x44a77b63ba6a98986addce9a5d6df036fdfcf2de",
+  "type": "ERC721",
+  "name": "Atlas by Xin Liu",
+  "tokenCount": "101",
+  "uri": "https://ipfs.blanknetwork.com/ipfs/Qmd6fdSJh3UhgNWUQj7gc9XokFQmCbsMi5tYPM79ZkuMxV",
+  "metadata": {
+    "name": "2022-01-01-02-03-53-UTC_NOAA-18",
+    "description": "The NFT is captured by NOAA-18 satellite in Hong Kong, 2022-01-01-02-03-53-UTC.\r\n\r\n\"Atlas\"  turns unique moments of the Earth into unique artworks. Originated in orbit, this collection poetically brings together old and emerging technologies. \r\n\r\nAn antenna installed in Hong Kong captures the radio signals of three retired NOAA satellites that pass over the city approximately four times a day. The images are continuously broadcasted to Earth via the Automatic Picture Transmission (APT) system. The noise and glitches in the images were caused by the exact condition of the reception. Each image received was uniquely captured over the ten to fifteen minutes when one of the satellites was in a direct line-of-sight to the antenna.",
+    "attributes": [
+      {
+        "trait_type": "year",
+        "value": "2022"
+      },
+      {
+        "trait_type": "month",
+        "value": "01"
+      },
+      {
+        "trait_type": "day",
+        "value": "01"
+      },
+      {
+        "trait_type": "time",
+        "value": "02-03-53-UTC"
+      },
+      {
+        "trait_type": "satellite ",
+        "value": "NOAA-18"
+      }
+    ],
+    "blankMode": {
+      "top": "0",
+      "left": "0",
+      "size": "90",
+      "background": "#000000"
+    },
+    "tags": "#feather,#vein,#noise",
+    "image": "https://ipfs.blanknetwork.com/ipfs/QmWGUKd9h8f1XojRiTTSNh2hoxbgAsWV96WRqtCVyXnZ2T/873090c7a25616e7edef340a49d0f2a9.png",
+    "mimetype": "image/png"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "address": "0x9c81ba58a80cbfaf879ec1440ac7b24f401f5873",
+  "type": "ERC1155",
+  "name": "Forge Token",
+  "tokenCount": "2",
+  "uri": "ipfs://QmNir6T187vuHsSrY3K8ZfAFMRwDDzs98tFxcgCKbHZHZF",
+  "metadata": {
+    "name": "Zeus ZUZ",
+    "description": "Disclaimer!!! Dynamic NFT .1 ZUT! You must hold at least .1 ZUT in the wallet to store this NFT. If your wallet balance goes below .1 ZUT at anytime your NFT will burn. This is burn is irreversible. IN ZUT SPERAMUS!",
+    "image": "ipfs://QmWXbbhG3pNoPC8LkoW1KD9vMnUBbMp7D84my9GCLG7Hkr",
+    "attributes": [
+      {
+        "trait_type": "Min Balance",
+        "value": ".1"
+      },
+      {
+        "trait_type": "Min Token",
+        "value": "0x83F873388Cd14b83A9f47FabDe3C9850b5C74548"
+      }
+    ]
+  }
+}

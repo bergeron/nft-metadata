@@ -1,0 +1,34 @@
+{
+  "address": "0x98712e44c91d2948aaa00900734637c7ec2ff994",
+  "type": "ERC721",
+  "name": "Marfa Marks",
+  "tokenCount": "72",
+  "uri": "https://www.marfamarks.com/api/metadata/1",
+  "metadata": {
+    "name": "Marfa Marks #1",
+    "description": "Marfa Marks is an on-chain algorithmic art project from the Art Blocks community to celebrate the gallery opening in Marfa. All colors were chosen by gallery attendees and each color represents an aspect of the Marfa experience for them.",
+    "image": "https://kywxhovldsrqhvnpwkdp.supabase.in/storage/v1/object/public/files/1-marfa-mark.png",
+    "attributes": [
+      {
+        "trait_type": "Word",
+        "value": "MARFA"
+      },
+      {
+        "trait_type": "Stance",
+        "value": "Map"
+      },
+      {
+        "trait_type": "Rotation",
+        "value": "Up"
+      },
+      {
+        "trait_type": "Angle",
+        "value": "Arrow"
+      },
+      {
+        "trait_type": "TextSize",
+        "value": "Small"
+      }
+    ]
+  }
+}

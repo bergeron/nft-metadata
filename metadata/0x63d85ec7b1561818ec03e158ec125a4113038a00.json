@@ -1,0 +1,82 @@
+{
+  "address": "0x63d85ec7b1561818ec03e158ec125a4113038a00",
+  "type": "ERC721",
+  "name": "Kryptoria - Alpha Citizens",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmPT6K6LhwVmVAJ4qu8D72uEz4vQGimmPgcf5m5ndq9rS3/1.json",
+  "metadata": {
+    "dna": "4ceac59a6cefcb86671cab3d7840044d0aab79ec9489d3f1a097cc2c4e926471",
+    "name": "Alpha Citizen #1",
+    "description": "Kryptoria is a VC-backed, immersive map-based block chain game. Set in our Unity-built world, holders will be able to dynamically update all traits on their Alpha Citizen post mint, offering not only individual customisation but ongoing commercial opportunities.\n  \n  \nOwners of Kryptoria’s Alpha Citizens will be entitled to claim one free land NFT and one free weapon NFT per Alpha Citizen they hold, alongside access to our European Web3 venture studio.\n  \n  \nJoin the rebellion!",
+    "image": "ipfs://QmaeqkGmmerMxg4RWSi1npVAkQMq1fqYsmwH4ee8EdQZfp/1.png",
+    "imageHash": "748882a2e3abb3fae12b1604c525170bbcd217644ec6f36424457829ea350ac0",
+    "edition": 1,
+    "date": 1661710054465,
+    "attributes": [
+      {
+        "trait_type": "ARMOUR",
+        "value": "Frontier MK4"
+      },
+      {
+        "trait_type": "BACKGROUND",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "BASE",
+        "value": "Human"
+      },
+      {
+        "trait_type": "CLOTHING",
+        "value": "None"
+      },
+      {
+        "trait_type": "FACE WEAR",
+        "value": "Zeus"
+      },
+      {
+        "trait_type": "FACIAL EXPRESSION",
+        "value": "Scared Green"
+      },
+      {
+        "trait_type": "FACIAL HAIR",
+        "value": "None"
+      },
+      {
+        "trait_type": "HAIR",
+        "value": "Up Silver"
+      },
+      {
+        "trait_type": "HELMET",
+        "value": "None"
+      },
+      {
+        "trait_type": "TATTOO",
+        "value": "None"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Attack - Base",
+        "value": 25,
+        "max_value": 25
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Defence - Base",
+        "value": 25,
+        "max_value": 25
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Defence - Armour",
+        "value": 55,
+        "max_value": 75
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Defence - Helmet",
+        "value": 0,
+        "max_value": 25
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "address": "0x6a4df0f5aa8e1f84de48cc73c40377dd00e1ffc8",
+  "type": "ERC1155",
+  "name": "ETCH Editions",
+  "tokenCount": "8",
+  "uri": "https://arweave.net/pKC87TuXsFn-F8mluWW0KhsWRqGJWWFAz12xKCKn8I8",
+  "metadata": {
+    "name": "ETCH BURN TOKEN",
+    "created_by": "TARI",
+    "description": "This Burn Token can be used to redeem free limited physical editions during ETCH Burn Drops. ",
+    "attributes": [
+      {
+        "trait_type": "Batch",
+        "value": "1"
+      }
+    ],
+    "animation_details": {
+      "bytes": 10036220,
+      "format": "MOV",
+      "duration": 10,
+      "sha256": "a97f465cd38354989e8ce1ff5ceb9db0ecf0aff253302b9a8a8f41613c0f4719",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/s1rxMDvKnDju8bQ4cWDoqFU7d1IGz_EKXdMQarl4nlg",
+    "animation_url": "https://arweave.net/s1rxMDvKnDju8bQ4cWDoqFU7d1IGz_EKXdMQarl4nlg",
+    "image_details": {
+      "bytes": 12759148,
+      "format": "PNG",
+      "sha256": "11d66fdf02883bb9c445755e34b0fd532292a9c79ab717c2d2e8ea0e5824df17",
+      "width": 4096,
+      "height": 4096
+    },
+    "image": "https://arweave.net/LJumj4J3CPnQPuRVrsqTDW5owZ183jRh7S9omFnEAkA",
+    "image_url": "https://arweave.net/LJumj4J3CPnQPuRVrsqTDW5owZ183jRh7S9omFnEAkA"
+  }
+}

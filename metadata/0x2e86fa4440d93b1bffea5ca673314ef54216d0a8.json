@@ -1,0 +1,50 @@
+{
+  "address": "0x2e86fa4440d93b1bffea5ca673314ef54216d0a8",
+  "type": "ERC721",
+  "name": "Tonpound Governance NFT",
+  "tokenCount": "92",
+  "uri": "https://tonpound.com/api/token-data/metadata/1",
+  "metadata": {
+    "name": "Topaz",
+    "description": "Tonpound Governance NFT (gNFT)",
+    "image": "https://static.tonpound.com/jewelery/topaz/0.png",
+    "external_url": "mocked",
+    "attributes": [
+      {
+        "trait_type": "Token Type",
+        "value": "Topaz"
+      },
+      {
+        "trait_type": "Opened Segments",
+        "display_type": "boost_number",
+        "value": 0,
+        "max_value": 12
+      },
+      {
+        "trait_type": "Vote Weight",
+        "value": "1"
+      },
+      {
+        "trait_type": "Completion Date",
+        "display_type": "date",
+        "value": null
+      },
+      {
+        "trait_type": "Locked Market",
+        "value": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "trait_type": "Locked Vault Shares",
+        "value": "0"
+      },
+      {
+        "trait_type": "Reward Weight",
+        "value": "1"
+      },
+      {
+        "trait_type": "Used For Mint",
+        "value": "false"
+      }
+    ]
+  }
+}

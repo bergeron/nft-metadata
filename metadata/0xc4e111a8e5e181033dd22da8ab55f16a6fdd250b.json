@@ -1,0 +1,53 @@
+{
+  "address": "0xc4e111a8e5e181033dd22da8ab55f16a6fdd250b",
+  "type": "ERC1155",
+  "name": "Unidentified contract - hZFzD2OseB",
+  "tokenCount": "958",
+  "uri": "https://nft1.projz.com/zuserpremiumproductions/1.json",
+  "metadata": {
+    "name": "Rabbit",
+    "image": "http://ccm1.projz.com/1239/1596033386926292992-v1-r200x200-s200x200.gif",
+    "token_id": "1",
+    "type": "Collectibles",
+    "model": "Simple",
+    "entity_url": "https://nft1.projz.com/1596031482447691776.zpk",
+    "entity_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "contract_address": "0xc4e111A8E5E181033Dd22DA8Ab55f16A6FDD250B",
+    "minter_address": "0x12626f9ba08DfF9197d2270dAFF96e76f90f2Bf7",
+    "credits": [
+      {
+        "name": "Z User @hbsu",
+        "certificate_url": "https://nft1.projz.com/certificates/1597078085750484992.pem",
+        "certificate_sha256": "7e767f853e5c8f69721e5cf8c5c9cda79b9043a0554a67f7c812ae5235da462c",
+        "type": "Author"
+      },
+      {
+        "name": "Z User Productions",
+        "certificate_url": "https://nft1.projz.com/certificates/103.pem",
+        "certificate_sha256": "f7c78b7a52fb0217a6cd763bf3a640a0784de1dad3e021daaaf1fd0d19165b8a",
+        "type": "Publisher",
+        "addresses": [
+          "0x12626f9ba08DfF9197d2270dAFF96e76f90f2Bf7",
+          "0xc4e111A8E5E181033Dd22DA8Ab55f16A6FDD250B",
+          "0xb514eE26570E08c42C73511480909373399aDBA1"
+        ]
+      }
+    ],
+    "signatures_url": "https://nft1.projz.com//signatures/1596031482447691776.sig",
+    "capabilities": [
+      {
+        "type": 1,
+        "name": "ProfileFrame",
+        "contents": [
+          {
+            "id": 1596031482447691800,
+            "name": "Rabbit",
+            "preview_url": "http://cm1.projz.com/1239/1596034377530793984-v1-r200x188-s200x188.gif",
+            "resource_url": "https://nft1.projz.com/1596031482447691777.zpf",
+            "resource_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        ]
+      }
+    ]
+  }
+}

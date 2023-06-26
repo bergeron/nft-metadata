@@ -1,0 +1,34 @@
+{
+  "address": "0x07a5330d50f9da35fd360813b61d3aa41994b580",
+  "type": "ERC721",
+  "name": "Robots of Dawn",
+  "tokenCount": "2",
+  "uri": "ipfs://QmZfrKJ4m2H2GF4Mi2yQ76KnxkPHpy8ELefFZcP3TAvnqG/1",
+  "metadata": {
+    "name": "Robots of Dawn #2",
+    "description": "We are the Robots of Dawn.)",
+    "image": "ipfs://QmUwrq3RQsFAo3DEYDAhZS7KDEZzmtSeDZScsZQ1kbMU3W/2.png",
+    "attributes": [
+      {
+        "trait_type": "Strength",
+        "value": "Strong"
+      },
+      {
+        "trait_type": "Rank",
+        "value": "Corporal"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "Vogsphere"
+      },
+      {
+        "trait_type": "Species",
+        "value": "Magog"
+      }
+    ],
+    "dna": "1b90bd51dccc91019b13b9f4062a0d9a202d6b83",
+    "edition": 2,
+    "date": 1660715889999,
+    "compiler": "www.RobotsofDawn.com"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "address": "0xe1fb64bcefd7392aa0ec39354618ac48a5ddc501",
+  "type": "ERC721",
+  "name": "PlayerOne Parcel",
+  "tokenCount": "928",
+  "uri": "https://res.playerone.world/metadata/parcel/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "area",
+        "value": 400
+      },
+      {
+        "trait_type": "width",
+        "value": 20
+      },
+      {
+        "trait_type": "depth",
+        "value": 20
+      },
+      {
+        "trait_type": "height",
+        "value": 18
+      },
+      {
+        "trait_type": "elevation",
+        "value": 0
+      },
+      {
+        "trait_type": "district",
+        "value": "Metaverse"
+      },
+      {
+        "trait_type": "island",
+        "value": "Genesis Land"
+      },
+      {
+        "trait_type": "mountain",
+        "value": ""
+      },
+      {
+        "trait_type": "river",
+        "value": ""
+      },
+      {
+        "trait_type": "lake",
+        "value": ""
+      },
+      {
+        "trait_type": "sea",
+        "value": ""
+      },
+      {
+        "trait_type": "subway",
+        "value": "Elm St 2 Bus Station"
+      },
+      {
+        "trait_type": "blueprint",
+        "value": 0
+      },
+      {
+        "trait_type": "epoch",
+        "value": 0
+      }
+    ],
+    "description": "The land is digital real estate in PlayerOne's virtual world. The land may be used by game designers to create and publish digital resources such as games or voxel models, as well as to add additional elements to them. Each Parcel is a unique non-fungible token on the Ethereum network (ERC-721 standard).",
+    "external_url": "https://www.playerone.world/static-map#sx=35&sy=721&w=20",
+    "image": "https://res.playerone.world/parcelres/35_721.png",
+    "animation_url": "https://www.playerone.world/static-map#sx=35&sy=721&w=20",
+    "name": "Parcel 35,721",
+    "interactive_nft": {
+      "code_uri": "https://www.playerone.world/static-map#sx=35&sy=721&w=20",
+      "version": "1.0"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "address": "0x2c7d72d4413b7116d4bf69616fa748d51673cf93",
+  "type": "ERC721",
+  "name": "A Becky Made Me Do It",
+  "tokenCount": "5",
+  "uri": "https://arweave.net/sSarwnyORddfKaQAEFkZ-eDK0KsWEyCmcnTEtMBdCEU",
+  "metadata": {
+    "name": "aggin",
+    "created_by": "Mvnday",
+    "description": "Track 1 on Becky Made Me Do It LP",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Mvnday"
+      },
+      {
+        "display_type": "number",
+        "value": "1",
+        "max_value": "5",
+        "trait_type": "Track Number "
+      }
+    ],
+    "animation_details": {
+      "bytes": 9130317,
+      "format": "MP3",
+      "duration": 228,
+      "sha256": "a7d61d5b76af3a5e8def256fbebe9e831243da83bbe02906f389b5068952d782"
+    },
+    "animation": "https://arweave.net/oSU_1mOcAiwar0UoFQxuiRaH9MgqT2iLNStWitL-yKk",
+    "animation_url": "https://arweave.net/oSU_1mOcAiwar0UoFQxuiRaH9MgqT2iLNStWitL-yKk"
+  }
+}

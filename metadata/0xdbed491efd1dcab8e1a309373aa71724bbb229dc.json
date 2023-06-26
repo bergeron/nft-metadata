@@ -1,0 +1,21 @@
+{
+  "address": "0xdbed491efd1dcab8e1a309373aa71724bbb229dc",
+  "type": "ERC721",
+  "name": "The FluffyButts",
+  "tokenCount": "584",
+  "uri": "https://api.thekittybutts.com/api/fluffybutt/1",
+  "metadata": {
+    "id": 1,
+    "name": "FluffyButt #1",
+    "description": "A collection of 2,000 FluffyButts generated on the blockchain via KittyButts",
+    "external_url": "http://www.thekittybutts.com",
+    "image": "ipfs://QmZxc1pS693CePUeMSuKJpPu6nzfqvPcdLHhF1V5MEntFH",
+    "image_thumbnail": "http://api.thekittybutts.com/api/fluffybutt/thumbnail/1",
+    "attributes": [
+      {
+        "trait_type": "Summon",
+        "value": "Lucifur"
+      }
+    ]
+  }
+}

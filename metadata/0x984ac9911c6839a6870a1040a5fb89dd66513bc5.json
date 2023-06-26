@@ -1,0 +1,44 @@
+{
+  "address": "0x984ac9911c6839a6870a1040a5fb89dd66513bc5",
+  "type": "ERC721",
+  "name": "Mighty Manateez",
+  "tokenCount": "10000",
+  "uri": "https://api.mightymanateez.io/1",
+  "metadata": {
+    "name": "Mighty Manateez #1",
+    "description": "10,000 Mighty Manateez lazily cruising the ocean looking to help any human in need!",
+    "tokenId": 1,
+    "image": "https://gateway.pinata.cloud/ipfs/QmaL5cLt5m9Ca2J97ScER9bMg4k5AjLNT8xGLbT9jjq54g",
+    "external_url": "https://www.mightymanateez.io",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pirate"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Gi"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Astronaut"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "0xdd61ccf31c1485f73e6eab2c2d251c30ccfe503c",
+  "type": "ERC1155",
+  "name": "Fake Memes of Seizor",
+  "tokenCount": "7",
+  "uri": "https://arweave.net/5YJyFj8vkO5Zq6C1NvkiS_u1mv0Qwt6gp8D_IxDmTtQ",
+  "metadata": {
+    "name": "Fucking fake",
+    "created_by": "Seizor",
+    "description": "survive the bear market with fakes",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "Fake"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "how fake?",
+        "value": 100,
+        "max_value": 100
+      }
+    ],
+    "image_details": {
+      "bytes": 735143,
+      "format": "PNG",
+      "sha256": "271765adbb9724a1d0dac90a5f17890f8a83f6e2cb6e3a3bad989526634f5962",
+      "width": 600,
+      "height": 905
+    },
+    "image": "https://arweave.net/b_eOf2_oh2GeIdPTc3Iz3EHMN5hh6nkDTwghy9sj2nA",
+    "image_url": "https://arweave.net/b_eOf2_oh2GeIdPTc3Iz3EHMN5hh6nkDTwghy9sj2nA"
+  }
+}

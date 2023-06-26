@@ -1,0 +1,41 @@
+{
+  "address": "0x69a553a5c9cb981ed1f44f51735e3bb9a6c0e152",
+  "type": "ERC721",
+  "name": "Carnaval Collection",
+  "tokenCount": "38",
+  "uri": "ipfs://QmQf9CpDeJGv2FdWo7Z1Y8toCVpMTeDyKAaGJFcxpdL4WQ/1",
+  "metadata": {
+    "name": "Carnaval #1",
+    "description": "Carnaval is a timeless song that you will hear at all the carnavales and celebrations throughout the years. A multicultural anthem that brings together some of the most important countries in latin america; Colombia, Brazil and Puerto Rico.",
+    "image": "ipfs://QmfCmJjgGQkW5nrNarRLby1GVV86w5EsXiRMz6ZTAgd4mn",
+    "animation_url": "ipfs://QmQqe2QT5DHwnfCcScWpDfQmDBiTPQeAgSzfa7o8Ly2kMz",
+    "external_link": "https://www.mamimetaverse.com",
+    "dna": "",
+    "edition": 1,
+    "seller_fee_basis_points": 1000,
+    "collection": {
+      "name": "Mami Doll",
+      "family": "Mami Doll"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x23b806128B4C027424ebcaaBe40b59fDa49eD694",
+          "share": 70
+        },
+        {
+          "address": "0x8fE9608Eee56311D6Af7397414568714feb17104",
+          "share": 30
+        }
+      ]
+    },
+    "attributes": []
+  }
+}

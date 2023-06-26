@@ -1,0 +1,22 @@
+{
+  "address": "0x05a6528663278f51f9cc22d0bb3ca0e1e0a3ae2f",
+  "type": "ERC1155",
+  "name": "Pixelmon Armoury",
+  "tokenCount": "12",
+  "uri": "https://pixelmon-training-rewards.s3-accelerate.amazonaws.com/trainer-gear/metadata/1",
+  "metadata": {
+    "name": "Forgemaster's Flawless Warhammer",
+    "image_url": "https://pixelmon-training-rewards.s3-accelerate.amazonaws.com/trainer-gear/images/weapon_fire.png",
+    "description": "For no matter how ancient, perfection is timeless and irreplaceable, its glory never fades.",
+    "attributes": [
+      {
+        "trait_type": "Tribe",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "Gear Type",
+        "value": "Weapon"
+      }
+    ]
+  }
+}

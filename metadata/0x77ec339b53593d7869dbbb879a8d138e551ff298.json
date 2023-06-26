@@ -1,0 +1,57 @@
+{
+  "address": "0x77ec339b53593d7869dbbb879a8d138e551ff298",
+  "type": "ERC721",
+  "name": "NFTCollection",
+  "tokenCount": "7",
+  "uri": "https://ipfs.io/ipfs/QmStVLNwfpCoFXMiEF4VrhmtLVJFCrGSaYnGMr99zQWAGf/9.json",
+  "metadata": {
+    "name": "A house on a cliff with trees and a waterfall",
+    "description": "This image shows a stunning view of a house perched atop a cliff, surrounded by lush green trees and cascading waterfalls. The sky is filled with white clouds that are illuminated by the bright sun, casting its warm light on the scene below. In the foreground, there is an object resembling a hot air balloon in flight against the backdrop of blue sky. Further away from it, one can see a bird soaring through the air as if to join in on this beautiful sight. On closer inspection, one can also make out what appears to be a toy or some kind of round object with white background near the house at bottom right corner of this picture. All these elements come together to create an idyllic landscape that looks like something straight out of paradise",
+    "image": "https://ipfs.io/ipfs/QmXkcHJwKvCZYqH8QLC4X3ProLytrAk3Lw9PbF3RkuiFrG/9.png.png",
+    "attributes": [
+      {
+        "trait_type": "Strength",
+        "value": 6,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Speed",
+        "value": 10,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Jump",
+        "value": 10,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 5,
+        "max_value": 10
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Jump",
+        "value": 1
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Speed",
+        "value": 20
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      },
+      {
+        "trait_type": "Humble",
+        "value": "True"
+      },
+      {
+        "trait_type": "Kind",
+        "value": "True"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "address": "0x001d763c42751edc67686eee9efa844924434444",
+  "type": "ERC1155",
+  "name": "Genius Collectibles V3",
+  "tokenCount": "52",
+  "uri": "ipfs://QmREBr7uRAL1bCRnSVRv4mGfMHV2b4YaEX7gAuLYdvzxwF/0_1.json",
+  "metadata": {
+    "name": "Basic Miner",
+    "description": "A Basic Miner Can mine Genius for 1 to 4,444 days. 20-day Basic Miner is the shortest stake that will have 1 Blackout Day at the beginning and end of the stake’s Promise Period.  Basic Miners of 19 or less Promise Days are an exception and do not have a blackout period. Basic miner commitments cannot be ended early.",
+    "image": "ipfs://QmYVVwTmpfCRvbM6HskFZ87CBt9ZWst361Nuonp2SrcWX6/01__Common.png",
+    "animation_url": null,
+    "external_url": "https://start.geni.app/genft/1/1/",
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "display_type": "string",
+        "value": "First Edition"
+      },
+      {
+        "trait_type": "Rarity",
+        "display_type": "string",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Flavor",
+        "display_type": "string",
+        "value": "“The habit of saving is itself an education; it fosters every virtue, teaches self-denial, cultivates the sense of order, trains to forethought, and so broadens the mind.” - Thornton T. Munger"
+      },
+      {
+        "trait_type": "Artist",
+        "display_type": "string",
+        "value": "Anna ten Bensel"
+      },
+      {
+        "trait_type": "Artist Link",
+        "display_type": "string",
+        "value": null
+      },
+      {
+        "trait_type": "Artist Twitter",
+        "display_type": "string",
+        "value": null
+      },
+      {
+        "trait_type": "Year",
+        "display_type": "string",
+        "value": 2022
+      }
+    ]
+  }
+}

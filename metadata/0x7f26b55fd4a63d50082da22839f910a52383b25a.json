@@ -1,0 +1,39 @@
+{
+  "address": "0x7f26b55fd4a63d50082da22839f910a52383b25a",
+  "type": "ERC721",
+  "name": "Dan Z",
+  "tokenCount": "5",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=wDAfGPcYSAcgdljT1fkX",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1574780273207?alt=media&token=8e27af5f-9ae4-434f-b932-1b7172c57e62",
+    "isForSale": true,
+    "contractAddress": "",
+    "description": "House on chicken legs, pencil on paper, Dan Z, 2019",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted//wDAfGPcYSAcgdljT1fkX",
+    "minter": "0xd32657e904424b26C53867ee1A4f1552b20C57BE",
+    "mintedOn": {
+      "_seconds": 1574780300,
+      "_nanoseconds": 822000000
+    },
+    "price": "1",
+    "name": "House on Chicken Legs, Dan Z, 2019",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "House on Chicken Legs, Dan Z, 2019"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "id": null
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "address": "0xd6dd2578d8a5e02e276a1100be4ccf74979bd21a",
+  "type": "ERC721",
+  "name": "Ether Legends",
+  "tokenCount": "500",
+  "uri": "https://www.etherlegends.com/metadata/tribute/001_Baumgardner_Dragon.json",
+  "metadata": {
+    "name": "'Saint of the Sea' Baumgardner Dragon",
+    "image": "https://www.etherlegends.com/tradingcards/tribute/001_Baumgardner_Dragon.png",
+    "description": "",
+    "external_url": "https://www.etherlegends.com",
+    "attributes": [
+      {
+        "trait_type": "game",
+        "value": "Ether Legends"
+      },
+      {
+        "trait_type": "set",
+        "value": "Tribute"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Tribute"
+      },
+      {
+        "trait_type": "type",
+        "value": "Character"
+      },
+      {
+        "trait_type": "element_1",
+        "value": "Water"
+      },
+      {
+        "trait_type": "strength_1",
+        "value": "Heal"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "number",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "elementeum",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "attack",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "defense",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heal",
+        "value": 6
+      },
+      {
+        "display_type": "number",
+        "trait_type": "disrupt",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heart",
+        "value": 10
+      }
+    ]
+  }
+}

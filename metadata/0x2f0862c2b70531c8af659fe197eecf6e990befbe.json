@@ -1,0 +1,71 @@
+{
+  "address": "0x2f0862c2b70531c8af659fe197eecf6e990befbe",
+  "type": "ERC721",
+  "name": "asdfewqrqewr99",
+  "tokenCount": "50",
+  "uri": "https://api.artblocks.io/token/16000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "16000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Color Study #1",
+    "minted": true,
+    "artist": "Jeff Davis",
+    "description": "Exploring the interaction of four parent colors.",
+    "script_type": "p5@1.0.0",
+    "project_id": "16",
+    "curation_status": "presents",
+    "heritage_curation_status": "playground",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/16000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/16000001.png",
+    "generator_url": "https://generator.artblocks.io/16000001",
+    "royaltyInfo": {
+      "artistAddress": "0x7d42611012fdbe366bf4a0481fc0e1abf15e245a",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Color Study by Jeff Davis",
+    "website": "https://www.jeffgdavis.com",
+    "token_hash": "0xdbc30cd90d5942ed0618adf7ee077b08de11e16d119dfa326ffa5292354933d0",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/16/tokens/16000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/16000001.png",
+    "features": {
+      "Rows": "24",
+      "Layout": "Vertical Lines",
+      "Columns": "40",
+      "Color Override": "None",
+      "Color Modification": "None"
+    },
+    "traits": [
+      {
+        "trait_type": "Color Study",
+        "value": "All Color Studys"
+      },
+      {
+        "trait_type": "Color Study",
+        "value": "Rows: 24"
+      },
+      {
+        "trait_type": "Color Study",
+        "value": "Layout: Vertical Lines"
+      },
+      {
+        "trait_type": "Color Study",
+        "value": "Columns: 40"
+      },
+      {
+        "trait_type": "Color Study",
+        "value": "Color Override: None"
+      },
+      {
+        "trait_type": "Color Study",
+        "value": "Color Modification: None"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC 4.0"
+  }
+}

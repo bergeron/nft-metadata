@@ -1,0 +1,41 @@
+{
+  "address": "0x854cf02ea0e76662abc5ae0f2eb3d2f39ca78192",
+  "type": "ERC721",
+  "name": "LARP Comic NFT",
+  "tokenCount": "50",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmeyuWemePzx99f1adjRWAMN77jhs7QvEf6XAGmytUkait/4Whiplash.json",
+  "metadata": {
+    "name": "LarpBoxel: Whiplash",
+    "description": "This 4 out of 10 animated comic book panels is a claimable NFT series released as a bonus to holders of The Greatest Larp ETHBot and Moloch tokens! www.GreatestLarp.com - The Greatest Larp was created by the Gitcoin DAO and Moonshot Collective, in conjunction with Blaylock Comics. Launched with a free online comic book and a series of digital pixel “ETHBot” NFTs, TGL raises money for public goods by engaging the community. In a comic book wherein Ethereum’s forces inside the Quadratic Lands are crushed by Moloch, the god of coordination failures, only freeing 200 ETHBots will open the alternate comic ending, where the ETH forces coordinate to save their city. Artists: Illustration by Matt Merhoff, Colors by Greg & Fake Studio, Animation by Luis Colindres.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQjBA9Q8jNmVPXceBtMgjT3aEXcB5Q6gky9hue2pUrcQQ",
+    "external_url": "http://www.comicboxels.com/larpcomic",
+    "attributes": [
+      {
+        "trait_type": "Dimensions",
+        "value": "2126x1950"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Gitcoin"
+      },
+      {
+        "trait_type": "Issue",
+        "value": 2,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Studio",
+        "value": "Blaylock Comics"
+      },
+      {
+        "trait_type": "Coding",
+        "value": "TravelingTechGuy.com"
+      },
+      {
+        "trait_type": "Gitcoin Moment #",
+        "value": 4,
+        "display_type": "number"
+      }
+    ]
+  }
+}

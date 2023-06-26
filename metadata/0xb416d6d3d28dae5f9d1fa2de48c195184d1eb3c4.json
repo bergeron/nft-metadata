@@ -1,0 +1,53 @@
+{
+  "address": "0xb416d6d3d28dae5f9d1fa2de48c195184d1eb3c4",
+  "type": "ERC721",
+  "name": "CRYPTO PATTERNS",
+  "tokenCount": "17",
+  "uri": "https://arweave.net/BP9OoY25BLyg9h4P_w6qpYFwUcNL-fCHIXqNs9M-Mw8",
+  "metadata": {
+    "name": "CryptoPatterns #1",
+    "created_by": "KeyRun",
+    "description": "Is that a petal or a leaf, what do you see?\n\n'CryptoPatterns', a collection of unique 1/1 generative artworks depicting movement of abstract geometrical shapes created using java processing algorithms. All artworks are high resolution animations minted using my own smart contract. \n\nTechnical specifications - \nFile Type - MP4 \nTotal Frames - 511 \nDimensions - 1080 x 1080  \nLength of video - 8 sec",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "KeyRun"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "FPS",
+        "value": "60"
+      },
+      {
+        "trait_type": "Geometrical Shapes",
+        "value": "Ellipse"
+      },
+      {
+        "trait_type": "Color Type",
+        "value": "Single"
+      }
+    ],
+    "image_details": {
+      "bytes": 851523,
+      "format": "PNG",
+      "sha256": "866e2347c98a53ce6f714196e416f072455078b1950aeee8610a5b615400988f",
+      "width": 1080,
+      "height": 1080
+    },
+    "image": "https://arweave.net/Atr4iZsoQsHsy3XHHol8kmSBHAEzLXywIrqSwEEJigc",
+    "image_url": "https://arweave.net/Atr4iZsoQsHsy3XHHol8kmSBHAEzLXywIrqSwEEJigc",
+    "animation_details": {
+      "bytes": 1153110,
+      "format": "MP4",
+      "duration": 9,
+      "sha256": "da3a1c5bc3112f0369e19dc8b0d92b0b275f159f40bfd41ad1e8c4f26bac6d40",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/DXD2147Y3lolavr8bYn0qUMpfs3GLLWL12Kxtkod-ws",
+    "animation_url": "https://arweave.net/DXD2147Y3lolavr8bYn0qUMpfs3GLLWL12Kxtkod-ws"
+  }
+}

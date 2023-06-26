@@ -1,0 +1,34 @@
+{
+  "address": "0x55a2699b6b80c004c9b0284c9d651261cfb64a86",
+  "type": "ERC721",
+  "name": "Mod Dots",
+  "tokenCount": "12",
+  "uri": "https://www.mod-dots.com/metadata/1",
+  "metadata": {
+    "description": "A generative art experiment inspired by modern design.",
+    "external_url": "https://mod-dots.com/dots/1",
+    "image": "https://mod-dots.com/img/1.png",
+    "name": "Mod Dots #1",
+    "attributes": [
+      {
+        "trait_type": "Palette",
+        "value": "Street"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Large Dots",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Small Dots",
+        "value": 22
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Total Dots",
+        "value": 23
+      }
+    ]
+  }
+}

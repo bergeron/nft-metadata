@@ -1,0 +1,56 @@
+{
+  "address": "0x26694ef38c5e36c0717413b5a07a9d54589c1502",
+  "type": "ERC721",
+  "name": "Guardians of Luck",
+  "tokenCount": "29",
+  "uri": "ipfs://QmZtVC4oVQTTzw96moscwVCrYbRbcRSD7CvhhzzJ6g4n1m/1.json",
+  "metadata": {
+    "name": "Green #1",
+    "description": "The galaxy's first NFT Action Figures",
+    "image": "ipfs://QmVLxKCRHePnQqcmuniviUxzs181PpX7pbdBgaytByozph/1.png",
+    "attributes": [
+      {
+        "trait_type": "lucky_number",
+        "value": "9773"
+      }
+    ],
+    "properties": {
+      "package": {
+        "type": "string",
+        "description": "green"
+      },
+      "version": {
+        "type": "string",
+        "description": "1"
+      },
+      "tokenid": {
+        "type": "string",
+        "description": "1"
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/QmVLxKCRHePnQqcmuniviUxzs181PpX7pbdBgaytByozph/1.png"
+      },
+      "pow_pack_meta": {
+        "type": "string",
+        "description": "data:text/plain;base64,ewogICJ1dWlkIjogIjkwYjQ0ZTgwLTJkYmMtMTFlYy1iOTI1LWY5MTdiYmYxMjdiYyIsCiAgInN0YXQiOiAiOCwxMCwxMiwxNCwxMywxNSIsCiAgImxvb3QiOiAiMTUsIDI1LCAzMCwgMzAiLAogICJkaWNlIjogIlpXbytXMm9yZm5JOWIwVkZNMVpLZm5nOGJHa29QSGxvTmtvMmNqeGFSVzFsVWxGdk9TTnhPbm8wVzBGRWJHZHRMbTVZUUZka0wydFNMVTR5S0V4N2IxQTFNU1o1SVRBK0tVSXBkQ1ZUUUZNMFNHNGxWQ05rZWkxWVJGVkNSa2swWkhoYUpHSkVhbFoyWWx0R2VVUm1kVDgrWFc5eFp6VnFKbWxhT0daV1lnbz0iLAogICJzZWVkIjogIk8weDlhWHBSSTN4WVdYMUZkMTlHUDB3ck1HTkNJMTgrU0d4MFRuaG5RbElLVlNCalpTNURmVlZmVTJwbmVEcytkVzlCV0VWTFNVVkdiVEkyVWlSSWRGQUtaVDFqVERrMlF5RlhYeWhFU1d0dkppaHNZejExY1VoWFVVOWtiajh5UjBBS0wwYytOMzFXU3kxYlluY3ZhR2NzU0NnbFJVQjdhMVYyY2owMGNHcE9jbFlLWERFb01EVXRTMjEwZGl4WWREbG9mVVZvYjJvcFRFeFJhVU03U0Y1R1BGOEtjeUZZTVRncWMyMWJiM2RZY2pkdU0wUmRaRFprZVY0OFAwZE9TRHRNYUVrS1EzZFRORTllTlZwVU1sWXZOR3dyWDJ0WklDd2xmbEpJWm5ncklTRXBLaUVLUVZoNFRpOWNlaUZhY2xFMU5qVlNVbEY0VkRsRU5EZzRNbVl1UTNkQlJ6d0tQMUJFWDJGUk1XUThQbXBOYVYxZVcycGNaanBIWkNVK01EQlBabFUzYWxZS1ZHUldNek5EUjI4K1BGTXpLRzA0Y1NndVNtdGxiUzE3TEZsa2JHTTdRVlFLZVVKMUxWUjdkRGRVV0h0aFRrWmhYelozWmlWSlZtczNWbmw2ZWl0OE5tVUtUemRyZEVZMEpIZG5MaXROVWk5d1EzWmRPamhxSzFnbGJHcHFUalJKUjN3S1pYc3NQall6S0Q4dFFHZHpZajFZTGo5N1pId21aSFVzUlRoemRGQm1MVllLT1UxelVHZ3ZTajUyWVQ4NGNFZG1hU1ZPV0Z3cVhHNW1hajhvV3o1ek1Dd0tOR05mZlRKT1VFUjJNRk4xTVZOUGRISjZQbGx0SzFGeGJ6ZFZVMEZBVEZJS1dqdEdURmxJTlRoMlp5eFlOVFpaZldjMlJTdFVNanhZU2laVFVEOUliM2NLIgp9Cg=="
+      },
+      "pow_pack_green_ipfs": {
+        "type": "string",
+        "description": "ipfs://QmU2DmAuyYVFJYALAqqxCXUyBbzVkuW79C4rqqJSFeWfwT"
+      },
+      "pow_pack_green_sha256sum": {
+        "type": "string",
+        "description": "efbff73f09d2765342b2fa5ffda7f08a8f278ec992231069fa61eb2fafbcf31d"
+      },
+      "ethereum_hq_contract": {
+        "type": "string",
+        "description": "0xc343D29B79D465F02c8CdEF564FdAB780c10D5F1"
+      },
+      "backup_media_file": {
+        "type": "string",
+        "description": "https://bafybeihiocp4cdb7kmwyrart4yljansdypkzwqykhy5amnwkfxo4ncn2nm.ipfs.dweb.link/golgr1/1.png"
+      }
+    }
+  }
+}

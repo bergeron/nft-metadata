@@ -1,0 +1,41 @@
+{
+  "address": "0xa280b6d2afd255c1a1677450962cbca3aa6256c7",
+  "type": "ERC721",
+  "name": "Maths Town Collection",
+  "tokenCount": "20",
+  "uri": "ipfs://QmTMSJxDuH2Cx3ARvA5QUx9NFXTCm9ve38FTNW9cQ4oHi4",
+  "metadata": {
+    "description": "Full length high-resolution: https://youtu.be/isYNW2M1-0Y \n\nRetro Spirals is the first NFT minted by Maths Town.  ID number 1.  This video features a retro themed Mandelbrot coloured using the Orbit Trap method. A spiral is used as the trap which creates some wild spiralling effects.\n\nThis NFT will be made available for download in 8k (7680x4320) and 4k (3840x2160).",
+    "external_url": "https://www.maths.town/nft/maths-town/000001.php",
+    "image": "ipfs://QmXfwareYx8Mxu12jnVzX1r4zPw58eNYvSwCRCDBAcAMQe",
+    "animation_url": "ipfs://QmSMsFHePVBo5vsKpvK8ubEsPZMByucSKYWkuJxsZwcmha",
+    "youtube_url": "https://www.youtube.com/watch?v=isYNW2M1-0Y",
+    "name": "Retro Spirals - A Mandelbrot Fractal Zoom",
+    "attributes": [
+      {
+        "trait_type": "Fractal",
+        "value": "Mandelbrot"
+      },
+      {
+        "trait_type": "Colouring",
+        "value": "Orbit Trap"
+      },
+      {
+        "trait_type": "Orbit Trap Type",
+        "value": "Spiral"
+      },
+      {
+        "trait_type": "Resolution",
+        "value": "8k"
+      },
+      {
+        "trait_type": "Depth",
+        "value": "1e30"
+      },
+      {
+        "trait_type": "Special",
+        "value": "Genesis"
+      }
+    ]
+  }
+}

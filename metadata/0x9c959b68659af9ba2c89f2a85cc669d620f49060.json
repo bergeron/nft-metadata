@@ -1,0 +1,30 @@
+{
+  "address": "0x9c959b68659af9ba2c89f2a85cc669d620f49060",
+  "type": "ERC721",
+  "name": "HelloDao Hero",
+  "tokenCount": "1",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIkhlcm8gIzEiLCAiZGVzY3JpcHRpb24iOiAiVGhpcyBpcyBhIGJvdCB3aXRoIGFuIGF0dHJpYnV0ZSBhbmQgbGV2ZWwgc3lzdGVtIHRoYXQgd2lsbCBvcGVuIHVwIG1vcmUgcG9zc2liaWxpdGllcyBmb3IgTkZUcy4iLCAiaW1hZ2UiOiAiaHR0cHM6Ly9pcGZzLmlvL2lwZnMvUW1jN1VzeHdFWFNmQndISHo3Um5ob0ZKU29xR3paek02MlU5eUc2dWlrS2J1bS8xLnBuZyIsICJhdHRyaWJ1dGVzIjpbeyJ0cmFpdF90eXBlIjoiR2VuZSIsInZhbHVlIjoiMCJ9LHsidHJhaXRfdHlwZSI6IlBvd2VyIiwidmFsdWUiOiIwIn0seyJ0cmFpdF90eXBlIjoiSW50ZWxsaWdlbmNlIiwidmFsdWUiOiIwIn0seyJ0cmFpdF90eXBlIjoiU3RhbWluYSIsInZhbHVlIjoiMCJ9XX0=",
+  "metadata": {
+    "name": "Hero #1",
+    "description": "This is a bot with an attribute and level system that will open up more possibilities for NFTs.",
+    "image": "https://ipfs.io/ipfs/Qmc7UsxwEXSfBwHHz7RnhoFJSoqGzZzM62U9yG6uikKbum/1.png",
+    "attributes": [
+      {
+        "trait_type": "Gene",
+        "value": "0"
+      },
+      {
+        "trait_type": "Power",
+        "value": "0"
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": "0"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": "0"
+      }
+    ]
+  }
+}

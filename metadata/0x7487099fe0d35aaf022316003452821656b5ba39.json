@@ -1,0 +1,28 @@
+{
+  "address": "0x7487099fe0d35aaf022316003452821656b5ba39",
+  "type": "ERC721",
+  "name": "COLOR",
+  "tokenCount": "64",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=m9zhSZmZg2TEpOYni7FL",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1587350337860?alt=media&token=457d65fa-3d4b-4848-9671-b40c7c8d863d",
+    "forSale": true,
+    "contractAddress": "0x7487099fe0d35aaf022316003452821656b5ba39",
+    "description": "Web Safe Colors",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1587350351,
+      "_nanoseconds": 674000000
+    },
+    "price": "0.1",
+    "name": "FFFFFF",
+    "fiatPrice": "$18.32",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x7487099fe0d35aaf022316003452821656b5ba39",
+    "type": "ERC721"
+  }
+}

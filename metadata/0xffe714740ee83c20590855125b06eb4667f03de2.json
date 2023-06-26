@@ -1,0 +1,71 @@
+{
+  "address": "0xffe714740ee83c20590855125b06eb4667f03de2",
+  "type": "ERC721",
+  "name": "ANDROMEDA",
+  "tokenCount": "16",
+  "uri": "https://geo-explorer.testnet.galtproject.io:33990/v1/tm/0xffe714740ee83c20590855125b06eb4667f03de2/1",
+  "metadata": {
+    "name": "Andromeda, Bir Tawil, Satoshi Dunes",
+    "description": "The Galt Project expedition to Bir Tawil first stopped here on June 17, 2018.\n\nLand plot located 30 minutes from Bir Tawil border. It offers beautiful views of the dunes and the mountain. From the beautiful black boulders behind the site you can watch a magnificent sunset over the desert. Nearby is the road on which trucks pass. Underground water lies at a depth of 100-150 meters. Around there are a small number of desert mice and foxes.\n\nBy owning the Property tokens of this smart contract on the Ethereum blockchain, you agree to the terms of this agreement.\n\nMEANING AND PURPOSE OF PROPERTY TOKEN\nIn July 2018, the Galt Project team made an expedition to Bir Tawil, a unique place and one of the few territories on the planet that do not belong to any of the existing states. It was in this place that the main ideas arose that formed the basis of the project:\n- Any ownership is just the consensus of a large number of people about what belongs to whom. Thus, as in the case of any cryptocurrency or digital asset, land and real estate ownership can be taken into account and transferred using smart contracts without intermediaries and third parties on blockchain, if there is an agreement between a large number of people in a certain territory on the use of this technology.\n- Any society of people living in a particular territory can be completely controlled with the help of smart contracts. Laws can be enacted, public budgets formed, and leaders selected. Such a system is devoid of the shortcomings of the existing public administration system since it can't be taken over by corrupt officials. Imagine a city where all residents (tenants and homeowners) can use their smartphone to raise funds to the budget in ETH or any ERC20, vote on important issues and elect Leaders. All operations are performed on smart contracts and therefore cannot be blocked, restricted, or tampered.\n\nTokens in this Private registry are land plots, buildings and rooms located in Bir Tawil.  \n\nProperty tokens provide an opportunity to join one or several communities in this territory, governed by smart contracts. Token is not the right of ownership in any jurisdiction and is intended only to form a strong community of like-minded people, united by the ideas of building a society without inequality and usurpation. Tokens can be sold and transferred by owners without any third parties.\n\nThese communities can be virtual or permanently / temporarily located in Bir Tawil. Such actions remain at the discretion of token Owners.\n\nTERMS AND DEFINITIONS\n\nPrivate property registry  is a set of smart contracts on Ethereum blockchain.\n\nProperty token - a ERC721 standard (http://erc721.org/) cryptographic token on Ethereum blockchain with additional geospatial and other data stored in Ethereum blockchain and IPFS.\n\nEthereum (Ethereum, from the English. Ether [ˈiːθə] - “ether”) is a platform for creating decentralized online services based on the blockchain (decentralized applications) operating on the basis of smart contracts. Implemented as a single decentralized virtual machine. \n\nA cryptographic token is an accounting unit that is not a cryptocurrency, intended to represent a digital balance in an asset, in other words, performing the function of a \"substitute for securities\" in the digital world. Tokens are a registry entry distributed in a blockchain. Access to the token is possible through special applications that use electronic signature schemes. \n\nA blockchain (initially block chain) is a continuous sequential chain of blocks (a linked list) that contains information according to certain rules. Copies of blockchains are stored on many different computers independently of each other. \n\nEthers (ETH or Ether) is the Ethereum blockchain cryptographic token, used to write data to the blockchain. \n\nThe account in the Ethereum blockchain is a public / private key pair used to sign transactions. Transaction is a sequence of characters sent as a message to a computer containing Ethereum software. Used to interact with the blockchain to change data in a single decentralized virtual machine. \n\nThe address in the Ethereum blockchain - a unique sequence of characters that identifies a user account in the Ethereum blockchain or Ethereum Contract, is a public key. It is used to identify the recipient of cryptographic tokens and Ethers. \n\nA private key is a secret component of a key pair used in asymmetric ciphers, that is, ciphers in which different keys are used for the direct and inverse transformations. It is a sequence of characters used to sign messages and transactions. Accepted by the Parties as an electronic digital signature. \n\nA decentralized autonomous organization (DAO), sometimes labeled a decentralized autonomous corporation (DAC), is an organization represented by rules encoded as a computer program that is transparent, controlled by shareholders and not influenced by a central government. A DAO's financial transaction record and program rules are maintained on a blockchain\n\nIPFS - content-addressable, versioned, P2P file system, more details at https://ipfs.io/. \n\nPrivate Property registry Owner - Ethereum address that has the rights to set the following roles in the smart contract of Private property registry: Owner, Minter, Controller.\n\nTimeout burn - In case of loss of the private key of the Token Owner, a \"burn after timeout\" procedure is provided. The token Owner can set the time after which the token can be destroyed by the private registry Owner. The registry owner in this case initiates the destruction of the token. After the time has expired( and the token Owner didn't cancel the destruction), the token is destroyed and the registry owner can issue a new token with same geographically coordinates and data.\n\nMinter - Ethereum address that has the rights to create new Property tokens.\n\nController - a smart contract that has the rights to change property token’s geospatial and other data and destroy tokens.\n\nController owner - Ethereum address that has the rights to set Burner, Geo Data Manager, Geo Fee Manager roles in Controller smart contract.\n\nGeo Data Manager - Ethereum address that has the rights (along with the token Owner) to create proposals in Controller and approve them to change property token data and to destroy tokens.\n\nGeo Fee Manager - Ethereum address that has the rights to set additional commissions for operations with Property token.\n\nBurner - Ethereum address that has the rights to start timeout burn of Property Token.\n\nProperty token Owner - Ethereum address that has the rights to transfer token, change its data and perform additional operations. Property token Owner can create proposal in Controller to change token data and destroy it.\n\nCommunity of Homeowners is a DAO in the form of smart contracts on Ethereum, which enable Property token Owners to unite, jointly make decisions, collect and dispose of ETH or ERC20 by voting. Property token can be a part of different communities.\n\nLocker - smart contract on Ethereum which is necessary to join Community of Homeowners. Property token Owner need to create Locker contract and to deposit his Property token to it. After that, he will be able to join the community. Locker creation may need a donation.\n\nAll parties have agreed that the interpretation of technical terms uses information available on the Internet at https://github.com/galtproject/galtproject-docs/blob/master/en/Whitepaper.md and  at http://www.ethdocs.org/en/latest/.\n\nSUBJECT OF THE AGREEMENT\n\nIn accordance with this agreement, the Private Property registry Owner provide smart contracts for token Owners. He can create tokens at his discretion and transfer, sell or exchange them for other tokens, goods or services. The registry owner may at his discretion approve changes to Property tokens, initiate changes or they destruction.\n\nProperty token Owner can transfer, sell or exchange Property tokens at his discretion. Property token Owner can approve changes to Property tokens, initiate changes or they destruction. Property token Owner can set time for Timeout burn. Property token Owner can use his token in third-party smart contracts and applications.\n\nPOSSIBLE DECENTRALIZATION\n\nPrivate Property registry Owner may at its discretion transfer ownership of the Private Property registry to Community of Homeowners which consists of Property token Owners or any other DAO.\n\nSOFTWARE UPGRADE\n\nPrivate Property registry Owner may at its discretion upgrade smart contracts according to current smart contracts code.\n\nVOLUNTARY DONATIONS\n\nOperations with Property tokens and interactions with smart contracts may require voluntary donations to Private Property registry Owner and / or software developers. The size of these donations and their assignments is determined by Property registry Owner and / or software developers. Donations cannot be returned and are not an obligation.\n\nDISCLAIMER \n\nNone of the parties is responsible for the operability of the software, as well as any financial or other losses caused by the use of this software. \n\nWhen transferring the token to a third party, the current owner must convey to third party the terms of this agreement. Responsibility for any consequences, including financial losses resulting from failure to fulfill this requirement, lies with the token Owner.\n",
+    "attributes": [
+      {
+        "trait_type": "type",
+        "value": "land"
+      },
+      {
+        "trait_type": "subtype",
+        "value": "residentialLot"
+      },
+      {
+        "trait_type": "area",
+        "value": 7350
+      },
+      {
+        "trait_type": "feature",
+        "value": "desert"
+      },
+      {
+        "trait_type": "feature",
+        "value": "sand"
+      },
+      {
+        "trait_type": "feature",
+        "value": "desertView"
+      },
+      {
+        "trait_type": "feature",
+        "value": "mountainView"
+      },
+      {
+        "trait_type": "feature",
+        "value": "stones"
+      },
+      {
+        "trait_type": "feature",
+        "value": "rocks"
+      },
+      {
+        "trait_type": "feature",
+        "value": "wildlife"
+      },
+      {
+        "trait_type": "feature",
+        "value": "mouses"
+      },
+      {
+        "trait_type": "feature",
+        "value": "foxes"
+      },
+      {
+        "trait_type": "feature",
+        "value": "passingTrucks"
+      },
+      {
+        "trait_type": "feature",
+        "value": "smugglers"
+      }
+    ],
+    "image": "https://geesome-node.galtproject.io:7722/v1/content-data/QmU7qp6hvBXfVMoPAUnsP7JGi3DJN5Q3ptBcgKcVfkTLjC",
+    "external_url": "https://app.galtproject.io/#/mainnet/property/token/1?contractAddress=0xffe714740ee83c20590855125b06eb4667f03de2"
+  }
+}

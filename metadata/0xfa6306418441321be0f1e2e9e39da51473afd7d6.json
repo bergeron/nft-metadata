@@ -1,0 +1,41 @@
+{
+  "address": "0xfa6306418441321be0f1e2e9e39da51473afd7d6",
+  "type": "ERC721",
+  "name": "Lil Pepe .",
+  "tokenCount": "5",
+  "uri": "ipfs://QmfRWYKEnrWzPs6vnqXzFcF3zXCE4b61DdrdMPwcQTWLTc/1",
+  "metadata": {
+    "name": "Tiny Pepe #1",
+    "description": "Tiny Pepe #1 - Tiny Pepe for the Culture :)",
+    "image": "ipfs://QmT27ZkBZnRDfcxhhKf2C23BbHMvZqK7yoPf9poATeMAS7/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Staring"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 541,
+        "display_type": "number"
+      }
+    ],
+    "fee_recipient": "0x38deEDDd64bc1C9B20Dcd49A7dF085ec96cBe284",
+    "seller_fee_basis_points": 690
+  }
+}

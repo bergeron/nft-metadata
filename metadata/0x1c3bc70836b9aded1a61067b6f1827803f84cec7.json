@@ -1,0 +1,26 @@
+{
+  "address": "0x1c3bc70836b9aded1a61067b6f1827803f84cec7",
+  "type": "ERC721",
+  "name": "Joyride Parts",
+  "tokenCount": "5484",
+  "uri": "https://api.blob.town/joyrides/1/metadata.json",
+  "metadata": {
+    "id": 1,
+    "name": "Joyride Part 1",
+    "image": "ipfs://QmPymsbqf5MGXVGai6oznbqvjMxPSzSxGDHxPPvpjqndDr",
+    "attributes": [
+      {
+        "trait_type": "Part",
+        "value": "Top"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Sedan"
+      },
+      {
+        "trait_type": "Body Color",
+        "value": "Purple"
+      }
+    ]
+  }
+}

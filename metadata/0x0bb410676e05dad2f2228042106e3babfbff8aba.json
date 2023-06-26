@@ -1,0 +1,142 @@
+{
+  "address": "0x0bb410676e05dad2f2228042106e3babfbff8aba",
+  "type": "ERC721",
+  "name": "106sadfqweradsfll",
+  "tokenCount": "555",
+  "uri": "https://api.artblocks.io/token/72000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "72000001",
+    "series": 3,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Frammenti #1",
+    "minted": true,
+    "artist": "Stefano Contiero",
+    "description": "Memories define us. Made of countless fragments, they are an ever-changing snapshot of our past. Frammenti is a digital explosion of life, inspired by our most personal treasures.",
+    "script_type": "p5@1.0.0",
+    "project_id": "72",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 3",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/72000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/72000001.png",
+    "generator_url": "https://generator.artblocks.io/72000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/72000001",
+    "royaltyInfo": {
+      "artistAddress": "0x161b79d4e135693361cb42b6a3e8067c8c34e744",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Frammenti by Stefano Contiero",
+    "website": "https://stefanocontiero.com/?h",
+    "token_hash": "0x4e485d4976e40f6b07494b2a1abddd5d207d28e8c272d0ce2eda8227e98b1a56",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/72/tokens/72000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/72000001",
+    "features": {
+      "Fill": "Yes",
+      "Rows": 5,
+      "Type": "Group",
+      "Color": "Multicolor",
+      "Decay": "Low",
+      "Split": "Clean",
+      "Width": "Wide",
+      "Height": "Short",
+      "Shapes": 15,
+      "Square": "No",
+      "Stroke": "Light",
+      "Columns": 3,
+      "Entropy": "Average",
+      "Genesis": "Triangle",
+      "Palette": "Terracotta",
+      "Prismic": "No",
+      "Stability": "High",
+      "Background": "Turbolence",
+      "Fragmentation": "High"
+    },
+    "traits": [
+      {
+        "trait_type": "Frammenti",
+        "value": "All Frammentis"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Fill: Yes"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Rows: 5"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Type: Group"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Color: Multicolor"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Decay: Low"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Split: Clean"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Width: Wide"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Height: Short"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Shapes: 15"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Square: No"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Stroke: Light"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Columns: 3"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Entropy: Average"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Genesis: Triangle"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Palette: Terracotta"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Prismic: No"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Stability: High"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Background: Turbolence"
+      },
+      {
+        "trait_type": "Frammenti",
+        "value": "Fragmentation: High"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

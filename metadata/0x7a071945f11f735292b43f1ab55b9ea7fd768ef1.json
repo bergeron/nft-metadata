@@ -1,0 +1,45 @@
+{
+  "address": "0x7a071945f11f735292b43f1ab55b9ea7fd768ef1",
+  "type": "ERC721",
+  "name": "Crypto Seahorse V4 - old",
+  "tokenCount": "2",
+  "uri": "ipfs://QmTc6gVgoe42kvKdGGPta3SrSNqA1W3C1S7aCghjFwLMV2/1",
+  "metadata": {
+    "name": "NFT Asset Name #2",
+    "description": "NFT Asset Detailed Description #2",
+    "image": "ipfs://QmVUFuZ1BTguHPn2XiGpFaQxikx3rAsobsmUn1SU86NcaK/1.png",
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "Seafoam"
+      },
+      {
+        "trait_type": "BASE",
+        "value": "Coral"
+      },
+      {
+        "trait_type": "EYE",
+        "value": "Crazy"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "Teeth"
+      },
+      {
+        "trait_type": "ACCESSORIES",
+        "value": "Hook"
+      },
+      {
+        "trait_type": "HATS",
+        "value": "Campaign"
+      }
+    ],
+    "creators": [],
+    "collection": {
+      "name": "Collection Name",
+      "family": "Unique Family Name"
+    },
+    "symbol": "NFT",
+    "seller_fee_basis_points": 0
+  }
+}

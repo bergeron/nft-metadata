@@ -1,0 +1,76 @@
+{
+  "address": "0x0c537f8f6780628afdf866e41a81d2ed97cfc8a2",
+  "type": "ERC721",
+  "name": "Rusty Rollers",
+  "tokenCount": "500",
+  "uri": "ipfs://bafybeiflkfg7jncjz6sf47223ko5kmp5llazdpxzq7akar3qfvnn7qxk6q/1.json",
+  "metadata": {
+    "description": "500 unique cars that never stop rolling, each equipped with a personalized soundsystem.",
+    "image": "ipfs://bafybeihhi75dsd5y6bd3cynom6kqoazfv3vgij7wbaqacelhsqozulbzqy/2.gif",
+    "animation_url": "ipfs://bafybeiazor6bl6gwkazsi6o4d5jfp2ld6q4rnhodz32ezq6mvm5zt76oiq/2.mp4",
+    "name": "Rusty Roller #2",
+    "attributes": [
+      {
+        "trait_type": "Music - Synth",
+        "value": "Bell 4"
+      },
+      {
+        "trait_type": "Music - Kick",
+        "value": "Kick 5"
+      },
+      {
+        "trait_type": "Music - Snare",
+        "value": "Snare 5"
+      },
+      {
+        "trait_type": "Music - HiHat",
+        "value": "Hihat 13"
+      },
+      {
+        "trait_type": "Music - Secondary Snare",
+        "value": "Snare 4"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Pattern - Synth",
+        "value": 32
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Pattern - Kick",
+        "value": 13
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Pattern - Snare",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Pattern - HiHat",
+        "value": 42
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Pattern - Secondary Snare",
+        "value": 11
+      },
+      {
+        "trait_type": "Car - Body Type",
+        "value": "Sedan"
+      },
+      {
+        "trait_type": "Car - Paint",
+        "value": "Multi panel"
+      },
+      {
+        "trait_type": "Car - Wheels",
+        "value": "Stock"
+      },
+      {
+        "trait_type": "Car - Title Status",
+        "value": "Salvage"
+      }
+    ]
+  }
+}

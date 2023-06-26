@@ -1,0 +1,38 @@
+{
+  "address": "0xaaf65012130deff8a70e2210bf1f28a588b0a2b4",
+  "type": "ERC721",
+  "name": "Little Strange Catz",
+  "tokenCount": "63",
+  "uri": "ipfs://QmcnbuDjDVyG1UjwqV37vtuZNfMJJyboySQYBWgr1GAknm/1.json",
+  "metadata": {
+    "name": "Strange Cats #1",
+    "description": "pixel cats crew is a unique collection of pixel cats, each image is made one by one by one person, that gives it its value, each image will have its rarity depending on the type of background of the image, yellow being the rarest and also depends on the accessories",
+    "image": "ipfs://QmU4QZgB17bFsaMA5hs9zm7kHBsrpnmk9mWM7ie1TEvKLb/1.png",
+    "dna": "cb4e4e9706a51a2e11750f8d103e17a419549158",
+    "edition": 1,
+    "date": 1650714450641,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "epic_background_puple"
+      },
+      {
+        "trait_type": "cats",
+        "value": "rare_green_cat"
+      },
+      {
+        "trait_type": "hat",
+        "value": "orange_birthday_hat"
+      },
+      {
+        "trait_type": "accessory",
+        "value": "lilac_lenses"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "Diamond_necklace"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "address": "0x0b0b186841c55d8a09d53db48dc8cab9dbf4dbd6",
+  "type": "ERC721",
+  "name": "Satoshibles",
+  "tokenCount": "5000",
+  "uri": "https://api.satoshibles.com/token/1",
+  "metadata": {
+    "id": 1,
+    "name": "Satoshible #1",
+    "description": "Satoshibles are a collection of randomized Satoshi characters! This is #1 in a collection of 5000 unique ERC-721 tokens, all backed by IPFS file storage! Learn more here: https://satoshibles.com/token/1",
+    "external_url": "https://satoshibles.com/token/1",
+    "image": "https://satoshibles.com/token/1/image.png",
+    "background_color": "F8F9Ee",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Eye Accessory",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Facial Hair",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Ear Accessory",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Standard"
+      }
+    ]
+  }
+}

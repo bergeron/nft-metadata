@@ -1,0 +1,82 @@
+{
+  "address": "0x452b2bc7c94515720b36d304ce33909a8323f3e3",
+  "type": "ERC721",
+  "name": "Hedgie",
+  "tokenCount": "1529",
+  "uri": "https://api.hedgie.io/api/v1/hedgies/metas/1",
+  "metadata": {
+    "name": "Essential Hedgie: #000001",
+    "image": "https://img.hedgie.io/000001.svg",
+    "description": "I’m an Essential Hedgie! I’m one-of-a-kind.",
+    "external_url": "https://www.hedgie.io/hedgies/000001",
+    "background_color": "ffffff",
+    "attributes": [
+      {
+        "trait_type": "Level",
+        "value": 19,
+        "display_type": "number",
+        "max_value": 100
+      },
+      {
+        "trait_type": "Fire",
+        "value": 42.265,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Water",
+        "value": 18.51,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Earth",
+        "value": 99.774,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Air",
+        "value": 0.131,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Prudence",
+        "value": 66.265,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 50.491,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Charm",
+        "value": 104.51,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Luck",
+        "value": 100.35,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Essential"
+      },
+      {
+        "trait_type": "Rank",
+        "value": "Luck Lord"
+      },
+      {
+        "trait_type": "Rank",
+        "value": "Charm Lord"
+      },
+      {
+        "trait_type": "Rank",
+        "value": "Prudence Apprentice"
+      },
+      {
+        "trait_type": "Rank",
+        "value": "Earth Lord"
+      }
+    ]
+  }
+}

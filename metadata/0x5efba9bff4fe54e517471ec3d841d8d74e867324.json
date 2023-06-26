@@ -1,0 +1,29 @@
+{
+  "address": "0x5efba9bff4fe54e517471ec3d841d8d74e867324",
+  "type": "ERC721",
+  "name": "NFT Ping - old",
+  "tokenCount": "1",
+  "uri": "https://nfthooks.xyz/api/nftping/1.json",
+  "metadata": {
+    "name": "NFT Ping #1",
+    "description": "Track all your NFTs in one place. Fast, easy and simple.",
+    "external_url": "https://nftping.xyz/",
+    "image": "https://nftping.xyz/NFT-Ping_1k_colors_00109.png",
+    "animation_url": "https://nftping.xyz/NFT-Ping-1k_col.mp4",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Active Subscription",
+        "value": "Yes"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Subscription Expires",
+        "value": 1704061800
+      }
+    ]
+  }
+}

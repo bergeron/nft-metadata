@@ -1,0 +1,37 @@
+{
+  "address": "0x0762e535771d61d36048f50019eee08a88528f3d",
+  "type": "ERC721",
+  "name": "Shadow Block Arts",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=oErgs5JcNVSLKsqaGr1m",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1581314045530?alt=media&token=079f429c-3b4e-48b1-9958-44de8d2eaa39",
+    "forSale": true,
+    "description": "First edition1/1",
+    "contractAddress": "0x0762e535771d61d36048f50019eee08a88528f3d",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1581314060,
+      "_nanoseconds": 569000000
+    },
+    "price": 0,
+    "name": "Genesis Shadow Block",
+    "fiatPrice": "$0.00",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "website",
+        "value": ""
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      }
+    ],
+    "external_url": "https://mintbase.io/my-market/0x0762e535771d61d36048f50019eee08a88528f3d",
+    "type": "ERC721"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "address": "0xbb5471c292065d3b01b2e81e299267221ae9a250",
+  "type": "ERC721",
+  "name": "◯ circle(s) by john provencher",
+  "tokenCount": "429",
+  "uri": "https://token.artblocks.io/0xBB5471c292065d3b01b2e81e299267221ae9a250/1",
+  "metadata": {
+    "platform": "Verse",
+    "tokenID": "1",
+    "series": "N/A",
+    "aspect_ratio": 0.75,
+    "payout_address": "0x97e7cfde2d975496d3f0ac4467d4d5e3c77f47fd",
+    "name": "Hypertype #1",
+    "minted": true,
+    "artist": "Mark Webster",
+    "description": null,
+    "script_type": "svg@na",
+    "project_id": "0",
+    "engine_type": "flex",
+    "image": "https://media-proxy.artblocks.io/0xbb5471c292065d3b01b2e81e299267221ae9a250/1.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xbb5471c292065d3b01b2e81e299267221ae9a250/1.png",
+    "generator_url": "https://generator.artblocks.io/0xbb5471c292065d3b01b2e81e299267221ae9a250/1",
+    "animation_url": "https://generator.artblocks.io/0xbb5471c292065d3b01b2e81e299267221ae9a250/1",
+    "royaltyInfo": {
+      "artistAddress": "0x47ce9b2052ebf93a86c33a579a55f15f148e3566",
+      "additionalPayee": "0xaf0e213564e9c12910353b08320f902e885e4fc4",
+      "additionalPayeePercentage": 14,
+      "royaltyFeeByID": 7
+    },
+    "collection_name": "Hypertype by Mark Webster",
+    "website": "https://verse.works/exhibitions/hypertype-artblocks",
+    "token_hash": "0x436bd61a290945223c7c01ea6263dadf83c8eedbc6ecc68c9f3d9577ddce267f",
+    "external_url": "",
+    "primary_asset_url": "https://generator.artblocks.io/0xbb5471c292065d3b01b2e81e299267221ae9a250/1",
+    "features": {
+      "Type": "Text",
+      "Colours": "magenta",
+      "Cell Size": "29",
+      "Background": "GhostWhite",
+      "Number of Phrases": "3",
+      "Number of Characters": "4"
+    },
+    "traits": [
+      {
+        "trait_type": "Hypertype",
+        "value": "All Hypertypes"
+      },
+      {
+        "trait_type": "Hypertype",
+        "value": "Type: Text"
+      },
+      {
+        "trait_type": "Hypertype",
+        "value": "Colours: magenta"
+      },
+      {
+        "trait_type": "Hypertype",
+        "value": "Cell Size: 29"
+      },
+      {
+        "trait_type": "Hypertype",
+        "value": "Background: GhostWhite"
+      },
+      {
+        "trait_type": "Hypertype",
+        "value": "Number of Phrases: 3"
+      },
+      {
+        "trait_type": "Hypertype",
+        "value": "Number of Characters: 4"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

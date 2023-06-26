@@ -1,0 +1,40 @@
+{
+  "address": "0x9fad28fcb80eb63b5001ca568bce5ed5d4a0102b",
+  "type": "ERC721",
+  "name": "Dataverse Prisma",
+  "tokenCount": "2380",
+  "uri": "https://prisma-asset.s3.ap-east-1.amazonaws.com/metadata/1",
+  "metadata": {
+    "tokenId": 1,
+    "image": "https://prisma-asset.s3.ap-east-1.amazonaws.com/img/1.png",
+    "external_url": "https://dataverse-os.com",
+    "name": "Prisma #1",
+    "description": "Prisma NFT will be the avatar for human beings to manage data, control privacy, and present themselves in the crypto world.",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Beige"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Cedar Chest"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Backpack Orange"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Green Fill"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Hungry - Glowing"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Halo"
+      }
+    ]
+  }
+}

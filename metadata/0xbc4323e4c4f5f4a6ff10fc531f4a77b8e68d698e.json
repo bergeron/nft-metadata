@@ -1,0 +1,44 @@
+{
+  "address": "0xbc4323e4c4f5f4a6ff10fc531f4a77b8e68d698e",
+  "type": "ERC1155",
+  "name": "OnChainBook",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/RLVKJZMPwgxnI_ew4FwkZEDBAySdPh7ZEm7CeI2KABU",
+  "metadata": {
+    "name": "Invitation",
+    "created_by": "BOOK",
+    "description": "The first of its kind, this animated digital collage created by BOOK (Also known as ONCHAINBOOK) serves as an informal invitation to the Bookshelf. Holders of this NFT are granted access to Level 1, 2 or 3 of the Bookshelf.",
+    "attributes": [
+      {
+        "trait_type": "Efficacy",
+        "value": "Invitation"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Book"
+      }
+    ],
+    "animation_details": {
+      "bytes": 129659,
+      "format": "MOV",
+      "duration": 0,
+      "sha256": "ec4c157252c2e505060071e8ff0ecb485f26992308066183eeaaea14e2802abd",
+      "width": 680,
+      "height": 960,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/rstiKt_TUvOCyEsZqmWL8xVmnb3pvEn4pDQRFo49h5s",
+    "animation_url": "https://arweave.net/rstiKt_TUvOCyEsZqmWL8xVmnb3pvEn4pDQRFo49h5s",
+    "image_details": {
+      "bytes": 10270468,
+      "format": "APNG",
+      "sha256": "5fa8c7362c39d2bb4b1aa93395ef6d0753678febabd99ca6f5d66ca7a6fdd696",
+      "width": 905,
+      "height": 1280
+    },
+    "image": "https://arweave.net/sZ1BlqxljRo28jS1QcNN2akpwehdPU4wG2oAFb4EBPg",
+    "image_url": "https://arweave.net/sZ1BlqxljRo28jS1QcNN2akpwehdPU4wG2oAFb4EBPg"
+  }
+}

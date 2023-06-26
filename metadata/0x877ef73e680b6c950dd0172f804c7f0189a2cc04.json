@@ -1,0 +1,33 @@
+{
+  "address": "0x877ef73e680b6c950dd0172f804c7f0189a2cc04",
+  "type": "ERC721",
+  "name": "chapt3r",
+  "tokenCount": "1",
+  "uri": "ipfs://QmbvV3cMLTKzio6NosvrXgy3t1TF6LFPPjbMN1hLp2DrFi/1.json",
+  "metadata": {
+    "name": "chapt3r champ1on",
+    "description": "This skeleton key is awarded to the soul that solved the Chapter 3 Unlock challenge for Mint of Destiny",
+    "image": "ipfs://QmP3xouCJDHqW8bX3nZzuzRRWScUP6pEV7F2aSzRneACA9/1.jpg",
+    "dna": "Y2hhcHQzciBjaGFtcDFvbg==",
+    "edition": 1,
+    "date": 1667905320,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "3"
+      },
+      {
+        "trait_type": "Game",
+        "value": "Mint of Destiny"
+      },
+      {
+        "trait_type": "Owner",
+        "value": "Is a Bad Ass!"
+      },
+      {
+        "trait_type": "FOMO",
+        "value": "Everyone else"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "0x72aebd5d3147439e794bb72ee25b7cd635831ac0",
+  "type": "ERC721",
+  "name": "Cat Civilization NFT",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmU5o4bzPK6A8J6FhyvBcWYAWhzJ8P8YtXc3J7aD3Li7eU/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "5000 cats living on the blockchain. Each of them is unique,just like you and me.",
+    "external_url": "",
+    "image": "ipfs://QmVS9sDwGLaHeAvjUQTTeM7CQ2WTii2DKUbW4uXq3bgMVq/1.png",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "red"
+      },
+      {
+        "trait_type": "body",
+        "value": "white"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "long and short sleeves purple"
+      },
+      {
+        "trait_type": "hair",
+        "value": "explosive brown"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "very nervous"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "bright pupils blue"
+      },
+      {
+        "trait_type": "headdress",
+        "value": "fox mask white & blue"
+      },
+      {
+        "trait_type": "wapon",
+        "value": "spoon"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

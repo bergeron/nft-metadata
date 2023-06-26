@@ -1,0 +1,53 @@
+{
+  "address": "0x4483fcb6c4ba5614b5a3b9a2ebf2410901ebe507",
+  "type": "ERC1155",
+  "name": "Make Somethin Production",
+  "tokenCount": "6",
+  "uri": "https://arweave.net/lEUy_90EkWfhJIChG-BnBvOW7HrMW0RIv0cOaB2XGZs",
+  "metadata": {
+    "name": "Utility Special Edition",
+    "created_by": "Make Somethin",
+    "description": "7 Editions \n\nMinted Only for Holders of both Dr. Jekyll and Mr. Hyde Digital Prints\n\nWritten and Produced by Make Somethin\n\nhttps://linktr.ee/makesomethin\n\nArtwork by Lost Salsa\n\nhttps://linktr.ee/lostsalsa",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Make Somethin"
+      },
+      {
+        "value": "Lost Salsa",
+        "trait_type": "Artwork"
+      },
+      {
+        "trait_type": "Produced By",
+        "value": "Make Somethin"
+      },
+      {
+        "trait_type": "Flow",
+        "value": "Written"
+      }
+    ],
+    "animation_details": {
+      "bytes": 31454068,
+      "format": "MP4",
+      "duration": 143,
+      "sha256": "3e50bf5435cea51cc0f7767dc2d2748fa8fd72e89365d97fefb77776122c40bb",
+      "width": 810,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/n51m_Gmc1N2dK7Olbwa-5i-Z5z2yRUL6Kmzpu_J3BHI",
+    "animation_url": "https://arweave.net/n51m_Gmc1N2dK7Olbwa-5i-Z5z2yRUL6Kmzpu_J3BHI",
+    "image_details": {
+      "bytes": 708518,
+      "format": "PNG",
+      "sha256": "e28665d6804a75a8d4e9407a325794ef8f4d78d57de09f47b30efe244b3d8d2a",
+      "width": 810,
+      "height": 1080
+    },
+    "image": "https://arweave.net/gi3v4qivyEnSDclhvZqcammi0AL9OfYI042M_FXXXJY",
+    "image_url": "https://arweave.net/gi3v4qivyEnSDclhvZqcammi0AL9OfYI042M_FXXXJY"
+  }
+}

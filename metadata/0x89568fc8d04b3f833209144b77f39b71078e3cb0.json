@@ -1,0 +1,43 @@
+{
+  "address": "0x89568fc8d04b3f833209144b77f39b71078e3cb0",
+  "type": "ERC721",
+  "name": "Crypto Native - Mirage Gallery",
+  "tokenCount": "980",
+  "uri": "http://metadata.miragegallery.com/api/v1/nfts/1",
+  "metadata": {
+    "_id": 1,
+    "name": "1",
+    "attributes": [
+      {
+        "trait_type": "style",
+        "value": "landscape"
+      },
+      {
+        "trait_type": "status",
+        "value": "evolving"
+      },
+      {
+        "trait_type": "phase",
+        "value": "1"
+      },
+      {
+        "trait_type": "title",
+        "value": "default"
+      },
+      {
+        "trait_type": "tier",
+        "value": "Airdrop"
+      },
+      {
+        "trait_type": "bonus",
+        "value": "none"
+      }
+    ],
+    "image": "http://metadata.miragegallery.com/api/v1/nfts/image/1/landscape/1/1",
+    "phaseID": 1,
+    "maxPrice": "166666666660000000",
+    "date": "2021-08-29T08:24:24.476Z",
+    "__v": 0,
+    "imageID": 1
+  }
+}

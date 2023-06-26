@@ -1,0 +1,28 @@
+{
+  "address": "0xca5639049438a079553a967250a4606510869c06",
+  "type": "ERC721",
+  "name": "Off Grid Assets",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xca5639049438a079553a967250a4606510869c06/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xcA5639049438A079553a967250A4606510869c06/icon?id=1",
+    "expiration": 1674674820,
+    "tokenId": "1",
+    "owner": "0xb190ff35c7f3832156bb520d30ef54850b091483",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1674674820
+      }
+    ],
+    "userMetadata": {
+      "public": {}
+    },
+    "keyId": "1",
+    "lockAddress": "0xcA5639049438A079553a967250A4606510869c06",
+    "network": 1
+  }
+}

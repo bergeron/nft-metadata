@@ -1,0 +1,27 @@
+{
+  "address": "0xa47da714d0265c012e85703fa7280d69fd5961df",
+  "type": "ERC721",
+  "name": "Swarm Gas",
+  "tokenCount": "9959",
+  "uri": "https://meta.the-swarm.xyz/swarmgas/json/1.json",
+  "metadata": {
+    "name": "Swarm Gas #1",
+    "description": "The Swarm - Hive mind linked",
+    "image": "https://meta.the-swarm.xyz/swarmgas/img/gas-green-j.gif",
+    "properties": [
+      {
+        "trait_type": "Swarm",
+        "value": "Swarm Gas"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Green Food"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      }
+    ]
+  }
+}

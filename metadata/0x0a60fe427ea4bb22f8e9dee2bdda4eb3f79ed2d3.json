@@ -1,0 +1,25 @@
+{
+  "address": "0x0a60fe427ea4bb22f8e9dee2bdda4eb3f79ed2d3",
+  "type": "ERC721",
+  "name": "Daily Access",
+  "tokenCount": "2",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x0a60fe427ea4bb22f8e9dee2bdda4eb3f79ed2d3/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x0A60fE427ea4bb22f8E9Dee2Bdda4eB3F79Ed2d3/icon?id=1",
+    "expiration": 1587235944,
+    "tokenId": "1",
+    "owner": "0x3d3c2dd1b36acf85f511fc5bdb9f80fa22db72ec",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1587235944
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x0A60fE427ea4bb22f8E9Dee2Bdda4eB3F79Ed2d3",
+    "network": 1
+  }
+}

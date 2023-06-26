@@ -1,0 +1,43 @@
+{
+  "address": "0x50513add4e4042538dae2c0b66ef3967a5acf1e4",
+  "type": "ERC721",
+  "name": "MetaKovan",
+  "tokenCount": "16",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=fjs57JnbkL8hWlE7hUrU",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1583005633480?alt=media&token=20201456-6761-45d3-9492-5e91ed06c103",
+    "forSale": false,
+    "description": "First-ever NFT from MetaKovan. Distributed to people who helped and inspired the creation of MetaKovan.",
+    "contractAddress": "0x50513add4e4042538dae2c0b66ef3967a5acf1e4",
+    "tags": [],
+    "amountToMint": 15,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1583006637,
+      "_nanoseconds": 524000000
+    },
+    "price": 0,
+    "name": "Birth of MetaKovan",
+    "fiatPrice": "$0.00",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1582866000
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": ""
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      }
+    ],
+    "external_url": "https://mintbase.io/my-market/0x50513add4e4042538dae2c0b66ef3967a5acf1e4",
+    "type": "ERC721"
+  }
+}

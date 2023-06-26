@@ -1,0 +1,18 @@
+{
+  "address": "0x8520f3c6aa3e19e87245fd251aa63b7bb8436a5a",
+  "type": "ERC721",
+  "name": "Bali Engram - DEPRECATED",
+  "tokenCount": "5",
+  "uri": "data:application/json;base64,eyJuYW1lIjoiRW5ncmFtICMxIiwiZGVzY3JpcHRpb24iOiJUaGlzIHNvdWxib3VuZCB0b2tlbiBzdG9yZXMgeW91ciBkZWNlbnRyYWxpemVkIHVzZXIgcHJvZmlsZSIsImF0dHJpYnV0ZXMiOlt7InRyYWl0X3R5cGUiOiJVc2VybmFtZSIsInZhbHVlIjoibWlrZSJ9XSwgImltYWdlIjogImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9nZy1zeXN0ZW1zL2Fzc2V0cy9tYXN0ZXIvaW1hZ2VzL2xvZ28ucG5nIn0=",
+  "metadata": {
+    "name": "Engram #1",
+    "description": "This soulbound token stores your decentralized user profile",
+    "attributes": [
+      {
+        "trait_type": "Username",
+        "value": "mike"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/gg-systems/assets/master/images/logo.png"
+  }
+}

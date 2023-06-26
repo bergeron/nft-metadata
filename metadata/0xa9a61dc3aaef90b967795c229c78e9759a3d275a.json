@@ -1,0 +1,77 @@
+{
+  "address": "0xa9a61dc3aaef90b967795c229c78e9759a3d275a",
+  "type": "ERC721",
+  "name": "FOXES OPERA",
+  "tokenCount": "418",
+  "uri": "ipfs://QmaY8JHCU6YXztyxyDzVcPLVCsmf49mcDB1A2vjmeYEoS1/1",
+  "metadata": {
+    "name": "Fox #1",
+    "id": "1",
+    "symbol": "FOTO",
+    "description": "Foxes of the Opera are one of the first high-quality 3D-art NFT series launched on the Fantom Opera blockchain. Join 4,000 art-loving foxes at the Foxhouse today and be a part of an endless growing community. Your Foxes will grant you access to the Fox Opera House membership card and give you reign over numerous members-only perks. Check out the www.foxopera.house for more details and follow us at @FoxesOfTheOpera to hear the latest updates.",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://QmQiESkftJa9ikDw9kcK1zMnEN3UsMyXbpy2ZNjR5kHFhb/1.png",
+    "external_url": "https://foxopera.house/",
+    "edition": "Generation 1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Green"
+      },
+      {
+        "trait_type": "Fur / Skin",
+        "value": "Green / Peach"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "T-Shirt"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Long Brown Hair"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "None"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Open"
+      },
+      {
+        "trait_type": "Moustache",
+        "value": "None"
+      },
+      {
+        "display_type": "number",
+        "value": 1,
+        "trait_type": "sequence"
+      },
+      {
+        "display_type": "number",
+        "value": 1,
+        "trait_type": "generation"
+      }
+    ],
+    "properties": {
+      "collection": "Foxes Of The Opera",
+      "symbol": "FOTO",
+      "royalty": 500,
+      "category": "image",
+      "files": {
+        "uri": "ipfs://QmQiESkftJa9ikDw9kcK1zMnEN3UsMyXbpy2ZNjR5kHFhb/1.png",
+        "type": "image/png"
+      },
+      "creators": [
+        {
+          "address": "0xD5816f8Da65088c4e848345f3fc759eCf61f210f",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

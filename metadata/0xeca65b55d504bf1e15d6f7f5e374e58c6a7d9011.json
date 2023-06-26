@@ -1,0 +1,41 @@
+{
+  "address": "0xeca65b55d504bf1e15d6f7f5e374e58c6a7d9011",
+  "type": "ERC721",
+  "name": "0xmusic",
+  "tokenCount": "777",
+  "uri": "data:application/json,{\"name\": \"Bach #1\",\"description\": \"Your generative DJ. Hiting play destroys the previous song and creates a brand new song in real-time\",\"image\":  \"https://0xmusic.mypinata.cloud/ipfs/QmfL6oRoroEnvrV6yw6tZUgfhLdWgyaWb524V3Ar6gbykc/6/243/3/img.png\",\"animation_url\": \"https://0xmusic.mypinata.cloud/ipfs/QmZH5v5YxuyCRecQ2KxWkR5svCrVvkim6fyF9nHQzTdAKu/tonekingzwithlead.html?genre=6&id=243&len=2&bg=3\",\"external_url\": \"https://www.0xmusic.com\", \"background_color\": \"2B2727\" ,\"attributes\": [{\"trait_type\": \"0xDJ\", \"value\": \"Bach\"},{\"trait_type\": \"Orientation\", \"value\": \"vanward\"} ,{\"trait_type\": \"Cycle length\", \"value\": \"short\"} ,{\"trait_type\": \"HSL Palette\", \"value\": \"243\"} ,{\"trait_type\": \"Entropy\", \"value\": \"low\"} ,{\"trait_type\": \"Records\", \"value\": \"3\"}]}",
+  "metadata": {
+    "name": "Bach #1",
+    "description": "Your generative DJ. Hiting play destroys the previous song and creates a brand new song in real-time",
+    "image": "https://0xmusic.mypinata.cloud/ipfs/QmfL6oRoroEnvrV6yw6tZUgfhLdWgyaWb524V3Ar6gbykc/6/243/3/img.png",
+    "animation_url": "https://0xmusic.mypinata.cloud/ipfs/QmZH5v5YxuyCRecQ2KxWkR5svCrVvkim6fyF9nHQzTdAKu/tonekingzwithlead.html?genre=6&id=243&len=2&bg=3",
+    "external_url": "https://www.0xmusic.com",
+    "background_color": "2B2727",
+    "attributes": [
+      {
+        "trait_type": "0xDJ",
+        "value": "Bach"
+      },
+      {
+        "trait_type": "Orientation",
+        "value": "vanward"
+      },
+      {
+        "trait_type": "Cycle length",
+        "value": "short"
+      },
+      {
+        "trait_type": "HSL Palette",
+        "value": "243"
+      },
+      {
+        "trait_type": "Entropy",
+        "value": "low"
+      },
+      {
+        "trait_type": "Records",
+        "value": "3"
+      }
+    ]
+  }
+}

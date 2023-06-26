@@ -1,0 +1,42 @@
+{
+  "address": "0x3035bb5fdd9597903776da28e41614e1b2ca39bc",
+  "type": "ERC721",
+  "name": "The Lunartics",
+  "tokenCount": "10000",
+  "uri": "https://lunartics-meta.s3.amazonaws.com/1",
+  "metadata": {
+    "name": "Lunartics 1",
+    "image": "https://the-lunartics.mypinata.cloud/ipfs/QmXAjWvZipYNRvJyfzKTuq27iJTyGYUe5ZZPNCs5PDFeh3/1.png",
+    "description": "",
+    "attributes": [
+      {
+        "trait_type": "Exclusive",
+        "value": "CHRISTic"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Exclusive"
+      },
+      {
+        "trait_type": "Brains",
+        "value": 8,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Badassness",
+        "value": 10,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Pep",
+        "value": 10,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Moxie",
+        "value": 9,
+        "max_value": 10
+      }
+    ]
+  }
+}

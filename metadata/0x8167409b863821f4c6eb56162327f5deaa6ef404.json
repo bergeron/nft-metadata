@@ -1,0 +1,54 @@
+{
+  "address": "0x8167409b863821f4c6eb56162327f5deaa6ef404",
+  "type": "ERC721",
+  "name": "Kaizen (SI)",
+  "tokenCount": "256",
+  "uri": "https://art-sandbox.sunflower.industries/token/0x8167409B863821F4C6eb56162327f5deaA6Ef404/1",
+  "metadata": {
+    "description": "An abstract series exploring the possibilities of just two colors and shapes.",
+    "dependencies": "[{\"name\":\"p5@1.4.0\",\"keccak256\":\"0xcef1df742d5237151854b6ccd3d7769c7bcb2cf987e4f8f6ca1ad69afdac3dcc\"}]",
+    "artist": "0xD3fF209c5AdddB59C6aC709Fd0B236FC14246B42",
+    "external_url": "https://art.sunflower.industries/token/0x8167409B863821F4C6eb56162327f5deaA6Ef404/1",
+    "image": "https://art-sandbox.sunflower.industries/render/tokenImage/0x8167409B863821F4C6eb56162327f5deaA6Ef404/1",
+    "name": "Kaizen #1",
+    "attributes": [
+      {
+        "trait_type": "Grid Size",
+        "value": "50"
+      },
+      {
+        "trait_type": "Layers",
+        "value": "1"
+      },
+      {
+        "trait_type": "Line Chance (%)",
+        "value": "50"
+      },
+      {
+        "trait_type": "Fill Chance (%)",
+        "value": "50"
+      },
+      {
+        "trait_type": "Growth Chance (%)",
+        "value": "90"
+      },
+      {
+        "trait_type": "Minimum Density",
+        "value": "11"
+      },
+      {
+        "trait_type": "Maximum Density",
+        "value": "27"
+      },
+      {
+        "trait_type": "Maximum Size",
+        "value": "13"
+      },
+      {
+        "trait_type": "Layout",
+        "value": "Normal"
+      }
+    ],
+    "animation_url": "https://art-sandbox.sunflower.industries/tokenFrame/0x8167409B863821F4C6eb56162327f5deaA6Ef404/1"
+  }
+}

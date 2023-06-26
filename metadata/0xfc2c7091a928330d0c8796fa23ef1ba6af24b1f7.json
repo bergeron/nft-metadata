@@ -1,0 +1,42 @@
+{
+  "address": "0xfc2c7091a928330d0c8796fa23ef1ba6af24b1f7",
+  "type": "ERC721",
+  "name": "Cryptoman NFTs",
+  "tokenCount": "1",
+  "uri": "ipfs://QmRDdcXsfyQQtZAxwt8fk1YAtm21Mu7xe1GqbR5k3tjAzg/1",
+  "metadata": {
+    "name": "Cryptoman #2",
+    "description": "Cryptoman",
+    "image": "ipfs://QmXVjPrkiNY9oqLKnQLck25BhCeeLTWudhY8DCYXjuatJH/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "5"
+      },
+      {
+        "trait_type": "Trousers",
+        "value": "White short"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Brown jacket white shirt"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "White"
+      }
+    ],
+    "dna": "4553e199c279e71409e5cb89721064a7d863c7d6",
+    "edition": 2,
+    "date": 1658148350326,
+    "compiler": "Cryptoman"
+  }
+}

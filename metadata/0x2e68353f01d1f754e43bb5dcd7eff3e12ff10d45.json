@@ -1,0 +1,25 @@
+{
+  "address": "0x2e68353f01d1f754e43bb5dcd7eff3e12ff10d45",
+  "type": "ERC721",
+  "name": "DAB.TW",
+  "tokenCount": "2",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x2e68353f01d1f754e43bb5dcd7eff3e12ff10d45/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x2E68353f01D1F754e43BB5Dcd7Eff3e12fF10D45/icon?id=1",
+    "expiration": 1896595150,
+    "tokenId": "1",
+    "owner": "0x7d45dc3bb7b7ed12cce17a513aaa7f7a72e83145",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1896595150
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x2E68353f01D1F754e43BB5Dcd7Eff3e12fF10D45",
+    "network": 1
+  }
+}

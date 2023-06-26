@@ -1,0 +1,61 @@
+{
+  "address": "0x13b9af3373f564f6a952a4a4c60e5a7ffa05d909",
+  "type": "ERC721",
+  "name": "WearX",
+  "tokenCount": "1800",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmZLVTkhdGaVAYF5cLw3UVkSgq7MxuZ8MtyYDP171bxGBZ/1.json",
+  "metadata": {
+    "name": "WearX #1155",
+    "description": "WearX collectibles are PUML's revolutionary IRL and Metaverse compatible wearables. These NFTs will add a brand new flavour to the PUML app (and soon, your favourite metaverse), amplifying your overall Web3 experience. Get moving and earn those bonus rewards - we're so excited to walk this journey with you! https://pumlx.com/",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbfmAFGxYdf2LgT1zNGsio7eHCYmvzXFLMoYiuvwmH2bM/1155.png",
+    "edition": "1155",
+    "date": 1667464794639,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cheek"
+      },
+      {
+        "trait_type": "Band",
+        "value": "Canvas Strap Orange_White"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red Stats"
+      },
+      {
+        "trait_type": "Bezel",
+        "value": "Ice Blue Bezel"
+      },
+      {
+        "trait_type": "Outer Bezel",
+        "value": "Gold Button"
+      },
+      {
+        "trait_type": "Watch Type",
+        "value": "Modern"
+      },
+      {
+        "trait_type": "Battery",
+        "value": 5,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Damage Resistance",
+        "value": 6,
+        "max_value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Distance",
+        "value": 7078
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Multiplier",
+        "value": 100
+      }
+    ],
+    "compiler": "Xaikyo"
+  }
+}

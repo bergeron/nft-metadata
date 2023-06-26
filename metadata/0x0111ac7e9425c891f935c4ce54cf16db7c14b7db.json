@@ -1,0 +1,116 @@
+{
+  "address": "0x0111ac7e9425c891f935c4ce54cf16db7c14b7db",
+  "type": "ERC721",
+  "name": "Chainbreakers",
+  "tokenCount": "2944",
+  "uri": "http://api.chainbreakers.io/api/v1/items/metadata?tokenId=1",
+  "metadata": {
+    "properties": [
+      {
+        "key": "rarity",
+        "value": "common",
+        "type": "string"
+      },
+      {
+        "key": "weapon",
+        "value": "mace",
+        "type": "string"
+      },
+      {
+        "key": "role",
+        "type": "string"
+      },
+      {
+        "key": "wisdom",
+        "value": 9,
+        "type": "integer"
+      },
+      {
+        "key": "intellect",
+        "value": 29,
+        "type": "integer"
+      },
+      {
+        "key": "vitality",
+        "value": 79,
+        "type": "integer"
+      },
+      {
+        "key": "charisma",
+        "value": 418,
+        "type": "integer"
+      },
+      {
+        "key": "mint_number",
+        "value": 1,
+        "type": "integer"
+      },
+      {
+        "key": "generation",
+        "value": 0,
+        "type": "integer"
+      },
+      {
+        "key": "required_level",
+        "value": 0,
+        "type": "integer"
+      }
+    ],
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "common"
+      },
+      {
+        "trait_type": "weapon",
+        "value": "mace"
+      },
+      {
+        "trait_type": "role"
+      },
+      {
+        "max_value": null,
+        "trait_type": "wisdom",
+        "value": 9
+      },
+      {
+        "max_value": null,
+        "trait_type": "intellect",
+        "value": 29
+      },
+      {
+        "max_value": null,
+        "trait_type": "vitality",
+        "value": 79
+      },
+      {
+        "max_value": 0,
+        "trait_type": "charisma",
+        "value": 418
+      },
+      {
+        "max_value": 11,
+        "trait_type": "mint_number",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "required_level",
+        "value": 0
+      }
+    ],
+    "description": "Cannot be used",
+    "externalUrl": "https://market.chainbreakers.io/marketplace?token=1",
+    "home_url": "https://market.chainbreakers.io/marketplace?token=1",
+    "animation_url": "https://chainbreakers.io/ipfs/templates/glb/empty.glb",
+    "image": "https://chainbreakers.io/ipfs/templates/icons/500x500.jpg",
+    "image_url": "https://chainbreakers.io/ipfs/templates/icons/500x500.jpg",
+    "name": "Destroyed Item",
+    "background_color": "303030"
+  }
+}

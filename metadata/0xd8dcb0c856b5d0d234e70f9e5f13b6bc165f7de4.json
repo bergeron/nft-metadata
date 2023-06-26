@@ -1,0 +1,55 @@
+{
+  "address": "0xd8dcb0c856b5d0d234e70f9e5f13b6bc165f7de4",
+  "type": "ERC721",
+  "name": "ETHTURIN 2020",
+  "tokenCount": "100",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=yrGIr6WIaEsn1gUKkVbC",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1584135611674?alt=media&token=d86269f8-2907-4904-80ef-a98d75ef7270",
+    "forSale": true,
+    "description": "This ticket gives access to Ethereum builders to all resources, prizes and bounties for V-ETHTurin Virtual Hackathon, happening April 24-26, 2020 and livestreamed from Toolbox Torino.",
+    "contractAddress": "0xd8dcb0c856b5d0d234e70f9e5f13b6bc165f7de4",
+    "tags": [],
+    "amountToMint": 25,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1584135693,
+      "_nanoseconds": 858000000
+    },
+    "price": 0,
+    "name": "Hacker Access to V-ETHTurin 2020",
+    "fiatPrice": "$0.00",
+    "attributes": [
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1587700800
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": 1587873600
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "https://www.ethturin.com"
+      },
+      {
+        "trait_type": "location",
+        "value": "Turin, Metropolitan City of Turin, Italy"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJ31ztwwxtiEcR4JQ8R33mBQQ"
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0xd8dcb0c856b5d0d234e70f9e5f13b6bc165f7de4",
+    "type": "ERC721"
+  }
+}

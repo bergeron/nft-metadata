@@ -1,0 +1,29 @@
+{
+  "address": "0xfde454ff88929f35092bbe757126c61b2996d0d1",
+  "type": "ERC1155",
+  "name": "0xfde454ff88929f35092bbe757126c61b2996d0d1",
+  "tokenCount": "3",
+  "uri": "https://ipfs.io/ipfs/QmSebgtfvBuWMa1iYPB7L1NVkkHKd3UCcoRFcbUghgVbHx",
+  "metadata": {
+    "title": "MODO ZOMBIE AUDIO & VIDEO NFT",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "MODO ZOMBIE AUDIO & VIDEO NFT"
+      },
+      "description": {
+        "type": "string",
+        "description": "Invest in Nipo's \"Modo Zombie\" song and share in the royalties\nYour interest in Modo Zombie will be represented by an NFT.\nModo Zombie Royalty split 60/40 Nipo 809 60% - Investors 40%\nMusic Video and Audio Song are included in this NFT."
+      },
+      "image": {
+        "type": "string",
+        "description": "https://artemisvision.s3.us-east-2.amazonaws.com/nipo-809/Nipo+Zombie.png"
+      },
+      "properties": {
+        "Artist": "Nipo 809",
+        "Earnings": "40% Royalties"
+      }
+    }
+  }
+}

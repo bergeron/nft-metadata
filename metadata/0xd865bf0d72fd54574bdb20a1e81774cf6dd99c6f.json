@@ -1,0 +1,29 @@
+{
+  "address": "0xd865bf0d72fd54574bdb20a1e81774cf6dd99c6f",
+  "type": "ERC721",
+  "name": "ApeVerse Genesis",
+  "tokenCount": "3000",
+  "uri": "ipfs://bafybeigcvhwy6f625h4gtxaqh5aplaz57dpriopg7ecbebk3bawwapf62i/1",
+  "metadata": {
+    "name": "Apeverse Genesis #1",
+    "description": "Apeverse Genesis #1 - We all have a little bit of Ape inside us...",
+    "fee_recipient": "0xe4665D8b8ecd97D61a7EF40c05eB41B4D4eACC52",
+    "seller_fee_basis_points": 1000,
+    "image": "ipfs://bafybeihackwcjh2dueraj7uwcq3ntvjwzjkx3wy7nqfp3yte7yqfhzjhfy/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Type",
+        "value": "White"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 2976,
+        "display_type": "number"
+      }
+    ]
+  }
+}

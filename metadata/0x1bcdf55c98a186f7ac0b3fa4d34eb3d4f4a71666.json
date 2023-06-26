@@ -1,0 +1,40 @@
+{
+  "address": "0x1bcdf55c98a186f7ac0b3fa4d34eb3d4f4a71666",
+  "type": "ERC721",
+  "name": "Host Memorial",
+  "tokenCount": "1000",
+  "uri": "ipfs://QmcVtEEjWWH4QLYLVj33eDZAJbt6zbVhWK6j3G1711SLXZ/1",
+  "metadata": {
+    "name": "Hosts #1",
+    "description": "Hosts are a collection of 1,000 randomly generated pieces of art dedicated to those who lost their lives to COVID.",
+    "image": "ipfs://QmSo6t2ianvZpgUJABYyXm71duzsqfCRDxSx3cLm2p2ayy/1.png",
+    "edition": 1,
+    "date": 1655761296739,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "royal blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "gray tshirt"
+      },
+      {
+        "trait_type": "Skull",
+        "value": "terazzo blue"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "beret"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "steampunk glasses"
+      }
+    ]
+  }
+}

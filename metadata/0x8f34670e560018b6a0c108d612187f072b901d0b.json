@@ -1,0 +1,41 @@
+{
+  "address": "0x8f34670e560018b6a0c108d612187f072b901d0b",
+  "type": "ERC721",
+  "name": "OnlyPix",
+  "tokenCount": "5",
+  "uri": "ipfs://bafybeieowi3lwjfk3urfrsq2xskyguolhlg2g3b6jmfnkwthaml77we6bu/1.json",
+  "metadata": {
+    "name": "Only Pix 1",
+    "description": "OnlyPix is a collection of 5000 randomly generated Models on the ethereum blockchain. The OnlyPix NFT will be a project centered around community driven ideas and a real focus on the art and holders",
+    "image": "ipfs://bafybeidoihupjn3pyaqurhnmu5g2si3qoefjj4u4pyzsqkxizxlag3vze4/1.png",
+    "edition": 1,
+    "date": 1679445929799,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "City"
+      },
+      {
+        "trait_type": "Body Type",
+        "value": "White"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Purple Tracksuit"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Green Wig"
+      },
+      {
+        "trait_type": "Feet",
+        "value": "White Painted Toenails"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue"
+      }
+    ],
+    "compiler": "OnlyPixDeployer"
+  }
+}

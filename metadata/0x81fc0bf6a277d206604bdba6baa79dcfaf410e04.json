@@ -1,0 +1,42 @@
+{
+  "address": "0x81fc0bf6a277d206604bdba6baa79dcfaf410e04",
+  "type": "ERC721",
+  "name": "NaughtyNate",
+  "tokenCount": "676",
+  "uri": "ipfs://QmU3XX8dMz2PSrQ5ugTzaSFu9AaKa9SHAikg75RXvjHJjQ/1.json",
+  "metadata": {
+    "name": "Naughty Nate #1",
+    "description": "Naughty Nate",
+    "image": "ipfs://Qmdv1srNqSBcAwTWDEXgkP58Kcj7iQAqZSRX5p7RWpdodD//1.png",
+    "dna": "edafa037912112fc3833746a9a72e6ec03eec9c1",
+    "edition": 1,
+    "date": 1655108034909,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "backgroundThumb"
+      },
+      {
+        "trait_type": "Nate",
+        "value": "Nate16"
+      },
+      {
+        "trait_type": "persona",
+        "value": "Azuki3"
+      },
+      {
+        "trait_type": "plackard",
+        "value": "Plackard2"
+      },
+      {
+        "trait_type": "information",
+        "value": "Info2"
+      },
+      {
+        "trait_type": "Decoration",
+        "value": "pictureFrame2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

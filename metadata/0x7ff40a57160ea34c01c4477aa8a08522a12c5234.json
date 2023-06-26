@@ -1,0 +1,32 @@
+{
+  "address": "0x7ff40a57160ea34c01c4477aa8a08522a12c5234",
+  "type": "ERC721",
+  "name": "M4 LAND NFT",
+  "tokenCount": "8000",
+  "uri": "https://ipfs.m4rabbit.io/lands/1.json",
+  "metadata": {
+    "name": "M4 LANDS #1 - Sentinels",
+    "edition": 1,
+    "description": "M4Rabbit Sentinels LAND NFT - M4 Rabbit Project https://discord.gg/m4rabbit - Visit our discord to activate and register your land to play and earn in the M4 Rabbit Land War!",
+    "image": "https://ipfs.m4rabbit.io/lands/Sentinels.mp4",
+    "attributes": [
+      {
+        "trait_type": "Faction",
+        "value": "Sentinels"
+      },
+      {
+        "trait_type": "Gold",
+        "value": 2569
+      },
+      {
+        "trait_type": "Spore",
+        "value": 727
+      },
+      {
+        "trait_type": "Water",
+        "value": 9350
+      }
+    ],
+    "compiler": "M4 Rabbit & Millionaire Rabbit Art Engine"
+  }
+}

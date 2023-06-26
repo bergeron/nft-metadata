@@ -1,0 +1,64 @@
+{
+  "address": "0xd73d8a44fd42b1a4b3a89c8a54f2bba3867a91be",
+  "type": "ERC721",
+  "name": "Arena Hackers",
+  "tokenCount": "1337",
+  "uri": "https://s3.us-east-2.amazonaws.com/cdn.arena/hacker-metadata/1",
+  "metadata": {
+    "tokenId": 1,
+    "image": "https://s3.us-east-2.amazonaws.com/cdn.arena/hacker-images/1.png",
+    "attributes": [
+      {
+        "trait_type": "model",
+        "value": "Chad"
+      },
+      {
+        "trait_type": "background",
+        "value": "blur city sunset"
+      },
+      {
+        "trait_type": "style",
+        "value": "camo"
+      },
+      {
+        "trait_type": "color",
+        "value": "gray"
+      },
+      {
+        "trait_type": "skin",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "mask",
+        "value": "black"
+      },
+      {
+        "trait_type": "led",
+        "value": "gm"
+      },
+      {
+        "trait_type": "logo",
+        "value": "empty"
+      },
+      {
+        "trait_type": "tattoo",
+        "value": "ancient red"
+      },
+      {
+        "trait_type": "Hacking",
+        "value": 61,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Cryptanalysis",
+        "value": 32,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Social Engineering",
+        "value": 52,
+        "max_value": 100
+      }
+    ]
+  }
+}

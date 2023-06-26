@@ -1,0 +1,41 @@
+{
+  "address": "0x06bf581f3f0de51656b387945da647382c55c3f6",
+  "type": "ERC721",
+  "name": "Albert Bonau Art",
+  "tokenCount": "28",
+  "uri": "https://arweave.net/MHyx6BssUm3QxH3S1foIKBVdFk4kAR2uZOO-Qz4ug6c",
+  "metadata": {
+    "name": "Dancing Cubes",
+    "created_by": "Albert Bonau",
+    "description": "Audio-reactive generative artwork, inspired by Optical art, the grid of cubes rotates randomly, but at the same time, each time a note of the melody sound, the cubes react with a different movement.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Albert Bonau"
+      }
+    ],
+    "animation_details": {
+      "bytes": 152042838,
+      "format": "MP4",
+      "duration": 33,
+      "sha256": "3340ac0c1c32856641a86cf28e437f1bc5e23731959660ed87a583eea8da63c7",
+      "width": 720,
+      "height": 1280,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/Srv4NL6B6H28URj-xuo2xL-dJdNA6veTzHBGbB9fB5A",
+    "animation_url": "https://arweave.net/Srv4NL6B6H28URj-xuo2xL-dJdNA6veTzHBGbB9fB5A",
+    "image_details": {
+      "bytes": 4343423,
+      "format": "PNG",
+      "sha256": "8b1de3b14f638157ea3674e6817eb5f0ab4589a5982fdbf72ca0a414022c3974",
+      "width": 1418,
+      "height": 2532
+    },
+    "image": "https://arweave.net/WE21qKT7up-xWdH_FSPd-EkyyiCaDfiB36K4YdMa6es",
+    "image_url": "https://arweave.net/WE21qKT7up-xWdH_FSPd-EkyyiCaDfiB36K4YdMa6es"
+  }
+}

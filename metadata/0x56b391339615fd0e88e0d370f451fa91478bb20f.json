@@ -1,0 +1,49 @@
+{
+  "address": "0x56b391339615fd0e88e0d370f451fa91478bb20f",
+  "type": "ERC721",
+  "name": "Ethalien",
+  "tokenCount": "7500",
+  "uri": "https://fisa6z9ui7.execute-api.us-east-2.amazonaws.com/beta/getid?setId=1",
+  "metadata": {
+    "external_url": "https://www.ethaliens.com",
+    "image": "https://genesis-ethalien-images.s3.us-east-2.amazonaws.com/ethaliensv2/1.PNG",
+    "animation_url": "https://ethalien-dual-metadata-asterialabs.vercel.app/imageswitch?id=1",
+    "attributes": [
+      {
+        "value": "Black",
+        "trait_type": "Background"
+      },
+      {
+        "value": "None",
+        "trait_type": "Overlay"
+      },
+      {
+        "value": "Green",
+        "trait_type": "Skin"
+      },
+      {
+        "value": "Business Suit",
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "Planets",
+        "trait_type": "Tattoo"
+      },
+      {
+        "value": "Space",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "Doobie",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": "Green Spikes",
+        "trait_type": "Head"
+      }
+    ],
+    "description": "The Ethaliens are 7500 unique Aliens fleeing from their planet destroyed by the Satoshiens. They have settled down on earth and are undergoing the Ethalien Invasion!",
+    "id": 1,
+    "name": "Apollski"
+  }
+}

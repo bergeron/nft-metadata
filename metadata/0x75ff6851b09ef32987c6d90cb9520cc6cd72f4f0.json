@@ -1,0 +1,42 @@
+{
+  "address": "0x75ff6851b09ef32987c6d90cb9520cc6cd72f4f0",
+  "type": "ERC721",
+  "name": "POOBIRDS",
+  "tokenCount": "5555",
+  "uri": "ipfs://Qme3aDpsA1GC51WBQFtTJD8PzLeMHk1zKDftnwuHXkdCKg/1.json",
+  "metadata": {
+    "name": "POOBIRD #1",
+    "description": "Most valuable PFP in this bear market.",
+    "image": "ipfs://QmbCZFtH31bKkcSf1nc5EawNus83LNV88dpxaFWczKbG8x/1.png",
+    "dna": "398f90d8e12b48bd014df764b27356c19680aec7",
+    "edition": 1,
+    "date": 1655420312118,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Poobird",
+        "value": "15"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Side eye"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Beanie"
+      },
+      {
+        "trait_type": "Item",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "War"
+  }
+}

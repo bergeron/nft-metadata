@@ -1,0 +1,50 @@
+{
+  "address": "0x6424c29548d780cfc5d028c9c5f36ee3bc54f682",
+  "type": "ERC721",
+  "name": "Skulltoon Punks",
+  "tokenCount": "666",
+  "uri": "ipfs://QmZwXUzCU3TXRryiZfhQfqBxaSmvyLPMaizAaSUXM3jD41/1.json",
+  "metadata": {
+    "name": "Skulltoon Punks #1",
+    "description": "666 Skulltoons but as Punks. Ready to take over WEB3",
+    "external_url": "",
+    "image": "ipfs://QmWXignVKPNgNuCiZYHNgfRzCAa1h56Pfsw6R8VLhPw7GA/1.png",
+    "animation_url": "ipfs://QmWXignVKPNgNuCiZYHNgfRzCAa1h56Pfsw6R8VLhPw7GA/1.png",
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "PYRAMID"
+      },
+      {
+        "trait_type": "BODY",
+        "value": "TEAL"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "WHITE EYES"
+      },
+      {
+        "trait_type": "EYE ACCESSORIES",
+        "value": "3D GLASSES"
+      },
+      {
+        "trait_type": "HEAD ACCESSORIES ",
+        "value": "CRAZY VIOLET HAIR"
+      },
+      {
+        "trait_type": "MOUTH ACCESSORIES",
+        "value": "CIGARETTE"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://the-nft-generator.com"
+  }
+}

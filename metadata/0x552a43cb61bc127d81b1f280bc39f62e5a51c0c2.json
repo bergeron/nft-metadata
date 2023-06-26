@@ -1,0 +1,57 @@
+{
+  "address": "0x552a43cb61bc127d81b1f280bc39f62e5a51c0c2",
+  "type": "ERC721",
+  "name": "ApeDocs",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmThXc9UUPHeyo6bdHhf62iW57UgtcYg6AqYMUsZzurqKj/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "ApeDocs is the first NFT project designed specifically for healthcare workers. We are founded by a team of doctors, and we're building the best community of healthcare workers the metaverse will ever see. ",
+    "external_url": "",
+    "image": "ipfs://QmXC8tLWLQVNmwBZDvPEKhJnsTuLEGPWDF8gCD7NjA1bkd/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Fur Color",
+        "value": "Burnt Umber"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Navy Blue Scrubs"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Plain Neck"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "The Meta Mask"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Plain Ears"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Intern Hat"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

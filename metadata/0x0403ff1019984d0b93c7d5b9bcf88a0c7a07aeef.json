@@ -1,0 +1,32 @@
+{
+  "address": "0x0403ff1019984d0b93c7d5b9bcf88a0c7a07aeef",
+  "type": "ERC721",
+  "name": "Foo Drop",
+  "tokenCount": "7",
+  "uri": "ipfs://Qmb5MoYLkkiD4DW93Wio7G7EcCkeWtRtzAvnfryBdU46xM/1",
+  "metadata": {
+    "name": "Foo Name File",
+    "description": "Foo Desc File",
+    "image": "ipfs://QmaJtxywCRcSmwaW524GVxBnkqJxKQpENZwJE3EdUt3c4n",
+    "external_url": "https://foo.com",
+    "background_color": "1882fa",
+    "attributes": [
+      {
+        "trait_type": "Twitter URL",
+        "value": "https://twitter.com/foo"
+      },
+      {
+        "trait_type": "Prop 1",
+        "value": "Trait 11"
+      },
+      {
+        "trait_type": "Prop 2",
+        "value": "Trait 22"
+      },
+      {
+        "trait_type": "Prop 3",
+        "value": "Trait 33"
+      }
+    ]
+  }
+}

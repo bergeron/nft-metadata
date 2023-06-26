@@ -1,0 +1,35 @@
+{
+  "address": "0x4503914041159f6bcb73c6e5df3fc266bc483d8f",
+  "type": "ERC721",
+  "name": "RebelDucks",
+  "tokenCount": "1",
+  "uri": "ipfs://QmTUfk71nthV6DoTNLtAXfrxeAGMk5tDcvzwtAjwvsZrkN/1.json",
+  "metadata": {
+    "dna": "00f9b2c8320acddc9caf3b90dbab6abcd3f2ef03",
+    "name": "#1",
+    "description": "This is an official NFT in the Rebel Ducks Collection",
+    "image": "ipfs://QmWE6Lv91AZ2fyh2wPYcZvhQGMCcm3s5Bbiga89VmL7mJC/1.png",
+    "edition": 1,
+    "date": 1647650232208,
+    "artist": "Haze",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "RoyalBlue"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Purple"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

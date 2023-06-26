@@ -1,0 +1,35 @@
+{
+  "address": "0x6f20258a4dfc7ea14c07dac560f66ab380a4ca2c",
+  "type": "ERC721",
+  "name": "Vikings Social Club NFT",
+  "tokenCount": "2",
+  "uri": "ipfs://QmT17s4E1B4XkRSBN3DP4LBHV3fhmGjEdBgJPzJBaxdEqc/1.json",
+  "metadata": {
+    "image": "ipfs://QmS5LMEByT94qt2ehyFhkdrNA87bwDEEcobCEBZpbCeKQz/0001.png",
+    "name": "Viking0001",
+    "description": "Viking are a collection of 10000 non-fungible tokens",
+    "edition": "0001",
+    "attributes": [
+      {
+        "value": "Red",
+        "trait_type": "Backgrounds"
+      },
+      {
+        "value": "Brown",
+        "trait_type": "Skin"
+      },
+      {
+        "value": "Mayan",
+        "trait_type": "Face Tattoo"
+      },
+      {
+        "value": "Armored Suit",
+        "trait_type": "Clothing"
+      },
+      {
+        "value": "None",
+        "trait_type": "Accessories"
+      }
+    ]
+  }
+}

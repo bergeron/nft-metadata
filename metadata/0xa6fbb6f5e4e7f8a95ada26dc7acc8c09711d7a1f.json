@@ -1,0 +1,44 @@
+{
+  "address": "0xa6fbb6f5e4e7f8a95ada26dc7acc8c09711d7a1f",
+  "type": "ERC721",
+  "name": "Fortune Cookiez shop",
+  "tokenCount": "5",
+  "uri": "https://arweave.net/7tE18UTV9quROqoFnk3r2w81mWxR_nL_kQ8McuEwifE",
+  "metadata": {
+    "name": "#1",
+    "description": "Yummy!",
+    "image": "ar://E_35MRm2zpKQcqCjA3CsuMZZT3IbJ8eFbCemvMxsNsw",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Chilli pepper Background"
+      },
+      {
+        "trait_type": "body",
+        "value": "persian orange cookie"
+      },
+      {
+        "trait_type": "body-decos",
+        "value": "default"
+      },
+      {
+        "trait_type": "first-layers",
+        "value": "Blue berry icing (left)"
+      },
+      {
+        "trait_type": "fortune-cookie-paper",
+        "value": "normal paper"
+      },
+      {
+        "trait_type": "middle-layers",
+        "value": "Gubby bears (left)"
+      },
+      {
+        "trait_type": "top layers",
+        "value": "default"
+      }
+    ],
+    "external_url": "https://backend.fortunecookiez.shop/api/cookiez/get?cookieId=1",
+    "fortune": "A copy of the universe is not what is\nrequired of art; one of the damnedthings\nis ample.  -- Rebecca West"
+  }
+}

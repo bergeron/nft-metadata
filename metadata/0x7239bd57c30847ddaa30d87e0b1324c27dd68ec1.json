@@ -1,0 +1,63 @@
+{
+  "address": "0x7239bd57c30847ddaa30d87e0b1324c27dd68ec1",
+  "type": "ERC721",
+  "name": "WincityHistory - old",
+  "tokenCount": "300",
+  "uri": "https://www.wincity.com/api/metadata/WincityHistory/1",
+  "metadata": {
+    "type": "object",
+    "title": "Tour Eiffel",
+    "description": "This card allows you to participate in the governance of the project, be invited to our events for free and be an alpha tester of our future game Wincity.\n\nIn addition to all these benefits, History cards guarantee you to be a WL on all our future assets.\n\t\t\t\t\nThis huge and majestic structure is 324 meters high, it is made of 18 000 puddled iron pieces. It was made by Gustave Eiffel, engineer and famous entrepreneur, who designed this building for the celebrations of the centenary of the French Revolution and the Universal Exhibition in Paris held in 1889.",
+    "image": "https://cdn.wincity.com/asset/WincityHistory/cards/tour_eiffel/rare/24.png",
+    "name": "Tour Eiffel RARE #24",
+    "attributes": [
+      {
+        "trait_type": "00 - BUILDING",
+        "value": "TOUR_EIFFEL",
+        "description": "BUILDING"
+      },
+      {
+        "trait_type": "00 - RARITY",
+        "value": "RARE",
+        "description": "RARITY"
+      },
+      {
+        "trait_type": "00 - NUMBER",
+        "value": "24",
+        "description": "NUMBER"
+      },
+      {
+        "trait_type": "02 - BALLOON",
+        "value": "NO",
+        "description": "BALLOON"
+      },
+      {
+        "trait_type": "02 - SPOTLIGHT",
+        "value": "YES",
+        "description": "SPOTLIGHT"
+      },
+      {
+        "trait_type": "02 - TREES",
+        "value": "NO",
+        "description": "TREES"
+      },
+      {
+        "trait_type": "02 - CITY",
+        "value": "YES",
+        "description": "CITY"
+      },
+      {
+        "trait_type": "02 - FIREWORKS",
+        "value": "NO",
+        "description": "FIREWORKS"
+      },
+      {
+        "trait_type": "00 - NUMBER OF ASSETS",
+        "value": 2,
+        "description": "Number of assets",
+        "display_type": "number"
+      }
+    ],
+    "external_url": "https://www.wincity.com"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "address": "0x76523568ba129da251e3181216fc7e9f62a1a01a",
+  "type": "ERC721",
+  "name": "BOOK.io Winnie The Pooh DEA Ebook",
+  "tokenCount": "100",
+  "uri": "ipfs://QmQL9PJQ4usuM1Xc5EPL8yy9eMF9qijckFaxTDcstWV3g8/1",
+  "metadata": {
+    "name": "Winnie the Pooh #61",
+    "description": "Think it over, think it under.",
+    "image": "ipfs://QmVrchTGh876Fbsoyp61Tb2EVRQ7B4Mi1JnefqzC72PW64",
+    "attributes": {
+      "Cover Theme": "Christopher Robin",
+      "Variation": "11"
+    },
+    "authors": [
+      "A. A. Milne"
+    ],
+    "entrypoint": "ipfs://Qmdk2hJfNwfyJaxJdwUCWKKM4v6cLyrECWFxY31WrCRpBQ",
+    "extraAttributes": {
+      "Book Title": "Winnie the Pooh"
+    },
+    "files": [
+      {
+        "mediaType": "image/png",
+        "name": "High-Res Cover Image",
+        "src": "ipfs://QmcRUvBiZzZNVP7nTcCVr5mGsL4t97HBPMoAqQ6Pok87X2"
+      }
+    ],
+    "id": "e42c8f0c-79c2-4ce5-8468-d930889bc241",
+    "mediaType": "application/epub+zip",
+    "sha256": "657df2be44f24c03759be0a2f1cd525e293d3fb9f96b270e7ade190da00f655b",
+    "website": "https://book.io"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0xd3503c13cea469fe38a245eab5c2775cf2b7930e",
+  "type": "ERC1155",
+  "name": "The Feast Days",
+  "tokenCount": "135",
+  "uri": "https://thefeastdays.s3.amazonaws.com/json/1.json",
+  "metadata": {
+    "name": "Feast Day 0101 - Holy Name",
+    "description": "January 1 - The Holy Name of our Lord Jesus Christ",
+    "image": "https://thefeastdays.s3.amazonaws.com/images/0101.png",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Kirsten Kohr"
+      },
+      {
+        "trait_type": "Month",
+        "value": "January"
+      },
+      {
+        "trait_type": "Tradition",
+        "value": "Holy Days"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Male"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0x8728fb57b46eb2353d66ea86e335451e8c5edcc9",
+  "type": "ERC721",
+  "name": "PixelMinds",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmQca2D9j1zHNPMywMFdpekZhqCtLcZS53R4e3xTafcGag/1.json",
+  "metadata": {
+    "name": "Pixel Minds #1",
+    "description": "do you have a mind of your own?",
+    "image": "ipfs://QmPezEzQNUVGChz9JcBBsPtnH4jfP2CDtu4cuXibiU1KBk/1.png",
+    "dna": "5bd40d36f4d4e33e846b4b531b4544d2cbf4b531",
+    "edition": 1,
+    "date": 1662866251442,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "rose"
+      },
+      {
+        "trait_type": "type",
+        "value": "lime"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "crossed"
+      },
+      {
+        "trait_type": "head",
+        "value": "slime"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "milk"
+      },
+      {
+        "trait_type": "earrings",
+        "value": "none"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "0x52b3bead69b4cea38bea1e02895dc89ecb0f2298",
+  "type": "ERC721",
+  "name": "stpetersburgcoolstory",
+  "tokenCount": "1",
+  "uri": "ipfs://QmUed4UUUPkgWGCK8WMTMNHfNJxKNjyV9kAveuymmdbihk/1.json",
+  "metadata": {
+    "name": "Testing",
+    "description": "Testing",
+    "image": "ipfs://QmcDyQ6vvK4A6T49uCSUaGvmHJEZUfByEbCtpqS4mgT3KW/1.png",
+    "dna": "0e4a87db044090d38b6d0f0e91b7a1b562897501",
+    "edition": 30,
+    "date": 1639233959573,
+    "creator": "Artsy Assets",
+    "fee_recipient": "0x334ce5048e1dc1cfcbf6a692e7ce6bd950ad82ec",
+    "seller_fee_basis_points": 1500,
+    "creators": [
+      {
+        "address": "0x334ce5048e1dc1cfcbf6a692e7ce6bd950ad82ec",
+        "share": 100
+      }
+    ],
+    "compiler": "Artsy Assets Mint Engine"
+  }
+}

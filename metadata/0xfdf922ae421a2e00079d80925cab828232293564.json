@@ -1,0 +1,42 @@
+{
+  "address": "0xfdf922ae421a2e00079d80925cab828232293564",
+  "type": "ERC721",
+  "name": "KittyTheOyen",
+  "tokenCount": "1",
+  "uri": "ipfs://QmY1GPS1ZYPpFM6LGsHHeAyjLsJcoyhfaVMBn8XXubWPbN/1.json",
+  "metadata": {
+    "name": "Kitty The Oyen #1",
+    "description": "Kitty Pancake. Just your next-door oyen.",
+    "image": "ipfs://QmXRadSsiZwGcgKBXw6Y8Xxkw9YExmaydwKxUi8Mq1z2RE/1.png",
+    "dna": "c9ae21e60b7c46834b1182aa28a891274eb04ebd",
+    "edition": 1,
+    "date": 1644471333121,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "falls",
+        "value": "none"
+      },
+      {
+        "trait_type": "body",
+        "value": "kitty"
+      },
+      {
+        "trait_type": "collar",
+        "value": "heartnecklace"
+      },
+      {
+        "trait_type": "items",
+        "value": "fish"
+      },
+      {
+        "trait_type": "toys",
+        "value": "colourfulball"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

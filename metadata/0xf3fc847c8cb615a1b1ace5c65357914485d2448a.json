@@ -1,0 +1,19 @@
+{
+  "address": "0xf3fc847c8cb615a1b1ace5c65357914485d2448a",
+  "type": "ERC721",
+  "name": "EI Labs AI Discount Pass",
+  "tokenCount": "38",
+  "uri": "https://ipfs.io/ipfs/QmRAmEqdNxz2rPM7baSBpAVZLCb8CfnghwedYjmh9AjwCw/1.json",
+  "metadata": {
+    "name": "EI Labs AI Discount Pass",
+    "description": "This pass will allow the holder up to 25% off EI Labs AI services. Please visit https://EILabs.AI for more details.",
+    "image": "https://ipfs.io/ipfs/QmcLk8p6c9qB8fpf1ANUAkuDZzUFTZrPa5Bc8Shdaa2tCe?filename=EiLabs_DiscountPass.gif",
+    "attributes": [
+      {
+        "trait_type": "Pass Type:",
+        "value": "Discount Pass"
+      }
+    ],
+    "compiler": "EI Labs AI Deployer"
+  }
+}

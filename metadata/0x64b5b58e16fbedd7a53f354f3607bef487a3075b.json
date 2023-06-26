@@ -1,0 +1,45 @@
+{
+  "address": "0x64b5b58e16fbedd7a53f354f3607bef487a3075b",
+  "type": "ERC721",
+  "name": "The Shmurfs Official",
+  "tokenCount": "90",
+  "uri": "ipfs://Qmf21mdtQHebRN3WE4gb6u9EpxBvparHgSqSs6CTU17Pnk/2.json",
+  "metadata": {
+    "name": "The Shmurf #2",
+    "description": "This is a collection of 8888 unique The Shmurfs NFTs.",
+    "image": "ipfs://QmTbKuHJFpUsJMRzHAyHNq4H3QZuGFoAyyYNHWGy64MFt2/2.png",
+    "edition": 2,
+    "date": 1667757052934,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Tie Dye"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Confused"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Party"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BlaBla"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "Silver"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

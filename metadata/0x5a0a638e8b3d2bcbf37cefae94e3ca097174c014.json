@@ -1,0 +1,29 @@
+{
+  "address": "0x5a0a638e8b3d2bcbf37cefae94e3ca097174c014",
+  "type": "ERC721",
+  "name": "Smash Marbles Arena Official",
+  "tokenCount": "321",
+  "uri": "https://smashmarbles-assets.s3.us-east-1.amazonaws.com/token-uri/1-token-uri.json",
+  "metadata": {
+    "id": 312,
+    "description": "",
+    "name": "Arena",
+    "animation_url": "https://smashmarbles-assets.s3.us-east-1.amazonaws.com/arena/Rare/Rare_Arena.mp4",
+    "image": "https://smashmarbles-assets.s3.us-east-1.amazonaws.com/arena/Rare/Rare_Arena.mp4",
+    "tokenId": 1,
+    "attributes": [
+      {
+        "trait_type": "Category Name",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Ticket Status",
+        "value": "N/A"
+      },
+      {
+        "trait_type": "Marble Status",
+        "value": "Unclaimed"
+      }
+    ]
+  }
+}

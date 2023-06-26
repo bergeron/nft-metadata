@@ -1,0 +1,23 @@
+{
+  "address": "0xe73bc8f8d0afd0273ec856b85dbca84e73f2d763",
+  "type": "ERC721",
+  "name": "The Dot - TDOT",
+  "tokenCount": "38",
+  "uri": "data:application/json;base64,ewogICAgIm5hbWUiOiJBIGRvdCIsCiAgICAiZGVzY3JpcHRpb24iOiAiVGhpcyBpcyBhIGJsYWNrIGRvdCIsCiAgICAiYXR0cmlidXRlcyIgOiBbCiAgICAgICAgewogICAgICAgICAgICAidHJhaXRfdHlwZSI6ICJTaGFwZSIsIAogICAgICAgICAgICAidmFsdWUiOiAiQ2lyY2xlIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgICAidHJhaXRfdHlwZSI6ICJDb2xvciIsCiAgICAgICAgICAgICJ2YWx1ZSI6IkJsYWNrIgogICAgICAgIH0KICAgIF0sCiAgICAiaW1hZ2VfZGF0YSIgOiAiPHN2ZyB2ZXJzaW9uPVwiMS4xXCIgeG1sbnM9XCJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Z1wiIHhtbG5zOnhsaW5rPVwiaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGlua1wiIHdpZHRoPVwiMjAwXCIgaGVpZ2h0PVwiMjAwXCIgdmlld0JveD1cIjAgMCAyMDAgMjAwXCI+PGRlZnM+PC9kZWZzPjxnPjwvZz48ZyB0cmFuc2Zvcm09XCJzY2FsZSgxLDEpIHNjYWxlKDEsMSlcIj48cGF0aCBmaWxsPVwicmdiKDAsMCwwKVwiIHN0cm9rZT1cIiMwMDAwMDBcIiBwYWludC1vcmRlcj1cImZpbGwgc3Ryb2tlIG1hcmtlcnNcIiBkPVwiIE0gNTAgMTAwIEMgNTAgNzIuMzg1NzYyNTEgNzIuMzg1NzYyNTEgNTAgMTAwIDUwIEMgMTI3LjYxNDIzNzQ5IDUwIDE1MCA3Mi4zODU3NjI1MSAxNTAgMTAwIEMgMTUwIDEyNy42MTQyMzc0OSAxMjcuNjE0MjM3NDkgMTUwIDEwMCAxNTAgQyA3Mi4zODU3NjI1MSAxNTAgNTAgMTI3LjYxNDIzNzQ5IDUwIDEwMFwiIGZpbGwtb3BhY2l0eT1cIjFcIiBzdHJva2UtbGluZWNhcD1cInJvdW5kXCIgc3Ryb2tlLW1pdGVybGltaXQ9XCIxMFwiPjwvcGF0aD48L2c+PC9zdmc+IiwKICAgICJleHRlcm5hbF91cmwiIDogImh0dHBzOi8vcG9seXNlbGYueHl6L3RoZS1kb3QiCn0=",
+  "metadata": {
+    "name": "A dot",
+    "description": "This is a black dot",
+    "attributes": [
+      {
+        "trait_type": "Shape",
+        "value": "Circle"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Black"
+      }
+    ],
+    "image_data": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"200\" height=\"200\" viewBox=\"0 0 200 200\"><defs></defs><g></g><g transform=\"scale(1,1) scale(1,1)\"><path fill=\"rgb(0,0,0)\" stroke=\"#000000\" paint-order=\"fill stroke markers\" d=\" M 50 100 C 50 72.38576251 72.38576251 50 100 50 C 127.61423749 50 150 72.38576251 150 100 C 150 127.61423749 127.61423749 150 100 150 C 72.38576251 150 50 127.61423749 50 100\" fill-opacity=\"1\" stroke-linecap=\"round\" stroke-miterlimit=\"10\"></path></g></svg>",
+    "external_url": "https://polyself.xyz/the-dot"
+  }
+}

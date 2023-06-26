@@ -1,0 +1,47 @@
+{
+  "address": "0x65d79f11887e04eadda215a8af0daa7c6bed0b82",
+  "type": "ERC721",
+  "name": "Beancats NFT",
+  "tokenCount": "6",
+  "uri": "https://api.beancatsnft.com/beans/beancats/1",
+  "metadata": {
+    "name": "Beancat #1",
+    "description": "Assemble your team of Beancats in an effort to defeat the threat endangering the Beanverse in our upcoming game Bean Battles! To learn more about Beancats and Bean Battles visit [www.beancatsnft.com](https://www.beancatsnft.com/).",
+    "image": "https://beancats-bean-images-public-prod-na.s3.amazonaws.com/beans/beancats/revealed/images/1.png",
+    "rarity_score": 6,
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "tail",
+        "value": "Spikey"
+      },
+      {
+        "trait_type": "body",
+        "value": "Body"
+      },
+      {
+        "trait_type": "ear",
+        "value": "Ear"
+      },
+      {
+        "trait_type": "pattern",
+        "value": "Left Face"
+      },
+      {
+        "trait_type": "face",
+        "value": "Red Eyepatch"
+      },
+      {
+        "trait_type": "shirt",
+        "value": "Pink PJs"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Green Cap"
+      }
+    ]
+  }
+}

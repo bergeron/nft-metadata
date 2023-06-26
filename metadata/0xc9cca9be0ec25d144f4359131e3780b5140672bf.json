@@ -1,0 +1,25 @@
+{
+  "address": "0xc9cca9be0ec25d144f4359131e3780b5140672bf",
+  "type": "ERC1155",
+  "name": "Personality NFT Rarity Cards",
+  "tokenCount": "7",
+  "uri": "https://personality-blockchain-3dop4w4orq-uc.a.run.app/metadata/mint-pass/1",
+  "metadata": {
+    "name": "Mythical",
+    "image": "https://pdfapi.personalitynft.com/public/rarity/mythical.gif",
+    "attributes": [
+      {
+        "trait_type": "Payout Levels",
+        "value": 7
+      },
+      {
+        "trait_type": "Yield",
+        "value": 50
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Mythical"
+      }
+    ]
+  }
+}

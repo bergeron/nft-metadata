@@ -1,0 +1,43 @@
+{
+  "address": "0xb9e9d5291117c0935a661674b6930c007221f441",
+  "type": "ERC721",
+  "name": "Cool Ghouls NFT",
+  "tokenCount": "420",
+  "uri": "ipfs://QmZRTNsJ8bQnGpbRruomb95Gj5jxNGCBEGM3hrv1EWcmbw/1.json",
+  "metadata": {
+    "name": "Cool Ghouls #1",
+    "description": "The original Cool Ghouls NFT. These are the coolest ghouls you'll ever see.",
+    "edition": 1,
+    "external_url": "https://coolghouls.io",
+    "hash": "ff7074a15259728534a1ca7ba1592d36",
+    "date": 1646031834,
+    "compiler": "Psycho's NFT Art Engine",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Irish Luck"
+      },
+      {
+        "trait_type": "Skull",
+        "value": "Blue Skull"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Mohawk"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Blue Tee"
+      },
+      {
+        "trait_type": "Item",
+        "value": "Heart Sign"
+      },
+      {
+        "trait_type": "Phase",
+        "value": "Trippy"
+      }
+    ],
+    "image": "ipfs://QmWASBqHTS4jFEzH6y1JayPtHGpuJGqN5kugKywcjPtitE/1.gif"
+  }
+}

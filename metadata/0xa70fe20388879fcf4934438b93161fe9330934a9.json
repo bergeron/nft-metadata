@@ -1,0 +1,30 @@
+{
+  "address": "0xa70fe20388879fcf4934438b93161fe9330934a9",
+  "type": "ERC721",
+  "name": "The Lucid Planet",
+  "tokenCount": "650",
+  "uri": "https://minting-pipeline-lucidplanet.herokuapp.com/1",
+  "metadata": {
+    "image": "ipfs://QmPX9ywK7obzFDx1B5T4SjkbuxgBSoCSKqQrZ6xubQGYwQ",
+    "name": "The Lucid Planet #1",
+    "description": "The Lucid Planet (TLP) bridges the gap between fine art and puzzle solving through a collaborative choose your own adventure experience. Take control of TLP’s destiny through ownership of one of our 650 handcrafted one-of-one NFTs.",
+    "attributes": [
+      {
+        "trait_type": "Glyph",
+        "value": "Res"
+      },
+      {
+        "trait_type": "Object",
+        "value": "Ataria Band"
+      },
+      {
+        "trait_type": "Biome",
+        "value": "The Pearl"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Sunset"
+      }
+    ]
+  }
+}

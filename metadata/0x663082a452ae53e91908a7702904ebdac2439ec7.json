@@ -1,0 +1,53 @@
+{
+  "address": "0x663082a452ae53e91908a7702904ebdac2439ec7",
+  "type": "ERC721",
+  "name": "ARTYGEEKS Series 1",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeidghkcbtllnbq5eknw7hihlabuhaauko4cuezccruoy7z3v33qsla/1.json",
+  "metadata": {
+    "name": "Arty Geek #1",
+    "description": "The Arty Geeks Collection contains more than 9900 Ethereum NFTs with amusing, funny and intelligent humor selected just for you!",
+    "external_url": "https://artygeeks.io",
+    "image": "ipfs://bafybeif3i65mml4cwcuror42vodtxavjq3epjh4clryjzhey2zynuakpay/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Trendy_Green"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Bismark"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grenadier"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Alizarin_Crimson"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "0xAeDe627f0AeecFD4bC3412c0F5DE63809Ae43aFE",
+          "share": 100
+        }
+      ]
+    },
+    "animation_url": "",
+    "seller_fee_basis_points": 500,
+    "collection": {
+      "name": "ARTYGEEKS_Series1",
+      "family": "ARTYGEEKS"
+    },
+    "symbol": "GEEKY"
+  }
+}

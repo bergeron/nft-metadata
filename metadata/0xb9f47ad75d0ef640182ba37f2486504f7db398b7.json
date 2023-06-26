@@ -1,0 +1,54 @@
+{
+  "address": "0xb9f47ad75d0ef640182ba37f2486504f7db398b7",
+  "type": "ERC721",
+  "name": "Winter Baby Ape Club",
+  "tokenCount": "2000",
+  "uri": "ipfs://Qmcn11FfuJ4uvf5BF5fz5HiHSZDuvoEdav6bFbVLqxfw4p/1",
+  "metadata": {
+    "name": "#1",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://Qmd2k4ABovwAxqUiLp4Nx26unpiTAVh1bhbuyMnzDENaqr/1.png",
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "FUR",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "Kevin's Suit"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "Winking"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "Kevin's Hat 2"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "Ooo"
+      },
+      {
+        "trait_type": "SNOW",
+        "value": "Heavy Snow"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "x"
+  }
+}

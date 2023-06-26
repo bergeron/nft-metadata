@@ -1,0 +1,72 @@
+{
+  "address": "0x0f7330725670bca0837b1bb70a29ae69f63e1080",
+  "type": "ERC721",
+  "name": "asdfwerqewr98",
+  "tokenCount": "50",
+  "uri": "https://api.artblocks.io/token/143000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "143000001",
+    "series": 4,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "phase #1",
+    "minted": true,
+    "artist": "Loren Bednar",
+    "description": "This project is a visual representation of realities that are out of phase. Interference patterns, colorful echoes, and emerging secrets are explored. Mathematical functions produce constant motion, but rarely, a peaceful scene resolves within the chaos. Click or press any key to pause. *Photosensitive seizure warning: These artworks contain flashing colors and moving patterns.",
+    "script_type": "js@na",
+    "project_id": "143",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 4",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/143000001.gif",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/143000001.gif",
+    "generator_url": "https://generator.artblocks.io/143000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/143000001",
+    "royaltyInfo": {
+      "artistAddress": "0x7f5a0a6847fd0fa05c13cbc02f435047b429e37c",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "phase by Loren Bednar",
+    "website": "https://twitter.com/LorenBednar",
+    "token_hash": "0xb9fb4fa2859f84444281d1578ed2f1b2ecedb25cab3e10cca3f64480a4479d46",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/143/tokens/143000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/143000001",
+    "features": {
+      "Palette": "Resolve",
+      "Radiation": "Diagonals",
+      "Scanlines": "Checkered",
+      "Resolution": "32 x 32",
+      "Radial Influences": "1"
+    },
+    "traits": [
+      {
+        "trait_type": "phase",
+        "value": "All phases"
+      },
+      {
+        "trait_type": "phase",
+        "value": "Palette: Resolve"
+      },
+      {
+        "trait_type": "phase",
+        "value": "Radiation: Diagonals"
+      },
+      {
+        "trait_type": "phase",
+        "value": "Scanlines: Checkered"
+      },
+      {
+        "trait_type": "phase",
+        "value": "Resolution: 32 x 32"
+      },
+      {
+        "trait_type": "phase",
+        "value": "Radial Influences: 1"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "address": "0x969c2d9d1d8f444a9997a085603297eaf480e775",
+  "type": "ERC721",
+  "name": "Dentaverse Starter",
+  "tokenCount": "5",
+  "uri": "ipfs://QmUKHvqviqFdncgiTC5oKPjBDc16gB88bcFLiVTuCzBJ4H/1.json",
+  "metadata": {
+    "name": "Starter #1",
+    "description": "Dentaverse Starter is a collection of 8000 unique NFTs. It is a unique 2D art piece and your membership access key to Dentaverse.",
+    "image": "ipfs://QmSjogAT3n5GYbHDmv7UP2mghG8X8aaf2KDwbuvVzp2pm7/1.png",
+    "dna": "82eeb6551cb31ea6518b940858617ee353988c31",
+    "edition": 1,
+    "date": 1675352723258,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Grey"
+      },
+      {
+        "trait_type": "Interior",
+        "value": "White"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "White"
+      },
+      {
+        "trait_type": "Teeth_Attribute",
+        "value": "None"
+      },
+      {
+        "trait_type": "Lips",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth_Attribute",
+        "value": "Dental Tool"
+      },
+      {
+        "trait_type": "Foreground",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

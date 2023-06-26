@@ -1,0 +1,42 @@
+{
+  "address": "0xabe3a95049cc81eb6ea74d8bfb60b7d64647e5d0",
+  "type": "ERC721",
+  "name": "SmolPunks",
+  "tokenCount": "3333",
+  "uri": "ipfs://QmbkqvdoZLGyfiveLUoKypMmS1cFdJyqndH7fv3555aSnj/1.json",
+  "metadata": {
+    "name": "SmolPunk #1",
+    "description": "soooooo smol... ",
+    "image": "ipfs://QmZn5FuhL5j5rzE7MkUh2WbbQjC6t3yPCB5dkBqvHqgcLE/1.png",
+    "dna": "2b7868a8c8fcea44b357a030aa52812a78151116",
+    "edition": 1,
+    "date": 1639870030914,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Blue_Alien"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smoking"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Blue_Laser_Eyes"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Ninja"
+      }
+    ],
+    "compiler": "smolboi"
+  }
+}

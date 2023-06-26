@@ -1,0 +1,67 @@
+{
+  "address": "0xd3e6d7453088fb805e52d64bddc6771972fa8b1a",
+  "type": "ERC721",
+  "name": "qwerjkqewjrleqwr",
+  "tokenCount": "500",
+  "uri": "https://api.artblocks.io/token/320000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "320000001",
+    "series": 7,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "montreal friend scale #1",
+    "minted": true,
+    "artist": "amon tobin",
+    "description": "white noise contains all possible harmonics/notes/chords. by filtering out narrow frequency bands from the noise, pure sine wave “notes” become audible. we’ve limited these bands to only ever reveal specific notes from a particular musical scale. \n\neach piece then, is a unique iteration of this scale with different notes from it gaining prominence. sometimes they will be chordal and sometimes dissonant but always beautiful because the scale is beautiful.\n\nvisually, the white noise is represented by particles which congeal into dense lines. each line that appears is a specific note you can hear and it's amplitude is defined by the corresponding particle density. chords are represented by the lines crossing over each other.\n\nso in summary, it's a quite literal visual representation of sound moving from an arbitrary form to musical form. natural order from chaos with infinitely variable patterns depending on which notes are audible. \n\n*note we’ve implemented the following variables for more radical variation in particle behavior in addition to the random generation of notes and their corresponding patterns.\n\n- particles will either form straight line shapes or curved shapes \n- particles with vary in size from one iteration to another \n- particles will either favor white or black as their prominent b&w bias creating stark contrast between iterations as well as variables in between the two extremes\n- some iterations will reveal faster and some slower",
+    "script_type": "three@0.124.0",
+    "project_id": "320",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 7",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/320000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/320000001.png",
+    "generator_url": "https://generator.artblocks.io/320000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/320000001",
+    "royaltyInfo": {
+      "artistAddress": "0x1f1c38790323e2e2941eddd2bdeaf2abfe6e42df",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "montreal friend scale by amon tobin",
+    "website": "https://www.nomark.net",
+    "token_hash": "0x3de8cd86d3643081f01fbb7134e210afaad702dfbf33e629cce778171dbf8001",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/320/tokens/320000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/320000001",
+    "features": {
+      "Shape": "Circular",
+      "Palette": "Grayscale",
+      "Rotates": false,
+      "Chord Size": 6
+    },
+    "traits": [
+      {
+        "trait_type": "montreal friend scale",
+        "value": "All montreal friend scales"
+      },
+      {
+        "trait_type": "montreal friend scale",
+        "value": "Shape: Circular"
+      },
+      {
+        "trait_type": "montreal friend scale",
+        "value": "Palette: Grayscale"
+      },
+      {
+        "trait_type": "montreal friend scale",
+        "value": "Rotates: false"
+      },
+      {
+        "trait_type": "montreal friend scale",
+        "value": "Chord Size: 6"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

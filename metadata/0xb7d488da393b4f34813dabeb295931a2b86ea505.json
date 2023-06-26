@@ -1,0 +1,22 @@
+{
+  "address": "0xb7d488da393b4f34813dabeb295931a2b86ea505",
+  "type": "ERC721",
+  "name": "FCTC",
+  "tokenCount": "1",
+  "uri": "https://members.station.express/api/v1/nftMetadata?chainId=1&contractAddress=0xb7d488da393b4f34813dabeb295931a2b86ea505&tokenId=1",
+  "metadata": {
+    "name": "FCTC #1",
+    "description": "Your membership unlocks access to community and accrues ongoing rewards and perks.",
+    "image": "https://station-images.nyc3.digitaloceanspaces.com/FCTC.png",
+    "attributes": [
+      {
+        "trait_type": "Role",
+        "value": "Member"
+      },
+      {
+        "trait_type": "Joined since",
+        "value": "Jun 10, 2023"
+      }
+    ]
+  }
+}

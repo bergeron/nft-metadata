@@ -1,0 +1,35 @@
+{
+  "address": "0xcc7187ddbe8f099d31bac88d8d67f793001d718e",
+  "type": "ERC721",
+  "name": "Ether Name Service",
+  "tokenCount": "16905",
+  "uri": "https://metadata.ether.domains/metadata/ether",
+  "metadata": {
+    "name": "ether.ether",
+    "image": "https://metadata.ether.domains/ether_svg/ether.svg",
+    "description": "ether.ether, an ether name. ",
+    "attributes": [
+      {
+        "trait_type": "Character Set",
+        "display_type": "string",
+        "value": "Letter"
+      },
+      {
+        "trait_type": "Club",
+        "display_type": "string",
+        "value": "5 Letters"
+      },
+      {
+        "trait_type": "Club",
+        "display_type": "string",
+        "value": "5 Letter Dictionary"
+      }
+    ],
+    "name_length": 5,
+    "segment_length": 5,
+    "url": "https://ether.domains/name/ether.ether",
+    "version": 0,
+    "background_image": "https://metadata.ethername.domains/ether_svg/ether.svg",
+    "image_url": "https://metadata.ethername.domains/ether_svg/ether.svg"
+  }
+}

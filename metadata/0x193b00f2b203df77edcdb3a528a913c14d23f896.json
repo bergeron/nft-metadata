@@ -1,0 +1,41 @@
+{
+  "address": "0x193b00f2b203df77edcdb3a528a913c14d23f896",
+  "type": "ERC721",
+  "name": "PeppaPigNFT",
+  "tokenCount": "23",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmP24vzy2STxFnSFcPgE3LtKF9BpXUV95Fdk43wCAjwL2U/1",
+  "metadata": {
+    "external_url": "https://gateway.pinata.cloud/",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUoWyLi1SaBrr8gYocokV4mVXkJg697gBcaxSvnCAAdrY/1.png",
+    "name": "Peppa Pig NFT",
+    "description": "A collection of 2022 Peppa Pig.",
+    "id": 1,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "navy",
+        "file": "./build/assets/layer01/01-03.png"
+      },
+      {
+        "trait_type": "body",
+        "value": "Peppa",
+        "file": "./build/assets/layer02/02-01.png"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Star Hat",
+        "file": "./build/assets/layer03/03-06.png"
+      },
+      {
+        "trait_type": "foot",
+        "value": "Ice skates",
+        "file": "./build/assets/layer04/04-01.png"
+      },
+      {
+        "trait_type": "face",
+        "value": "Spit out the tongue",
+        "file": "./build/assets/layer05/05-07.png"
+      }
+    ]
+  }
+}

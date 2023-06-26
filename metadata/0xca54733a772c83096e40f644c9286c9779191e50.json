@@ -1,0 +1,34 @@
+{
+  "address": "0xca54733a772c83096e40f644c9286c9779191e50",
+  "type": "ERC721",
+  "name": "Zharta's Genesis Pass",
+  "tokenCount": "65",
+  "uri": "https://genesis.zharta.io/nft/1",
+  "metadata": {
+    "attributes": [
+      {
+        "display_type": "number",
+        "max_value": 1,
+        "trait_type": "0% Interest Rate",
+        "value": 1
+      },
+      {
+        "trait_type": "LTV Boost",
+        "value": "10% (p.p.)"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "APR Discount",
+        "value": "25%"
+      },
+      {
+        "display_type": "number",
+        "max_value": 500,
+        "trait_type": "Access Remaining",
+        "value": 500
+      }
+    ],
+    "image": "https://genesis.zharta.io/pass.mp4",
+    "name": "Genesis Pass #1"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0x5b5f1e36f787686cdbedc1b183404e749282b0e2",
+  "type": "ERC721",
+  "name": "TiffPenguins Official",
+  "tokenCount": "4276",
+  "uri": "ipfs://bafybeic6mdxjlsm3r3cfxk72pnmmoilpwevqxlfnhjjhspwmcxljnwhtyy/1.json",
+  "metadata": {
+    "name": "TiffPenguin #1",
+    "description": "CC0.",
+    "image": "ipfs://bafybeicj52lr5lcry5zlwhzouc3fs23ofqlptbfbon2z6xc2sp4dxaensy/1.png",
+    "dna": "7b040605f22afd312da9862f16721431ab82bfcb",
+    "edition": 1,
+    "date": 1661638835223,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tiffany"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Necklace"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Monocle"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Orange Cap"
+      }
+    ],
+    "compiler": "Tiff"
+  }
+}

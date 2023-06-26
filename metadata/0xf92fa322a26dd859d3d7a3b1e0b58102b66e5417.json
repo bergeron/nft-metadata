@@ -1,0 +1,47 @@
+{
+  "address": "0xf92fa322a26dd859d3d7a3b1e0b58102b66e5417",
+  "type": "ERC721",
+  "name": "Gravity Sneakers",
+  "tokenCount": "160",
+  "uri": "https://theredapefamily.com/Gravity/data/GravitySneaker2.json",
+  "metadata": {
+    "description": "Designed as a futuristic hi-top basketball shoe, the Gravity Sneaker counteracts the difference in gravity on the red planet and stops wearers from floating away to certain death.",
+    "external_url": "https://theredapefamily.com/gravity",
+    "image": "https://theredapefamily.com/sneakers/animations/GravitySneaker2.mp4",
+    "name": "Gravity Sneaker #2",
+    "attributes": [
+      {
+        "trait_type": "Material",
+        "value": "Carbon Fiber"
+      },
+      {
+        "trait_type": "Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Strap Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "LED",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Gravity level",
+        "value": 10
+      },
+      {
+        "trait_type": "Speed",
+        "value": 7
+      },
+      {
+        "trait_type": "Acceleration ",
+        "value": 8
+      },
+      {
+        "trait_type": "Stability",
+        "value": 9
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "address": "0x6e5cc26265336dc2fe7302f4c20d48ef709049fa",
+  "type": "ERC721",
+  "name": "RPGHeroes by RPGChain.com",
+  "tokenCount": "188",
+  "uri": "https://meta.rpgchain.com/hero/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Race",
+        "value": "Human"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Wizard"
+      },
+      {
+        "trait_type": "STR",
+        "value": "8",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "DEX",
+        "value": "11",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "CON",
+        "value": "8",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "INT",
+        "value": "13",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "WIS",
+        "value": "10",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "CHA",
+        "value": "10",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Wears a ring with a magical power"
+      }
+    ],
+    "description": "Human Wizard",
+    "external_url": "https://rpgchain.com/heroes/0",
+    "image": "https://vapor-us-east-1-assets-1670180845.s3.amazonaws.com/hero-images/1_0.png",
+    "name": "Schmendrick the Great"
+  }
+}

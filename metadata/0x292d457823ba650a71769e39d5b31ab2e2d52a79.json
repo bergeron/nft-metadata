@@ -1,0 +1,29 @@
+{
+  "address": "0x292d457823ba650a71769e39d5b31ab2e2d52a79",
+  "type": "ERC721",
+  "name": "Monoliths Pass",
+  "tokenCount": "100",
+  "uri": "ipfs://QmcvE9yQCeoEuZ4iuWVYk8vJqRdMmKgDmFZRqj5i8obBSV/1",
+  "metadata": {
+    "name": "#2",
+    "description": "Your Pass to Nabix Labs Early Access",
+    "image": "ipfs://QmcRNr7LU6yh2ThZSrPJ9APABWeAjk1oxy2CHcodwJLsfZ/1.png",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "attributes": [
+      {
+        "trait_type": "Pass",
+        "value": "White"
+      }
+    ],
+    "compiler": "https://the-nft-generator.com"
+  }
+}

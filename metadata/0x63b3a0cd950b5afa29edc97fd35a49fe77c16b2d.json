@@ -1,0 +1,55 @@
+{
+  "address": "0x63b3a0cd950b5afa29edc97fd35a49fe77c16b2d",
+  "type": "ERC721",
+  "name": "genBunny",
+  "tokenCount": "538",
+  "uri": "ipfs://bafybeibpgfif4r5ljlbswcjr4cpiti2sro22oxaydsr4f6bjywqr7snqwi/1.json",
+  "metadata": {
+    "dna": "3c329ba5a890574233e3bb7a81b2a00ddef2ff44",
+    "name": "genBunny #1",
+    "description": "As a symbol to all generated Bunny art | 555 Units",
+    "image": "ipfs://bafybeiecxdogwxc4n3a6zly6ojgwslgznldhtn5mdxcqb3mppd2rs3dawu/1.png",
+    "edition": "1",
+    "date": "1633927877374",
+    "compiler": "genBunny",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple",
+        "count": 236,
+        "frequency": "11.80%"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Grey",
+        "count": 705,
+        "frequency": "35.25%"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normies Left",
+        "count": 488,
+        "frequency": "24.40%"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Nil",
+        "count": 879,
+        "frequency": "43.95%"
+      },
+      {
+        "trait_type": "Paraphernalia",
+        "value": "Grog",
+        "count": 331,
+        "frequency": "16.55%"
+      },
+      {
+        "trait_type": "Vice",
+        "value": "The Gentlemans Breath",
+        "count": 580,
+        "frequency": "29.00%"
+      }
+    ],
+    "gen": "Bunny"
+  }
+}

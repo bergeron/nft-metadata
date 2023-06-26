@@ -1,0 +1,41 @@
+{
+  "address": "0x84b2526976211cd516c503e9cddb031c054bd68a",
+  "type": "ERC721",
+  "name": "MoonFaces V2",
+  "tokenCount": "1",
+  "uri": "ipfs://QmNxRxgGWzkqevejrztKDTdvpV3DGPAFPrcL2FnzLyoxUf/1.json",
+  "metadata": {
+    "name": "MoonFace #1",
+    "description": "MoonFacesNFT - A collection of 10,000 MoonFaces has been sleeping, until now. ",
+    "fee_recipient": "0xc83D5354d82FD85bD0C2d2477b213dCEd3Ffc596",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://QmSnajWShkqkfr5ZFdMCajmgSUdWgWcCUSioBxYDffuiEu/1.png",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "Teal"
+      },
+      {
+        "trait_type": "Stars",
+        "value": "Yellow Stars"
+      },
+      {
+        "trait_type": "Colors",
+        "value": "Red Moon"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "Flat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Iris Only Straight"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 4724,
+        "display_type": "number"
+      }
+    ]
+  }
+}

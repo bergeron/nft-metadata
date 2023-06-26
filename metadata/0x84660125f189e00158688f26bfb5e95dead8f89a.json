@@ -1,0 +1,25 @@
+{
+  "address": "0x84660125f189e00158688f26bfb5e95dead8f89a",
+  "type": "ERC721",
+  "name": "Lock 0 (4/10/2023, 9:00:39 PM)",
+  "tokenCount": "10",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x84660125f189e00158688f26bfb5e95dead8f89a/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x84660125f189E00158688f26bfb5E95DEad8F89A/icon?id=1",
+    "expiration": 1683745259,
+    "tokenId": "1",
+    "owner": "0x81a662065d5c83fa9c5c12d0dc0104df57f85a12",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1683745259
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x84660125f189E00158688f26bfb5E95DEad8F89A",
+    "network": 1
+  }
+}

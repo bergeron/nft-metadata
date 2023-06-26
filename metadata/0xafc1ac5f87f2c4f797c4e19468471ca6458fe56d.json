@@ -1,0 +1,31 @@
+{
+  "address": "0xafc1ac5f87f2c4f797c4e19468471ca6458fe56d",
+  "type": "ERC1155",
+  "name": "Art Drops by Onigiri",
+  "tokenCount": "11",
+  "uri": "https://api.onigiri.art/drops/1.json",
+  "metadata": {
+    "name": "GM Frens",
+    "description": "Artwork by Onigiri. Common piece from the GM Drop collection.",
+    "image": "https://api.onigiri.art/drops/gm-drop/common.png",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Drop Series",
+        "value": "GM Drop"
+      },
+      {
+        "trait_type": "Series:GM Drop",
+        "value": "Common"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Common",
+        "value": 1474
+      }
+    ]
+  }
+}

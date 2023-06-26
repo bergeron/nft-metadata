@@ -1,0 +1,44 @@
+{
+  "address": "0xffc286f8e7a4673502e2dbc1698de52e76f0fd23",
+  "type": "ERC721",
+  "name": "Xcelencia the 40/40 club",
+  "tokenCount": "120",
+  "uri": "https://api.passage.xyz/passageway/metadata/1/0xffc286f8e7a4673502e2dbc1698de52e76f0fd23/1",
+  "metadata": {
+    "name": "Xcelencia the 40/40 club",
+    "description": "The 40/40 Club is named after one of baseball's most prestigious achievements, but in this case I am celebrating 40 million streams on Spotify! Special shoutout to Infinxte by Xcelencia backers, my 1/1 and music NFT edition supporters for their contribution to this moment.",
+    "image": "https://metadata.passage.xyz/passageway/clax08tqp000qld2zyqbqdtzh/clax09hto000030k19qz3at11",
+    "external_url": "https://passage.xyz",
+    "attributes": [
+      {
+        "value": "Xcelencia",
+        "trait_type": "Artist"
+      },
+      {
+        "value": 40000000,
+        "trait_type": "Streams",
+        "display_type": "number"
+      },
+      {
+        "value": "Good",
+        "trait_type": "Vibes"
+      },
+      {
+        "value": "Reggaeton",
+        "trait_type": "Genero"
+      },
+      {
+        "value": "Infinxte",
+        "trait_type": "Album"
+      },
+      {
+        "value": "9.5",
+        "trait_type": "Grade"
+      },
+      {
+        "value": "Spotify",
+        "trait_type": "Platform "
+      }
+    ]
+  }
+}

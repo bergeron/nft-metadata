@@ -1,0 +1,40 @@
+{
+  "address": "0x9e02a1155c60ca79d810dadf348cfa120e11abf0",
+  "type": "ERC721",
+  "name": "Cyberpunk Ape Executives Legends",
+  "tokenCount": "74",
+  "uri": "https://api.cyberpunkapes.com/legends.php?tokenId=1",
+  "metadata": {
+    "name": "Cyberpunk Ape Legends #1",
+    "image": "https://api.cyberpunkapes.com/Legends/NM-V2-31.gif",
+    "attributes": [
+      {
+        "trait_type": "Species",
+        "value": "Chimpanzee"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": 1,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "International Megadigital"
+      },
+      {
+        "trait_type": "Secret International Megadigital Code",
+        "value": 361,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Super Secret IMD Code",
+        "value": 801,
+        "display_type": "number"
+      }
+    ]
+  }
+}

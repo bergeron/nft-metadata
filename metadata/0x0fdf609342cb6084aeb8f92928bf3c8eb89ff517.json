@@ -1,0 +1,13 @@
+{
+  "address": "0x0fdf609342cb6084aeb8f92928bf3c8eb89ff517",
+  "type": "ERC721",
+  "name": "Frog Hibernation",
+  "tokenCount": "1",
+  "uri": "ipfs://QmNYArpaQ5VpPcqxAp3wZe8uHmz8CSS6g5YPx1Dbtho5wH/1",
+  "metadata": {
+    "description": "To move the frog:\n・Click or tap the direction.\n・Use arrow keys or WASD keys.\n・Leave it for a few moments.\n\nThis NFT is about interactive content using WebGL, not 3D model (gltf).\n\nAfter start playing the content, the 3D model of the frog is loaded separately from IPFS storage. The frog will not appear until it is completed. Also, if something goes wrong, the frog would not appear.\n\nBehavior and appearance may vary depending on the environment (device, browser). It possibly stop working in the future due to WebGL or other factors.\n\nThis content was exported by Godot 3.4.2.\nThe actual location is below and please check the README.txt for additional information.\nhttps://ipfs.io/ipfs/QmYZzLPQCfLx8KaM24AYJDYPixfusTwn4Ds2ee74w2eAUn",
+    "image": "ipfs://QmYZzLPQCfLx8KaM24AYJDYPixfusTwn4Ds2ee74w2eAUn/frog-hibernation.png",
+    "name": "Frog Hibernation",
+    "animation_url": "ipfs://QmYZzLPQCfLx8KaM24AYJDYPixfusTwn4Ds2ee74w2eAUn/frog-hibernation.html"
+  }
+}

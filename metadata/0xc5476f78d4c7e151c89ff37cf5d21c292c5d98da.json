@@ -1,0 +1,34 @@
+{
+  "address": "0xc5476f78d4c7e151c89ff37cf5d21c292c5d98da",
+  "type": "ERC721",
+  "name": "Number - CAL Edition",
+  "tokenCount": "2200",
+  "uri": "ipfs://bafybeiegxbc26wxoma4zv6fmuzb63egxd5czk4wtztlbvntxjiie25gxqy/1",
+  "metadata": {
+    "name": "Number#1",
+    "description": "Number is Art. The bigger the better. 2000 numbers & 200 symbols. Calculate on contract, burn to get new numbers. First season, bigger numbers earn more.",
+    "image": "ipfs://bafybeif76f4pci76f37egm6aof7erf2yexoof5oyd573rvcjunnuap2mom/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Thousands Dight",
+        "value": "1",
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Hundreds Dight",
+        "value": "9",
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Tens Digit",
+        "value": "9",
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Units Digit",
+        "value": "0",
+        "display_type": "boost_number"
+      }
+    ]
+  }
+}

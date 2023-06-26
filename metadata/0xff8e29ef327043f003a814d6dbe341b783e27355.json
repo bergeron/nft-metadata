@@ -1,0 +1,34 @@
+{
+  "address": "0xff8e29ef327043f003a814d6dbe341b783e27355",
+  "type": "ERC721",
+  "name": "VanGogh_Art_Museum",
+  "tokenCount": "1025",
+  "uri": "ipfs://bafybeibmemjy4ezk35lppmde2yxu6hqekzo2ofojm3fdqxeppvqak7b4xy/1.json",
+  "metadata": {
+    "name": "Art Piece N #1",
+    "description": "Digital NFT Museum of Van Gogh. CC0 Property.",
+    "image": "ipfs://bafybeigqafi6bu5urbctplghgsw7qs7dvboajbhnlnjdzidpimshnohxhy/1.jpg",
+    "dna": "abf0fc88997c48e17277a8300945a14180b65923",
+    "edition": 1,
+    "date": 1661963287646,
+    "attributes": [
+      {
+        "trait_type": "Art",
+        "value": "Painting"
+      },
+      {
+        "trait_type": "Period",
+        "value": "Arles"
+      },
+      {
+        "trait_type": "Piece",
+        "value": "Main works"
+      },
+      {
+        "trait_type": "Value",
+        "value": "Rare"
+      }
+    ],
+    "compiler": "Museum"
+  }
+}

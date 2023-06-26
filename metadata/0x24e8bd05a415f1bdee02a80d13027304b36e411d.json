@@ -1,0 +1,33 @@
+{
+  "address": "0x24e8bd05a415f1bdee02a80d13027304b36e411d",
+  "type": "ERC721",
+  "name": "Web3 Spyders",
+  "tokenCount": "500",
+  "uri": "ipfs://QmQkTP3mdt3ZwFTrcQCBg4URaeK6CCdwtNKpYsZcGsKvWF/1.json",
+  "metadata": {
+    "name": "Web3 Spyder #1",
+    "description": "Web3 Spyders are interactable NFTs. You can move the web and Spyder how ever you like. Have fun with your Spyder pet. ",
+    "image": "ipfs://Qmbspk9NSYK5MtrpoZYPGLnaRPj73gUgciS5HF7GDC2fic",
+    "animation_url": "ipfs://QmPA31AuswKZpCHm5jvuVFXYmdUEQqNJwctjYkA3UaMUzX/1.html",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Spyder",
+        "value": "Toxynum"
+      },
+      {
+        "trait_type": "Web Points",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Web",
+        "value": "Black"
+      }
+    ],
+    "compiler": "Arachnyx"
+  }
+}

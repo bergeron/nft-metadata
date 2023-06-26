@@ -1,0 +1,179 @@
+{
+  "address": "0xd3a860ac21ae26c4033dc329bcd03e0100ca27c4",
+  "type": "ERC721",
+  "name": "KryptoPets Metaverse",
+  "tokenCount": "633",
+  "uri": "http://157.245.247.146/pets/1",
+  "metadata": {
+    "description": "KryptoPets can be specialised in defence or attack moves.Affection points means that they need to be cuddled from time to time. Wildness points means that they might not always follow your orders in battle. Hunger points means that they need to be fed very often. Intelligence points mean that they learn new moves faster. Speed points means that they are faster during a battle. Constitution help them sustain injuries during battles.",
+    "name": "Orgramalax",
+    "image": "https://kryptopetsmetaverse.com/evo-1-final/Plant.png",
+    "nft_id": 1,
+    "dna": "d2a681fe3566a29c5214456741ec5489de69f535",
+    "last_feeding": 1653791433258,
+    "training": false,
+    "training_start": "",
+    "alive": true,
+    "hatchable": true,
+    "hatched": true,
+    "startedHatching": true,
+    "attributes": [
+      {
+        "trait_type": "Speciality",
+        "value": "Defense"
+      },
+      {
+        "trait_type": "Element Type",
+        "value": "Plant"
+      },
+      {
+        "trait_type": "Super",
+        "value": "Normal"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 0
+      },
+      {
+        "trait_type": "Level",
+        "value": 1,
+        "display_game": "Level",
+        "base_xp": 67,
+        "exp_to_next_level": 8,
+        "current_exp": 0,
+        "max_value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Health Points",
+        "value": 12,
+        "display_game": "Health Points",
+        "last_value": 12,
+        "base_stat": 62,
+        "ev": 13,
+        "current_value": 12
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Defense",
+        "value": 6,
+        "display_game": "Combat",
+        "number_of_training": 0,
+        "ev": 6,
+        "last_value": 6,
+        "base_stat": 47
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Attack",
+        "value": 5,
+        "display_game": "Combat",
+        "number_of_training": 0,
+        "ev": 7,
+        "base_stat": 40,
+        "last_value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Speed",
+        "value": 6,
+        "display_game": "Combat",
+        "number_of_training": 0,
+        "ev": 1,
+        "base_stat": 75,
+        "last_value": 6
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Special",
+        "value": 6,
+        "display_game": "Combat",
+        "number_of_training": 0,
+        "ev": 6,
+        "base_stat": 46,
+        "last_value": 6
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Intelligence",
+        "value": 60,
+        "display_game": "DNA",
+        "number_of_feeding": 0,
+        "max_value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Affection",
+        "value": 33,
+        "display_game": "DNA",
+        "number_of_feeding": 0,
+        "max_value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Constitution",
+        "value": 74,
+        "display_game": "DNA",
+        "number_of_feeding": 0,
+        "max_value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Wildness",
+        "value": 16,
+        "display_game": "DNA",
+        "number_of_feeding": 0,
+        "max_value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Hunger",
+        "value": 39,
+        "display_game": "DNA",
+        "number_of_feeding": 0,
+        "max_value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Element Starting Talent",
+        "value": 313,
+        "display_game": "DNA",
+        "max_value": 1000
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Training Number",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Feeding Number",
+        "value": 0
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Birthday",
+        "value": 1645673286872
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Sweets Eating Number",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Learning Number",
+        "value": 3
+      }
+    ],
+    "hatch_initiation_time": 1645759686872,
+    "taming_initiation_time": 1649865028169,
+    "startedTaming": true,
+    "tamed": true,
+    "eatingSweets": false,
+    "learning": false,
+    "learning_start": 1653447104695,
+    "learning_end": 1653670552970.862
+  }
+}

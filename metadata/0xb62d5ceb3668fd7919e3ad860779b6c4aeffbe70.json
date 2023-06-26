@@ -1,0 +1,29 @@
+{
+  "address": "0xb62d5ceb3668fd7919e3ad860779b6c4aeffbe70",
+  "type": "ERC721",
+  "name": "PROM",
+  "tokenCount": "30",
+  "uri": "data:application/json,{\"name\":\"PROM Allocation Voucher #1 - 1.78 - Linear\", \"description\":\"Voucher #1 of PROM allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade PROM's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!\",\"image\": \"https://imgurl.solv.finance/meta/images/avPROM/1.png\",\"external_url\":\"https://app.solv.finance/avPROM/1\", \"properties\": {\"owner\":\"0x0659671806d17c1e46e19a5875a73c2d20e54172\",\"underlying\":\"0xfc82bb4ba86045af6f327323a46e80412b91b27d\",\"underlyingSymbol\":\"PROM\",\"vestingAmount\":\"1.787000000000000000\",\"principal\":\"1.787000000000000000\",\"claimType\":\"Linear\",\"claimableAmount\":\"1.787000000000000000\",\"percentages\":[\"100.00%\"],\"maturities\":[1629331200],\"term\":\"1.00 days\"}}",
+  "metadata": {
+    "name": "PROM Allocation Voucher #1 - 1.78 - Linear",
+    "description": "Voucher #1 of PROM allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade PROM's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!",
+    "image": "https://imgurl.solv.finance/meta/images/avPROM/1.png",
+    "external_url": "https://app.solv.finance/avPROM/1",
+    "properties": {
+      "owner": "0x0659671806d17c1e46e19a5875a73c2d20e54172",
+      "underlying": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+      "underlyingSymbol": "PROM",
+      "vestingAmount": "1.787000000000000000",
+      "principal": "1.787000000000000000",
+      "claimType": "Linear",
+      "claimableAmount": "1.787000000000000000",
+      "percentages": [
+        "100.00%"
+      ],
+      "maturities": [
+        1629331200
+      ],
+      "term": "1.00 days"
+    }
+  }
+}

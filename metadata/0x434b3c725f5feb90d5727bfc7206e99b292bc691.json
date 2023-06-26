@@ -1,0 +1,34 @@
+{
+  "address": "0x434b3c725f5feb90d5727bfc7206e99b292bc691",
+  "type": "ERC721",
+  "name": "BOOK.io The Lost World (Eth)",
+  "tokenCount": "200",
+  "uri": "ipfs://QmXt7oB99nyU3EWdU9Yie8NEpVPbhF1LXpXxuQKUhsD88M/1",
+  "metadata": {
+    "name": "The Lost World #114",
+    "description": "A land where we had dared much, suffered much, and learned much.",
+    "image": "ipfs://QmQrDQHSZNGnnWhL6W3AzWoUcrjqYxQGHdPuBL2qGYq1rD",
+    "attributes": {
+      "Cover Theme": "The T-Rex",
+      "Variation": "3"
+    },
+    "authors": [
+      "Arthur Conan Doyle"
+    ],
+    "entrypoint": "ipfs://Qma6cfoiKvjV8L8vtHhT5N4hLeAfeWv4kjTW6pjE39K7GP",
+    "extraAttributes": {
+      "Book Title": "The Lost World"
+    },
+    "files": [
+      {
+        "mediaType": "image/png",
+        "name": "High-Res Cover Image",
+        "src": "ipfs://QmWwsCXfDHGUzBHoQjizEoTAF6pos3DUQGzkhLovRYS9TZ"
+      }
+    ],
+    "id": "2efa46f6-ec09-49ee-a282-77e42888b60d",
+    "mediaType": "application/epub+zip",
+    "sha256": "f10c4338fa81b794c0687ba56497480e2c02c75b2cb203155e1d6d58dbe8e979",
+    "website": "https://book.io"
+  }
+}

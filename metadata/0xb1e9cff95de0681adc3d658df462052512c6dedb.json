@@ -1,0 +1,32 @@
+{
+  "address": "0xb1e9cff95de0681adc3d658df462052512c6dedb",
+  "type": "ERC721",
+  "name": "Uniqly Generator Collection",
+  "tokenCount": "95",
+  "uri": "https://metadata.uniqly.io/api/metadata/1",
+  "metadata": {
+    "name": "NFT Girl",
+    "attributes": [
+      {
+        "trait_type": "Physical item",
+        "value": "T-SHIRT"
+      },
+      {
+        "trait_type": "Color",
+        "value": "FULLPRINT"
+      },
+      {
+        "trait_type": "REDEEMED",
+        "value": "FALSE"
+      }
+    ],
+    "image": "https://generator-prod.s3.eu-west-2.amazonaws.com/generators/5-0xf44f714bcf234ec7b93f536d985edcf957c79599/image-e3wvrqn9s37.png",
+    "external_url": "https://www.uniqly.io/",
+    "description": "UNIQ shirt. Retro Series. Designed by hexbomb.",
+    "data": {
+      "front": "https://generator-prod.s3.eu-west-2.amazonaws.com/generators/5-0xf44f714bcf234ec7b93f536d985edcf957c79599/image-e3wvrqn9s37.png",
+      "back": "https://generator-prod.s3.eu-west-2.amazonaws.com/generators/5-0xf44f714bcf234ec7b93f536d985edcf957c79599/image-ymctzlbnkq.png"
+    },
+    "tokenId": 1
+  }
+}

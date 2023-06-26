@@ -1,0 +1,48 @@
+{
+  "address": "0xcfa42467ff2db1d9bd501f86f6fbfd8d3ee5e6cf",
+  "type": "ERC721",
+  "name": "Geomes",
+  "tokenCount": "2000",
+  "uri": "https://geomes.s3.us-west-2.amazonaws.com/geomes/1",
+  "metadata": {
+    "external_url": "https://codemakes.art/view/1",
+    "hash": "0x0c7bc295b08e27edf619badfe19c226e8c4bebf2ee7693c39249de90f30b3f1f",
+    "name": "Geomes #1",
+    "description": "This generative series explores a harmony created by combining simple geometric shapes and bold colors. Inspired by midcentury patterns - simples rules guide both color and shapes throughout to create unique expressions.\nEach mint is randomly generated with over 75,000,000 possibilities, across 8 different properties.",
+    "attributes": [
+      {
+        "trait_type": "Palette",
+        "value": "Spooky"
+      },
+      {
+        "trait_type": "BG & Stroke",
+        "value": "Red"
+      },
+      {
+        "value": 2,
+        "trait_type": "Stroke px"
+      },
+      {
+        "value": 40,
+        "trait_type": "Grid px"
+      },
+      {
+        "trait_type": "Grid 01",
+        "value": "Pattern 06"
+      },
+      {
+        "value": "Pattern 07",
+        "trait_type": "Grid 02"
+      },
+      {
+        "value": "Pattern 05",
+        "trait_type": "Grid 03"
+      },
+      {
+        "value": "None",
+        "trait_type": "Grid 04"
+      }
+    ],
+    "image": "ipfs://QmWXB8YJtB6dPFpVqyPxpFRvATLEiRwPjSSY23k5ABdtbT"
+  }
+}

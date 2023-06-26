@@ -1,0 +1,63 @@
+{
+  "address": "0x9539dfc79f2a3ce4079c4903e69756c71357acef",
+  "type": "ERC721",
+  "name": "RareMint Galaxy Pass",
+  "tokenCount": "10",
+  "uri": "ipfs://QmUKsb9nBGNRfiPw7inpeHt7epxc8hinznt2NhK1Fhbi4F/1.json",
+  "metadata": {
+    "animation_url": "ipfs://QmUdfS4ww8UW3fRqTLbm6GgYJAB3gF7ptCwkfgsRpzW8Ur",
+    "description": "RareMint Galaxy Pass",
+    "external_url": "https://raremint.com",
+    "image": "ipfs://QmdjgUTULrLKZVTzxQmpfood6jiePEpHtBpAmPN4DeehLf",
+    "name": "Galaxy Pass",
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "Limited Edition"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "max_value": 10,
+        "value": 1
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Digital Asset Creation Date",
+        "value": 1655400528032
+      },
+      {
+        "trait_type": "Asset Backed",
+        "value": "No"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Card"
+      },
+      {
+        "trait_type": "Subject",
+        "value": "RareMint"
+      },
+      {
+        "trait_type": "Minter",
+        "value": "RareMint"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Card"
+      },
+      {
+        "trait_type": "Authenticator",
+        "value": "RareMint"
+      },
+      {
+        "trait_type": "Primary Boost",
+        "value": "Pokemon"
+      },
+      {
+        "trait_type": "Authentication Type",
+        "value": "RareMint"
+      }
+    ]
+  }
+}

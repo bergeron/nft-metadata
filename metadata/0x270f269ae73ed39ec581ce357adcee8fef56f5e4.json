@@ -1,0 +1,43 @@
+{
+  "address": "0x270f269ae73ed39ec581ce357adcee8fef56f5e4",
+  "type": "ERC721",
+  "name": "PurpleFace NFT",
+  "tokenCount": "3",
+  "uri": "ipfs://QmSWLEFcnjL134aNeLnXGm85f1FcAFnR8Y4SkrAZFpnogG/1.json",
+  "metadata": {
+    "image": "https://turquoise-causal-parrotfish-72.mypinata.cloud/ipfs/QmVoAhFmS1krqU1gwBRKvu2Hufn1CeBT2WYbBPERakJzej/1.png",
+    "tokenId": 1,
+    "name": "PurpleFace NFT 1",
+    "description": "Purple NFT",
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "bg 1"
+      },
+      {
+        "trait_type": "cheek",
+        "value": "cheek 2"
+      },
+      {
+        "trait_type": "eyebrows",
+        "value": "eyebrows 6"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "eyes 7"
+      },
+      {
+        "trait_type": "glasses",
+        "value": "glasses 3"
+      },
+      {
+        "trait_type": "mouse",
+        "value": "mouse 7"
+      },
+      {
+        "trait_type": "nose",
+        "value": "nose 10"
+      }
+    ]
+  }
+}

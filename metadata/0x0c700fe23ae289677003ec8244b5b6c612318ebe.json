@@ -1,0 +1,28 @@
+{
+  "address": "0x0c700fe23ae289677003ec8244b5b6c612318ebe",
+  "type": "ERC721",
+  "name": "Space Riders Special Editions",
+  "tokenCount": "28",
+  "uri": "ipfs://QmXactQjNdkmnCBQsh2GQxyHqHk2Djebjmd65T5CVg36Ai",
+  "metadata": {
+    "name": "Space Rider SE #1",
+    "image": "ipfs://Qmcsdi7j22Lx6FuYMvdhSpGowEbR6M4Zponj5jdBiqqUiW",
+    "description": "Space Riders Special Editions is a collection of custom Space Riders.",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Space Lord"
+      },
+      {
+        "trait_type": "Space Rider SE",
+        "value": "F3RRARI"
+      },
+      {
+        "trait_type": "Space Rider SE",
+        "value": 1,
+        "display_type": "number"
+      }
+    ]
+  }
+}

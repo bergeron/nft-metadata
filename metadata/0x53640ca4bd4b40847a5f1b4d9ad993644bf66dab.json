@@ -1,0 +1,46 @@
+{
+  "address": "0x53640ca4bd4b40847a5f1b4d9ad993644bf66dab",
+  "type": "ERC721",
+  "name": "Poisoning Attack Alerts by W3A",
+  "tokenCount": "1459",
+  "uri": "https://checknft.io/api/v2/extension/poisoning-attack/address/0x79e281fa7513b57f5ced6caec9ea9eec3e7952d4?tokenId=1",
+  "metadata": {
+    "name": "WARNING #1",
+    "description": "This NFT is designed by Web3 Antivirus to warn users of an address poisoning attack threat. Some malicious contracts behind the scheme have the potential to trigger thousands of poisoned transactions, with each attacking up to hundreds of users.\n\nIf you received Alert on Poisoning NFT, you've been a target. Check details on the poisoning transaction in Properties.\n\n\nHow does the scam work?\n\nIn a nutshell, a hacker tracks some user transactions and forges the target address, making it similar to the original one. For example, 4 initial and last symbols are the same, but all the rest are different. The altered one is a scammer's account, easy to be mistaken for the original. Meaning, there's a good chance to someday copy the wrong address from the log. \n\nHackers then simulate $0 transfers from the victim's account. Thus, the forged address gets logged into historical records, with the fake transaction having a timestamp close to the actual transfer. Seeing a transfer from their account that users didn't approve, they fear that their private keys have been leaked and assets compromised, so someone's stealing their funds right now. Wishing to transfer funds to another account, victims may inadvertently copy the wrong address and thus send their funds to the scam account.  \n\n\nHow to avoid getting trapped?\n\nTo help users understand what's happening, we've prepared an antidote, a dedicated Alert on Poisoning NFT. It's intended to warn users about the threat as they face scam transactions.\n\nThere's no reason for panic. The $0 transactions are more of an alert sign. Nothing's happened yet, both the key and the assets are safe.\n\nLearn more about the address poisoning attack scheme (https://t.ly/QabX) and remember — rule one is to double-check transfer addresses, especially when copying them from historical transactions.\n\nTo protect yourself in the future, we recommend using Web3 Antivirus (https://t.ly/N-6G), a security tool that audits transactions before you sign them and warns you about potential scams.",
+    "image": "https://w3a.mypinata.cloud/ipfs/QmfAXFQK8jr9iQXgbz9eMRWk4aCG9zDFCsYgH8NAszdV5x?_gl=1*15zme83*_ga*NDc4NzMyMzAxLjE2NzA0MDMyMjQ.*_ga_5RMPXG14TE*MTY3NDY0ODg4NC42LjAuMTY3NDY0ODg4NS41OS4wLjA",
+    "attributes": [
+      {
+        "trait_type": "Original tx",
+        "value": "0xde7a179fb592143b7d8709ed90b93ef0cf62e99847a4055f34c78bed0aaa7f72"
+      },
+      {
+        "trait_type": "Original tx time",
+        "value": "2023-01-26 09:28:47"
+      },
+      {
+        "trait_type": "Original receiver",
+        "value": "0x0599c507e5c76ee37a38b31554fa2c2ee5064bfa"
+      },
+      {
+        "trait_type": "Poisoning tx",
+        "value": "0x4ec87a28e4b155cc0a392f67dde34f948a7bc0c9925c4e86f2ef5d3b42fa2dd1"
+      },
+      {
+        "trait_type": "Poisoning tx time",
+        "value": "2023-01-26 09:31:47"
+      },
+      {
+        "trait_type": "Fake receiver",
+        "value": "0x0599ac191398beeee486cf1025751f8f0e954bfa"
+      },
+      {
+        "trait_type": "Attacker's address",
+        "value": "0x34d52d20fa2ec4e058ba494c369893da4c3c3127"
+      },
+      {
+        "trait_type": "Read more",
+        "value": "https://t.ly/QabX"
+      }
+    ]
+  }
+}

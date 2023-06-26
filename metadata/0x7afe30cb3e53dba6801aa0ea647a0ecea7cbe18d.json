@@ -1,0 +1,42 @@
+{
+  "address": "0x7afe30cb3e53dba6801aa0ea647a0ecea7cbe18d",
+  "type": "ERC721",
+  "name": "Realms (for Adventurers)",
+  "tokenCount": "8000",
+  "uri": "https://ipfs.io/ipfs/bafybeie6fogyl4pfaj6kg5fnosq76sugoqf7rqkjjojmkj5ywah5es5sne/1",
+  "metadata": {
+    "name": "Stolsli",
+    "description": "Your journey awaits...",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVVwp7oeuD9f5FvCY5C3jo863m2LTzsZecY8NXwvxukUd",
+    "attributes": [
+      {
+        "trait_type": "Regions",
+        "value": 6
+      },
+      {
+        "trait_type": "Cities",
+        "value": 8
+      },
+      {
+        "trait_type": "Harbors",
+        "value": 17
+      },
+      {
+        "trait_type": "Rivers",
+        "value": 26
+      },
+      {
+        "trait_type": "Resource",
+        "value": "Stone"
+      },
+      {
+        "trait_type": "Resource",
+        "value": "Coal"
+      },
+      {
+        "trait_type": "Order",
+        "value": "The Order of Giants"
+      }
+    ]
+  }
+}

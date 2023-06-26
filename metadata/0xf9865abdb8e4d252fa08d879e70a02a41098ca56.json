@@ -1,0 +1,42 @@
+{
+  "address": "0xf9865abdb8e4d252fa08d879e70a02a41098ca56",
+  "type": "ERC721",
+  "name": "The Jap NFT",
+  "tokenCount": "2817",
+  "uri": "ipfs://QmecyR6swqwibZ6GU4B69SYTxMs5jtyy9mTTV4aiQiLJoP/1.json",
+  "metadata": {
+    "name": "TheJap #1",
+    "description": "TheJap is lucky old Japan art living on the blockchain to tell you the culture of discipline, polite, and kindness. We are #MAXKINDNESS",
+    "image": "ipfs://QmWEFfEKYoEoGJTVq7SsqsJWk5ssR3NS5D9rhp8ExNfyU7/1.png",
+    "dna": "a21ef343840e74e453923528fcdb6c9d36de256f",
+    "edition": 1,
+    "date": 1657450051701,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Red Samurai"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Super Annoyed Mole"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Sharingan"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Shogun"
+      }
+    ],
+    "compiler": "TheJapDeployer"
+  }
+}

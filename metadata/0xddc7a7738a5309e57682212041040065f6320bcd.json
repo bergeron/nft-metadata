@@ -1,0 +1,42 @@
+{
+  "address": "0xddc7a7738a5309e57682212041040065f6320bcd",
+  "type": "ERC721",
+  "name": "Ghost Cat NFT",
+  "tokenCount": "36",
+  "uri": "ipfs://QmPUBhCe53ZkuqZweYtPnaBpiCz9AsusuopbDWN5dKoDcZ/1.json",
+  "metadata": {
+    "name": "Ghost Cat #1",
+    "description": "The friendly neighbourhood Ghost Cats",
+    "image": "ipfs://QmPAUXzY9S1R2AvHPBCSUCsfuWbSjKA9bodqbuU321wPsq/1.png",
+    "dna": "28e5fcbe7a0e8e9123395a1a7a3d65b3599d25c7",
+    "edition": 1,
+    "date": 1645256487591,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Calico"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Fanny Pack"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smoking"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Dozey"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Pirate Hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

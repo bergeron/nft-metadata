@@ -1,0 +1,68 @@
+{
+  "address": "0xaaa1b7f5970598c47b0063a70146e2c71b5adf38",
+  "type": "ERC721",
+  "name": "ChaoticSimpleTest",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeiczaz7hfnbxz5jv5nchjosteu5ujf652ffdphhipkxrhwmcmkhbfq/1",
+  "metadata": {
+    "name": "Chaotic test #1",
+    "artist": "Osvaldo Rosales",
+    "description": "Chaotic test is an invitation to see, touch, and feel the natural state of the world, that of chaos and complex beauty. Double tap each attractor for a unique and unrepeatable experience. Let small changes bring us to ever more unimaginable places. To see full screen go to https://nftstorage.link/ipfs/bafybeibzuxvr2xfmby4rujhfodt75drznml47upng5kg55wdf4u4t5qvcu/1 .",
+    "external_url": "https://nftstorage.link/ipfs/bafybeibzuxvr2xfmby4rujhfodt75drznml47upng5kg55wdf4u4t5qvcu/1",
+    "image": "ipfs://bafybeidhkne5okwkcf5cvf3juchxf4t6dydtaxhmj76bbyiiukvkwlr7sa/1.png",
+    "animation_url": "ipfs://bafybeibzuxvr2xfmby4rujhfodt75drznml47upng5kg55wdf4u4t5qvcu/1/index.html",
+    "attributes": [
+      {
+        "trait_type": "Gradient",
+        "value": "Vasily"
+      },
+      {
+        "trait_type": "Midpoints",
+        "value": "7 Colors"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "Particles Multiplier",
+        "value": "100X"
+      },
+      {
+        "trait_type": "Particles Tail",
+        "value": "10,000 Steps"
+      },
+      {
+        "trait_type": "Particles Size",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Initial Conditions",
+        "value": "Ring"
+      },
+      {
+        "trait_type": "Integration Method",
+        "value": "Euler"
+      },
+      {
+        "trait_type": "Integration Step",
+        "value": "Large"
+      },
+      {
+        "trait_type": "sigma",
+        "value": 29,
+        "max_value": 30
+      },
+      {
+        "trait_type": "rho",
+        "value": 77.6,
+        "max_value": 150
+      },
+      {
+        "trait_type": "beta",
+        "value": 0.8,
+        "max_value": 15
+      }
+    ]
+  }
+}

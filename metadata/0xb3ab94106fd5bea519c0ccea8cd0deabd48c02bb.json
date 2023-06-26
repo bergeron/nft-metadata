@@ -1,0 +1,61 @@
+{
+  "address": "0xb3ab94106fd5bea519c0ccea8cd0deabd48c02bb",
+  "type": "ERC721",
+  "name": "The Walking Dead Official Survivor Series",
+  "tokenCount": "200",
+  "uri": "https://api.orangecomet.io/collectible-metadata/twd-survivor-series-merle/1",
+  "metadata": {
+    "image_hash": "a2c044de329811927a4e5bc993b933272661b6c206f35334ef628958d6ddc577",
+    "background_color": "060504",
+    "edition": 1,
+    "description": "These generative NFTs feature uniquely illustrated art based on the memorable characters, heroes and villains of the series. Each one of these NFTs are unique with its own 1:1 generative traits, rarities and other special properties.",
+    "image": "https://ipfs.orangecomet.io/ipfs/QmcNPUCd5cUEjLEWo8JQfvPyM36K4xy2ub3Qnb9Chvknia/1.jpg",
+    "attributes": [
+      {
+        "value": "Green Jail",
+        "trait_type": "Location"
+      },
+      {
+        "value": "Long Hair One Eyed and Guts with Shirt and Pants",
+        "trait_type": "Walker"
+      },
+      {
+        "value": "Merle",
+        "trait_type": "Name"
+      },
+      {
+        "value": "Normal",
+        "trait_type": "Color"
+      },
+      {
+        "value": "Walker",
+        "trait_type": "State"
+      },
+      {
+        "value": "Gray Shirt and White Tank Top",
+        "trait_type": "Outfit"
+      },
+      {
+        "trait_type": "Hair Style",
+        "value": "Short Gray"
+      },
+      {
+        "trait_type": "Facial Hair",
+        "value": "Goatee Salt and Pepper"
+      },
+      {
+        "value": "Walker Blood",
+        "trait_type": "Facial Blood"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Bloodied Arm Knives"
+      },
+      {
+        "value": "Burgundy Grunge 01",
+        "trait_type": "Front Overlay"
+      }
+    ],
+    "name": "Walker Merle #1"
+  }
+}

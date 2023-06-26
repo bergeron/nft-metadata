@@ -1,0 +1,28 @@
+{
+  "address": "0x23bdfd23235d158fb25d0b9527c721e59a176f1c",
+  "type": "ERC721",
+  "name": "ZKS Vesting Voucher",
+  "tokenCount": "1",
+  "uri": "data:application/json,{\"name\":\"ZKS Allocation Voucher #1 - 0.00 - OneTime\", \"description\":\"Voucher #1 of ZKS allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade ZKS's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!\",\"image\": \"https://imgurl.solv.finance/meta/images/vvZKS/1.png\",\"external_url\":\"https://app.solv.finance/vvZKS/1\", \"properties\": {\"owner\":\"0x9cea12f1c349c34cfeaedf9abe3e36dec38f26ee\",\"underlying\":\"0xe4815ae53b124e7263f08dcdbbb757d41ed658c6\",\"underlyingSymbol\":\"ZKS\",\"vestingAmount\":\"7143.000000000000000000\",\"principal\":\"0.000000000000000000\",\"claimType\":\"OneTime\",\"claimableAmount\":\"0.000000000000000000\",\"percentages\":[\"100.00%\"],\"maturities\":[1656892800]}}",
+  "metadata": {
+    "name": "ZKS Allocation Voucher #1 - 0.00 - OneTime",
+    "description": "Voucher #1 of ZKS allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade ZKS's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!",
+    "image": "https://imgurl.solv.finance/meta/images/vvZKS/1.png",
+    "external_url": "https://app.solv.finance/vvZKS/1",
+    "properties": {
+      "owner": "0x9cea12f1c349c34cfeaedf9abe3e36dec38f26ee",
+      "underlying": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
+      "underlyingSymbol": "ZKS",
+      "vestingAmount": "7143.000000000000000000",
+      "principal": "0.000000000000000000",
+      "claimType": "OneTime",
+      "claimableAmount": "0.000000000000000000",
+      "percentages": [
+        "100.00%"
+      ],
+      "maturities": [
+        1656892800
+      ]
+    }
+  }
+}

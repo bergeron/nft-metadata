@@ -1,0 +1,28 @@
+{
+  "address": "0xb6283b2e41843612cce2a70a87cf6edb9f40aa8a",
+  "type": "ERC1155",
+  "name": "CyberKeys",
+  "tokenCount": "1",
+  "uri": "https://cyberbabies.io/api/keyToken/1.json",
+  "metadata": {
+    "description": "CyberKeys allow Cyberbaby holders to use the CyberBabiesIO Contract Flash Bot. Claim your key now !",
+    "external_url": "https://cyberbabies.io",
+    "image": "https://cyberbabies.io/SkeletonKey.gif",
+    "name": "Skeleton Key",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Usage",
+        "value": "Flash Bot"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Good for x uses",
+        "value": 1
+      }
+    ]
+  }
+}

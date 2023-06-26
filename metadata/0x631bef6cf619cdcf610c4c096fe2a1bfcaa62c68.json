@@ -1,0 +1,102 @@
+{
+  "address": "0x631bef6cf619cdcf610c4c096fe2a1bfcaa62c68",
+  "type": "ERC721",
+  "name": "PilotTestContract",
+  "tokenCount": "10",
+  "uri": "https://jamzbonbon.mypinata.cloud/ipfs/QmbB5hadDNfC1YCEyfmp8pxgKcDqTUJHkvvXGw9FR3DDc5/1",
+  "metadata": {
+    "name": "JamzBonBon #1",
+    "description": "An Asian project of 9,999 super cute magical candies from Planet Jamz here to spread fun and adventure 🍬",
+    "image": "https://jamzbonbon.mypinata.cloud/ipfs/QmZbQNxcRsDT5v5bTMGuup9i9DgdJgvxXra1oYG8YJWJsz/",
+    "custom_fields": {
+      "dna": "993c87136979027495a1273b59002f67ba9706d5",
+      "edition": 40,
+      "date": 1646388619872,
+      "compiler": "Jamzbonbon Art Engine"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink ombre galaxy"
+      },
+      {
+        "trait_type": "Body Color",
+        "value": "Cow"
+      },
+      {
+        "trait_type": "Body Type",
+        "value": "BonBon"
+      },
+      {
+        "trait_type": "Hand Posture",
+        "value": "V hands"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Laser eyes"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Milk bonbon"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Goldchain with tattoo"
+      },
+      {
+        "trait_type": "Head Accessory",
+        "value": "Egg waffle"
+      },
+      {
+        "trait_type": "Foreground",
+        "value": "WAGMI"
+      }
+    ],
+    "layers": [
+      {
+        "layer_type": "Background",
+        "filename": "BG_13"
+      },
+      {
+        "layer_type": "Body Posture",
+        "filename": "Body_D_Bon_Cow"
+      },
+      {
+        "layer_type": "Eyes",
+        "filename": "Eyes_21"
+      },
+      {
+        "layer_type": "Head",
+        "filename": "Head_Bon_Cow"
+      },
+      {
+        "layer_type": "Back Items",
+        "filename": "Back_Items_None"
+      },
+      {
+        "layer_type": "Clothes",
+        "filename": "Cloth_49"
+      },
+      {
+        "layer_type": "Head Acc",
+        "filename": "Head_acc_23"
+      },
+      {
+        "layer_type": "Accessories",
+        "filename": "Acc_None"
+      },
+      {
+        "layer_type": "Items",
+        "filename": "Items_None"
+      },
+      {
+        "layer_type": "Top Eyes",
+        "filename": "Top_eyes_None"
+      },
+      {
+        "layer_type": "Foreground",
+        "filename": "FG_Text_05"
+      }
+    ]
+  }
+}

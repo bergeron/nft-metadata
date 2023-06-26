@@ -1,0 +1,59 @@
+{
+  "address": "0x2187093a2736442d0b5c5d5464b98fc703e3b88d",
+  "type": "ERC721",
+  "name": "Valeria Games Genesis Lands",
+  "tokenCount": "10000",
+  "uri": "ipfs://bafybeiehgbmwsmnqyv6pefchutc2srwmtzvlo7j3bbiwqrjzah4d7cs7da/1.json",
+  "metadata": {
+    "date": 1650084900364,
+    "image": "ipfs://Qmd9HaQdMSyAReLM6KGNmdRSVhCkuTTNgC5R3LE41kMqSs/1.png",
+    "tokenId": 1,
+    "dna": "8e7016cd960129d36ad6b288c10ffd65c8490249",
+    "name": "Land of Valeria #1",
+    "description": "Land of Valeria is a collection of 10,000 genesis lands made up of 5 different elements consisting of fire, water, rock, electric, and grass. Land owners will have the ability to generate valerians of the same element as well as additional benefits along the way.",
+    "edition": 1,
+    "attributes": [
+      {
+        "value": "Genesis",
+        "trait_type": "Version"
+      },
+      {
+        "value": "High Sky",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Grass",
+        "trait_type": "Land"
+      },
+      {
+        "value": "Rare",
+        "trait_type": "Summoning Stone"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Common Chests",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Rare Chests",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Epic Chests",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Legendary Chests",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Mythical Chests",
+        "value": 0
+      }
+    ]
+  }
+}

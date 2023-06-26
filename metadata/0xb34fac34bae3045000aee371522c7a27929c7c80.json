@@ -1,0 +1,41 @@
+{
+  "address": "0xb34fac34bae3045000aee371522c7a27929c7c80",
+  "type": "ERC721",
+  "name": "The Shadow Monkey",
+  "tokenCount": "18",
+  "uri": "ipfs://QmcP3t33rDkB5AqhVVdrfeRCygfCbRCVZCMKNmTMJKkkKt/1.json",
+  "metadata": {
+    "name": "The Assembly",
+    "description": "The final art piece in the 'Rise of the Shadow Monkey' treasure hunt. Design by artist Dawid Planeta.",
+    "image": "ipfs://QmQZg7jYG9f4gxkEnSQYzwedEKRvvhTNZYCR3Eb6d4YQZC/001.jpg",
+    "external_url": "https://theshadowmonkey.com",
+    "seller_fee_basis_points": 700,
+    "fee_recipient": "0xe4798B782B83DCD132318b087ea2014269B669fe",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Dawid Planeta"
+      },
+      {
+        "trait_type": "Discovered By",
+        "value": "0xb38bd68a6f0ba599808d65c7a9cf2a428105b680"
+      },
+      {
+        "trait_type": "Serial",
+        "value": 1
+      },
+      {
+        "trait_type": "Name",
+        "value": "The Assembly"
+      },
+      {
+        "trait_type": "Treasure Hunt",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Year of Creation",
+        "value": "2021"
+      }
+    ]
+  }
+}

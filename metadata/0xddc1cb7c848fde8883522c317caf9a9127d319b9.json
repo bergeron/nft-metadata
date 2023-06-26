@@ -1,0 +1,42 @@
+{
+  "address": "0xddc1cb7c848fde8883522c317caf9a9127d319b9",
+  "type": "ERC721",
+  "name": "Rare Spirits",
+  "tokenCount": "20",
+  "uri": "https://app.rarespirits.xyz/api/token/1?isToggled=false",
+  "metadata": {
+    "name": "Pappy Van Winkle Family Reserve Rye",
+    "description": "\"This 13-year breaks the mold, as it is one of the oldest rye whiskeys available today. The maturity it has achieved while aging is quite obvious when you take the first sip. It's a truly unique and rewarding rye whiskey experience.\" - Paul Pacult",
+    "image": "https://app.rarespirits.xyz/images/pvw-rye.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Brand",
+        "value": "Pappy Van Winkle"
+      },
+      {
+        "trait_type": "Serial #",
+        "value": "L20260 01 13:51D"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2020"
+      },
+      {
+        "trait_type": "Age",
+        "value": "13 years"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Rye Whiskey"
+      },
+      {
+        "trait_type": "Bottle Size",
+        "value": "750ml"
+      },
+      {
+        "trait_type": "Proof",
+        "value": "95.6"
+      }
+    ]
+  }
+}

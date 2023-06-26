@@ -1,0 +1,31 @@
+{
+  "address": "0x309c1ccca708eba8417a41f8e70c773dae127a97",
+  "type": "ERC1155",
+  "name": "Photograph Editions",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/x06SQaboHJYoOjOArkXvMwx5rpEPHsTkGgfvtHL5NV4",
+  "metadata": {
+    "name": "Contract placeholder token",
+    "created_by": "Elaine de Luca",
+    "description": "This token is a placeholder for an upcoming Manifold contract/collection, minted in order to reserve the right to optionally charge royalties on OpenSea while not being required to block any other competing marketplaces.\n\nThis token's metadata may be updated in the future to represent an actual artwork by the artist.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Elaine de Luca"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Placeholder"
+      }
+    ],
+    "image_details": {
+      "bytes": 403218,
+      "format": "JPEG",
+      "sha256": "bd15c519d88fdada991d45ba399de48fa4ff7567e4d45a9de4ed58cc0bc8ae0e",
+      "width": 1080,
+      "height": 1349
+    },
+    "image": "https://arweave.net/m7DQTO2Wx2PInxQbzjVe56HWEJq4kjI1_DWDYqGn3Bw",
+    "image_url": "https://arweave.net/m7DQTO2Wx2PInxQbzjVe56HWEJq4kjI1_DWDYqGn3Bw"
+  }
+}

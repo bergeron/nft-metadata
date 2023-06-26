@@ -1,0 +1,42 @@
+{
+  "address": "0x2c115fd47e9aa566176586a07847ccf2de678e28",
+  "type": "ERC721",
+  "name": "Mintbase V3",
+  "tokenCount": "43",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=AqY7yPImD3NIsUwwg4zr",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1579622644060?alt=media&token=86d5c8b0-b8eb-493c-a405-f3f17ccb0998",
+    "forSale": false,
+    "description": "The owner of this token can flag markets on created on Mintbase to be taken down if they do not follow specific guidelines.",
+    "contractAddress": "0x2c115fd47e9aa566176586a07847ccf2de678e28",
+    "type": "ERC721",
+    "tags": [],
+    "external_link": "https://mintbase.io/minted/0x2c115fd47e9aa566176586a07847ccf2de678e28/AqY7yPImD3NIsUwwg4zr",
+    "amountToMint": 5,
+    "numAvailable": 0,
+    "external_url": "https://mintbase.io",
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1579623079,
+      "_nanoseconds": 314000000
+    },
+    "price": 0,
+    "name": "Mintbase Moderator",
+    "fiatPrice": "$0.00",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "website",
+        "value": "https://mintbase.io/terms"
+      },
+      {
+        "trait_type": "location",
+        "value": "Berlin, Germany"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJAVkDPzdOqEcRcDteW0YgIQQ"
+      }
+    ]
+  }
+}

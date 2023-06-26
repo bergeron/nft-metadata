@@ -1,0 +1,51 @@
+{
+  "address": "0x6b7ca6da614104a60a047859e1c193f2b04d1992",
+  "type": "ERC721",
+  "name": "Z-Huge",
+  "tokenCount": "512",
+  "uri": "https://api.mountvitruvius.art/zhuge/metadata/1",
+  "metadata": {
+    "name": "Z-Huge - #1",
+    "image": "https://zhuge-image-store.s3-eu-west-2.amazonaws.com/2c825614c6b4947601b218ae5ff4f5cdc7b192d7.png",
+    "description": "512 generative sketches exploring curl noise, colour and constraints.",
+    "attributes": [
+      {
+        "trait_type": "Colour",
+        "value": "Vibes"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Swirls"
+      },
+      {
+        "trait_type": "Length",
+        "value": "Short"
+      },
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Crop",
+        "value": "None"
+      },
+      {
+        "trait_type": "Line type",
+        "value": "Taper"
+      },
+      {
+        "trait_type": "LineThickness",
+        "value": "Med"
+      },
+      {
+        "trait_type": "Turbulence",
+        "value": "No"
+      },
+      {
+        "trait_type": "Density",
+        "value": "Low"
+      }
+    ],
+    "date": 1635001917
+  }
+}

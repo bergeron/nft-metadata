@@ -1,0 +1,52 @@
+{
+  "address": "0x8f91a5435957279254be06b303c0d4cf3623e6b4",
+  "type": "ERC1155",
+  "name": "FraktalNFTBROADS",
+  "tokenCount": "2",
+  "uri": "ipfs://Qmf9wWFqppEEJJ1qZU8rMK36gGRMwzHrJX8ZgnhcgeZMUL/30.json",
+  "metadata": {
+    "name": "BROAD #30",
+    "description": "BROADS - 333 Breathing Toads",
+    "external_url": "",
+    "image": "https://ipfs.io/ipfs/QmUwVqCsrdVc9FmM5qUwFbJXeRQwGsbRNzENQ1WmRjxNii/30.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink"
+      },
+      {
+        "trait_type": "BASE",
+        "value": "Poison toad"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "ugly"
+      },
+      {
+        "trait_type": "MOUTH",
+        "value": "orange smile"
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "hair1"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "30.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "BROADS",
+      "family": "BROADS"
+    },
+    "symbol": ""
+  }
+}

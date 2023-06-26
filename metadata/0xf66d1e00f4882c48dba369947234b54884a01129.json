@@ -1,0 +1,60 @@
+{
+  "address": "0xf66d1e00f4882c48dba369947234b54884a01129",
+  "type": "ERC721",
+  "name": "RiverEstate",
+  "tokenCount": "838",
+  "uri": "https://api.rivermen.io/airdrop/riverestate/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Luxury",
+        "value": "Plain"
+      },
+      {
+        "trait_type": "Size",
+        "value": "Small(30*30)"
+      },
+      {
+        "trait_type": "Architect",
+        "value": "JeniTurtle"
+      },
+      {
+        "trait_type": "Architectural Style",
+        "value": "Folk House"
+      },
+      {
+        "trait_type": "Accessory1",
+        "value": "Cart"
+      },
+      {
+        "trait_type": "Accessory2",
+        "value": "Null"
+      },
+      {
+        "trait_type": "Accessory3",
+        "value": "Null"
+      },
+      {
+        "trait_type": "Accessory4",
+        "value": "Null"
+      }
+    ],
+    "resourceId": 1,
+    "animation_url": "https://d32ju6eqdh546d.cloudfront.net/riverestate/RiverEstate_0365.glb",
+    "name": "The Painter's Dwelling #1",
+    "mediaName": "RiverEstate_0365",
+    "description": "A Small(30*30)-sized Plain RiverEstate, designed by architect JeniTurtle.\nThis small but cozy house belongs to a famous painter, who has captured every scene inside and outside with his painting brushes.",
+    "image": "https://d32ju6eqdh546d.cloudfront.net/riverestate/RiverEstate_0365.png",
+    "version": 1,
+    "estateType": "Estate",
+    "multiLanguageTextMetadata": {
+      "chinese": {
+        "name": "画家住宅 #1",
+        "description": "一个小型(30*30)的朴素的河里宅，由建筑师JeniTurtle所缔造。\n一座面积不大却看起来温馨至极的小屋子，主人是有名的画家，屋子里里外外的所有景致已经都被画了个遍了。"
+      }
+    },
+    "owner": "0xDC714dBa9B94474B815e9D556454d0E4FE2253ae",
+    "atomized": "https://riverhouse-1313032879.cos.ap-singapore.myqcloud.com/riverhouse/schem/RiverEstate_0365.schem",
+    "insidenum": 365
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "0x9488c1a7ff0bca7e0be71b952ffa6f3a003f475c",
+  "type": "ERC721",
+  "name": "New Future Things",
+  "tokenCount": "203",
+  "uri": "ipfs://QmdJj6cV7W2r3oydUniaKTAS17QDf9uKT3j21Ne1MfP2ye/1.json",
+  "metadata": {
+    "name": "Average Joe #1",
+    "description": "'Average Joe' performed by The Gooneez for New Future Things 2022. This NFT is a key that unlocks the full album and other tokenized utility. Visit newfuturethings.io for full access.",
+    "attributes": [
+      {
+        "trait_type": "Track Number",
+        "value": 4,
+        "display_type": "number",
+        "max_value": 14
+      },
+      {
+        "trait_type": "Track Name",
+        "value": "Average Joe"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "The Gooneez"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Album Key"
+      },
+      {
+        "display_type": "number",
+        "max_value": 500,
+        "trait_type": "Edition Number",
+        "value": 1
+      }
+    ],
+    "animation_url": "ipfs://QmSENaNu7onAmx5FBPhuNZDsBuYjeDhC89xXhxdooyi6iz/track4.mp4",
+    "image": "ipfs://QmYFUZuY9DxPykDDweL3K8nvngrFqhudd6tyPj8TVhgjqP/track4.gif"
+  }
+}

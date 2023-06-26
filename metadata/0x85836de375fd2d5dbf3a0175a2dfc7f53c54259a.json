@@ -1,0 +1,52 @@
+{
+  "address": "0x85836de375fd2d5dbf3a0175a2dfc7f53c54259a",
+  "type": "ERC721",
+  "name": "Formula0x",
+  "tokenCount": "42",
+  "uri": "https://raw.githubusercontent.com/Formula0x/F0x.ERC-721/master/assets/concepts/ethismoney/asset.json",
+  "metadata": {
+    "name": "#ETHisMoney",
+    "image": "https://raw.githubusercontent.com/Formula0x/F0x.ERC-721/master/assets/concepts/ethismoney/asset.png",
+    "description": "This Ethereum cryptotwitter inspired livery adds the automotive element to our favorite saying, #EthIsMoney.",
+    "attributes": [
+      {
+        "trait_type": "name",
+        "value": "#ETHisMoney"
+      },
+      {
+        "trait_type": "class",
+        "value": "2017 F1"
+      },
+      {
+        "trait_type": "design",
+        "value": "Concept"
+      },
+      {
+        "trait_type": "base_color",
+        "value": "White"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "supply",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "year",
+        "value": 2019
+      },
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 1575979800
+      }
+    ],
+    "external_url": "https://twitter.com/formula0x",
+    "background_color": "ababab"
+  }
+}

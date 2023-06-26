@@ -1,0 +1,39 @@
+{
+  "address": "0xdb81da1d6608893105b2202dec9f4d3bc51d2a8a",
+  "type": "ERC721",
+  "name": "WannaCry.NFT",
+  "tokenCount": "4",
+  "uri": "ipfs://QmQLPpkTanRzGeoUnjEW3LfMxWEpKg4i4F3fvfS9sCnUTk/1",
+  "metadata": {
+    "description": "Natural Immunity\nInfection Rate: 40.29%",
+    "name": "WannaCryNFT #001",
+    "attributes": [
+      {
+        "trait_type": "Animal",
+        "value": "Elephant"
+      },
+      {
+        "trait_type": "Endangered Status",
+        "value": "Endangered"
+      },
+      {
+        "trait_type": "Infection Rate",
+        "value": "40-49%"
+      },
+      {
+        "trait_type": "Mutation Size",
+        "value": "4"
+      },
+      {
+        "trait_type": "Infection Path",
+        "value": "Vertical"
+      }
+    ],
+    "image": "https://ipfs.io/ipfs/QmXVqqfyxc3xZA2mo63NhRC9WvGwKpfs7u9yZzfiiEhfMF",
+    "background_color": "",
+    "youtube_url": "",
+    "external_url": "",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0x93ddBB224fB1b7Ab5DcA7366D377Ec7E44E2d309"
+  }
+}

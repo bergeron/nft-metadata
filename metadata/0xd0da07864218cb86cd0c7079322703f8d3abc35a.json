@@ -1,0 +1,18 @@
+{
+  "address": "0xd0da07864218cb86cd0c7079322703f8d3abc35a",
+  "type": "ERC1155",
+  "name": "Nannda Shield Counter",
+  "tokenCount": "8",
+  "uri": "https://www.nannda.xyz/api/metadata/token/shieldcounter/1",
+  "metadata": {
+    "name": "Senior Shield",
+    "description": "The Shield NFT is a magic shield that protects the Prophet from the steal by Darkness. Users can purchase Shield NFTs for $NDT, and Shield NFTs can be deposited to protect a deposited Prophet NFT. Shield NFTs have four classes like Prophets.",
+    "image": "https://www.nannda.xyz/resources/shield_1.png",
+    "attributes": [
+      {
+        "trait_type": "Class",
+        "value": "Senior"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0xd2c91c82c3fb887b72dae4e6b43bcff0188997bb",
+  "type": "ERC721",
+  "name": "Mad Banana Specials",
+  "tokenCount": "379",
+  "uri": "https://madbananaapi.vercel.app/ec/api/1",
+  "metadata": {
+    "name": "Baby Mad Banana #2",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbFQNP7WCzEHfFxh3bDMR8TVVcS6foQovAg16bvZidFXR",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Baby"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Crying blood"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cowboy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Eating ape"
+      },
+      {
+        "trait_type": "Madness",
+        "value": 92,
+        "max_value": 100
+      }
+    ]
+  }
+}

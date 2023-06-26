@@ -1,0 +1,63 @@
+{
+  "address": "0xed471a677dbb6c12001542d3d0a5fd4ad20a321c",
+  "type": "ERC721",
+  "name": "GitTrees",
+  "tokenCount": "256",
+  "uri": "ipfs://QmedE3FiEWUQD8vJEV8TDbcZQpvtTyGnruakgH2p7vWcvh/1",
+  "metadata": {
+    "name": "GitTree #1",
+    "image": "ipfs://QmSGKP59ZStzE1VN9ebAgtVn4rCtc475bCMLisHoXEWYsG/1.png",
+    "external_url": "https://www.gittrees.com",
+    "description": "GitTrees planted in the ether. GitTrees are generated using a random-generated seed in order to determine its growth and attributes. They will grow simultaneously every week, until reaching its maturity, where the GitTrees will stop growing, and their metadata will be stored in IPFS forever. Additionally, GitTrees will be able to be Drawn on-chain through a Smart Contract after all trees have matured.",
+    "attributes": [
+      {
+        "trait_type": "seed",
+        "value": "iaonsdx56nwjsrwu2yoy"
+      },
+      {
+        "trait_type": "species",
+        "value": "flower"
+      },
+      {
+        "trait_type": "generations",
+        "value": "flower: 7"
+      },
+      {
+        "trait_type": "mature",
+        "value": "yes"
+      },
+      {
+        "trait_type": "current generation",
+        "value": "7"
+      },
+      {
+        "trait_type": "flower - gen 1",
+        "value": "Stem: |"
+      },
+      {
+        "trait_type": "flower - gen 2",
+        "value": "Stem with Leaf: *l "
+      },
+      {
+        "trait_type": "flower - gen 3",
+        "value": "Special Leaves: +++"
+      },
+      {
+        "trait_type": "flower - gen 4",
+        "value": "Special Stem: +"
+      },
+      {
+        "trait_type": "flower - gen 5",
+        "value": "Flower Bud: @@@"
+      },
+      {
+        "trait_type": "flower - gen 6",
+        "value": "Top Facing Bud: WWWWW"
+      },
+      {
+        "trait_type": "flower - gen 7",
+        "value": "Bulby Bud: {{{ }}}"
+      }
+    ]
+  }
+}

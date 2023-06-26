@@ -1,0 +1,45 @@
+{
+  "address": "0xb0be28213353fa3693494d5aac7ab27b6a46e695",
+  "type": "ERC721",
+  "name": "FLOW Genesis",
+  "tokenCount": "10",
+  "uri": "https://arweave.net/90SIhRQnuE5f9pgC0aSiVDc7li7aR1VE8hRsdP1ToCA",
+  "metadata": {
+    "name": "FLOW #1",
+    "created_by": "pannawat.eth",
+    "description": "FLOW Genesis is the NFT art collection that transforms the ocean vortex of \"news feed\"  into unique abstract animated art.",
+    "attributes": [
+      {
+        "trait_type": "type",
+        "value": "The Color "
+      },
+      {
+        "trait_type": "sound",
+        "value": "Sound"
+      }
+    ],
+    "image_details": {
+      "bytes": 648874,
+      "format": "JPEG",
+      "sha256": "dfdaf9283ba2ded1e15ad64ffd091276746577b4514293f45ca6bb06fb5fe578",
+      "width": 2050,
+      "height": 2050
+    },
+    "image": "https://arweave.net/Yoe7RatoehQsPN5aMdzqRqrT16rhIkwTbDHk2K5k1jU",
+    "image_url": "https://arweave.net/Yoe7RatoehQsPN5aMdzqRqrT16rhIkwTbDHk2K5k1jU",
+    "animation_details": {
+      "bytes": 26108574,
+      "format": "MOV",
+      "duration": 26,
+      "sha256": "7e0db998019b4a6b5368ef04d9b610ecc5bb525fb8b9549ac9e1b74ad64c1a13",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/XxALH07IrrzBhpgcsKs8lTfkFbm8H-SiQtHFWda6nqU",
+    "animation_url": "https://arweave.net/XxALH07IrrzBhpgcsKs8lTfkFbm8H-SiQtHFWda6nqU"
+  }
+}

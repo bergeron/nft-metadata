@@ -1,0 +1,39 @@
+{
+  "address": "0xa7ccd0326757c6cee056b2c28d1571a4366152f3",
+  "type": "ERC721",
+  "name": "Dood Cats",
+  "tokenCount": "42",
+  "uri": "ipfs://QmfLQ4R1F5CBRm2qzyec3Spf5gq7Qa8qp24hVgbfgpyd6a/1.json",
+  "metadata": {
+    "dna": "f3d28a8fd2f908b772672a2623aa203490f2bbd3",
+    "name": "#1",
+    "description": "DoodCats is a collectibles NFT project inspired by the two blue-chip projects CoolCats and Doodles. DoodCats are created from over 100+ hand drawn traits. Each DoodCat is unique and will never be the same.",
+    "image": "ipfs://QmUkpcQw5X2iqZSTbEwcDRJEHvxfv4ZjiHuV4sinHGdpZw/1.png",
+    "edition": 1,
+    "date": 1639548045755,
+    "artist": "",
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "Red Sprinkle"
+      },
+      {
+        "trait_type": "BODY",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "CLOTHING",
+        "value": "Peach Puffer"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "Gradient Afro"
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Woah"
+      }
+    ],
+    "compiler": "Boki"
+  }
+}

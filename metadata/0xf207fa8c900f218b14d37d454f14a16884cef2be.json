@@ -1,0 +1,39 @@
+{
+  "address": "0xf207fa8c900f218b14d37d454f14a16884cef2be",
+  "type": "ERC721",
+  "name": "HAPPYDRAW_NFT",
+  "tokenCount": "7",
+  "uri": "ipfs://QmVhAqrW6tKMhZcABRDfHkJWyfs6NKgZoCctKKtmNkrsCB/1.json",
+  "metadata": {
+    "name": "HAPPYDRAW #1",
+    "description": "A CHANCE TO WIN 70 OR MORE",
+    "image": "ipfs://QmdMeoz55nNir1qWiBBCpmh9u1ejWwr2eVYvrZdWzZw4ar/1.png",
+    "attributes": [
+      {
+        "trait_type": "TICKET",
+        "value": "Ticket"
+      },
+      {
+        "trait_type": "1STDIG",
+        "value": "SIX"
+      },
+      {
+        "trait_type": "2NDDIG",
+        "value": "EGHT"
+      },
+      {
+        "trait_type": "3RDDIG",
+        "value": "EIGHT"
+      },
+      {
+        "trait_type": "4THDIG",
+        "value": "ONE"
+      }
+    ],
+    "custom_fields": {
+      "dna": "05c7e5b335e44a0ea262e48581b3cfabe25da5c8",
+      "edition": 1,
+      "date": 1655977660718
+    }
+  }
+}

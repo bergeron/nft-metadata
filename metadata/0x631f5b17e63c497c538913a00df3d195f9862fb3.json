@@ -1,0 +1,82 @@
+{
+  "address": "0x631f5b17e63c497c538913a00df3d195f9862fb3",
+  "type": "ERC721",
+  "name": "bermorgen",
+  "tokenCount": "4",
+  "uri": "https://ipfs.io/ipfs/QmYgJYVzMmXLeQUB2e81QR8tWHEZyjWVe1rkbXwC3FU7rz",
+  "metadata": {
+    "name": "FU (SpitzwegGivesFlorentinaMoreComfortThanNftBros)",
+    "description": "Florentina is a vroid.com avatar and she is still alive even though there are so many more bros.",
+    "external_url": "https://postmastersbc.art/nft/ubermorgen/FU%20(SpitzwegGivesFlorentina-%20MoreComfortThanNftBros)/FU_SpitzwegGivesFlorentinaMoreComfortThanNftBros-thumb.mov",
+    "animation_url": "https://postmastersbc.art/nft/ubermorgen/FU%20(SpitzwegGivesFlorentina-%20MoreComfortThanNftBros)/FU_SpitzwegGivesFlorentinaMoreComfortThanNftBros-thumb.mov",
+    "image": "https://postmastersbc.art/nft/ubermorgen/FU%20(SpitzwegGivesFlorentina-%20MoreComfortThanNftBros)/FU_SpitzwegGivesFlorentinaMoreComfortThanNftBros_thumb.png",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Ubermorgen"
+      },
+      {
+        "trait_type": "Rights Agreement",
+        "value": "https://ipfs.io/ipfs/Qmbf5Q2ivkECewuasvQKUYsJCjbQ3sPyAsMS2YpcPgfVUt"
+      },
+      {
+        "trait_type": "Archive Link",
+        "value": "https://postmastersbc.art/nft/ubermorgen/FU%20(SpitzwegGivesFlorentina-%20MoreComfortThanNftBros)/FU_SpitzwegGivesFlorentinaMoreComfortThanNftBros.mp4"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "FU (SpitzwegGivesFlorentinaMoreComfortThanNftBros)"
+      },
+      "description": {
+        "type": "string",
+        "description": "Florentina is a vroid.com avatar and she is still alive even though there are so many more bros."
+      },
+      "image": {
+        "type": "string",
+        "description": "https://postmastersbc.art/nft/ubermorgen/FU%20(SpitzwegGivesFlorentina-%20MoreComfortThanNftBros)/FU_SpitzwegGivesFlorentinaMoreComfortThanNftBros_thumb.png"
+      },
+      "rights_agreement": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/Qmbf5Q2ivkECewuasvQKUYsJCjbQ3sPyAsMS2YpcPgfVUt"
+      },
+      "rights_agreement_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "rights_agreement_signature": {
+        "type": "string",
+        "description": "f4e38f7db04f03924adaa2f26d11835a251545988e02e7a2829559eba1682bc2"
+      },
+      "archive_link": {
+        "type": "string",
+        "description": "https://postmastersbc.art/nft/ubermorgen/FU%20(SpitzwegGivesFlorentina-%20MoreComfortThanNftBros)/FU_SpitzwegGivesFlorentinaMoreComfortThanNftBros.mp4"
+      },
+      "archive_link_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "archive_link_signature": {
+        "type": "string",
+        "description": "8c8e59980058719d1f434c42c464790399430ac72a49cc0617be4ca9a20b387c"
+      },
+      "rights_agreement_values": {
+        "$ARTIST": "Ubermorgen",
+        "$SHAHASH": "8c8e59980058719d1f434c42c464790399430ac72a49cc0617be4ca9a20b387c",
+        "$CONTRACTSHAHASH": "f4e38f7db04f03924adaa2f26d11835a251545988e02e7a2829559eba1682bc2",
+        "$URL": "https://postmastersbc.art/nft/ubermorgen/FU%20(SpitzwegGivesFlorentina-%20MoreComfortThanNftBros)/FU_SpitzwegGivesFlorentinaMoreComfortThanNftBros_thumb.png",
+        "$TITLE": "FU (SpitzwegGivesFlorentinaMoreComfortThanNftBros)",
+        "$YEAR": "2021",
+        "$ROYALTYRATE": "10",
+        "$TOKEN": "eth",
+        "$ADDRESS": "0xB3bBa81501a3870c62Ba155E4E547AeC3f4D49dA",
+        "$LICENSE": "CA.05.19.21., Patent No. US 10,380,702"
+      },
+      "additional_info": {
+        "type": "string",
+        "description": "This digital art NFT was produced by PostmastersBLOCKCHAIN.com, 2021, Postmasters Gallery.\n\nThis artwork is the only instance of the second edition of ten. (2 of 10)"
+      }
+    }
+  }
+}

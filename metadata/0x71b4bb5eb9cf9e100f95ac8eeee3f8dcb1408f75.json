@@ -1,0 +1,33 @@
+{
+  "address": "0x71b4bb5eb9cf9e100f95ac8eeee3f8dcb1408f75",
+  "type": "ERC721",
+  "name": "xxx V2",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=etVInG3OI7w1Z7iRPz1h",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1585418387315?alt=media&token=0823e0f6-c65f-4675-a50f-b1ea33b3c32a",
+    "forSale": false,
+    "contractAddress": "0x71b4bb5eb9cf9e100f95ac8eeee3f8dcb1408f75",
+    "description": "A baby cat called Don Chisiotte",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1585418506,
+      "_nanoseconds": 153000000
+    },
+    "price": "0",
+    "name": "Don Chisciotte",
+    "fiatPrice": "$0.00",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      }
+    ],
+    "external_url": "https://mintbase.io/my-market/0x71b4bb5eb9cf9e100f95ac8eeee3f8dcb1408f75",
+    "type": "ERC721"
+  }
+}

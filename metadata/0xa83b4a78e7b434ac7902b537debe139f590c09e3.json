@@ -1,0 +1,50 @@
+{
+  "address": "0xa83b4a78e7b434ac7902b537debe139f590c09e3",
+  "type": "ERC721",
+  "name": "The White Apes NFT Preview",
+  "tokenCount": "1111",
+  "uri": "https://cdn-api.niftykit.com/reveal/yJmOt8RzdxkvNVpbICbG/1",
+  "metadata": {
+    "name": "White Ape #1",
+    "image": "https://sloppysneks.mypinata.cloud/ipfs/QmS7QqQpMxxZK6gRpsYwNmYurzajm7A5gLQZe7cHc5rS9h/1.png",
+    "description": "White Apes. Only for the Privileged.",
+    "external_url": "https://twitter.com/whiteapesnft",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rare Bg 2"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Base"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "High"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "No Hat"
+      },
+      {
+        "trait_type": "Top",
+        "value": "No Top"
+      },
+      {
+        "trait_type": "Jewelry",
+        "value": "No Jewelry"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "No Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth 3"
+      }
+    ],
+    "compiler": "nft-inator.com",
+    "seller_fee_basis_points": 800,
+    "fee_recipient": "0x146Fe97836566deBCcD78471639C64b191f71269"
+  }
+}

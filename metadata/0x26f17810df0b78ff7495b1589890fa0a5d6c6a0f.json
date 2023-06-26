@@ -1,0 +1,39 @@
+{
+  "address": "0x26f17810df0b78ff7495b1589890fa0a5d6c6a0f",
+  "type": "ERC721",
+  "name": "WOKEYS Inner Circle",
+  "tokenCount": "47",
+  "uri": "ipfs://bafybeic2meavajelt3u7pfwsfk3ot7ox2tgpgihmw57rg5jytumgppgi3y/1.json",
+  "metadata": {
+    "name": "WOKEYS Inner Circle",
+    "description": "WOKEYS Inner Circle Genesis Collection",
+    "image": "ipfs://bafybeia4dnu2bmmywae75wgpf72a652gcad7bsblmvqusfmzk4ynkqxd7i/1.png",
+    "attributes": [
+      {
+        "trait_type": "WOKEY",
+        "value": "Inner Circle"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Red/Brown"
+      },
+      {
+        "trait_type": "Special 1",
+        "value": "Pills"
+      },
+      {
+        "trait_type": "Special 2",
+        "value": "Morpheus "
+      },
+      {
+        "trait_type": "Background",
+        "value": "Black Pills"
+      }
+    ],
+    "compiler": "mintfoundry.xyz"
+  }
+}

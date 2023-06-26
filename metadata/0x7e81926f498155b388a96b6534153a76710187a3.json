@@ -1,0 +1,39 @@
+{
+  "address": "0x7e81926f498155b388a96b6534153a76710187a3",
+  "type": "ERC1155",
+  "name": "EvoSnails Units",
+  "tokenCount": "14",
+  "uri": "https://evosnails-gardenscapes-metadata.sfo3.digitaloceanspaces.com/units/1.json",
+  "metadata": {
+    "id": 1,
+    "description": "EvoSnails GardenScapes units empower your GardenScapes in your fight!",
+    "image": "https://evosnails-gardenscapes-metadata.sfo3.digitaloceanspaces.com/units/gifs/1.gif",
+    "name": "Stick Insect",
+    "attributes": [
+      {
+        "trait_type": "Air Power",
+        "value": 0
+      },
+      {
+        "trait_type": "Land Power",
+        "value": 10
+      },
+      {
+        "trait_type": "Water Power",
+        "value": 0
+      },
+      {
+        "trait_type": "Leaf Generation",
+        "value": 0
+      },
+      {
+        "trait_type": "Level",
+        "value": "L1"
+      },
+      {
+        "trait_type": "Power Multiplier",
+        "value": 1
+      }
+    ]
+  }
+}

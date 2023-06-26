@@ -1,0 +1,62 @@
+{
+  "address": "0x200df5935b4e56f955f8729974999d9317f75af2",
+  "type": "ERC721",
+  "name": "Guilded Gamers Genesis Collection V2 - old",
+  "tokenCount": "8",
+  "uri": "ipfs://QmTFiU1rZ6WRym3NfFGZc1NsPgnwXu8yG6h44K1KscLDNv/1",
+  "metadata": {
+    "name": "Guilded Gamers Collection #2",
+    "description": "They survived the apocalypse, now 10,000 Zombie Gamers must find their way home",
+    "image": "ipfs://QmRUpbutMdbDvepD39upvkE4h22bVBEgxrymFyrUTegSom/1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xD6B8d78b6D5053E9FC87F503b5D8C3BaA7cb10D0C",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Electric"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Purple Patch"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "GG Purple Tee"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Blue Cap"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Full Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Purple with Blunt"
+      }
+    ],
+    "dna": "39243553e367a24281b362e3226744a6e95be85a",
+    "edition": 2,
+    "date": 1649794221073,
+    "seller_fee_basis_points": 1000,
+    "collection": {
+      "name": "Guilded Gamers Collection",
+      "family": "Guilded Gamers Collection"
+    },
+    "compiler": "HashLips Art Engine"
+  }
+}

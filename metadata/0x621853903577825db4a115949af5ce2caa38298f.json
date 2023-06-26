@@ -1,0 +1,41 @@
+{
+  "address": "0x621853903577825db4a115949af5ce2caa38298f",
+  "type": "ERC721",
+  "name": "PIXIGANS COLLECTION",
+  "tokenCount": "111",
+  "uri": "ipfs://QmRmbvqDYAgJQjWVXXhaLbEcucGpxap2dJH7h56QtJVvwU/1.json",
+  "metadata": {
+    "name": "Pixigan # 1",
+    "description": "Pixigan # 1 - Your friend on the Ethereum blockchain.",
+    "fee_recipient": "0xda9A8020b85d67B83C408e1a5A93eB431451f269",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://QmYvE1UEZez1rpLgwCZz5kiGkEsuGUYZkhXeWY8T9kLSi1/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Honeydew"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Checkered Jacket - Green"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Skintype 2 Grey Eyes"
+      },
+      {
+        "trait_type": "Accessoire",
+        "value": "Earring Emerald"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Snapback White"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 527,
+        "display_type": "number"
+      }
+    ]
+  }
+}

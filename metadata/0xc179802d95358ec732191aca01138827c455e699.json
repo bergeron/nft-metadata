@@ -1,0 +1,33 @@
+{
+  "address": "0xc179802d95358ec732191aca01138827c455e699",
+  "type": "ERC721",
+  "name": "Francesco NFT",
+  "tokenCount": "1",
+  "uri": "ipfs://QmZS5WFTEc3j51HmRfs6FTwBzREr5piSYjxFjEQeG1Vuzm/1",
+  "metadata": {
+    "name": "Token 1 Name",
+    "description": "Token 1 Description",
+    "image": "ipfs://QmcQZtGZ3Xjs63D3H7Pk5UyywEkVDUDgmT681T2uDGDkW3/2.png",
+    "external_url": "https://thirdweb.com",
+    "animation_url": "ipfs://QmcQZtGZ3Xjs63D3H7Pk5UyywEkVDUDgmT681T2uDGDkW3/3.mp4",
+    "background_color": "0098EE",
+    "attributes": [
+      {
+        "trait_type": "additional",
+        "value": "every"
+      },
+      {
+        "trait_type": "properties",
+        "value": "row"
+      },
+      {
+        "trait_type": "can be",
+        "value": "is a "
+      },
+      {
+        "trait_type": "added",
+        "value": "property"
+      }
+    ]
+  }
+}

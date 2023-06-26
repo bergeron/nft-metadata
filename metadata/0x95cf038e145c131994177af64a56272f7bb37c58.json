@@ -1,0 +1,34 @@
+{
+  "address": "0x95cf038e145c131994177af64a56272f7bb37c58",
+  "type": "ERC721",
+  "name": "DreamscapesNFT",
+  "tokenCount": "100",
+  "uri": "ipfs://Qmah2enUor8vQ14osQbQh94j5hE2UhDNgcA7PCi4GoCT8t/1.json",
+  "metadata": {
+    "name": "Dreamscapes #1",
+    "description": "Dreamscapes is a colorful collection of 5000 randomly generated landscapes featuring art by Robin Fischer. Every Dreamscape is unique and consits of different traits with different rarities. A wide variety of Traits ranging from Time of Day, Skies, Regions, Details and Foregrounds guarantees you a dreamy experience after minting. Holding a Dreamscapes NFT will grant you with access to all further projects of Robin Fischer and the Team.",
+    "image": "ipfs://QmT6EZYoCpsEVVxd1pHf1i7yRn4T7zSPxsyjNxJDMc1pQm/1.jpg",
+    "dna": "2d61ec7373b1d8bb6fb9d98a72d45eaf6c065912",
+    "edition": 1,
+    "date": 1638281111958,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Hills, Day Storm"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Elk"
+      },
+      {
+        "trait_type": "Details",
+        "value": "Birds 1"
+      },
+      {
+        "trait_type": "Foreground",
+        "value": "3"
+      }
+    ],
+    "compiler": "Dreamscapes Art Engine"
+  }
+}

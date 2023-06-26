@@ -1,0 +1,42 @@
+{
+  "address": "0x97d5900f0f5cd519fe3db2095a3882a3551331a8",
+  "type": "ERC721",
+  "name": "Run Dino Run Genesis",
+  "tokenCount": "8",
+  "uri": "ipfs://QmXhBqAG1Aj1bimm6BytxNLYT1BN63c1UudJftb63QCub8/1.json",
+  "metadata": {
+    "name": "Genesis Dino #1",
+    "description": "A limited edition collection of 100 Gold Mechatronic Dinos",
+    "image": "ipfs://QmQd5t2d7yNSWQHvQQpx3twNK9Fzmnndyn2vx4ZxsR8LQu/1.png",
+    "dna": "19f7d317f3ab847b2a447974805ba1a7940990bd",
+    "edition": 1,
+    "date": 1635147006564,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Gold_Mecha"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Rice_Hat"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Wizard_Robe"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Basketball"
+      }
+    ],
+    "compiler": "Dino Art Engine"
+  }
+}

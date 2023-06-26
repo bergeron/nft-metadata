@@ -1,0 +1,30 @@
+{
+  "address": "0x773649dd9630fd4da1f50aed522b9be1c0a6a5fa",
+  "type": "ERC721",
+  "name": "Cyclical Project",
+  "tokenCount": "1000",
+  "uri": "https://art-sandbox.sunflower.industries/token/0x773649dD9630fD4Da1f50AED522b9BE1C0A6a5FA/1",
+  "metadata": {
+    "description": "Abstract, animated, generative art that meditates upon the cyclical nature of reality.\n\nFrom every breath we take to the spinning of the planets, the repitition of cycles binds time and the universe together.\n\nMirroring this, a loop of code creates these rotating pieces by printing circles in repeated, rotational symmetry.",
+    "dependencies": "[{\"name\":\"p5@1.4.0\",\"keccak256\":\"0xcef1df742d5237151854b6ccd3d7769c7bcb2cf987e4f8f6ca1ad69afdac3dcc\"}]",
+    "artist": "0x9eE2d8Af05Ccf28216840d53A72feaBC324e1442",
+    "external_url": "https://art.sunflower.industries/token/0x773649dD9630fD4Da1f50AED522b9BE1C0A6a5FA/1",
+    "image": "https://art-sandbox.sunflower.industries/render/tokenImage/0x773649dD9630fD4Da1f50AED522b9BE1C0A6a5FA/1",
+    "name": "Cyclical #1",
+    "attributes": [
+      {
+        "trait_type": "Background Colour",
+        "value": "16"
+      },
+      {
+        "trait_type": "Line Colour",
+        "value": "18"
+      },
+      {
+        "trait_type": "Rotational Symmetry",
+        "value": "21"
+      }
+    ],
+    "animation_url": "https://art-sandbox.sunflower.industries/tokenFrame/0x773649dD9630fD4Da1f50AED522b9BE1C0A6a5FA/1"
+  }
+}

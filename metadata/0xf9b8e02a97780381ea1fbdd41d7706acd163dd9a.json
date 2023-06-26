@@ -1,0 +1,26 @@
+{
+  "address": "0xf9b8e02a97780381ea1fbdd41d7706acd163dd9a",
+  "type": "ERC721",
+  "name": "Burnables NFT",
+  "tokenCount": "999",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmdJXSxX9mmfakRzubRh3rNi7KohUixTaZ4h8MwVCq7mS3/1",
+  "metadata": {
+    "name": "Burnable #1",
+    "description": "Each Burnable can be burned by the owner of the token. The owner of the token will receive 0.08 ETH when the token is burned.",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "black"
+      },
+      {
+        "value": "og",
+        "trait_type": "flame"
+      },
+      {
+        "trait_type": "size",
+        "value": "medium"
+      }
+    ],
+    "image": "https://gateway.pinata.cloud/ipfs/QmPaWu4pYhJRdUSs8347CuAyL31nQjD4728S7FL3v3tgLW/1.gif"
+  }
+}

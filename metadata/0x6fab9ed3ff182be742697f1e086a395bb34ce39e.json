@@ -1,0 +1,93 @@
+{
+  "address": "0x6fab9ed3ff182be742697f1e086a395bb34ce39e",
+  "type": "ERC721",
+  "name": "asdfewqrqer14",
+  "tokenCount": "50",
+  "uri": "https://api.artblocks.io/token/289000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "289000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "AlgoBeats #1",
+    "minted": true,
+    "artist": "Han x Nicolas Daniel",
+    "description": "Inside the endless number of creative approaches, there are many ways to create music & generative art. All we have is basically “symbols” with their assigned meanings. \n\nProgramming, in its nature, can be explained in a set of rules. We have functions for meaning, numbers for value, output as a result;\nNicolas, as a creator, is the programming brain who have interest in music.\n\nMusic, in its nature, can be explained in a set of rules. We have notation for meaning, numbers for time, sound as a result;\nHan, as a creator, is the musical brain who have interest in programming.\n\nStarting from the regular linear music partition method similar to drum machines, changing it in a circular way similar to ticking clocks, subdividing the time, generating the sounds with oscillators, composing the code for the loop, adding layers as instruments; Algo(Beats) turns into a digital music box where the rhythm and music can be represented with colors and motions. \n\nIn Algo[Rhythms] we explored the music scales, in Algo(Beats) we are exploring the rhythms and sounds. We expect musicians to use and inspire by Algo. We think they have the potential be a tool for music projects which can live in blockchain forever. This is an approach for generative on-chain music. An automated rhythm generator in blockchain which tries to find the rhythms and patterns that humans didn't notice yet. Think of it like a fun improvisation tool created by two friends.\n\nYou should try some keys on your keyboard, we like easter eggs!",
+    "script_type": "tone@14.8.15",
+    "project_id": "289",
+    "curation_status": "presents",
+    "heritage_curation_status": "playground",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/289000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/289000001.png",
+    "generator_url": "https://generator.artblocks.io/289000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/289000001",
+    "royaltyInfo": {
+      "artistAddress": "0x67ba5775a60b13254bf65ea67295dd47543bc5e1",
+      "additionalPayee": "0x89cbb15c7ab08a39328b0e3ddf8cffa8d7c50899",
+      "additionalPayeePercentage": 50,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "AlgoBeats by Han x Nicolas Daniel",
+    "website": "https://twitter.com/algo_io",
+    "token_hash": "0x78228e1ce185c3f56aa57a7bbb43b85ba920b465902bdb5079f23ab135aa34b5",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/289/tokens/289000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/289000001",
+    "features": {
+      "Bpm": 90,
+      "Sound": "Fusion",
+      "Style": "Hat",
+      "Swing": 0,
+      "Groove": "Popular",
+      "Rhythm": "Light Years Away",
+      "Palette": "Hue Multi",
+      "Background": "Yellow",
+      "Collection": "Hue",
+      "Instrument Count": 7
+    },
+    "traits": [
+      {
+        "trait_type": "AlgoBeats",
+        "value": "All AlgoBeats"
+      },
+      {
+        "trait_type": "AlgoBeats",
+        "value": "Bpm: 90"
+      },
+      {
+        "trait_type": "AlgoBeats",
+        "value": "Sound: Fusion"
+      },
+      {
+        "trait_type": "AlgoBeats",
+        "value": "Style: Hat"
+      },
+      {
+        "trait_type": "AlgoBeats",
+        "value": "Swing: 0"
+      },
+      {
+        "trait_type": "AlgoBeats",
+        "value": "Groove: Popular"
+      },
+      {
+        "trait_type": "AlgoBeats",
+        "value": "Palette: Hue Multi"
+      },
+      {
+        "trait_type": "AlgoBeats",
+        "value": "Background: Yellow"
+      },
+      {
+        "trait_type": "AlgoBeats",
+        "value": "Collection: Hue"
+      },
+      {
+        "trait_type": "AlgoBeats",
+        "value": "Instrument Count: 7"
+      }
+    ],
+    "is_static": false,
+    "license": "CC0"
+  }
+}

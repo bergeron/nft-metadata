@@ -1,0 +1,20 @@
+{
+  "address": "0x31662a1d73de30bd08c1a7d10f716c54bfc9e429",
+  "type": "ERC1155",
+  "name": "Space Riders Inventory",
+  "tokenCount": "3",
+  "uri": "https://api.spaceriders.xyz/rewards/metadata/1.json",
+  "metadata": {
+    "name": "Inventory Item #1",
+    "description": "Riding the cosmos can be challenging. Don't do it alone! This Companion will help guide you through your journey.",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Companion"
+      }
+    ],
+    "image": "ipfs://QmRC2YGKgbBnte7u5pavQg3C7tdK3D1fbjtk7Uu6nC5x7F",
+    "animation_url": "ipfs://QmcRS7VTqpC6tQtNv1vKLqykirdcaw341tQr3B1EYxR1Va",
+    "external_url": "https://spaceriders.xyz/"
+  }
+}

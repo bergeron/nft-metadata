@@ -1,0 +1,53 @@
+{
+  "address": "0xc291224dcf87843f90dc5888de69bc90a13e0291",
+  "type": "ERC721",
+  "name": "imnotArtClub Membership Card",
+  "tokenCount": "75",
+  "uri": "https://arweave.net/LRw3CCzj7ZsF-7jT2JPH4VyT_UPtR0Tnvgc-lsYXbQk",
+  "metadata": {
+    "name": "imnotArtClub Card #1",
+    "created_by": "imnotArt Chicago",
+    "external_url": "imnotart.com",
+    "description": "The Official Membership Card of Art Club\n\nFounded on 12.15.2022 @ imnotArt Chicago  \n1010 N. Ashland, Chicago IL 60622",
+    "attributes": [
+      {
+        "trait_type": "YEAR",
+        "value": "2022"
+      },
+      {
+        "trait_type": "SERIAL NUMBER",
+        "value": "04:9B:57:8E:10:03:89"
+      },
+      {
+        "trait_type": "ISSUED TO",
+        "value": "imnotMatt"
+      },
+      {
+        "trait_type": "CITY",
+        "value": "Chicago"
+      }
+    ],
+    "animation_details": {
+      "bytes": 4024663,
+      "format": "MP4",
+      "duration": 8,
+      "sha256": "27d33e6156a0cb7a26d4404b70a22e36e7fceeba6d04c87aa9dbd1a92ea7c918",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/Kq01dTc2KjUgOK1daEIHfHj5JINWwqeR95W549FHm_k",
+    "animation_url": "https://arweave.net/Kq01dTc2KjUgOK1daEIHfHj5JINWwqeR95W549FHm_k",
+    "image_details": {
+      "bytes": 1525688,
+      "format": "PNG",
+      "sha256": "e6d6f025b1efffc9113383e4a4e65121d56c48fd654d6f2c562cb5932212bad3",
+      "width": 1080,
+      "height": 1080
+    },
+    "image": "https://arweave.net/L8epN2Ex45N7NWw5j2X_ii3Ov8l4xVrAa5LKMwhsf3c",
+    "image_url": "https://arweave.net/L8epN2Ex45N7NWw5j2X_ii3Ov8l4xVrAa5LKMwhsf3c"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "address": "0x61e3e11eaee4b4720642f8ecdd423244fae16050",
+  "type": "ERC721",
+  "name": "BoringPlatypunks",
+  "tokenCount": "1967",
+  "uri": "ipfs://bafybeihvzfx4cclfcgfw4ilyspv3rorrllr74qsr3s6mmpqldua6psge74/1.json",
+  "metadata": {
+    "name": "BoringPlatypunk #1",
+    "description": "A project inspired by BoringPunks and Pixel Platypus.",
+    "image": "ipfs://bafybeiewgm7qkyt6t6b5mcadanlftpwwnwm7xdek55k6nuaq4lizs2nabq/1.png",
+    "dna": "f56532b25b6e0dba14530c124c6304a286ed4b0d",
+    "edition": 1,
+    "date": 1686785456314,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Boring"
+      },
+      {
+        "trait_type": "Platy",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Orange Punk"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Demon"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Angry Red"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "Collar"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Bandana Orange"
+      }
+    ],
+    "compiler": "Boring"
+  }
+}

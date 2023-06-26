@@ -1,0 +1,36 @@
+{
+  "address": "0xa5f9ed85d6c2a1837be531a8f4720927c18ac437",
+  "type": "ERC721",
+  "name": "Bird of a Feather",
+  "tokenCount": "202",
+  "uri": "ipfs://bafybeicmwjr7dlj3bqlxhvqlwmzvhpvtkp4h6s555yg5vg7mgtjminwlba/1.json",
+  "metadata": {
+    "name": "Bird #1",
+    "description": "A colorful and vibrant bird theme art with a variety of different birds. No promises. Just Art.",
+    "image": "ipfs://bafybeifamix6sjcegsy5eodyqbpwf2atm6dzpxepemgutbvyalpwjv7rca/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Corn Field"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "Red"
+      }
+    ],
+    "external_url": "",
+    "compiler": "mintplex.xyz"
+  }
+}

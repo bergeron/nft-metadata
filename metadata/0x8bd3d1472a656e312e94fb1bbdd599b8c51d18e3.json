@@ -1,0 +1,63 @@
+{
+  "address": "0x8bd3d1472a656e312e94fb1bbdd599b8c51d18e3",
+  "type": "ERC721",
+  "name": "HEX Stake Instance",
+  "tokenCount": "14020",
+  "uri": "https://api.hedron.pro/1/hsi/1",
+  "metadata": {
+    "description": "This NFT represents a stake within the HEX protocol which has been encapsulated by the Hedron protocol. The owner of this NFT may redeem this NFT for the underlying HEX stake at any time.",
+    "external_url": "https://hedron.pro/#/dapp",
+    "image": "https://hedron.pro/img/token/hsi/nft.png",
+    "animation_url": "https://hedron.pro/img/token/hsi/nft.mp4",
+    "name": "HEX Stake - 0.79 T-Shares - 481 / 5555 Days Served",
+    "attributes": [
+      {
+        "key": "T-Shares",
+        "trait_type": "T-Shares",
+        "value": 0.79
+      },
+      {
+        "key": "HEX Staked",
+        "trait_type": "HEX Staked",
+        "value": 5555
+      },
+      {
+        "key": "HDRN Mintable",
+        "trait_type": "HDRN Mintable",
+        "value": 4202193.38
+      },
+      {
+        "key": "Days Served",
+        "display_type": "boost_percentage",
+        "trait_type": "Days Served",
+        "value": 8
+      },
+      {
+        "key": "HDRN Minted",
+        "display_type": "boost_percentage",
+        "trait_type": "HDRN Minted",
+        "value": 0
+      },
+      {
+        "key": "Days Staked",
+        "display_type": "number",
+        "trait_type": "Days Staked",
+        "value": 5555,
+        "max_value": 5555
+      },
+      {
+        "key": "HDRN Launch Bonus",
+        "display_type": "number",
+        "trait_type": "HDRN Launch Bonus",
+        "value": 10,
+        "max_value": 10
+      },
+      {
+        "key": "Stake Start",
+        "display_type": "date",
+        "trait_type": "Stake Start",
+        "value": 1645920000
+      }
+    ]
+  }
+}

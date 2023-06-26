@@ -1,0 +1,43 @@
+{
+  "address": "0xb0e84ff3fb12f39662db713f1d8cc4f8d684bedb",
+  "type": "ERC721",
+  "name": "Meets Motors",
+  "tokenCount": "10",
+  "uri": "https://ipfs.io/ipfs/QmR3f3u7fhhzqnrjfMTcxGon4k15GgWypKH9ie1vZ8cRvW/metadata_ID1_blood.json",
+  "metadata": {
+    "name": "DWN — Blood",
+    "description": "MeetsMeta Cars pre-mint collectibles. Metaverse ready, exclusive cars collection for 10 lucky early supporters of the community, available in the Meets Metaverse. Luxurious four-seater convertible, small stylish headlights and a massive branded grille. An elegant and luxurious design that perfectly emphasizes the individuality and status of its owner.",
+    "image": "https://ipfs.io/ipfs/Qmf69dRcoBRC3CWzLC7yabDo7Tfg7p3HG3Mf9SQXxE2A8q",
+    "external_url": "https://meetsmeta.io/",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "DWN"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Blood"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Speed",
+        "value": 80
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Handling",
+        "value": 94
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Acceleration",
+        "value": 72
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Horse Power",
+        "value": 80
+      }
+    ]
+  }
+}

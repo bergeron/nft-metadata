@@ -1,0 +1,39 @@
+{
+  "address": "0x1e11dde14b3b26e6e0cb192514f5fcf5475e5311",
+  "type": "ERC1155",
+  "name": "Render AI",
+  "tokenCount": "6",
+  "uri": "https://arweave.net/jju9HXslcx2lDuLJ6JlmWBYCj0_c2h4xCQgwT7Ae-OY",
+  "metadata": {
+    "name": "Genesis [1]",
+    "created_by": "yucky",
+    "description": "Generative AI art pieces are unique in that they are created algorithmically and can produce an infinite number of unique artworks from a single set of parameters, making them truly unique works of art that can be experienced differently each time.\n\n---\n\n`prompt: genesis`\n\n---",
+    "attributes": [
+      {
+        "trait_type": "Upscaler",
+        "value": "--uplight"
+      },
+      {
+        "trait_type": "Quality",
+        "value": "--q 2"
+      },
+      {
+        "trait_type": "Version",
+        "value": "--v 4"
+      },
+      {
+        "trait_type": "Number of Rerolls",
+        "value": "1"
+      }
+    ],
+    "image_details": {
+      "bytes": 1490653,
+      "format": "PNG",
+      "sha256": "62c91020a5ac9d9023bb1fcc84ee5a87daa0d6b5c117f2a6654693d21c4731db",
+      "width": 1024,
+      "height": 1024
+    },
+    "image": "https://arweave.net/iKlXzX-Pwns5CrWdh3Y2D_UxC42EjRl5uA4Soug8U2g",
+    "image_url": "https://arweave.net/iKlXzX-Pwns5CrWdh3Y2D_UxC42EjRl5uA4Soug8U2g"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "address": "0x13aae6f9599880edbb7d144bb13f1212cee99533",
+  "type": "ERC721",
+  "name": "Fluxus by Monotau",
+  "tokenCount": "234",
+  "uri": "https://token.artblocks.io/0x13aAe6f9599880edbB7d144BB13F1212CeE99533/1",
+  "metadata": {
+    "platform": "Flutter",
+    "tokenID": "1",
+    "series": "N/A",
+    "aspect_ratio": 2,
+    "payout_address": "0x9821d1a3b6e302e1d10cc479c0e403cf8f04bb28",
+    "name": "Worlds #1",
+    "minted": true,
+    "artist": "Kenny Vaden",
+    "description": "“Worlds” (by Kenny Vaden) consists of bending, wave-like structures that lean and arc across a landscape, with a large disc hovering in the background.\n\nThe composition includes meandering line clusters, rectangles, and slightly off-center, nested concentric circles of varying sizes, which sometimes cluster chaotically or align into neatly spaced groups.\n\nThis piece variably features a more detailed \"macro\" view of the scene, or an interactive animation with rotating circles and moving disc that accelerate based on mouse position.\n\nHighly variable color gradients and contrast manipulation with varying opacity, shadows, and highlights produce changing scenes that evoke different memories. The winding and sometimes tangled scenes produced by this system convey imbalance, incompleteness, and disorder.\n\nWe can each view the same scene with open eyes, but see vastly different worlds.",
+    "script_type": "p5@1.0.0",
+    "project_id": "0",
+    "engine_type": "fullyonchain",
+    "image": "https://media-proxy.artblocks.io/0x13aae6f9599880edbb7d144bb13f1212cee99533/1.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x13aae6f9599880edbb7d144bb13f1212cee99533/1.png",
+    "generator_url": "https://generator.artblocks.io/0x13aae6f9599880edbb7d144bb13f1212cee99533/1",
+    "animation_url": "https://generator.artblocks.io/0x13aae6f9599880edbb7d144bb13f1212cee99533/1",
+    "royaltyInfo": {
+      "artistAddress": "0x24fafa02db3a55fc271b7abec624da05f1a5b330",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Worlds by Kenny Vaden",
+    "website": "https://vadenart.com",
+    "token_hash": "0x20a872ff1c8e278a8a1631adc592b22376d1bb907d720695ea0b21752d39f682",
+    "external_url": "",
+    "primary_asset_url": "https://generator.artblocks.io/0x13aae6f9599880edbb7d144bb13f1212cee99533/1",
+    "features": {
+      "Klimt": 45,
+      "Scale": "Macro(Detail)",
+      "Opacity": 65,
+      "Shadows": 62,
+      "Streams": "Sparse",
+      "Gradient": "FIREFALL",
+      "UniformVar": 81,
+      "NonuniformVar": 74
+    },
+    "traits": [
+      {
+        "trait_type": "Worlds",
+        "value": "All Worlds"
+      },
+      {
+        "trait_type": "Worlds",
+        "value": "Klimt: 45"
+      },
+      {
+        "trait_type": "Worlds",
+        "value": "Scale: Macro(Detail)"
+      },
+      {
+        "trait_type": "Worlds",
+        "value": "Opacity: 65"
+      },
+      {
+        "trait_type": "Worlds",
+        "value": "Streams: Sparse"
+      },
+      {
+        "trait_type": "Worlds",
+        "value": "Gradient: FIREFALL"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-SA 4.0"
+  }
+}

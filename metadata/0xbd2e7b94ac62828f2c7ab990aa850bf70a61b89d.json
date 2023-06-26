@@ -1,0 +1,47 @@
+{
+  "address": "0xbd2e7b94ac62828f2c7ab990aa850bf70a61b89d",
+  "type": "ERC721",
+  "name": "Simple Cats by Husto",
+  "tokenCount": "3333",
+  "uri": "https://cdn-api.niftykit.com/reveal/YH9dv8z1QMVBwxrzTtb3/1",
+  "metadata": {
+    "name": "Simple Cats #1",
+    "description": "",
+    "image": "ipfs://bafybeihsersa5p6lpg3fxyymlffavt2diwvhl65vpdkmp3qs77torreqju/1.png",
+    "edition": 1,
+    "date": 1673814873416,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "lime"
+      },
+      {
+        "trait_type": "cat ID",
+        "value": "gray_cat"
+      },
+      {
+        "trait_type": "wings",
+        "value": "basic_cat"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "basic_pastel"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "cigarette"
+      },
+      {
+        "trait_type": "moustache",
+        "value": "dalli"
+      },
+      {
+        "trait_type": "accessories",
+        "value": "weed_eyes"
+      }
+    ],
+    "compiler": "HashLips Art Engine",
+    "seller_fee_basis_points": 600,
+    "fee_recipient": "0x232dcf32317999F69018BA807E369D7925B1445D"
+  }
+}

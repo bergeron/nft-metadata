@@ -1,0 +1,62 @@
+{
+  "address": "0x124013ad8628c218b402b6b9b0dd8be854beacbc",
+  "type": "ERC721",
+  "name": "The Guilded Gamers Genesis Collection",
+  "tokenCount": "31",
+  "uri": "ipfs://QmNUYXPGJGyzd4xAZyzNSGUSP5sZaR6t2PDkbyUfUhnWF2/1",
+  "metadata": {
+    "name": "Guilded Gamers Collection #104",
+    "description": "They survived the apocalypse, now 10,000 Zombie Gamers must find their way home",
+    "image": "ipfs://QmX1YqyajmH6cBtMFQskrgyH5LHLqH1HtNF7iXbCdF5Cvx/1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xD6B8d78b6D5053E9FC87F503b5D8C3BaA7cb10D0C",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple Haze"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Blue and Pink Infected"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "GG Orange Tee"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Viking Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Smoke"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Iced"
+      }
+    ],
+    "dna": "4bf7992e70df0955b77c10606345925418ef90ca",
+    "edition": 104,
+    "date": 1649787016342,
+    "seller_fee_basis_points": 1000,
+    "collection": {
+      "name": "Guilded Gamers Collection",
+      "family": "Guilded Gamers Collection"
+    },
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "address": "0x6a62727c5f6b0595bbda22580a09a791ed31b173",
+  "type": "ERC721",
+  "name": "Ether Legends",
+  "tokenCount": "25",
+  "uri": "https://www.etherlegends.com/metadata/specialedition/KS3.json",
+  "metadata": {
+    "name": "Borgle",
+    "image": "https://www.etherlegends.com/tradingcards/specialedition/KS3.png",
+    "description": "Prismatic, super-rare and powerful",
+    "external_url": "https://www.etherlegends.com",
+    "attributes": [
+      {
+        "trait_type": "game",
+        "value": "Ether Legends"
+      },
+      {
+        "trait_type": "set",
+        "value": "Special Edition"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Prismatic"
+      },
+      {
+        "trait_type": "type",
+        "value": "Character"
+      },
+      {
+        "trait_type": "element_1",
+        "value": "Earth"
+      },
+      {
+        "trait_type": "strength_1",
+        "value": "Defense"
+      },
+      {
+        "trait_type": "element_2",
+        "value": "Water"
+      },
+      {
+        "trait_type": "strength_2",
+        "value": "Heal"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "number",
+        "value": 7
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "elementeum",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "attack",
+        "value": 4
+      },
+      {
+        "display_type": "number",
+        "trait_type": "defense",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heal",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "disrupt",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heart",
+        "value": 12
+      }
+    ]
+  }
+}

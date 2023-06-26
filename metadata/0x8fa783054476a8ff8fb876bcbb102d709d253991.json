@@ -1,0 +1,38 @@
+{
+  "address": "0x8fa783054476a8ff8fb876bcbb102d709d253991",
+  "type": "ERC721",
+  "name": "Arb Pepe",
+  "tokenCount": "2174",
+  "uri": "ipfs://bafybeifm52jnoek4rlk42g2mewfncclphqmpxrw4p3l7dfbz7a337elfl4/1.json",
+  "metadata": {
+    "name": "Arb Pepe #1",
+    "description": "This Pepe is living on ethereum and arbitrium at same time.",
+    "image": "ipfs://bafybeido67qwzpo2gzoacbv4dcv3pbjop453fanx7hdorcqyr4yoza3lea/1.png",
+    "dna": "560d5e0bf74d12c77cb852ec3f7020969257abc6",
+    "edition": 1,
+    "date": 1662415768064,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Vested Gym Rat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed Crying"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Restrained Anger"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Popes Hat"
+      }
+    ],
+    "compiler": "Pepe"
+  }
+}

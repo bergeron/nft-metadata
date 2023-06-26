@@ -1,0 +1,41 @@
+{
+  "address": "0xce919ae5a27508bf1a2959c9c629c31114fb6384",
+  "type": "ERC721",
+  "name": "GoldfishNFT",
+  "tokenCount": "2",
+  "uri": "https://cdn-api.niftykit.com/reveal/jxDAg7uTv0zVqPyappzC/1",
+  "metadata": {
+    "name": "GoldfishNFT #1",
+    "image": "ipfs://bafybeig54fjvwppqw42lbg2wprs73tbnt3humheesrlbr774bd6ysmlkeu/1.png",
+    "description": "Art & Fish & Gold = GoldfishNFT. NFT based upon original art rocking the etherium blockchain. Redeem your GoldfishNFT and order the art. Redeem your GodfishNFT and claim some gold! More on https://www.goldfishnft.xyz/",
+    "attributes": [
+      {
+        "trait_type": "Border",
+        "value": "None"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "None"
+      },
+      {
+        "trait_type": "Signature",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Golden Coins",
+        "value": "None"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Orangefire"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Punknewblue"
+      }
+    ],
+    "seller_fee_basis_points": 1500,
+    "compiler": "nft-inator.com",
+    "fee_recipient": "0x257daA1E24C3e16BC1D3A1DFeC5B946450bc7543"
+  }
+}

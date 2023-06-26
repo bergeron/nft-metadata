@@ -1,0 +1,83 @@
+{
+  "address": "0x8b0399edcd9aceea7e0f44180ef28017a8ce42ff",
+  "type": "ERC721",
+  "name": "Amazing Amphibians Frogs",
+  "tokenCount": "25",
+  "uri": "ipfs://QmdxvVkGWVfmSUC79dMAVYUnPvc4Vi5ehKCPu12fDL7ZnL/1.json",
+  "metadata": {
+    "id": 1,
+    "name": "Goldie",
+    "description": "Goldie of the Poison Frog tribe. Fast as Lightning, Natural Born Leader, and Diplomatic Expert. He is apart of the Amazing Amphibians Frog race.",
+    "image": "ipfs://QmPSQpoRj23ccecQk3G8BahvyZz3yzeCm1yosj3zJ1SN2H/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pale Primrose"
+      },
+      {
+        "trait_type": "Expression",
+        "value": "Golden Grin"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Purple Hoodie"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Birthday Hat"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Species",
+        "value": "Poison Frog"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Lightning Reflexes (Dexterity)",
+        "value": 3
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Leader (Charisma)",
+        "value": 3
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Diplomat (Charisma)",
+        "value": 1
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Leaping Legs (Dexterity)",
+        "value": 3
+      },
+      {
+        "trait_type": "Strength",
+        "value": 18
+      },
+      {
+        "trait_type": "Dexterity",
+        "value": 18
+      },
+      {
+        "trait_type": "Constitution",
+        "value": 11
+      },
+      {
+        "trait_type": "Wisdom",
+        "value": 6
+      },
+      {
+        "trait_type": "Intelligence",
+        "value": 8
+      },
+      {
+        "trait_type": "Charisma",
+        "value": 18
+      }
+    ]
+  }
+}

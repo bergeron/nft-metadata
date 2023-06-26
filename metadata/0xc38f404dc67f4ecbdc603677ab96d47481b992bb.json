@@ -1,0 +1,115 @@
+{
+  "address": "0xc38f404dc67f4ecbdc603677ab96d47481b992bb",
+  "type": "ERC721",
+  "name": "Digital Village - The Sanctuary",
+  "tokenCount": "74",
+  "uri": "https://api.digitalvillage.io/api/v1/contract/0xc38f404dc67f4ecbdc603677ab96d47481b992bb/token/1",
+  "metadata": {
+    "name": "The Sanctuary 11-15",
+    "description": "This NFT is a virtual piece of land in Digital Village that players can purchase and use to build immersive experiences. Each parcel is a unique 1 of 1 ERC-721 token minted on the public Ethereum blockchain.",
+    "image": "https://digitalvillage.mypinata.cloud/ipfs/QmYGRJ6Y6nw9vvxNU2uYkqwmTsKWZRetJRTm9B5HvMy4Bv",
+    "external_url": "https://digitalvillage.io/product/666/the-sanctuary-11-15",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Land"
+      },
+      {
+        "trait_type": "Width",
+        "value": "111.03m",
+        "display_type": "string",
+        "max_value": "0.00",
+        "order": "0",
+        "category": null
+      },
+      {
+        "trait_type": "Length",
+        "value": "111.03m",
+        "display_type": "string",
+        "max_value": "0.00",
+        "order": "1",
+        "category": null
+      },
+      {
+        "trait_type": "Total Surface",
+        "value": "12327.94mq",
+        "display_type": "string",
+        "max_value": null,
+        "order": "2",
+        "category": null
+      },
+      {
+        "trait_type": "Average Altitude",
+        "value": "18.52m",
+        "display_type": "string",
+        "max_value": null,
+        "order": "3",
+        "category": null
+      },
+      {
+        "trait_type": "Minimum Altitude",
+        "value": "8.27m",
+        "display_type": "string",
+        "max_value": null,
+        "order": "4",
+        "category": null
+      },
+      {
+        "trait_type": "Maximum Altitude",
+        "value": "34.64m",
+        "display_type": "string",
+        "max_value": null,
+        "order": "5",
+        "category": null
+      },
+      {
+        "trait_type": "Water Surface",
+        "value": "0.00%",
+        "display_type": "string",
+        "max_value": null,
+        "order": "6",
+        "category": null
+      },
+      {
+        "trait_type": "Dry Surface",
+        "value": "100.00%",
+        "display_type": "string",
+        "max_value": null,
+        "order": "7",
+        "category": null
+      },
+      {
+        "trait_type": "Buildable Surface",
+        "value": "77.94%",
+        "display_type": "string",
+        "max_value": null,
+        "order": "8",
+        "category": null
+      },
+      {
+        "trait_type": "Form Factor",
+        "value": "100.00%",
+        "display_type": "string",
+        "max_value": null,
+        "order": "9",
+        "category": null
+      },
+      {
+        "trait_type": "Overall Quality Score",
+        "value": "44.51",
+        "display_type": "string",
+        "max_value": null,
+        "order": "10",
+        "category": null
+      },
+      {
+        "trait_type": "Classification",
+        "value": "STANDARD",
+        "display_type": "string",
+        "max_value": null,
+        "order": "11",
+        "category": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "address": "0xd5473457e43ea4369f118cc8fa3763a2770dac7a",
+  "type": "ERC721",
+  "name": "BasicFactory Co. | Genesis",
+  "tokenCount": "8",
+  "uri": "https://api.basicfactory.co/0/json/1.json",
+  "metadata": {
+    "name": "BasicFactory Co. #1",
+    "description": "The BasicFactory Co. | Quadratic Pass 1",
+    "image": "https://api.basicfactory.co/0/img/64.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Claimed",
+        "value": "No"
+      },
+      {
+        "trait_type": "Licenses",
+        "value": "16"
+      },
+      {
+        "trait_type": "Range #",
+        "value": "0001-0016"
+      }
+    ]
+  }
+}

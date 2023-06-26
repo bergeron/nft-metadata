@@ -1,0 +1,41 @@
+{
+  "address": "0xb3a4f2cb38c896da0e00c6be66a3cb1c4d16ad9c",
+  "type": "ERC721",
+  "name": "Eth Sports Cars V1",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeicrj6swpvpriavgx62jjjasyajala3izf55j4xwbu36laaxyzmwcu/1.json",
+  "metadata": {
+    "name": "Eth Sports Car #58",
+    "description": "Eth Sports Car #58 - Handmade 3D Model of speedy sports cars for racing and ETH lovers.",
+    "fee_recipient": "0x90Af9DC54338dD4AF39239f037d62C4AeEc182AC",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://bafybeiep2cfw7cvvr4x5mavydujbjagftgt7usfasw7denzsfjd3rn42bi/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Chassie",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Middle Stripe",
+        "value": "Thick"
+      },
+      {
+        "trait_type": "Heck Spoiler",
+        "value": "Version 2"
+      },
+      {
+        "trait_type": "Wheels",
+        "value": "V1 Gold"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 27,
+        "display_type": "number"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "address": "0xa02b0b102c9ba4e71c65806ed79326e7564f5802",
+  "type": "ERC721",
+  "name": "pixxelrocket",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/6OaerB_adwIbA5_7x8NbV9tp2Sab67V7McGpHPtpiVg",
+  "metadata": {
+    "name": "fart frenchie #12",
+    "created_by": "pixxelrocket",
+    "description": "fart frenchie is a collection of 1'000 unique art pieces. Each constitutes of 3 layers and 13 frames creating individual artworks.",
+    "fart frenchie color": "brown yellow 1",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "pixxelrocket"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "fart frenchie number",
+        "value": "12",
+        "max_value": "1000"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "fart level",
+        "value": "9",
+        "max_value": "10"
+      }
+    ],
+    "image_details": {
+      "bytes": 740376,
+      "format": "GIF",
+      "sha256": "f351776e04a955db4cd9451e150bec8e362deb58b2b328bd4251697be038cc4a",
+      "width": 1200,
+      "height": 1200
+    },
+    "image": "https://arweave.net/DNB1GYeRPJuEy938zpc0HSyadt3Jb1bUIkvvadxb6RU",
+    "image_url": "https://arweave.net/DNB1GYeRPJuEy938zpc0HSyadt3Jb1bUIkvvadxb6RU"
+  }
+}

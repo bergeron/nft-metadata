@@ -1,0 +1,35 @@
+{
+  "address": "0x53d8b721adeac7cd39a852e177dc02ad0ac9a8aa",
+  "type": "ERC721",
+  "name": "Bored Beanz Yacht Club",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmVXdiX9UqN3g9EbaQdHW8hQDnDr3jQ1JmKyjQ5298kJKS/1.json",
+  "metadata": {
+    "name": "Bored Beanz Yacht Club #1",
+    "description": "10K Collectible Bored Beanz",
+    "image": "ipfs://QmShhs51mrzSDmNVupzX26Ecf5y6HPY463dtajLE5R4qZf/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Vietnam Jacket"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Beams"
+      }
+    ]
+  }
+}

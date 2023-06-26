@@ -1,0 +1,43 @@
+{
+  "address": "0xd1f5c6b10b99b22a91f2db9eb848f1b9f28e2b01",
+  "type": "ERC721",
+  "name": "Sandbox Masterpiece Pixel Art",
+  "tokenCount": "6",
+  "uri": "https://api.de-fine.art/api/tokens/mainnet/0xD1F5c6B10B99B22a91F2db9eB848f1b9f28E2b01/1",
+  "metadata": {
+    "tokenId": 1,
+    "chainType": "mainnet",
+    "tokenAddress": "0xd1f5c6b10b99b22a91f2db9eb848f1b9f28e2b01",
+    "tokenType": "ERC721",
+    "count": 1,
+    "name": "The Starry Night",
+    "owner": {
+      "address": "0x40e37a375e66e19d358b181de175bd2b78a91acb",
+      "name": "anon",
+      "avatar": "https://api.de-fine.art/u/0x40E37a375E66E19D358b181de175bd2b78A91acB"
+    },
+    "artist": "Sandbox",
+    "description": null,
+    "image": "https://define-art-static-prod.s3-ap-northeast-1.amazonaws.com/token/image/mainnet/sandbox/starlight.gif",
+    "fullimage": "https://define-art-static-prod.s3-ap-northeast-1.amazonaws.com/token/image/mainnet/sandbox/starlight.gif",
+    "external_url": "https://de-fine.art/ERC721/1",
+    "txHash": "0xe2b905779b598f0ad7040abdef10c4b4a526e4c3673000853a63823889a3142f",
+    "dateCreated": "2021-10-20T08:08:44.000Z",
+    "artistAvatar": "https://define-art-static-prod.s3-ap-northeast-1.amazonaws.com/avatar/8d7afd215ca347128a478445f5ed4c62.png",
+    "hot": false,
+    "creator": {
+      "address": "0x46bbc576a74571d18b7b7611011447ace0b29829",
+      "name": "Sandbox",
+      "avatar": "https://define-art-static-prod.s3-ap-northeast-1.amazonaws.com/avatar/8d7afd215ca347128a478445f5ed4c62.png"
+    },
+    "auctionInfo": null,
+    "swapInfo": null,
+    "thumbnails": null,
+    "attributes": [],
+    "swapInfoList": null,
+    "onSaleCountByCurrentUser": 0,
+    "ownedCountByCurrentUser": 0,
+    "ownerCount": 1,
+    "collection": "sandbox-starlight"
+  }
+}

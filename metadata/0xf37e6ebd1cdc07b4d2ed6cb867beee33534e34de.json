@@ -1,0 +1,23 @@
+{
+  "address": "0xf37e6ebd1cdc07b4d2ed6cb867beee33534e34de",
+  "type": "ERC1155",
+  "name": "Logan Paul Digital Collectibles Store",
+  "tokenCount": "5",
+  "uri": "https://api.maverickchamp.com/api/maverick/1",
+  "metadata": {
+    "external_url": "https://bondly.finance/",
+    "image": "https://api.maverickchamp.com/images/LoganV1.jpg",
+    "name": "Logan Paul, Box Breaker",
+    "description": "Celebrating the largest box break in history",
+    "attributes": [
+      {
+        "trait_type": "LOGANPAUL",
+        "value": "Logan Paul"
+      },
+      {
+        "trait_type": "BREAK1",
+        "value": "Break 1 on Feb 27,2021"
+      }
+    ]
+  }
+}

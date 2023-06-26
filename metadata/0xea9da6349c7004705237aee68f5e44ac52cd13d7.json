@@ -1,0 +1,41 @@
+{
+  "address": "0xea9da6349c7004705237aee68f5e44ac52cd13d7",
+  "type": "ERC721",
+  "name": "Junior Punks",
+  "tokenCount": "5555",
+  "uri": "ipfs://QmRukfJ82G6Zdik8HjtMNrWBNonqLgjSShxtDT7BW6Ys9A/1",
+  "metadata": {
+    "name": "Junior Punks #1",
+    "description": "Junior Punks is a collection of 5,555 randomly generated pixel characters on the Ethereum blockchain. Holders get access to private networking events, group calls, and VR experiences with celebrities, athletes, influencers, artists, and entrepreneurs.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTafsPinqdFnrPUkExYqapWNDq2Lm1XY3BSJzBaUMjHyX/1.png",
+    "external_url": "https://thejuniorpunks.com/",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Sailing Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Laser Eyes"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "without earring"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Gold tooth"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Black Skin"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple Background"
+      }
+    ],
+    "seller_fee_basis_points": 800,
+    "fee_recipient": "0x16BD30A6F016C2ED8F0f2B5E6A53F23B1867e6f3"
+  }
+}

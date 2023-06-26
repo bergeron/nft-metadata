@@ -1,0 +1,35 @@
+{
+  "address": "0x118aed2606d02c2545c6d7d2d1021e567cc08922",
+  "type": "ERC1155",
+  "name": "The Orthoverse Land Collection",
+  "tokenCount": "1948",
+  "uri": "https://orthoverse.io/api/metadata/0x01-0.json",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Latitude",
+        "value": 999
+      },
+      {
+        "trait_type": "Longitude",
+        "value": 999
+      },
+      {
+        "trait_type": "Realm",
+        "value": "Fantasy"
+      },
+      {
+        "trait_type": "Castle Level",
+        "value": "0"
+      },
+      {
+        "trait_type": "Rank",
+        "value": "Unmapped"
+      }
+    ],
+    "external_url": "https://orthoverse.io/",
+    "name": "Aranica",
+    "description": "The Orthoverse Croft of Aranica",
+    "image": "https://orthoverse.io/api/img/0000000000000000000000000000000000000001-0.png"
+  }
+}

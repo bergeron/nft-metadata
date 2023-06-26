@@ -1,0 +1,51 @@
+{
+  "address": "0xe816c40d32c139bc7bdbe5969018a4b74a743b7a",
+  "type": "ERC721",
+  "name": "CITYSCAPES",
+  "tokenCount": "114",
+  "uri": "https://api.wenmint.com/cityscapes/1",
+  "metadata": {
+    "name": "CITYSCAPES #1",
+    "external_url": "https://cityscapes.land/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Radiant vert"
+      },
+      {
+        "trait_type": "City Name",
+        "value": "Carolena"
+      },
+      {
+        "trait_type": "Population",
+        "value": "1905361"
+      },
+      {
+        "trait_type": "Zip Code",
+        "value": "66399"
+      },
+      {
+        "trait_type": "Layer 5",
+        "value": "Philadelphia"
+      },
+      {
+        "trait_type": "Layer 4",
+        "value": "Rodchenko"
+      },
+      {
+        "trait_type": "Layer 3",
+        "value": "Calatrava"
+      },
+      {
+        "trait_type": "Layer 2",
+        "value": "Itten"
+      },
+      {
+        "trait_type": "Layer 1",
+        "value": "Ames"
+      }
+    ],
+    "image": "https://assets.wenmint.com/images/cityscapes/1.png",
+    "description": "CityScapes"
+  }
+}

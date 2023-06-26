@@ -1,0 +1,48 @@
+{
+  "address": "0xc8f4c3db5acaf02ad430a71d941535afafb3da37",
+  "type": "ERC1155",
+  "name": "Tomato Editions",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/CQBhCzCfXCIG8fXyh9GbyTUF7L1ghsf8Bzy7gKfSfEA",
+  "metadata": {
+    "name": "Tickle Tickle",
+    "created_by": "Tomato",
+    "description": "The tentacles wrap around me, pulling me in.\n\n1920x1920 60fps mp4",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "License",
+        "value": "CC0"
+      },
+      {
+        "trait_type": "Vibration",
+        "value": "Enabled"
+      }
+    ],
+    "animation_details": {
+      "bytes": 11610829,
+      "format": "MP4",
+      "duration": 4,
+      "sha256": "92671f7820b0a06d615b3496b612b2e5683e029613b4b5e4358ad0ad529cefd1",
+      "width": 1920,
+      "height": 1920,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/iZnWlujtzAP7fGd3jChW_rTB0NLkrcfDtSD4lQUTTz0",
+    "animation_url": "https://arweave.net/iZnWlujtzAP7fGd3jChW_rTB0NLkrcfDtSD4lQUTTz0",
+    "image_details": {
+      "bytes": 1487395,
+      "format": "JPEG",
+      "sha256": "2c564bdf735a545ad1bff5c904d40df4343621a450a5839d8766d3bee165fbba",
+      "width": 1920,
+      "height": 1920
+    },
+    "image": "https://arweave.net/4Y2i6o3GBcea45FDVwZk1ksf9t-4Z1LPJpvp4bAelNM",
+    "image_url": "https://arweave.net/4Y2i6o3GBcea45FDVwZk1ksf9t-4Z1LPJpvp4bAelNM"
+  }
+}

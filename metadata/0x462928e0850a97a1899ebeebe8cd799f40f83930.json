@@ -1,0 +1,59 @@
+{
+  "address": "0x462928e0850a97a1899ebeebe8cd799f40f83930",
+  "type": "ERC1155",
+  "name": "NessLand BlindBox",
+  "tokenCount": "4",
+  "uri": "https://metadata.nessland.net/box/1",
+  "metadata": {
+    "name": "TigerRoar Blind Box",
+    "description": "Don't be deceived by their seemingly lazy appearance，they are the guardians of the NessLand and one of the mythical beasts，the tigers。 Approaching the opponent in the dark，and then defeating the enemy with one move， the combat power is high and it is used as a symbol of power。 Those who benefit all living beings with the gift of gusting winds have guarded this land since ancient times， and this bravery exists for this reason。 There are a total of 8 pets in this series，and there is a probability of winning a surprise hidden pet。  \r\n\r\n***\r\n\r\n**Source:** NessLand BlindBox Mint - **[TigerRoar](https://www.nessland.net/mint?id=TigerRoar)**  \r\n**Total:** 2022  \r\n**Price:** 0.06 ETH  \r\n**PreMint Num:** 222  \r\n**PreMint Price:** 0.03 ETH  \r\n**Limit Purchase:** 10  \r\n**[More to NessLand](https://www.nessland.net)**  \r\n\t\t",
+    "external_url": "https://www.nessland.net/",
+    "image": "https://metadata.nessland.net/img/box/1",
+    "animation_url": "https://assets.nessland.net/box/1",
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "Public Sale Time",
+        "value": 1648771200
+      },
+      {
+        "trait_type": "Snowstorm Tiger",
+        "value": "Chance: 3.5%"
+      },
+      {
+        "trait_type": "Golden Tiger",
+        "value": "Chance: 8.5%"
+      },
+      {
+        "trait_type": "Darkblade Tiger",
+        "value": "Chance: 13%"
+      },
+      {
+        "trait_type": "Crescent Tiger",
+        "value": "Chance: 13%"
+      },
+      {
+        "trait_type": "Thunder Tiger",
+        "value": "Chance: 15%"
+      },
+      {
+        "trait_type": "Hellfire Tiger",
+        "value": "Chance: 15%"
+      },
+      {
+        "trait_type": "Scream Tiger",
+        "value": "Chance: 16%"
+      },
+      {
+        "trait_type": "Quicksand Tiger",
+        "value": "Chance: 16%"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "TigerRoar Total Pets",
+        "value": 8,
+        "max_value": 8
+      }
+    ]
+  }
+}

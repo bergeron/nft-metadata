@@ -1,0 +1,35 @@
+{
+  "address": "0x6f1eea7a85b0773abb2b3adf536b0225d2092f22",
+  "type": "ERC721",
+  "name": "BaboonBet",
+  "tokenCount": "10000",
+  "uri": "https://api.baboon.bet/token/1",
+  "metadata": {
+    "name": "Baboon #1",
+    "image": "https://games.baboon.bet/1/preview.png",
+    "attributes": [
+      {
+        "value": "movies",
+        "trait_type": "Game"
+      },
+      {
+        "value": "rows",
+        "trait_type": "Effect"
+      },
+      {
+        "value": "detonate",
+        "trait_type": "Animation"
+      },
+      {
+        "value": "91.4",
+        "trait_type": "RTP"
+      },
+      {
+        "value": "2",
+        "trait_type": "FS"
+      }
+    ],
+    "description": "Baboon.bet is the first NFT Slot.",
+    "external_url": "https://www.baboon.bet"
+  }
+}

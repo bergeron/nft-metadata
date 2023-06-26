@@ -1,0 +1,31 @@
+{
+  "address": "0xa6fe98aa9d86a3c3215252ecfbcc76289a37c8a2",
+  "type": "ERC721",
+  "name": "RECRUITMENT CERTIFICATE by ZeroCorp",
+  "tokenCount": "778",
+  "uri": "http://onboa-publi-173nzql1vs6z6-830207847.ap-east-1.elb.amazonaws.com/api/nfts/1",
+  "metadata": {
+    "description": "Official certificate awarded upon completion of recruitment on behalf of ZeroCorp.",
+    "external_url": "https://projectbrx.io",
+    "image": "https://onboarding-nft.s3.ap-east-1.amazonaws.com/1.png",
+    "name": "Certificate of Recruitment #1",
+    "attributes": [
+      {
+        "trait_type": "Company Name",
+        "value": "ZeroCorp."
+      },
+      {
+        "trait_type": "Frame",
+        "value": "Generic Dark Wood"
+      },
+      {
+        "trait_type": "Weight",
+        "value": "420g"
+      },
+      {
+        "trait_type": "Signature",
+        "value": "Paige & Karl"
+      }
+    ]
+  }
+}

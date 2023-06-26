@@ -1,0 +1,41 @@
+{
+  "address": "0x41773382a69593c30b6d1ee77e6cd8b3b3034203",
+  "type": "ERC721",
+  "name": "Mfers Cool Cats",
+  "tokenCount": "3",
+  "uri": "ipfs://QmaM1U5cWkhPR9ZoF7Ksk6GeeRo5hsKHwEfJHUBeZpi9AN/1.json",
+  "metadata": {
+    "name": "Mfer Cool Cat1",
+    "description": "Mfers Cool Cats is the coolest derivative collection from Mfers + Cool Cats. It´s my humble tribute to these two great collections. Enjoy!",
+    "fee_recipient": "0xe1298789A4A6529a04F5B6f90F2dcD06B62206c3",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://QmdcRZCACdHaCkuFrmbayZPCRJVQZWzaCa6CvnFMNT5Cx3/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "IMG 0153"
+      },
+      {
+        "trait_type": "Body",
+        "value": "IMG 0094 Ccexpress"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "IMG 0131 Ccexpress"
+      },
+      {
+        "trait_type": "Headphones",
+        "value": "IMG 0147 Ccexpress"
+      },
+      {
+        "trait_type": "Watches",
+        "value": "IMG 0160 Ccexpress"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 8665,
+        "display_type": "number"
+      }
+    ]
+  }
+}

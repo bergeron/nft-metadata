@@ -1,0 +1,55 @@
+{
+  "address": "0xa1113cf12dafe3471a4e7f281683dc98d4b1ca6e",
+  "type": "ERC721",
+  "name": "Across the Face by Osinachi",
+  "tokenCount": "1000",
+  "uri": "ipfs://Qma5KfJBrAo4gAUdrpgRfrcXEErDBe7dcgCKodC8VBj1nH/1/token.json",
+  "metadata": {
+    "name": "ATF #001",
+    "description": "One person. Various personalities. A simple slap on the face changes everything. \n\nThis Async Blueprints collection uses four (4) TYPES, each with three (3) LAYERS, and interesting STATES to create 1000 pieces, each featuring a portrait of the creator, Osinachi.\n\nPartly inspired by the work of Belgian artist, René Magritte.",
+    "external_url": "https://async.market/blueprints/62866e56d4b78c32c2efd66e/editions/0xa1113cf12dafe3471a4e7f281683dc98d4b1ca6e-1",
+    "attributes": [
+      {
+        "trait_type": "Asset Type",
+        "value": "Edition"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Osinachi"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Across the Face"
+      },
+      {
+        "trait_type": "Type",
+        "value": "BLUE BG"
+      },
+      {
+        "trait_type": "TOP WEAR",
+        "value": "Milk Shirt II"
+      },
+      {
+        "trait_type": "HEADWEAR",
+        "value": "Igbo Red Cap"
+      },
+      {
+        "trait_type": "ACROSS THE FACE",
+        "value": "Cubic"
+      }
+    ],
+    "async-attributes": {
+      "prefixHash": "ac89c9bf5f387226157949bdfefd0abc1dfb2145400d0512359e9d733d7f27ac",
+      "txHash": "0x59b5839a14558c1a565bf9259d13c658d38121b94a4d26e524b9f7d134bac71a",
+      "signatures": [
+        {
+          "message": "I, Osinachi have issued an Async Art Blueprint \"Across the Face\" on contract address 0xc143bbfcdbdbed6d454803804752a064a622c1f3 with an edition count of 1000.",
+          "signature": "0x8d49bce4427a3ef662614f0a23ccb12f4137c9d3bb8193de7cd6c1b498271ad40c4f4d37271cbef3cf25f583d81eed91abcb6b50dc94e5f20df5a0d51af9e2061c",
+          "address": "0x6f1ac601a10f4d41cf1194b02df57f9aa003b362",
+          "version": 2
+        }
+      ]
+    },
+    "image": "ipfs://QmYncsvL4ChwcmtXJpmxbWYCEt32q6DGQDcbqBtzhVT1B8"
+  }
+}

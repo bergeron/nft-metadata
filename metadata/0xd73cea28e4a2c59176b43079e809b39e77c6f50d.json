@@ -1,0 +1,51 @@
+{
+  "address": "0xd73cea28e4a2c59176b43079e809b39e77c6f50d",
+  "type": "ERC721",
+  "name": "Imperial Panda",
+  "tokenCount": "4",
+  "uri": "ipfs://QmZj85383N7QrLkV2StGL2ixhqzDXJgM1oqx9HrAwJQzAa/1.json",
+  "metadata": {
+    "name": "Imperial #1",
+    "description": "Imperial Pandas ",
+    "image": "ipfs://Qmd11vU4NZLzWwrod1bqkXihRFVuzMPMhwhhuqAeeQt9BQ/1.png",
+    "external_url": "1.png",
+    "dna": "830512f310a4b89109bc1279af765387d93d1beb",
+    "edition": 1,
+    "date": 1657003531,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ImperialPanda_Traits_BACKGROUNDS_CIRCLE_I.png"
+      },
+      {
+        "trait_type": "Base",
+        "value": "ImperialPanda_Traits_BASE.png"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "ImperialPanda_Traits_SHIRT_SOCCER_D.png"
+      },
+      {
+        "trait_type": "Watch",
+        "value": "ImperialPanda_Traits_WATCH_SHIRT_SMART_B.png"
+      },
+      {
+        "trait_type": "Expressions",
+        "value": "ImperialPanda_Traits_EXPRESSIONS_SNARK.png"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "ImperialPanda_Traits_EAR_PIERCING_E.png"
+      },
+      {
+        "trait_type": "Face",
+        "value": "ImperialPanda_Traits_FACE_SUN-GL_E.png"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "ImperialPanda_Traits_HEAD_COWBOY_A.png"
+      }
+    ],
+    "compiler": "generate-nft.online"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "0xafabb745e1499d5ce768012b7b0e1b5d12c70e2b",
+  "type": "ERC721",
+  "name": "NFT Test - QolDZxQ2Lb",
+  "tokenCount": "3",
+  "uri": "ipfs://bafybeigugrprryo3d56llmesa3aufco6dlz5rvvtcnwg37dlzal7k6psu4/1.json",
+  "metadata": {
+    "name": "real card#1",
+    "description": "Test for playbread NFT",
+    "external_url": "https://www.playbread.com/",
+    "image": "ipfs://QmV9cuNKgiQpmMs4b4phKfirYive4W9Ts5c1Bi6THkd6oE/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "NFT_Bg_12"
+      },
+      {
+        "trait_type": "Card",
+        "value": "NFT_Card"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "NFT_Eye17"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NFT_Mouth16"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "NFT_Shoes7"
+      },
+      {
+        "trait_type": "Head",
+        "value": "NFT_Head21"
+      },
+      {
+        "trait_type": "LeftHand_A",
+        "value": "NFT_LeftHand17"
+      },
+      {
+        "trait_type": "RightHand_A",
+        "value": "NFT_RightHand3"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

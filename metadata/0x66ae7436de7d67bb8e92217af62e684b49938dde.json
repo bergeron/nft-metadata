@@ -1,0 +1,37 @@
+{
+  "address": "0x66ae7436de7d67bb8e92217af62e684b49938dde",
+  "type": "ERC721",
+  "name": "Dukato Bears",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeiglaakzcu2kywz5ghngshvguqyazj3shdklvtoxhmoxilcq6qkr5u/1",
+  "metadata": {
+    "name": "{Dukato Bear} #1",
+    "image": "ipfs://bafybeiceshq4clnwio6ls6sbmfk7xvnzaby477t6ubc52szq6cadcbpdli/1.png",
+    "description": "⚡️ Powered by NFT-Inator",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Accessories",
+        "value": "scarf"
+      },
+      {
+        "trait_type": "Body",
+        "value": "collarless sweater"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face 1"
+      },
+      {
+        "trait_type": "Background",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Dukato",
+        "value": "Dukato"
+      }
+    ],
+    "seller_fee_basis_points": 0,
+    "compiler": "nft-inator.com"
+  }
+}

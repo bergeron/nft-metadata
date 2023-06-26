@@ -1,0 +1,49 @@
+{
+  "address": "0xb2a2eaab4a2fbebf732b50f8d6b47912ca547c7d",
+  "type": "ERC721",
+  "name": "Univerxe Earthland",
+  "tokenCount": "113",
+  "uri": "ipfs://QmRhWzGRQxgeptmRtuPiL9qNuCyWApz9iocH1qkPqpcVJA/1",
+  "metadata": {
+    "name": "Univerxe Earthland #1",
+    "description": "Univerxe Earthland #1 is a fragment of the first 10,000 NFTs on sale prior to The Univerxe Game release.",
+    "image": "ipfs://QmUhiYiijgcEaHN9pHw8bYt3iXujmt9zgCDSsKyU52Ppaw/1.png",
+    "external_url": "https://univerxe.io/",
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "value": "Earth",
+        "trait_type": "Planet"
+      },
+      {
+        "value": "Rare",
+        "trait_type": "Size"
+      },
+      {
+        "trait_type": "Sector",
+        "value": "Sector 2"
+      },
+      {
+        "value": "Forest",
+        "trait_type": "Biome"
+      },
+      {
+        "trait_type": "Resources",
+        "value": "Natural"
+      },
+      {
+        "trait_type": "Earthland Location",
+        "value": "144"
+      }
+    ],
+    "UearthComboId": "Land-Earth_Size-Rare_Sector-Sector2_Biome-Forest_Resources-Natural_Location-144"
+  }
+}

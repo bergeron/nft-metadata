@@ -1,0 +1,99 @@
+{
+  "address": "0xdf1375bead027f72da3e6dd34c711a14ed82095c",
+  "type": "ERC721",
+  "name": "Verisart x SuperRare V2",
+  "tokenCount": "7",
+  "uri": "ipfs://QmcLeSFUVi2yC5q9MPu9fMj4ekgGFCKBwhvUGxQCcLDDFQ",
+  "metadata": {
+    "name": "Giraffe",
+    "description": "Painted animation. This work is part of a series of six inaugural NFTs by Jacco Olivier and showcases his signature style - intimate animated films which fuse painting and filmmaking. \n\nA portion of the sale will be donated to WWF.\n\nVerisart Certified: https://verisart.com/works/d0e28e17-1c9b-47a9-8ca7-6ae4ecf67b40",
+    "image": "ipfs://Qmbhu4ZFA6LhL5tw9HbMwA8JRFmLUN92NyaYYLS5Rscz3s",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 1200,
+          "height": 1200,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 8
+        },
+        "frameRate": 30,
+        "tags": [
+          "painting",
+          "giraffe",
+          "wildlife",
+          "animation",
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xf047a74a5d60a8570ac6064f19eab6ac0c405313",
+            "bps": 1000
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": null
+      }
+    },
+    "animation_url": "ipfs://QmVvZfoY8cuGoo63Pf4G36q5enRDpFLhyD3kn7fUxgBX5Y",
+    "external_url": "https://verisart.com/works/d0e28e17-1c9b-47a9-8ca7-6ae4ecf67b40",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "painting",
+        "display_type": null
+      },
+      {
+        "trait_type": "Tag",
+        "value": "giraffe",
+        "display_type": null
+      },
+      {
+        "trait_type": "Tag",
+        "value": "wildlife",
+        "display_type": null
+      },
+      {
+        "trait_type": "Tag",
+        "value": "animation",
+        "display_type": null
+      },
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Jacco Olivier",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "Giraffe",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "1200x1200 px",
+        "display_type": null
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:08",
+        "display_type": null
+      }
+    ]
+  }
+}

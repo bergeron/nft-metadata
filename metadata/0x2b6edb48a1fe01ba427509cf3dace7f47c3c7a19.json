@@ -1,0 +1,25 @@
+{
+  "address": "0x2b6edb48a1fe01ba427509cf3dace7f47c3c7a19",
+  "type": "ERC721",
+  "name": "Secret by Emanuele Ferrari",
+  "tokenCount": "1369",
+  "uri": "ipfs://QmVnoZRgeV1xoa2anY3MwpApWGs9fuZBw2XhS6D9QPLe4h/1.json",
+  "metadata": {
+    "name": "Secret #1",
+    "description": "Artist: Emanuele Ferrari\n\nOriginal Dimensions: 3000x4500",
+    "image": "ipfs://QmPTE7G6zF51bAFzDGuDEwc9ScCdk12iK9hwqjH1gRk98X/1.jpg",
+    "edition": 1,
+    "date": 1659021900,
+    "artist": "Emanuele Ferrari",
+    "attributes": [
+      {
+        "trait_type": "secret",
+        "value": "Banana"
+      },
+      {
+        "trait_type": "secret id",
+        "value": "1"
+      }
+    ]
+  }
+}

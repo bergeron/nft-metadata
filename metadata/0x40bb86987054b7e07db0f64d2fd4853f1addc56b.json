@@ -1,0 +1,27 @@
+{
+  "address": "0x40bb86987054b7e07db0f64d2fd4853f1addc56b",
+  "type": "ERC1155",
+  "name": "Kosetto Wearables",
+  "tokenCount": "3",
+  "uri": "https://prod-api.kosetto.com/wearables/1",
+  "metadata": {
+    "description": "A wearable for your Kosetto. Equip it in the app!",
+    "external_url": "https://twitter.com/KosettoIsKawaii",
+    "image": "https://kosetto-dev.s3.amazonaws.com/wearables-nft/hoodie_up.png",
+    "name": "#1 Classic Hoodie",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "TOP"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Launch Airdrops"
+      },
+      {
+        "trait_type": "Gacha Rarity",
+        "value": "Limited Edition"
+      }
+    ]
+  }
+}

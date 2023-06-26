@@ -1,0 +1,34 @@
+{
+  "address": "0x8fad0e0813d549f72db329e3b34649ddc76acdda",
+  "type": "ERC721",
+  "name": "FF",
+  "tokenCount": "2",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=8vhmhlGc1v17uSoB7SGr",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1566997923261?alt=media&token=9faaf0b5-5696-4696-b3bb-5c24a863969e",
+    "isForSale": true,
+    "minter": "0xFB71488a4be438AE9656af369f1262A08a7ca7a6",
+    "price": "0",
+    "name": "Dog",
+    "contractAddress": "0x8FAd0E0813D549f72db329e3b34649DdC76acDdA",
+    "description": "Woff",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "value": "Dog",
+        "trait_type": "item"
+      },
+      {
+        "value": 2,
+        "trait_type": "level"
+      },
+      {
+        "display_type": "number",
+        "value": 1,
+        "trait_type": "generation"
+      }
+    ],
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x8FAd0E0813D549f72db329e3b34649DdC76acDdA/8vhmhlGc1v17uSoB7SGr"
+  }
+}

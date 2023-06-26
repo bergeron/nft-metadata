@@ -1,0 +1,32 @@
+{
+  "address": "0xe58e68bb192f91a7348e0f93882033df8b3ce4c4",
+  "type": "ERC1155",
+  "name": "Foo1155",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/xbXvCyv_PBj1vgeffwcynT7U4JjLod8l9A8wNJXUlrI",
+  "metadata": {
+    "name": "foo title",
+    "created_by": "Degen",
+    "external_url": "https://www.foo.com/",
+    "description": "foo description",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Degen"
+      },
+      {
+        "trait_type": "seedcode",
+        "value": "E01"
+      }
+    ],
+    "image_details": {
+      "bytes": 361,
+      "format": "PNG",
+      "sha256": "1285d3a5d763b9af2cbf70bcc3a570b8ef7d29d36fce78cd7d1823579b073c7f",
+      "width": 400,
+      "height": 300
+    },
+    "image": "https://arweave.net/Lv8N3wi-5fpn8s18JBnJVUoCWKFgfk-H7BvCgNxjRVA",
+    "image_url": "https://arweave.net/Lv8N3wi-5fpn8s18JBnJVUoCWKFgfk-H7BvCgNxjRVA"
+  }
+}

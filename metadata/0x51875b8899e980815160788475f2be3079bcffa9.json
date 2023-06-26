@@ -1,0 +1,36 @@
+{
+  "address": "0x51875b8899e980815160788475f2be3079bcffa9",
+  "type": "ERC721",
+  "name": "ZothLP",
+  "tokenCount": "19",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmZYPhDWWjK3QDxiZJuRwhyAaFYhS1mx8x5uNZfhRnPLEh",
+  "metadata": {
+    "name": "ZOTH-NFT",
+    "description": "This yield generating NFT represents an LP's deposit into the Zoth Real world assets pool.",
+    "animation_url": "https://gateway.pinata.cloud/ipfs/QmdLotq3UfhAjyGPJhEGvDMvYYeWNEc3TZuhKPG5hnVMCg",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdLotq3UfhAjyGPJhEGvDMvYYeWNEc3TZuhKPG5hnVMCg",
+    "Loan_Amount": "1250",
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "Loan_Start_Date",
+        "value": 1546360800
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Loan_End_Date",
+        "value": 1546369800
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Loan_Amount",
+        "value": 2340
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Pool_id",
+        "value": 121
+      }
+    ]
+  }
+}

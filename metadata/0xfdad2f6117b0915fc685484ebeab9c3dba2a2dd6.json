@@ -1,0 +1,102 @@
+{
+  "address": "0xfdad2f6117b0915fc685484ebeab9c3dba2a2dd6",
+  "type": "ERC721",
+  "name": "Test - OCA",
+  "tokenCount": "4",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=zr7bqNmEEjajHcowACYN",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1587582931140?alt=media&token=9828c707-6157-4dd8-be11-4612abd67993",
+    "forSale": true,
+    "contractAddress": "0xfdad2f6117b0915fc685484ebeab9c3dba2a2dd6",
+    "description": "Lets test this",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1587582937,
+      "_nanoseconds": 437000000
+    },
+    "price": "2",
+    "name": "Test 123",
+    "fiatPrice": "$365.34",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Mintbase"
+      },
+      {
+        "trait_type": "Discount",
+        "value": "10 %"
+      },
+      {
+        "trait_type": "Discoun",
+        "value": ""
+      },
+      {
+        "trait_type": "Discou",
+        "value": ""
+      },
+      {
+        "trait_type": "Disco",
+        "value": ""
+      },
+      {
+        "trait_type": "Disc",
+        "value": ""
+      },
+      {
+        "trait_type": "Dis",
+        "value": ""
+      },
+      {
+        "trait_type": "Di",
+        "value": ""
+      },
+      {
+        "trait_type": "D",
+        "value": ""
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "Locatio",
+        "value": ""
+      },
+      {
+        "trait_type": "Locati",
+        "value": ""
+      },
+      {
+        "trait_type": "Locat",
+        "value": ""
+      },
+      {
+        "trait_type": "Loca",
+        "value": ""
+      },
+      {
+        "trait_type": "Loc",
+        "value": ""
+      },
+      {
+        "trait_type": "Lo",
+        "value": ""
+      },
+      {
+        "trait_type": "L",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "www.minbase.io"
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "youtube_url": "https://www.youtube.com/watch?v=j-f9bs86t_U",
+    "external_url": "https://mintbase.io/my-market/0xfdad2f6117b0915fc685484ebeab9c3dba2a2dd6",
+    "type": "ERC721"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0xc444beea405fe2340051b5d98b4c6174db8b37d1",
+  "type": "ERC721",
+  "name": "Explosion NFT",
+  "tokenCount": "475",
+  "uri": "ipfs://bafybeiez5o2adn27wrifghhifcjnio7obfzo3prng4i2tg4otko5h3w7ua/1",
+  "metadata": {
+    "description": "Generative art with 4 types shape and colorful explosion particle.",
+    "image": "ipfs://QmXP1XTWKc69P7GsM5dzDP4KwZ3oWEUKetas5fmccE8toJ/1.png",
+    "name": "Explosion #1",
+    "attributes": [
+      {
+        "trait_type": "Sample",
+        "display_type": "number",
+        "value": 547
+      },
+      {
+        "trait_type": "Shape",
+        "value": "triangle"
+      },
+      {
+        "trait_type": "Alpha",
+        "display_type": "number",
+        "value": "10.1"
+      },
+      {
+        "trait_type": "Points",
+        "display_type": "number",
+        "value": "7.5"
+      },
+      {
+        "trait_type": "diffusion",
+        "display_type": "number",
+        "value": 255
+      }
+    ]
+  }
+}

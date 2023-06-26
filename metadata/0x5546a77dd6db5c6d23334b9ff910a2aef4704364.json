@@ -1,0 +1,29 @@
+{
+  "address": "0x5546a77dd6db5c6d23334b9ff910a2aef4704364",
+  "type": "ERC721",
+  "name": "The Mercurian Project - Ancient Devices",
+  "tokenCount": "129",
+  "uri": "https://api.mercurianproject.xyz/devices/1",
+  "metadata": {
+    "name": "Ancient Device #1",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbGtBss5C4d8tusSxgEDVWJC27sNaWJfxkrZBXd2taiYA",
+    "external_url": "https://www.mercurianproject.xyz",
+    "tokenId": "1",
+    "imageHash": "QmbGtBss5C4d8tusSxgEDVWJC27sNaWJfxkrZBXd2taiYA",
+    "description": "Ancient Technology found on Mercury. Not much else is known at this point. Perhaps this will be updated when more information is discovered...",
+    "attributes": [
+      {
+        "trait_type": "Planet",
+        "value": "Mercury"
+      },
+      {
+        "trait_type": "Level",
+        "value": "2"
+      },
+      {
+        "trait_type": "$MAG in Device",
+        "value": "613.2679"
+      }
+    ]
+  }
+}

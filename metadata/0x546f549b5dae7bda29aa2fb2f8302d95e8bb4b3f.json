@@ -1,0 +1,133 @@
+{
+  "address": "0x546f549b5dae7bda29aa2fb2f8302d95e8bb4b3f",
+  "type": "ERC721",
+  "name": "DRAUP X NICOLAS SASSOON: SEEN ON SCREEN",
+  "tokenCount": "152",
+  "uri": "https://www.draup.xyz/api/collection_00/1",
+  "metadata": {
+    "token_id": 1,
+    "garment_type": "COAT",
+    "name": "COAT #001",
+    "external_url": "https://www.draup.xyz/tokens/00/1",
+    "description": "DRAUP COLLECTION #00, SEEN ON SCREEN, is a collaboration with Nicolas Sassoon. View item in 3D [here](https://www.draup.xyz/tokens/00/1).",
+    "image": "https://static.draup.xyz/static-files/collection_00/live/001/item_001_preview_front_med.png",
+    "animation_url": "https://static.draup.xyz/static-files/collection_00/live/001/item_001_preview_front.png",
+    "model": "https://static.draup.xyz/static-files/collection_00/live/001/item_001.gltf",
+    "images": {
+      "front": "https://static.draup.xyz/static-files/collection_00/live/001/item_001_preview_front.png",
+      "front_medium": "https://static.draup.xyz/static-files/collection_00/live/001/item_001_preview_front_med.png",
+      "front_small": "https://static.draup.xyz/static-files/collection_00/live/001/item_001_preview_front_small.png",
+      "back": "https://static.draup.xyz/static-files/collection_00/live/001/item_001_preview_back.png",
+      "back_medium": "https://static.draup.xyz/static-files/collection_00/live/001/item_001_preview_back_med.png",
+      "back_small": "https://static.draup.xyz/static-files/collection_00/live/001/item_001_preview_back_small.png",
+      "quarter": "https://static.draup.xyz/static-files/collection_00/live/001/item_001_preview_34s.png",
+      "quarter_medium": "https://static.draup.xyz/static-files/collection_00/live/001/item_001_preview_34s_med.png",
+      "quarter_small": "https://static.draup.xyz/static-files/collection_00/live/001/item_001_preview_34s_small.png",
+      "inner_layer": "https://static.draup.xyz/static-files/collection_00/live/001/item_001_bg.png",
+      "outer_layer": "https://static.draup.xyz/static-files/collection_00/live/001/item_001_fg.png"
+    },
+    "asset_files": {
+      "gltf": "https://static.draup.xyz/static-files/collection_00/live/001/item_001.gltf",
+      "bin": "https://static.draup.xyz/static-files/collection_00/live/001/item_001_data.bin",
+      "params": "https://static.draup.xyz/static-files/collection_00/live/001/item_001_generative_params.json",
+      "metadata": "https://www.draup.xyz/api/collection_00/1"
+    },
+    "seed": "f3f7189384d294f5fce7544383572d3b",
+    "attributes": [
+      {
+        "trait_type": "Garment type",
+        "value": "COAT"
+      },
+      {
+        "trait_type": "Moiré layer 1",
+        "value": "Rectangle"
+      },
+      {
+        "trait_type": "Moiré layer 2",
+        "value": "Thin"
+      },
+      {
+        "trait_type": "Scale",
+        "value": "Jumbo"
+      },
+      {
+        "trait_type": "Stretch",
+        "value": "Stiff"
+      },
+      {
+        "trait_type": "Rotation",
+        "value": "Straight"
+      },
+      {
+        "trait_type": "Color setting",
+        "value": "Greyscale"
+      },
+      {
+        "trait_type": "Hue shift",
+        "value": 0
+      },
+      {
+        "trait_type": "Material",
+        "value": "Vinyl"
+      },
+      {
+        "trait_type": "Stitching",
+        "value": "DRAUP Orange"
+      },
+      {
+        "trait_type": "Moiré coverage",
+        "value": "More"
+      },
+      {
+        "trait_type": "Layer separation",
+        "value": 2
+      },
+      {
+        "trait_type": "Panel density",
+        "value": 11
+      },
+      {
+        "trait_type": "Jitter family",
+        "value": "Television"
+      },
+      {
+        "trait_type": "Jitter scale",
+        "value": "Splintered"
+      }
+    ],
+    "generative_params": {
+      "item_type": 0,
+      "category_palette": "Greyscale",
+      "category_negative_material": "Vinyl",
+      "inner_source": "BACK_6.png",
+      "outer_source": "FRONT_2.png",
+      "moire_tiling": 26.442,
+      "scale_distort_inner": 2.684,
+      "rotation_inner": 0,
+      "hue_shift": 0,
+      "saturation_layer_2": 1,
+      "level_layer_2": 0,
+      "mix_switch": 1,
+      "emission_weight": 3,
+      "saturation_both": 0,
+      "negative_metallic": 0,
+      "negative_spec2": 0.15,
+      "color_stitch": "#f21900",
+      "color_negative": "#030303",
+      "color_lining": "#080808",
+      "coverage_amount": 0.696,
+      "coverage_seed": 0.061,
+      "outer_layer_distance": 0.012,
+      "scale": 0.5,
+      "center_x": 1.816,
+      "divs_x": 5,
+      "divs_y": 2,
+      "divs_z": 4,
+      "rotation_x_T0": 250.059,
+      "rotation_y_T0": 171.169,
+      "rotation_z_T0": 156.973,
+      "point_jitter_seed": 2.079,
+      "point_jitter_scale": 2.97
+    }
+  }
+}

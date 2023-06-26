@@ -1,0 +1,76 @@
+{
+  "address": "0x92534a85d192da496049d88a64532d88a4c6c53a",
+  "type": "ERC1155",
+  "name": "Terry Gilliams Christmas",
+  "tokenCount": "5",
+  "uri": "https://monegraph.mypinata.cloud/ipfs/QmeUPviPgDVBUy2JgTFM1Hnpj71gx1J1YVsK7FY6Hkrv2e",
+  "metadata": {
+    "name": "\"Let's Put the Christ Back Into Christmas\"",
+    "description": "Terry Gilliam's Christmas (Multi)",
+    "external_url": "",
+    "animation_url": "",
+    "image": "https://monegraph.mypinata.cloud/ipfs/QmZmhcdtG3U4anBX9M1AXLGD6kXzHr37iz9YnQjShNrVAE/Christ Xmas_Multi.jpg",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Terry Gilliam"
+      },
+      {
+        "trait_type": "Rights Agreement",
+        "value": "https://ipfs.io/ipfs/QmNmZHZTRsWpFVwmR5nhtDEBLeGWgszr8aChRGid8Ma8HE"
+      },
+      {
+        "trait_type": "Archive Link",
+        "value": "Not applicable"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "\"Let's Put the Christ Back Into Christmas\""
+      },
+      "description": {
+        "type": "string",
+        "description": "Terry Gilliam's Christmas (Multi)"
+      },
+      "image": {
+        "type": "string",
+        "description": "https://monegraph.mypinata.cloud/ipfs/QmZmhcdtG3U4anBX9M1AXLGD6kXzHr37iz9YnQjShNrVAE/Christ Xmas_Multi.jpg"
+      },
+      "rights_agreement": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/QmNmZHZTRsWpFVwmR5nhtDEBLeGWgszr8aChRGid8Ma8HE"
+      },
+      "rights_agreement_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "rights_agreement_signature": {
+        "type": "string",
+        "description": "bd27fded7c6b6293c089ad895481d7ce9e471d4114ab5e1540fc6f611a5af7c7"
+      },
+      "archive_link": {
+        "type": "string"
+      },
+      "archive_link_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "archive_link_signature": {
+        "type": "string"
+      },
+      "rights_agreement_values": {
+        "$ARTIST": "Terry Gilliam",
+        "$URL": "https://monegraph.mypinata.cloud/ipfs/QmZmhcdtG3U4anBX9M1AXLGD6kXzHr37iz9YnQjShNrVAE/Christ Xmas_Multi.jpg",
+        "$TITLE": "\"Let's Put the Christ Back Into Christmas\"",
+        "$YEAR": "2021",
+        "$ROYALTYRATE": "10",
+        "$ADDRESS": "0x42802284ae2c598c9f698cd2D9f0Bde2719F44b7",
+        "$EDITIONS": "25",
+        "$TOKEN": "eth",
+        "$LICENSE": "CA.05.19.21., Patent No. US 10,380,702",
+        "$CONTRACTSHAHASH": "bd27fded7c6b6293c089ad895481d7ce9e471d4114ab5e1540fc6f611a5af7c7"
+      }
+    }
+  }
+}

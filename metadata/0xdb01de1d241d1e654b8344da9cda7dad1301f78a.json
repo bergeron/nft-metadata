@@ -1,0 +1,34 @@
+{
+  "address": "0xdb01de1d241d1e654b8344da9cda7dad1301f78a",
+  "type": "ERC721",
+  "name": "Heads Up Euchre",
+  "tokenCount": "17",
+  "uri": "ipfs://QmTEAFchgwfe8GW2QBD4AYYUjfTSZXSnYGskNeMqBTfAb8/1.json",
+  "metadata": {
+    "name": "Heads Up Euchre #1",
+    "description": "Heads Up Euchre is a collection of NFT playing cards that offer members access to an online game and private community.",
+    "image": "ipfs://QmS51o7ktB1rWCs34AxM5GM7er43yYV2QFbeC99ajDuyTM/1.png",
+    "dna": "0b0fe635c61f0f7e686023fa590f782ee5fc024b",
+    "edition": 1,
+    "date": 1637971392918,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gamblers Den"
+      },
+      {
+        "trait_type": "Card",
+        "value": "Sandstone"
+      },
+      {
+        "trait_type": "Value",
+        "value": "Queen"
+      },
+      {
+        "trait_type": "Suit",
+        "value": "Hearts"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

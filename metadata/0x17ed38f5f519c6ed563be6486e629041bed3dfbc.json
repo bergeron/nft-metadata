@@ -1,0 +1,42 @@
+{
+  "address": "0x17ed38f5f519c6ed563be6486e629041bed3dfbc",
+  "type": "ERC721",
+  "name": "ChronoForge",
+  "tokenCount": "7500",
+  "uri": "https://api.pxquest.com/metas/tokens/1/1",
+  "metadata": {
+    "name": "Legendary Adventurer #1",
+    "description": "Adventurers are playable characters in the ChronoForge action RPG. The Genesis Collection includes 10 limited edition races and 12 combat classes. Learn more at chronoforge.gg",
+    "external_url": "https://chronoforge.gg/adventurer/1",
+    "image": "https://d4f81xqnh94on.cloudfront.net/tokenimages/adventurers/1/1.gif",
+    "background_color": "FFFFFF",
+    "attributes": [
+      {
+        "trait_type": "Race",
+        "value": "Canine"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Slayer"
+      },
+      {
+        "trait_type": "Level",
+        "value": 1
+      },
+      {
+        "trait_type": "Generation",
+        "display_type": "number",
+        "value": 1
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Cunning"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Drunkard"
+      }
+    ],
+    "image_hash": "65ae310553278a6ba944845ab800f3b4"
+  }
+}

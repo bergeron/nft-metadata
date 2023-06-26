@@ -1,0 +1,43 @@
+{
+  "address": "0x724739ceb3945b8ca946cc692f6ee58096f1634b",
+  "type": "ERC1155",
+  "name": "Eclectic Method : Open Editions",
+  "tokenCount": "5",
+  "uri": "https://arweave.net/YMUcTITgPXXbEVVe2hsWq8UPfZI4wEtC-NbhBSSZ0Tg",
+  "metadata": {
+    "name": "Drink and Drugs",
+    "created_by": "Eclectic Method",
+    "external_url": "https://www.eclecticmethod.net",
+    "description": "Good rehab starts with a remix",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "BPM",
+        "value": 85
+      }
+    ],
+    "animation_details": {
+      "bytes": 73724199,
+      "format": "MP4",
+      "duration": 45,
+      "sha256": "a040ac5a87fa51681462b887f2c36cf9aeed7c7daf4242fe79ec09e6953794a9",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/Ez_gCjnZBgFhzo24yOHMdLO4yYXWI5c8RCrId1yvqDk",
+    "animation_url": "https://arweave.net/Ez_gCjnZBgFhzo24yOHMdLO4yYXWI5c8RCrId1yvqDk",
+    "image_details": {
+      "bytes": 12409541,
+      "format": "GIF",
+      "sha256": "01b1c4d7ac7dcf2bb42fc26bc879efd33cab4010bd14d086f98a6f8c23bb0808",
+      "width": 1080,
+      "height": 1080
+    },
+    "image": "https://arweave.net/we38o_pGJP-nX9c1JQoDtCVHqj1NiEh0b6eloMwtlo4",
+    "image_url": "https://arweave.net/we38o_pGJP-nX9c1JQoDtCVHqj1NiEh0b6eloMwtlo4"
+  }
+}

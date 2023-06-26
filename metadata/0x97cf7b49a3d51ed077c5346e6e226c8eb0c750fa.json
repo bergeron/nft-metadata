@@ -1,0 +1,40 @@
+{
+  "address": "0x97cf7b49a3d51ed077c5346e6e226c8eb0c750fa",
+  "type": "ERC721",
+  "name": "3x724k7",
+  "tokenCount": "70",
+  "uri": "https://arweave.net/LAL8L9InDFVlYTSxMFF_0W9O0JTJDWNDlD6DbP4pklI",
+  "metadata": {
+    "name": "3x724k7",
+    "created_by": "51991",
+    "external_url": "https://twitter.com/51991eth",
+    "description": "x72.sol\n\npragma solidity ^0.8.0;\n\n/// @title: 3x724k7  \n/// @author: manifold.xyz\n\nimport \"./manifold/ERC721Creator.sol\";\n\ncontract x72 is ERC721Creator {  \n    constructor() ERC721Creator(\"3x724k7\", \"x72\") {}  \n}",
+    "attributes": [
+      {
+        "trait_type": "427157",
+        "value": "51991"
+      },
+      {
+        "trait_type": "5123",
+        "value": "512x512"
+      },
+      {
+        "trait_type": "c0102",
+        "value": "0000ff"
+      },
+      {
+        "trait_type": "c0102",
+        "value": "ffffff"
+      }
+    ],
+    "image_details": {
+      "bytes": 41916,
+      "format": "GIF",
+      "sha256": "febd7e4f33de5e5ea8a1eb60caf85a2a6b82d16d01305f6101ebb1e4a4b1778a",
+      "width": 1024,
+      "height": 1024
+    },
+    "image": "https://arweave.net/qsDdN-lc0udJQJXbarQX8IZg9rsORBxWt7SNaS4jOaM",
+    "image_url": "https://arweave.net/qsDdN-lc0udJQJXbarQX8IZg9rsORBxWt7SNaS4jOaM"
+  }
+}

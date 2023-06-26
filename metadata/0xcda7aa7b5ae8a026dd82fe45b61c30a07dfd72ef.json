@@ -1,0 +1,19 @@
+{
+  "address": "0xcda7aa7b5ae8a026dd82fe45b61c30a07dfd72ef",
+  "type": "ERC721",
+  "name": "Future Message",
+  "tokenCount": "1",
+  "uri": "https://worker.future-piggy-bank.workers.dev/metadata/1",
+  "metadata": {
+    "name": "Future Piggy Bank #1",
+    "description": "Merry Christmas! Hope you can buy something like an iPhone with this money at this time of year",
+    "attributes": {
+      "expire_time": "2023.12.24",
+      "amount": "0.1",
+      "token_address": "0x0000000000000000000000000000000000000000",
+      "token_name": "ETH"
+    },
+    "background_color": "#5b07ff",
+    "image": "https://worker.future-piggy-bank.workers.dev/image/1"
+  }
+}

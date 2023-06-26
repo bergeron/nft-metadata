@@ -1,0 +1,35 @@
+{
+  "address": "0x746d34abaf0e40b010adbb53502614d42222dfa7",
+  "type": "ERC721",
+  "name": "Super Comic Cats V3",
+  "tokenCount": "2",
+  "uri": "ipfs://QmVhu5QmC7MZQhWT5ckE8XbrQ78mgR7Jr3DkqzaFR71mha/1.json",
+  "metadata": {
+    "dna": "3141d38f8a5f6c64e37661ae1d288a308960ac662091b219d482cd3a735ca3f8",
+    "name": "#1",
+    "description": "10,000 SUPER COMIC CATS",
+    "image": "ipfs://QmbS3woPDgK8nKeu5UpSd3g32NcXn219gwkRBWSJgHPdgM/1.png",
+    "imageHash": "158c39cbe8e26a26c684e377b7efc44bb042869337417e74646984ea8c3cca4a",
+    "edition": 1,
+    "date": 1644544571183,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUNDS",
+        "value": "Golden Era"
+      },
+      {
+        "trait_type": "SKIN",
+        "value": "Charlie"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "Multi Color"
+      },
+      {
+        "trait_type": "ACCESSORIES",
+        "value": "Soda Pop"
+      }
+    ],
+    "compiler": "COMPILED WITH LOVE BY SUPER COMIC CATS"
+  }
+}

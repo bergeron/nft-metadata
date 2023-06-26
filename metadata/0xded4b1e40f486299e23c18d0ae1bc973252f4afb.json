@@ -1,0 +1,40 @@
+{
+  "address": "0xded4b1e40f486299e23c18d0ae1bc973252f4afb",
+  "type": "ERC721",
+  "name": "Remarkable Force Jockey Club - Omnihorse",
+  "tokenCount": "2",
+  "uri": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/nftjson/0xdEd4B1e40F486299e23c18d0ae1Bc973252F4afB/1.json",
+  "metadata": {
+    "name": "Remarkable Force Jockey Club #1",
+    "description": "Remarkable Force Jockey Club membership NFTs",
+    "animation_url": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/Remarkable Force/1.mp4",
+    "image": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/Remarkable Force/1.gif",
+    "external_link": "https://www.omnihorse.io/",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0xfa93360A5bf0B9e012B771577Db71B85792ab4e9",
+    "edition": 1,
+    "date": 1663612984525,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Frame Background",
+        "value": "Pink Flowers"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "Pink Cyan"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Pink Whip"
+      },
+      {
+        "trait_type": "Level",
+        "value": "Lv1"
+      }
+    ]
+  }
+}

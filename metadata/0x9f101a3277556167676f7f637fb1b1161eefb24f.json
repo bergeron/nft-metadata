@@ -1,0 +1,42 @@
+{
+  "address": "0x9f101a3277556167676f7f637fb1b1161eefb24f",
+  "type": "ERC721",
+  "name": "Naypegs NFT",
+  "tokenCount": "357",
+  "uri": "ipfs://bafybeifzuzbcglntxlmxn2biqjgmufuvkw4hou446s6sbxtmkp4k63btre/1.json",
+  "metadata": {
+    "name": "Naypegs #1",
+    "description": "The opposite of Yaypegs",
+    "image": "ipfs://bafybeibdyrnml2i63jdyjaiqthndzdlgwlswfd337lu6zbtfbapwwnosv4/1.png",
+    "dna": "98d513e491e4d683d6a2681ad85abf2f1e789417",
+    "edition": 1,
+    "date": 1672228921324,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GradientBG"
+      },
+      {
+        "trait_type": "BackgroundAcc",
+        "value": "CloudAcc"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Brownish"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "CowCostume"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smirk"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Gun"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

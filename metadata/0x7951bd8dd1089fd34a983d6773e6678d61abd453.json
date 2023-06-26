@@ -1,0 +1,42 @@
+{
+  "address": "0x7951bd8dd1089fd34a983d6773e6678d61abd453",
+  "type": "ERC721",
+  "name": "Rare Tiny Pepe",
+  "tokenCount": "522",
+  "uri": "ipfs://bafybeig5xqyrwppuexugp25g7hru75k5a3easzmeqi6gilc3nusbzz5h4m/1.json",
+  "metadata": {
+    "name": "Rare Tiny Pepe #1",
+    "description": "CC0.",
+    "image": "ipfs://bafybeieesheszsuqltmrxc4kevqsybblhnuj4mzskorb2qvr2ziacsrcie/1.png",
+    "dna": "8a24058e1c0372b73aafe483217c56511cc6abb6",
+    "edition": 1,
+    "date": 1660313309840,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Pepe",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Rekt"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Cap"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "Pepe"
+  }
+}

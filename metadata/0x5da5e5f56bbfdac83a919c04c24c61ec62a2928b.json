@@ -1,0 +1,38 @@
+{
+  "address": "0x5da5e5f56bbfdac83a919c04c24c61ec62a2928b",
+  "type": "ERC721",
+  "name": "Magic Mynt",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeielgrltzrowb2hnc3eo3p3yisxhxrkaey2i2fzcojzgjtst6ifrdm/1.json",
+  "metadata": {
+    "name": "TestFrancis #1",
+    "description": "undefined",
+    "file_url": "ipfs://bafybeifedz5beo44phneemezniheoieolem6cjzefb6futwpzuzwtbgmmi/1.png",
+    "image": "ipfs://bafybeifedz5beo44phneemezniheoieolem6cjzefb6futwpzuzwtbgmmi/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "1"
+      },
+      {
+        "trait_type": "Body",
+        "value": "8"
+      },
+      {
+        "trait_type": "Farts",
+        "value": "1"
+      },
+      {
+        "trait_type": "Back Features",
+        "value": "12"
+      }
+    ],
+    "edition": 1,
+    "custom_fields": {
+      "dna": "dnahere",
+      "edition": 1,
+      "date": 1666087880711,
+      "compiler": "MM Compiler"
+    }
+  }
+}

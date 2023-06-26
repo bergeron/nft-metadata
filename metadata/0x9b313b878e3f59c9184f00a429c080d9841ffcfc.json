@@ -1,0 +1,50 @@
+{
+  "address": "0x9b313b878e3f59c9184f00a429c080d9841ffcfc",
+  "type": "ERC721",
+  "name": "Project %",
+  "tokenCount": "2836",
+  "uri": "https://token.fab.tw/metadata/1",
+  "metadata": {
+    "image": "https://token.fab.tw/thumbnail/1",
+    "external_url": "https://token.fab.tw/artifact/1",
+    "description": "### \r\n### Che-Yu Wu - Island\r\n\r\nProject % is a non-profit generative NFT experiment. Gathering the pioneers of generative artists in Taiwan, each % will represent the public fund of FAB DAO(Formosa Art Bank). We are practicing a new form of social innovation with digital artworks.",
+    "aspect_ratio": 0.5625,
+    "name": "Project% - 0001%",
+    "token_id_str": "0001",
+    "artist_id": 0,
+    "generative_hash": "0xd517f47e043f5e1dfaa6193e459018ca1101b6b9fb8fcd24547863af619c28dc",
+    "minter": "0x83F8D743947101D39C0BF2E27553609BBD71Dc23",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Che-Yu Wu"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "moon"
+      },
+      {
+        "trait_type": "BirdCount",
+        "value": "0"
+      },
+      {
+        "trait_type": "HasRanbow",
+        "value": "false"
+      },
+      {
+        "trait_type": "MountainSpan",
+        "value": "narrow"
+      },
+      {
+        "trait_type": "Theme",
+        "value": "normal"
+      }
+    ],
+    "mountain_data": {
+      "startY": "476.5919443424305",
+      "endY": "381.69256147012527",
+      "fullHeight": "1920",
+      "featureValue": "0"
+    }
+  }
+}

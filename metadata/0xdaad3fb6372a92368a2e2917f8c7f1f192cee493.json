@@ -1,0 +1,40 @@
+{
+  "address": "0xdaad3fb6372a92368a2e2917f8c7f1f192cee493",
+  "type": "ERC721",
+  "name": "BTCFuture V2",
+  "tokenCount": "6",
+  "uri": "ipfs://bafybeiblggasfg3hliddt6w24asa2ghmahgeil72yxp45bwa25ngmtnjoi/2.json",
+  "metadata": {
+    "name": "BTC Future By Capture SA. 4.78 BTC",
+    "description": "NFT Future on BTC. Value: 4.78 BTC. Automatically redeemable on 'https://capturefutures.vercel.app/'. Backed by BTC Wallet 'https://explorer.btc.com/btc/address/3JSssZCJ3PHEdgNv7hzNE26EEzzvYNjZLy'. Legal guarantee. ",
+    "external_url": "https://capturefutures.vercel.app/",
+    "image": "ipfs://bafybeiewkzo4gjwdcwtbrfa3vjakj25ziv3bkmjwzijwytwzgtij32dgmq/2.png",
+    "attributes": [
+      {
+        "trait_type": "Legal value",
+        "value": "true"
+      },
+      {
+        "trait_type": "Automatically redeemable",
+        "value": "true on website in description"
+      },
+      {
+        "trait_type": "Future BTC value",
+        "value": 4.78
+      },
+      {
+        "trait_type": "Future value",
+        "value": "4.78 BTC"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Initial discount",
+        "value": -50
+      },
+      {
+        "trait_type": "expiring-date",
+        "value": "05/12/2022"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "address": "0xae0b9e0d1e91a12da214a3810b405368468a0907",
+  "type": "ERC721",
+  "name": "BEcryptoVIP NFT Collection",
+  "tokenCount": "4",
+  "uri": "https://becryptovip-beprocessednftstorage-1mh91dofsa7hp.s3.eu-central-1.amazonaws.com/1.json",
+  "metadata": {
+    "description": "BENFT Crab membership allows you to earn passively on the liquidity pool with an allocation slot of $10k",
+    "image": "https://becryptovip-beprocessednftstorage-1mh91dofsa7hp.s3.eu-central-1.amazonaws.com/1.png",
+    "name": "BENFT Crab #1",
+    "membershipTypeNFTId": "1",
+    "attributes": [
+      {
+        "trait_type": "Membership",
+        "value": "crab"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Mint date",
+        "value": 1669874531
+      }
+    ]
+  }
+}

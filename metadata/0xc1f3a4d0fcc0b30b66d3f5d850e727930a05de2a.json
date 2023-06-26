@@ -1,0 +1,28 @@
+{
+  "address": "0xc1f3a4d0fcc0b30b66d3f5d850e727930a05de2a",
+  "type": "ERC721",
+  "name": "C1S",
+  "tokenCount": "3",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xc1f3a4d0fcc0b30b66d3f5d850e727930a05de2a/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xC1F3A4D0FcC0B30B66d3f5D850E727930a05DE2A/icon?id=1",
+    "expiration": 1624035184,
+    "tokenId": "1",
+    "owner": "0xdd8e2548da5a992a63ae5520c6bc92c37a2bcc44",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1624035184
+      }
+    ],
+    "userMetadata": {
+      "public": {}
+    },
+    "keyId": "1",
+    "lockAddress": "0xC1F3A4D0FcC0B30B66d3f5D850E727930a05DE2A",
+    "network": 1
+  }
+}

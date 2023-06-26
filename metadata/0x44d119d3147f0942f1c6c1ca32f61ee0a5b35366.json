@@ -1,0 +1,20 @@
+{
+  "address": "0x44d119d3147f0942f1c6c1ca32f61ee0a5b35366",
+  "type": "ERC721",
+  "name": "Deviants Mint Pass NFT - Gold",
+  "tokenCount": "222",
+  "uri": "ipfs://bafybeidjhil5fs77tok3amos3mizholovhda24nl45zjkyvimwir55zlsa/1",
+  "metadata": {
+    "id": 1,
+    "name": "Deviants Gold Mint Pass #1",
+    "description": "Deviants Gold Mint Pass NFT is a reservation system, one Gold Mint Pass NFT is redeemable for three Deviants NFT by burning the Pass.",
+    "image": "ipfs://bafybeibxaviwmkhfaxirvdtomd2kzjenh4up37te6qc6ia3yic5ih6ntmy/Deviant_Pass-Key_Gold_v1.gif",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "HeyMint CSV-to-Metadata Converter (heymint.xyz)"
+  }
+}

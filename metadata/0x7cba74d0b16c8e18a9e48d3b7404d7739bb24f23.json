@@ -1,0 +1,41 @@
+{
+  "address": "0x7cba74d0b16c8e18a9e48d3b7404d7739bb24f23",
+  "type": "ERC721",
+  "name": "FoxFam",
+  "tokenCount": "10000",
+  "uri": "https://api.foxfam.io/fox/1",
+  "metadata": {
+    "animation_url": "https://pxl.foxfam.io/1",
+    "attributes": [
+      {
+        "trait_type": "Species",
+        "value": "Alien"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Vest Sunset"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Three Googly Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Lips Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Burger"
+      }
+    ],
+    "background_color": "5683D1",
+    "description": "Fox Fam are a collection of unique, generative characters designed by Yum Yum Studio.",
+    "image": "https://foxfam.ams3.digitaloceanspaces.com/resizes/2048/1.png",
+    "ipfs_image": "ipfs://QmeYatwwJSNzLGBNVvZQBPScuGPdkYkHCw28xvJDXrTS4X",
+    "name": "FoxFam #1"
+  }
+}

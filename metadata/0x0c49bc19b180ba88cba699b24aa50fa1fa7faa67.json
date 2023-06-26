@@ -1,0 +1,93 @@
+{
+  "address": "0x0c49bc19b180ba88cba699b24aa50fa1fa7faa67",
+  "type": "ERC1155",
+  "name": "FraktalNFTPolkamonOfficialCollection V2 - old",
+  "tokenCount": "2",
+  "uri": "https://meta.polkamon.com/meta?id=1001215976",
+  "metadata": {
+    "address": "0x0c49bc19b180BA88cBa699b24AA50Fa1fa7fAa67",
+    "animation_url": "https://drive.polychainmonsters.com/ipfs/Qmaw9YEMAZaVkBBEF11FuPLGn7H5saK5TsJ7JQGsyzoQd2",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Unisheep"
+      },
+      {
+        "trait_type": "Horn",
+        "value": "Silver Edge"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Grassland"
+      },
+      {
+        "trait_type": "Glitter",
+        "value": "Glitter"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Birthday",
+        "value": 1628233097
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Booster",
+        "value": 405326
+      },
+      {
+        "trait_type": "Rarity Points",
+        "value": 255.0159
+      },
+      {
+        "trait_type": "Origin Chain",
+        "value": "Ethereum"
+      },
+      {
+        "trait_type": "Opening Network",
+        "value": "Ethereum"
+      }
+    ],
+    "background_color": "FFFFFF",
+    "external_url": "https://polkamon.com/polkamon/T08C02H10B01G01",
+    "id": "1001215976",
+    "type": "unisheep",
+    "origin": "GEN1_BOOSTER",
+    "image": "https://drive.polychainmonsters.com/ipfs/QmUT3EYex1mJf6ovpzcXJRLKxgd3c21ZnLw2NcuWRkCSPz",
+    "code": "T08C02H10B01G01",
+    "initialProbabilities": {
+      "horn": 0.2,
+      "color": 0.345,
+      "background": 1,
+      "glitter": 0.01,
+      "type": 0.1847
+    },
+    "name": "Unisheep",
+    "txHash": "0x5157cbf3aa67d5e93fbcca4d4ba8e80c8549fdddb0638486f13579c2986beb94",
+    "minted": true,
+    "bridged": false,
+    "chain": "eth",
+    "chainGroup": "ETHEREUM",
+    "originChain": "eth",
+    "originChainGroup": "ETHEREUM",
+    "nftContract": "polychainmonsters",
+    "opening_network": "Ethereum",
+    "rarity": 255.0159,
+    "rarityCapped": 255.0159,
+    "boosterId": 405326,
+    "gameData": {
+      "version": "v3",
+      "score": 4.666667,
+      "pFactor": 1.669007,
+      "health": 117,
+      "water": 117,
+      "fire": 100,
+      "earth": 217,
+      "wind": 117,
+      "sum": 667
+    }
+  }
+}

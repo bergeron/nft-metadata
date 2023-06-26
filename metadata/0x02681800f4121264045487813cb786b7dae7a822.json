@@ -1,0 +1,38 @@
+{
+  "address": "0x02681800f4121264045487813cb786b7dae7a822",
+  "type": "ERC721",
+  "name": "KaleidoArt1",
+  "tokenCount": "43",
+  "uri": "https://ipfs.kaleido.art/ipfs/QmRzNFKkVeaaFD95BTDoQUcq8wni8vPSbJUp7EWn9wCmcD",
+  "metadata": {
+    "name": "Something Missing? XX II (Artist Proof 1 of 1)",
+    "description": " ‘Something missing? XX II’ is a work which combines reimagined images of the twenty first - fortieth most expensive paintings sold in history, twenty artworks all created by men. The title is both a question and answer, asserting that these creations miss the female chromosome. \n\n The frenzied and distorted reality of images includes digital meditations of ‘1. Twelve Landscape Screens’ by Qi Baishi 2. 'Garçon à la pipe’ by Pablo Picasso, 3. ‘The Scream’ by Edvard Munch 4. ‘Otahi’ by Paul Gaugin 5. ‘Reclining Nude With Blue Cushion’ by Amedeo Modigliani 6. ‘Flag’ by Jasper Johns 7. ‘Nude, Green Leaves and Bust’ by Pablo Picasso 8. ‘Portrait of Joseph Roulin’ by Vincent van Gogh 9. ‘Irises’ by Vincent van Gogh 10. ‘Dora Maar au Chat’ by Pablo Picasso 11. ‘Eight Elvises’ by Andy Warhol 12. ‘Young Girl With a Flower Basket’ by Pablo Picasso 13. ‘Anna’s Light’ by Barnett Newman 14. ‘Silver Car Crash (Double Disaster)’ by Andy Warhol 15. ‘Untitled’ by Jean-Michel Basquiat 16. ‘Meules’ by Claude Monet 17. ‘Portrait de l'artiste sans barbe’ by Vincent van Gogh 18. ‘La Montagne Sainte-Victoire vue du bosquet du Château Noir’ by Paul Cézanne 19. ‘Boy and Dog in a Johnnypump’ by Jean-Michel Basquiat 20. ‘Massacre of the Innocents’ by Peter Paul Rubens. \n\n Whilst these artists are unquestionably talented and the works are important, the viewer is invited to question and consider other realities, one where all art is championed equally not only by one gender or race.  \n\n IPFS Assets: QmWqbYqtqH1EH4CDwsrygRxuHPPRTwcjRhzUhp4AgPVijH ",
+    "image": "https://ipfs.kaleido.art/ipfs/QmWqbYqtqH1EH4CDwsrygRxuHPPRTwcjRhzUhp4AgPVijH/Something_Missing_XX_II_preview.mp4",
+    "properties": {
+      "artist": "Rewind Collective",
+      "artist_link": "https://www.rewindcollective.com/",
+      "provider": "Kaleido",
+      "provider_link": "https://kaleido.art",
+      "assets": "https://ipfs.kaleido.art/ipfs/QmWqbYqtqH1EH4CDwsrygRxuHPPRTwcjRhzUhp4AgPVijH",
+      "art_piece_multihash": "QmSCDTMEd1wWibSfgx3n2BxuMS4YNgyY2XMTQiLrvGA1Zh",
+      "art_piece_preview_multihash": "QmTPDwYov3babeSzLEfWU6r6PKpKSv3VrUibsSzY11x9zn",
+      "edition_multihash": "QmdXGW6ZUDbJqPYMNfMUjRoG4T5Ht4BiM5EP9E4MN9sXux",
+      "edition_preview_multihash": "QmdXGW6ZUDbJqPYMNfMUjRoG4T5Ht4BiM5EP9E4MN9sXux",
+      "edition_number": "1 of 1",
+      "edition_type": "Artist Proof",
+      "token_type": "Digital Art",
+      "secondary_sale_royalties": [
+        {
+          "receiver_name": "Rewind Collective",
+          "address": "0xe6e1f5c4A108626067ac3752977857EF7A338af6",
+          "fee": "4.5%"
+        },
+        {
+          "receiver_name": "Kaleido",
+          "address": "0x633196357FD90d1669f2bE2d160E66FB1573d4FE",
+          "fee": "0.5%"
+        }
+      ]
+    }
+  }
+}

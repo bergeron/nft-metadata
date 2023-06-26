@@ -1,0 +1,42 @@
+{
+  "address": "0x67d4002e35e522b1f62f091da25f9f7f445ec917",
+  "type": "ERC721",
+  "name": "Alienzillion",
+  "tokenCount": "5555",
+  "uri": "ipfs://QmZmLLKmp66huz28WKh6AsDTWVVhQkEuAwsicmFwQFr7mS/1.json",
+  "metadata": {
+    "name": "The Alien Zillion #1",
+    "description": "5555 24x24 pixelated cute aliens. They are among us!",
+    "image": "ipfs://QmNcZuwuWQ96oqM3JTNR8Y3FtfKENC4nBped5aCR7jRBBU/1.png",
+    "dna": "3b0ad089d73fba110bb2deec80a0d0b0cb6e74fa",
+    "edition": 1,
+    "date": 1667687128326,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "blue"
+      },
+      {
+        "trait_type": "body",
+        "value": "orange"
+      },
+      {
+        "trait_type": "outfits",
+        "value": "soldier"
+      },
+      {
+        "trait_type": "face",
+        "value": "bubblegum"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "phantom mask"
+      },
+      {
+        "trait_type": "headwear",
+        "value": "flames"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "address": "0x8f15c4ea6ce3fbfc5f7402c5766fc94202704161",
+  "type": "ERC721",
+  "name": "Byoa V1",
+  "tokenCount": "16",
+  "uri": "ipfs://QmfDzPnd34t3yvsCkLdRBscYqUsuXMLbLcNLjBbRwq8VnG",
+  "metadata": {
+    "version": "v0.1 (alpha)",
+    "name": "Real-Time Price Chart",
+    "description": "A real-time price chart from the Mallows team. This price chart is designed to show many price feeds in a bird's-eye view and is optimized for real-time data and not historical prices. Currently, the price chart shows ETH/USD and BTC/USD and will become highly customizable in future releases.",
+    "image": "ipfs://QmSbG8mXRnFg1QGoLZw7d9Yo4et9j3NSQkxnRb8aUsdt1J",
+    "implementationURIs": {
+      "browser": "ipfs://QmZ8D3zg9Ptc6oczfUqzCEHxPZNbyhBfQyTgEzwLyB217a"
+    },
+    "substrates": [
+      "browser"
+    ]
+  }
+}

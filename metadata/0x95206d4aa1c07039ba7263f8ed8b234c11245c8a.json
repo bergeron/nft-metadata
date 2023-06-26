@@ -1,0 +1,42 @@
+{
+  "address": "0x95206d4aa1c07039ba7263f8ed8b234c11245c8a",
+  "type": "ERC721",
+  "name": "1337 ToadzHouse by ToadzGotchi",
+  "tokenCount": "920",
+  "uri": "ipfs://bafybeifzg7zfkpmk6ct4ca74m3eatlavfb4sqphvqzd5s2rz2huvmhi3pq/1.json",
+  "metadata": {
+    "name": "Toadz House #1",
+    "description": "Take care of your Toad.",
+    "image": "ipfs://bafybeiboezezgydgru3qp3xns6jyb3cuv5ix7fr4vsptzkcnuip6urjezu/1.png",
+    "dna": "e9c9b3d0fa2bf4740cd33e3a02a7c5847f9beb45",
+    "edition": 1,
+    "date": 1670121376806,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light off"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Screen",
+        "value": "Clock"
+      },
+      {
+        "trait_type": "Foot",
+        "value": "Boots"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Question"
+      },
+      {
+        "trait_type": "Button",
+        "value": "Buttons 2"
+      }
+    ],
+    "compiler": "Toadz"
+  }
+}

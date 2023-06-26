@@ -1,0 +1,25 @@
+{
+  "address": "0x9198fb4b74f0085ab060386696fb22f3f14f212d",
+  "type": "ERC1155",
+  "name": "ZETA NFT - old V2",
+  "tokenCount": "2",
+  "uri": "https://zeta-nft-assets.s3.amazonaws.com/tokens/1.json",
+  "metadata": {
+    "description": "This pass grants the holder to Zeta access throughout the 2022/23 season which runs from 16 May 2022 to 16 May 2023.\nZeta is an exclusive NFT Alpha Community for members to discover and secure profitable projects with our Minting Bot, Project Analysis, 24/7 Support & more.\nAll Annual Pass holders will be guaranteed an opportunity to mint a Zeta Annual Pass for the 2023/24 season.\nOnce purchased please activate your pass at https://zeta-nft.io",
+    "external_url": "http://zeta-nft.io/",
+    "image": "https://zeta-nft-assets.s3.amazonaws.com/tokens/Annual+Pass+2022%3A2023.png",
+    "animation_url": "https://zeta-nft-assets.s3.amazonaws.com/tokens/ANNUAL+PASS_2_V2.mp4",
+    "name": "Zeta Annual Pass | 2022/23",
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "Expires",
+        "value": "1684274399"
+      },
+      {
+        "trait_type": "Member Type",
+        "value": "Annual"
+      }
+    ]
+  }
+}

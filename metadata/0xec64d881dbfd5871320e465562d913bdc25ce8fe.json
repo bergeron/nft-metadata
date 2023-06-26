@@ -1,0 +1,41 @@
+{
+  "address": "0xec64d881dbfd5871320e465562d913bdc25ce8fe",
+  "type": "ERC721",
+  "name": "The Chimpsons Official",
+  "tokenCount": "7000",
+  "uri": "ipfs://QmWhE2zBuhnqhkhfiHdfLhzck8khvTTD3uNykcwphXeZfh/1.json",
+  "metadata": {
+    "name": "Chimpson #1",
+    "tokenId": 1,
+    "image": "ipfs://QmXa4XGW27pTcBErTeZBcXZsa4f31Tih4PraDax7dkazd6/1.jpg",
+    "external_url": "https://www.thechimpsons.xyz",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Aqua"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Hawaiian"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Intrigued"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tickled Gold Grill"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Flipped Brim"
+      }
+    ],
+    "description": "The Chimpsons, is a generative art collection of 7000 chimps randomly generated with traits inspired by animals from The Simpsons and other PFP projects.",
+    "external_link": "https://thechimpsons.xyz/"
+  }
+}

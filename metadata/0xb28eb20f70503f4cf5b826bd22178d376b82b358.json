@@ -1,0 +1,37 @@
+{
+  "address": "0xb28eb20f70503f4cf5b826bd22178d376b82b358",
+  "type": "ERC721",
+  "name": "BookZ",
+  "tokenCount": "18",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=xsQmvKPlwFTukgPRxEp9",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1580853869105?alt=media&token=87f2e2ca-190c-499f-9be4-2fecb0045dec",
+    "forSale": true,
+    "contractAddress": "0xb28eb20f70503f4cf5b826bd22178d376b82b358",
+    "description": "Exclusive 1st edition token of Edgar Allan Poe's 'The Raven'",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1580854304,
+      "_nanoseconds": 242000000
+    },
+    "price": "0.01",
+    "name": "The Raven by Edgar Allan Poe",
+    "fiatPrice": "$1.88",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "www.cryptobookz.wordpress.com"
+      }
+    ],
+    "external_url": "https://mintbase.io/my-market/0xb28eb20f70503f4cf5b826bd22178d376b82b358",
+    "type": "ERC721"
+  }
+}

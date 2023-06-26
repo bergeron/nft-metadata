@@ -1,0 +1,37 @@
+{
+  "address": "0xaeab9ecbfae9a0ec5d6035c887d4d115abcae1d0",
+  "type": "ERC721",
+  "name": "Pudgy Penguin Yacht Club",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmSFRNxTzbAedYqafpMTGUGCzWCiWk3NXaQB2EHih9kbf6/1",
+  "metadata": {
+    "name": "Pudgy Penguin Yacht Club #1",
+    "description": "The Yacht Crashed In the Arctic",
+    "image": "ipfs://QmdcWahYEQjEFVNLcHhqAfxoMCGpRDghThANEYwvEfnx6j/1.png",
+    "edition": 1,
+    "date": 1664301469647,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Trippy"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "None"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fisherman's Hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

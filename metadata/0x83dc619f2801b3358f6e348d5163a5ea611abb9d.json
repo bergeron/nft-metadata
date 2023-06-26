@@ -1,0 +1,46 @@
+{
+  "address": "0x83dc619f2801b3358f6e348d5163a5ea611abb9d",
+  "type": "ERC1155",
+  "name": "The Polar Homestead Podcast",
+  "tokenCount": "26",
+  "uri": "https://arweave.net/VuMjkrHbd_zYh78xBNpdvr2TGdCE2Hc2vXi7jheuewI",
+  "metadata": {
+    "name": "The Season One Token",
+    "created_by": "The Polar Homestead Podcast",
+    "external_url": "https://www.p0lar.uk",
+    "description": "Commemorative token for the first season of the podcast.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "The Polar Homestead Podcast"
+      },
+      {
+        "trait_type": "TOKEN",
+        "value": "SEASON ONE"
+      }
+    ],
+    "animation_details": {
+      "bytes": 104500855,
+      "format": "MP4",
+      "duration": 71,
+      "sha256": "8c6785032ebca53c88e69c7b1340b5eb3074b3f7dcbb93d09e7fe290c0a9e144",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/dS6Crwu7dDE-6tbGE81iRtz9q5TrqPzf_JOQy2Auz6Q",
+    "animation_url": "https://arweave.net/dS6Crwu7dDE-6tbGE81iRtz9q5TrqPzf_JOQy2Auz6Q",
+    "image_details": {
+      "bytes": 12553911,
+      "format": "GIF",
+      "sha256": "7f7c18beec74fe1f4e00886d6aa200e2d6cb9a9f4d71e1206a1a6a18fc1a47a6",
+      "width": 480,
+      "height": 480
+    },
+    "image": "https://arweave.net/ymPi48O56GP1nx7gyPIBung3pkmW8QiRoPWg6Vo0XQ8",
+    "image_url": "https://arweave.net/ymPi48O56GP1nx7gyPIBung3pkmW8QiRoPWg6Vo0XQ8"
+  }
+}

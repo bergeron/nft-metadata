@@ -1,0 +1,38 @@
+{
+  "address": "0xf894b43a4a15c8cb06665ae3bab4a8cbd969b92f",
+  "type": "ERC721",
+  "name": "TESTLWNFT",
+  "tokenCount": "3",
+  "uri": "ipfs://QmY7zwzQJETtJV5KdttvzV4WF2JLTBgiz2yKfmawyxHYiE/1.json",
+  "metadata": {
+    "dna": "659e50f43186b14404dcfc1a37fc8bc7a92952e9",
+    "name": "#1",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://QmezePwTBB3PL9EhRa6viyw9sGNjKRQELpRYWQ6fj33tMu/1.png",
+    "edition": 1,
+    "date": 1657028421750,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Blue"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Code 196"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Platinum Grey"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Diamonds"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

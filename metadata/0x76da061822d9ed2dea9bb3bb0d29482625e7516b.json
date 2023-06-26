@@ -1,0 +1,35 @@
+{
+  "address": "0x76da061822d9ed2dea9bb3bb0d29482625e7516b",
+  "type": "ERC721",
+  "name": "Merch of Bored Ape Golf Club",
+  "tokenCount": "2532",
+  "uri": "https://bagc-resource.s3.ap-northeast-2.amazonaws.com/metadata/bagcMerch/1",
+  "metadata": {
+    "image": "https://bagc-resource.s3.ap-northeast-2.amazonaws.com/images/merch/GreenJacket.gif",
+    "name": "Merch of Bored Ape Golf Club 1",
+    "external_url": "https://bagc.altava.com/",
+    "animation_url": "https://bagc-resource.s3.ap-northeast-2.amazonaws.com/images/merch/GreenJacket.mp4",
+    "attributes": [
+      {
+        "trait_type": "Grade",
+        "value": "Green Jacket"
+      },
+      {
+        "trait_type": "Louis Vuitton Keepall Bag",
+        "value": "Customized"
+      },
+      {
+        "trait_type": "Name Tag",
+        "value": "Customized"
+      },
+      {
+        "trait_type": "Bucket Hat",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "Standard"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "address": "0xb0e409b7b0313402a10caa00f53bcb6858552fda",
+  "type": "ERC721",
+  "name": "Hashrunes",
+  "tokenCount": "1000",
+  "uri": "https://api.hashrunes.com/v1/runes/1/1",
+  "metadata": {
+    "name": "[1e] Hashrunes",
+    "image_data": "https://api.hashrunes.com/v1/runes-png/1/1.png",
+    "description": "First Edition Hashrune **#1**, uniquely generated from the name \"**Hashrunes**\" and stored on the blockchain. Minted on [Hashrunes.com](https://www.hashrunes.com).",
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "value": "First Edition"
+      },
+      {
+        "trait_type": "Name Length",
+        "value": 9
+      },
+      {
+        "trait_type": "Theme",
+        "value": "Blocks"
+      },
+      {
+        "trait_type": "Density",
+        "value": 34.86328125,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Hue",
+        "value": 292.3269395640365,
+        "max_value": 360
+      },
+      {
+        "trait_type": "Lightness",
+        "value": 58.825814149686835,
+        "max_value": 100
+      },
+      {
+        "trait_type": "Saturation",
+        "value": 61.788128552989825,
+        "max_value": 100
+      }
+    ]
+  }
+}

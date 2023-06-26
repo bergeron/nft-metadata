@@ -1,0 +1,59 @@
+{
+  "address": "0x0aa00291f122e7980e1b95b125e7a4907eec5f36",
+  "type": "ERC1155",
+  "name": "Aventurine Editions",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/Xrql7hgrFFtqhz-Gq4qi2pjGOyjlYasSes9ZFPvq6Bw",
+  "metadata": {
+    "name": "Connections-Editions",
+    "created_by": "Aventurine",
+    "description": "Editions version of my 1/1 artwork \"Connections\".\n\nUtilizes the same generative algorithm but with a cream background.\n\nAbout \"Connections\":\n\nAs I think back to the late 90s into the early 2000s, I realized one of my favorite things to do in my high school math class when I was bored was plotting random equations on my TI-83 calculator. I would spend so much time trying out different equations and seeing how they looked when plotted on the graph. I was always fascinated by the way the lines and shapes would form on the screen and how each equation produced a unique visual.\n\nFast forward to 2022. After having an amazing conversation with Tyler Hobbs in NYC during NFT NYC over some late-night pizza, he officially inspired me to start learning Generative Art with Processing/p5.js. I never written any code in Java script before and certainly had no training in visual art but having some background in machine learning with python at least gave me a small boost in confidence that I could learn some of the basics a bit quicker.\n\nI still have a lifetime of learning but for my first artwork, I wanted to start by bringing that TI-83 feeling back into my life. It is called \"Connections.” To create the piece, I began by plotting points on the canvas by randomizing equations with 6 variables. Each of the 6 variables had randomized numbers for each output. I set up to have the artwork iterate this 2500 times. Once I had the collection of plots, I began connecting each plot with a line from the last previous plot. I realized that by using the HSB color mode, if I randomized the hue in certain ranges but kept the saturation and brightness levels high with the black background, it produced a striking visual. I loved how even with all the randomness, certain areas on the piece would seem to cluster together creating a sense of unity and connection between the different elements.\n\nIn the end, I feel \"Connections\" turned out to be a beautiful and visually striking piece of generative art. I am proud of what I have created and grateful for the opportunity to explore my love of math and art in such a meaningful way.\n\nI cannot wait to create more art!",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Aventurine"
+      },
+      {
+        "trait_type": "Size",
+        "value": "2000 x 2400"
+      },
+      {
+        "trait_type": "Lines",
+        "value": "2500"
+      },
+      {
+        "trait_type": "Background HSB Values",
+        "value": "40, 10, 100"
+      },
+      {
+        "trait_type": "Connection Hues",
+        "value": "Random"
+      },
+      {
+        "trait_type": "Connections Saturation",
+        "value": "100"
+      },
+      {
+        "trait_type": "Connections Brightness",
+        "value": "100"
+      },
+      {
+        "trait_type": "Equation Variables",
+        "value": "6"
+      },
+      {
+        "trait_type": "Stroke Weight",
+        "value": "1"
+      }
+    ],
+    "image_details": {
+      "bytes": 12796927,
+      "format": "PNG",
+      "sha256": "c524c7021e3b8ebbbf8b61d8d342a676f69fc9811d1a8861aa775ebedab11b02",
+      "width": 2000,
+      "height": 2400
+    },
+    "image": "https://arweave.net/0cC4VvViU3EKubrXZveorTMPPt91fvX8gQAwhOLOTWc",
+    "image_url": "https://arweave.net/0cC4VvViU3EKubrXZveorTMPPt91fvX8gQAwhOLOTWc"
+  }
+}

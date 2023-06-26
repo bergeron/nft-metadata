@@ -1,0 +1,63 @@
+{
+  "address": "0xb6ad340290bbfb856a1182f980774f5999f1dc8c",
+  "type": "ERC721",
+  "name": "Genome Blocks",
+  "tokenCount": "98",
+  "uri": "https://www.openpalette.io/api/genome-blocks/metadata/1?seed=2020",
+  "metadata": {
+    "name": "Genome Blocks #1",
+    "description": "Genome Blocks procedurally generates groups of grids and populates them with geometric shapes. Your OpenPalette colors are then interpolated into new shades by aesthetically-driven rules, generating surprising results. Computed by Hyper Glu.",
+    "image": "https://www.openpalette.io/api/genome-blocks/assets/image/1?seed=2020",
+    "animation_url": "https://www.openpalette.io/api/genome-blocks/assets/interactive/1?seed=2020",
+    "attributes": [
+      {
+        "trait_type": "Subdivisions",
+        "value": 6
+      },
+      {
+        "trait_type": "Blocks",
+        "value": 1
+      },
+      {
+        "trait_type": "Style",
+        "value": "Minimal"
+      },
+      {
+        "trait_type": "Movements",
+        "value": 1
+      },
+      {
+        "trait_type": "Caps",
+        "value": "Round"
+      },
+      {
+        "trait_type": "Shapes",
+        "value": 8
+      },
+      {
+        "trait_type": "Dots",
+        "value": 3
+      },
+      {
+        "trait_type": "Horizontals",
+        "value": 3
+      },
+      {
+        "trait_type": "Diagonals",
+        "value": 0
+      },
+      {
+        "trait_type": "Circles",
+        "value": 1
+      },
+      {
+        "trait_type": "Rectangles",
+        "value": 1
+      },
+      {
+        "trait_type": "Triangles",
+        "value": 0
+      }
+    ]
+  }
+}

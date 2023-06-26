@@ -1,0 +1,63 @@
+{
+  "address": "0x1252a7a1bf4172adbc662d4dae6c9a692f2226ba",
+  "type": "ERC721",
+  "name": "Let it be V3",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/WcHcoHbU-5b5Ec-cxy1nQQlK8WI0g1CeU3x030-21x4",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1652582731
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Carolina Moura"
+      }
+    ],
+    "description": "This image is part of a collection created around 2014. It represents the moment when the one reacts to their full potential and flourishes, liberates, and lets it go. \r\nMix Media combining drawing and oil painting. ",
+    "external_url": "https://cxip.io/nft/0x1252a7a1bf4172adbc662d4dae6c9a692f2226ba/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/ZupJY7KPJ4gzplLzLkuTd-74cvE0RlT56FqmdWkvZnc",
+    "imageUrl": "https://arweave.net/ZupJY7KPJ4gzplLzLkuTd-74cvE0RlT56FqmdWkvZnc",
+    "name": "Into the Eyes ",
+    "properties": {
+      "created_at": "2022-05-15T02:45:31.000000Z",
+      "creator_wallet": "0xc5df69d67fd40b2e7a21d386804ee3ea49fb3ddf",
+      "description": "This image is part of a collection created around 2014. It represents the moment when the one reacts to their full potential and flourishes, liberates, and lets it go. \r\nMix Media combining drawing and oil painting. ",
+      "image": "https://arweave.net/ZupJY7KPJ4gzplLzLkuTd-74cvE0RlT56FqmdWkvZnc",
+      "imageUrl": "https://arweave.net/ZupJY7KPJ4gzplLzLkuTd-74cvE0RlT56FqmdWkvZnc",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "15 May 2022",
+      "name": "Into the Eyes ",
+      "nft_type": "non-fungible image token (image/jpeg)",
+      "preview_media_file": "https://arweave.net/UrCFkCGGf42_WzWVGjLx7PmbIfoexkPfDuiesqT9LfY",
+      "preview_media_file_dimensions": "410x360",
+      "preview_media_file_size": 149926,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "3418x3000",
+      "raw_media_file": "https://arweave.net/PkexbFXMlHBpSJMcinkh5Oh-hsUjubJ-HUa4IhWqTLo",
+      "raw_media_file_size": 7340899,
+      "raw_media_file_spec": "JPEG 3418x3000 3418x3000+0+0 8-bit sRGB 7.00083MiB 0.000u 0:00.000",
+      "raw_media_file_type": "image/jpeg",
+      "raw_media_format": "landscape",
+      "raw_media_signature": "0x65dc5b2baf8b2873d26bffb0ebfdc0d954ef0e02890c36480dbac3ffaf9a1333",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/UrCFkCGGf42_WzWVGjLx7PmbIfoexkPfDuiesqT9LfY",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Into the Eyes ",
+      "total_supply": 1
+    },
+    "title": "Into the Eyes "
+  }
+}

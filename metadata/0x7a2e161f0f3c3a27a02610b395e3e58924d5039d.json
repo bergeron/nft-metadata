@@ -1,0 +1,41 @@
+{
+  "address": "0x7a2e161f0f3c3a27a02610b395e3e58924d5039d",
+  "type": "ERC721",
+  "name": "Pixel Street Machine",
+  "tokenCount": "646",
+  "uri": "ipfs://QmVDFGYAv4sJmpA9fcqQrM6hMNHhLAKWV6yeAHDMAcyqpv/1.json",
+  "metadata": {
+    "name": "Pixel Street Machine #1",
+    "description": "Pixel Street Machine is 64x64 pixel art made by yo mama",
+    "image": "ipfs://QmTYkFm1kJhRRheEbnob62466tUqiw3gcHRdzq6ayeo7JV/1.png",
+    "edition": 1,
+    "date": 1665375505834,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Spawn"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Runner Uncommon"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Under Eyes"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Faded Green"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Vecter Mask Purple"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

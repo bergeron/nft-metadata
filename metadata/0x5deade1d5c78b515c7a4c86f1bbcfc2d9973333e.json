@@ -1,0 +1,32 @@
+{
+  "address": "0x5deade1d5c78b515c7a4c86f1bbcfc2d9973333e",
+  "type": "ERC721",
+  "name": "Spectacle by Felt Zine",
+  "tokenCount": "100",
+  "uri": "https://spectacle.feltzine.art/api/1",
+  "metadata": {
+    "name": "Spectacle #1: The Flooding Afternoon Blue Eye",
+    "description": "Spectacle by Felt Zine from Creative Director Dev Moore. Exploring the intersections of technological spectacle, surveillance, and the eternal spring of imagination & creativity.",
+    "tokenId": 1,
+    "image": "ipfs://QmeaQ5FWacGFFVPsWKk1wEVNYXJ29ajTxfKxsWRSSDGtU5",
+    "external_url": "https://www.feltzine.art",
+    "attributes": [
+      {
+        "trait_type": "Eye",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "flooding"
+      },
+      {
+        "trait_type": "Time",
+        "value": "afternoon"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "logo4"
+      }
+    ]
+  }
+}

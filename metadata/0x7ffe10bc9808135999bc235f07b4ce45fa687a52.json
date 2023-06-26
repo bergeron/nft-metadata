@@ -1,0 +1,27 @@
+{
+  "address": "0x7ffe10bc9808135999bc235f07b4ce45fa687a52",
+  "type": "ERC721",
+  "name": "Proof of (No) Work",
+  "tokenCount": "365",
+  "uri": "https://arweave.net/IOO3K7VcnVqk379G8CUOxKd28zYGE7FugczwrxAVSLM/1",
+  "metadata": {
+    "name": "Time Card 1",
+    "created_by": "Dame",
+    "description": "An unredeemed time card that represents a block of the artist's time that will be spent unproductively on behalf of the owner of the card. The NFT corresponds to a physical card that the artist will use during the project.\n\nEach PONW Time Card is initially blank and may be “redeemed” by sending the card to the ponw.eth wallet address. Once a Time Card has been received by the artist at the ponw.eth address, it will be queued up for fulfillment. When the card's turn has arrived, the artist will then “punch in” using the physical card on a Time Clock device before then spending an unspecified amount of time doing absolutely no work whatsoever. After the session of no work has been completed, the artist will “punch out” using the card, scan it, and then update the NFT’s data before sending it back to the owner. The card will be numbered, signed, and include a brief hand-written description of the “no work” that was rendered. The entire process is done manually by hand.\n\nA smart contract will not be used for the redemption process. Instead, the social contract between the artist and the collector will govern over the redemption process.\n\nThe artist will keep back 14 time cards for their personal collection and usage. The total supply represents the 365 days within a year, and the 14 held back represent the artist's 2 weeks of vacation time. The 10 black cards represent 10 paid holidays. The 250 white cards represent the 250 business days within the year 2022. The 105 primary color cards collectively represent the 105 weekend days in the year 2022.\n\nDisclaimer: This is a conceptual art project that will take place over an undetermined period of time and has multiple dynamics, some that are not within the artist’s control and may require improvisation. The final appearance and metadata of each NFT is subject to change.",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "White"
+      }
+    ],
+    "image_details": {
+      "bytes": 359950,
+      "format": "PNG",
+      "sha256": "2013838e6f91b35add8c015f1b394fc13dc7c5a4fb3a5f0cbc23a5ae1858f2d2",
+      "width": 3592,
+      "height": 3592
+    },
+    "image": "https://arweave.net/_OiABtUW6Qz8Z37-KBTPQxEs4TFM5ia1Tg7Zxi7L--M",
+    "image_url": "https://arweave.net/_OiABtUW6Qz8Z37-KBTPQxEs4TFM5ia1Tg7Zxi7L--M"
+  }
+}

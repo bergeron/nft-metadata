@@ -1,0 +1,44 @@
+{
+  "address": "0x40db4d3c2ab630ef546d70df15cb752bd703ca69",
+  "type": "ERC721",
+  "name": "CryptoGators V3",
+  "tokenCount": "4",
+  "uri": "ipfs://bafybeiblo4w73olpms64tmfexlv3mzfecum4pluglevmhbqips5plfukfq/1.json",
+  "metadata": {
+    "name": "CryptoGator#1",
+    "description": "6666  Unique - 3D Art Generated Movement",
+    "external_url": "https://www.cryptogators.io/",
+    "image": "ipfs://bafybeied7eqlbxwmsz7owc4aoeytutezydpt27w7nxu55v4pmfossy2zfm/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GradientBckGnd 10 #100"
+      },
+      {
+        "trait_type": "Signature",
+        "value": "Siganture 1#10000"
+      },
+      {
+        "trait_type": "Bodies",
+        "value": "Lime Body 1 #100"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eyes 21 #100"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Hat 5 #100"
+      },
+      {
+        "trait_type": "Jackets",
+        "value": "NoJacket 0#100"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "NoGlasses 28  #100"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

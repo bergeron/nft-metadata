@@ -1,0 +1,27 @@
+{
+  "address": "0xbbbd7aebd29360a34cea492e012b9a2119ded306",
+  "type": "ERC721",
+  "name": "Nori Certificate of Carbon Removal",
+  "tokenCount": "596",
+  "uri": "https://nori.com/nrt/1",
+  "metadata": {
+    "image": "https://storage.googleapis.com/nori-website-prod/public-files/nccr.png",
+    "external_url": "https://nori.com/remove-carbon",
+    "description": "This non-fungible token certifies the payment for ownership of Nori Carbon Removal Tonnes (NRTs).",
+    "name": "Nori Carbon Removal Tonnes - Certificate of Purchase",
+    "attributes": [
+      {
+        "trait_type": "Methodology",
+        "value": "Nori US Croplands Methodology"
+      },
+      {
+        "trait_type": "Methodology URL",
+        "value": "https://nori.com/documents"
+      },
+      {
+        "trait_type": "Issued By",
+        "value": "Nori, Inc."
+      }
+    ]
+  }
+}

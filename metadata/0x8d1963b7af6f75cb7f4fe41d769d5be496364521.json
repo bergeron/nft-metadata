@@ -1,0 +1,56 @@
+{
+  "address": "0x8d1963b7af6f75cb7f4fe41d769d5be496364521",
+  "type": "ERC721",
+  "name": "SAVE-UKRAINE V2",
+  "tokenCount": "5",
+  "uri": "ipfs://QmTdMSjgCQY8jmEewgV5ngjp38MKwzoZezNfqMn8psMZpY/1.json",
+  "metadata": {
+    "dna": "6dfe31c1be11501d2d08ff1b9158fa06bdb5a9b7",
+    "name": "SAVE-UKRAINE #1",
+    "description": "Ukrainian coin which save us from russian aggression",
+    "image": "ipfs://QmRLnukuxG4MdVEVFUCUmK6mRMpa9yhq5E9y9nSbq2tiSk/1.png",
+    "edition": 1,
+    "date": 1645922612671,
+    "symbol": "SAVE-UKRAINE",
+    "seller_fee_basis_points": 250,
+    "external_url": "",
+    "collection": {
+      "name": "SAVE-UKRAINE",
+      "family": ""
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x7fCE8147dcBc7224f48925bc6da3677eC9789E98",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Frame35"
+      },
+      {
+        "trait_type": "textBottom",
+        "value": "Фон81"
+      },
+      {
+        "trait_type": "textTop",
+        "value": "textBottom7"
+      },
+      {
+        "trait_type": "element",
+        "value": "IMG_6941"
+      }
+    ],
+    "compiler": "https://www.youtube.com/c/AdamantGames"
+  }
+}

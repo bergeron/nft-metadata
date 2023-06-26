@@ -1,0 +1,91 @@
+{
+  "address": "0x0847d1fb2adc3d1c19b233afb7d01a631728a415",
+  "type": "ERC721",
+  "name": "Girls, Robots, Dragons",
+  "tokenCount": "3000",
+  "uri": "https://metadata.grd.fan/api/metadata/33/433",
+  "metadata": {
+    "tokenId": 1,
+    "name": "Girls, Robots, Dragons #1",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmUHGu7kt7TqAd6cpEDUEKXL6VX7PMHu8NM3LcJGRgmr1K/front/33/433.jpg",
+    "collection_type": "galaxis",
+    "collection_name": "Girls, Robots, Dragons",
+    "animation_url": "https://grd.fan/#/render?metadata.grd.fan/api/metadata/33/433",
+    "sides": [
+      {
+        "id": 1,
+        "dna": "887311",
+        "image": "https://ether-cards.mypinata.cloud/ipfs/QmUHGu7kt7TqAd6cpEDUEKXL6VX7PMHu8NM3LcJGRgmr1K/front/33/433.jpg"
+      },
+      {
+        "id": 2,
+        "dna": "72",
+        "image": "https://ether-cards.mypinata.cloud/ipfs/QmUHGu7kt7TqAd6cpEDUEKXL6VX7PMHu8NM3LcJGRgmr1K/back/Newport_City.jpg"
+      }
+    ],
+    "attributes": [
+      {
+        "value": "Stone Pink",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Glow Purple Fraktal",
+        "trait_type": "Aura"
+      },
+      {
+        "value": "Bruto",
+        "trait_type": "Character"
+      },
+      {
+        "value": "Common",
+        "trait_type": "Character Type"
+      },
+      {
+        "value": "Newport City",
+        "trait_type": "Bonus Art"
+      },
+      {
+        "value": "Zoltan Boros",
+        "trait_type": "Artist"
+      },
+      {
+        "value": "Gabor Szikszai",
+        "trait_type": "Artist"
+      },
+      {
+        "trait_type": "Perk",
+        "value": "First Series Badge"
+      },
+      {
+        "trait_type": "Perk",
+        "value": "Three-Tone Drawing"
+      }
+    ],
+    "rare": false,
+    "perfect": false,
+    "about": "It’s five thousand years into the future and the world has changed. The Girls, the Robots and the Dragons are the last three tribes of sentient beings in existence. Each tribe is served by a council of their five greatest champions. The legends of Flesh, Steel and Scale remain locked in conflict - with nature, each other and their inner selves. Who shall prevail?",
+    "description": "Constructed for brutally difficult tasks requiring exceptional strength. Reportedly the strongest machine ever created - it has never failed to pull his weight on any mission. Its legacy is to ensure that not only the strongest survive.",
+    "traits": [
+      {
+        "traitId": "0",
+        "name": "First Series Badge",
+        "description": "Commemorating the inaugural Girls Robots Dragons series collection on Ethereum!",
+        "status": "1",
+        "type": "0",
+        "ipfs_hash": "QmPmgyBbP5wZ9bPaux9mJtEZAorv9JjdrcmsibvqvuRvz9",
+        "icon_url": "https://ether-cards.mypinata.cloud/ipfs/QmPmgyBbP5wZ9bPaux9mJtEZAorv9JjdrcmsibvqvuRvz9/icon.svg",
+        "claim_url": null
+      },
+      {
+        "traitId": "4",
+        "name": "Three-Tone Drawing",
+        "description": "The trait owner chooses a girl, robot or dragon for the artists to create an entirely new artwork. Please allow 3-4 months to deliver following the redemption.",
+        "status": "1",
+        "type": "3",
+        "ipfs_hash": "QmTJzUTkuirv1NNAyV9pErqLHWAqghaGRGD86m7Zr3bBqX",
+        "icon_url": "https://ether-cards.mypinata.cloud/ipfs/QmTJzUTkuirv1NNAyV9pErqLHWAqghaGRGD86m7Zr3bBqX/icon.svg",
+        "claim_url": "https://app.galaxis.xyz/2/1/redeemown/?trait_id=4&token_id=1"
+      }
+    ]
+  }
+}

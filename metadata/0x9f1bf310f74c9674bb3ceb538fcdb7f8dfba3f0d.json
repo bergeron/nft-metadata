@@ -1,0 +1,46 @@
+{
+  "address": "0x9f1bf310f74c9674bb3ceb538fcdb7f8dfba3f0d",
+  "type": "ERC721",
+  "name": "Larva Doodles",
+  "tokenCount": "2348",
+  "uri": "ipfs://QmaR3mSaWu86pcZ1bbcFdanga5DhkL9JZaPLrPze1ouHCC/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://QmVZwF1Cn6ZUTfPhPdmsSVmhNHthYKsjafQxV27GueqKXQ/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Clouds"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smoking"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Basic"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

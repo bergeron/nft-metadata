@@ -1,0 +1,48 @@
+{
+  "address": "0x0239c9e9f2d63eb449be9f0e3c3eed0391e595cc",
+  "type": "ERC721",
+  "name": "RGB Shapes V2",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeif57psenliylnzizwpygcqy6cnvo7iiwhq5er2njnda4zmakm325y/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://bafybeihc3gyj4sthlwttevahlv6yzvrltgcw657ofrtjgzv32nt7lbrqqa/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "NFT Canvas_Black copy"
+      },
+      {
+        "trait_type": "Squares",
+        "value": "Squares-05"
+      },
+      {
+        "trait_type": "Circles",
+        "value": "Circles-05"
+      },
+      {
+        "trait_type": "Triangles",
+        "value": "Triangles-01"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "XRay Friends",
+      "family": "XRay Friends"
+    },
+    "symbol": ""
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "address": "0x9f306bb6f480fa715d24b9c28106cb2bf73fb906",
+  "type": "ERC721",
+  "name": "TestAV",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=fn84pkbXK1eHALwgh4bQ",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1583458128085?alt=media&token=bad92865-eb6e-4378-b45b-a54e049634a9",
+    "forSale": false,
+    "contractAddress": "0x9f306bb6f480fa715d24b9c28106cb2bf73fb906",
+    "description": "This token represents a specific diamond, of which there is only one. This token represents a specific diamond, of which there is only one.",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1583458189,
+      "_nanoseconds": 189000000
+    },
+    "price": "44",
+    "name": "GIA #123123123123",
+    "fiatPrice": "$10,124.40",
+    "attributes": [
+      {
+        "trait_type": "Carat",
+        "value": "1.00"
+      },
+      {
+        "trait_type": "Color",
+        "value": "E"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VS1"
+      },
+      {
+        "trait_type": "Cut",
+        "value": "Triple Excellent"
+      },
+      {
+        "trait_type": "Cu",
+        "value": ""
+      },
+      {
+        "trait_type": "C",
+        "value": ""
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "Clarit",
+        "value": ""
+      },
+      {
+        "trait_type": "Clari",
+        "value": ""
+      },
+      {
+        "trait_type": "Clar",
+        "value": ""
+      },
+      {
+        "trait_type": "Cla",
+        "value": ""
+      },
+      {
+        "trait_type": "Cl",
+        "value": ""
+      },
+      {
+        "trait_type": "Colo",
+        "value": ""
+      },
+      {
+        "trait_type": "Col",
+        "value": ""
+      },
+      {
+        "trait_type": "Co",
+        "value": ""
+      },
+      {
+        "trait_type": "Cara",
+        "value": ""
+      },
+      {
+        "trait_type": "Car",
+        "value": ""
+      },
+      {
+        "trait_type": "Ca",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "icecap.diamonds"
+      },
+      {
+        "trait_type": "location",
+        "value": "New York, NY, USA"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJOwg_06VPwokRYv534QaPC8g"
+      },
+      {
+        "trait_type": "CU",
+        "value": ""
+      },
+      {
+        "trait_type": "CUT",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x9f306bb6f480fa715d24b9c28106cb2bf73fb906",
+    "type": "ERC721"
+  }
+}

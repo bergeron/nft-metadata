@@ -1,0 +1,55 @@
+{
+  "address": "0x2db3b6472d1381855b880aaf7cfbafe683d1f7e4",
+  "type": "ERC721",
+  "name": "Hunter Biden Laptop",
+  "tokenCount": "3",
+  "uri": "ipfs://bafybeihott7ys2eu4u7knzrj4hg3mwzekqqplwhvpteynbp2dbfdv5lhf4/1",
+  "metadata": {
+    "name": "#1",
+    "description": "The only NFT series inspired by Hunter Biden's laptop is here! The first batch of 1000 is available to mint for 0.025 ETH each! Each one boasts a unique combination of a picture from the laptop, background, and more.",
+    "external_url": "",
+    "image": "ipfs://bafybeicclkqrfklpjfzb7jiaduljttu3ar76bpgocz3jmnhoz5fszqxdea/1.webp",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Salon"
+      },
+      {
+        "trait_type": "pictures",
+        "value": "hotel selfie 2"
+      },
+      {
+        "trait_type": "laptop",
+        "value": "hunter's laptop"
+      },
+      {
+        "trait_type": "Bottles",
+        "value": "stroh"
+      },
+      {
+        "trait_type": "Drugs",
+        "value": "Ecstasy"
+      },
+      {
+        "trait_type": "objects",
+        "value": "hotdog cake"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://onemint.io/",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Hunter Biden's Laptop",
+      "family": "Hunter Biden's Laptop"
+    },
+    "symbol": ""
+  }
+}

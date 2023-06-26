@@ -1,0 +1,25 @@
+{
+  "address": "0x1275448baa11e14182cf33d4b4d130b329ac8b41",
+  "type": "ERC721",
+  "name": "eth-gnosis-1-month-v2",
+  "tokenCount": "2",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x1275448baa11e14182cf33d4b4d130b329ac8b41/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x1275448baa11e14182cf33d4B4D130B329aC8B41/icon?id=1",
+    "expiration": 1681496471,
+    "tokenId": "1",
+    "owner": "0x84112891aa6c36f57aa9fcc559ec53b6aba0a8c6",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1681496471
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x1275448baa11e14182cf33d4B4D130B329aC8B41",
+    "network": 1
+  }
+}

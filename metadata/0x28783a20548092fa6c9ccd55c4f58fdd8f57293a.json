@@ -1,0 +1,51 @@
+{
+  "address": "0x28783a20548092fa6c9ccd55c4f58fdd8f57293a",
+  "type": "ERC1155",
+  "name": "Talk Time - Necessary Evil",
+  "tokenCount": "2",
+  "uri": "ipfs://QmSDkPs9j6Z1h6M7gdmjRcxKKmc6ikAunr2v6Wt7rQSwKA",
+  "metadata": {
+    "name": "Talk Time - Necessary Evil - OPEN EDITION",
+    "description": "Talk Time Necessary Evil NFT EP\n\nSeems like every step we take in modern living we're consuming and destroying. Us in 'civilized' societies are all participants in a new cycle of life; one where our way of life is destroying the planet. Though some of us as individuals try to mitigate that as much as we can, its the system in place that we cannot escape.\n\nNecessary Evil is about that making sense of that modern guilt.. the realization of being part of and benefiting from a destructive and wasteful system, but being sensitive enough to know something's not right and wrestling with your conscience. On one hand its a necessary evil to consume, drive our cars and keep living, but hopefully we find a worthy meaning and purpose, or even the divine in wrestling your conscience and trying to be better.\n\nIncluded within the Talk Time Necessary Evil NFT EP player are all of the liner notes you would expect in a deluxe gatefold packaging. Artwork (created by the band’s own Mike Nissen), lyrics, credits, and also story behind each song is included in the player’s UI. In addition to that it comes with all the experience (utility) that NFTs can offer in the form of token gated access to future Talk Time events, airdrops, presale list to other upcoming Props Labs NFT projects, and more (including early listening access to the forthcoming EP produced by 9x Grammy winning Darrell Thorp [Radiohead, Beck, Paul McCartney] at Village Studios in Los Angeles).\n\nLearn more at https://talktimeband.com/",
+    "subtitle": "March 22nd",
+    "image": "ipfs://QmahfWKwFKQVKM1tyS5PUuMHnPVL8V49cADp37oXjVC8pS",
+    "animation_url": "ipfs://QmXZzq1b7Pf7rJf3atwBhD62FRHycgsW9XiRGxsFCYgzLs",
+    "external_url": "https://talktimeband.com",
+    "supply": 100000000,
+    "on": true,
+    "price": 0.025,
+    "features": [
+      "Chance to mint a Deluxe Edition for the first to mint until 100 bonus albums are minted",
+      "320mbps mp3 audio",
+      "Liner Notes (lyrics, credits, story, artwork)",
+      "Token-gated access to future Talk Time events, airdrops",
+      "Early listening access to the forthcoming EP made with 9x Grammy winning Darrell Thorp (Radiohead, Beck, Paul McCartney) at Village Studios in Los Angeles"
+    ],
+    "maxMintPerTxn": 100,
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "value": "Open"
+      },
+      {
+        "trait_type": "FLAC Audio",
+        "value": "No"
+      },
+      {
+        "trait_type": "MP3 Audio",
+        "value": "Yes"
+      }
+    ],
+    "id": 1,
+    "altCurrencies": [
+      {
+        "tokenAddress": "0xcEd09dE0d387C7D1B45461fDB14B96227ca54951",
+        "tokenName": "$APE",
+        "tokenABI": "https://ipfs.props.app/ipfs/Qmf3C7R2c5rEtpArk92KpktwkmuzhQrYABiU3LqmL8813e",
+        "requiredAmount": 4,
+        "enabled": true
+      }
+    ],
+    "website_description": "Open Edition"
+  }
+}

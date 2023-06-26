@@ -1,0 +1,85 @@
+{
+  "address": "0x54442d0a5849ac1cfedd78f892154328f2c5b238",
+  "type": "ERC721",
+  "name": "The Kiss NFT - Gustav Klimt by Belvedere Museum",
+  "tokenCount": "10001",
+  "uri": "https://arteq.mypinata.cloud/ipfs/QmNnv4EqpJfVyMi5mmgjBPGuYxkWTeuewNCU4K9uKzwkPD",
+  "metadata": {
+    "id": 3063,
+    "name": "The Kiss #03063",
+    "description": "This NFT is one of 10.000 tiles of the high-resolution digital image of the masterpiece 'The Kiss' by Gustav Klimt. The Belvedere Museum in Vienna has officially released this limited edition of NFTs in collaboration with arteQ. An individual dedication of love can be added and displayed next to the NFT on the platform thekiss.art.",
+    "external_url": "https://thekiss.art/tokens/3063",
+    "image": "https://arteq.mypinata.cloud/ipfs/QmTa65zSdk7XvfqTBFD53HuepknQ1tHJwsYJL1syMkuUuk",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "#03063"
+      },
+      {
+        "trait_type": "X",
+        "value": "63"
+      },
+      {
+        "trait_type": "Y",
+        "value": "31"
+      }
+    ],
+    "arteq": {
+      "thekiss": {
+        "artwork": {
+          "attributes": {
+            "fractional": {
+              "type": "grid",
+              "columns": "100",
+              "rows": "100"
+            }
+          },
+          "data": [
+            {
+              "size": "15000x15000",
+              "type": "image/tiff",
+              "url": "https://arteq.mypinata.cloud/ipfs/Qma7zrrtcJHdgaxDax56Yy6FLQ2U7G6nRWjJFcnp6SEuM5"
+            },
+            {
+              "size": "2400x2400",
+              "type": "image/png",
+              "url": "https://arteq.mypinata.cloud/ipfs/QmTgm5usJK6vPhaKUeL8v12BRKqv6um2QvgZFe8x667uKQ"
+            }
+          ]
+        },
+        "token": {
+          "attributes": {
+            "fraction": {
+              "x": "63",
+              "col": "63",
+              "column": "63",
+              "y": "31",
+              "row": "31"
+            }
+          },
+          "data": {
+            "tile": [
+              {
+                "size": "150x150",
+                "type": "image/png",
+                "url": "https://arteq.mypinata.cloud/ipfs/QmZLW8TL5wXex3jt33sFF5ouLvd3ZxVaCawTfyGHkS1xLk"
+              }
+            ],
+            "nft": [
+              {
+                "size": "750x750",
+                "type": "image/png",
+                "url": "https://arteq.mypinata.cloud/ipfs/QmTa65zSdk7XvfqTBFD53HuepknQ1tHJwsYJL1syMkuUuk"
+              },
+              {
+                "size": "2000x2000",
+                "type": "image/png",
+                "url": "https://arteq.mypinata.cloud/ipfs/QmW4jPLgvriwaSKxy95Wafw72kfomsBm7oFe1LUnt6guow"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

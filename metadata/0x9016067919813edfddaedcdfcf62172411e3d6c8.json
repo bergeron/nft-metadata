@@ -1,0 +1,35 @@
+{
+  "address": "0x9016067919813edfddaedcdfcf62172411e3d6c8",
+  "type": "ERC721",
+  "name": "ROBOSKULLS NFT",
+  "tokenCount": "111",
+  "uri": "ipfs://QmReGaccD3NRqvFfS6yCNQYzsY1zhZVJ6LPFLDMF8RwP4c/1.json",
+  "metadata": {
+    "name": "ROBOSKULLS #1",
+    "description": "The ROBOSKULLS come from different planets across the universe. Each ROBOSKULL has their own history, ship, planet, and mood!",
+    "image": "ipfs://QmX9Zg4rPYLLoCgNUKTCqiQuTVeQByEfvqphxq4Wd6jizH/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "PLANET",
+        "value": "PLUTO"
+      },
+      {
+        "trait_type": "SHIP",
+        "value": "VOYAGER"
+      },
+      {
+        "trait_type": "GALAXY",
+        "value": "MILKY WAY"
+      },
+      {
+        "trait_type": "HISTORY",
+        "value": "MECHANICAL"
+      },
+      {
+        "trait_type": "MOOD",
+        "value": "CHILL"
+      }
+    ]
+  }
+}

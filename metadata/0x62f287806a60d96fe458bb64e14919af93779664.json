@@ -1,0 +1,42 @@
+{
+  "address": "0x62f287806a60d96fe458bb64e14919af93779664",
+  "type": "ERC721",
+  "name": "Cool Kids NFT V2",
+  "tokenCount": "555",
+  "uri": "ipfs://QmNxbgNYJ2Xrb9venC8EwHyFrjhHEJwg4WnNung1FNyLbv/1.json",
+  "metadata": {
+    "name": "Cool Kids NFT #1",
+    "description": "555 Generative Art Cool Kids",
+    "image": "ipfs://QmUC7ncfWfAwZGmCJSBVjKnFh6Ga3TPzWz5e8j2qJMSXuM/1.png",
+    "dna": "7da4a9a171faa1630a666db1ce5a0368b4f55d21",
+    "edition": 1,
+    "date": 1663251844968,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bright Mint BG"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green Hipster"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Yellow Happy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Orange Styled"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Pink Mirror"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Yelling"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

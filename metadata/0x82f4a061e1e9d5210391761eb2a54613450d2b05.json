@@ -1,0 +1,56 @@
+{
+  "address": "0x82f4a061e1e9d5210391761eb2a54613450d2b05",
+  "type": "ERC721",
+  "name": "PoetAIArtist",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/vKgS47tZKQYgNazfL-BchtwhIzPy48IUtEc6hKKo9Ys",
+  "metadata": {
+    "name": "What is planted in each person’s soul will sprout.",
+    "created_by": "PoetAIArtist",
+    "description": "“What is planted in each person’s soul will sprout.” - Rumi.\n\nGenesis artwork mint by PoetAIArtist.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "PoetAIArtist"
+      },
+      {
+        "trait_type": "Poet",
+        "value": "Rumi"
+      },
+      {
+        "trait_type": "AI",
+        "value": "Stable Diffusion"
+      },
+      {
+        "trait_type": "Genre",
+        "value": "Aspirational"
+      },
+      {
+        "trait_type": "Year Created",
+        "value": "2022"
+      }
+    ],
+    "animation_details": {
+      "bytes": 34157690,
+      "format": "MP4",
+      "duration": 27,
+      "sha256": "3f1996710c4818cefe3d82b656dff37da5908477b397844fe29a00d584add310",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/FIatIuESDFKVW5WSFX1Fn6lmwyFFEDW1LwXzgnPHrw0",
+    "animation_url": "https://arweave.net/FIatIuESDFKVW5WSFX1Fn6lmwyFFEDW1LwXzgnPHrw0",
+    "image_details": {
+      "bytes": 441459,
+      "format": "PNG",
+      "sha256": "b8050ae23d592dcaaa6af201e5b69c45e5e85fa85e530973263be7e79ab1c7f3",
+      "width": 512,
+      "height": 512
+    },
+    "image": "https://arweave.net/2I3TSNcYrCrSaWEBjkbA_gisDEJqAgtRK_DS1-AevCo",
+    "image_url": "https://arweave.net/2I3TSNcYrCrSaWEBjkbA_gisDEJqAgtRK_DS1-AevCo"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "address": "0x2945c664b8ca2b0f8fb29c6e2717d37482a3613a",
+  "type": "ERC721",
+  "name": "qwerqewrqewr324",
+  "tokenCount": "50",
+  "uri": "https://api.artblocks.io/token/304000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "304000001",
+    "series": 7,
+    "aspect_ratio": 0.7070980616,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Anticyclone #1",
+    "minted": true,
+    "artist": "William Mapan",
+    "description": "Anticyclones are a weather phenomena.\nThey pierce through darkness to instill peace and calm. Their planetary scale reminds us of how little we are and how powerful they can be.\n\nHigh pressure, rotation, air flow… The \"Anticyclone\" series is an artistic exploration and interpretation of those concepts.\n\nThe rendering borrows its aesthetics from traditional and organic media like paper and crayons, to lend an analog/archival look.\n\n\"Can a computer draw like a human?\"\nThe question is asked and challenged once more through \"Anticyclone\".\n\n[Press the left/right keys to explore the different steps building the final image. Bottom/top for the first/last step. Can be intense for your machine]",
+    "script_type": "three@0.124.0",
+    "project_id": "304",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 7",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/304000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/304000001.png",
+    "generator_url": "https://generator.artblocks.io/304000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/304000001",
+    "royaltyInfo": {
+      "artistAddress": "0x35ed163479cbd7db9bb8a7adbcb680f368a89501",
+      "additionalPayee": "0x92ee2370b56dc32794a6cd72585dc01d4288d314",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Anticyclone by William Mapan",
+    "website": "https://twitter.com/williamapan",
+    "token_hash": "0xbe53ca35a7a5f8b796806fc0ed45c8bcda3303ebcae698661d5ffa48cf1795a5",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/304/tokens/304000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/304000001",
+    "features": {
+      "Name": "Ada",
+      "Time": "Day",
+      "Guide": "4",
+      "Paper": "Hot pressed",
+      "Graphite": "No"
+    },
+    "traits": [
+      {
+        "trait_type": "Anticyclone",
+        "value": "All Anticyclones"
+      },
+      {
+        "trait_type": "Anticyclone",
+        "value": "Name: Ada"
+      },
+      {
+        "trait_type": "Anticyclone",
+        "value": "Time: Day"
+      },
+      {
+        "trait_type": "Anticyclone",
+        "value": "Guide: 4"
+      },
+      {
+        "trait_type": "Anticyclone",
+        "value": "Paper: Hot pressed"
+      },
+      {
+        "trait_type": "Anticyclone",
+        "value": "Graphite: No"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

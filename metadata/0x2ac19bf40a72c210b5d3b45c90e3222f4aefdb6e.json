@@ -1,0 +1,69 @@
+{
+  "address": "0x2ac19bf40a72c210b5d3b45c90e3222f4aefdb6e",
+  "type": "ERC721",
+  "name": "OnlyPhunks",
+  "tokenCount": "1",
+  "uri": "ipfs://QmcsdXREH5VX97WLsJixQk46S4dyNitBqqZGpRmjPycJsE/1",
+  "metadata": {
+    "name": "OnlyPhunk #1",
+    "description": "A collection of 6969 OnlyPhunks",
+    "image": "ipfs://QmSTLErRhtNiggE2KtdGiEnHGgUb2VA8MEnVgHQeUfwnZV/1.png",
+    "external_url": "https://twitter.com/OnlyPhunks",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xaAC1783b81d0249D5B22558A4A0B8114ba3EDC48",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pastel Pink"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Skin 1"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Purple Hair 6"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Cute Nose"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eyes 4"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pink Lips"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "None"
+      },
+      {
+        "trait_type": "Toes",
+        "value": "Sexy Toes"
+      },
+      {
+        "trait_type": "Butt",
+        "value": "Cute Butt"
+      }
+    ],
+    "symbol": "OnlyPhunk",
+    "seller_fee_basis_points": 100,
+    "edition": 1
+  }
+}

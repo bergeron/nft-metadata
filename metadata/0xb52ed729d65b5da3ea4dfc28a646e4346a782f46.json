@@ -1,0 +1,28 @@
+{
+  "address": "0xb52ed729d65b5da3ea4dfc28a646e4346a782f46",
+  "type": "ERC721",
+  "name": "PreProd",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeihd6verjm7bn2ldjucz2og56ul67yrmywhdsip3jlujltloue3mha/saber.json",
+  "metadata": {
+    "name": "saber 1/1",
+    "description": "limited saber NFT",
+    "image": "ipfs://bafybeiea3epmmktnnhxv6o437tiemp3zdbozq5ygixaf2xfnfe4cnbdo6m/saber.jpeg",
+    "external_url": "https://saber.com",
+    "i18n": "ipfs://bafybeiea3epmmktnnhxv6o437tiemp3zdbozq5ygixaf2xfnfe4cnbdo6m/i18n.json",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Saber"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Joe"
+      },
+      {
+        "trait_type": "Skill-Level",
+        "value": 10000
+      }
+    ]
+  }
+}

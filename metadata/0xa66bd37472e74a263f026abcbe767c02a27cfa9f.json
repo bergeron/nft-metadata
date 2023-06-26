@@ -1,0 +1,23 @@
+{
+  "address": "0xa66bd37472e74a263f026abcbe767c02a27cfa9f",
+  "type": "ERC1155",
+  "name": "Defimons Characters Test - old",
+  "tokenCount": "8",
+  "uri": "https://api.defimons.com/metadata/characters/1",
+  "metadata": {
+    "tokenId": 1,
+    "name": "Luna",
+    "description": "Defimons Characters 🪪\n\nYour identity in the pixel world of Defimons.\n\nEach Character has various traits (including hidden ones) that affect your experience within the game.\n\nDo you have what it takes to be the best hunter there ever was? 🐺\n\nNew Characters are released via in-game events, promotions and more.",
+    "image": "https://api.defimons.com/images/characters/luna.png",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Yorokobi Town"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      }
+    ]
+  }
+}

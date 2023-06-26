@@ -1,0 +1,64 @@
+{
+  "address": "0xcb6a6c78c66c3ad8e3bd5fb358b3470e9280895e",
+  "type": "ERC721",
+  "name": "Selfish Kidz Club - old - old",
+  "tokenCount": "2",
+  "uri": "ipfs://QmbxYuSAbm6WfnewfaYiVLisqGnPBRMw1qAMLdEzSXEoKE/1.json",
+  "metadata": {
+    "name": "Selfish Kidz  #1",
+    "description": "Selfish is how people see you. It shouldn't affect my life and should live my life for me. Putting myself first for my happiness.",
+    "external_url": "https://opensea.io/SelfishKidzClub",
+    "image": "ipfs://REPLACE_WITH_CID_FROM_PREVIOUS_STEP/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bg-7"
+      },
+      {
+        "trait_type": "Body",
+        "value": "body-11"
+      },
+      {
+        "trait_type": "Shocks",
+        "value": "shocks-5"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "shoes-3"
+      },
+      {
+        "trait_type": "Bottom",
+        "value": "bottom-25"
+      },
+      {
+        "trait_type": "Top",
+        "value": "TOP-7"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mouth-26"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eye-18"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Selfish Kidz Club",
+      "family": "Selfish Kidz Club"
+    },
+    "symbol": ""
+  }
+}

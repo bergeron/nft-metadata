@@ -1,0 +1,25 @@
+{
+  "address": "0xd82d18087f5b110d01d2fb0ed30836a7503eec16",
+  "type": "ERC721",
+  "name": "NOX Scotty Beam",
+  "tokenCount": "1",
+  "uri": "ipfs://QmT1jQuhzGUrPHqWeMMiKTjSjzH9XQrCJRKa3fqKYf2ETS",
+  "metadata": {
+    "title": "NOX Scotty Beam NFT",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "NOXSB #1 image"
+      },
+      "description": {
+        "type": "string",
+        "description": ""
+      },
+      "image": {
+        "type": "string",
+        "description": "ipfs://QmRf2FoWpM3GMaLyLNAjCj4WHEbgcx1Ya3fq94gN9fPkx8"
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0x70a52409455026a2bd57bacf3b916d907d9a2e92",
+  "type": "ERC721",
+  "name": "Cops & Robber",
+  "tokenCount": "10000",
+  "uri": "ipfs://bafybeidnp2gv37bu3ryvh63gcxkuv4ft55c4qohkewgcuorojqkugj7ckm/1.json",
+  "metadata": {
+    "name": "Cops & Robber #1",
+    "description": "A childhood game, reimagined on the Ethereum blockchain. Protect, or loot - that is your decision.",
+    "image": "ipfs://bafybeibj6pazfaql66giyedx77mzfnnwkhov73vacgiqowpsxwrry4fnxq/1.png",
+    "dna": "c9775a87c3fafaaa6b982ef3ae103a522a33b6c4",
+    "edition": 1,
+    "date": 1662903568049,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Robber"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Face",
+        "value": "White Glasses"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Peaky Blinders"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Money"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

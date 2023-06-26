@@ -1,0 +1,65 @@
+{
+  "address": "0xe0d68cfaad20db6f5b8927475f0bc9f8b85c51d7",
+  "type": "ERC721",
+  "name": "Test Manifold 42",
+  "tokenCount": "3",
+  "uri": "ipfs://QmfEv2g3dpAE3XvqPiRqpRrZjSrTz8zy3pwUWoZXiaDcJy",
+  "metadata": {
+    "name": "Test NFT Manifold",
+    "description": "An NFT minted on a manifold contract\n\nVerisart Certified: https://verisart.com/works/1285700e-0038-4225-89b2-d010a459eda7",
+    "image": "ipfs://QmNRSeDeDWVApgPSLT9JcM42kbwikz5K3DgE2GsrMiM4Ze",
+    "properties": {
+      "verisart": {
+        "productionYear": 2023,
+        "dimensions": {
+          "width": 1200,
+          "height": 1200,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": null,
+        "frameRate": null,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xcbb017fa294d74a6fbd84f6eb444e99353f525f2",
+            "bps": 100
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "external_url": "https://verisart.com/works/1285700e-0038-4225-89b2-d010a459eda7",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "John Wood",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2023",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "Test NFT Manifold",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "1200x1200 px",
+        "display_type": null
+      }
+    ]
+  }
+}

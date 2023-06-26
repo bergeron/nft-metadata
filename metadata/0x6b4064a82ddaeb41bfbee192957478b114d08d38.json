@@ -1,0 +1,42 @@
+{
+  "address": "0x6b4064a82ddaeb41bfbee192957478b114d08d38",
+  "type": "ERC721",
+  "name": "Faux Weather",
+  "tokenCount": "8",
+  "uri": "https://arweave.net/Ro0XngRiRTKWTn6VW2iegQjR1W6DFWXC-jC-zbjEj1c",
+  "metadata": {
+    "name": "Faux Weather #Sydney",
+    "created_by": "Fudgey",
+    "external_url": "https://fudgey.io",
+    "description": "Real time weather for Sydney, Australia",
+    "animation_url": "https://fudgeynft.azurewebsites.net/api/Weather?city=Sydney",
+    "format": "HTML",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Fudgey"
+      },
+      {
+        "trait_type": "Country",
+        "value": "Australia"
+      },
+      {
+        "trait_type": "City",
+        "value": "Sydney"
+      },
+      {
+        "trait_type": "State",
+        "value": "New South Wales"
+      }
+    ],
+    "image_details": {
+      "bytes": 33725,
+      "format": "PNG",
+      "sha256": "1896e7e5f498193a303bbe6d58102ef7d86a982c97e34b9d71d8d0ac7b8798af",
+      "width": 640,
+      "height": 640
+    },
+    "image": "https://arweave.net/g5S8PlVNlBUX06_ioKO_AKNcm1tKRiQadjNSm2-zpMw",
+    "image_url": "https://arweave.net/g5S8PlVNlBUX06_ioKO_AKNcm1tKRiQadjNSm2-zpMw"
+  }
+}

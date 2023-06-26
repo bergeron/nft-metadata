@@ -1,0 +1,28 @@
+{
+  "address": "0x687a977fc2c11ee38cbcb879c4aa63a1e0860020",
+  "type": "ERC721",
+  "name": "Blockchain & Booze NFT",
+  "tokenCount": "6",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=TfrkNXJOkUhwKTKxlSYE",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1588128377320?alt=media&token=e645dc33-e47d-4bd3-90f2-4ff6665812e3",
+    "forSale": false,
+    "contractAddress": "0x687a977fc2c11ee38cbcb879c4aa63a1e0860020",
+    "description": "The coolest NFT ever made (at table 3 on Blockchain Booze)",
+    "tags": [],
+    "amountToMint": 6,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1588128470,
+      "_nanoseconds": 903000000
+    },
+    "price": 0,
+    "name": "Blockchain Booze Table 3",
+    "fiatPrice": "$0.00",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x687a977fc2c11ee38cbcb879c4aa63a1e0860020",
+    "type": "ERC721"
+  }
+}

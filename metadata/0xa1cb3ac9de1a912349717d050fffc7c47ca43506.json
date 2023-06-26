@@ -1,0 +1,42 @@
+{
+  "address": "0xa1cb3ac9de1a912349717d050fffc7c47ca43506",
+  "type": "ERC721",
+  "name": "smol wee",
+  "tokenCount": "1000",
+  "uri": "ipfs://QmYyQZq66XnyHPWFAvPoJBHHvi2ZuAokTZspSwuHmtEPcn/1.json",
+  "metadata": {
+    "name": "smol wee #1",
+    "description": "smol wee everyday",
+    "image": "ipfs://QmXR2U3WPzs1DDESaAMX4nTaQrdMhQG1EjLVCP37rdW8CB/1.png",
+    "dna": "0bca159d874c91a7abd636c838418b7bda9f21c7",
+    "edition": 1,
+    "date": 1680900227302,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Not Orange"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "White"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Blue Jacket"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Football"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Shocked"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Clear"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "address": "0x2eb6c2363b2e9ba124ea324bcffad042365dc1ed",
+  "type": "ERC1155",
+  "name": "Fantasy3K Box",
+  "tokenCount": "588",
+  "uri": "https://api.fantasy3k.com/opensea/box/nft/1",
+  "metadata": {
+    "name": "Special Blind Box#1",
+    "description": "Special Blind Box: with 6 SSR NFTs in it, including Lv Bu and Diao Chan etc. All blind boxes can only be opened completely, not partly opened.",
+    "image": "https://resources.fantasy3k.com/nft-images/nft/box/6-details.jpg",
+    "animation_url": "https://resources.fantasy3k.com/nft-images/nft/box/6-dynamic.mp4",
+    "external_url": "https://www.fantasy3k.com/",
+    "attributes": [
+      {
+        "trait_type": "Round",
+        "value": 0
+      },
+      {
+        "trait_type": "Quantity",
+        "value": 6
+      }
+    ]
+  }
+}

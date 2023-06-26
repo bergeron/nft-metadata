@@ -1,0 +1,62 @@
+{
+  "address": "0xc6b48fd9b49177cab07b3f1d7b61e88e0149d8bc",
+  "type": "ERC721",
+  "name": "CryptoOx",
+  "tokenCount": "8",
+  "uri": "https://cryptoox.co/api/ox/1",
+  "metadata": {
+    "success": true,
+    "id": 1,
+    "name": "CryptoOx #1 - Happy Moo Year!",
+    "ox_name": "Happy Moo Year!",
+    "baseURI": "https://cryptoox.co/api/ox/",
+    "tokenURI": "https://cryptoox.co/api/ox/1",
+    "texture": "https://cryptoox.co/textures/1.png",
+    "image": "https://cryptoox.co/resources/ox/1.gif",
+    "animation_url": "https://cryptoox.co/resources/ox/1.gltf",
+    "external_url": "https://cryptoox.co/ox/1",
+    "collection": 1,
+    "collectionName": "Genesis Collection: Lunar New Year",
+    "contract": "0xc6b48fd9b49177cab07b3f1d7b61e88e0149d8bc",
+    "description": "[CryptoOx #1 -- Click to see its detail in 3D](https://cryptoox.co/ox/1)\nGong hei fat choy! The Genesis Collection celebrates the lunar new year, with our first eight oxen. Which one will bring you the most luck? Chúc mừng năm mới!\n\nThe crackle and boom of firecrackers all around, the scent of gunpowder and incense in the air. Music and lights and red and gold surround you. Welcome to the Year of the Ox.",
+    "ox_description": "The crackle and boom of firecrackers all around, the scent of gunpowder and incense in the air. Music and lights and red and gold surround you. Welcome to the Year of the Ox.",
+    "palette": {
+      "vibrant": "#fcdb04",
+      "lightVibrant": "#fbd095",
+      "darkVibrant": "#840404",
+      "muted": "#c48484",
+      "lightMuted": "#935705",
+      "darkMuted": "#1a1313"
+    },
+    "attributes": [
+      {
+        "key": "CryptoOx",
+        "trait_type": "CryptoOx",
+        "value": "#1"
+      },
+      {
+        "trait_type": "Collection",
+        "display_type": "number",
+        "value": 1
+      },
+      {
+        "trait_type": "Collection Name",
+        "value": "Genesis Collection: Lunar New Year"
+      },
+      {
+        "key": "Artist",
+        "trait_type": "Artist",
+        "value": "NFToyz"
+      },
+      {
+        "key": "Year",
+        "trait_type": "Year",
+        "value": "2021"
+      },
+      {
+        "trait_type": "Toy",
+        "value": "Toy"
+      }
+    ]
+  }
+}

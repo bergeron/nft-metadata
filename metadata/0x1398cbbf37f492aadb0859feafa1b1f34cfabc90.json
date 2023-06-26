@@ -1,0 +1,66 @@
+{
+  "address": "0x1398cbbf37f492aadb0859feafa1b1f34cfabc90",
+  "type": "ERC721",
+  "name": "qewrbnqwerbnvnqwer",
+  "tokenCount": "1000",
+  "uri": "https://api.artblocks.io/token/282000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "282000001",
+    "series": 6,
+    "aspect_ratio": 0.7142857142,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Memories of Qilin #1",
+    "minted": true,
+    "artist": "Emily Xie",
+    "description": "Memories of Qilin is inspired by traditional East Asian art. It channels the sense of movement and fluidity found in classical Chinese brushwork, while drawing from the colors, patterns, and forms of ukiyo-e woodblock prints. \n\nThe series explores elements of folklore, evoking the mythological imagery of dragons, phoenixes, flowers, and mountains.  The title references a fabled chimerical beast found throughout East Asian mythology (while the qilin is its Chinese name, it is also known in Korea as the girin and Japan as the kirin) that represents prosperity and luck.\n\nViewers are invited to interpret elusive forms that verge on representation. As with the stories passed on through generations, each piece is imagined, organic, and ever-in-flux.",
+    "script_type": "p5@1.0.0",
+    "project_id": "282",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 6",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/282000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/282000001.png",
+    "generator_url": "https://generator.artblocks.io/282000001",
+    "royaltyInfo": {
+      "artistAddress": "0x9f4633b29e89e10c869c8ce2197c63df06eb5355",
+      "additionalPayee": "0x9f4633b29e89e10c869c8ce2197c63df06eb5355",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Memories of Qilin by Emily Xie",
+    "website": "https://memoriesofqilin.com",
+    "token_hash": "0xa8a14e793947c85c5e3b19619fcec3d8f814dade9035eb222008f2ea34e8e619",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/282/tokens/282000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/282000001.png",
+    "features": {
+      "Palette": "Mira",
+      "Splotches": "Yes",
+      "Complexity": "High",
+      "Composition Type": "Sweep"
+    },
+    "traits": [
+      {
+        "trait_type": "Memories of Qilin",
+        "value": "All Memories of Qilins"
+      },
+      {
+        "trait_type": "Memories of Qilin",
+        "value": "Palette: Mira"
+      },
+      {
+        "trait_type": "Memories of Qilin",
+        "value": "Splotches: Yes"
+      },
+      {
+        "trait_type": "Memories of Qilin",
+        "value": "Complexity: High"
+      },
+      {
+        "trait_type": "Memories of Qilin",
+        "value": "Composition Type: Sweep"
+      }
+    ],
+    "is_static": true,
+    "license": " CC BY-NC 4.0"
+  }
+}

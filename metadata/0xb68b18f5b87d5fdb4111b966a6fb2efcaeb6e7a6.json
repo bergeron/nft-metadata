@@ -1,0 +1,39 @@
+{
+  "address": "0xb68b18f5b87d5fdb4111b966a6fb2efcaeb6e7a6",
+  "type": "ERC721",
+  "name": "The Mutant Dudes",
+  "tokenCount": "2222",
+  "uri": "ipfs://bafybeiga43qcnakib34rr3dixwa5czjdo3j55wfe2rfrncka65nyynceku/1.json",
+  "metadata": {
+    "dna": "5e4fb7e910cb32f30e5e3635ea2f6ebcb25fa7e30340198e3b97817d6acc632c",
+    "name": "The Mutant Dudes #1",
+    "description": "The Mutant Dudes",
+    "image": "ipfs://bafybeie5gcdiqjy3sycdptj5zy57mq3galwiwx7kmkqm6cwokvf5zdslcu/1.png",
+    "imageHash": "048da4a184369ae6adbd604d9665a25280c3d32bffe927042855e9a97d6d66e3",
+    "edition": 1,
+    "date": 1666457232785,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Spider"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tshirt"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Scraped"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "Scream"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Saws"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  }
+}

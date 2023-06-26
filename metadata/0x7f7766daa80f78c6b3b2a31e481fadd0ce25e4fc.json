@@ -1,0 +1,28 @@
+{
+  "address": "0x7f7766daa80f78c6b3b2a31e481fadd0ce25e4fc",
+  "type": "ERC721",
+  "name": "Bready Cat Association",
+  "tokenCount": "7",
+  "uri": "https://bready-cat-ainft-server-prod.ainetwork.xyz/metadata/1",
+  "metadata": {
+    "description": "Bready Cat NFT, 1st Gen",
+    "external_url": "https://www.instagram.com/breadycat_/",
+    "image": "https://storage.googleapis.com/bready-cat/v1/ainft/allblack.png",
+    "name": "All Black",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      },
+      {
+        "trait_type": "Country",
+        "value": "Korea"
+      },
+      {
+        "trait_type": "Breed",
+        "value": "All Black"
+      }
+    ]
+  }
+}

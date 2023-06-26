@@ -1,0 +1,42 @@
+{
+  "address": "0x5caceb37e498a0bf6291aaffd715555bbba195d2",
+  "type": "ERC721",
+  "name": "The Y00tsons",
+  "tokenCount": "5901",
+  "uri": "ipfs://bafybeiceqdgonwtrplyu5yzeurpbs6h4fejabz4u5gokxru3jxabkk64oe/1.json",
+  "metadata": {
+    "name": "y00tson #1",
+    "description": "Inspired by The Chimpsons and y00ts.",
+    "image": "ipfs://bafybeidzq5msit6eijgpighvpy4i274fayilhpxfeu5hfx3d2ra5rbroni/1.png",
+    "dna": "188b9da7ac4b58d86448d86a21e5225760fe5258",
+    "edition": 1,
+    "date": 1665230027412,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Fearful"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Cowboy Hat"
+      }
+    ],
+    "compiler": "y00tsons"
+  }
+}

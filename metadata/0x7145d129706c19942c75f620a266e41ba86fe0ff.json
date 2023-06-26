@@ -1,0 +1,59 @@
+{
+  "address": "0x7145d129706c19942c75f620a266e41ba86fe0ff",
+  "type": "ERC721",
+  "name": "Blockchain Contact Card",
+  "tokenCount": "51",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=9UPYb143x5li2Zy4faIW",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1580696220875?alt=media&token=142addd8-d5ff-4d03-a80f-f985b409875a",
+    "forSale": false,
+    "contractAddress": "0x7145d129706c19942c75f620a266e41ba86fe0ff",
+    "description": "0xd693340a27908fc73c14739cf36ed2541446275d brennenjgwilson@gmail.com ",
+    "tags": [],
+    "amountToMint": 25,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1580696758,
+      "_nanoseconds": 322000000
+    },
+    "price": ".0001",
+    "name": "CybercoMs",
+    "fiatPrice": "$0.02",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "0xd693340a27908fc73c14739cf36ed2541446275d",
+        "value": "brennenjgwilson@gmail.com "
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "location",
+        "value": "Vancouver Island, British Columbia, Canada"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJD9RbwiQYiFQRtWoKQiKWmVI"
+      },
+      {
+        "trait_type": "website",
+        "value": ""
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1582185600
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": ""
+      }
+    ],
+    "external_url": "https://mintbase.io/my-market/0x7145d129706c19942c75f620a266e41ba86fe0ff",
+    "type": "ERC721"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "address": "0xb3a980726666fa495b829fa4f643224e47726888",
+  "type": "ERC721",
+  "name": "Wally Wanka's GOLDEN TICKETS!",
+  "tokenCount": "100",
+  "uri": "ipfs://QmXMgUgHQrF1NnSBHtkWTZt1vazUDfP9hQJ2SANzRzLUaH/1.json",
+  "metadata": {
+    "name": "Golden Ticket  #1",
+    "description": "Wally Wanka's Golden Tickets",
+    "external_url": "https://www.goldentickets.io",
+    "image": "ipfs://QmNawwYGZoP8cTxeyzhxXsimt1Bzg3jptpEMXjdhD17i9w/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Ticket"
+      },
+      {
+        "trait_type": "Layer 1",
+        "value": "Golden Ticket  (706)"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Golden Tickets",
+      "family": "Golden Tickets"
+    },
+    "symbol": ""
+  }
+}

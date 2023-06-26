@@ -1,0 +1,42 @@
+{
+  "address": "0x32c576bf07d3bc89edc349018a95c22d52051412",
+  "type": "ERC721",
+  "name": "Asterope",
+  "tokenCount": "42",
+  "uri": "https://art-sandbox.sunflower.industries/token/0x32C576bF07d3bC89EDC349018A95c22d52051412/1",
+  "metadata": {
+    "description": "A series of flowing shapes and beautiful colors.\n\nPress \"a\" to animate. ",
+    "dependencies": "[{\"name\":\"p5@1.4.0\",\"keccak256\":\"0xcef1df742d5237151854b6ccd3d7769c7bcb2cf987e4f8f6ca1ad69afdac3dcc\"}]",
+    "artist": "0xD3fF209c5AdddB59C6aC709Fd0B236FC14246B42",
+    "external_url": "https://art.sunflower.industries/token/0x32C576bF07d3bC89EDC349018A95c22d52051412/1",
+    "image": "https://art-sandbox.sunflower.industries/render/tokenImage/0x32C576bF07d3bC89EDC349018A95c22d52051412/1",
+    "name": "Asterope #1",
+    "attributes": [
+      {
+        "trait_type": "Color Type",
+        "value": "Palette"
+      },
+      {
+        "trait_type": "Starting Shape",
+        "value": "Gaussian"
+      },
+      {
+        "trait_type": "Movement Type",
+        "value": "Field"
+      },
+      {
+        "trait_type": "Locked directions",
+        "value": "0"
+      },
+      {
+        "trait_type": "Circular Ends",
+        "value": "No"
+      },
+      {
+        "trait_type": "Grid",
+        "value": "No"
+      }
+    ],
+    "animation_url": "https://art-sandbox.sunflower.industries/tokenFrame/0x32C576bF07d3bC89EDC349018A95c22d52051412/1"
+  }
+}

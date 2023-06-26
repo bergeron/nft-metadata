@@ -1,0 +1,45 @@
+{
+  "address": "0xba13180df8fc6d42dcf4368701affafcda415e7c",
+  "type": "ERC721",
+  "name": "Layer ID",
+  "tokenCount": "46",
+  "uri": "https://beta.layer.com/api/layer-id/metadata/0x7db4CfB30f8540688C3724195559Fa994b9Ed836",
+  "metadata": {
+    "name": "Layer ID #1 - glauber",
+    "type": "object",
+    "created_by": "Layer.com",
+    "external_url": "https://layer.com",
+    "image": "https://beige-effective-kiwi-224.mypinata.cloud/ipfs/QmPUDPsrjMdguktCUnC8eGKn7rKspJoHnZXbWYB2pWWdP1",
+    "image_url": "https://beige-effective-kiwi-224.mypinata.cloud/ipfs/QmPUDPsrjMdguktCUnC8eGKn7rKspJoHnZXbWYB2pWWdP1",
+    "image_details": {
+      "bytes": 153863,
+      "format": "image/png",
+      "sha256": "e7b5bf62c6cedc7fe5668d4aa2028502bc67c9fac1f1a91d436c17d06a9d5854",
+      "width": 1431,
+      "height": 1488
+    },
+    "description": "This soul bound token represents a valid profile on Layer's platform. It was minted during the sign up process by this token's owner. You can access the profile on layer.com/glauber.",
+    "attributes": [
+      {
+        "trait_type": "User ID",
+        "value": "4a1bb39d-baf7-4b07-8fe2-7faa35606dca"
+      },
+      {
+        "trait_type": "Username",
+        "value": "glauber"
+      },
+      {
+        "trait_type": "Verified E-mail",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Verified Twitter",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Beta Tester",
+        "value": "Yes"
+      }
+    ]
+  }
+}

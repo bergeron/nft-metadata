@@ -1,0 +1,38 @@
+{
+  "address": "0xc98707b5b8f8ad5d2f8cae03566b409a017323b0",
+  "type": "ERC721",
+  "name": "Versailles Heroes Weapon",
+  "tokenCount": "9",
+  "uri": "https://api.versaillesheroes.com/weapon/1",
+  "metadata": {
+    "tokenId": "1",
+    "owner": "0x28855845ff9fefa88e17b451f2504dc086630f53",
+    "image": "https://static01.versaillesheroes.com/weapon/Galina_2_3.jpg",
+    "name": "Versailles Heroes Weapons #1",
+    "weaponName": "Cold Frost",
+    "heroName": "Galina",
+    "description": "Versailles Heroes is the best moba blockchain game",
+    "attributes": [
+      {
+        "trait_type": "WeaponRarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "AttackPower",
+        "value": "80"
+      },
+      {
+        "trait_type": "BattleCountsRewardsDaily",
+        "value": "20"
+      },
+      {
+        "trait_type": "Rewards",
+        "value": "3"
+      }
+    ],
+    "ipfsLast": "QmZjNBtNaUBfEXipXqbpHnY8Tsg3QitvWDopDwVeztephc",
+    "ipfs": "QmWFAHEdWHHmLMKLD8B8b5th4ushyJdmoaD7AURdbU7tJY",
+    "mintBlockTime": "1669366919",
+    "openBoxTime": "1669367114"
+  }
+}

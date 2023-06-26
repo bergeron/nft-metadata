@@ -1,0 +1,101 @@
+{
+  "address": "0x61bf4b411a8448d3012f2435aba6e811d4f8f681",
+  "type": "ERC721",
+  "name": "asdfweqreqrw65",
+  "tokenCount": "50",
+  "uri": "https://api.artblocks.io/token/34000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "34000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Ensō #1",
+    "minted": true,
+    "artist": "Matto",
+    "description": "In Zen, ensō is a symbol that represents elegance and enlightenment. It is typically painted by hand in an uninhibited way, allowing for unexpected and beautiful results. Inspired by sumi-e (ink wash painting), this project mimics the practice of painting an ensō in ink by utilizing p5.js. Each generated image uses values from a unique transaction hash to determine paper, brush, ink, the quantity of ink held by each bristle, how quickly the ink flows, and more—all with the goal of creating a simple yet serendipitous painting.",
+    "script_type": "p5@1.0.0",
+    "project_id": "34",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/34000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/34000001.png",
+    "generator_url": "https://generator.artblocks.io/34000001",
+    "royaltyInfo": {
+      "artistAddress": "0x983f10b69c6c8d72539750786911359619df313d",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Ensō by Matto",
+    "website": "https://matto.xyz/project/enso/",
+    "token_hash": "0x64466636ba6e1aaa4af06b5d932c3a58cbaef01c9eae29cb7134a7c7342ed5b4",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/34/tokens/34000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/34000001.png",
+    "features": {
+      "Ink Load": 1,
+      "Direction": "Clockwise",
+      "Paper Hue": "Green",
+      "Brush Size": 2,
+      "Ink Density": 3,
+      "X/Y Stretch": "Equal",
+      "Paper Texture": 2,
+      "Bristle Density": 6,
+      "Signature Style": "Light",
+      "Brushstroke Size": "Small",
+      "Brushstroke Start": "Rotated 90 degrees"
+    },
+    "traits": [
+      {
+        "trait_type": "Ensō",
+        "value": "All Ensōs"
+      },
+      {
+        "trait_type": "Ensō",
+        "value": "Ink Load: 1"
+      },
+      {
+        "trait_type": "Ensō",
+        "value": "Direction: Clockwise"
+      },
+      {
+        "trait_type": "Ensō",
+        "value": "Paper Hue: Green"
+      },
+      {
+        "trait_type": "Ensō",
+        "value": "Brush Size: 2"
+      },
+      {
+        "trait_type": "Ensō",
+        "value": "Ink Density: 3"
+      },
+      {
+        "trait_type": "Ensō",
+        "value": "X/Y Stretch: Equal"
+      },
+      {
+        "trait_type": "Ensō",
+        "value": "Paper Texture: 2"
+      },
+      {
+        "trait_type": "Ensō",
+        "value": "Bristle Density: 6"
+      },
+      {
+        "trait_type": "Ensō",
+        "value": "Signature Style: Light"
+      },
+      {
+        "trait_type": "Ensō",
+        "value": "Brushstroke Size: Small"
+      },
+      {
+        "trait_type": "Ensō",
+        "value": "Brushstroke Start: Rotated 90 degrees"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC 4.0"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0x7af8767f665452b9663d7093e128f37aa3fcd57f",
+  "type": "ERC721",
+  "name": "Clash Of Barbarians",
+  "tokenCount": "161",
+  "uri": "ipfs://bafybeiev3zsk3nqktyel5lyytzf4oeazfmz5zat2szedz7dy3sy3ggx3hu/1.json",
+  "metadata": {
+    "name": "Clash of Barbarians #1",
+    "description": "Clash of Barbarians is a collection of Barbarians with different attributes ready for battle.",
+    "image": "ipfs://bafybeicle7etagr7h2ohfdob4icouaire2bunkiacoxb4icb6ryis7erge/1.png",
+    "dna": "1a6836f0cf3c8f4e9f4b1a95f8f290e6845e448a",
+    "edition": 1,
+    "date": 1680961819261,
+    "attributes": [
+      {
+        "trait_type": "Attack",
+        "value": "3"
+      },
+      {
+        "trait_type": "Defence",
+        "value": "2"
+      },
+      {
+        "trait_type": "HP",
+        "value": "8"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "6"
+      },
+      {
+        "trait_type": "Speed",
+        "value": "2"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Austin"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "address": "0x8ecf8acb3a79ab9f07f5b1d26a1af948aa87f763",
+  "type": "ERC1155",
+  "name": "FIFA World Cup Cards # Qatar 2022",
+  "tokenCount": "32",
+  "uri": "https://bafybeih6zoh4eqypx75igpkdmoem5wsv3dux4agf5mdl7xzip56q5qhwau.ipfs.nftstorage.link/1.json",
+  "metadata": {
+    "name": "Argentina",
+    "symbol": "",
+    "image": "https://cloudflare-ipfs.com/ipfs/QmaeA4nmEkeXwQyq3CBSexU8Q2gJompwdf4wyoiEBbmg74",
+    "properties": {
+      "files": [
+        {
+          "uri": "Argentina.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video",
+      "creators": [
+        {
+          "address": "0x65229e62bec482bf4f831c54df956fbfc76c303ac9f80e6633223b8ded07f991",
+          "share": 100
+        }
+      ]
+    },
+    "description": "Fifa world cup 2022 card - Team Argentina",
+    "seller_fee_basis_points": 500,
+    "attributes": [
+      {
+        "trait_type": "Country",
+        "value": "Argentina"
+      },
+      {
+        "trait_type": "Group",
+        "value": "C"
+      },
+      {
+        "trait_type": "Continent",
+        "value": "South America"
+      }
+    ],
+    "collection": {}
+  }
+}

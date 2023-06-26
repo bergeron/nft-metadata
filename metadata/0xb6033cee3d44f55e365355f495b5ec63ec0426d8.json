@@ -1,0 +1,40 @@
+{
+  "address": "0xb6033cee3d44f55e365355f495b5ec63ec0426d8",
+  "type": "ERC1155",
+  "name": "Avatar Collective",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/F3x8gqEZsKm6UVFfo78O3vIkfs-iYjT6ugY5W15Wt4M",
+  "metadata": {
+    "name": "SMILE",
+    "created_by": "legatus.eth",
+    "description": "SMILE is both happy and creepy at the same time.  \n.  \n.  \nThis token gives access to:\n\n-The fully rigged 3D file (FBX) of SMILE + TEXTURES\n\n-The exclusive VR chat avatar  \n  \n-A 2D profile picture of SMILE",
+    "attributes": [
+      {
+        "trait_type": "Species",
+        "value": "Happykind"
+      }
+    ],
+    "image_details": {
+      "bytes": 339443,
+      "format": "JPEG",
+      "sha256": "b9225f8e79e9996f4a3caf8874a75be790a37c193bad1899cf5eec4f1b668dd1",
+      "width": 1920,
+      "height": 1920
+    },
+    "image": "https://arweave.net/i9PE_HqXw_blNOgqx4xahdekObmMSm8M_1DiH873SLU",
+    "image_url": "https://arweave.net/i9PE_HqXw_blNOgqx4xahdekObmMSm8M_1DiH873SLU",
+    "animation_details": {
+      "bytes": 13352467,
+      "format": "MP4",
+      "duration": 10,
+      "sha256": "fd83e2c2aedf4f64e0eacb5293333d3018d0107f3011e18d4373cb818fc05fe0",
+      "width": 1920,
+      "height": 1920,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/U_cBSiFo4dHjx-hgULOmPDWiMg4Qu6FSQ64EnXePeXI",
+    "animation_url": "https://arweave.net/U_cBSiFo4dHjx-hgULOmPDWiMg4Qu6FSQ64EnXePeXI"
+  }
+}

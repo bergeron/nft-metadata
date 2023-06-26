@@ -1,0 +1,22 @@
+{
+  "address": "0x1098e17a42c43796a739370c31724a68dd5e331d",
+  "type": "ERC721",
+  "name": "EthereumTest",
+  "tokenCount": "1",
+  "uri": "https://factory.chocomint.app/metadata/1/0x1098e17a42c43796a739370c31724a68dd5e331d/1",
+  "metadata": {
+    "image": "https://ipfs.io/ipfs/QmRfpAuvYfjCiXJKqv6hq3NGFHET7ky4q9QGNTYpCpi8qU/nft.gif",
+    "description": "test1",
+    "chainId": "1",
+    "name": "test1",
+    "attributes": [
+      {
+        "trait_type": "test",
+        "value": "1"
+      }
+    ],
+    "animation_url": "",
+    "nft_contract_address": "0x1098e17a42c43796a739370c31724a68dd5e331d",
+    "token_id": 1
+  }
+}

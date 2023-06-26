@@ -1,0 +1,39 @@
+{
+  "address": "0x690a22abffbebcae27fa5ea239e403da80faf6ad",
+  "type": "ERC721",
+  "name": "Ethereum License Plates",
+  "tokenCount": "11",
+  "uri": "ipfs://bafybeicdedbyyf4yae5xvgjaw3l2xtuwob3jtyw6edwlmvpvr3hq6cehky/1.json",
+  "metadata": {
+    "name": "Ethereum License Plate #1",
+    "description": "Ethereum License Plates is a custom set of license plates made for the Ethereum blockchain. Stamped are the blockchain name, plate number, contract address, and contract creation date/time. Plates are ranked into color-coded Tiers based on their number of digits and number value. The CORE traits of this collection are BASE URI LAST UPDATE and CREATION DATE TIME which no other project can copy and be earlier than what the collection's said traits indicate.",
+    "image": "ipfs://bafybeie3she7d4t55rhgvvw3larlciapuxtfethkf2q2fy4mrkditpmj6u/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Blockchain",
+        "value": "Ethereum"
+      },
+      {
+        "trait_type": "Creation Date Time",
+        "value": "22 0715 04;35;18 UTC"
+      },
+      {
+        "trait_type": "Base URI Last Update",
+        "value": "22 0722 06;15 UTC"
+      },
+      {
+        "trait_type": "Number",
+        "value": "1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "A"
+      }
+    ]
+  }
+}

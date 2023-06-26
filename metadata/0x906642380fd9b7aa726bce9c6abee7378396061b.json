@@ -1,0 +1,36 @@
+{
+  "address": "0x906642380fd9b7aa726bce9c6abee7378396061b",
+  "type": "ERC721",
+  "name": "INCOOOM",
+  "tokenCount": "2916",
+  "uri": "ipfs://QmaGRDin2YYRj3zbPE23p6YPeTpMn7YcFqtVDD6aY8Zoo3/2600",
+  "metadata": {
+    "description": "A playing card that represents the 9,9 Genesis of INCOOOM ",
+    "image": "ipfs://QmVtgZ7VjYVKNovmayWDLdNivLSujYxYiVdU5yMn4x6Hhp/7.png",
+    "name": "Genesis 2600",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0x21F9927d306497A56e3469b16784F087Bd1AE0bA",
+    "attributes": [
+      {
+        "trait_type": "Deck Type",
+        "value": "Psychedelic"
+      },
+      {
+        "trait_type": "Psychedelic Deck Number",
+        "value": "1"
+      },
+      {
+        "trait_type": "Suit",
+        "value": "Diamonds"
+      },
+      {
+        "trait_type": "value",
+        "value": "Nine"
+      },
+      {
+        "trait_type": "Card In Deck",
+        "value": "8"
+      }
+    ]
+  }
+}

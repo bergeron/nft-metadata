@@ -1,0 +1,38 @@
+{
+  "address": "0x0aaf279cd9af8db9a19bb89e848ab4a99f62fb89",
+  "type": "ERC721",
+  "name": "Kevin Cats NFTs",
+  "tokenCount": "500",
+  "uri": "https://ipfs.io/ipfs/QmeFHEf5zb9tK2xsEffkBt54Gcdbd9s5X732LNeUcyQmLf/1.json",
+  "metadata": {
+    "name": "Kevin Cats NFT #1",
+    "description": "A collection of 2500 kevins but as cool cats.. No roadmap, Just vibes.",
+    "image": "https://ipfs.io/ipfs/QmYhmwgsgbJnjRSq52PaY42cyDU9CxDJCmP72s4qqmBAVc/1.png",
+    "dna": "5f0203d91bed1a8159cc7d6117f674c4bc4b23df",
+    "edition": 1,
+    "date": 1646720581584,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Kevin"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Grin"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Horns"
+      },
+      {
+        "trait_type": "Shirts",
+        "value": "Tshirt White"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0xa9a1ccbadd65a44473ddcc9ee62d4122c0b146f0",
+  "type": "ERC721",
+  "name": "World Of Squish",
+  "tokenCount": "2196",
+  "uri": "ipfs://QmX9Hi6jybCjwwRpBLAiBunmaVm8RGPszti27sZnwKHeYw/prod-metadata/1.json",
+  "metadata": {
+    "tokenId": 1,
+    "name": "Premium Deluxe Squishy No. 1",
+    "image": "ipfs://QmYSkgtHVGAXNcNVr4U8wEWhvg8bRxmX2Zbu2HJGZB5xWk",
+    "percent": 5.05,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Premium Deluxe"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Percentile",
+        "value": 94.95
+      },
+      {
+        "trait_type": "Handpicked",
+        "value": true
+      }
+    ]
+  }
+}

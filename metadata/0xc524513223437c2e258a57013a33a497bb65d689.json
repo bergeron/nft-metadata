@@ -1,0 +1,32 @@
+{
+  "address": "0xc524513223437c2e258a57013a33a497bb65d689",
+  "type": "ERC721",
+  "name": "Test Turtles",
+  "tokenCount": "7",
+  "uri": "https://arweave.net/z-azctwi_HgJyFW-lHKIXs4gwyrmPiEymeIpXjqenws/1",
+  "metadata": {
+    "name": "Test Turtle with updated image",
+    "created_by": "Unchained Ninja",
+    "external_url": "https://www.art-unchained.io",
+    "description": "Arrrrrrrrrrt!",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Unchained Ninja"
+      },
+      {
+        "trait_type": "Animal",
+        "value": "Crazy Bird"
+      }
+    ],
+    "image_details": {
+      "bytes": 734442,
+      "format": "GIF",
+      "sha256": "a21306b1f80b86ae2283fcbe35732556534fdfb0ef39c2dac4e87219af0df5e8",
+      "width": 360,
+      "height": 270
+    },
+    "image": "https://arweave.net/6FznSqiHFU3VCw_m8torGCgdUztjuB6CUtUnS-XXto4",
+    "image_url": "https://arweave.net/6FznSqiHFU3VCw_m8torGCgdUztjuB6CUtUnS-XXto4"
+  }
+}

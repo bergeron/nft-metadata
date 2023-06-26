@@ -1,0 +1,25 @@
+{
+  "address": "0xac3c0c3da3eabd8e13646351c8c8b4c273e5bd73",
+  "type": "ERC721",
+  "name": "Meep Alpha",
+  "tokenCount": "3",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xac3c0c3da3eabd8e13646351c8c8b4c273e5bd73/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xaC3c0C3da3EaBD8e13646351c8c8b4c273e5bD73/icon?id=1",
+    "expiration": 1581422551,
+    "tokenId": "1",
+    "owner": "0x58fa960ef924aebab4d70432b5e59075ae3f145f",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1581422551
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xaC3c0C3da3EaBD8e13646351c8c8b4c273e5bD73",
+    "network": 1
+  }
+}

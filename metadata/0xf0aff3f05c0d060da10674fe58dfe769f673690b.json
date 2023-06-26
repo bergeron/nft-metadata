@@ -1,0 +1,44 @@
+{
+  "address": "0xf0aff3f05c0d060da10674fe58dfe769f673690b",
+  "type": "ERC721",
+  "name": "CNPMusic",
+  "tokenCount": "10001",
+  "uri": "https://gene.cnp-music.jp/json/0/open/1.json",
+  "metadata": {
+    "name": "Mitama-BlueSpecial #00001",
+    "description": "Mitama who is Guitar player struggle to restore the value of music also today!  \nGuitar playerのミタマは、今日も音楽の価値を取り戻すため、演奏に奮闘しています！",
+    "image": "https://gene.cnp-music.jp/images/0/open/1.png",
+    "animation_url": "https://gene.cnp-music.jp/animations/0/1.wav",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Character",
+        "value": "Mitama"
+      },
+      {
+        "trait_type": "Body",
+        "value": "BlueSpecial"
+      },
+      {
+        "trait_type": "Cosplay",
+        "value": "HardRock"
+      },
+      {
+        "trait_type": "Background",
+        "value": "VibesGreen"
+      },
+      {
+        "trait_type": "Instrument",
+        "value": "Guitar"
+      },
+      {
+        "trait_type": "Backing",
+        "value": "Country"
+      },
+      {
+        "trait_type": "Rhythm",
+        "value": "MarchRhythm"
+      }
+    ]
+  }
+}

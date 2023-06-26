@@ -1,0 +1,56 @@
+{
+  "address": "0x9834ebdc536b5cfaa1da3b333eff50d2b6ad5791",
+  "type": "ERC721",
+  "name": "Gnome Nation",
+  "tokenCount": "262",
+  "uri": "https://gnomenation.nftapi.art/meta/1",
+  "metadata": {
+    "token_id": 1,
+    "dna": null,
+    "name": "Gnome #1",
+    "description": "This is your VIP membership to the Gnome Nation",
+    "image": "https://ipfs.io/ipfs/Qma16JmZVdQrPoupPfoBFrCAaK4dLPGQ6wtMLR9CESb4KZ",
+    "animation_url": null,
+    "media": null,
+    "seller_fee_basis_points": 440,
+    "fee_recipient": "0x53729421B21d06E65fbc4C67d12B04A66EC182aA",
+    "attributes": [
+      {
+        "value": "Peach",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Cyborg",
+        "trait_type": "Race"
+      },
+      {
+        "value": "Rain Coat",
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "Holographic",
+        "trait_type": "Beard"
+      },
+      {
+        "value": "Cigar",
+        "trait_type": "Mouthe"
+      },
+      {
+        "value": "Holographic",
+        "trait_type": "Mustache"
+      },
+      {
+        "value": "Sensored",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "Visor",
+        "trait_type": "Hats"
+      },
+      {
+        "value": "AR-15",
+        "trait_type": "Hand Helds"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "address": "0xe82d37f87f86663627ddd1c2db5c37c97a5688dd",
+  "type": "ERC721",
+  "name": "GATCA",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/LFd7bhMsJ6UBRutDuml3vg0FX4kfgOHeA3NDCxz6IK4",
+  "metadata": {
+    "name": "EVA - GATCAC",
+    "created_by": "EVA",
+    "external_url": "https://hex6c.medium.com/eva-a-mitochondrial-story-eec51f8c803a",
+    "description": "EVA is an art project based on the idea of representing the genetic code (DNA) in an artistic way. DNA represents the code of every living being; this code was the inspiration to write another code - programmable - which generated the artwork. The result was a happy meeting of codes: the first one, executed over millennia by nature, and the second one, executed in the blink of an eye by the machine, mediated by human intervention. \n\nEVA, a work with a strictly scientific foundation, reveals a skillful use of 3D, generative code and glitches to create striking visuals that materialize the theme of biological functionality and mutation, while creating a bridge between art and science, and between the human code and that of a generative work of art. Construction and deconstruction follow each other to bring to life a narrative that respects the scientific component without neglecting the artistic element. Nature becomes both the basis of the narrative and the glue between man and machine, revealing that human and artificial agents are not as opposed or separate as we might think.\n\nThe result of the project consists of three videos of 60 seconds each. Each video is named after the first nucleotides of mitochondrial DNA: GATCAC, AGGTCT and ATCACC.",
+    "Secret": "ACGATG",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "EVA"
+      },
+      {
+        "trait_type": "DNA",
+        "value": "GATCAC"
+      }
+    ],
+    "animation_details": {
+      "bytes": 77727656,
+      "format": "MP4",
+      "duration": 60,
+      "sha256": "60206377b9b87a3d580e04d075e5f317405245cc04b0cac801d591a33319e32c",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/sEadJN5F9RQA8ekGQLMRTebn8XCdu5Gih_vMW9OTq3o",
+    "animation_url": "https://arweave.net/sEadJN5F9RQA8ekGQLMRTebn8XCdu5Gih_vMW9OTq3o",
+    "image_details": {
+      "bytes": 1370974,
+      "format": "PNG",
+      "sha256": "f5b4abaad4222ffd53085243672eb86b299abc2f5007e0779ab408418cc8d6e8",
+      "width": 1118,
+      "height": 628
+    },
+    "image": "https://arweave.net/Nlu0i-KpfZCG--zY0C0v399f5edq0f6mVpYI2SnB6gU",
+    "image_url": "https://arweave.net/Nlu0i-KpfZCG--zY0C0v399f5edq0f6mVpYI2SnB6gU"
+  }
+}

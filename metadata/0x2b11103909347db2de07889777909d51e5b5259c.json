@@ -1,0 +1,65 @@
+{
+  "address": "0x2b11103909347db2de07889777909d51e5b5259c",
+  "type": "ERC721",
+  "name": "Talking Heads by Coldie",
+  "tokenCount": "250",
+  "uri": "ipfs://QmXXxXtz1RYehmVjEdWY14Wf7aroXaAVrDq4LthaQZiRk9/1/token.json",
+  "metadata": {
+    "name": "Talking Heads #1",
+    "description": "Ever since the television was released to the public, it has captured the attention of billions of people. The nightly news has long been the way many get their daily dose of current event information. Over the decades many talking heads have delivered stories that will never be forgotten, but who are these people? Do they really even care what they are reading or how the information is going to be digested by the viewers? This series takes a look at the many faces of many newscasters. Throw away your television. EBS backgrounds by King Lion.",
+    "external_url": "https://async.market/blueprints/63bf2b0642491aa67ffcc2fb/editions/0x2b11103909347db2de07889777909d51e5b5259c-1",
+    "attributes": [
+      {
+        "trait_type": "Asset Type",
+        "value": "Edition"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Coldie"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Talking Heads"
+      },
+      {
+        "trait_type": "Background",
+        "value": "biohazard"
+      },
+      {
+        "trait_type": "Body",
+        "value": "blouse"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mouth 8"
+      },
+      {
+        "trait_type": "Right Eye",
+        "value": "right eye 06"
+      },
+      {
+        "trait_type": "Left Eye",
+        "value": "left eye 02"
+      },
+      {
+        "trait_type": "Talk",
+        "value": "prices up"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "nose-05"
+      }
+    ],
+    "async-attributes": {
+      "prefixHash": "efea3e2dc39366f47af58063c1ce6a1247b99487d67f49df250aad4f326e89da",
+      "txHash": "0x33315fedda62a4d860322812f8e577fb71f2202f9d0d29b013d3dd90ff56325d",
+      "signatures": [
+        {
+          "address": "0xd0c877b474cd51959931a7f70d7a6c60f50cdae7",
+          "version": 2
+        }
+      ]
+    },
+    "image": "ipfs://QmeKtkMSYuQ9aAiJTHzZmWnSRxnjMdP3NThuB4mg1Z5fSU"
+  }
+}

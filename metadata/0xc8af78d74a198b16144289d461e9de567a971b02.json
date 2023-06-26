@@ -1,0 +1,46 @@
+{
+  "address": "0xc8af78d74a198b16144289d461e9de567a971b02",
+  "type": "ERC721",
+  "name": "Cosmic Ink",
+  "tokenCount": "4",
+  "uri": "https://cosmic-static-data.s3.us-west-1.amazonaws.com/jsons/1.json",
+  "metadata": {
+    "animation_url": "https://thecosmicink.com/preview/1",
+    "base_id": 49,
+    "image": "https://cosmic-static-data.s3.us-west-1.amazonaws.com/nft-images/nft-image-1.jpeg",
+    "external_url": "https://thecosmicink.com/details/1",
+    "attributes": [
+      {
+        "trait_type": "Base Speed",
+        "value": 0.33
+      },
+      {
+        "trait_type": "Noise Scale",
+        "value": 1.14
+      },
+      {
+        "trait_type": "Base Category",
+        "value": "Brilliant Blobs"
+      },
+      {
+        "trait_type": "Noise Type",
+        "value": "Simplex-1"
+      },
+      {
+        "trait_type": "Texture",
+        "value": "Frosted"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Soft"
+      },
+      {
+        "trait_type": "Granularity",
+        "value": "Low"
+      }
+    ],
+    "description": "The Cosmic Ink is a limited edition collection of 512 generative artworks. Each artwork is a unique NFT with its attributes curated manually by experts. This artwork belongs to the \"Brilliant Blobs\" category. Simplex noise has been infused to induce life-like movements producing an aesthetic and rare impact. It has a frosted texture, with a soft body and low granularity.",
+    "name": "Cosmic #1: Utopian Display",
+    "noise_id": 4
+  }
+}

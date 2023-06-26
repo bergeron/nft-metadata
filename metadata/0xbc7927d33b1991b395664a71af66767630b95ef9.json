@@ -1,0 +1,66 @@
+{
+  "address": "0xbc7927d33b1991b395664a71af66767630b95ef9",
+  "type": "ERC721",
+  "name": "1211kjkadsfdsaf",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/51000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "51000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Stipple Sunsets #1",
+    "minted": true,
+    "artist": "Jake Rockland",
+    "description": "Beachy dreamscape vibes. 50% of the minting sales proceeds for Stipple Sunsets were directly sent to GiveDirectly, a non-profit that sends money directly to the worlds poorest and most in need–50% of subsequent artist royalties will be be donated to charities in the Rocky Mountain region.",
+    "script_type": "p5@1.0.0",
+    "project_id": "51",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/51000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/51000001.png",
+    "generator_url": "https://generator.artblocks.io/51000001",
+    "royaltyInfo": {
+      "artistAddress": "0xffbc92e11575fe4da9093f53957956d991c78268",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Stipple Sunsets by Jake Rockland",
+    "website": "https://jakerockland.com",
+    "token_hash": "0xc10546518de251f8efe1bdcb0f7272b4ddfaadd11505524f39f8666b15b555fa",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/51/tokens/51000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/51000001.png",
+    "features": {
+      "Alignment": "Bottom-Right",
+      "Stipple Size": 6,
+      "Color Palette": "Autumn Breeze",
+      "Stipple Density": 1
+    },
+    "traits": [
+      {
+        "trait_type": "Stipple Sunsets",
+        "value": "All Stipple Sunsets"
+      },
+      {
+        "trait_type": "Stipple Sunsets",
+        "value": "Alignment: Bottom-Right"
+      },
+      {
+        "trait_type": "Stipple Sunsets",
+        "value": "Stipple Size: 6"
+      },
+      {
+        "trait_type": "Stipple Sunsets",
+        "value": "Color Palette: Autumn Breeze"
+      },
+      {
+        "trait_type": "Stipple Sunsets",
+        "value": "Stipple Density: 1"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC 4.0"
+  }
+}

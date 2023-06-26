@@ -1,0 +1,44 @@
+{
+  "address": "0x42df419667f7c2d1a159cd6a182caa9247ba7f6b",
+  "type": "ERC721",
+  "name": "Jackpots",
+  "tokenCount": "12",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=SGblHkzqdOp8UiwrLZTc",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1579029598844?alt=media&token=3ed5404b-f6de-42e2-af40-e45ac9f199ab",
+    "forSale": false,
+    "contractAddress": "0x42df419667f7c2d1a159cd6a182caa9247ba7f6b",
+    "description": "Level 4 Mixing Plant #42 X 432 Y 475",
+    "type": "ERC721",
+    "tags": [],
+    "external_link": "https://mintbase.io/minted/0x42df419667f7c2d1a159cd6a182caa9247ba7f6b/SGblHkzqdOp8UiwrLZTc",
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "external_url": "https://mintbase.io",
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1579030053,
+      "_nanoseconds": 58000000
+    },
+    "price": 0,
+    "name": "MegaCryptoPolis Mixing Plant",
+    "fiatPrice": "$0.00",
+    "attributes": [
+      {
+        "trait_type": "website",
+        "value": "https://play.mcp3d.com/?x=432&y=475"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1578870000
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io"
+  }
+}

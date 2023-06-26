@@ -1,0 +1,68 @@
+{
+  "address": "0x8cd8adf38f45bbacf2c11cc540109a08c18c4c71",
+  "type": "ERC721",
+  "name": "PixelatedBlocksmith",
+  "tokenCount": "1001",
+  "uri": "https://bafybeiel56eukenmmilu7okijwmf6ypip3cikxqhrlgzbuxu32v4fxzxp4.ipfs.nftstorage.link/1.json",
+  "metadata": {
+    "name": "Pixelated Blocksmith #1",
+    "symbol": "PXB",
+    "description": "Pixelating and changing collections to change lifes...",
+    "seller_fee_basis_points": "1000",
+    "image": "https://ipfs.moralis.io:2053/ipfs/QmQkF9JFfmyUp4eCbbJQrZjJB3SaERDDwtwKfmBvAwg7Gv",
+    "external_url": "http://pixelatedblocksmith.art/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sapphire"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Salmon"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Archer"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Dark Pirate"
+      },
+      {
+        "trait_type": "Belt",
+        "value": "Pirate"
+      },
+      {
+        "trait_type": "Gauntlet",
+        "value": "Archer"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Possessed"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Emerald King"
+      }
+    ],
+    "collection": {
+      "name": "Pixelated Blocksmith",
+      "family": "Pixelated Crew"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://ipfs.moralis.io:2053/ipfs/QmQkF9JFfmyUp4eCbbJQrZjJB3SaERDDwtwKfmBvAwg7Gv",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x227455B4d8C0ef7189f19Bfa2B57675a08A29CDA",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

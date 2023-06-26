@@ -1,0 +1,48 @@
+{
+  "address": "0x239adeeed414d163214d9b8a563c862dcf2206d0",
+  "type": "ERC721",
+  "name": "Moonshiners NFT",
+  "tokenCount": "9999",
+  "uri": "ipfs://bafybeifrnfcyfsj75tc4fefmqszz6ablut3ako6hlcpkvfwwxf2epd5aym/1.json",
+  "metadata": {
+    "name": "Moonshiners #1",
+    "description": "10,000 Moonshiners distilling onto the Ethereum blockchain using grassroots Passive Viral Minting (PVM).",
+    "image": "ipfs://bafybeiclojbdi7ixr6m3ojofk7yc2sl7mhzygzjjtmcf5lnk4mckogqrdu/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "HAND",
+        "value": "SWITCHBLADE"
+      },
+      {
+        "trait_type": "FACES",
+        "value": "PUGNOSE PETE"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "BEAT"
+      },
+      {
+        "trait_type": "HATS",
+        "value": "DIXIE CUP"
+      },
+      {
+        "trait_type": "HEADS",
+        "value": "EARS"
+      },
+      {
+        "trait_type": "BODIES",
+        "value": "BARTENDER"
+      },
+      {
+        "trait_type": "bgs",
+        "value": "GIN"
+      },
+      {
+        "trait_type": "TYPE",
+        "value": "GENTS"
+      }
+    ],
+    "reference": "1_GENTS"
+  }
+}

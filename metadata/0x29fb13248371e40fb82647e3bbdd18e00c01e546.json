@@ -1,0 +1,34 @@
+{
+  "address": "0x29fb13248371e40fb82647e3bbdd18e00c01e546",
+  "type": "ERC721",
+  "name": "Monster Eye NFT",
+  "tokenCount": "33",
+  "uri": "https://ipfs.io/ipfs/QmZDppcxGqsduFUFsy8vjUVAtL3Rn9EfUNTohmYmN1hbdw/1",
+  "metadata": {
+    "image": "ipfs://QmTRy7eTQt4AJWgvWc6fPy7xUw9iHaFzra5qPeADJB9wUT/0001.png",
+    "name": "Monster #1",
+    "description": "Monster Eye NFT",
+    "attributes": [
+      {
+        "trait_type": "Race",
+        "value": "Raptor"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Swamp"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Mental"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Earth"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Cruel"
+      }
+    ]
+  }
+}

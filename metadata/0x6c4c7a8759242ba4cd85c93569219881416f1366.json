@@ -1,0 +1,38 @@
+{
+  "address": "0x6c4c7a8759242ba4cd85c93569219881416f1366",
+  "type": "ERC721",
+  "name": "Art Basel Punks",
+  "tokenCount": "584",
+  "uri": "ipfs://QmWfFhxeK2zgqGvin3wuTNVi8SDqXAxWz86GoRh74edMce/1.json",
+  "metadata": {
+    "dna": "1a527a67ffc49ecb7bd3e7044d196cf74d3fd483",
+    "name": "#1",
+    "description": "SmolPhunks",
+    "image": "ipfs://QmX5iZ7tsTZZYVh6vtHCymLDrivm9hXgX8TqFoommAVrns/1.png",
+    "edition": 1,
+    "date": 1641356357149,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "grey"
+      },
+      {
+        "trait_type": "skin",
+        "value": "light tan"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "normal beard"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "classic shades"
+      },
+      {
+        "trait_type": "hat",
+        "value": "mole"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "address": "0x4758f5189cecb2384e54389d1439cb8ebaf15565",
+  "type": "ERC721",
+  "name": "Mystery Chests by Dr. DMT",
+  "tokenCount": "7799",
+  "uri": "https://chests-bucket.s3.us-east-2.amazonaws.com/1",
+  "metadata": {
+    "description": "Metasaurs Mystery Chests by Dr. DMT is a mysterious collection living on the Ethereum blockchain, forever...\nMetasaurs ID equal to Chest ID => 100% rarity points\nMetasaurs ID not equal to Chest ID => 50% rarity points",
+    "external_url": "https://metasaurs.com",
+    "image": "https://mysterychests.mypinata.cloud/ipfs/QmNzQNXtX41J9oUDKJAQCtjwSd6VteBeiBZvXoKbd7sBSm/4-Open-BG.png",
+    "name": "Mystery Chest #1",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "Opened"
+      },
+      {
+        "trait_type": "Type",
+        "value": "4"
+      },
+      {
+        "trait_type": "WhiteList",
+        "value": "1"
+      },
+      {
+        "trait_type": "Rarity Points",
+        "value": "100000"
+      },
+      {
+        "trait_type": "Extra Item",
+        "value": ""
+      }
+    ]
+  }
+}

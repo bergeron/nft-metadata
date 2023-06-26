@@ -1,0 +1,74 @@
+{
+  "address": "0xe4826a545f7bad0d97d32bd52b321b51687da6f7",
+  "type": "ERC721",
+  "name": "Cubic Lady 1 - old",
+  "tokenCount": "1",
+  "uri": "ipfs://QmfLui81vZW4yufbGJKdhESb9YD5saz7CsoVeSJyhijJFh/1.json",
+  "metadata": {
+    "name": "Cubic Lady One #1",
+    "description": "Cubic Punks : Home of Eye Candy Collectibles",
+    "image": "ipfs://QmbqEnDeG54q7HWk7kFcgJMrtqUUVxxmoz3bEGf8CfP8ZD/1.png",
+    "dna": "826851c0e8c4f066617e2a3816fa64cf5cdc2166",
+    "edition": 1,
+    "date": 1644666879577,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "Cubic Lady One",
+      "family": "Cubic Lady One : Home of Eye Candy Collectibles"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x936B1037A13E4c56D5c9e079aEa24235C1E78BD6",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "BaseBG09"
+      },
+      {
+        "trait_type": "BG",
+        "value": "BG04"
+      },
+      {
+        "trait_type": "Hair Left",
+        "value": "LHair"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Face14"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Eye18"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Neck06"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mouth19"
+      },
+      {
+        "trait_type": "Hair Right",
+        "value": "HairRight"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

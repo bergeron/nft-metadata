@@ -1,0 +1,36 @@
+{
+  "address": "0x5f26bb6d7cf4b453a3446b7a094e95a545fbc634",
+  "type": "ERC721",
+  "name": "NSW Club",
+  "tokenCount": "10",
+  "uri": "ipfs://QmZvMGnMhAYChAojLBRRByt9WeQVeLNuRk28PXQVPZujim/1.json",
+  "metadata": {
+    "name": "NSW Member#1",
+    "description": "A  community for cannabis lovers to interact and create new opportunities.",
+    "external_url": "",
+    "image": "ipfs://QmcgJCUumNoUSs6jicJMvszqu9PUwvhACr4dU6Nqzo2JgA/1.webp",
+    "attributes": [
+      {
+        "trait_type": "NSW Acess Card",
+        "value": "NSWnft"
+      },
+      {
+        "trait_type": "Card Number ",
+        "value": "#6"
+      },
+      {
+        "trait_type": "Empty",
+        "value": "Generating Purposes 5"
+      },
+      {
+        "trait_type": "Empty",
+        "value": "Generating Purposes 8"
+      },
+      {
+        "trait_type": "Empty",
+        "value": "Generating Purposes 6"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

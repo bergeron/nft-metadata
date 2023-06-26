@@ -1,0 +1,36 @@
+{
+  "address": "0x22f3c36beafc70f8469e8893a1867362033cb162",
+  "type": "ERC721",
+  "name": "Sweet Dreams",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/9rfKOOaRlcGe-y8DJL3eEFHLc2Bjd3h2T5lv8cLWy40",
+  "metadata": {
+    "name": "Sweet Dreams #1",
+    "created_by": "radiosolace",
+    "description": "Imagined by Radiosolace",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "radiosolace"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Sweet Dreams"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "#",
+        "value": "1"
+      }
+    ],
+    "image_details": {
+      "bytes": 17064522,
+      "format": "PNG",
+      "sha256": "355c47b0f36e91d2d807e2ddc24316ef8fa691bf13fbcfa4a22e7c2184213400",
+      "width": 4067,
+      "height": 5200
+    },
+    "image": "https://arweave.net/rWwLCMPsuUEXqVFFbU0-nMNALdPg5zTj4TGRmmTUIRM",
+    "image_url": "https://arweave.net/rWwLCMPsuUEXqVFFbU0-nMNALdPg5zTj4TGRmmTUIRM"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "address": "0xcbdb0c4cfaf00a57e6e2dbd36b0a3ba35288e5ce",
+  "type": "ERC721",
+  "name": "Wishful Dolphin",
+  "tokenCount": "8",
+  "uri": "https://api.wishfuldolphin.io/metadata/1.json",
+  "metadata": {
+    "description": "Wishful Dolphin",
+    "external_url": "https://api.wishfuldolphin.io/images/1.png",
+    "image": "ipfs://QmbtrDbkSXyJefKvGErpBc6E2rHwLemxB7rh5koXHEFqV5",
+    "name": "#1",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "powder blue"
+      },
+      {
+        "trait_type": "eye",
+        "value": "rolling"
+      },
+      {
+        "trait_type": "vision",
+        "value": "ice cream"
+      },
+      {
+        "trait_type": "carry",
+        "value": "game controller"
+      },
+      {
+        "trait_type": "accessory",
+        "value": "baseball hat"
+      }
+    ]
+  }
+}

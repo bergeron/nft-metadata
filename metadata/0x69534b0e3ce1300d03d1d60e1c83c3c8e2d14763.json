@@ -1,0 +1,30 @@
+{
+  "address": "0x69534b0e3ce1300d03d1d60e1c83c3c8e2d14763",
+  "type": "ERC721",
+  "name": "Non-Fungible Applebee's",
+  "tokenCount": "4",
+  "uri": "ipfs://QmV9e9PgdDExp4fMT8tBDhGbfydmrbo6HZGcQTeTc3num7/1.json",
+  "metadata": {
+    "name": "Applebee's Opelika Rd",
+    "description": "Applebee's store number 1 located at 1627-34 Opelika Road in beautiful Auburn, Alabama.",
+    "image": "ipfs://bafkreialb7clntt2ymve5cbgwusmbvokz2qqxgr7ytuxp252g6uuydiaoy",
+    "attributes": [
+      {
+        "trait_type": "Store Number",
+        "value": "1"
+      },
+      {
+        "trait_type": "City",
+        "value": "Auburn"
+      },
+      {
+        "trait_type": "State",
+        "value": "Alabama"
+      },
+      {
+        "trait_type": "Zip Code",
+        "value": "36830"
+      }
+    ]
+  }
+}

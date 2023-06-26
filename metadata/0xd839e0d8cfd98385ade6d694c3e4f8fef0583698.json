@@ -1,0 +1,112 @@
+{
+  "address": "0xd839e0d8cfd98385ade6d694c3e4f8fef0583698",
+  "type": "ERC721",
+  "name": "erqewreqwr9",
+  "tokenCount": "50",
+  "uri": "https://api.artblocks.io/token/64000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "64000001",
+    "series": 3,
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "AlgoRhythms #1",
+    "minted": true,
+    "artist": "Han x Nicolas Daniel",
+    "description": "AlgoRhythms is a collection of generative audio-visual data sculptures. Each unique hash drives the combination of colors, patterns and musical scales into a music box.",
+    "script_type": "tone@14.8.15",
+    "project_id": "64",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 3",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/64000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/64000001.png",
+    "generator_url": "https://generator.artblocks.io/64000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/64000001",
+    "royaltyInfo": {
+      "artistAddress": "0x67ba5775a60b13254bf65ea67295dd47543bc5e1",
+      "additionalPayee": "0x89cbb15c7ab08a39328b0e3ddf8cffa8d7c50899",
+      "additionalPayeePercentage": 50,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "AlgoRhythms by Han x Nicolas Daniel",
+    "website": "https://twitter.com/algo_io",
+    "token_hash": "0x91743b882a719207bb92ff9d678663eab6c8aaf2466daa695d09365e274a3abe",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/64/tokens/64000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/64000001",
+    "features": {
+      "Bpm": "Moderato (90bpm)",
+      "Type": "Tube",
+      "Rests": "False",
+      "Style": "Color",
+      "Height": "Medium",
+      "Margin": "None",
+      "Melody": "Procedural",
+      "Octaves": "4 - 5",
+      "Background": "Mandy",
+      "Oscillator": "Sine",
+      "Music Scale": "Aeolian (Ancient Greek)",
+      "Subdivisions": "Procedural",
+      "Number of Notes": 6
+    },
+    "traits": [
+      {
+        "trait_type": "AlgoRhythms",
+        "value": "All AlgoRhythms"
+      },
+      {
+        "trait_type": "AlgoRhythms",
+        "value": "Bpm: Moderato (90bpm)"
+      },
+      {
+        "trait_type": "AlgoRhythms",
+        "value": "Type: Tube"
+      },
+      {
+        "trait_type": "AlgoRhythms",
+        "value": "Rests: False"
+      },
+      {
+        "trait_type": "AlgoRhythms",
+        "value": "Style: Color"
+      },
+      {
+        "trait_type": "AlgoRhythms",
+        "value": "Height: Medium"
+      },
+      {
+        "trait_type": "AlgoRhythms",
+        "value": "Margin: None"
+      },
+      {
+        "trait_type": "AlgoRhythms",
+        "value": "Melody: Procedural"
+      },
+      {
+        "trait_type": "AlgoRhythms",
+        "value": "Octaves: 4 - 5"
+      },
+      {
+        "trait_type": "AlgoRhythms",
+        "value": "Background: Mandy"
+      },
+      {
+        "trait_type": "AlgoRhythms",
+        "value": "Oscillator: Sine"
+      },
+      {
+        "trait_type": "AlgoRhythms",
+        "value": "Music Scale: Aeolian (Ancient Greek)"
+      },
+      {
+        "trait_type": "AlgoRhythms",
+        "value": "Subdivisions: Procedural"
+      },
+      {
+        "trait_type": "AlgoRhythms",
+        "value": "Number of Notes: 6"
+      }
+    ],
+    "is_static": false,
+    "license": "NIFTY License"
+  }
+}

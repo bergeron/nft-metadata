@@ -1,0 +1,52 @@
+{
+  "address": "0x77cb648dae3ecbb0289c19c22672f9a85fe20b18",
+  "type": "ERC721",
+  "name": "CryptoBatesGroup Events V2",
+  "tokenCount": "139",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=SfNG6exOxKjipAXEFIZM",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1579019047273?alt=media&token=17693497-21de-4227-8ff3-35c20827a101",
+    "forSale": true,
+    "contractAddress": "0x77cb648dae3ecbb0289c19c22672f9a85fe20b18",
+    "description": "Our CoinFestUK 2020 NFT Tickets. We are working with partners to issue unique gifts for NFT ticket holders. One ticket per attendee, each ticket gives one free entry to the raffle at our event. Organised by CryptoBatesGroup. Tickets are FREE. For updates follow twitter.com/CoinFestUK",
+    "type": "ERC721",
+    "tags": [],
+    "external_link": "https://mintbase.io/minted/0x77cb648dae3ecbb0289c19c22672f9a85fe20b18/SfNG6exOxKjipAXEFIZM",
+    "amountToMint": 3,
+    "numAvailable": 0,
+    "external_url": "https://mintbase.io",
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1579019217,
+      "_nanoseconds": 861000000
+    },
+    "price": "0",
+    "name": "CoinFestUK 2020 Ticket",
+    "fiatPrice": "$0.00",
+    "attributes": [
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1585868400
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": 1586041200
+      },
+      {
+        "trait_type": "website",
+        "value": "https://coinfestuk.org/CFUK20/"
+      },
+      {
+        "trait_type": "location",
+        "value": "Manchester, UK"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJ2_UmUkxNekgRqmv-BDgUvtk"
+      }
+    ],
+    "minted": "Minted on Mintbase.io"
+  }
+}

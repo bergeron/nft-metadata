@@ -1,0 +1,98 @@
+{
+  "address": "0x9f3c1bd501f19cd15bd16726efccf6120550b55b",
+  "type": "ERC721",
+  "name": "JAIL DROP YAKUZA BOSS COLLECTION",
+  "tokenCount": "36",
+  "uri": "ipfs://bafybeifw6gnqfb5d2at6rqsa3xh2lb6gzkbc4k4e352aqdkjfeopx2gapy/1.json",
+  "metadata": {
+    "name": "Yakuza Boss Collection #1",
+    "description": "A whole ecosystem built around a Cross-Chain Play-to-Earn game.",
+    "image": "ipfs://bafybeibnmnxolnc4f5gufaxoeibatkz5ng46qut5ecra3iw7v5zk6gz4fy/1.png",
+    "dna": "fc876fb011297459b44bc351c20718a90b402278",
+    "edition": 1,
+    "date": 1650289910397,
+    "seller_fee_basis_points": 1000,
+    "collection": {
+      "name": "Boss",
+      "family": "Yakuza Collection"
+    },
+    "properties": {
+      "filles": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xb765c8679f513da0c6B626C88c462A115Eb757D7",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Soft",
+        "weight": 80
+      },
+      {
+        "trait_type": "Body",
+        "value": "Prosperity Carp Tattoo",
+        "weight": 50
+      },
+      {
+        "trait_type": "Suits",
+        "value": "Regular",
+        "weight": 80
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hipnotizing Green",
+        "weight": 50
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Straight",
+        "weight": 100
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Punched",
+        "weight": 100
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "LmIn",
+        "weight": 40
+      },
+      {
+        "trait_type": "Scars",
+        "value": "None",
+        "weight": 600
+      },
+      {
+        "trait_type": "Necklace",
+        "value": "None",
+        "weight": 600
+      },
+      {
+        "trait_type": "Earrings",
+        "value": "None",
+        "weight": 700
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Spikey Indigo",
+        "weight": 80
+      },
+      {
+        "trait_type": "Weapons",
+        "value": "NoWeapon",
+        "weight": 1170
+      }
+    ],
+    "compiler": "JailDrop"
+  }
+}

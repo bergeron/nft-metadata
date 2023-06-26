@@ -1,0 +1,37 @@
+{
+  "address": "0xd89c484c944603db7c83b9226da90d0e2df13eb4",
+  "type": "ERC721",
+  "name": "DaichiMoriArt",
+  "tokenCount": "1",
+  "uri": "https://ipfs.pixura.io/ipfs/Qmeb4hp1CNgyDp1Go18te3z5RyvcmkVMUiY5WDZ4xQhdWm/metadata.json",
+  "metadata": {
+    "name": "Fall of the frog",
+    "createdBy": "Daichi Mori",
+    "yearCreated": "2023",
+    "description": "Emiko fights the Great Toad Hikigaeru while falling eternally. By Daichi Mori, minted 2023",
+    "image": "https://ipfs.pixura.io/ipfs/Qmap53sQUTjkJyczKukQBxJdfq9ZdJsnPFPWTjHHq3HeJG/Crapeaud-01-Ref-NetB.jpg",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/Qmap53sQUTjkJyczKukQBxJdfq9ZdJsnPFPWTjHHq3HeJG/Crapeaud-01-Ref-NetB.jpg",
+      "dimensions": "4134x5787",
+      "size": "6730363",
+      "mimeType": "image/jpeg"
+    },
+    "tags": [
+      "daichimori",
+      "frog",
+      "battle",
+      "hikigaeru",
+      "manga"
+    ],
+    "attributes": [
+      {
+        "trait_type": "artist",
+        "value": "Daichi Mori"
+      },
+      {
+        "trait_type": "frog",
+        "value": "Hikigaeru"
+      }
+    ]
+  }
+}

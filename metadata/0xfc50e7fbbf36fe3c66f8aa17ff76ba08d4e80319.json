@@ -1,0 +1,29 @@
+{
+  "address": "0xfc50e7fbbf36fe3c66f8aa17ff76ba08d4e80319",
+  "type": "ERC721",
+  "name": "Lfg NFT Test Contract V2",
+  "tokenCount": "3",
+  "uri": "https://ipfs.io/ipfs/QmbUB8nqEby2aUrHxcL2Snn3Grfzkh9SaqsK6H6QzFKxyL",
+  "metadata": {
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "TGIF"
+      },
+      "description": {
+        "type": "string",
+        "description": "Same old, same old ..."
+      },
+      "quantity": {
+        "type": "integer",
+        "description": 2030
+      },
+      "image": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/QmaVatnpFpk6PGmm7D73Z76H34pkzuuk2enuwksqLfkauC"
+      }
+    }
+  }
+}

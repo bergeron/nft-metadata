@@ -1,0 +1,19 @@
+{
+  "address": "0x04420a30f42f9ad16ac1708613f6caf0d804d110",
+  "type": "ERC721",
+  "name": "100DONS",
+  "tokenCount": "100",
+  "uri": "ipfs://QmRkjqT1ebmJAxW8RWmr6k7DN4bnMWsLZkdFWEt8UiHoQ7/1",
+  "metadata": {
+    "name": "DON//01",
+    "image": "ipfs://QmUY6UHkVwHd2tPiSdxXEwphyxYC5RG1wBWuaqgRUVRjqF",
+    "external_url": "https://dons.ai/?token=1#gallery",
+    "description": ">**\"Despite the constant negative press covfefe.\"**\n-- Donald J. Trump\nsource:@realDonaldTrump, Twitter, May 31, 2017\n\n100DONS is our premiere project. Here we explore the concept of collective sentiment through the lens of a mechanized impressionist. AI algorithms are designed to be downstream from culture. But in feeding back information into the machine new ideas tend to emerge.\n\nOur input palette is intentionally limited in size, but selected to cover a full spectrum of sentiment with the ultimate objective of prompting a broad range of reactions from the viewer.\n\nWe've chosen the cultural phenom, Donald Trump, as our subject. There will only be 100 DONS.",
+    "attributes": [
+      {
+        "trait_type": "Algorithm",
+        "value": "VQGAN-CLIP"
+      }
+    ]
+  }
+}

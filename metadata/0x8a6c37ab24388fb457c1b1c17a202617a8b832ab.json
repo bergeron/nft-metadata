@@ -1,0 +1,48 @@
+{
+  "address": "0x8a6c37ab24388fb457c1b1c17a202617a8b832ab",
+  "type": "ERC721",
+  "name": "Art Mirror Pass Tickets",
+  "tokenCount": "93",
+  "uri": "ipfs://bafybeicil43luaapxbwgzwyqxuunmucsbrp7l535s4zdaxtwbctqsoleu4/1.json",
+  "metadata": {
+    "name": "Pass Tickets #1",
+    "description": "Art Mirror Mint Pass tickets",
+    "external_url": "https://www.artmirror.art",
+    "image": "ipfs://bafybeihctfdhuf3ygaqxdgz73lzru2da7b4n4patuxx45dshr77hjfxbjy/1.png",
+    "attributes": [
+      {
+        "trait_type": "RarityA",
+        "value": "Rarity40"
+      },
+      {
+        "trait_type": "RarityB",
+        "value": "Ticket-Rarity"
+      },
+      {
+        "trait_type": "RarityC",
+        "value": "Rarity40"
+      },
+      {
+        "trait_type": "PassTicket",
+        "value": "PassTicket"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Art Mirror Pass Ticket",
+      "family": "Art Mirror Pass Ticket"
+    },
+    "symbol": ""
+  }
+}

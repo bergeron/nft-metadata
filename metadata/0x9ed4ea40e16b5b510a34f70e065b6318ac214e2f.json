@@ -1,0 +1,68 @@
+{
+  "address": "0x9ed4ea40e16b5b510a34f70e065b6318ac214e2f",
+  "type": "ERC1155",
+  "name": "FraktalNFTAzuki Doodles V2",
+  "tokenCount": "2",
+  "uri": "https://nfterc721a.mypinata.cloud/ipfs/QmXVL3q8vm4Y85mSn2xEfF1ZZtmyYh8zzn75yhv2TuEyXb/3736.json",
+  "metadata": {
+    "name": "Azuki Doodles #2681",
+    "symbol": "AZUDO",
+    "description": "Community driven project on ETH blockchain.",
+    "seller_fee_basis_points": 500,
+    "image": "https://testlaunchmynft.mypinata.cloud/ipfs/Qma4XtBpDiKEUke2Er2bvP7qVQfx1uVjrQBmSzegMrwMZW/3736.png",
+    "external_url": "https://www.azukidoodles.com/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Offhand",
+        "value": "None"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Human"
+      },
+      {
+        "trait_type": "Face",
+        "value": "None"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Silver long"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Mad"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Kung fu shirt"
+      }
+    ],
+    "collection": {
+      "name": "Azuki Doodles",
+      "family": "Azuki Doodles"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/Qma4XtBpDiKEUke2Er2bvP7qVQfx1uVjrQBmSzegMrwMZW/3736.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "ZN95AdVsaK11SVfNEshuuyJ35JAi8bfJRDyuLAbQE8w",
+          "share": 0
+        },
+        {
+          "address": "42QTRDaMZfC9FMkyWse4SuDVtfKA1VdGLV2DrsWD6thT",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

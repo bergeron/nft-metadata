@@ -1,0 +1,38 @@
+{
+  "address": "0x2458ab3c7f5e334876bd642af5c3e53568543e10",
+  "type": "ERC721",
+  "name": "Goo Goo Gourds",
+  "tokenCount": "1107",
+  "uri": "https://cdn-api.niftykit.com/reveal/0zf9Py5RyhjgHbF4FbzH/1",
+  "metadata": {
+    "name": "GooGoo #1",
+    "image": "https://coral-known-koala-113.mypinata.cloud/ipfs/QmXsKLmM5C1VtavW5vcDAvsKMTTLnVft74Cs5P6SHdSULY/1.png",
+    "description": "Goo Goo Gourds by Gourd Farmsâ„¢.",
+    "external_url": "https://GourdFarms.com",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sunset"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Splat"
+      },
+      {
+        "trait_type": "Gourd",
+        "value": "Mini"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Ouchy"
+      },
+      {
+        "trait_type": "Mystery Element",
+        "value": "Grin Gem"
+      }
+    ],
+    "compiler": "nft-inator.com",
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0xAb9fcac42ce5614c592426b80f3a34C3BdfDe698"
+  }
+}

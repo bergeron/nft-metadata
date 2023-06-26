@@ -1,0 +1,52 @@
+{
+  "address": "0x306b5c5cf6d7bd297c4394751427c59c47a638ee",
+  "type": "ERC1155",
+  "name": "genPepes",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/Qt45_fWkL0ODXZ-Qb_jXBzu-uKwtcLHaupOogeBMpac",
+  "metadata": {
+    "name": "genPepes",
+    "created_by": "Matto",
+    "external_url": "https://cloudflare-ipfs.com/ipfs/QmYswDLZr9Fykwkfe2PrdNAbZVMt3R3NjAW21rjTrBZrW8/",
+    "description": "Feels Good.\n\nAdditional Info:  \nOn every refresh, a Pepe design is randomly chosen and drawn with random shapes.\n\nInteractivity:  \nUse keys 1-7 to select a pepe design. Use 'R' to toggle rotation mode, which when activate will randomly cycle through the designs every 2400, 4800, and 9600 cycles. Use keys 8-0 to select a rotation delay. Use 'A' to set the most abstract settings. Use the left and right arrows to change the shape size and framerate. Use 'F' to reset all your nonsense.\n\nDomains:  \n\"genPepes.com\" and the decentralized domain \"genPepes.nft\" route to the generative content stored on IPFS.  \n\"genPepes.eth\" is pointed at the genPepes smart contract.",
+    "animation_details": {
+      "format": "HTML"
+    },
+    "animation_url": "https://cloudflare-ipfs.com/ipfs/QmYswDLZr9Fykwkfe2PrdNAbZVMt3R3NjAW21rjTrBZrW8/",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Matto"
+      },
+      {
+        "trait_type": "Pepes",
+        "value": "6.9"
+      },
+      {
+        "trait_type": "Shapes",
+        "value": "2"
+      },
+      {
+        "trait_type": "Artist Website",
+        "value": "https://matto.xyz"
+      },
+      {
+        "trait_type": "Feels Good?",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Artist Twitter",
+        "value": "@MonkMatto"
+      }
+    ],
+    "image_details": {
+      "bytes": 655106,
+      "format": "PNG",
+      "sha256": "897a73d3f36a8a44228c0dfa57afa8f49995cfb0ad2ece3bbecd2a766c6a6e99",
+      "width": 1932,
+      "height": 1932
+    },
+    "image": "https://arweave.net/lqC8mAQj2D0pD-6ej9LUWwRbNOGMHcCAId-31HVZp_s",
+    "image_url": "https://arweave.net/lqC8mAQj2D0pD-6ej9LUWwRbNOGMHcCAId-31HVZp_s"
+  }
+}

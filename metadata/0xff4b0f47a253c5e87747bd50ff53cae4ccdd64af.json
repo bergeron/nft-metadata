@@ -1,0 +1,46 @@
+{
+  "address": "0xff4b0f47a253c5e87747bd50ff53cae4ccdd64af",
+  "type": "ERC1155",
+  "name": "SUDOBURGER: INGREDIENTS",
+  "tokenCount": "1831",
+  "uri": "https://us-central1-sudoburger-9b96e.cloudfunctions.net/app/api/ing/1",
+  "metadata": {
+    "attributes": [
+      {
+        "key": "TYPE",
+        "trait_type": "TYPE",
+        "value": "FRYCOOK_INGREDIENT"
+      },
+      {
+        "key": "BACKGROUND",
+        "trait_type": "BACKGROUND",
+        "value": "GRIDDLE"
+      },
+      {
+        "key": "CATEGORY",
+        "trait_type": "CATEGORY",
+        "value": "MEAT"
+      },
+      {
+        "key": "CHEESE",
+        "trait_type": "CHEESE",
+        "value": "RADIOACTIVE"
+      },
+      {
+        "key": "MINTED_FROM",
+        "trait_type": "MINTED_FROM",
+        "value": "FRYCOOK_SENIOR_COLLECTION"
+      },
+      {
+        "key": "BEST_BEFORE",
+        "trait_type": "BEST_BEFORE",
+        "value": "FEB24.2023"
+      }
+    ],
+    "description": "SUDOBURGER INGREDIENTS are a utility token used to COOK into SUDOBURGERS! Arrange your ingredients carefully into YOUR custom SUDOBURGER!",
+    "external_url": "SUDOBURGER.IO",
+    "image": "https://sudosix.mypinata.cloud/ipfs/QmX2KQJQDK3suPuS22o7bcPsAVYrGNyHnt9QquHduSedxS",
+    "meshId": "BEEF_DOUBLE_CHEESE6",
+    "name": "INGREDIENT: BEEF DOUBLE AND RADIOACTIVE CHEESE "
+  }
+}

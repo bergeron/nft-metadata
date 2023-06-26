@@ -1,0 +1,31 @@
+{
+  "address": "0xdec26d6d74c06f14eb39547768945e84d203b717",
+  "type": "ERC721",
+  "name": "Repillca",
+  "tokenCount": "100",
+  "uri": "ipfs://bafybeidslzsruzcpjrff7sjgpv4o33mo2oaqwnt6bcctawws7xzisqf7my/1",
+  "metadata": {
+    "name": "Repillca #1",
+    "description": "Repillca is a not-so-thoughtful collection inspired by Twelvefold",
+    "image": "ipfs://bafybeid577hku3g7l5yzaivju6pxsiyghq4ib7tnpdc7gvh3do5ujkymym/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off-white"
+      },
+      {
+        "trait_type": "Density",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Parameter",
+        "value": "Random"
+      },
+      {
+        "trait_type": "Archetype",
+        "value": "Bauhaus"
+      }
+    ],
+    "compiler": "HeyMint CSV-to-Metadata Converter (heymint.xyz)"
+  }
+}

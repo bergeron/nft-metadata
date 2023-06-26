@@ -1,0 +1,50 @@
+{
+  "address": "0x5d3d01a47a62bff2eb86eba75f3a23c38dc22fba",
+  "type": "ERC721",
+  "name": "Twenty Seven Year Scapes",
+  "tokenCount": "238",
+  "uri": "https://api.punkscape.xyz/gallery27/1/metadata.json",
+  "metadata": {
+    "provenance": "ipfs://QmUyYGbdoREdnM9i26rEMoceGhg1bjG1PbNXs17q3JQBsp",
+    "provenance_gateways": [
+      "https://gateway.pinata.cloud/ipfs/QmUyYGbdoREdnM9i26rEMoceGhg1bjG1PbNXs17q3JQBsp",
+      "https://ipfs.io/ipfs/QmUyYGbdoREdnM9i26rEMoceGhg1bjG1PbNXs17q3JQBsp",
+      "https://cloudflare-ipfs.com/QmUyYGbdoREdnM9i26rEMoceGhg1bjG1PbNXs17q3JQBsp"
+    ],
+    "id": 1,
+    "name": "Day 1: Fictive and devise",
+    "image": "ipfs://QmUtzTPZtSskf1YvQYYtXTWBrfAJVYThiXyh9LW4BLk1Gf",
+    "attributes": [
+      {
+        "value": "Conviction",
+        "trait_type": "Soul"
+      },
+      {
+        "value": "Quantum",
+        "trait_type": "Space"
+      },
+      {
+        "value": 1643828103,
+        "trait_type": "date",
+        "display_type": "date"
+      },
+      {
+        "value": -24.5449,
+        "trait_type": "Celestial Latitude",
+        "display_type": "number"
+      },
+      {
+        "value": 245.6642,
+        "trait_type": "Celestial Longitude",
+        "display_type": "number"
+      },
+      {
+        "value": 3.0757,
+        "trait_type": "Distance (AU)",
+        "display_type": "number"
+      }
+    ],
+    "description": "Day 1.\nPainted at [PunkScape #7014](https://punkscape.xyz/scapes/7014).\n\n– Yotukito, Feb 3, 2022",
+    "external_url": "https://punkscape.xyz/gallery27/1"
+  }
+}

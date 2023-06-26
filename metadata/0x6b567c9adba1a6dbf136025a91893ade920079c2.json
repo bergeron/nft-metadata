@@ -1,0 +1,70 @@
+{
+  "address": "0x6b567c9adba1a6dbf136025a91893ade920079c2",
+  "type": "ERC721",
+  "name": "SapiensNFT Test",
+  "tokenCount": "5",
+  "uri": "ipfs://QmZ5eJXqdpDuGD5W7EbEHDk5JPyRCBJcTEjBYrJYeMz8rs/1",
+  "metadata": {
+    "name": "SapiensNFT #3001",
+    "description": "A collection of 10,000 utility enabled NFTs that are unique in terms of design, traits and concept. Each SapiensNFT unlocks the additional perks and benefits as long as you hold them.",
+    "image": "ipfs://QmP6PcDD7sistfhPVvBiaU4QMtasFHCmabc2Y1VjnMer8F/1.png",
+    "external_url": "https://www.sapiensnft.io/",
+    "properties": {
+      "files": [
+        {
+          "uri": "3001.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x6b567c9ADBA1A6DBf136025A91893aDe920079c2",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Chocolate"
+      },
+      {
+        "trait_type": "Torso",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "Light Grey Skull Hoodie"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Lips",
+        "value": "Regular"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Wayfarer Green"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Cowboy Hat"
+      }
+    ],
+    "symbol": "SC",
+    "seller_fee_basis_points": 1000,
+    "edition": 3001,
+    "creator": ""
+  }
+}

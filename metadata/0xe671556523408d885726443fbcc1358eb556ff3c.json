@@ -1,0 +1,22 @@
+{
+  "address": "0xe671556523408d885726443fbcc1358eb556ff3c",
+  "type": "ERC1155",
+  "name": "Derp Nation Games",
+  "tokenCount": "1",
+  "uri": "https://www.derpnation.xyz/dng_api/1.json",
+  "metadata": {
+    "name": "Derp Craft",
+    "image": "https://www.derpnation.xyz/images/dng_api/1.png",
+    "description": "Voxel worlds on the ETH blockchain. This game and the saved worlds are entirely stored on the ETH blockchain.",
+    "attributes": [
+      {
+        "trait_type": "Creator",
+        "value": "renomck"
+      },
+      {
+        "trait_type": "Game Type",
+        "value": "Sandbox"
+      }
+    ]
+  }
+}

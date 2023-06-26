@@ -1,0 +1,33 @@
+{
+  "address": "0xeb4b65a82114f235677a91a2b0c254b1747d0c38",
+  "type": "ERC721",
+  "name": "Give Ukraine Org",
+  "tokenCount": "8",
+  "uri": "ipfs://QmPxjKyWBePmn3yJVJXPvnNbYPX3VSUpJS2DpsjhbemvhD/1.json",
+  "metadata": {
+    "name": "Give Ukraine Artwork #1",
+    "description": "Issued for donating 0.024081991 ETH to Ukraine to help in their fight for freedom",
+    "image": "ipfs://QmYHPPFamebUEy7qzPYrpfd1RT8qy7XQ7yoQc8NsbqzvZg/1.jpg",
+    "edition": 1,
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "Seen on",
+        "value": 1647216000000
+      },
+      {
+        "trait_type": "Art Style",
+        "value": "Fire in the Steppe"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Ukraine"
+      },
+      {
+        "trait_type": "Day in crisis",
+        "value": 20
+      }
+    ],
+    "artengine": "GiveUA.org Art Engine"
+  }
+}

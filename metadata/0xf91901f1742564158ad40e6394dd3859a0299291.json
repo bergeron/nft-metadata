@@ -1,0 +1,55 @@
+{
+  "address": "0xf91901f1742564158ad40e6394dd3859a0299291",
+  "type": "ERC721",
+  "name": "Da Vinci Collection",
+  "tokenCount": "49",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=q22np4S5Fi3uIvDx25VW",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1581568512176?alt=media&token=48c5dea6-a748-48a8-a785-cb9874580171",
+    "forSale": true,
+    "contractAddress": "0xf91901f1742564158ad40e6394dd3859a0299291",
+    "description": "Da Vinci Collection\n\nTiolo: Anatomical studies\n\nSeries: Human Body Studies\n\nUnique Number: 1/20\n\nBill Gates spent $ 30 million to buy the Leicester code ...\n\nIn life (probably) you will never have the opportunity to have for\nhand one of the manuscripts of the great Leonardo Da Vinci ...\n\nBut in Blockchain things are a little different ...\n\nIn fact today you can grab the (fine) rights of Leonardo Da Vinci's works, and being the first to do it, with a little imagination, you can make your friends believe that the manuscripts are your work!\n\nAnd then you never know, maybe sooner or later someone forgets about this thing and tea becomes a genius for everyone ...\n\nAnd all for little more than a $ !!!\n\nThe collection consists of 8 series: human body studies, drafts and drawings of human portraits, studies and drawings of animals, studies and drawings of battles, studies of details for paintings, drawings of panoramas and various subjects, drawings and designs of machines and attack and defense systems, studies and sketches for monuments and villas.\n\nAll tokens are unique and will have only one owner!\n\nThe series will be released one at a time, and the next series will come out when the previous one has at least 75% of the manuscripts ...\n\nIn the end, if the 8 series are sold, the Master Manuscripts will be released, which will be the highlight of the collection ...",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1581568535,
+      "_nanoseconds": 100000000
+    },
+    "price": "0.005",
+    "name": "Anatomical studies",
+    "fiatPrice": "$1.36",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": ""
+      },
+      {
+        "trait_type": "location",
+        "value": "Bologna, Metropolitan City of Bologna, Italy"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJC8RR6ZjUf0cRQZSkWwF84aI"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1581548400
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": 1612047600
+      }
+    ],
+    "external_url": "https://mintbase.io/my-market/0xf91901f1742564158ad40e6394dd3859a0299291",
+    "type": "ERC721"
+  }
+}

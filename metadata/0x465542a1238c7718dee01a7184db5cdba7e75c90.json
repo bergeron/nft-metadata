@@ -1,0 +1,72 @@
+{
+  "address": "0x465542a1238c7718dee01a7184db5cdba7e75c90",
+  "type": "ERC1155",
+  "name": "Pi-Slices Editions",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/uN5uEimUwuTp1TAGnL04VdJB-Tfh595MdILkpQbhWis",
+  "metadata": {
+    "name": "Light Blocks",
+    "created_by": "Pi-Slices",
+    "description": "⬛⬜ /// The first ever Open Edition by Pi-Slices.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Pi-Slices"
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "2000x2000px"
+      },
+      {
+        "trait_type": "Frame Count",
+        "value": "60"
+      },
+      {
+        "trait_type": "Frame Rate",
+        "value": "30 FPS"
+      },
+      {
+        "trait_type": "Length",
+        "value": "2s"
+      },
+      {
+        "trait_type": "Format",
+        "value": "MP4"
+      },
+      {
+        "trait_type": "Filesize",
+        "value": "8.67 MB"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Edition Size",
+        "value": "Open Edition"
+      }
+    ],
+    "animation_details": {
+      "bytes": 9100206,
+      "format": "MP4",
+      "duration": 2,
+      "sha256": "6123a50c4ce3b5cedcaea6402ae9b61cb1250555d14a27e722821feca92d8ac2",
+      "width": 2000,
+      "height": 2000,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/k6FpVG8uDdIEJjCnYCjOwL2ZAqAz6pmGhFSuDHl8k7c",
+    "animation_url": "https://arweave.net/k6FpVG8uDdIEJjCnYCjOwL2ZAqAz6pmGhFSuDHl8k7c",
+    "image_details": {
+      "bytes": 2454114,
+      "format": "JPEG",
+      "sha256": "e27816375a76edb2c9d4d573bc2870ab8018898195932d31d7d07c40cb62e79d",
+      "width": 2000,
+      "height": 2000
+    },
+    "image": "https://arweave.net/QwSo3GFEztXkodfRkzlWrObObpD96f53oHT3zJs8ptU",
+    "image_url": "https://arweave.net/QwSo3GFEztXkodfRkzlWrObObpD96f53oHT3zJs8ptU"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "address": "0x7711f10c51aed305eb3532cbe97b8b369fb4d9b6",
+  "type": "ERC1155",
+  "name": "Color of sorrow",
+  "tokenCount": "6",
+  "uri": "ipfs://QmT85e5jM2ktsxUdr9UDb93iL4i9eEvfy6E8AgeFYNhGBD/1/token.json",
+  "metadata": {
+    "name": "abandon",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/image/upload/w_1200/v1678536494/0xf8fd6a5fa90940432e5c7921e332f0c5d33f2d38/640c6dff3d045e26bffc01a2/stateCovers/e7uniaw5lvdnw6f42ptp.png",
+    "description": "Outside\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Haru Komoda"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "Color of sorrow"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0xf8fd6a5fa90940432e5c7921e332f0c5d33f2d38"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Outside",
+              "state": {
+                "label": "abandon",
+                "uri": "QmPwDcsNuDmU5yyqbYs298r5yEn178h4xxJTi7YAop3ZKM"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

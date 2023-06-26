@@ -1,0 +1,25 @@
+{
+  "address": "0x250a0153dfb52b44c560524283a6629c1d347545",
+  "type": "ERC721",
+  "name": "UDT yielding Lock",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x250a0153dfb52b44c560524283a6629c1d347545/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x250a0153DfB52B44c560524283A6629C1d347545/icon?id=1",
+    "expiration": 1639698283,
+    "tokenId": "1",
+    "owner": "0xdd8e2548da5a992a63ae5520c6bc92c37a2bcc44",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1639698283
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x250a0153DfB52B44c560524283A6629C1d347545",
+    "network": 1
+  }
+}

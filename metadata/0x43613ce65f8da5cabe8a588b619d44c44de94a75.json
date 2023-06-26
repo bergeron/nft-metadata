@@ -1,0 +1,35 @@
+{
+  "address": "0x43613ce65f8da5cabe8a588b619d44c44de94a75",
+  "type": "ERC721",
+  "name": "Nifty Royale Testing",
+  "tokenCount": "2",
+  "uri": "https://ipfs.io/ipfs/bafkreigotjx6teoyqffyha7lrcf2hbasr4xtu4vxcbklbajbkqwwl7dhtu",
+  "metadata": {
+    "description": "Test Main Net meta-data for prize token",
+    "external_url": "https://app.niftyroyale.com/battles/status/0x43613cE65f8DA5CABe8A588b619D44c44de94A75",
+    "image": "https://ipfs.io/ipfs/bafybeig32huxs337od4yyp6ghnyj5snc2megvqhmlyjqtwyjqzkp2ay47m/Nifty-Royale-Upgraded-NFT.mp4",
+    "name": "Nifty Royale Testing prize",
+    "attributes": [
+      {
+        "trait_type": "Created by",
+        "value": "Nifty Royale"
+      },
+      {
+        "trait_type": "Nifty Royale Winner",
+        "value": true
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Nifty Royale"
+      },
+      {
+        "trait_type": "Artist Description",
+        "value": "This is a test description of the artist"
+      },
+      {
+        "trait_type": "Licensing agreement",
+        "value": "Test Agreement"
+      }
+    ]
+  }
+}

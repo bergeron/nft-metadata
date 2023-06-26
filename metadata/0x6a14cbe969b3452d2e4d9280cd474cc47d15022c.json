@@ -1,0 +1,103 @@
+{
+  "address": "0x6a14cbe969b3452d2e4d9280cd474cc47d15022c",
+  "type": "ERC721",
+  "name": "Ether Legends",
+  "tokenCount": "180",
+  "uri": "https://www.etherlegends.com/metadata/specialedition/B01_Eli.json",
+  "metadata": {
+    "name": "Eli 'Elementeum' Bokkadon",
+    "image": "https://www.etherlegends.com/tradingcards/specialedition/B01_Eli.png",
+    "description": "Only the Elemental Master can summon such a Boss",
+    "external_url": "https://www.etherlegends.com",
+    "attributes": [
+      {
+        "trait_type": "game",
+        "value": "Ether Legends"
+      },
+      {
+        "trait_type": "set",
+        "value": "Special Edition"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "type",
+        "value": "Boss"
+      },
+      {
+        "trait_type": "element_1",
+        "value": "Earth"
+      },
+      {
+        "trait_type": "strength_1",
+        "value": "Defense"
+      },
+      {
+        "trait_type": "element_2",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "strength_2",
+        "value": "Attack"
+      },
+      {
+        "trait_type": "element_3",
+        "value": "Air"
+      },
+      {
+        "trait_type": "strength_3",
+        "value": "Disrupt"
+      },
+      {
+        "trait_type": "element_4",
+        "value": "Water"
+      },
+      {
+        "trait_type": "strength_4",
+        "value": "Heal"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "number",
+        "value": 4
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "elementeum",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "attack",
+        "value": 8
+      },
+      {
+        "display_type": "number",
+        "trait_type": "defense",
+        "value": 8
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heal",
+        "value": 7
+      },
+      {
+        "display_type": "number",
+        "trait_type": "disrupt",
+        "value": 6
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heart",
+        "value": 75
+      }
+    ]
+  }
+}

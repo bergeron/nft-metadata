@@ -1,0 +1,56 @@
+{
+  "address": "0x54aeec2bfaa721748652513b7b140ba78b0f8a7b",
+  "type": "ERC721",
+  "name": "DickFace",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmXJhHw3LnLL9YF9T4iRfvrBrsBAjStsWQp1hqi3vzpHCV/1.json",
+  "metadata": {
+    "name": "DickFace NFT #1",
+    "description": "Be kind. ",
+    "external_url": "https://dickface.io",
+    "image": "ipfs://QmebB1cpRL7H8MjY8mpai5rGzrXLpewax21Cb5XhAApmUw/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Creamsicle "
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Uncut"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Bitchin tank"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Snitch"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Beer helmet"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Buggin"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Dickface",
+      "family": "Dickface"
+    },
+    "symbol": ""
+  }
+}

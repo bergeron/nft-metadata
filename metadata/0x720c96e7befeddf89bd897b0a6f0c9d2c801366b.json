@@ -1,0 +1,29 @@
+{
+  "address": "0x720c96e7befeddf89bd897b0a6f0c9d2c801366b",
+  "type": "ERC721",
+  "name": "Inventory",
+  "tokenCount": "20",
+  "uri": "https://team3d.io/inventory/json/7.json",
+  "metadata": {
+    "template": "7",
+    "name": "Wizard's hat",
+    "description": "Worn by high level mages",
+    "image": "https://team3d.io/inventory/json/7.png",
+    "ipfs": "",
+    "slot": "0",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "VIP"
+      },
+      {
+        "trait_type": "Name",
+        "value": "Wizard's hat"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Head"
+      }
+    ]
+  }
+}

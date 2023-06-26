@@ -1,0 +1,46 @@
+{
+  "address": "0x472cefde63192cba00ea253dc75c2dcc826bced3",
+  "type": "ERC1155",
+  "name": "artmonkey OE",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/mxXpin0JUkqAkMmMsduamoRcxLJeGiv2X59RJJjj5qw",
+  "metadata": {
+    "name": "Assembly Line",
+    "created_by": "artmonkey lab",
+    "description": "Welcome to all in this artistic adventure.\n\nThis artwork is the first of the collection and of the OE project that I propose to you.\n\nWe are going to be together for 40 days because there are going to be 40 artworks. A burn n' reedeem mechanism will be deployed and every 24 hours a new artwork will be available for the owners of this Edition.\n\nFrom one artwork we'll deploy a collection of 40 incredible works.\n\nReady to play?",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "artmonkey lab"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Artwork",
+        "value": "01"
+      }
+    ],
+    "animation_details": {
+      "bytes": 21241902,
+      "format": "MP4",
+      "duration": 25,
+      "sha256": "77f984027d3807c9701743a1b03ef77db99111603e563c6118697868c0005b2d",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/gGri8Vq1MDcL5R7mNkv_9UiM-KYVyCxX-A0nHyXASuM",
+    "animation_url": "https://arweave.net/gGri8Vq1MDcL5R7mNkv_9UiM-KYVyCxX-A0nHyXASuM",
+    "image_details": {
+      "bytes": 3779,
+      "format": "JPEG",
+      "sha256": "3e440ab6044e3f5d07b57216a0ed76fb08b5bccb667ddfa4ed4dbeb47a8fc0ec",
+      "width": 400,
+      "height": 400
+    },
+    "image": "https://arweave.net/vQFcVgkPXJztlQuG7Qi4YMm0yAzbSdGb7f_UAa4S27s",
+    "image_url": "https://arweave.net/vQFcVgkPXJztlQuG7Qi4YMm0yAzbSdGb7f_UAa4S27s"
+  }
+}

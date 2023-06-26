@@ -1,0 +1,52 @@
+{
+  "address": "0x32e14d6f3dda2b95e505b14eb4552fd3eeaa1f0d",
+  "type": "ERC721",
+  "name": "Skulls of Mayhem",
+  "tokenCount": "1091",
+  "uri": "https://skulls-of-mayhem.nftapi.art/meta/1",
+  "metadata": {
+    "token_id": 1,
+    "dna": null,
+    "name": "Skulls of Mayhem #1",
+    "description": "",
+    "image": "https://ipfs.io/ipfs/bafybeidl5gtauaarvav2reuzx5yocxnrzr3zysthj4dpzdje46wvcblmsq",
+    "animation_url": null,
+    "media": null,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0xF4617b57ad853f4Bc2Ce3f06C0D74958c240633c",
+    "attributes": [
+      {
+        "value": "Checkerboard",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Gases",
+        "trait_type": "Skeleton"
+      },
+      {
+        "value": "Cut",
+        "trait_type": "Outfit"
+      },
+      {
+        "value": "Spiked Jewels",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": "Gills",
+        "trait_type": "Nose"
+      },
+      {
+        "value": "Trapped Teeth",
+        "trait_type": "Hat"
+      },
+      {
+        "value": "Dazed",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "None",
+        "trait_type": "Pet"
+      }
+    ]
+  }
+}

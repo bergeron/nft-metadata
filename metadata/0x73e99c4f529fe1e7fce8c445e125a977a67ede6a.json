@@ -1,0 +1,26 @@
+{
+  "address": "0x73e99c4f529fe1e7fce8c445e125a977a67ede6a",
+  "type": "ERC721",
+  "name": "Crypto Kitties",
+  "tokenCount": "15",
+  "uri": "https://crypto-kitties-metadata.s3.amazonaws.com/1.json",
+  "metadata": {
+    "name": "Cat #1",
+    "image": "https://crypto-kitties-img.s3.amazonaws.com/1.png",
+    "description": "cat with a big eyes and smile  in the middle of the  sea in a  box with a  cigarette",
+    "attributes": [
+      {
+        "trait_type": "place",
+        "value": "sea"
+      },
+      {
+        "trait_type": "in attribute",
+        "value": "box"
+      },
+      {
+        "trait_type": "with attribute",
+        "value": "cigarette"
+      }
+    ]
+  }
+}

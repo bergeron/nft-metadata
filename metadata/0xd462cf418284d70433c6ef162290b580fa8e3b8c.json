@@ -1,0 +1,28 @@
+{
+  "address": "0xd462cf418284d70433c6ef162290b580fa8e3b8c",
+  "type": "ERC721",
+  "name": "Bunch Card",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=GoPZHptF19D5TNFFXfeL",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1586555272925?alt=media&token=6f146958-94b7-43c6-8396-3a9680d95d4d",
+    "forSale": false,
+    "contractAddress": "0xd462cf418284d70433c6ef162290b580fa8e3b8c",
+    "description": "Small Beef Pho",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1586555291,
+      "_nanoseconds": 513000000
+    },
+    "price": 0,
+    "name": "Pho",
+    "fiatPrice": "$0.00",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0xd462cf418284d70433c6ef162290b580fa8e3b8c",
+    "type": "ERC721"
+  }
+}

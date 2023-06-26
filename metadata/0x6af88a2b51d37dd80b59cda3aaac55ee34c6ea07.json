@@ -1,0 +1,23 @@
+{
+  "address": "0x6af88a2b51d37dd80b59cda3aaac55ee34c6ea07",
+  "type": "ERC721",
+  "name": "Castaways - The Raft",
+  "tokenCount": "100",
+  "uri": "https://4ow9dltbi2.execute-api.us-west-2.amazonaws.com/prod/metadata/castaways/raft/1",
+  "metadata": {
+    "name": "Raft #1 - Imagination",
+    "description": "The Raft is a simple water vessel constructed of timber and rope and is useful for locating unclaimed islands. Its increased propulsion makes it essential for efficiently navigating large bodies of water.",
+    "image": "https://d15mxdqbde1aqo.cloudfront.net/island_raft.jpg",
+    "external_url": "https://castaways.com",
+    "attributes": [
+      {
+        "trait_type": "Luck",
+        "value": "30"
+      },
+      {
+        "trait_type": "Event Bonus",
+        "value": "2"
+      }
+    ]
+  }
+}

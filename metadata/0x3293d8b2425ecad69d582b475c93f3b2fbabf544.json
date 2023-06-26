@@ -1,0 +1,28 @@
+{
+  "address": "0x3293d8b2425ecad69d582b475c93f3b2fbabf544",
+  "type": "ERC721",
+  "name": "WhiteRussian by CRYPTODUDES",
+  "tokenCount": "1552",
+  "uri": "ipfs://bafybeigru7u44ch7ocklfky4rgrxhdz55cojuq2vvlgjhy66y3rwou54ky/whiterussian.json",
+  "metadata": {
+    "name": "White Russian",
+    "description": "CryptoDudes White Russian",
+    "image": "ipfs://bafybeifpueibhnrghg3tjnm4zcl6vaat3iut3vmlt7ezivlwgchq73naum/whiterussian.png",
+    "seller_fee_basis_points": 800,
+    "fee_recipient": "0x34A8830Ad29D2Cdf60e1D3905de12aCc3cde41cD",
+    "attributes": [
+      {
+        "trait_type": "Vodka",
+        "value": "50ml"
+      },
+      {
+        "trait_type": "Fresh Cream",
+        "value": "30ml"
+      },
+      {
+        "trait_type": "Coffee Liqueur",
+        "value": "30ml"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "address": "0x15870e67de672d1dbdce72f4f4e7365cdde22daf",
+  "type": "ERC721",
+  "name": "Built With NFT",
+  "tokenCount": "238",
+  "uri": "https://api.builtwithnft.org/token/1",
+  "metadata": {
+    "id": 1,
+    "name": "Built with NFT #1",
+    "description": "This is #1 in a collection of 10,000 unique works of art created by hundreds of students from various Built with Bitcoin Foundation Schools. The Built With Bitcoin Foundation has partnered with Satoshibles to create Built With NFT - an NFT collection that aims to drive funds towards humanitarian efforts.",
+    "external_url": "https://builtwithnft.org",
+    "image": "https://api.builtwithnft.org/token/1/image.jpg",
+    "background_color": "ffede9",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Generations"
+      },
+      {
+        "trait_type": "Body Artist",
+        "value": "I.B. Firdaous, Age 3"
+      },
+      {
+        "trait_type": "Body Artist Location",
+        "value": "Rwanda"
+      },
+      {
+        "trait_type": "Head Artist",
+        "value": "M. Betty, Age 6"
+      },
+      {
+        "trait_type": "Head Artist Location",
+        "value": "Rwanda"
+      }
+    ]
+  }
+}

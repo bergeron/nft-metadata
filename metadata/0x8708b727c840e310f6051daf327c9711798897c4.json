@@ -1,0 +1,30 @@
+{
+  "address": "0x8708b727c840e310f6051daf327c9711798897c4",
+  "type": "ERC721",
+  "name": "alien frens UFOs",
+  "tokenCount": "4180",
+  "uri": "https://ufoapi.alienfrens.io/v1/1",
+  "metadata": {
+    "name": "UFO #1",
+    "description": "Earn more fren coin, join secret invasions, and more in your new UFO!",
+    "image": "https://ufoapi.alienfrens.io/images/1.png",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Deep"
+      },
+      {
+        "trait_type": "dome",
+        "value": "Floating"
+      },
+      {
+        "trait_type": "fuel",
+        "value": "FireBeam"
+      },
+      {
+        "trait_type": "base",
+        "value": "Xorgon"
+      }
+    ]
+  }
+}

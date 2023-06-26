@@ -1,0 +1,49 @@
+{
+  "address": "0x1834bdaa20d09f7667bbbd1defbe4bdb525c5ec2",
+  "type": "ERC721",
+  "name": "Saint Patty Punks",
+  "tokenCount": "588",
+  "uri": "ipfs://QmdR2JWB6K8zL1Hj8KkpcaixX4siWMg9UcGHkmApFGHZ4b/1.json",
+  "metadata": {
+    "name": "Saint Patty Punk 1",
+    "description": "St Patty Punks are here to fucking party and have a good time! Be responsible and drink alot",
+    "image": "ipfs://QmY5fAubs6gmA3aiTN8g4c1skt9ca4f5AXaWhsc3SoFdWU/1.png",
+    "edition": 1,
+    "date": 1679022212683,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Skin Tone",
+        "value": "White"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green and Orange Striped Shirt"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Mask"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Malone"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "St Patty Charm"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Snapback"
+      },
+      {
+        "trait_type": "Happy Saint Patties",
+        "value": "Happy St Patties Day"
+      }
+    ],
+    "compiler": "Saint Patrick"
+  }
+}

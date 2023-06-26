@@ -1,0 +1,41 @@
+{
+  "address": "0xe33a80f4e513aeaeb3e48a8249429a0c69c8fb37",
+  "type": "ERC721",
+  "name": "My Dopey Cats - old",
+  "tokenCount": "4",
+  "uri": "ipfs://QmPL7uW89Efn1ZU7uQuj4RbrvGE3yqzBDqMMDsNQYwQ8rA/1.json",
+  "metadata": {
+    "name": "My Dopey Cat 1",
+    "description": "Scruffy Cats are 200 uniquely hand drawn characters that will bring out the values of kindness and joy to the Cat and Kitten world.",
+    "fee_recipient": "0x52BBcd356F86364f0606e7c793Df62C659889D10",
+    "seller_fee_basis_points": 750,
+    "image": "ipfs://QmQtympsjfRmSQXAhkKJ9gztKY6NviYdwuuoDqeJFJcdQD/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Yellow"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Plain Green And White"
+      },
+      {
+        "trait_type": "Cat",
+        "value": "My Scruffy Cat Dopey"
+      },
+      {
+        "trait_type": "Head Gear",
+        "value": "Viking Helmet"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Goggles Silver"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 46,
+        "display_type": "number"
+      }
+    ]
+  }
+}

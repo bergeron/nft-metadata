@@ -1,0 +1,29 @@
+{
+  "address": "0x8f4ca9a9df620ac58152f5369650dbccd006de37",
+  "type": "ERC721",
+  "name": "Rollbit VIP Passes",
+  "tokenCount": "1100",
+  "uri": "https://vippass.rollbit.com/metadata/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Level",
+        "value": "Gold"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Bonus",
+        "value": 2000
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "RLB",
+        "value": 200000
+      }
+    ],
+    "description": "DO NOT PURCHASE (this NFT is invite-only)! This VIP Pass gives the holder an exclusive welcome bonus to Rollbit, crypto's most rewarding NFT casino & marketplace.\nThere are Bronze, Silver, Gold & Platinum VIP Passes. Redeem up to $7,500 in free balance & 750,000 RLB (Rollbit's token on the Solana blockchain).\nTo redeem this VIP Pass:\nCreate an account on Rollbit: https://rollbit.com/ (US & restricted jurisdictions: https://rollbot.com/nft)\nDeposit the VIP Pass\nBonus balance & RLB is credited to your account!",
+    "external_url": "https://rollbit.com/nft/eth:0x8f4ca9a9df620ac58152f5369650dbccd006de37/1",
+    "image": "https://vippass.rollbit.com/pics/gold.jpg",
+    "name": "Golden Rollbit VIP Pass"
+  }
+}

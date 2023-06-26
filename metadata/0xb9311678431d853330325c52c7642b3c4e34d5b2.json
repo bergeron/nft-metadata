@@ -1,0 +1,160 @@
+{
+  "address": "0xb9311678431d853330325c52c7642b3c4e34d5b2",
+  "type": "ERC721",
+  "name": "TestNFT",
+  "tokenCount": "3",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=nMLtdm9WIIxehdNTZU6X",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1580260885735?alt=media&token=52f5ff51-bcec-4d05-8658-a3cd070c69b6",
+    "forSale": true,
+    "contractAddress": "0xb9311678431d853330325c52c7642b3c4e34d5b2",
+    "description": "just avocado",
+    "tags": [],
+    "amountToMint": 2,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1580261159,
+      "_nanoseconds": 35000000
+    },
+    "price": "0.0000001",
+    "name": "TestAvocado",
+    "fiatPrice": "$0.00",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "Key1",
+        "value": "val1"
+      },
+      {
+        "trait_type": "Key2",
+        "value": "val2"
+      },
+      {
+        "trait_type": "テストキー",
+        "value": "バリュー"
+      },
+      {
+        "trait_type": "テストきー",
+        "value": ""
+      },
+      {
+        "trait_type": "テストき",
+        "value": ""
+      },
+      {
+        "trait_type": "テストｋ",
+        "value": ""
+      },
+      {
+        "trait_type": "テスト",
+        "value": ""
+      },
+      {
+        "trait_type": "てすと",
+        "value": ""
+      },
+      {
+        "trait_type": "てすｔ",
+        "value": ""
+      },
+      {
+        "trait_type": "てす",
+        "value": ""
+      },
+      {
+        "trait_type": "てｓ",
+        "value": ""
+      },
+      {
+        "trait_type": "て",
+        "value": ""
+      },
+      {
+        "trait_type": "ｔ",
+        "value": ""
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "Key",
+        "value": ""
+      },
+      {
+        "trait_type": "Ke",
+        "value": ""
+      },
+      {
+        "trait_type": "K",
+        "value": ""
+      },
+      {
+        "trait_type": "CustomKey1",
+        "value": "val1"
+      },
+      {
+        "trait_type": "CustomKey",
+        "value": ""
+      },
+      {
+        "trait_type": "CustomKe",
+        "value": ""
+      },
+      {
+        "trait_type": "CustomK",
+        "value": ""
+      },
+      {
+        "trait_type": "Custom",
+        "value": ""
+      },
+      {
+        "trait_type": "Custo",
+        "value": ""
+      },
+      {
+        "trait_type": "Cust",
+        "value": ""
+      },
+      {
+        "trait_type": "Cus",
+        "value": ""
+      },
+      {
+        "trait_type": "Cu",
+        "value": ""
+      },
+      {
+        "trait_type": "C",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "https://www.google.com/"
+      },
+      {
+        "trait_type": "location",
+        "value": "Blackheath Ave, Greenwich, London SE10 8XJ, UK"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJp9ypjCqo2EcRAoQcRV-yqzE"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1580223600
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": 1580310000
+      }
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=j-f9bs86t_U",
+    "external_url": "https://mintbase.io/my-market/0xb9311678431d853330325c52c7642b3c4e34d5b2",
+    "type": "ERC721"
+  }
+}

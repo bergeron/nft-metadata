@@ -1,0 +1,76 @@
+{
+  "address": "0x06c1b879004d184c67ed3ee13f02f3856ca18aba",
+  "type": "ERC721",
+  "name": "Mural NFT - Mainnet",
+  "tokenCount": "9",
+  "uri": "https://portal.neondistrict.io/api/getNft/158456337572315208259537025382",
+  "metadata": {
+    "external_url": "https://portal.neondistrict.io/asset/158456337572315208259537025382",
+    "name": "Factor Fabricator: Paragon",
+    "image": "https://neon-district-season-one.s3.amazonaws.com/images/factorfabricatorp-common-arms-male-thumb.png",
+    "description": "Armor found within Neon District.\n\nA Neon District: Season One game item, playable on https://portal.neondistrict.io.\n\nNeon District is a free-to-play cyberpunk role-playing game. Collect characters and gear, craft and level up teams, and battle against other players through competitive multiplayer and in turn-based combat.",
+    "attributes": [
+      {
+        "trait_type": "type",
+        "value": "Armor"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "level",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Season",
+        "value": 1
+      },
+      {
+        "trait_type": "Armor Slot",
+        "value": "Arms"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Mech",
+        "value": 5
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Nano",
+        "value": 0
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Attack",
+        "value": 10
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Health",
+        "value": 25
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Defense",
+        "value": 0
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Hacking",
+        "value": 0
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Stealth",
+        "value": 5
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Tactics",
+        "value": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "address": "0x78441c822f5ed01ea0990681d871300c9af4c044",
+  "type": "ERC721",
+  "name": "Kap Slap",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/RpAwA1Y6Cs8wzp_Q6ZKaxzkoIDahtEgRiKcV8ZJurXM",
+  "metadata": {
+    "name": "Genesis Token #1",
+    "created_by": "Kap Slap",
+    "external_url": "http://kapslap.xyz",
+    "description": "The first of 3 unique Genesis Tokens featuring show footage and the first drop from an unreleased Kap Slap song.\n\nPrimary buyer of this token receives a free Kap Slap performance to do with as they please.  Kap Slap will play a show in your apartment, backyard, favorite club, wherever you want (within reason).  The \"Performance Realized?\" property of this NFT shows whether or not this show has been booked.  This show can be sold or gifted to someone else.\n\nThe token holder will also receive 2 All Access passes to any publicly announced Kap Slap show for as long as they hold the token.\n\nAdditional future utility is unknown, but promising.",
+    "attributes": [
+      {
+        "trait_type": "Musician",
+        "value": "Kap Slap (kapslap.eth)"
+      },
+      {
+        "trait_type": "Animator",
+        "value": "Lanre Ako (lanreako.eth)"
+      },
+      {
+        "trait_type": "Performance Realized?",
+        "value": "No"
+      }
+    ],
+    "image_details": {
+      "bytes": 241153,
+      "format": "JPEG",
+      "sha256": "a293d5b8f999347af695cefff282fcd9233836a0162a05ebcd45e489dc80f533",
+      "width": 1080,
+      "height": 1350
+    },
+    "image": "https://arweave.net/wNaYPAzz8i9NXCXkRLGCZ_J1YZbFA0GOhag78ra-nFw",
+    "image_url": "https://arweave.net/wNaYPAzz8i9NXCXkRLGCZ_J1YZbFA0GOhag78ra-nFw",
+    "animation_details": {
+      "bytes": 42606435,
+      "format": "MOV",
+      "duration": 30,
+      "sha256": "1deef065fcb53e387e3faf49e6730059de402729831f17c5aeaebd04e80fede9",
+      "width": 1080,
+      "height": 1350,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/LiypMj793GqFjJOpVIeOpzeee378Zh3zgioneVJ4nT8",
+    "animation_url": "https://arweave.net/LiypMj793GqFjJOpVIeOpzeee378Zh3zgioneVJ4nT8"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "0x5fd1382cbe1fe9b6e0e545da713ba57ce29dd301",
+  "type": "ERC721",
+  "name": "Red World by Nilus Dantes",
+  "tokenCount": "31",
+  "uri": "https://chaincards-be.herokuapp.com/get-metaData/0x5fd1382CbE1FE9b6e0e545dA713Ba57cE29dd301/1",
+  "metadata": {
+    "name": "Red World",
+    "description": "ChainCards reimagines greeting cards through NFT technology, offering limited edition, seasonally themed collections created by talented artists. Our platform supports artists in the digital economy and fosters connections across the globe. For the best viewing experience, explore your NFT cards at chaincards.io.",
+    "imageUrl": "https://chaincards-imgs.s3.us-west-2.amazonaws.com/ChainCards-Nilus-S1.jpg",
+    "animation_url": "https://chaincards-be.herokuapp.com/get-htmlContentForNft/0x5fd1382CbE1FE9b6e0e545dA713Ba57cE29dd301/1",
+    "tokenId": "1",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Nilus Dantes"
+      },
+      {
+        "trait_type": "Edition size",
+        "value": 500
+      },
+      {
+        "trait_type": "Series",
+        "value": "Season 1"
+      },
+      {
+        "trait_type": "Category",
+        "value": "AI"
+      }
+    ],
+    "status": "purchased"
+  }
+}

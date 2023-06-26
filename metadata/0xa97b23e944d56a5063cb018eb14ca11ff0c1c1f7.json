@@ -1,0 +1,80 @@
+{
+  "address": "0xa97b23e944d56a5063cb018eb14ca11ff0c1c1f7",
+  "type": "ERC721",
+  "name": "Ether Legends",
+  "tokenCount": "215",
+  "uri": "https://www.etherlegends.com/metadata/menandbeasts/001_Berserk_Bern.json",
+  "metadata": {
+    "name": "'Berserk' Bern Nicklebock",
+    "image": "https://www.etherlegends.com/tradingcards/menandbeasts/001_Berserk_Bern.png",
+    "description": "Get back here! I'm gonna getcha!",
+    "external_url": "https://www.etherlegends.com",
+    "attributes": [
+      {
+        "trait_type": "game",
+        "value": "Ether Legends"
+      },
+      {
+        "trait_type": "set",
+        "value": "Men and Beasts"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "type",
+        "value": "Character"
+      },
+      {
+        "trait_type": "element_1",
+        "value": "Earth"
+      },
+      {
+        "trait_type": "strength_1",
+        "value": "Defense"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "number",
+        "value": 1,
+        "max_value": 39
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "elementeum",
+        "value": 4
+      },
+      {
+        "display_type": "number",
+        "trait_type": "attack",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "defense",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heal",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "disrupt",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heart",
+        "value": 13
+      }
+    ]
+  }
+}

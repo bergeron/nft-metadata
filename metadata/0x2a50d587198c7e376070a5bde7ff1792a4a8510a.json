@@ -1,0 +1,46 @@
+{
+  "address": "0x2a50d587198c7e376070a5bde7ff1792a4a8510a",
+  "type": "ERC1155",
+  "name": "pepenati-test",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/WBEKQVdwdQ-DC8yGTDIhcgnKI-VLXSrZSvl8wWnsmYM",
+  "metadata": {
+    "name": "test-2",
+    "created_by": "pepenati",
+    "external_url": "benchbtc.art",
+    "description": "test-2",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "pepenati"
+      },
+      {
+        "display_type": "number",
+        "value": "01",
+        "max_value": "99",
+        "trait_type": "Number"
+      },
+      {
+        "trait_type": "Suit",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Hand",
+        "value": "Cash"
+      }
+    ],
+    "image_details": {
+      "bytes": 70275,
+      "format": "JPEG",
+      "sha256": "6fa9289f7424e56eb6029b3500eb074f0f3160a7a09a9dae35cf7601866b31d3",
+      "width": 991,
+      "height": 672
+    },
+    "image": "https://arweave.net/2ZklamiaqBjifThSVeip-rctnFzvSall2LmMwqWn-EQ",
+    "image_url": "https://arweave.net/2ZklamiaqBjifThSVeip-rctnFzvSall2LmMwqWn-EQ"
+  }
+}

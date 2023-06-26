@@ -1,0 +1,42 @@
+{
+  "address": "0xaf6b6fd153d40a8bcfb356138a7a96f95695ac2d",
+  "type": "ERC721",
+  "name": "The Gilded Snake Club",
+  "tokenCount": "2",
+  "uri": "ipfs://QmZeToSKtJ8FN77Y4UrwrpaxwH7QoVZkDtjp1EXTvQLKTn/1.json",
+  "metadata": {
+    "name": "Gilded Snake Club #1",
+    "description": "Welcome to the Gilded Snake Club",
+    "image": "ipfs://QmYzAATyb7bVUsDZzoVQJZ9QKc3VPfwMKczRjCAUkUFNsg/1.png",
+    "dna": "9408e3588087d5c0bbd1bc09f17bac0e1195b911",
+    "edition": 1,
+    "date": 1635736096560,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cream"
+      },
+      {
+        "trait_type": "Scales",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Blue and Red"
+      },
+      {
+        "trait_type": "Tongue",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Ascot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "address": "0xcf639ea4cda7a042ff47e6692e320ed70e010fb3",
+  "type": "ERC721",
+  "name": "Block2Block",
+  "tokenCount": "17",
+  "uri": "https://likhafuncapp-prod.azurewebsites.net/api/ShowMetadata?GUID=B2B-NFT-PLATINUM-PASS-001",
+  "metadata": {
+    "tokenID": 1,
+    "likha_nft_name": "NFT PLATINUM PASS 001",
+    "likha_nft_description": "The Platinum NFT Pass is a membership keycard  that allows you to get access to an exclusive discord server and explore anything about crypto, Web3, NFTs and blockchain. This also entitles you to exclusive events and other privileges to our partner brands.",
+    "likha_nft_image": "https://likhastorageprod.blob.core.windows.net/ext/B2B/NFT PLATINUM PASS 001.gif",
+    "name": "NFT PLATINUM PASS 001",
+    "description": "The Platinum NFT Pass is a membership keycard  that allows you to get access to an exclusive discord server and explore anything about crypto, Web3, NFTs and blockchain. This also entitles you to exclusive events and other privileges to our partner brands.",
+    "image": "https://likhastorageprod.blob.core.windows.net/ext/B2B/NFT PLATINUM PASS 001.gif",
+    "tags": [
+      "b2b",
+      "platinum",
+      "platinum-pass"
+    ],
+    "nft_type": null,
+    "utility_consumables": null,
+    "region": "PH",
+    "ownerID": null,
+    "creatorID": null,
+    "collectionID": "B2B",
+    "category": "Collectibles",
+    "attributes": [
+      {
+        "trait_type": "tags",
+        "value": [
+          "b2b",
+          "platinum",
+          "platinum-pass"
+        ]
+      },
+      {
+        "trait_type": "category",
+        "value": "Collectibles"
+      },
+      {
+        "trait_type": "collection",
+        "value": "B2B"
+      }
+    ],
+    "tx_address": null,
+    "contract_address": "0xCf639EA4CdA7a042fF47E6692e320ed70e010Fb3",
+    "royalty_percentage": 2.5,
+    "status": "MINTED",
+    "id": "7d8661bf-da00-4b15-9cf5-853edbd5fa6b",
+    "statusPriority": 0,
+    "external_url": "",
+    "cryptoCurrency": "eth"
+  }
+}

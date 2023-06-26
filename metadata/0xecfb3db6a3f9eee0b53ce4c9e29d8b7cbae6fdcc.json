@@ -1,0 +1,25 @@
+{
+  "address": "0xecfb3db6a3f9eee0b53ce4c9e29d8b7cbae6fdcc",
+  "type": "ERC721",
+  "name": "Smoking Kills V2",
+  "tokenCount": "1",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmbCJvCAGHGsUQKvcsfRHj73deCnnMoVH63do6tQhJU956",
+  "metadata": {
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Digital Cigarette"
+      },
+      "description": {
+        "type": "string",
+        "description": "The only cigarette that will burn through eternity."
+      },
+      "image": {
+        "type": "string",
+        "description": "https://gateway.pinata.cloud/ipfs/QmVjLk9EWkzzoecRXPMUS5tHgXwmLdqrnZfFbpaKdf4WnR"
+      }
+    }
+  }
+}

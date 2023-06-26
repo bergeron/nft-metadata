@@ -1,0 +1,53 @@
+{
+  "address": "0x6c4926c5595d49585d0abe5d09dba8ff8e02ec99",
+  "type": "ERC721",
+  "name": "ELFOOZ V2 - old V2",
+  "tokenCount": "303",
+  "uri": "https://bafybeib2lf2by3agslyyfohm2v435fi47ri3waoewkhnjjzdkjk4lmca5i.ipfs.nftstorage.link/1.json",
+  "metadata": {
+    "name": "FatGuys #1",
+    "symbol": "FG",
+    "description": "A bunch of fat guys getting into the metaverse.",
+    "seller_fee_basis_points": 750,
+    "image": "https://ipfs.io/ipfs/Qmagtxvnq5tU6UWdGT8axKGabErmH6STnqqBtVdwTNSVav/1.png",
+    "external_url": "",
+    "edition": "1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "4D White and Yellow"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Hat Red"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "J5yYo8uNDoYvsUevZExS435ZaU4QXSHLwSVxhPsrzfuw",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

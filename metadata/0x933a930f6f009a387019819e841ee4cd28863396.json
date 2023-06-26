@@ -1,0 +1,33 @@
+{
+  "address": "0x933a930f6f009a387019819e841ee4cd28863396",
+  "type": "ERC721",
+  "name": "Cards by Sports (TEST) - old",
+  "tokenCount": "3",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIkFyaXpvbmEgRm9vdGJhbGwgIzAiLCJkZXNjcmlwdGlvbiI6ICJBcml6b25hIEZvb3RiYWxsICMwXG5TTi0wMDAwMDEiLCAiZXh0ZXJuYWxfdXJsIjogImh0dHBzOi8vc3BvcnRzZGFvLmdnL2NvbGxlY3RpYmxlcy8xIiwgImltYWdlIjogImh0dHBzOi8vaXBmcy5pby9pcG5zL2s1MXF6aTV1cXU1ZGs3bWp2dHpoZHBvZnJteWFmbXNlaTRubTdxZDUxdHJvZ3FrN3FlNHo2ZDVoM2c1aGpkLzEucG5nIiwgImF0dHJpYnV0ZXMiOiBbeyJ0cmFpdF90eXBlIjogIkNpdHkiLCAidmFsdWUiOiAiQXJpem9uYSJ9LHsidHJhaXRfdHlwZSI6ICJTcG9ydCIsICJ2YWx1ZSI6ICJGb290YmFsbCJ9LHsidHJhaXRfdHlwZSI6ICJOdW1iZXIiLCAiZGlzcGxheV90eXBlIjogIm51bWJlciIsICJ2YWx1ZSI6IDB9LHsidHJhaXRfdHlwZSI6ICJTZXJpYWwgTnVtYmVyIiwgImRpc3BsYXlfdHlwZSI6ICJudW1iZXIiLCAidmFsdWUiOiAxfV19",
+  "metadata": {
+    "name": "Arizona Football #0",
+    "description": "Arizona Football #0\nSN-000001",
+    "external_url": "https://sportsdao.gg/collectibles/1",
+    "image": "https://ipfs.io/ipns/k51qzi5uqu5dk7mjvtzhdpofrmyafmsei4nm7qd51trogqk7qe4z6d5h3g5hjd/1.png",
+    "attributes": [
+      {
+        "trait_type": "City",
+        "value": "Arizona"
+      },
+      {
+        "trait_type": "Sport",
+        "value": "Football"
+      },
+      {
+        "trait_type": "Number",
+        "display_type": "number",
+        "value": 0
+      },
+      {
+        "trait_type": "Serial Number",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

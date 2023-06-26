@@ -1,0 +1,53 @@
+{
+  "address": "0x677fb3a57219cdd7a84b4089b3cb70b04a0afba7",
+  "type": "ERC721",
+  "name": "Pirates NFT Club Season1",
+  "tokenCount": "2",
+  "uri": "ipfs://QmSQiDwoju8PsuiS6KtA2xJCZMyuPnWo5iY5rUBES8rJ64/1.json",
+  "metadata": {
+    "name": "Pirate #1",
+    "description": "Welcome to the Pirates NFT collection . Here you can find your favorite Pirate NFT.",
+    "fee_recipient": "0x55d6827618D153f7c362E5f112b060204B7c1737",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://QmPHMBFZkx2hDZNumjAzUF21mNqPFLqJwh5YrYnHV2A2ET/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Greenfour"
+      },
+      {
+        "trait_type": "Lowerbody",
+        "value": "Lbtwo #50"
+      },
+      {
+        "trait_type": "Upperbody",
+        "value": "Vestred"
+      },
+      {
+        "trait_type": "Heads",
+        "value": "Shortbrownpipeone"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Gebnine"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Scarfseven"
+      },
+      {
+        "trait_type": "Pet",
+        "value": "Parrot One"
+      },
+      {
+        "trait_type": "Swords",
+        "value": "Axetwo"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 56,
+        "display_type": "number"
+      }
+    ]
+  }
+}

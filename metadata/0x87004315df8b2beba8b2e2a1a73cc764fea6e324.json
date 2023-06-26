@@ -1,0 +1,40 @@
+{
+  "address": "0x87004315df8b2beba8b2e2a1a73cc764fea6e324",
+  "type": "ERC721",
+  "name": "Purple Lady Jockey Club - Omnihorse",
+  "tokenCount": "6",
+  "uri": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/nftjson/0x87004315dF8b2beBA8B2e2a1a73CC764FeA6e324/1.json",
+  "metadata": {
+    "name": "Purple Lady Jockey Club #1",
+    "description": "Purple Lady Jockey Club membership NFTs",
+    "animation_url": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/Purple Lady/1.mp4",
+    "image": "https://omnihorse-assets-production.s3.us-west-1.amazonaws.com/Purple Lady/1.gif",
+    "external_link": "https://www.omnihorse.io/",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0xfa93360A5bf0B9e012B771577Db71B85792ab4e9",
+    "edition": 1,
+    "date": 1665607932,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Storm Blue"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Frame Background",
+        "value": "Marble Grid"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Pink Helmet"
+      },
+      {
+        "trait_type": "Level",
+        "value": "Lv1"
+      }
+    ]
+  }
+}

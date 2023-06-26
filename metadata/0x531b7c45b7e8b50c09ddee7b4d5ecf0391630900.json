@@ -1,0 +1,66 @@
+{
+  "address": "0x531b7c45b7e8b50c09ddee7b4d5ecf0391630900",
+  "type": "ERC721",
+  "name": "Dummified Foxes",
+  "tokenCount": "774",
+  "uri": "ipfs://bafybeicfuo336vyjz6xzjof3brao6wnpxsihclt4j3n2plyjyyltzsvfhe/1.json",
+  "metadata": {
+    "name": "DF#1",
+    "symbol": "DF",
+    "description": "A remarkable collab between Degen dummies and Famous Fox Federation. Coming together to make a 777 collection of Dummified foxes",
+    "seller_fee_basis_points": 1000,
+    "image": "https://nftstorage.link/ipfs/bafybeifmbnid4ao2zkfy4ycw7p7ndkklxlzx7njt2yq6chyv4yduag3e7u/1.jpeg",
+    "external_url": "",
+    "collection": {
+      "name": "Dummified Fox's",
+      "family": "LaunchMyNFT"
+    },
+    "attributes": [
+      {
+        "trait_type": "Bckg",
+        "value": "Peachy"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Fox"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Plain Fox"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grin"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Black Hat"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 734,
+        "display_type": "number",
+        "max_value": 777
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://nftstorage.link/ipfs/bafybeifmbnid4ao2zkfy4ycw7p7ndkklxlzx7njt2yq6chyv4yduag3e7u/1.jpeg",
+          "type": "image/jpeg"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "Ay7EckbbPkDrk1o9D3UjTLfs3Fiz1NFXcMYG5FUKyTyT",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

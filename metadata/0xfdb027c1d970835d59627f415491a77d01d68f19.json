@@ -1,0 +1,35 @@
+{
+  "address": "0xfdb027c1d970835d59627f415491a77d01d68f19",
+  "type": "ERC721",
+  "name": "Hoodies Access Tokens",
+  "tokenCount": "94",
+  "uri": "https://mint.hoodies.xyz/api/collection/1.json",
+  "metadata": {
+    "token_id": 1,
+    "tier": 1,
+    "attributes": [
+      {
+        "trait_type": "Hoodie",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "Hats"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "White Snapback"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "Hoodies Glossy"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "Hats"
+      }
+    ],
+    "image": "https://iotaread.com:3008/image?token_id=1&contract=1",
+    "name": "Hoodie #1"
+  }
+}

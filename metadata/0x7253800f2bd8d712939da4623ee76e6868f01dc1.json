@@ -1,0 +1,39 @@
+{
+  "address": "0x7253800f2bd8d712939da4623ee76e6868f01dc1",
+  "type": "ERC721",
+  "name": "BlackBeanies",
+  "tokenCount": "42",
+  "uri": "ipfs://QmdkBUKgUb4BFS9Sw7UytZCJxWEN1WoN1wj7YejqfZhVsB/1.json",
+  "metadata": {
+    "dna": "d71b4aeec1fa94d07b24b1a7bfe3274c1052b78926f165446f3276c9ba14dfb1",
+    "name": "BlackBeanie #1",
+    "description": "BlackBeanies: 10,000 cool and unique Punks living on the Blockchain.",
+    "image": "ipfs://QmU1G3tEo78SJZRJGCfuzC2VTisgXswbjFgy7c7Wz7JQ5m/1.png",
+    "imageHash": "0df0d11c7f1e8dc8f04769681f250eba33a0a5591e85f024019d0b5d21510ede",
+    "edition": 1,
+    "date": 1653693121599,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Faceial Hair",
+        "value": "Big Beard"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Messy Hair Brown"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Beanie"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  }
+}

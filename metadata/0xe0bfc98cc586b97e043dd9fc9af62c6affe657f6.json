@@ -1,0 +1,27 @@
+{
+  "address": "0xe0bfc98cc586b97e043dd9fc9af62c6affe657f6",
+  "type": "ERC1155",
+  "name": "Starlist",
+  "tokenCount": "3",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmRByhcZxPvVzPwJdod7eW4KCHkW8fXePeXJomo2h9tfss/shard1.json",
+  "metadata": {
+    "name": "Star Fragment",
+    "description": "Starlist BETA Shard. \nUntradable unless unlocked*. \n'Stars, hide your fires; Let not light see my black and deep desires.' - Shakespeare",
+    "image": "https://gateway.pinata.cloud/ipfs/QmR7nb1Dfir1srf3YX8bsdEw9Jb9v8edp8ztUoJFYFUMPS/Star%20Shard%201.jpeg",
+    "animation_url": "https://gateway.pinata.cloud/ipfs/QmR7nb1Dfir1srf3YX8bsdEw9Jb9v8edp8ztUoJFYFUMPS/chapterVideo1.mp4",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "1"
+      },
+      {
+        "trait_type": "Transferable",
+        "value": "False"
+      },
+      {
+        "trait_type": "BETA",
+        "value": "True"
+      }
+    ]
+  }
+}

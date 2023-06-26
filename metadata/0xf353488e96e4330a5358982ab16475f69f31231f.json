@@ -1,0 +1,44 @@
+{
+  "address": "0xf353488e96e4330a5358982ab16475f69f31231f",
+  "type": "ERC721",
+  "name": "MetaPlaces Luxury Properties",
+  "tokenCount": "202",
+  "uri": "https://api.meta-places.io/getMetadata/1",
+  "metadata": {
+    "id": 1,
+    "name": "Metaplaces 1",
+    "adn": "69102816",
+    "description": "Metaplaces is an exclusive collection of 202 unique luxury property NFTs, designed by an award winning architecture firm, that provide extensive utilities. You can connect on our platform to customize your NFT view, furniture and interior. Moreover, each NFT holder has a unique URL they can share to invite people to visit their properties, where they can interact and stream to the TVs and Sound system to throw disco parties and watch parties after they choose an avatar. Holders can turn the invite link to private to restrict invitations to the Metamask accounts of their friends. Holders of Metaplaces NFTs will be eligible for multiple free NFT drops.",
+    "image": "https://nfts.meta-places.io/custom/69102816.jpg",
+    "thumbnail": "https://nfts.meta-places.io/custom/69102816_400.jpg",
+    "external_url": "https://visit.meta-places.io/1",
+    "attributes": [
+      {
+        "trait_type": "sky",
+        "value": "Mountain View"
+      },
+      {
+        "trait_type": "interior",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "facade",
+        "value": "Chrome"
+      },
+      {
+        "trait_type": "columns",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "yard",
+        "value": "Agate Long Pool"
+      },
+      {
+        "trait_type": "car",
+        "value": "Silver Convertible"
+      }
+    ],
+    "lastUpdated": 1687483100,
+    "view": "exterior"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "address": "0x2bd58a19c7e4abf17638c5ee6fa96ee5eb53aed9",
+  "type": "ERC721",
+  "name": "mannys.game",
+  "tokenCount": "1616",
+  "uri": "https://mannys-game-server.herokuapp.com/api/tokens/1",
+  "metadata": {
+    "name": "Manny #1",
+    "token_id": 1,
+    "description": "Entry-level rare Manny. Visit https://mannys.game/1 to interact with your Manny.",
+    "image": "https://mannys-game.s3.us-east-1.amazonaws.com/images/1.png",
+    "texture_url": "https://mannys-game.s3.us-east-1.amazonaws.com/textures-small/1.jpg",
+    "texture_url_hd": "https://mannys-game.s3.us-east-1.amazonaws.com/textures-hd/1.jpg",
+    "external_url": "https://mannys.game/1",
+    "animation_url": "https://mannys-game-viewer.vercel.app/view/1",
+    "iframe_url": "https://mannys-game-viewer.vercel.app/view/1",
+    "attributes": [
+      {
+        "trait_type": "skin",
+        "value": "Base Rare"
+      },
+      {
+        "trait_type": "mood",
+        "value": "bored"
+      },
+      {
+        "trait_type": "tattoos",
+        "value": 1
+      }
+    ]
+  }
+}

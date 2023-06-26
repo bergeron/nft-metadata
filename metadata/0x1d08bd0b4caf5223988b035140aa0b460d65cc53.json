@@ -1,0 +1,38 @@
+{
+  "address": "0x1d08bd0b4caf5223988b035140aa0b460d65cc53",
+  "type": "ERC721",
+  "name": "Lucky Degen",
+  "tokenCount": "2",
+  "uri": "https://gateway.pinata.cloud/ipfs/Qmf9FQSr3E92V2qdWzhVCrYBK2Pb5GFirVdQ8hUknQkgkC/1",
+  "metadata": {
+    "dna": "6bb293989ea6e5ec2a1921748ce512bdbde945c7",
+    "name": "#1",
+    "description": "Five bowls of noodles. Round chopsticks wrapped in paper. Instructions: good luck!",
+    "image": "ipfs://QmVJDMxGqxfoi3njeEWMZwbCBBcmoc1DB98LqbnLXyN19J/1.png",
+    "edition": 1,
+    "date": 1635364523852,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Orange Gradient"
+      },
+      {
+        "trait_type": "Skew Left",
+        "value": "Purple Gradient"
+      },
+      {
+        "trait_type": "Skew Right",
+        "value": "None"
+      },
+      {
+        "trait_type": "Art",
+        "value": "Github Light Blue"
+      }
+    ],
+    "compiler": "Lucky"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0x32075278bbda21aa9e49a1923084ac457365cd2b",
+  "type": "ERC1155",
+  "name": "AlphaBetty Books",
+  "tokenCount": "5",
+  "uri": "https://s3.eu-west-1.amazonaws.com/booklaunch.alphabettydoodles.io/metadata/json/1.json",
+  "metadata": {
+    "name": "The Seagull Finds his Talent",
+    "description": "AlphaBetty Books launch NFT.",
+    "image": "https://s3.eu-west-1.amazonaws.com/booklaunch.alphabettydoodles.io/metadata/images/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Book",
+        "value": "#1"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Seagull"
+      },
+      {
+        "trait_type": "Author",
+        "value": "Cheryl Griffin"
+      },
+      {
+        "trait_type": "Publisher",
+        "value": "AlphaBetty Books LTD"
+      }
+    ]
+  }
+}

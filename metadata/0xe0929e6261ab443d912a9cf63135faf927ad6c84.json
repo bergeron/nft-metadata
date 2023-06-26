@@ -1,0 +1,44 @@
+{
+  "address": "0xe0929e6261ab443d912a9cf63135faf927ad6c84",
+  "type": "ERC721",
+  "name": "Hungry Hippos NFT",
+  "tokenCount": "524",
+  "uri": "ipfs://QmfCw9HjDx4K5zFD2SR3fHwtucmhrUngruoGapAuvsq1sv/1.json",
+  "metadata": {
+    "name": "Hungry Hippos #1",
+    "image": "ipfs://QmUoFWVaRNLRRFNSYVWBaPZS6ndDxub1fpdbc7SwpSe3yR/1.png",
+    "description": "7,777 unique and custom Hungry Hippos roaming around in the wild.",
+    "external_url": "https://www.hungryhipposnft.io/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sky Blue"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Black Suit X Tie"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Shark"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Ape Head"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

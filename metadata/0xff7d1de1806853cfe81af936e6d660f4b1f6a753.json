@@ -1,0 +1,38 @@
+{
+  "address": "0xff7d1de1806853cfe81af936e6d660f4b1f6a753",
+  "type": "ERC721",
+  "name": "Pixel Pudgies",
+  "tokenCount": "5000",
+  "uri": "ipfs://bafybeian35gnhdimzrnbuzxdui5ysxfx2h2xgkhykuoifjl6zfe6tap43y/1.json",
+  "metadata": {
+    "name": "Pudgy #1",
+    "description": "A 28px derivative of Pudgy Penguins by Twitter.com/TheSkullCat.",
+    "image": "ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/1.png",
+    "dna": "979902cb97c0850c8dc7f32d1109d996236f0dcb",
+    "edition": 1,
+    "date": 1661371431929,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Light Gray"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Apron"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Circle Glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Hat Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

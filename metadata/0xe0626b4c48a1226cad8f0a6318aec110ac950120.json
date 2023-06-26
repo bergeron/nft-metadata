@@ -1,0 +1,22 @@
+{
+  "address": "0xe0626b4c48a1226cad8f0a6318aec110ac950120",
+  "type": "ERC1155",
+  "name": "LOM Ornaments",
+  "tokenCount": "5",
+  "uri": "https://lomlink.s3.amazonaws.com/nfts/Ornaments/metadata/1.json",
+  "metadata": {
+    "name": "Deer Monster",
+    "image": "https://lomlink.s3.amazonaws.com/nfts/Ornaments/images/1.png",
+    "description": "The Deer Monster is said to live in a sanctuary deep in a cave deep in the LOM forest.\n”Deer Monster” is a puppet that imitates its appearance, but no one has ever seen it.",
+    "attributes": [
+      {
+        "trait_type": "DRESS CODE",
+        "value": "Friends"
+      },
+      {
+        "trait_type": "COLOR",
+        "value": "Orange"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "address": "0x0ef3fe5956ea4a4567b46f7d12b5d3c28f6a7d4f",
+  "type": "ERC721",
+  "name": "ITUBlockchain",
+  "tokenCount": "1",
+  "uri": "ipfs://QmcNMfSL91XkiFzQEmUHrRudg8KTjw2Vpr6qG1La3JXPUW",
+  "metadata": {
+    "description": "ITU Blockchain Soulbound Assets",
+    "external_url": "https://itublockchain.com",
+    "image": "ipfs://QmbqvXpddqit9JFjfRW67S5WqesruBhiCZLGK4czXZ2hPb",
+    "name": "ITU Blockchain Soulbound",
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "Founded",
+        "value": "1518393600"
+      },
+      {
+        "trait_type": "Based in",
+        "value": "Istanbul Technical University"
+      },
+      {
+        "trait_type": "Ethereum Address",
+        "value": "itublockchain.eth"
+      },
+      {
+        "trait_type": "Twitter",
+        "value": "https://twitter.com/ITUblockchain"
+      }
+    ]
+  }
+}

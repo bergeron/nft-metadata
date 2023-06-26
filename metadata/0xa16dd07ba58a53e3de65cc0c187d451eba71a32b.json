@@ -1,0 +1,68 @@
+{
+  "address": "0xa16dd07ba58a53e3de65cc0c187d451eba71a32b",
+  "type": "ERC721",
+  "name": "Jon Burgerman MISA",
+  "tokenCount": "14",
+  "uri": "ipfs://QmPuNkf5pv4aPD5ZxuvooteaGpbUZxNoAMUEQNtJJFWCaS",
+  "metadata": {
+    "name": "Internal dialogue",
+    "description": "Physical painting using aerosol and oil bar on canvas, digitised and brought to life. What happens when the voices in your head become your head? Do you try and tune them out or acquiesce and try and enjoy the ride? Music by Todayidance. The NFT contains additional files as collector rewards.\n\nVerisart Certified: https://verisart.com/works/6c9c4374-275e-4540-8498-41da1f1f120e",
+    "image": "ipfs://QmeYzUggqp2VsdPBU1kSZfFu1ULadnt8EBoi47rkAMjZnn",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 1920,
+          "height": 1080,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 1,
+          "seconds": 1
+        },
+        "frameRate": 25,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xb2ca090e29ba94b2eb94adaad6a806cd031f286a",
+            "bps": 800
+          }
+        ],
+        "editionInfo": null
+      }
+    },
+    "animation_url": "ipfs://QmWKkQ2WubZQG2GKxp7AxRknCt6Xo9MhBsQLVJheUcGtcm",
+    "external_url": "https://verisart.com/works/6c9c4374-275e-4540-8498-41da1f1f120e",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Jon Burgerman"
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Title",
+        "value": "Internal dialogue"
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "1080x1920 px"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:01:01"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "address": "0x8e93fd5d7c1dcf7dd8d44d32c714b92bd049dc81",
+  "type": "ERC721",
+  "name": "Bozoverse",
+  "tokenCount": "6666",
+  "uri": "ipfs://QmeqpeAmSWQiKBhYpvmsnBbEM6BfCVNH8T1na8kGTETVqF/1.json",
+  "metadata": {
+    "name": "Bozo's #1",
+    "description": "Your welcome Bozo !",
+    "image": "ipfs://QmRmHdkfnTAfh5WikgTTrCo9SsS5qtUvvBxa4VxQKvUyaH/1.png",
+    "dna": "d46926a22148560e6302a6b664a1b83d366fccbf",
+    "edition": 1,
+    "date": 1657836144163,
+    "seller_fee_basis_points": 650,
+    "collection": {
+      "name": "Bozo's",
+      "family": "Bozo's"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xC94b3C249597062b7f1806f4D2FF1a8ceA108a85",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Skin color",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyeglasses",
+        "value": "Bluerayban"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Greenshirt"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Rasta"
+      },
+      {
+        "trait_type": "Earings",
+        "value": "BlueEarings"
+      }
+    ]
+  }
+}

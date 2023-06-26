@@ -1,0 +1,143 @@
+{
+  "address": "0x87084ec881d5a15c918057f326790db177d218f2",
+  "type": "ERC721",
+  "name": "Fancy Bears Metaverse",
+  "tokenCount": "7888",
+  "uri": "https://api.fancybearsmetaverse.com/1",
+  "metadata": {
+    "name": "Fancy Bear #1",
+    "description": "We are 8888 bears chillin in our Metaverse club. Here you can hang out with artists, top athletes, influencers, celebrities and Nobel prize winners. In the Metaclub you can join concerts, pool parties and play tennis with your favorite creators.",
+    "edition": 2,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bright Blue"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Pineapple Shirt"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Vampire"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Golden Earrings"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Honey Jars",
+        "value": "Claimed"
+      },
+      {
+        "trait_type": "Locked Honey",
+        "value": 0,
+        "max_value": 142000
+      },
+      {
+        "trait_type": "Level",
+        "value": 1,
+        "max_value": 15
+      },
+      {
+        "trait_type": "Honey Eaten",
+        "value": 71000
+      },
+      {
+        "trait_type": "Eth Eaten",
+        "value": 0.0029
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Last update",
+        "value": 1666731681732
+      }
+    ],
+    "elements": [
+      {
+        "id": 3,
+        "fileName": "Bright Blue_100.png",
+        "rarity": "Default",
+        "layer": "Background",
+        "name": "Bright Blue"
+      },
+      {
+        "id": 1,
+        "fileName": "Green_green_100.png",
+        "rarity": "Default",
+        "layer": "Fur",
+        "name": "Green"
+      },
+      {
+        "id": 21,
+        "fileName": "Pineapple Shirt_100.png",
+        "rarity": "Default",
+        "layer": "Clothes",
+        "name": "Pineapple Shirt"
+      },
+      {
+        "id": 15,
+        "fileName": "Sunglasses_100.png",
+        "rarity": "Default",
+        "layer": "Eyes",
+        "name": "Sunglasses"
+      },
+      {
+        "id": 30,
+        "fileName": "Vampire_100.png",
+        "rarity": "Default",
+        "layer": "Snout",
+        "name": "Vampire"
+      },
+      {
+        "id": 3,
+        "fileName": "Golden Earrings_green_100.png",
+        "rarity": "Default",
+        "layer": "Ears",
+        "name": "Golden Earrings"
+      },
+      {
+        "id": 27,
+        "fileName": "Top Hat_100.png",
+        "rarity": "Default",
+        "layer": "Hat",
+        "name": "Top Hat"
+      }
+    ],
+    "traits": [
+      1003,
+      2009,
+      3028,
+      4018,
+      5031,
+      6003,
+      7039,
+      0
+    ],
+    "originalTraits": [
+      1003,
+      2009,
+      3028,
+      4018,
+      5031,
+      6003,
+      7039,
+      0
+    ],
+    "originalHash": "1.1003.2009.3028.4018.5031.6003.7039.0",
+    "hash": "1.1003.2009.3028.4018.5031.6003.7039.0",
+    "image": "https://f.fancybearsmetaverse.com/1.png"
+  }
+}

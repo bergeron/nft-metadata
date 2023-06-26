@@ -1,0 +1,41 @@
+{
+  "address": "0xd5252c9b9d23689eacca08e3e0eaab8873550662",
+  "type": "ERC721",
+  "name": "Pepe The Arts",
+  "tokenCount": "6978",
+  "uri": "https://ipfs.io/ipfs/QmUdthDZKoFgNcDbPhHFY3gzuCZXvzQfnFDzpE9TdewvW5/1.json",
+  "metadata": {
+    "name": "Pepe The Arts #1",
+    "description": "Pepe The Arts is an NFT collection by Kozy showcasing Pepe as a legitimate artwork.",
+    "image": "https://ipfs.io/ipfs/QmVq8mmiD4xCDzRS5tFa7yG9hvFjiNyQHd1GHVSkSG7xmu/1.png",
+    "edition": 1,
+    "date": 1683744089661,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Old Paper"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Rooter Guy"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Holy Eyes"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Ultra Thorny"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ghostly"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Fokker"
+      }
+    ],
+    "compiler": "Pepe Art Engine - Pepe the arts"
+  }
+}

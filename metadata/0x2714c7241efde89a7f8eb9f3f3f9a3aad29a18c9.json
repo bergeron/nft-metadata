@@ -1,0 +1,49 @@
+{
+  "address": "0x2714c7241efde89a7f8eb9f3f3f9a3aad29a18c9",
+  "type": "ERC721",
+  "name": "Sand Apes",
+  "tokenCount": "37",
+  "uri": "https://arweave.net/TK1QRxSTFNYwmlncQMCOmXHk5lt44aO38enf48d4elg",
+  "metadata": {
+    "name": "Sand MAYC #30004",
+    "created_by": "FallingInSand",
+    "description": "Sand Ape MAYC #30004",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "FallingInSand"
+      },
+      {
+        "trait_type": "MAYC",
+        "value": "30004"
+      },
+      {
+        "trait_type": "Mega",
+        "value": "DMT"
+      }
+    ],
+    "image_details": {
+      "bytes": 288925,
+      "format": "JPEG",
+      "sha256": "d6c0cddbb55cdb304a70421a059220633d98c419172574a7ec4f597107e9d9b2",
+      "width": 1087,
+      "height": 1087
+    },
+    "image": "https://arweave.net/sesURsKhMW1Kup1BZRIIfJL0Uoa3vSonHOOsvh7bMa4",
+    "image_url": "https://arweave.net/sesURsKhMW1Kup1BZRIIfJL0Uoa3vSonHOOsvh7bMa4",
+    "animation_details": {
+      "bytes": 10062378,
+      "format": "MP4",
+      "duration": 20,
+      "sha256": "c16b0be579e718417803146f58bb1d4d84259c9f810dccc36b4b923b3fbd2e1c",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/eM5hMz4QQr1YlXMBP1TQ-z8XnixLQuRclXZ01D9uakU",
+    "animation_url": "https://arweave.net/eM5hMz4QQr1YlXMBP1TQ-z8XnixLQuRclXZ01D9uakU"
+  }
+}

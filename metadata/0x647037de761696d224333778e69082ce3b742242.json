@@ -1,0 +1,50 @@
+{
+  "address": "0x647037de761696d224333778e69082ce3b742242",
+  "type": "ERC1155",
+  "name": "Ape Drops 01 : Snoop Dogg Ape Tracks",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/inPeML3Mv3rQZZzQvst0mquX0dfUOOECHeaMUj7K9rE",
+  "metadata": {
+    "name": "Foolin Yaself",
+    "created_by": "Snoop Dogg Ape Tracks",
+    "external_url": "ape-drops.xyz",
+    "description": "Ever thought you could buy Rock music with Ape Coin? No? Well then you’re foolin yaself. \n\n(Prod. by Jelly Roll & Dr. Bombay)",
+    "attributes": [
+      {
+        "value": "Snoop Dogg",
+        "trait_type": "Artist"
+      },
+      {
+        "trait_type": "Track",
+        "value": "Foolin Yaself"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Snoop Dogg Ape Tracks"
+      }
+    ],
+    "animation_details": {
+      "bytes": 99527169,
+      "format": "MP4",
+      "duration": 286,
+      "sha256": "a17d46d066ea178f80e27e04c7668245fcd5fde8f38deccbb4b16d0bd5f84775",
+      "width": 800,
+      "height": 800,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/MaN8e8J5jXDHnu7pVPv4iRITQNz50-CncV3_s0PsQpE",
+    "animation_url": "https://arweave.net/MaN8e8J5jXDHnu7pVPv4iRITQNz50-CncV3_s0PsQpE",
+    "image_details": {
+      "bytes": 872946,
+      "format": "PNG",
+      "sha256": "caa9b157953051f58c4f61d34d4532e80b04d5f3b481b4507dbfb4c3f8c2cc50",
+      "width": 960,
+      "height": 960
+    },
+    "image": "https://arweave.net/kzPKgfrHXQKl0X5DMaq1tueJ2enF_I67aTFCmcAI12U",
+    "image_url": "https://arweave.net/kzPKgfrHXQKl0X5DMaq1tueJ2enF_I67aTFCmcAI12U"
+  }
+}

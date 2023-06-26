@@ -1,0 +1,26 @@
+{
+  "address": "0xfdeef424c147e869a9bb2723874186f06f36b386",
+  "type": "ERC1155",
+  "name": "Nemus Genesis Drop Tickets - Official",
+  "tokenCount": "5",
+  "uri": "https://nemus-media.nyc3.digitaloceanspaces.com/tickets/seruini/genesis/metadata/1.json",
+  "metadata": {
+    "description": "Each ticket entitles the holder to a 1:1 exchange for a Medium Nemus NFT once minting is available. NFTs can be claimed within the Nemus application at https://app.nemus.earth",
+    "image": "https://nemus-media.nyc3.digitaloceanspaces.com/tickets/seruini/genesis/images/tickets_medium.gif",
+    "name": "Genesis - Medium",
+    "attributes": [
+      {
+        "trait_type": "Size",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Region",
+        "value": "Seruini"
+      },
+      {
+        "trait_type": "Drop",
+        "value": "Genesis"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "address": "0x176c2bcbf2c25e520d46f8af6ee862fad14d6edb",
+  "type": "ERC721",
+  "name": "Server",
+  "tokenCount": "50",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=7jhuh3JYlL8fG1kO2ykJ",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1590358848533?alt=media&token=314102dc-d588-4e43-8895-53151dc36a25",
+    "forSale": true,
+    "contractAddress": "0x176c2bcbf2c25e520d46f8af6ee862fad14d6edb",
+    "description": "2020",
+    "ethPrice": "888",
+    "amountToMint": "25",
+    "minter": "0xb90008e947a237b15e120d4f13362bbb3a5ebb5f",
+    "mintedOn": {
+      "_seconds": 1590358867,
+      "_nanoseconds": 169000000
+    },
+    "price": "$0.00",
+    "name": "~V~",
+    "fiatPrice": "$184,082.40",
+    "minted": "Minted on Mintbase.io",
+    "category": "8DWobLXtajfDuY8Vqsgu",
+    "youtube_url": "",
+    "external_url": "https://mintbase.io/my-market/0x176c2bcbf2c25e520d46f8af6ee862fad14d6edb",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "7jhuh3JYlL8fG1kO2ykJ"
+      }
+    ],
+    "type": "ERC721"
+  }
+}

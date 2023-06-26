@@ -1,0 +1,45 @@
+{
+  "address": "0xc0ce315e2ff1d622533492e5837db9a5b617422e",
+  "type": "ERC721",
+  "name": "Burtons Squad Collection",
+  "tokenCount": "2000",
+  "uri": "https://api.burtonsquad.monster/1.json",
+  "metadata": {
+    "id": 1,
+    "description": "These monsters are the creation of a crazy old inventor, tooters, mushrooms, dogs, vultures...",
+    "external_url": "",
+    "image": "https://api.burtonsquad.monster/images/0/1.png",
+    "image_original_url": "https://api.burtonsquad.monster/images/0/1.png",
+    "name": "Monster # 1",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Deadly Horse"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Trees Moon"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Falcon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Cow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Alto"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Mad"
+      },
+      {
+        "trait_type": "Rariness Score",
+        "value": "289"
+      }
+    ]
+  }
+}

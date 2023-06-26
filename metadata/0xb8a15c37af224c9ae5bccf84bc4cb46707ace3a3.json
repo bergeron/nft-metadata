@@ -1,0 +1,23 @@
+{
+  "address": "0xb8a15c37af224c9ae5bccf84bc4cb46707ace3a3",
+  "type": "ERC721",
+  "name": "The CryptoPoops",
+  "tokenCount": "1375",
+  "uri": "https://big-junior-stone-rocketship.fission.app/json/1/index.json",
+  "metadata": {
+    "name": "CryptoPoops Box #1",
+    "description": "I wonder what's inside!",
+    "image": "https://big-junior-stone-rocketship.fission.app/poops/mystery_box.mp4",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": "1"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Mint Condition"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "address": "0xf297f8970ef3dadb3beb6de78b135debaad3a626",
+  "type": "ERC721",
+  "name": "The DragonVerse - Game",
+  "tokenCount": "3002",
+  "uri": "https://api.dragonverse.io/latest/metadata/dragons/1",
+  "metadata": {
+    "description": "DragonVerse is a collection of 3000 Dragons, programmatically and randomly generated on the Ethereum Blockchain. Each dragon is unique, made from a combination of more than 200 attributes drawn by hand. A dragon is both an NFT collectible and a key to enter the DragonVerse Play to Earn desktop and mobile game.",
+    "image": "https://metadata.dragonverse.io/image/1.jpg",
+    "name": "Dragon #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "magenta"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "red"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "none"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "turbid"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "standard"
+      },
+      {
+        "trait_type": "Horns",
+        "value": "ice cream"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "angry"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "star"
+      },
+      {
+        "trait_type": "Level",
+        "max_value": 100,
+        "value": 1
+      },
+      {
+        "trait_type": "Xp",
+        "max_value": 1000,
+        "value": null
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Health",
+        "value": 100
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Attack",
+        "value": 0
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Defense",
+        "value": 0
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Speed",
+        "value": 0
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Gold",
+        "value": 0
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "DNA",
+        "value": 0
+      }
+    ]
+  }
+}

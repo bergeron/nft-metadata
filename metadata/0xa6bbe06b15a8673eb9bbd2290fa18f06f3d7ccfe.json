@@ -1,0 +1,33 @@
+{
+  "address": "0xa6bbe06b15a8673eb9bbd2290fa18f06f3d7ccfe",
+  "type": "ERC721",
+  "name": "NFTS-NOT-FOR-ME",
+  "tokenCount": "642",
+  "uri": "ipfs://QmTVHDXQVrKQq7j17vECUt9Ha24n1ioEH9rPDPoAJzk52g/1.json",
+  "metadata": {
+    "name": "NFT SIGNS #1",
+    "description": "NFTS ARE NOT FOR ME!",
+    "image": "ipfs://QmVn5dUjzgag2JzCp7kPSjzrrh3x1RY7g7H3iiWpza48Cw//1.png",
+    "edition": 1,
+    "date": 1655754603890,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Sign Color",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "Border",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Words",
+        "value": "Listen to Bill"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

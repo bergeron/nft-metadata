@@ -1,0 +1,45 @@
+{
+  "address": "0x9dedaee7898b9316fb9eed0cd92dcaf3c91eb8ef",
+  "type": "ERC721",
+  "name": "LaunchX Test",
+  "tokenCount": "4",
+  "uri": "https://website-assests-oasisx.s3.amazonaws.com/8b152056-6ab4-4369-9810-def8b1691bde/metadata/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "",
+    "external_url": "",
+    "image": "https://website-assests-oasisx.s3.amazonaws.com/8b152056-6ab4-4369-9810-def8b1691bde/assets/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black#1"
+      },
+      {
+        "trait_type": "eyeball",
+        "value": "White#50"
+      },
+      {
+        "trait_type": "eyecolor",
+        "value": "Pink#1"
+      },
+      {
+        "trait_type": "iris",
+        "value": "Small#60"
+      },
+      {
+        "trait_type": "bottom",
+        "value": "Middle#40"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art"
+  }
+}

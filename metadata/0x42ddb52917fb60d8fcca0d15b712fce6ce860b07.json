@@ -1,0 +1,41 @@
+{
+  "address": "0x42ddb52917fb60d8fcca0d15b712fce6ce860b07",
+  "type": "ERC1155",
+  "name": "COLORSHIFT: ANALOG",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/g_NgMRSKrxRHMJ3rnIvKVpVXwqdEhG06Xko8h3RewL8",
+  "metadata": {
+    "name": "JUNGLE",
+    "created_by": "COLORSHIFT",
+    "description": "Audio-reactive video created with analog  equipment. Drum break frequencies mapped to control video parameters. Inspired by 90's jungle.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "COLORSHIFT"
+      }
+    ],
+    "image_details": {
+      "bytes": 9359098,
+      "format": "GIF",
+      "sha256": "4054cced8cc0dde98282320a33854f05f1c95fb95e81b37f03838feae917dfcc",
+      "width": 720,
+      "height": 480
+    },
+    "image": "https://arweave.net/ghEDCLJ6-iVCzn_iYCRsudzDc2rTdvYwVc5u5aOjwLk",
+    "image_url": "https://arweave.net/ghEDCLJ6-iVCzn_iYCRsudzDc2rTdvYwVc5u5aOjwLk",
+    "animation_details": {
+      "bytes": 26516207,
+      "format": "MP4",
+      "duration": 11,
+      "sha256": "34e1813d3abbdac004a3bf4da088e495e984dc37ab55e5bfbe17fc2c7efc592b",
+      "width": 655,
+      "height": 480,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/0FkTFXLZlGEtrfNhDABGGQrBIJo1_RN091VhEcd7aVA",
+    "animation_url": "https://arweave.net/0FkTFXLZlGEtrfNhDABGGQrBIJo1_RN091VhEcd7aVA"
+  }
+}

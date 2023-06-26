@@ -1,0 +1,37 @@
+{
+  "address": "0x909e0180b1cf2b62baf78ef4c8beadb5c761e68e",
+  "type": "ERC721",
+  "name": "Weird Art Nyc",
+  "tokenCount": "1212",
+  "uri": "ipfs://QmYMJJwAPDZgfpjB7GRxae7LmL7p29mb98arQtGjoDmEBp/1.json",
+  "metadata": {
+    "name": "Weird Art Nyc #1",
+    "description": "Just a weird Guy who Doodles Weird art...all art done on a iphone X with a cracked screen ..",
+    "image": "ipfs://QmVbJuV9yvhGUG4BHic4tVJ7tdErVrEar349b6Ur6xCbvh/1.png",
+    "edition": 1,
+    "date": 1673252913712,
+    "attributes": [
+      {
+        "trait_type": "Borough",
+        "value": "Manhatten"
+      },
+      {
+        "trait_type": "Job",
+        "value": "Artist"
+      },
+      {
+        "trait_type": "Levels",
+        "value": "Extent"
+      },
+      {
+        "trait_type": "Location",
+        "value": "City"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Sick"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

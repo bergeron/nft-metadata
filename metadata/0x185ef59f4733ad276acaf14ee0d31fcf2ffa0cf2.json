@@ -1,0 +1,31 @@
+{
+  "address": "0x185ef59f4733ad276acaf14ee0d31fcf2ffa0cf2",
+  "type": "ERC721",
+  "name": "ALGORITHMIC ZONES OF IMMATERIAL PICTORIAL SENSIBILITY by Mikey Woodbridge & Ezra Shibboleth",
+  "tokenCount": "7",
+  "uri": "https://arweave.net/44MS7EZYVEPUCtRpt8RmGzbqqC2hVTIn37mysIOoyT0/1",
+  "metadata": {
+    "name": "you",
+    "created_by": "Mikey Woodbridge & Ezra Shibboleth",
+    "description": "Algorithmic Zones of Immaterial Pictorial Sensibility is inspired by Yves Klein's 1959-1962 piece Zone de Sensibilité Picturale Immatérielle and Mitchell Chan's 2017 piece Digital Zones of Immaterial Pictorial Sensibility. In Klein's piece, he made paper certificates that represented empty zones imbued with immaterial artistic sensibility. Chan's piece translated this concept to blockchain by creating empty digital zones represented by ERC-20 tokens. Mikey Woodbridge and Ezra Shibboleth explore seven empty semantic zones in order to locate the possibility of sensitivity and sensibility in the latent space of a text-to-image diffusion model.\n\nPronouns are placeholders, bits of semantic information that stand in for something that has a name. A pronoun, rather than filling the space with the name, leaves it vacant except for the sensibility of the specified entity's existence. It removes the specific conditions of the named entity, leaving an unconditional zone. This series uses object pronouns, which represent the recipients of actions, as a means to probe empathy. The resulting pictorial outputs expose a potential zone of sensibility in the model's latent space, as well as the barriers to that potential.\n\nWhen prompted with object pronouns, the images produced by the text-to-image diffusion model can be viewed as echoes originating from semantic zones where empathy is conceivable. The character of these echoes is shaped not by the semantic zone's empty interior but by the preconceptions that define its limits.\n\nDiffusion models start with a noisy image and employ text input as a guide in a series of de-noising steps that approach a visually coherent image. This project implements Stable Diffusion v1.4 by Stability AI, the first publicly accessible Stable Diffusion model. As a somewhat primitive version, this model is less oriented toward what we want to see and more revealing of what we're actually asking for. Algorithmic Zones of Immaterial Pictorial Sensibility presents noise nearing the possibility of empathy, deflected by the bias for form and the limitations of gender.\n\n\n'you' is part of the exhibition ALGORITHMIC EMPATHY. THE PROMISES OF AI, presented by EXPANDED.ART and VerticalCrypto Art at EXPANDED.ART in Berlin, 18-23 April, 2023.\n\n17 artists explore the vast potential of future relationships between AI and creative expression to hypothesize on the not-so-distant future. \n \nIn a world where technological advancements happen in the blink of an eye, AI is being pointed to in the cultural zeitgeist as an example of a potentially bleak and ominous future. It is worth considering, however, the ways computers and machine learning can push forward creativity, human connection and philosophical dialogues.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "MIKEY. Woodbridge"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Ezra Shibboleth"
+      }
+    ],
+    "image_details": {
+      "bytes": 17447969,
+      "format": "PNG",
+      "sha256": "a60d2e5acfda85e545ba9f3aab570571920f85170b7153501df5c261245cd5aa",
+      "width": 2160,
+      "height": 3840
+    },
+    "image": "https://arweave.net/wLiKeIsouqtJE0NSUcYX3mhOtGrl5uedNqeuRhM0oi4",
+    "image_url": "https://arweave.net/wLiKeIsouqtJE0NSUcYX3mhOtGrl5uedNqeuRhM0oi4"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "address": "0xf0e2720c39a8cc2864541c33c726a89e5f95ebf5",
+  "type": "ERC721",
+  "name": "MoonSwatch in Space",
+  "tokenCount": "960",
+  "uri": "https://for-exhibition-purposes-only.s3-eu-west-1.amazonaws.com/FEPO001/metadata/1",
+  "metadata": {
+    "name": "MoonSwatch in Space #0667",
+    "description": "1 of 960, 5 second video clips of the first MoonSwatch in space. Each video has unique metrics relating to that part of the space flight, including the longitude, latitude, altitude, speed, pressure, temperature and special attributes. MoonSwatch in space is the first project from FEPO (For Exhibition Purposes Only) - a collective of watch enthusiasts looking to experiment at the convergence of new technology, watchmaking and hype.",
+    "image": "https://for-exhibition-purposes-only.s3-eu-west-1.amazonaws.com/FEPO001/f983ac23/0667.png",
+    "animation_url": "https://for-exhibition-purposes-only.s3-eu-west-1.amazonaws.com/FEPO001/f983ac23/0667.mp4",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Latitude",
+        "value": 53.409538
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Longitude",
+        "value": -0.621903
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Altitude",
+        "value": 14775
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Speed (mph)",
+        "value": 84
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Pressure (kPa)",
+        "value": 17.78
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Temperature (˚c)",
+        "value": -19
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Timecode",
+        "value": "00:00:55:35"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Trajectory",
+        "value": "Descent"
+      },
+      {
+        "display_type": "string",
+        "trait_type": "Atmospheric Layer",
+        "value": "Stratosphere"
+      }
+    ]
+  }
+}

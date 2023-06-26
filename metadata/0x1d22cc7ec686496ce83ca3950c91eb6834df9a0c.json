@@ -1,0 +1,30 @@
+{
+  "address": "0x1d22cc7ec686496ce83ca3950c91eb6834df9a0c",
+  "type": "ERC1155",
+  "name": "Billy Bob for St Jude",
+  "tokenCount": "2",
+  "uri": "ipfs://QmavtqYFyL94Sw9v2FgCwwruXbtHTSRWYkQ852dYVHYaWt/1",
+  "metadata": {
+    "name": "St Jude and BillyBob’s Charity Ranch Nft",
+    "description": "Open edition for the Holidays and the Kids brought to you by the baddest Santa ever \n Billy Bob Thorton shot by Photographer Timothy White circa 2006.",
+    "image": "ipfs://QmRQet8N51RzZMWmxrhZn7FHRvpdXjjDHyVqjry7QBLjQ5/1.jpg",
+    "edition": 1,
+    "date": 1639908211,
+    "title": "St Jude and BillyBob’s Charity Ranch Nft",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "St Jude and BillyBob’s Charity Ranch Nft"
+      },
+      "description": {
+        "type": "string",
+        "description": "Open edition for the Holidays and the Kids brought to you by the baddest Santa ever \n Billy Bob Thorton shot by Photographer Timothy White circa 2006."
+      },
+      "image": {
+        "type": "string",
+        "description": "ipfs://QmRQet8N51RzZMWmxrhZn7FHRvpdXjjDHyVqjry7QBLjQ5/1.jpg"
+      }
+    }
+  }
+}

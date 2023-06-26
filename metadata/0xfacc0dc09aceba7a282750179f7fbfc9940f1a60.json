@@ -1,0 +1,29 @@
+{
+  "address": "0xfacc0dc09aceba7a282750179f7fbfc9940f1a60",
+  "type": "ERC721",
+  "name": "Lore Membership Cards",
+  "tokenCount": "233",
+  "uri": "https://api.lore.xyz/metadata/v1/1/0xfacc0dc09aceba7a282750179f7fbfc9940f1a60/1?squad=0xe1498568d26c221655eb1a30b46bd19e62d7c53e&owner=0xc802a591a5f3b7b3ebd7b7c33434dd48dc54bc10",
+  "metadata": {
+    "name": "Membership Card for Lore Team",
+    "description": "Membership Card for Lore Team",
+    "image": "https://memberpass.lore.xyz/api/nft?safeAddress=0xe1498568d26c221655eb1a30b46bd19e62d7c53e&memberAddress=0xc802A591a5F3b7B3EBD7b7c33434dD48DC54BC10",
+    "animation_url": "https://memberpass.lore.xyz/0xe1498568d26c221655eb1a30b46bd19e62d7c53e/0xc802a591a5f3b7b3ebd7b7c33434dd48dc54bc10",
+    "owner": "0xc802A591a5F3b7B3EBD7b7c33434dD48DC54BC10",
+    "attributes": [
+      {
+        "trait_type": "Collective Address",
+        "value": "0xE1498568D26C221655EB1a30B46Bd19e62d7c53e"
+      },
+      {
+        "trait_type": "Collective Vault Name",
+        "value": "Lore Team"
+      },
+      {
+        "trait_type": "Member Address",
+        "value": "0xc802A591a5F3b7B3EBD7b7c33434dD48DC54BC10"
+      }
+    ],
+    "external_link": "https://lore.xyz/p/lore-team"
+  }
+}

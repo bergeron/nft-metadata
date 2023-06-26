@@ -1,0 +1,29 @@
+{
+  "address": "0xe98ec63665488f7910adacf357683df9ae1be6c2",
+  "type": "ERC721",
+  "name": "DEVT",
+  "tokenCount": "100",
+  "uri": "data:application/json,{\"name\":\"DEVT Allocation Voucher #1 - 42000.00 - Linear\", \"description\":\"Voucher #1 of DEVT allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade DEVT's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!\",\"image\": \"https://imgurl.solv.finance/meta/images/vvDEVT/1.png\",\"external_url\":\"https://app.solv.finance/vvDEVT/1\", \"properties\": {\"owner\":\"0x411c02983e75ba87f2d71fdda884d6a97d6f4290\",\"underlying\":\"0xb5c578947de0fd71303f71f2c3d41767438bd0de\",\"underlyingSymbol\":\"DEVT\",\"vestingAmount\":\"42000.000000000000000000\",\"principal\":\"42000.000000000000000000\",\"claimType\":\"Linear\",\"claimableAmount\":\"42000.000000000000000000\",\"percentages\":[\"100.00%\"],\"maturities\":[1643587200],\"term\":\"30.00 days\"}}",
+  "metadata": {
+    "name": "DEVT Allocation Voucher #1 - 42000.00 - Linear",
+    "description": "Voucher #1 of DEVT allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade DEVT's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!",
+    "image": "https://imgurl.solv.finance/meta/images/vvDEVT/1.png",
+    "external_url": "https://app.solv.finance/vvDEVT/1",
+    "properties": {
+      "owner": "0x411c02983e75ba87f2d71fdda884d6a97d6f4290",
+      "underlying": "0xb5c578947de0fd71303f71f2c3d41767438bd0de",
+      "underlyingSymbol": "DEVT",
+      "vestingAmount": "42000.000000000000000000",
+      "principal": "42000.000000000000000000",
+      "claimType": "Linear",
+      "claimableAmount": "42000.000000000000000000",
+      "percentages": [
+        "100.00%"
+      ],
+      "maturities": [
+        1643587200
+      ],
+      "term": "30.00 days"
+    }
+  }
+}

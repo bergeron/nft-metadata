@@ -1,0 +1,42 @@
+{
+  "address": "0x2c2b3f0471674142b80f95518656bbe057a47096",
+  "type": "ERC721",
+  "name": "Imaginary Birds NFT",
+  "tokenCount": "208",
+  "uri": "ipfs://bafybeiflwzx2v5u4lxlrjde2igmvot34ggwy6j4ljq6spavaeq4scfcjcm/2.json",
+  "metadata": {
+    "name": "Imaginary Birds #2",
+    "description": "Imaginary Birds",
+    "image": "ipfs://bafybeia42i4vimbkk3w3rxpenkfq5rwauppnbkyaki3th2ktost5eli65m/2.png",
+    "dna": "56f372e15b5676dfc44260ad05b8c5ccbae8274e",
+    "edition": 2,
+    "date": 1650966938661,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "TopHat"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Balloon"
+      },
+      {
+        "trait_type": "Ions",
+        "value": "Rainbow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

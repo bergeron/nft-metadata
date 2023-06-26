@@ -1,0 +1,84 @@
+{
+  "address": "0x2aa5d15eb36e5960d056e8fea6e7bb3e2a06a351",
+  "type": "ERC721",
+  "name": "Hedgeys",
+  "tokenCount": "368",
+  "uri": "https://nft.hedgey.finance/ethereum/0x2aa5d15eb36e5960d056e8fea6e7bb3e2a06a351/1",
+  "metadata": {
+    "name": "Hedgeys #1",
+    "description": "This NFT represents a locked amount of tokens, redeemable after the unlock date.\n\n The token locked is: [Tether USD](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7)\n\n Tokens Locked: 25\n\n Unlock Date: May 1, 2022",
+    "image": "https://nft.hedgey.finance/ethereum/0x2aa5d15eb36e5960d056e8fea6e7bb3e2a06a351/1.png",
+    "dna": "dc6ed32d22c582857e7b5de3befc35b3aa9f895d",
+    "edition": 1,
+    "date": 1649177714315,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Ethereum_Gray"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Brown_Classic"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Water_Puffer"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cigarette"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "None"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Normal_Hair"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None"
+      },
+      {
+        "trait_type": "Laser Eyes",
+        "value": "None"
+      },
+      {
+        "trait_type": "Token_Collateral",
+        "value": "USDT: 0xdac17f958d2ee523a2206206994597c13d831ec7"
+      },
+      {
+        "trait_type": "Tokens_Locked",
+        "value": "25 USDT"
+      },
+      {
+        "trait_type": "Unlock_Date",
+        "value": "1651363200",
+        "display_type": "date"
+      },
+      {
+        "trait_type": "Number_Of_Locked_Tokens",
+        "value": 25,
+        "display_type": "number"
+      }
+    ],
+    "series": "1",
+    "external_url": "https://hedgey.finance",
+    "network": "Ethereum",
+    "assetCurrency": {
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "Tether USD",
+      "ticker": "USDT",
+      "decimals": 6,
+      "amount": "25"
+    },
+    "paymentCurrency": {},
+    "unlockDate": "May 1, 2022 at 12:00:00 AM UTC",
+    "unlockTimestamp": "1651363200"
+  }
+}

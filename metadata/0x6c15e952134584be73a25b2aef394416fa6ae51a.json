@@ -1,0 +1,53 @@
+{
+  "address": "0x6c15e952134584be73a25b2aef394416fa6ae51a",
+  "type": "ERC721",
+  "name": "CupDucks",
+  "tokenCount": "8",
+  "uri": "https://api.cupducks.com/api/1",
+  "metadata": {
+    "name": "Smitty Werben Jagger Man Jensen #1",
+    "background_color": "77c3ec",
+    "description": "The first CupDuck sees the world. Join us on an incredible adventure of collecting, trading and playing. Be part of CupDucks!",
+    "attributes": [
+      {
+        "display_type": "boost_number",
+        "value": 5,
+        "trait_type": "Speed"
+      },
+      {
+        "display_type": "boost_percentage",
+        "value": 50,
+        "trait_type": "Strength"
+      },
+      {
+        "display_type": "boost_percentage",
+        "value": 50,
+        "trait_type": "Bounce"
+      },
+      {
+        "display_type": "boost_number",
+        "value": 5,
+        "trait_type": "Weight"
+      },
+      {
+        "value": "doing fine",
+        "trait_type": "Personality"
+      },
+      {
+        "value": "He was #1!",
+        "trait_type": "Special"
+      },
+      {
+        "display_type": "date",
+        "value": 1613865600,
+        "trait_type": "Birthday"
+      },
+      {
+        "value": "1",
+        "trait_type": "CupDuck Number"
+      }
+    ],
+    "image": "https://api.cupducks.com/ducks/1.png",
+    "animation_url": "https://api.cupducks.com/ducks/1.webm"
+  }
+}

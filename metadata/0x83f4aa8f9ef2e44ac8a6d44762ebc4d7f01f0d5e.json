@@ -1,0 +1,42 @@
+{
+  "address": "0x83f4aa8f9ef2e44ac8a6d44762ebc4d7f01f0d5e",
+  "type": "ERC721",
+  "name": "TheWaddles",
+  "tokenCount": "3000",
+  "uri": "ipfs://QmSKxfCFBk1uqTRMBJCa6nhTWE2eJAaSt49XjfnTUTG19Q/2.json",
+  "metadata": {
+    "name": "Waddles #2",
+    "description": "#WaddleToTheMoon",
+    "image": "ipfs://QmerrTjTMnmiod4i564JV3pyTcTemgCJgeb1D5MqL1C2Q8/2.png",
+    "dna": "a087b3445aac88e09e15eb4f8524bf1b88c93943",
+    "edition": 2,
+    "date": 1660275060132,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "LightBrown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blindfold"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Lumberjack"
+      },
+      {
+        "trait_type": "Beaks",
+        "value": "Tired"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

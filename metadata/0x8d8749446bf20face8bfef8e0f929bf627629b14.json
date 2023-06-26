@@ -1,0 +1,23 @@
+{
+  "address": "0x8d8749446bf20face8bfef8e0f929bf627629b14",
+  "type": "ERC721",
+  "name": "Colored Squares On-Chain",
+  "tokenCount": "32",
+  "uri": "data:application/json;base64,eyJuYW1lIiA6ICJDb2xvcmVkIFNxdWFyZSAxIiwiZGVzY3JpcHRpb24iIDogIlRoaXMgaXMgYSBjb2xvcmVkIHNxdWFyZS4gVGhhdCBpcyBhbGwuIFdlbGwuLi5pdCBjb3VsZCBnZXQgc3RvbGVuIGZyb20geW91LiIsImltYWdlIiA6ICJkYXRhOmltYWdlL3N2Zyt4bWw7YmFzZTY0LFBEOTRiV3dnZG1WeWMybHZiajBpTVM0d0lpQmxibU52WkdsdVp6MGlWVlJHTFRnaVB6NDhjM1puSUhodGJHNXpQU0pvZEhSd09pOHZkM2QzTG5jekxtOXlaeTh5TURBd0wzTjJaeUlnZG1sbGQwSnZlRDBpTUNBd0lESXdNREFnTWpBd01DSStQSEJoZEdnZ1pEMGlUVEFnTUdneU1EQXdkakl3TURCSU1Ib2lJR1pwYkd3OUlpTXdNREF3TURBaUlDOCtQSFJsZUhRZ2VEMGlNVGt3TUNJZ2VUMGlNVGt5TlNJZ2MzUjViR1U5SW1admJuUXRabUZ0YVd4NU9tMXZibTl6Y0dGalpUdG1iMjUwTFhOcGVtVTZNekp3ZUR0amIyeHZjam93TURBd01EQWlQbmd3UEM5MFpYaDBQand2YzNablBnPT0iLCJhdHRyaWJ1dGVzIjogW3sgInRyYWl0X3R5cGUiOiJDb2xvciIsICJ2YWx1ZSI6ICIjMDAwMDAwIn0seyAidHJhaXRfdHlwZSI6IlN0b2xlbiIsICJ2YWx1ZSI6ICIwIn1dLCJ0b2tlbklkIiA6ICIxIn0=",
+  "metadata": {
+    "name": "Colored Square 1",
+    "description": "This is a colored square. That is all. Well...it could get stolen from you.",
+    "image": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDIwMDAgMjAwMCI+PHBhdGggZD0iTTAgMGgyMDAwdjIwMDBIMHoiIGZpbGw9IiMwMDAwMDAiIC8+PHRleHQgeD0iMTkwMCIgeT0iMTkyNSIgc3R5bGU9ImZvbnQtZmFtaWx5Om1vbm9zcGFjZTtmb250LXNpemU6MzJweDtjb2xvcjowMDAwMDAiPngwPC90ZXh0Pjwvc3ZnPg==",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "#000000"
+      },
+      {
+        "trait_type": "Stolen",
+        "value": "0"
+      }
+    ],
+    "tokenId": "1"
+  }
+}

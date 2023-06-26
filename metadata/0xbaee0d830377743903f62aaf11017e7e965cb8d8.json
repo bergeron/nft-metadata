@@ -1,0 +1,72 @@
+{
+  "address": "0xbaee0d830377743903f62aaf11017e7e965cb8d8",
+  "type": "ERC721",
+  "name": "16as5df65ewqr",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/38000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "38000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "♫ ByteBeats #1",
+    "minted": true,
+    "artist": "DADABOTS x KAI",
+    "description": "Generative music in 40-140 bytes on-chain. ByteBeats are miniature functions that synthesize audio (and video) via bitwise operations (&^|<<*+/%>>). Because bits form groups in powers of 2, 4/4 beat-driven music emergently self-organizes. Each function in this drop is itself randomly generated, grouped into six families of composition and four families of visualizers. Some ByteBeats loop, some generate new patterns indefinitely. Some are for headbanging, some are for climbing forever through oceans of phase cancelation. (Instructions: click to play ...)",
+    "script_type": "js@na",
+    "project_id": "38",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/38000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/38000001.png",
+    "generator_url": "https://generator.artblocks.io/38000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/38000001",
+    "royaltyInfo": {
+      "artistAddress": "0xc5e38233cc0d7cff9340e6139367aba498ec9b18",
+      "additionalPayee": "0xdbaf6f4434a3b60b7461a0ae50c2083fe19d5cdb",
+      "additionalPayeePercentage": 50,
+      "royaltyFeeByID": 10
+    },
+    "collection_name": "♫ ByteBeats by DADABOTS x KAI",
+    "website": "http://dadabots.com/bytebeats/",
+    "token_hash": "0x067fd503f4b2e55a7742476ae18b0d2da671caf12f735194b72574306893b6e9",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/38/tokens/38000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/38000001",
+    "features": {
+      "Tint": "Sexbomb",
+      "Family": "Wobbly",
+      "Visual": "Waveform",
+      "Sample Rate": 3729,
+      "Progressions": 0
+    },
+    "traits": [
+      {
+        "trait_type": "♫ ByteBeats",
+        "value": "All ♫ ByteBeats"
+      },
+      {
+        "trait_type": "♫ ByteBeats",
+        "value": "Tint: Sexbomb"
+      },
+      {
+        "trait_type": "♫ ByteBeats",
+        "value": "Family: Wobbly"
+      },
+      {
+        "trait_type": "♫ ByteBeats",
+        "value": "Visual: Waveform"
+      },
+      {
+        "trait_type": "♫ ByteBeats",
+        "value": "Sample Rate: 3729"
+      },
+      {
+        "trait_type": "♫ ByteBeats",
+        "value": "Progressions: 0"
+      }
+    ],
+    "is_static": false,
+    "license": "NIFTY"
+  }
+}

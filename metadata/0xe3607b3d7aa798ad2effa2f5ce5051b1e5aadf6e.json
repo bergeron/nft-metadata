@@ -1,0 +1,44 @@
+{
+  "address": "0xe3607b3d7aa798ad2effa2f5ce5051b1e5aadf6e",
+  "type": "ERC1155",
+  "name": "WhoMag",
+  "tokenCount": "10",
+  "uri": "https://ipfs.io/ipfs/Qmc17KqNKvc7qdJXPts1nRNzbEcDV3fW4KyvvbghKbXSZW/1",
+  "metadata": {
+    "name": "Show Me The Proof",
+    "description": "Grammy considered and two time Billboard Dance Charting sibling duo, URBANO releases their new dance and electro pop single, “Show Me The Proof”. URBANO and Circuit95 collaborated on a previous single, “Standing Ovation”, released on Tommy Boy Records, and can be heard in arenas andsports stadiums around the world to this day.",
+    "image": "ipfs://QmSEsfprziqT5M66iHPw8MN58eMfqNj1ieX4LSyJaYmp6m",
+    "animation_url": "https://urbanoproof.web.app",
+    "license agreement": "https://docs.google.com/document/d/15j1_UzF9x4M3xAsli5J0DS-JnRjlZ6QEKZjhjsdv2z8",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Single"
+      },
+      {
+        "trait_type": "Genre",
+        "value": "Electro Pop"
+      },
+      {
+        "trait_type": "Sub-genre",
+        "value": "Future Bass"
+      }
+    ],
+    "release": {
+      "artist": "URBANO",
+      "featuring": "",
+      "lossless_tracks": "ipfs://Qmea6xovQNfyV72FpXrbUt6e6YCB4Bhw3f7yqiaYWzmzE7",
+      "compressed_tracks": "ipfs://QmbevaV5r4cj56S8qvruFCSCdHPTptoTvurxm776GvzdcS",
+      "tracks": [
+        {
+          "track_number": "1",
+          "track_name": "Show Me The Proof",
+          "version": "Radio",
+          "producer": "Circuit95",
+          "composer": "Attilio DeMarco, Marisa Urbano, John Urbano",
+          "vocals": "John Urbano, Marisa Urbano"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "address": "0x3245c0668eca1c4b902d9a198669e49652910032",
+  "type": "ERC721",
+  "name": "WXRLD PORTAL SNEAKER",
+  "tokenCount": "8",
+  "uri": "https://cdn-api.niftykit.com/reveal/OHrWgnM1VwijUAvIxbCH/1",
+  "metadata": {
+    "description": "Introducing the WXRLD PORTAL SNEAKER Powered by Lightning X Tech.\n\nWXRLD merges art, NFT, game engines, and augmented reality with fashion to create unique sneakers, experiences, and hand-made artefacts.",
+    "name": "WXRLD PORTAL SNEAKER",
+    "attributes": [
+      {
+        "trait_type": "ARTEFACT",
+        "value": "WXRLD PORTAL SNEAKER"
+      },
+      {
+        "trait_type": "RARITY",
+        "value": "LEGENDARY"
+      },
+      {
+        "trait_type": "EDITION",
+        "value": "1/10"
+      },
+      {
+        "trait_type": "TECH",
+        "value": "LIGHTNING X"
+      }
+    ],
+    "image": "https://wxrld-nfts.s3.eu-central-1.amazonaws.com/portal_sneaker/placeholder_color_full.jpg",
+    "animation_url": "https://wxrld-nfts.s3.eu-central-1.amazonaws.com/portal_sneaker/w31_color.mp4",
+    "background_color": "",
+    "youtube_url": "",
+    "external_url": "",
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x572525961D28243C6ce08bAdc60846C541721130"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "address": "0x2ab6d5520561a7c189df049c8a6f15923aa91f61",
+  "type": "ERC1155",
+  "name": "bear cards editions",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/vQ96jxErf400Cek-V1jfnQwnxJ1H3Cze_90n4k4Mvvg",
+  "metadata": {
+    "name": "bear inflatable dragon",
+    "created_by": "marto",
+    "description": "blue eyes white dragon inflatable costume",
+    "attributes": [
+      {
+        "trait_type": "artist",
+        "value": "marto"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "series",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "card number",
+        "value": 1
+      }
+    ],
+    "image_details": {
+      "bytes": 864050,
+      "format": "PNG",
+      "sha256": "fc906f30614c33d3514e9c79f98ea72fc2025382b9ec08e1859682cc286c4eab",
+      "width": 1668,
+      "height": 2388
+    },
+    "image": "https://arweave.net/XBlK54L5WMMRpMP4PPd0o8Ro6SeeSoM5L1AJww_I-So",
+    "image_url": "https://arweave.net/XBlK54L5WMMRpMP4PPd0o8Ro6SeeSoM5L1AJww_I-So"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "address": "0xb42989bef9e25768bc8e23d1fc85177a77f31b2d",
+  "type": "ERC721",
+  "name": "Atomic Slime Soda",
+  "tokenCount": "100",
+  "uri": "https://api.vendingco.xyz/api/nfts/1",
+  "metadata": {
+    "name": "Atomic Slime Soda #1",
+    "image": "https://vendy-nft.s3.ap-east-1.amazonaws.com/1.png",
+    "attributes": [
+      {
+        "value": "Sweet",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Candy",
+        "trait_type": "Can"
+      },
+      {
+        "value": "Furr Fizz",
+        "trait_type": "Brand"
+      },
+      {
+        "value": "Lime",
+        "trait_type": "Top"
+      },
+      {
+        "value": "Magic",
+        "trait_type": "Bottom"
+      }
+    ],
+    "description": "",
+    "external_url": "https://vendyco.xyz"
+  }
+}

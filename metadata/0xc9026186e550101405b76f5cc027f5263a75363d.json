@@ -1,0 +1,24 @@
+{
+  "address": "0xc9026186e550101405b76f5cc027f5263a75363d",
+  "type": "ERC721",
+  "name": "Nonfungible Banners",
+  "tokenCount": "222",
+  "uri": "ipfs://QmULGvejJQF7qRqnQwGs5WbayPEZwZQuxPgE24pUZXZBjn/1",
+  "metadata": {
+    "name": "Non-fungible Banner #1",
+    "image": "ipfs://QmbJhJuP1rMiR2cEH4iakjqzxjqrrtt5RFaxdgamfqtTm5/1.png",
+    "description": "A generative collection of 200 banners created without code. ",
+    "external_url": "https://nonfungiblebanners.xyz",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "Gogurt"
+      },
+      {
+        "trait_type": "Text",
+        "value": "Bag Holder"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

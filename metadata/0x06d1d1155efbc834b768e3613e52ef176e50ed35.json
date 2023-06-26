@@ -1,0 +1,36 @@
+{
+  "address": "0x06d1d1155efbc834b768e3613e52ef176e50ed35",
+  "type": "ERC721",
+  "name": "noelhefele",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/UC-F5TWg01hLAK-ZJSM677EVkUAzJncPriuAE7ozeEs",
+  "metadata": {
+    "name": "Test",
+    "created_by": "Noel Hefele",
+    "external_url": "noelhefele.com",
+    "description": "testing the first",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Noel Hefele"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2019"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "test"
+      }
+    ],
+    "image_details": {
+      "bytes": 55813789,
+      "format": "JPEG",
+      "sha256": "b43b13a13d3eb67920ddc1a4cc4d556a6d80451100c477bb4bd4aea044fc2a9f",
+      "width": 9600,
+      "height": 7199
+    },
+    "image": "https://arweave.net/cALIpj3_DNjd_oRw53MjTZekMmjfuUauoGNzmICiVUo",
+    "image_url": "https://arweave.net/cALIpj3_DNjd_oRw53MjTZekMmjfuUauoGNzmICiVUo"
+  }
+}

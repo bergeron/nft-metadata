@@ -1,0 +1,49 @@
+{
+  "address": "0x21d28aaf8a1c994c1e0995c78f5c32ecc060bf3b",
+  "type": "ERC1155",
+  "name": "NFT Apartment V2",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/E5XH_g28raPMWq8D3kOP571oAmaol-TeAg89cB4SbVI",
+  "metadata": {
+    "name": "Eiffel Tower NFT Apartment",
+    "created_by": "MyCryptoIsland",
+    "description": "The NFT card is the certificate of ownership.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "MyCryptoIsland"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Paris"
+      },
+      {
+        "trait_type": "Scarcity",
+        "value": "Superrare"
+      }
+    ],
+    "animation_details": {
+      "bytes": 107995975,
+      "format": "MP4",
+      "duration": 78,
+      "sha256": "9b8a8bf39a1241cbddfe1ed68d48a982ba964b8f960f04c27672e151f5fcf729",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/4IYs0xXfaC9qEVkq1gzaJ2RBT3YOUiqJbhk7AhYA1Vk",
+    "animation_url": "https://arweave.net/4IYs0xXfaC9qEVkq1gzaJ2RBT3YOUiqJbhk7AhYA1Vk",
+    "image_details": {
+      "bytes": 952477,
+      "format": "JPEG",
+      "sha256": "52a9bdd8c14829a5cd476e34b761d8f5d7d47ef46cbfeabdafb378e3538154b8",
+      "width": 2480,
+      "height": 3508
+    },
+    "image": "https://arweave.net/MGj2Fq8pZFZUJ2nNiBCpSYG5eyZGa95W4M89gghdLjU",
+    "image_url": "https://arweave.net/MGj2Fq8pZFZUJ2nNiBCpSYG5eyZGa95W4M89gghdLjU"
+  }
+}

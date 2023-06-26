@@ -1,0 +1,54 @@
+{
+  "address": "0x5eb34ec8577344b1ce89c7828eb4a254359352e5",
+  "type": "ERC1155",
+  "name": "InfiNifty Card Collection",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/hjMQEb8Jm4BvBNLsslBzhygFQUFNDnk_le2l71HRDqg",
+  "metadata": {
+    "name": "InfiNifty",
+    "created_by": "Nifty Creative",
+    "external_url": "https://niftycre.com/infinifty",
+    "description": "The goal of the collection is to use the advantage of our community to bring artists and their works to a larger number of people faster, and to ensure conversion in the secondary market and the artist’s works in the wallets of many collectors.\n\nThe collection consists of artworks from different disciplines. Photography, 3D, Digital Arts, Video, Illustration, Painting, AI Art etc.\n\nMore information: https://niftycre.com/infinifty",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Nifty Creative"
+      },
+      {
+        "trait_type": "Category",
+        "value": "3D Animation"
+      },
+      {
+        "trait_type": "Season",
+        "value": "001"
+      },
+      {
+        "trait_type": "InfiNifty Card",
+        "value": "001"
+      }
+    ],
+    "animation_details": {
+      "bytes": 29543283,
+      "format": "MP4",
+      "duration": 31,
+      "sha256": "356910dad081600bff204d512349bf021ba38b31e66fd51821abb289c7e4dca1",
+      "width": 1000,
+      "height": 1300,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/cYaJ9zhXcvbCyhRXwZRXcdW9e146i_j0gGs1wUHDJPM",
+    "animation_url": "https://arweave.net/cYaJ9zhXcvbCyhRXwZRXcdW9e146i_j0gGs1wUHDJPM",
+    "image_details": {
+      "bytes": 9835030,
+      "format": "GIF",
+      "sha256": "1f73d7db61ee94d4b36e5d3aba120d0d106073c233d70ddb7c032dd9e1c94530",
+      "width": 462,
+      "height": 600
+    },
+    "image": "https://arweave.net/4WBO0mdGsPi-I8tk9vaNe286o7N6DKSM_L3H1GikCTc",
+    "image_url": "https://arweave.net/4WBO0mdGsPi-I8tk9vaNe286o7N6DKSM_L3H1GikCTc"
+  }
+}

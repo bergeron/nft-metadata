@@ -1,0 +1,65 @@
+{
+  "address": "0x028a1738a7deefcd25e946e9b8db9acac6f4b249",
+  "type": "ERC721",
+  "name": "Illusory World by Stephan Vasement",
+  "tokenCount": "4",
+  "uri": "ipfs://Qmea4NhJQ7psyUCC8DvEoa79x1oNfiMnFKXaSkfXBKbTVN",
+  "metadata": {
+    "name": "ILLUSORY WORLD 2",
+    "description": "ILLUSORY WORLD, the series by Stephan Vasement, is part of the exhibition RECOLLECTION. AI AND MEMORY presented by EXPANDED.ART in collaboration with The NFT Gallery at their galleries in New York and London, 11 April – 13 May 2023.\n\n19 artists explore the idea of further challenging the concreteness of human memory—personal or collective—through creative collaboration with AI. \n\nMemories are nebulous. Scientific studies and phenomena such as \"The Mandela Effect\" have shown that humans rarely recall things in their unbiased exactitude. Artificial Intelligence already assists human memory in the form of predictive text and GPS navigation. One would surmise that there exists a role for AI when it comes to supplementing even more complex memory.\n\nVerisart Certified: https://verisart.com/works/4626a9ee-dfc1-4caf-8bf1-022bcc2701b3",
+    "image": "ipfs://QmWxLAKBAaecm5tWM1AkdG7a3t6GBMxdpA2Ld5g2AQffbu",
+    "properties": {
+      "verisart": {
+        "productionYear": 2023,
+        "dimensions": {
+          "width": 1344,
+          "height": 896,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": null,
+        "frameRate": null,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0x46c793800cc6ac53a30f18108070e59717c166bc",
+            "bps": 1000
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "external_url": "https://verisart.com/works/4626a9ee-dfc1-4caf-8bf1-022bcc2701b3",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Stephan Vasement",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2023",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "ILLUSORY WORLD 2",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "896x1344 px",
+        "display_type": null
+      }
+    ]
+  }
+}

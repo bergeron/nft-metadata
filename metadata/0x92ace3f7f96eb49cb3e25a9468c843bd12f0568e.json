@@ -1,0 +1,26 @@
+{
+  "address": "0x92ace3f7f96eb49cb3e25a9468c843bd12f0568e",
+  "type": "ERC721",
+  "name": "NewsletterFrancoisBranciard",
+  "tokenCount": "2",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x92ace3f7f96eb49cb3e25a9468c843bd12f0568e/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x92acE3f7f96EB49cB3e25A9468C843BD12F0568E/icon?id=1",
+    "expiration": 1617833080,
+    "tokenId": "1",
+    "owner": "0x9c59c9a5fd27adc01947f526e1d5fb735c17f40f",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1617833080
+      }
+    ],
+    "userMetadata": {},
+    "keyId": "1",
+    "lockAddress": "0x92acE3f7f96EB49cB3e25A9468C843BD12F0568E",
+    "network": 1
+  }
+}

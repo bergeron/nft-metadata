@@ -1,0 +1,26 @@
+{
+  "address": "0xa3b61c077da9da080d22a4ce24f9fd5f139634ca",
+  "type": "ERC721",
+  "name": "RabbitHole Credentials (NFTs)",
+  "tokenCount": "23404",
+  "uri": "https://rabbithole-credentials.s3.amazonaws.com/nft/metadata/1",
+  "metadata": {
+    "name": "Intro to NFTs",
+    "description": "On-chain proof of knowledge gained and skills acquired on RabbitHole",
+    "image": "https://rabbithole-credentials.s3.amazonaws.com/nft/image/1",
+    "attributes": [
+      {
+        "trait_type": "Topic",
+        "value": "NFTs"
+      },
+      {
+        "trait_type": "Level",
+        "value": "Intro"
+      },
+      {
+        "trait_type": "Season",
+        "value": 0
+      }
+    ]
+  }
+}

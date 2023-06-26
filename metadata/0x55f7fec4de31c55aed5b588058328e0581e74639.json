@@ -1,0 +1,41 @@
+{
+  "address": "0x55f7fec4de31c55aed5b588058328e0581e74639",
+  "type": "ERC721",
+  "name": "TheBirdCage",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmfLcGLW5H2aXEoxAdkauoGUJPxKTsX38g1fawepx6TFa1/1.json",
+  "metadata": {
+    "name": "The Bird Cage #1",
+    "image": "ipfs://QmYKr6s3ygzmCFLreGjYQM9SYP7MnfDNCxxyQtFG63ExEQ/1.jpg",
+    "external_url": "https://thebirdcagenft.com",
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "Jean Jacket"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tabby"
+      },
+      {
+        "trait_type": "Feathers",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Short"
+      }
+    ],
+    "x_debug": [
+      "orig:6429"
+    ]
+  }
+}

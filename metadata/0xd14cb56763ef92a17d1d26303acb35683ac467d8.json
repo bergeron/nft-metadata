@@ -1,0 +1,63 @@
+{
+  "address": "0xd14cb56763ef92a17d1d26303acb35683ac467d8",
+  "type": "ERC721",
+  "name": "Cryptopia Metaverse - Early Access",
+  "tokenCount": "1707",
+  "uri": "https://ipfs.io/ipfs/QmeKe2p4yLc9MhynqPvn9qJ1KTcmgcyTyoKQtJ6LhkKXVQ/special",
+  "metadata": {
+    "description": "A massive ship that caters to every need you have while at sea. Despite its high carbon output, it's unbeatable when it comes to speed, cargo space, and amenities.",
+    "external_url": "https://cryptopia.com/daxio/early-access",
+    "image": "https://ipfs.io/ipfs/QmRcv718rP4a6LN7JTjmMT9PkAen5ao1CWxXmpMW7hUHt8",
+    "image_alt": "https://ipfs.io/ipfs/QmXQo5u3ThWsZuJSbJA8xR4oZQ6WCENeNQguEULLvShJb9",
+    "name": "Charlemagne",
+    "attributes": [
+      {
+        "trait_type": "Faction",
+        "value": "Tech"
+      },
+      {
+        "trait_type": "Ship",
+        "value": "Charlemagne"
+      },
+      {
+        "trait_type": "Community",
+        "value": "Daxio"
+      },
+      {
+        "trait_type": "Speed",
+        "value": 50
+      },
+      {
+        "trait_type": "Strength",
+        "value": 100
+      },
+      {
+        "trait_type": "Storage",
+        "value": 10
+      },
+      {
+        "trait_type": "Modules",
+        "value": 8
+      },
+      {
+        "trait_type": "Carbon Emission",
+        "value": 30
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Speed Increase",
+        "value": 25
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Storage Increase",
+        "value": 7
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Module Increase",
+        "value": 7
+      }
+    ]
+  }
+}

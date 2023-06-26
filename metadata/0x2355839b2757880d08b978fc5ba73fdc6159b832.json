@@ -1,0 +1,23 @@
+{
+  "address": "0x2355839b2757880d08b978fc5ba73fdc6159b832",
+  "type": "ERC1155",
+  "name": "CF: The Shards",
+  "tokenCount": "5",
+  "uri": "https://cloneforce.xyz/api/shard/metadata/1",
+  "metadata": {
+    "name": "Vitality shard",
+    "description": "This boundless shard enables the bearer to Increase their overall health and withstand more damage.\n\nEquip this shard to your Guardian to increase Vitality stat by +1",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Boundless"
+      },
+      {
+        "trait_type": "Shard",
+        "value": "Vitality"
+      }
+    ],
+    "image": "ipfs://bafybeidsqmypp6eae3g2tcpsbnbrhkskpt5gd6bqv47k524xmce4dipd5u/vitality.png",
+    "animation_url": "ipfs://bafybeibf2hut6m443eeyj7y2prridl5mb63pgkjpp6z72a3m5jqzqg2u6y/vitality.mp4"
+  }
+}

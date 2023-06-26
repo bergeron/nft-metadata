@@ -1,0 +1,47 @@
+{
+  "address": "0x7740a504fcfff8effddaa85b820d7fc0b6559493",
+  "type": "ERC721",
+  "name": "Waves Ducks",
+  "tokenCount": "42",
+  "uri": "https://wavesducks.com/api/opensea-meta/FJftYzK3ZSVw5pmEYU6rPL1ojPFs8NPcAo36SfUvYzdw",
+  "metadata": {
+    "name": "BABY BOOMER",
+    "background_color": "E6D4EF",
+    "external_url": "https://wavesducks.com/duck/FJftYzK3ZSVw5pmEYU6rPL1ojPFs8NPcAo36SfUvYzdw",
+    "image": "https://images.wavesducks.com/api/ducks/FJftYzK3ZSVw5pmEYU6rPL1ojPFs8NPcAo36SfUvYzdw.svg",
+    "description": "Number: #17567  \nGenes: WWWWWSX2  \nGeneration: Jackpot  \nRarity: 100%  \nFertility: Sterile  \nFarming power: 0.1687 EGG/mo  \n  \n***  \nDucks are unique NFTs and the main characters of the Waves Ducks Metaverse. They are collectibles and a source of rewards. Each duck has a set of genes determining its rarity, farming power, and abilities within the Metaverse’s worlds. Acquire, develop and monetize your duck characters in different ways or get started free to receive real rewards in multiple play-and-earn modes.  \n  \n***  \nDucks on the collection get automatically staked and generate a reward in Waves Ducks EGGs for the future buyer, which can be claimed after bringing it back to Waves Blockchain.  \n  \n  \n  \n***  \nTo see the full description or send the duck back to Waves Blockchain go to https://wavesducks.com/duck/FJftYzK3ZSVw5pmEYU6rPL1ojPFs8NPcAo36SfUvYzdw",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": 100,
+        "max_value": 100
+      },
+      {
+        "trait_type": "EGG production per month",
+        "display_type": "number",
+        "value": 0.1687
+      },
+      {
+        "trait_type": "Number",
+        "value": "#17567"
+      },
+      {
+        "trait_type": "Fertility",
+        "value": "Sterile"
+      },
+      {
+        "trait_type": "Generation",
+        "value": "Jackpot"
+      },
+      {
+        "trait_type": "Genotype",
+        "value": "WWWWWSX2"
+      },
+      {
+        "trait_type": "Birthday",
+        "display_type": "date",
+        "value": 1635857266640
+      }
+    ]
+  }
+}

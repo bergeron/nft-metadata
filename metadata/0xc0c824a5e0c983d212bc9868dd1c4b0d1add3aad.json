@@ -1,0 +1,61 @@
+{
+  "address": "0xc0c824a5e0c983d212bc9868dd1c4b0d1add3aad",
+  "type": "ERC721",
+  "name": "BXR",
+  "tokenCount": "3",
+  "uri": "https://flow.mypinata.cloud/ipfs/QmYP9VJikw2M9fxZbxkw5xGgE2ZNGbwtQRY9tmRchK3vJR/1",
+  "metadata": {
+    "description": "The BXR NFT is a collection of 50 unique NFTs - digital tokens stored on the Ethereum blockchain. Holding The BXR NFT signifies your belonging to the BXR community and includes unlimited access to any BXR site at a fixed discounted Flow member monthly rate.",
+    "short_description": "Get unlimited access to London's state-of-the-art fitness destination. Award winning facilities, best-in-class equipment, and London's most respected coaches all together under one roof, curated to meet every demand from the modern athlete. They don't just train champions, they make them.",
+    "provider_description": "Founded in London's W1, BXR is the world's first and foremost elite boxing-gym concept. They are the trailblazers in fitness and wellbeing, pushing boundaries in what a boxing gym should and could be; progressive training modalities, elite-standard equipment and facilities and expert-level trainers combined in an award winning luxury space.",
+    "external_url": "https://marketplace.flowplaces.co/bxr",
+    "creator_website": "www.flowplaces.co",
+    "provider_website": "www.bxrlondon.com",
+    "image": "https://flow.mypinata.cloud/ipfs/QmerRPCMzsSWHnZb86bDoMyVWA3aNjSEwJKgC6aBthGgdD",
+    "name": "BXR",
+    "attributes": [
+      {
+        "trait_type": "Author",
+        "value": "Flow"
+      },
+      {
+        "trait_type": "Name",
+        "value": "BXR"
+      },
+      {
+        "trait_type": "Provider",
+        "value": "BXR"
+      },
+      {
+        "trait_type": "Number",
+        "value": 1
+      },
+      {
+        "trait_type": "Subscription",
+        "value": "Monthly"
+      },
+      {
+        "trait_type": "Transferability",
+        "value": "Unrestricted"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Published",
+        "value": 1655914634259
+      }
+    ],
+    "utility": [
+      "15% discount on multi-site membership for unlimited gym access and unlimited member classes",
+      "State-of-the-art fitness facilities plus steam, sauna, and ice basin",
+      "Exclusive pack of SWEAT by BXR classes",
+      "Industry-best professionals for personal, group, combat, and strength and conditioning training",
+      "Early bird pricing for clinics and retreats",
+      "Access to the brightest and best professionals through injury rehabilitation, osteopathy, sports massage, sports psychology and nutritional advice"
+    ],
+    "recurring_fee": "£210",
+    "activation_fee": "£250",
+    "retail_discount": "16%",
+    "required_tokens": [],
+    "activation_notes": "NFT holders can connect their wallet to the Flow app for pay-as-you-go access to BXR or use the promo code to activate a multi-site membership for unlimited gym access & unlimited member classes. The membership requires a monthly subscription to remain active. The token is fully transferable and can be recycled at any time."
+  }
+}

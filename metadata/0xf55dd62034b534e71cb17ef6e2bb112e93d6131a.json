@@ -1,0 +1,77 @@
+{
+  "address": "0xf55dd62034b534e71cb17ef6e2bb112e93d6131a",
+  "type": "ERC721",
+  "name": "HIDDEN IN NOISE",
+  "tokenCount": "1024",
+  "uri": "ipfs://QmY7B9DEQAHyLmk8gxksQzoyFnSVtiHzGypmQnMjWbDPff/1",
+  "metadata": {
+    "description": "#2 of 1024 Hidden In Noise.\n\nVisuals and sound by 404.zero, 2021\n",
+    "external_url": "https://www.hiddeninnoise.com",
+    "image": "ipfs://QmcVJh7h5EWhrmgqYXgWvtCMQTUULxkY7GPpxkHVmvvoEn/0002.jpg",
+    "animation_url": "ipfs://QmYq1sd6HLz9c73uBrMmteHoUFrvydaPwHSzQ5JN9btq6i/0002.mp4",
+    "name": "Noise #2 ",
+    "background_color": "ffffff",
+    "attributes": [
+      {
+        "trait_type": "filter",
+        "value": "custom operator"
+      },
+      {
+        "trait_type": "filter",
+        "value": "color correction"
+      },
+      {
+        "trait_type": "filter",
+        "value": "displacement"
+      },
+      {
+        "trait_type": "filter",
+        "value": "feedback"
+      },
+      {
+        "trait_type": "filter",
+        "value": "pixel lookup"
+      },
+      {
+        "trait_type": "filter",
+        "value": "convolution"
+      },
+      {
+        "trait_type": "filter",
+        "value": "channel convertor"
+      },
+      {
+        "trait_type": "blur filter",
+        "value": "texture based"
+      },
+      {
+        "trait_type": "gradient generator",
+        "value": "circular"
+      },
+      {
+        "trait_type": "noise generator",
+        "value": "simplex"
+      },
+      {
+        "trait_type": "gradient generator",
+        "value": "vertical"
+      },
+      {
+        "trait_type": "gradient generator",
+        "value": "horizontal"
+      },
+      {
+        "trait_type": "noise generator",
+        "value": "perlin"
+      },
+      {
+        "trait_type": "noise generator",
+        "value": "white"
+      },
+      {
+        "trait_type": "blur filter",
+        "value": "box"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "address": "0xd92cc219acf2199deadac2b965b35b9e84fa7f0a",
+  "type": "ERC721",
+  "name": "Avime Fusion",
+  "tokenCount": "419",
+  "uri": "https://api.avime.moe/avi/1",
+  "metadata": {
+    "name": "Fused Avime #1",
+    "image": "https://api.avime.moe/avime/1.png",
+    "attributes": [
+      {
+        "traitType": 0,
+        "traitName": "Solid Blue Background",
+        "traitNumber": 14,
+        "traitDesc": "Minimalism at its finest.",
+        "traitTypeName": "Background",
+        "traitTxHash": "0xc52b374c62a274a7a6d7360aad1a32431b47c1dfd01dce2d85c9d790f56d5638",
+        "trait_type": "Background",
+        "value": "Solid Blue Background"
+      },
+      {
+        "traitType": 1,
+        "traitName": "Basic Skin 4",
+        "traitNumber": 11,
+        "traitDesc": "A basic skin.",
+        "traitTypeName": "Body",
+        "traitTxHash": "0x9fee5a41f746472e8043b84cddbf8d87544eb41b39a0ec0effb04f4e10be702a",
+        "trait_type": "Body",
+        "value": "Basic Skin 4"
+      },
+      {
+        "traitType": 2,
+        "traitName": "Erryday Face",
+        "traitNumber": 6,
+        "traitDesc": "Sometimes you just gotta chill out a little.",
+        "traitTypeName": "Face",
+        "traitTxHash": "0xb97815a8c3b7b7e289c12c9083667bec5e0d511138728bbedeaacca51a239460",
+        "trait_type": "Face",
+        "value": "Erryday Face"
+      },
+      {
+        "traitType": 3,
+        "traitName": "Gamer Set",
+        "traitNumber": 13,
+        "traitDesc": "Home alone on a Friday night? God, you're pathetic.",
+        "traitTypeName": "Clothes",
+        "traitTxHash": "0x56a63505f83a9983f6593eb6c64e89aad2e199dd9d9ccfb3361c34995fd7669c",
+        "trait_type": "Clothes",
+        "value": "Gamer Set"
+      },
+      {
+        "traitType": 4,
+        "traitName": "Simple Hair",
+        "traitNumber": 10,
+        "traitDesc": "A simple style for the present day and present time.",
+        "traitTypeName": "Hair",
+        "traitTxHash": "0x548e6810bbe57895498dbc43cbf29480e68a5e94794b0e30f9f726a7eb9e5dbe",
+        "trait_type": "Hair",
+        "value": "Simple Hair"
+      },
+      {
+        "traitType": 5,
+        "traitName": "Rose Accessory",
+        "traitNumber": 8,
+        "traitDesc": "The rose is fake, so don't worry about it wilting.",
+        "traitTypeName": "Accessory",
+        "traitTxHash": "0x4b65d31d536ab15c22505393d2f998eafac08d1e71ec7c8a9df35f3d375995d7",
+        "trait_type": "Accessory",
+        "value": "Rose Accessory"
+      },
+      {
+        "trait_type": "Fusion Status",
+        "value": "Original"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "address": "0x96b648bd043cf845645eea74e6c2eb1eb4c3b80e",
+  "type": "ERC721",
+  "name": "WarNFT V2",
+  "tokenCount": "1",
+  "uri": "data:application/json;base64,eyJkZXNjcmlwdGlvbiI6IldhciBJRHMgIiwiZXh0ZXJuYWxfdXJsIjoiaHR0cHM6Ly93YXIub3JnL3dhci1pZCIsImltYWdlIjoiaHR0cHM6Ly9pcGZzLmlvL2lwZnMvUW1YamFkYlZCOTU4OHpRdHpOa0JuaGVjQkFUZzJkREJQSkszTVlCSEpuQkpyVyIsIm5hbWUiOiJXYXIgSUQgLSBkaXNjb3JkOjEwLi4uIiwiYXR0cmlidXRlcyI6W3sidHJhaXRfdHlwZSI6IkRhdGEiLCJ2YWx1ZSI6ImRpc2NvcmQ6MTAyMDM3ODQ4OTk1NTgyMzc5MCJ9LHsidHJhaXRfdHlwZSI6IlZlcmlmaWVyIiwidmFsdWUiOiAiMHg3MGY4OGE1OTNkMGRjMTgzNjZjOTM2ZGNkZjBlZGM3ZjJkNDMxMWY1IiwicmV2b2NhYmxlIjoiZmFsc2UifV19",
+  "metadata": {
+    "description": "War IDs ",
+    "external_url": "https://war.org/war-id",
+    "image": "https://ipfs.io/ipfs/QmXjadbVB9588zQtzNkBnhecBATg2dDBPJK3MYBHJnBJrW",
+    "name": "War ID - discord:10...",
+    "attributes": [
+      {
+        "trait_type": "Data",
+        "value": "discord:1020378489955823790"
+      },
+      {
+        "trait_type": "Verifier",
+        "value": "0x70f88a593d0dc18366c936dcdf0edc7f2d4311f5",
+        "revocable": "false"
+      }
+    ]
+  }
+}

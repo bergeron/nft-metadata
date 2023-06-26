@@ -1,0 +1,38 @@
+{
+  "address": "0xfa7af64fb565483df3015ccc500263b114b587e1",
+  "type": "ERC721",
+  "name": "ChaosVerseNFT",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmX7yKUUA7Yw2e9oQ5Dw1GGPNqgevuKrz6v5pkkxrg5qR5/1",
+  "metadata": {
+    "name": "ChaosVerse#1",
+    "description": "5000 strange creature in chaos verse",
+    "image": "ipfs://QmUDw2bhQmFgZodZ5GizkbQHdzenJ15DAfjqgHRdhHDjdU/1.png",
+    "attributes": [
+      {
+        "trait_type": "type",
+        "value": "human"
+      },
+      {
+        "trait_type": "bg1",
+        "value": "bg_purple"
+      },
+      {
+        "trait_type": "body",
+        "value": "chara_bule"
+      },
+      {
+        "trait_type": "head",
+        "value": "hair_long_red"
+      },
+      {
+        "trait_type": "head2",
+        "value": "decoration_eyeball_purple"
+      },
+      {
+        "trait_type": "props",
+        "value": "item_poolring"
+      }
+    ]
+  }
+}

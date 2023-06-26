@@ -1,0 +1,26 @@
+{
+  "address": "0xe33ac0757ecb1f829b0b8c16291c6b36e6e2b2b5",
+  "type": "ERC721",
+  "name": "Galaxy Birdz",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmQuopAatrEgf5DbXu41FL14Q6eRfWEDvAU8xRscnZ3anL/1",
+  "metadata": {
+    "name": "Galaxy Birds #1",
+    "description": "The Moon was not enough for birds to live, that's why we made a galaxy for them",
+    "image": "ipfs://QmXuLceZGuhYUsziiTsQf7XaUCDBW1nFnQvEXEHcR5SLqz/1.png",
+    "dna": "703cf18235d6bdbdd4328d2fe082fe328e0d379f",
+    "edition": 1,
+    "date": 1651212865198,
+    "attributes": [
+      {
+        "trait_type": "Bottom lid",
+        "value": "01669"
+      },
+      {
+        "trait_type": "Background",
+        "value": "GalaxyBirds"
+      }
+    ],
+    "compiler": "Galaxy Birds Engine"
+  }
+}

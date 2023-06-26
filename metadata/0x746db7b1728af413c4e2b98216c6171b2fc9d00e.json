@@ -1,0 +1,65 @@
+{
+  "address": "0x746db7b1728af413c4e2b98216c6171b2fc9d00e",
+  "type": "ERC721",
+  "name": "Influence Crew",
+  "tokenCount": "8597",
+  "uri": "https://api.influenceth.io/v1/metadata/crew/1",
+  "metadata": {
+    "name": "Scott Manley",
+    "image": "https://images.influenceth.io/v1/crew/1/image.svg",
+    "external_url": "https://game.influenceth.io/crew/1",
+    "background_color": "000000",
+    "description": "A Male Merchant and former Arvad Specialist (Author)",
+    "attributes": [
+      {
+        "trait_type": "Claimable SWAY",
+        "display_type": "number",
+        "value": 650000
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Arvad Specialist"
+      },
+      {
+        "trait_type": "Class",
+        "value": "Merchant"
+      },
+      {
+        "trait_type": "Title",
+        "value": "Author"
+      },
+      {
+        "trait_type": "Sex",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Body Type",
+        "value": 6
+      },
+      {
+        "trait_type": "Hair Style",
+        "value": "Slickback"
+      },
+      {
+        "trait_type": "Hair Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Facial Feature",
+        "value": "Scar"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Light Spacesuit - Orange"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Mask"
+      },
+      {
+        "trait_type": "Special Item",
+        "value": "Drone - Yellow"
+      }
+    ]
+  }
+}

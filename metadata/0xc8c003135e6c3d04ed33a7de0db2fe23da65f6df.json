@@ -1,0 +1,21 @@
+{
+  "address": "0xc8c003135e6c3d04ed33a7de0db2fe23da65f6df",
+  "type": "ERC1155",
+  "name": "Chibimon Items",
+  "tokenCount": "4",
+  "uri": "https://api.chibimon.xyz/metadata/item/1",
+  "metadata": {
+    "name": "Rare candy",
+    "image": "https://chibimon.xyz/metadata/images/items/1.png",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Consumable"
+      },
+      {
+        "trait_type": "For",
+        "value": "Chibimon"
+      }
+    ]
+  }
+}

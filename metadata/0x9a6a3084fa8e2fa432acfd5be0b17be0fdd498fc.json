@@ -1,0 +1,26 @@
+{
+  "address": "0x9a6a3084fa8e2fa432acfd5be0b17be0fdd498fc",
+  "type": "ERC1155",
+  "name": "Mossy Giant Editions",
+  "tokenCount": "4",
+  "uri": "https://mother-plant.s3.amazonaws.com/mossygianteditions/metadata/1.json",
+  "metadata": {
+    "name": "God of Weed",
+    "description": "A collection of Mossy artworks cloned directly out of the Mother Plant. Monthly releases for all holders of the great Mother - season one is loading. Stay Mossy",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Mossy Giant"
+      },
+      {
+        "trait_type": "Art",
+        "value": "God of Weed"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Season 1"
+      }
+    ],
+    "image": "https://mother-plant.s3.amazonaws.com/mossygianteditions/assets/1.jpeg"
+  }
+}

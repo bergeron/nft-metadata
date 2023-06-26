@@ -1,0 +1,38 @@
+{
+  "address": "0x14f636dcdc3f507aba30eab0fd8afc74fa3570bb",
+  "type": "ERC721",
+  "name": "LuckyOnesDeployer",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/c3HratC9ihQnZKtSkIqBa-LgOUPdH4UA9WzRQEkSK1g",
+  "metadata": {
+    "name": "Lucky Ones",
+    "created_by": "Hola Lou",
+    "external_url": "https://www.luckyonescollectibles.com/",
+    "description": "Lucky Ones Collectibles PFP.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Hola Lou"
+      },
+      {
+        "trait_type": "Type",
+        "value": "PFP"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Luck",
+        "max_value": "10",
+        "value": "10"
+      }
+    ],
+    "image_details": {
+      "bytes": 340360,
+      "format": "JPEG",
+      "sha256": "42cdbcda5930464bce4e5c1417fea2384dcb0c51f3d64c9a54cb51ff205db53e",
+      "width": 2000,
+      "height": 2000
+    },
+    "image": "https://arweave.net/6K3bMKnw3OymPK7OhVKDq2ofrFP2iI8IuqefZtu8HWM",
+    "image_url": "https://arweave.net/6K3bMKnw3OymPK7OhVKDq2ofrFP2iI8IuqefZtu8HWM"
+  }
+}

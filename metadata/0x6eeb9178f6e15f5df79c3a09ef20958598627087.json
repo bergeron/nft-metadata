@@ -1,0 +1,31 @@
+{
+  "address": "0x6eeb9178f6e15f5df79c3a09ef20958598627087",
+  "type": "ERC721",
+  "name": "craft link",
+  "tokenCount": "4",
+  "uri": "https://craft.infura-ipfs.io/ipfs/Qmcjhgfq9LxTHCMgjqcPvUaWybb7FUcjpkaGXCw8wNBiNC",
+  "metadata": {
+    "name": "${greetings}",
+    "description": "this is an example of dynamic NFTs",
+    "image": "https://craft.infura-ipfs.io/ipfs/QmVQ11aHZ1N2r3jewy5DHr7gDCEv7T7gaU9qfa8HXmprc5",
+    "animation_url": "https://craft.infura-ipfs.io/ipfs/QmNYFaQRZhub5pakHPC53MKyPf1tNzvVsYv6V5acozwvAB",
+    "attributes": [
+      {
+        "trait_type": "Tool",
+        "value": "Craft"
+      },
+      {
+        "trait_type": "Creator",
+        "value": "0x171e5e027290fe512c87bdbd56622f18c70785c4"
+      },
+      {
+        "trait_type": "name",
+        "value": "${greetings}"
+      },
+      {
+        "trait_type": "description",
+        "value": "this is an example of dynamic NFTs"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "address": "0x1a5352f18a3d70d4cd771f9eaba844aca586990b",
+  "type": "ERC1155",
+  "name": "DIA ART - Decentraland",
+  "tokenCount": "10",
+  "uri": "ipfs://QmU1yHyC85EKEZENhVcasVxFi6xPGgn9A3EuhpqYtJ9wJb/Decentraland/1.json",
+  "metadata": {
+    "name": "Decentraland",
+    "image": "ipfs://Qmc2eouzM9zJuwVyjc3CRHYeXbkSpBDHgw9AKuty3tHyoT/4 Epic/Decentraland.mp4",
+    "description": "DIA ARTs (Autonomous Right Tokens) are a collection of NFTs that enable the tracking and management of data usage rights. ARTs enable monetisation for independent data sources and create incentives, driving the sourcing and validation of new data sets.\n  \n ARTs reference data rights and the relevant parameters that define the usage rights, like duration, usage context etc. and act as a key for dApps to access to DIA oracles. \n  \n An initial contribution of 100 DIA to a pool is required to mint an ART. Holding ARTs gives access to these pools. The first ten ARTs for any data feed are 'ranked', featuring limited edition artwork and a significantly higher access to the pools in order to incentivise the sourcing of new data feeds.\n  ",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "NFT"
+      },
+      {
+        "trait_type": "Data Type",
+        "value": "Metadata"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      }
+    ]
+  }
+}

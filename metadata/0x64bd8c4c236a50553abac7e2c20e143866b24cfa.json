@@ -1,0 +1,40 @@
+{
+  "address": "0x64bd8c4c236a50553abac7e2c20e143866b24cfa",
+  "type": "ERC721",
+  "name": "Ancient Deers Official V2",
+  "tokenCount": "75",
+  "uri": "ipfs://Qmbk9NRM1kSTwFGnbtmRuytRGsF7iYWQhRcQWTUZ1p3Cdh/1.json",
+  "metadata": {
+    "name": "AncientDeer#1",
+    "description": "Deers NFT MOBA Game",
+    "external_url": "https://ancientdeers.com/",
+    "image": "ipfs://Qmf5AXNehvWbEpKebgWMbYeUwhRZNo6SdRwvsSfVoZL6tj/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bg-14"
+      },
+      {
+        "trait_type": "Body",
+        "value": "body"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "clothe-16"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "hair-05"
+      },
+      {
+        "trait_type": "Horns",
+        "value": "horns-12"
+      },
+      {
+        "trait_type": "Masks",
+        "value": "Mask-21"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

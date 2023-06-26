@@ -1,0 +1,66 @@
+{
+  "address": "0x4267f1810f09f7464573bdb8041a04418d16b1bd",
+  "type": "ERC1155",
+  "name": "metaxgame",
+  "tokenCount": "14",
+  "uri": "https://data.metaxgame.net/1.json",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Id",
+        "value": "1"
+      },
+      {
+        "trait_type": "Weapon type",
+        "value": "Attack"
+      },
+      {
+        "trait_type": "Total",
+        "value": "100"
+      },
+      {
+        "trait_type": "Initial price",
+        "value": "2ETH"
+      },
+      {
+        "trait_type": "Attack",
+        "value": "22 Perce"
+      },
+      {
+        "trait_type": "Defence",
+        "value": "0 Perce"
+      },
+      {
+        "trait_type": "cooldown",
+        "value": "0 S"
+      },
+      {
+        "trait_type": "Extra",
+        "value": "None"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Last Sold For",
+        "value": 0
+      },
+      {
+        "trait_type": "Physical Representation",
+        "value": false
+      },
+      {
+        "trait_type": "Name",
+        "value": "AMR-B5"
+      }
+    ],
+    "_id": "1",
+    "name": "AMR-B5",
+    "artist": "0xaEC56b26C06c66591B562fb22B9EA997F534b77F",
+    "description": "",
+    "image": "https://gateway.pinata.cloud/ipfs/QmV24h1sKuprkW7YA8pRt6SMYMLK5bPSMcmVhBKUUTVG53/A1.png",
+    "external_url": "https://metadata.metaxgame.net/",
+    "prints": 1,
+    "youtube_url": "",
+    "tokenIndex": 1,
+    "__v": 246
+  }
+}

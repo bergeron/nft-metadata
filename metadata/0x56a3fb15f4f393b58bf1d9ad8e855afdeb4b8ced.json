@@ -1,0 +1,35 @@
+{
+  "address": "0x56a3fb15f4f393b58bf1d9ad8e855afdeb4b8ced",
+  "type": "ERC721",
+  "name": "Pixelated TV",
+  "tokenCount": "5000",
+  "uri": "ipfs://bafybeidnuihxxevhbkxnr5fsnjvyfjm24dhd4ngm7mdytw33jjkdlfphce/1.json",
+  "metadata": {
+    "description": "Tune in for a next season of BigBull! A collection of 5000 pixalated TVs. 1 Free per wallet and then 0.0005 ETH.",
+    "image": "ipfs://bafybeienk2x4s6duxuvirbjyi6wlwhfjq2dvxzfsu6ym4bh7576ogiwbn4/1.png",
+    "name": "PixalatedTV",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "purple grey"
+      },
+      {
+        "trait_type": "screen",
+        "value": "screen white and orange"
+      },
+      {
+        "trait_type": "tvbox",
+        "value": "silver"
+      },
+      {
+        "trait_type": "face",
+        "value": "confuse face"
+      },
+      {
+        "trait_type": "head",
+        "value": "cat head"
+      }
+    ],
+    "edition": 1
+  }
+}

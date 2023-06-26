@@ -1,0 +1,31 @@
+{
+  "address": "0x873b0ba7d721edb1cdef6b5a48efe1b6a2b925a0",
+  "type": "ERC721",
+  "name": "Bitcoin Ape Punks",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmcUUU3MeYYRNfqwuccu8vxg6LD18tWb6mpR7hfdRAphtN/1.json",
+  "metadata": {
+    "name": "Bitcoin Ape Punks #1",
+    "description": "This BAP 🐒 is an homage to Crypto Punk#1",
+    "image": "ipfs://QmPu5p1yriW4ZjrHuFocSNpUuSHT1ziHM3fdR6vNM8fdLZ/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Mohawk"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Mouth Prop",
+        "value": "None"
+      }
+    ]
+  }
+}

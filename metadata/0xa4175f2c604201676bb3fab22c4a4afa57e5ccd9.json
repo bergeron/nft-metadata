@@ -1,0 +1,50 @@
+{
+  "address": "0xa4175f2c604201676bb3fab22c4a4afa57e5ccd9",
+  "type": "ERC721",
+  "name": "Hip Heroes",
+  "tokenCount": "500",
+  "uri": "ipfs://QmdR2m9WbkQPG5YZQjTimNtYuWugZgn3U48dZECWf7QpSF/1.json",
+  "metadata": {
+    "name": "Hip Hero #1",
+    "description": "These Hip Heroes are on a mission to save the planet",
+    "image": "ipfs://QmdRpnSVB23fqgvCmCK5muSLavLsGyn8i4vnVWpD4CNQ5m/1.png",
+    "dna": "c4e8954eabe24d67c93d3df2e7211e12c02d96d3",
+    "edition": 1,
+    "date": 1652434375982,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Skins",
+        "value": "Giraffe02"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Brush Back Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tongue Right Small"
+      },
+      {
+        "trait_type": "Face",
+        "value": "No Glasses"
+      },
+      {
+        "trait_type": "LeftHand",
+        "value": "Torch"
+      },
+      {
+        "trait_type": "RightHand",
+        "value": "Green Shield"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

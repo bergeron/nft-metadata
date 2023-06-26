@@ -1,0 +1,44 @@
+{
+  "address": "0x94c567d251a055728c826de67aa5a57aa245f126",
+  "type": "ERC721",
+  "name": "Doctor 1919",
+  "tokenCount": "128",
+  "uri": "https://assets-doctor1919-art.s3.amazonaws.com/__metadata__/1",
+  "metadata": {
+    "name": "Dr1919 #1",
+    "description": "Diecinueve artistas venezolanos se unen para crear una colección de 1919 NFTs que gira en torno a la vida de José Gregorio Hernández (1864 a 1919), beatificado el 30 de abril de 2021 y actualmente rumbo a la canonización.",
+    "image": "https://assets-doctor1919-art.s3.amazonaws.com/images/1.png",
+    "dna": "7d3597035dfc65b9dff8fb19c33bd0b6bd8c69b4",
+    "edition": 1,
+    "date": 1667508758000,
+    "creator": "Doctor 1919",
+    "external_url": "https://www.doctor1919.art/",
+    "attributes": [
+      {
+        "trait_type": "ARTISTA",
+        "value": "Flores Solano"
+      },
+      {
+        "trait_type": "FONDO",
+        "value": "Cartilago hialino fetal"
+      },
+      {
+        "trait_type": "SOMBRERO",
+        "value": "Patrones"
+      },
+      {
+        "trait_type": "CORBATA",
+        "value": "Patrones Cafe"
+      },
+      {
+        "trait_type": "CHALECO",
+        "value": "Azul"
+      },
+      {
+        "trait_type": "TRAJE",
+        "value": "Cafe Claro"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "address": "0xd5dfb159788856f9fd5f897509d5a68b7b571ea8",
+  "type": "ERC1155",
+  "name": "Tacoshi's Quest",
+  "tokenCount": "16",
+  "uri": "https://gateway.ipfs.io/ipfs/QmWQAQJcEo6CZwht5t7UeUfRdNP2jrppht9EBEiEtofTQB",
+  "metadata": {
+    "name": "Rare Gender Neutral Taco",
+    "description": "A queer and very friendly Taco.",
+    "image": "https://gateway.ipfs.io/ipfs/QmXWU9iU5rn4MFkTyUSLpiiPs9WUVVBj2N4j1jGs8LwAoM",
+    "animation_url": "",
+    "audio_url": "",
+    "interactive_url": "",
+    "external_link": "https://opensea.io/collection/tacoshis-quest",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Pronouns",
+        "value": "They/Them"
+      },
+      {
+        "trait_type": "Crunch",
+        "value": "5",
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Spice",
+        "value": "11",
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Cool",
+        "value": "3",
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Decay",
+        "value": "9",
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Versatility",
+        "value": "14",
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "Taco Total",
+        "value": "42"
+      }
+    ]
+  }
+}

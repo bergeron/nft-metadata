@@ -1,0 +1,60 @@
+{
+  "address": "0x17ebce448cdf4afad237f9a609fcdfdab6a1f0ab",
+  "type": "ERC721",
+  "name": "KkVerse Club",
+  "tokenCount": "1200",
+  "uri": "ipfs://bafybeiatopodf3xfsasgz4jwhm2hgazfcvmneatbiirn5bo6z2ij5wuqje/1.json",
+  "metadata": {
+    "name": "kikiverse #0001",
+    "symbol": "KIKI",
+    "description": "Unlock the magic of music! Multi-chain. Building the community that inclusive of ETH and SOL",
+    "seller_fee_basis_points": 750,
+    "image": "0001.png",
+    "animation_url": "0001.mp4",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "SSR19"
+      },
+      {
+        "trait_type": "Animated",
+        "value": "1:1"
+      },
+      {
+        "trait_type": "Owner",
+        "value": ""
+      },
+      {
+        "trait_type": "rarity",
+        "value": "universal"
+      }
+    ],
+    "properties": {
+      "category": "video",
+      "files": [
+        {
+          "uri": "0001.png",
+          "type": "image/png"
+        },
+        {
+          "uri": "0001.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "creators": [
+        {
+          "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+          "share": 5
+        },
+        {
+          "address": "Gp7iypgq6Hi1y4vEpdvzTRFGLAw61SqQL6aeZQczAS4k",
+          "share": 75
+        },
+        {
+          "address": "4aakKwn8939KtEYwLnhNrtDhsGgvkxev1tBRTEk2L97z",
+          "share": 20
+        }
+      ]
+    }
+  }
+}

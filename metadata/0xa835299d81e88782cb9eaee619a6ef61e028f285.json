@@ -1,0 +1,85 @@
+{
+  "address": "0xa835299d81e88782cb9eaee619a6ef61e028f285",
+  "type": "ERC721",
+  "name": "Pico Panda Poser Disco",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmefNsGrndekVMtjX5CkwyrF7KdZMPzhSNNG17osze6oji/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "Pico Panda Poser Disco. cc0 Pandas That Love to Party.",
+    "external_url": "https://picopandaposerdisco.xyz",
+    "image": "ipfs://QmXJbpyHNK7QrYbKwc2XqNk4ktgVXBU7BrgNf65ACR1vfM/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cool Breeze"
+      },
+      {
+        "trait_type": "Belly",
+        "value": "Panda"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "Blackberry"
+      },
+      {
+        "trait_type": "Cap",
+        "value": "Cap - Blue"
+      },
+      {
+        "trait_type": "Skateboard",
+        "value": "Blue ⁄ Green"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Wide"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "<3 <3"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Right Paw",
+        "value": "Nunchucks"
+      },
+      {
+        "trait_type": "Strength",
+        "value": 1,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Agility",
+        "value": 7,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Dexterity",
+        "value": 3,
+        "max_value": 10
+      },
+      {
+        "trait_type": "IQ",
+        "value": 4,
+        "max_value": 10
+      },
+      {
+        "trait_type": "Magic",
+        "value": 7,
+        "max_value": 10
+      }
+    ],
+    "lottery": [
+      95,
+      85,
+      43,
+      19,
+      31,
+      6
+    ],
+    "animation_url": "ipfs://QmSddGx6HVMtf2Ec5VFVjpxq1EGNtQYvNa3LWx66gkgYgg/1.gif"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "address": "0xb08d504508aa5b58303124a4817775d02b49160b",
+  "type": "ERC721",
+  "name": "Nom Nom NFT",
+  "tokenCount": "100",
+  "uri": "https://nomnomsnft.s3.us-west-1.amazonaws.com/1.json",
+  "metadata": {
+    "name": "Doodle Nom",
+    "description": "Nom Noms are a soft and warm community in the NFT space offering a collection of 5,555 unique, cute and special dumplings!",
+    "image": "https://nomnomsnft.s3.us-west-1.amazonaws.com/1.png",
+    "number": "1",
+    "edition": 1,
+    "date": 1634107320231,
+    "attributes": [
+      {
+        "trait_type": "Unique",
+        "value": "Doodle"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "0x79ca45d3213bf755d2513cd8b0cad5a33dcd6ea6",
+  "type": "ERC721",
+  "name": "Wcraft Classic",
+  "tokenCount": "14",
+  "uri": "https://ipfs.io/ipfs/QmVRM94jKB3Kzanh1wz8cX4zVHFGUR7hjKNd4y3eDwb7bK",
+  "metadata": {
+    "name": "Loopy's Golden Ticket",
+    "description": "Given to winner of the Initial NFT auction, the holder of the Golden Ticket will be granted access to front row seats to all of Loopy's concerts FOR LIFE.",
+    "image": "https://ipfs.io/ipfs/QmNMFZTNtFufHU8N4BKnyuSGg6mjeFUCZMY2qFcM9sC4CV",
+    "animation_url": "https://ipfs.io/ipfs/QmNVMkApmkgjr9eWNgG5WSWZcVfkqqRVMNmhKN4RczR5Qa",
+    "seller_fee_basis_points": 300,
+    "fee_recipient": "0x6C7c63b65Fd52Ed0f9Af30a7026053da0A85E31F",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Loopy"
+      },
+      {
+        "trait_type": "Perk",
+        "value": "GOLDEN TICKET"
+      }
+    ]
+  }
+}

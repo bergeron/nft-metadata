@@ -1,0 +1,53 @@
+{
+  "address": "0x6fdec0a887a306dc8bad780bf569d266bf408411",
+  "type": "ERC1155",
+  "name": "Quirkmasters",
+  "tokenCount": "48",
+  "uri": "ipfs://bafybeighokr7cofjzrc4eljnumjngiqyuilmt6yu3tgnhvif46tftmxbie/1",
+  "metadata": {
+    "name": "Pale Peach",
+    "description": "Quirkmasters Duels of Glory",
+    "image": "ipfs://bafybeicdxsnaosbtk7wjwbvrqbmweonfuc6n4tn7lwx3hxy6h2jdz5atxm/Quirkies/background/Pale Peach.png",
+    "attributes": [
+      {
+        "value": "First Edition"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Background"
+      },
+      {
+        "trait_type": "name",
+        "value": "Pale Peach"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Parent",
+        "value": "Quirkies"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Health",
+        "value": 0
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Cost",
+        "value": 0
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Attack",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "value": 1
+      }
+    ]
+  }
+}

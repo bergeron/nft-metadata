@@ -1,0 +1,43 @@
+{
+  "address": "0x7d2fb7b2b486fe7363abce374e3f541643367b2d",
+  "type": "ERC721",
+  "name": "WAFTIES",
+  "tokenCount": "4444",
+  "uri": "ipfs://bafybeibkfas74ya5sobgzkvbbrujxy3ordonxtv24u6oxqoevxuhektq2m/1",
+  "metadata": {
+    "dna": "00e91972b71b7442cc88b55f86237ee372cc036cdc48a96c4b5954ba698f3da8",
+    "name": "Wafties #1",
+    "description": "Wafties is the Genesis Collection of Ghost Labs with commercial rights.",
+    "image": "ipfs://bafybeig2g7yh32vxvlqeafdkxunplmxa4caj2aznvgsa7sg2zeja6z2vtu/1.gif",
+    "imageName": "1.gif",
+    "edition": 1,
+    "date": 1680814092166,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Lost Graveyard (Night)"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Mango"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Mushroom Cap"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Fang"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smol Eyes"
+      }
+    ],
+    "compiler": "Ghost Labs Animated Art Engine"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "address": "0x2c7d53ea64751d8b6f785d7a198ce705d6fffce6",
+  "type": "ERC721",
+  "name": "Eyewonderlab",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/gdy30T0o22JGZazi2kithtPgxTeid7_5Nxy23Mb5qKo",
+  "metadata": {
+    "name": "Hello World!",
+    "created_by": "EyeWonderLab",
+    "description": "Genesis Creation",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "EyeWonderLab"
+      }
+    ],
+    "image_details": {
+      "bytes": 7823352,
+      "format": "TIFF",
+      "sha256": "c2722a8dc7f2b63e52e1d25e2edaa8bec6169d9286209344fe81a989b6cf8314",
+      "width": 2160,
+      "height": 3840
+    },
+    "image": "https://arweave.net/4Hv5p3Ukf3jN7_TSjozejF4dnG8K3tcklWob9K48sG4",
+    "image_url": "https://arweave.net/4Hv5p3Ukf3jN7_TSjozejF4dnG8K3tcklWob9K48sG4",
+    "animation_details": {
+      "bytes": 49620079,
+      "format": "MP4",
+      "duration": 17,
+      "sha256": "af293164bf6f793030a09775ed5e183b9e244bbd7427b148122941e911aeb2a6",
+      "width": 2160,
+      "height": 3840,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/0sIQiSv8Bqalv9XtUwhI4X_56aI0p8GYxpR8l1Hz-P4",
+    "animation_url": "https://arweave.net/0sIQiSv8Bqalv9XtUwhI4X_56aI0p8GYxpR8l1Hz-P4"
+  }
+}

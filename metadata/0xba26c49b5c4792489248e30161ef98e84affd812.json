@@ -1,0 +1,38 @@
+{
+  "address": "0xba26c49b5c4792489248e30161ef98e84affd812",
+  "type": "ERC1155",
+  "name": "FraktalNFTAdventuresOfKevin",
+  "tokenCount": "1",
+  "uri": "https://adventuresofkevin.s3.eu-west-2.amazonaws.com/meta/124",
+  "metadata": {
+    "name": "Adventures Of Kevin #124",
+    "description": "Kevin's been on tour, where will he be next?",
+    "image": "https://adventuresofkevin.s3.eu-west-2.amazonaws.com/img/124.png",
+    "dna": "76299e663b1553d198b0e121366402f905cf3dbc",
+    "edition": 124,
+    "date": 1646347095514,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "Las Vegas"
+      },
+      {
+        "trait_type": "Kevin",
+        "value": "BaseKevin"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Bucket Hat"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Rolex"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Elvis"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

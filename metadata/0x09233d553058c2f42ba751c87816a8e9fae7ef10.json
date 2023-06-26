@@ -1,0 +1,43 @@
+{
+  "address": "0x09233d553058c2f42ba751c87816a8e9fae7ef10",
+  "type": "ERC721",
+  "name": "My Pet Hooligan",
+  "tokenCount": "8888",
+  "uri": "https://mypethooligan.com/meta/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Faction",
+        "value": "Rogue Jumpers"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "OG Red"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Decayed Teeth"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Varsity Jacket Blue"
+      },
+      {
+        "trait_type": "Item",
+        "value": "Boxing Gloves Red"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Tuft Seafoam"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "S-Karrots",
+        "value": 0
+      }
+    ],
+    "image": "https://gateway.pinata.cloud/ipfs/QmULY7REhrxaJRhtqf2qv8BxaKYeRjJ4sk4EDMvAmB2Vdy/1.png",
+    "description": "Official Store At [mypethooligan.com](https://mypethooligan.com/).",
+    "name": "Hooligan #1"
+  }
+}

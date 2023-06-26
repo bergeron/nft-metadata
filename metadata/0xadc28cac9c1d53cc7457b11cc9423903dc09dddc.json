@@ -1,0 +1,43 @@
+{
+  "address": "0xadc28cac9c1d53cc7457b11cc9423903dc09dddc",
+  "type": "ERC721",
+  "name": "Sketchy Ape Book Club",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmZ3WP1nxftutxeD5af2CKtq5YktQw5wo4ZGZ7HTV3uQ8e/1.json",
+  "metadata": {
+    "name": "SABC #1",
+    "description": "The sketchiest apes on the blockchain, the Sketchy Ape Book Club NFT Collection symbolizes the merging of the physical world and the digital. Each ape was hand drawn by the artist in separate layers and then ran through the HashLips Art Engine to generate 10 000 unique and very special apes.",
+    "image": "ipfs://QmdQdUoZU3xwgUfECVWi1int9g1RitFS65HYmhZ1U1eDHE/1.png",
+    "dna": "4f790228c6fa6e0aca7298a0d16fbd454cf7f7ed",
+    "edition": 1,
+    "date": 1637871280098,
+    "artist": "Daniel Eugene Botha",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "cyan"
+      },
+      {
+        "trait_type": "fur",
+        "value": "volcanic purple"
+      },
+      {
+        "trait_type": "face",
+        "value": "blue eyes"
+      },
+      {
+        "trait_type": "clothing props",
+        "value": "towel"
+      },
+      {
+        "trait_type": "props",
+        "value": "rave glasses"
+      },
+      {
+        "trait_type": "xray",
+        "value": "none"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

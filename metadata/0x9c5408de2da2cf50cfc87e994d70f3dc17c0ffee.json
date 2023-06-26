@@ -1,0 +1,122 @@
+{
+  "address": "0x9c5408de2da2cf50cfc87e994d70f3dc17c0ffee",
+  "type": "ERC721",
+  "name": "The Haas Brothers",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/PosCvZdk1MemDNcJnJGVQRtSHlx2PwQbbS9RE0xQ5N8",
+  "metadata": {
+    "title": "like to get to snow you well",
+    "name": "like to get to snow you well",
+    "type": "object",
+    "image": "https://arweave.net/EPCguNJJVxVAVBZZuYZlfuvnh6gi_IFf3TZfrrgA-Uo",
+    "imageUrl": "https://arweave.net/EPCguNJJVxVAVBZZuYZlfuvnh6gi_IFf3TZfrrgA-Uo",
+    "animation_url": "https://arweave.net/EPCguNJJVxVAVBZZuYZlfuvnh6gi_IFf3TZfrrgA-Uo",
+    "description": "The origin story of \"Fruit Picker\" an eight foot tall, seminal, large scale work. The fruit picker is from here, a snowy fantastical world, and has been waiting patiently to receive the fruit. The fruit! Something that has descended upon her from above, from a source beyond her understanding. Something she is happy to gain with humility and gratitude.",
+    "external_url": "http://www.thehaasbrothers.com/",
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1626322636
+      },
+      {
+        "trait_type": "Creator",
+        "value": "The Haas Brothers"
+      },
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      }
+    ],
+    "properties": {
+      "title": {
+        "type": "string",
+        "description": "like to get to snow you well"
+      },
+      "name": {
+        "type": "string",
+        "description": "like to get to snow you well"
+      },
+      "description": {
+        "type": "string",
+        "description": "The origin story of \"Fruit Picker\" an eight foot tall, seminal, large scale work. The fruit picker is from here, a snowy fantastical world, and has been waiting patiently to receive the fruit. The fruit! Something that has descended upon her from above, from a source beyond her understanding. Something she is happy to gain with humility and gratitude."
+      },
+      "image": {
+        "type": "string",
+        "description": "https://arweave.net/EPCguNJJVxVAVBZZuYZlfuvnh6gi_IFf3TZfrrgA-Uo"
+      },
+      "imageUrl": {
+        "type": "string",
+        "description": "https://arweave.net/EPCguNJJVxVAVBZZuYZlfuvnh6gi_IFf3TZfrrgA-Uo"
+      },
+      "animation_url": {
+        "type": "string",
+        "description": "https://arweave.net/EPCguNJJVxVAVBZZuYZlfuvnh6gi_IFf3TZfrrgA-Uo"
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://arweave.net/EPCguNJJVxVAVBZZuYZlfuvnh6gi_IFf3TZfrrgA-Uo"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "vide/mp4"
+      },
+      "preview_media_file_dimensions": {
+        "type": "string",
+        "description": "1280x720"
+      },
+      "preview_media_file_size": {
+        "type": "int",
+        "description": 29541062
+      },
+      "created_at": {
+        "type": "datetime",
+        "description": "2021-07-15T04:17:16.000000Z"
+      },
+      "creator_wallet": {
+        "type": "string",
+        "description": "0x7b713fe02ef197e60d2741095dd4c83f424c2988"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 1
+      },
+      "digital_media_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "digital_media_signature": {
+        "type": "string",
+        "description": "0x646d2b1b17be097003a50e742b71da92bd848da09b22433d3dbcddb5dae33aba"
+      },
+      "raw_media_file": {
+        "type": "string",
+        "description": "http://arweave.net/Xy-dKHd0naCJXcdlzwAsFVmxTe-UVlSLdOWEbyofSKk"
+      },
+      "raw_media_file_type": {
+        "type": "string",
+        "description": "video/mp4"
+      },
+      "raw_media_file_dimensions": {
+        "type": "string",
+        "description": "3840x2160"
+      },
+      "raw_media_file_spec": {
+        "type": "string",
+        "description": "h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 3840x2160, 46944 kb/s, 29.97 fps, 29.97 tbr, 30k tbn, 59.94 tbc (default)"
+      },
+      "raw_media_file_size": {
+        "type": "int",
+        "description": 200518875
+      },
+      "nft_type": {
+        "type": "string",
+        "description": "non-fungible token (mp4)"
+      },
+      "minted_on": {
+        "type": "string",
+        "description": "15 July 2021"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "address": "0x2c0efd5a411d6e851d95c403e17c13d1c6f3ad21",
+  "type": "ERC1155",
+  "name": "Arcomia Land Pass",
+  "tokenCount": "3",
+  "uri": "https://land-pass.s3.filebase.com/types/1.json",
+  "metadata": {
+    "id": 1,
+    "name": "Medium Land Pass",
+    "image": "ipfs://Qmf9VdwiYLrBt1T5VAkBXfdEorvP7rw3mn2neAZSoeuihN",
+    "description": "The land pass can be acquired through events, partnerships and giveaways. With the pass Arcomians can claim a medium (2x2x2) land parcel in the Arcomia Metaverse.",
+    "external_url": "https://arcomia.io",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "MEDIUM"
+      },
+      {
+        "trait_type": "Size",
+        "value": "2x2x2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "address": "0x051cf701dee594237fb088a64517f68693c7f712",
+  "type": "ERC721",
+  "name": "CITIZENNFT",
+  "tokenCount": "10",
+  "uri": "https://criptiko.com/api/uri/1",
+  "metadata": {
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "ID TOKEN",
+        "value": 1
+      },
+      {
+        "trait_type": "Block",
+        "value": "establishment"
+      },
+      {
+        "trait_type": "Faction",
+        "value": "statesmen"
+      },
+      {
+        "trait_type": "Mission",
+        "value": "All animals are equal, but some animals are more equal than others"
+      },
+      {
+        "trait_type": "Species",
+        "value": "emblem"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "legendary"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Storyline",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "ID Description",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Series",
+        "value": 1
+      }
+    ],
+    "description": "The dominant block in past wars, now tries to maintain its status, contenting and containing the masses by promoting a virtual paradise called \"Ether\". The Establishment bloc is made up of businessmen, rulers, policemen, masters, advisors and an upper middle class that maintains its status by acting as influencers in Ether.",
+    "external_url": "https://criptiko.com/card/5fbbee304e2b396634fc667a",
+    "image": "https://citizennft.s3.eu-west-3.amazonaws.com/token-card-1.png",
+    "name": "Symbol of the Establishment"
+  }
+}

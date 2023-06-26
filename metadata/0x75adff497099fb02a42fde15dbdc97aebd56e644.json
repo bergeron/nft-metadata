@@ -1,0 +1,41 @@
+{
+  "address": "0x75adff497099fb02a42fde15dbdc97aebd56e644",
+  "type": "ERC1155",
+  "name": "PixelMe Rewards",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/6iD4TjOeSyAH0I4e3P4QoyKCytkufrSM7V2siJlTGUI",
+  "metadata": {
+    "name": "First Bday PixelMe",
+    "created_by": "JojotoElectrico",
+    "description": "Commemorative video to celebrate pixelme's first birthday",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "JojotoElectrico"
+      }
+    ],
+    "animation_details": {
+      "bytes": 20640855,
+      "format": "MP4",
+      "duration": 80,
+      "sha256": "9c2663d82f183645368e49b1e9063eae06ca5d94180e2acfe5906a36b2e6692e",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/0pT6WN35YSQRCPqJIWqbh_uNbHQySoHpx1mQ6S_d3fo",
+    "animation_url": "https://arweave.net/0pT6WN35YSQRCPqJIWqbh_uNbHQySoHpx1mQ6S_d3fo",
+    "image_details": {
+      "bytes": 5254,
+      "format": "PNG",
+      "sha256": "798b0c30d59fc9ac622235c8c1bfb266ebdc4140acbc20a9bc490c39fed6a351",
+      "width": 640,
+      "height": 640
+    },
+    "image": "https://arweave.net/aQY0Xm28sKC6BF4R-5q0LKB1ryH8Qgw1pIr5EvLZJNI",
+    "image_url": "https://arweave.net/aQY0Xm28sKC6BF4R-5q0LKB1ryH8Qgw1pIr5EvLZJNI"
+  }
+}

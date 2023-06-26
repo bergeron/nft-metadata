@@ -1,0 +1,53 @@
+{
+  "address": "0xaafba0555828c98216a7254b8500043ab27ce4f0",
+  "type": "ERC721",
+  "name": "Star Girl",
+  "tokenCount": "32",
+  "uri": "https://nft-content.animoca.com/stargirl/meta/0001-the_super_star.json",
+  "metadata": {
+    "name": "The Super Star",
+    "image": "https://nft-content.animoca.com/stargirl/img/0001-the_super_star.png",
+    "image_url": "https://nft-content.animoca.com/stargirl/img/0001-the_super_star.png",
+    "description": "Designed by a famous designer and worn by a super star.",
+    "external_url": "https://bnc.lt/m/XkXNzpk1qu",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Unique"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Bag"
+      },
+      {
+        "trait_type": "",
+        "value": "Elegant"
+      },
+      {
+        "trait_type": "",
+        "value": "Designer"
+      },
+      {
+        "trait_type": "",
+        "value": "Handmade"
+      }
+    ],
+    "properties": [
+      {
+        "key": "Rarity",
+        "value": "Unique",
+        "type": "string"
+      },
+      {
+        "key": "Category",
+        "value": "Bag",
+        "type": "string"
+      }
+    ],
+    "tags": [
+      "Elegant",
+      "Designer",
+      "Handmade"
+    ]
+  }
+}

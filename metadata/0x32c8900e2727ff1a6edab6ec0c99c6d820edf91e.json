@@ -1,0 +1,69 @@
+{
+  "address": "0x32c8900e2727ff1a6edab6ec0c99c6d820edf91e",
+  "type": "ERC721",
+  "name": "MetaBull by Astro Frens",
+  "tokenCount": "528",
+  "uri": "https://media.astrofrens.com/MetaBull/1.json",
+  "metadata": {
+    "name": "MetaBull #1",
+    "image": "https://media.astrofrens.com/MetaBull/images/MetaBull_blue.png",
+    "description": "3D MetaBulls! These bulls are ready to hoof into the Astroverse! Grab a Metabull, suit up, and get ready to meet AstroFrens!",
+    "attributes": [
+      {
+        "trait_type": "Name",
+        "value": "Meta Bull"
+      },
+      {
+        "trait_type": "Astrobull ID",
+        "value": 1,
+        "max_value": 10000
+      },
+      {
+        "trait_type": "OG_Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "OG_Clothing",
+        "value": "Astro Suit"
+      },
+      {
+        "trait_type": "OG_Clothing Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "OG_Eyes",
+        "value": "Intrigued"
+      },
+      {
+        "trait_type": "MetaBull Body Color",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "OG_Horns",
+        "value": "Sharp (Silver)"
+      },
+      {
+        "trait_type": "OG_Hair",
+        "value": "Faux Hawk"
+      },
+      {
+        "trait_type": "OG_Hair Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "OG_Snout Color",
+        "value": "Beige"
+      },
+      {
+        "trait_type": "OG_Mouth",
+        "value": "Sharp"
+      },
+      {
+        "trait_type": "OG_Collar",
+        "value": "Astro Suit"
+      }
+    ],
+    "background_color": "#232324",
+    "animation_url": "https://media.omnimint.xyz/ipfs/QmUe5hmXhBo5MLkQpmTDJqngJuUQaRnFHGq8yE1cKbq7Pm/MetaBull_blue.glb"
+  }
+}

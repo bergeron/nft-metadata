@@ -1,0 +1,40 @@
+{
+  "address": "0xeb2513d632b676afe2c20856bfddfaa928197b8c",
+  "type": "ERC721",
+  "name": "4Bits",
+  "tokenCount": "512",
+  "uri": "ipfs://QmekZo5GMx9rKj9jdtosYdUut6zGTPYJgx8Gio2aGjvUqG/1.json",
+  "metadata": {
+    "name": "4Bits #2",
+    "description": "4Bits that give you chance to win ETH",
+    "image": "ipfs://QmWUGbGh3fsaHvF3b4Z2M2YdBrWzkqmvQnGZA6KAYRfbkR/2.png",
+    "custom_fields": {
+      "dna": "afdad5c0b0b65dc92e8c58fec93e9b44dc62e911",
+      "edition": 2,
+      "date": 1653487862084,
+      "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Background blue "
+      },
+      {
+        "trait_type": "dotenorth",
+        "value": "Third dot green 3 "
+      },
+      {
+        "trait_type": "dotesouth",
+        "value": "Fourth dot blue "
+      },
+      {
+        "trait_type": "dotleft",
+        "value": "Second dot purple 1 "
+      },
+      {
+        "trait_type": "dotright",
+        "value": "First dot brown "
+      }
+    ]
+  }
+}

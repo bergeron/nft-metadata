@@ -1,0 +1,27 @@
+{
+  "address": "0xb01a181fc214afa9d425e7a850aa2e034d5854b0",
+  "type": "ERC1155",
+  "name": "MilanJaram",
+  "tokenCount": "3",
+  "uri": "https://milanjaram.herokuapp.com/api/token/1.json",
+  "metadata": {
+    "name": "AI Bart",
+    "image": "https://nft.milanjaram.com/img/photos/Bart.jpg",
+    "external_url": "https://nft.milanjaram.com/img/photos/Bart.jpg",
+    "description": "AI Bart by Artist Milan Jaram | milanjaram.com | @darkside.ai",
+    "attributes": [
+      {
+        "trait_type": "Style",
+        "value": "AI"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "1"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Milan Jaram"
+      }
+    ]
+  }
+}

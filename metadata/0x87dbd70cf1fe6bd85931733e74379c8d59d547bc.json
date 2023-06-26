@@ -1,0 +1,57 @@
+{
+  "address": "0x87dbd70cf1fe6bd85931733e74379c8d59d547bc",
+  "type": "ERC721",
+  "name": "Night Runners NFT",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/Lv9E9UeSZ9-nOEGl4utv4mkqwwys_99p1hRQJ88z-p0",
+  "metadata": {
+    "name": "Night Runner #1",
+    "created_by": "Night Runners",
+    "description": "JDM Night Runners cruising through the blockchain. Evolving the future of digital car clubs.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Night Runners"
+      },
+      {
+        "trait_type": "Vehicle",
+        "value": "Subaru WRX"
+      },
+      {
+        "trait_type": "Class",
+        "value": "JDM"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Kan-Etsu Tunnel"
+      },
+      {
+        "trait_type": "Mods",
+        "value": "Tuner"
+      }
+    ],
+    "animation_details": {
+      "bytes": 6071947,
+      "format": "MP4",
+      "duration": 15,
+      "sha256": "91de97a9ee8705efe1406cb99c4eb981f6cb2c47e4dde50c8dd0198df7f83956",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/tIkKKPDFIeNuee5lWvRd4_1sMQK4tFsDJCtFJOV86_c",
+    "animation_url": "https://arweave.net/tIkKKPDFIeNuee5lWvRd4_1sMQK4tFsDJCtFJOV86_c",
+    "image_details": {
+      "bytes": 1462393,
+      "format": "GIF",
+      "sha256": "fa7c353dfd78a657b7c0e922dc069cde7e063d50a41c247f4321ca3709ef726a",
+      "width": 320,
+      "height": 180
+    },
+    "image": "https://arweave.net/Q5fHRr9duSzELJmPS5U-7pUyl6t_QeCEjB2B29gQFe4",
+    "image_url": "https://arweave.net/Q5fHRr9duSzELJmPS5U-7pUyl6t_QeCEjB2B29gQFe4"
+  }
+}

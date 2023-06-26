@@ -1,0 +1,41 @@
+{
+  "address": "0xcb7e04eb3f0b14a69c751674ac848c35061f3508",
+  "type": "ERC1155",
+  "name": "The Beholders by 0xFiendish",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/zNmLCgfoq0qlvtpVHOQGBgq6cEfTt1kXJAAqnFrW7fA",
+  "metadata": {
+    "name": "The Beholder",
+    "created_by": "0xFiendish",
+    "description": "Welcome to the gallery.\n\nWhat do you see? How does art connect to your story? Has it brought you on a journey, or is it just a means to an end?\n\nAs the first token minted on this Manifold contract, The Beholder will entitle holders to future benefits, including free claims, 1/1 raffles, and more.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "0xFiendish"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2023"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Gallery"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Edition Size",
+        "value": "1",
+        "max_value": "15"
+      }
+    ],
+    "image_details": {
+      "bytes": 176600,
+      "format": "WEBP",
+      "sha256": "c1f17ce166cdfb5e78c6bea5bc884ce70a2c0e688003a8794795e2b6825ccb3c",
+      "width": 1024,
+      "height": 1536
+    },
+    "image": "https://arweave.net/u4iUYlsg_LJp4pyIRuyCaC7u5Ss0bMzot-VjMyZLC5c",
+    "image_url": "https://arweave.net/u4iUYlsg_LJp4pyIRuyCaC7u5Ss0bMzot-VjMyZLC5c"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "address": "0x5d8241ed7060e417dee5b78164e336c4c9724ce6",
+  "type": "ERC1155",
+  "name": "Creepture Eggs",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/gBpo9btY_Bix-CDPMVeN9nw3UX2NlDdbod_jXtd_Zlc",
+  "metadata": {
+    "name": "Gen Egg",
+    "created_by": "Marco Mori",
+    "external_url": "https://www.creeptures.xyz/",
+    "description": "A mysterious Creepture Egg...",
+    "attributes": [
+      {
+        "trait_type": "GENERATION",
+        "value": "0"
+      }
+    ],
+    "animation_details": {
+      "bytes": 24347040,
+      "format": "MP4",
+      "duration": 8,
+      "sha256": "489e346f13ba727146bfdd7c0866a6fbd5c6ca194fc5c1b944a62340e0714051",
+      "width": 1920,
+      "height": 1920,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/xMXaK7JOVG9Qt5FUVYRxWcR4-4kg4AkaRpkz3JJ6Zcg",
+    "animation_url": "https://arweave.net/xMXaK7JOVG9Qt5FUVYRxWcR4-4kg4AkaRpkz3JJ6Zcg",
+    "image_details": {
+      "bytes": 35472769,
+      "format": "GIF",
+      "sha256": "835dbfecdc8cfcf2d83bc97ff293a776a88aa3dec5c23428c93251cbc81811ce",
+      "width": 1920,
+      "height": 1920
+    },
+    "image": "https://arweave.net/lOe-hyYuHeZtyxo7UjO-U5erqx1VZROFH-q_5REvrh0",
+    "image_url": "https://arweave.net/lOe-hyYuHeZtyxo7UjO-U5erqx1VZROFH-q_5REvrh0"
+  }
+}

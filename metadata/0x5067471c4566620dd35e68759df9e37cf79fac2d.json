@@ -1,0 +1,42 @@
+{
+  "address": "0x5067471c4566620dd35e68759df9e37cf79fac2d",
+  "type": "ERC721",
+  "name": "FF6000 CATS",
+  "tokenCount": "895",
+  "uri": "https://api.ffcats.io/1",
+  "metadata": {
+    "dna": "f4ee6061605f16642a3f89a98fb0f406",
+    "name": "Cat #1",
+    "edition": 1,
+    "description": "FF6000 Cats",
+    "image": "ipfs://bafybeib6ka6yyijv5f36r76p3zgksttvwsrbo3fa4n5pu3klruk7m7c7fm/1.png",
+    "date": 1685954738203,
+    "compiler": "Ben Inc LLC",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FF6000"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Ramen-Meowster"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Chefs_Shirt_Blue"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Stars"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Matrix"
+      },
+      {
+        "trait_type": "Food",
+        "value": "Sashimi"
+      }
+    ]
+  }
+}

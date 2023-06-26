@@ -1,0 +1,39 @@
+{
+  "address": "0x91742019b67d57fffa2584131c90e8d14eb6f931",
+  "type": "ERC721",
+  "name": "Redwood Grove",
+  "tokenCount": "30",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=uD3hAvd7cRJRtISTYWl0",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1575856752026?alt=media&token=06689423-1305-42f9-a61c-03d88b472068",
+    "isForSale": false,
+    "description": "My deepest appreciation for your hard work, inspiration, and collaboration in 2019",
+    "contractAddress": "",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted//uD3hAvd7cRJRtISTYWl0",
+    "minter": "0xB936a573ABd92CE29E2374344370CBF30a52b152",
+    "mintedOn": {
+      "_seconds": 1575856785,
+      "_nanoseconds": 368000000
+    },
+    "price": "0",
+    "name": "2019",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "2019"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "id": null
+  }
+}

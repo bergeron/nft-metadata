@@ -1,0 +1,31 @@
+{
+  "address": "0x1b2abcf1962edebc7513b57a5e7f2a5bf209bfaa",
+  "type": "ERC1155",
+  "name": "Trial and Error Stage Show 2022",
+  "tokenCount": "20",
+  "uri": "https://tne-stage-show-metadata.s3.ap-east-1.amazonaws.com/1.json",
+  "metadata": {
+    "name": "試當真舞台劇 【2022年7月9號 8PM 場次】",
+    "description": "此為試當真舞台劇（2022年7月9日8PM 場次）換票證NFT。\n舞台劇換票證NFT只屬換票用途，不能用作實體入場。\n\n換票流程：\n\n持有者可於為6月4日至6月6日換票時段，進入換票網站填寫電子郵件，兌換成（2022年7月9日8PM 場次）的電子門票。換票證NFT會於6月4日快照後失效。\n\n電子門票不設劃位，一張以上換票證NFT換票時不會保證連位，座位將由主辦機構盡量安排，為最高門票價格區域。\n\n如以多於一個錢包換票，登記時請填寫相同電子郵件，並於Discord支援區提供資料。\n\n所有門票不設退票及不能更換場次。\n\n如有任何爭議，主辦機構將保留最終決定權。\n\n詳情請留意試當真Discord：https://discord.gg/trialanderror",
+    "image": "https://tne-stage-show-metadata.s3.ap-east-1.amazonaws.com/stop-buy2.gif",
+    "animation_url": "https://tne-stage-show-metadata.s3.ap-east-1.amazonaws.com/stop-buy2.mp4",
+    "attributes": [
+      {
+        "trait_type": "Year",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Month",
+        "value": "7月"
+      },
+      {
+        "trait_type": "Day",
+        "value": "9"
+      },
+      {
+        "trait_type": "Time",
+        "value": "8PM"
+      }
+    ]
+  }
+}

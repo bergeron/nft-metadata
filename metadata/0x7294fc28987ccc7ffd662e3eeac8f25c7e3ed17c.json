@@ -1,0 +1,25 @@
+{
+  "address": "0x7294fc28987ccc7ffd662e3eeac8f25c7e3ed17c",
+  "type": "ERC721",
+  "name": "Beanie721",
+  "tokenCount": "8",
+  "uri": "https://raw.githubusercontent.com/cryptobuilders-io/tallinn-blockchain/master/Nori-ERC721.json",
+  "metadata": {
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Nori"
+      },
+      "description": {
+        "type": "string",
+        "description": "Represents ownership of the Nori Beanie Boo from the 24-09-2019 Tallinn Blockchain Developers Meetup"
+      },
+      "image": {
+        "type": "string",
+        "description": "https://raw.githubusercontent.com/cryptobuilders-io/tallinn-blockchain/master/Nori.jpg"
+      }
+    }
+  }
+}

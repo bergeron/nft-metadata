@@ -1,0 +1,45 @@
+{
+  "address": "0xe588feda21d17bd8f7b0532d3e439ab245c2f67f",
+  "type": "ERC721",
+  "name": "The British",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmZo9m4kMuycCv6amXadWbjVxMmonkNuFRgrRJNmFMhDCU/1.json",
+  "metadata": {
+    "name": "British #1",
+    "description": "The British is a collection of 10000 British lads",
+    "image": "ipfs://QmfQBrp6WFn5V9g6pAEtNUP4NZ2kx2PUSayZBkDWPo63yi/1.png",
+    "edition": 1,
+    "date": 1658015582476,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "British Flag"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Colour 3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Red Bowtie"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold Stud"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bug Eyed"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Short Hair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Oi Black Mustache"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

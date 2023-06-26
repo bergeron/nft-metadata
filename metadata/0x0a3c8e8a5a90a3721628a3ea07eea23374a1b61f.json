@@ -1,0 +1,169 @@
+{
+  "address": "0x0a3c8e8a5a90a3721628a3ea07eea23374a1b61f",
+  "type": "ERC721",
+  "name": "The Wasted-Verse LEMURIAN ANGELS",
+  "tokenCount": "32",
+  "uri": "https://api.thewastedlands.io/api/avatar/1",
+  "metadata": {
+    "id": 1,
+    "version": 1,
+    "owner": "0x691FE7eeDbD1297bF00b229c2681dd5AC5454fbf",
+    "color": 4,
+    "weapon": 37,
+    "mouth": 130,
+    "glass": 3,
+    "hair": 4,
+    "eye": 57,
+    "costume": 58,
+    "background": 54,
+    "image": "https://storage.googleapis.com/wl-avatar/c3630a4e-5d36-43d2-97d2-b4a5d3191782.png",
+    "image_id": "c3630a4e-5d36-43d2-97d2-b4a5d3191782",
+    "rarity": 0,
+    "stats": {
+      "hp": 16,
+      "atk": 11,
+      "int": 11
+    },
+    "parts": {
+      "Eye": {
+        "hp": 0,
+        "atk": 0,
+        "int": 5,
+        "set": "Set_8",
+        "slot": "Eye",
+        "color": "-",
+        "layer": "Eye",
+        "rarity": 3.53,
+        "part_id": 57,
+        "set_name": "Ancient Sea Set",
+        "part_name": "Ancient Sea Cold Glare"
+      },
+      "Hair": {
+        "hp": 0,
+        "atk": 1,
+        "int": 0,
+        "set": "Set_1",
+        "slot": "Hair",
+        "color": "-",
+        "layer": "Hair",
+        "rarity": 12,
+        "part_id": 4,
+        "set_name": "Absolute Scarlet Set",
+        "part_name": "Absolute Scarlet Wavy Hair"
+      },
+      "Glass": {
+        "hp": 0,
+        "atk": 0,
+        "int": 3,
+        "set": "Set_1",
+        "slot": "Glass",
+        "color": "-",
+        "layer": "Glass",
+        "rarity": 12.82,
+        "part_id": 3,
+        "set_name": "Absolute Scarlet Set",
+        "part_name": "Absolute Scarlet Vision of Power"
+      },
+      "Mouth": {
+        "hp": 0,
+        "atk": 10,
+        "int": 0,
+        "set": "Set_18",
+        "slot": "Mouth",
+        "color": "-",
+        "layer": "Mouth",
+        "rarity": 15.22,
+        "part_id": 130,
+        "set_name": "Loving Liquor Set",
+        "part_name": "Loving Liquor Radiant Kiss"
+      },
+      "Weapon": {
+        "hp": 0,
+        "atk": 0,
+        "int": 3,
+        "set": "Set_5",
+        "slot": "Weapon",
+        "color": "-",
+        "layer": "Weapon_Back_v1",
+        "rarity": 11.32,
+        "part_id": 37,
+        "set_name": "Bunny Maid Set",
+        "part_name": "Bunny Maid Glass of Wine"
+      },
+      "Costume": {
+        "hp": 10,
+        "atk": 0,
+        "int": 0,
+        "set": "Set_8",
+        "slot": "Costume",
+        "color": "-",
+        "layer": "Costume",
+        "rarity": 3.53,
+        "part_id": 58,
+        "set_name": "Ancient Sea Set",
+        "part_name": "Ancient Sea Scale"
+      },
+      "Background": {
+        "hp": 6,
+        "atk": 0,
+        "int": 0,
+        "set": "Set_7",
+        "slot": "Background",
+        "color": "-",
+        "layer": "Background",
+        "rarity": 23.62,
+        "part_id": 54,
+        "set_name": "Reckless Set",
+        "part_name": "Reckless Land"
+      }
+    },
+    "part_stats": "",
+    "last_transfer": null,
+    "image_small": "https://storage.googleapis.com/wl-avatar/c3630a4e-5d36-43d2-97d2-b4a5d3191782_small.png",
+    "createdAt": "2022-03-02T03:02:59.000Z",
+    "updatedAt": "2022-03-02T14:42:27.000Z",
+    "name": "Lemurian Angel #1",
+    "attributes": [
+      {
+        "trait_type": "Eye",
+        "value": "Ancient Sea Cold Glare"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Absolute Scarlet Wavy Hair"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Absolute Scarlet Vision of Power"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Loving Liquor Radiant Kiss"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Bunny Maid Glass of Wine"
+      },
+      {
+        "trait_type": "Costume",
+        "value": "Ancient Sea Scale"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Reckless Land"
+      },
+      {
+        "trait_type": "HP",
+        "value": 16
+      },
+      {
+        "trait_type": "Attack",
+        "value": 11
+      },
+      {
+        "trait_type": "Intel",
+        "value": 11
+      }
+    ]
+  }
+}

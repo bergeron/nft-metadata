@@ -1,0 +1,49 @@
+{
+  "address": "0x82f90eb8be8a96537565cdd2cf648489a9ed25ab",
+  "type": "ERC1155",
+  "name": "Psychonauts",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/P5ulNPuIluMzHBeUZEWx6W15sE1QPMDJ7MMx9AkS57M",
+  "metadata": {
+    "name": "A Psychonauts Journey",
+    "created_by": "Hayley Rincon",
+    "external_url": "https://www.chasingfractals.art",
+    "description": "The beginning. Every story has one, now witness the beginning of the Psychonauts journey.\n\nA story is yet to unfold.  \n",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Hayley Rincon"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Animated"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Green"
+      }
+    ],
+    "animation_details": {
+      "bytes": 21783631,
+      "format": "MOV",
+      "duration": 51,
+      "sha256": "6182032a0cf00dee23b838d326e35579f8c1e6b4d7c933f786b1605f75b8c624",
+      "width": 976,
+      "height": 1280,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/G6k0aRX8y_jjdFQjLDCFUVKopoZgVyySvVf10wxFdIg",
+    "animation_url": "https://arweave.net/G6k0aRX8y_jjdFQjLDCFUVKopoZgVyySvVf10wxFdIg",
+    "image_details": {
+      "bytes": 2515527,
+      "format": "JPEG",
+      "sha256": "77a306a2219fc36afcac9fedeea655ab6076d6e89e7e2cebe44ed0628d3fc47c",
+      "width": 2604,
+      "height": 3422
+    },
+    "image": "https://arweave.net/TidJTBPX7qVOSamqqR2X2ah5mS0iuQFbXZabCIAXJWE",
+    "image_url": "https://arweave.net/TidJTBPX7qVOSamqqR2X2ah5mS0iuQFbXZabCIAXJWE"
+  }
+}

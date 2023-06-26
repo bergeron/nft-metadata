@@ -1,0 +1,50 @@
+{
+  "address": "0x316dfc15b551a41d4a87c67c9deacd1f563100a9",
+  "type": "ERC721",
+  "name": "Smol Snack Shop",
+  "tokenCount": "16",
+  "uri": "https://api.smolsnack.shop/api/shops/metadata/1",
+  "metadata": {
+    "name": "Smol Snack Shop Genesis Collection #1",
+    "description": "A Web3 Business Mogul Game.",
+    "image": "https://cdn.smolsnack.shop/shops-genesis-nft/00001.png",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Tropical"
+      },
+      {
+        "trait_type": "Foreground",
+        "value": "Grass"
+      },
+      {
+        "trait_type": "Shop",
+        "value": "Shop"
+      },
+      {
+        "trait_type": "Paint",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Tile"
+      },
+      {
+        "trait_type": "Signage",
+        "value": "Sign"
+      },
+      {
+        "trait_type": "Shop Number",
+        "value": "222"
+      },
+      {
+        "trait_type": "Front Wall",
+        "value": "Poster"
+      },
+      {
+        "trait_type": "Side Wall",
+        "value": "Crack"
+      }
+    ]
+  }
+}

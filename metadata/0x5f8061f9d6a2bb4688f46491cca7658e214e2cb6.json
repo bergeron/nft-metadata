@@ -1,0 +1,30 @@
+{
+  "address": "0x5f8061f9d6a2bb4688f46491cca7658e214e2cb6",
+  "type": "ERC721",
+  "name": "NFTBoxes",
+  "tokenCount": "500",
+  "uri": "https://nftboxesbox.azurewebsites.net/api/HttpTrigger?id=1",
+  "metadata": {
+    "image": "https://ipfs.infura.io/ipfs/QmNSWXCtpk8YEZWUcp5X9yFYXyRJbCbm5FCRJvZyvK29sy",
+    "description": "NFTBoxes are a curated monthly box of NFTs on the newest gold standard of NFT technology.\n\nBox Name: Genesis Box\n\nBox Series: Main\n\nBox Theme: Innovators",
+    "name": "Genesis Box #1",
+    "attributes": [
+      {
+        "trait_type": "box id",
+        "value": "1"
+      },
+      {
+        "trait_type": "box series",
+        "value": "Main"
+      },
+      {
+        "trait_type": "box theme",
+        "value": "Innovators"
+      },
+      {
+        "trait_type": "box edition",
+        "value": "1 of 500"
+      }
+    ]
+  }
+}

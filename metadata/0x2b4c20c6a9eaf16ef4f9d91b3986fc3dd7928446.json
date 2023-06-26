@@ -1,0 +1,98 @@
+{
+  "address": "0x2b4c20c6a9eaf16ef4f9d91b3986fc3dd7928446",
+  "type": "ERC721",
+  "name": "Splunkatz",
+  "tokenCount": "2",
+  "uri": "ipfs://QmXZq886qaFRuEd2A28C7Vu9zEBWxB9xJxfmJV8haVNxav/1.json",
+  "metadata": {
+    "name": "Splunkatz #1",
+    "description": "Cubic Punks-Home of Eye Candy Collectibles ",
+    "image": "ipfs://bafybeicl7emimgaqv3klm5ty47o7ga64keed5lvnnpg7mwhltvu63vikoa/1.png",
+    "dna": "f94f733060ae25849e9ef751739d0d16293ec169",
+    "edition": 1,
+    "date": 1649619477008,
+    "seller_fee_basis_points": 250,
+    "collection": {
+      "name": "Splunkatz",
+      "family": "Cubic Punks - Home of Eye Candy Collectibles"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x936B1037A13E4c56D5c9e079aEa24235C1E78BD6",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "GradPinkR"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Combo9"
+      },
+      {
+        "trait_type": "Back",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Fur Outer",
+        "value": "FurOuter03"
+      },
+      {
+        "trait_type": "Fur Dots",
+        "value": "FurDots02"
+      },
+      {
+        "trait_type": "Fur Extra",
+        "value": "FurExtra05"
+      },
+      {
+        "trait_type": "Fur Spikes",
+        "value": "FurSpikes07"
+      },
+      {
+        "trait_type": "Headphones",
+        "value": "NoHPhones"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "DreadLocks04"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose04"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eyes03"
+      },
+      {
+        "trait_type": "Whiskers",
+        "value": "Whiskers05"
+      },
+      {
+        "trait_type": "Hair Outer",
+        "value": "OHairPurp"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "SherrifHat"
+      },
+      {
+        "trait_type": "Neck Bling",
+        "value": "NoBling"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

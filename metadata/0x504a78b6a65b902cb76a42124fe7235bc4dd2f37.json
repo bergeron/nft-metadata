@@ -1,0 +1,32 @@
+{
+  "address": "0x504a78b6a65b902cb76a42124fe7235bc4dd2f37",
+  "type": "ERC721",
+  "name": "MoonshotBot",
+  "tokenCount": "5",
+  "uri": "https://infiNFT.azurewebsites.net/api/HttpTrigger?artContract=0x504a78b6a65b902cb76a42124fe7235bc4dd2f37&id=1",
+  "metadata": {
+    "image": "https://gateway.pinata.cloud/ipfs/QmPkfUqqbwCr1JkRJtiKWkJzFQVMSK79yXvxsQLSYFRswV",
+    "description": "Adelyn - a moonshotbot",
+    "animation_url": "",
+    "external_url": "https://www.infinft.com/view.html?artistcontract=0x504a78b6a65b902cb76a42124fe7235bc4dd2f37&token=1",
+    "name": "Adelyn",
+    "attributes": [
+      {
+        "trait_type": "artist name",
+        "value": "MoonshotBot"
+      },
+      {
+        "trait_type": "edition number",
+        "value": "1 of 1"
+      },
+      {
+        "trait_type": "exhibition",
+        "value": ""
+      },
+      {
+        "trait_type": "file type",
+        "value": "png"
+      }
+    ]
+  }
+}

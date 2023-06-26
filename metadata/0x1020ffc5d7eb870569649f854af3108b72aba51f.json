@@ -1,0 +1,41 @@
+{
+  "address": "0x1020ffc5d7eb870569649f854af3108b72aba51f",
+  "type": "ERC721",
+  "name": "VOZTAG",
+  "tokenCount": "25",
+  "uri": "ipfs://bafybeibikoyz2npudop3zejgeiwegwy3ay3k74x3xawdn2zd3hstrkuufi/1.json",
+  "metadata": {
+    "name": "VOZTAG #1",
+    "description": "VOZTAG is a worldwide movement for bringing together humans with similar interests.",
+    "external_url": "https://opensea.io/VOZTAG",
+    "image": "ipfs://bafybeibhtm4ofqke7mmvcuatr5teucefw5jqdjrmvhuyu4uyhjeenalr5a/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "VOZTAG linear navy blue to lavander color background 33"
+      },
+      {
+        "trait_type": "VOZTAG",
+        "value": "VOZTAG Wingsuit flying"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "VOZTAG",
+      "family": "VOZTAG"
+    },
+    "symbol": ""
+  }
+}

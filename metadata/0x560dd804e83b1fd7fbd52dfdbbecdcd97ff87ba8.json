@@ -1,0 +1,56 @@
+{
+  "address": "0x560dd804e83b1fd7fbd52dfdbbecdcd97ff87ba8",
+  "type": "ERC721",
+  "name": "XONE's Metaverse Motel",
+  "tokenCount": "101",
+  "uri": "https://metadata.metamundo.co/0x560dd804e83b1fd7fbd52dfdbbecdcd97ff87ba8/1",
+  "metadata": {
+    "name": "XONE's Metaverse Motel",
+    "description": "Your XONE's Metaverse Motel is your immersive space where you can showcase your passions and collectibles and hang out with your friends. Our exclusive MetaMundo x XONE NFT collection launches 100 unique XONES. Holders will be able to customize and explore their XONES via our mobile application. This collection is inspired by endless roads in the middle of nowhere, 1950's motel aesthetic and the coloring and composition of some of the most iconic filmmakers. XONE's vision is to let anyone share their world in a new type of content format, while utilizing web3 features to provide ownership and empower creators. On XONE you can visit immersive worlds, discover new communities, and create your own spaces.",
+    "image": "https://ipfs.metamundo.co/ipfs/QmYWY477eFDWLFUmHQVLxmZ853X1CQ7AzzMDKK2CTNxfSC/XONE_feature_image.jpg",
+    "animation_url": "",
+    "audio_url": "",
+    "external_url": "https://metamundo.co/xone/xone-metaverse-motel",
+    "model_type": [],
+    "attributes": [],
+    "additional_files": [],
+    "metaverse_models": [
+      {
+        "format": "GLB",
+        "models": [
+          {
+            "name": "highest fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/XONE/XONE/XONE_HighestFidelityFile_GLB.glb",
+            "image": null,
+            "animation_url": null
+          },
+          {
+            "name": "high fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/XONE/XONE/XONE_HigherFidelity_GLB.glb",
+            "image": null,
+            "animation_url": null
+          },
+          {
+            "name": "lower fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/XONE/XONE/XONE_LowerFidelity_GLB.glb",
+            "image": null,
+            "animation_url": null
+          }
+        ]
+      },
+      {
+        "format": "FBX",
+        "models": [
+          {
+            "name": "lower fidelity",
+            "url": "https://metamundo-3d-models.s3.eu-central-1.amazonaws.com/XONE/XONE/XONE_LowerFidelity_FBX.fbx",
+            "image": null,
+            "animation_url": null
+          }
+        ]
+      }
+    ],
+    "metafield": "© 2023 XONE, All Rights Reserved.",
+    "End User Licensing Agreement": "https://ipfs.metamundo.co/ipfs/QmYWY477eFDWLFUmHQVLxmZ853X1CQ7AzzMDKK2CTNxfSC/End%20User%20License%20Agreement%20XONE%20x%20XONE%27s%20Metaverse%20Motel.pdf"
+  }
+}

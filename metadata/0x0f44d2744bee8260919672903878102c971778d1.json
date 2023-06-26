@@ -1,0 +1,56 @@
+{
+  "address": "0x0f44d2744bee8260919672903878102c971778d1",
+  "type": "ERC721",
+  "name": "ENKIVERSE",
+  "tokenCount": "7",
+  "uri": "https://arweave.net/RHs1d4udXDM7bW86ZtbHGSkEvimDXRoPv7DlrdBdHP0",
+  "metadata": {
+    "name": "Ulysses",
+    "created_by": "Harry Zed Hughes",
+    "external_url": "https://www.enki-verse.com/",
+    "description": "\"Day after day, day after day, \nWe stuck, nor breath nor motion; \nAs idle as a painted ship \nUpon a painted ocean....  \nAbout, about, in reel and rout \nThe death-fires danced at night; \nThe water, like a witch's oils, \nBurnt green, and blue and white.\" \nCOLERIDGE\n\nTime is fixed in perpetual motion. We are always now.\n\nThis is a single edition animation of an original oil painting.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Harry Zed Hughes"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": "0"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "value": "1",
+        "max_value": "1"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Animated oil painting"
+      }
+    ],
+    "animation_details": {
+      "bytes": 378506,
+      "format": "MP4",
+      "duration": 3,
+      "sha256": "87142ebabde7c31340205c2a4d8fa5106bc4cb1e64d437b6809e778edd724b27",
+      "width": 1066,
+      "height": 800,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/dYZwUw6p2mi_qYkt8tW58gcGd9HMyRPvd5DvuMEL0zI",
+    "animation_url": "https://arweave.net/dYZwUw6p2mi_qYkt8tW58gcGd9HMyRPvd5DvuMEL0zI",
+    "image_details": {
+      "bytes": 3999416,
+      "format": "GIF",
+      "sha256": "b71afacac0b8ac0af3e1f63c915851a5c40b0d8ded982b83bb44a50be3f6368a",
+      "width": 600,
+      "height": 450
+    },
+    "image": "https://arweave.net/Cd7fmpvkDqXrb7UDQKsCjWSASeI_FgslA9jw4y0xasU",
+    "image_url": "https://arweave.net/Cd7fmpvkDqXrb7UDQKsCjWSASeI_FgslA9jw4y0xasU"
+  }
+}

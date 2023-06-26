@@ -1,0 +1,46 @@
+{
+  "address": "0xe141bbadf09deb18c3304887b0a88d7e87668b33",
+  "type": "ERC721",
+  "name": "Sandducks",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmQfJQS4FGEQzNfY3E7gDSfVJ4PBcR9dnPaiEsNJmW16Zw/Duck1.json",
+  "metadata": {
+    "name": "Duck #1",
+    "description": "Properties",
+    "image": "ipfs://QmXHyBhrtS2g7mR9y3areZJR34DLpRxhD6mwr977NYPnJk/Duck1.gif",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background Green"
+      },
+      {
+        "trait_type": "Feet",
+        "value": " Purple Feet"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Purple feathers"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Necklace"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "Pink Beak"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tongue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LED Glasses"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Pizza"
+      }
+    ]
+  }
+}

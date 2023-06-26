@@ -1,0 +1,41 @@
+{
+  "address": "0x0c0ceaf0e07d42bddf033a5e64a6f4acf0506f11",
+  "type": "ERC721",
+  "name": "Doc Roto 1:1",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/8-ETzZ3Nm5MUZdnuXVZWZRBNlCztTUbCPavLsKWZtec",
+  "metadata": {
+    "name": "Flat Earth",
+    "created_by": "docroto",
+    "description": "The ocean's edge in a blockchain world where the Earth is flat. 12 second loop. Owner can request 3000x3000 pixel after purchase.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "docroto"
+      }
+    ],
+    "animation_details": {
+      "bytes": 22853495,
+      "format": "MP4",
+      "duration": 12,
+      "sha256": "869e573286af024cb874ed091d3bbbf2fa609be21cf5bf06c8b8e92bfb35b343",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/jYt5aKmcUE0atnr38FL6v_eXJ6aKAVaoT2gXOnJlpno",
+    "animation_url": "https://arweave.net/jYt5aKmcUE0atnr38FL6v_eXJ6aKAVaoT2gXOnJlpno",
+    "image_details": {
+      "bytes": 5759516,
+      "format": "PNG",
+      "sha256": "c2077077cd48bfda487cea3a067ee68ee25a9da4f2b245173cf86c5fbc660610",
+      "width": 2158,
+      "height": 2155
+    },
+    "image": "https://arweave.net/g9xfsLCDBeWPgpxKqycJZQwGbWsZlFUEV02kaN4jkTI",
+    "image_url": "https://arweave.net/g9xfsLCDBeWPgpxKqycJZQwGbWsZlFUEV02kaN4jkTI"
+  }
+}

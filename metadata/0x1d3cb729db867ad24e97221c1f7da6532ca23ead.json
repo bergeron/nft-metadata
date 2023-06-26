@@ -1,0 +1,35 @@
+{
+  "address": "0x1d3cb729db867ad24e97221c1f7da6532ca23ead",
+  "type": "ERC721",
+  "name": "AmongEm",
+  "tokenCount": "4444",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmXBn2qe472jdFBVX6Ya3EZUPzBVsSYb8hiM7X6hatg3SQ/1.json",
+  "metadata": {
+    "name": "AmuongEm #1",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVWjEhVZE4fBSLKcNBWTds7PG2YEtrxSG3bGNzWrGBR1i/1.jpeg",
+    "description": "You're acting kinda sus....",
+    "token_id": "1",
+    "attributes": [
+      {
+        "value": "rectangl1",
+        "rare": "Normal",
+        "trait_type": "Background"
+      },
+      {
+        "value": "green",
+        "rare": "Normal",
+        "trait_type": "Player"
+      },
+      {
+        "value": "shotgun",
+        "rare": "Legendary",
+        "trait_type": "Weapon"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Rarity",
+        "value": 33
+      }
+    ]
+  }
+}

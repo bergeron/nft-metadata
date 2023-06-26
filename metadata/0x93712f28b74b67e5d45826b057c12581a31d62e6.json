@@ -1,0 +1,19 @@
+{
+  "address": "0x93712f28b74b67e5d45826b057c12581a31d62e6",
+  "type": "ERC1155",
+  "name": "Ape Galaxy DAO Voting Token",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeigt523fv3zdwtrvf6vfzsixkekssgzcbfkl7y5gj4khh32d7gue4i/metadata/1.json",
+  "metadata": {
+    "description": "This temporary token allows for one vote in all upcoming Ape Galaxy proposals until it is replaced by the Death Ape collection release.",
+    "image": "ipfs://bafybeiazqw2g54ehdmfjromikekwt3arbjj7acf6nlpu6zpyumbobk5mbm/images/1.gif",
+    "name": "AG DAO Vote",
+    "external_link": "http://apegalaxy.io/",
+    "attributes": [
+      {
+        "trait_type": "APY War Status",
+        "value": "Survivor"
+      }
+    ]
+  }
+}

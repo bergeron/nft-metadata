@@ -1,0 +1,42 @@
+{
+  "address": "0x2e4edc93d0b7678fda18d43f23a065629c73806a",
+  "type": "ERC721",
+  "name": "ApeLanders NFT",
+  "tokenCount": "2222",
+  "uri": "ipfs://QmXRw7Yxs2TX6jWaYfWBPoH4Uuv37Y8p8eWdd9de9Nzs4j/1.json",
+  "metadata": {
+    "name": "ApeLander #1",
+    "description": "",
+    "image": "ipfs://QmWE99dG6AMiJ6eBeGF2p4wjXAaN9U7s9sCwmXa4mMD8Lo/1.png",
+    "dna": "e6b7b5dcc73b743af7317586a38a8ee4fa846e97",
+    "edition": 1,
+    "date": 1645712104494,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lime"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Fuchsia"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "Blue Sweater"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Buck Tooth"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bowler"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bored"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

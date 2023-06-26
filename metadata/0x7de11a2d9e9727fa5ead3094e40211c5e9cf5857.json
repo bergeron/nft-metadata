@@ -1,0 +1,25 @@
+{
+  "address": "0x7de11a2d9e9727fa5ead3094e40211c5e9cf5857",
+  "type": "ERC721",
+  "name": "Forgotten Runes Beast Spawn",
+  "tokenCount": "294",
+  "uri": "https://portal.forgottenrunes.com/api/spawn/data/1",
+  "metadata": {
+    "name": "Chimera Cub stretching",
+    "background": "000000",
+    "image": "https://portal.forgottenrunes.com/api/spawn/img/1",
+    "attributes": [
+      {
+        "trait_type": "Temperament",
+        "value": "Relaxed"
+      },
+      {
+        "trait_type": "Species",
+        "value": "Chimera"
+      }
+    ],
+    "group": "Chaos Chimera",
+    "groupId": 1,
+    "groupIdx": 1
+  }
+}

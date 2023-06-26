@@ -1,0 +1,28 @@
+{
+  "address": "0xe4d0301f9ff64358bb995fe06ccb4b2456abc6e3",
+  "type": "ERC721",
+  "name": "Donate Color U",
+  "tokenCount": "1",
+  "uri": "data:application/json;base64,eyJuYW1lIjogIkRvbmF0ZUNvbG9yVSAjMSIsICJkZXNjcmlwdGlvbiI6ICJUaGUgRG9uYXRpb24gU291dmVuaXIiLCAiaW1hZ2VfZGF0YSI6ICI8c3ZnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZycgcHJlc2VydmVBc3BlY3RSYXRpbz0neE1pbllNaW4gbWVldCcgdmlld0JveD0nMCAwIDM2MCAyNDAnPjxyZWN0IHg9JzAnIHk9JzAnIHdpZHRoPScxODAnIGhlaWdodD0nMTAwJScgZmlsbD0nIzUxNGNmOScgLz48cmVjdCB4PScxODAnIHk9JzAnIHdpZHRoPScxODAnIGhlaWdodD0nMTAwJScgZmlsbD0nIzUyN2NlMScgLz48L3N2Zz4iLCAiYXR0cmlidXRlcyI6IFt7InRyYWl0X3R5cGUiOiAiVGhhbmtzIGZvciIsICJ2YWx1ZSI6ICIweDljNTdjYjM0YTYyMDYzODRiNGRmMDgxYzdhYTdiMGYyMGQ0ZGFiYjAifSwgeyJkaXNwbGF5X3R5cGUiOiAiYm9vc3RfbnVtYmVyIiwgInRyYWl0X3R5cGUiOiAiQW1vdW50cyIsICJ2YWx1ZSI6IDEwMDAwMDAwMDAwMDAwMDAwfSwgeyJkaXNwbGF5X3R5cGUiOiAiZGF0ZSIsICJ0cmFpdF90eXBlIjogIkRvbmF0ZSB0aW1lIiwgInZhbHVlIjogMTY1MzUwNTg1Mn1dfQ==",
+  "metadata": {
+    "name": "DonateColorU #1",
+    "description": "The Donation Souvenir",
+    "image_data": "<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 360 240'><rect x='0' y='0' width='180' height='100%' fill='#514cf9' /><rect x='180' y='0' width='180' height='100%' fill='#527ce1' /></svg>",
+    "attributes": [
+      {
+        "trait_type": "Thanks for",
+        "value": "0x9c57cb34a6206384b4df081c7aa7b0f20d4dabb0"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Amounts",
+        "value": 10000000000000000
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Donate time",
+        "value": 1653505852
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "address": "0xa7fcd1b8427488c6ff76eef941a23eea908f03e5",
+  "type": "ERC721",
+  "name": "Tubby Bears",
+  "tokenCount": "4000",
+  "uri": "ipfs://QmbxWttwGxD1ZJN3T8YJWadjpLqF54xCchKYzDfsRUFKi4/1.json",
+  "metadata": {
+    "dna": "015353683a341caaec5476f85e7f821f47156902",
+    "name": "#1",
+    "description": "4,000 tubby bears rawring on the blockchain.",
+    "image": "ipfs://QmepUHMTRx6Uzb3XvVnyTntsQdKRtQQYdUBiR55RpAMxTG/1.png",
+    "edition": 1,
+    "date": 1646032483953,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Base",
+        "value": "diamond"
+      },
+      {
+        "trait_type": "Special",
+        "value": "none"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "angry thin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "cat"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "tongue"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "funny"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "blue sweater"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "party"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "honey jar"
+      }
+    ],
+    "compiler": "TubbyBearsDeployer"
+  }
+}

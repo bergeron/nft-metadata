@@ -1,0 +1,50 @@
+{
+  "address": "0x8cae61967466ebbf15c12dc802b29594bc04efc6",
+  "type": "ERC721",
+  "name": "Chungos",
+  "tokenCount": "8888",
+  "uri": "ipfs://bafybeifm5bnzc3oqrbyr6j6r2mmamdrism67k4ozecujv5ln4lgnmuufu4/1.json",
+  "metadata": {
+    "name": "Chungos #1",
+    "description": "8888 Chungos",
+    "image": "ipfs://bafybeifokemovozgkzdswmj2exrljppk27cfkfs6jhsv4cevyunl5kcpfq/1.png",
+    "imageHash": "a6428240f64bff343bb50c34472f5fe9a13b051fbcf379cf92cd5199c0bd8612",
+    "edition": 1,
+    "date": 1675411958735,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Suit"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Teethy"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Flat"
+      },
+      {
+        "trait_type": "Brows",
+        "value": "NoBrow"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Energy"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Tired"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  }
+}

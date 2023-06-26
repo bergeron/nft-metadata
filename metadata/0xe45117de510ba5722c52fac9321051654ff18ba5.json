@@ -1,0 +1,137 @@
+{
+  "address": "0xe45117de510ba5722c52fac9321051654ff18ba5",
+  "type": "ERC721",
+  "name": "924sadf454ewrq",
+  "tokenCount": "256",
+  "uri": "https://api.artblocks.io/token/358000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "358000001",
+    "series": "N/A",
+    "aspect_ratio": 1.5,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Arcadia #1",
+    "minted": true,
+    "artist": "Zachariah Watson",
+    "description": "*Arcadia* is a homage to the fridge-worthy landscape art of our youth. Childhood techniques of creating art are re-imagined by the scribbles of a nostalgic, computer-assisted mind.\n\n**Spacebar**: Skip animation and load final image (useful when rendering in high resolutions)\n**Up arrow**: Speed scribbles up (default speed is the highest)\n**Down arrow**: Slow scribbles down",
+    "script_type": "p5@1.0.0",
+    "project_id": "358",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/358000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/358000001.png",
+    "generator_url": "https://generator.artblocks.io/358000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/358000001",
+    "royaltyInfo": {
+      "artistAddress": "0xcfbb768056eead90e8966086761769a1bbb67420",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Arcadia by Zachariah Watson",
+    "website": "https://zchwtsn.com/work/arcadia",
+    "token_hash": "0xa473f9dc483fa4d6c333867ea9d5d2bfd2d4960e003810b4dc1530b87f84cec3",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/358/tokens/358000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/358000001",
+    "features": {
+      "Border": "none",
+      "Palette": "Bird Dog",
+      "Sun Type": "normal",
+      "Has Rocks": true,
+      "Land Type": "path",
+      "Rock Size": "medium",
+      "Cloud Type": "none",
+      "Grass Height": "medium",
+      "Rock Density": "low",
+      "Cloud Density": "n/a",
+      "Grass Density": "medium",
+      "Mountain Type": "normal",
+      "Scribble Type": "random",
+      "Mountain Height": "short",
+      "Scribble Pressure": "high",
+      "Scribble Roughness": "varied",
+      "Mountain Jaggedness": "high",
+      "Alternate Paper Color": false
+    },
+    "traits": [
+      {
+        "trait_type": "Arcadia",
+        "value": "All Arcadias"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Border: none"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Palette: Bird Dog"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Sun Type: normal"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Has Rocks: true"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Land Type: path"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Rock Size: medium"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Cloud Type: none"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Grass Height: medium"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Rock Density: low"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Cloud Density: n/a"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Grass Density: medium"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Mountain Type: normal"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Scribble Type: random"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Mountain Height: short"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Scribble Pressure: high"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Scribble Roughness: varied"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Mountain Jaggedness: high"
+      },
+      {
+        "trait_type": "Arcadia",
+        "value": "Alternate Paper Color: false"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

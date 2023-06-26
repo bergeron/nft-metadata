@@ -1,0 +1,44 @@
+{
+  "address": "0x2e36c14e32a18045ac38f582c5d06f97cc95e107",
+  "type": "ERC721",
+  "name": "Blitzzz",
+  "tokenCount": "16",
+  "uri": "ipfs://QmNYihxW8xWDc2N4qKkr7TMGE5ULQhCxbWqepQQ41ALqWv/1",
+  "metadata": {
+    "name": "Cool Cat Processing Blitz #1",
+    "image": "ipfs://QmWHhVt4mHjtXWZVQUVspaQ1wEZhWTb4g23ZmYQbzUHj4Q",
+    "source": {
+      "blitmap": "https://api.blitmap.com/v1/png/664",
+      "dreamloop": "https://bitlectrolabs.mypinata.cloud/ipfs/QmW5nygeqSnLUknevnNscb5A5JZTAVYLtWUoMqS4jxtVrx/music/moody3_beat13.mp3",
+      "background": "Water",
+      "blitmapOriginal": false
+    },
+    "attributes": [
+      {
+        "value": "Sibling",
+        "trait_type": "Blitmap Type"
+      },
+      {
+        "value": "Cool Cat (#64)",
+        "trait_type": "Blitmap Composition"
+      },
+      {
+        "value": "Processing (#22)",
+        "trait_type": "Blitmap Palette"
+      },
+      {
+        "value": "Moody 3",
+        "trait_type": "Song Title"
+      },
+      {
+        "value": "Beat 13",
+        "trait_type": "Percussion"
+      },
+      {
+        "value": "Water",
+        "trait_type": "Background"
+      }
+    ],
+    "description": "Blitzzz are what happens when you fuse a Dreamloop NFT with a Blitmap NFT. For more information go to [mint.niftyfuse.me](https://mint.niftyfuse.me/)."
+  }
+}

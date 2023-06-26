@@ -1,0 +1,92 @@
+{
+  "address": "0x338d8368ba63f218fceb32cf142497a374babe32",
+  "type": "ERC721",
+  "name": "ETHouses",
+  "tokenCount": "54",
+  "uri": "https://ethouses.io/m/0x0000000000000000000000000000000000000001",
+  "metadata": {
+    "name": "0x0000000000000000000000000000000000000001",
+    "description": "[ETHouse for 0x0000000000000000000000000000000000000001](https://ethouses.io/0x0000000000000000000000000000000000000001). A 100% on-chain, extensible, generative art project, where every Ethereum address is represented by a unique NFT.",
+    "animation_url": "https://ethouses.io/h/0x0000000000000000000000000000000000000001",
+    "external_url": "https://ethouses.io/0x0000000000000000000000000000000000000001",
+    "image": "https://firebasestorage.googleapis.com/v0/b/ethouses-90076.appspot.com/o/houses%2F0x0000000000000000000000000000000000000001.png?alt=media",
+    "attributes": [
+      {
+        "value": "DARK",
+        "trait_type": "side"
+      },
+      {
+        "trait_type": "DISTANCETOSIDE",
+        "value": "1"
+      },
+      {
+        "max_value": 300,
+        "value": 1,
+        "trait_type": "distanceToSide"
+      },
+      {
+        "trait_type": "DISTANCETOZERO",
+        "value": "1"
+      },
+      {
+        "max_value": 600,
+        "value": 1,
+        "trait_type": "distanceToZero"
+      },
+      {
+        "trait_type": "DISTANCETOF",
+        "value": "599"
+      },
+      {
+        "max_value": 600,
+        "value": 599,
+        "trait_type": "distanceToF"
+      },
+      {
+        "trait_type": "MAXREPETITION",
+        "value": "39"
+      },
+      {
+        "max_value": 40,
+        "value": 39,
+        "trait_type": "maxRepetition"
+      },
+      {
+        "trait_type": "MAXSTRAIGHT",
+        "value": "2"
+      },
+      {
+        "max_value": 16,
+        "value": 2,
+        "trait_type": "maxStraight"
+      },
+      {
+        "value": "#000000",
+        "trait_type": "wallFrontColor"
+      },
+      {
+        "value": "#000000",
+        "trait_type": "roofFrontColor"
+      },
+      {
+        "value": "#000000",
+        "trait_type": "roofBackColor"
+      },
+      {
+        "value": "#000001",
+        "trait_type": "wallBackColor"
+      },
+      {
+        "display_type": "number",
+        "value": 3,
+        "trait_type": "numberOfHouseColors"
+      },
+      {
+        "value": "rainbowWindows"
+      },
+      {
+        "value": "grassBG"
+      }
+    ]
+  }
+}

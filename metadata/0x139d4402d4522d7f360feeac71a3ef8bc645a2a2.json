@@ -1,0 +1,38 @@
+{
+  "address": "0x139d4402d4522d7f360feeac71a3ef8bc645a2a2",
+  "type": "ERC721",
+  "name": "cars4mfers",
+  "tokenCount": "2",
+  "uri": "ipfs://QmdJY16nryEsdoTwLEkZAhgpradVk3FHrr1pN7nnxhfbUC/1.json",
+  "metadata": {
+    "name": "carfer #1",
+    "description": "Just cars 4 mfers. Because mfers have a long journey ahead. Compatible with all mfers and derivatives. ",
+    "image": "ipfs://QmWJUpUgBDcpEU4i4hJmY4zobqK6VwNHxig9dfV6vF8YzM/1.png",
+    "dna": "220834075c74fe554c22ed7c35da2d0bca3d621a",
+    "edition": 1,
+    "date": 1646168764241,
+    "attributes": [
+      {
+        "trait_type": "body",
+        "value": "Square Yellow"
+      },
+      {
+        "trait_type": "extras",
+        "value": "Rainbow Flag"
+      },
+      {
+        "trait_type": "steering",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "stickers",
+        "value": "Mfer"
+      },
+      {
+        "trait_type": "wheels",
+        "value": "Fat"
+      }
+    ],
+    "compiler": "Maniac Engine"
+  }
+}

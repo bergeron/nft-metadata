@@ -1,0 +1,69 @@
+{
+  "address": "0x02edcae1e1ebbcd12eacedfe642b7e470295ffe4",
+  "type": "ERC721",
+  "name": "Max Schweder - Einklang",
+  "tokenCount": "1",
+  "uri": "ipfs://QmUxgm4UXc6jR9G8SoqcZL8eTJx2uKAXyYNLGAwgZdBo5a",
+  "metadata": {
+    "name": "Max Schweder - Einklang Outro - Musik x Digitale Kunst",
+    "description": "OUTRO\nThis is the recording of the outro of No! by Bukahara in the Version of d’accord, visualized by Max Schweder.\n\nVerisart Certified: https://verisart.com/works/bd681f82-cd5b-4828-8428-6bba4253987e",
+    "image": "ipfs://QmUMyi6VD2r63fhrMBTgsYeqMMHRX6yR4h3NFUB1doVd1H",
+    "properties": {
+      "verisart": {
+        "productionYear": 2022,
+        "dimensions": {
+          "width": 1512,
+          "height": 864,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 51
+        },
+        "frameRate": 60,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xc9b5a459f3f09a80e8b57d26a9b491dabf4d6ff4",
+            "bps": 400
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "animation_url": "ipfs://Qme6AeLp5Sc6qvXSzRgfkxwwUTrdy9LoxNpkWH8j2doPgn",
+    "external_url": "https://verisart.com/works/bd681f82-cd5b-4828-8428-6bba4253987e",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Max Schweder"
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Title",
+        "value": "Max Schweder - Einklang Outro - Musik x Digitale Kunst"
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "864x1512 px"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:51"
+      }
+    ]
+  }
+}

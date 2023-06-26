@@ -1,0 +1,43 @@
+{
+  "address": "0x23cfd0784440411e520d7f0b6f0c4ef338d80cfc",
+  "type": "ERC721",
+  "name": "good luck world",
+  "tokenCount": "10",
+  "uri": "https://arweave.net/jclGRugTj5Dxlqu6I_ROJ-QnNuDJCri2U4dOZtIOMfc",
+  "metadata": {
+    "name": "eternal promise",
+    "created_by": "max",
+    "description": "acrylic, paint pen, and spraypaint on 18 x 18” canvas. first token on my artist-owned contract (via manifold).\n\nthis piece is a promise to continue on my path + my formal introduction of \"the watcher.\"\n\ncollector has the option to redeem the original physical painting (18x18\").",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "max"
+      },
+      {
+        "trait_type": "Medium",
+        "value": "Acrylic"
+      },
+      {
+        "trait_type": "Medium",
+        "value": "Paint Pen"
+      },
+      {
+        "trait_type": "Medium",
+        "value": "Spray Paint"
+      },
+      {
+        "trait_type": "Redemption",
+        "value": "Physical Painting"
+      }
+    ],
+    "image_details": {
+      "bytes": 14587839,
+      "format": "JPEG",
+      "sha256": "2bab3c739f2051043de57befee5058af76298460ca63d3657ec9e43552df2b1c",
+      "width": 3034,
+      "height": 3017
+    },
+    "image": "https://arweave.net/91fd6h3ztYfVkcCqlhsoNBicU-UZgo-2Cp6avqaZrEU",
+    "image_url": "https://arweave.net/91fd6h3ztYfVkcCqlhsoNBicU-UZgo-2Cp6avqaZrEU"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0xa6248aa769e647f467f9bf21a6ae81739055d978",
+  "type": "ERC721",
+  "name": "TOADLES NFTS",
+  "tokenCount": "32",
+  "uri": "ipfs://QmYJ6PwzzQ5aQMEw3t2x9JMAnfDUCuA6HN3o3DxW86HCTg/1.json",
+  "metadata": {
+    "name": "Toadles #1",
+    "description": "Toadles",
+    "image": "ipfs://QmWMFnyj3erDbV3gGGs3VStdM3Kwru16jDWb7cBf86tmG6/1.png",
+    "dna": "3cce3d3387617444149cf1aa74c6c57911fefa8b",
+    "edition": 1,
+    "date": 1642215462671,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Annoyed"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "GrenHelmet"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Hungry"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

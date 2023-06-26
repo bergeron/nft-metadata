@@ -1,0 +1,21 @@
+{
+  "address": "0xf148d05e4d649244668aef684c2d4537e4595546",
+  "type": "ERC721",
+  "name": "Color Sale",
+  "tokenCount": "15",
+  "uri": "https://color-sale.s3.amazonaws.com/1",
+  "metadata": {
+    "name": "Color #4B5F81",
+    "attributes": [
+      {
+        "trait_type": "HEX",
+        "value": "#4B5F81"
+      },
+      {
+        "trait_type": "RGB ",
+        "value": "rgb(75,95,129)"
+      }
+    ],
+    "image": "https://api.color.sale/get/4B5F81/1x1"
+  }
+}

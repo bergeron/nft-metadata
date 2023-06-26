@@ -1,0 +1,42 @@
+{
+  "address": "0x0fdd06bb9fdb0495322004b142d9293080c94008",
+  "type": "ERC721",
+  "name": "Memefi Summer",
+  "tokenCount": "533",
+  "uri": "ipfs://bafybeie6hgl35wdsngo2kme2odsuc2ylfctonrjbbep6i76bnshfyajbq4/1.json",
+  "metadata": {
+    "name": "Memefi #1",
+    "description": "Welcome to the memefi summer.",
+    "image": "ipfs://bafybeieh5ogu2kz44ji2zxnjtyvbmvxwh2rqomxxey6ozpqnslmpnabijm/1.png",
+    "dna": "4b449cd23d9e4afe1e5e48c3ea2e839e60bfa59b",
+    "edition": 1,
+    "date": 1672568292713,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Plain Purple"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Basic Pepe"
+      },
+      {
+        "trait_type": "Body",
+        "value": "TShirt1"
+      },
+      {
+        "trait_type": "Head Accessories",
+        "value": "McDonalds Cap"
+      },
+      {
+        "trait_type": "Mouth Accessories",
+        "value": "Wheat"
+      },
+      {
+        "trait_type": "Eyes Accessories",
+        "value": "Orange Glasses"
+      }
+    ],
+    "compiler": "Pepe"
+  }
+}

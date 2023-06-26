@@ -1,0 +1,38 @@
+{
+  "address": "0x6017700503421c23e26242f956b879a380e547c9",
+  "type": "ERC721",
+  "name": "Motorheadz(ETH)",
+  "tokenCount": "808",
+  "uri": "https://motorheadz.s3.us-west-1.amazonaws.com/metadata/1.json",
+  "metadata": {
+    "name": "motor head #1",
+    "description": "vroom vroom",
+    "image": "https://motorheadz.s3.us-west-1.amazonaws.com/images/1.png",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "rose"
+      },
+      {
+        "trait_type": "body",
+        "value": "reptile"
+      },
+      {
+        "trait_type": "outfit",
+        "value": "black tee"
+      },
+      {
+        "trait_type": "chain",
+        "value": "gold"
+      },
+      {
+        "trait_type": "helmet",
+        "value": "vaporwave bmx"
+      },
+      {
+        "trait_type": "visor",
+        "value": "noir"
+      }
+    ]
+  }
+}

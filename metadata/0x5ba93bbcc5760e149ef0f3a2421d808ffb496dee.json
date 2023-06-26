@@ -1,0 +1,27 @@
+{
+  "address": "0x5ba93bbcc5760e149ef0f3a2421d808ffb496dee",
+  "type": "ERC721",
+  "name": "Official0xygenSAMPLE",
+  "tokenCount": "2",
+  "uri": "https://infura-ipfs.io/ipfs/QmdJuEVBv5QXTNpP4cRqTUZAHKNTwQCyhBtywQSAhNNXyy/1",
+  "metadata": {
+    "name": "0xygen Demo NFT",
+    "description": "Hello from Team 0xygen! We're creating blockchain bridging tools for game devs.",
+    "image": "https://bafybeieobj2wlwgc5jharz3slrp326ppbppveznxsubd3tsc3fpbh3seby.ipfs.infura-ipfs.io/0xLogo.png",
+    "external_url": "https://www.0xygen.io",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "logo"
+      },
+      {
+        "trait_type": "Text",
+        "value": "0x"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Tool"
+      }
+    ]
+  }
+}

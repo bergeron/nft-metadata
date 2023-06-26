@@ -1,0 +1,36 @@
+{
+  "address": "0x56a871736383d1647e5ab0f8e2b36bf7ce3ef127",
+  "type": "ERC721",
+  "name": "Degen Dudes Genesis",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeihu53w7rl4c2g5tzkvcfd32c77exioybdbtupqkahcpajyu26kshq/1.json",
+  "metadata": {
+    "name": "DD#1",
+    "description": "A collection of 50 Degen Dudes",
+    "external_url": "https://emergencyplumbersbromley.co.uk",
+    "image": "ipfs://QmRPXCCccDMhkjmk4Hpt6Ay59iErqqf7SYiVZ6vT4THzxQ/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red Background"
+      },
+      {
+        "trait_type": "Bodywear",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Head ",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Lilac"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

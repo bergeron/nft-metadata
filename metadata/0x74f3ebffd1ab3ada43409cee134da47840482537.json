@@ -1,0 +1,42 @@
+{
+  "address": "0x74f3ebffd1ab3ada43409cee134da47840482537",
+  "type": "ERC721",
+  "name": "Fincake NFT Legendary",
+  "tokenCount": "21",
+  "uri": "https://fincake-metadata-provider.s3.eu-north-1.amazonaws.com/legendary/public/metadata/1.json",
+  "metadata": {
+    "name": "Shark #1",
+    "symbol": "",
+    "description": "NFT Shark for fincake.io DAO",
+    "image": "https://fincake-metadata-provider.s3.eu-north-1.amazonaws.com/legendary/public/assets/1.png",
+    "external_url": "https://fincake.io",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Fincake.io Shark NFT"
+      },
+      "description": {
+        "type": "string",
+        "description": "Allow access to Fincake DAO and other privileges"
+      },
+      "image": {
+        "type": "string",
+        "description": "Exclusive shark image"
+      },
+      "rarity": {
+        "type": "string",
+        "description": "LEGENDARY"
+      }
+    },
+    "attributes": [
+      {
+        "trait_type": "Shark quality",
+        "value": "LEGENDARY"
+      }
+    ],
+    "collection": {
+      "name": "Shark LEGENDARY",
+      "family": "Fincake"
+    }
+  }
+}

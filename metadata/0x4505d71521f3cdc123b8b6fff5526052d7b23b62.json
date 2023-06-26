@@ -1,0 +1,46 @@
+{
+  "address": "0x4505d71521f3cdc123b8b6fff5526052d7b23b62",
+  "type": "ERC721",
+  "name": "Loot (for Accessorized)",
+  "tokenCount": "2",
+  "uri": "ipfs://QmbdJqasKCi8EtzJuWrTtqjh23WLAJsXT9T56CfApoHT5V/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Hat"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "Speed +1"
+      },
+      {
+        "trait_type": "Power",
+        "value": "Invisibility"
+      },
+      {
+        "trait_type": "Animal",
+        "value": "Eagle"
+      },
+      {
+        "trait_type": "Inventory",
+        "value": "Half-Penny"
+      },
+      {
+        "trait_type": "Supplement",
+        "value": "Piercing"
+      }
+    ],
+    "description": "Randomized accessory  generated and stored on chain. Feel free to use it in any way you want.",
+    "image": "https://ipfs.io/ipfs/QmNaZFFpwZaJfAYrfV5PRyfkAsz8p2GubVUXtDMSUo1yaQ?filename=1.svg",
+    "name": "Accessory #1"
+  }
+}

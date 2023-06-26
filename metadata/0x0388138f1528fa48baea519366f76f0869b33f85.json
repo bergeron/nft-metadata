@@ -1,0 +1,61 @@
+{
+  "address": "0x0388138f1528fa48baea519366f76f0869b33f85",
+  "type": "ERC721",
+  "name": "don the dang",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/FwEtg4Nac5qXJEngo1jRpr5hIyNzGdu7Xvn3PIkKgWE/1",
+  "metadata": {
+    "name": "test #1/6",
+    "created_by": "test",
+    "external_url": "https://studio.manifold.xyz",
+    "description": "test",
+    "attributes": [
+      {
+        "trait_type": "artist",
+        "value": "Don dang"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "rank",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "theboost",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "thepercent",
+        "value": 1,
+        "max_value": 10
+      }
+    ],
+    "hidden value": "this is hidden",
+    "animation_details": {
+      "bytes": 9321536,
+      "format": "MP4",
+      "duration": 7,
+      "sha256": "96d99129522f74f468668683170256aeef65666f05b203b9939dfbe95bf9c448",
+      "width": 2160,
+      "height": 3840,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/aL3Ay9XDGQnLyqmr6WJE0a0MI26eNIuI3zrrkO9VW2w",
+    "animation_url": "https://arweave.net/aL3Ay9XDGQnLyqmr6WJE0a0MI26eNIuI3zrrkO9VW2w",
+    "image_details": {
+      "bytes": 17427,
+      "format": "JPEG",
+      "sha256": "90bb7c96417df53de2928f6ffb25af8e7098f386bfe88fe1980e069e40de8e3a",
+      "width": 500,
+      "height": 578
+    },
+    "image": "https://arweave.net/RxjogSB8_EVzejZ9ILb6kV6ktL1OVF6WbrRGNbBVZgM",
+    "image_url": "https://arweave.net/RxjogSB8_EVzejZ9ILb6kV6ktL1OVF6WbrRGNbBVZgM"
+  }
+}

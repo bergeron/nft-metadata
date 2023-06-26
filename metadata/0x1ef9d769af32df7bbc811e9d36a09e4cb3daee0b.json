@@ -1,0 +1,72 @@
+{
+  "address": "0x1ef9d769af32df7bbc811e9d36a09e4cb3daee0b",
+  "type": "ERC721",
+  "name": "Lovely  Squirrels",
+  "tokenCount": "33",
+  "uri": "ipfs://QmcADYWbmZzHKVw79twWvUh5oyu4SCUFBqXxpsYpsQ3u51/1.json",
+  "metadata": {
+    "dna": "04d6f28ca09ee3dedf84e249abedd9a9486164dc",
+    "name": "Lovely Squirrel #1",
+    "description": "Lovely Squirrels are fresh and unique 777 persons. Their mood changes depending on the surrounding circumstances,and just like we sometimes want to misbehave and be independent of the rules. Join the Squirrels fun Universe!.",
+    "image": "ipfs://QmZaFZ1aTkLiJCQnxEfnegpn22byWeSu9qUN4NmRjiygmb/1.png",
+    "edition": 1,
+    "date": 1659011497142,
+    "symbol": "LVLSQRL",
+    "seller_fee_basis_points": 250,
+    "external_url": "https://lovelysquirrels.com",
+    "collection": {
+      "name": "Lovely Squirrels",
+      "family": ""
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x88d6e01CeFe45f7177e370432B30aDC7427e5721",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "ornament_background"
+      },
+      {
+        "trait_type": "ears",
+        "value": "blue_ears"
+      },
+      {
+        "trait_type": "body",
+        "value": "orange_body"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "sad_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "ginger_hair"
+      },
+      {
+        "trait_type": "nose",
+        "value": "green_triangular_nose"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "lips_mouth"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "red_bow_necklace"
+      }
+    ],
+    "compiler": "by compiler"
+  }
+}

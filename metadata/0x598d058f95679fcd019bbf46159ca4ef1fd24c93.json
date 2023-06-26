@@ -1,0 +1,84 @@
+{
+  "address": "0x598d058f95679fcd019bbf46159ca4ef1fd24c93",
+  "type": "ERC721",
+  "name": "Anahita - Images of the flowing ephemeral world",
+  "tokenCount": "18",
+  "uri": "ipfs://QmRqJuGfP4U8CkKxee7hr7XGTAL6hSN8eiGyEQMuhfDSuH",
+  "metadata": {
+    "name": "Utagawa Kunisada (Toyokuni III) - Kabuki (2/3)",
+    "image": "https://ipfs.pinsl.com/ipfs/QmZTniHw78eu1iLFYNNBxqmHsPV8uqervDgnXErAWfLrq5/2df30577-5bf3-4f32-81a1-d56807762014.jpeg",
+    "title": "Utagawa Kunisada (Toyokuni III) - Kabuki (2/3)",
+    "createdAt": "2022-09-08T08:15:03.834Z",
+    "updatedAt": "2022-09-08T08:15:03.834Z",
+    "attributes": [
+      {
+        "trait_type": "Title",
+        "description": "Kabuki"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Utagawa Kunisada (Toyokuni III)"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Repro NFT"
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Edo Period"
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Woodcut"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Utagawa Kunisada (Toyokuni III) - Kabuki (2/3)"
+      },
+      "type": {
+        "type": "string",
+        "description": "reproNFT"
+      },
+      "category": {
+        "type": "string",
+        "description": "scan"
+      },
+      "copyright": {
+        "type": "string",
+        "description": ""
+      },
+      "created_at": {
+        "type": "datetime",
+        "description": "2022-09-08T08:15:03.834Z"
+      },
+      "description": {
+        "type": "string",
+        "description": "Color woodblock print by Utagawa Kunisada (Toyokuni III) showing a Kabuki actor doing his stage make-up. Kabuki was a very popular form of Japanese theater among city dwellers.\"\nOriginal woodcut Edo Periode (1603-1868)/ NFT 2022"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 3
+      },
+      "raw_media_file": {
+        "type": "string",
+        "description": "https://ipfs.pinsl.com/ipfs/QmZTniHw78eu1iLFYNNBxqmHsPV8uqervDgnXErAWfLrq5/2df30577-5bf3-4f32-81a1-d56807762014.jpeg?preview=1"
+      },
+      "yearOfCreation": {
+        "type": "string",
+        "description": "2022"
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://ipfs.pinsl.com/ipfs/QmZTniHw78eu1iLFYNNBxqmHsPV8uqervDgnXErAWfLrq5/2df30577-5bf3-4f32-81a1-d56807762014.jpeg"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "jpeg"
+      }
+    },
+    "description": "Color woodblock print by Utagawa Kunisada (Toyokuni III) showing a Kabuki actor doing his stage make-up. Kabuki was a very popular form of Japanese theater among city dwellers.\"\nOriginal woodcut Edo Periode (1603-1868)/ NFT 2022",
+    "externalLink": ""
+  }
+}

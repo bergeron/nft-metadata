@@ -1,0 +1,106 @@
+{
+  "address": "0x0531a8b87d025a7d9f86fbbf8fc90a9a2811a26f",
+  "type": "ERC721",
+  "name": "118asldkjfkldasjf908",
+  "tokenCount": "205",
+  "uri": "https://api.artblocks.io/token/375000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "375000001",
+    "series": "N/A",
+    "aspect_ratio": 0.75,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Wabi Sabi #1",
+    "minted": true,
+    "artist": "Kazuhiro Tanimoto",
+    "description": "Wabi-sabi, an ancient Japanese aesthetic sense, refers to finding beauty in imperfect and lonely things.\nLife is irrational and ephemeral. \nPeace and happiness are illusory, built on a fragile balance. \nWabi-sabi is an immersion of the quality of loneliness within ourselves that accepts various nuances to be beautiful, through a sophisticated lens.\nThis work attempts to store the compelling concept of Wabi-sabi on the blockchain as the code dynamically generates brushstrokes based on motifs of Shodo (Japanese calligraphy)\n\nWabi-sabi begins with a deliberate movement in which an ink-soaked brush is plopped down onto the paper, causing the ink to splatter.\nThereafter, a unique algorithm assists in drawing brushstrokes. \nThe various forms that emerge from the balance of lines that are straight or curved, regular or irregular, strong or slight, complex or delicate, with varying speeds analogize a person’s will through the brushstrokes. The bleeding, scratching, and splattering of ink lend the modelling even more complexity. Wabi-sabi does not impose precision in creating Shodo strokes. You may notice how the colors always bleed in the same direction, which is impossible to generate in our physical reality. This is because even if the brush is impregnated with multiple hues of ink, the bristles rotate as the brushstrokes are drawn. It may also generate three-dimensional patterns, a feature that is absent in physical practice, offering the impression of depth, as if brushstrokes were drawn arbitrarily in space. This is achieved by controlling the focus.\n\nA key feature of each artwork is that it can be edited. A piece of art is usually completed by the artist and presented to the viewer. I intended to make this work as imperfect as the concept of Wabi-sabi, which can be infinitely edited by the viewer. This is impossible with conventional NFTs, with generated image data uploaded to a server. Such is the luxury in art created with on-chain generative art by code.\n\nFor each composition, the blank space as the foreground and background is a conscious and elemental choice in this work.\nWabi-sabi is to accept the lacking. Some artworks can have much of the space as blank, which may seem odd but is consistent with the narrative. Digitally native art often takes full advantage of the computing power to lay out complex patterns across the entire canvas. Wabi-sabi is minimal as a contemporary take on that trend. Through the bleeding and scratching of ink in each brushstroke along with the blank space represented in this work, we welcome imperfection. Conceptually, contrasts between movement and stillness, strength and weakness, audacity and delicacy, complexity and simplicity, vividness and fadedness reveal a melancholic beauty.\n\nThe search for beauty through imitation and slight modification, and the exploration of the techniques used to create traditional or innovative shapes, is akin to the training in Shodo. \nSimply said, you cannot do it well the first time. The Japanese word for Shodo (\"do\") means \"road\". It is by travelling down the long road involving hours of training and exploration, that the sensitive concept of Wabi-sabi may be understood.\n\nThe underlying intention is to facilitate partaking in the process of the artist's exploration. The viewer is the artist and the artist is the viewer, sharing a sense of camaraderie that lives forever on the blockchain\n\n[NOTE]\n-Move the mouse over the left edge of the canvas and press the Edit button. \n-To edit, press the ‘S’ key\n-To save the image press the ‘R’ key.\n-To redraw, modern hardware and browser hardware acceleration is recommended. The Chrome browser on a desktop with a high-end GPU is optimal. On iOS, the best experience is available on iOS 12 or later.",
+    "script_type": "p5@1.0.0",
+    "project_id": "375",
+    "curation_status": "presents",
+    "image": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/375000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/375000001.png",
+    "generator_url": "https://generator.artblocks.io/375000001",
+    "animation_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/375000001",
+    "royaltyInfo": {
+      "artistAddress": "0x2f55e30c6f510d897c27a6e2d4c4e17f189996d5",
+      "additionalPayee": "0x9d5025b327e6b863e5050141c987d988c07fd8b2",
+      "additionalPayeePercentage": 25,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Wabi Sabi by Kazuhiro Tanimoto",
+    "website": "https://www.kazuhirotanimoto.com/works/wabi_sabi/",
+    "token_hash": "0x1f68132476b18942b42aebc8f45e1cde91792bff5196652ef7a75a8f17f883fe",
+    "external_url": "https://artblocks.io/collections/presents/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/375/tokens/375000001",
+    "primary_asset_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/375000001",
+    "features": {
+      "Broil": false,
+      "Paper": "Washi",
+      "Ink bleed": "Strong",
+      "Ink color": "Spectrum-Azayaka",
+      "linearity": 0.5,
+      "Disturbance": 0,
+      "Brush spread": 0.9,
+      "Broken stroke": true,
+      "Ink scratch size": 50,
+      "Stroke algorithm": 12,
+      "Number of strokes": 14,
+      "Ink scratch velocity": 9
+    },
+    "traits": [
+      {
+        "trait_type": "Wabi Sabi",
+        "value": "All Wabi Sabis"
+      },
+      {
+        "trait_type": "Wabi Sabi",
+        "value": "Broil: false"
+      },
+      {
+        "trait_type": "Wabi Sabi",
+        "value": "Paper: Washi"
+      },
+      {
+        "trait_type": "Wabi Sabi",
+        "value": "Ink bleed: Strong"
+      },
+      {
+        "trait_type": "Wabi Sabi",
+        "value": "Ink color: Spectrum-Azayaka"
+      },
+      {
+        "trait_type": "Wabi Sabi",
+        "value": "linearity: 0.5"
+      },
+      {
+        "trait_type": "Wabi Sabi",
+        "value": "Disturbance: 0"
+      },
+      {
+        "trait_type": "Wabi Sabi",
+        "value": "Brush spread: 0.9"
+      },
+      {
+        "trait_type": "Wabi Sabi",
+        "value": "Broken stroke: true"
+      },
+      {
+        "trait_type": "Wabi Sabi",
+        "value": "Ink scratch size: 50"
+      },
+      {
+        "trait_type": "Wabi Sabi",
+        "value": "Stroke algorithm: 12"
+      },
+      {
+        "trait_type": "Wabi Sabi",
+        "value": "Number of strokes: 14"
+      },
+      {
+        "trait_type": "Wabi Sabi",
+        "value": "Ink scratch velocity: 9"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "address": "0x47f3a38990ca12e39255e959f7d97fbe5906afd4",
+  "type": "ERC721",
+  "name": "Ape Reunion",
+  "tokenCount": "10000",
+  "uri": "https://ape-reunion-tokens-prod.s3.amazonaws.com/1",
+  "metadata": {
+    "name": "Ape Reunion #1",
+    "description": "The king is back.",
+    "image": "ipfs://Qmf56UNB3UpUN96uMn6NDjZ9AYHzj3vCDU5C8GBBufvfAA/1.png",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "zone"
+      },
+      {
+        "trait_type": "body",
+        "value": "dark"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "loincloth"
+      },
+      {
+        "trait_type": "neck",
+        "value": "gold_pendant"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "goofy"
+      },
+      {
+        "trait_type": "earring",
+        "value": "silver_ring_left"
+      },
+      {
+        "trait_type": "head",
+        "value": "helmet"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "evil"
+      }
+    ]
+  }
+}

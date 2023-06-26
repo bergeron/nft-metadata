@@ -1,0 +1,49 @@
+{
+  "address": "0xb224c08afb7cf3f2f5f3c634ed7407752d470beb",
+  "type": "ERC721",
+  "name": "Hero Garden",
+  "tokenCount": "25",
+  "uri": "ipfs://bafybeibcowysrlpbbuje3tx2nvme5iaa3cnjmp6mnnnszcx6mwn6jia33m/1.json",
+  "metadata": {
+    "name": "HeroMaiden #1",
+    "description": "HeroMaiden #1 - Your Trustworthy Party Member on your Road To Riches! Hero Garden! Reincarnated as an Adventurer To Get Rich?!",
+    "fee_recipient": "0x1FC969EF6C1Ad689f949bB3d7bDdB4589233696f",
+    "seller_fee_basis_points": 1000,
+    "image": "ipfs://bafybeib4ffrcptmd2cvaznne2exjg32jpfv4wm5yzdffsxrljsqxnutxee/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tortuga"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Outfits",
+        "value": "Steel Armor"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Purple Long"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hot Pink Big Soft Wink "
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Thin"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "LowFrown"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 8182,
+        "display_type": "number"
+      }
+    ]
+  }
+}

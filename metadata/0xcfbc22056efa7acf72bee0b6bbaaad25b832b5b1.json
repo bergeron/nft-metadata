@@ -1,0 +1,38 @@
+{
+  "address": "0xcfbc22056efa7acf72bee0b6bbaaad25b832b5b1",
+  "type": "ERC721",
+  "name": "The Pepoaps",
+  "tokenCount": "2628",
+  "uri": "ipfs://bafybeidgyavk32oijrfycgh3iayxr2jefkffgimaqlvy2d4awjayisfa2q/1.json",
+  "metadata": {
+    "name": "Pepoap #1",
+    "description": "Hand-drawn Pepe project inspired by ZOGZ by Matt Furie.",
+    "image": "ipfs://bafybeiek46tgvac2ax54dzwmh2ishckrpsz2djutwu4jurncjwzitq6lba/1.png",
+    "dna": "509725387d9db34c047d27952f5fa255b07673fe",
+    "edition": 1,
+    "date": 1687048488629,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Pepoap",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Extra",
+        "value": "Halo"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Baby"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "Pepe"
+  }
+}

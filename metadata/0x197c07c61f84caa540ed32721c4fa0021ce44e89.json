@@ -1,0 +1,34 @@
+{
+  "address": "0x197c07c61f84caa540ed32721c4fa0021ce44e89",
+  "type": "ERC721",
+  "name": "red",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=AtJd1GVehRD0qUfrQJ77",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1569031639646?alt=media&token=1703c4ad-1b3e-4b08-bb12-bf0655ecd9ae",
+    "isForSale": true,
+    "description": "yellow square",
+    "contractAddress": "0x197c07c61F84Caa540Ed32721c4Fa0021CE44e89",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0x197c07c61F84Caa540Ed32721c4Fa0021CE44e89/AtJd1GVehRD0qUfrQJ77",
+    "minter": "0x97677bE9c497255fbf6326AA69f5911A7C33f529",
+    "price": "0",
+    "name": "yellow",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ],
+    "minted": "Minted on Mintbase.io"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "address": "0xa3bd7352179d668969f94a9cb54a6e6764738c3f",
+  "type": "ERC721",
+  "name": "Crypto Punk Bros",
+  "tokenCount": "9000",
+  "uri": "https://punksyachtclub.s3.us-west-1.amazonaws.com/metadata/1",
+  "metadata": {
+    "name": "Punks Yacht Club#1",
+    "description": "",
+    "image": "https://punksyachtclub.s3.us-west-1.amazonaws.com/imgs/1.png",
+    "attributes": [
+      {
+        "trait_type": "punktype",
+        "value": "ape"
+      },
+      {
+        "trait_type": "special accessory",
+        "value": "silver-chain"
+      },
+      {
+        "trait_type": "head accessory",
+        "value": "do-rag"
+      },
+      {
+        "trait_type": "mouth accessory",
+        "value": "handlebears"
+      }
+    ]
+  }
+}

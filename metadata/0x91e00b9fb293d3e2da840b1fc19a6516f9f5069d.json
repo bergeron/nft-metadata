@@ -1,0 +1,41 @@
+{
+  "address": "0x91e00b9fb293d3e2da840b1fc19a6516f9f5069d",
+  "type": "ERC1155",
+  "name": "ISOMATRIX",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/1z-no4gSjRNTQi3q-pOyVV0B2cf8eV2k-KE0VJcKLrQ",
+  "metadata": {
+    "created_by": "Gordon Zuchhold & Dana Ulama ",
+    "name": "ISOMATRIX",
+    "description": "Collaborative Artwork by Gordon Zuchhold and Dana Ulama",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Dana Ulama, Gordon Zuchhold"
+      }
+    ],
+    "animation_details": {
+      "bytes": 43545230,
+      "format": "MP4",
+      "duration": 29,
+      "sha256": "1ae885b5eb70eb6afaaa4d834c0331938ad79ad0b2e8b56a76fbb240325de97e",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/GTX5ptVS6LkiAbn-r13u1xEisNbeDhUufwGXCet4GGI",
+    "animation_url": "https://arweave.net/GTX5ptVS6LkiAbn-r13u1xEisNbeDhUufwGXCet4GGI",
+    "image_details": {
+      "bytes": 3257325,
+      "format": "GIF",
+      "sha256": "4b595fc506721dcce3399e388bfed0f719cbe6f90f76e1f3ab5d3d27e6e73b3e",
+      "width": 600,
+      "height": 600
+    },
+    "image": "https://arweave.net/IgE7djeb0e3dY8fm4Mk6X2UghtxwpZ-lBQbA7vCMrLY",
+    "image_url": "https://arweave.net/IgE7djeb0e3dY8fm4Mk6X2UghtxwpZ-lBQbA7vCMrLY"
+  }
+}

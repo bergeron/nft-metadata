@@ -1,0 +1,63 @@
+{
+  "address": "0x9d679b75b40547a5dd375a0bb5eb88524e95dd98",
+  "type": "ERC721",
+  "name": "Ethos Dudes Evolution",
+  "tokenCount": "965",
+  "uri": "ipfs://bafybeiawrrc3givt4frkyiitwynmp6tsxgjgmi3yi6t2ibnvurwc22hnzm/1.json",
+  "metadata": {
+    "symbol": "Ethos Dudes Evolution",
+    "name": "EthosEvolution",
+    "Rarity Rank": "1571",
+    "description": "Keep Calm, We are #Ethosdudes.",
+    "seller_fee_basis_points": "100",
+    "image": "ipfs://bafybeia5znlk2azdkdf7dd46qivpemyp3xswva3ggwzno2kcl7amjofwqi/1.gif",
+    "external_url": "",
+    "collection": {
+      "name": "Ethos Dudes Evolution",
+      "family": "EThos DD"
+    },
+    "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "Melancholy"
+      },
+      {
+        "trait_type": "Background",
+        "value": "BlackWhite"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Dog"
+      },
+      {
+        "trait_type": "Mouche",
+        "value": "Pipe"
+      },
+      {
+        "trait_type": "Stiker",
+        "value": "Stark"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 1295,
+        "display_type": "number",
+        "max_value": 15000
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "/1571.gif",
+          "type": "image/gif"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xa7fbfcd3b0f800e9ee04c08f89cbedf45f472aaf",
+          "share": "100"
+        }
+      ]
+    }
+  }
+}

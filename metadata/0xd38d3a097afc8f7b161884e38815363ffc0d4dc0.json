@@ -1,0 +1,28 @@
+{
+  "address": "0xd38d3a097afc8f7b161884e38815363ffc0d4dc0",
+  "type": "ERC721",
+  "name": "Sweetheart Grips",
+  "tokenCount": "5200",
+  "uri": "ipfs://bafybeie4qlrbphqltn43itwmhh3s4gfu2vydoss2gnmj7ii3oydputxcme/1",
+  "metadata": {
+    "name": "Grip #1",
+    "description": "Remember your loved ones. Hand painted stains, background and poker card.",
+    "image": "ipfs://bafybeicyc72c4msijqf5xfyx4zlqgh7po73ze3hf45ejzbn5xzrt33n2ca/1.jpg",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink Bullseye"
+      },
+      {
+        "trait_type": "Poker Cards",
+        "value": "Ace of Spades"
+      },
+      {
+        "trait_type": "Painted Stain",
+        "value": "Two Black Brushes"
+      }
+    ],
+    "compiler": "Open3"
+  }
+}

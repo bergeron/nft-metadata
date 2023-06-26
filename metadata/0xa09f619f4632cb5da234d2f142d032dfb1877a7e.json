@@ -1,0 +1,42 @@
+{
+  "address": "0xa09f619f4632cb5da234d2f142d032dfb1877a7e",
+  "type": "ERC721",
+  "name": "Slick Devil Club",
+  "tokenCount": "50",
+  "uri": "ipfs://QmPj79TczEYeQwYw9uXktSwuA2pn69cUT7hSYb7fVYNLNf/1.json",
+  "metadata": {
+    "dna": "f062dd452bc537cdee7caf5ed1f090c973235f59",
+    "name": "#1",
+    "description": "Debut release of Slick Devil Club NFTs.",
+    "image": "ipfs://QmWuomD6A5Lc8UEFah3y6m8S3vwRWt5aG9UCAGz4v9ZA7f/1.png",
+    "edition": 1,
+    "date": 1635420368730,
+    "attributes": [
+      {
+        "trait_type": "body",
+        "value": "Dark Holographic"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Gone Fishing"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Lasers"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "Boon"
+      },
+      {
+        "trait_type": "headwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "eyewear",
+        "value": "Twenty Twenty"
+      }
+    ],
+    "compiler": "HashLips with some TLC from the Slick Devil Club"
+  }
+}

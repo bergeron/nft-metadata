@@ -1,0 +1,25 @@
+{
+  "address": "0x7c3e2f0af4a1b46f108dcf6bf7417e99694596ad",
+  "type": "ERC721",
+  "name": "Banksy Art Donation",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0x7c3e2f0af4a1b46f108dcf6bf7417e99694596ad/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0x7c3E2F0Af4a1b46f108dCf6bf7417e99694596ad/icon?id=1",
+    "expiration": 2448837606,
+    "tokenId": "1",
+    "owner": "0x15c8ec1943083a19713903b828940633b645ed48",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 2448837606
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0x7c3E2F0Af4a1b46f108dCf6bf7417e99694596ad",
+    "network": 1
+  }
+}

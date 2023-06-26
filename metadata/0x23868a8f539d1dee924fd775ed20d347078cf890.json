@@ -1,0 +1,68 @@
+{
+  "address": "0x23868a8f539d1dee924fd775ed20d347078cf890",
+  "type": "ERC721",
+  "name": "ArtGobbIers Mint Token",
+  "tokenCount": "4361",
+  "uri": "https://nfts.artgobblers.com/api/gobblers/1",
+  "metadata": {
+    "minted": true,
+    "revealed": true,
+    "external_url": "https://artgobblers.com/gobbler/1",
+    "name": "Art Gobbler 1 – Snelp Fnord-Dorkgleepcrunk",
+    "description": "Snelp Fnord-Dorkgleepcrunk gobbles art and squirts Goo.",
+    "image": "https://storage.googleapis.com/gobblers.artgobblers.com/gifs/1.gif",
+    "background_color": "7B003F",
+    "attributes": [
+      {
+        "trait_type": "Multiplier",
+        "value": 6,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Random Id",
+        "value": 1,
+        "display_type": "number"
+      },
+      {
+        "value": "Purple Haze",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Torso",
+        "trait_type": "Torso"
+      },
+      {
+        "value": "Goo Hat",
+        "trait_type": "Hat"
+      },
+      {
+        "value": "Tadpole",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "Woah",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": "Base Right Arm",
+        "trait_type": "Right arm"
+      },
+      {
+        "value": "Coin",
+        "trait_type": "Left hand"
+      },
+      {
+        "value": "Thumb",
+        "trait_type": "Left leg"
+      },
+      {
+        "value": "Teeth",
+        "trait_type": "Right leg"
+      },
+      {
+        "value": "Blood",
+        "trait_type": "Palette"
+      }
+    ]
+  }
+}

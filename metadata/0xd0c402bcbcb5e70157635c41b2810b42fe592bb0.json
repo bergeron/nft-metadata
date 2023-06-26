@@ -1,0 +1,32 @@
+{
+  "address": "0xd0c402bcbcb5e70157635c41b2810b42fe592bb0",
+  "type": "ERC721",
+  "name": "infiNFT alpha gallery",
+  "tokenCount": "10",
+  "uri": "https://infiNFTalpha.azurewebsites.net/api/HttpTrigger?id=1",
+  "metadata": {
+    "image": "https://gateway.pinata.cloud/ipfs/QmfCX5xsn6iuoHgUdmuqFkNWvMfdyZZBqaYoZCffoS2KWU",
+    "description": "This piece was created by ekaitza. \n\nArtist Note: The world is full of magical things patiently waiting for our wits to grow sharper.  - Bertrand Russel.  3500 x 6000 pixels, rendered at 100 ppi\n\nAll InfiNFT art pieces have their metadata stored directly on chain. The file is stored on the Arweave blockchain as well as IPFS, and the hashes from both platforms are written to the token upon minting. The Alpha Art pieces are the first NFTs stored on Arweave. Only 10 special edition pieces were created by artists for the Alpha Launch. \n\n Arweave Reference Link: https://arweave.net/YfBYR134QZkpET1h8DIyCGVq3Onhd5JIbioOnqBv3XY\n\n IPFS Reference Link: https://gateway.pinata.cloud/ipfs/QmfCX5xsn6iuoHgUdmuqFkNWvMfdyZZBqaYoZCffoS2KWU",
+    "animation_url": "",
+    "external_url": "https://www.infinft.com/view.html?token=1",
+    "name": "Initium Novum",
+    "attributes": [
+      {
+        "trait_type": "artist name",
+        "value": "ekaitza"
+      },
+      {
+        "trait_type": "edition number",
+        "value": "1 of 1"
+      },
+      {
+        "trait_type": "file type",
+        "value": "png"
+      },
+      {
+        "trait_type": "royalty fee",
+        "value": "10"
+      }
+    ]
+  }
+}

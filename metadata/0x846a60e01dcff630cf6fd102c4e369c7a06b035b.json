@@ -1,0 +1,84 @@
+{
+  "address": "0x846a60e01dcff630cf6fd102c4e369c7a06b035b",
+  "type": "ERC1155",
+  "name": "0xc7e5e9434f4a71e6db978bd65b4d61d3593e5f27",
+  "tokenCount": "1",
+  "uri": "https://api.alpaca.city/metadata/1",
+  "metadata": {
+    "name": "Satoshi",
+    "description": "",
+    "image": "https://d1wo2tfj2enqpq.cloudfront.net/svgs/satoshi.png",
+    "external_url": "https://alpaca.city/alpaca/1",
+    "background_color": "#CBF3F1",
+    "attributes": [
+      {
+        "trait_type": "accent_color",
+        "value": "blizzard blue"
+      },
+      {
+        "trait_type": "base_color",
+        "value": "tickle me pink"
+      },
+      {
+        "trait_type": "ears",
+        "value": "bat wings"
+      },
+      {
+        "trait_type": "eye_color",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "eye_shape",
+        "value": "squint"
+      },
+      {
+        "trait_type": "hairs",
+        "value": "wind wings"
+      },
+      {
+        "trait_type": "highlight_color",
+        "value": "purple heart"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "tongue"
+      },
+      {
+        "trait_type": "pattern",
+        "value": "blaze"
+      },
+      {
+        "trait_type": "tail",
+        "value": "lightning"
+      },
+      {
+        "trait_type": "unknown1",
+        "value": "unknown"
+      },
+      {
+        "trait_type": "unknown2",
+        "value": "unknown"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 1603594738
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "energy",
+        "value": 2009
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "breeding fee",
+        "value": 10
+      }
+    ]
+  }
+}

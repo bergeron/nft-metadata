@@ -1,0 +1,121 @@
+{
+  "address": "0x2c04e6dd23c33a66f58dfb79dfb15285336c92d0",
+  "type": "ERC721",
+  "name": "BLOCKLORDS",
+  "tokenCount": "247",
+  "uri": "http://api.blocklords.io/hero/get-meta/eth/mainnet/1",
+  "metadata": {
+    "description": "Stemming from humble origins, this hero may very well rise to the top of the blockchain and become the ultimate ruler in BLOCKLORDS. Each hero is equipped with rare items, has individual traits and is ready to conquer the map at your command. Can you turn this hero into an ultimate lord? Play BLOCKLORDS today to find out!",
+    "external_url": "https://blocklords.io/",
+    "name": "Ronald Brayton",
+    "image": "http://api.blocklords.io/hero/get-hero-sprite/eth/mainnet/1",
+    "attributes": [
+      {
+        "trait_type": "arms",
+        "value": "Visored Retention"
+      },
+      {
+        "trait_type": "arms",
+        "value": "Edged Armor"
+      },
+      {
+        "trait_type": "arms",
+        "value": "Fist of Fury"
+      },
+      {
+        "trait_type": "arms",
+        "value": "King's Truth"
+      },
+      {
+        "trait_type": "arms",
+        "value": "Morning Doom"
+      },
+      {
+        "trait_type": "intelligence",
+        "value": 20,
+        "display_type": "ranking",
+        "max_value": 34
+      },
+      {
+        "trait_type": "strength",
+        "value": 21,
+        "display_type": "ranking",
+        "max_value": 34
+      },
+      {
+        "trait_type": "defense",
+        "value": 20,
+        "display_type": "ranking",
+        "max_value": 32
+      },
+      {
+        "trait_type": "speed",
+        "value": 20,
+        "display_type": "ranking",
+        "max_value": 33
+      },
+      {
+        "trait_type": "leadership",
+        "value": 20,
+        "display_type": "ranking",
+        "max_value": 33
+      },
+      {
+        "trait_type": "title",
+        "value": "D-Gaming Legend"
+      },
+      {
+        "trait_type": "trait",
+        "value": "Raider"
+      },
+      {
+        "trait_type": "hero_strength",
+        "value": 2,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "raid_bonus",
+        "value": 5,
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "trait",
+        "value": "Tall"
+      },
+      {
+        "trait_type": "hero_leadership",
+        "value": 1,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "trait",
+        "value": "Brave"
+      },
+      {
+        "trait_type": "infantry_strength",
+        "value": 2,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "cavalry_strength",
+        "value": 1,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "archer_strength",
+        "value": 1,
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "trait",
+        "value": "Aggressive"
+      },
+      {
+        "trait_type": "generation",
+        "value": 0,
+        "display_type": "number",
+        "max_value": 1
+      }
+    ]
+  }
+}

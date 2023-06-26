@@ -1,0 +1,42 @@
+{
+  "address": "0x069c045c325482a28f06e7f2fc1c02a1aab81a68",
+  "type": "ERC721",
+  "name": "SIGH BOOSTERS",
+  "tokenCount": "30",
+  "uri": "ipfs://bafkreihhmma7s2ppaeafp34bjzkrmsq7hkopce652rzght5xcidbwua4na",
+  "metadata": {
+    "name": "SIGH FARMS",
+    "description": "SIGH Boosters are the native discount coupons that will be accepted by SIGH Finance. 'SIGH FARMS' SIGH Booster category visually represents the lending protocol supported by SIGH Finance designed to harvest 'Volatility Risk' of the supported instruments. To learn more, visit http://docs.sigh.finance/",
+    "image": "",
+    "animation_url": "https://sigh.discount/static/sigh_farms.gif",
+    "external_url": "http://sigh.discount/",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "SIGH FARMS"
+      },
+      {
+        "trait_type": "Minimum Top-Up",
+        "value": "$50"
+      },
+      {
+        "trait_type": "Multiplier",
+        "value": "1.2"
+      },
+      {
+        "trait_type": "Jump Multiplier",
+        "value": "1.3"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Platform Fee (discount)",
+        "value": 10
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Reserve Fee (discount)",
+        "value": 10
+      }
+    ]
+  }
+}

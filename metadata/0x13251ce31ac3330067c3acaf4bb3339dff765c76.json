@@ -1,0 +1,34 @@
+{
+  "address": "0x13251ce31ac3330067c3acaf4bb3339dff765c76",
+  "type": "ERC721",
+  "name": "OUTER-Spaceship",
+  "tokenCount": "4083",
+  "uri": "https://api.outer.gg/v1/spaceships/eth/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "ID",
+        "value": "105",
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Name",
+        "value": "Nicholas"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Cruiser"
+      },
+      {
+        "trait_type": "Level",
+        "value": "Ⅴ-5"
+      },
+      {
+        "trait_type": "Max Durability",
+        "value": 160,
+        "display_type": "number"
+      }
+    ],
+    "image": "https://assets.outer.gg/frontend/video/spaceship/spaceship_105_1024x1024.mp4"
+  }
+}

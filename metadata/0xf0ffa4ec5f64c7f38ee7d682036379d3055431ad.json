@@ -1,0 +1,91 @@
+{
+  "address": "0xf0ffa4ec5f64c7f38ee7d682036379d3055431ad",
+  "type": "ERC721",
+  "name": "Affe mit Waffe Genesis",
+  "tokenCount": "250",
+  "uri": "https://aws-sam-affen-db-public-affen-metadata.s3.eu-central-1.amazonaws.com/affemitwaffe721/json/1.json",
+  "metadata": {
+    "name": "Dr. Greybeard",
+    "description": "We fed our artificial intelligence (AI) a bunch of pictures, and this is what he came up with. Peace is no option for Skynet.",
+    "image": "https://lh3.googleusercontent.com/EPvIaRh3xzZ2MNU-fXLwh830w0UOKwu4uWtfBY55nsG8kY4GyIAmjL6vnAeAfxk-0sE9aok95j1Krt-narxBQLGXfRGcju5uYnW7",
+    "external_url": "https://monkeyversedao.xyz",
+    "attributes": [
+      {
+        "trait_type": "WEAPON OF CHOICE",
+        "value": "Pepperball"
+      },
+      {
+        "trait_type": "BIRTH ORDER",
+        "value": "Affe mit Waffe #1"
+      },
+      {
+        "trait_type": "ELIGIBLE FOR UTILITY",
+        "value": "Yes!"
+      },
+      {
+        "trait_type": "TRUST IN HUMANITY",
+        "value": "Yes!"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Anger",
+        "value": 3,
+        "max_value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Anticipation",
+        "value": 3,
+        "max_value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Disgust",
+        "value": 2,
+        "max_value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Fear",
+        "value": 3,
+        "max_value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Joy",
+        "value": 3,
+        "max_value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Surprise",
+        "value": 4,
+        "max_value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Trust",
+        "value": 3,
+        "max_value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Sadness",
+        "value": 1,
+        "max_value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Positive",
+        "value": 3,
+        "max_value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Negative",
+        "value": 3,
+        "max_value": 5
+      }
+    ]
+  }
+}

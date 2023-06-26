@@ -1,0 +1,70 @@
+{
+  "address": "0xb85f4b36549e03c20242a3c6ef705221fdbd0843",
+  "type": "ERC721",
+  "name": "Ascend to Resurrection",
+  "tokenCount": "6000",
+  "uri": "ipfs://QmVXH2xzN8pN2LffReRrXix7ErecLg3NLExJ8WFNPVNoEe/2.json",
+  "metadata": {
+    "dna": "d5b0598641b8755417209b0daf4355fcb42e912e",
+    "name": "Ascend To Resurrection #2",
+    "description": "The resurrection is not only real, but relevant. Ascend to find salvation in resurrection.",
+    "image": "https://www.arweave.net/WE9nPGTltQOqyOKopp6AoJjikc3e9gYd9Id7kZCbkxA?ext=png",
+    "edition": 5497,
+    "date": 1637839761126,
+    "seller_fee_basis_points": 500,
+    "symbol": "ATR",
+    "collection": {
+      "name": "Immortalis",
+      "family": "Project Immortalis"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://www.arweave.net/WE9nPGTltQOqyOKopp6AoJjikc3e9gYd9Id7kZCbkxA?ext=png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "9dh6Z1c7X4mhifJZTpJgHUkY9VALrhsVcBhg5wm1sEM8",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Resurrection"
+      },
+      {
+        "trait_type": "Werewolf Base",
+        "value": "Night Sky"
+      },
+      {
+        "trait_type": "Werewolf Eyes",
+        "value": "Force"
+      },
+      {
+        "trait_type": "Werewolf Fur",
+        "value": "Energy"
+      },
+      {
+        "trait_type": "Werewolf Blood",
+        "value": "None"
+      },
+      {
+        "trait_type": "Werewolf Earring",
+        "value": "Silver Double"
+      },
+      {
+        "trait_type": "Werewolf Moon",
+        "value": "None"
+      },
+      {
+        "trait_type": "Werewolf Character",
+        "value": "Immortal"
+      }
+    ]
+  }
+}

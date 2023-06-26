@@ -1,0 +1,26 @@
+{
+  "address": "0xd082fb53d43123807a7c901c57aa5cec3a9d3e43",
+  "type": "ERC721",
+  "name": "$STCL Brand Swag",
+  "tokenCount": "35",
+  "uri": "https://satoshiscloset.com/SatoshiGeneric_1.json",
+  "metadata": {
+    "image": "https://satoshiscloset.s3.amazonaws.com/token-logo-tee.gif",
+    "name": "Long-sleeve logo tee",
+    "description": "Brand Swag from Satoshi's Closet",
+    "attributes": [
+      {
+        "trait_type": "size",
+        "value": "M"
+      },
+      {
+        "trait_type": "color",
+        "value": "White"
+      },
+      {
+        "trait_type": "year",
+        "value": "2020"
+      }
+    ]
+  }
+}

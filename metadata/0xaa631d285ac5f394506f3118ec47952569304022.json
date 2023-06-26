@@ -1,0 +1,30 @@
+{
+  "address": "0xaa631d285ac5f394506f3118ec47952569304022",
+  "type": "ERC721",
+  "name": "tiny oinks",
+  "tokenCount": "999",
+  "uri": "ipfs://QmWPT5JgRXbncmwU84oHvyXFthvkBmPwMimys2jLVikcpW/1.json",
+  "metadata": {
+    "name": "tiny oink #1",
+    "description": "999 tiny oinks living on the blockchain",
+    "image": "ipfs://QmRa6UVK3DAAXsC3PwniLFBBPvhnogrtCWNxcTC6nD37n3/1.png",
+    "dna": "37b83649b05fc73e63b8f46cb64a55d249d3e9cd",
+    "edition": 1,
+    "date": 1656239190717,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background 4"
+      },
+      {
+        "trait_type": "Oink",
+        "value": "Oink 9"
+      },
+      {
+        "trait_type": "Trait",
+        "value": "Fancy Evil with a Cigarette"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

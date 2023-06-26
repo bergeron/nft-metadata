@@ -1,0 +1,41 @@
+{
+  "address": "0xf2fd341935c7b609cfc1f974715f62a3cfd77ae9",
+  "type": "ERC721",
+  "name": "BitPepe Edition",
+  "tokenCount": "236",
+  "uri": "https://ipfs.io/ipfs/QmZNo69TfRKfPknH16j5Mur4bEUB4rWhDMzrG3DiH5bzTx/1.json",
+  "metadata": {
+    "name": "BitPepe #1",
+    "image": "ipfs://QmVVXqe9Weq1tRZMVLeun7UK71EjByXBsVp3dqZy4VMLMx/1.png",
+    "symbol": "BITPEPE",
+    "external_url": null,
+    "description": "'BitPepe' 36 x 36 px",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dampl"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Aqua Pepe"
+      },
+      {
+        "trait_type": "Closes",
+        "value": "No Frills Black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Long Cigarette"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Orange Knit Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Tired"
+      }
+    ],
+    "seller_fee_basis_points": 0
+  }
+}

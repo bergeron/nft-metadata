@@ -1,0 +1,42 @@
+{
+  "address": "0xe95f9d8c660d07449b5063c39e30ef9e8e12617b",
+  "type": "ERC1155",
+  "name": "HarmonyBNB",
+  "tokenCount": "1",
+  "uri": "ipfs://QmQBoM6DH6Up1RB21fkbuyUHGuKjRou5rJzNZefyD3vL8B/metadata.json",
+  "metadata": {
+    "description": "HarmonyBNB is a token gated community for your BNB needs. Holders of the token will receive a discount on booking our rentals.",
+    "animation_url": "ipfs://QmSXEmDpSrjde8cXZwDaaTCwSg3hGF9bgS7RKMznDShciN/1.glb",
+    "name": "HarmonyBNB Token",
+    "attributes": [
+      {
+        "trait_type": "Membership",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Level",
+        "value": 1
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Power Up",
+        "value": 10
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Perks",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Version",
+        "value": 2
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Start Date",
+        "value": 1660517543
+      }
+    ]
+  }
+}

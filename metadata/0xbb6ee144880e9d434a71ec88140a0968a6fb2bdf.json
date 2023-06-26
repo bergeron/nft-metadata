@@ -1,0 +1,133 @@
+{
+  "address": "0xbb6ee144880e9d434a71ec88140a0968a6fb2bdf",
+  "type": "ERC721",
+  "name": "Cargo by Kim Asendorf",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/426000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "426000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Cargo #1",
+    "minted": true,
+    "artist": "Kim Asendorf",
+    "description": "**Cargo** is a series of abstract paintings created with animated pixels that are constantly moving without ever repeating. It is painting new patterns on the fly in between macro and micro compositions with a duality of different rhythms and continuous synchronicity. The focus is alternately drawn to detail, then distracted by movement elsewhere and caught up in the overall picture. This rhythm turns the visual complexity into an active experience.\n\nASDF: “My work should offer individual ways of interpretation, or even allow one to find some self in it. It wants to inspire some thoughts about dynamics and systemics and also just mesmerize the audience, capture them in a little fantasy, or just for a brief moment in a state of satisfaction.”\n\nCargo is the latest work in Kim Asendorf’s ongoing work series of pixel pattern animations. Starting with [monogrid](https://monogrid.xyz) in 2021, and [Sabotage](https://sabotage.kim) in 2022, both highly conceptual series, therefore visually very raw and unimaginable. Asendorf discovered various interesting details in these works, which eventually became fundamental in his artistic expression.\n\nCargo is a real time WebGL software written in JavaScript and GLSL. At its core is a flip-flop render buffer, also known as feedback buffer. That means the animation is alternately rendered in two different frame buffers. This technique allows the usage of the previous frame of the animation as an asset in the current rendering, which allows for a series of reactive animation strategies.\n\nAn initial image with variable structures and patterns is rendered and subsequently loaded into the frame buffer. A fragment shader is used to apply a set of animation algorithms that make the pixel move and a set of reset algorithms that constantly try to recreate the initial image. The final animation happens in selected containers and is always a combination of two algorithms, one from each set. By regularly animating and partially resetting the pixels, a wide range of movement patterns appear.\n\nCargo is a responsive and pixel exact artwork and it will fill the screen on any display size, thus changing the total amount of used pixels accordingly. This results in the fact that the detail level in the artwork is changing depending on the dimensions. The overall structure is consistently stretching the x and y axis independently. Single containers scale along the dimensions and offer more pixels to render the patterns at a larger representation compared to a smaller representation. This behavior leads to a brilliance, perfect pixels, a crisp rendering with nothing like compression artifacts.\n\nThis software includes the [simplex noise](https://github.com/jwagner/simplex-noise.js) JavaScript implementation by Jonas Wagner and the [cellular noise](https://github.com/stegu/webgl-noise) GLSL code by Stefan Gustavson.",
+    "script_type": "js@n/a",
+    "project_id": "426",
+    "curation_status": "curated",
+    "image": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/426000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/426000001.png",
+    "generator_url": "https://generator.artblocks.io/426000001",
+    "animation_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/426000001",
+    "royaltyInfo": {
+      "artistAddress": "0xa2feb99dbf3b355397532aef85d6066b7ed029d0",
+      "additionalPayee": "0xa296e4d394b7dfe76b384717a7e0a26564f425a2",
+      "additionalPayeePercentage": 20,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Cargo by Kim Asendorf",
+    "website": "https://cargo.cx",
+    "token_hash": "0xef8570f8459e799070c01d523153859ee4dbc292111b9dfc2e2498a5dd86b3d2",
+    "external_url": "https://artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/426/tokens/426000001",
+    "primary_asset_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/426000001",
+    "features": {
+      "Rows": 32,
+      "Columns": 64,
+      "Structure": "Packing",
+      "Color Mode": "Two Colors",
+      "Complexity": "Normal",
+      "Box Patterns": false,
+      "Pattern Mode": "Random Composition",
+      "Area Patterns": false,
+      "Grid Patterns": false,
+      "Noise Patterns": false,
+      "Framed Patterns": true,
+      "Motion Activity": 65,
+      "Motion Location": "Jumps",
+      "Background Color": "Black",
+      "Gradient Patterns": false,
+      "Number of Patterns": 5,
+      "Rectangle Patterns": true,
+      "Dashed Line Patterns": false,
+      "Number of Pattern Groups": 2
+    },
+    "traits": [
+      {
+        "trait_type": "Cargo",
+        "value": "All Cargos"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Rows: 32"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Columns: 64"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Structure: Packing"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Color Mode: Two Colors"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Complexity: Normal"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Box Patterns: false"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Pattern Mode: Random Composition"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Area Patterns: false"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Grid Patterns: false"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Noise Patterns: false"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Framed Patterns: true"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Motion Location: Jumps"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Background Color: Black"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Gradient Patterns: false"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Rectangle Patterns: true"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Dashed Line Patterns: false"
+      },
+      {
+        "trait_type": "Cargo",
+        "value": "Number of Pattern Groups: 2"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0x321eb6e9b331686c9ce5b37e9d1264ecfbd0b90a",
+  "type": "ERC721",
+  "name": "Hood Catsters",
+  "tokenCount": "15",
+  "uri": "ipfs://QmQB6fqVQcZzPVdBiRpbbgqDmkR3bMtxYj1uaEpe57zKRP/1.json",
+  "metadata": {
+    "dna": "9d36bc8990d0a493bd42cf25d99cea71a7f23f55",
+    "name": "#1",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://QmcEPdkf6H4orUgpELAVa1YcXHMfMXRUhvghFa1A6AN6Fz/1.png",
+    "edition": 1,
+    "date": 1634283869430,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "lime"
+      },
+      {
+        "trait_type": "Body",
+        "value": "bluered"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "polo"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eyepatch"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "chewing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "fez"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "address": "0x96a8fc29239ce36ab45d452f89cb180d8299ccdc",
+  "type": "ERC721",
+  "name": "A black collection of cards",
+  "tokenCount": "1000",
+  "uri": "https://metadata.nft.thecollectionworld.com/tcwac/1/metadata.json",
+  "metadata": {
+    "description": "Blackcards™",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/320px-A_black_image.jpg",
+    "name": "Blackcard : 1000",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "Black"
+      }
+    ],
+    "external_url": "https://www.blackcards.com/"
+  }
+}

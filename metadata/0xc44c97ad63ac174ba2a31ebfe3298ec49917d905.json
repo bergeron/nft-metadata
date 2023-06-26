@@ -1,0 +1,35 @@
+{
+  "address": "0xc44c97ad63ac174ba2a31ebfe3298ec49917d905",
+  "type": "ERC721",
+  "name": "Cocktails 101",
+  "tokenCount": "66",
+  "uri": "ipfs://QmPa3DDzyAkaNM5Va9GnXNZSKjAveVjAu6hw6d2i3aBmco/1",
+  "metadata": {
+    "name": "Gimlet",
+    "description": "Ingredients: \n2 oz gin \n1/2 oz sweetened lime juice \n\nDirections: \nCombine and serve. \nGarnish with a lime wheel.",
+    "image": "https://ipfs.io/ipfs/Qmb2XRidBZcTCXZngp29zmJc6dP2Fjtur3uKx2771YVJ5B",
+    "attributes": [
+      {
+        "trait_type": "spirit",
+        "value": "gin"
+      },
+      {
+        "trait_type": "glass",
+        "value": "coupe"
+      },
+      {
+        "trait_type": "bg color",
+        "value": "green"
+      },
+      {
+        "trait_type": "garnish",
+        "value": "lime wheel"
+      }
+    ],
+    "background_color": "",
+    "youtube_url": "",
+    "external_url": "",
+    "seller_fee_basis_points": 800,
+    "fee_recipient": "0xEA51fFe35D5929E845a2Dd6154c7783F1f4679AA"
+  }
+}

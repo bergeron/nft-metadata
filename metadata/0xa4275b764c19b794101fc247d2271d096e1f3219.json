@@ -1,0 +1,82 @@
+{
+  "address": "0xa4275b764c19b794101fc247d2271d096e1f3219",
+  "type": "ERC721",
+  "name": "Erik Adigard M.A.D.",
+  "tokenCount": "2",
+  "uri": "https://ipfs.io/ipfs/QmWfEssRe6kg3Cu7AZPTXhfSDGVWeNM1sTqaudEHEZiCiS",
+  "metadata": {
+    "name": "Creature",
+    "description": "commissioned by the be-in 7 festival, this work evokes the new creatures we live with. these may be monsters, divinities, or a mixture of the two. whether friend or foe, we may think of them as modern versions of a greek daimones. every new throw of dice brings new creatures that continually reframe our reality as mortals.",
+    "external_url": "https://postmastersbc.art/nft/adigard_mad/creature/creature-thumb.png",
+    "animation_url": "",
+    "image": "https://postmastersbc.art/nft/adigard_mad/creature/creature-thumb.png",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Erik Adigard + M-A-D"
+      },
+      {
+        "trait_type": "Rights Agreement",
+        "value": "https://ipfs.io/ipfs/Qmbf5Q2ivkECewuasvQKUYsJCjbQ3sPyAsMS2YpcPgfVUt"
+      },
+      {
+        "trait_type": "Archive Link",
+        "value": "https://postmastersbc.art/nft/adigard_mad/creature/creature.jpg"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Creature"
+      },
+      "description": {
+        "type": "string",
+        "description": "commissioned by the be-in 7 festival, this work evokes the new creatures we live with. these may be monsters, divinities, or a mixture of the two. whether friend or foe, we may think of them as modern versions of a greek daimones. every new throw of dice brings new creatures that continually reframe our reality as mortals."
+      },
+      "image": {
+        "type": "string",
+        "description": "https://postmastersbc.art/nft/adigard_mad/creature/creature-thumb.png"
+      },
+      "rights_agreement": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/Qmbf5Q2ivkECewuasvQKUYsJCjbQ3sPyAsMS2YpcPgfVUt"
+      },
+      "rights_agreement_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "rights_agreement_signature": {
+        "type": "string",
+        "description": "f4e38f7db04f03924adaa2f26d11835a251545988e02e7a2829559eba1682bc2"
+      },
+      "archive_link": {
+        "type": "string",
+        "description": "https://postmastersbc.art/nft/adigard_mad/creature/creature.jpg"
+      },
+      "archive_link_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "archive_link_signature": {
+        "type": "string",
+        "description": "895590bbdb8cd33e105a2fe63312fd9ffe1b7937142688abad0bffbc52d9a6e0"
+      },
+      "rights_agreement_values": {
+        "$ARTIST": "Erik Adigard + M-A-D",
+        "$SHAHASH": "895590bbdb8cd33e105a2fe63312fd9ffe1b7937142688abad0bffbc52d9a6e0",
+        "$CONTRACTSHAHASH": "f4e38f7db04f03924adaa2f26d11835a251545988e02e7a2829559eba1682bc2",
+        "$URL": "https://postmastersbc.art/nft/adigard_mad/creature/creature-thumb.png",
+        "$TITLE": "Creature",
+        "$YEAR": "1996",
+        "$ROYALTYRATE": "10",
+        "$TOKEN": "eth",
+        "$ADDRESS": "0x2CC9d2c5C438Bb0AE28619dC0e0d7801f1849196",
+        "$LICENSE": "CA.05.19.21., Patent No. US 10,380,702"
+      },
+      "additional_info": {
+        "type": "string",
+        "description": "This digital art NFT was produced by PostmastersBLOCKCHAIN.com, 2021, Postmasters Gallery."
+      }
+    }
+  }
+}

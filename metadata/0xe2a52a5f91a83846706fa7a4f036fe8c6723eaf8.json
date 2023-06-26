@@ -1,0 +1,40 @@
+{
+  "address": "0xe2a52a5f91a83846706fa7a4f036fe8c6723eaf8",
+  "type": "ERC721",
+  "name": "E1337 Proof of Authenticty (POA) Tokens",
+  "tokenCount": "4000",
+  "uri": "https://poa.e1337.pro/tokens/1",
+  "metadata": {
+    "tokenId": 1,
+    "description": "This proof of authenticity token provides verification that the holder of this token has purchased an E1337 Signature Collection T-Shirt physical wearable.",
+    "name": "E1337 Proof of Authenticity Token: Alpha",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQfXcbWQANwp3zMp3e7mEzSWcetLBPVT1GNTL74imPCQB",
+    "attributes": [
+      {
+        "trait_type": "Brand",
+        "value": "E1337"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Proof of Authenticity NFT"
+      },
+      {
+        "trait_type": "Collection Type",
+        "value": "Signature Collection"
+      },
+      {
+        "trait_type": "Wearable",
+        "value": "T-Shirt"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Daniel Ignacio"
+      }
+    ],
+    "background_color": "FFFFFF"
+  }
+}

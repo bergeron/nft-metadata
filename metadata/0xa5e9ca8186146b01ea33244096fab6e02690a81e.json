@@ -1,0 +1,29 @@
+{
+  "address": "0xa5e9ca8186146b01ea33244096fab6e02690a81e",
+  "type": "ERC1155",
+  "name": "TasteMakerz",
+  "tokenCount": "3",
+  "uri": "https://www.tastemakerz.xyz/api/metadata/monthly/1",
+  "metadata": {
+    "external_link": "https://www.tastemakerz.xyz/",
+    "image": "https://www.tastemakerz.xyz/nft/monthly/1-revealed.jpg",
+    "collection": "TasteMakerz Monthly Passes",
+    "max_supply": 10,
+    "name": "TasteMakerz Month 1 Pass",
+    "description": "The Month 1 Pass grants the holder membership access to TasteMakerz until the end of Month 1.\n\nPasses will no longer be eligible for access after the end of their corresponding month, however make sure to keep your expired passes for a range of other utilities.",
+    "attributes": [
+      {
+        "trait_type": "Epoch",
+        "value": "1"
+      },
+      {
+        "trait_type": "TasteMakerz",
+        "value": "Month"
+      },
+      {
+        "trait_type": "Month",
+        "value": "1"
+      }
+    ]
+  }
+}

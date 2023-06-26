@@ -1,0 +1,42 @@
+{
+  "address": "0x1657e2200216ebacb92475b69d6bc0fdad48b068",
+  "type": "ERC721",
+  "name": "doodlefrens",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmbLcMQ6HSfJqBNQiCkQCd9PeWuX6ff5YL2S5ArASEDLGG/1.json",
+  "metadata": {
+    "dna": "fd1a8fdef188896a98a92f24b9228e407084fef0",
+    "name": "#1",
+    "description": "doodlefrens",
+    "image": "ipfs://QmQ86mg5LSCS4j9AjQ6BQ5Q2yqtoGGVofjcZHdhMzZnuMb/1.png",
+    "edition": 1,
+    "date": 1641230474174,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "blue"
+      },
+      {
+        "trait_type": "body",
+        "value": "purple"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "white pullover"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "luvable"
+      },
+      {
+        "trait_type": "hat",
+        "value": "none"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "frenly"
+      }
+    ],
+    "compiler": "Doodlefrens Art Engine"
+  }
+}

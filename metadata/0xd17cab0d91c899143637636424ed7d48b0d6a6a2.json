@@ -1,0 +1,38 @@
+{
+  "address": "0xd17cab0d91c899143637636424ed7d48b0d6a6a2",
+  "type": "ERC721",
+  "name": "Crypto Punk Pride",
+  "tokenCount": "5",
+  "uri": "ipfs://QmU1a8AtPKU5LHTyPjcTXzQKGswcGaUvMGBd6nXR4VP9at/1.json",
+  "metadata": {
+    "name": "Pride Punk #1",
+    "description": "Crypto Punk Pride Collection",
+    "image": "ipfs://QmeucY3hxxpHAZG3yB7yDKtC8MhV7o85BDgrwMuwRLNaDf/1.png",
+    "dna": "a0796854eb0b28d3977b5cd6bc61b971e1d918a9",
+    "edition": 1,
+    "date": 1648732663596,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "liberty"
+      },
+      {
+        "trait_type": "Face",
+        "value": "tanned_w"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "light_blue"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "e_cigarette"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "pirata"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

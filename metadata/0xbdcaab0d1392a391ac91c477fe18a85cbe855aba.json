@@ -1,0 +1,31 @@
+{
+  "address": "0xbdcaab0d1392a391ac91c477fe18a85cbe855aba",
+  "type": "ERC721",
+  "name": "LiveArt Official Membership NFTs",
+  "tokenCount": "2936",
+  "uri": "https://api.liveartx.com/v1/magic-box/1",
+  "metadata": {
+    "name": "LiveArt Membership-Level 1",
+    "description": "Membership NFT represents access to LiveArtX Web3.0 services, where each level of Membership NFT contains a certain amount of $ART tokens. In addition, you also enjoy more benefits in the ecosystem.",
+    "image": "https://d19x79mnirro3b.cloudfront.net/liveartx/Level-1/image.jpg",
+    "animation_url": "https://d19x79mnirro3b.cloudfront.net/liveartx/Level-1/media.mp4",
+    "attributes": [
+      {
+        "trait_type": "Token",
+        "value": "$ART 300.000000"
+      },
+      {
+        "trait_type": "Level",
+        "value": "1"
+      },
+      {
+        "trait_type": "ClaimTime",
+        "value": "2023-06-15 12:00:00 UTC"
+      },
+      {
+        "trait_type": "Claimed",
+        "value": "no"
+      }
+    ]
+  }
+}

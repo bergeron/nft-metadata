@@ -1,0 +1,37 @@
+{
+  "address": "0x613c3ff9489f918cf1b5f17b144984ee2423e30a",
+  "type": "ERC721",
+  "name": "Relaxable VIP NFTs",
+  "tokenCount": "37",
+  "uri": "ipfs://bafybeiacptld6uigxug44nvji4ju4qazl67m4stuqvdqnmwivdwzh47jfe/1.json",
+  "metadata": {
+    "name": "Relaxable VIP #1",
+    "description": "Relaxable VIP #1 - An official NFT of Relaxable.com providing exclusive access to products and services. ",
+    "fee_recipient": "0x89b9eEaF0456271E9d6629B301B07C468E95b38e",
+    "seller_fee_basis_points": 200,
+    "image": "ipfs://bafybeigrtz6vhftyon6y2ryruhjj7vvyjab3w5av4utbp3cu26pdixuh64/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "Original"
+      },
+      {
+        "trait_type": "Base Plate",
+        "value": "Black"
+      },
+      {
+        "trait_type": "VIP",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 995,
+        "display_type": "number"
+      }
+    ]
+  }
+}

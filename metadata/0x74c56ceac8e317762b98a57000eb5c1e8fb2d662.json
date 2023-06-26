@@ -1,0 +1,101 @@
+{
+  "address": "0x74c56ceac8e317762b98a57000eb5c1e8fb2d662",
+  "type": "ERC721",
+  "name": "1216sdafqewr",
+  "tokenCount": "1023",
+  "uri": "https://api.artblocks.io/token/214000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "214000001",
+    "series": 5,
+    "aspect_ratio": 0.75,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Bent #1",
+    "minted": true,
+    "artist": "ippsketch",
+    "description": "Lines are bent and shaded. There are no wrong turns. \n\n[Interaction in live view: press 1-7 or left/right arrow keys to see the stages of sketch construction: 1-grid, 2-divide, 3-tile, 4-bend, 5-shade, 6-color, 7-texture].",
+    "script_type": "p5@1.0.0",
+    "project_id": "214",
+    "curation_status": "curated",
+    "heritage_curation_status": "curated series 5",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/214000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/214000001.png",
+    "generator_url": "https://generator.artblocks.io/214000001",
+    "royaltyInfo": {
+      "artistAddress": "0xf523011fc571d67beb53ee108fdeb010d1addbe9",
+      "additionalPayee": "0xf523011fc571d67beb53ee108fdeb010d1addbe9",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Bent by ippsketch",
+    "website": "https://ippsketch.com/bent/",
+    "token_hash": "0x795b5784c77a984b01b1a9e4782ca668f8f30e20e3f97dda4c80b9511bc4f3f7",
+    "external_url": "https://artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/214/tokens/214000001",
+    "primary_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/214000001.png",
+    "features": {
+      "Size": "Medium",
+      "Border": "Yes",
+      "Ribbon": "No",
+      "Shaded": "Yes",
+      "Touching": "No",
+      "Line Color": "Autumn",
+      "Primary Line": "Thin",
+      "Secondary Line": "Yes",
+      "Background Color": "Light",
+      "Bending Mechanism": "Center",
+      "Dividing Mechanism": "Group"
+    },
+    "traits": [
+      {
+        "trait_type": "Bent",
+        "value": "All Bents"
+      },
+      {
+        "trait_type": "Bent",
+        "value": "Size: Medium"
+      },
+      {
+        "trait_type": "Bent",
+        "value": "Border: Yes"
+      },
+      {
+        "trait_type": "Bent",
+        "value": "Ribbon: No"
+      },
+      {
+        "trait_type": "Bent",
+        "value": "Shaded: Yes"
+      },
+      {
+        "trait_type": "Bent",
+        "value": "Touching: No"
+      },
+      {
+        "trait_type": "Bent",
+        "value": "Line Color: Autumn"
+      },
+      {
+        "trait_type": "Bent",
+        "value": "Primary Line: Thin"
+      },
+      {
+        "trait_type": "Bent",
+        "value": "Secondary Line: Yes"
+      },
+      {
+        "trait_type": "Bent",
+        "value": "Background Color: Light"
+      },
+      {
+        "trait_type": "Bent",
+        "value": "Bending Mechanism: Center"
+      },
+      {
+        "trait_type": "Bent",
+        "value": "Dividing Mechanism: Group"
+      }
+    ],
+    "is_static": true,
+    "license": "CC BY-NC-ND 4.0"
+  }
+}

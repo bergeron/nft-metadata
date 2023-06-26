@@ -1,0 +1,19 @@
+{
+  "address": "0x8a10d305e5137dd0d2cf2551348c52c2e538edd2",
+  "type": "ERC1155",
+  "name": "PixelHeroes CHANGE ITEM",
+  "tokenCount": "1",
+  "uri": "https://pixelheroes-change-item.s3.ap-northeast-1.amazonaws.com/metadata/1.json",
+  "metadata": {
+    "name": "PCNH CHANGE ITEM #1",
+    "description": "このコレクションのNFTは、PixelHeroesシリーズのキャラクターを変身させるイベント【ピクチェン】で使用するアイテムの役割を持っています。【ピクチェン】によってキャラを変身させるとNFTは消滅します。\n\nThe NFTs in this collection have the role of items used in the PixelHeroes series 'PixelHeroes CHANGE' event, which transforms PixelHeroes series characters. The NFTs will disappear when the character is transformed by 'PixelHeroes CHANGE'.",
+    "image": "https://pixelheroes-change-item.s3.ap-northeast-1.amazonaws.com/images/1.png",
+    "animation_url": "https://pcnh.pixelheroes-dao.com/Pikuchen_PV_V4.mp4",
+    "attributes": [
+      {
+        "trait_type": "ITEM",
+        "value": "PCNH CHANGE ITEM #1"
+      }
+    ]
+  }
+}

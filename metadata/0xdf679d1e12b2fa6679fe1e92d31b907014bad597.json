@@ -1,0 +1,85 @@
+{
+  "address": "0xdf679d1e12b2fa6679fe1e92d31b907014bad597",
+  "type": "ERC721",
+  "name": "114as5d4fwqer",
+  "tokenCount": "399",
+  "uri": "https://api.artblocks.io/token/408000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "408000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "NimTeens #1",
+    "minted": true,
+    "artist": "Bryan Brinkman",
+    "description": "A collection of on-chain, generative cumulonimbus teenagers, ready for their class photo. A fun follow-up to NimBuds (Art Blocks Project #10). \n\nCreated using vanilla javascript, each unique NimTeen features random hair, colors, eyes, mouths, acne, bodies,backdrops and more. Each with its own personality.",
+    "script_type": "js@n/a",
+    "project_id": "408",
+    "curation_status": "presents",
+    "image": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/408000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/408000001.png",
+    "generator_url": "https://generator.artblocks.io/408000001",
+    "animation_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/408000001",
+    "royaltyInfo": {
+      "artistAddress": "0x1e8e749b2b578e181ca01962e9448006772b24a2",
+      "additionalPayee": "0x9d5025b327e6b863e5050141c987d988c07fd8b2",
+      "additionalPayeePercentage": 10,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "NimTeens by Bryan Brinkman",
+    "website": "http://www.nimteens.com",
+    "token_hash": "0x8559fbf933f38c74fe92c400c43a08477978ea6465d1e2e65e49811a52af6c1e",
+    "external_url": "https://artblocks.io/collections/presents/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/408/tokens/408000001",
+    "primary_asset_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/408000001",
+    "features": {
+      "Emo": false,
+      "Tie": "none",
+      "Bald": false,
+      "Wink": false,
+      "Frames": "false",
+      "Backdrop": "Brinkman",
+      "Eyelashes": false,
+      "Blink Rate": "14.2 seconds",
+      "Mouth Width": 40,
+      "Eye Distance": 21.4,
+      "Smile Amount": 41.9
+    },
+    "traits": [
+      {
+        "trait_type": "NimTeens",
+        "value": "All NimTeens"
+      },
+      {
+        "trait_type": "NimTeens",
+        "value": "Emo: false"
+      },
+      {
+        "trait_type": "NimTeens",
+        "value": "Tie: none"
+      },
+      {
+        "trait_type": "NimTeens",
+        "value": "Bald: false"
+      },
+      {
+        "trait_type": "NimTeens",
+        "value": "Wink: false"
+      },
+      {
+        "trait_type": "NimTeens",
+        "value": "Frames: false"
+      },
+      {
+        "trait_type": "NimTeens",
+        "value": "Backdrop: Brinkman"
+      },
+      {
+        "trait_type": "NimTeens",
+        "value": "Eyelashes: false"
+      }
+    ],
+    "is_static": false,
+    "license": "NFT License 2.0"
+  }
+}

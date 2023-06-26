@@ -1,0 +1,45 @@
+{
+  "address": "0x201db8d5e005b98f044f9c7b8196e4a88d4f9bda",
+  "type": "ERC721",
+  "name": "Official Cool Beanz",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmU3jFhuqVh5f9BivWvE44ftcKZ72AtEZCUMMXnjAz1LVb/1.json",
+  "metadata": {
+    "name": "Cool Bean #1",
+    "description": "Cool Beanz are a mashup of Cool Cats and Beanz!",
+    "image": "ipfs://QmbRPpifWyGbeSdxTTQyfgH4ZQj1HgNFB1JVzfYBoJz2Y7/1.png",
+    "edition": 1,
+    "date": 1665451422384,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Jelly Bean"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Sheriff"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Owo"
+      },
+      {
+        "trait_type": "Right Hand",
+        "value": "Bonbori"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "None"
+      },
+      {
+        "trait_type": "Left Hand",
+        "value": "Lollipop"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

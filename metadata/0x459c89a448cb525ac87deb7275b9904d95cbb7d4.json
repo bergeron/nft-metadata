@@ -1,0 +1,33 @@
+{
+  "address": "0x459c89a448cb525ac87deb7275b9904d95cbb7d4",
+  "type": "ERC721",
+  "name": "giveaways",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=zSdK4jF2PZuzvAKTzk2P",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1586209501836?alt=media&token=012e2c08-21d5-4b33-aa43-632b307e1c00",
+    "forSale": false,
+    "contractAddress": "0x459c89a448cb525ac87deb7275b9904d95cbb7d4",
+    "description": "Whale shark meme by Allbi",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1586209523,
+      "_nanoseconds": 199000000
+    },
+    "price": 0,
+    "name": "whale shark",
+    "fiatPrice": "$0.00",
+    "attributes": [
+      {
+        "trait_type": "website",
+        "value": "https://app.rarible.com/allbi"
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x459c89a448cb525ac87deb7275b9904d95cbb7d4",
+    "type": "ERC721"
+  }
+}

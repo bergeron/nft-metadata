@@ -1,0 +1,23 @@
+{
+  "address": "0x0311d3e4a472a21d18cf5491224258b61147d34c",
+  "type": "ERC1155",
+  "name": "CF: Void Rewards",
+  "tokenCount": "8",
+  "uri": "https://cloneforce.xyz/api/voidrewards/metadata/1",
+  "metadata": {
+    "name": "Mark of the Gods",
+    "description": "A medallion given to those who completed the trial of the Angel.",
+    "attributes": [
+      {
+        "trait_type": "God",
+        "value": "Amaterasu"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Medallion"
+      }
+    ],
+    "image": "ipfs://bafybeiecgsj24k2zk34xba24skyi35zxlmy6rznmn6mhpcr2tvuwfqn5cu/1.jpg",
+    "animation_url": "ipfs://bafybeiecgsj24k2zk34xba24skyi35zxlmy6rznmn6mhpcr2tvuwfqn5cu/1.mp4"
+  }
+}

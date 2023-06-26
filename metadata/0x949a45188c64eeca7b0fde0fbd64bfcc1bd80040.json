@@ -1,0 +1,40 @@
+{
+  "address": "0x949a45188c64eeca7b0fde0fbd64bfcc1bd80040",
+  "type": "ERC721",
+  "name": "idDOG Club Membership Pass",
+  "tokenCount": "41",
+  "uri": "ipfs://QmQVHHc3dsmtMWva2LyVpXf2dTEaYf3XYSUBSNA5d7soVc/1",
+  "metadata": {
+    "name": "idDOG Club Member Pass",
+    "description": "The idDOG lifetime club member access pass grants access to the state of the art platform designed for people and their pets. Join an active community, earn rewards, and event access. Take advantage of exclusive offers, discounts, and the data storage vault reserved to idDOG members and more.",
+    "image": "ipfs://QmXPVjbVfZAdvCZpV1gCH7uaDqgxsG5m5E1rFQuExvm6hN/00.png",
+    "external_url": "https://iddog.com",
+    "animation_url": "ipfs://QmXPVjbVfZAdvCZpV1gCH7uaDqgxsG5m5E1rFQuExvm6hN/01.mp4",
+    "attributes": [
+      {
+        "trait_type": "Membership Type",
+        "value": "Lifetime Club Member"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Blue/Teal Gradient"
+      },
+      {
+        "trait_type": "Platform Access",
+        "value": "Full Club Access "
+      },
+      {
+        "trait_type": "Vault Minter Access",
+        "value": "Allowed "
+      },
+      {
+        "trait_type": "Batch",
+        "value": "V.1.01"
+      },
+      {
+        "trait_type": "Serial Number",
+        "value": "1"
+      }
+    ]
+  }
+}

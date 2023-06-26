@@ -1,0 +1,32 @@
+{
+  "address": "0xdb6993dfabe6d6b425753b0e5f9f5aa89ac8b9b6",
+  "type": "ERC721",
+  "name": "Memory Box",
+  "tokenCount": "1",
+  "uri": "ipfs://QmdC5gbrSTrdsoGFc2J2XPJ5d2jKCCs4TMRRW27PkY9XpG/relic.json",
+  "metadata": {
+    "name": "Canon in D: Macintosh Plus",
+    "description": "Macintosh Plus programmed in BASIC to play Canon in D, circa 1994.",
+    "creator": "DeafBeef",
+    "image_details": {
+      "bytes": 839332,
+      "format": "PNG",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "482d10c75410b9731d78dad51acdd5822709ee7e7db1533cda0e624619b9a6e3"
+    },
+    "image": "ipfs://QmTbyFBEY87xdCVgmu3KyM6C4wkyH7USmSGvXBZdP9mJRf/canon_cover_image.png",
+    "animation_details": {
+      "bytes": 37981237,
+      "format": "MP4",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "61c98d4fca7777e5fd4bc72da130051c7fc045bbe17ddeb910a2e18f7bfa5114"
+    },
+    "animation_url": "ipfs://QmTbyFBEY87xdCVgmu3KyM6C4wkyH7USmSGvXBZdP9mJRf/canon.mp4",
+    "ensemble": {
+      "files": "ipfs://QmTbyFBEY87xdCVgmu3KyM6C4wkyH7USmSGvXBZdP9mJRf/canon_listing.txt",
+      "sha256": "259a0088be92014b47b61a399a8cf9b1f4d743104d3cc236c09007feeff1c16a"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "address": "0x725c9dd0528b0129c239a5a3bfd9d811380b695d",
+  "type": "ERC721",
+  "name": "eth collection",
+  "tokenCount": "2",
+  "uri": "ipfs://bafkreiff67456a4kxi3oo3roqydfsky3u7fwdg57eaiq6e35lbozhf7eay",
+  "metadata": {
+    "name": "Test NFT",
+    "symbol": "XMINTETH",
+    "description": "Test NFT Description",
+    "image": "ipfs://bafkreicpo27222pvricma2v2hximznth6raf5nllddoolvoav4awyvwypi",
+    "external_url": "",
+    "collection": {
+      "name": "eth collection",
+      "description": "here goes nothing",
+      "image": "https://uploads-ssl.webflow.com/6297408732daee649fa48f62/63515a46a3aad38abe8aab9c_Crossmint-Horizontal-DarkBackgrounds%201.png"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://uploads-ssl.webflow.com/6297408732daee649fa48f62/63515a46a3aad38abe8aab9c_Crossmint-Horizontal-DarkBackgrounds%201.png",
+          "type": "png"
+        }
+      ],
+      "category": "image"
+    },
+    "attributes": [
+      {
+        "trait_type": "test1",
+        "value": "one"
+      },
+      {
+        "trait_type": "test2",
+        "value": "two"
+      },
+      {
+        "trait_type": "test3",
+        "value": "three"
+      },
+      {
+        "trait_type": "test4",
+        "value": "four"
+      },
+      {
+        "trait_type": "test5",
+        "value": "five"
+      },
+      {
+        "trait_type": "test6",
+        "value": "six"
+      },
+      {
+        "trait_type": "test7",
+        "value": "seven"
+      },
+      {
+        "trait_type": "test8",
+        "value": "eight"
+      },
+      {
+        "trait_type": "test9",
+        "value": "nine"
+      },
+      {
+        "trait_type": "test10",
+        "value": "ten"
+      }
+    ]
+  }
+}

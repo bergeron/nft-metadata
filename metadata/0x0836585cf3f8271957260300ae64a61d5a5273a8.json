@@ -1,0 +1,59 @@
+{
+  "address": "0x0836585cf3f8271957260300ae64a61d5a5273a8",
+  "type": "ERC721",
+  "name": "Middle Earth Cats",
+  "tokenCount": "120",
+  "uri": "ipfs://bafybeicqszlbszuwfab2joqqx6ezmweostquvso5dphtk6n3xppvvelzai/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "Join the fellowship and journey around Middle Earth, all the way to Mordor!",
+    "image": "ipfs://bafybeibqjv22feusto2dgpa3p6rtag4tsw5o6c27ebzgvtwp5ozypopzce/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red Sun"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Slim Shirt Black Vest"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Curly Dusty"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Fangs Open"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Cunning"
+      },
+      {
+        "trait_type": "Scarf",
+        "value": "Scarf Blue"
+      },
+      {
+        "trait_type": "Item",
+        "value": "Walking Stick"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://the-nft-generator.com",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "symbol": "",
+    "collection": {
+      "name": "Middle Earth Cats",
+      "family": "Middle Earth Cats"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "address": "0x6efc2d6e70d885e7e265520c8260ab0a7c9961de",
+  "type": "ERC721",
+  "name": "SquidCadets",
+  "tokenCount": "41",
+  "uri": "ipfs://bafybeigdzj22mcnio4krciqp6tcamur33ui6gk3wyqrrpn3546mcnjfrta/1.json",
+  "metadata": {
+    "name": "SquidCadet #1",
+    "description": "",
+    "fee_recipient": "0xa4068076EC64139a94b3f0F0ad5A0a0255aBC06b",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://bafybeicf2nl5ptok3fob7d6wzaiuueonpnvvwibggngfaa6cd5i2mugn3q/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Raddish"
+      },
+      {
+        "trait_type": "Border",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Goggles",
+        "value": "Rose"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Poison"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 14,
+        "display_type": "number"
+      }
+    ]
+  }
+}

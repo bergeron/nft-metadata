@@ -1,0 +1,31 @@
+{
+  "address": "0x468843c2afe42936f5d37830fa878437322b8a7a",
+  "type": "ERC721",
+  "name": "Krams",
+  "tokenCount": "1",
+  "uri": "https://markhudnall.com/kram/1.json",
+  "metadata": {
+    "name": "Landakram's Lambda Crown",
+    "external_url": "https://markhudnall.com/",
+    "image": "https://markhudnall.com/kram/1.png",
+    "description": "A circular lambda crown that bestows certain abilities upon its wearer.",
+    "attributes": [
+      {
+        "trait_type": "Charisma",
+        "value": 7
+      },
+      {
+        "trait_type": "Intellect",
+        "value": 10
+      },
+      {
+        "trait_type": "Strength",
+        "value": 8
+      },
+      {
+        "trait_type": "Spirit",
+        "value": 11
+      }
+    ]
+  }
+}

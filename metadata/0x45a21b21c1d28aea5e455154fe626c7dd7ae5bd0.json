@@ -1,0 +1,55 @@
+{
+  "address": "0x45a21b21c1d28aea5e455154fe626c7dd7ae5bd0",
+  "type": "ERC721",
+  "name": "The GZale Art Gallery V9",
+  "tokenCount": "44",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=peYMSLEUmzUnYlGJ4iE8",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1582256615277?alt=media&token=7e1a3df6-5c37-47d4-b9aa-e2cf1c33a1ef",
+    "forSale": true,
+    "contractAddress": "0x45a21b21c1d28aea5e455154fe626c7dd7ae5bd0",
+    "description": "The first in a series of digital tributes to the Sea.",
+    "tags": [],
+    "amountToMint": 7,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1582256846,
+      "_nanoseconds": 871000000
+    },
+    "price": "0.07",
+    "name": "She, the sea.",
+    "fiatPrice": "$18.46",
+    "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      },
+      {
+        "trait_type": "website",
+        "value": "https://twitter.com/CryptoJ47840419"
+      },
+      {
+        "trait_type": "location",
+        "value": "Kure Beach, NC, USA"
+      },
+      {
+        "trait_type": "place_id",
+        "value": "ChIJA3u846j4qYkRRgq8dBhO2F8"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1582174800
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": 1593489600
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x45a21b21c1d28aea5e455154fe626c7dd7ae5bd0",
+    "type": "ERC721"
+  }
+}

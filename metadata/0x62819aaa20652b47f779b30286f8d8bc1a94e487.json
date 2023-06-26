@@ -1,0 +1,40 @@
+{
+  "address": "0x62819aaa20652b47f779b30286f8d8bc1a94e487",
+  "type": "ERC721",
+  "name": "KevinApe",
+  "tokenCount": "555",
+  "uri": "ipfs://bafybeiemlwret7ccexk54qgo2pchw7vpwosebdukjctbtydczuwddbiyna/1.json",
+  "metadata": {
+    "name": "Kevin Ape #1",
+    "description": "555 Kevins but Apes",
+    "external_url": "https://kevinapes.io",
+    "image": "ipfs://QmV4qnmKZ1WvSBvsiZfXtopBucwZXLft1k8sR3aGnDSEMo/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Base"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Striped Shirt"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Thug Life Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Rabbit Ears"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

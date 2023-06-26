@@ -1,0 +1,45 @@
+{
+  "address": "0xd21a23606d2746f086f6528cd6873bad3307b903",
+  "type": "ERC721",
+  "name": "Sewer Rat Social Club",
+  "tokenCount": "8888",
+  "uri": "https://www.sewerratsocial.club/api/rats/metadata?id=1",
+  "metadata": {
+    "name": "Sewer Rat 1",
+    "image": "https://www.sewerratsocial.club/api/rats/image?id=1",
+    "attributes": [
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Brick"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pink Lipstick"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eyelashes"
+      },
+      {
+        "trait_type": "Noggin",
+        "value": "Skull Cap"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Mammoth Skull"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Goggles"
+      }
+    ]
+  }
+}

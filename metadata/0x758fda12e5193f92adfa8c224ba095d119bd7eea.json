@@ -1,0 +1,77 @@
+{
+  "address": "0x758fda12e5193f92adfa8c224ba095d119bd7eea",
+  "type": "ERC721",
+  "name": "qewrqwereqrw99",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/76000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "76000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "dino pals #1",
+    "minted": true,
+    "artist": "hideo",
+    "description": "Adorable prehistoric pets generated in a pseudo 3d space using vector graphics.\nExplore the different species, colors and personalities.",
+    "script_type": "zdog@1.1.2",
+    "project_id": "76",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/76000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/76000001.png",
+    "generator_url": "https://generator.artblocks.io/76000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/76000001",
+    "royaltyInfo": {
+      "artistAddress": "0xe18fc96ba325ef22746ada9a82d521845a2c16f8",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "dino pals by hideo",
+    "website": "https://twitter.com/hideogenart",
+    "token_hash": "0x08a15a2c7a83f1da340b3ba6be92835ec98452bfc95ab4e2dd9a64bfe91f381d",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/76/tokens/76000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/76000001",
+    "features": {
+      "mouth": "meh",
+      "world": "vulcanic",
+      "species": "velociraptor",
+      "eyebrows": "angry",
+      "eye color": "light purple",
+      "main color": "black"
+    },
+    "traits": [
+      {
+        "trait_type": "dino pals",
+        "value": "All dino pals"
+      },
+      {
+        "trait_type": "dino pals",
+        "value": "mouth: meh"
+      },
+      {
+        "trait_type": "dino pals",
+        "value": "world: vulcanic"
+      },
+      {
+        "trait_type": "dino pals",
+        "value": "species: velociraptor"
+      },
+      {
+        "trait_type": "dino pals",
+        "value": "eyebrows: angry"
+      },
+      {
+        "trait_type": "dino pals",
+        "value": "eye color: light purple"
+      },
+      {
+        "trait_type": "dino pals",
+        "value": "main color: black"
+      }
+    ],
+    "is_static": false,
+    "license": "NIFTY License"
+  }
+}

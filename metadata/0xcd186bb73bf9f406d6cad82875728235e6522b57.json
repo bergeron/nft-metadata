@@ -1,0 +1,31 @@
+{
+  "address": "0xcd186bb73bf9f406d6cad82875728235e6522b57",
+  "type": "ERC721",
+  "name": "DeFi Frens Collection",
+  "tokenCount": "5555",
+  "uri": "https://defifrensdata.lol/publicjson/1.json",
+  "metadata": {
+    "name": "Fren #1",
+    "description": "A collection of 5,555 fully animated DeFi Frens living in a DeFi world!",
+    "external_url": "https://www.defifrens.io/",
+    "image": "https://defifrensdata.lol/publicmp4/1.mp4",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background4"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Confetti Party Hat"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Navy Cardigan"
+      },
+      {
+        "trait_type": "Action",
+        "value": "Skip"
+      }
+    ]
+  }
+}

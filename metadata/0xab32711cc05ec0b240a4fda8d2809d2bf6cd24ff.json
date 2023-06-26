@@ -1,0 +1,75 @@
+{
+  "address": "0xab32711cc05ec0b240a4fda8d2809d2bf6cd24ff",
+  "type": "ERC1155",
+  "name": "Crypto Cloud Punks CCP",
+  "tokenCount": "888",
+  "uri": "ipfs://QmbBkToXCpyUE5rSqQEbChBvhuUgJkhpBh4fTqmWgZe1sR/1.json",
+  "metadata": {
+    "fileID": "1",
+    "description": "The all in one NFT Punks coming to you straight from the Crypto Cloud.",
+    "external_url": "https://www.cryptocloudpunks.com/",
+    "image": "ipfs://QmT43K3pYHjAP16Bzye1bwea13ebY2j6aLyvt1oYunMSvw/1.png",
+    "name": "Crypto Cloud Punks #1",
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "Split",
+    "attributes": [
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Speed",
+        "value": 20
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Net Worth",
+        "value": 27000
+      },
+      {
+        "trait_type": "Home",
+        "value": "Beach House"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Fight Experience",
+        "value": 60
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Driving Experience",
+        "value": 90
+      },
+      {
+        "trait_type": "Criminal Record",
+        "value": "No"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Connections",
+        "value": 545
+      },
+      {
+        "trait_type": "Smoke",
+        "value": "None"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Purple Hat"
+      },
+      {
+        "trait_type": "Eyeglasses",
+        "value": "Cool Pink Eyeglasses"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Monk"
+      },
+      {
+        "trait_type": "Job",
+        "value": "Pilot"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Alpha Blue"
+      }
+    ]
+  }
+}

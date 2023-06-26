@@ -1,0 +1,45 @@
+{
+  "address": "0x6737c71f135cff3b1455566226841020ed4c80ea",
+  "type": "ERC721",
+  "name": "The NFT Pioneers",
+  "tokenCount": "100",
+  "uri": "https://bafybeififgzmxxyktxjjg2asvvnenkjq2w7scy5dh27u5xyqa2n7ufgfrq.ipfs.dweb.link/1.json",
+  "metadata": {
+    "name": "The NFT Pioneers #1",
+    "description": "This is \"The NFT Pioneers Podcast Token\", which will be limited to 100 tokens and serves as a gift to every guest for sharing their knowledge on our podcast. Each holder of the token will have access to a one-hour NFT consulting session, limited access to the LinkedIn Group for networking with industry experts + daily NFT news, and yearly access to the experts-only NFT event in Vienna, which will take place on 22 August every year. The Unique Identifier is randomly generated and represents seat number at the event. ©nouz.co #1",
+    "attributes": [
+      {
+        "trait_type": "Podcast",
+        "value": "The NFT Pioneers"
+      },
+      {
+        "trait_type": "Token Benefit",
+        "value": "Access"
+      },
+      {
+        "trait_type": "Access type 1",
+        "value": "1 Hour Consulting"
+      },
+      {
+        "trait_type": "Access type 2",
+        "value": "Limited Group Access"
+      },
+      {
+        "trait_type": "Access type 3",
+        "value": "Free Event Access"
+      },
+      {
+        "trait_type": "Unique Identifier",
+        "value": "46"
+      }
+    ],
+    "creators": [],
+    "collection": {
+      "name": "The NFT Pioneers",
+      "family": "Speaker Gift"
+    },
+    "symbol": "TNP",
+    "seller_fee_basis_points": 5,
+    "image": "https://bafybeibldybgwpwtu3rjwc7xpknjzcwnmbfi25n2ch3gfz7irjp32a4wmu.ipfs.dweb.link/1.png"
+  }
+}

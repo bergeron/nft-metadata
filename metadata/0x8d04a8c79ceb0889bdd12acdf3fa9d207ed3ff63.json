@@ -1,0 +1,38 @@
+{
+  "address": "0x8d04a8c79ceb0889bdd12acdf3fa9d207ed3ff63",
+  "type": "ERC721",
+  "name": "Blitmap",
+  "tokenCount": "1700",
+  "uri": "https://api.blitmap.com/v1/metadata/1",
+  "metadata": {
+    "image": "https://api.blitmap.com/v1/png/1",
+    "name": "#1 - Rose",
+    "description": "Blitmap is a community crafted art collection and universe. All data is completely on chain.\n\n[blitmap.com](https://www.blitmap.com)",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Original"
+      },
+      {
+        "trait_type": "Composition",
+        "value": "Rose (#1)"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Rose (#1)"
+      },
+      {
+        "trait_type": "Affinity",
+        "value": "Fire III"
+      },
+      {
+        "trait_type": "Slabs",
+        "value": "◢ ◢ ◢ ◥"
+      },
+      {
+        "trait_type": "Attunement",
+        "value": "Attuned"
+      }
+    ]
+  }
+}

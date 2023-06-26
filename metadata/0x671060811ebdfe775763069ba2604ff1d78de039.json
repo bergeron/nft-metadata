@@ -1,0 +1,27 @@
+{
+  "address": "0x671060811ebdfe775763069ba2604ff1d78de039",
+  "type": "ERC721",
+  "name": "Nft bubbles",
+  "tokenCount": "256",
+  "uri": "https://metanftbucket.s3.us-east-2.amazonaws.com/1.json",
+  "metadata": {
+    "image": "https://metanftbucket.s3.us-east-2.amazonaws.com/1.png",
+    "description": "This NFT was procedurally generated. It's the NFT bubbles!",
+    "edition": 1,
+    "name": "#204",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Vastly rare"
+      },
+      {
+        "trait_type": "Massiveness",
+        "value": "Saturn"
+      },
+      {
+        "trait_type": "Galactic",
+        "value": "Distinguished"
+      }
+    ]
+  }
+}

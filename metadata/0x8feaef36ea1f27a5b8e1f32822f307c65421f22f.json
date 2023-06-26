@@ -1,0 +1,42 @@
+{
+  "address": "0x8feaef36ea1f27a5b8e1f32822f307c65421f22f",
+  "type": "ERC721",
+  "name": "Dragon Yacht Club",
+  "tokenCount": "100",
+  "uri": "ipfs://Qma7VNHt4J7WfyGRpAXVwvXur21wtQyADbdbapruHDfRpo/1.json",
+  "metadata": {
+    "name": "Dragon #1",
+    "description": "",
+    "image": "ipfs://QmdVVHbZBE2dEu9Vz8C4kLZM26EBZAKS6eRP6isibaJcMj/1.png",
+    "dna": "60d411e8ddcc5134dd31b6dc3d6ecf7c66aef604",
+    "edition": 1,
+    "date": 1641748660753,
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "Light Purple"
+      },
+      {
+        "trait_type": "SKIN",
+        "value": "Green"
+      },
+      {
+        "trait_type": "EYES ACCESSORY",
+        "value": "Mirror Glasses"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "Green Sweater"
+      },
+      {
+        "trait_type": "NECK ACCESSORY",
+        "value": "Star Chain"
+      },
+      {
+        "trait_type": "TOP ACCESSORY",
+        "value": "Propeller Hat"
+      }
+    ],
+    "compiler": "Art Engine"
+  }
+}

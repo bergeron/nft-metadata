@@ -1,0 +1,33 @@
+{
+  "address": "0xa99ccf07e6f701ec9fa729acdb1079e91f500d98",
+  "type": "ERC721",
+  "name": "Rabbit2023 NFT",
+  "tokenCount": "45",
+  "uri": "ipfs://QmepDgPjor1apBLc33PJbNvTnFi97vR8QhSEiQVWkgG8Qk/1",
+  "metadata": {
+    "name": "Rabbit2023#2",
+    "description": " ",
+    "image": "ipfs://QmPvKjaRHWKo3ag5FR3SwyYT4n32xsTZV4vubyMyvwvkQe/1.png",
+    "external_url": "https://www.rabbit2023.com/",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": []
+    },
+    "attributes": [
+      {
+        "trait_type": "Character",
+        "value": "Elon Musk"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "Purple Eye"
+      }
+    ]
+  }
+}

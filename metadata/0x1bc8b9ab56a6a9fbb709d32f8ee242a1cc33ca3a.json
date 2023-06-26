@@ -1,0 +1,51 @@
+{
+  "address": "0x1bc8b9ab56a6a9fbb709d32f8ee242a1cc33ca3a",
+  "type": "ERC721",
+  "name": "Mondrian Inspired Rotational Squares",
+  "tokenCount": "1081",
+  "uri": "ipfs://bafybeig4hhtoocpneveqpxe2hk5ooahnt3yylboc65fsm2lsb3umcryc7q/1",
+  "metadata": {
+    "name": "MIRS 00001",
+    "description": "Mondrian Inspired Rotational Squares. Generative modern art utilising rotational symmetry. Inspired by Mondrian.",
+    "image": "ipfs://bafybeifgzpsl32ddyjzy5wfavfciasfobabotebbs5ecfvzzr2nnqlp2ym/MIRS 00001.png",
+    "attributes": [
+      {
+        "trait_type": "Centre Top Left",
+        "value": "Alternate Yellow White"
+      },
+      {
+        "trait_type": "Centre Top Right",
+        "value": "Alternate White White"
+      },
+      {
+        "trait_type": "Centre Lower Right",
+        "value": "Alternate Yellow White"
+      },
+      {
+        "trait_type": "Centre Lower Left",
+        "value": "White Square"
+      },
+      {
+        "trait_type": "North",
+        "value": "White"
+      },
+      {
+        "trait_type": "East",
+        "value": "White"
+      },
+      {
+        "trait_type": "South",
+        "value": "M White L White"
+      },
+      {
+        "trait_type": "West",
+        "value": "M White M White S Blue"
+      },
+      {
+        "trait_type": "Notable Attributes",
+        "value": "Two Colours"
+      }
+    ],
+    "compiler": "HeyMint CSV-to-Metadata Converter (heymint.xyz)"
+  }
+}

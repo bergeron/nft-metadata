@@ -1,0 +1,645 @@
+{
+  "address": "0x21ac5f6c96ccb174115b18318e3e340237a55606",
+  "type": "ERC721",
+  "name": "Stacys",
+  "tokenCount": "142",
+  "uri": "https://stacys-v2.s3.us-east-2.amazonaws.com/stacys/1",
+  "metadata": {
+    "name": "Stacy #1: Stacy",
+    "description": "Stacys are hand-drawn, collectable pixel art NFTs minted through block chain technology. \n\nThere are different series of Stacys including species, limited and special holiday editions. \n\nEach series has common, uncommon, rare, legendary and **special** variants.  Which Stacys can you collect? \n\nThis NFT was originally created on the OpenSea Storefront on March 25, 2021 and was migrated to a custom contract on November 19, 2022",
+    "image": "https://stacys-v2.s3.us-east-2.amazonaws.com/stacys/1.gif",
+    "original_contract_address": "0x495f947276749ce646f68ac8c248420045cb7b5e",
+    "original_token_id": "49949388378051653683986555167011770124866897184891886820722263435934240342017",
+    "attributes": [
+      {
+        "trait_type": "Series",
+        "value": "Origins",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 11,
+        "order": null
+      },
+      {
+        "trait_type": "Type",
+        "value": "Sweet",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 9,
+        "order": null
+      },
+      {
+        "trait_type": "Hair Color",
+        "value": "Blonde",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 10,
+        "order": null
+      },
+      {
+        "trait_type": "Species",
+        "value": "Human",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 66,
+        "order": null
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Special",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 31,
+        "order": null
+      },
+      {
+        "trait_type": "Original Mint Date",
+        "value": "March 25, 2021"
+      }
+    ],
+    "owners": [
+      {
+        "owner": {
+          "user": {
+            "username": "BrookVault"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/8.png",
+          "address": "0xe7c803b8282b3175f19341419eee28e6a4d04a5a",
+          "config": ""
+        },
+        "quantity": "1",
+        "created_date": "2021-12-19T03:41:31.634437+00:00"
+      }
+    ],
+    "events": [
+      {
+        "asset_bundle": null,
+        "event_type": "offer_entered",
+        "event_timestamp": "2022-02-03T03:22:26.660765",
+        "auction_type": null,
+        "total_price": null,
+        "payment_token": {
+          "symbol": "WETH",
+          "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "image_url": "https://openseauserdata.com/files/accae6b6fb3888cbff27a013729c22dc.svg",
+          "name": "Wrapped Ether",
+          "decimals": 18,
+          "eth_price": "1.000000000000000",
+          "usd_price": "1243.730000000000018000"
+        },
+        "transaction": null,
+        "created_date": "2022-02-03T03:22:26.666311",
+        "quantity": "1",
+        "approved_account": null,
+        "bid_amount": "500000000000000000",
+        "collection_slug": "stacys",
+        "contract_address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+        "custom_event_name": null,
+        "dev_fee_payment_event": null,
+        "dev_seller_fee_basis_points": null,
+        "duration": null,
+        "ending_price": null,
+        "from_account": {
+          "user": {
+            "username": "cnnnnnnnnr"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/17.png",
+          "address": "0x8fd2fd46df0159d013a336d8a8dde6a1167bf376",
+          "config": ""
+        },
+        "id": 3232940212,
+        "is_private": null,
+        "owner_account": null,
+        "seller": null,
+        "starting_price": null,
+        "to_account": null,
+        "winner_account": null,
+        "listing_time": null
+      },
+      {
+        "asset_bundle": null,
+        "event_type": "transfer",
+        "event_timestamp": "2021-12-19T03:40:48",
+        "auction_type": null,
+        "total_price": null,
+        "payment_token": null,
+        "transaction": {
+          "block_hash": "0x4923109d079bffeea6595ff5d4cce5b804843578b12223e5a1f694e2ebbb313c",
+          "block_number": "13833207",
+          "from_account": {
+            "user": {
+              "username": "BrookHawk"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/27.png",
+            "address": "0x7b511800a8d8e7de24dd19de3103081824b6f41d",
+            "config": ""
+          },
+          "id": 226833689,
+          "timestamp": "2021-12-19T03:40:48",
+          "to_account": {
+            "user": null,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/27.png",
+            "address": "0x495f947276749ce646f68ac8c248420045cb7b5e",
+            "config": ""
+          },
+          "transaction_hash": "0xa6c87803fe24639080b2cc8de0e06230d3f64a6e37a63897709abdab3e271544",
+          "transaction_index": "288"
+        },
+        "created_date": "2021-12-19T03:41:31.655659",
+        "quantity": "1",
+        "approved_account": null,
+        "bid_amount": null,
+        "collection_slug": "stacys",
+        "contract_address": "0x495f947276749ce646f68ac8c248420045cb7b5e",
+        "custom_event_name": null,
+        "dev_fee_payment_event": null,
+        "dev_seller_fee_basis_points": null,
+        "duration": null,
+        "ending_price": null,
+        "from_account": {
+          "user": {
+            "username": "BrookHawk"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/27.png",
+          "address": "0x7b511800a8d8e7de24dd19de3103081824b6f41d",
+          "config": ""
+        },
+        "id": 2557179800,
+        "is_private": null,
+        "owner_account": null,
+        "seller": null,
+        "starting_price": null,
+        "to_account": {
+          "user": {
+            "username": "BrookVault"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/8.png",
+          "address": "0xe7c803b8282b3175f19341419eee28e6a4d04a5a",
+          "config": ""
+        },
+        "winner_account": null,
+        "listing_time": null
+      },
+      {
+        "asset_bundle": null,
+        "event_type": "created",
+        "event_timestamp": "2021-06-27T21:29:03.244047",
+        "auction_type": "dutch",
+        "total_price": null,
+        "payment_token": {
+          "symbol": "ETH",
+          "address": "0x0000000000000000000000000000000000000000",
+          "image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+          "name": "Ether",
+          "decimals": 18,
+          "eth_price": "1.000000000000000",
+          "usd_price": "1243.730000000000018000"
+        },
+        "transaction": null,
+        "created_date": "2021-06-27T21:29:03.267672",
+        "quantity": "1",
+        "approved_account": null,
+        "bid_amount": null,
+        "collection_slug": "stacys",
+        "contract_address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+        "custom_event_name": null,
+        "dev_fee_payment_event": null,
+        "dev_seller_fee_basis_points": null,
+        "duration": null,
+        "ending_price": "100000000000000000000",
+        "from_account": {
+          "user": {
+            "username": "BrookHawk"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/27.png",
+          "address": "0x7b511800a8d8e7de24dd19de3103081824b6f41d",
+          "config": ""
+        },
+        "id": 231808043,
+        "is_private": null,
+        "owner_account": null,
+        "seller": {
+          "user": {
+            "username": "BrookHawk"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/27.png",
+          "address": "0x7b511800a8d8e7de24dd19de3103081824b6f41d",
+          "config": ""
+        },
+        "starting_price": "100000000000000000000",
+        "to_account": null,
+        "winner_account": null,
+        "listing_time": null
+      },
+      {
+        "asset_bundle": null,
+        "event_type": "transfer",
+        "event_timestamp": "2021-06-27T20:01:43",
+        "auction_type": null,
+        "total_price": null,
+        "payment_token": null,
+        "transaction": {
+          "block_hash": "0x02b9ee844806f1af3e351c2c1d4991aae2e322b636817aa25185e0f445707c99",
+          "block_number": "12718127",
+          "from_account": {
+            "user": {
+              "username": "CryptoStacy"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/12.png",
+            "address": "0x6e6e5a19f30e7f6519bb77c6d27d1b23d72b6f5f",
+            "config": ""
+          },
+          "id": 130239414,
+          "timestamp": "2021-06-27T20:01:43",
+          "to_account": {
+            "user": {
+              "username": "OpenSea-Orders"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+            "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "config": "verified"
+          },
+          "transaction_hash": "0x862d31ff95a3c04f3b281fe582f18d0da96adceab8f6089ef8c50beed5261649",
+          "transaction_index": "20"
+        },
+        "created_date": "2021-06-27T20:02:37.176390",
+        "quantity": "1",
+        "approved_account": null,
+        "bid_amount": null,
+        "collection_slug": "stacys",
+        "contract_address": "0x495f947276749ce646f68ac8c248420045cb7b5e",
+        "custom_event_name": null,
+        "dev_fee_payment_event": null,
+        "dev_seller_fee_basis_points": null,
+        "duration": null,
+        "ending_price": null,
+        "from_account": {
+          "user": {
+            "username": "CryptoStacy"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/12.png",
+          "address": "0x6e6e5a19f30e7f6519bb77c6d27d1b23d72b6f5f",
+          "config": ""
+        },
+        "id": 231599731,
+        "is_private": null,
+        "owner_account": null,
+        "seller": null,
+        "starting_price": null,
+        "to_account": {
+          "user": {
+            "username": "BrookHawk"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/27.png",
+          "address": "0x7b511800a8d8e7de24dd19de3103081824b6f41d",
+          "config": ""
+        },
+        "winner_account": null,
+        "listing_time": null
+      },
+      {
+        "asset_bundle": null,
+        "event_type": "successful",
+        "event_timestamp": "2021-06-27T20:01:43",
+        "auction_type": null,
+        "total_price": "100000000000000000",
+        "payment_token": {
+          "symbol": "WETH",
+          "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "image_url": "https://openseauserdata.com/files/accae6b6fb3888cbff27a013729c22dc.svg",
+          "name": "Wrapped Ether",
+          "decimals": 18,
+          "eth_price": "1.000000000000000",
+          "usd_price": "1243.730000000000018000"
+        },
+        "transaction": {
+          "block_hash": "0x02b9ee844806f1af3e351c2c1d4991aae2e322b636817aa25185e0f445707c99",
+          "block_number": "12718127",
+          "from_account": {
+            "user": {
+              "username": "CryptoStacy"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/12.png",
+            "address": "0x6e6e5a19f30e7f6519bb77c6d27d1b23d72b6f5f",
+            "config": ""
+          },
+          "id": 130239414,
+          "timestamp": "2021-06-27T20:01:43",
+          "to_account": {
+            "user": {
+              "username": "OpenSea-Orders"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+            "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "config": "verified"
+          },
+          "transaction_hash": "0x862d31ff95a3c04f3b281fe582f18d0da96adceab8f6089ef8c50beed5261649",
+          "transaction_index": "20"
+        },
+        "created_date": "2021-06-27T20:02:37.881617",
+        "quantity": "1",
+        "approved_account": null,
+        "bid_amount": null,
+        "collection_slug": "stacys",
+        "contract_address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+        "custom_event_name": null,
+        "dev_fee_payment_event": {
+          "asset": null,
+          "asset_bundle": null,
+          "event_type": "payout",
+          "event_timestamp": "2021-07-11T00:06:34",
+          "auction_type": null,
+          "total_price": null,
+          "payment_token": {
+            "symbol": "ETH",
+            "address": "0x0000000000000000000000000000000000000000",
+            "image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+            "name": "Ether",
+            "decimals": 18,
+            "eth_price": "1.000000000000000",
+            "usd_price": "1243.730000000000018000"
+          },
+          "transaction": {
+            "block_hash": "b'O\\t\\x9c\\x19\\xca\\x13\\xb0\\xda{\\xb6\\x0e<Q\\x1c0\\xca\\xd8y(\"\\xe9\\xc59g\\xc0\\xc6s\\n\\x01&\\xc4\\xc1'",
+            "block_number": "12802732",
+            "from_account": null,
+            "id": 134872684,
+            "timestamp": null,
+            "to_account": null,
+            "transaction_hash": "0x8902f6dc8292bc574412e7c50a1d86e52927d3d5ad2b3800259a431fcb06a66f",
+            "transaction_index": "214"
+          },
+          "created_date": "2021-07-11T00:06:43.322393",
+          "quantity": null
+        },
+        "dev_seller_fee_basis_points": 750,
+        "duration": null,
+        "ending_price": null,
+        "from_account": null,
+        "id": 231599741,
+        "is_private": null,
+        "owner_account": null,
+        "seller": {
+          "user": {
+            "username": "CryptoStacy"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/12.png",
+          "address": "0x6e6e5a19f30e7f6519bb77c6d27d1b23d72b6f5f",
+          "config": ""
+        },
+        "starting_price": null,
+        "to_account": null,
+        "winner_account": {
+          "user": {
+            "username": "BrookHawk"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/27.png",
+          "address": "0x7b511800a8d8e7de24dd19de3103081824b6f41d",
+          "config": ""
+        },
+        "listing_time": null
+      },
+      {
+        "asset_bundle": null,
+        "event_type": "bid_entered",
+        "event_timestamp": "2021-06-27T02:36:49.691102",
+        "auction_type": null,
+        "total_price": null,
+        "payment_token": {
+          "symbol": "WETH",
+          "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "image_url": "https://openseauserdata.com/files/accae6b6fb3888cbff27a013729c22dc.svg",
+          "name": "Wrapped Ether",
+          "decimals": 18,
+          "eth_price": "1.000000000000000",
+          "usd_price": "1243.730000000000018000"
+        },
+        "transaction": null,
+        "created_date": "2021-06-27T02:36:49.729417",
+        "quantity": "1",
+        "approved_account": null,
+        "bid_amount": "100000000000000000",
+        "collection_slug": "stacys",
+        "contract_address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+        "custom_event_name": null,
+        "dev_fee_payment_event": null,
+        "dev_seller_fee_basis_points": 750,
+        "duration": null,
+        "ending_price": null,
+        "from_account": {
+          "user": {
+            "username": "BrookHawk"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/27.png",
+          "address": "0x7b511800a8d8e7de24dd19de3103081824b6f41d",
+          "config": ""
+        },
+        "id": 229603270,
+        "is_private": null,
+        "owner_account": null,
+        "seller": null,
+        "starting_price": null,
+        "to_account": null,
+        "winner_account": null,
+        "listing_time": null
+      },
+      {
+        "asset_bundle": null,
+        "event_type": "created",
+        "event_timestamp": "2021-06-26T19:59:28.985449",
+        "auction_type": "english",
+        "total_price": null,
+        "payment_token": {
+          "symbol": "WETH",
+          "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "image_url": "https://openseauserdata.com/files/accae6b6fb3888cbff27a013729c22dc.svg",
+          "name": "Wrapped Ether",
+          "decimals": 18,
+          "eth_price": "1.000000000000000",
+          "usd_price": "1243.730000000000018000"
+        },
+        "transaction": null,
+        "created_date": "2021-06-26T19:59:29.015277",
+        "quantity": "1",
+        "approved_account": null,
+        "bid_amount": null,
+        "collection_slug": "stacys",
+        "contract_address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+        "custom_event_name": null,
+        "dev_fee_payment_event": null,
+        "dev_seller_fee_basis_points": null,
+        "duration": "604800",
+        "ending_price": "50000000000000000",
+        "from_account": {
+          "user": {
+            "username": "CryptoStacy"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/12.png",
+          "address": "0x6e6e5a19f30e7f6519bb77c6d27d1b23d72b6f5f",
+          "config": ""
+        },
+        "id": 229165805,
+        "is_private": null,
+        "owner_account": null,
+        "seller": {
+          "user": {
+            "username": "CryptoStacy"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/12.png",
+          "address": "0x6e6e5a19f30e7f6519bb77c6d27d1b23d72b6f5f",
+          "config": ""
+        },
+        "starting_price": "50000000000000000",
+        "to_account": null,
+        "winner_account": null,
+        "listing_time": null
+      },
+      {
+        "asset_bundle": null,
+        "event_type": "created",
+        "event_timestamp": "2021-03-29T22:39:51.281743",
+        "auction_type": "english",
+        "total_price": null,
+        "payment_token": {
+          "symbol": "WETH",
+          "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "image_url": "https://openseauserdata.com/files/accae6b6fb3888cbff27a013729c22dc.svg",
+          "name": "Wrapped Ether",
+          "decimals": 18,
+          "eth_price": "1.000000000000000",
+          "usd_price": "1243.730000000000018000"
+        },
+        "transaction": null,
+        "created_date": "2021-03-29T22:39:51.312135",
+        "quantity": "1",
+        "approved_account": null,
+        "bid_amount": null,
+        "collection_slug": "stacys",
+        "contract_address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+        "custom_event_name": null,
+        "dev_fee_payment_event": null,
+        "dev_seller_fee_basis_points": null,
+        "duration": "604800",
+        "ending_price": "300000000000000000",
+        "from_account": {
+          "user": {
+            "username": "CryptoStacy"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/12.png",
+          "address": "0x6e6e5a19f30e7f6519bb77c6d27d1b23d72b6f5f",
+          "config": ""
+        },
+        "id": 94681061,
+        "is_private": null,
+        "owner_account": null,
+        "seller": {
+          "user": {
+            "username": "CryptoStacy"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/12.png",
+          "address": "0x6e6e5a19f30e7f6519bb77c6d27d1b23d72b6f5f",
+          "config": ""
+        },
+        "starting_price": "300000000000000000",
+        "to_account": null,
+        "winner_account": null,
+        "listing_time": null
+      },
+      {
+        "asset_bundle": null,
+        "event_type": "created",
+        "event_timestamp": "2021-03-27T19:16:45.022541",
+        "auction_type": "english",
+        "total_price": null,
+        "payment_token": {
+          "symbol": "WETH",
+          "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "image_url": "https://openseauserdata.com/files/accae6b6fb3888cbff27a013729c22dc.svg",
+          "name": "Wrapped Ether",
+          "decimals": 18,
+          "eth_price": "1.000000000000000",
+          "usd_price": "1243.730000000000018000"
+        },
+        "transaction": null,
+        "created_date": "2021-03-27T19:16:45.064752",
+        "quantity": "1",
+        "approved_account": null,
+        "bid_amount": null,
+        "collection_slug": "stacys",
+        "contract_address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+        "custom_event_name": null,
+        "dev_fee_payment_event": null,
+        "dev_seller_fee_basis_points": null,
+        "duration": "604800",
+        "ending_price": "700000000000000000",
+        "from_account": {
+          "user": {
+            "username": "CryptoStacy"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/12.png",
+          "address": "0x6e6e5a19f30e7f6519bb77c6d27d1b23d72b6f5f",
+          "config": ""
+        },
+        "id": 92924625,
+        "is_private": null,
+        "owner_account": null,
+        "seller": {
+          "user": {
+            "username": "CryptoStacy"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/12.png",
+          "address": "0x6e6e5a19f30e7f6519bb77c6d27d1b23d72b6f5f",
+          "config": ""
+        },
+        "starting_price": "700000000000000000",
+        "to_account": null,
+        "winner_account": null,
+        "listing_time": null
+      },
+      {
+        "asset_bundle": null,
+        "event_type": "transfer",
+        "event_timestamp": "2021-03-25T05:33:17.515360",
+        "auction_type": null,
+        "total_price": null,
+        "payment_token": null,
+        "transaction": null,
+        "created_date": "2021-03-25T05:33:17.537921",
+        "quantity": "1",
+        "approved_account": null,
+        "bid_amount": null,
+        "collection_slug": "stacys",
+        "contract_address": "",
+        "custom_event_name": null,
+        "dev_fee_payment_event": null,
+        "dev_seller_fee_basis_points": null,
+        "duration": null,
+        "ending_price": null,
+        "from_account": {
+          "user": {
+            "username": "NullAddress"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+          "address": "0x0000000000000000000000000000000000000000",
+          "config": ""
+        },
+        "id": 91170974,
+        "is_private": null,
+        "owner_account": null,
+        "seller": null,
+        "starting_price": null,
+        "to_account": {
+          "user": {
+            "username": "CryptoStacy"
+          },
+          "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/12.png",
+          "address": "0x6e6e5a19f30e7f6519bb77c6d27d1b23d72b6f5f",
+          "config": ""
+        },
+        "winner_account": null,
+        "listing_time": null
+      }
+    ],
+    "id": "1",
+    "original_creation_date": "2021-03-25T10:33:17.537Z"
+  }
+}

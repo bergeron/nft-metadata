@@ -1,0 +1,25 @@
+{
+  "address": "0x63224d1977cfc6da8e87ae3cd6001087821b37c4",
+  "type": "ERC721",
+  "name": "GizmosDayOut",
+  "tokenCount": "79",
+  "uri": "ipfs://Qmb1qp64oWKfLPRntb1Drxnj3ZG89eioUHp3Y1McWNvgDb/1",
+  "metadata": {
+    "name": "Gizmo's Day Out #1/80",
+    "image": "ipfs://QmRkRa3PVPLtQQh4dmjJhsQ64b7aWcMKyN81uMXZPmzF5v",
+    "animation_url": "ipfs://Qme5BVHmbXhpyUr1fmx1xw95JCNNBGnBWXoovAXfrVpSyj",
+    "description": "Shot in Chinatown, Los Angeles nearby where Gizmo was purchased in the movie. The spinning ethereum coins symbolize the purchase and Gizmo's awkward stagger is an ode to his movements in the film. We wanted to showcase what happens when a Gremlin gets wet in an abstract fashion. In the film, they shoot small balls out of their back as a sort of spawning. We thought it would be perfect to create a particle simulation using the Gremlin's movement as the catalyst for the simulation. The simulation method was based on volume optical flow and consisted of 30 million particles.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Anthony Samaniego"
+      },
+      {
+        "trait_type": "Edition",
+        "display_type": "number",
+        "value": 1,
+        "max_value": 80
+      }
+    ]
+  }
+}

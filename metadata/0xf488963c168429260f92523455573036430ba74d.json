@@ -1,0 +1,57 @@
+{
+  "address": "0xf488963c168429260f92523455573036430ba74d",
+  "type": "ERC721",
+  "name": "921sadfweqr",
+  "tokenCount": "100",
+  "uri": "https://api.artblocks.io/token/272000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "272000001",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "pseudomods #1",
+    "minted": true,
+    "artist": "erin bee",
+    "description": "pseudomods is a visual study on eurorack modular synthesizers, and other histories of control surfaces. abstract panels open to interpretation, possessed by an outside knob-fiddler.",
+    "script_type": "p5@1.0.0",
+    "project_id": "272",
+    "curation_status": "presents",
+    "heritage_curation_status": "factory",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/272000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/272000001.png",
+    "generator_url": "https://generator.artblocks.io/272000001",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/272000001",
+    "royaltyInfo": {
+      "artistAddress": "0x882ff1134f17017fe2c1f4b464eee7d4f0b0d476",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "pseudomods by erin bee",
+    "website": "http://erin.art",
+    "token_hash": "0x6d5800fb7acd1193bf11eb506b7e1ec40da7fbe81b51ab7891ea8ff1a66d4408",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/272/tokens/272000001",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/272000001",
+    "features": {
+      "module size": 2,
+      "color palette": "papercut"
+    },
+    "traits": [
+      {
+        "trait_type": "pseudomods",
+        "value": "All pseudomods"
+      },
+      {
+        "trait_type": "pseudomods",
+        "value": "module size: 2"
+      },
+      {
+        "trait_type": "pseudomods",
+        "value": "color palette: papercut"
+      }
+    ],
+    "is_static": false,
+    "license": "NFT License"
+  }
+}

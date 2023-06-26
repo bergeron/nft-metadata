@@ -1,0 +1,57 @@
+{
+  "address": "0x6aa7178f428e6ac49cd6e4b1d0af40aa8085365c",
+  "type": "ERC721",
+  "name": "FlappyCat",
+  "tokenCount": "4749",
+  "uri": "ipfs://Qme3yrg3VBU95yCdNCKtq5Z4iPXcnNLbJDzHZhU9Te5ihd/1",
+  "metadata": {
+    "name": "flappycat#1",
+    "description": "each flappycat has unique ability.",
+    "image": "ipfs://Qmduy7NnRjCTwfPrHPY6UYvbK5ee11V8AhGTvVDDc9k5p4/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "rainbow3"
+      },
+      {
+        "trait_type": "bread",
+        "value": "Purple Sweet Potato Toast"
+      },
+      {
+        "trait_type": "cat",
+        "value": "colour11"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "type2"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "type14"
+      },
+      {
+        "trait_type": "rotateFX",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "fx",
+        "value": "rainbow3"
+      },
+      {
+        "trait_type": "JumpAbility",
+        "value": "1",
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "SpeedAbility",
+        "value": "2",
+        "display_type": "boost_number"
+      },
+      {
+        "trait_type": "AgileAbility",
+        "value": "3",
+        "display_type": "boost_number"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "address": "0x91dd900ce6d121f7f2558943b1fb5d2994ccfc44",
+  "type": "ERC721",
+  "name": "Crazy_Pirates",
+  "tokenCount": "3",
+  "uri": "ipfs://QmYnfSfgEAZpSSBrPwHzfdogjjacqFtq5uASeacWbALENV/1",
+  "metadata": {
+    "name": "Pirate #5404",
+    "description": "Ten thousand flaming devils! This is the new free mint !Each new owner will be given command of three crazy pirates. Join our team and together we will capture the open sea",
+    "image": "ipfs://QmZRs9D9Dp2DQS29zwZ1K4bTNJL7iJSmfUEDiPu4Ve4zBU/1.png",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x7DA66158DB08B7776e09Cbb9AcA1eB2A417da30d",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange smears"
+      },
+      {
+        "trait_type": "Leather",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Anime"
+      },
+      {
+        "trait_type": "hats",
+        "value": "Corsair"
+      },
+      {
+        "trait_type": "clothing",
+        "value": "Red T-shirt"
+      },
+      {
+        "trait_type": "hair",
+        "value": "navy blue"
+      },
+      {
+        "trait_type": "smile",
+        "value": "Painter"
+      },
+      {
+        "trait_type": "Nose and ears",
+        "value": "Light purple"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Hook "
+      }
+    ],
+    "dna": "2e72582af57eaa5dd6a7048a832fffc92d0d30cd",
+    "edition": 5404,
+    "date": 1662399404194,
+    "symbol": "CP",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Crazy_Pirates",
+      "family": ""
+    },
+    "compiler": "by compiler"
+  }
+}

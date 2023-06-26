@@ -1,0 +1,46 @@
+{
+  "address": "0x06a34168662fa7c5ff5ef43dbe1993cb12ce9c87",
+  "type": "ERC721",
+  "name": "dweebz NFT (legacy)",
+  "tokenCount": "9",
+  "uri": "ipfs://QmRKrjKjoXkiHnt8rXZ22HkLDZdjtbPJeqXdpxnM5zx8f9/1.json",
+  "metadata": {
+    "name": "dweebz #1",
+    "description": "",
+    "image": "ipfs://QmadyMUPBq8MRMFMpVVw1DaH8UfTfgRSGeZyLpSunbCmnw/1.png",
+    "dna": "e6c5c4c8bf21abf830d8363e0d6849d17595c9bf",
+    "edition": 1,
+    "date": 1647215525785,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Background Effect",
+        "value": "Aqua"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Clock Chain"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Looking"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Bowl Cut"
+      }
+    ],
+    "compiler": "Dweebz Compiler"
+  }
+}

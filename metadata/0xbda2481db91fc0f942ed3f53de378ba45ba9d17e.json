@@ -1,0 +1,45 @@
+{
+  "address": "0xbda2481db91fc0f942ed3f53de378ba45ba9d17e",
+  "type": "ERC721",
+  "name": "Wolf Game - Farmer",
+  "tokenCount": "11738",
+  "uri": "https://farmer-api.wolf.game/farmer/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Diesel"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blue Hoodie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Chinstrap Smile"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Full Moon"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Straw Bowler"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Navy Boots"
+      },
+      {
+        "trait_type": "Hair Color",
+        "value": "Grey"
+      }
+    ],
+    "name": "Farmer #1",
+    "description": "One of 11,738 Farmers in Wolf Game. Utilize Farmers to extend the capabilities of your tokens in the quest for Farm dominance.",
+    "image": "https://wg-farmers.s3.us-east-2.amazonaws.com/0x239d54ef-headshot.png",
+    "replay_overlay": 0,
+    "animation_url": "https://wg-farmers.s3.us-east-2.amazonaws.com/0x239d54ef-interactive.html",
+    "external_url": "https://wolf.game/farmer/1"
+  }
+}

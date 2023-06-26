@@ -1,0 +1,54 @@
+{
+  "address": "0x43b47533984209de84e6632f0c7aeac7bd06fdf5",
+  "type": "ERC1155",
+  "name": "SWAGGYLIONS Club VIP Passes",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/vgJIVcPFjv9mBew-CLNpc474OBD-7Ur0VEPyMJeI3hk",
+  "metadata": {
+    "name": "SLC-VIP Pass",
+    "created_by": "SWAGGYLionsClubNFT",
+    "external_url": "https://swaggylionsclub.io",
+    "description": "This SLC-VIP Pass gives you the holder, access ahead of the release to our utilities and more.\n\nEquivalent to 10 SWAGGYLIONS CLUB NFTS (Will be Airdropped) \n\nFACT: As a VIP you are giving us a head start as well in creating the vision to come. You now have a say VIP.\n\nAccess right away to: Mining Rewards, Discord Specialty Groups (ALPHA), Whit-listing into our staking program and more .",
+    "attributes": [
+      {
+        "value": "VIP",
+        "trait_type": "SWAGGY"
+      },
+      {
+        "display_type": "number",
+        "value": "1",
+        "max_value": "1",
+        "trait_type": "Ranking"
+      },
+      {
+        "display_type": "boost_percentage",
+        "value": "10",
+        "max_value": "100",
+        "trait_type": "Rewards Value"
+      }
+    ],
+    "animation_details": {
+      "bytes": 36240226,
+      "format": "MP4",
+      "duration": 27,
+      "sha256": "c0ff20852a2e0ee5d3eae308e24c86ecca88e15cb9c9eea4607bde06c27d8636",
+      "width": 2000,
+      "height": 2000,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/q1jqQ5BVW999HvBhZKFVJtFrgPGrTfLroCypbSsIwv8",
+    "animation_url": "https://arweave.net/q1jqQ5BVW999HvBhZKFVJtFrgPGrTfLroCypbSsIwv8",
+    "image_details": {
+      "bytes": 258506,
+      "format": "PNG",
+      "sha256": "70248740a473885f939865d8830f157cedfd8f1f6cb5d52a52972f064f473629",
+      "width": 1400,
+      "height": 875
+    },
+    "image": "https://arweave.net/zUPNXluGloFLSoJPcsnkL4L9Ycmx9WBTInQca_LVyVc",
+    "image_url": "https://arweave.net/zUPNXluGloFLSoJPcsnkL4L9Ycmx9WBTInQca_LVyVc"
+  }
+}

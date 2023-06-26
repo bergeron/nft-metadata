@@ -1,0 +1,31 @@
+{
+  "address": "0xcb45dce241a6f6f1e874e9925bea5840f3fd7d3a",
+  "type": "ERC721",
+  "name": "LoudPunx",
+  "tokenCount": "2435",
+  "uri": "https://loudpunx-public-bucket.s3.us-east-2.amazonaws.com/metadata/1",
+  "metadata": {
+    "name": "LoudPunx #1",
+    "description": "LoudPunx are lifetime VIP passes to all future Rolling Loud Festivals across the world. By purchasing the NFT, you agree to the Terms and Conditions on the LoudPunx.com website.",
+    "image": "https://loudpunx-public-bucket.s3.us-east-2.amazonaws.com/images/1.png",
+    "external_url": "https://loudpunx.com/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Camo"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Puffy RL Hoodie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blunt"
+      }
+    ]
+  }
+}

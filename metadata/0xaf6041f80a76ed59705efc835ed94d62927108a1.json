@@ -1,0 +1,39 @@
+{
+  "address": "0xaf6041f80a76ed59705efc835ed94d62927108a1",
+  "type": "ERC721",
+  "name": "Funky Frogs",
+  "tokenCount": "606",
+  "uri": "https://funkyfrogs.vercel.app/api/1",
+  "metadata": {
+    "name": "Funky Frog #1",
+    "tokenId": 1,
+    "image": "https://gateway.pinata.cloud/ipfs/QmVFgyJPy97ABJSwET4k4qUvZdLJfSALKwESjY1b8ZqX5z",
+    "external_url": "https://funkyfrogs.io/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "OrangeBG"
+      },
+      {
+        "trait_type": "Frog",
+        "value": "RegBody"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "CBlank"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "UnamusedM"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "HappyE"
+      },
+      {
+        "trait_type": "Headpieces",
+        "value": "BandanaRed"
+      }
+    ]
+  }
+}

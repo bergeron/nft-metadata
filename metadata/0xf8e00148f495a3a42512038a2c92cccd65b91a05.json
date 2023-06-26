@@ -1,0 +1,50 @@
+{
+  "address": "0xf8e00148f495a3a42512038a2c92cccd65b91a05",
+  "type": "ERC721",
+  "name": "0xKilroy",
+  "tokenCount": "6",
+  "uri": "https://arweave.net/kcBqGjS8lfydrMkD8g9ZfzRz9Hlk0VIZ17qC8nXj0vg",
+  "metadata": {
+    "name": "OBSIDIAN",
+    "created_by": "0xKilroy",
+    "external_url": "https://www.kilroycreative.xyz",
+    "description": "Kilroy Was Here",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "0xKilroy"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Kilroy"
+      },
+      {
+        "trait_type": "Generation",
+        "value": "1"
+      }
+    ],
+    "animation_details": {
+      "bytes": 11407560,
+      "format": "MP4",
+      "duration": 8,
+      "sha256": "1b0d6d11fb17bb284d02ad75373c8d7021a695c706c349aeb6d8498dea47b859",
+      "width": 2048,
+      "height": 2048,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/LieaPYAthBC-8JXeNbUg3Dtx5O8J88-zW3tjkaZz8fk",
+    "animation_url": "https://arweave.net/LieaPYAthBC-8JXeNbUg3Dtx5O8J88-zW3tjkaZz8fk",
+    "image_details": {
+      "bytes": 38084664,
+      "format": "GIF",
+      "sha256": "2c349b87295049971274e17f8dd3451c60d41ff68b2cf205c32ee93415ecabc9",
+      "width": 2048,
+      "height": 2048
+    },
+    "image": "https://arweave.net/7L5EPfb3hdrQsh7u-K3HlIAsEia7rbxay3Vt3c5LUAU",
+    "image_url": "https://arweave.net/7L5EPfb3hdrQsh7u-K3HlIAsEia7rbxay3Vt3c5LUAU"
+  }
+}

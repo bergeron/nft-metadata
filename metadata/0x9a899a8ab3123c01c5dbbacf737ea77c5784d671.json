@@ -1,0 +1,40 @@
+{
+  "address": "0x9a899a8ab3123c01c5dbbacf737ea77c5784d671",
+  "type": "ERC721",
+  "name": "Ukiyo no Hito",
+  "tokenCount": "30",
+  "uri": "https://arweave.net/1_VWvhJ-NitTNOqP62F1hENz38NkRM2NlCWdwoiEFtM/1",
+  "metadata": {
+    "name": "Ukiyo no Hito #01",
+    "created_by": "Piero Turino",
+    "external_url": "https://www.ukiyonohito.com",
+    "description": "#01 - A geisha enjoying a warm bath. \nNatsu (Summer) is the first season of the Ukiyo no Hito Collection. It is made of 30 illustrations inspired by the Ukiyo-e world and artists where people (hito) enjoy the pleasures of this season in a timeless space.",
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "Natsu"
+      },
+      {
+        "trait_type": "Hito Type",
+        "value": "Geisha"
+      },
+      {
+        "trait_type": "Culture",
+        "value": "Urban"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Full"
+      }
+    ],
+    "image_details": {
+      "bytes": 95372,
+      "format": "PNG",
+      "sha256": "44ed26bae4c4ee56a3183a01c07901a532c87dfb8e2eae3ca07d07d1903592d4",
+      "width": 750,
+      "height": 750
+    },
+    "image": "https://arweave.net/5jbqrXcZpLbCHsXzfQFVOq68zFa-B2BXAddXaPHXx-Y",
+    "image_url": "https://arweave.net/5jbqrXcZpLbCHsXzfQFVOq68zFa-B2BXAddXaPHXx-Y"
+  }
+}

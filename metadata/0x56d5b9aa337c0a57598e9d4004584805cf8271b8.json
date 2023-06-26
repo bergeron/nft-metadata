@@ -1,0 +1,25 @@
+{
+  "address": "0x56d5b9aa337c0a57598e9d4004584805cf8271b8",
+  "type": "ERC721",
+  "name": "ChibimonNFT",
+  "tokenCount": "1555",
+  "uri": "https://api.chibimon.xyz/metadata/1",
+  "metadata": {
+    "name": "Chibimon #1",
+    "image": "https://chibimon.xyz/metadata/images/chibimon/dcd767c62c3edcf0fd8bbc8b009ea183.png",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Water"
+      },
+      {
+        "trait_type": "Hatched",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Level",
+        "value": 1
+      }
+    ]
+  }
+}

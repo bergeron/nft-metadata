@@ -1,0 +1,34 @@
+{
+  "address": "0xc3dff663c27c60e6cd2174bf45573d165f4782e8",
+  "type": "ERC721",
+  "name": "MetaGenesis_Official",
+  "tokenCount": "1406",
+  "uri": "https://ipfs.io/ipns/conf.metagenesis.world/1",
+  "metadata": {
+    "name": "MetaGenesis#1",
+    "description": "9999 Meta heroes each randomly generated & hand illustrated on the Ethereum blockchain.",
+    "image": "https://metagenesis.s3.us-west-2.amazonaws.com/genesis/1.png",
+    "attributes": [
+      {
+        "trait_type": "hair",
+        "value": "Red Ponytail"
+      },
+      {
+        "trait_type": "facial",
+        "value": "Girl Face 1"
+      },
+      {
+        "trait_type": "face",
+        "value": "Jaw Mask"
+      },
+      {
+        "trait_type": "weapon",
+        "value": "SMG"
+      },
+      {
+        "trait_type": "cloth",
+        "value": "Red Sports Jacket"
+      }
+    ]
+  }
+}

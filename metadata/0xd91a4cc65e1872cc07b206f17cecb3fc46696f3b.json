@@ -1,0 +1,34 @@
+{
+  "address": "0xd91a4cc65e1872cc07b206f17cecb3fc46696f3b",
+  "type": "ERC721",
+  "name": "RugsByElena",
+  "tokenCount": "1162",
+  "uri": "ipfs://bafybeifdascglajz4jgxqwm6nhgitpxdgcn2y43d2scx7g3gle2el5o524/1.json",
+  "metadata": {
+    "name": "Rug #1",
+    "description": "This is a pixelrug.",
+    "image": "ipfs://bafybeihfas3zvftpkyotoq7a2yhkuysfjck7jmsk4p7ph6lpipko3t2eiq/1.png",
+    "imageHash": "575941ab33eb35e762a41e1c485614db6b4751e9ed9a199c88961613115010e1",
+    "edition": 1,
+    "date": 1672893772184,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Tassel",
+        "value": "Black Tassel"
+      },
+      {
+        "trait_type": "Base Color",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "pattern 5 pink"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  }
+}

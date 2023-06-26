@@ -1,0 +1,42 @@
+{
+  "address": "0x405a4a54f632476e9d718c4350a0af9b28c23b8f",
+  "type": "ERC721",
+  "name": "Carrot Goku SSJ",
+  "tokenCount": "14",
+  "uri": "https://bafybeidaasgfwazv326emzz56otmzmvvge3ciaesqiy2dwd42zkwbkv6ny.ipfs.w3s.link/1.json",
+  "metadata": {
+    "name": "Carrot Goku #1",
+    "description": "its goku made from a carrot due to his name Kakarot. Looking forward to do more. #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Base"
+      },
+      {
+        "trait_type": "Heads",
+        "value": "SSJ 2"
+      },
+      {
+        "trait_type": "Outfits",
+        "value": "Super Sayan 2"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "Broken Charging"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0xbdf143F636E91EcaBcE781e65846991DAAe76F22",
+        "share": 100
+      }
+    ],
+    "collection": {
+      "name": "Carrot Goku SSJ",
+      "family": "Unique Family Name"
+    },
+    "symbol": "CG",
+    "seller_fee_basis_points": 2,
+    "image": "https://bafybeiguggx7rb7c2rfslkct64t7kjokfdau754lvuzgvwts3oitjkm5n4.ipfs.w3s.link/1.png"
+  }
+}

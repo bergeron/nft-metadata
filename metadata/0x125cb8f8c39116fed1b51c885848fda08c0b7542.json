@@ -1,0 +1,45 @@
+{
+  "address": "0x125cb8f8c39116fed1b51c885848fda08c0b7542",
+  "type": "ERC721",
+  "name": "BLVD",
+  "tokenCount": "5",
+  "uri": "https://raw.githubusercontent.com/BULVRD-Tech/BULVRD.ERC721-Maps/master/partners/opensea/opensea.json",
+  "metadata": {
+    "name": "BLVD Map OpenSea",
+    "image": "https://raw.githubusercontent.com/BULVRD-Tech/BULVRD.ERC721-Maps/master/partners/opensea/opensea.jpg",
+    "description": "Celebrating launching collecitble map styles with OpenSea. This map style is themed to the OpenSea branding.",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "season",
+        "value": 1
+      },
+      {
+        "trait_type": "name",
+        "value": "OpenSea"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Day"
+      },
+      {
+        "trait_type": "level",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "supply",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "map_id",
+        "value": 0
+      }
+    ],
+    "external_url": "https://bulvrdapp.com/map_styles",
+    "background_color": "23b6c6",
+    "styleUrl": "mapbox://styles/bulvrdapp/cjys75gwe09841cphx8htn83u",
+    "buildingHex": "#23b6c6"
+  }
+}

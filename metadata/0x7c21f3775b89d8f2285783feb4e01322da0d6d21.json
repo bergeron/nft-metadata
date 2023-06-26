@@ -1,0 +1,44 @@
+{
+  "address": "0x7c21f3775b89d8f2285783feb4e01322da0d6d21",
+  "type": "ERC721",
+  "name": "MUNKOMMUNITY",
+  "tokenCount": "789",
+  "uri": "ipfs://bafybeihu4tqlsvljnouy5msnepvy4nybjk2kemoze2p2h7q37nwpmjlp4e/1",
+  "metadata": {
+    "name": "PINKA #1",
+    "symbol": "MUNK⭕️MMUNITY",
+    "description": "MUNK⭕️MMUNITY",
+    "seller_fee_basis_points": 1000,
+    "collection": {
+      "name": "PINKA",
+      "family": "PINKA"
+    },
+    "animation_url": "ipfs://bafybeib3r4oevb5kem2lowcovun4pq6zpriozdh3qkr6ijd6rkj4up63pi/1.mp4",
+    "external_url": "https://munko.io",
+    "edition": 1,
+    "date": 1675385751941,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Medium Gray-Magenta-Red 1"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://bafybeib3r4oevb5kem2lowcovun4pq6zpriozdh3qkr6ijd6rkj4up63pi/1.mp4",
+          "type": "video/mp4"
+        }
+      ],
+      "category": "video",
+      "creators": [
+        {
+          "address": "0x41d1f013fc3c0e9d0abafe4ac23c9cc2e8f1bc7c",
+          "share": 100
+        }
+      ]
+    },
+    "compiler": "Toklas NFT",
+    "image": "ipfs://bafybeib3r4oevb5kem2lowcovun4pq6zpriozdh3qkr6ijd6rkj4up63pi/1.jpg"
+  }
+}

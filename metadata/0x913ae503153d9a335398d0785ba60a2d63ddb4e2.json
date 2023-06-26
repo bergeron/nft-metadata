@@ -1,0 +1,46 @@
+{
+  "address": "0x913ae503153d9a335398d0785ba60a2d63ddb4e2",
+  "type": "ERC721",
+  "name": "Somnium Space VR",
+  "tokenCount": "5025",
+  "uri": "http://somniumspace.io/1",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "roadside_status",
+        "value": "roadside"
+      },
+      {
+        "trait_type": "Parcel size",
+        "value": "S"
+      }
+    ],
+    "description": "Small (S) parcel in Somnium Space has a size of 200m² and 10m height & depth build limit which is located at X = -1821.7, Y = -0.25, Z = -2704.1",
+    "external_url": "https://map.somniumspace.com/explorer/1",
+    "image": "https://somniumspace.com/images/opensea/Parcel_Image_1.png",
+    "name": "Small #1 (S) parcel in Somnium Space ",
+    "animation_url": null,
+    "youtube_url": null,
+    "seller_fee_basis_points": 700,
+    "collection": {
+      "name": "Somnium Space VR",
+      "family": "Somnium Space"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://somniumspace.com/images/opensea/Parcel_Image_1.png",
+          "type": "image/png",
+          "cdn": null
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "E8FcodiweFytvap9ND7AJsZv3ssepLkxFg2gG9qBTAJX",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "address": "0x5423856728612f358c84a37805799755be2722c8",
+  "type": "ERC721",
+  "name": "Cool Guys NFT",
+  "tokenCount": "1000",
+  "uri": "https://ipfs.io/ipfs/QmdLWdrWTRB3K6TV5oMiMvszJaFSkzwhwc7esrGX2oogKz/1.json",
+  "metadata": {
+    "name": "Cool Guy #1",
+    "description": "The Cool Guys collection consists of 1000 unique characters. Owning a Cool Guy makes you part of a community of investors from Poland who exchange their knowledge of investing in financial and alternative markets.",
+    "image": "ipfs://QmZoWWeE3SAUkieCSBQRuAzRzefDPtBskN5AgzcSR2nkKm/1.png",
+    "attributes": [
+      {
+        "trait_type": "PLANET",
+        "value": "Illuminati"
+      },
+      {
+        "trait_type": "INVESTMENT STYLE",
+        "value": "Unicorn"
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Experienced"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "VR"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Hash",
+        "value": 111293246
+      }
+    ]
+  }
+}

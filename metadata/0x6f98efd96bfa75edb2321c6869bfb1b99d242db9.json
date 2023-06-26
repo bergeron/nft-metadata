@@ -1,0 +1,49 @@
+{
+  "address": "0x6f98efd96bfa75edb2321c6869bfb1b99d242db9",
+  "type": "ERC721",
+  "name": "Cursed Kids",
+  "tokenCount": "1090",
+  "uri": "https://app.bueno.art/api/contract/bD6GeZXBXXHDnRdmYE1XU/chain/1/metadata/1",
+  "metadata": {
+    "attributes": [
+      {
+        "value": "Purple Slash",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Mecha",
+        "trait_type": "Clothing"
+      },
+      {
+        "value": "Pirate",
+        "trait_type": "Eyes"
+      },
+      {
+        "value": "Normal",
+        "trait_type": "Hair"
+      },
+      {
+        "value": "Rose",
+        "trait_type": "Mouth"
+      },
+      {
+        "value": "Pig",
+        "trait_type": "Pet"
+      }
+    ],
+    "image": "https://assets.bueno.art/images/1dc868d6-81a0-40c2-a2be-0c7db7e5b0e8/default/1?s=d089ae7848112559e256ff6d23966682",
+    "description": "Cursed Kids is a collection of 1111 unique and quirky characters, each cursed with their own unexpected affliction, waiting to be discovered in a magical world full of surprises and secrets.",
+    "name": "Cursed Kid #1",
+    "properties": {
+      "files": [
+        {
+          "type": "image/png",
+          "uri": "1.png"
+        }
+      ],
+      "category": "image"
+    },
+    "seller_fee_basis_points": 500,
+    "symbol": "CK"
+  }
+}

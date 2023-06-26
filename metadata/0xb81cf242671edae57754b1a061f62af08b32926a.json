@@ -1,0 +1,30 @@
+{
+  "address": "0xb81cf242671edae57754b1a061f62af08b32926a",
+  "type": "ERC721",
+  "name": "Staked Plot",
+  "tokenCount": "21331",
+  "uri": "data:application/json;base64,eyJuYW1lIjogInNQbG90ICgtMTI0LC0xMjUpIiwgImRlc2NyaXB0aW9uIjogIllvdSBzaG91bGQgT05MWSBnZXQgU3Rha2VkIFBsb3RzIGZyb20gaGVyZSBpZiB5b3Ugd2FudCB0byByZW50IGEgUGxvdC4gVGhlc2UgYXJlIE5PVCB0aGUgc2FtZSBhcyBDcml0dGVyeiBQbG90IE5GVHMuIFJlbnRlZCBQbG90cyBhbHNvIGdpdmUgYWNjZXNzIHRvIHRoZSBDcml0dGVyeiBNaW5lY3JhZnQgd29ybGQsIGJ1dCB5b3UgY2Fubm90IGJyZWFrIG9yIHBsYWNlIGFueSBibG9ja3MgZm9yIFBsb3RzIHlvdSByZW50ZWQgaW4gYW5kIGFyZSB0aW1lIGxpbWl0ZWQuIiwgImltYWdlIjogImh0dHBzOi8vcHVibGljLmNyaXR0ZXJ6Lnh5ei9wbG90cy9yZW5kZXJpbmdzLzEiLCAiYXR0cmlidXRlcyI6IFt7InRyYWl0X3R5cGUiOiJ4IiwidmFsdWUiOi0xMjQsImRpc3BsYXlfdHlwZSI6Im51bWJlciJ9LCB7InRyYWl0X3R5cGUiOiJ5IiwidmFsdWUiOi0xMjUsImRpc3BsYXlfdHlwZSI6Im51bWJlciJ9LCB7InRyYWl0X3R5cGUiOiJMb2NrIER1cmF0aW9uIiwidmFsdWUiOjYwNDgwMCwiZGlzcGxheV90eXBlIjoibnVtYmVyIn1dLCJhbmltYXRpb25fdXJsIjoiaHR0cHM6Ly9jcml0dGVyei1wbG90LW1vZGVsLXZpZXdlci52ZXJjZWwuYXBwLyMxIn0=",
+  "metadata": {
+    "name": "sPlot (-124,-125)",
+    "description": "You should ONLY get Staked Plots from here if you want to rent a Plot. These are NOT the same as Critterz Plot NFTs. Rented Plots also give access to the Critterz Minecraft world, but you cannot break or place any blocks for Plots you rented in and are time limited.",
+    "image": "https://public.critterz.xyz/plots/renderings/1",
+    "attributes": [
+      {
+        "trait_type": "x",
+        "value": -124,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "y",
+        "value": -125,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Lock Duration",
+        "value": 604800,
+        "display_type": "number"
+      }
+    ],
+    "animation_url": "https://critterz-plot-model-viewer.vercel.app/#1"
+  }
+}

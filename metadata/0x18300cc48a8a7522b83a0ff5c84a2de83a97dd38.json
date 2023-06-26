@@ -1,0 +1,75 @@
+{
+  "address": "0x18300cc48a8a7522b83a0ff5c84a2de83a97dd38",
+  "type": "ERC721",
+  "name": "Gino Ceccarelli",
+  "tokenCount": "4",
+  "uri": "ipfs://QmcnvedntHqSTfzM8tdrFJXAuFwRHktwHtUqzTAEHP9bu5",
+  "metadata": {
+    "name": "Hacia - Gino Ceccarelli",
+    "description": "Medida: 1920 × 770 Formato: MP4 Peso: 8MB\n\nVerisart Certified: https://verisart.com/works/440d1f95-695e-4f50-b912-019738d26eab",
+    "image": "ipfs://QmcKhgRbAeu76kjE9Z8FBDbiMNdqEfzXSayPfszpdUTuDC",
+    "properties": {
+      "verisart": {
+        "productionYear": 2019,
+        "dimensions": {
+          "width": 1920,
+          "height": 770,
+          "depth": null,
+          "unit": "PIXEL"
+        },
+        "duration": {
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 6
+        },
+        "frameRate": 30,
+        "tags": [
+          "VerisartCertified"
+        ],
+        "royalties": [
+          {
+            "blockchain": "ETHEREUM",
+            "address": "0xd1d4ed7b69fea34c60992b49a45e6f1fc85246d4",
+            "bps": 1000
+          }
+        ],
+        "editionInfo": null,
+        "additionalFiles": []
+      }
+    },
+    "animation_url": "ipfs://QmcvTf6xEfPcd8CNC2AvRLdiesTucSfUGuLJta8LbP1aSG",
+    "external_url": "https://verisart.com/works/440d1f95-695e-4f50-b912-019738d26eab",
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "VerisartCertified",
+        "display_type": null
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Gino  Ceccarelli ",
+        "display_type": null
+      },
+      {
+        "trait_type": "Year created",
+        "value": "2019",
+        "display_type": null
+      },
+      {
+        "trait_type": "Title",
+        "value": "Hacia - Gino Ceccarelli",
+        "display_type": null
+      },
+      {
+        "trait_type": "Dimensions",
+        "value": "770x1920 px",
+        "display_type": null
+      },
+      {
+        "trait_type": "Duration",
+        "value": "00:00:06",
+        "display_type": null
+      }
+    ]
+  }
+}

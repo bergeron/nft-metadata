@@ -1,0 +1,39 @@
+{
+  "address": "0x1eb4c9921c143e9926a2e592b828005a63529da5",
+  "type": "ERC721",
+  "name": "MasterBrewsNFT",
+  "tokenCount": "891",
+  "uri": "https://masterbrews.herokuapp.com/api/token/1",
+  "metadata": {
+    "name": "MasterBrews Consumer #1",
+    "description": "MasterBrews is an upcoming NFT 2.0 services platform. Our ERC-721 NFTs include not just amazing art from artists in over 60 countries, but perks and abilities that allow owners to generate passive income or obtain $MBREW utility tokens. Learn more at masterbrews.cards and make sure to follow us on Twitter and Discord.",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Consumer"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "ENGWIND"
+      },
+      {
+        "trait_type": "Country",
+        "value": "Norway"
+      },
+      {
+        "trait_type": "Tokens",
+        "value": "500"
+      },
+      {
+        "trait_type": "BREW Kit",
+        "value": "Starter"
+      },
+      {
+        "trait_type": "Pre-Sale",
+        "value": "TRUE"
+      }
+    ],
+    "image": "https://mb.mypinata.cloud/ipfs/QmSq14uK9f3YQKDMtmWqfceGu5iaahFWM5xYCA1sRLFrEc",
+    "external_url": "https://masterbrews.cards/gallery"
+  }
+}

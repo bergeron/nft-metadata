@@ -1,0 +1,54 @@
+{
+  "address": "0x86a0d29496f1194e6942f51dafb31c183b4d9a50",
+  "type": "ERC721",
+  "name": "NeuralArt2001",
+  "tokenCount": "1",
+  "uri": "ipfs://QmSfUpcP4XkALBHC7q8RfJsoAZRYuAX6XmTe5xoPwxqxRU/1.json",
+  "metadata": {
+    "dna": "638e72fb442aec7e998c84d000470d57d32202ad",
+    "name": "#1",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://QmRtDgipMWHwW1xtUH9wTMuSFDkv7orZNjAnR4aYujFjPB/1.png",
+    "edition": 1,
+    "date": 1633450139202,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gradient"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "ball"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "color"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "iris"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "shine"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "lid"
+      },
+      {
+        "trait_type": "black",
+        "value": "black"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "topl"
+      },
+      {
+        "trait_type": "end",
+        "value": "end"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

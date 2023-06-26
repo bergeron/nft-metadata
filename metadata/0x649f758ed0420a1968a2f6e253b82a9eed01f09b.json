@@ -1,0 +1,39 @@
+{
+  "address": "0x649f758ed0420a1968a2f6e253b82a9eed01f09b",
+  "type": "ERC721",
+  "name": "Fire Sword V2",
+  "tokenCount": "196",
+  "uri": "ipfs://QmWKJrA7f2uv2juM6Ba3d7HGBcYYyinhCkNvBQD94Nds5u/1",
+  "metadata": {
+    "image": "ipfs://QmNjVg2zik7iy2nUwfqohnFThKAHhtpdojskQtxtbLMmPe/1.jpeg",
+    "name": "A #1",
+    "description": "DSFS",
+    "external_url": "WE",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "A",
+      "family": "B"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "1.jpeg",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "share": 100,
+          "address": "0xc8A0DBF16EF38e0fE798924232321132213123231"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "1 (7)"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

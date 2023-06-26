@@ -1,0 +1,48 @@
+{
+  "address": "0xcbdb27e3aa3ace3a60ab34c1b6ddca0cbbe447b8",
+  "type": "ERC721",
+  "name": "Toto",
+  "tokenCount": "7",
+  "uri": "https://cdn-api.niftykit.com/reveal/86dnOhAMETgm5QQqokVl/1",
+  "metadata": {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmVJip4PM5jDsEfuvkBwSYK7bfqpnC6amRup66zBs5Cfyc/1.png",
+    "dna": "d47b0a25b0dda3139a44cbb2d27d8975026f7683",
+    "edition": 1,
+    "date": 1677392455879,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine",
+    "seller_fee_basis_points": 700,
+    "fee_recipient": "0xE7EC7dE11e27bb7591aA66393a5C4dc4374d4289"
+  }
+}

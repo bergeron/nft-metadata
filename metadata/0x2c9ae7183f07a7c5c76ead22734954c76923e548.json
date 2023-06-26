@@ -1,0 +1,22 @@
+{
+  "address": "0x2c9ae7183f07a7c5c76ead22734954c76923e548",
+  "type": "ERC721",
+  "name": "The Mixtapes NFT",
+  "tokenCount": "112",
+  "uri": "https://api-mint.themixtapesnft.com/token/1",
+  "metadata": {
+    "name": "The Mixtapes #1",
+    "description": "5,555 Generative Mixtapes representing hip-hop culture on the Ethereum blockchain.",
+    "image": "https://assets.wenmint.com/images/themixtapesnft/1.png",
+    "attributes": [
+      {
+        "trait_type": "Honorary",
+        "value": "Crystal H"
+      },
+      {
+        "trait_type": "Item",
+        "value": "Tape"
+      }
+    ]
+  }
+}

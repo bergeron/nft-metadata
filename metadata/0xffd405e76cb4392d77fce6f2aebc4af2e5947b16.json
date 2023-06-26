@@ -1,0 +1,50 @@
+{
+  "address": "0xffd405e76cb4392d77fce6f2aebc4af2e5947b16",
+  "type": "ERC721",
+  "name": "XiaoMing Go Web3",
+  "tokenCount": "95",
+  "uri": "ipfs://QmQqxoyTTw8t3eq7RmuDffRWuJzHQVnPyJ8Nf51ubZ5Eet/1.json",
+  "metadata": {
+    "name": "XMGOW3 #1",
+    "description": "XiaoMingGo Web3 NFT",
+    "image": "ipfs://QmXQTTXDzPpqBoWc6QE8CVz46K9Lm7zqewjD8eEoDSMoPp/1.png",
+    "dna": "b843ba01c9f92fa4420d43d2b203b8c2a6958afc",
+    "edition": 1,
+    "date": 1649656823528,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "background"
+      },
+      {
+        "trait_type": "Beanie",
+        "value": "Beanie_Gold"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face_Blue"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Shirt_Red"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Eye_Black"
+      },
+      {
+        "trait_type": "Screen",
+        "value": "Screen"
+      },
+      {
+        "trait_type": "Screen_Content",
+        "value": "XMSlang_FA"
+      },
+      {
+        "trait_type": "Tattoo",
+        "value": "Tattoo"
+      }
+    ],
+    "compiler": "XM Deployer"
+  }
+}

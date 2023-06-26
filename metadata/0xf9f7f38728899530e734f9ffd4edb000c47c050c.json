@@ -1,0 +1,37 @@
+{
+  "address": "0xf9f7f38728899530e734f9ffd4edb000c47c050c",
+  "type": "ERC721",
+  "name": "Blackhawk Collection Digital",
+  "tokenCount": "4",
+  "uri": "https://storage.googleapis.com/blackhawk-collection-nft/nfts/1/metadata.json",
+  "metadata": {
+    "name": "1937 Rolls-Royce Phantom III",
+    "description": "The history and craftsmanship of this one-of-a-kind vintage car captured in digital form, are equalled by the pure artistry. Professionally 3D-scanned 360-degrees, the video gives you a high-resolution fly-around view of the car in full detail.",
+    "external_url": "https://digital.blackhawkcollection.com/nfts/rolls-royce-phantom-iii",
+    "image": "https://storage.googleapis.com/blackhawk-collection-nft/nfts/1/1.jpg",
+    "animation_url": "https://storage.googleapis.com/blackhawk-collection-nft/nfts/1/preview.mp4",
+    "background_color": "8f5933",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "BradBuilds"
+      },
+      {
+        "trait_type": "Chassis #",
+        "value": "3CP38"
+      },
+      {
+        "trait_type": "Engine",
+        "value": "V12"
+      },
+      {
+        "trait_type": "Engine Volume",
+        "value": "447.6 cubic inches (7.3L) "
+      },
+      {
+        "trait_type": "Manufacturer",
+        "value": "Rolls-Royce"
+      }
+    ]
+  }
+}

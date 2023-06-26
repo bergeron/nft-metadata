@@ -1,0 +1,22 @@
+{
+  "address": "0xba9bbea08241845013b40a061e4a77c9345e4562",
+  "type": "ERC721",
+  "name": "WNS: Web3 Name Service",
+  "tokenCount": "9707",
+  "uri": "https://api.wnsdomains.io/metadata/tokenid=1",
+  "metadata": {
+    "name": "adam.web3",
+    "image": "https://api.wnsdomains.io/metadata/images/tokenid=1",
+    "attributes": [
+      {
+        "trait_type": "Extension",
+        "value": ".web3"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Length",
+        "value": 4
+      }
+    ]
+  }
+}

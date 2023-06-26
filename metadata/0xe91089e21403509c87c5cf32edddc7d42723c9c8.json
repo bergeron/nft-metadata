@@ -1,0 +1,41 @@
+{
+  "address": "0xe91089e21403509c87c5cf32edddc7d42723c9c8",
+  "type": "ERC721",
+  "name": "Ornery Owls",
+  "tokenCount": "45",
+  "uri": "ipfs://QmPPcFUHS673qbTVRa4dNLrbmCJYCWKrGYyNztnXmpAo5P/1.json",
+  "metadata": {
+    "name": "Ornery Owl #1",
+    "description": "{HOOT!} ",
+    "fee_recipient": "0xd53FdcE66d62E9104C199b43B02f7a996a0ca9Dd",
+    "seller_fee_basis_points": 1000,
+    "image": "ipfs://Qmf2BGybbnByFebE366zeLMAfcfSUbKtov11jC7wsEFWBR/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Brown Owl"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Alien Shirt"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Mustache Black"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Snapback Cherry"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 9116,
+        "display_type": "number"
+      }
+    ]
+  }
+}

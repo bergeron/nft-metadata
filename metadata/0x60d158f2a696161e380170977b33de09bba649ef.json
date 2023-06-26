@@ -1,0 +1,47 @@
+{
+  "address": "0x60d158f2a696161e380170977b33de09bba649ef",
+  "type": "ERC721",
+  "name": "GMusic",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/DXRJA38FkNmttoeIjaWUOD1jzzLRe0IMJMXELG4fz88",
+  "metadata": {
+    "name": "gm here's an old demo",
+    "created_by": "djpants",
+    "external_url": "djpants.xyz",
+    "description": "this is the demo portrait of a house",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "djpants"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Year",
+        "value": "2023"
+      }
+    ],
+    "animation_details": {
+      "bytes": 29780769,
+      "format": "MP4",
+      "duration": 32,
+      "sha256": "e24e0c9bd91cf76a513ebf75aeffb945b5cb413992d1d5185ab56dcac214e940",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/d25JVRBlSTNfN4hsUqgraf2jecMWnX2VrcF6DAlwK8k",
+    "animation_url": "https://arweave.net/d25JVRBlSTNfN4hsUqgraf2jecMWnX2VrcF6DAlwK8k",
+    "image_details": {
+      "bytes": 12676428,
+      "format": "GIF",
+      "sha256": "87905cbc8f51912dbf3d1020825e7ab9d7e19054b589b5219a53908dba01a483",
+      "width": 500,
+      "height": 280
+    },
+    "image": "https://arweave.net/w73CjkVthxTxBiReguDx9jqe9ntN4GGMWG0FJ_P4SQ4",
+    "image_url": "https://arweave.net/w73CjkVthxTxBiReguDx9jqe9ntN4GGMWG0FJ_P4SQ4"
+  }
+}

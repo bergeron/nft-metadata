@@ -1,0 +1,98 @@
+{
+  "address": "0x1d963688fe2209a98db35c67a041524822cf04ff",
+  "type": "ERC721",
+  "name": "MarbleCards",
+  "tokenCount": "60452",
+  "uri": "https://ws.marble.cards/marble/token/1",
+  "metadata": {
+    "external_url": "https://marble.cards/card/1",
+    "description": "Marble Card #1 with a unique link to https://en.wikipedia.org/wiki/Ethereum | This URL can only exist on one card. \n\nCreating Marble Cards is a way to bookmark and show appreciation for web content. It’s an Internet indexing game where you can create, battle and trade unique NFT frames of web content. The image in the circle is not part of the Marble Card NFT. It comes from the OpenGraph and is shown as a preview of the linked URL, same as when shared on social media.",
+    "name": "Ethereum - Wikipedia",
+    "attributes": [
+      {
+        "value": 95,
+        "trait_type": "level",
+        "max_value": 100
+      },
+      {
+        "value": "genesis"
+      },
+      {
+        "value": "Unknown",
+        "trait_type": "generation"
+      },
+      {
+        "value": "Wikipedia.org",
+        "trait_type": "collection"
+      },
+      {
+        "value": 1,
+        "trait_type": "collection_id",
+        "display_type": "number"
+      },
+      {
+        "value": "gold"
+      }
+    ],
+    "marble_attributes": {
+      "nft_id": 1,
+      "owner_address": "0x4E6201F8036f013655394f58b146c537acCc4728",
+      "title": "Ethereum - Wikipedia",
+      "card_title_row_count": 1,
+      "card_title_multiline": "Ethereum - Wikipedia",
+      "description": "Marble Card #1 with a unique link to https://en.wikipedia.org/wiki/Ethereum | This URL can only exist on one card. \n\nCreating Marble Cards is a way to bookmark and show appreciation for web content. It’s an Internet indexing game where you can create, battle and trade unique NFT frames of web content. The image in the circle is not part of the Marble Card NFT. It comes from the OpenGraph and is shown as a preview of the linked URL, same as when shared on social media.",
+      "signature": null,
+      "signature_2k": null,
+      "bgr_algorithm": null,
+      "marbled": "2019-01-19T16:00:00+00:00",
+      "remarble_count": null,
+      "url": "https://en.wikipedia.org/wiki/Ethereum",
+      "creator_address": "0x4E6201F8036f013655394f58b146c537acCc4728",
+      "level": 95,
+      "grade": "GENESIS",
+      "network_name": "eth",
+      "game": {
+        "color": 705,
+        "suit": 873,
+        "rank": 97,
+        "strength": 198
+      },
+      "card_gif": null,
+      "allowed_to_show_gif": null,
+      "rewards": null,
+      "auction": null,
+      "domain_collection": {
+        "domain_name": "Wikipedia.org",
+        "domain_url": "http://wikipedia.org",
+        "domain_power": 100,
+        "domain_favicon_url": "https://cdn.marble.cards/images/domain-favicon/0/4-wikipedia.org.png",
+        "collection_number": 1,
+        "is_gold_card": true
+      },
+      "verified_by": null,
+      "current_verification_bid": null,
+      "accepted_verification_bid": null,
+      "verification_status": "no_bid_placed",
+      "image_censored": null,
+      "image_censored_2k": null,
+      "censor_external_thumbnails": false,
+      "censor_internal_thumbnails": false,
+      "share_image": "https://cdn.marble.cards/images/cards/0/1/1-share.png?version=1",
+      "share_image_2k": "https://cdn.marble.cards/images/cards/0/1/1-share-2k.png?version=1",
+      "original_image": "https://cdn.marble.cards/images/cards/0/1/1-page-image-original-cached.png",
+      "composite_image": {
+        "card": "https://cdn.marble.cards/images/cards/0/1/1.png?version=1",
+        "page_thumbnail": "https://cdn.marble.cards/images/cards/0/1/1-page-thumbnail-hq.png?version=1",
+        "page_gif": null
+      },
+      "composite_image_2k": {
+        "card": "https://cdn.marble.cards/images/cards/0/1/1-2k.png?version=1",
+        "page_thumbnail": "https://cdn.marble.cards/images/cards/0/1/1-page-thumbnail-2k.png?version=1",
+        "page_gif": null
+      },
+      "image": "https://cdn.marble.cards/images/cards/0/1/1-share.png?version=1",
+      "image_2k": "https://cdn.marble.cards/images/cards/0/1/1-share-2k.png?version=1"
+    },
+    "image": "https://cdn.marble.cards/images/cards/0/1/1-share.png?version=1"
+  }
+}

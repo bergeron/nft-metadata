@@ -1,0 +1,37 @@
+{
+  "address": "0xc9114f50399db1abb9d6df153df18e4baf804376",
+  "type": "ERC721",
+  "name": "CryptoTigerz NFT",
+  "tokenCount": "999",
+  "uri": "ipfs://bafybeiar32etdtugur2bd4ssrklmytmv2vn5zxawlsft5yhenl77qxpywy/1.json",
+  "metadata": {
+    "name": "Crypto Tigerz #1",
+    "description": "This tiger head needs a body...",
+    "image": "ipfs://bafybeihmpi2z3hjnqiqveqjykunlxs32ylqx27u7evkhmscfjf3jd3ud4m/1.png",
+    "edition": 1,
+    "date": 1672252005718,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "dusty rose"
+      },
+      {
+        "trait_type": "Head",
+        "value": "zombie"
+      },
+      {
+        "trait_type": "Top",
+        "value": "none"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "bored blue"
+      },
+      {
+        "trait_type": "Accessory ",
+        "value": "cigar"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

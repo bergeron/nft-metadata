@@ -1,0 +1,70 @@
+{
+  "address": "0xd606450f0a0eb5a9ce623754404af575cbe11cb4",
+  "type": "ERC721",
+  "name": "Drunk Animals Game",
+  "tokenCount": "30",
+  "uri": "ipfs://QmWN2msvCSiHEhc5ByYogTD4gaWUt6RnAAJ9y68Rwm1HuA/1.json",
+  "metadata": {
+    "image": "ipfs://QmUvbLUdHiwsMJYV3u9mU3az2u8umo3jFfzxKDWCn5kwvL/1.jpeg",
+    "description": "",
+    "name": "VIAL OF YFI ELIXIR",
+    "attributes": [
+      {
+        "trait_type": "Asset",
+        "value": "yfi"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Strike",
+        "value": 135
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Duration",
+        "value": 1
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Training From",
+        "value": 1595217600
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Training To",
+        "value": 1630728000
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Curve Param A",
+        "value": 0.0090394287801761
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Curve Param B",
+        "value": 0.3198841777693023
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Curve Param C",
+        "value": 18.37516237575027
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Curve Param D",
+        "value": 0.3399104992904903
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Curve Max Util"
+      },
+      {
+        "trait_type": "Crypto Message",
+        "value": "8816ff"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Wise Wizard"
+      }
+    ]
+  }
+}

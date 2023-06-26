@@ -1,0 +1,32 @@
+{
+  "address": "0xfbd09991e4f88904f7cb83b80bc37fe422e87a53",
+  "type": "ERC721",
+  "name": "FIRE BIRDS NFT",
+  "tokenCount": "100",
+  "uri": "ipfs://bafybeigukam6tntgtmsjpaggdhxq2wvjjcg7jjwmid7i5jgd2tt4d4xgxa/1.json",
+  "metadata": {
+    "name": "Fire Bird#1",
+    "description": "1,000 Fire Bird PFPs that unlocks private club membership and additional benefits",
+    "external_url": "https://twitter.com/CryptoBroNYC",
+    "image": "ipfs://QmbSW9p3uidukVw2CKYsUBTZcjbUJu1TRpJbQa5KfUKzg7/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Fire",
+        "value": "alpha fire"
+      },
+      {
+        "trait_type": "Bird",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "wide"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

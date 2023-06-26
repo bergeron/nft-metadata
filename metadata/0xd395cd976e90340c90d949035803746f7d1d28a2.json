@@ -1,0 +1,45 @@
+{
+  "address": "0xd395cd976e90340c90d949035803746f7d1d28a2",
+  "type": "ERC721",
+  "name": "SHEEPZ",
+  "tokenCount": "3432",
+  "uri": "ipfs://bafybeib7a3nmgexmgronqgaihjzxbgistsegoyj6dmyylsqiljzb73aliu/1.json",
+  "metadata": {
+    "name": "SHEEPZ #1",
+    "image": "ipfs://bafybeicf7z2tiig3v4t5uuw5fqer67njomb2kx74aib7hsr3mwxae2harq/1.jpeg",
+    "description": "10000 Sheepz roaming web3 with over 200 traits hand selected.",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Headwear",
+        "value": "Partyhat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Angry Mouth"
+      },
+      {
+        "trait_type": "Wool",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Knights Boots"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Night"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      }
+    ],
+    "seller_fee_basis_points": 0,
+    "compiler": "nft-inator.com"
+  }
+}

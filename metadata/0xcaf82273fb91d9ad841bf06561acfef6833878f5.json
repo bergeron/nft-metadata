@@ -1,0 +1,38 @@
+{
+  "address": "0xcaf82273fb91d9ad841bf06561acfef6833878f5",
+  "type": "ERC721",
+  "name": "Stonks Stonks Stonks",
+  "tokenCount": "160",
+  "uri": "ipfs://bafybeiagxog7j7zv2r46c2zfwx2ruekypb555qpoazdclrysqssc32dy7i/j/1",
+  "metadata": {
+    "name": "RL",
+    "description": "Ralph Lauren Corporation",
+    "image": "ipfs://bafybeiazwwozkoiccobg7quvgz3sqevrgfsdltyvxawve73rhz4fg6orty/s/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Exchange",
+        "value": "NYSE"
+      },
+      {
+        "trait_type": "Sector",
+        "value": "Consumer Cyclical"
+      },
+      {
+        "trait_type": "Industry",
+        "value": "Apparel Manufacturing"
+      },
+      {
+        "trait_type": "GicSector",
+        "value": "Consumer Discretionary"
+      },
+      {
+        "trait_type": "GicGroup",
+        "value": "Consumer Durables & Apparel"
+      },
+      {
+        "trait_type": "GicIndustry",
+        "value": "Textiles, Apparel & Luxury Goods"
+      }
+    ]
+  }
+}

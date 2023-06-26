@@ -1,0 +1,33 @@
+{
+  "address": "0xbc5f05c9b0932aecb90f6286e2ed975c1e228514",
+  "type": "ERC721",
+  "name": "Mitotic",
+  "tokenCount": "173",
+  "uri": "data:application/json;utf8,{\"name\": \"Mitosis #1\",\"description\": \"**Mitosis** (b. 2022)\\n\\nMitosis #1\\n\\n*Hand crafted SVG, 1920 x 1920 pixels*\",\"image\": \"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' width='1920' height='1920' viewBox='0 0 288 288'><style>#r{fill:#fff}#c{fill:#B10E2D}</style><rect id='r' width='100%' height='100%'/><circle id='c' cx='144' cy='144' r='144'/></svg>\",\"attributes\": [{\"trait_type\": \"Size\", \"value\": 65535},{\"trait_type\": \"Color\", \"value\": \"#B10E2D\"},{\"display_type\": \"number\", \"trait_type\": \"Generation\", \"value\": 1},{\"display_type\": \"number\", \"trait_type\": \"Edition\", \"value\": 1, \"max_value\": 173}]}",
+  "metadata": {
+    "name": "Mitosis #1",
+    "description": "**Mitosis** (b. 2022)\n\nMitosis #1\n\n*Hand crafted SVG, 1920 x 1920 pixels*",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' width='1920' height='1920' viewBox='0 0 288 288'><style>#r{fill:#fff}#c{fill:#B10E2D}</style><rect id='r' width='100%' height='100%'/><circle id='c' cx='144' cy='144' r='144'/></svg>",
+    "attributes": [
+      {
+        "trait_type": "Size",
+        "value": 65535
+      },
+      {
+        "trait_type": "Color",
+        "value": "#B10E2D"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "value": 1,
+        "max_value": 173
+      }
+    ]
+  }
+}

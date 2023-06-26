@@ -1,0 +1,60 @@
+{
+  "address": "0x88bcbee259c86b386d3e1f97051b397558c0568a",
+  "type": "ERC721",
+  "name": "99LIVES",
+  "tokenCount": "114",
+  "uri": "https://nftmedia.sem9.gg/json/1.json",
+  "metadata": {
+    "name": "99LIVES #1",
+    "description": "99LIVES is an NFT collection from SEM9, Southeast Asia’s fastest-growing esports organisation. With a total supply of 2,299 generative portraits based on the tiger emblazoned on the crest of each SEM9 jersey, each NFT will be based on a unique design, alongside different individual traits for each NFT minted. Visit [nft.sem9.gg](https://nft.sem9.gg/home) for more details.",
+    "external_url": "https://nft.sem9.gg/home",
+    "image": "https://nftmedia.sem9.gg/png/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tiger Stripes"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Stripes",
+        "value": "Tiger Large"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Raised Eyebrow"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Standard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smoke and Smirk"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Business Casual Large"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "99LIVES",
+      "family": "99LIVES"
+    },
+    "symbol": ""
+  }
+}

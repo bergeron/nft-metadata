@@ -1,0 +1,48 @@
+{
+  "address": "0xbd6442e65789bdc6a10f09bd13f7320337c5a38e",
+  "type": "ERC721",
+  "name": "EmployablesNFT",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmcTD9VZakwRemY15hjaF2U4s4c1Efq4t6cmg3zBszkB6o/1.json",
+  "metadata": {
+    "name": "Employables #1",
+    "description": "Employables is a collection created without reason. There is no community. No roadmap. No purpose. Just like the people we represent. A project by the team at thedisable.com featuring art by rezy.eth (Calvin Hamilton).",
+    "external_url": "https://employables.io/",
+    "image": "ipfs://QmQNv8UhGwtkjYtiTjnuNa5ccNGSGpJjsNCUNEjYXDNvJP/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Skin Tones",
+        "value": "Skin 03"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Long Curly (Light Brown)"
+      },
+      {
+        "trait_type": "Shirts",
+        "value": "Zipper (Black)"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Employables",
+      "family": "Employables"
+    },
+    "symbol": ""
+  }
+}

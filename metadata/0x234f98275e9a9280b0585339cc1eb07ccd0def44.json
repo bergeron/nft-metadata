@@ -1,0 +1,77 @@
+{
+  "address": "0x234f98275e9a9280b0585339cc1eb07ccd0def44",
+  "type": "ERC721",
+  "name": "HAUNTED NOISE",
+  "tokenCount": "572",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmRkDfy8TWF4hmLwueYmLNNScQMgHVisnM8y6RFosEs3br/1.json",
+  "metadata": {
+    "description": "Did you hear that?",
+    "external_url": "",
+    "image": "ipfs://QmcVJh7h5EWhrmgqYXgWvtCMQTUULxkY7GPpxkHVmvvoEn/0002.jpg",
+    "animation_url": "ipfs://QmYq1sd6HLz9c73uBrMmteHoUFrvydaPwHSzQ5JN9btq6i/0002.mp4",
+    "name": "Haunted Noise #1",
+    "background_color": "ffffff",
+    "attributes": [
+      {
+        "trait_type": "filter",
+        "value": "custom operator"
+      },
+      {
+        "trait_type": "filter",
+        "value": "color correction"
+      },
+      {
+        "trait_type": "filter",
+        "value": "displacement"
+      },
+      {
+        "trait_type": "filter",
+        "value": "feedback"
+      },
+      {
+        "trait_type": "filter",
+        "value": "pixel lookup"
+      },
+      {
+        "trait_type": "filter",
+        "value": "convolution"
+      },
+      {
+        "trait_type": "filter",
+        "value": "channel convertor"
+      },
+      {
+        "trait_type": "blur filter",
+        "value": "texture based"
+      },
+      {
+        "trait_type": "gradient generator",
+        "value": "circular"
+      },
+      {
+        "trait_type": "noise generator",
+        "value": "simplex"
+      },
+      {
+        "trait_type": "gradient generator",
+        "value": "vertical"
+      },
+      {
+        "trait_type": "gradient generator",
+        "value": "horizontal"
+      },
+      {
+        "trait_type": "noise generator",
+        "value": "perlin"
+      },
+      {
+        "trait_type": "noise generator",
+        "value": "white"
+      },
+      {
+        "trait_type": "blur filter",
+        "value": "box"
+      }
+    ]
+  }
+}

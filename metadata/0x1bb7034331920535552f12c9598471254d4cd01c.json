@@ -1,0 +1,57 @@
+{
+  "address": "0x1bb7034331920535552f12c9598471254d4cd01c",
+  "type": "ERC1155",
+  "name": "Paintings by Corina Daniela Obertas",
+  "tokenCount": "9",
+  "uri": "https://arweave.net/i8UKjqGIquytNHv7RLqICnxaXD4vJ3tSRa-5Z41qCEE",
+  "metadata": {
+    "name": "New York Queen #53",
+    "created_by": "Corina Daniela Obertas aka. TheFoodMaster",
+    "description": "This piece will be transferred to Creative Cities Collection.  \nThe original is an acrylic paint on canvas of 30 x 90 cm (11,8 x 35,4 inches). If you want to buy the original please contact me.  \nThe digital piece was animated and is available in edition of 50.",
+    "attributes": [
+      {
+        "trait_type": "ARTIST",
+        "value": "TheFoodMaster"
+      },
+      {
+        "trait_type": "CITY",
+        "value": "New York"
+      },
+      {
+        "trait_type": "ORIGINAL MEDIUM",
+        "value": "Painting on canvas"
+      },
+      {
+        "trait_type": "MEDIUM",
+        "value": "Animation"
+      },
+      {
+        "trait_type": "YEAR OF CREATION",
+        "value": "2022"
+      }
+    ],
+    "animation_details": {
+      "bytes": 15494995,
+      "format": "MP4",
+      "duration": 12,
+      "sha256": "15cc11b0b4777a3176445bd83c493e2c07074946f8a6f6b02b4fe09546d40246",
+      "width": 1296,
+      "height": 3840,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/D8NksdcCqLWcBM1GZ6J9T1bl-2qqbKqPdaTwBu_Fqbs",
+    "animation_url": "https://arweave.net/D8NksdcCqLWcBM1GZ6J9T1bl-2qqbKqPdaTwBu_Fqbs",
+    "image_details": {
+      "bytes": 10165917,
+      "format": "GIF",
+      "sha256": "ea70224708058d203fb264fd773962b1ac4a7614eaf7ac354718a2b17d8271d1",
+      "width": 270,
+      "height": 800
+    },
+    "image": "https://arweave.net/dfZNS12Fsk76FQDz4ao1OWERnCW7UVBHaXNEAH90AN4",
+    "image_url": "https://arweave.net/dfZNS12Fsk76FQDz4ao1OWERnCW7UVBHaXNEAH90AN4"
+  }
+}

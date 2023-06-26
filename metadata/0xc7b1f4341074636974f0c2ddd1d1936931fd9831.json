@@ -1,0 +1,54 @@
+{
+  "address": "0xc7b1f4341074636974f0c2ddd1d1936931fd9831",
+  "type": "ERC721",
+  "name": "StellarX",
+  "tokenCount": "35",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=BJ8QvNLKUUdqLMutF7sx",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1589728322942?alt=media&token=e8261819-13e4-4646-8d0d-f0700440f966",
+    "forSale": false,
+    "description": "Limited Founder Edition 1/5 - The Earth is the third planet from the Sun, the home of human race and the origin of the Ethereum Blockchain",
+    "contractAddress": "0xc7b1f4341074636974f0c2ddd1d1936931fd9831",
+    "ethPrice": "0",
+    "amountToMint": "5",
+    "minter": "0x349e1469c0843aebdc0660a845de059051ca1595",
+    "mintedOn": {
+      "_seconds": 1589728738,
+      "_nanoseconds": 840000000
+    },
+    "price": "$0.00",
+    "name": "Earth",
+    "fiatPrice": "$0.00",
+    "minted": "Minted on Mintbase.io",
+    "category": "alJuInV4dezvHTNU8Dp1",
+    "youtube_url": "",
+    "external_url": "https://mintbase.io/my-market/0xc7b1f4341074636974f0c2ddd1d1936931fd9831",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "BJ8QvNLKUUdqLMutF7sx"
+      },
+      {
+        "trait_type": "Name",
+        "value": "Earth"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Planet"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Founder"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "Ultimate"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "1/5"
+      }
+    ],
+    "type": "ERC721"
+  }
+}

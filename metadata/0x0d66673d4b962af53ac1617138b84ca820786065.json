@@ -1,0 +1,35 @@
+{
+  "address": "0x0d66673d4b962af53ac1617138b84ca820786065",
+  "type": "ERC721",
+  "name": "NFT University GOAT Pass",
+  "tokenCount": "111",
+  "uri": "https://nft-university.de/goatpassnft/metadata/1.json",
+  "metadata": {
+    "tokenId": 1,
+    "name": "GOAT PASS #1",
+    "description": "This is the pass for our honorest members - our Greatest Of All Times - Members",
+    "image": "https://nft-university.de/goatpassnft/assets/1.mp4",
+    "attributes": [
+      {
+        "trait_type": "Body",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Floor",
+        "value": "Stone"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "Black"
+      },
+      {
+        "trait_type": "MemberNr",
+        "value": "1/111"
+      },
+      {
+        "trait_type": "Room",
+        "value": "Purple"
+      }
+    ]
+  }
+}

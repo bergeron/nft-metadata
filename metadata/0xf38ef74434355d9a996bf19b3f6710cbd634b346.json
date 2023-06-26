@@ -1,0 +1,62 @@
+{
+  "address": "0xf38ef74434355d9a996bf19b3f6710cbd634b346",
+  "type": "ERC721",
+  "name": "META WARRIORS - gauPG06bg7 - old",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeidjvs4a66p7fgfhbj5st5tp3rjb3pjexdxafs2h2w3pdouneydecq/1.json",
+  "metadata": {
+    "name": "META WARRIORS0",
+    "symbol": "MWS",
+    "description": "Meta Warriors 10000 NFTs are based on the concept story that warriors of space warships to protect our planet from the invaders",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://bafybeigjamsokah63rhsuxnnu6texnkyygqfjrhycdla6ur67zffuq7ixm/1.jpeg",
+    "external_url": "",
+    "collection": {
+      "name": "META WARRIORS",
+      "family": "LaunchMyNFT"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Master"
+      },
+      {
+        "trait_type": "Base Body",
+        "value": "Body"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Body Pack"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Mix"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 8027,
+        "display_type": "number",
+        "max_value": 10000
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "/0.jpeg",
+          "type": "image/jpeg"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xa371De0a20f0A56CBCc90dD0128BA4B33e213D29",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

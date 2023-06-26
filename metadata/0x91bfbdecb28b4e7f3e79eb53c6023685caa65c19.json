@@ -1,0 +1,25 @@
+{
+  "address": "0x91bfbdecb28b4e7f3e79eb53c6023685caa65c19",
+  "type": "ERC1155",
+  "name": "FraktalNFTMyPunks Face",
+  "tokenCount": "2",
+  "uri": "https://api.mypunks.xyz/v1/metadata/face/1259",
+  "metadata": {
+    "name": "Espresso Skin",
+    "code": "RTDEC",
+    "description": "Espresso Skin - A Customizable MyPunks Face",
+    "image": "https://storage.googleapis.com/mypunks/RTDEC.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Espresso Skin"
+      },
+      {
+        "trait_type": "Combination",
+        "value": "No"
+      }
+    ],
+    "external_url": "https://mypunks.xyz/face/RTDEC",
+    "ipfs": "https://ipfs.infura.io/ipfs/QmSnqawZpyKt4NhxQ3ZEsKWvGhDvufsJnEZGFhZRojmupi"
+  }
+}

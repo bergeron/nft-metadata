@@ -1,0 +1,50 @@
+{
+  "address": "0xb6e404f081c70e6b5901bc54f6df628137608f98",
+  "type": "ERC1155",
+  "name": "A Royal Supper",
+  "tokenCount": "15",
+  "uri": "ipfs://QmNXd8L7GeKiC91Y8xexBQwUvoFiVZg2UZscMMYmnr7uQf/1/token.json",
+  "metadata": {
+    "name": "Spring",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/image/upload/w_1200/v1680518269/0x4147948b11ce851082f85fd7b56b76ae3a583560/64244e8ed25478d88e0d79be/stateCovers/zyzxnrdshl61x5rrtl8e.png",
+    "description": "Looks like a good day\n\nThis is an Expansion Item for Forever Supper, the biggest cryptoart collaboration. Claim your free Core and customise it with the Expansions you collect here: https://async.market/dynamic-blueprints/63fe742c74e62000a8cf7bb8/async-forever-supper",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "0xMJ"
+      },
+      {
+        "trait_type": "Core",
+        "value": "Forever Supper"
+      },
+      {
+        "trait_type": "Slot",
+        "value": "Outside"
+      },
+      {
+        "trait_type": "Pack",
+        "value": "A Royal Supper"
+      }
+    ],
+    "async-attributes": {
+      "artists": [
+        "0x4147948b11ce851082f85fd7b56b76ae3a583560"
+      ],
+      "dbpContractAddress": "0xf62d291a22886fa0b81e5b13c7b6dab2d4c33f31",
+      "dbpTypes": [
+        {
+          "name": "Type 1",
+          "layers": [
+            {
+              "id": "Outside",
+              "state": {
+                "label": "Spring",
+                "uri": "QmQcoei8hu5ZrFfDinGXN7dHxDjty9BLaYRDUYkYxELzqY"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "address": "0x7246489fbd8b07ec2394d8667c0137e962e5d6e9",
+  "type": "ERC721",
+  "name": "UNFantasy Football League - Playing Cards",
+  "tokenCount": "996",
+  "uri": "https://cdn-api.niftykit.com/reveal/f8gvGG5INkWHGM4cUXix/1",
+  "metadata": {
+    "name": "OFFENSE #1",
+    "description": "[UNFan.xyz](https://unfan.xyz) Inspired by the hilarious Parody Football Logo Collection, Parody Tease introduces the first ever UNFantasy Football League. All those reasons you yell at your TV during a game are now reasons to cheer! Play along throughout this inaugural season and be rewarded when your teams SUCK!",
+    "attributes": [
+      {
+        "trait_type": "Scoring Category",
+        "value": "Offense"
+      },
+      {
+        "trait_type": "Team Card",
+        "value": "KC"
+      },
+      {
+        "trait_type": "Background",
+        "value": "MIA"
+      },
+      {
+        "trait_type": "Background Level",
+        "value": "Uncommon-ly Bad"
+      },
+      {
+        "trait_type": "Blooper",
+        "value": "Livin in the Past"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "(+ 10.0) Turnovers",
+        "value": 230,
+        "max_value": 340
+      },
+      {
+        "display_type": "number",
+        "trait_type": "(- 0.1) Points Scored",
+        "value": -49.6,
+        "max_value": -28.8
+      },
+      {
+        "display_type": "number",
+        "trait_type": "~ Total Offense ~",
+        "value": 180.4,
+        "max_value": 311.1
+      }
+    ],
+    "image": "https://ipfs.io/ipfs/QmcPJqJg1gYie2kzv4y5Be4WsZoTCAbFCQfZA7tWzDJTKC",
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x67e16DF814C4E98e7c958CC95c0FF90f5734B746"
+  }
+}

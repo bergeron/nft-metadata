@@ -1,0 +1,59 @@
+{
+  "address": "0x26190d5182ab76eb6b5cf1531d0127342ddda2a0",
+  "type": "ERC721",
+  "name": "Ice Cream Zoo - old V2",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/o0dNRyAymASwNDx7BuQZwJFcogbdeSc0UaOqaWsu9z0",
+  "metadata": {
+    "name": "Ice Cream Cat #1",
+    "created_by": "Ice Cream Zoo",
+    "description": "Ice Cream Zoo is a NFT collective of 1,000 virtual inedible powered by the love for frozen treats, animals, and a decentralized-verse where inhabitants roam freely.",
+    "attributes": [
+      {
+        "trait_type": "Animal",
+        "value": "Cat"
+      },
+      {
+        "trait_type": "Cone Type",
+        "value": "Sugar"
+      },
+      {
+        "trait_type": "Flavor",
+        "value": "Plain"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Diet Kiwi"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Toppings",
+        "value": "1",
+        "max_value": "4"
+      }
+    ],
+    "animation_details": {
+      "bytes": 1431442,
+      "format": "MP4",
+      "duration": 4,
+      "sha256": "80e630a84c4a167311f9e459c7fe49e3a11afc53db74492d219c58b0aea4e7c1",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/_O29BMa8nS7_iSuFZeBGyTaOTFXrlJJ5bndtBzXnoMs",
+    "animation_url": "https://arweave.net/_O29BMa8nS7_iSuFZeBGyTaOTFXrlJJ5bndtBzXnoMs",
+    "image_details": {
+      "bytes": 163092,
+      "format": "JPEG",
+      "sha256": "d1e79f08084287ec065a5e763342502acad71ce8d0627be414dad6db7fb64deb",
+      "width": 1080,
+      "height": 1080
+    },
+    "image": "https://arweave.net/C4bm8hRrj1IIRANaAhqUarNnLQb1NQ-7t9hkPDs5yMs",
+    "image_url": "https://arweave.net/C4bm8hRrj1IIRANaAhqUarNnLQb1NQ-7t9hkPDs5yMs"
+  }
+}

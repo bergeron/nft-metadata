@@ -1,0 +1,31 @@
+{
+  "address": "0x6d39d7e2cbbabcf2f097c9e907ae71c7e694ead5",
+  "type": "ERC1155",
+  "name": "Web3 Earth Team Tokens",
+  "tokenCount": "3",
+  "uri": "ipfs://QmSEntENCn3ZriqPby5PScKb2JLKZL2wEFG5q3tUpmuaSC/1.json",
+  "metadata": {
+    "name": "Advisory Board Member",
+    "description": "Advisory Board Member Nft",
+    "image": "ipfs://QmNfvFzFL9LiUHXPNAwKpFvQaDPXLnfZJLqmMNpGherMfu/1.gif",
+    "properties": {
+      "simple_property": "example value",
+      "rich_property": {
+        "name": "WEB3 EARTH",
+        "value": "1",
+        "display_value": "1",
+        "class": "EARTH"
+      },
+      "array_property": {
+        "name": "Advisory Board Member",
+        "value": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "class": "EARTH"
+      }
+    }
+  }
+}

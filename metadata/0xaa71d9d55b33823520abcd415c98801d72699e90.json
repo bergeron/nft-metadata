@@ -1,0 +1,25 @@
+{
+  "address": "0xaa71d9d55b33823520abcd415c98801d72699e90",
+  "type": "ERC721",
+  "name": "Universal Card",
+  "tokenCount": "1",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xaa71d9d55b33823520abcd415c98801d72699e90/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xaA71d9D55b33823520ABcD415c98801d72699e90/icon?id=1",
+    "expiration": 1684872887,
+    "tokenId": "1",
+    "owner": "0xf5c28ce24acf47849988f147d5c75787c0103534",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1684872887
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xaA71d9D55b33823520ABcD415c98801d72699e90",
+    "network": 1
+  }
+}

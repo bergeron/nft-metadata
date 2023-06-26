@@ -1,0 +1,23 @@
+{
+  "address": "0x2950639f48edbfc4625e0244d35987aeb4e6cb63",
+  "type": "ERC1155",
+  "name": "SoundMint Vinyl",
+  "tokenCount": "3",
+  "uri": "https://soundmint-public.s3.amazonaws.com/VINYL/meta/1.json",
+  "metadata": {
+    "name": "Gold Vinyl",
+    "description": "Your all access pass to SoundMint. Highest Value. Gold Edition.",
+    "image": "https://soundmint-public.s3.amazonaws.com/VINYL/images/GOLD.png",
+    "image_url": "https://soundmint-public.s3.amazonaws.com/VINYL/images/GOLD.png",
+    "animation": "https://soundmint-public.s3.amazonaws.com/VINYL/videos/GOLD.mp4",
+    "animation_url": "https://soundmint-public.s3.amazonaws.com/VINYL/videos/GOLD.mp4",
+    "external_url": "https://www.soundmint.xyz",
+    "attributes": [
+      {
+        "key": "Color",
+        "trait_type": "Color",
+        "value": "Gold"
+      }
+    ]
+  }
+}

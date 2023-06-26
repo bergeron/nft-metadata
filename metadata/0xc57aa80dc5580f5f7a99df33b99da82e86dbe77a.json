@@ -1,0 +1,42 @@
+{
+  "address": "0xc57aa80dc5580f5f7a99df33b99da82e86dbe77a",
+  "type": "ERC721",
+  "name": "white rabbit genesis",
+  "tokenCount": "300",
+  "uri": "ipfs://Qmb9MtizkhdfM5sMynDZ6wcede7D9paknE1F36d3sc9kUQ/1",
+  "metadata": {
+    "dna": "739adda6a0e6b8ee583c3a9371d1e30ebcf42392",
+    "name": "#1",
+    "description": "the first 300. this is only the beginning. follow the white rabbit.",
+    "image": "ipfs://QmfBJPJRBtfozDnktTnm5iWsCUwtsWNhVnQZYF8iz6byJL/1.png",
+    "edition": 1,
+    "date": 1649867995392,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Type",
+        "value": "White_Rabbit"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Regular"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Accessories 1",
+        "value": "Gold_Chain"
+      },
+      {
+        "trait_type": "Accessories 2",
+        "value": "Carrot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

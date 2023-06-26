@@ -1,0 +1,27 @@
+{
+  "address": "0x60739bb63f90f5311542e25e66bf2853c21c4078",
+  "type": "ERC721",
+  "name": "Card",
+  "tokenCount": "1",
+  "uri": "https://luckyland.wtf/v1/card/1",
+  "metadata": {
+    "chain_id": 1,
+    "contract": "0x60739bB63F90f5311542e25E66bf2853C21c4078",
+    "token_id": "1",
+    "name": "Reinvented Body",
+    "description": "The hand of God in cyberpunk, the power to recreate everything",
+    "image": "https://d1v9hrjhridueg.cloudfront.net/nft/lucky-land-card/hand003.jpg",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "extra",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "quality",
+        "value": 3358
+      }
+    ]
+  }
+}

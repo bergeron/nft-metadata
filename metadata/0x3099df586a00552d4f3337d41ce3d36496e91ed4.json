@@ -1,0 +1,88 @@
+{
+  "address": "0x3099df586a00552d4f3337d41ce3d36496e91ed4",
+  "type": "ERC721",
+  "name": "Annique Delphine - Objectify me",
+  "tokenCount": "22",
+  "uri": "ipfs://QmRqYgs8VUnTVbd2x1MsKYbM1W1nJ9BmCV7h8xZJ6ivavU",
+  "metadata": {
+    "name": "Disturbing realizations (2/3)",
+    "image": "https://ipfs.pinsl.com/ipfs/Qmc6J3GeFedoS6QAGuTkGxCEKGH3NLYzQXxC6rni9xv2hH/27108ccd-0168-48c2-a0e2-4a17e6a6e9ab.jpeg",
+    "title": "Disturbing realizations (2/3)",
+    "createdAt": "2022-09-07T23:30:05.178Z",
+    "updatedAt": "2022-09-07T23:30:05.178Z",
+    "attributes": [
+      {
+        "trait_type": "Title",
+        "description": "Disturbing realizations"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Annique Delphine"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Digital Fine Art NFT"
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Photography"
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Digital Photography"
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Feminist"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Disturbing realizations (2/3)"
+      },
+      "type": {
+        "type": "string",
+        "description": "digitalArtNFT"
+      },
+      "category": {
+        "type": "string",
+        "description": "image"
+      },
+      "copyright": {
+        "type": "string",
+        "description": ""
+      },
+      "created_at": {
+        "type": "datetime",
+        "description": "2022-09-07T23:30:05.178Z"
+      },
+      "description": {
+        "type": "string",
+        "description": "Digital Photography. - Number of nipples per artwork indicate edition size"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 3
+      },
+      "raw_media_file": {
+        "type": "string",
+        "description": "https://ipfs.pinsl.com/ipfs/Qmc6J3GeFedoS6QAGuTkGxCEKGH3NLYzQXxC6rni9xv2hH/27108ccd-0168-48c2-a0e2-4a17e6a6e9ab.jpeg?preview=1"
+      },
+      "yearOfCreation": {
+        "type": "string",
+        "description": "2019"
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://ipfs.pinsl.com/ipfs/Qmc6J3GeFedoS6QAGuTkGxCEKGH3NLYzQXxC6rni9xv2hH/27108ccd-0168-48c2-a0e2-4a17e6a6e9ab.jpeg"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "jpeg"
+      }
+    },
+    "description": "Digital Photography. - Number of nipples per artwork indicate edition size",
+    "externalLink": ""
+  }
+}

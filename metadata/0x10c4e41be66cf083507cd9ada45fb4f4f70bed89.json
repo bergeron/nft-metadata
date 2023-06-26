@@ -1,0 +1,44 @@
+{
+  "address": "0x10c4e41be66cf083507cd9ada45fb4f4f70bed89",
+  "type": "ERC1155",
+  "name": "Minted book",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/9a5im49smLdIUr4sAnVPqlklVi3mA6GzfJBz-g3GLQE",
+  "metadata": {
+    "name": "Minted ebook",
+    "created_by": "MintFace",
+    "external_url": "https://www.mintedbook.com",
+    "description": "The Minted ebook NFT includes your own full color, ebook ready digital edition.\n\nThe book also features bonus exclusive artwork by some Minted featured artists.",
+    "attributes": [
+      {
+        "trait_type": "Book Type",
+        "value": "Digital"
+      },
+      {
+        "trait_type": "Author",
+        "value": "MintFace"
+      },
+      {
+        "trait_type": "Pages",
+        "value": "219"
+      },
+      {
+        "trait_type": "Supported Formats",
+        "value": "ePub, Kindle, Google Books, Apple Books, Kobo, Nook, Generic, PDF."
+      },
+      {
+        "trait_type": "ISBN",
+        "value": " 978-0-473-61588-8"
+      }
+    ],
+    "image_details": {
+      "bytes": 968229,
+      "format": "PNG",
+      "sha256": "0b2026d05a647baf54ed8653fc7c960574138b81139b883486342ee6f167b880",
+      "width": 2736,
+      "height": 2736
+    },
+    "image": "https://arweave.net/GG3YL_-kCUBVnyoWb1WedHyhTDPmH0K34siDoWTLiWA",
+    "image_url": "https://arweave.net/GG3YL_-kCUBVnyoWb1WedHyhTDPmH0K34siDoWTLiWA"
+  }
+}

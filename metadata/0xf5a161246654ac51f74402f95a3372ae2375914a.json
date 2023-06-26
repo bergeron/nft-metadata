@@ -1,0 +1,96 @@
+{
+  "address": "0xf5a161246654ac51f74402f95a3372ae2375914a",
+  "type": "ERC721",
+  "name": "10k CaT SqUaD",
+  "tokenCount": "345",
+  "uri": "ipfs://QmbELYsyDkkkNpAnEmnuiCyF8fB675sqFxr62fz7zqhhDL/1.json",
+  "metadata": {
+    "dna": "61e611cf85fbb44a1c7693c5bfa8c9f4ba4e97c4",
+    "name": "CaT #1",
+    "description": "10k CaT SqUaD - are a collection of 10,000 cats roaming the Ethereum blockchain.",
+    "image": "ipfs://QmQ5uERYLHA93VbRbMXsM7pDYd1CMFNxNutkS7t2KRoD8i/1.png",
+    "edition": 1,
+    "date": 1654454756815,
+    "symbol": "10KCS",
+    "seller_fee_basis_points": 500,
+    "external_url": "",
+    "collection": {
+      "name": "10k CaT SqUaD",
+      "family": ""
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x3f3Bfd8798e1a5Bcf5B3401D07686a4190D266Aa",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Color 164"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "Short right - color 77"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Horns - color 33"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Color 620"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Beautiful - gray"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Black small"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Transparent small"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Two gray tooth"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Orange curly"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Black cook"
+      },
+      {
+        "trait_type": "Mustache",
+        "value": "Short"
+      },
+      {
+        "trait_type": "Legs",
+        "value": "Forest military pants"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Yin-Yang"
+      },
+      {
+        "trait_type": "Upper body",
+        "value": "Suit with shirt Louis Vuitton set 12"
+      }
+    ],
+    "compiler": "by compiler"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "address": "0x2654f261d46c4d0eb5ddac81a06d0d1e74fa5db5",
+  "type": "ERC721",
+  "name": "Fawnies",
+  "tokenCount": "5000",
+  "uri": "ipfs://bafybeiap23d33zdnrrg67oilnjfle2xbac76egqmeqemy6avyclbz7uapi/1.json",
+  "metadata": {
+    "name": "#1",
+    "description": "Pixie Jars Fawnies that can be found on the Ethereum Blockchain (ERC-721). These adorable Fawnies might just be your ticket into Pixie World.",
+    "image": "ipfs://bafybeiaf3pnni4rmidylkcidu6rsxthlowjq6w4nzbixya5xpr3b2fcvm4/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sand"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Coffee Cup"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "No Beard"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Orange Fox"
+      }
+    ],
+    "compiler": "Pixie Jars"
+  }
+}

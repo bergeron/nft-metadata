@@ -1,0 +1,63 @@
+{
+  "address": "0xffe32fae4597fefd3331a017314b81f475241598",
+  "type": "ERC721",
+  "name": "Time.Files",
+  "tokenCount": "4",
+  "uri": "https://arweave.net/H-lXw-_882avvrcy7f7jEvFW7E1M_q-k3nfVpLoV9bs",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1637483557
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Pods"
+      }
+    ],
+    "description": "Sydney. Australia. 2018",
+    "external_url": "https://cxip.io/nft/0xffe32fae4597fefd3331a017314b81f475241598/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/bGyQNxB4U0P6nE4buC9iCBtwDCcxS94aQN_yGAWaJjU",
+    "imageUrl": "https://arweave.net/bGyQNxB4U0P6nE4buC9iCBtwDCcxS94aQN_yGAWaJjU",
+    "name": "cloudwave",
+    "properties": {
+      "created_at": "2021-11-21T08:32:37.000000Z",
+      "creator_wallet": "0xc9555b1e23e2901079eb51ff8ecc4dbcdf182454",
+      "description": "Sydney. Australia. 2018",
+      "image": "https://arweave.net/bGyQNxB4U0P6nE4buC9iCBtwDCcxS94aQN_yGAWaJjU",
+      "imageUrl": "https://arweave.net/bGyQNxB4U0P6nE4buC9iCBtwDCcxS94aQN_yGAWaJjU",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "21 November 2021",
+      "name": "cloudwave",
+      "nft_type": "non-fungible image token (image/jpeg)",
+      "preview_media_file": "https://arweave.net/nFpcwSjdw_87xKuhttyg5YZ76Dt9TKTiCqAlJ9fqIXM",
+      "preview_media_file_dimensions": "586x360",
+      "preview_media_file_size": 130304,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "3885x2386",
+      "raw_media_file": "https://arweave.net/KzPlrNE_RxL6KJ-lEUuijoqDBp5lHT50IVW_BStb2_Y",
+      "raw_media_file_size": 1955054,
+      "raw_media_file_spec": "JPEG 3885x2386 3885x2386+0+0 8-bit sRGB 1.86448MiB 0.000u 0:00.000",
+      "raw_media_file_type": "image/jpeg",
+      "raw_media_format": "landscape",
+      "raw_media_signature": "0x0415f4a52fcea1c18f70ed07eebd9adc57b3c3f993ccbe103f05493267b61b0f",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/nFpcwSjdw_87xKuhttyg5YZ76Dt9TKTiCqAlJ9fqIXM",
+      "thumb_media_file_type": "image/jpg",
+      "title": "cloudwave",
+      "total_supply": 1
+    },
+    "title": "cloudwave"
+  }
+}

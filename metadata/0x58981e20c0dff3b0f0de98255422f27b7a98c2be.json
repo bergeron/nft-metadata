@@ -1,0 +1,25 @@
+{
+  "address": "0x58981e20c0dff3b0f0de98255422f27b7a98c2be",
+  "type": "ERC1155",
+  "name": "MintPass V4",
+  "tokenCount": "6",
+  "uri": "https://personality-blockchain-3dop4w4orq-uc.a.run.app/metadata/mint-pass/1",
+  "metadata": {
+    "name": "Mythical",
+    "image": "https://pdfapi.personalitynft.com/public/rarity/mythical.gif",
+    "attributes": [
+      {
+        "trait_type": "Payout Levels",
+        "value": 7
+      },
+      {
+        "trait_type": "Yield",
+        "value": 50
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Mythical"
+      }
+    ]
+  }
+}

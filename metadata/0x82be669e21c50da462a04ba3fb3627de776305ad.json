@@ -1,0 +1,43 @@
+{
+  "address": "0x82be669e21c50da462a04ba3fb3627de776305ad",
+  "type": "ERC721",
+  "name": "Flokiboy",
+  "tokenCount": "201",
+  "uri": "https://flokiboy.findmynft.net/api/1",
+  "metadata": {
+    "description": "Flokiboy #151",
+    "image": "https://ipfs.io/ipfs/QmQQWPDu9ZGKsuzXgH98gqBH3j6shwNKmAvufy8iJSVvxU",
+    "name": "Flokiboy #151",
+    "external_url": "https://flokiboy.net",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "STR",
+        "value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "DEX",
+        "value": 12
+      },
+      {
+        "display_type": "number",
+        "trait_type": "MANA",
+        "value": "12"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "HP",
+        "value": 18
+      },
+      {
+        "trait_type": "Name",
+        "value": "Crash test Dummie"
+      }
+    ]
+  }
+}

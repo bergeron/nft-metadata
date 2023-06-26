@@ -1,0 +1,28 @@
+{
+  "address": "0x61ba9477dfe6ee62b3e8be252864e72cbf6e9600",
+  "type": "ERC721",
+  "name": "InstaMint V2",
+  "tokenCount": "8",
+  "uri": "ipfs://QmTR7gFKBZrbJLCghY9RRtmN6NB253G3CH1iyycxsFv7iT",
+  "metadata": {
+    "description": "Testing.. 1, 2, 3.",
+    "external_url": "https://www.instagram.com/p/CN1CspFhnub/",
+    "image": "ipfs://QmNucyGx3iaDBUFnuDoziTKFJQA6DN3eawPHq9LC1k6vhH",
+    "name": "instamint_xyz 2021-04-19T01:16:55.000Z",
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 1618795015
+      },
+      {
+        "trait_type": "instagram_author",
+        "value": "@instamint_xyz"
+      },
+      {
+        "trait_type": "signature",
+        "value": "0x09BF12B246beA07D93dF742DecD5C3b41F701EEe"
+      }
+    ]
+  }
+}

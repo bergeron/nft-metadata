@@ -1,0 +1,46 @@
+{
+  "address": "0x2eec233221617952f5b51c6e7950ea9b2f68188c",
+  "type": "ERC721",
+  "name": "TomodachiWorld NFT",
+  "tokenCount": "32",
+  "uri": "ipfs://QmdacoPCQPHC2dgaCi8uwMGomKaqYGseRWfw7aptUvueWG/1.json",
+  "metadata": {
+    "name": "Tomodachi #1",
+    "description": "10000 unique Tomodachis living together on Ethereum",
+    "image": "ipfs://QmXktnZcwpxBkQHP7411UMMgQAj8B7kh9fTJNCv5hQEMpv/1.png",
+    "dna": "a95ee5dbf0a5b7309540e4c810aee47e0c84121d",
+    "edition": 1,
+    "date": 1635472495612,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Molten"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Neutral_Thick"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Frown"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Spiky_Brown"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Hoodie"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

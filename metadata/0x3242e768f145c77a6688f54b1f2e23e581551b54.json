@@ -1,0 +1,32 @@
+{
+  "address": "0x3242e768f145c77a6688f54b1f2e23e581551b54",
+  "type": "ERC1155",
+  "name": "hamster coin",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/-CNVl1W1t_3c8ntyt3s-zAyG-V2P9b-1P-GRErMr-3I",
+  "metadata": {
+    "name": "The hamster coin",
+    "created_by": "hamster",
+    "external_url": "https://hamster.io",
+    "description": "Chapter 1: Claim your coins!",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "hamster"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Currency"
+      }
+    ],
+    "image_details": {
+      "bytes": 10545,
+      "format": "PNG",
+      "sha256": "a87774222eb3d507ecb4609aa615d40f68a745972483f4834d32fe5ec1aa82e2",
+      "width": 1024,
+      "height": 1024
+    },
+    "image": "https://arweave.net/GheGvSGH3IfyY_GDuxWOJhYpXI68DleshqgWihhFT_o",
+    "image_url": "https://arweave.net/GheGvSGH3IfyY_GDuxWOJhYpXI68DleshqgWihhFT_o"
+  }
+}

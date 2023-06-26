@@ -1,0 +1,39 @@
+{
+  "address": "0xe3c3a476845b57cfdcf5b4ae706a37b6d4c05484",
+  "type": "ERC721",
+  "name": "SPAM DAO Genesis Pass",
+  "tokenCount": "136",
+  "uri": "https://arweave.net/Wf87FJQuaiJChIqHY7Pi2d08Chbk2xckhWXTWFnzm6A",
+  "metadata": {
+    "name": "SPAM DAO Genesis Pass",
+    "created_by": "SPAM DAO",
+    "external_url": "http://spamdao.xyz",
+    "description": "Stay Positive And Mint",
+    "attributes": [
+      {
+        "value": "Genesis",
+        "trait_type": "PASS"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Positive",
+        "value": "100",
+        "max_value": "100"
+      }
+    ],
+    "animation_details": {
+      "bytes": 11292720,
+      "format": "MP4",
+      "duration": 8,
+      "sha256": "7df32841f3a0dc7ea2799ab71acd650324c66fb0dfba35cd4de16efaeae8af80",
+      "width": 1024,
+      "height": 1024,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/fRemeGY5wzXEKbbRYAtTpTxmnpyjJXSWzssP346jhzY",
+    "animation_url": "https://arweave.net/fRemeGY5wzXEKbbRYAtTpTxmnpyjJXSWzssP346jhzY"
+  }
+}

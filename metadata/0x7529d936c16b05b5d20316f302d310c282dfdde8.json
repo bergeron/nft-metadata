@@ -1,0 +1,20 @@
+{
+  "address": "0x7529d936c16b05b5d20316f302d310c282dfdde8",
+  "type": "ERC721",
+  "name": "Blanks NFT",
+  "tokenCount": "82",
+  "uri": "https://blanks.vercel.app/api/1",
+  "metadata": {
+    "name": "Blank #1",
+    "description": "The purest NFT is blank.",
+    "tokenId": 1,
+    "image": "https://gateway.pinata.cloud/ipfs/QmRQgZwfYtrwq4B7KYkH962aRxRvPf6Xjqgbb6y9n9TBLx",
+    "external_url": "https://www.blanknft.co",
+    "attributes": [
+      {
+        "trait_type": "Blank",
+        "value": "First Edition"
+      }
+    ]
+  }
+}

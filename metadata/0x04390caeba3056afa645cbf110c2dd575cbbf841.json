@@ -1,0 +1,28 @@
+{
+  "address": "0x04390caeba3056afa645cbf110c2dd575cbbf841",
+  "type": "ERC721",
+  "name": "Bittrees",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=F9TKIbmRoQhUwXsmsQne",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1586155046080?alt=media&token=50180f60-8442-49e2-8e9f-ae7cc988f2ad",
+    "forSale": false,
+    "contractAddress": "0x04390caeba3056afa645cbf110c2dd575cbbf841",
+    "description": "this is the v1 for the Bittrees logo",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1586155080,
+      "_nanoseconds": 920000000
+    },
+    "price": "1",
+    "name": "Bittrees logo v1",
+    "fiatPrice": "$151.18",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x04390caeba3056afa645cbf110c2dd575cbbf841",
+    "type": "ERC721"
+  }
+}

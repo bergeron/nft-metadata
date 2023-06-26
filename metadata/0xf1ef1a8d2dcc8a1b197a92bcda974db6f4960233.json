@@ -1,0 +1,24 @@
+{
+  "address": "0xf1ef1a8d2dcc8a1b197a92bcda974db6f4960233",
+  "type": "ERC721",
+  "name": "Funky Fungi Genesis Collection",
+  "tokenCount": "8",
+  "uri": "ipfs://QmQMWueefatwoDz8Zsi8DAXPWWiSmu7DYfjKFqktGjBEso/1.json",
+  "metadata": {
+    "name": "Willow the Witch",
+    "description": "The Funky Fungi genesis collection of 50 themed fungi characters from the Funky Fungi Mushroom Club.",
+    "image": "ipfs://QmPd5DNmodMyE74zGSY7X7nzN56NHQPnwj1AxkTqrE7b9r/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Character",
+        "value": "Witch"
+      },
+      {
+        "trait_type": "Feature",
+        "value": "Mint Pass"
+      }
+    ],
+    "compiler": "Funky Fungi Art Engine"
+  }
+}

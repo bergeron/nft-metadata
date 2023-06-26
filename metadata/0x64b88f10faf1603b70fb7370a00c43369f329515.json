@@ -1,0 +1,18 @@
+{
+  "address": "0x64b88f10faf1603b70fb7370a00c43369f329515",
+  "type": "ERC721",
+  "name": "Puggy Squad",
+  "tokenCount": "3333",
+  "uri": "https://puggysquad-nft.s3.amazonaws.com/api/1.json",
+  "metadata": {
+    "name": "Puggy Squad #1",
+    "description": "Puggy Squad is a collection of 3333.Collect your favorite characters and join them on a grand adventure. Save the world with PUGGY SQUAD.",
+    "image": "https://puggysquad-nft.s3.us-east-1.amazonaws.com/img/1.gif",
+    "attributes": [
+      {
+        "trait_type": "Skin Type",
+        "value": "Shining"
+      }
+    ]
+  }
+}

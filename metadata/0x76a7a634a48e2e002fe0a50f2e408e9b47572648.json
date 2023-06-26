@@ -1,0 +1,42 @@
+{
+  "address": "0x76a7a634a48e2e002fe0a50f2e408e9b47572648",
+  "type": "ERC721",
+  "name": "Ducks Undead",
+  "tokenCount": "14",
+  "uri": "ipfs://QmfGaHiDNYHvzMiwM4WJwcL8gftWQ7SvihhkNVUbKWK4LG/1.json",
+  "metadata": {
+    "name": "Ducks Undead #1",
+    "description": "Rise And Quack",
+    "image": "ipfs://QmbwDqE4i7Lc832HZFMjx5H6scDvv4xYqDtcC8tDp5Jxpa/1.png",
+    "dna": "c88d119a5b8f28055cef9bed4d4ef87ab4a3081f",
+    "edition": 1,
+    "date": 1666132007441,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Head",
+        "value": "skye blue"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "red"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "wanted"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "zigzag"
+      },
+      {
+        "trait_type": "Cap",
+        "value": "magician"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

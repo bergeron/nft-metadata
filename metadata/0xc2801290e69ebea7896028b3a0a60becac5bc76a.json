@@ -1,0 +1,72 @@
+{
+  "address": "0xc2801290e69ebea7896028b3a0a60becac5bc76a",
+  "type": "ERC721",
+  "name": "Alien_in_the_void",
+  "tokenCount": "7",
+  "uri": "ipfs://QmWeQmxeBinyXjzizd4zxEw8Xorib9jvTFPkQtMuYqwJmo/1.json",
+  "metadata": {
+    "dna": "49cfd018987493fe79a0e4ddacc1b0a0fb5c3d87",
+    "name": "Alien_skin #1",
+    "description": "Help! I'm stuck here!",
+    "image": "ipfs://Qmc745EqTg9voMDRPjV8Ag2xsAnj25eFcXHkL1cQT4ZyfS/1.png",
+    "edition": 1,
+    "date": 1667561469182,
+    "symbol": "ALSK",
+    "seller_fee_basis_points": 350,
+    "external_url": "",
+    "collection": {
+      "name": "Alien_in_the_void",
+      "family": ""
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x5511038CEacff97c6122570dA0c7e90b0572CAE0",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Angry Black Alien (without soul)"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "T-shirt fast food"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "Eye patch (Left)"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Stunt helmet"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Assistants",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "by compiler"
+  }
+}

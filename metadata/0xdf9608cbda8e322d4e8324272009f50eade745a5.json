@@ -1,0 +1,31 @@
+{
+  "address": "0xdf9608cbda8e322d4e8324272009f50eade745a5",
+  "type": "ERC721",
+  "name": "Space Mice Empire",
+  "tokenCount": "1109",
+  "uri": "https://api.spacemice.xyz/1.json",
+  "metadata": {
+    "name": "Space Mouse #1",
+    "description": "They don't hide in burrows. They have come to fight for their Empire",
+    "image": "https://api.spacemice.xyz/1.png",
+    "attributes": [
+      {
+        "trait_type": "Planet",
+        "value": "Cregyria"
+      },
+      {
+        "trait_type": "Back Body",
+        "value": "Energetic Desintegro B"
+      },
+      {
+        "trait_type": "Clone Version",
+        "value": "Jazon"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Alien Armor"
+      }
+    ],
+    "compiler": "https://startnft.app"
+  }
+}

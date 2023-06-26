@@ -1,0 +1,45 @@
+{
+  "address": "0x50585a63cce1616020e92bc789a1edc86c203aec",
+  "type": "ERC721",
+  "name": "FWB Key",
+  "tokenCount": "10",
+  "uri": "https://arweave.net/P9Uc2Uj3bu3luxUvCcGWM5KrMFKSeRK2KH5HqjX8TbA",
+  "metadata": {
+    "name": "FWB Event Key",
+    "created_by": "FWBKey",
+    "description": "This NFT has been awarded for the successful completion of an FWB Event Key.",
+    "attributes": [
+      {
+        "trait_type": "City",
+        "value": "Miami"
+      },
+      {
+        "trait_type": "Version",
+        "value": "1.0"
+      }
+    ],
+    "animation_details": {
+      "bytes": 7854283,
+      "format": "MP4",
+      "duration": 6,
+      "sha256": "1564aa09ec5531dd1d7e71b1698a961bb198342287a07271b934b0b1f7f3f323",
+      "width": 1200,
+      "height": 1500,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/BlUZUvsa-mqygrRVqNL6T-YIxwWtH7eaPlqHDCRMQWU",
+    "animation_url": "https://arweave.net/BlUZUvsa-mqygrRVqNL6T-YIxwWtH7eaPlqHDCRMQWU",
+    "image_details": {
+      "bytes": 2077317,
+      "format": "PNG",
+      "sha256": "46de4bcb69ddfdfa684af314a9cf4c37c9772be21af581802666e0ab848b5313",
+      "width": 1200,
+      "height": 1500
+    },
+    "image": "https://arweave.net/LtxX_BtbVysD4PlQwJXU8pUaVoSsZ21dmY9iKiLqfUg",
+    "image_url": "https://arweave.net/LtxX_BtbVysD4PlQwJXU8pUaVoSsZ21dmY9iKiLqfUg"
+  }
+}

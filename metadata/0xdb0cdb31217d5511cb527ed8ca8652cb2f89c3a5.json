@@ -1,0 +1,24 @@
+{
+  "address": "0xdb0cdb31217d5511cb527ed8ca8652cb2f89c3a5",
+  "type": "ERC721",
+  "name": "TLDC",
+  "tokenCount": "4",
+  "uri": "ipfs://QmW8nYc3y7T4ZaQRE5VVAZs222oQGyHV8mY9jrAGSX3UUW/metadata.json",
+  "metadata": {
+    "name": "Lazy Degen",
+    "description": "Time for the Lazy Money! Lazy Degen Non Fungible Tokens are required to play 'Tokens From The Yacht Club', A side scroller web3 game starring the Lazy Degen as he attempts to collect as many Lazy Club (ERC20) Tokens before the clock runs out!",
+    "external_url": "https://www.Lazydegen.com/",
+    "image": "ipfs://QmdeWTT6nXkpjh5sC6hSNGN4y86cGN3S5UFbVyr1DfxTkC/lazydegen.png",
+    "attributes": [
+      {
+        "trait_type": "Lazy Degen",
+        "value": "Exclusive Access"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Life",
+        "value": 3
+      }
+    ]
+  }
+}

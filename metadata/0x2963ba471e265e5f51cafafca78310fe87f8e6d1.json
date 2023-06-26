@@ -1,0 +1,55 @@
+{
+  "address": "0x2963ba471e265e5f51cafafca78310fe87f8e6d1",
+  "type": "ERC721",
+  "name": "MakersPlace",
+  "tokenCount": "21034",
+  "uri": "ipfs://QmaVTKYv4gAwUvAS5eRD9HwZkcoSMHM9xBfu7ZHzVuxeCB",
+  "metadata": {
+    "title": "Autumn Sun",
+    "name": "Autumn Sun",
+    "type": "object",
+    "imageUrl": "https://ipfsgateway.makersplace.com/ipfs/QmSnvLL8wgkFxcSdVJ7vVbiBbtAbzczN9MLmjq6BuUMg6G",
+    "description": "The autumn sun sets over Half Dome.\r\n\r\nYosemite National Park, California.",
+    "attributes": [
+      {
+        "trait_type": "Creator",
+        "value": "Daniel B Chu"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Autumn Sun"
+      },
+      "description": {
+        "type": "string",
+        "description": "The autumn sun sets over Half Dome.\r\n\r\nYosemite National Park, California."
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://ipfsgateway.makersplace.com/ipfs/QmSnvLL8wgkFxcSdVJ7vVbiBbtAbzczN9MLmjq6BuUMg6G"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "jpg"
+      },
+      "created_at": {
+        "type": "datetime",
+        "description": "2021-10-17T07:15:12.026868+00:00"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 10
+      },
+      "digital_media_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "digital_media_signature": {
+        "type": "string",
+        "description": "b093015c9ef6d1f6e6ef90a759bd80314cb93d47f952957abc3693c8415b7c80"
+      }
+    },
+    "available_for_purchase_at": "2021-10-27T07:15:12.026868+00:00"
+  }
+}

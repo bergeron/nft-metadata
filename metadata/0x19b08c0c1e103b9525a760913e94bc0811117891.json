@@ -1,0 +1,39 @@
+{
+  "address": "0x19b08c0c1e103b9525a760913e94bc0811117891",
+  "type": "ERC721",
+  "name": "Moodbearz",
+  "tokenCount": "10001",
+  "uri": "ipfs://QmRszNbEjepD7yTWNrr4p4RepyxUafn8Gq6mZuKGFUePjM/1",
+  "metadata": {
+    "name": "Mood Bearz #1",
+    "description": "Mood Bearz are cute Bear NFTs with famous Web3 memes, specially crafted for bear market",
+    "image": "ipfs://QmdLQuuSZtzkuXY4AYrgaQi8EvjSxhKarFRnqcedbBFznp/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "meme",
+        "value": "take my money"
+      },
+      {
+        "trait_type": "fur",
+        "value": "Dark Brown Bear"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "Golden Teeth"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Bitcoin"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Golden Chain"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Party Hat"
+      }
+    ]
+  }
+}

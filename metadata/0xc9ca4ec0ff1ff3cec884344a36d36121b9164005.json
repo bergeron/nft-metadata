@@ -1,0 +1,54 @@
+{
+  "address": "0xc9ca4ec0ff1ff3cec884344a36d36121b9164005",
+  "type": "ERC721",
+  "name": "Hex NFT",
+  "tokenCount": "13",
+  "uri": "https://hexnft.nyc3.cdn.digitaloceanspaces.com/nft/1.json",
+  "metadata": {
+    "name": "HEX 1ED",
+    "description": "HEX 1ED",
+    "image": "https://hexnft.nyc3.digitaloceanspaces.com/nft/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Hex",
+        "value": "1ED1ED"
+      },
+      {
+        "trait_type": "Red",
+        "value": 30
+      },
+      {
+        "trait_type": "Green",
+        "value": 209
+      },
+      {
+        "trait_type": "Blue",
+        "value": 237
+      },
+      {
+        "trait_type": "Hue",
+        "value": 0.52
+      },
+      {
+        "trait_type": "Saturation",
+        "value": 0.52
+      },
+      {
+        "trait_type": "Lightness",
+        "value": 0.85
+      },
+      {
+        "trait_type": "Brightness",
+        "value": 159
+      },
+      {
+        "trait_type": "Is Grayscale",
+        "value": "No"
+      },
+      {
+        "trait_type": "Code Length",
+        "value": "3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "address": "0x135601e39bac34530bf986d317b98b006346965d",
+  "type": "ERC1155",
+  "name": "Claims by Gang Labs",
+  "tokenCount": "18",
+  "uri": "https://arweave.net/UfBTaUp3fz0wJALFTuZzJ6kq-nZB6Yia514BhPWGbws",
+  "metadata": {
+    "name": "Mystery Box",
+    "created_by": "AG",
+    "external_url": "https://alphagang.xyz",
+    "description": "Psst... What Happens when you Open the Box?  \nWin a Blue Chip NFT? Upgrade the Art Metadata to Your NFT?\n\nBurn it to find out... Manual Reveal",
+    "attributes": [
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "RNG Boost",
+        "value": 10,
+        "max_value": 100
+      }
+    ],
+    "animation_details": {
+      "bytes": 26687839,
+      "format": "MP4",
+      "duration": 54,
+      "sha256": "e7d603734c5bb6d1eb6b331317fa249e319000f9df4e5274bb75736d556810de",
+      "width": 1440,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/T51FnFsWwbdw_03eN5TY3F7tCjO3RB2k-umdu8_e6gQ",
+    "animation_url": "https://arweave.net/T51FnFsWwbdw_03eN5TY3F7tCjO3RB2k-umdu8_e6gQ",
+    "image_details": {
+      "bytes": 36014981,
+      "format": "GIF",
+      "sha256": "e1939d3e9c9377ca24f292c6d6d37d0170f18797b376ef79fffea980e26e1261",
+      "width": 1000,
+      "height": 737
+    },
+    "image": "https://arweave.net/CXIRvTHJrzYePmYewaEPMD0aLHBUS5c-grXYAB3ikoc",
+    "image_url": "https://arweave.net/CXIRvTHJrzYePmYewaEPMD0aLHBUS5c-grXYAB3ikoc"
+  }
+}

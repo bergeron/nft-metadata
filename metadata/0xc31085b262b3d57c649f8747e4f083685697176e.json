@@ -1,0 +1,24 @@
+{
+  "address": "0xc31085b262b3d57c649f8747e4f083685697176e",
+  "type": "ERC721",
+  "name": "Impostors Genesis UFOs",
+  "tokenCount": "9345",
+  "uri": "https://impostors-ufo.s3.amazonaws.com/1",
+  "metadata": {
+    "name": "Impostors UFO 1",
+    "image": "https://impostors-ufo.s3.amazonaws.com/galactech.png",
+    "animation_url": "https://impostors-ufo.s3.amazonaws.com/galactech.mp4",
+    "description": "",
+    "attributes": [
+      {
+        "trait_type": "Galaxy",
+        "value": "Galactech"
+      },
+      {
+        "trait_type": "Power",
+        "value": 90,
+        "max_value": 100
+      }
+    ]
+  }
+}

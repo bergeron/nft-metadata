@@ -1,0 +1,43 @@
+{
+  "address": "0xc27428de5037efc95653bffec783d5ef94429231",
+  "type": "ERC721",
+  "name": "DinoCpp",
+  "tokenCount": "20",
+  "uri": "ipfs://QmQ3z4FdTNmx4b3zJzRovM5cVWuL74ZjoFTX5QFgCmhJzK/1.json",
+  "metadata": {
+    "dna": "505a2e0e38fce9e300a1c718e8c0250cb99266e9394a35f1f244e95d9892e7e6",
+    "name": "DinoCPP #1",
+    "description": "DinoCpp is a unique and collectible NFT collection that runs on the Ethereum Blockchain.",
+    "image": "ipfs://QmQkCk79xsAmgpgXLAPC91bQ2qZvJsazuQ4Pq5Pkxc3Mcd/1.png",
+    "imageHash": "e65921ecc411b92aa8aa21423a0bf42ff2dfa6867a945777d2899bd563630362",
+    "edition": 1,
+    "date": 1657884551309,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cosmos"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Dino Cyan"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Circuit Skin"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Ethereum"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Flash Drive"
+      }
+    ],
+    "compiler": "DinoCPP compiler"
+  }
+}

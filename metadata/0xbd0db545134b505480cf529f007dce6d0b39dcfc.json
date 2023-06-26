@@ -1,0 +1,63 @@
+{
+  "address": "0xbd0db545134b505480cf529f007dce6d0b39dcfc",
+  "type": "ERC721",
+  "name": "don't take it personal",
+  "tokenCount": "19",
+  "uri": "ipfs://QmTLaBzFqFuzg575xBkH3bYHG1RJpAgLvm2GcpMKPsqDNo",
+  "metadata": {
+    "title": "\"oh no\"",
+    "name": "\"oh no\"",
+    "createdAt": "2022-11-23T10:00:10.896Z",
+    "updatedAt": "2022-11-23T10:00:10.896Z",
+    "description": "digital photography.\ncollector will also receive the costume turban (used as prop in creation of photo). price including the shipment of the object",
+    "externalLink": "",
+    "image": "https://ipfs.pinsl.com/ipfs/Qmf61Xaiirm4GP535vAke9PQYM2ts7bRjhxrCy5VDoZbEN/5366e0d3-5d65-4418-85b6-f61bb3692a15.jpeg",
+    "attributes": [],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "\"oh no\""
+      },
+      "description": {
+        "type": "string",
+        "description": "digital photography.\ncollector will also receive the costume turban (used as prop in creation of photo). price including the shipment of the object"
+      },
+      "yearOfCreation": {
+        "type": "string",
+        "description": "2021"
+      },
+      "category": {
+        "type": "string",
+        "description": "image"
+      },
+      "type": {
+        "type": "string",
+        "description": "digitalArtNFT"
+      },
+      "copyright": {
+        "type": "string",
+        "description": ""
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://ipfs.pinsl.com/ipfs/Qmf61Xaiirm4GP535vAke9PQYM2ts7bRjhxrCy5VDoZbEN/5366e0d3-5d65-4418-85b6-f61bb3692a15.jpeg"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "jpeg"
+      },
+      "created_at": {
+        "type": "datetime",
+        "description": "2022-11-23T10:00:10.896Z"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 1
+      },
+      "raw_media_file": {
+        "type": "string",
+        "description": "https://ipfs.pinsl.com/ipfs/Qmf61Xaiirm4GP535vAke9PQYM2ts7bRjhxrCy5VDoZbEN/5366e0d3-5d65-4418-85b6-f61bb3692a15.jpeg?preview=1"
+      }
+    }
+  }
+}

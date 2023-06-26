@@ -1,0 +1,58 @@
+{
+  "address": "0xc7d8d51367582900aca9b555b32571a72ebf3c6d",
+  "type": "ERC721",
+  "name": "MZW collectible",
+  "tokenCount": "64",
+  "uri": "https://nft.mesozoowars.com/json/1",
+  "metadata": {
+    "name": "Frosty Sky Hammer of the Knight of the Northern Lands",
+    "description": "Equipment for the men of courage, who conquered the frosty part of the continent in search of a more powerful type of crystal. The expedition failed to prove the existence of large resource deposits, but what they found became a part of their equipment. This set is honoured only to those, who are ready to go to the edge of the world in the permafrost for the sake of prosperity of their people",
+    "image": "https://nft.mesozoowars.com/images/1.png",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Weapon"
+      },
+      {
+        "trait_type": "Health",
+        "value": 95
+      },
+      {
+        "trait_type": "Minimum physical damage",
+        "value": 126
+      },
+      {
+        "trait_type": "Maximum physical damage",
+        "value": 140
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Physical protection",
+        "value": 7
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Magic protection",
+        "value": 0
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Dodge",
+        "value": 0
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Critical damage",
+        "value": 0
+      },
+      {
+        "trait_type": "Minimum magical damage",
+        "value": 0
+      },
+      {
+        "trait_type": "Maximum magical damage",
+        "value": 0
+      }
+    ]
+  }
+}

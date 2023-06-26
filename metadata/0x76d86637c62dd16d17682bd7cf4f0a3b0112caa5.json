@@ -1,0 +1,45 @@
+{
+  "address": "0x76d86637c62dd16d17682bd7cf4f0a3b0112caa5",
+  "type": "ERC721",
+  "name": "Pixelated Pigments",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/KMOoJtm84IQ1-EIAXNUyD0-eQepvrtTAgLkS0u5kcBo",
+  "metadata": {
+    "name": "GM",
+    "created_by": "Andi García",
+    "external_url": "https://twitter.com/0x8AE1",
+    "description": "-\"Don't let the others vision obscure yours\".\n\n2048 x 2048, MP4 file.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Andi García"
+      },
+      {
+        "trait_type": "Date",
+        "value": "2022:05:10 02:15:35"
+      }
+    ],
+    "animation_details": {
+      "bytes": 69883,
+      "format": "MP4",
+      "duration": 1,
+      "sha256": "cdff95af0dac17ba41da8bdf7f807138bab1fa0d2524cb051f1c2614b2573e91",
+      "width": 2048,
+      "height": 2048,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/QgS4gppG5NiCVR21D-LkQJnyICiut0LkRkHn-5W7qIc",
+    "animation_url": "https://arweave.net/QgS4gppG5NiCVR21D-LkQJnyICiut0LkRkHn-5W7qIc",
+    "image_details": {
+      "bytes": 190652,
+      "format": "JPEG",
+      "sha256": "a9ed2e3f5e70234ad757e1177cd1a574f74468c72ea074e975045b2a8d893491",
+      "width": 2048,
+      "height": 2048
+    },
+    "image": "https://arweave.net/OsR54I1atpO5i2wbgEld9xzDTmoH49JnFDrREANgxKw",
+    "image_url": "https://arweave.net/OsR54I1atpO5i2wbgEld9xzDTmoH49JnFDrREANgxKw"
+  }
+}

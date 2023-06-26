@@ -1,0 +1,30 @@
+{
+  "address": "0xe91e60bf51ea928518fd3e482c3ebc31e3b227ca",
+  "type": "ERC1155",
+  "name": "Unikura Membership",
+  "tokenCount": "1",
+  "uri": "ipfs://bafybeibxm4hjami5ngjj6tdmczj5s2acal6xy6fflkrk4bifhxsmpvkibe/1.json",
+  "metadata": {
+    "name": "Unikura Silver Membership",
+    "description": "Silver membership for priority access to the Unikura App",
+    "image": "ipfs://bafybeietfrypnzxmdeut7xyn6pzzcpk6yblh5i5m6ir5ednjz7gcamk7ju/silver.png",
+    "animation_url": "ipfs://bafybeiczxopdbxrlffqy6sprmjxjmdmtp374csgtsti66t3v5h22u2otq4/silver.mp4",
+    "external_link": "http://unikura.xyz",
+    "properties": {
+      "rich_property": {
+        "name": "Rarity",
+        "value": "SILVER",
+        "display_value": "Silver",
+        "class": "emphasis",
+        "css": {
+          "color": "#ffffff",
+          "font-weight": "bold",
+          "font-size": "18px",
+          "font-family": "Arial",
+          "background-color": "#95a5a6",
+          "border": "2px solid #7f8c8d"
+        }
+      }
+    }
+  }
+}

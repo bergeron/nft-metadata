@@ -1,0 +1,38 @@
+{
+  "address": "0xc3a5277bc04f379ae96d35c1367b8d216aa23248",
+  "type": "ERC721",
+  "name": "Raid Guild",
+  "tokenCount": "17",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=fpZrJnhtkmopRtYiQ3M0",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1578173519077?alt=media&token=60eef1f0-cfde-4af1-82e8-a9c792564ecf",
+    "isForSale": false,
+    "contractAddress": "0xc3a5277bc04f379ae96d35c1367b8d216aa23248",
+    "description": "Raid Guild Member",
+    "type": "ERC721",
+    "external_link": "https://mintbase.io/minted/0xc3a5277bc04f379ae96d35c1367b8d216aa23248/fpZrJnhtkmopRtYiQ3M0",
+    "minter": "0xBaf6e57A3940898fd21076b139D4aB231dCbBc5f",
+    "mintedOn": {
+      "_seconds": 1578173574,
+      "_nanoseconds": 578000000
+    },
+    "price": "0",
+    "name": "Raid Guild 0",
+    "minted": "Minted on Mintbase.io",
+    "attributes": [
+      {
+        "trait_type": "item",
+        "value": "Raid Guild 0"
+      },
+      {
+        "trait_type": "level",
+        "value": 2
+      },
+      {
+        "trait_type": "generation",
+        "display_type": "number",
+        "value": 1
+      }
+    ]
+  }
+}

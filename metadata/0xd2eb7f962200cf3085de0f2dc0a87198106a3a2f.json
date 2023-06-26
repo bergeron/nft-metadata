@@ -1,0 +1,44 @@
+{
+  "address": "0xd2eb7f962200cf3085de0f2dc0a87198106a3a2f",
+  "type": "ERC721",
+  "name": "HYPEES - Official",
+  "tokenCount": "152",
+  "uri": "ipfs://QmXmQXG15rqGUALfvomkUiumsbh5fHUF1Um8SNhaRrjYAv/1.json",
+  "metadata": {
+    "name": "HYPEE #1",
+    "description": "Your Personal Pop Art Sidekick. Powered by OVRT.",
+    "image": "ipfs://QmaVNykpGimBKAXnTtDK7zpQWr7hikNzNHe32on2NTwkaA/1.png",
+    "dna": "cbf873b1d479ca0f29fdf4f0bf354cd3a342dba2",
+    "edition": 1,
+    "date": 1648527436191,
+    "artist": "Matt Corrado",
+    "external_url": "https://hypees.co/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pattern-Red"
+      },
+      {
+        "trait_type": "Drip",
+        "value": "Drips-03"
+      },
+      {
+        "trait_type": "Base Pyramid",
+        "value": "Bricks-Yellow-Orange"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Shark-Toof"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hypno-Eye-2"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "Point-Cyan"
+      }
+    ],
+    "compiler": "OVRT Labs Art Engine"
+  }
+}

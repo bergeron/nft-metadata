@@ -1,0 +1,44 @@
+{
+  "address": "0x1950c1e31ece8ed2fa5a7f067c51dfcc7ea55e8f",
+  "type": "ERC1155",
+  "name": "seized memes",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/P3Sn5x6HVNU7S1HD2ZS6OcFtrcF9tx8dSDYPbp190Xg",
+  "metadata": {
+    "name": "SEIZED MEMES",
+    "created_by": "seizedmemes.eth",
+    "description": "THESE MEMES HAVE BEEN SEIZED",
+    "attributes": [
+      {
+        "trait_type": "Seized",
+        "value": "true"
+      },
+      {
+        "trait_type": "Memes",
+        "value": "true"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Rare Pepes",
+        "value": 1774
+      },
+      {
+        "trait_type": "JPG",
+        "value": "true"
+      },
+      {
+        "trait_type": "ZIP",
+        "value": "true"
+      }
+    ],
+    "image_details": {
+      "bytes": 616313203,
+      "format": "JPEG",
+      "sha256": "510feb663ed012ba5f0594d77cb81fb34475c143dfa7c37a21a747fb799c1340",
+      "width": 4000,
+      "height": 5600
+    },
+    "image": "https://arweave.net/W39WOnCBE4NWMBEU1X_OmlkwINjo4m8lAb3TlbSWQz4",
+    "image_url": "https://arweave.net/W39WOnCBE4NWMBEU1X_OmlkwINjo4m8lAb3TlbSWQz4"
+  }
+}

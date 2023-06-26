@@ -1,0 +1,47 @@
+{
+  "address": "0x80b3aeea125f20390aa7ae776e77b2154646c04c",
+  "type": "ERC721",
+  "name": "Hoodies",
+  "tokenCount": "108",
+  "uri": "https://mint.hoodies.xyz/api/collection2/1.json",
+  "metadata": {
+    "token_id": 1,
+    "tier": 4,
+    "attributes": [
+      {
+        "trait_type": "Hoodie",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "Chains"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Gold Snapback"
+      },
+      {
+        "trait_type": "Watch",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "HUSL Gold Chain"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "Husl Glossy"
+      },
+      {
+        "trait_type": "Smartphone",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Tier",
+        "value": "Chains"
+      }
+    ],
+    "image": "https://iotaread.com:3008/image?token_id=1&contract=2",
+    "name": "Hoodie #1"
+  }
+}

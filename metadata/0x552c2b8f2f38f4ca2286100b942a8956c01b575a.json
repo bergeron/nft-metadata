@@ -1,0 +1,63 @@
+{
+  "address": "0x552c2b8f2f38f4ca2286100b942a8956c01b575a",
+  "type": "ERC721",
+  "name": "Test Collection - sspiNoEnTf",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/_PxEbNyrYNaZFNiGAsoJzQOf7MulYNyLOruZsaBCl5E",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1663593257
+      },
+      {
+        "trait_type": "Creator",
+        "value": "ACC01DE"
+      }
+    ],
+    "description": "Test mint for CXIP.io",
+    "external_url": "https://cxip.io/nft/0x552c2b8f2f38f4ca2286100b942a8956c01b575a/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/sFDS7d2Ni6kYrosn0egBTvb6fTlG9fa5TTB9o1TEFK4",
+    "imageUrl": "https://arweave.net/sFDS7d2Ni6kYrosn0egBTvb6fTlG9fa5TTB9o1TEFK4",
+    "name": "Test Mint",
+    "properties": {
+      "created_at": "2022-09-19T13:14:17.000000Z",
+      "creator_wallet": "0xc6deae10eb98f3ed75255b41acff54fc33facade",
+      "description": "Test mint for CXIP.io",
+      "image": "https://arweave.net/sFDS7d2Ni6kYrosn0egBTvb6fTlG9fa5TTB9o1TEFK4",
+      "imageUrl": "https://arweave.net/sFDS7d2Ni6kYrosn0egBTvb6fTlG9fa5TTB9o1TEFK4",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "19 September 2022",
+      "name": "Test Mint",
+      "nft_type": "non-fungible image token (image/jpeg)",
+      "preview_media_file": "https://arweave.net/jy2YYmVsI_K75BRlfFGhty2tXhaAJnWRDY11OMds4s0",
+      "preview_media_file_dimensions": "360x360",
+      "preview_media_file_size": 26464,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "2013x2013",
+      "raw_media_file": "https://arweave.net/kkyPRZ8Tnb1vGr3ESJil7m6Dnw-CAXkaUHc5H9qg5h8",
+      "raw_media_file_size": 461211,
+      "raw_media_file_spec": "JPEG 2013x2013 2013x2013+0+0 8-bit sRGB 461211B 0.000u 0:00.000",
+      "raw_media_file_type": "image/jpeg",
+      "raw_media_format": "square",
+      "raw_media_signature": "0x33450c25e8773a63aeb62d0c86d5d258e3df3bb663dd207a2f0c953f7bee560c",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/jy2YYmVsI_K75BRlfFGhty2tXhaAJnWRDY11OMds4s0",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Test Mint",
+      "total_supply": 1
+    },
+    "title": "Test Mint"
+  }
+}

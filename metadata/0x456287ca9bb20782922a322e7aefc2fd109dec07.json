@@ -1,0 +1,36 @@
+{
+  "address": "0x456287ca9bb20782922a322e7aefc2fd109dec07",
+  "type": "ERC721",
+  "name": "NDTest3",
+  "tokenCount": "3",
+  "uri": "ipfs://bafybeihxdasfulo7op7aubx2v2zbflkkvuxz3kp6bhlmp3ywe6kxijl6rm/1.json",
+  "metadata": {
+    "name": "Toborochi ypykuéra (Nature Token 1)",
+    "description": "The sale of this token is directly used for funding on the ground efforts to preserve the nature in the parecel represented.",
+    "image": "ipfs://bafybeic3fsczn46v3ibmcdha76lvro2uug2hyg2o2nsychkuaa7v33t5nu/1.png",
+    "attributes": [
+      {
+        "trait_type": "geolocation",
+        "value": "-61.86440,-16.06708"
+      },
+      {
+        "trait_type": "Steward",
+        "value": "FCBC.org.bo"
+      },
+      {
+        "trait_type": "CO2bound",
+        "value": "30T"
+      },
+      {
+        "trait_type": "CO2yearly",
+        "value": "1T"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "2028-01-01"
+      }
+    ],
+    "external_url": "https://www.nature-dao.com/token?1",
+    "compiler": "mintplex.xyz"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "address": "0x5c45154193222adc7c321a33ffa8f09e90a73c71",
+  "type": "ERC721",
+  "name": "Digital (AI)rtist - DIGAI",
+  "tokenCount": "113",
+  "uri": "https://arweave.net/TggzYen8IF6AcF3KczBPXWdRtcwQPnVRHAaevgMkQ8A",
+  "metadata": {
+    "name": "Playing to be GOD",
+    "created_by": "Digital (AI)rtist",
+    "description": "Playing to be GOD - Exclusive 1/1 edition 1 minute animation generated with Artificial Intelligence.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Digital (AI)rtist"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "value": "1",
+        "max_value": "1"
+      },
+      {
+        "trait_type": "Animated",
+        "value": "True"
+      }
+    ],
+    "animation_details": {
+      "bytes": 98077583,
+      "format": "MP4",
+      "duration": 60,
+      "sha256": "7d225e7d171a680705f670a0382d81951e2b4d5b1df5f6217125a3e28a0d5752",
+      "width": 768,
+      "height": 512,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/tZhMPGoqxNPpV-XWtvuYfG1McAZcKZmDNcTCskdw1aQ",
+    "animation_url": "https://arweave.net/tZhMPGoqxNPpV-XWtvuYfG1McAZcKZmDNcTCskdw1aQ",
+    "image_details": {
+      "bytes": 178623,
+      "format": "JPEG",
+      "sha256": "b8ad6d3ceff377e06e17243ddc4237c099526f3fbfe6dc1a9d3aacc580b7c590",
+      "width": 1620,
+      "height": 955
+    },
+    "image": "https://arweave.net/Zm1Q6A15D1tJIuyW1dhBNo7v55vDjM681zRTwbosLhU",
+    "image_url": "https://arweave.net/Zm1Q6A15D1tJIuyW1dhBNo7v55vDjM681zRTwbosLhU"
+  }
+}

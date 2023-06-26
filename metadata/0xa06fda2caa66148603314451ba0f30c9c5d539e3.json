@@ -1,0 +1,48 @@
+{
+  "address": "0xa06fda2caa66148603314451ba0f30c9c5d539e3",
+  "type": "ERC721",
+  "name": "Binkies",
+  "tokenCount": "10000",
+  "uri": "ipfs://QmfGAzfV4whVx4qLA2Z184oMH5Pp4MYCfFciJ83ehkEJff/2.json",
+  "metadata": {
+    "name": "Binkies #2",
+    "description": "",
+    "external_url": "",
+    "image": "ipfs://QmfV8rprgiEcPcUCfkPNtbyp2UHhotn6Q8SBcgcrfy5UqK/2.png",
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "Bolt"
+      },
+      {
+        "trait_type": "FACE",
+        "value": "X Heart Moustache"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "BB Black Cap"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "BINKIES",
+      "family": "BINKIES"
+    },
+    "symbol": ""
+  }
+}

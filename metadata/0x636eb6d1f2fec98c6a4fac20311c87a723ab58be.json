@@ -1,0 +1,80 @@
+{
+  "address": "0x636eb6d1f2fec98c6a4fac20311c87a723ab58be",
+  "type": "ERC721",
+  "name": "MLC Head",
+  "tokenCount": "1783",
+  "uri": "https://mlc-pfp-api-dot-dmmc-351510.ew.r.appspot.com/metadata/1.json",
+  "metadata": {
+    "name": "MLC Head #1",
+    "image": "https://storage.googleapis.com/mlc-pfp-images/1.png",
+    "description": "MLC Head #1 was designed by 0x844acef789989cb6e21e0f07dd4e894709f92f96 out of 750.000.000 possible combinations through the first-of-its-kind PFP designer developed by Meta Lion Circle.",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "Nebula"
+      },
+      {
+        "trait_type": "Foreground",
+        "value": "Stars"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Space"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Space"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Tongue"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "Space"
+      },
+      {
+        "trait_type": "Spikes",
+        "value": "Blue White"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Leadership",
+        "value": 100
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Strength",
+        "value": 100
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Stamina",
+        "value": 100
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Courage",
+        "value": 100
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Luck",
+        "value": 100
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Birthday",
+        "value": 1662835508
+      }
+    ],
+    "internal": {
+      "createdBy": "0x844acef789989cb6e21e0f07dd4e894709f92f96",
+      "owner": "0x844acef789989cb6e21e0f07dd4e894709f92f96"
+    }
+  }
+}

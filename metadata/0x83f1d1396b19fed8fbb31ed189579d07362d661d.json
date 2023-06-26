@@ -1,0 +1,45 @@
+{
+  "address": "0x83f1d1396b19fed8fbb31ed189579d07362d661d",
+  "type": "ERC1155",
+  "name": "Hymns (For Adventurers)",
+  "tokenCount": "52",
+  "uri": "https://hymns.mypinata.cloud/ipfs/QmVdvb9vmkdUFpWL4BS77BvS82QMjVHgiB8TnaqnPhRio8/1",
+  "metadata": {
+    "name": "1: Jasime",
+    "description": "52 procedurally generated Hymns for Past, Present and Future Adventures. To listen, click Play. \n\nNotes: D6,B7,E4,G7,A5,B6,C4,A5",
+    "background_color": "000000",
+    "image": "https://hymns.mypinata.cloud/ipfs/Qmd7HinbLJbM29TErSswMtsoFk1hb7Mh5UsdaL3HZW2xUz/1/1.png",
+    "animation_url": "https://hymns.mypinata.cloud/ipfs/Qmd7HinbLJbM29TErSswMtsoFk1hb7Mh5UsdaL3HZW2xUz/1/index.html",
+    "attributes": [
+      {
+        "trait_type": "Oscillator",
+        "value": "sine"
+      },
+      {
+        "trait_type": "Interval",
+        "value": "8n"
+      },
+      {
+        "trait_type": "Notes",
+        "value": 8
+      },
+      {
+        "trait_type": "Attack",
+        "value": "0.04"
+      },
+      {
+        "trait_type": "Decay",
+        "value": "0.90"
+      },
+      {
+        "trait_type": "Release",
+        "value": "4.67"
+      },
+      {
+        "trait_type": "Sustain",
+        "value": "0.16"
+      }
+    ],
+    "objectID": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0x5234458259dc707dc597d1e5b222dd3e5b1022e6",
+  "type": "ERC721",
+  "name": "clch",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=317CfBocHWhYfBIJ2GEF",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1584642507510?alt=media&token=ba3fbb83-a624-4b2e-b32b-ed018d136fba",
+    "forSale": true,
+    "contractAddress": "0x5234458259dc707dc597d1e5b222dd3e5b1022e6",
+    "description": "Nothiing",
+    "tags": [],
+    "amountToMint": 1,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1584642528,
+      "_nanoseconds": 921000000
+    },
+    "price": "0.001",
+    "name": "Turtle",
+    "fiatPrice": "$0.14",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x5234458259dc707dc597d1e5b222dd3e5b1022e6",
+    "type": "ERC721"
+  }
+}

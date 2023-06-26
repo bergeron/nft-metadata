@@ -1,0 +1,50 @@
+{
+  "address": "0x068ce9f026c969270a57fcf6c9c445a359059165",
+  "type": "ERC721",
+  "name": "CryptoKun",
+  "tokenCount": "43",
+  "uri": "ipfs://QmbNxRWDUMfjMKkTuNWKFyzcb5pqtog1z8NMipHrnLuoaT/1.json",
+  "metadata": {
+    "name": "CryptoKun Collection #1",
+    "description": "CryptoKun NFT when Anime meet Crypto",
+    "image": "ipfs://QmTjF64DyBA1wLtK2PKsAXXC9qw9u2GcbmD97AbCBvk7mp/1.png",
+    "dna": "2ac1df36be64d94d71f4d44c8e504cd996d9000c",
+    "edition": 1,
+    "date": 1638609660583,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "basecharacter",
+        "value": "character"
+      },
+      {
+        "trait_type": "headware",
+        "value": "SHIB"
+      },
+      {
+        "trait_type": "eyebrow",
+        "value": "eyebrow"
+      },
+      {
+        "trait_type": "eyeware",
+        "value": "RedStrip"
+      },
+      {
+        "trait_type": "outfit",
+        "value": "OrangeYellow"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "happy"
+      },
+      {
+        "trait_type": "accessories",
+        "value": "tie"
+      }
+    ],
+    "compiler": "CryptoKun Engine"
+  }
+}

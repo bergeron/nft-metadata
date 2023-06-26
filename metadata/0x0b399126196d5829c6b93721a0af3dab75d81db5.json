@@ -1,0 +1,63 @@
+{
+  "address": "0x0b399126196d5829c6b93721a0af3dab75d81db5",
+  "type": "ERC721",
+  "name": "Behind the Psychosis",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/k9lvxr5bIcwQCm68AP5-We_TsjhkWfLGR_miagWrbRg",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1639429294
+      },
+      {
+        "trait_type": "Creator",
+        "value": "Entanese"
+      }
+    ],
+    "description": "A rare behind the scenes piece from the archives. The moments leading into the creation of \"Act 1: Somnolentia (Psychosis)\". \n\n\nSouthern Province, Sri Lanka (2020)",
+    "external_url": "https://cxip.io/nft/0x0b399126196d5829c6b93721a0af3dab75d81db5/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/6uGrzu3Xbkht530NwTg609Q9M7ziNZZt0ScIy77bHvA",
+    "imageUrl": "https://arweave.net/6uGrzu3Xbkht530NwTg609Q9M7ziNZZt0ScIy77bHvA",
+    "name": "Behind the Psychosis",
+    "properties": {
+      "created_at": "2021-12-13T21:01:34.000000Z",
+      "creator_wallet": "0x9cbfc9cda35d51f370a6148849b107aa3cc5f745",
+      "description": "A rare behind the scenes piece from the archives. The moments leading into the creation of \"Act 1: Somnolentia (Psychosis)\". \n\n\nSouthern Province, Sri Lanka (2020)",
+      "image": "https://arweave.net/6uGrzu3Xbkht530NwTg609Q9M7ziNZZt0ScIy77bHvA",
+      "imageUrl": "https://arweave.net/6uGrzu3Xbkht530NwTg609Q9M7ziNZZt0ScIy77bHvA",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "13 December 2021",
+      "name": "Behind the Psychosis",
+      "nft_type": "non-fungible image token (image/jpeg)",
+      "preview_media_file": "https://arweave.net/K-7DZgsG-m8rL_jHLU9Z2x92mAiks_Xxzd0EkXthONA",
+      "preview_media_file_dimensions": "540x360",
+      "preview_media_file_size": 117712,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "6000x4000",
+      "raw_media_file": "https://arweave.net/bcnhln6_V19_KpKO5gyNTzcwHiww-z0ujozIcdSycpA",
+      "raw_media_file_size": 14255714,
+      "raw_media_file_spec": "JPEG 6000x4000 6000x4000+0+0 8-bit sRGB 13.5953MiB 0.000u 0:00.000",
+      "raw_media_file_type": "image/jpeg",
+      "raw_media_format": "landscape",
+      "raw_media_signature": "0x9dfcd2bfff304e92636ab723d0ced932d0fdce3763fb888f15809e95f55fcec7",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/K-7DZgsG-m8rL_jHLU9Z2x92mAiks_Xxzd0EkXthONA",
+      "thumb_media_file_type": "image/jpg",
+      "title": "Behind the Psychosis",
+      "total_supply": 1
+    },
+    "title": "Behind the Psychosis"
+  }
+}

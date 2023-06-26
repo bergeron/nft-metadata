@@ -1,0 +1,34 @@
+{
+  "address": "0xce91aece6dca3aa562d72f2304bfe9d9944e432c",
+  "type": "ERC721",
+  "name": "Cool Comics CATaclysm",
+  "tokenCount": "2500",
+  "uri": "https://s3.amazonaws.com/comic-metadata.coolcatsnft.com/comic/1/metadata/1",
+  "metadata": {
+    "name": "Tepnu and the Water Disaster",
+    "image": "https://s3.amazonaws.com/comic-metadata.coolcatsnft.com/comic/1/image/1.png",
+    "description": "The CATaclysm adventure begins at sea, following an unsuspecting pirate called Tepnu…\n\nUse this NFT to read the comic on our website here: [coolcatsnft.com](https://coolcatsnft.com), and be sure to check out the animated video on our youtube page: [YouTube.com/coolcatsnft](https://youtube.com/coolcatsnft)",
+    "attributes": [
+      {
+        "trait_type": "series",
+        "value": "CATaclysm"
+      },
+      {
+        "trait_type": "part",
+        "value": "1"
+      },
+      {
+        "trait_type": "serial_number",
+        "value": "1"
+      },
+      {
+        "trait_type": "tier",
+        "value": "Cool 1"
+      },
+      {
+        "trait_type": "redeemed",
+        "value": "true"
+      }
+    ]
+  }
+}

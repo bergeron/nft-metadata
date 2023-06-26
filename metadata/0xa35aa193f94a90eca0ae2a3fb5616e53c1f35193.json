@@ -1,0 +1,47 @@
+{
+  "address": "0xa35aa193f94a90eca0ae2a3fb5616e53c1f35193",
+  "type": "ERC721",
+  "name": "marimo.life",
+  "tokenCount": "10000",
+  "uri": "https://marimo.life/api/marimos/1",
+  "metadata": {
+    "ownerAddress": "0x3217F371e54851e26a30869DF32579f98AC174a5",
+    "id": "1",
+    "image": "https://storage.googleapis.com/marimo-production1.appspot.com/042/416a9494-c664-424a-94e6-3941afb54944.png",
+    "name": "marimo #1",
+    "displayName": "ポチ",
+    "size": 6.76,
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "navy blue"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "size",
+        "value": 6.76
+      },
+      {
+        "display_type": "number",
+        "trait_type": "clarity",
+        "value": 24
+      },
+      {
+        "trait_type": "power",
+        "value": 10
+      },
+      {
+        "trait_type": "speed",
+        "value": 2
+      },
+      {
+        "trait_type": "stamina",
+        "value": 10
+      },
+      {
+        "trait_type": "luck",
+        "value": 10
+      }
+    ]
+  }
+}

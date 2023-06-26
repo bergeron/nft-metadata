@@ -1,0 +1,28 @@
+{
+  "address": "0x91229e8ea4c9ba112059b39c53d01405b7703907",
+  "type": "ERC721",
+  "name": "Hocus Pocus Sacrifice Collection",
+  "tokenCount": "187",
+  "uri": "https://nft.hocuspocus.finance/spell/1",
+  "metadata": {
+    "image": "https://nft.hocuspocus.finance/spell/media/06.png",
+    "animation_url": "https://nft.hocuspocus.finance/spell/media/06.mp4",
+    "name": "Hocus Pocus Sacrifice Enchanter",
+    "description": "You can use this NFT as a multiplier of Hocus Pocus Sacrifice points. This NFT provides its owner with +60% bonus to points from the WIZ held on the same address.",
+    "attributes": [
+      {
+        "trait_type": "Wizard Class",
+        "value": "Enchanter"
+      },
+      {
+        "trait_type": "Color Theme",
+        "value": "green"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Sacrifice Bonus",
+        "value": 60
+      }
+    ]
+  }
+}

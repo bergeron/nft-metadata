@@ -1,0 +1,43 @@
+{
+  "address": "0x5af8f6359df6af2e3a3c58c744b8f46d924cb15e",
+  "type": "ERC721",
+  "name": "Chubby Hamsters",
+  "tokenCount": "1",
+  "uri": "ipfs://QmaLVNYKgnM8qdTy9Eufvt7qsE4uJR77iGZw3sxE9WGLZM/1.json",
+  "metadata": {
+    "dna": "3fe0a6988365d3bff78931df48e3d6cf7ef67456",
+    "name": "#1",
+    "description": "300 Chubby Hamsters.",
+    "image": "ipfs://QmaTfq4PSbbtRJjBbqg1Gm9DgJ4jwuCX1RdHosCHJ7EsTU/1.png",
+    "edition": 1,
+    "date": 1635425907543,
+    "artist": "GrindHard.eth",
+    "attributes": [
+      {
+        "trait_type": "Fur",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Hamster",
+        "value": "YES"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Acessorities",
+        "value": "None"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Wide smile"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Pink"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

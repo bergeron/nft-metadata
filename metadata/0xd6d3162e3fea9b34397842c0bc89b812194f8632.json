@@ -1,0 +1,47 @@
+{
+  "address": "0xd6d3162e3fea9b34397842c0bc89b812194f8632",
+  "type": "ERC721",
+  "name": "Super Ted Yacht Club",
+  "tokenCount": "1000",
+  "uri": "ipfs://bafybeiaouc53r4hedgyh5qiou6viwlf36rffrayblo4elorlwcatqpn5ny/1.json",
+  "metadata": {
+    "name": "Super Ted #1",
+    "description": "1,000 generated collection of super teds created by the BTYC. Not affiliated with Yuga Labs, BoredApeYachtClub, BAYC MAYC.",
+    "external_url": "https://www.boredtedyachtclub.xyz/",
+    "image": "ipfs://bafybeibhp6jor7ffso6s77vejqysapfgehrsneiykrd73xbtdhd5ohqjqa/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Super 24"
+      },
+      {
+        "trait_type": "Super Fur",
+        "value": "Noise"
+      },
+      {
+        "trait_type": "Super Eyes",
+        "value": "Crazy Laser"
+      },
+      {
+        "trait_type": "Super Mouth",
+        "value": "Joker Unshaven"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://onemint.io/",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Super Teds Yacht Club",
+      "family": "Super Teds Yacht Club"
+    },
+    "symbol": ""
+  }
+}

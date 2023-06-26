@@ -1,0 +1,129 @@
+{
+  "address": "0x71bd57965a1c34bc2aa4e6269d1fdba8d976ba5f",
+  "type": "ERC721",
+  "name": "rrrrrrrrrrrrr",
+  "tokenCount": "5",
+  "uri": "https://ipfs.io/ipfs/Qmf6ef4buBRHttsfXTDsipiB6Tnq2fgeGb6KMiUZAM7eAr",
+  "metadata": {
+    "abilities": [
+      {
+        "name": "Full Metal Body",
+        "text": "If this Pokémon has any Metal Energy attached to it, it has no Weakness.",
+        "type": "Ability"
+      }
+    ],
+    "artist": "5ban Graphics",
+    "attacks": [
+      {
+        "convertedEnergyCost": 3,
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "damage": "130",
+        "name": "Rising Dash",
+        "text": "This attack's damage isn't affected by Resistance."
+      }
+    ],
+    "attributes": [
+      {
+        "trait_type": "Set Name",
+        "value": "Celestial Storm"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Release date",
+        "value": 1533254400
+      },
+      {
+        "trait_type": "Artist",
+        "value": "5ban Graphics"
+      },
+      {
+        "trait_type": "Evolves from",
+        "value": "Cosmoem"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare Holo"
+      },
+      {
+        "trait_type": "Supertype",
+        "value": "Pokémon"
+      },
+      {
+        "trait_type": "Number",
+        "value": "99"
+      },
+      {
+        "trait_type": "Converted Retreat Cost",
+        "value": 3
+      },
+      {
+        "trait_type": "Health Points",
+        "value": 160
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Full Metal Body"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Attack Rising Dash",
+        "value": 130
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Resistance Psychic (-)",
+        "value": 20
+      },
+      {
+        "trait_type": "Type",
+        "value": "Metal"
+      },
+      {
+        "trait_type": "National Pokedex Number",
+        "value": "791"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Weakness Fire (×)",
+        "value": 2
+      }
+    ],
+    "convertedRetreatCost": 3,
+    "description": "It is said to live in another world. The intense light it radiates from the surface of its body can make the darkest of nights light up like midday.",
+    "evolvesFrom": "Cosmoem",
+    "hp": "160",
+    "image": "https://ipfs.io/ipfs/QmYnj2WqUANdZ6VH2bWZHDTg5mcvSF9pxHJJGzUNXhG9dF",
+    "name": "Solgaleo",
+    "nationalPokedexNumbers": [
+      791
+    ],
+    "number": "99",
+    "rarity": "Rare Holo",
+    "releaseDate": "2018/08/03",
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "set": "https://ipfs.io/ipfs/QmPRhp2ANx8qmBfHyfLGs4bEffC93fqGLuhoVvDx4ZYJ8S",
+    "setName": "Celestial Storm",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "supertype": "Pokémon",
+    "types": [
+      "Metal"
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ]
+  }
+}

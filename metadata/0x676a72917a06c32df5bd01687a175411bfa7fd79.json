@@ -1,0 +1,41 @@
+{
+  "address": "0x676a72917a06c32df5bd01687a175411bfa7fd79",
+  "type": "ERC721",
+  "name": "Smol Kevins",
+  "tokenCount": "2000",
+  "uri": "ipfs://QmPBRWfj9btiMAxwX9TDrAssVi9urmZodkGZiGnZtFgPmH/1.json",
+  "metadata": {
+    "name": "Smol Kevins #729",
+    "description": "Smol Kevins #729 - 2000 NFTs for the culture",
+    "fee_recipient": "0xE434B2B771D770F1F9454F0Ddb5bb0E65e1c6C95",
+    "seller_fee_basis_points": 250,
+    "image": "ipfs://QmZiFhMLJQsQyTAhZJcg28QASoCgV9AWwEJjovqF2u6khH/1.png",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Beach"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Rabbit Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Sausage"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Default"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 602,
+        "display_type": "number"
+      }
+    ]
+  }
+}

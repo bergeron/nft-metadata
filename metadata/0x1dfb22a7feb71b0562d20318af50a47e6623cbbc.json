@@ -1,0 +1,66 @@
+{
+  "address": "0x1dfb22a7feb71b0562d20318af50a47e6623cbbc",
+  "type": "ERC721",
+  "name": "Etherzilla",
+  "tokenCount": "2",
+  "uri": "ipfs://QmYo7TJTXaBFVbKkduD8fUZGX1Z4NkzaMrHKPs6kSSsPLU/1.json",
+  "metadata": {
+    "name": "Etherzilla #1",
+    "description": "Etherzilla. 5000 NFTs inspired by the King of Monsters himself, Godzilla. Hiding in the Ethereum Blockchain.",
+    "image": "ipfs://QmR1Bm1fvJsUtaSVcNPZ3SorDx3ytdmbjDzfNZvQNBfQzE/1.png",
+    "dna": "c37e7634f3d765d4cb1190037f9f943a340faa6f",
+    "edition": 1,
+    "date": 1648357240504,
+    "seller_fee_basis_points": 500,
+    "collection": {
+      "name": "Etherzilla",
+      "family": "Etherzilla"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "http://www.etherzilla-incubator.com/",
+          "type": "Etherzilla"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0xf898f8F57980a5aC2c4d111f1e3Da00Fc60aEa32",
+          "share": 50
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "San Fransisco"
+      },
+      {
+        "trait_type": "Glow",
+        "value": "None"
+      },
+      {
+        "trait_type": "Skins",
+        "value": "Mecha Suit"
+      },
+      {
+        "trait_type": "Attires",
+        "value": "Crimson Hoodie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smirking"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Heart Eyes"
+      },
+      {
+        "trait_type": "Headpieces",
+        "value": "Astronaut Helmet"
+      }
+    ],
+    "compiler": "Hash_Lips_Art Compiler"
+  }
+}

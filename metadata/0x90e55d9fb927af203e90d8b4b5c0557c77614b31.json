@@ -1,0 +1,41 @@
+{
+  "address": "0x90e55d9fb927af203e90d8b4b5c0557c77614b31",
+  "type": "ERC721",
+  "name": "Speedrun AI",
+  "tokenCount": "100",
+  "uri": "ipfs://QmPLtAinrVMxBEgZSfa5x1WPZn5mHQKzYoXDpuiYi7tq1f/1.json",
+  "metadata": {
+    "description": "Speedrun AI utilizes state of the art machine learning algorithms to generate modern art.\n\n[Image (.png)](ipfs://QmVDU4TUCUd3gbRXku5Ws4N6EukGPLfbJHC5LUEJbqQrsL/bird.png)\n\n[Video (.mp4)](ipfs://QmVDU4TUCUd3gbRXku5Ws4N6EukGPLfbJHC5LUEJbqQrsL/bird.mp4)\n\nSeries 1 combines a hand crafted selection of meaningful prompts provided by the community with various art styles.\nThe iterations are intentionally short to retain the dynamic appeal of AI art and open to work to viewer interpretation.",
+    "external_url": "https://speedrunai.nft",
+    "image": "ipfs://QmVDU4TUCUd3gbRXku5Ws4N6EukGPLfbJHC5LUEJbqQrsL/bird.png",
+    "animation_url": "ipfs://QmVDU4TUCUd3gbRXku5Ws4N6EukGPLfbJHC5LUEJbqQrsL/bird.mp4",
+    "name": "bird",
+    "attributes": [
+      {
+        "trait_type": "Subject",
+        "value": "bird"
+      },
+      {
+        "trait_type": "Style",
+        "value": "watercolor"
+      },
+      {
+        "trait_type": "Iterations",
+        "value": 100
+      },
+      {
+        "trait_type": "Width",
+        "value": 640
+      },
+      {
+        "trait_type": "Height",
+        "value": 352
+      },
+      {
+        "trait_type": "Series",
+        "display_type": "number",
+        "value": "1"
+      }
+    ]
+  }
+}

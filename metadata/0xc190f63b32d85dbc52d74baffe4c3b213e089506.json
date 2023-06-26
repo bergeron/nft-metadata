@@ -1,0 +1,63 @@
+{
+  "address": "0xc190f63b32d85dbc52d74baffe4c3b213e089506",
+  "type": "ERC721",
+  "name": "Stella Meris - Hello World",
+  "tokenCount": "45",
+  "uri": "ipfs://QmZsLrVcVdNAqqhpgM8Ss9pVK1wkQajGVugmjvnGpEhimn",
+  "metadata": {
+    "title": "Hello World",
+    "name": "Hello World",
+    "createdAt": "2022-09-14T10:20:16.479Z",
+    "updatedAt": "2022-09-14T10:20:16.479Z",
+    "description": "Unique digital Fine Art NFT of painting with acrylic, colored pencil, oil pastel, marker and acrylic spray on paper, digital painting and 3D modeling",
+    "externalLink": "",
+    "image": "https://ipfs.pinsl.com/ipfs/QmWAxctCJdaxz4BGTFkddX5tbnRWX1TRbGbPetExS1s364/79279108-a9b1-4db2-8a59-31bdf528848b.jpeg",
+    "attributes": [],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Hello World"
+      },
+      "description": {
+        "type": "string",
+        "description": "Unique digital Fine Art NFT of painting with acrylic, colored pencil, oil pastel, marker and acrylic spray on paper, digital painting and 3D modeling"
+      },
+      "yearOfCreation": {
+        "type": "string",
+        "description": "2019"
+      },
+      "category": {
+        "type": "string",
+        "description": "photography"
+      },
+      "type": {
+        "type": "string",
+        "description": "reproNFT"
+      },
+      "copyright": {
+        "type": "string",
+        "description": ""
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://ipfs.pinsl.com/ipfs/QmWAxctCJdaxz4BGTFkddX5tbnRWX1TRbGbPetExS1s364/79279108-a9b1-4db2-8a59-31bdf528848b.jpeg"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "jpeg"
+      },
+      "created_at": {
+        "type": "datetime",
+        "description": "2022-09-14T10:20:16.479Z"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 12
+      },
+      "raw_media_file": {
+        "type": "string",
+        "description": "https://ipfs.pinsl.com/ipfs/QmWAxctCJdaxz4BGTFkddX5tbnRWX1TRbGbPetExS1s364/79279108-a9b1-4db2-8a59-31bdf528848b.jpeg?preview=1"
+      }
+    }
+  }
+}

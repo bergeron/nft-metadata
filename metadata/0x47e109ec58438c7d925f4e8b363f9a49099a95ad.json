@@ -1,0 +1,48 @@
+{
+  "address": "0x47e109ec58438c7d925f4e8b363f9a49099a95ad",
+  "type": "ERC721",
+  "name": "Manifold Editions",
+  "tokenCount": "3",
+  "uri": "https://arweave.net/d9GjHb_htJYYZWc2wZtLxlufnFVhECBrsZfiGVaeFNU/1",
+  "metadata": {
+    "created_by": "conte_digital",
+    "name": "Jumping Splash  #1/10",
+    "description": "MM Chapter 1",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "conte_digital"
+      },
+      {
+        "trait_type": "Project",
+        "value": "Miniature Memories"
+      },
+      {
+        "trait_type": "Details",
+        "value": "2D Animation+AI illustration"
+      }
+    ],
+    "animation_details": {
+      "bytes": 4904349,
+      "format": "MOV",
+      "duration": 3,
+      "sha256": "7f2e40aab8cf408d84471fdcec781aacfb6f727c18659b951863e225304f7503",
+      "width": 1024,
+      "height": 1536,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/U25Ru82b41lNk-IZkijrNtZirHXBTNsR-DDUP1tyIbQ",
+    "animation_url": "https://arweave.net/U25Ru82b41lNk-IZkijrNtZirHXBTNsR-DDUP1tyIbQ",
+    "image_details": {
+      "bytes": 2128799,
+      "format": "PNG",
+      "sha256": "1e76feae513ceeaadd1a25ad1009296b5f6abe02e1218863fe61085a4a493dad",
+      "width": 1060,
+      "height": 1580
+    },
+    "image": "https://arweave.net/G0S1iXK-j2h5EPstRI8_FMskX88yHszorJnjm8ZxJA0",
+    "image_url": "https://arweave.net/G0S1iXK-j2h5EPstRI8_FMskX88yHszorJnjm8ZxJA0"
+  }
+}

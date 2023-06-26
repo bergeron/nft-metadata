@@ -1,0 +1,88 @@
+{
+  "address": "0xe95004c7f061577df60e9e46c1e724cc75b01850",
+  "type": "ERC721",
+  "name": "Lenia NFT - Artificial Life collection",
+  "tokenCount": "202",
+  "uri": "ipfs://Qmf6kAYSHmBXvJbtkxDcqYiDWF5akvz8QxuqzMWC3JDtNd/1.json",
+  "metadata": {
+    "name": "Lenia #1",
+    "description": "A beautiful mathematical life-form",
+    "external_link": "https://lenia.world",
+    "image": "ipfs://Qmcrjm6EU9dJSdYwCBLmMc4JjV7zHKJ6D7SqpoY7ST4Q2t/1.gif",
+    "animation_url": "ipfs://QmPqnfEuQxHg1EtAMGENdDBjWwLNF22pxiWBcKsQ9mMAMS/1.mp4",
+    "attributes": [
+      {
+        "value": "msdos",
+        "trait_type": "Colormap"
+      },
+      {
+        "value": "maelstrom",
+        "trait_type": "Family"
+      },
+      {
+        "value": "Kiroku",
+        "trait_type": "Ki",
+        "numerical_value": 0.55216
+      },
+      {
+        "value": "Mental",
+        "trait_type": "Aura",
+        "numerical_value": 0.87472
+      },
+      {
+        "value": "Fly",
+        "trait_type": "Weight",
+        "numerical_value": 0.49157
+      },
+      {
+        "value": "Aluminium",
+        "trait_type": "Robustness",
+        "numerical_value": 0.32777
+      },
+      {
+        "value": "Raiton",
+        "trait_type": "Avoidance",
+        "numerical_value": 0.24024
+      },
+      {
+        "value": "Turbo",
+        "trait_type": "Velocity",
+        "numerical_value": 0.55896
+      },
+      {
+        "value": "Standard",
+        "trait_type": "Spread",
+        "numerical_value": 1.50176
+      }
+    ],
+    "config": {
+      "kernels_params": [
+        {
+          "b": [
+            1
+          ],
+          "c_in": 0,
+          "c_out": 0,
+          "gf_id": 0,
+          "h": 1,
+          "k_id": 0,
+          "m": 0.1361442476112854,
+          "q": 4,
+          "r": 1,
+          "s": 0.018329010295687103
+        }
+      ],
+      "world_params": {
+        "R": 13,
+        "T": 10,
+        "nb_channels": 1,
+        "nb_dims": 2,
+        "scale": 1,
+        "update_fn_version": "v1",
+        "weighted_average": true
+      },
+      "cells": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjÙAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABîEöDfAAAALoQXAAAAAAAAAAAAAAAAAAAAAAVÂWÁdèbÝWLSÄNtGÖCzÎÏAAAAAAAAAAAAAAAAAAEqqúnXPTHÄIzNòSÅTMNQGùÃPWüAAAAAAAAAAAAAAgÉoÞJâAAAAAAAAAAJêSwQCJHqïvÏAAAAAAAAAAAArÔjðBsAAAAAAAAAAAAABRQUÛMYsjyjAAAAAAAAAAsçrÝHóAAAAAAAAAAAAAAAAIÊZikÝÁÇw×IKAAAAAANÓÎËfgAjAAAAAAAABQEÏAAAAAAÌeÛÃÉtwÚPïAAAAAAÁÒÕÆeîElAAAAAAAAKqSoPâbJjÅæMïxÒtÁÕWiAAAABfËuãTqöWxEÞAAAAAAgÅsztçsfmhÃÅèîÝYÊugFAAAAGUf×ýýÌÑvLnúTÅAAKOÈÕÅKuÈXÓKqGÝÂfÝáÖÖrîAAEGJ×SíýýýýÓãÆ÷ÊGÑúÜôÓKÊbPàAAAAAAAAÃNÞÒÄÁAAIoOëUÕhòýýýýýýýýûàíéÛWHÙAAAAAAAAAAKÞÞüËVCÃKÈRìWßbzrãèZýýýýýýåÏPÏAAAAAAAAAAAACÓßÃzçCãMÚSÏYKcVZùlêÉÑàVñäØÂEDAAAAAAAAAAAAAïçÞLgAALíTVXãdgeÑZfqÉÖßñÉÝìEÞAAAAAAAAAAAAmõÔuAAAAJGSdW÷cKgýhZkôÍÜìGäûZÏAAAAAAAAAAIFÝFAAAAAABÊOyVßYqfBizl×xËØïçXÍnPCAAAAAAgÐÓÎFKAAAAAAAAFyQRWnZÉecgÁj÷tÅËx×sÔêÍgËæÍFpRAïAAAAAAAAAAAAEíMèSJVBVïVfUìVøYÞbSXzOÇDÇAAAAAAAAAAAAAAAAAAACGêJXJÁIÚHcFqDMAhAAAAAAAAAAAAAAAA::1;23;21"
+    },
+    "tokenID": "1"
+  }
+}

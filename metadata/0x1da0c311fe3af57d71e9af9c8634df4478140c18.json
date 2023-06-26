@@ -1,0 +1,63 @@
+{
+  "address": "0x1da0c311fe3af57d71e9af9c8634df4478140c18",
+  "type": "ERC721",
+  "name": "TrdngDsk",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/j-UtUiCVD5UgUoWsOXb9BoywE7zxDM2FwamamWBkcuM",
+  "metadata": {
+    "$id": "https://static.cxip.io/nft.schema.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "attributes": [
+      {
+        "trait_type": "Authenticity",
+        "value": "CXIP certified NFT"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1634946872
+      },
+      {
+        "trait_type": "Creator",
+        "value": "TestinProdPwrHr"
+      }
+    ],
+    "description": "To bridge or not to bridge, that is the question. Yield assets are transitory, but glory lives forever.",
+    "external_url": "https://cxip.io/nft/0x1da0c311fe3af57d71e9af9c8634df4478140c18/0x0000000000000000000000000000000000000000000000000000000000000001/",
+    "image": "https://arweave.net/s8Z5CQfKegEFYhn2WV6kvCeqBF-m1gxwYDep-ygRBoc",
+    "imageUrl": "https://arweave.net/s8Z5CQfKegEFYhn2WV6kvCeqBF-m1gxwYDep-ygRBoc",
+    "name": "RskMngr 1.0",
+    "properties": {
+      "created_at": "2021-10-22T23:54:32.000000Z",
+      "creator_wallet": "0xc67e911fc6a503d4eec2213609558d4f2a04cd21",
+      "description": "To bridge or not to bridge, that is the question. Yield assets are transitory, but glory lives forever.",
+      "image": "https://arweave.net/s8Z5CQfKegEFYhn2WV6kvCeqBF-m1gxwYDep-ygRBoc",
+      "imageUrl": "https://arweave.net/s8Z5CQfKegEFYhn2WV6kvCeqBF-m1gxwYDep-ygRBoc",
+      "infiniteObjects": {
+        "allowsPrints": true,
+        "allowsUnlimited": false,
+        "priceTier": "CX1"
+      },
+      "minted_on": "22 October 2021",
+      "name": "RskMngr 1.0",
+      "nft_type": "non-fungible image token (image/jpeg)",
+      "preview_media_file": "https://arweave.net/umYnE83ouflsvsoDWWfNFAmr1FyVbj8JHWa_n5Wss3I",
+      "preview_media_file_dimensions": "480x360",
+      "preview_media_file_size": 136191,
+      "preview_media_file_type": "image/jpeg",
+      "raw_media_dimensions": "4032x3024",
+      "raw_media_file": "https://arweave.net/kV4jb6_-BmBtgiSdBjH9Nh3C7d4-i5rNZW4-3xiPYuk",
+      "raw_media_file_size": 3434692,
+      "raw_media_file_spec": "JPEG 4032x3024 4032x3024+0+0 8-bit sRGB 3.27558MiB 0.000u 0:00.000",
+      "raw_media_file_type": "image/jpeg",
+      "raw_media_format": "landscape",
+      "raw_media_signature": "0xd683986b7d653bf30d5722da5ddd966304819e913d7595cd70786754726531fb",
+      "raw_media_signature_type": "SHA-256",
+      "thumb_media_file": "https://arweave.net/umYnE83ouflsvsoDWWfNFAmr1FyVbj8JHWa_n5Wss3I",
+      "thumb_media_file_type": "image/jpg",
+      "title": "RskMngr 1.0",
+      "total_supply": 1
+    },
+    "title": "RskMngr 1.0"
+  }
+}

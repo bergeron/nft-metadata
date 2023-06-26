@@ -1,0 +1,23 @@
+{
+  "address": "0x837c1976fdf7ff2d408c37dd322979730eaaebd8",
+  "type": "ERC721",
+  "name": "$PEPE NFT",
+  "tokenCount": "1",
+  "uri": "ipfs://QmYQzfqDyRWkAppSr6D3yicQc2SGfj9pT929vGD9k2uA7z/1",
+  "metadata": {
+    "name": "$PEPE 100k Transaction Club",
+    "description": "This NFT was awarded to accounts who had transacted in $PEPE during the first 100k transactions on Ethereum. It proves $PEPE OG status.",
+    "image": "ipfs://QmUxgmEeRN6EAboAdMGc8UtcGBxHvAEjSaHad6ka7VsMmG",
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "value": "100k"
+      },
+      {
+        "trait_type": "Saying",
+        "value": "Feels good man!"
+      }
+    ],
+    "id": 1
+  }
+}

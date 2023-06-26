@@ -1,0 +1,30 @@
+{
+  "address": "0x4313a10d137188a5cfed3486770f2e66ecbe9be5",
+  "type": "ERC721",
+  "name": "SaunoaMedal",
+  "tokenCount": "34",
+  "uri": "https://tt1tw9tnp2.execute-api.ap-northeast-1.amazonaws.com/production/metadata/d8c42e0c-c5a7-4136-8635-e8b81a63e2e5.json",
+  "metadata": {
+    "name": "YAEYAMA CHLORELLA",
+    "image": "https://saunoaadminde2cb28bc6874bef95994569ab5944f7152722-production.s3.ap-northeast-1.amazonaws.com/public/image/815e8ebe-278f-43ec-94e7-23cf143f960d.jpg",
+    "description": "次回来店時に商品と交換させていただきます。",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "SAUNOA"
+      },
+      {
+        "trait_type": "Title",
+        "value": "YAEYAMA CHLORELLA"
+      },
+      {
+        "trait_type": "Production-Date",
+        "value": "2023"
+      },
+      {
+        "trait_type": "Issuer",
+        "value": "SAUNOA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "address": "0x67e1033277ce54c538725a98ec83997335deb713",
+  "type": "ERC721",
+  "name": "Metaverse Hospitality Genesis Collection",
+  "tokenCount": "362",
+  "uri": "ipfs://QmXLmXsSgZjb2n55S2TAJYj9UHEkmz4T4CqdEWezg6qven/1.json",
+  "metadata": {
+    "name": "NFT House Suite",
+    "description": "This NFT represents a \"Suite\" of \"NFT House\"",
+    "image": "https://ptc-mint-generic.herokuapp.com/assets/mvh/NFT%20HOUSE%20SUITE.png",
+    "animation_url": "https://ptc-mint-generic.herokuapp.com/assets/mvh/NFT%20HOUSE%20SUITE.mp4",
+    "attributes": [
+      {
+        "trait_type": "Hotel",
+        "value": "NFT House"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Suite"
+      }
+    ]
+  }
+}

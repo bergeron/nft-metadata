@@ -1,0 +1,38 @@
+{
+  "address": "0x9a3373947944ca8a785047bd2a0191d814f23266",
+  "type": "ERC721",
+  "name": "Pixel Pack",
+  "tokenCount": "4444",
+  "uri": "ipfs://QmRpNVhL6DEdkTdoGgLhttKHp2zgeQorCu8j1fLnwojcXX/1.json",
+  "metadata": {
+    "name": "Pixel Pack #1",
+    "description": "Are we rugging yet?",
+    "image": "ipfs://QmXtxcm7YxRU4hNMvvNiiQnUHy4yxr2dWVJjjAnPqYVisE/1.png",
+    "dna": "dc04a98689703c6468af24be759fcf63b70e9ee0",
+    "edition": 1,
+    "date": 1676084843667,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "breed",
+        "value": "Purple Pup"
+      },
+      {
+        "trait_type": "base",
+        "value": "Red Hoodie"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Red Eyes"
+      },
+      {
+        "trait_type": "heads",
+        "value": "Red Bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

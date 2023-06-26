@@ -1,0 +1,22 @@
+{
+  "address": "0x18bf684143334b60dff5e80cbec8e783c59733c6",
+  "type": "ERC721",
+  "name": "NFT-Archeology V2",
+  "tokenCount": "1",
+  "uri": "ipfs://QmbTm4cZu32roStYMr3DCQVQHj26QE3cyHj4gSEJb4gTYA",
+  "metadata": {
+    "name": "NFT-Archeology",
+    "description": "25 years ago, the first NFT in History",
+    "image": "ipfs://QmXh9EfNg6EEzNrtFCFLFrCvbEgdjX9oiMyEs5KK79nqc4/NFT-Archeology.png",
+    "attributes": [
+      {
+        "trait_type": "original_painting",
+        "value": "ipfs://QmaSb3oH36kHkDweKsdNpkAGmdrewrLf2dsRUhenQccmj9/Homme_reseau_acrylique_1966.jpeg"
+      },
+      {
+        "trait_type": "author_letter",
+        "value": "ipfs://QmNSD6uHKqnnChTB39HhES5hz4iaZ5tNRJs6wm8iAsmgMn/Lettre_a_l_acquereur_de_la_part_de_fred_forest.jpeg"
+      }
+    ]
+  }
+}

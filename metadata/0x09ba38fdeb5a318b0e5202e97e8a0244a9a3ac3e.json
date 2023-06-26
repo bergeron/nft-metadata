@@ -1,0 +1,24 @@
+{
+  "address": "0x09ba38fdeb5a318b0e5202e97e8a0244a9a3ac3e",
+  "type": "ERC721",
+  "name": "Omnikit Genesis Key",
+  "tokenCount": "300",
+  "uri": "https://api.omnikit.io/metadata-api/genesis-key/token/1",
+  "metadata": {
+    "name": "Omnikit Genesis Key #1",
+    "description": "Omnikit Genesis Key allows access to the Omnikit NFT automation toolkit",
+    "tokenId": "1",
+    "image": "https://omnikit.io/media/genesis_key_red.mp4",
+    "attributes": [
+      {
+        "trait_type": "Activated",
+        "value": "true"
+      },
+      {
+        "trait_type": "Current Expiration",
+        "value": 1670276580,
+        "display_type": "date"
+      }
+    ]
+  }
+}

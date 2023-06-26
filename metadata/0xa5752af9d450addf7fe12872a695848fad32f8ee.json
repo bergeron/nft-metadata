@@ -1,0 +1,18 @@
+{
+  "address": "0xa5752af9d450addf7fe12872a695848fad32f8ee",
+  "type": "ERC721",
+  "name": "MyTokenW",
+  "tokenCount": "2",
+  "uri": "https://fa-test-bucket-001.s3.eu-west-3.amazonaws.com/metadata/Test/1.json",
+  "metadata": {
+    "name": "My NFT - Blue Edition",
+    "description": "Testing royalties",
+    "image": "https://img.freepik.com/free-photo/fantastic-seascape-with-ripples_1232-424.jpg",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Blue"
+      }
+    ]
+  }
+}

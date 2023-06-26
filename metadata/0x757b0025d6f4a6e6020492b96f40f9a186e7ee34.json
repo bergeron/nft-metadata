@@ -1,0 +1,43 @@
+{
+  "address": "0x757b0025d6f4a6e6020492b96f40f9a186e7ee34",
+  "type": "ERC721",
+  "name": "Saplings",
+  "tokenCount": "3000",
+  "uri": "https://api.saplings.earth/nft/metadata/1",
+  "metadata": {
+    "name": "Mojo #1",
+    "description": "Discover Saplings — a collection of NFTs healing humanity one tree at a time.\n\nFree minted on Ethereum",
+    "animation_url": "https://www.saplings.earth/garden/1",
+    "image": "https://api.saplings.earth/nft/image/1",
+    "attributes": [
+      {
+        "trait_type": "Gender",
+        "value": "Tree"
+      },
+      {
+        "trait_type": "Wood",
+        "value": "Maple"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Curvy"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Dreamer"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pinched"
+      },
+      {
+        "trait_type": "Cheeks",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Default Accessory",
+        "value": "Blue Worms"
+      }
+    ]
+  }
+}

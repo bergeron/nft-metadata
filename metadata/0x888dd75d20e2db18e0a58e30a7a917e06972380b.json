@@ -1,0 +1,46 @@
+{
+  "address": "0x888dd75d20e2db18e0a58e30a7a917e06972380b",
+  "type": "ERC721",
+  "name": "Tiny Frens Adventure",
+  "tokenCount": "3233",
+  "uri": "ipfs://bafybeid5azbm6vou7oz5534chy4kmbutmyeo6qa7q72hlam2jonokiqdwi/1.json",
+  "metadata": {
+    "name": "Tiny Fren #1",
+    "description": "Your tiny fren ready for a smol adventure.",
+    "image": "ipfs://bafybeicstxmjptgwm5y33b5crwg4vghqbgwcydrfiv6c6mhbkoxlcmxyxy/1.png",
+    "dna": "4a4a57cc38532d3b5cd7e1e21cfb4a8d23d65b4e",
+    "edition": 1,
+    "date": 1672184405044,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Frame",
+        "value": "Frame 9"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Ape Halloween"
+      },
+      {
+        "trait_type": "Pants",
+        "value": "Forester"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Orange Hoodie"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "Red Sneakers"
+      }
+    ],
+    "compiler": "Tiny"
+  }
+}

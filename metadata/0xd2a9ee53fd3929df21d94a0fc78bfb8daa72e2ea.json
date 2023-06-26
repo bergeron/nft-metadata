@@ -1,0 +1,86 @@
+{
+  "address": "0xd2a9ee53fd3929df21d94a0fc78bfb8daa72e2ea",
+  "type": "ERC721",
+  "name": "121dfeqwr",
+  "tokenCount": "199",
+  "uri": "https://api.artblocks.io/token/392000001",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "392000001",
+    "series": "N/A",
+    "aspect_ratio": 0.75,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Hyper Drive: A-Side #1",
+    "minted": true,
+    "artist": "Ryan Bell",
+    "description": "Hyper Drive is based on the mathematics of recursion. Scale symmetry is used to create patterns that repeat at ever-smaller intervals, creating the illusion of infinite depth and complexity.\n\nThe rule for the recursive loop is incredibly simple. A box is drawn, then a snapshot of the full canvas is resized to cover the boundary. As this process is repeated, small variations in position create endless fractals.\n\nThis project is an experimental cross-chain collection, with a fully-generative A-side published via Art Blocks on Ethereum and an AI-based image composition B-side published via fxhash on Tezos. The artwork symbolizes the great divides we must cross, the connections we make along the way, and the disconnections we feel. We move through the world as the world moves through us.",
+    "script_type": "p5@1.0.0",
+    "project_id": "392",
+    "curation_status": "presents",
+    "image": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/392000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/392000001.png",
+    "generator_url": "https://generator.artblocks.io/392000001",
+    "animation_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/392000001",
+    "royaltyInfo": {
+      "artistAddress": "0x1bb76db0560e3dd7b50bb3a467cb2f37c4e57c83",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Hyper Drive: A-Side by Ryan Bell",
+    "website": "https://twitter.com/iRyanBell",
+    "token_hash": "0xee9198bb55df979e6aa462c8d5cd200824a406eb68a0f5cb22dc3005195eb738",
+    "external_url": "https://artblocks.io/collections/presents/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/392/tokens/392000001",
+    "primary_asset_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/392000001",
+    "features": {
+      "Side": "A",
+      "View": "Horizon",
+      "Frame": "Framed",
+      "Speed": "Warp",
+      "Palette": "Crayon",
+      "Symmetry": "Wild",
+      "Complexity": "Normal",
+      "Photogenic": "None"
+    },
+    "traits": [
+      {
+        "trait_type": "Hyper Drive: A-Side",
+        "value": "All Hyper Drive: A-Sides"
+      },
+      {
+        "trait_type": "Hyper Drive: A-Side",
+        "value": "Side: A"
+      },
+      {
+        "trait_type": "Hyper Drive: A-Side",
+        "value": "View: Horizon"
+      },
+      {
+        "trait_type": "Hyper Drive: A-Side",
+        "value": "Frame: Framed"
+      },
+      {
+        "trait_type": "Hyper Drive: A-Side",
+        "value": "Speed: Warp"
+      },
+      {
+        "trait_type": "Hyper Drive: A-Side",
+        "value": "Palette: Crayon"
+      },
+      {
+        "trait_type": "Hyper Drive: A-Side",
+        "value": "Symmetry: Wild"
+      },
+      {
+        "trait_type": "Hyper Drive: A-Side",
+        "value": "Complexity: Normal"
+      },
+      {
+        "trait_type": "Hyper Drive: A-Side",
+        "value": "Photogenic: None"
+      }
+    ],
+    "is_static": false,
+    "license": "NFT License 2.0"
+  }
+}

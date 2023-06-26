@@ -1,0 +1,83 @@
+{
+  "address": "0x69262a038c4382b2d67dc54a5d93c71a6ff2d559",
+  "type": "ERC1155",
+  "name": "Guttestreker: Special edition cards",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/nnt9WmwH82AfgYVq5MrTTuL_lSVd_zja-6FYY7MB_QE",
+  "metadata": {
+    "name": "The Collector",
+    "created_by": "Guttestreker",
+    "external_url": "nft.guttestreker.com",
+    "description": "A special edition card rewarded to the first collector to collect all 26 unique cards from the \"Corporate Cancer Retreat\" series. \n\nTHE COLLECTOR Power: DIAMOND HANDS: Collects everything he has collected over the years and tosses it at the opponent. Power: STAYER: Never afraid of failure. Knows the secret to fail enough times, to get some things right. Eventually..",
+    "attributes": [
+      {
+        "trait_type": "CLASS",
+        "value": "1st"
+      },
+      {
+        "trait_type": "FRAME",
+        "value": "CRYPTONITE"
+      },
+      {
+        "trait_type": "NAME",
+        "value": "BAYC #6767"
+      },
+      {
+        "trait_type": "TITLE",
+        "value": "THE COLLECTOR"
+      },
+      {
+        "trait_type": "POWER 1",
+        "value": "STAYER"
+      },
+      {
+        "trait_type": "POWER 2",
+        "value": "DIAMOND HANDS"
+      },
+      {
+        "trait_type": "SERIES",
+        "value": "CORPORATE CANCER RETREAT"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "HP",
+        "max_value": "140",
+        "value": "90"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "POWER 1 - DAMAGE LEVEL",
+        "max_value": "120",
+        "value": "120"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "POWER 2 - DAMAGE LEVEL",
+        "max_value": "100",
+        "value": "100"
+      }
+    ],
+    "animation_details": {
+      "bytes": 44782221,
+      "format": "WEBM",
+      "duration": 20,
+      "sha256": "1b6f5bdd9b561985a50d93fe56f89ab4d19c5426f69f9ce295c7356ebafc0c94",
+      "width": 1920,
+      "height": 1080,
+      "codecs": [
+        "Google"
+      ]
+    },
+    "animation": "https://arweave.net/UZ5QDQyDRFaDAxfMOEo9h6Lig1GCwNVXBM64D1kctL8",
+    "animation_url": "https://arweave.net/UZ5QDQyDRFaDAxfMOEo9h6Lig1GCwNVXBM64D1kctL8",
+    "image_details": {
+      "bytes": 160217265,
+      "format": "GIF",
+      "sha256": "52b3791043b2381dbec863465e91bbf35325383c7a9f85d0539ddecaec259d74",
+      "width": 1920,
+      "height": 1080
+    },
+    "image": "https://arweave.net/H3gxVcdJrkKeVXcbFe8QWIyAk0KyEbEMiuq38rbbSnM",
+    "image_url": "https://arweave.net/H3gxVcdJrkKeVXcbFe8QWIyAk0KyEbEMiuq38rbbSnM"
+  }
+}

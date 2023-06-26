@@ -1,0 +1,34 @@
+{
+  "address": "0xa1e6db9979c710a843a3c7be01a605ee763e7c85",
+  "type": "ERC721",
+  "name": "Ivory",
+  "tokenCount": "1",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=5N5Mn5NwcZpKX66sjjDE",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1590384091391?alt=media&token=b9cb75f7-5dea-4b53-afb4-1a0e4ef0abe4",
+    "forSale": true,
+    "description": "The gatekeepers stand watch over those who pass the threshold.",
+    "contractAddress": "0xa1e6db9979c710a843a3c7be01a605ee763e7c85",
+    "ethPrice": ".1",
+    "amountToMint": "1",
+    "minter": "0x18ccfa5744f679c5e37c7dca74ee3b34dbf78ae6",
+    "mintedOn": {
+      "_seconds": 1590384260,
+      "_nanoseconds": 119000000
+    },
+    "price": "$0.00",
+    "name": "Heavens Gate",
+    "fiatPrice": "$20.33",
+    "minted": "Minted on Mintbase.io",
+    "category": "alJuInV4dezvHTNU8Dp1",
+    "youtube_url": "",
+    "external_url": "https://mintbase.io/my-market/0xa1e6db9979c710a843a3c7be01a605ee763e7c85",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "5N5Mn5NwcZpKX66sjjDE"
+      }
+    ],
+    "type": "ERC721"
+  }
+}

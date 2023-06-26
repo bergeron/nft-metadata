@@ -1,0 +1,44 @@
+{
+  "address": "0xa6b37067252a222e19067a92490edba11933964c",
+  "type": "ERC721",
+  "name": "Gotta Get Gurt",
+  "tokenCount": "1000",
+  "uri": "https://collectible.api.manifoldxyz.dev/collectible/0xa6b37067252a222e19067a92490edba11933964c_1069754608/1",
+  "metadata": {
+    "name": "Gotta Get Gurt #1",
+    "description": "‘Gotta Get Gurt’ is the landmark first project by once in a lifetime innovators Gurt Corp.   The incredibly original collectible card collection features Gurt sporting his many job uniforms following his unfair dismissal from VHS store, ‘Shiftie’s Rentals’.",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Chef"
+      }
+    ],
+    "image_details": {
+      "bytes": 950608,
+      "format": "PNG",
+      "sha256": "26affed0bc6f96a0472886ccbac08bcc1f6b7980548c45dccb7ffe24eca62fe5",
+      "width": 1232,
+      "height": 1316
+    },
+    "image": "https://drive.google.com/u/1/uc?id=1UOIw3EsTAknqw26VsB8-lx6AxiEPX-OB&export=download",
+    "image_url": "https://drive.google.com/u/1/uc?id=1UOIw3EsTAknqw26VsB8-lx6AxiEPX-OB&export=download",
+    "animation_details": {
+      "bytes": 9781531,
+      "format": "MP4",
+      "duration": 12,
+      "sha256": "27a14607a8b10816f6efcb60fbec1531f12785f504a4c57af1fb34966c2c983d",
+      "width": 2160,
+      "height": 2320,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/NgO6RUApzWuiOGbKMN4mOcZevVA-numcoqMSa-B6jis",
+    "animation_url": "https://arweave.net/NgO6RUApzWuiOGbKMN4mOcZevVA-numcoqMSa-B6jis"
+  }
+}

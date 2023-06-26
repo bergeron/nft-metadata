@@ -1,0 +1,30 @@
+{
+  "address": "0x601d8e2b4d60ce34cc60b22e6dcd011f42e657d3",
+  "type": "ERC721",
+  "name": "Drooling Bear Club",
+  "tokenCount": "235",
+  "uri": "ipfs://QmS61wsqNJ476trhRwLb3Z25NVx9a1MSTqYQ4JakjGpBot/1.json",
+  "metadata": {
+    "name": "DroolingBear #1",
+    "description": "Drooling Bear Collection",
+    "image": "ipfs://QmRwyPFVFJRYfaLT6npXcxvaUEt3k7rVjn9E8sU38TDw3E/1.png",
+    "dna": "86f2ff73c809d4d5fbec27412668df064aecaad1",
+    "edition": 1,
+    "date": 1641572114086,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bosphorus"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smiling"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Drooling Bear Totem Cap"
+      }
+    ],
+    "compiler": "Drooling Bear Generative Engine"
+  }
+}

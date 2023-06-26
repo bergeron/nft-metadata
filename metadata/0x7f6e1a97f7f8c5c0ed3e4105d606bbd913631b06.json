@@ -1,0 +1,38 @@
+{
+  "address": "0x7f6e1a97f7f8c5c0ed3e4105d606bbd913631b06",
+  "type": "ERC721",
+  "name": "Pop Pix Cats",
+  "tokenCount": "20",
+  "uri": "ipfs://Qmac2moCGrZDD2hn5TdvqxcnsWYidj3veWq7tkMGsTrYbN/1.json",
+  "metadata": {
+    "name": "Pop Pix Cat #1",
+    "description": "The Pop Pix Cats are a collection of 4,999 randomly generated NFTs built from unique traits. Some pix cats are rarer than others, but they all equally cute.",
+    "image": "ipfs:/QmXWVu7VLkgmwcxHvE8rpvuqLdGG42C368YwZgcwyEsZWw/1.png",
+    "dna": "7d54381c6d15033e413652984ee484578ad44915",
+    "edition": 1,
+    "date": 1671753306393,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "green"
+      },
+      {
+        "trait_type": "body",
+        "value": "black"
+      },
+      {
+        "trait_type": "face",
+        "value": "neutral"
+      },
+      {
+        "trait_type": "outline",
+        "value": "outline"
+      },
+      {
+        "trait_type": "tool",
+        "value": "monkey"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "0xc44ef583d66142ccdb5c9f4f917ba6314794dc36",
+  "type": "ERC721",
+  "name": "Complex Glass",
+  "tokenCount": "16",
+  "uri": "ipfs://QmcGkSGVXchcdwpt8exK7wqpLgbSJNwknQYq5CSrUgXEwc",
+  "metadata": {
+    "name": "Cardano - Complex Glass #1",
+    "description": "Piece #1 is named after Gerolamo Cardano\n\nComplex glass is a collection of 16 beautiful pieces of generative mathematical art built from complex polynomials. Each piece is named after a mathematician who was involved in the development of complex numbers and complex analysis.  Mathematicians see beauty in mathematical equations but to others it is simply symbols.  In this collection I attempt to show that beauty to all. Each piece is a simple polynomial equation with randomly selected coefficients.  That equation is then plotted for a simple circle in the complex plane. The coloring is also given directly by the results of the equation. There is a certain beauty in the simplicity in mathematical equations.\n\nMore mathematically... Each piece is a unit disc on the complex plane.  A polynomial is chosen at random with random complex coefficients.  The random selection algorithm was tuned to give polynomials of different degrees and complexity to allow diversity in the results. The wave like nature around the circle is an underappreciated feature of complex polynomials.  The waves you can see are directly related to the concept of Fourier series.\n\nThe height of each disc represents the real component of the result.  The hue of each color is chosen from the complex argument or angle, where red is positive real. The resulting glass object is raytraced at 4k resolution using at least 3000 samples, sometimes many more. Tracing light rays through glass in a dark environment is computationally expensive.  The result is 16 unique pieces of mathematical artwork.",
+    "external_url": "https://www.maths.town/nft/complex-glass/01.php",
+    "image": "ipfs://QmebNCMKuNVRimnRT2kyVVpTcecVEVZWZhAEcjJ7J4GHh1",
+    "animation_url": "ipfs://QmZGWceXtottXJ9CvMZQDsWb1c5ajuERo96YoyghtGcbuD",
+    "attributes": [
+      {
+        "trait_type": "Mathematical Structure",
+        "value": "Complex Polynomial"
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Circle"
+      },
+      {
+        "trait_type": "Material",
+        "value": "Glass"
+      },
+      {
+        "trait_type": "Series ID",
+        "value": 1,
+        "max_value": 16
+      }
+    ]
+  }
+}

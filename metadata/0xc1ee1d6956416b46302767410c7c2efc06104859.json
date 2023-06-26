@@ -1,0 +1,25 @@
+{
+  "address": "0xc1ee1d6956416b46302767410c7c2efc06104859",
+  "type": "ERC721",
+  "name": "Dinner DAO Season 1",
+  "tokenCount": "8",
+  "uri": "https://locksmith.unlock-protocol.com/api/key/0xc1ee1d6956416b46302767410c7c2efc06104859/1",
+  "metadata": {
+    "name": "Unlock Key",
+    "description": "A Key to an Unlock lock. Unlock is a protocol for memberships. https://unlock-protocol.com/",
+    "image": "https://locksmith.unlock-protocol.com/lock/0xc1EE1D6956416B46302767410c7C2efc06104859/icon?id=1",
+    "expiration": 1640739984,
+    "tokenId": "1",
+    "owner": "0xdfe8beee223412f316baf2968b17527d6eba29f1",
+    "attributes": [
+      {
+        "trait_type": "Expiration",
+        "display_type": "date",
+        "value": 1640739984
+      }
+    ],
+    "keyId": "1",
+    "lockAddress": "0xc1EE1D6956416B46302767410c7C2efc06104859",
+    "network": 1
+  }
+}

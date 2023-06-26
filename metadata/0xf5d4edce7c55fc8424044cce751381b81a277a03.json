@@ -1,0 +1,46 @@
+{
+  "address": "0xf5d4edce7c55fc8424044cce751381b81a277a03",
+  "type": "ERC721",
+  "name": "RavenNFT V2",
+  "tokenCount": "2",
+  "uri": "ipfs://QmZdRrkU8wvA9Kn3uSrYkia3dR8yDPukof7Ko1KHGvDJnD/1.json",
+  "metadata": {
+    "name": "Raven #1",
+    "description": "It's Raven",
+    "image": "ipfs://QmZHfdmTVCjRozDmqb5Z1fYNEjDMiC9XxNxaAkdfBywyPz/1.png",
+    "dna": "ca6996b8a6afa4aa03303358b20fd5ab2504a370",
+    "edition": 1,
+    "date": 1646822658365,
+    "attributes": [
+      {
+        "trait_type": "down",
+        "value": "7"
+      },
+      {
+        "trait_type": "incredible",
+        "value": "8"
+      },
+      {
+        "trait_type": "legendary",
+        "value": "5"
+      },
+      {
+        "trait_type": "low",
+        "value": "10"
+      },
+      {
+        "trait_type": "normal",
+        "value": "9"
+      },
+      {
+        "trait_type": "special",
+        "value": "8"
+      },
+      {
+        "trait_type": "up",
+        "value": "8"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

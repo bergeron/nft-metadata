@@ -1,0 +1,56 @@
+{
+  "address": "0x08e8bd2b24ebef3ef407aca9db13436d3fce25c2",
+  "type": "ERC721",
+  "name": "Blitz Generative",
+  "tokenCount": "6",
+  "uri": "https://blitzgenerative.com/uris/1.json",
+  "metadata": {
+    "description": "Blitz Generative \n\n Growth & Decay | Explosions & Implosions | Sphere Morphology\n\nSeries 0 - Spike Balls - Token 1\n\n The Spike Balls series emerged out of a whimsical exploration of sphere meshes and Perlin noise. The first challenge was finding the best way to represent a sphere as a mesh object that could be manipulated to morph it in different ways. Then experimenting with Perlin noise and stochastically manipulating the surface produced aesthetically pleasing and surprising results. \n\nHaving the sphere become highly entropic before slowly returning to its low entropy, starting state, is analogous to states of wake and sleep, alteration and restoration that can be played indefinitely on repeat. Each repetition uses the same underlying parameters but follows a slightly different, unique trajectory.",
+    "external_url": "https://www.blitzgenerative.com/works/SpikeBall-1",
+    "image": "https://www.blitzgenerative.com/assets/thumbnails/SpikeBall 1.png",
+    "animation_url": "https://gateway.pinata.cloud/ipfs/QmYaPgst7XMyYnhga9N1yKTHTnN9cf3K9xoJt38xuszFcA",
+    "name": "Series 0: Spike Ball 1",
+    "attributes": [
+      {
+        "trait_type": "RotationX",
+        "value": "Positive Fast"
+      },
+      {
+        "trait_type": "RotationY",
+        "value": "Negative Fast"
+      },
+      {
+        "trait_type": "GrowthProbability",
+        "value": "Slow Growth"
+      },
+      {
+        "trait_type": "NumberVertices",
+        "value": "Low Vertices"
+      },
+      {
+        "trait_type": "Radius",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "SurfaceRandomizer",
+        "value": "Dense"
+      },
+      {
+        "trait_type": "BackgroundColor",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "LightingColor",
+        "value": "DimGrey"
+      },
+      {
+        "trait_type": "SurfaceColor",
+        "value": "DarkOrchid"
+      },
+      {
+        "trait_type": "StrokeColor",
+        "value": "MediumPurple"
+      }
+    ]
+  }
+}

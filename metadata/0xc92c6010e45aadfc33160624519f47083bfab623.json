@@ -1,0 +1,42 @@
+{
+  "address": "0xc92c6010e45aadfc33160624519f47083bfab623",
+  "type": "ERC721",
+  "name": "The Smol Wizard In Salon Of Magic",
+  "tokenCount": "899",
+  "uri": "ipfs://bafybeiesdrzcuitqqjlnnugwwxfd34275tnzrpamt474223cxfy4wnvrzu/1.json",
+  "metadata": {
+    "name": "smol wizard #1",
+    "description": "smol wizards living in the salon of magic.",
+    "image": "ipfs://bafybeifkw76v2l6byb6t3ivvgyvv2v6jmjmbxpiwbccfayxhgkpre4xaha/1.png",
+    "dna": "939dc53d9a31bb8fd5a2c0f062293dd8facec70f",
+    "edition": 1,
+    "date": 1676853779571,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "pink"
+      },
+      {
+        "trait_type": "wizard",
+        "value": "human 3"
+      },
+      {
+        "trait_type": "robe",
+        "value": "red robe"
+      },
+      {
+        "trait_type": "hat",
+        "value": "red"
+      },
+      {
+        "trait_type": "face",
+        "value": "sunny drool"
+      },
+      {
+        "trait_type": "magic",
+        "value": "red"
+      }
+    ],
+    "compiler": "Magic"
+  }
+}

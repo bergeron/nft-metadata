@@ -1,0 +1,61 @@
+{
+  "address": "0x19c2fc4867db2292c155c4f294bc2f383ec72cec",
+  "type": "ERC721",
+  "name": "AMSC art 1/1",
+  "tokenCount": "12",
+  "uri": "https://arweave.net/QS95gb0toeFWpmymKOEJpYgQqCyK_ctNIQ9_1UIrfwA",
+  "metadata": {
+    "name": "Vboot 01",
+    "created_by": "Aissa Santiso",
+    "description": "The project proposes to be a visual essay, learning, and reconnection between the code, processing, and me. It consists of creating sketches in which the images are mixed to generate pictorial abstractions.  \nThe aesthetics that I maintain, especially in the first sketches, refer to those pictorial experiments carried out by artists and programmers during the first years of the net. art through Web 1.0, consoles, and printers. A kind of tribute to those pioneers and their ideals of decentralization and creative freedom.  \nThe original pieces are generative. The token is a video capture of the generative piece, each variation is different.\n\nVboot 01 has been a finalist for the 37º edition prizes of the BMW painting contest. \nIt´s also part of the #NFTNYC2023 Generative Art Gallery and shows at the rooftop Artist Village - level 4 Pavilion, North Javits.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Aissa Santiso"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Vboot"
+      },
+      {
+        "value": "Face",
+        "trait_type": "Element"
+      },
+      {
+        "value": "Tree",
+        "trait_type": "Element"
+      },
+      {
+        "value": "Sky",
+        "trait_type": "Element"
+      },
+      {
+        "value": "Art history images",
+        "trait_type": "Element"
+      }
+    ],
+    "image_details": {
+      "bytes": 2611755,
+      "format": "PNG",
+      "sha256": "2895334d1d0b5de2c8be9ef36349227b61fa8b55371de64c3d28720039a7e4bf",
+      "width": 1901,
+      "height": 1014
+    },
+    "image": "https://arweave.net/CizbCUdiZP-wVULJDDCXyuQgX67076OqFiDPHTdGG30",
+    "image_url": "https://arweave.net/CizbCUdiZP-wVULJDDCXyuQgX67076OqFiDPHTdGG30",
+    "animation_details": {
+      "bytes": 48564408,
+      "format": "MP4",
+      "duration": 197,
+      "sha256": "fbeee8ef2d9af93b3ca114138ce6435dc41c027bacd88c65fec8c62b19ef1e01",
+      "width": 1280,
+      "height": 720,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/BKk6vJNHlOKFBAkdOKppnXIIuKhNZPEohDq5KK33fZU",
+    "animation_url": "https://arweave.net/BKk6vJNHlOKFBAkdOKppnXIIuKhNZPEohDq5KK33fZU"
+  }
+}

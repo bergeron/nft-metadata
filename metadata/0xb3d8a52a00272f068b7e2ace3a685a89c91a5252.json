@@ -1,0 +1,42 @@
+{
+  "address": "0xb3d8a52a00272f068b7e2ace3a685a89c91a5252",
+  "type": "ERC721",
+  "name": "Cool Eggs Club",
+  "tokenCount": "3",
+  "uri": "ipfs://QmTtZm8ariekktKouS73f3jczRQe9LX15VsY8ToKWmNDNN/1.json",
+  "metadata": {
+    "name": "Cool Egg #1",
+    "description": "This is your cool egg.",
+    "image": "ipfs://QmSf8DewhbxRiE6VqrttWCNcuKoQJ3EcUs6BrSPj28Rvsq/1.png",
+    "dna": "a479b2af898a1c01a7d11bad4dd2d02c1549f8a0",
+    "edition": 1,
+    "date": 1641060061789,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Egg"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mask Green"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "Astronaut Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Rectangle"
+      },
+      {
+        "trait_type": "On Head",
+        "value": "Headband Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

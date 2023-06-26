@@ -1,0 +1,75 @@
+{
+  "address": "0xcb4980e7f325b8b395a8852134079af1f65e74db",
+  "type": "ERC721",
+  "name": "Knockoff NFTs",
+  "tokenCount": "82",
+  "uri": "https://fake.sale/api/token/1",
+  "metadata": {
+    "collection_url": "https://nft.f1deltatime.com/json/57906645701046768017762992289348411437729957236201535733477521641164320538624",
+    "image": "https://assets.f1deltatime.com/image/nft/CircuitdeMonaco1A.png",
+    "core_attributes": {
+      "country": "Monaco",
+      "modelId": 0,
+      "trackId": 1,
+      "counter": 0,
+      "subTypeId": 0,
+      "label": "None",
+      "team": "None",
+      "type": "Track",
+      "countryId": 6,
+      "trackSegment": {
+        "earnings": 50000000,
+        "segmentId": 65,
+        "zoneId": 1
+      },
+      "driverId": 0,
+      "driver": "None",
+      "rarityTier": "Apex",
+      "labelId": 0,
+      "seasonId": 0,
+      "teamId": 0,
+      "season": "0",
+      "typeId": 6,
+      "subType": "None",
+      "model": "None",
+      "track": "Circuit de Monaco",
+      "rarity": 0
+    },
+    "description": "The illustrious FORMULA 1 GRAND PRIX DE MONACO is laid out on the city streets of Monte Carlo and La Condamine in the principality of Monaco. The FORMULA 1 GRAND PRIX DE MONACO has been on the Formula 1 calendar since its inception in 1950 and is considered one of the most glamorous and prestigious events in the sport.",
+    "collection_id": "57906645701046768017762992289348411437729957236201535733477521641164320538624",
+    "external_url": "https://www.f1deltatime.com/nft-preview/?id=57906645701046769624701038793205201920385629599121490370346791920872332460032",
+    "name": "This is not Formula 1 Grand Prix de Monaco 2020 1A",
+    "attributes": [
+      {
+        "trait_type": "type",
+        "value": "Event Segment"
+      },
+      {
+        "trait_type": "tier",
+        "value": "Apex"
+      },
+      {
+        "trait_type": "rarity",
+        "display_type": "number",
+        "value": 0
+      },
+      {
+        "trait_type": "country",
+        "value": "Monaco"
+      },
+      {
+        "trait_type": "track",
+        "value": "Circuit de Monaco"
+      },
+      {
+        "trait_type": "segment",
+        "value": "1A"
+      },
+      {
+        "value": "FAKE",
+        "trait_type": "Authenticity"
+      }
+    ],
+    "id": "57906645701046769624701038793205201920385629599121490370346791920872332460032"
+  }
+}

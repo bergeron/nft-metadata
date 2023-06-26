@@ -1,0 +1,53 @@
+{
+  "address": "0xc88898a5f103abc8ab50fd2b727fe34fa3b5b2f7",
+  "type": "ERC721",
+  "name": "HOME Coin Boost",
+  "tokenCount": "141",
+  "uri": "https://homecoin-api.goloansnap.com/api/boosts/1",
+  "metadata": {
+    "name": "1 HOME Boosted for 90 days",
+    "description": "1 HOME Boosted from August 11, 2022 until November 09, 2022",
+    "image": "https://files.homecoin.finance/boosts/1.png",
+    "external_url": "https://app.homecoin.finance/",
+    "attributes": [
+      {
+        "trait_type": "Amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "Length",
+        "value": "90 days"
+      },
+      {
+        "trait_type": "Start",
+        "display_type": "date",
+        "value": 1660256606
+      },
+      {
+        "trait_type": "End",
+        "display_type": "date",
+        "value": 1668032606
+      },
+      {
+        "trait_type": "Start Date",
+        "value": "August 11, 2022"
+      },
+      {
+        "trait_type": "End Date",
+        "value": "November 09, 2022"
+      },
+      {
+        "trait_type": "Current APY",
+        "value": "2.000"
+      },
+      {
+        "trait_type": "BACON Boost",
+        "value": "1X"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Green"
+      }
+    ]
+  }
+}

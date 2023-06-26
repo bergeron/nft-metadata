@@ -1,0 +1,56 @@
+{
+  "address": "0x02f0d2ab4c6ad9ba993886353c2bce78c1464fb0",
+  "type": "ERC721",
+  "name": "Pot Heads OG",
+  "tokenCount": "100",
+  "uri": "https://arweave.net/pF6xKahDE4tgKLd6sPeAR7K6edpBkYSXU3jnRJ6n7Kg",
+  "metadata": {
+    "name": "OG Kush",
+    "created_by": "Pot Heads",
+    "external_url": "potheads.club",
+    "description": "Pot Heads OG #1\n\nOG Kush makes up the genetic backbone of West Coast cannabis hybrids, but in spite of its ubiquity, its genetic origins remain something of a mystery.",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Pot Heads Score",
+        "value": "100",
+        "max_value": "100"
+      },
+      {
+        "trait_type": "THC",
+        "value": "18%"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Flavour",
+        "value": "10",
+        "max_value": "10"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Muchies",
+        "value": "10",
+        "max_value": "10"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Bud Appeal",
+        "value": "8",
+        "max_value": "10"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Indica"
+      }
+    ],
+    "image_details": {
+      "bytes": 176750,
+      "format": "JPEG",
+      "sha256": "fa574e09a7cd9463ae472ba8765ae4ecaade07760f73d7ca5734f0ac0a359f33",
+      "width": 2000,
+      "height": 2000
+    },
+    "image": "https://arweave.net/jiXf4OsJxp0kegTGOP5XfUC8UZ7NKFt1UZ-_5LQNdjE",
+    "image_url": "https://arweave.net/jiXf4OsJxp0kegTGOP5XfUC8UZ7NKFt1UZ-_5LQNdjE"
+  }
+}

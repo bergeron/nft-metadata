@@ -1,0 +1,34 @@
+{
+  "address": "0xc62100d52af39e64a2af00e25849509d5192d597",
+  "type": "ERC721",
+  "name": "Open Coordinates",
+  "tokenCount": "37",
+  "uri": "ipfs://QmQqS7xcvpxCc9E7UqmkSg1XQmKWER99WGKCff6ET2qxER/1.json",
+  "metadata": {
+    "name": "OpenCoordinate #1",
+    "description": "Riudoms, Catalonia, Spain",
+    "image": "ipfs://QmWuB8VmPSu3KnetPVn5bJpPAJ7ZvuPfQ8AZ2ndUfbPqP3/1.png",
+    "attributes": [
+      {
+        "trait_type": "latitude",
+        "value": "41.1391"
+      },
+      {
+        "trait_type": "longitude",
+        "value": "1.052"
+      },
+      {
+        "trait_type": "country",
+        "value": "Spain"
+      },
+      {
+        "trait_type": "ink index",
+        "value": "2"
+      },
+      {
+        "trait_type": "city type",
+        "value": "Town"
+      }
+    ]
+  }
+}

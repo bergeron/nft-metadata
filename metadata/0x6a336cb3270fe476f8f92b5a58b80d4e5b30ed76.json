@@ -1,0 +1,48 @@
+{
+  "address": "0x6a336cb3270fe476f8f92b5a58b80d4e5b30ed76",
+  "type": "ERC721",
+  "name": "Phellas Official",
+  "tokenCount": "54",
+  "uri": "https://bafybeieokq7yojvf2ueltnr6yjlx6bczuaipcwuiyutpjomm3mf7zygrc4.ipfs.nftstorage.link/1.json",
+  "metadata": {
+    "name": "Phella #1",
+    "description": "A collection of 10,000 crazy fun-loving creatures that bring together a community of free-spirited people from around the world.",
+    "image": "ipfs://bafybeidsnykiwmiw53xxp4nbvplynkfp25cdg7ergralfw6bgm3zldhcna/1.png",
+    "external_url": "https://phellas.art",
+    "attributes": [
+      {
+        "trait_type": "Skin",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Sports Shirt"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Sick"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Crosseyed"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow Wig"
+      }
+    ],
+    "collection": {
+      "name": "Phellas",
+      "family": "Phellas"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://bafybeidsnykiwmiw53xxp4nbvplynkfp25cdg7ergralfw6bgm3zldhcna/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
+}

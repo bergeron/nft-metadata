@@ -1,0 +1,43 @@
+{
+  "address": "0x7bb8088cb48d2e25eba3a21edfad0e7c883f8520",
+  "type": "ERC721",
+  "name": "The Machine Monkeys",
+  "tokenCount": "80",
+  "uri": "https://api.projectbrx.io/api/nfts/1",
+  "metadata": {
+    "name": "DEX #1",
+    "image": "https://dex-nft.s3.ap-east-1.amazonaws.com/1.png",
+    "attributes": [
+      {
+        "value": "Canvas",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Siren",
+        "trait_type": "Variant"
+      },
+      {
+        "value": "Opulence",
+        "trait_type": "Screen"
+      },
+      {
+        "value": "Mountain",
+        "trait_type": "Symbol"
+      },
+      {
+        "value": "Rave",
+        "trait_type": "Category"
+      },
+      {
+        "value": "580",
+        "trait_type": "Hz Points"
+      },
+      {
+        "value": "1010",
+        "trait_type": "Access"
+      }
+    ],
+    "description": "The DEX is the world’s first PFP utility tool and your gateway to the world of Project:BRX. 7070 unique Digital Expression Devices that come packed with rewards, online and real world utility, and access to multiple ecosystems.",
+    "external_url": "https://projectbrx.io"
+  }
+}

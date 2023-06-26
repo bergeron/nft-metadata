@@ -1,0 +1,33 @@
+{
+  "address": "0xda7ababd12608fa139acc4e32749cff2a9fed097",
+  "type": "ERC721",
+  "name": "BoredArraYachtClub",
+  "tokenCount": "1",
+  "uri": "ipfs://Qma89U7AtYBAf4N8oqiemzed29HWF8uZshqTqDtCWhrQjN/1.json",
+  "metadata": {
+    "name": "Bored Arra Yacht Club #1",
+    "description": "Collection of Bored Arras. There will only ever be 1. Because, let's be honest...Arra isn't bored.",
+    "image": "ipfs://QmbhcT1i49Hm6SqnNHaYBfWDr1CAZZutY1NMKub5qoCfrZ/1.png",
+    "edition": 1,
+    "date": 1653238543535,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Arra_CC_Background"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Awesome!!"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Bad Ass Points",
+        "value": "1000000"
+      }
+    ]
+  }
+}

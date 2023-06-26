@@ -1,0 +1,42 @@
+{
+  "address": "0xa21409f776ec39b8c03e935d796a338077138a97",
+  "type": "ERC721",
+  "name": "DoodleOkayBears",
+  "tokenCount": "5",
+  "uri": "ipfs://QmUBGtfsHuZ6urYoz92dkV6DYd2oQwpi66yycH1M7sHNdQ/1.json",
+  "metadata": {
+    "name": "Doodle Bear #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://QmXY3e87aQsKcbeEUjgAFovrU1GyDVb2RijZRiEBn4Ae3K/1.png",
+    "dna": "bc72562f1c72ab2f6fa758d9eaa12e1d3651cb03",
+    "edition": 1,
+    "date": 1653930404164,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow "
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Overalls "
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sarcastic "
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grimace"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bandana "
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

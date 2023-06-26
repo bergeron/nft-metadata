@@ -1,0 +1,36 @@
+{
+  "address": "0xeb9e2eea9254e6341bd567be0c29b8331aa80db8",
+  "type": "ERC721",
+  "name": "Maskemys Official Collection",
+  "tokenCount": "6",
+  "uri": "ipfs://bafybeifqbt2dfyky5jhy5yqa7ziwjznhllq6gnecb4mdafbc5bdc52cl5y/1.json",
+  "metadata": {
+    "name": "Maskemys #1",
+    "description": "The #artkemystik Colorful Portraits",
+    "external_url": "https://www.maskemys.com/",
+    "image": "ipfs://QmUKksdxW7MtcLjAWNMx1bGFzuEcHhq3QVEWzWEnwUu1uc/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black shirt"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Shaved"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "Diola"
+      }
+    ],
+    "compiler": "https://nft-generator.art"
+  }
+}

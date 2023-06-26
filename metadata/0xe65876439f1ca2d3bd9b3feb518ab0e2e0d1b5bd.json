@@ -1,0 +1,68 @@
+{
+  "address": "0xe65876439f1ca2d3bd9b3feb518ab0e2e0d1b5bd",
+  "type": "ERC721",
+  "name": "Unordinal Bored Punks",
+  "tokenCount": "156",
+  "uri": "ipfs://QmTke5h9pMAmDUYYJ6hvt6eb3EBZifxfGDoSbikUbUm3EC/1",
+  "metadata": {
+    "name": "Unordinal Bored Punks#397",
+    "description": "Unordinal Bored Punks are slowly degenerating the btchain, kicking everyone's asses",
+    "image": "ipfs://QmQEhzus7ZZjJ6E2PmPybJ7m3ABuQnsfuSfu5qQhqqUfQC/1.png",
+    "external_url": "",
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://bafybeihqhgmrteautgowjxwghcbyrjk47n4ynttjbdok7enzoc35rku7oq/397.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x33d1771f4297bc1a110de0e71c73da07c3ded2b4f3671ae0c7d47fb3fbe5f95a",
+          "share": "100"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Transparent Hoodie"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Unordinal V"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "None"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Earing Left",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Necklace",
+        "value": "Silver Chain"
+      },
+      {
+        "trait_type": "Earing Right",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sun Glasses"
+      }
+    ],
+    "symbol": "UBP",
+    "seller_fee_basis_points": "1000",
+    "collection": {
+      "name": "Unordinal Bored Punks",
+      "family": "Ordinals"
+    }
+  }
+}

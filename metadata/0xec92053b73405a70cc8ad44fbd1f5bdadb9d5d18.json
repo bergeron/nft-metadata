@@ -1,0 +1,22 @@
+{
+  "address": "0xec92053b73405a70cc8ad44fbd1f5bdadb9d5d18",
+  "type": "ERC721",
+  "name": "Its Just Letters",
+  "tokenCount": "13",
+  "uri": "data:application/json;utf8, {\"image\": \"data:image/svg+xml;utf8, <svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 350 350'><style>.base{font-family: serif; font-size: 24px; fill: white; }</style><rect width='100%' height='100%' fill='#8b0000' /><text text-anchor='middle' x='50%' y='50%' class='base'>UFEUZBLRKGSDDJM</text></svg>\",\"name\": \"Letters #1\", \"description\": \"Letters are combined into the blockchain randomly with random length. Stats, images, and other information are omitted on purpose. Feel free to build on letters however you want. https://itsjustletters.wtf\",\"attributes\": [{\"trait_type\": \"letters\", \"value\": \"UFEUZBLRKGSDDJM\"},{\"trait_type\": \"length\", \"value\": \"15\"}]}",
+  "metadata": {
+    "image": "data:image/svg+xml;utf8, <svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 350 350'><style>.base{font-family: serif; font-size: 24px; fill: white; }</style><rect width='100%' height='100%' fill='#8b0000' /><text text-anchor='middle' x='50%' y='50%' class='base'>UFEUZBLRKGSDDJM</text></svg>",
+    "name": "Letters #1",
+    "description": "Letters are combined into the blockchain randomly with random length. Stats, images, and other information are omitted on purpose. Feel free to build on letters however you want. https://itsjustletters.wtf",
+    "attributes": [
+      {
+        "trait_type": "letters",
+        "value": "UFEUZBLRKGSDDJM"
+      },
+      {
+        "trait_type": "length",
+        "value": "15"
+      }
+    ]
+  }
+}

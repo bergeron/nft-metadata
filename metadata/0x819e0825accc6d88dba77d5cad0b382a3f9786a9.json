@@ -1,0 +1,55 @@
+{
+  "address": "0x819e0825accc6d88dba77d5cad0b382a3f9786a9",
+  "type": "ERC721",
+  "name": "Werewolf Asset",
+  "tokenCount": "15",
+  "uri": "https://ipfs.io/ipfs/QmVgn3EiLrVwAGR8TFRJKx6XqDeFKD7htURt18rUNTDpjh/characteristic/main.json",
+  "metadata": {
+    "name": "Prime",
+    "description": "Werewolf Asset (alpha)",
+    "image": "https://ipfs.io/ipfs/QmfFt71mSqpeh2qVbpJLAHxRPzWaGbzYQMBaCbSCPPPu5m/avatar/Prime.svg",
+    "attributes": {
+      "id": 1,
+      "werewolfAlias": "Alpha",
+      "strength": "74 %",
+      "speed": "59 Miles/hr",
+      "agility": "8.21 Level",
+      "healing": "14 seconds",
+      "roar": "8.70 Miles",
+      "transformationTime": "42 seconds",
+      "wolfsbaneResistance": "84 %",
+      "senses": {
+        "vision": {
+          "day": "3.71 Miles",
+          "night": "4.39 Miles"
+        },
+        "hearing": "8.81 Miles",
+        "smell": "1.43 Miles"
+      },
+      "emotions": {
+        "anger": "High",
+        "rage": "High",
+        "aggression": "High",
+        "violence": "High",
+        "love": "Low",
+        "joy": "Low",
+        "happiness": "Low"
+      },
+      "powerAbsorption": "78 %",
+      "empathy": "71 %",
+      "painTransference": "40164 seconds",
+      "mindMelding": "86 %",
+      "fullMoonPowerEnhancement": "6 %",
+      "infectious": "72 %",
+      "superMemory": "25 %",
+      "superIntelligence": "23 %",
+      "telepathy": "78 %",
+      "resistanceToCold": "313 Days",
+      "mountainAshEffect": true,
+      "silverDamage": "40 %",
+      "dna": "0x52c0ddab17bd4a2598f46938d5a3aaea0229ec8c404f4af4c44e22fa73097876",
+      "ownTerritory": "United Kingdom , Greater London",
+      "bornTerritory": "United Kingdom , Greater London"
+    }
+  }
+}

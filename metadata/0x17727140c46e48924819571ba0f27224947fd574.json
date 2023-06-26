@@ -1,0 +1,28 @@
+{
+  "address": "0x17727140c46e48924819571ba0f27224947fd574",
+  "type": "ERC1155",
+  "name": "Cabinet of Curiosities - Magical Item Workshop",
+  "tokenCount": "3",
+  "uri": "ipfs://QmdH6A6b8k18j1UAWRmmytnRyCyaPVCmxtAL1Lj6TfN3Ea",
+  "metadata": {
+    "name": "The Enchanted Mirror",
+    "image": "ipfs://QmPKkh9zpmTf9nfoGrB2tzy9ibnTLM9PjtGybmmyEPm5dM",
+    "animation_url": "https://cabinetofcuriosities.xyz/api/mirror/",
+    "external_url": "https://cabinetofcuriosities.xyz/mirror",
+    "attributes": [
+      {
+        "trait_type": "Dexterity",
+        "value": "Can only be broken once a creature is trapped inside."
+      },
+      {
+        "trait_type": "Potential",
+        "value": "Wizards and Warriors can both be trapped."
+      },
+      {
+        "trait_type": "Weakness",
+        "value": "Souls and Wizards can save the prisoners."
+      }
+    ],
+    "background_color": "000000"
+  }
+}

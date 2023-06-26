@@ -1,0 +1,42 @@
+{
+  "address": "0xec830414d73c7289027203fb7546bc296aa55b5e",
+  "type": "ERC721",
+  "name": "The Alien UFO",
+  "tokenCount": "3795",
+  "uri": "https://api-ufo.thealienboy.com/metadata/1",
+  "metadata": {
+    "name": "Drinking and Flying",
+    "description": "your Alien UFO has a unique VIN. yours is #060400070001030104000000  \nkeep it safe boy, you may need it someday.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmT7r7Dodn64QxcbzNMAvnogE1vWqF5HaFugZ4eK38iB39",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Satellite"
+      },
+      {
+        "trait_type": "Base",
+        "value": "Metal"
+      },
+      {
+        "trait_type": "Fuselage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Indoor",
+        "value": "Control Console"
+      },
+      {
+        "trait_type": "Lower Left Deck",
+        "value": "Exhaust"
+      },
+      {
+        "trait_type": "Lower Right Deck",
+        "value": "Plunger"
+      },
+      {
+        "trait_type": "Upper Deck",
+        "value": "Speakers"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "address": "0x7fb9e4be1d702b010b611184dde523658ed310fc",
+  "type": "ERC721",
+  "name": "Ether Legends",
+  "tokenCount": "3",
+  "uri": "https://www.etherlegends.com/metadata/specialedition/PRE_Argus.json",
+  "metadata": {
+    "name": "Argus and Longbody",
+    "image": "https://www.etherlegends.com/tradingcards/specialedition/PRE_Argus.gif",
+    "description": "Take a stroll back in time with Champions of the Arena!",
+    "external_url": "https://www.etherlegends.com",
+    "attributes": [
+      {
+        "trait_type": "game",
+        "value": "Ether Legends"
+      },
+      {
+        "trait_type": "set",
+        "value": "Special Edition"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Prismatic"
+      },
+      {
+        "trait_type": "type",
+        "value": "Character"
+      },
+      {
+        "trait_type": "element_1",
+        "value": "Earth"
+      },
+      {
+        "trait_type": "strength_1",
+        "value": "Defense"
+      },
+      {
+        "trait_type": "element_2",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "strength_2",
+        "value": "Attack"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "number",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "elementeum",
+        "value": 4
+      },
+      {
+        "display_type": "number",
+        "trait_type": "attack",
+        "value": 6
+      },
+      {
+        "display_type": "number",
+        "trait_type": "defense",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heal",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "disrupt",
+        "value": 4
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heart",
+        "value": 14
+      }
+    ]
+  }
+}

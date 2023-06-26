@@ -1,0 +1,42 @@
+{
+  "address": "0xe445fe6602d50385064aa4661a7c961a49a72c10",
+  "type": "ERC721",
+  "name": "Zarnoku",
+  "tokenCount": "3",
+  "uri": "ipfs://QmYXdm2hxozFvuA356a2nEYfGLnctRt4cYuagkH1PqqtJq/1.json",
+  "metadata": {
+    "name": "ZARNOKU #1",
+    "description": "",
+    "image": "ipfs://Qmdt4omAGYuSoxEHE981aHxxqDWka2KAREeYqTCN6iwmjf/1.png",
+    "dna": "25dbe241cb25528da16096c9adf29ddeb012e5c2",
+    "edition": 1,
+    "date": 1646342330399,
+    "attributes": [
+      {
+        "trait_type": "Bunny/Background",
+        "value": "Mint"
+      },
+      {
+        "trait_type": "Bunny/Bandaged Body",
+        "value": "Bandaged"
+      },
+      {
+        "trait_type": "Bunny/Clothing",
+        "value": "Hawaiian Shirt"
+      },
+      {
+        "trait_type": "Bunny/Bandaged Eyes",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Bunny/Mouth",
+        "value": "Normal Teeth"
+      },
+      {
+        "trait_type": "Bunny/Jewellery",
+        "value": "Utility Necklace"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

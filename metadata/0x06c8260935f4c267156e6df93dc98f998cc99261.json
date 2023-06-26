@@ -1,0 +1,33 @@
+{
+  "address": "0x06c8260935f4c267156e6df93dc98f998cc99261",
+  "type": "ERC721",
+  "name": "KYOKO Vesting Voucher",
+  "tokenCount": "73",
+  "uri": "data:application/json,{\"name\":\"KYOKO Allocation Voucher #1 - 0.00 - 3 Stages\", \"description\":\"Voucher #1 of KYOKO allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade KYOKO's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!\",\"image\": \"https://imgurl.solv.finance/meta/images/vvKYOKO/1.png\",\"external_url\":\"https://app.solv.finance/vvKYOKO/1\", \"properties\": {\"owner\":\"0xd411279760f39f451e79ed609fd7d6729f87e92a\",\"underlying\":\"0x14a32f050facf226ec60882398a9bf36d91dbac2\",\"underlyingSymbol\":\"KYOKO\",\"vestingAmount\":\"0.000000000000000000\",\"principal\":\"0.000000000000000000\",\"claimType\":\"Staged\",\"claimableAmount\":\"0.000000000000000000\",\"percentages\":[\"33.00%\",\"33.00%\",\"34.00%\"],\"maturities\":[1649462400,1657324800,1665273600],\"term\":\"183.00 days\"}}",
+  "metadata": {
+    "name": "KYOKO Allocation Voucher #1 - 0.00 - 3 Stages",
+    "description": "Voucher #1 of KYOKO allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade KYOKO's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!",
+    "image": "https://imgurl.solv.finance/meta/images/vvKYOKO/1.png",
+    "external_url": "https://app.solv.finance/vvKYOKO/1",
+    "properties": {
+      "owner": "0xd411279760f39f451e79ed609fd7d6729f87e92a",
+      "underlying": "0x14a32f050facf226ec60882398a9bf36d91dbac2",
+      "underlyingSymbol": "KYOKO",
+      "vestingAmount": "0.000000000000000000",
+      "principal": "0.000000000000000000",
+      "claimType": "Staged",
+      "claimableAmount": "0.000000000000000000",
+      "percentages": [
+        "33.00%",
+        "33.00%",
+        "34.00%"
+      ],
+      "maturities": [
+        1649462400,
+        1657324800,
+        1665273600
+      ],
+      "term": "183.00 days"
+    }
+  }
+}

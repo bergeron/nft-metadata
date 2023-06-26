@@ -1,0 +1,40 @@
+{
+  "address": "0x06e75806cc1d510174aed109857fd26f9c8e6186",
+  "type": "ERC721",
+  "name": "Peace Aliens",
+  "tokenCount": "412",
+  "uri": "https://ipfs.peacealiens.com/metadata/1",
+  "metadata": {
+    "tokenId": 1,
+    "name": "Peace Alien #1",
+    "description": "Peace Aliens: Come in Peace!",
+    "image": "https://ipfs.peacealiens.com/images/1.png",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "body",
+        "value": "Base"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Business Suit"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Dollar"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "head",
+        "value": "Captain Cap"
+      }
+    ],
+    "rarity": 19
+  }
+}

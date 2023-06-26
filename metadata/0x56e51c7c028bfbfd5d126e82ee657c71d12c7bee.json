@@ -1,0 +1,42 @@
+{
+  "address": "0x56e51c7c028bfbfd5d126e82ee657c71d12c7bee",
+  "type": "ERC721",
+  "name": "Dotz V2",
+  "tokenCount": "20",
+  "uri": "https://ipfs.pixura.io/ipfs/QmYvrzkznBEfMjdHRPo5KGTxxc4cXyb54UHjQbWdd52Ch2/metadata.json",
+  "metadata": {
+    "name": "DOTZ 1",
+    "createdBy": "Vegard Aarhus",
+    "yearCreated": "2021",
+    "description": "DOTZ series\n\nThese dots are not like other dots. \n\nThe dots have their own personal personalities and diagnosis. Colored up and scattered around in 3d space. From a distance they look just like tiny polkadots, colordots. But if you zoom in you can see they are all different, lost, some happy, some sad, and they are all twisted and broken. You know them as Fred, Mathilda, Oddyn and Freya. A company of intensity and wildness.\n\nThe 3d scene contain of 4 different processes:\n1.  The modeling, each figure(Fred, Mathilda, Oddyn and Freya) is procedural made, that means you can tweak and adjust the model without needing to remodel the whole figure again and again. This is a known process in the tool I'm using, Houdini(you should check it out!).\nIn the setup, I have generated 20 different models.\n\n2. \nWhen I'm pleased with the models, I scatter them on a grid with different settings and noise to achieve different styles. Some images are systematic, and some look more organic. The network updates according to what you feed it, you can feed it different 3d geometry and scatter the faces on all sorts of 3d models.\n\n3. \nBefore rendering I work on my render scene and layout. \nI'm using the render engine Redshift, this is a GPU accelerated render engine.\nWhen I set up the render scene, I want to achieve crisp images with loads of details. I have a digital display at home, and I want each image to look good on a wall at home, that is my criteria... And of course I want the viewer to be struck by the colorful images. Then when the viewer is interested, the image reveals more details and a world of  different faces when you take a closer look.\nI use a shader, where I mix different colors the way I want, and randomize the material, so each face/dot has its own look.\n\n4. The last thing I do is setting up a camera in 3d space. The render size on these are 4096*6144. Each render is rendered using Redshift in Houdini. \n\nHave a gm and gn!\n\nVegard Aarhus\n",
+    "image": "https://ipfs.pixura.io/ipfs/QmdVaZzeUHqhdLfkDVrUy5n8qUp1zAefabvnPVuHwDiEcN/SR_POINTS_22_v001.Redshift_ROP1.0001.jpeg",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmdVaZzeUHqhdLfkDVrUy5n8qUp1zAefabvnPVuHwDiEcN/SR_POINTS_22_v001.Redshift_ROP1.0001.jpeg",
+      "dimensions": "4096x6144",
+      "size": "13242213",
+      "mimeType": "image/jpeg"
+    },
+    "tags": [
+      "dotz",
+      "3dart",
+      "3d",
+      "art",
+      "rare",
+      "jpeg"
+    ],
+    "attributes": [
+      {
+        "trait_type": "dotz",
+        "value": "160"
+      },
+      {
+        "trait_type": "main color",
+        "value": "white"
+      },
+      {
+        "trait_type": "render",
+        "value": "6k"
+      }
+    ]
+  }
+}

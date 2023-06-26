@@ -1,0 +1,46 @@
+{
+  "address": "0x783da55d4dbfee0d9f2e6f5f0850ad039cae33f3",
+  "type": "ERC721",
+  "name": "Quirky Mfers",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmcVHEvcfWvTX3bYFLMNeAqWfnYGSsFkgV9xJh9PRLfUu7/1.json",
+  "metadata": {
+    "name": "Quirky Mfers #1",
+    "description": "A collection of 5,000 avatars derived from Quirkies and Mfers. Not affiliated with either projects.",
+    "image": "ipfs://QmVmLJPiLUdC3E3DFvZphnYi6RKTtE7gqvq9K5Lf45Ay2j/1.png",
+    "dna": "ff3dc8da32768e52b27808dac95b5acdd7fb4ffc",
+    "edition": 1,
+    "date": 1647041967408,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Gold Robot"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Blue Sweater"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cute"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "VR"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Pencil"
+      },
+      {
+        "trait_type": "Antennas",
+        "value": "Sprouts"
+      }
+    ],
+    "compiler": "Quirky Mfer Generator"
+  }
+}

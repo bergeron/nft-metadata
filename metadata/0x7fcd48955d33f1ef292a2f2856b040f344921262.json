@@ -1,0 +1,36 @@
+{
+  "address": "0x7fcd48955d33f1ef292a2f2856b040f344921262",
+  "type": "ERC721",
+  "name": "BlueChipsNFT",
+  "tokenCount": "333",
+  "uri": "ipfs://QmcnWEVdp2CaKqfyFBm8zrSru9h7d7qCgT7PmQHPsMkZ12/1.json",
+  "metadata": {
+    "name": "Blue Chip #1",
+    "description": "333 Blue Chips , nothing more 3 different rarity's -Single chip -Med Stack -Whale Stack",
+    "external_url": "",
+    "image": "https://ipfs.io/ipfs/QmXn2jydYQ8to4TYiunV7pYxAdCm9Vbg7a1LFeDhwv55bR/1.webp",
+    "attributes": [
+      {
+        "trait_type": "CHIPS",
+        "value": "BLUE CHIP"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Blue Chips",
+      "family": "Blue Chips"
+    },
+    "symbol": ""
+  }
+}

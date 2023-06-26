@@ -1,0 +1,28 @@
+{
+  "address": "0x6767a1c3db385243ec649f066b28d4019370f010",
+  "type": "ERC721",
+  "name": "Academy Legendary Ticket",
+  "tokenCount": "26",
+  "uri": "ipfs://QmdxXrrpbsq3ADPPRv9r4CdUgDzKhuCr6mLRRX2UKDnMQk/0",
+  "metadata": {
+    "name": "Academy Legendary Ticket",
+    "description": "This is a symbolic token NFT to deposit in the Academy Legendary Pool (app.stopviolenceproject.com) Its value is equivalent to 1 Legendary NFT from the Stop Violence Academy collection.",
+    "image": "ipfs://QmSRFAud1jCJ51294dep3SYqLKo1aZXMrgot2MhwF37Uxr/legendaryacademy.png",
+    "external_url": "https://legendary.stopviolenceproject.com/stake",
+    "background_color": "",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Ticket"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Stake Pool",
+        "value": "https://legendary.stopviolenceproject.com/stake"
+      }
+    ]
+  }
+}

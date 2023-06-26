@@ -1,0 +1,82 @@
+{
+  "address": "0x2e76a8e4805cbbc1fdf5f3126b3904234d49762a",
+  "type": "ERC721",
+  "name": "FakeShamus Shamus Clisset",
+  "tokenCount": "3",
+  "uri": "https://ipfs.io/ipfs/QmNZgS8HmptyoNdhM12fgBGG4Z8peeSGa9DR2TgvR8nrTU",
+  "metadata": {
+    "name": "#Chainsaw",
+    "description": "“I see, I mean I *really* SEE!” said the blind man as he picked up his hammer and chainsaw.... ",
+    "external_url": "http://postmastersbc.art/nft/clisset/Chainsaw/chainsaw-thumb.mov",
+    "animation_url": "http://postmastersbc.art/nft/clisset/Chainsaw/chainsaw-thumb.mov",
+    "image": "https://postmastersbc.art/nft/clisset/Chainsaw/chainsaw-thumb.png",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "FakeShamus (Shamus Clisset)"
+      },
+      {
+        "trait_type": "Rights Agreement",
+        "value": "https://ipfs.io/ipfs/Qmbf5Q2ivkECewuasvQKUYsJCjbQ3sPyAsMS2YpcPgfVUt"
+      },
+      {
+        "trait_type": "Archive Link",
+        "value": "https://postmastersbc.art/nft/clisset/Chainsaw/chainsaw.mp4"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "#Chainsaw"
+      },
+      "description": {
+        "type": "string",
+        "description": "“I see, I mean I *really* SEE!” said the blind man as he picked up his hammer and chainsaw.... "
+      },
+      "image": {
+        "type": "string",
+        "description": "https://postmastersbc.art/nft/clisset/Chainsaw/chainsaw-thumb.png"
+      },
+      "rights_agreement": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/Qmbf5Q2ivkECewuasvQKUYsJCjbQ3sPyAsMS2YpcPgfVUt"
+      },
+      "rights_agreement_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "rights_agreement_signature": {
+        "type": "string",
+        "description": "f4e38f7db04f03924adaa2f26d11835a251545988e02e7a2829559eba1682bc2"
+      },
+      "archive_link": {
+        "type": "string",
+        "description": "https://postmastersbc.art/nft/clisset/Chainsaw/chainsaw.mp4"
+      },
+      "archive_link_signature_type": {
+        "type": "string",
+        "description": "SHA-256"
+      },
+      "archive_link_signature": {
+        "type": "string",
+        "description": "2960196553bb7a50fdecfa91eb9373861c7cb897480ee2bfc6106e9ec7c9a506"
+      },
+      "rights_agreement_values": {
+        "$ARTIST": "FakeShamus (Shamus Clisset)",
+        "$SHAHASH": "2960196553bb7a50fdecfa91eb9373861c7cb897480ee2bfc6106e9ec7c9a506",
+        "$CONTRACTSHAHASH": "f4e38f7db04f03924adaa2f26d11835a251545988e02e7a2829559eba1682bc2",
+        "$URL": "https://postmastersbc.art/nft/clisset/Chainsaw/chainsaw-thumb.png",
+        "$TITLE": "#Chainsaw",
+        "$YEAR": "2021",
+        "$ROYALTYRATE": "10",
+        "$TOKEN": "eth",
+        "$ADDRESS": "0x318c1703A34a89e74C4e372eEC203eED9B05E00A",
+        "$LICENSE": "CA.05.19.21., Patent No. US 10,380,702"
+      },
+      "additional_info": {
+        "type": "string",
+        "description": "This digital art NFT was produced by PostmastersBLOCKCHAIN.com, 2021, Postmasters Gallery."
+      }
+    }
+  }
+}

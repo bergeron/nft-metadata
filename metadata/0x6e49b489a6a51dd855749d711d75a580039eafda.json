@@ -1,0 +1,78 @@
+{
+  "address": "0x6e49b489a6a51dd855749d711d75a580039eafda",
+  "type": "ERC721",
+  "name": "Weinbagz In The City",
+  "tokenCount": "11",
+  "uri": "https://arweave.net/n4mSemvz6Kd_nOlYIcftBLJjFBNmmhHW0mwoyFW_VHM",
+  "metadata": {
+    "name": "A Day At The Funhouse",
+    "created_by": "Weinbagz",
+    "external_url": "weinbagz.com",
+    "description": "Weinbagz visits the funhouse.\n\nAnimation created with Stable Diffusion -> After Effects. Music production by Weinbagz. Original composition by Julius Fučík, entitled \"Entrance of the Gladiators\".",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Weinbagz"
+      },
+      {
+        "trait_type": "Rotation",
+        "value": "Counterclockwise"
+      },
+      {
+        "trait_type": "Zoom",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Glitch",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Strobe",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Subject",
+        "value": "Clown"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Funhouse"
+      },
+      {
+        "trait_type": "Key",
+        "value": "C"
+      },
+      {
+        "trait_type": "Tempo",
+        "value": "150bpm"
+      },
+      {
+        "trait_type": "Time Signature",
+        "value": "4"
+      }
+    ],
+    "image_details": {
+      "bytes": 12410886,
+      "format": "GIF",
+      "sha256": "d81eba6cd021a8bd4dbe2a70396ee526426488a1da2ed88ebfe28b9a12f69e51",
+      "width": 1000,
+      "height": 1000
+    },
+    "image": "https://arweave.net/U0Y65enmNB1nNEkJnIy77bm7dXEnWzzxrdKhDegKpgg",
+    "image_url": "https://arweave.net/U0Y65enmNB1nNEkJnIy77bm7dXEnWzzxrdKhDegKpgg",
+    "animation_details": {
+      "bytes": 31061825,
+      "format": "MP4",
+      "duration": 42,
+      "sha256": "844f73d417104ba343d6ea99a55ae1c57325d6e393686cddfc7ce729fcc48e2f",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/5nQUVhliISZimuhYyjqQAXb-RC3ywWBUtTcZQfyYXRI",
+    "animation_url": "https://arweave.net/5nQUVhliISZimuhYyjqQAXb-RC3ywWBUtTcZQfyYXRI"
+  }
+}

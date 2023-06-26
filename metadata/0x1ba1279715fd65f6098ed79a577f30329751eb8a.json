@@ -1,0 +1,58 @@
+{
+  "address": "0x1ba1279715fd65f6098ed79a577f30329751eb8a",
+  "type": "ERC721",
+  "name": "Unchained Project",
+  "tokenCount": "5",
+  "uri": "ipfs://QmdpKesWsUNHVAuS7b3WMy8YFsQszevaYJTDWJG8ZV1tM9/1.json",
+  "metadata": {
+    "name": "Card #1",
+    "description": "Project Unchained is a computer generated game world filled with avatars who possess different gear, weapons and special powers.",
+    "image": "ipfs://QmSH6ydm12MKhW4iF8wnEr8dzqL2KU8HFtU6nfsFsHy7jV/card1.svg",
+    "external_url": "https://projectunchained.com",
+    "attributes": [
+      {
+        "trait_type": "Race",
+        "value": "Xetophite"
+      },
+      {
+        "trait_type": "Loot",
+        "value": "Robe"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Tokens",
+        "value": 1761
+      },
+      {
+        "trait_type": "Weapon 1",
+        "value": "Enchanted Sword"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Spawn Day",
+        "value": 97
+      },
+      {
+        "trait_type": "Gear",
+        "value": "Gold Gloves"
+      },
+      {
+        "trait_type": "Weapon 2",
+        "value": "Gold War Hammer"
+      },
+      {
+        "trait_type": "Special",
+        "value": "Multiple Power Attack +1"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Strategic Planning"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Health",
+        "value": 71
+      }
+    ]
+  }
+}

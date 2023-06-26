@@ -1,0 +1,52 @@
+{
+  "address": "0x6e29503bbc237ed8dc472c766a7415b4cfb226b2",
+  "type": "ERC1155",
+  "name": "Lympo Genesis",
+  "tokenCount": "114",
+  "uri": "https://api.lympo.io/pools/assets/1",
+  "metadata": {
+    "rarity": "Common",
+    "id": 1,
+    "points": 3,
+    "pool": {
+      "name": "Athletes",
+      "points": 3
+    },
+    "external_url": "https://nft.lympo.io/pools/athletes",
+    "image": "https://s3.us-east-2.amazonaws.com/nft-lympo.com/pools/marked/videos/Darya_Klishina/common.mp4",
+    "thumb": "https://s3.us-east-2.amazonaws.com/nft-lympo.com/pools/marked/images/Darya+Klishina/common.jpg",
+    "name": "Darya Klishina",
+    "description": "The Takeoff",
+    "attributes": [
+      {
+        "trait_type": "Set",
+        "value": "Athletes"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Lympo"
+      },
+      {
+        "trait_type": "Season",
+        "value": "Alpha"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "Long Jump"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 1619816400
+      },
+      {
+        "trait_type": "Max Supply",
+        "value": "5000"
+      }
+    ]
+  }
+}

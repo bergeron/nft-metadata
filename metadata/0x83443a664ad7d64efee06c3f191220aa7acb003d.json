@@ -1,0 +1,41 @@
+{
+  "address": "0x83443a664ad7d64efee06c3f191220aa7acb003d",
+  "type": "ERC721",
+  "name": "EssentialHumanExperiences",
+  "tokenCount": "11",
+  "uri": "https://storage.googleapis.com/essential_experiences/metadata/1.json",
+  "metadata": {
+    "dna": "042554",
+    "name": "EHE #1",
+    "description": "A collection of essential experiences",
+    "image": "https://storage.googleapis.com/essential_experiences/metadata/1.png",
+    "edition": 1,
+    "date": 1633717993076,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Experience1",
+        "value": "Finding Money In Your Pocket"
+      },
+      {
+        "trait_type": "Experience2",
+        "value": "Being Double Dog Dared"
+      },
+      {
+        "trait_type": "Experience3",
+        "value": "Rolling Down A Grassy Hill"
+      },
+      {
+        "trait_type": "Experience4",
+        "value": "Kissing A Baby On The Head"
+      },
+      {
+        "trait_type": "Experience5",
+        "value": "Scraping Your Knee"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "0xbb9e42c40fafaad03d2c41c2a3b5af38d073b2cf",
+  "type": "ERC721",
+  "name": "Arnaud_Collection_ERC721_remix",
+  "tokenCount": "3",
+  "uri": "https://ipfs.io/ipfs/QmcajXhDRa93R45RQUMe37pig6AnSnFCbsnwYFZZygatnT?filename=ERC721_1.json",
+  "metadata": {
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "1"
+      },
+      "description": {
+        "type": "string",
+        "description": "Desc"
+      },
+      "image": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/QmUAZnHD8Byj7EBXCgNWUcKfRcgD38zk3q7evHSf4jXwKN?filename=1.PNG"
+      }
+    }
+  }
+}

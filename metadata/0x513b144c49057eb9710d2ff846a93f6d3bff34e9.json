@@ -1,0 +1,66 @@
+{
+  "address": "0x513b144c49057eb9710d2ff846a93f6d3bff34e9",
+  "type": "ERC721",
+  "name": "Warriors NFT: Sloth Warriors",
+  "tokenCount": "93",
+  "uri": "https://api.slothwarriors.com/tokens/1",
+  "metadata": {
+    "name": "Taio Crloafdel",
+    "description": "One Sloth Warrior battling against extinction.",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Battle Pack",
+        "value": 1
+      },
+      {
+        "trait_type": "Background",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Back Weapon",
+        "value": "Sword"
+      },
+      {
+        "trait_type": "Face Paint",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Body Armor",
+        "value": "Chainmail Armor"
+      },
+      {
+        "trait_type": "Front Weapon",
+        "value": "Turquoise Axe"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Skull Helmet"
+      },
+      {
+        "trait_type": "Shoes",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Strength",
+        "value": 5
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Agility",
+        "value": 7
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Intelligence",
+        "value": 2
+      }
+    ],
+    "image": "https://sloth-warrior-nfts.s3.amazonaws.com/images/1.png"
+  }
+}

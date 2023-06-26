@@ -1,0 +1,39 @@
+{
+  "address": "0x0a093d230ba7845bca0898851b093b8b19bc1ae1",
+  "type": "ERC721",
+  "name": "Aisthisi",
+  "tokenCount": "12",
+  "uri": "https://aisthisi.art/metadata/1.json",
+  "metadata": {
+    "name": "Aisthisi #1",
+    "description": "Artwork by MajorArt. Oil by EliTsa's. Greek for sensation, Aisthisi is an NFT project that combines digital and physical assets. The first to combine Art + Blockchain + Olive Oil. Learn more at https://aisthisi.art",
+    "image": "ipfs://ipfs/QmNoyZzVsv1CE8vFw8KQU3uTkqWPSFPuTfyZJPKiLUH3FG",
+    "attributes": [
+      {
+        "key": "artist",
+        "trait_type": "artist",
+        "value": "MajorArt"
+      },
+      {
+        "key": "olive oil producer",
+        "trait_type": "olive oil producer",
+        "value": "EliTsa's"
+      },
+      {
+        "key": "year",
+        "trait_type": "year",
+        "value": "2021"
+      },
+      {
+        "key": "series",
+        "trait_type": "series",
+        "value": "Genesis Harvest"
+      },
+      {
+        "key": "website",
+        "trait_type": "website",
+        "value": "https://aisthisi.art"
+      }
+    ]
+  }
+}

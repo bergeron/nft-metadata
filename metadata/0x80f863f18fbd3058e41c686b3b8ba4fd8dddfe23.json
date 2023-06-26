@@ -1,0 +1,53 @@
+{
+  "address": "0x80f863f18fbd3058e41c686b3b8ba4fd8dddfe23",
+  "type": "ERC721",
+  "name": "unnaturalselection",
+  "tokenCount": "20",
+  "uri": "https://arweave.net/Wn0DUp9_myOlMQFCCqYhv4SVTJl34bFSfA_uMTg2VTU",
+  "metadata": {
+    "name": "unnatural_selection #001",
+    "created_by": "madbutter",
+    "external_url": "https://www.madbutter.com/",
+    "description": "A collection of StyleGAN AI animations that emerged from training the AI on a dataset of madbutter images that in turn were derived from photographs I've taken of cacti, shells, trees, fish scales, flowers, and other organic sources. The images in my dataset are already heavily algorithmically manipulated using the process that I use in most of my recent work, which iteratively folds and reflects parts of my source photographs. The AI, therefore, attempts to replicate both the organic forms, textures, and colors of the source images as well as the emergent abstract shapes and patterns introduced by the algorithmic processing. The videos are \"latent walks\" that explore different parts of the latent space created by the AI at various points in its training process. The videos are then post-processed in After Effects, particularly to enhance the rhythm of the transformations.  \n30-second looping 1024x1024 video animations",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "madbutter"
+      },
+      {
+        "trait_type": "collection",
+        "value": "unnatural_selection"
+      },
+      {
+        "trait_type": "latent walk mode",
+        "value": "linear interpolation"
+      },
+      {
+        "trait_type": "steps",
+        "value": "96k"
+      }
+    ],
+    "animation_details": {
+      "bytes": 48671401,
+      "format": "MP4",
+      "duration": 30,
+      "sha256": "f4f6368911e952bf315c7658e90fe2655097fa335fa3412357bc6c8feaa82c94",
+      "width": 1024,
+      "height": 1024,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/CIu0mXmghW1G9LpyrKvqDy_Z-DS6z9HhbU1-26M0zBY",
+    "animation_url": "https://arweave.net/CIu0mXmghW1G9LpyrKvqDy_Z-DS6z9HhbU1-26M0zBY",
+    "image_details": {
+      "bytes": 2159629,
+      "format": "JPEG",
+      "sha256": "9eb96014af049c1ba9086b58878589710e32b253144d1319d4baf221092c5c5f",
+      "width": 1024,
+      "height": 1024
+    },
+    "image": "https://arweave.net/Vr7Y9V8ZG8kZor6oXHt6PPrTjtHHeFeg2mJYlduxGnU",
+    "image_url": "https://arweave.net/Vr7Y9V8ZG8kZor6oXHt6PPrTjtHHeFeg2mJYlduxGnU"
+  }
+}

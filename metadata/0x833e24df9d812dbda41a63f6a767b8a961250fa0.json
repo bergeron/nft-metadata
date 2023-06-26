@@ -1,0 +1,77 @@
+{
+  "address": "0x833e24df9d812dbda41a63f6a767b8a961250fa0",
+  "type": "ERC721",
+  "name": "COVID Princesses",
+  "tokenCount": "3234",
+  "uri": "ipfs://QmPYcSRQwAvq3jyQMu1sgnqUoMZcHmmVRQZN4dTfAoPwvg/1.json",
+  "metadata": {
+    "name": "COVID Princess #1",
+    "description": "COVID Princesses is a new generation digital arts project with 3333 beautiful princesses on the Ethereum network.",
+    "image": "ipfs://QmaUmBNfSV1NxpnjG8YaZ9zmY3NE2wSKnDzV9YiTYk1Kc4/1.png",
+    "edition": 1,
+    "seller_fee_basis_points": 750,
+    "collection": {
+      "name": "COVID Princesses NFT",
+      "family": "COVID Family NFT"
+    },
+    "symbol": "COVP",
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://QmaUmBNfSV1NxpnjG8YaZ9zmY3NE2wSKnDzV9YiTYk1Kc4/1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x9E3B2A2F358b947aEe33AE7Ee1AB7C1FC4EDAC37",
+          "share": 100
+        }
+      ]
+    },
+    "external_url": "https://www.covidprincesses.io/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Light Brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Dark Orange"
+      },
+      {
+        "trait_type": "Necklace",
+        "value": "Bronze"
+      },
+      {
+        "trait_type": "Diamonds",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Curly Shoulder Length Black"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "Basic Blue Diamonds Gold"
+      },
+      {
+        "trait_type": "Crown",
+        "value": "Basic Gold"
+      }
+    ]
+  }
+}

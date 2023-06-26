@@ -1,0 +1,37 @@
+{
+  "address": "0x965c51e9368cff73f6b374debadce4162f73e99c",
+  "type": "ERC721",
+  "name": "CODERDANNN",
+  "tokenCount": "25",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=m4NDqqsZP8iE2M1csDhe",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1587917430957?alt=media&token=d3ef79fc-5e19-46a7-9e89-60efe9925a72",
+    "forSale": true,
+    "contractAddress": "0x965c51e9368cff73f6b374debadce4162f73e99c",
+    "description": "Accompanies the Mintbase demo at https://mintbase-auth.now.sh",
+    "tags": [],
+    "amountToMint": 25,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1587917886,
+      "_nanoseconds": 405000000
+    },
+    "price": 0,
+    "name": "DappCon2020 Test Ticket",
+    "fiatPrice": "$0.00",
+    "attributes": [
+      {
+        "trait_type": "website",
+        "value": "https://mintbase-auth.now.sh/"
+      },
+      {
+        "trait_type": "",
+        "value": ""
+      }
+    ],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x965c51e9368cff73f6b374debadce4162f73e99c",
+    "type": "ERC721"
+  }
+}

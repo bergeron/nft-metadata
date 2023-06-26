@@ -1,0 +1,44 @@
+{
+  "address": "0xd781817cd51e6cd666865b8a237de643bc5f95a5",
+  "type": "ERC721",
+  "name": "The Satellite Project by TLN",
+  "tokenCount": "20",
+  "uri": "https://tsp.theutilitycompany.co/metadata/1/1/metadata.json",
+  "metadata": {
+    "name": "Batch 1 Spot 1",
+    "description": "",
+    "image": "https://storage.googleapis.com/tgl_cdn/images/Batch1.png",
+    "animation_url": "https://storage.googleapis.com/tgl_cdn/animations/seedling/Batch1/spot1/water_video_seedling.mp4",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Batch No",
+        "value": "1"
+      },
+      {
+        "trait_type": "Spot No",
+        "value": "1"
+      },
+      {
+        "trait_type": "pH Level",
+        "value": "6"
+      },
+      {
+        "trait_type": "Nutrients",
+        "value": "0.99"
+      },
+      {
+        "trait_type": "Water Temperature",
+        "value": "71"
+      },
+      {
+        "trait_type": "Strain",
+        "value": "GG4"
+      },
+      {
+        "trait_type": "Grow Phase",
+        "value": "seedling"
+      }
+    ]
+  }
+}

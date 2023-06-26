@@ -1,0 +1,52 @@
+{
+  "address": "0xd5faf14b2aaf1a2164a61449531433982d09b3ec",
+  "type": "ERC721",
+  "name": "Pigs Of Anarchy",
+  "tokenCount": "333",
+  "uri": "https://api-mint.pigsofanarchy.io/token/1",
+  "metadata": {
+    "name": "POA #1",
+    "image": "https://assets.wenmint.com/images/pigsofanarchy/1.png",
+    "description": "1 Entry into the massive holder giveaways!",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Pig Color",
+        "value": "Original Pig"
+      },
+      {
+        "trait_type": "Tattoos Sweat",
+        "value": "Tribal Tat"
+      },
+      {
+        "trait_type": "Shirts",
+        "value": "Bacon Tshirt"
+      },
+      {
+        "trait_type": "Jackets",
+        "value": "Brown Jacket"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "Smiling Face"
+      },
+      {
+        "trait_type": "Mouthpieces",
+        "value": "Joint"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Reading Glasses"
+      },
+      {
+        "trait_type": "Hair Head",
+        "value": "Green Cap"
+      }
+    ],
+    "compiler": "nft-inator.com"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "address": "0x0b23ad11e92fdf87eb5c9b0f24b9860f9c4689ee",
+  "type": "ERC721",
+  "name": "NONCON 2020",
+  "tokenCount": "200",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=OjZ2GaixwXmjOwM6Tgsw",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1585861606131?alt=media&token=a9d10458-e9a0-4f03-8d12-4b7ab7b18422",
+    "forSale": true,
+    "contractAddress": "0x0b23ad11e92fdf87eb5c9b0f24b9860f9c4689ee",
+    "description": "The BitBox02 is a Swiss made, fully open source hardware wallet that enables you to independently generate and securely store your private keys to access and transact crypto assets. It comes in two editions, giving you the choice to either maximize your crypto options or to minimize the attack surface when hodling only Bitcoin. \n\nThe BitBox02-Multi edition natively supports Bitcoin (BTC), Litecoin (LTC), Ethereum (ETH) and ERC-20 tokens. It can also be used as a second factor authenticator to secure accounts on many websites (https://www.dongleauth.info/). \n\nThe BitBox02 features an OLED screen to verify and confirm all transaction details before signing, and invisible touch sliders to make navigation of the device fast and simple. Backups are automatically saved onto the complimentary micro SDcard, with an option to copy a standardized BIP-39 mnemonic seed onto a paper backup. The dual-chip design is one highlight of the overhauled and independently audited security architecture (https://shiftcrypto.ch/bitbox02/security-features/). The USB-C connector makes the device mobile ready and can be paired with the BitBoxApp (https://shiftcrypto.ch/app/) for Android, recently launched in early access.",
+    "tags": [],
+    "amountToMint": 25,
+    "numAvailable": 0,
+    "minter": "",
+    "mintedOn": {
+      "_seconds": 1585861802,
+      "_nanoseconds": 933000000
+    },
+    "price": "0.071",
+    "name": "Shift Crypto Wallet",
+    "fiatPrice": "$9.98",
+    "attributes": [],
+    "minted": "Minted on Mintbase.io",
+    "external_url": "https://mintbase.io/my-market/0x0b23ad11e92fdf87eb5c9b0f24b9860f9c4689ee",
+    "type": "ERC721"
+  }
+}

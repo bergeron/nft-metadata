@@ -1,0 +1,47 @@
+{
+  "address": "0x6c7b77aa727900ae04d28944ac1eb62a7838a942",
+  "type": "ERC721",
+  "name": "BEDU NFT Showcase ERC-721",
+  "tokenCount": "4",
+  "uri": "ipfs://QmNUuzXa17EQFeLFP783Nyedo3jbNe4z8vaRA2FjFsE6Qo/1.json",
+  "metadata": {
+    "name": "BEDU NFT Showcase ERC-721 cat #1",
+    "description": "BEDU NFT Showcase ERC-721 (cats)",
+    "image": "ipfs://QmWfYMLG1GgJm8YcZ6K6oXN4ze7BrksCLpLo4BgQbwbCS2/1.jpg",
+    "external_url": "https://www.google.com/",
+    "background_color": "ff0000",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Big"
+      },
+      {
+        "trait_type": "Level",
+        "value": 5
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 1.4
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Aqua Power",
+        "value": 40
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Stamina Increase",
+        "value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 2
+      }
+    ]
+  }
+}

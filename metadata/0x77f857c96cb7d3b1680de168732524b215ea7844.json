@@ -1,0 +1,38 @@
+{
+  "address": "0x77f857c96cb7d3b1680de168732524b215ea7844",
+  "type": "ERC721",
+  "name": "Unordinal UINTS",
+  "tokenCount": "999",
+  "uri": "ipfs://bafybeifmjkz5y4se2ls2cstn6hmncva3dwna2uxcgmgrqcm3jiayfqefsi/1.json",
+  "metadata": {
+    "name": "Unordinal UINTS #1",
+    "description": "Numbers are art, and we are artists.",
+    "image": "ipfs://bafybeigfqu77jqdruxeyntztwaphm6ygztwe5slaxilpts5ktqs227huh4/1.png",
+    "dna": "230cae06739496c9ce3970eed3bfdc622eb32960",
+    "edition": 1,
+    "date": 1676311298316,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "unordinal"
+      },
+      {
+        "trait_type": "gen",
+        "value": "1"
+      },
+      {
+        "trait_type": "part 1",
+        "value": "9"
+      },
+      {
+        "trait_type": "part 2",
+        "value": "4"
+      },
+      {
+        "trait_type": "part 3",
+        "value": "7"
+      }
+    ],
+    "compiler": "Unordinals"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "address": "0xcf3a65864dfb6d4aeaaa93dde66ad3deb227c3e3",
+  "type": "ERC721",
+  "name": "EXO - P2E GAME",
+  "tokenCount": "10090",
+  "uri": "https://5h5jydmla4qvcjvmdgcgnnkdhy0ddrod.lambda-url.us-east-2.on.aws/?id=1&data=\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "metadata": {
+    "description": "A collection of 9,999 planets in the EXO P2E metaverse game. Evolve your planet and conquer the galaxy!",
+    "animation_url": "https://exo-cdn.s3.amazonaws.com/avatar?id=1&name=Mars&active=false",
+    "image": "https://exo-cdn.s3.amazonaws.com/planet-gif-hq/00001.mp4.gif",
+    "external_url": "https://exo.game",
+    "name": "EXO #1",
+    "civName": "Mars",
+    "attributes": [
+      {
+        "trait_type": "PLANET TYPE",
+        "value": "Desert"
+      },
+      {
+        "trait_type": "civilization",
+        "value": "DORMANT"
+      },
+      {
+        "trait_type": "diamond",
+        "value": "medium"
+      },
+      {
+        "trait_type": "darksteel",
+        "value": "low"
+      },
+      {
+        "trait_type": "cobalt",
+        "value": "low"
+      },
+      {
+        "trait_type": "element-x",
+        "value": "extremely low"
+      },
+      {
+        "trait_type": "helium-3",
+        "value": "none"
+      },
+      {
+        "trait_type": "aluminum",
+        "value": "medium"
+      },
+      {
+        "trait_type": "legendary",
+        "value": "yes"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Attack",
+        "value": 0
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Defense",
+        "value": 0
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Reach",
+        "value": 0
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Luck",
+        "value": 0
+      }
+    ]
+  }
+}

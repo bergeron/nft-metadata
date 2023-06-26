@@ -1,0 +1,25 @@
+{
+  "address": "0x238e64a8fbbcd61149a66b227db3917c4e50851a",
+  "type": "ERC721",
+  "name": "agoston nagy - open series",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/LFhuCzlOLn3he2Pyi1BAcWHamhdBtY05foXhh5h5mMw",
+  "metadata": {
+    "name": "Tessel Tree",
+    "created_by": "agoston nagy",
+    "description": "L-system tessellations:\n\nangle = 90  \nseq = [\"+XX\",\"-XX\",\"+X-X\",\"+X+X\",\"-X-X\"]  \nrule = `F[${random(seq)}]-[${random(seq)}]-X+[FFFFFF-X]`  \nIterations = 3",
+    "animation_url": "https://gateway.pinata.cloud/ipfs/QmRQKTqeYRyt3YsVUaSgQKqHontnbShYSTvpCQSb18SZ51",
+    "animation_details": {
+      "format": "HTML"
+    },
+    "image_details": {
+      "bytes": 335106,
+      "format": "PNG",
+      "sha256": "1794dcb2f84e689b8b11a57879f21b0470da6bb636c961c6de8bb5628194434d",
+      "width": 1840,
+      "height": 1871
+    },
+    "image": "https://arweave.net/MDoYDhnRjP145ldGt_RukT2oQvnKC_zENE1uJVzlVKE",
+    "image_url": "https://arweave.net/MDoYDhnRjP145ldGt_RukT2oQvnKC_zENE1uJVzlVKE"
+  }
+}

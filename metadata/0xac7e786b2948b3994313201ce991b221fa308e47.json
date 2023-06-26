@@ -1,0 +1,49 @@
+{
+  "address": "0xac7e786b2948b3994313201ce991b221fa308e47",
+  "type": "ERC721",
+  "name": "TY",
+  "tokenCount": "20",
+  "uri": "https://arweave.net/LTRoBKf5W4paavWQHZYyFooyUEL7sysCi2-OSfbAlUo",
+  "metadata": {
+    "name": "Destiny Awaits",
+    "created_by": "TY",
+    "description": "It's time.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "TY"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "My Closet"
+      },
+      {
+        "trait_type": "Artwork #",
+        "value": "1"
+      }
+    ],
+    "animation_details": {
+      "bytes": 5632038,
+      "format": "MP4",
+      "duration": 9,
+      "sha256": "d92c0baf4f3056597984ce58dfd569ea2dbe010de9c97b542ce069f4e67d900e",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/a-3f_jSXPGpRGwVT1EQ6P2Nxh85LmkQtCEt8daqawIY",
+    "animation_url": "https://arweave.net/a-3f_jSXPGpRGwVT1EQ6P2Nxh85LmkQtCEt8daqawIY",
+    "image_details": {
+      "bytes": 365055,
+      "format": "JPEG",
+      "sha256": "33326dfe9e29bb0045936ebfb6c6f44e019239f2c52e9745670b3f1a52e4b610",
+      "width": 1080,
+      "height": 1080
+    },
+    "image": "https://arweave.net/46LtS7AY9DTIOKvEiKmw7gEq_D50zcd5Ac2rNW5RQNA",
+    "image_url": "https://arweave.net/46LtS7AY9DTIOKvEiKmw7gEq_D50zcd5Ac2rNW5RQNA"
+  }
+}

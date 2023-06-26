@@ -1,0 +1,61 @@
+{
+  "address": "0x6d6a82ded1b4c0946d7022f4cfea1ffd4a8d6694",
+  "type": "ERC721",
+  "name": "1210lkjsafdasf",
+  "tokenCount": "120",
+  "uri": "https://api.artblocks.io/token/383000001",
+  "metadata": {
+    "platform": "Art Blocks Curated",
+    "tokenID": "383000001",
+    "series": "N/A",
+    "aspect_ratio": 1.78,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Pre-Process #1",
+    "minted": true,
+    "artist": "Casey REAS",
+    "description": "Ways of knowing...\nWays of seeing…\n\nI can trace the origin of *Pre-Process* back to a Saturday afternoon in 2003 when I was sketching—first on paper, and then with code. I began by drawing circles, then connecting their center points, and then placing the circles in motion as coded animation. At that time, I was focused on *ideas* and not *images*—specifically, on dynamic systems and the ways a set of elements relate to each other within an imagined environment. I was working through questions about how to experience these systems and what might be an ideal (or interesting) way to engage with them. \n\nThe ideas and code from this session later became the core of much of my subsequent work: including the foundation for the *Process* series of software, prints, and installations and the more recent *Process Compendium* works. *Pre-Process* pulls these origin points back into focus, develops them with what I’ve learned in the intervening years, and puts them on the blockchain to be archived. I consider the project a Rosetta Stone for my practice. It asks fundamental questions about the relationships between process and end result, including: Where is the aesthetic focus of a generative system? Is it deep within the code or within the picture the system creates?\n\nUltimately, *Pre-Process* emphasizes experiencing the origin of the system and then transitioning with it as it seeks, but never finds, equilibrium. The system is built around Element 1, the first that I created for the *Process* series:\n\n*Element 1: Form 1 + Behavior 1 + Behavior 2 + Behavior 3 + Behavior 4\nForm 1: Circle\nBehavior 1: Move in a straight line\nBehavior 2: Constrain to surface\nBehavior 3: Change direction while touching another Element\nBehavior 4: Move away from an overlapping Element*\n\n*Pre-Process* is the origin of a long journey that I’m still on. It continues to ask essential questions and to encourage me to explore possibilities. Through it, I came to realize that I was ultimately more a picture-maker than a conceptual artist, or, the way I like to think about it,  I’m a “conceptual artist” with a small ‘c.’ I want the energy to be with the system (the ideas) *and* the surface (the picture) in equal measure. More directly, the work exists *between* the instructions, the performance and interpretation of the instructions, and the resulting images.",
+    "script_type": "p5@1.0.0",
+    "project_id": "383",
+    "curation_status": "curated",
+    "image": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/383000001.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/383000001.png",
+    "generator_url": "https://generator.artblocks.io/383000001",
+    "animation_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/383000001",
+    "royaltyInfo": {
+      "artistAddress": "0x457ee5f723c7606c12a7264b52e285906f91eea6",
+      "additionalPayee": "0x84e57978e740a8b11ddabf7527854138c1601782",
+      "additionalPayeePercentage": 25,
+      "royaltyFeeByID": 5
+    },
+    "collection_name": "Pre-Process by Casey REAS",
+    "website": "https://reas.com",
+    "token_hash": "0x43a247f9300092e82a823bce09416f0db0dc32631fb5844d8f9c874a8f91a9c0",
+    "external_url": "https://artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/383/tokens/383000001",
+    "primary_asset_url": "https://generator.artblocks.io/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/383000001",
+    "features": {
+      "Growth": 2,
+      "Origin": 2,
+      "Surface": 2
+    },
+    "traits": [
+      {
+        "trait_type": "Pre-Process",
+        "value": "All Pre-Process"
+      },
+      {
+        "trait_type": "Pre-Process",
+        "value": "Growth: 2"
+      },
+      {
+        "trait_type": "Pre-Process",
+        "value": "Origin: 2"
+      },
+      {
+        "trait_type": "Pre-Process",
+        "value": "Surface: 2"
+      }
+    ],
+    "is_static": false,
+    "license": "CC BY-NC 4.0"
+  }
+}

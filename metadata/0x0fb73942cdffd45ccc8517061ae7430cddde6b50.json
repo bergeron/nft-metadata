@@ -1,0 +1,34 @@
+{
+  "address": "0x0fb73942cdffd45ccc8517061ae7430cddde6b50",
+  "type": "ERC721",
+  "name": "Constitution Fractionalized",
+  "tokenCount": "1028",
+  "uri": "ipfs://QmPW81HWu1ji1PgCWXwBNyjFgnrpJYGnZEi6fqLKP9FyUN/1",
+  "metadata": {
+    "name": "Constitution Fractionalized #2",
+    "description": "Fractions of page 2 from the constitution, the #2 token in the Constituion Fractionalized collection.",
+    "artist": "Y4000",
+    "image": "ipfs://QmSLezrHBXAUm6it4FQJA1Gk31wSg9Qp5EYGS8opFoWjXQ",
+    "edition": 2,
+    "attributes": [
+      {
+        "trait_type": "Page",
+        "value": "2"
+      },
+      {
+        "trait_type": "Background Color",
+        "value": "mauve"
+      },
+      {
+        "trait_type": "Fraction Size",
+        "value": "tiny"
+      },
+      {
+        "trait_type": "Density",
+        "value": "69%"
+      }
+    ],
+    "license": "NFT 2.0",
+    "compiler": "Y4000 Generative Art Compiler"
+  }
+}

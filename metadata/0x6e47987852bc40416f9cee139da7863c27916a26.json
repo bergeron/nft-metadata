@@ -1,0 +1,69 @@
+{
+  "address": "0x6e47987852bc40416f9cee139da7863c27916a26",
+  "type": "ERC721",
+  "name": "Roaring Tiger Golf Club",
+  "tokenCount": "1100",
+  "uri": "https://ipfs.io/ipfs/QmQar3iJcCFFzbhRhQLdgRzr7mRWTqQXHZD4JvibGfLLmW/1",
+  "metadata": {
+    "name": "Roaring Tiger Golf Club #1",
+    "description": "Roaring Tiger Golf Club NFT",
+    "image": "https://ipfs.io/ipfs/QmRJeZpDD5wboE6HhaPqTobvAaauJkj1Df2zbxfkqXEmzm/2.png",
+    "dna": "ecf617e3d1b9784786257c64f8c5e4126cfa59c7",
+    "edition": 2,
+    "date": 1669131642084,
+    "seller_fee_basis_points": 800,
+    "collection": {
+      "name": "Roaring Tiger Golf Club",
+      "family": "Roaring Tiger Golf Club NFT"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x6B065e8fbd6c936Bc6E772e9e4E264746e5126e2",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Light_Blue"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watch",
+        "value": "No Watch"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Blue Hoodie"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Golf Shoes"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Blue Headband"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Regular"
+      }
+    ]
+  }
+}

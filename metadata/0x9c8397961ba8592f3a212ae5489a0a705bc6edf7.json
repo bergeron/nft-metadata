@@ -1,0 +1,26 @@
+{
+  "address": "0x9c8397961ba8592f3a212ae5489a0a705bc6edf7",
+  "type": "ERC721",
+  "name": "StudioUno Frases",
+  "tokenCount": "39",
+  "uri": "https://us-central1-studiouno-production.cloudfunctions.net/api/tokens/frases/1",
+  "metadata": {
+    "platform": "StudioUno",
+    "tokenID": "1",
+    "image": "https://storage.googleapis.com/frases-production/love.png",
+    "external_url": "https://studiouno-production.web.app/tokens/frases/1",
+    "name": "StudioUno - Frases #1 (LOVE)",
+    "artist": "Xander Blue",
+    "description": "This piece of Geometric Expressionism entitled “LOVE” beautifully exemplifies Xander’s artistic vision.",
+    "attributes": [
+      {
+        "trait_type": "Frase",
+        "value": "LOVE"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Xander Blue"
+      }
+    ]
+  }
+}

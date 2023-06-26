@@ -1,0 +1,33 @@
+{
+  "address": "0xdd25f7aff6a593af59f3573c1f914ae8323f7df7",
+  "type": "ERC721",
+  "name": "GM by Anna Condo",
+  "tokenCount": "71",
+  "uri": "https://chaincards-be.herokuapp.com/get-metaData/0xdd25F7AfF6A593aF59F3573c1F914AE8323f7df7/1",
+  "metadata": {
+    "name": "GM - Anna Condo",
+    "description": "ChainCards reimagines greeting cards through NFT technology, offering limited edition, seasonally themed collections created by talented artists. Our platform supports artists in the digital economy and fosters connections across the globe. For the best viewing experience, explore your NFT cards at chaincards.io.",
+    "imageUrl": "https://chaincards-imgs.s3.us-west-2.amazonaws.com/ChainCards+-+Anna+Condo+-+GM.jpg",
+    "animation_url": "https://chaincards-be.herokuapp.com/get-htmlContentForNft/0xdd25F7AfF6A593aF59F3573c1F914AE8323f7df7/1",
+    "tokenId": "1",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Anna Condo"
+      },
+      {
+        "trait_type": "Edition size",
+        "value": 1000
+      },
+      {
+        "trait_type": "Series",
+        "value": "GM"
+      },
+      {
+        "trait_type": "Category",
+        "value": "AI"
+      }
+    ],
+    "status": "purchased"
+  }
+}

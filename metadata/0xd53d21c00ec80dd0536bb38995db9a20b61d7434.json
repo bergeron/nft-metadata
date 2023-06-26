@@ -1,0 +1,44 @@
+{
+  "address": "0xd53d21c00ec80dd0536bb38995db9a20b61d7434",
+  "type": "ERC721",
+  "name": "Mind-Les-Ai",
+  "tokenCount": "7",
+  "uri": "https://us-central1-thing-1d2be.cloudfunctions.net/getThing?thingId=eKrjthuVXNTYnvgJNLJB",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/thing-1d2be.appspot.com/o/token%2Fasset-1590429730559?alt=media&token=051d913c-9746-4606-b6a1-9f0a8ab96609",
+    "forSale": true,
+    "description": "Mind-Les-Ai-Gen1",
+    "contractAddress": "0xd53d21c00ec80dd0536bb38995db9a20b61d7434",
+    "ethPrice": "0.77",
+    "amountToMint": "1",
+    "minter": "0xccd17ad819c4c71f41e31157eb316b4a843ef0be",
+    "mintedOn": {
+      "_seconds": 1590430348,
+      "_nanoseconds": 302000000
+    },
+    "price": "$0.00",
+    "name": "FfE-Arn-00",
+    "fiatPrice": "$157.43",
+    "minted": "Minted on Mintbase.io",
+    "category": "alJuInV4dezvHTNU8Dp1",
+    "youtube_url": "",
+    "external_url": "https://mintbase.io/my-market/0xd53d21c00ec80dd0536bb38995db9a20b61d7434",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "eKrjthuVXNTYnvgJNLJB"
+      },
+      {
+        "trait_type": "Start Date",
+        "display_type": "date",
+        "value": 1590357600
+      },
+      {
+        "trait_type": "End Date",
+        "display_type": "date",
+        "value": 1590357600
+      }
+    ],
+    "type": "ERC721"
+  }
+}

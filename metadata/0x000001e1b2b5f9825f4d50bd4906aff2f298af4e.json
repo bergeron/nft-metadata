@@ -1,0 +1,45 @@
+{
+  "address": "0x000001e1b2b5f9825f4d50bd4906aff2f298af4e",
+  "type": "ERC721",
+  "name": "Imbued Art",
+  "tokenCount": "312",
+  "uri": "https://api.imbuedart.com/api/token/1",
+  "metadata": {
+    "image": "https://gateway.pinata.cloud/ipfs/QmXCg3m569MjM23ukDSAXo8DLzYRW5KupKRubdPdELLmzV/1.jpg",
+    "name": "Imbued with Love, Photo NFT #1",
+    "description": "Imbued with Love is the first piece in the Imbued collection. It honors passionate love, infatuation, the kind of love you project onto others. The pattern is based on a knitting made by Malin's mother, for her granddaughter.\n\nThese 99 photographic NFTs invite their owners to a Love meditation, where they get to dedicate their love, through words on the blockchain. The physical art piece uses these words of love to generate the patterns flowing through the fabric.\n\nTo enter the ritual, go to http://www.imbuedart.com and log in.",
+    "collection_name": "Imbued Weaves",
+    "tokenID": 1,
+    "website": "https://www.imbuedart.com/nft/1",
+    "aspect_ratio": 1.4382022471910112,
+    "is_dynamic": true,
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Edition",
+        "value": 1,
+        "max_value": 7
+      },
+      {
+        "trait_type": "Type",
+        "value": "Photo NFT"
+      },
+      {
+        "trait_type": "Emotion",
+        "value": "Love"
+      },
+      {
+        "trait_type": "Imbuements",
+        "value": "1"
+      },
+      {
+        "trait_type": "Last imbued with",
+        "value": "Frej, Iris, Malin, Gustaf"
+      },
+      {
+        "trait_type": "Last imbued by",
+        "value": "0xF55DBe114957eAeC2BF06c651B680aDfE39dd581"
+      }
+    ]
+  }
+}

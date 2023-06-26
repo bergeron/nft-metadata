@@ -1,0 +1,47 @@
+{
+  "address": "0xd4b1434d0bd294b95dd9dc1e350c19ed24710c39",
+  "type": "ERC721",
+  "name": "Mon3drian",
+  "tokenCount": "25",
+  "uri": "https://arweave.net/4YDugyUV5jlpcxCecNZ-sHtf1xkCqo9qx1FK85TNiVQ",
+  "metadata": {
+    "name": "Mon3drian Composition #01",
+    "created_by": "mon3drian",
+    "description": "Mon3drian Composition #01  \nAn art lover inspired by mondrian's art What would mondrian look like if he lived today and created his works with new technology and a new art perspective?  \n1/1 Art  \n3840*2142 MP4  \n30fps  \n10 Sec  \nColour:Red  \nCinema 4d & Keyshot 11  \nmon3drian  \n2022",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "mon3drian"
+      },
+      {
+        "trait_type": "Colour",
+        "value": "Red"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Frame",
+        "value": "3840",
+        "max_value": "2142"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Number",
+        "value": "01"
+      }
+    ],
+    "animation_details": {
+      "bytes": 10277662,
+      "format": "MP4",
+      "duration": 10,
+      "sha256": "327b6495883be68a5c01eee37225944e4a69e7a2ea8aed380b3a6d5740c32b14",
+      "width": 3840,
+      "height": 2142,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/DsrUju3WivEeqet3p3rHgoNbRIDmQHwluPtAUFwWbDk",
+    "animation_url": "https://arweave.net/DsrUju3WivEeqet3p3rHgoNbRIDmQHwluPtAUFwWbDk"
+  }
+}

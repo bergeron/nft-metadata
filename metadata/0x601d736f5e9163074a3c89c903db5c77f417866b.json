@@ -1,0 +1,23 @@
+{
+  "address": "0x601d736f5e9163074a3c89c903db5c77f417866b",
+  "type": "ERC1155",
+  "name": "Pocket Protect",
+  "tokenCount": "2",
+  "uri": "ipfs://bafybeihgkm3xgg7ostoflplckol5tdry5w3nvr2c2v7cgqfpnwh44hvuoy/1",
+  "metadata": {
+    "id": 1,
+    "name": "Protected",
+    "description": "Now you're even safer! Holding this token increases your coverage limit in the Pocket Protect program to 250 $USDC. Make sure you have Pocket Universe installed and understand the coverage terms.",
+    "attributes": [
+      {
+        "trait_type": "Coverage Limit",
+        "value": "250 USDC"
+      },
+      {
+        "trait_type": "Expiry Date",
+        "value": "1st June 2023"
+      }
+    ],
+    "image": "ipfs://bafybeigcd7jzji3ncpxnuenf6flw2ojh6h6svjsl2swiusg4yb5yvtoe3e/1"
+  }
+}

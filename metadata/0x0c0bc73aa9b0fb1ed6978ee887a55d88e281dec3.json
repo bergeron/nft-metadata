@@ -1,0 +1,30 @@
+{
+  "address": "0x0c0bc73aa9b0fb1ed6978ee887a55d88e281dec3",
+  "type": "ERC721",
+  "name": "KAMON-test",
+  "tokenCount": "3",
+  "uri": "ipfs://bafybeif34y7mikwfwfoc65vmtaxzhekcikklva27bxqda3snn5dlecbiem/1.json",
+  "metadata": {
+    "name": "KAMON #1",
+    "description": "Traditional and contemporary collections",
+    "image": "ipfs://bafybeidtupr46ryrzcwhlj2qcemo3i3x5jzo7v7s6io3ihfhmwhuhnsvzi/1.png",
+    "dna": "98b8f04d90ea38e8cc16ad9115e5cce3cf8ec15e",
+    "edition": 1,
+    "date": 1682583474453,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "03"
+      },
+      {
+        "trait_type": "kamon",
+        "value": "18"
+      },
+      {
+        "trait_type": "item",
+        "value": "07"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

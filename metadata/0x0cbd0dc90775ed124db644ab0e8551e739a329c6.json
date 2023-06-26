@@ -1,0 +1,50 @@
+{
+  "address": "0x0cbd0dc90775ed124db644ab0e8551e739a329c6",
+  "type": "ERC721",
+  "name": "The Trees Season 2",
+  "tokenCount": "16",
+  "uri": "https://arweave.net/pa1PF1XY6M_Qd1FEgnNT3n5qyvvYkI-DMHJgg2guchs",
+  "metadata": {
+    "name": "The Dystopian Tree",
+    "created_by": "4th Perspective",
+    "description": "A beautiful depiction of nature inside a futuristic dystopia",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Season",
+        "value": "2"
+      },
+      {
+        "trait_type": "Animated",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Hue",
+        "value": "Blue"
+      }
+    ],
+    "animation_details": {
+      "bytes": 24691170,
+      "format": "MP4",
+      "duration": 18,
+      "sha256": "68094c0f4b1078fb21a4fc52726b5a687552a3416c0a59f92cc1a7d07c9bacac",
+      "width": 2160,
+      "height": 2880,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/Aovk0jYzQ7ItoVqh7oG_4ZLgTJ-Jj2gQby7Hx8TbHJY",
+    "animation_url": "https://arweave.net/Aovk0jYzQ7ItoVqh7oG_4ZLgTJ-Jj2gQby7Hx8TbHJY",
+    "image_details": {
+      "bytes": 15114650,
+      "format": "PNG",
+      "sha256": "f1b6c5753b364f617ffba58c4db6cf4da64599fd3d49ecfbf1532470cd321384",
+      "width": 1536,
+      "height": 2048
+    },
+    "image": "https://arweave.net/7GbuuvvxTqPEfZgHSKcjJ8LyTaO78EzKF2h-EoMGTS8",
+    "image_url": "https://arweave.net/7GbuuvvxTqPEfZgHSKcjJ8LyTaO78EzKF2h-EoMGTS8"
+  }
+}

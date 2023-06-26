@@ -1,0 +1,45 @@
+{
+  "address": "0x18487d2cac946c7fe800855c4039aac210f68baa",
+  "type": "ERC721",
+  "name": "Generative Dungeon",
+  "tokenCount": "3000",
+  "uri": "https://metadata.generativedungeon.com/1",
+  "metadata": {
+    "platform": "Generative Dungeon",
+    "name": "Dungeon #1",
+    "background_color": "000000",
+    "curation_status": "curated",
+    "series": "1",
+    "description": "Artwork you can play! This is the 1st NFT of the Generative Dungeon series, a collection of iterative, interactive dungeon-themed NFTs. Touch or click the viewport to interact with the NFT. To play in fullscreen, visit https://viewer.generativedungeon.com/1",
+    "external_url": "https://viewer.generativedungeon.com/1",
+    "collection_name": "Generative Dungeon",
+    "attributes": [
+      {
+        "trait_type": "Tileset",
+        "value": "32x32 Orthogonal"
+      },
+      {
+        "trait_type": "Levels",
+        "value": "20 to 49"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Assassin"
+      },
+      {
+        "trait_type": "Start",
+        "value": "Dragon's Den"
+      },
+      {
+        "trait_type": "Scroll",
+        "value": "None"
+      }
+    ],
+    "animation_url": "https://viewer.generativedungeon.com/1",
+    "image": "https://images.generativedungeon.com/1",
+    "interactive_nft": {
+      "code_uri": "https://viewer.generativedungeon.com/1",
+      "version": "1.0"
+    }
+  }
+}

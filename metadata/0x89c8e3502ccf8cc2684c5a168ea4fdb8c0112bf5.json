@@ -1,0 +1,33 @@
+{
+  "address": "0x89c8e3502ccf8cc2684c5a168ea4fdb8c0112bf5",
+  "type": "ERC1155",
+  "name": "Korbit Marketplace",
+  "tokenCount": "12",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmWj8V834DvGsUb2X7FzStRrSkqvJPCwZ4o4koA7Fo2xrR",
+  "metadata": {
+    "name": "Korbit MarketPlace",
+    "description": "Korbit MarketPlace\n\nWe are Korbit.",
+    "image": "ipfs://ipfs/QmWxeLhQiqxieFkNJSkGusaLH9KKCiR75qqFzymm4dHKTb/KORBITMAREKTPLACE.png",
+    "animation_url": "",
+    "external_url": "https://www.korbit.co.kr/",
+    "seller_fee_basis_points": 0,
+    "attributes": [
+      {
+        "value": "Happy",
+        "trait_type": "Mood"
+      },
+      {
+        "value": "DaynNight",
+        "trait_type": "Day"
+      },
+      {
+        "value": "Gangnam",
+        "trait_type": "Place"
+      },
+      {
+        "value": "Sad",
+        "trait_type": "Face"
+      }
+    ]
+  }
+}

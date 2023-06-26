@@ -1,0 +1,56 @@
+{
+  "address": "0x6ca384ce835af15784b88eaae8d8706d9b066b71",
+  "type": "ERC721",
+  "name": "The Lost Fighters",
+  "tokenCount": "41",
+  "uri": "ipfs://Qma8BdWcUHvaVazbdrPNKAMcv6jxeHvyVPGjqhPpr3hS2A/1.json",
+  "metadata": {
+    "name": "NFT's #1",
+    "description": "The finest Luchador Fighters on the Metaverse",
+    "external_url": "ifps://ipfs://QmXjwbHV6EeM33SGLV94GzBi6rfsM3LbDCVRcVagKiPjzV/",
+    "image": "ipfs://QmXjwbHV6EeM33SGLV94GzBi6rfsM3LbDCVRcVagKiPjzV/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bone"
+      },
+      {
+        "trait_type": "bodies",
+        "value": "MEDIUM"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "eye-1"
+      },
+      {
+        "trait_type": "masks",
+        "value": "WW2"
+      },
+      {
+        "trait_type": "nose",
+        "value": "nose-2"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mouth7"
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "Hypno Underground Fight Club",
+      "family": "Hypno Underground Fight Club"
+    },
+    "symbol": ""
+  }
+}

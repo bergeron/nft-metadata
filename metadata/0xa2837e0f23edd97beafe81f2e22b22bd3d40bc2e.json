@@ -1,0 +1,22 @@
+{
+  "address": "0xa2837e0f23edd97beafe81f2e22b22bd3d40bc2e",
+  "type": "ERC721",
+  "name": "Solar Portals",
+  "tokenCount": "12",
+  "uri": "https://us-central1-lamp-a6d75.cloudfunctions.net/app/token/1",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/lamp-a6d75.appspot.com/o/sunset.png?alt=media",
+    "attributes": [
+      {
+        "trait_type": "City",
+        "value": "Los Angeles"
+      },
+      {
+        "trait_type": "Country",
+        "value": "United States of America"
+      }
+    ],
+    "description": "A timeless city on the western cost of the United States where relaxation on a beach is a step away.",
+    "name": "Los Angeles, CA"
+  }
+}

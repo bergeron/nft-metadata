@@ -1,0 +1,45 @@
+{
+  "address": "0xf101430f3c4295958a06b8366e7a097596f2d612",
+  "type": "ERC721",
+  "name": "BLVD",
+  "tokenCount": "198",
+  "uri": "https://raw.githubusercontent.com/BULVRD-Tech/BULVRD.ERC721-Maps/master/season_2/drawing/drawing.json",
+  "metadata": {
+    "name": "BLVD Map Scribble",
+    "image": "https://raw.githubusercontent.com/BULVRD-Tech/BULVRD.ERC721-Maps/master/season_2/drawing/drawing.png",
+    "description": "1 of 1 BULVRD map style, scribbled together.",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "season",
+        "value": 2
+      },
+      {
+        "trait_type": "name",
+        "value": "Scribble"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Day"
+      },
+      {
+        "trait_type": "level",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "supply",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "map_id",
+        "value": 1
+      }
+    ],
+    "external_url": "https://bulvrdapp.com/map_styles",
+    "background_color": "A5A5A5",
+    "styleUrl": "mapbox://styles/bulvrdapp/cjzsv47ar0c981cqehehirqgf",
+    "buildingHex": "#D1D1D1"
+  }
+}

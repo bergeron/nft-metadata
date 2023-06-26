@@ -1,0 +1,41 @@
+{
+  "address": "0x303d3e015d7b032f7167dba7054666268bdf2c21",
+  "type": "ERC721",
+  "name": "Mandelbulb Set Collection - Nth Dimension",
+  "tokenCount": "34",
+  "uri": "ipfs://QmSgQGBQFvTkxxMEjgXr9GU5e4XdG4D417XG8Wn7dL1Ja6/1.json",
+  "metadata": {
+    "attributes": [
+      {
+        "trait_type": "Color Palette",
+        "value": "Moody"
+      },
+      {
+        "trait_type": "Angle Neighborhood",
+        "value": "76.1 , -2.64, 143"
+      },
+      {
+        "trait_type": "Zoom",
+        "value": "Close"
+      },
+      {
+        "trait_type": "Shape",
+        "display_type": "number",
+        "value": 10
+      },
+      {
+        "trait_type": "Limit",
+        "display_type": "number",
+        "value": 1
+      },
+      {
+        "trait_type": "Animation",
+        "value": "None"
+      }
+    ],
+    "image": "ipfs://QmVBZTBkniWZdE9LzUFCoWxV64hCWwVBQUfLhg8mLiP86j/1.png",
+    "description": "Each Mandelbulb is uniquely constructed generatively in Blender with Python script using the hypercomplex mandelbulb formula Z -> Z^n + C. No two Mandelbulbs are exactly identical, to learn more about their construction, join our discord our visit our website!",
+    "name": "Mandelbulb #1",
+    "external_url": "the-nth-dimension.net"
+  }
+}

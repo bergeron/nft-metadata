@@ -1,0 +1,33 @@
+{
+  "address": "0x45296d1b4fe4c07a94da3c2ac4e239ee406965cb",
+  "type": "ERC721",
+  "name": "testaccount0.1",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/vVYiaT1fFFRxUvo1tOE5JVI0w85UWYjDxlye4hb22HU/1",
+  "metadata": {
+    "name": "TTT #1/1000",
+    "created_by": "testaccount0.1",
+    "description": "testaccount",
+    "attributes": [
+      {
+        "trait_type": "colour",
+        "value": "Black"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Length",
+        "value": 1,
+        "max_value": 3
+      }
+    ],
+    "image_details": {
+      "bytes": 1209,
+      "format": "PNG",
+      "sha256": "3ece66a0092b02e347b82401cf4d0770fb3083f3d191071b3274ce597d2a5d36",
+      "width": 424,
+      "height": 202
+    },
+    "image": "https://arweave.net/IDDf1kRUm0oEF8UpB9a3V4drOGubN9AH8xjoGipcb9c",
+    "image_url": "https://arweave.net/IDDf1kRUm0oEF8UpB9a3V4drOGubN9AH8xjoGipcb9c"
+  }
+}

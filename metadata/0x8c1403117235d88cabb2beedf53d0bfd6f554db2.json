@@ -1,0 +1,41 @@
+{
+  "address": "0x8c1403117235d88cabb2beedf53d0bfd6f554db2",
+  "type": "ERC721",
+  "name": "Finale",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/ODFEVWJU4q0zcfbGdoJ99FnU73bC537sICwfZ2xAlVE",
+  "metadata": {
+    "name": "Finale",
+    "created_by": "Del",
+    "description": "When the performance ends and the audience departs,  \nthe theater still echoes.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Del"
+      }
+    ],
+    "image_details": {
+      "bytes": 634850,
+      "format": "PNG",
+      "sha256": "9efee06db097eeb71e9f69bf848eae1f8b2bb49dc4f0b882b20dde0f87ff6e61",
+      "width": 2200,
+      "height": 2200
+    },
+    "image": "https://arweave.net/mJKkGQMAdtlEIX5SerWft-62L_ToG-M_b_18D7odgFI",
+    "image_url": "https://arweave.net/mJKkGQMAdtlEIX5SerWft-62L_ToG-M_b_18D7odgFI",
+    "animation_details": {
+      "bytes": 25386891,
+      "format": "MP4",
+      "duration": 112,
+      "sha256": "d2151aa0fb9c02dce4561046fe4fb77f10e68c0e3b94102fc87665bea5a4ad11",
+      "width": 2200,
+      "height": 2200,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/Sb1b0NZ2sJc0ALmJs7UMb2vcZSIG0tbblOz-jj9uLoo",
+    "animation_url": "https://arweave.net/Sb1b0NZ2sJc0ALmJs7UMb2vcZSIG0tbblOz-jj9uLoo"
+  }
+}

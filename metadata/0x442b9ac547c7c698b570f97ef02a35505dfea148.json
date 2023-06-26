@@ -1,0 +1,27 @@
+{
+  "address": "0x442b9ac547c7c698b570f97ef02a35505dfea148",
+  "type": "ERC721",
+  "name": "Hype Card",
+  "tokenCount": "100",
+  "uri": "https://hypecard.s3.us-west-1.amazonaws.com/Data/1.json",
+  "metadata": {
+    "description": "Hype Card provides HB NFT holders the utility in earning rewards for sweeping, community events and more. Rewards give holders cash back on future mints, merchandise purchases and future perks! Every transaction is stored on our public ledger to provide our community with transparent bookkeeping. Public Ledger - https://tinyurl.com/y574t45d",
+    "external_url": "https://hypebeasts.io/",
+    "image": "https://hypecard.s3.us-west-1.amazonaws.com/Images/1.png",
+    "name": "1",
+    "attributes": [
+      {
+        "trait_type": "Holder Name",
+        "value": "Short Round Dub"
+      },
+      {
+        "trait_type": "Owned Token",
+        "value": "Holiday Beast 225"
+      },
+      {
+        "trait_type": "Reward Total",
+        "value": "$3.73"
+      }
+    ]
+  }
+}

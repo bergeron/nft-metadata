@@ -1,0 +1,80 @@
+{
+  "address": "0x7c37463aa592c85c56069dc6d00685cd09b6a719",
+  "type": "ERC721",
+  "name": "Ether Legends",
+  "tokenCount": "676",
+  "uri": "https://www.etherlegends.com/metadata/menandbeasts/014_Clarise.json",
+  "metadata": {
+    "name": "Clarise 'Lil Red' O'Flanny",
+    "image": "https://www.etherlegends.com/tradingcards/menandbeasts/014_Clarise.png",
+    "description": "Fiery temper, true aim.",
+    "external_url": "https://www.etherlegends.com",
+    "attributes": [
+      {
+        "trait_type": "game",
+        "value": "Ether Legends"
+      },
+      {
+        "trait_type": "set",
+        "value": "Men and Beasts"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "type",
+        "value": "Character"
+      },
+      {
+        "trait_type": "element_1",
+        "value": "Air"
+      },
+      {
+        "trait_type": "strength_1",
+        "value": "Disrupt"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "number",
+        "value": 14,
+        "max_value": 39
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "elementeum",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "attack",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "defense",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heal",
+        "value": 2
+      },
+      {
+        "display_type": "number",
+        "trait_type": "disrupt",
+        "value": 4
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heart",
+        "value": 12
+      }
+    ]
+  }
+}

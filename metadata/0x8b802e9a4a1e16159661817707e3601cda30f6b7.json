@@ -1,0 +1,80 @@
+{
+  "address": "0x8b802e9a4a1e16159661817707e3601cda30f6b7",
+  "type": "ERC721",
+  "name": "Ether Legends",
+  "tokenCount": "225",
+  "uri": "https://www.etherlegends.com/metadata/menandbeasts/008_Milo.json",
+  "metadata": {
+    "name": "Milo 'The Invincible'",
+    "image": "https://www.etherlegends.com/tradingcards/menandbeasts/008_Milo.png",
+    "description": "I. See. You. Hur. Hur. Hur.",
+    "external_url": "https://www.etherlegends.com",
+    "attributes": [
+      {
+        "trait_type": "game",
+        "value": "Ether Legends"
+      },
+      {
+        "trait_type": "set",
+        "value": "Men and Beasts"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "type",
+        "value": "Character"
+      },
+      {
+        "trait_type": "element_1",
+        "value": "Air"
+      },
+      {
+        "trait_type": "strength_1",
+        "value": "Disrupt"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "number",
+        "value": 8,
+        "max_value": 39
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": "elementeum",
+        "value": 4
+      },
+      {
+        "display_type": "number",
+        "trait_type": "attack",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "defense",
+        "value": 1
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heal",
+        "value": 3
+      },
+      {
+        "display_type": "number",
+        "trait_type": "disrupt",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "heart",
+        "value": 13
+      }
+    ]
+  }
+}

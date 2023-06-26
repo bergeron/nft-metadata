@@ -1,0 +1,27 @@
+{
+  "address": "0x14b76bf1c4cea69a5336f2bc81b0fb0172f0ef2a",
+  "type": "ERC721",
+  "name": "Spooky Newsies",
+  "tokenCount": "9",
+  "uri": "ipfs://QmV4EMj7YxcQ2H8tsmohXtsG2HBpfLXmNcYSAnjPii1CKR/1.json",
+  "metadata": {
+    "name": "Steve",
+    "description": "Spooky Newsie",
+    "image": "ipfs://QmRqzBkkwMmVS9dUz6b9yQ36UJkxsxwZnwekEYKzmc3FyK/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Blood type",
+        "value": "O+"
+      },
+      {
+        "trait_type": "Lifespan",
+        "value": "72"
+      },
+      {
+        "trait_type": "Cause of death",
+        "value": "Gunfight with the Pope."
+      }
+    ]
+  }
+}

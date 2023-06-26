@@ -1,0 +1,42 @@
+{
+  "address": "0xb2815f55f35a33aeefd7f872a883bfd854e863d1",
+  "type": "ERC721",
+  "name": "Pumpkins Nightmare Party",
+  "tokenCount": "210",
+  "uri": "ipfs://bafybeibvkqhhxfibbmkhrceysxerv5kh5iduul2mm5jprrqsxbjpgxhpay/1.json",
+  "metadata": {
+    "name": "Pumpkins Nightmare Party #1",
+    "description": "Having a party? Are you prepared? On Halloween night, we at the Pumpkins Nightmare Party are prepared to provide you with terror!",
+    "image": "ipfs://bafybeidvqp7ydrg3ly36bvxv4cv6d2xbippmus24jcmtaaele3ukizoeym/1.png",
+    "dna": "282d428f11f420efe9bfd38db619163ed5885d6a",
+    "edition": 1,
+    "date": 1666550565969,
+    "attributes": [
+      {
+        "trait_type": "Brutal",
+        "value": "Devilish"
+      },
+      {
+        "trait_type": "Cruel",
+        "value": "Feast"
+      },
+      {
+        "trait_type": "Cult",
+        "value": "Burial"
+      },
+      {
+        "trait_type": "Evil",
+        "value": "Scareorama"
+      },
+      {
+        "trait_type": "Insane",
+        "value": "Demons"
+      },
+      {
+        "trait_type": "Terror",
+        "value": "Twilight"
+      }
+    ],
+    "compiler": "The thirdweb Art Engine"
+  }
+}

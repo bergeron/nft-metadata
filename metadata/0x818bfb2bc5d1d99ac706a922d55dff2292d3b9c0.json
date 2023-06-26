@@ -1,0 +1,58 @@
+{
+  "address": "0x818bfb2bc5d1d99ac706a922d55dff2292d3b9c0",
+  "type": "ERC721",
+  "name": "Degen Golf Club",
+  "tokenCount": "2",
+  "uri": "https://bafybeibopqtatwtknh6erwfzupxf4rm3aci5diybitblkfsuntt6drzzge.ipfs.w3s.link/1.json",
+  "metadata": {
+    "name": "Degen Golf #1",
+    "description": "for the degen golfer in all us. muni born and raised. hand drawn art for everyone in golf, including the superintendent! IRL and Community utility with tournaments in the works! #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "3 Blue"
+      },
+      {
+        "trait_type": "Tee",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Body"
+      },
+      {
+        "trait_type": "Sun Glasses",
+        "value": "David Duval Glasses"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Frustrated"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Bucky Hat White"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Chewing Tee Left "
+      },
+      {
+        "trait_type": "Hands",
+        "value": " Holding Golf Club with Driver Head Facing Left"
+      }
+    ],
+    "creators": [
+      {
+        "address": "degengolfclub.eth",
+        "share": 100
+      }
+    ],
+    "collection": {
+      "name": "Degen Golf Club",
+      "family": "Degen Golf"
+    },
+    "symbol": "DGC",
+    "seller_fee_basis_points": 10,
+    "image": "https://bafybeie3rw2gh4uv53tnzyam5zxqrsigb3fwwaddxatsfgrxqeg5me3n2a.ipfs.w3s.link/1.png"
+  }
+}

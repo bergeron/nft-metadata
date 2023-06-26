@@ -1,0 +1,40 @@
+{
+  "address": "0x28c6ea3f9cf9bc1a07a828fce1e7783261691b49",
+  "type": "ERC721",
+  "name": "Beyond Earth Land",
+  "tokenCount": "10000",
+  "uri": "https://us-central1-beyond-earth-online.cloudfunctions.net/api/lands/1",
+  "metadata": {
+    "image": "https://firebasestorage.googleapis.com/v0/b/beyond-earth-online.appspot.com/o/lands%2Fimages%2F1.jpeg?alt=media",
+    "external_url": "",
+    "name": "BEO Land #1",
+    "description": "BEO Land #1 is a buildable metaverse land plot in the BEO Universe",
+    "attributes": [
+      {
+        "value": "Blue",
+        "trait_type": "Background"
+      },
+      {
+        "value": "Rare",
+        "trait_type": "Size"
+      },
+      {
+        "value": "Sector 2",
+        "trait_type": "Sector"
+      },
+      {
+        "value": "Forest",
+        "trait_type": "Biome"
+      },
+      {
+        "value": "Natural",
+        "trait_type": "Resources"
+      },
+      {
+        "value": 144,
+        "trait_type": "Location"
+      }
+    ],
+    "uniqueComboId": "Background-Blue_Size-Rare_Sector-Sector 2_Biome-Forest_Resources-Natural_Location-144"
+  }
+}

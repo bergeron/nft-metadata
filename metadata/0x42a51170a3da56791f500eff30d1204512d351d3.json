@@ -1,0 +1,18 @@
+{
+  "address": "0x42a51170a3da56791f500eff30d1204512d351d3",
+  "type": "ERC721",
+  "name": "NFT-Test-V1",
+  "tokenCount": "3",
+  "uri": "https://bubbebot.s3.us-west-2.amazonaws.com/metadata/Test-Project-1/1",
+  "metadata": {
+    "image_url": "https://cloudflare-ipfs.com/ipfs/QmYhcYMqMzwygSX1LNEzsQdgETiF6UUqdVN4ceCtK6nhDh",
+    "name": "Test-Project-1 #1",
+    "description": "Test-Description",
+    "attributes": [
+      {
+        "trait_type": "Token Id",
+        "value": "1"
+      }
+    ]
+  }
+}

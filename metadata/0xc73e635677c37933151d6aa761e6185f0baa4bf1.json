@@ -1,0 +1,56 @@
+{
+  "address": "0xc73e635677c37933151d6aa761e6185f0baa4bf1",
+  "type": "ERC721",
+  "name": "StopWarNFT Fundraising Project",
+  "tokenCount": "1000",
+  "uri": "ipfs://Qmf6ASq3i5U398yzoARCExpyQ3MubFQqyc9nYfijjmHBaz/1.json",
+  "metadata": {
+    "name": "StopWarNFT #1",
+    "description": "StopWarNFT Fundraising Project",
+    "external_url": "https://www.stopwarnft.io/",
+    "image": "ipfs://QmbpS2rKvxYcutdRnpeqtiZDSGT4ZiM3z1THL9PYuLRbcA/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Ukrainian Flag"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Machine Gun x Ukraine"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Man"
+      },
+      {
+        "trait_type": "Body",
+        "value": "T-shirt"
+      },
+      {
+        "trait_type": "Badge",
+        "value": "Lvl 5"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Zelensky"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art/",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "StopWarNFT",
+      "family": "StopWarNFT"
+    },
+    "symbol": ""
+  }
+}

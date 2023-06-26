@@ -1,0 +1,69 @@
+{
+  "address": "0x2c078a05f21cc39b086d40fbe652e8f3a70d9cb3",
+  "type": "ERC1155",
+  "name": "The Holy Bible - American Standard Version",
+  "tokenCount": "31102",
+  "uri": "ipfs://bafybeiheaf5ojfbylgcmti2ka5ozgbzgw2mt3472n73u32oi5zq7m6cbke/json/1",
+  "metadata": {
+    "name": "Genesis 1:1",
+    "description": "In the beginning God created the heavens and the earth.",
+    "image": "ipfs://bafybeiak6mz47rr55vdwuzu3r2mabqti53cvivpxqcnrcabdatmyf5xbzi/1.png",
+    "itemId": "1",
+    "tokenId": "1",
+    "attributes": [
+      {
+        "trait_type": "Bible Verse Number",
+        "value": 1,
+        "max_value": 31102
+      },
+      {
+        "trait_type": "Testament",
+        "value": "The Old Testament"
+      },
+      {
+        "trait_type": "Book",
+        "value": "Genesis"
+      },
+      {
+        "trait_type": "Book Number",
+        "value": 1,
+        "max_value": 66
+      },
+      {
+        "trait_type": "Short Citation",
+        "value": "Gen. 1:1"
+      },
+      {
+        "trait_type": "Long Citation",
+        "value": "The First Book of Moses, called Genesis 1:1"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "1"
+      },
+      {
+        "trait_type": "Genesis Chapter Number",
+        "value": 1,
+        "max_value": 50
+      },
+      {
+        "trait_type": "Verse",
+        "value": "1"
+      },
+      {
+        "trait_type": "Genesis Chapter 1 Verse Number",
+        "value": 1,
+        "max_value": 31
+      },
+      {
+        "trait_type": "Bible Edition",
+        "value": "American Standard Version (ASV)"
+      },
+      {
+        "trait_type": "Digital Heritage Foundation",
+        "value": "0x906683F59c3326A65FF07e14CE7501901a7ce744"
+      }
+    ],
+    "properties": {}
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "address": "0x59f341d3d3d50ee7d45c744166a6f29d450488ce",
+  "type": "ERC721",
+  "name": "Lost Paradise V4",
+  "tokenCount": "1",
+  "uri": "https://ipfs.pixura.io/ipfs/QmQqTQ4uZSnLSy3zn1EqeZ4uFxmD7o8i6Xtn7GZgo9SWkB/metadata.json",
+  "metadata": {
+    "name": "Paradise",
+    "createdBy": "Aristarkh Chernyshev",
+    "yearCreated": "2022",
+    "description": "video of a place that doesn't exist, but where you want to return",
+    "image": "https://ipfs.pixura.io/ipfs/QmNZRo2W2YVGCBUKSCk78uMTHaaTtEJ2bSHPfFogXf1Hca/paradise.gif",
+    "media": {
+      "uri": "https://ipfs.pixura.io/ipfs/QmRmBpcmk8rWLUVyAZBXQD17iLXQ3trBw3x8brN32BWWXL/Paradise.mp4",
+      "dimensions": "1920x1080",
+      "size": "50906419",
+      "mimeType": "video/mp4"
+    },
+    "tags": [
+      "Paradise",
+      "surreal",
+      "dystopia"
+    ],
+    "attributes": [
+      {
+        "trait_type": "video",
+        "value": "1920x180"
+      },
+      {
+        "trait_type": "duration",
+        "value": "1'20\""
+      },
+      {
+        "trait_type": "Production year",
+        "value": "2022"
+      }
+    ]
+  }
+}

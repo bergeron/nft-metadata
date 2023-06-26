@@ -1,0 +1,66 @@
+{
+  "address": "0x7093431941e810bec79575bad211d5d83d1e552a",
+  "type": "ERC721",
+  "name": "Okay MutantBears",
+  "tokenCount": "4000",
+  "uri": "ipfs://QmPKFqKTJixudWKqgtq1YMMZPn3GXWiY1snzuQEL5JZx4A/1",
+  "metadata": {
+    "name": "Okay Mutant Bear #1",
+    "symbol": "OMB",
+    "description": "Okay Mutant Bears is a collection of 4,000 bears that have mutated while bridging to the Etherum Blockchain 🧪🐻",
+    "seller_fee_basis_points": 850,
+    "image": "https://testlaunchmynft.mypinata.cloud/ipfs/QmeXatahsqHKaxSj54r6vY1CrBi8yd1RzgKE5WSfWm8nLP/3998.png",
+    "external_url": "",
+    "collection": {
+      "name": "Zombearz",
+      "family": "LaunchMyNFT"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Black"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Black And Beige Horns"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Denim Jacket Blood"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Bloodbath"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Angry Nail"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 1214,
+        "display_type": "number",
+        "max_value": 4000
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/QmeXatahsqHKaxSj54r6vY1CrBi8yd1RzgKE5WSfWm8nLP/3998.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "Cg26PyUkeXZfk3j664wLz1rhte28jVce9nLZwUyZfk2c",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

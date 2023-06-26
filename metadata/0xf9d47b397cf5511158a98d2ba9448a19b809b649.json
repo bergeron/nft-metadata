@@ -1,0 +1,35 @@
+{
+  "address": "0xf9d47b397cf5511158a98d2ba9448a19b809b649",
+  "type": "ERC721",
+  "name": "Drag Queen Divas",
+  "tokenCount": "115",
+  "uri": "ipfs://QmUbib62eTT9k2ZJ4Jb71XfzoVUd1ECa3L2ajxeovRLELt/1",
+  "metadata": {
+    "name": "Drag Queen Divas #1",
+    "description": "The Drag Queen Divas is a collection of 1000 unique Divas, each with their own colorful traits. Holders are part of an inclusive community of fabulous Drag Queens that inspire, provoke and influence their surroundings simply by being legendary.",
+    "image": "ipfs://QmPR2U5e5ZnBS7mL3ExSXzqH8D9vKVeqErT3UiHUBw22nD/1.png",
+    "dna": "99cbad28c49de40c14e58aade6f4c8970189e76b",
+    "edition": 1,
+    "date": 1658221519234,
+    "seller_fee_basis_points": 1000,
+    "collection": {
+      "name": "Drag Queen Divas",
+      "external url": "http://dragqueendivas.art/"
+    },
+    "properties": {
+      "creators": [
+        {
+          "address": "0x4aec67969dE66cA8cD1F3E0C42594101cdFa0b78",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Legendary Series",
+        "value": "Freddie Mercury"
+      }
+    ],
+    "compiler": "Compiler NFT Collection"
+  }
+}

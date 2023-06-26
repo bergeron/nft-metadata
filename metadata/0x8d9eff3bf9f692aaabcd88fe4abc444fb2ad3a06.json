@@ -1,0 +1,31 @@
+{
+  "address": "0x8d9eff3bf9f692aaabcd88fe4abc444fb2ad3a06",
+  "type": "ERC721",
+  "name": "Artsy Assets PFP Collection",
+  "tokenCount": "1",
+  "uri": "ipfs://QmRTgXTsfRk5WC6xmrjT5qA66BEsAJ4BcR93VqGQ1fqAse/1.json",
+  "metadata": {
+    "name": "Artsy Assets",
+    "description": "Artsy Assets is an association of NFT developers, artists and investors. Visit us at https://artsyassets.com/",
+    "image": "ipfs://QmbuzuTYVWusakkx5R7YV6SvuaSmRbFDky8JMBTtNrfQBz/1.png",
+    "dna": "8888888888888888888888888888888888888888888888",
+    "edition": 1,
+    "date": 1639237232799,
+    "creator": "Artsy Assets",
+    "fee_recipient": "0x334ce5048e1dc1cfcbf6a692e7ce6bd950ad82ec",
+    "seller_fee_basis_points": 1500,
+    "creators": [
+      {
+        "address": "0x334ce5048e1dc1cfcbf6a692e7ce6bd950ad82ec",
+        "share": 100
+      }
+    ],
+    "attributes": [
+      {
+        "trait_type": "Logo",
+        "value": "Artsy Assets"
+      }
+    ],
+    "compiler": "Artsy Assets Mint Engine"
+  }
+}

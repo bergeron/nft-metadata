@@ -1,0 +1,42 @@
+{
+  "address": "0x2b75ca3116ffc0975745601e5bae423bdb4680bc",
+  "type": "ERC721",
+  "name": "Honey Crazed Bears",
+  "tokenCount": "200",
+  "uri": "ipfs://bafybeien74ow7buhpsyy42cloebsjdtaxnza4kqrkhtu54e42zzvbxlnca/1.json",
+  "metadata": {
+    "name": "Honey Crazed Bears #1",
+    "description": "Bears who are addicted to honey",
+    "image": "ipfs://bafybeidow26ila5vuuegbtm5jmi4bqrwk74kgpgrnitjcjohexe7rcdh4m/1.png",
+    "dna": "b9641394639dd24ed53192964cdbcd5251c332b2",
+    "edition": 1,
+    "date": 1650494862233,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "color backgrounds sharp 16"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Black Fur"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Hoodie"
+      },
+      {
+        "trait_type": "Face Expression",
+        "value": "Confused spiral eyes"
+      },
+      {
+        "trait_type": "Acessories",
+        "value": "Reading glass"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "BaseBall hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

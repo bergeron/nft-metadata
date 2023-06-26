@@ -1,0 +1,61 @@
+{
+  "address": "0xc3145f84b21b5cdfed724e0750d347e31fb7e060",
+  "type": "ERC721",
+  "name": "Stageverse - Land",
+  "tokenCount": "4093",
+  "uri": "https://api.stageverse.com/land/1",
+  "metadata": {
+    "name": "1:44, 33",
+    "description": "Land plots can be built on, and are gateways to expansive 3D spaces where communities can connect and collectively create immersive experiences.",
+    "image": "https://api.stageverse.com/land/1/assets/1_1000.png",
+    "animation_url": "https://api.stageverse.com/land/1/assets/1_1000.mp4",
+    "terms": "https://stageverse.com/terms/land-nft-1",
+    "external_url": "https://stageverse.com/map?id=1",
+    "attributes": [
+      {
+        "trait_type": "Time",
+        "value": "1:44"
+      },
+      {
+        "trait_type": "Time (Hour)",
+        "value": 1,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Time (Minute)",
+        "value": 44,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Row",
+        "value": 33,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Ring",
+        "value": "2"
+      },
+      {
+        "trait_type": "Size (m2)",
+        "value": 607,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Prism Shape",
+        "value": "Cube"
+      },
+      {
+        "trait_type": "Prism Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Premium",
+        "value": "No"
+      },
+      {
+        "trait_type": "Genesis",
+        "value": "Yes"
+      }
+    ]
+  }
+}

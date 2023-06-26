@@ -1,0 +1,45 @@
+{
+  "address": "0xa9304cd30577da04c1790d8a244c1b66fe56407d",
+  "type": "ERC1155",
+  "name": "Art by Crumpton",
+  "tokenCount": "6",
+  "uri": "https://arweave.net/luiCxGC_GRXKgwlRG2vQ2aY81F8T1LyFJGHBjOKe7oA",
+  "metadata": {
+    "name": "The Wanderer",
+    "created_by": "Crumpton",
+    "description": "Traveling alone.  \nAimlessly finding our way.  \nWhere do we belong. \n\nDigitally illustrated then animated. All rights reserved to the artist Matthew Crumpton.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Crumpton"
+      },
+      {
+        "trait_type": "Character",
+        "value": "The Wanderer"
+      }
+    ],
+    "image_details": {
+      "bytes": 1225385,
+      "format": "PNG",
+      "sha256": "42f7cc8e621078503622d5e68b501bdfb4ad8e29ce5ac491cd48294108790d44",
+      "width": 2134,
+      "height": 2500
+    },
+    "image": "https://arweave.net/jabbv6WziwNvni2TA180UeojX-XP0t0uzrWtI6Yuwjc",
+    "image_url": "https://arweave.net/jabbv6WziwNvni2TA180UeojX-XP0t0uzrWtI6Yuwjc",
+    "animation_details": {
+      "bytes": 50871802,
+      "format": "MP4",
+      "duration": 40,
+      "sha256": "3fa2749fe55370b280db12d7fcb1e6ae7a82ebba407af7574259178c7f69ea44",
+      "width": 3000,
+      "height": 3500,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/dAA-2aqUUOEXrPlMDELgSjfzQAnujgr7reL5IKb40Yo",
+    "animation_url": "https://arweave.net/dAA-2aqUUOEXrPlMDELgSjfzQAnujgr7reL5IKb40Yo"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "address": "0x5f8ea26712521cb74acc229b9fd60e04136922f2",
+  "type": "ERC721",
+  "name": "NFT Play",
+  "tokenCount": "1",
+  "uri": "https://ipfs.io/ipfs/bafkreide2tmvmbzbdopluv6cnqvpj2jpphldqiyqddndfvgwkxthmgydqe",
+  "metadata": {
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Hello,NFT Play"
+      },
+      "description": {
+        "type": "string",
+        "description": "This is the first NFT for NFT Play community. 07/June/2021"
+      },
+      "image": {
+        "type": "string",
+        "description": "https://ipfs.io/ipfs/bafybeibnjckfoohvkytvvrnj6pv4qjcgd4vrggxcfxeun3e6w3fhvxcbka?type=png"
+      },
+      "media": {
+        "type": "object",
+        "mimeType": {
+          "type": "string",
+          "description": "image/jpeg"
+        },
+        "uri": {
+          "type": "string",
+          "description": "https://ipfs.io/ipfs/bafybeibnjckfoohvkytvvrnj6pv4qjcgd4vrggxcfxeun3e6w3fhvxcbka?type=png"
+        },
+        "size": {
+          "type": "string",
+          "description": "1348657"
+        }
+      }
+    }
+  }
+}

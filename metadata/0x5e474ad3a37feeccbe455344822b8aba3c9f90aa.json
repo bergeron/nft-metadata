@@ -1,0 +1,51 @@
+{
+  "address": "0x5e474ad3a37feeccbe455344822b8aba3c9f90aa",
+  "type": "ERC721",
+  "name": "BitSig",
+  "tokenCount": "1",
+  "uri": "ipfs://QmXuKq3Qu7b9SKED5NcQTQEgHp8iYHN8vJ53cycx5fQm8V",
+  "metadata": {
+    "name": "First Signable NFT",
+    "description": "The first NFT that can be signed for free. Signers get a 70% royalty. Sign it at bitsig.org!",
+    "external_url": "https://bitsig.org/token?id=1",
+    "image": "ipfs://QmdJxxobqjfLyxXeNzdSFqUR2fFw2P8Qii1q4BdfQQa1Mz",
+    "attributes": [
+      {
+        "trait_type": "signers_url",
+        "value": "https://bitsig.org/token?id=1"
+      },
+      {
+        "trait_type": "ens_signers_url",
+        "value": "token1.bitsig.eth"
+      },
+      {
+        "trait_type": "max_number_signers",
+        "value": "1000000"
+      },
+      {
+        "trait_type": "signers_royalty",
+        "value": "70"
+      },
+      {
+        "trait_type": "vip_signers_royalty",
+        "value": "0"
+      },
+      {
+        "trait_type": "creator_royalty",
+        "value": "5"
+      },
+      {
+        "trait_type": "creator_address",
+        "value": "0x409062a018E3355f158f0D13dF222E161Df92d79"
+      },
+      {
+        "trait_type": "contract_address",
+        "value": "0x5E474Ad3A37fEeCCBE455344822B8AbA3c9F90AA"
+      },
+      {
+        "trait_type": "token_id",
+        "value": "1"
+      }
+    ]
+  }
+}

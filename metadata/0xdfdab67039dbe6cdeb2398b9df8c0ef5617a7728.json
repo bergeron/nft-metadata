@@ -1,0 +1,33 @@
+{
+  "address": "0xdfdab67039dbe6cdeb2398b9df8c0ef5617a7728",
+  "type": "ERC1155",
+  "name": "Minterest",
+  "tokenCount": "100",
+  "uri": "https://bafybeicppzws2uxybr4pac2lemfn2eklodxdvfv6mcq67z2s7x6ko23nkq.ipfs.nftstorage.link/metadata/1.json",
+  "metadata": {
+    "name": "Satoshi",
+    "image": "https://bafybeidtgxcz2dbrnaoksobmqbiokufltnv3k3jp4d35isszqwul5rrae4.ipfs.nftstorage.link/images/1_satoshi_nft.jpg",
+    "external_url": "https://minterest.com/nft-gallery",
+    "description": "The enigmatic, anonymous creator of Bitcoin. Whether a solo genius or a team of visionaries, Satoshi is the undisputed genesis of blockchain technology.",
+    "attributes": [
+      {
+        "trait_type": "Tier",
+        "value": "1"
+      },
+      {
+        "trait_type": "Emission Boost, %",
+        "value": "50"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Emission Boost Start Time",
+        "value": 1682726400
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Emission Boost End Time",
+        "value": 1777611540
+      }
+    ]
+  }
+}

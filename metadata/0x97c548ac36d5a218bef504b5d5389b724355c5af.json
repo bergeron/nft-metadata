@@ -1,0 +1,46 @@
+{
+  "address": "0x97c548ac36d5a218bef504b5d5389b724355c5af",
+  "type": "ERC1155",
+  "name": "EDDASwap",
+  "tokenCount": "230",
+  "uri": "https://nft.eddaswap.com/api/1",
+  "metadata": {
+    "id": 1,
+    "name": "DeFi The World",
+    "description": "EDDA is here to DeFi The World!",
+    "image": "https://edda-cdn.fra1.cdn.digitaloceanspaces.com/collection1/DeFi-The-World_ap7gpd.png",
+    "points": "20",
+    "collection": "EDDA",
+    "animation_url": "https://edda-cdn.fra1.cdn.digitaloceanspaces.com/collection1/DeFi-The-World_njtawb.mp4",
+    "artist": {
+      "name": "EddaSwap"
+    },
+    "attributes": [
+      {
+        "trait_type": "Set",
+        "value": "EDDA"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Super Rare"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "EddaSwap"
+      },
+      {
+        "trait_type": "Tag",
+        "value": "EDDA"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Created",
+        "value": 1616515744
+      },
+      {
+        "trait_type": "Max Supply",
+        "value": "25"
+      }
+    ]
+  }
+}

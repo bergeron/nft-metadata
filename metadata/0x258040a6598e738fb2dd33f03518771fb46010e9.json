@@ -1,0 +1,42 @@
+{
+  "address": "0x258040a6598e738fb2dd33f03518771fb46010e9",
+  "type": "ERC1155",
+  "name": "Skywalkers Films",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/d5RXmocI9P0WhxZ8ueamtXKF_ZJtk7-YQWWWyFPuAkk",
+  "metadata": {
+    "name": "Skywalkers Film Token",
+    "created_by": "itsdavey",
+    "external_url": "https://www.davisdailey.com/",
+    "description": "This genesis edition serves to fund the production of itsdavey's upcoming short film scheduled to premier Q2 2023. This film will provide context to and further develop the Skywalkers story. \n\n- All minters will get their name or ENS in the credits of the film. \n- Mint 5 or more tokens to receive an Associate Producer credit. \n- Mint 10 or more tokens to receive an Executive Producer credit.  \n\nFuture and expanded utility of these tokens is at the sole discretion of itsdavey ;)",
+    "attributes": [
+      {
+        "trait_type": "Date",
+        "value": "Q2 2023"
+      }
+    ],
+    "animation_details": {
+      "bytes": 95594649,
+      "format": "MP4",
+      "duration": 15,
+      "sha256": "2d79221cd36cecbcc079df7677e45d69c440b56d30d0701309d81024fe3c1c13",
+      "width": 3840,
+      "height": 2160,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/RAixErugDg4bClWSEqRGp4cJRrQ0ZeG9T2bEhWHHWS8",
+    "animation_url": "https://arweave.net/RAixErugDg4bClWSEqRGp4cJRrQ0ZeG9T2bEhWHHWS8",
+    "image_details": {
+      "bytes": 7010172,
+      "format": "JPEG",
+      "sha256": "17d84f42ec1f7cf58f559bb83e03bc2a7408675daf45fdb9c1c37cda56b03711",
+      "width": 3456,
+      "height": 1942
+    },
+    "image": "https://arweave.net/q17NrD0mkrg5BmWMItsTCxtKUpwMSFBviqjgyyTIBAM",
+    "image_url": "https://arweave.net/q17NrD0mkrg5BmWMItsTCxtKUpwMSFBviqjgyyTIBAM"
+  }
+}

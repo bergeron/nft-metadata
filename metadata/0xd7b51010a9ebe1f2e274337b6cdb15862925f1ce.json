@@ -1,0 +1,43 @@
+{
+  "address": "0xd7b51010a9ebe1f2e274337b6cdb15862925f1ce",
+  "type": "ERC721",
+  "name": "Fluffy Hedgehogs The Mini Honoraries",
+  "tokenCount": "5",
+  "uri": "https://files.fluffyhedgehogs.com/honorary/1.json",
+  "metadata": {
+    "name": "Honorary Mini Fluffy Hedgehog #1",
+    "description": "Spreading Fluffiness =D",
+    "image": "https://files.fluffyhedgehogs.com/honorary/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Stars Green-Blue"
+      },
+      {
+        "trait_type": "Spines Color",
+        "value": "Gradient Green"
+      },
+      {
+        "trait_type": "Spines Type",
+        "value": "Leaves"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Smol"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smol"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Smol Cap"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Smol Cape"
+      }
+    ]
+  }
+}

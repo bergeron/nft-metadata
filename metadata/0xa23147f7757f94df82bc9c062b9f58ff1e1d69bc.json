@@ -1,0 +1,54 @@
+{
+  "address": "0xa23147f7757f94df82bc9c062b9f58ff1e1d69bc",
+  "type": "ERC721",
+  "name": "PoodlesNFT",
+  "tokenCount": "5000",
+  "uri": "ipfs://bafybeifa4wguonlx7lg3exsbws425fmterzax4hk45itwvqnkxfz2dscbe/1.json",
+  "metadata": {
+    "name": "PoodlesNFT #1",
+    "description": "Nifty Poodles looking for some companion!",
+    "image": "ipfs://bafybeicugcytfw3p7wj5zj6qydcihfnstpaloucedgqp5srrljwzqz6jba/1.png",
+    "dna": "9da2e8baef38a5950dd023c3221f226eb02c542a",
+    "edition": 1,
+    "date": 1636499315098,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "Normal_Pink"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "Thunder_Yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Punk_Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Dots"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Long_Blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

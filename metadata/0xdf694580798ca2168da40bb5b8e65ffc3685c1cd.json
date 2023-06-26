@@ -1,0 +1,39 @@
+{
+  "address": "0xdf694580798ca2168da40bb5b8e65ffc3685c1cd",
+  "type": "ERC721",
+  "name": "The Art of Toadz",
+  "tokenCount": "1000",
+  "uri": "https://arweave.net/nHGuu8GYmG8GnvaChQ5nE8czNT9Rp69eabAJ33JhdWI/1",
+  "metadata": {
+    "name": "The Art of Toadz #1/1000",
+    "created_by": "Mills",
+    "external_url": "https://twitter.com/MillsxArt",
+    "description": "Loads a random Toad every five seconds.  \nA tribute to Gremplin & CrypToadz, created by Mills.\n\nThis piece requires an internet connection.",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Mills"
+      },
+      {
+        "trait_type": "Vibes",
+        "value": "Infinite"
+      }
+    ],
+    "animation_details": {
+      "bytes": 6809,
+      "format": "HTML",
+      "sha256": "c5a2ce94bfa89a7aa0f7437da3735d19b90fe76aa57771ee8ce0b9cbdd751cf1"
+    },
+    "animation": "https://arweave.net/Ny0AB9-whUUGH-WkiMF9_L_REr7vjUTuQqiWtMNrdlM",
+    "animation_url": "https://arweave.net/Ny0AB9-whUUGH-WkiMF9_L_REr7vjUTuQqiWtMNrdlM",
+    "image_details": {
+      "bytes": 2118476,
+      "format": "GIF",
+      "sha256": "1a186ca878b802fdef0e19f8b63c0cd5d45a93e7ed40d23561397b20fba0fafb",
+      "width": 1600,
+      "height": 1600
+    },
+    "image": "https://arweave.net/YVV3EK5zfDMrL6M8e-YPIa6yKM61qneCUr4MOb1M1ZU",
+    "image_url": "https://arweave.net/YVV3EK5zfDMrL6M8e-YPIa6yKM61qneCUr4MOb1M1ZU"
+  }
+}

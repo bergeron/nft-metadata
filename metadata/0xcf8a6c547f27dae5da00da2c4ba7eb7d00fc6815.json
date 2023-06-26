@@ -1,0 +1,23 @@
+{
+  "address": "0xcf8a6c547f27dae5da00da2c4ba7eb7d00fc6815",
+  "type": "ERC721",
+  "name": "Kingdom Tiles",
+  "tokenCount": "8",
+  "uri": "https://api.kingdom.so/tiles/63705f43f02112f071308b6d/metadata",
+  "metadata": {
+    "image": "https://kingdom.so/metadata/forest.png",
+    "external_url": "https://kingdom.so/PlanetTilba/63705f43f02112f071308b6d",
+    "name": "Forest tile",
+    "description": "Virtual space inside kingdom.so where you can create, produce, trade, play, and meet other players.",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Location",
+        "value": "3700 / -2193"
+      }
+    ]
+  }
+}

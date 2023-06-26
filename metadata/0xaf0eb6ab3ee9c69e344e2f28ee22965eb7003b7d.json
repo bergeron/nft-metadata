@@ -1,0 +1,46 @@
+{
+  "address": "0xaf0eb6ab3ee9c69e344e2f28ee22965eb7003b7d",
+  "type": "ERC721",
+  "name": "Lucky Mahjong NFT",
+  "tokenCount": "2",
+  "uri": "ipfs://QmcjES5v8cxAxLyhZbB9bvS17cyumg9McRBwjK7Q2FctrN/1.json",
+  "metadata": {
+    "dna": "c5419776dbae6e5508a4e62d2c698bfa1406124a",
+    "name": "Lucky Mahjong NFT #1",
+    "description": "Lucky mahjong is a collection of 6666 mahjong sets that are randomly matched. Each set has three mahjong tiles with random color and pattern. If you are lucky, you can own your lucky numbers and pattern in your blockchain wallet. Hope this can bring you luck and fortunes in the world of nft.",
+    "image": "ipfs://QmYWA4cakLsYkaLt7Ak5wMTPGGg21DkymKfr3awP6AQwQn/1.png",
+    "edition": 1,
+    "date": 1633017315676,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Tile3 color",
+        "value": "light_orange"
+      },
+      {
+        "trait_type": "Tile3 pattern",
+        "value": "bamboo_eight"
+      },
+      {
+        "trait_type": "Tile2 color",
+        "value": "light_orange"
+      },
+      {
+        "trait_type": "Tile2 pattern",
+        "value": "white"
+      },
+      {
+        "trait_type": "Tile1 color",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Tile1 pattern",
+        "value": "north"
+      }
+    ],
+    "compiler": "Lucky Mahjong NFT"
+  }
+}

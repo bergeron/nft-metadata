@@ -1,0 +1,61 @@
+{
+  "address": "0x035b3185358b8d18f67190ed246a356643f30b78",
+  "type": "ERC721",
+  "name": "Pepe NFT",
+  "tokenCount": "34",
+  "uri": "ipfs://bafybeicthcikij6lgf32yecyxrfayj222ci3l5bae7hneyhakz64slri7e/pepe_1.json",
+  "metadata": {
+    "name": "pepe_1",
+    "description": "The Pepe Collection",
+    "external_url": "",
+    "image": "ipfs://bafybeidnlj3em7b24ukepvpecmz6dk7n66cbkx542mj2j35emthrhqbapa/pepe_1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sky"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Huh"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Think"
+      },
+      {
+        "trait_type": "Goggles",
+        "value": "None"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Facial Prop",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Think"
+      },
+      {
+        "trait_type": "Caps",
+        "value": "None"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "pepe_1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": []
+    }
+  }
+}

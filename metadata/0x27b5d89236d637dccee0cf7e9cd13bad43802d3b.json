@@ -1,0 +1,35 @@
+{
+  "address": "0x27b5d89236d637dccee0cf7e9cd13bad43802d3b",
+  "type": "ERC721",
+  "name": "Paik's Robotic ZOO",
+  "tokenCount": "168",
+  "uri": "ipfs://bafybeiejvxy2i4o75toqjqbzcdqvekp5xovsx5s7svwcmdsxvs6u35mho4/1.json",
+  "metadata": {
+    "dna": "e90b079270eb067dca74da1dbeedd9a9601366ae8ce7f8d497bd1b647620342e",
+    "name": "Paik's Robotic ZOO #1",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://bafybeibe2a3hr2pgsbgdqotpx4wdg6f2npug57m6xz7yquaumykiqgjepi/1.png",
+    "imageHash": "a46ae0625d2e2265538b403bb7793947394de38ad7f3283b0197a20beb0a28cf",
+    "edition": 1,
+    "date": 1664422250123,
+    "attributes": [
+      {
+        "trait_type": "Animal",
+        "value": "Monkey"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Land"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Wild"
+      },
+      {
+        "trait_type": "Model",
+        "value": "Old"
+      }
+    ],
+    "compiler": "Animal Planet NFT"
+  }
+}

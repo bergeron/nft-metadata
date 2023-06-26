@@ -1,0 +1,35 @@
+{
+  "address": "0x6145b7ac063d16f35bcf47db232bc6fbd35713df",
+  "type": "ERC721",
+  "name": "PictierHistoryNFT",
+  "tokenCount": "53",
+  "uri": "https://file.pictier.com/nft/history/metadata/1.json",
+  "metadata": {
+    "name": "PictierHistoryNFT #1",
+    "image": "https://file.pictier.com/nft/history/1.gif",
+    "animation_url": "https://file.pictier.com/nft/history/mp4/1.mp4",
+    "attributes": [
+      {
+        "trait_type": "Borned",
+        "value": true
+      },
+      {
+        "trait_type": "Latitude",
+        "value": 35.6032562255859
+      },
+      {
+        "trait_type": "Longitude",
+        "value": 139.647415161133
+      },
+      {
+        "trait_type": "Address",
+        "value": "Setagaya-ku, Tokyo"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Date",
+        "value": 1648339956
+      }
+    ]
+  }
+}

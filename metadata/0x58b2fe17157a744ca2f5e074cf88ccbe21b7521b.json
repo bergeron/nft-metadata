@@ -1,0 +1,43 @@
+{
+  "address": "0x58b2fe17157a744ca2f5e074cf88ccbe21b7521b",
+  "type": "ERC721",
+  "name": "BroNicorns Club",
+  "tokenCount": "5555",
+  "uri": "https://api.bronicorns.fun/1.json",
+  "metadata": {
+    "name": "Bro #1",
+    "description": "Hey bros, we are 5555 Bronicorns",
+    "image": "https://api.bronicorns.fun/1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sundance"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Costume"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Toy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pipe"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Arrow"
+      }
+    ],
+    "compiler": "https://startnft.app"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "address": "0xdde7ee69a434c4d1d8a936917f70a886cb66b1b0",
+  "type": "ERC721",
+  "name": "Bored Otter Club NFT",
+  "tokenCount": "5000",
+  "uri": "ipfs://QmQhfcq9woBaD1Swpzi8QkzM6Mq3nTN3MnFvcxtMf4pfTq/1.json",
+  "metadata": {
+    "dna": "2eae93da8c4fe74f1e24ed1db3898960ecb74351",
+    "name": "Bored Otter Club #1",
+    "description": "The Bored Otter Club is a premium collection of only 5,000 of the most unique otter art pieces that will be dropped on the Ethereum blockchain with integration into the metaverse.",
+    "image": "ipfs://Qmc3t76SEqpN6dqgFdocYoHNtr5Yt5UzbPicYLDWvmmeUW/1.png",
+    "edition": 1,
+    "date": 1646115540975,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "weight": 100
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Base",
+        "weight": 30
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Prisoners",
+        "weight": 7
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Trumpet",
+        "weight": 6
+      },
+      {
+        "trait_type": "Eye",
+        "value": "SleepyEyes",
+        "weight": 4
+      },
+      {
+        "trait_type": "Hat",
+        "value": "FiddlerHat",
+        "weight": 5
+      }
+    ],
+    "totalRarity": "25.33%",
+    "rarityPercent": "25.33%",
+    "compiler": "HashLips Art Engine"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "address": "0xe54dd5867233505ac08ce862231e84b62cafff97",
+  "type": "ERC721",
+  "name": "Life Abstracting Binary",
+  "tokenCount": "2",
+  "uri": "https://arweave.net/fA960STOn_TWDUjToxWAk2QskfvRtbthh9yhtR7Ub9E",
+  "metadata": {
+    "name": "__init__(self, _alpha)",
+    "created_by": "0xElric.eth",
+    "description": "Each cell lives and dies.  \nEach cell remembers.  \nIterate forward.\n\nAny live cell with fewer than two live neighbors dies  \nAny live cell with two or three live neighbors lives  \nAny live cell with more than three live neighbors dies  \nAny dead cell with exactly three live neighbors is born\n\n-An implementation of Conway's game of life.",
+    "attributes": [
+      {
+        "trait_type": "iteration",
+        "value": "self.name = _alpha"
+      }
+    ],
+    "image_details": {
+      "bytes": 51397199,
+      "format": "GIF",
+      "sha256": "67c94b9d7584675a2419a1ab3ac9cf776de6249bbba90eef6690a528663e213a",
+      "width": 1000,
+      "height": 1000
+    },
+    "image": "https://arweave.net/5XYuU48b2zo9Q7VxLzC1A8Rh3OfarO8UFLZ4x9XU8DU",
+    "image_url": "https://arweave.net/5XYuU48b2zo9Q7VxLzC1A8Rh3OfarO8UFLZ4x9XU8DU"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "address": "0x648b2c6b5f40aaf7dd4917937a5b720800d739f6",
+  "type": "ERC721",
+  "name": "Chichi Collection",
+  "tokenCount": "1000",
+  "uri": "https://chichi-nft.s3.ap-northeast-2.amazonaws.com/json/1.json",
+  "metadata": {
+    "name": "CHICHI #1",
+    "description": "Remember to replace this description",
+    "image": "https://chichi-nft.s3.ap-northeast-2.amazonaws.com/images/1.png",
+    "edition": 1,
+    "date": 1666331395172,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cornflower"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Police"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "None"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Volcano"
+      },
+      {
+        "trait_type": "Face",
+        "value": "None"
+      }
+    ]
+  }
+}

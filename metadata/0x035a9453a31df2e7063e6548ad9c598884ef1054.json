@@ -1,0 +1,62 @@
+{
+  "address": "0x035a9453a31df2e7063e6548ad9c598884ef1054",
+  "type": "ERC721",
+  "name": "NFTRESCUE",
+  "tokenCount": "10",
+  "uri": "ipfs://QmUi21xJzXqKyVNeQXaozX4Y8gh4jqaG5bvrKegjgwk3Ky/1.json",
+  "metadata": {
+    "name": "RESCUE#0",
+    "symbol": "RESCUE",
+    "description": "RESCUE#0 -  is a collection of unique cute dog on Ethereum. Serve and protect.",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://QmaTREpWc3qNKEyuuUakhRVqTYC6d8XyEsCSTWt5RrdrSn/1.png",
+    "external_url": "",
+    "collection": {
+      "name": "NFTRESCUE",
+      "family": "LaunchMyNFT"
+    },
+    "attributes": [
+      {
+        "trait_type": "BACKGROUND",
+        "value": "Road1"
+      },
+      {
+        "trait_type": "DOG",
+        "value": "DarkBrown"
+      },
+      {
+        "trait_type": "EYES",
+        "value": "Mismatched"
+      },
+      {
+        "trait_type": "JOB",
+        "value": "Special12"
+      },
+      {
+        "trait_type": "MEDAL",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": 56,
+        "display_type": "number",
+        "max_value": 2000
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "/0.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "0x84441b29a7378C1B152e13d8FDfb09887f86Eb16",
+          "share": 100
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "address": "0x0f2b806e313a0e28454894bb9d9a41d646432ed0",
+  "type": "ERC721",
+  "name": "V1RoyalPunks",
+  "tokenCount": "111",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmW8mH4QNpi6tmReomxRsJPga1Vtjgk8Tyo9UsyXjGgMwH/1.json",
+  "metadata": {
+    "name": "RoyalPunks #1",
+    "description": "Collection Royal Punks",
+    "image": "ipfs://QmbcmU2CxWrMKSRJP5tDg3zokPknFX354xwj7mRQw7VV4v/1.png",
+    "dna": "4e9809a32ba2e94a3724200f56e25866c8225648",
+    "edition": 1,
+    "date": 1646003996601,
+    "attributes": [
+      {
+        "trait_type": "Accessory",
+        "value": "Gold Chain"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Prince Zombie"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

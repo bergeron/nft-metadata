@@ -1,0 +1,72 @@
+{
+  "address": "0x32eeddd15994247cb4b15484affcf509c005f31e",
+  "type": "ERC721",
+  "name": "Astral Baby Ape Club",
+  "tokenCount": "4500",
+  "uri": "ipfs://bafybeielolq3escmusoanvvvleb55x3wtqjvxwwelfth75jvdwypkj2m2q/1.json",
+  "metadata": {
+    "name": "Astral Baby Ape Club #1",
+    "symbol": "ABAC",
+    "description": "Astral Baby Ape Club NFT Collection",
+    "seller_fee_basis_points": 1000,
+    "image": "https://bafybeia52tcanqq357kyb2u73fgh3l5zqwyipe7nz2qemtzqqjsdxzzb5a.ipfs.dweb.link/1.png",
+    "edition": 1,
+    "collection": {
+      "name": "Astral Baby Ape Club NFT Collection",
+      "family": "Astral Apes"
+    },
+    "properties": {
+      "category": "image",
+      "creators": [
+        {
+          "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+          "share": 10
+        },
+        {
+          "address": "CReV1YGrPzi7a3yvL3y6PgAkK6DRvUax6Dnihwzn2GyT",
+          "share": 90
+        }
+      ],
+      "files": [
+        {
+          "uri": "https://bafybeia52tcanqq357kyb2u73fgh3l5zqwyipe7nz2qemtzqqjsdxzzb5a.ipfs.dweb.link/1.png",
+          "type": "image/png"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Silver Earring"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Chef"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Banana Milk"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Clear Goggle"
+      }
+    ]
+  }
+}

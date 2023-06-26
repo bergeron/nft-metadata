@@ -1,0 +1,29 @@
+{
+  "address": "0xf97c35c542e0ad32e9b03967b41999a43acbdbe3",
+  "type": "ERC721",
+  "name": "CLS V3",
+  "tokenCount": "136",
+  "uri": "data:application/json,{\"name\":\"CLS Allocation Voucher #1 - 9.00 - Linear\", \"description\":\"Voucher #1 of CLS allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade CLS's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!\",\"image\": \"https://imgurl.solv.finance/meta/images/avCLS/1.png\",\"external_url\":\"https://app.solv.finance/avCLS/1\", \"properties\": {\"owner\":\"0x794d4e08eac597c68bf35f750e536cb02f6ba74d\",\"underlying\":\"0x675bbc7514013e2073db7a919f6e4cbef576de37\",\"underlyingSymbol\":\"CLS\",\"vestingAmount\":\"9.000000000000000000\",\"principal\":\"9.000000000000000000\",\"claimType\":\"Linear\",\"claimableAmount\":\"9.000000000000000000\",\"percentages\":[\"100.00%\"],\"maturities\":[1630627200],\"term\":\"1.00 days\"}}",
+  "metadata": {
+    "name": "CLS Allocation Voucher #1 - 9.00 - Linear",
+    "description": "Voucher #1 of CLS allocation. Voucher is used to represent the lock-up allocations of a certain project, which is currently being used to trade in the OTC Market. Now, everyone can trade CLS's allocations on Opensea or Solv Vouchers by trading the Voucher onchain!",
+    "image": "https://imgurl.solv.finance/meta/images/avCLS/1.png",
+    "external_url": "https://app.solv.finance/avCLS/1",
+    "properties": {
+      "owner": "0x794d4e08eac597c68bf35f750e536cb02f6ba74d",
+      "underlying": "0x675bbc7514013e2073db7a919f6e4cbef576de37",
+      "underlyingSymbol": "CLS",
+      "vestingAmount": "9.000000000000000000",
+      "principal": "9.000000000000000000",
+      "claimType": "Linear",
+      "claimableAmount": "9.000000000000000000",
+      "percentages": [
+        "100.00%"
+      ],
+      "maturities": [
+        1630627200
+      ],
+      "term": "1.00 days"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "0xf5dc2307d9e0c26806053b1bc0c96e67f32fad91",
+  "type": "ERC721",
+  "name": "aASK test",
+  "tokenCount": "1",
+  "uri": "https://arweave.net/pJzoyUyQILilPsGPL6Y9W0RBA_tz-CuqDUXlq1V62rE",
+  "metadata": {
+    "name": "TEST SKELLY TEST KEY",
+    "created_by": "Bones",
+    "external_url": "aria.art",
+    "description": "test for aria skeleton key",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Bones"
+      }
+    ],
+    "animation_details": {
+      "bytes": 135148,
+      "format": "MP4",
+      "duration": 6,
+      "sha256": "4cf44b3fe657461d48ce7f72eeb3b46daab39b00b49854d95d2f9e0177547ae1",
+      "width": 460,
+      "height": 360,
+      "codecs": [
+        "H.264",
+        "AAC"
+      ]
+    },
+    "animation": "https://arweave.net/752Qj4dHwL0depk1ubTTmYkZr2dEFn3pMcTDuAg7dQE",
+    "animation_url": "https://arweave.net/752Qj4dHwL0depk1ubTTmYkZr2dEFn3pMcTDuAg7dQE",
+    "image_details": {
+      "bytes": 10879,
+      "format": "PNG",
+      "sha256": "73c1417df74fb24dde59313ff135ce95bd1a4a998b55501624ecf2ad94d9b2b5",
+      "width": 512,
+      "height": 512
+    },
+    "image": "https://arweave.net/gLLruEiwonDOhSwzFsUBzOhq1bz5RqJNCHKdPB6cakc",
+    "image_url": "https://arweave.net/gLLruEiwonDOhSwzFsUBzOhq1bz5RqJNCHKdPB6cakc"
+  }
+}

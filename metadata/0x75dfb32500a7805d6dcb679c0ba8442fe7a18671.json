@@ -1,0 +1,45 @@
+{
+  "address": "0x75dfb32500a7805d6dcb679c0ba8442fe7a18671",
+  "type": "ERC1155",
+  "name": "Gameshow NFT",
+  "tokenCount": "28",
+  "uri": "https://arweave.net/RdKz5MIdORfA6Wt1B2PyHmGjx7rH_iSnJ5BYy5FN80U",
+  "metadata": {
+    "name": "Gameshow Mystery Ticket",
+    "created_by": "Gameshow",
+    "external_url": "https://gameshownft.xyz/",
+    "description": "A very mysterious Gameshow ticket of unknown origin... This doesn't look like an entry ticket. \n\nWhat purpose could this ticket serve?",
+    "attributes": [
+      {
+        "trait_type": "Round",
+        "value": "0"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Mystery Ticket"
+      }
+    ],
+    "animation_details": {
+      "bytes": 6210908,
+      "format": "MP4",
+      "duration": 3,
+      "sha256": "059d9b892491709eed6651417657ca0917fa5f1b55d8c61bf9516856d72a0233",
+      "width": 1080,
+      "height": 1080,
+      "codecs": [
+        "H.264"
+      ]
+    },
+    "animation": "https://arweave.net/w7FlCplY087B-vWXeym6sbzK4WxMl5R_dzUhWt-ders",
+    "animation_url": "https://arweave.net/w7FlCplY087B-vWXeym6sbzK4WxMl5R_dzUhWt-ders",
+    "image_details": {
+      "bytes": 111865,
+      "format": "JPEG",
+      "sha256": "275f37c140efeab7e35e96ede52c35247ec112de9dbb157b74fa2317185965c1",
+      "width": 1000,
+      "height": 1000
+    },
+    "image": "https://arweave.net/vY7rI2AJRoKzBXw2Jl_T0oUTcZNIpXl2xB_vPhF3Fq4",
+    "image_url": "https://arweave.net/vY7rI2AJRoKzBXw2Jl_T0oUTcZNIpXl2xB_vPhF3Fq4"
+  }
+}

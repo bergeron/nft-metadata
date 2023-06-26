@@ -1,0 +1,40 @@
+{
+  "address": "0x83e82f96527fac7b0157e2de8bfecaaf26b6f390",
+  "type": "ERC721",
+  "name": "Cope Bears",
+  "tokenCount": "5319",
+  "uri": "ipfs://QmRHHXWp8yP1QLTwxArNTcmeEJTBemH4jLcsCvRGhjR1TD/1",
+  "metadata": {
+    "name": "Cope Bear #1",
+    "symbol": "CPBR",
+    "description": "10,000 left facing bears trying to cope.",
+    "seller_fee_basis_points": 500,
+    "image": "https://gateway.pinata.cloud/ipfs/QmRTfSf9pkWrJL34uP7XLwcPQZUznKtrrrvfzdk2K3Vgsg/1.png",
+    "external_url": "https://copebears.com/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Wry"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Pullover Windbreaker"
+      }
+    ],
+    "collection": "Cope Bears",
+    "properties": "https://gateway.pinata.cloud/ipfs/QmfLjewC2RBsrkgM3UXSZvHE24tftbUfVCvG8iPsyn3kGm/1.json",
+    "creators": "0x9F63017a0211A3531FF83064b78e8bc28874eaA2"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "address": "0x253c2cb13507eaeb97e9b5a688058c02e0f8c4b1",
+  "type": "ERC721",
+  "name": "MetaLibrary Founder Cards",
+  "tokenCount": "350",
+  "uri": "https://bookcoin.mypinata.cloud/ipfs/QmYA1E94STgMfJcWzY5QsEK713YJzpw1EXRxJpv2CKUWtp/1.json",
+  "metadata": {
+    "name": "Founder Card #1",
+    "collection": "MetaLibrary Founder Cards",
+    "version": "1.0",
+    "description": "This token grants you access to the MetaLibrary Founder’s Club.\n\n[Verify ownership for access here](https://discord.gg/rmqju4Xxdv).",
+    "image": "https://bookcoin.mypinata.cloud/ipfs/QmYN5AaH3EVP8YVR5pH17HscG8YePmWX2VrV14sTg56ARV/1.png",
+    "dna": "ddeaab8515342d741b7ecf9910f0d88e22c1e6c7",
+    "edition": 1,
+    "date": 1650147557930,
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "ISS"
+      },
+      {
+        "trait_type": "Material",
+        "value": "Crimson ETH"
+      },
+      {
+        "trait_type": "Location",
+        "value": "AUSTIN, TEXAS"
+      },
+      {
+        "trait_type": "Style",
+        "value": "MODERN"
+      },
+      {
+        "trait_type": "Literary Club",
+        "value": "DEGEN"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Founder"
+      },
+      {
+        "trait_type": "Author",
+        "value": "BookCoin"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "MetaLibrary Founder Cards"
+      }
+    ],
+    "compiler": "BookCoin Generative Art Tool"
+  }
+}

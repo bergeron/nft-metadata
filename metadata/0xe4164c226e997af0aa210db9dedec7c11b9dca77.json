@@ -1,0 +1,88 @@
+{
+  "address": "0xe4164c226e997af0aa210db9dedec7c11b9dca77",
+  "type": "ERC721",
+  "name": "Lauenstein Brothers - FACES NO. 25-50",
+  "tokenCount": "26",
+  "uri": "ipfs://QmUhWQqrgHQKCj88LhkkmrcZKx62CVNqRZaXhqAvh8uPiw",
+  "metadata": {
+    "title": "faces No. 26",
+    "name": "faces No. 26",
+    "createdAt": "2022-09-09T11:50:11.101Z",
+    "updatedAt": "2022-09-09T11:50:11.101Z",
+    "description": "50 portraits of handmade figures, who lived on the floating platform for some time, before they lost balance and fell down. Dark, surreal, and roughly built in the style of the five figures in the Oscar-winning film BALANCE.",
+    "externalLink": "",
+    "image": "https://ipfs.pinsl.com/ipfs/QmbUQRyWEY6JXUF7FV4uohnAZzTjo3cscCPA2NuhKhQp1y/dff3d9d3-2993-496e-b451-eae39c314eea.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Title",
+        "description": "faces No. 26"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Lauenstein Brothers"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2022"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Repro NFT"
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Stop-Motion"
+      },
+      {
+        "trait_type": "Classification",
+        "value": "Sculpture"
+      }
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "faces No. 26"
+      },
+      "description": {
+        "type": "string",
+        "description": "50 portraits of handmade figures, who lived on the floating platform for some time, before they lost balance and fell down. Dark, surreal, and roughly built in the style of the five figures in the Oscar-winning film BALANCE."
+      },
+      "yearOfCreation": {
+        "type": "string",
+        "description": "2021"
+      },
+      "category": {
+        "type": "string",
+        "description": "photography"
+      },
+      "type": {
+        "type": "string",
+        "description": "reproNFT"
+      },
+      "copyright": {
+        "type": "string",
+        "description": ""
+      },
+      "preview_media_file": {
+        "type": "string",
+        "description": "https://ipfs.pinsl.com/ipfs/QmbUQRyWEY6JXUF7FV4uohnAZzTjo3cscCPA2NuhKhQp1y/dff3d9d3-2993-496e-b451-eae39c314eea.jpeg"
+      },
+      "preview_media_file_type": {
+        "type": "string",
+        "description": "jpeg"
+      },
+      "created_at": {
+        "type": "datetime",
+        "description": "2022-09-09T11:50:11.101Z"
+      },
+      "total_supply": {
+        "type": "int",
+        "description": 1
+      },
+      "raw_media_file": {
+        "type": "string",
+        "description": "https://ipfs.pinsl.com/ipfs/QmbUQRyWEY6JXUF7FV4uohnAZzTjo3cscCPA2NuhKhQp1y/dff3d9d3-2993-496e-b451-eae39c314eea.jpeg?preview=1"
+      }
+    }
+  }
+}

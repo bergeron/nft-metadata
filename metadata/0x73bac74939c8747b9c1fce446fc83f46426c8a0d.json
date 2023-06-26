@@ -1,0 +1,45 @@
+{
+  "address": "0x73bac74939c8747b9c1fce446fc83f46426c8a0d",
+  "type": "ERC721",
+  "name": "Troll Rock",
+  "tokenCount": "1000",
+  "uri": "ipfs://QmYV62XUan6dQv7xxJM1skcbttmb2xSDPhbdzUGtLZo2Uv/1.json",
+  "metadata": {
+    "name": "Troll Rock #1",
+    "description": "Troll Rock About To Take Over",
+    "image": "ipfs://QmRcnkzSKKYzzorziASTVcjLJ6q8H3Pob3m9NdsMaSss47/1.png",
+    "dna": "f7a668264cd3fe6e514733b90b086e32cfaeb38c",
+    "edition": 1,
+    "date": 1654702501017,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "1"
+      },
+      {
+        "trait_type": "Rock lining",
+        "value": "6"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose 3"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "5"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "4"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "0x2de2d8adae2d1ff38c8806b60f3ddcfcdcf626ff",
+  "type": "ERC721",
+  "name": "Unidentified contract",
+  "tokenCount": "1",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmRjwXxS94SBf6bXCW8eesyMF4fL1uyFoMV4LE3uDb47yg",
+  "metadata": {
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "CryptoStar #1"
+      },
+      "description": {
+        "type": "string",
+        "description": "Unique digital star from the 100 original crypto stars at 100cryptostars.com"
+      },
+      "image": {
+        "type": "string",
+        "description": "https://gateway.pinata.cloud/ipfs/QmTnHTajrN56vHBWLnoMFn8oihbbG28vtewVbcA5ezgBFS"
+      }
+    },
+    "name": "CryptoStar #1",
+    "description": "Unique digital star from the 100 original crypto stars at 100cryptostars.com",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTnHTajrN56vHBWLnoMFn8oihbbG28vtewVbcA5ezgBFS",
+    "external_url": "https://100cryptostars.com/?star=1",
+    "attributes": [
+      {
+        "trait_type": "Star layers",
+        "value": 9
+      },
+      {
+        "star_dust": 958858
+      }
+    ]
+  }
+}

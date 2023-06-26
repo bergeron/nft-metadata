@@ -1,0 +1,64 @@
+{
+  "address": "0x5d3a537ef61525e4f20c6e0732f88167668c54b3",
+  "type": "ERC721",
+  "name": "dooMfers",
+  "tokenCount": "176",
+  "uri": "ipfs://Qmdyd5ZmZvZ3YaePM3NoPK5i3R3RNr3d56Dtkew7jmWdmj/1.json",
+  "metadata": {
+    "name": "dooMfer #1",
+    "description": "dooMfers is a collection of 10 000 randomly generated 32px PFP, inspired by Mfers with Doodle's color palette. ",
+    "external_url": "",
+    "image": "ipfs://QmPbUPNKJY5qrv4BMmDVSFdJMENQ2mMNiRfddhAKJx6KYf/1.webp",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Plain mfer"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Purple shades"
+      },
+      {
+        "trait_type": "Smile",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Collared shirt white"
+      },
+      {
+        "trait_type": "Headphones",
+        "value": "Gold headphones"
+      },
+      {
+        "trait_type": "Smoke",
+        "value": "Cig black"
+      },
+      {
+        "trait_type": "4:20 watch",
+        "value": "Oyster silver"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.webp",
+          "type": "image/webp"
+        }
+      ],
+      "creators": []
+    },
+    "compiler": "https://nft-generator.art",
+    "animation_url": "",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "dooMfer",
+      "family": "dooMfer"
+    },
+    "symbol": ""
+  }
+}

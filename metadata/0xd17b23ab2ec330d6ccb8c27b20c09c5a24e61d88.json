@@ -1,0 +1,38 @@
+{
+  "address": "0xd17b23ab2ec330d6ccb8c27b20c09c5a24e61d88",
+  "type": "ERC721",
+  "name": "Red Panda NFT",
+  "tokenCount": "1",
+  "uri": "https://econft.market/service/panda_meta.php?id=1",
+  "metadata": {
+    "name": "Sapiens Red Panda",
+    "description": "Sapiens Red Panda",
+    "fee_recipient": "",
+    "seller_fee_basis_points": 250,
+    "image": "https://econft.market/nft-meta/panda/1.png",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Bg",
+        "value": "03"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Ch02 4"
+      },
+      {
+        "trait_type": "Cap",
+        "value": "모자03"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "눈02"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "입02"
+      }
+    ],
+    "hash": "8314f3889b70e2f3aa43e76cd1b5a54e"
+  }
+}

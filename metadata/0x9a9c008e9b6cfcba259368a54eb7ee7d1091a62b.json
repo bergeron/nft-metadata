@@ -1,0 +1,38 @@
+{
+  "address": "0x9a9c008e9b6cfcba259368a54eb7ee7d1091a62b",
+  "type": "ERC1155",
+  "name": "Tokens From The Yacht Club",
+  "tokenCount": "8",
+  "uri": "ipfs://QmPAGC9hb8QFFzbsAkn2FJSuLvvUTktgEoYwH421bNp8SE/1.json",
+  "metadata": {
+    "name": "Pump-A-Mentals",
+    "description": "Use your degen prowess to affect how often $LZYC pumps are generated in-game.",
+    "external_url": "https://www.lazydegen.com/",
+    "image": "ipfs://Qmc1iA4yjLn2gGfLM5jLNUirX8r6AXMYsUnFYW5UVJyWZb/pumpamentals.jpg",
+    "attributes": [
+      {
+        "trait_type": "Pumpamentals",
+        "value": "Use your Lazy Degen prowess to increase the Lazy Club pump by magnitudes"
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Pump generation",
+        "value": 0.75
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Max Per Round",
+        "value": 5
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Potential Increase",
+        "value": 3.75
+      },
+      {
+        "trait_type": "In-Game Asset",
+        "value": "Tokens From The Yacht Club (TFYC)"
+      }
+    ]
+  }
+}

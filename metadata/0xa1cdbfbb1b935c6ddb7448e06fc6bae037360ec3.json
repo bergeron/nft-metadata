@@ -1,0 +1,39 @@
+{
+  "address": "0xa1cdbfbb1b935c6ddb7448e06fc6bae037360ec3",
+  "type": "ERC721",
+  "name": "ADTLtest",
+  "tokenCount": "2",
+  "uri": "https://metadata.async.art/t/0xa1cdbfbb1b935c6ddb7448e06fc6bae037360ec3/1/token.json",
+  "metadata": {
+    "name": "Tester #1",
+    "description": "A tester",
+    "image": "https://asynchronous-art-inc-res.cloudinary.com/image/upload/w_1200/v1665581109/editionRenders/03e53338a2fc8ef1602cdedada332507.jpg",
+    "external_url": "https://async.market/blueprints/6346c014669267cdd3707e25/editions/0xa1cdbfbb1b935c6ddb7448e06fc6bae037360ec3-1",
+    "attributes": [
+      {
+        "trait_type": "Asset Type",
+        "value": "Edition"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Bevòn"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "ADTL tester"
+      },
+      {
+        "trait_type": "background",
+        "value": "Sun"
+      },
+      {
+        "trait_type": "bottom word",
+        "value": "Dem"
+      },
+      {
+        "trait_type": "Middle word",
+        "value": "Riparian"
+      }
+    ]
+  }
+}

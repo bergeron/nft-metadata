@@ -1,0 +1,67 @@
+{
+  "address": "0xc5eb0d6af9506b9860c6487b81cd66b8f6e1900f",
+  "type": "ERC1155",
+  "name": "FraktalNFTArt Blocks V4",
+  "tokenCount": "2",
+  "uri": "https://api.artblocks.io/token/56000086",
+  "metadata": {
+    "platform": "Art Blocks Presents",
+    "tokenID": "56000086",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "Aurora IV #86",
+    "minted": true,
+    "artist": "ge1doot",
+    "description": "So many worlds to wander through until we find one we can call our home.",
+    "script_type": "js@na",
+    "project_id": "56",
+    "curation_status": "presents",
+    "heritage_curation_status": "playground",
+    "image": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/56000086.png",
+    "preview_asset_url": "https://media-proxy.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/56000086.png",
+    "generator_url": "https://generator.artblocks.io/56000086",
+    "animation_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/56000086",
+    "royaltyInfo": {
+      "artistAddress": "0x3f870d006185cb649c3261013fd86cc89b762f1e",
+      "additionalPayee": "0x0000000000000000000000000000000000000000",
+      "additionalPayeePercentage": "0",
+      "royaltyFeeByID": "0"
+    },
+    "collection_name": "Aurora IV by ge1doot",
+    "website": "https://twitter.com/ge1doot",
+    "token_hash": "0x1f10c2331032b8484f30616dcdc45af6e82f61e1e07292fffd548dc95eb39877",
+    "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/56/tokens/56000086",
+    "primary_asset_url": "https://generator.artblocks.io/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/56000086",
+    "features": {
+      "mode": "day",
+      "color": "hue 0",
+      "model": "station",
+      "rotation": "clockwise"
+    },
+    "traits": [
+      {
+        "trait_type": "Aurora IV",
+        "value": "All Aurora IVs"
+      },
+      {
+        "trait_type": "Aurora IV",
+        "value": "mode: day"
+      },
+      {
+        "trait_type": "Aurora IV",
+        "value": "color: hue 0"
+      },
+      {
+        "trait_type": "Aurora IV",
+        "value": "model: station"
+      },
+      {
+        "trait_type": "Aurora IV",
+        "value": "rotation: clockwise"
+      }
+    ],
+    "is_static": false,
+    "license": "NIFTY License"
+  }
+}
