@@ -13,7 +13,7 @@ if (cluster.isPrimary) {
 }
 
 (async function main() {
-    const web3 = new Web3(new Web3.providers.HttpProvider("https://cloudflare-eth.com"));
+    const web3 = new Web3(new Web3.providers.HttpProvider(process.env.ETH_RPC));
 
     const erc721Abi = [{
         "name": "tokenURI", "type": "function", "stateMutability": "view",
